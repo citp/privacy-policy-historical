@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the reallygoodstuff.com privacy policy that was archived on 2014-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140611081507id_/http%3A//www.reallygoodstuff.com/privacy/a/Customer_Service_Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reallygoodstuff.com privacy policy that was archived on 2014-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141127064450id_/http%3A//www.reallygoodstuff.com/privacy/a/Customer_Service_Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head1"><base href="http://www.reallygoodstuff.com/"><title>
 	Privacy
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/420464593066451562/bc.vms4/vms.js"></script><script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=bWWgdJwIwBVe&amp;v=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"6449da4dea","applicationID":"3745587","transactionName":"bldSYUZQVkZVBUENClcdcWZkHllHQA9WCAAXU0NFTA==","queueTime":0,"applicationTime":26,"ttGuid":"B1CA19C183ADF6E5","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgADWF9QGwAHUFRXDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="-1"><meta name="Author" content="Kalio"><meta name="rating" content="general"><meta name="resource-type" content="document"><meta name="language" content="en-us"><meta name="distribution" content="Global"><meta name="google-site-verification" content="A2VRC6YZIpS3vFtspl2V4rRfpPeZvLI1s14T7EfBFDI"><meta name="p:domain_verify" content="e4de94d8a3b7bd84010d313ae38681d3">
-<script src="Javascript/jquery.js" type="text/javascript" language="JavaScript"></script>
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="-1"><meta name="Author" content="Kalio"><meta name="rating" content="general"><meta name="resource-type" content="document"><meta name="language" content="en-us"><meta name="distribution" content="Global"><meta name="google-site-verification" content="A2VRC6YZIpS3vFtspl2V4rRfpPeZvLI1s14T7EfBFDI"><meta name="p:domain_verify" content="e4de94d8a3b7bd84010d313ae38681d3">
+<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/420464593066451562/bc.vms4/vms.js"></script><script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=bWWgdJwIwBVe&amp;v=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="Javascript/jquery.js" type="text/javascript" language="JavaScript"></script>
 <script src="Javascript/jquery-ui.js" type="text/javascript" language="JavaScript"></script>
 <script src="Javascript/jquery-plugins.js" type="text/javascript" language="JavaScript"></script>
 <script src="Javascript/magiczoomplus.js" type="text/javascript" language="JavaScript"></script>
@@ -16,12 +16,12 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="Styles/master.css">
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="Styles/ie6.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="../../../Styles/master.css">
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="../../../Styles/ie6.css" /><![endif]-->
 <link rel="shortcut icon" href="http://cdnll.reallygoodstuff.com/images/art/favicon.ico">
 
 
-  <link rel="stylesheet" type="text/css" href="Styles/DmiAjax.css">
+  <link rel="stylesheet" type="text/css" href="../../../Styles/DmiAjax.css">
   <script type="text/javascript" src="JavaScript/yui_yahoo-dom-event.js"></script>
   <script type="text/javascript" src="JavaScript/yui_animation-min.js"></script>
   <script type="text/javascript" src="JavaScript/yui_connection-min.js"></script>
@@ -32,9 +32,10 @@
 <link rel="canonical" href="http://www.reallygoodstuff.com/privacy/a/Customer_Service_Privacy/"><script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(["_setAccount", "UA-32011-4"]);  _gaq.push(["_setDomainName", "reallygoodstuff.com"]);  _gaq.push(["_trackPageview"]);  (function() {    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);  })();</script><meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="keywords" content="Privacy"><meta name="description" content="Privacy"></head>
 
 <body>
-<form name="form1" method="post" action="article.aspx?a=Customer_Service_Privacy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjA3MzMyNzAyZGTxJo/X87CdkXPY3glVPYWHriPeyg==">
-</form>
+<form method="post" action="?a=Customer_Service_Privacy" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjA3MzMyNzAyZGSYQFRlkVKnZU6osv3tWPvfMDf6ZMI0IIH/HvDJs0tKNw==">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2173C2F0"></form>
 
   <div id="DmiAjaxDiv" style="width: 0px; height:0px; display: none;"></div>
 
@@ -75,8 +76,13 @@
 
 
 
+
+
+
+
 <div id="page-article">
      
+
 
 
 
@@ -88,23 +94,29 @@
 <div id="sitetools-left">
     <ul>
         <li class="TeachersLounge">
-            <a href="http://blog.reallygoodstuff.com/" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/icon-blog.png" width="15" height="15" alt="The Teachers' Lounge"> The Teachers' Lounge Blog</a>
+            <a href="http://blog.reallygoodstuff.com/" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/blog-icon.png" width="15" height="15" alt="The Teachers' Lounge"> The Teachers' Lounge Blog</a>
         </li>
 
         <li class="facebook">
-            <a href="http://www.facebook.com/pages/Really-Good-Stuff/74881490378" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/icon-facebook.png" width="15" height="15" alt="Like us on Facebook"></a>
+            <a href="http://www.facebook.com/pages/Really-Good-Stuff/74881490378" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/facebook-icon.png" width="15" height="15" alt="Like us on Facebook"></a>
         </li>
         
         <li class="twitter">
-            <a href="http://twitter.com/reallygoodstuff" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/icon-twitter.png" width="15" height="15" alt="Follow us on Twitter"></a>
+            <a href="http://twitter.com/reallygoodstuff" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/twitter-icon.png" width="15" height="15" alt="Follow us on Twitter"></a>
         </li>
         
-        <li class="youtube">
-            <a href="http://www.youtube.com/user/ReallyGoodStuffInc" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/icon-youtube.png" width="15" height="15" alt="Visit us on You Tube"></a>
-        </li>
+       
     
         <li class="pinterest">
-            <a href="http://www.pinterest.com/reallygoodstuff" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/icon-pinterest.png" width="15" height="15" alt="Pin It"></a>
+            <a href="http://www.pinterest.com/reallygoodstuff" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/pinterest-icon.png" width="15" height="15" alt="Pin It"></a>
+        </li>
+        
+        <li class="linkedin">
+            <a href="https://www.linkedin.com/company/really-good-stuff-inc." target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/linkedin-icon.png" width="15" height="15" alt="Linkedin"></a>
+        </li>
+        
+        <li class="reallygoodteachers">
+            <a href="http://goo.gl/4m6PYA" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/reallygoodteachers-icon.png" width="15" height="15" alt="Really Good Teachers"></a>
         </li>
     </ul>
 </div> 
@@ -121,12 +133,18 @@
             	<li>
                   <a href="http://www.reallygoodstuff.com/customer_service/a/customer_service/" onclick="_gaq.push(['_trackEvent', 'Top', 'clicked', 'T4: CustServ']);">Customer Service</a>
                 </li>
+                <li>
+                  <a href="http://www.reallygoodstuff.com/quickorder.aspx" onclick="_gaq.push(['_trackEvent', 'Top', 'clicked', 'T5: Quick Order']);">Quick Order</a>
+                </li>
+
+              
             	<li class="phone">(800) 366-1920</li>
                 
             </ul>
         </div> <!-- site-tools -->
     </div> <!-- wrapper -->
 </div> <!-- header-tools-top -->
+ 
 
 <div class="wrapper">  
 
@@ -177,16 +195,18 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
 
 </div>
         </div>
+		
         <div class="header-banner">
 	        <div class="promo-banner">
 	            
 	            
 	                
-	                    <a href="/EZ Pay/a/EZ Pay/">  <img src="/images/art/hd_np_ezpay.jpg"> </a>
+	                    <a href="/outlet-outlet/c/Z1/">  <img src="/images/art/hd_np_bf2014.gif"> </a>
 	                
 	            
 	        </div>
         </div>
+		
         <div id="header-cart">        
             
             <div class="cart-items-empty">
@@ -248,7 +268,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                             
                                                 <li>
                                                     
-                                                            <a href="http://www.reallygoodstuff.com/corrugated-classroom-keepers/c/C2A/">Corrugated Classroom Keepers®</a>
+                                                            <a href="http://www.reallygoodstuff.com/corrugated-storage/c/C2A/">Corrugated Storage</a>
                                                         
 
                                                     
@@ -260,7 +280,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                             
                                 <li>
                                     
-                                            <a href="http://www.reallygoodstuff.com/carts-easels/c/C9/">Carts &amp; Easels</a>
+                                            <a href="http://www.reallygoodstuff.com/carts/c/C9/">Carts</a>
                                         
                                     
                                     
@@ -277,6 +297,14 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                 <li>
                                     
                                             <a href="http://www.reallygoodstuff.com/classroom-mailboxes/c/C12/">Classroom Mailboxes</a>
+                                        
+                                    
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                            <a href="http://www.reallygoodstuff.com/easels/c/C14/">Easels</a>
                                         
                                     
                                     
@@ -403,8 +431,8 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                 </div><!-- mega-subcats-wrap -->
                 <div class="mega-promos">
                     
-                            <a class="mega-promo-one" href="/plastic-baskets/c/C7/ostout1">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_bookbaskets.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-one" href="/universal-label-holder-label-and-acetate-refill/a/Labels_For_Free/ostout1">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_labels4free.jpg" width="200" height="200" border="0"></a>
                         
 
                     
@@ -704,7 +732,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                             
                                                 <li>
                                                     
-                                                            <a href="http://www.reallygoodstuff.com/mix-match-pencils/c/E12E/">Mix &amp; Match Standard Pencils</a>
+                                                            <a href="http://www.reallygoodstuff.com/mix-and-match-pencils/c/E12E/">Mix &amp; Match Standard Pencils</a>
                                                         
 
                                                     
@@ -712,7 +740,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                             
                                                 <li>
                                                     
-                                                            <a href="http://www.reallygoodstuff.com/mix-and-match-sharpened-pencils/c/E12F/">Mix &amp; Match Sharpened Pencils</a>
+                                                            <a href="http://www.reallygoodstuff.com/mix-and-match-sharpened-pencils/c/E12F/">Mix&amp;Match Sharpened Pencils</a>
                                                         
 
                                                     
@@ -723,6 +751,22 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                                             <a href="http://www.reallygoodstuff.com/grips-toppers-erasers/c/E12B/">Pencil Accessories</a>
                                                         
 
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/erasers/c/E12G/">Erasers</a>
+                                                        
+
+                                                    
+                                                        <ul>
+                                                            
+                                                                <li>
+                                                                    <a href="http://www.reallygoodstuff.com/mix-and-match-pencil-topper-erasers/c/E12G1/">Mix &amp; Match Pencil Topper Erasers</a>
+                                                                </li>
+                                                            
+                                                         </ul>
                                                     
                                                 </li>
                                             
@@ -923,13 +967,13 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                 </div><!-- mega-subcats-wrap -->
                 <div class="mega-promos">
                     
-                            <a class="mega-promo-one" href="/desktop-helpers-name-plates/c/E2/tstout1">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_desktophelpers.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-one" href="/magnetic-dry-erase-whiteboards/c/E4/tstout1">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_dryerase_141103.jpg" width="200" height="200" border="0"></a>
                         
 
                     
-                            <a class="mega-promo-two" href="/magnetic-dry-erase-whiteboards/c/E4/tstout2">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_DryErase0513.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-two" href="/privacy-shields/c/E13/tstout2">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_154388.jpg" width="200" height="200" border="0"></a>
                         
                 </div>
             </div> <!-- mega-box-bottom -->
@@ -1016,6 +1060,14 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                                 <li>
                                                     
                                                             <a href="http://www.reallygoodstuff.com/birthdays-bulletin-board/c/F3E/">Birthdays</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/black-and-white/c/F3R/">Black and White</a>
                                                         
 
                                                     
@@ -1163,7 +1215,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                             
                                 <li>
                                     
-                                            <a href="http://www.reallygoodstuff.com/peanutsreg/c/F9/">Peanuts®</a>
+                                            <a href="http://www.reallygoodstuff.com/peanuts/c/F9/">Peanuts®</a>
                                         
                                     
                                     
@@ -1198,13 +1250,13 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                 </div><!-- mega-subcats-wrap -->
                 <div class="mega-promos">
                     
-                            <a class="mega-promo-one" href="/black-and-white-decor/c/j24/bbtout1">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_BlkWht0513.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-one" href="/celebrations-themes/c/F3/bbtout1/">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_peanutsholiday_141103.gif" width="200" height="200" border="0"></a>
                         
 
                     
-                            <a class="mega-promo-two" href="/chevron/c/J19/cttout1/ ">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_chevrons0512.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-two" href="/chevron/c/F3C/bbtout2/">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_falltrimmers_141006.gif" width="200" height="200" border="0"></a>
                         
                 </div>
             </div> <!-- mega-box-bottom -->
@@ -1234,7 +1286,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                             
                                 <li>
                                     
-                                            <a href="http://www.reallygoodstuff.com/g-and-a-early-learning/c/B12/">Early Learning</a>
+                                            <a href="http://www.reallygoodstuff.com/early-learning/c/B12/">Early Learning</a>
                                         
                                     
                                     
@@ -1308,6 +1360,22 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                                     
                                                 </li>
                                             
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/mix-and-match-foundational-skills-literacy-centers/c/B10F/">Mix &amp; Match Foundational Skills Literacy Centers</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/mix-and-match-comprehension-literacy-centers/c/B10E/">Mix &amp; Match Comprehension Literacy Centers</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
                                         </ul>
                                     
                                 </li>
@@ -1357,13 +1425,13 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                 </div><!-- mega-subcats-wrap -->
                 <div class="mega-promos">
                     
-                            <a class="mega-promo-one" href="/celebration-activities/c/B9/gatout1">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_rtdstar.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-one" href="/reading-activities/c/B8/gatout1">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_elafun_141103.jpg" width="200" height="200" border="0"></a>
                         
 
                     
                             <a class="mega-promo-two" href="/math-activities/c/B7/gatout2">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_mathfacts.jpg" width="200" height="200" border="0"></a>
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_mathflashcards.jpg" width="200" height="200" border="0"></a>
                         
                 </div>
             </div> <!-- mega-box-bottom -->
@@ -1708,13 +1776,13 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                 </div><!-- mega-subcats-wrap -->
                 <div class="mega-promos">
                     
-                            <a class="mega-promo-one" href="/teacher-resources/c/A2/bmtout1">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_kidspoems.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-one" href="/text-sets/c/A99/bmtout1">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_aroundtheworld_141103.jpg" width="200" height="200" border="0"></a>
                         
 
                     
-                            <a class="mega-promo-two" href="/text-sets/c/A99/bmtout2">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_timeforkids.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-two" href="/informational-text-student/c/A3/bmtout2">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_8bookset_141006.jpg" width="200" height="200" border="0"></a>
                         
                 </div>
             </div> <!-- mega-box-bottom -->
@@ -1826,14 +1894,6 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                                     
                                                 </li>
                                             
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/debbie-diller-designs/c/H11B/">Debbie Diller Designs™</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
                                         </ul>
                                     
                                 </li>
@@ -1884,12 +1944,12 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                 <div class="mega-promos">
                     
                             <a class="mega-promo-one" href="/pocket-charts/c/H3/tmttout1">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_wordweb.jpg" width="200" height="200" border="0"></a>
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_pocketchartday.jpg" width="200" height="200" border="0"></a>
                         
 
                     
-                            <a class="mega-promo-two" href="/behavior-management/c/H8/tmttout2">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_BehaviorManagement0513.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-two" href="/classroom-rewards-incentives/c/H6/tmttout2">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_starstickers_141103.gif" width="200" height="200" border="0"></a>
                         
                 </div>
             </div> <!-- mega-box-bottom -->
@@ -1908,6 +1968,26 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                 <div class="mega-subcats-wrap">
                     <div class="mega-subcats-list">
                         <ul class="mega-subcats">
+                            
+                                <li>
+                                    
+                                            <a href="http://www.reallygoodstuff.com/100th-day/c/J8/">100th Day</a>
+                                        
+                                    
+                                    
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/counting-to-100th-day/c/J8A/">Counting To 100th Day</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                        </ul>
+                                    
+                                </li>
                             
                                 <li>
                                     
@@ -1935,7 +2015,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                             
                                 <li>
                                     
-                                            <a href="http://www.reallygoodstuff.com/black-and-white-decor/c/J24/">Black and White</a>
+                                            <a href="http://www.reallygoodstuff.com/black-and-white-decor/c/J24/">Black &amp; White</a>
                                         
                                     
                                     
@@ -1995,6 +2075,14 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                             
                                 <li>
                                     
+                                            <a href="http://www.reallygoodstuff.com/welcome-backfirst-day/c/J11/">First Day/Welcome Back</a>
+                                        
+                                    
+                                    
+                                </li>
+                            
+                                <li>
+                                    
                                             <a href="http://www.reallygoodstuff.com/graduation-and-end-of-year/c/J12/">Graduation &amp; End Of Year</a>
                                         
                                     
@@ -2006,26 +2094,6 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                             <a href="http://www.reallygoodstuff.com/misc-themes/c/J25/">Misc. Themes</a>
                                         
                                     
-                                    
-                                </li>
-                            
-                                <li>
-                                    
-                                            <a href="http://www.reallygoodstuff.com/100th-day/c/J8/">One Hundredth Day</a>
-                                        
-                                    
-                                    
-                                        <ul>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/counting-to-100th-day/c/J8A/">Counting To 100th Day</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                        </ul>
                                     
                                 </li>
                             
@@ -2063,7 +2131,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                             
                                                 <li>
                                                     
-                                                            <a href="http://www.reallygoodstuff.com/bold-n-bright/c/J16C/">Bold n' Bright</a>
+                                                            <a href="http://www.reallygoodstuff.com/bold-n-bright/c/J16C/">Bold N' Bright</a>
                                                         
 
                                                     
@@ -2071,7 +2139,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                             
                                                 <li>
                                                     
-                                                            <a href="http://www.reallygoodstuff.com/dots-on-black/c/J16A/">Dots on Black</a>
+                                                            <a href="http://www.reallygoodstuff.com/dots-on-black/c/J16A/">Dots On Black</a>
                                                         
 
                                                     
@@ -2079,15 +2147,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                             
                                                 <li>
                                                     
-                                                            <a href="http://www.reallygoodstuff.com/dots-on-chocolate/c/J16B/">Dots on Chocolate</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/dots-on-turquoise/c/J16D/">Dots on Turquoise</a>
+                                                            <a href="http://www.reallygoodstuff.com/dots-on-turquoise/c/J16D/">Dots On Turquoise</a>
                                                         
 
                                                     
@@ -2155,14 +2215,6 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                             
                                 <li>
                                     
-                                            <a href="http://www.reallygoodstuff.com/welcome-backfirst-day/c/J11/">Welcome Back/First Day</a>
-                                        
-                                    
-                                    
-                                </li>
-                            
-                                <li>
-                                    
                                             <a href="http://www.reallygoodstuff.com/winter/c/J1/">Winter</a>
                                         
                                     
@@ -2203,12 +2255,12 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                 <div class="mega-promos">
                     
                             <a class="mega-promo-one" href="/chevron/c/j19/cttout1">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_chevron.jpg" width="200" height="200" border="0"></a>
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_redchevron_140902.jpg" width="200" height="200" border="0"></a>
                         
 
                     
-                            <a class="mega-promo-two" href="/paisley/c/j20/cttout2">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_PaisleyFolder0513.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-two" href="/winter/c/J1/cttout2">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_winterdecor_141103.jpg" width="200" height="200" border="0"></a>
                         
                 </div>
             </div> <!-- mega-box-bottom -->
@@ -2230,14 +2282,6 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                             
                                 <li>
                                     
-                                            <a href="http://www.reallygoodstuff.com/ell-spanish-and-bilingual/c/G4/">ELL, Spanish &amp; Bilingual</a>
-                                        
-                                    
-                                    
-                                </li>
-                            
-                                <li>
-                                    
                                             <a href="http://www.reallygoodstuff.com/english-language-arts/c/G6/">English Language Arts</a>
                                         
                                     
@@ -2253,7 +2297,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                                         <ul>
                                                             
                                                                 <li>
-                                                                    <a href="http://www.reallygoodstuff.com/phonics-and-word-recognition-lit-found-skills-ela/c/G6A1/">Phonics &amp; Word Recognition</a>
+                                                                    <a class="selected" href="http://www.reallygoodstuff.com/phonics-and-word-recognition-lit-found-skills-ela/c/G6A1/">Phonics &amp; Word Recognition</a>
                                                                 </li>
                                                             
                                                                 <li>
@@ -2348,39 +2392,47 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                                     
                                                 </li>
                                             
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                            <a href="http://www.reallygoodstuff.com/social-studies/c/G3/">Social Studies</a>
+                                        
+                                    
+                                    
+                                        <ul>
+                                            
                                                 <li>
                                                     
-                                                            <span class="noclick">Literacy Shops</span>
+                                                            <a href="http://www.reallygoodstuff.com/government/c/G3A/">Government</a>
                                                         
 
                                                     
-                                                        <ul>
-                                                            
-                                                                <li>
-                                                                    <a href="http://www.reallygoodstuff.com/literacy-centers-ls/c/G6F1/">Literacy Centers</a>
-                                                                </li>
-                                                            
-                                                                <li>
-                                                                    <a href="http://www.reallygoodstuff.com/ezread-ls/c/G6F2/">EZread™</a>
-                                                                </li>
-                                                            
-                                                                <li>
-                                                                    <a href="http://www.reallygoodstuff.com/essential-word-sorts-ls-ela/c/G6F3/">Essential Word Sorts™</a>
-                                                                </li>
-                                                            
-                                                                <li>
-                                                                    <a href="http://www.reallygoodstuff.com/essential-picture-sorts-ls-ela/c/G6F4/">Essential Picture Sorts™</a>
-                                                                </li>
-                                                            
-                                                                <li>
-                                                                    <a href="http://www.reallygoodstuff.com/ezc-ls-ela/c/G6F5/">E.Z.C.</a>
-                                                                </li>
-                                                            
-                                                                <li>
-                                                                    <a href="http://www.reallygoodstuff.com/debbie-diller-ls-ela/c/G6F6/">Debbie Diller Designs™</a>
-                                                                </li>
-                                                            
-                                                         </ul>
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/history/c/G3B/">History</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/geography/c/G3C/">Geography</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/cultures-community/c/G3E/">Cultures &amp; Community</a>
+                                                        
+
                                                     
                                                 </li>
                                             
@@ -2494,94 +2546,6 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                             
                                 <li>
                                     
-                                            <a href="http://www.reallygoodstuff.com/early-childhood/c/G5/">Pre-K</a>
-                                        
-                                    
-                                    
-                                        <ul>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/early-learning-activities/c/G5A/">Early Learning Activities</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/print-concepts/c/G5C/">Early Literacy</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/early-math/c/G5G/">Early Math</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                        </ul>
-                                    
-                                </li>
-                            
-                                <li>
-                                    
-                                            <a href="http://www.reallygoodstuff.com/social-studies/c/G3/">Social Studies</a>
-                                        
-                                    
-                                    
-                                        <ul>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/government/c/G3A/">Government</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/history/c/G3B/">History</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/geography/c/G3C/">Geography</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/intermediate-social-studies/c/G3D/">Intermediate Social Studies</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                                <li>
-                                                    
-                                                            <a href="http://www.reallygoodstuff.com/cultures-community/c/G3E/">Cultures &amp; Community</a>
-                                                        
-
-                                                    
-                                                </li>
-                                            
-                                        </ul>
-                                    
-                                </li>
-                            
-                                <li>
-                                    
                                             <a href="http://www.reallygoodstuff.com/science/c/G2/">Science</a>
                                         
                                     
@@ -2624,18 +2588,62 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                     
                                 </li>
                             
+                                <li>
+                                    
+                                            <a href="http://www.reallygoodstuff.com/early-childhood/c/G5/">Pre-K</a>
+                                        
+                                    
+                                    
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/early-learning-activities/c/G5A/">Early Learning Activities</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/print-concepts/c/G5C/">Early Literacy</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/early-math/c/G5G/">Early Math</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                            <a href="http://www.reallygoodstuff.com/ell-spanish-and-bilingual/c/G4/">ELL, Spanish &amp; Bilingual</a>
+                                        
+                                    
+                                    
+                                </li>
+                            
                         </ul>
                     </div> <!-- end .mega-subcats-list -->
                 </div><!-- mega-subcats-wrap -->
                 <div class="mega-promos">
                     
-                            <a class="mega-promo-one" href="/place-value/c/G1B1/sbstout1">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_placevalue.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-one" href="/counting/c/G1B2/sbstout1">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_TenFrameMagnetic.jpg" width="200" height="200" border="0"></a>
                         
 
                     
-                            <a class="mega-promo-two" href="/sight-words-lfs-ela/c/G6A5/sbstout2">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_wordsight042114.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-two" href="/process-and-production-writing-ela/c/G6E2/sbstout2">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_writingfolder_141103.gif" width="200" height="200" border="0"></a>
                         
                 </div>
             </div> <!-- mega-box-bottom -->
@@ -2645,7 +2653,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
     
 
     <li class="dropdown-trigger cat-K">
-        <a href="http://www.reallygoodstuff.com/shop-by-common-core/c/K/">Shop By Common Core</a>
+        <a href="http://www.reallygoodstuff.com/shop-by-standards/c/K/">Shop by Standards</a>
 
         
         <div class="mega-box rounded-bottom drop-shadow"> 
@@ -2893,6 +2901,66 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                                         
                                     
                                     
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/grade-k-ccss-resources/c/K3A/">Kindergarten CCSS Resources</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/grade-1-ccss-resources/c/K3B/">1st Grade CCSS Resources</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/grade-2-ccss-resources/c/K3C/">2nd Grade CCSS Resources</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/grade-3-ccss-resources/c/K3D/">3rd Grade CCSS Resources</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/grade-4-ccss-resources/c/K3E/">4th Grade CCSS Resources</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/grade-5-ccss-resources/c/K3F/">5th Grade CCSS Resources</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.reallygoodstuff.com/grades-6-to-8-ccss-resources/c/K3G/">6th-8th Grade CCSS Resources</a>
+                                                        
+
+                                                    
+                                                </li>
+                                            
+                                        </ul>
+                                    
                                 </li>
                             
                         </ul>
@@ -2900,13 +2968,13 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
                 </div><!-- mega-subcats-wrap -->
                 <div class="mega-promos">
                     
-                            <a class="mega-promo-one" href="/shop-by-common-core/c/K/cctout1">
+                            <a class="mega-promo-one" href="/shop-by-standards/c/K/cctout1">
                             <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_standardsmatch.gif" width="200" height="200" border="0"></a>
                         
 
                     
-                            <a class="mega-promo-two" href="/addition-and-subtraction/c/G1A1/cctout2">
-                            <img src="http://cdnll.reallygoodstuff.com/images/art//hd_mp_tenframe.jpg" width="200" height="200" border="0"></a>
+                            <a class="mega-promo-two" href="/ccss-resources/c/K3/cctout2">
+                            <img src="http://cdnll.reallygoodstuff.com/images/art/hd_mp_targetsccss_141103.gif" width="200" height="200" border="0"></a>
                         
                 </div>
             </div> <!-- mega-box-bottom -->
@@ -3026,13 +3094,16 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
     </div><!-- end #nav-main -->
 
 
-<!-- Spot for text, banners or special messages -->
- <!-- 
- <div style="margin-top: 5px; margin-bottom: 5px;" align="center"> 
-  <span style="font-family: arial; font-size: 14px; color: #D31;"><b>Due to year-end inventory, orders will not ship between Dec. 3-11, 2013. We will resume shipping on December 12th.</b></span>
-  </div> 
-  End --> 
+<!-- 
 
+<div id="shipping_note" style="margin-top: 5px; margin-bottom: 5px; display: none;" align="center">
+  <span style="font-family: arial; font-size: 14px; color: #D31;"><b>We are in the process of finishing our year end inventory, and will be shipping orders received this week on November 24th.</b></span>
+
+</div>
+
+-->
+
+     
 
 
  <div id="nav-secondary">
@@ -3049,7 +3120,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
      <!-- <li><a href="http://www.reallygoodstuff.com/quickorder.aspx">Catalog Quick Order</a></li> -->
 
    <li>
-     <a href="http://www.reallygoodstuff.com/whats-new/c/y/" onclick="_gaq.push(['_trackEvent', 'SubNav', 'clicked', 'SN4: What's New']);">What's New</a>
+     <a href="http://www.reallygoodstuff.com/whats-new/c/y/" onclick="_gaq.push(['_trackEvent', 'SubNav', 'clicked', 'SN4: Whats New']);">What's New</a>
 
 </li><li>
      <a href="http://www.reallygoodstuff.com/web-only/c/x/" onclick="_gaq.push(['_trackEvent', 'SubNav', 'clicked', 'SN7: WebExclusives']);">Web Exclusives </a>
@@ -3058,7 +3129,7 @@ jQuery(window).load(function(){window.sliAutocomplete.input.opts.base = sliJsHos
 
    
    <li>
-     <a href="http://www.reallygoodstuff.com/EZ Pay/a/EZ Pay/" onclick="_gaq.push(['_trackEvent', 'SubNav', 'clicked', 'SN5: EZPay']);">EZPay™</a>
+     <a href="http://www.reallygoodstuff.com/mix-match-headquarters/c/E10/" onclick="_gaq.push(['_trackEvent', 'SubNav', 'clicked', 'SN5MNM: Mix And Match Savings']);">Mix And Match Savings</a>
    </li>
    <li>
      <a href="http://www.reallygoodstuff.com/really-good-stuff-egift-certificate/p/giftcert/" onclick="_gaq.push(['_trackEvent', 'SubNav', 'clicked', 'SN6: eGift']);">eGift Certificates</a>
@@ -3171,7 +3242,16 @@ Most web sites use what is known as a 'cookie', which is a small data file that 
    
    
 <b>How We Use Email</b> <br><br>
-When you provide us your email address, we may send you emails necessary to process your order, respond to your requests, provide additional customer service, promote products, as well as our informative teacher-focused newsletter. It is our intent to send promotional emails only to those persons who wish to receive them. We provide instructions on how to unsubscribe with every promotional email and you may unsubscribe from this link by clicking <a href="http://echo3.bluehornet.com/phase2/survey1/survey.htm?CID=opakns" target="_blank">here.</a><br><br>
+When you trust Really Good Stuff with your e-mail address, we will send you emails necessary to process your order, respond to your requests, and provide additional customer service.  We will also notify you about special offers and customer appreciation events. It is our express intent to only send promotional emails to those persons who wish to receive them.  Out of respect for your privacy, if at any time you decide you no longer wish to receive email communications, you can easily opt-out by unsubscribing.  The <a href="http://www.reallygoodstuff.com/email_preference_opt_down/a/email_preference_opt_down/">unsubscribe link</a> is included at the bottom of every e-mail communication. You can also visit our <a href="http://www.reallygoodstuff.com/email_preferences/a/email_preferences/?email=Enter+your+email+address"><strong>Really Good Stuff® Preference Center</strong></a> where you can update your email address and other information. You may also opt out by contacting us at <a href="mailto:writeus@reallygoodstuff.com">writeus@reallygoodstuff.com</a> or by calling Customer Service: 1-877-876-1920. <br><br>
+
+
+
+
+
+
+
+
+
 
 <b>Sharing Information with you.</b> <br><br>
 On occasion, other companies come to us with great offers on products which we think might be of interest to you.  We are very discriminating about who these companies are, because our relationship with you is very important to us.  If you would prefer not to receive such offers, please email us at <a href="mailto:writeus@reallygoodstuff.com">writeus@reallygoodstuff.com</a> to inform our customer service representatives of your preferences. And even if we do send an offer your way, you will always be given an opportunity to decline receiving similar emails in the future.<br><br>
@@ -3221,6 +3301,8 @@ Really Good Stuff values our customers' privacy and security. That is why we use
     
         
     
+<div style="clear:both; font-size:9px; color:#ffffff; padding-top:4px;">By providing this information, you are opting to receive emails from Really Good Stuff® 
+with news, special offers, promotions and messages tailored to your interests. You may unsubscribe at any time. </div>
         </div>
         
 <div id="footer-promo-links">
@@ -3260,8 +3342,10 @@ Really Good Stuff values our customers' privacy and security. That is why we use
     </li>
     <li>Ways To Shop
         <ul>
-            <li><a href="/productslistsearch.aspx">Find A Wish List</a></li>           
+            <li><a href="/productslistsearch.aspx">Find A Wish List</a></li>      
+            <li><a href=" http://www.reallygoodstuff.com/sales-bids-and-pos-/a/Sales_Bids_Purchase_Orders/">Sales, Bids and P.O.s</a></li>        
             <li><a href=" http://www.reallygoodstuff.com/purchaseorders/a/Customer_Service_Purchase_Orders/">Purchase Orders</a></li>
+            <li><a href="/quickorder.aspx">Quick Order</a></li> 
         </ul>
     </li>
     <li>Shopping Help
@@ -3274,10 +3358,9 @@ Really Good Stuff values our customers' privacy and security. That is why we use
     <li>Teacher Resources
         <ul>
             <li><a href="http://blog.reallygoodstuff.com">Teachers' Lounge Blog</a></li>
-            <li><a href=" http://www.reallygoodstuff.com/newsletter/a/Newsletter/">Newsletter</a></li>
+             <li><a href="/teacher-resources/a/Resources_Default/">Really Good Resources </a></li>
             <li><a href=" http://www.reallygoodstuff.com/teachchat/a/Teach+Chat/">#TeachChat</a></li>
-            <li> </li><li><a href="/refer_a_friend/a/refer_a_friend/"> Refer-A-Teacher </a></li>
-          </ul>
+                      </ul>
     </li>       
     
     <li>Popular Searches
@@ -3307,23 +3390,24 @@ Really Good Stuff values our customers' privacy and security. That is why we use
 
         <ul>
             <li class="facebook">
-                <a href="http://www.facebook.com/pages/Really-Good-Stuff/74881490378" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/icon-footer-facebook.png" alt="Like us on Facebook"></a>
+                <a href="http://www.facebook.com/pages/Really-Good-Stuff/74881490378" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/footer-facebook-icon.png" alt="Like us on Facebook"></a>
             </li>
-            
+             <li class="TeachersLounge">
+                <a href="http://blog.reallygoodstuff.com/" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/footer-blog-icon.png" alt="The Teachers' Lounge"></a>
+            </li>
             <li class="twitter">
-                <a href="http://twitter.com/reallygoodstuff" target="_blank"> <img src="http://cdnll.reallygoodstuff.com/images/art/icon-footer-twitter.png" alt="Follow us on Twitter"></a>
+                <a href="http://twitter.com/reallygoodstuff" target="_blank"> <img src="http://cdnll.reallygoodstuff.com/images/art/footer-twitter-icon.png" alt="Follow us on Twitter"></a>
+            </li>
+              <li class="pinterest">
+                <a href="http://www.pinterest.com/reallygoodstuff" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/footer-pinterest-icon.png" alt="Pin It"></a>
             </li>
             
-            <li class="youtube">
-                <a href="http://www.youtube.com/user/ReallyGoodStuffInc" target="_blank"> <img src="http://cdnll.reallygoodstuff.com/images/art/icon-footer-youtube.png" alt="Visit us on You Tube"></a>
+            <li class="linkedin">
+                <a href="https://www.linkedin.com/company/really-good-stuff-inc." target="_blank"> <img src="http://cdnll.reallygoodstuff.com/images/art/footer-linkedin-icon.png" alt="Linkedin"></a>
             </li>
         
-            <li class="pinterest">
-                <a href="http://www.pinterest.com/reallygoodstuff" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/icon-footer-pinterest.png" alt="Pin It"></a>
-            </li>
-
-            <li class="TeachersLounge">
-                <a href="http://blog.reallygoodstuff.com/" target="_blank"><img src="http://cdnll.reallygoodstuff.com/images/art/icon-footer-blog.png" alt="The Teachers' Lounge"></a>
+             <li class="ReallyGoodTeachers">
+                <a href="http://goo.gl/4m6PYA" target="_blank"><img src="http://www.reallygoodstuff.com/images/art/footer-reallygoodteacher-icon.png" alt="Really Good Teachers"></a>
             </li>
         </ul>
     </div>
@@ -3366,6 +3450,219 @@ Really Good Stuff values our customers' privacy and security. That is why we use
 <!-- Social Annex Control -->
 
 <!-- Social Annex Control -->
+
+<!-- Desk Chat Control -->
+ 
+
+<!-- DESK CHAT WIDGET -->
+
+
+ 
+
+ 
+<style>
+.chat-link-container {
+  display: none; 
+}
+ 
+a.chat-link {
+  display: block;
+  box-sizing: border-box;
+  color: white;
+  padding: 10px 20px;
+  position: fixed;
+  bottom: -2px;
+  right: 0;
+  margin: 0 20px 0 0;
+  background: #FF9900;
+  text-shadow: 1px 1px black;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  font-family: sans-serif;
+  font-size: 0.9em;
+  text-decoration: none;
+  box-shadow: inset 1px 1px rgba(255, 255, 255, 0.15);
+  border: 1px solid #2180C0;
+}
+ 
+a.chat-link:hover {
+  text-decoration: none; 
+}
+ 
+.chat-container {
+  display: none;
+  padding: 0;
+  overflow: hidden;
+  width: 450px;
+  height: 375px;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  z-index: 1000;
+  border: 2px solid #2C97DE;
+  border-radius: 4px;
+  box-shadow: 0 0 25px rgba(0,0,0,.25);
+  background: #eee;
+}
+ 
+.chat {
+  width: 100%;
+  height: 100%;
+}
+ 
+.chat-minimize {
+  position: absolute;
+  top: -4px;
+  left: 15px;
+  padding: 2px 4px;
+  background: rgb(245, 174, 0);
+  display: block;
+  color: rgba(219, 105, 0, 1);
+  border-radius: 100%;
+  font-size: 14px;
+  font-weight: bold;
+  text-shadow: 1px 1px rgba(255, 255, 255, 0.33);
+  line-height: 13px;
+  font-family: sans-serif;
+  box-shadow: inset 1px 1px rgba(255, 255, 255, 0.25), 1px 1px rgba(0, 0, 0, 0.25);
+  border: 1px solid rgb(255, 143, 0);
+}
+  
+.chat-minimize:hover {
+  background: rgb(255, 184, 0);
+  color: rgba(219, 105, 0, 1);
+  text-decoration: none;
+  box-shadow: inset 1px 1px rgba(255, 255, 255, 0.33), 1px 1px rgba(0, 0, 0, 0.25);
+}
+ 
+.chat-close {
+position: absolute;
+top: -4px;
+left: -4px;
+background: rgb(245, 64, 64);
+padding: 2px 4px;
+display: block;
+color: rgba(165, 16, 16, 1);
+border-radius: 100%;
+font-size: 14px;
+font-weight: bold;
+text-shadow: 1px 1px rgba(255, 255, 255, 0.33);
+line-height: 13px;
+font-family: sans-serif;
+box-shadow: inset 1px 1px rgba(255, 255, 255, 0.25), 1px 1px rgba(0, 0, 0, 0.25);
+border: 1px solid rgb(255, 74, 74);
+}
+ 
+.chat-close:hover {
+background: rgb(255, 74, 74);
+color: rgba(165, 16, 16, 1);
+text-decoration: none;
+box-shadow: inset 1px 1px rgba(255, 255, 255, 0.33), 1px 1px rgba(0, 0, 0, 0.25);
+}
+ 
+</style>
+ 
+<div class="chat-container">
+<a class="chat-close" href="#">x</a>
+<a class="chat-minimize" href="#">–</a>
+  <iframe class="chat" frameborder="0"></iframe>
+</div>
+ 
+<div class="chat-link-container">
+  <a class="chat-link" href="#">Start chat</a>
+  <hr>
+</div>
+ 
+<script>
+  
+function getCookie(name) {
+  match = document.cookie.match(new RegExp(name + '=([^;]+)'));
+  if (match) return match[1];
+}
+  
+function revealChat() {
+  chat_id = getCookie("chat_id");
+  console.log("2", chat_id);
+  if (chat_id) {
+    $(".chat-container").show();
+  } else {
+    revealChatLink();
+  }
+}
+ 
+function revealChatLink() {
+  $.ajax({
+    url: 'http://reallygoodstuff.desk.com/customer/agent_online_check',
+    dataType: 'jsonp'
+  }).done(function(data) {
+    if (data.routing_agents > 0) {
+      $(".chat-link-container").show();
+    }
+  });
+}
+  
+$(function() {
+  
+  chat_id = getCookie("chat_id");
+  console.log("src", $(".chat").prop("src"));
+  console.log("1", chat_id);
+  
+  if (chat_id) {
+    $(".chat").prop("src", "https://reallygoodstuff.desk.com/customer/widget/chats/" + chat_id);
+  
+    var iframe = $(".chat")[0];
+ 
+    if (iframe.attachEvent){
+      iframe.attachEvent("onload", function(){
+        revealChat()
+      });
+    } else {
+      iframe.onload = function(){
+        revealChat()
+      };
+    }
+ 
+  } else {
+    revealChatLink();
+  }
+  
+  $(".chat-link").click(function() {
+    $(".chat-link-container").hide();
+    $(".chat-container").show();
+    chat_id = getCookie("chat_id");
+    if (chat_id) {
+      $(".chat").prop("src", "https://reallygoodstuff.desk.com/customer/widget/chats/" + chat_id);
+    } else {
+      $(".chat").prop("src", "https://reallygoodstuff.desk.com/customer/widget/chats/new");
+    }
+    return false;
+  });
+  
+  
+    $(".chat-close").click(function() {
+    document.cookie="chat_id=;expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/;domain=.desk.com;";
+    chat_id = false;
+    $(".chat").prop("src","");
+    $(".chat-container").hide();
+    $(".chat-link-container").show();
+    return false;
+  });
+ 
+  
+  $(".chat-minimize").click(function() {
+    $(".chat-container").hide();
+    $(".chat-link-container").show();
+    return false;
+  });
+  
+  
+  
+});
+</script>
+ 
+
+<!-- END DESK CHAT WIDGET --> 
+<!-- End desk chat control -->
     </div> <!-- end #page-wrap -->
 </div>
 
@@ -3374,15 +3671,6 @@ Really Good Stuff values our customers' privacy and security. That is why we use
 <script src="//cdn.optimizely.com/js/1042323479.js"></script>
 
 <script language="javascript">
-    
-    <!--
-    /* Place visitors in desktop segment, remove from tablet and mobile */
-    window['optimizely'] = optimizely || [];
-    window['optimizely'].push(['addToSegment', 'kalio_desktop']);
-    window['optimizely'].push(['removeFromSegment', 'kalio_tablet']);
-    window['optimizely'].push(['removeFromSegment', 'kalio_mobile']);
-    //-->
-
     
     
 
@@ -3408,7 +3696,7 @@ Really Good Stuff values our customers' privacy and security. That is why we use
 
 
 
-
+ 
 
 <!-- Listrak Shopping Cart Abandonment 4/14/14 -->
 <script type="text/javascript">	
@@ -3448,29 +3736,14 @@ Really Good Stuff values our customers' privacy and security. That is why we use
             js.src = biJsHost + "cdn.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
             ljs.parentNode.insertBefore(js, ljs);
         })(document, 'script', 'ltkSDK', 'bWWgdJwIwBVe', '1');
-</script>
+</script> 
 
+
+<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
 
 
 
     
-
-<!-- Google Main List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1045617845;
-var google_conversion_label = "6dtYCKPCoAIQtbnL8gM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]] > */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1045617845/?value=0&amp;label=6dtYCKPCoAIQtbnL8gM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
     
 
 
@@ -3543,10 +3816,60 @@ var google_remarketing_only = true;
 
 
 
- 			
+
+
+
+
+
+<!--  Adhesive Shopper -->
+<script src="http://ib.adnxs.com/seg?add=1554586&amp;t=1" type="text/javascript"></script>
+<!-- End Adhesive Shopper -->
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+var google_tag_params = {
+ecomm_prodid: "",
+ecomm_pagetype: "other",
+ecomm_totalvalue: ""
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1045617845;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1045617845/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
     
 
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+    
+
+
+
+</body></html>
