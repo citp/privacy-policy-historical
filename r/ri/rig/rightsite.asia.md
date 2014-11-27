@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightsite.asia privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112054649id_/http%3A//www.rightsite.asia/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightsite.asia privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127102719id_/http%3A//rightsite.asia/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | China Industrial Space
 
