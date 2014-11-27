@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ancient-code.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529210331id_/http%3A//www.ancient-code.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancient-code.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127140139id_/http%3A//www.ancient-code.com/privacy-policy) for the most accurate reproduction.*
 
-# Ancient Aliens Privacy Policy » Ancient Aliens
+# Privacy Policy - Ancient Code
 
 This Privacy Policy governs the manner in which Ancient Code collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.ancient-code.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Ancient Code.
 
@@ -20,11 +20,11 @@ How we use collected information
 
 Ancient Code may collect and use Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 How we protect your information
