@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626162329id_/http%3A//www.surfersvillage.com/node/50945) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127151144id_/http%3A//www.surfersvillage.com/content/privacy) for the most accurate reproduction.*
 
 # surfersvillage.com - Privacy - Surfing News, Surfing Contest, All the surf in one website
 
@@ -24,3 +24,7 @@ In some instances, when an email address has been provided by the visitor, and t
 These notices, sent periodically, will announce website upgrades, new product information and other similar updates.
 
 Surfersvillage reserve the right to change this policy at any time by notifying guests of the existence of a new privacy policy.
+
+## Newsletter
+
+Follow us and sign up to our daily newsletter
