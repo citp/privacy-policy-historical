@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realstrategic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035444id_/http%3A//www.realstrategic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realstrategic.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127071733id_/http%3A//www.realstrategic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Strategic, Inc
 
@@ -38,6 +38,8 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 If you provide Real Strategic with user information, you have the following rights with respect to that information:
 
+[bullet_list]
+
   * To review the user information that you have supplied to us
   * To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us
   * To request that your user information not be used to contact you
@@ -46,6 +48,8 @@ If you provide Real Strategic with user information, you have the following righ
   * To opt out of being solicited by this website or third parties
 
 
+
+[/bullet_list]
 
 If you request that your user information be deleted from our records, there may be a brief delay in our processing that request, while verify that the request is valid and originates from you as opposed to an unauthorized third party. If you request that your information be deleted, we reserve the right to terminate and or limit your access to the Real Strategic website.
 
