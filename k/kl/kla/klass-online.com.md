@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klass-online.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032538id_/http%3A//www.gizzmoheaven.com/Privacy-Cookies/h40/Help.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klass-online.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127064435id_/http%3A//www.gizzmoheaven.com/Privacy-Cookies/h40/Help.html) for the most accurate reproduction.*
 
 # Memory Cards, USB Memory Sticks, Micro SD Cards, SDHC - Free Delivery
 
