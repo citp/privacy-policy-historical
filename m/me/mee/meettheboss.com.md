@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meettheboss.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114501id_/http%3A//info.meettheboss.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meettheboss.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127204457id_/http%3A//meettheboss.tv/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy
+# Privacy Policy - MeetTheBoss
 
 [www.meettheboss.tv](http://www.meettheboss.tv/) (‘the website’) is strongly committed to protecting your privacy while interacting with our content, products and services in a safe and secure environment.
 
@@ -12,7 +12,7 @@ This policy applies only [www.meettheboss.tv](http://www.meettheboss.tv/) and 
 
 Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked to provide information such as your name, email address or information about what you like and do not like. It is entirely your choice whether to respond to these questions or not.
 
-[www.meettheboss.tv](http://www.meettheboss.tv/) collects two types of information. The first type is anonymous information. For instance, we may collect information to tell us that five thousand people visit this Privacy Policy today, but we do not know their names, where they live or their date of birth - they are 'anonymous' to us. Another example of the website collecting anonymous information is when users are invited to respond to surveys on [www.meettheboss.tv](http://www.meettheboss.tv/). The surveys may ask you for demographic information such as your age, gender and postcode. This information is collected for research purposes, is used in the aggregate (where possible) and remains anonymous. Many of the individuls who access our services are anonymous to us.
+[www.meettheboss.tv](http://www.meettheboss.tv/) collects two types of information. The first type is anonymous information. For instance, we may collect information to tell us that five thousand people visit this Privacy Policy today, but we do not know their names, where they live or their date of birth – they are ‘anonymous’ to us. Another example of the website collecting anonymous information is when users are invited to respond to surveys on [www.meettheboss.tv](http://www.meettheboss.tv/). The surveys may ask you for demographic information such as your age, gender and postcode. This information is collected for research purposes, is used in the aggregate (where possible) and remains anonymous. Many of the individuls who access our services are anonymous to us.
 
 The second type of information that [www.meettheboss.tv](http://www.meettheboss.tv/) collects is personal information. The website will collect personal information that lets us know the specifics of who you are such as your name, email address or postal address, when you provide it to us. With this information, [www.meettheboss.tv](http://www.meettheboss.tv/) can provide a variety of personalised and enhanced services that are not available to anonymous users. We hope that you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you.
 
@@ -26,7 +26,7 @@ How much of your personal information that you choose to disclose to [www.meett
 
 ## Use of personal information
 
-[www.meettheboss.tv](http://www.meettheboss.tv/) will only use the personal information you have chosen to provide us for the purpose for which you provided it. This may include passing that information to third party advertisers on[www.meettheboss.tv](http://www.meettheboss.tv/) for the provision of more information about their advertising and / or promotional materials (including, but not limited to, webcasts and podcasts clearly labeled as ‘Sponsored Video’ or ‘Sponsored Podcast’. To be clear: should you choose to watch a clearly labelled 'Sponsored Broadcast', your contact information will be passed on to the sponsor company. [www.meettheboss.tv](http://www.meettheboss.tv/) will not use it for any other purpose without your consent.
+[www.meettheboss.tv](http://www.meettheboss.tv/) will only use the personal information you have chosen to provide us for the purpose for which you provided it. This may include passing that information to third party advertisers on[www.meettheboss.tv](http://www.meettheboss.tv/) for the provision of more information about their advertising and / or promotional materials (including, but not limited to, webcasts and podcasts clearly labeled as ‘Sponsored Video’ or ‘Sponsored Podcast’. To be clear: should you choose to watch a clearly labelled ‘Sponsored Broadcast’, your contact information will be passed on to the sponsor company. [www.meettheboss.tv](http://www.meettheboss.tv/) will not use it for any other purpose without your consent.
 
 ## Disclosure
 
