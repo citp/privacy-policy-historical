@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the residentscreening.net privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517221901id_/http%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentscreening.net privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127152940id_/http%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
 
 # CoreLogic - Privacy Policy and European Union Safe Harbor Privacy Policy
 
@@ -112,15 +112,10 @@ Personal Information Disclosure: United States or Overseas – In connection wit
 
 To obtain additional information about the privacy practices and policies of CoreLogic in connection with its preparation and processing of investigative consumer reports, please contact:
 
-Richard Miller, Compliance and Privacy Officer
-
-40 Pacifica, Ste. 900 Irvine, ca 92618
-
-[richardmiller@corelogic.com](mailto:richardmiller@corelogic.com)
-
-714-250-6486
-
-Last Updated Dec 30, 2010
+Richard Miller, Compliance and Privacy Officer  
+40 Pacifica, Ste. 900 Irvine, CA 92618  
+[richardmiller@corelogic.com  
+](mailto:richardmiller@corelogic.com)(949) 214-1535
 
 back to top
 
@@ -222,12 +217,12 @@ You may also send any questions regarding our Safe Harbor Privacy Policy to the 
 CoreLogic, Inc.  
 Attn: Compliance and Privacy Officer  
 40 Pacifica, Ste. 900  
-Irvine, ca 92618  
+Irvine, CA 92618  
 United States of America  
-(714) 250-6486
+(949) 214-1535
 
 back to top
 
 **Please print or download a copy  for your records.**
 
-Last Updated March 1, 2013
+Last Updated July 17, 2014
