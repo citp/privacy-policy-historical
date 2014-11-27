@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213182205id_/http%3A//www.pooldawg.com/privacy-policy-and-terms-of-use.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127052816id_/http%3A//www.pooldawg.com/article/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Use at Pooldawg.com
+# Privacy Policy & Terms of Use | Pool Cues and Billiards Supplies at PoolDawg.com
 
 **Our Commitment to Privacy**  
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our customers. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
@@ -56,7 +56,7 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 Pricing  
-Please note that PoolDawg.com is not responsible for any data errors that may appear on this site and reserves the right to cancel orders at any time.
+PoolDawg obtains certain data directly from the manufacturer, publisher or supplier of Products and is not responsible for pricing, typographical or other errors in any such data. In addition, availability of third-party Product is subject to change without notice. PoolDawg reserves the right to cancel orders related to such errors or product discontinuation or unavailability, and to correct this web site at any time, including pricing errors not detected until after PoolDawg's confirmation or e-mail response.
 
 Do We Disclose Information to Outside Parties?  
 We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy.
