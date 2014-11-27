@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alcatel-lucent.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611173935id_/http%3A//www3.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcatel-lucent.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127225804id_/http%3A//www.alcatel-lucent.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement | Alcatel-Lucent
 
 **Our Commitment to Privacy and Protection of Your Personal Data**
 
@@ -66,9 +66,9 @@ We have put in place appropriate physical, electronic and managerial procedures 
 
 Please take note of the following to ensure the security of your personal data and other confidential information you may provide online:
 
-  * You should be aware that when you disclose personal data or other confidential information in discussion forums, blogs or chat rooms, such personal data or other confidential information is accessible to and collectable by others who are present or who may have access to the forum, blog or chat room. 
-  * Alcatel-Lucent advises you to protect yourself against unauthorized access to your computer and disclosure of your Alcatel-Lucent password. 
-  * If you believe that your password has been compromised, you should immediately change your password. 
+  * You should be aware that when you disclose personal data or other confidential information in discussion forums, blogs or chat rooms, such personal data or other confidential information is accessible to and collectable by others who are present or who may have access to the forum, blog or chat room.
+  * Alcatel-Lucent advises you to protect yourself against unauthorized access to your computer and disclosure of your Alcatel-Lucent password.
+  * If you believe that your password has been compromised, you should immediately change your password.
 
 
 
