@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theclutcher.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114043310id_/http%3A//www.theclutcher.com/en-US/company/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclutcher.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127204201id_/http%3A//www.theclutcher.com/en-US/company/policy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PRIVACY POLICY - theclutcher.com - Shop over the Brand
+# Privacy Policy - PRIVACY POLICY
 
 **Information sheet**
 
