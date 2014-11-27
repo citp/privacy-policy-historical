@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonsart.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529093459id_/http%3A//www.jacksonsart.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonsart.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127235403id_/http%3A//www.jacksonsart.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
 # Art Supplies from Jackson's | Site Security / Privacy Statement
 
@@ -10,21 +10,7 @@ General Website Security
 
 Our website is hosted on its own secure server which is scanned continuously by a security software called ‘Comodo’ looking for malicious software. 
 
-Privacy Policy
-
-All personal information entered into our website when an order is made is treated in the strictest confidence, with certain exceptions as set out below.  All your information will be retained on a secure server purely for use in relation to the processing of your order.
-
-When you make an order on the Jackson’s Art Supplies website, we will ask you for your:
-
-Name
-
-Address (Billing and Delivery)
-
-Contact Telephone Number
-
-Email Address
-
-Any delivery instructions
+Privacy Policy 
 
 All personal information entered into our website when an order is made is treated in the strictest confidence, with certain exceptions as set out below.  All your information will be retained on a secure server purely for use in relation to the processing of your order. 
 
