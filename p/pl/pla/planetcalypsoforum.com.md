@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetcalypsoforum.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626181436id_/http%3A//www.planetcalypsoforum.com/content.php%3F116-planet-calypso-forum-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetcalypsoforum.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127013600id_/http%3A//www.planetcalypsoforum.com/content.php%3F116-planet-calypso-forum-privacy-policy) for the most accurate reproduction.*
 
 # PlanetCalypsoForum.com - PlanetCalypsoForum.com Privacy Policy
 
