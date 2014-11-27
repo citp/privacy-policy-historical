@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redz.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106011443id_/http%3A//redz.com/guest/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redz.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127201639id_/http%3A//redz.com/guest/policy) for the most accurate reproduction.*
 
-# Redz.com - Web : Redz.com
+# DotHop.com - Web : DotHop.com
 
 This privacy policy was created in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site. 
 
@@ -10,7 +10,7 @@ This site uses your IP address to help diagnose problems with our server and to 
 
 ## Personal Information
 
-Redz.com collects your name and email address, Internet Protocol (IP) address, and other pertinent information. This information is used to facilitate buying and selling of links/advertisements on the Internet. Unless requested by law enforcement personnel or required by legal process, we will not share any personal information with any third parties nor will we use any personal information for any purposes beyond those stated here. 
+DotHop.com collects your name and email address, Internet Protocol (IP) address, and other pertinent information. This information is used to facilitate buying and selling of links/advertisements on the Internet. Unless requested by law enforcement personnel or required by legal process, we will not share any personal information with any third parties nor will we use any personal information for any purposes beyond those stated here. 
 
 ## Cookies
 
@@ -35,11 +35,11 @@ Please be aware that when you are on the site, you could be directed to other si
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Log file access is restricted to system administrators while stored on the server. Log files are rotated regularly and archived in a secure location. All credit card information is encrypted with 40-bit SSL encryption before it is transmitted across the network. Redz.com complies with all statutory and legal requirements with respect to access to information. 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Log file access is restricted to system administrators while stored on the server. Log files are rotated regularly and archived in a secure location. All credit card information is encrypted with 40-bit SSL encryption before it is transmitted across the network. DotHop.com complies with all statutory and legal requirements with respect to access to information. 
 
 ## Children's Privacy
 
-Redz.com is not structured to attract children. Accordingly, we do not knowingly collect Personal Information from anyone under 13 years of age. If you are under the age of 13, please do not provide any Personal Information to us. 
+DotHop.com is not structured to attract children. Accordingly, we do not knowingly collect Personal Information from anyone under 13 years of age. If you are under the age of 13, please do not provide any Personal Information to us. 
 
 ## Changes to Our Privacy Policy
 
@@ -47,4 +47,4 @@ The terms of this Privacy Policy may change from time to time without prior noti
 
 ## Governing Law
 
-This Privacy Policy and the privacy practices of Redz.com will be subject exclusively to the laws of the State of Florida within the United States of America. Redz.com makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site, the search engine or any other services offered on the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. 
+This Privacy Policy and the privacy practices of DotHop.com will be subject exclusively to the laws of the State of Florida within the United States of America. DotHop.com makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site, the search engine or any other services offered on the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. 
