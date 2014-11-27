@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the theme-dutch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113719id_/http%3A//theme-dutch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-dutch.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127072429id_/http%3A//theme-dutch.com/privacy) for the most accurate reproduction.*
 
-# Privacy | THEMEDUTCH - Wordpress Theme Development
+# Privacy | Themedutch - Web design and Web development Agency
 
-**Privacy** policy themedutch
+## Welcome to our site.
 
-Welcome to our site. Theme Dutch knows how our clients and visitors like you value your privacy, and we have created this privacy policy to ensure that you understand our policies and procedures, what personally identifiable information you must provide if you wish to use the site and, ultimately, just how we use such personally identifiable information. This policy applies only to the website located at www.theme-dutch.com, and not to any other website or service. If you do not agree with this policy, then you should not use the site. We do NOT sell or share names, email addresses, or any other personal information.
+Theme Dutch knows how our clients and visitors like you value your privacy, and we have created this privacy policy to ensure that you understand our policies and procedures, what personally identifiable information you must provide if you wish to use the site and, ultimately, just how we use such personally identifiable information. This policy applies only to the website located at www.theme-dutch.com, and not to any other website or service. If you do not agree with this policy, then you should not use the site. We do NOT sell or share names, email addresses, or any other personal information.
 
-[PREVIEW THEMES](http://demo.theme-dutch.com/?theme=JOOP) [CONTACT](https://web.archive.org/contact/)
+## How we protect our website.
 
-**Protection**  
-of customer transactions with assurance high SSL security. 
-
-[](http://www.wordfence.com/ "Wordfence")
+SSL Conection  
+24/7 365 monitoring  
+Anti-DDoS
 
 ## Personally identifiable information collected by THEME DUTCH
 
@@ -72,9 +71,8 @@ We may amend our privacy policy at any time and will post those changes on this 
 
 ## Contacting us
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can [contact](http://theme-dutch.com/contact/ "contactform") us.
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can [contact](http://theme-dutch.comcontact/ "contactform") us.
 
 In addition, our mailing address is: THEME DUTCH  
 Headquarters : Koningin Regentesselaan 44, 6043 CM ROERMOND  
-Effective Date: This privacy policy was last updated on December 30, 2013.  
-
+Effective Date: This privacy policy was last updated on December 30, 2013.
