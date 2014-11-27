@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the gzzt.org privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208021054id_/http%3A//gzzt.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gzzt.org privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127051301id_/http%3A//gzzt.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[ ](http://gzzt.org/)
-
-How many GZZTs   
-can your brain resists?
 
 The privacy of visitors is important to us. At , we recognize that the privacy of our visitor''s personal information is important. Here is information on what types of personal information we receive and collect when you visit , and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -23,13 +18,3 @@ Google uses third-party advertising companies to serve ads when you visit our we
 Also you can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security; however, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 [Return To Main Index](http://gzzt.org/ "Return To <?php echo $_SERVER\[''SERVER_NAME''\]; ?> Home")
-
-####  Monetize your site 
-
-[](http://www.exitjunction.com/index.jsp?ref=17786)
-
-[](http://www.text-link-ads.com/?ref=413790)
-
-####  Did you find this helpful? 
-
-Gzzt.org is an honest, human-edited directory of free online services and useful sites. We are about to celebrate 20 years in Internet. We would be very happy if you buy us a coffee. 
