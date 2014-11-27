@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civicplus.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208044747id_/http%3A//www.civicplus.com/203/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civicplus.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127065723id_/http%3A//www.civicplus.com/391/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | CivicPlus
 
