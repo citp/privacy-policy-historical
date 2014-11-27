@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-goi.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527170656id_/http%3A//www.e-goi.com/en/introducao/pol-tica-anti-spam) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-goi.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127022649id_/http%3A//www.e-goi.com/en/introducao/pol-tica-anti-spam) for the most accurate reproduction.*
 
 # E-goi :: Privacy and Anti-Spam Policy
 
@@ -19,13 +19,12 @@ By accepting this Anti-Spam Policy, E-goi clients agree that their contact acqui
 
 E-goi clients agree that every message sent by E-goi contains both an unsubscribe link (allowing contacts to immediately and automatically opt-out from the client's contact database) and the client’s own contact information, such as a contact number or postal address (allowing contacts to request to be manually removed). If you have received messages sent via E-goi which you somehow could not opt out from or if you wish to remove your contact information from all databases used by E-goi clients, please [contact us](https://web.archive.org/index.php?cID=1029 "Contact us"). You can also reach us at the following address and phone numbers:
 
-Av. D. Afonso Henriques 1122  
-Sala L, 4450-011 Matosinhos  
+Av. Menéres, 834  
+4450-190 Matosinhos  
 Portugal
 
-Phone: +351 229 363 772  
-Mobile: +351 960 082 516  
-Fax: +351 22 9363774 
+Phone/mobile: +44 (0) 203 608 0284  
+Fax: +351 229 363 774 
 
 * * *
 
