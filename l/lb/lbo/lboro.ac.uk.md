@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lboro.ac.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123624id_/http%3A//www.lboro.ac.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lboro.ac.uk privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127053606id_/http%3A//www.lboro.ac.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Loughborough University
 
