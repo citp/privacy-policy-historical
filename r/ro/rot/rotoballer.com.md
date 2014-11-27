@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotoballer.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612224133id_/http%3A//www.rotoballer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotoballer.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127053608id_/http%3A//www.rotoballer.com/privacy-policy) for the most accurate reproduction.*
 
 # RotoBaller Privacy Policy | RotoBaller
 
@@ -96,11 +96,11 @@ Information about Users that is maintained on Company’s systems is protected u
 
 **Correcting, Updating, Accessing or Removing Personal Information**
 
-If a User’s personally identifiable information changes (such as a User’s zip code), or if a User no longer desires to receive non-account specific information from Company, Company will endeavor to provide a way to correct, update and/or remove that User’s previously-provided personal data. This can be done by emailing a request to Company at [info@rotoballer.com](mailto:info@rotoballer.com) Additionally, you may request access to the personally identifiable information as collected by Company by sending a request to Company as set forth above. Please note that in certain circumstances, Com pany may not be able to completely remove a User’s information from its systems. For example, Company may retain a User’s personal information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in Company’s data backup systems or cached or archived pages. All retained personally identifiable information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. Please note that you may access and manage your account via the “My Account” link  available on the Website.
+If a User’s personally identifiable information changes (such as a User’s zip code), or if a User no longer desires to receive non-account specific information from Company, Company will endeavor to provide a way to correct, update and/or remove that User’s previously-provided personal data. This can be done by emailing a request to Company at [info@rotoballer.com](mailto:info@rotoballer.com?offer_id+15&aff_id=1027) Additionally, you may request access to the personally identifiable information as collected by Company by sending a request to Company as set forth above. Please note that in certain circumstances, Com pany may not be able to completely remove a User’s information from its systems. For example, Company may retain a User’s personal information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in Company’s data backup systems or cached or archived pages. All retained personally identifiable information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. Please note that you may access and manage your account via the “My Account” link  available on the Website.
 
 **Contacting Company**
 
-If you have any questions or comments about this Privacy Policy, you may contact Company via email: [info@rotoballer.com](mailto:info@rotoballer.com)
+If you have any questions or comments about this Privacy Policy, you may contact Company via email: [info@rotoballer.com](mailto:info@rotoballer.com?offer_id+15&aff_id=1027)
 
 **Your California Privacy Rights**
 
