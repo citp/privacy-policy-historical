@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fallingskies.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525045138id_/http%3A//www.tntdrama.com/title/display/%3Foid%3D6620) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallingskies.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127080355id_/http%3A//www.tntdrama.com/title/display/%3Foid%3D6620) for the most accurate reproduction.*
 
-# Privacy Policy
+# TNT - Privacy Policy
 
 #### PRIVACY POLICY
 
-Thank you for visiting TNTDrama.com, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner's network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates.
+Thank you for visiting TNTdrama.com, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner's network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates.
 
 #### The Information We Collect
 
@@ -56,11 +56,11 @@ We use cookies to understand site and Internet usage and to improve or customize
 
 We, our third party service providers, advertisers or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or sites. This also helps us, our service providers and partners provide more relevant advertising. For more information regarding third-party ad servers, see "Collection of Information by Third-Party Sites, Ad Servers, and Sponsors" below.
 
-The Adobe Flash Player is a powerful application and web tool that allows rapid development of highly dynamic content. Sites on the Turner Network employ locally stored objects (sometimes referred to as "Flash cookies") in certain situations where we use Flash to provide special content such as video on demand, video clips or animation. Flash (and similar applications) use this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly.
+The Adobe Flash Player is a powerful application and web tool that allows rapid development of highly dynamic content. Sites on the Turner Network employ locally stored objects (sometimes referred to as "Flash cookies") in certain situations where we use Flash to provide special content such as video on demand, video clips or animation. Flash (and similar applications) use this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from Adobe's website directly.
 
 We, our third party service providers, advertiser or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
 
-At this time sites on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions. You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the "Help" section of your browser for more information.
+You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the "Help" section of your browser for more information.
 
 #### Collection of Information by Third-Party Sites, Ad Servers, and Sponsors
 
@@ -78,9 +78,9 @@ For example, if you often visit content on the Turner Network about travel, we m
 
 #### Turner's Participation in the Industry Self Regulatory Program for Interest Based Ads; Additional Choice Options 
 
-Turner is a participant in the online industry's self regulatory program administered by the Digital Advertising Alliance (the "DAA") and has agreed to adhere to the DAA's principles applicable to interest-based ads. Please visit the [Self Regulatory Program site](http://www.aboutads.info/) for more information about the DAA, the self regulatory principles and choices you can make regarding interest-based ads. 
+Turner is a participant in the online industry's self regulatory program administered by the Digital Advertising Alliance (the "DAA") and has agreed to adhere to the DAA's principles applicable to interest-based ads. Please visit the Self Regulatory Program site for more information about the DAA, the self regulatory principles and choices you can make regarding interest-based ads. 
 
-You may find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the [NAI site](http://www.networkadvertising.org/).
+You may find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the NAI site.
 
 #### International Transfer
 
@@ -112,4 +112,4 @@ If you have any questions or concerns about the online privacy statement for thi
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.
 
-The Privacy Statement posted on this site was updated December 20, 2013.
+The Privacy Statement posted on this site was updated in February, 2011.
