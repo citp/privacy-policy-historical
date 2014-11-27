@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629180831id_/http%3A//www.carolinalive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127124550id_/http%3A//www.carolinalive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # About : CarolinaLive.com
 
