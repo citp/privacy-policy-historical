@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissandmakeup.tv privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623233602id_/http%3A//www.kissandmakeup.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissandmakeup.tv privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127202437id_/http%3A//www.kissandmakeup.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # Kiss And Makeup's Privacy Policy on Kiss And Makeup
 
