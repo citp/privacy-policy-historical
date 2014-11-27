@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the apvideohub.com privacy policy that was archived on 2014-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140526233550id_/http%3A//www.apvideohub.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apvideohub.com privacy policy that was archived on 2014-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141127010455id_/http%3A//www.apvideohub.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js-enabled"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -12,11 +12,15 @@
         }
         b.className += !!('ontouchstart' in window) ? ' touch-device' : '';
     </script>
-    <link rel="Stylesheet" href="/css/ap-v4.4.5252.30073.css" type="text/css">
+    <script src="/js/jwPlayer/jwplayer.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        jwplayer.key = "IVNn2IuHyR3YRsCHors1X3BP7BSYGIWCLEWgF5iUUOk=";
+    </script>
+    <link rel="Stylesheet" href="/css/ap-v4.8.2.0.css" type="text/css">
     <style>
             
-            [data-no-dl-partners*="ap-video-hub"] .partner-ap-video-hub .dl,[data-no-dl-partners*="ap-video-hub"] .partner-ap-video-hub .dlo,[data-no-dl-partners*="olympics"] .partner-olympics .dl,[data-no-dl-partners*="olympics"] .partner-olympics .dlo,[data-no-dl-partners*="sntv"] .partner-sntv .dl,[data-no-dl-partners*="sntv"] .partner-sntv .dlo,[data-no-dl-partners*="cctv"] .partner-cctv .dl,[data-no-dl-partners*="cctv"] .partner-cctv .dlo,[data-no-dl-partners*="sntv-cr"] .partner-sntv-cr .dl,[data-no-dl-partners*="sntv-cr"] .partner-sntv-cr .dlo {
-                      visibility: hidden;
+            [data-no-dl-partners*="olympics"] .partner-olympics .dl,[data-no-dl-partners*="olympics"] .partner-olympics .dlo,[data-no-dl-partners*="cctv"] .partner-cctv .dl,[data-no-dl-partners*="cctv"] .partner-cctv .dlo,[data-no-dl-partners*="sntv-cr"] .partner-sntv-cr .dl,[data-no-dl-partners*="sntv-cr"] .partner-sntv-cr .dlo,[data-no-dl-partners*="nflr-cr"] .partner-nflr-cr .dl,[data-no-dl-partners*="nflr-cr"] .partner-nflr-cr .dlo,[data-no-dl-partners*="sntv"] .partner-sntv .dl,[data-no-dl-partners*="sntv"] .partner-sntv .dlo,[data-no-dl-partners*="bcft-cr"] .partner-bcft-cr .dl,[data-no-dl-partners*="bcft-cr"] .partner-bcft-cr .dlo,[data-no-dl-partners*="ap-video-hub"] .partner-ap-video-hub .dl,[data-no-dl-partners*="ap-video-hub"] .partner-ap-video-hub .dlo {
+                      visibility: visible;
                       }
             
     </style>
@@ -25,22 +29,38 @@
     <meta name="viewport" content="width=1280">
     <meta content="Streamlined and Easy Access To AP’s Video News Footage." name="description">
 </head>
-<body data-show-credits="0" data-show-categories="" data-show-archive="0" data-no-dl-partners="ap-video-hub olympics sntv cctv sntv-cr" class="">
+<body data-show-credits="0" data-show-categories="" data-show-archive="0" data-no-dl-partners="olympics cctv sntv-cr nflr-cr sntv bcft-cr ap-video-hub" class="">
+
+       <script>
+            var originalNavClasses;
+
+            function toggleNav() {
+                var elem = document.getElementById('navigation_list');
+                var classes = elem.className;
+                if (originalNavClasses === undefined) {
+                    originalNavClasses = classes;
+                }
+                elem.className = /expanded/.test(classes) ? originalNavClasses : originalNavClasses + ' expanded';
+            }
+       </script>
 
 <div id="modHeader">
     <header>
         <div class="contentWrapper">
-            <a class="logo" href="http://www.apvideohub.com/"><img src="i/logo_ap.png" alt="AP Video Hub" width="334" height="87"></a>
+            <a class="logo" href="http://www.apvideohub.com/"><img src="i/logo_ap.png" alt="AP Video Hub"></a>
 
-            <nav>
-                <ul class="nav">
+            <nav id="navigation">
+                 <a class="menu_button" href="#footer_nav" onclick="toggleNav(); return false;" style="display:none"><span>&nbsp;</span></a>
+                <ul id="navigation_list" class="nav">
                     <li><a class="nav-sign-in" href="https://www.apvideohub.com/">Sign In</a></li>
                     <li><a class="nav-register" href="https://www.apvideohub.com/register?nav=register">Register</a></li>
                     <li><a class="nav-why" href="https://www.apvideohub.com/why">Why AP Video Hub</a></li>
-                            <li><a href="http://www.apvideohub.com/help">Contact us</a></li>
+                    <li><a href="http://customersupport.ap.org/apvhub/Help/index.htm" target="_blank">Contact us</a></li>
                 </ul>
+
             </nav>
         </div>
+
     </header>
 </div>    <div class="contentWrapper body layout-nonav">
         <div class="section main">
@@ -251,7 +271,7 @@
                             </li>
                             <li><a href="http://www.apvideohub.com/terms">Terms
                                 &amp; Conditions</a></li>
-                            <li><a href="http://www.apvideohub.com/help">Help</a></li>
+                            <li><a href="http://customersupport.ap.org/apvhub/Help/index.htm" target="_blank">Help</a></li>
                         </ul>
                     </section>
                 </div>
@@ -285,8 +305,8 @@
                         <h2>Media Center</h2>
                         <ul>
                             <li><a href="http://www.ap.org/Media-center/overview">Media Center</a></li>
-                            <li><a href="http://www.ap.org/index/press-release/2012">Press Releases</a></li>
-                            <li><a href="http://www.ap.org/index/ap-in-the-news/2012">AP in the News</a></li>
+                            <li><a href="http://www.ap.org/index/press-release/2014">Press Releases</a></li>
+                            <li><a href="http://www.ap.org/index/ap-in-the-news/2014">AP in the News</a></li>
                         </ul>
                     </section>
                 </div>
@@ -299,7 +319,7 @@
                             <li><a class="twitter" href="http://twitter.com/AP_VideoHubNow" target="_blank" title="Follow the Associated Press on Twitter">Twitter</a></li>
                             
                         </ul>
-                        <p>Get breaking news alerts, coverage advisories and pointers to the day’s best video by following the Video Hub team</p>
+                        <p>Get breaking news alerts, coverage advisories and pointers to the dayâ€™s best video by following the Video Hub team</p>
                     </section>
                 </div>
             </nav>
@@ -311,7 +331,7 @@
         </div>
     </footer>
 </div>        <script type="text/javascript" src="js/libraries.js"></script>
-        <script type="text/javascript" src="/js/ap-v4.4.5252.30073.js"></script>
+        <script type="text/javascript" src="/js/ap-v4.8.2.0.js"></script>
 <div id="modSupportCheck">
     <h2>AP Video Hub - Minimum Software Requirements</h2>
     <div class="cont-support">
