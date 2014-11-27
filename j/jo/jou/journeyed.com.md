@@ -1,46 +1,8 @@
-> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508161355id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127060702id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
 
-# JourneyEd.com - Academic Software Discounts!
+# JourneyEd.com: Discount Academic Student Software & Hardware
 
-| 
-
-Receive Special Offers and Discounts delivered right to your Inbox
-
-  
-
-
-No worries, your information is never shared for any reason.  
-  
----  
-  
-#### [Software](http://www.journeyed.com/dept/Software/284008)
-
-|   
-  
-#### [Accessories](http://www.journeyed.com/dept/Accessories/284031)
-
-|   
-  
-#### [Hardware](http://www.journeyed.com/dept/Hardware/284009)
-
-|   
-  
-#### [Games](http://www.journeyed.com/dept/Games/299773)
-
-|   
-  
-#### [Books](http://www.journeyed.com/dept/Books/284010)
-
-|   
-  
-#### [Bags](http://www.journeyed.com/dept/Bags/284012)
-
-|   
-  
-#### [Brands](http://www.journeyed.com/dept/Brands/284011)
-
-|   
-[](http://www.journeyed.com/item/Microsoft/Office/1571754) [](http://www.journeyed.com/item/Microsoft/Office/1571754) [](http://www.facebook.com/journeyed) [](http://twitter.com/journeyed) [](http://www.youtube.com/journeyed1) Last updated: May 30, 2012
+Last updated: November 17, 2014
 
 BY USING THIS WEBSITE OR SUBMITTING PERSONAL INFORMATION TO JOURENYED.COM THROUGH THIS WEBSITE, YOU ARE CONSENTING TO THE COLLECTION, USE, TRANSFER, AND DISCLOSURE OF INFORMATION AS DESCRIBED IN THIS PRIVACY STATEMENT. 
 
@@ -93,6 +55,7 @@ Your personal information provided to us will be processed on our computer serve
 _Our Use of Personal Information._ We may use personal information collected by us for the following purposes: 
 
   * to contact you if you have requested information or communication from us; 
+  * to partner with other parties to provide specific services. When you submit your information, we may share names, or other contact information that is necessary for the third party(s) to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services; 
   * to determine the country in which you are located for compliance purposes, including without limitation export compliance, and for security, anti-piracy, and fraud prevention purposes; 
   * to help verify that existing personal information about you in our possession is accurate and complete; 
   * for lead generation purposes; 
@@ -126,31 +89,28 @@ _Our Use of Anonymous Information._ We may use anonymous information collected b
   * to provide reporting to our current and prospective partners and service providers; and 
   * for other historical, statistical or research and analysis purposes. 
 
-  
+
+
 In addition, we may "de-identify" personal information by removing any information that identifies you specifically, and use the rest for the purposes set forth above.
 
 _Our Partners._ When we make a vendor's products available for sale through a website we operate, we are doing so as an independent e-commerce reseller of, or service provider for, that vendor, and if the website is co-branded, the partner whose name and/or logo appears on the particular website. In connection with your purchase of a product or service through an online store we operate, we will provide certain of the personal information and/or anonymous information you provide to our partner whose branding appears on the particular website in connection with your purchase to that partner for reporting purposes, to allow our partner or its service provider to register your purchase, to enable your access to products or services provided by our partner or its suppliers, to facilitate warranty, technical support or after-sales service, to allow our partner or its subcontractor to send communications to you if you have consented to receive them, to allow our partner or its service provider to provide services in connection with this website such as customer support or single sign-on functionality on this website and our s website, or for similar purposes in order to fulfill obligations to you. We may also include your name, educational institution, list of purchased products, and manner of verification of educational eligibility to certain product manufacturers if required by them to verify educational eligibility for certain promotions. We may also make your eligibility verification information available for review by such product manufacturers at our facilities in connection with an audit by that product manufacturer, provided the product manufacturer is under contractual obligation to us to keep all such reviewed information confidential. We may also provide certain of the personal information you provide in connection with your purchase to the publisher or manufacturer of a product you purchase, or operator of a service for which you purchase a service use right from us, if different than the partner whose name and/or logo appears on this website. The privacy policy of our partner, and of the publisher, manufacturer or operator of the product or service you provide, will govern how that party uses and protects any of your personal information that we provide to them.
 
 _Our Service Providers._ We utilize other companies, including but not limited to our corporate affiliates, to provide joint services or certain services to us or on our behalf and help us to operate our business. For example, to the extent permitted by applicable law we may use our corporate affiliates and/or other companies to host or maintain this website, to process credit card payments, to provide fraud screening and/or detection services, to perform eligibility verification services, to perform data integrity checks, to offer you a line of credit, to provide website optimization services, to fulfill your order, for payment collection, to deliver advertisements on this website and third party websites, to send mail or e-mail, and/or to provide customer service. We may share your information with our service providers in connection with their provision of services to us. These companies are required by contract to use any information we share with them only to perform services to us or on our behalf and to protect the confidentiality of your personal information. If these companies are collecting anonymous information, we may also allow them to utilize anonymous information for their business purposes. We will not share your personal information with our affiliates or unrelated third parties to use for their own marketing purposes without your consent.
 
-_To Comply With Legal Requirements, Cooperate With Law Enforcement, Prevent Fraud and Other Crimes, and Protect Legal Rights, Property, You and Others._ To the extent permitted by applicable law, we may disclose the personal information we collect on this website without notifying you when we, in good faith, believe disclosure is appropriate to comply with the law or a regulatory requirement; to comply with governmental, administrative or judicial process, requirement or order, such as a subpoena or court order; to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the legal rights, property or safety of Digital River, its corporate affiliates, and their respective employees, clients and partners and agents, other users or the public in general; or to protect your vital interests if determined necessary by us. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share our server IP addresses 
+_To Comply With Legal Requirements, Cooperate With Law Enforcement, Prevent Fraud and Other Crimes, and Protect Legal Rights, Property, You and Others._ To the extent permitted by applicable law, we may disclose the personal information we collect on this website without notifying you when we, in good faith, believe disclosure is appropriate to comply with the law or a regulatory requirement; to comply with governmental, administrative or judicial process, requirement or order, such as a subpoena or court order; to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the legal rights, property or safety of JourneyEd.com, its corporate affiliates, and their respective employees, clients and partners and agents, other users or the public in general; or to protect your vital interests if determined necessary by us. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share our server IP addresses 
 
 _In Connection With Corporate Events._ If one of our corporate affiliates or a third party has acquired our business, specific assets or the business of one of our operating divisions through which you have provided information to us, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation, your personal information will become owned by that company. In that event, the acquiring company's use of your personal information will still be subject to this Privacy Statement, any applicable Supplemental Privacy Notices, and the privacy preferences you have expressed to us.
 
 **Your Choices**   
-JourneyEd.com respects your right to make choices about the ways we collect, use and disclose information about you. We generally ask you to indicate your choices at the time and on the page where you provide your personal information.
+JourneyEd.com respects your right to make choices about the ways we collect, use and disclose information about you. Your personal information will only be used or disclosed for the specific purposes for which it is collected or as authorized by law. 
 
-When you provide personal information, we may offer you a choice as to whether you would like to receive further communications from us and/or from our partners, such as communications related to updates, upgrades, special offers and pricing. You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us, you may let us know by e-mailing us at [optout@JourneyEd.com](mailto:optout@JourneyEd.com) or by following any unsubscribe link in our e-mails; please specify which consent you are revoking in your e-mail to us. Please note, however, if you give us permission to add your contact information to our s mailing list and later withdraw your permission, you will have to contact our Partner (or use opt- provided in the e-mails our Partner sends you) to have your name removed from our s mailing lists.
+At any time you can have your name removed from our email marketing lists. If you wish to opt out of receiving information please click the â€œunsubscribeâ€ link found at the bottom of every email. 
 
-If you decide you do not wish to receive further postal mailings or telephone calls from us or wish to opt-out of our catalog mailing list, please let us know by mailing or faxing a letter containing your name and address to: JourneyEd.com, Inc., ATTN: Do Not Mail, 5212 Tennyson Pkwy. Ste. 130, Plano, TX 75024. To ensure your request is handled accurately, please include a copy of your catalog label with your request. Please make sure to contact us for each address you have provided to us. You may also use the above address to eliminate duplicate catalogs by mailing or faxing a letter containing your name and address and this request, ATTN: Catalog De-Duplication. 
+If you decide you do not wish to receive further postal mailings or telephone calls from us, please let us know by mailing or faxing a letter containing your name and address to: JourneyEd.com, Inc., ATTN: Do Not Mail, 5212 Tennyson Pkwy. Ste. 130, Plano, TX 75024. To ensure your request is handled accurately, please include a copy of your catalog label with your request. Please make sure to contact us for each address you have provided to us. You may also use the above address to eliminate duplicate catalogs by mailing or faxing a letter containing your name and address and this request, ATTN: Catalog De-Duplication. 
 
-If you prefer we do not share your name and address with other marketers, you may opt-out of us doing so by e-mailing us at [optout@JourneyEd.com](mailto:optout@JourneyEd.com), or by mailing or faxing a letter containing your name and address and this request, ATTN: Marketing Opt-Out.
+If you accept a session or persistent cookie, you can delete it at any time through your web browser (e.g., as soon as you leave our website). If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this website. 
 
-If you accept a session or persistent cookie, you can delete it at any time through your web browser (e.g., as soon as you leave our website). If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this website.
-
-We and our partners use third party service providers, which may include but are not limited to Google Analytics 
-
-, to serve ads on our behalf across the Internet, and sometimes on this website. These ads may collect anonymous information about your visits to the website on which such ad is placed, your interaction with these ads and the products and services offered by us, our partners and our suppliers through the use of a pixel tag or other web technologies. We and our partners may use this anonymous information to provide targeted advertisements to you for goods and services. If you would like more information about this practice and to know your choices about not having this anonymous information used, please visit www.networkadvertising.org/consumer/opt_out.asp. You may view a list of third party service providers who collect anonymous information, and/or opt-out of such collection of anonymous information about you, by visiting http://www.networkadvertising.org/managing/opt_out.asp. If you opt out of having your information collected through cookies, web beacons and other tools, your existing display advertising cookie(s) will be deleted and new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a "no-track" cookie). If your browsers are configured to reject cookies when you visit our opt-out page, a "no-track" cookie cannot be set on your computer. Also, if you subsequently erase "no-track" cookies, use a different computer or change web browsers, you will need to opt-out again.
+We and our partners use third party service providers, which may include but are not limited to Google Analytics , to serve ads on our behalf across the Internet, and sometimes on this website. These ads may collect anonymous information about your visits to the website on which such ad is placed, your interaction with these ads and the products and services offered by us, our partners and our suppliers through the use of a pixel tag or other web technologies. We and our partners may use this anonymous information to provide targeted advertisements to you for goods and services. If you would like more information about this practice and to know your choices about not having this anonymous information used, please visit [2]www.networkadvertising.org/consumer/opt_out.asp. You may view a list of third party service providers who collect anonymous information, and/or opt-out of such collection of anonymous information about you, by visiting [3]http://www.networkadvertising.org/managing/opt_out.asp. If you opt out of having your information collected through cookies, web beacons and other tools, your existing display advertising cookie(s) will be deleted and new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a "no-track" cookie). If your browsers are configured to reject cookies when you visit our opt-out page, a "no-track" cookie cannot be set on your computer. Also, if you subsequently erase "no-track" cookies, use a different computer or change web browsers, you will need to opt-out again. 
 
 **Security of Information**
 
@@ -162,7 +122,7 @@ Different countries have different privacy laws and requirements. Please know, h
 
 We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information. 
 
-If you would like to review, correct or challenge your personal information, please contact us by postal mail or fax addressed to us at JourneyEd.com, Inc., ATTN: Information Update, 5212 Tennyson Pkwy. Ste. 130, Plano, TX 75024 or by e-mail at privacy@digitalriver.com. You may write to us in your own language.
+If you would like to review, correct or challenge your personal information, please contact us by postal mail or fax addressed to us at JourneyEd.com, Inc., ATTN: Information Update, 5212 Tennyson Pkwy. Ste. 130, Plano, TX 75024 or by e-mail at privacy@JourneyEd.com. You may write to us in your own language.
 
 If you contact us we may, for your protection, ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if the disclosure may lead to a breach of applicable law and regulation, e.g. in case of any legal obligation to retain certain data, or if you have failed to provide sufficient evidence to verify your identity.
 
@@ -172,12 +132,13 @@ This Privacy Statement is only applicable to the use and disclosure of informati
 
 **Children's Privacy**
 
-If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this website unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to JourneyEd.com's Privacy Department, 5512 Tenyson Pkwy. Ste. 130, Plano, Texas 75024, United States of America or by e-mail at privacy@digitalriver.com, and we wiles, or have privacy-related questions not answered online, you may contact us by any of the following means:
+If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this website unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to JourneyEd.com's Privacy Department, 5512 Tenyson Pkwy. Ste. 130, Plano, Texas 75024, United States of America or by e-mail at privacy@JourneyEd.com, and we wiles, or have privacy-related questions not answered online, you may contact us by any of the following means:
 
   * _By Mail:_ You may contact us by postal mail addressed to JourneyEd.com, Inc., ATTN: Privacy Department, 5212 Tennyson Pkwy. Ste. 130, Plano, Texas 75024, United States of America. 
-  * _By Email:_ You may contact us by e-mail at privacy@digitalriver.com. Please specify "Global Privacy Question" in the subject line to help us to expedite our review of your e-mail.  
+  * _By Email:_ You may contact us by e-mail at privacy@JourneyEd.com. Please specify "Global Privacy Question" in the subject line to help us to expedite our review of your e-mail.  
 
 
-  
+
+
 You may write to us in your own language.  
 
