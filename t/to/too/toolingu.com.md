@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001242id_/http%3A//www.toolingu.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127134818id_/http%3A//www.toolingu.com/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Tooling U-SME
 
 Tooling University LLC (the "Company" or "Tooling University") is committed to protecting your online privacy while you use the services provided by the Company. We urge you to read this privacy statement in its entirety so that you will understand all of the practices and procedures that relate to your online privacy. Tooling University provides high-quality, web-based training on a wide variety of industrial manufacturing topics. This Privacy Statement applies generally to visitors of the Tooling University website (the "Website") and users of its services, including schools and employers. Students enrolled in Tooling University courses ("Students") are also subject to Student Privacy Statement.
 
