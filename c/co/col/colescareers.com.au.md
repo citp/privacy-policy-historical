@@ -1,64 +1,77 @@
-> *The following text is extracted and transformed from the colescareers.com.au privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623053244id_/http%3A//www.colescareers.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colescareers.com.au privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127055848id_/http%3A//www.colescareers.com.au/privacy) for the most accurate reproduction.*
 
 # 
 
 **At Coles we respect the privacy of your personal information in our care. Your privacy is very important to us.**
 
-This statement tells you in general terms what our commitment is for recruitment-related information: why we need to collect personal information, what personal information we collect, how we handle it and who we may disclose it to (outside of Coles). We also collect personal information from you when you are a customer and more information about the terms of privacy is found at [coles.com.au/privacy].
+This statement tells you in general terms what our commitment is for recruitment-related information: why we need to collect personal information, what personal information we collect, how we handle it and who we may disclose it to (outside of Coles). We also collect personal information from you when you are a customer and more information about the terms of privacy is found at [coles.com.au/privacy](http://coles.com.au/privacy).
 
-**Collection of personal information**
+**The kinds of personal information we collect and hold**
 
-The personal information that we collect is mostly supplied by you when you provide your details and resume, apply for a job with Coles contact us or provide feedback to us.
+During the recruitment process we will collect personal information (including sensitive information) about you which may include items such as your name, date of birth, email address, phone number, contact details, employment history, education qualifications, professional licenses, referee details, results of psychometric tests, security checks, video interviews and medical and police checks. 
 
-Personal information includes your name and address, contact details and employment related information such as your employment history, qualifications, reference and other background checks, working rights information and checks, VIVO and police clearances. 
+**How we collect your personal information**
 
-For security, training, dispute resolution and training purposes we may monitor and record your communications with us (including email and telephone) and operate video and audio surveillance devices in our premises. We collect personal information directly from you as well as from anyone authorised to act on your behalf, and other Wesfarmers group companies including flybuys.
+Your personal information (including sensitive information) will be collected via your application form, interviews, over the phone, written correspondence and sometimes from publicly available sources such as LinkedIn or other social media sites. We may also collect information from third parties. For example, we use service providers to run psychometric tests. We also collect personal information from third parties when we carry out background and probity checks and when we collect references. These third parties will have their own privacy policies.
 
-We can't process and fully assess your job application without your personal information.
+If you choose not to provide certain personal information, we may not be able to progress your application, or provide you with direct correspondence regarding employment opportunities at Coles.
 
-Where you provide us with personal information about someone else you must have their consent to provide their personal information to us based on this Privacy Statement.
+You might also need to provide personal information about other individuals to us (e.g. your referee contact details).  If so, we rely on you to inform those individuals that you are providing their personal information to us and to advise them of the matters in this Privacy Statement.  
 
-**Purposes for collecting personal information**
+**How we hold your personal information**
 
-We collect your personal information to:
+We may store your personal information in hard copy or electronic format, in storage facilities that we either own and operate ourselves, or those that are owned and operated by our service providers. At all times, we take reasonable steps to maintain the security of your personal information and to protect it from unauthorised disclosure.
 
-  * Make a decision about whether to offer you employment 
-  * Hold on file for future offers of employment, decisions relating to your employment, should you become employed 
-  * maintain and update our records, and 
-  * dealing with enquiries from you. 
+**How we use your personal information**
 
+Your personal information and application information will be used to  assist us throughout the recruitment process. We may also provideyou with marketing correspondence regarding other employment opportunities at Coles.  We may use your personal information to verify your identity and for other purposes such as contacting referees or performing background checks. 
 
+**Talent Pool**
 
-We may collect, use and disclose your personal information for these purposes.
+We retain personal information we collect about applicants, prospective applicants and previous Coles team members in our Talent Pool. If we include your details in our Talent Pool, we can assess your potential suitability for future job opportunities. We may be in touch from time to time to make sure your contact details are up to date and to let you know about opportunities with Coles that may be of interest to you. You may contact us at any time if this is no longer of interest to you. 
 
-We may also use and disclose personal information for the following purposes:
+**When we disclose your personal information**
 
-•             responding to lawful information requests from courts, government agencies and lawyers
+We may disclose your personal information to recruiters and Coles employees who are involved in our hiring process. Your personal information may also be shared with recruitment agencies and other third parties who are engaged to provide recruitment services on our behalf.  These recipients may be located in Australia or other countries, including the Philippines. We take steps to ensure that our service providers are obliged to protect the privacy and security of your personal information and use it only for the purpose for which it is disclosed.
 
-•             investigating and dealing with suspected fraud and unlawful activity
+**Your agreement to provide accurate information**
 
-•             protecting our lawful interests, and
+You agree to provide your personal information, which is in all respects true, accurate and up to date and is not, in any respect, misleading, deceptive or inaccurate or likely to be misleading or deceptive. 
 
-•             purposes relating to any third party acquisition or potential acquisition of an interest in us or our assets.
+**Procedures for access and correction of personal information**
 
-**Disclosure of personal information**
+If you wish to access or correct any personal information we hold about you, please email us at [careers@coles.com.au](mailto:careers@coles.com.au) with as much detail as you can about the particular information you seek, in order to help us retrieve it. Under the Privacy Act and other relevant laws, we are required to provide our reasons if we refuse your request. Where we decide not to make a requested correction and you disagree, you may ask us to make a note of your requested correction with the information. 
 
-We want to make it easy for you to deal with other Wesfarmers group companies (including flybuys) too. We may exchange and combine personal information with them and each of us may handle your personal information for these purposes where relevant to our business. 
+You are encouraged to help us keep your personal information accurate, complete and up-to-date by updating your PageUp profile via the Applicant login page on our careers website. 
 
-We may exchange your personal information with third parties for background and police checks, institutions who issued your qualifications, government agencies, your referees.  We may also exchange your personal information with our service providers who assist us with recruitment services including data processing, data analysis, online computing, printing, contact centre, legal, accounting, auditing, archival, delivery, security, investigation and mailing services. We take steps to ensure that our service providers are obliged to protect the privacy and security of your personal information.
+Please contact us at [careers@coles.com.au](mailto:careers@coles.com.au) if you think there is something wrong with the information we hold about you and we'll try to correct it. We'll try and help where we can - if we can't, then we'll let you know in writing.
 
-We may transfer your personal information to services providers outside Australia where we rely on that provider to perform some aspect of our operations on our behalf.  It is likely that the countries to which your information might be disclosed are: Argentina, China, Canada, Hungary, India, Israel, Ireland, Italy, Japan, Hong Kong, Mexico, Netherlands, New Zealand, Pakistan, Philippines, Poland , Singapore, Spain, South Korea, UAE, United Kingdom, United States of America.
+**Process for feedback and complaints**
 
-Coles application forms use a process cased Secure Sockets Layer (SSL) technology. SSL locks all information passed from you to us in an encrypted enveloped making it extremely difficult for this information to be intercepted.
+If you have any feedback or concerns about privacy, please contact us as set out below. Where you seek a response from us, we will let you know who will be handling your matter and when you can expect a full response.  
 
-**Access & Complaints**
+From time to time we may need to change this statement. If we do so, the updated version will apply to all of your personal information held by us at that time. You can obtain an up to date version of this privacy statement by contacting us at [careers@coles.com.au](mailto:careers@coles.com.au) or by visiting colescareers.com.au and initiating any job application (you will not have to complete the application).
 
-If you would like to access your personal information, email [colesrecruitment@coles.com.au.](mailto:colesrecruitment@coles.com.au.)
+**Additional privacy information**
 
-If you have a concern about whether we've complied with our obligations under the Privacy Act, please contact us via the email address stated above or via the recruitment hotline, 1800 170 947.
+In addition to this Privacy Policy, many Coles and Wesfarmers companies and brands have their own privacy statements and other terms which provide further information about your privacy, e.g. flybuys, Coles Insurance and Coles MasterCard. Please see the relevant material relating to those products and services for details, including where those Coles-branded products and services are provided by or with third parties who may collect your personal information. 
 
-Where you seek a response from us, we will let you know who will be handling your matter and when you can expect a full response.
+For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/) and on 1300 363 992. 
 
-**Coles Privacy**
+**Contact**
 
-The Coles Privacy Policy and Statement also applies to your personal information [www.coles.com.au/privacy](http://www.coles.com.au/privacy).
+**Queries regarding privacy should be directed to Coles Customer Care**
+
+**Phone: 1800 061 562**
+
+**Email:**   [careers@coles.com.au](mailto:careers@coles.com.au)  
+**Post:**     800 Toorak Road  
+             Hawthorn East  
+             VIC 3123
+
+Last updated: June 2014
+
+Coles Supermarkets Australia Pty Ltd  
+ABN 45 004 189 708
+
+Back to top
