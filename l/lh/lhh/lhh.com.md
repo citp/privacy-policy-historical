@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625211723id_/http%3A//www.lhh.com/en-US/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127101847id_/http%3A//www.lhh.com/en-US/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Lee Hecht Harrison
 
