@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the formice.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022846id_/http%3A//cheese.formice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formice.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127054322id_/http%3A//cheese.formice.com/privacy-policy) for the most accurate reproduction.*
 
-# Cheeseformice: Taste the Cheese!
+# Cheeseformice: Channel the Cheese!
 
 ### Privacy Policy/Terms of Service
 
