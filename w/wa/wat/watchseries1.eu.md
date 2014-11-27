@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchseries1.eu privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513131123id_/http%3A//www.watchseries1.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchseries1.eu privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127122350id_/http%3A//www.watchseries1.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Watch at WatchSeries1
+# Privacy Policy - WatchSeries1
 
 At WatchSeries1 we are committed to safeguarding and preserving the privacy of our visitors.
 
@@ -65,3 +65,5 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 **Contacting Us**
 
 Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at <http://www.watchseries1.eu/contact-us/>.
+
+Published: September 8, 2013 by WatchSeries1 
