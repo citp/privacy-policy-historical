@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seg.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606025717id_/http%3A//www.seg.org/footer/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seg.org privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127102250id_/http%3A//www.seg.org/footer/privacynotice) for the most accurate reproduction.*
 
 # seg.org - Privacy Notice
 
@@ -7,8 +7,7 @@
 _Navigate to a section quickly by clicking a link below:_
 
 **  
-Privacy Overview**
-
+Privacy Overview**  
 The Society of Exploration Geophysicists (SEG) serves the geoscience community with timely events, helpful information, and networking opportunities, all with the purpose of advancing geophysics today and inspiring geoscientists for tomorrow.
 
 As a valued member of SEG you will receive e-mail and mail notifications. We respect the privacy of all our members and make maintaining the security of your personal information a priority.
@@ -31,16 +30,25 @@ _SEG does:_
 
 
 
+SEG works closely with the leadership of SEG Sections and Associated Societies and with SEG District Representatives to encourage respective constituencies in their relationships with SEG. In doing so, SEG may from time to time share the names of members with the leadership of these entities. In the event that names are transferred, the leadership of SEG Sections and Associated Societies, and SEG District Representatives assume management of the disposition of electronic exchanges.
+
+View SEG's Sections and Associated Societies
+
+[**View SEG's Board of Directors and Committee and Subcommittee members**](http://member.seg.org/Committees/tabid/320/Default.aspx)
+
 [_Back to top_](https://web.archive.org/footer/privacynotice#top)
 
 **Contact Information**  
-Collected Member information is used to provide you valuable member services, such as discounts on publications, Annual Meeting discounts, Professional Development discounts, publications, and catalogs and promotions of publications, meetings, and other products and information of interest to you.
+Collected Member information is used to provide you valuable member services, such as discounts on publications, Annual Meeting discounts, Professional Development discounts, and access to The Leading Edge , as well as catalogs and promotions of publications, meetings, and other products and information of interest to you.
 
 SEG also collects information from customers, both members and nonmembers, who request information or purchase products and services from SEG. This information is collected on an order form, an event registration form, or in another manner. SEG collects contact information (address, phone number, etc.), payment information (an account or credit card number), and other information. This information is used to fulfill orders and to contact the customer as necessary.
 
-The SEG database contains information on members and nonmembers, including authors, exhibitors, advertisers, and service providers, for the purpose of conducting official SEG business.
+The SEG database contains information on members and nonmembers, including authors, exhibitors, advertisers, service providers, for the purpose of conducting official SEG business.
 
 SEG makes information from its membership database available to other members through the online Membership Directory.
+
+Member and non-member basic information (prefix, first name, last name, address, email and customer ID) is available through a search feature in the event registration process. This enables a designated company contact to register multiple employees for an event. The company contact must be appointed by a company and access granted by SEG to utilize this feature. Information provided through this interface will not be displayed in public member/nonmember search results.  
+ 
 
 _[Back to top](https://web.archive.org/footer/privacynotice#top)_
 
@@ -69,7 +77,12 @@ _[Back to top](https://web.archive.org/footer/privacynotice#top)_
 Your online account that you use to complete monetary transactions does not save or display credit-card information. Additionally, all consumer transactions, such as book and course purchases, are completed on a secure and encrypted page.  
  
   * **_Public Profiles  
-_**_Registered Users_ \- Any non-SEG member who clicks on the _Register_ link on the SEG website and provides a small amount of personal information (e-mail, username, name, address, and password) will receive a Basic Public Profile. This basic profile is viewable to the world and can display the individual's name, photo, company name, current position, a short bio, address, email and the OLC communities to which he or she belongs. _By default, the profile is selected to be hidden in the user's privacy settings and will not be returned in the member search results._ _SEG Members_ \- All SEG members automatically receive an Expanded Professional Profile, which can display the individual's name, photo, member status, company name, current position, a short bio, contact information (address, phone, fax, email) selected topics of interest, publications and website links, experience, and education. Only SEG members who are signed in will be able to view another SEG member's Expanded Professional Profile. All SEG members who are not signed in, all registered users who are signed in, and the general public will be able to view only the Basic Public Profile information (name, photo, member status, company name, current position, short bio, and the communities to which they belong). _By default, the only information that is automatically populated in an SEG member's Expanded Professional Profile will be member name, member status, business address, business phone, business   fax, primary e-mail, and OLC communities of which he or she is a member. Company name and current position is displayed from the primary address on record. It will be automatically displayed by default if the primary address on file is the business address; otherwise it will not be displayed until added by the individual to his or her selected primary address. About Me, Topics of Interests, Experience and Connections will remain blank unless populated by the member. Education is populated from the membership application and will remain blank unless selected for display in the user's privacy settings._  
+_**
+
+_**Public Profiles**_  
+_Registered Users_ \- Any non-SEG member who clicks on the _Register_ link on the SEG website and provides a small amount of personal information (email, username, name, address, and password) will receive a Basic Public Profile. This basic profile is viewable to the world and can display the individual's name, photo, company name, current position, a short bio, address, email and the OLC communities to which he or she belongs. _By default, the profile is selected to be hidden in the user's privacy settings and will not be returned in the member search results._
+
+_SEG Members_ \- All SEG members automatically receive an Expanded Professional Profile, which can display the individual's name, photo, member status, company name, current position, a short bio, contact information (address, phone, fax, email) selected topics of interest, publications and website links, experience, and education. Only SEG members who are signed in will be able to view another SEG member's Expanded Professional Profile. All SEG members who are not signed in, all registered users who are signed in, and the general public will be able to view only the Basic Public Profile information (name, photo, member status, company name, current position, short bio, and the communities to which they belong). _By default, the only information that is automatically populated in an SEG member's Expanded Professional Profile will be member name, member status, business address, business phone, business   fax, primary e-mail, and OLC communities of which he or she is a member. Company name and current position is displayed from the primary address on record. It will be automatically displayed by default if the primary address on file is the business address; otherwise it will not be displayed until added by the individual to his or her selected primary address. About Me, Topics of Interests, Experience and Connections will remain blank unless populated by the member. Education is populated from the membership application and will remain blank unless selected for display in the user's privacy settings._  
  
   * **_Privacy Settings for Public Profiles_**  
 Registered Users and SEG Members can select to hide or display their entire profile, or only select individual fields to display such as education, phone, fax, e-mail, and addresses via their Manage My Account menu, Privacy Settings page, which is available upon successful sign in. The available options are dependent upon the type of profile received. Members receive the Expanded Professional Profile, while Registered Users receive the Basic Public Profile.
@@ -92,7 +105,7 @@ SEG has instituted a panel of volunteer SEG Member moderators who have permissio
 
 It is incumbent upon all SEG members choosing to edit Wiki entries to represent the Society properly with well-written, concise, and factual information.
 
-_[Back to top](https://web.archive.org/web/20130606025717id_/http%3A/footer/privacynotice#top)_
+_[Back to top](https://web.archive.org/web/20141127102250id_/http%3A/footer/privacynotice#top)_
 
 **Standard Best Practices**  
 How can you help us maintain the security of your information and your committee activities and documents? The following outlines some standard best practices that will minimize the chances that someone can view or use your information.
