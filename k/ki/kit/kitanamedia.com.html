@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kitanamedia.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625084539id_/http%3A//kitanamedia.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kitanamedia.com privacy policy that was archived on 2014-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141127210025id_/http%3A//kitanamedia.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]--><!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]--><!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]--><!--[if gt IE 8]><!--><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -41,8 +41,12 @@ document.querySelector("meta[name=MobileOptimized]").content="320.1";
     dfp_leaderboard_728 = googletag.defineSlot('/7571646/header_728x90', [728, 90], 'dfp_leaderboard_728').addService(googletag.pubads());    
     //dfp_leaderboard_970 = googletag.defineSlot('/7571646/header_970x90', [970, 90], 'dfp_leaderboard_970').addService(googletag.pubads());
 
+    // MPU / sky
     dfp_mpu = googletag.defineSlot('/7571646/mpu', [300, 250], 'dfp_mpu').addService(googletag.pubads()).setTargeting('expandable', 'no');;
     dfp_supersky = googletag.defineSlot('/7571646/supersky', [ [300, 250] , [300, 600] ], 'dfp_supersky').addService(googletag.pubads()).setTargeting('expandable', 'yes');
+
+    // Takeover skin
+    dfp_takeover = googletag.defineOutOfPageSlot('/7571646/takeover', 'dfp_takeover').addService(googletag.pubads());    
   });
   googletag.cmd.push(function() {   
     // Enable async
@@ -149,7 +153,8 @@ document.querySelector("meta[name=MobileOptimized]").content="320.1";
 <!--Digital window verification 001 -->
 <script async="" type="text/javascript" src="//disqus.com/forums/kitanamedia/count.js"></script></head>
 
-<body class="page page-id-100 page-template-default group-blog">
+
+<body class="page page-id-100 page-template-default group-blog" data-bgcolor="#0082be" data-bgskin="http://kitanamedia.com/wp-content/themes/n2/img/bg.jpg">
 
 <!-- media query hook -->
 <div id="mq"></div>
@@ -158,7 +163,7 @@ document.querySelector("meta[name=MobileOptimized]").content="320.1";
 <div class="wrapper">
 
   <!-- background element -->
-  <div class="bg"></div>
+  <div class="xbg"></div>
 
   <!-- ads / leaderboard -->
   <div class="container container--promos hidden-mobile visible-tablet visible-desktop">
@@ -166,7 +171,7 @@ document.querySelector("meta[name=MobileOptimized]").content="320.1";
     <div class="promo group">
     <div class="promo-content promo-728x90">    <!-- Leaderboard advert -->
     
-    <div class="av hidden-mobile visible-tablet visible-desktop" data-loaded="no" data-sizes="768 1024 1280" data-name="728x90 Leaderboard" data-params="dfp_leaderboard_728" id="dfp_leaderboard_728"></div>
+    <div class="av hidden-mobile visible-tablet visible-desktop" data-loaded="no" data-sizes="768 992 1280" data-name="728x90 Leaderboard" data-params="dfp_leaderboard_728" id="dfp_leaderboard_728"></div>
     
     <!--<div class="av hidden-mobile visible-tablet visible-desktop visible-desktop_extended" data-loaded="no" data-sizes="1024 1280" data-name="970x90 Leaderboard (1024 / 1280 only)" data-params="dfp_leaderboard_970" id="dfp_leaderboard_970"></div>-->
 
@@ -396,6 +401,7 @@ document.querySelector("meta[name=MobileOptimized]").content="320.1";
       
     </div>
     
+
     </div> <!-- end of div.content -->
 
     <footer class="group" role="contentinfo">
@@ -515,38 +521,11 @@ document.querySelector("meta[name=MobileOptimized]").content="320.1";
 </div>
 <!-- end Overall wrapper -->
 
-<script>
-/*
 
-// 3rd party skin should disable default skin's ability to load
-$.takeover_3rdparty = {};
-$.takeover_3rdparty.has_skin = true;
-
-// On ready and resize, "load" the skin/bg colour, passing the viewport width
-$(document).ready(takeover_3rdparty_execute);
-$(window).resize(takeover_3rdparty_execute);
-
-function takeover_3rdparty_execute() {
-  load_frameset_skin("img/bg-wenb.jpg","#0000be", $.takeover.viewport_width);
-}
-
-*/
-</script>
-
-
-<script>
-// On ready and resize, "load" the skin/bg colour, passing the viewport width
-// The bg image should be in the (child)theme's "img" directory.
-// $(document).ready(takeover_execute);
-$(window).resize(takeover_execute);
-
-function takeover_execute() {
-  if ( $.takeover_3rdparty.has_skin == false ){
-    load_frameset_skin("http://kitanamedia.com/wp-content/themes/n2/img/bg.jpg","#0082be", $.takeover.viewport_width);
-  }
-}
-</script>
-
+<!-- background takeover -->
+    <!-- Takeover skin -->
+    <div class="xbg av" data-loaded="no" data-sizes="1280" data-name="Takeover skin (1280 and up)" data-params="dfp_takeover" id="dfp_takeover"></div>
+    
     <script type="text/javascript">
     // <![CDATA[
         var disqus_shortname = 'kitanamedia';
@@ -584,7 +563,5 @@ function takeover_execute() {
 	    </script>
 
 
-<!-- This Quick Cache file was built for (  kitanamedia.com/privacy-policy/ ) in 0.18256 seconds, on Jun 25th, 2014 at 7:54 am UTC. -->
-<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jun 25th, 2014 at 8:54 am UTC -->
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<!-- Quick Cache Is Fully Functional :-) ... A Quick Cache file was just served for (  kitanamedia.com/privacy-policy/ ) in 0.01421 seconds, on Jun 25th, 2014 at 8:45 am UTC. --></body></html>
+<!-- This Quick Cache file was built for (  kitanamedia.com/privacy-policy/ ) in 0.18980 seconds, on Nov 27th, 2014 at 9:00 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Nov 27th, 2014 at 10:00 pm UTC --></body></html>
