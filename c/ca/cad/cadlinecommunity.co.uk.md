@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadlinecommunity.co.uk privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609174829id_/http%3A//cadlinecommunity.co.uk/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadlinecommunity.co.uk privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127080820id_/http%3A//www.cadlinecommunity.co.uk/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
