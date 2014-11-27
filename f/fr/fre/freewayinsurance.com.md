@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewayinsurance.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523000332id_/http%3A//www.freewayinsurance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewayinsurance.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127205313id_/http%3A//www.freewayinsurance.com/privacy-policy) for the most accurate reproduction.*
 
-# Freeway Insurance |
+# Freeway Insurance
 
 You have certain rights under state and federal law with respect to the privacy of information Freeway Insurance Services, Inc., and its Affiliated Companies (collectively “we”, “our” or “us”) obtain about you when we place insurance on your behalf or provide related insurance services primarily for personal, family, or household use.  We will only share your information for purposes of placing your insurance, to offer you products and services, or as otherwise permitted by law.
 
