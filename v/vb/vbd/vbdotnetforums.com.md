@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517003517id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127221101id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
 
 # NC Software Privacy Statement
 
