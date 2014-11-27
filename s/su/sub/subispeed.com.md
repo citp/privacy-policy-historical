@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subispeed.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628182416id_/http%3A//www.subispeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subispeed.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127172723id_/http%3A//www.subispeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,24 +12,22 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To personalize your experience  
+\- To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-; To improve our website  
+\- To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To improve customer service  
+\- To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions
-
-http://www.iflscience.com/physics/simple-mindblowing-helium-balloon-experimentremails
+\- To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To administer a contest, promotion, survey or other site feature
+\- To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails
+\- To send periodic emails
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
@@ -71,9 +69,9 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.subispeed.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [here](https://web.archive.org/terms).
 
-**Your Consent**
+ **Your Consent**
 
 By using our site, you consent to our websites privacy policy.
 
@@ -91,6 +89,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 Des Moines, IA 50314  
 USA
 
-sales@subisport.com
+E-mail ([click here](https://web.archive.org/contacts/))
 
 888-885-2002
