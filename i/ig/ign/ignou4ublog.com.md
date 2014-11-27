@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ignou4ublog.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022823id_/http%3A//www.ignou4ublog.com/2009/07/privacy-policy-for-wwwignou4ublogspotco.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignou4ublog.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127134811id_/http%3A//www.ignou4ublog.com/2009/07/privacy-policy-for-wwwignou4ublogspotco.html) for the most accurate reproduction.*
 
 # IGNOU 2014: Privacy Policy for www.ignou4ublog.com IGNOU Admission, Courses,Results, Hall Tickets, Exams, Question Papers,Assignments
 
