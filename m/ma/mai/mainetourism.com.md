@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519180751id_/http%3A//www.mainetourism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127075303id_/http%3A//www.mainetourism.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Maine Tourism Association
 
