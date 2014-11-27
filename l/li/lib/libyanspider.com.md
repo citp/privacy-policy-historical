@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625194724id_/http%3A//libyanspider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127114939id_/http%3A//libyanspider.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Libyan Spider
+# Privacy Policy - Libyan Spider
 
 At LibyanSpider.com we care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting the LibyanSpider.com Web site (the “Site”) or by otherwise interacting with LibyanSpider.com, you agree to accept the practices described in this Privacy Notice.
 
