@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmanager.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103082948id_/http%3A//www.classmanager.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmanager.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127100301id_/http%3A//www.classmanager.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Class Manager
 
