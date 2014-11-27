@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iflowreader.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122112id_/http%3A//iflowreader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflowreader.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127192557id_/http%3A//iflowreader.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jailbreak iOS 7.1 7.0.4 6.1.3 Untethered iPhone 5S 5 4S 4, iPad and iPod
+# Privacy Policy | iFlowReader - Technology Guides and How To's
 
 **Cookies & 3rd Party Advertisements**
 
