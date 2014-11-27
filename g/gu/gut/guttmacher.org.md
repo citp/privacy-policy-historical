@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529024417id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127170354id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
 
 # Guttmacher Institute: Privacy Policy
 
@@ -8,7 +8,7 @@ The Guttmacher Institute has created this privacy statement to demonstrate the I
 
 ## PERSONALLY IDENTIFYING INFORMATION
 
-You do not have to provide personally identifying information to visit our site. If you choose not to provide personal information when prompted, you can still visit most of our web pages pages. 
+You do not have to provide personally identifying information to visit our site. If you choose not to provide personal information when prompted, you can still visit most of our web pages. 
 
 We may collect personally identifiable information (name, email address, physical address and other unique identifiers) only if specifically and knowingly provided by you. Personally identifying information collected will be used only in connection with our Web site, or for such purposes as are described at the point of collection, (e.g. purchase transactions, requests for printed materials, list serve signup, requests for download permission of selected online content.) Personally identifying information may also be used to gather broad demographic information about our user community and/or to perform analyses of user behavior in order to measure visitor interest in specific areas of the Web site. 
 
