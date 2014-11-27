@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052056id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127202446id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Oro Jackson
 
-**By registering on http://orojackson.com/ you agree to have read and accepted the privacy policy mentioned on this page and[Terms and Rules](http://orojackson.com/pages/rules/).**
+**BY REGISTERING ON ORO JACKSON, YOU AGREE TO HAVE READ AND ACCEPTED THE PRIVACY POLICY MENTIONED ON THIS PAGE AND AGREE TO HAVE READ OUR[COMMUNITY GUIDELINES](http://orojackson.com/pages/rules/).**
 
 ## PRIVACY
 
@@ -67,7 +67,7 @@ Controlling cookies and cookie preferences must be handled within your browser. 
 
 Published:
     Jul 12, 2011
-Page views:
-    1,804
+Page Views:
+    2,915
 
 [ ](http://orojackson.com/)
