@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the java4s.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630055156id_/http%3A//www.java4s.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java4s.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127222132id_/http%3A//www.java4s.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Java4s.com
 
-by    | Last Updated On Jun 30, 2014 
+by    | Last Updated On Nov 23, 2014 
 
 Takes your privacy seriously. This privacy policy describes what information we collect and how we use it.
 
