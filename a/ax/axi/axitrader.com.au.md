@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the axitrader.com.au privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210154102id_/http%3A//www.axitrader.com.au/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axitrader.com.au privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127140042id_/http%3A//www.axitrader.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # AxiTrader - Privacy Policy
 
-### AxiCorp Respects Each Individual’s Right to Privacy.
+### AxiCorp Respects Each Individual’s Right to Privacy
 
 We realise how important it is for us to safeguard any personal information that may reveal your identity or account information, whether you are our client or a visitor to our Web site’s public domain.
 
