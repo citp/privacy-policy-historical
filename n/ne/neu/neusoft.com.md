@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neusoft.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615103513id_/http%3A//www.neusoft.com/1205/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neusoft.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127164507id_/http%3A//www.neusoft.com/1205/index.html) for the most accurate reproduction.*
 
-# Neusoft - Privacy Statement
+# Privacy Statement_Neusoft
 
 **Statement:** Neusoft Corporation (Neusoft) is committed to respecting and protecting your privacy. This Privacy Statement explains data collection and use practices of Neusoft.com (hereinafter called the Site). By accessing the Site, you are consenting to the information collection and use practices described in this Privacy Statement.
 
