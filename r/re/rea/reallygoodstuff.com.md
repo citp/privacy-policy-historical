@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallygoodstuff.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611081507id_/http%3A//www.reallygoodstuff.com/privacy/a/Customer_Service_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallygoodstuff.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127064450id_/http%3A//www.reallygoodstuff.com/privacy/a/Customer_Service_Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,7 +20,7 @@ Most web sites use what is known as a 'cookie', which is a small data file that 
 
 **How We Use Email**
 
-When you provide us your email address, we may send you emails necessary to process your order, respond to your requests, provide additional customer service, promote products, as well as our informative teacher-focused newsletter. It is our intent to send promotional emails only to those persons who wish to receive them. We provide instructions on how to unsubscribe with every promotional email and you may unsubscribe from this link by clicking [here.](http://echo3.bluehornet.com/phase2/survey1/survey.htm?CID=opakns)
+When you trust Really Good Stuff with your e-mail address, we will send you emails necessary to process your order, respond to your requests, and provide additional customer service. We will also notify you about special offers and customer appreciation events. It is our express intent to only send promotional emails to those persons who wish to receive them. Out of respect for your privacy, if at any time you decide you no longer wish to receive email communications, you can easily opt-out by unsubscribing. The [unsubscribe link](http://www.reallygoodstuff.com/email_preference_opt_down/a/email_preference_opt_down/) is included at the bottom of every e-mail communication. You can also visit our [**Really Good Stuff® Preference Center**](http://www.reallygoodstuff.com/email_preferences/a/email_preferences/?email=Enter+your+email+address) where you can update your email address and other information. You may also opt out by contacting us at [writeus@reallygoodstuff.com](mailto:writeus@reallygoodstuff.com) or by calling Customer Service: 1-877-876-1920. 
 
 **Sharing Information with you.**
 
