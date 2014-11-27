@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsportal.in privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325024731id_/http%3A//www.jobsportal.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsportal.in privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127203925id_/http%3A//www.jobsportal.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
