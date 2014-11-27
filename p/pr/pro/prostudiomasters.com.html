@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prostudiomasters.com privacy policy that was archived on 2014-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140405093824id_/http%3A//www.prostudiomasters.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prostudiomasters.com privacy policy that was archived on 2014-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141127141005id_/http%3A//www.prostudiomasters.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js no-touch rgba backgroundsize borderradius boxshadow textshadow opacity cssanimations audio"><head>
 
@@ -9,7 +9,7 @@
 	<meta name="author" content="ProStudioMasters.com, Inc.">
 	<meta name="title" content="Privacy Policy - ProStudioMasters - Audio Uncompromised™">
 	<meta name="keywords" content="FLAC, AIFF, download, music, high-res audio, high-resolution audio, high-resolution audio files, uncompressed, lossless, CD, SACD, HDCD, HD, tracks, hifi, hi-fi, 44.1/24, 48/24, 88.2/24, 96/24, 176.4/24, 192/24, kHz, 24-bit, 32-bit, pro studio, pro studio masters">
-	<meta name="description" content="ProStudioMasters is an online music store for high-resolution audio downloads in AIFF, FLAC and DSD/DFF formats.">
+	<meta name="description" content="ProStudioMasters is an online music store for high-resolution audio downloads in PCM / AIFF, FLAC and DSD / DSF formats.">
 
 	
 
@@ -29,6 +29,14 @@
 	<script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/jquery.cookie.140/jquery.cookie.js"></script>
 
 	<script type="text/javascript" charset="utf-8">
+
+      // CREDIT https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim
+      if (!String.prototype.trim) {
+        String.prototype.trim = function () {
+          return this.replace(/^\s+|\s+$/g, '');
+        };
+      }
+   
 		PSM = {};
 		PSM.quickview = {};
 		PSM.store = 'us';
@@ -112,6 +120,14 @@
 				location.href = '/?store=' + $(this).val();
 			});
 
+         // INLINE CLICKABLE FOR SEARCH
+         PSM.u2search = function() {
+            $('.album-info u, .recording-info u, .album-info-container u, .recording-info-container u').each(function(){
+               var s = $(this).text();
+               $(this).replaceWith('<a href="search?q='+s+'">'+s+'</a>');
+            });
+         };
+
 		});
 
 	</script>
@@ -120,9 +136,18 @@
 	<style type="text/css">
 		body { margin-top: 115px; }
 		#header { position: fixed; top: 0; width: 100%; z-index: 2; box-shadow: 0 5px 25px rgba(0,0,0,0.5); border-bottom: 1px solid #23262b; }
-		#header form.search { display: inline; }
+
+      #header #nav { margin-top: 20px; margin-right: 20px; font-size: 12px; }
+		#header #nav a { font-size: 12px; }
+		
+		#header h1 { top: 6px; padding: 0; }
+
+      #header #social-follow { position: absolute; top: 36px; left: 300px; opacity: 0.5; }
+		#header #search-browse { position: absolute; top: 48px; left: 632px; }
+
+		#header form.search { display: inline; margin-top: 0px; }
 		#header form.search input.q {
-			width: 140px;
+			width: 180px;
 			font-size: 12px;
 			color: #c3c6cb;
 			margin: 0 0 0 7px;
@@ -134,11 +159,17 @@
 			outline: none;
 		}
 		#header form.search input.small { padding: 0 0; height: 26px; line-height: 1; font-size: 11px; }
-		#header #nav a { font-size: 12px; }
+
+		#header_genres_nav { position: absolute; top: 91px; left: 6px; width: 934px; z-index: 10; border-collapse: collapse; border-spacing: 0; }
+		#header_genres_nav td { font-size: 11px; font-weight: 300; padding: 0 7px 0 7px; white-space: nowrap; border-top: 1px solid #53565b; text-align: center; }
+		#header_genres_nav td a { color: #a3a6ab; display: inline-block; padding: 5px 0 6px 0; text-decoration: none; }
+		#header_genres_nav td.on { border-top: 1px solid #1691E2; -background: #23262b; }
 		
 		#footer .select-store { font-size: 12px; outline: none; }
 			
 		#main.home { position: relative; padding-top: 30px; }
+		
+		span.count { margin-left: 1em; padding-left: 8px; padding-right: 8px; font-size: 11px; }
 
 		.stop-scrolling { width: 100%; height: 100%; overflow: hidden; }
 		#overlay { width: 100%; height: 100%; margin: 0 0 0 0; padding: 0; position: fixed; top: 0; left: 0; background: rgba(0,0,0,0.5); display: none; z-index: 998; }
@@ -146,6 +177,11 @@
 		#quickview { position: fixed; width: 720px; height: 540px; top: 20px; left: 20px; display: none; background: #e3e6eb; box-shadow: 0 0 50px #000; color: #111; text-shadow: 0 1px 0 rgba(255,255,255,0.3); text-align: left; z-index: 999; clear: both; }
 		#quickview .content { margin: 0; padding: 0; font-weight: 300; }
 		#quickview a { color: #357; }
+		#quickview a.genre { color: inherit; line-height: 1.3; font-size: 13px; }
+		#quickview a.genre:hover { text-decoration: underline; }
+
+		a.genre { color: inherit; line-height: 1.4; }
+		a.genre:hover { text-decoration: underline; }
 		
 		#quickview .content .close { position: absolute; top: 14px; right: 0; display: inline-block; padding: 0.5em 0.75em; font-size: 11px; color: #93969b; line-height: 1; background: transparent; cursor: pointer; border: 1px inset #fff; }
 		#quickview .content .mast { margin: 12px; width: 660px; -background: #eee; }
@@ -232,9 +268,25 @@
 		#faq24 ul li  { list-style-type: circle; margin: auto 2em; font-size: 12px; color: #eee; }
 		#faq24 a  { color: #fff; text-decoration: underline; }
 		
+		.album-info u, .recording-info u, .album-info-container u, .recording-info-container u {
+		   text-decoration: none;
+		}
+
+		.album-info a, .recording-info a, .album-info-container a, .recording-info-container a {
+		   text-decoration: none;
+		   color: rgba(210,230,255,1) !important;
+		}
+
+		.album-info a:hover, .recording-info a:hover, .album-info-container a:hover, .recording-info-container a:hover {
+		   color: rgba(210,230,255,0.9) !important;
+		}
+		
+		.format_badges { margin: 5px 0 0 0; text-align: left; cursor: default; }
+		.format_badges .badge { display: inline-block; padding: 1px 4px 1px 2px; border-radius: 0px; background: #63666b; color: #03060b; text-shadow: 0 1px 0px rgba(255,255,255,0.1); font-weight: 400; font-size: 9px; line-height: 1 !important; margin: 0 2px 2px 0; box-shadow: 1px 1px 1px rgba(0,0,0,0.1); text-transform: uppercase; text-align: left; min-width: 2.75em; }
+		
 	</style>
 
-	<script type="text/javascript" src="static/js/album_quickviewB.js"></script>
+	<script type="text/javascript" src="static/js/album_quickviewC.js"></script>
 	
 	<script type="text/javascript" charset="utf-8">
 		/* Modernizr 2.6.2 (Custom Build) | MIT & BSD
@@ -363,16 +415,6 @@ window.fbAsyncInit = function() {
 			<ul id="nav">
 
 								<li>Hello</li>
-				<li class="sfmenu">
-					<a href="featured" class="nounderline">Browse By Genre <img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/downarrow.png" width="11" height="8" border="0" alt=""></a>
-					<ul>
-						<li><a href="topsellers">Top Sellers</a></li>
-						<li><a href="featured/genre/classical">Classical</a></li>
-						<li><a href="featured/genre/jazz">Jazz</a></li>
-						<li><a href="featured/genre/rockpop">Rock / Pop</a></li>
-						<li><a href="featured/genre/other">More</a></li>
-					</ul>
-				</li>
 				<li><a href="account">My Account</a></li>
 				<li><a href="downloads">Downloads</a></li>
 				<li><a href="redeem">Redeem</a></li>
@@ -381,20 +423,40 @@ window.fbAsyncInit = function() {
 				
 			</ul>
 			
-			<div id="search-browse" style="position: absolute; top: 64px; left: 610px;">
+			<div id="search-browse">
 				<form class="search" action="search" method="get">
 					<input type="text" tabindex="1" name="q" class="q" placeholder=""> 
 					<input type="submit" class="button small" value="Search">
 				</form>
 			</div>
 			
-			<div id="social-follow" style="position: absolute; top: 66px; left: 896px;">
+			<div id="social-follow">
 				<a target="_blank" href="http://www.facebook.com/prostudiomasters"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-facebook.png" width="22" height="22" border="0" alt="Like us on Facebook" style="border-radius: 1em;"></a>
-				<a target="_blank" href="http://www.twitter.com/prostudiom"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-twitter.png" width="22" height="22" border="0" alt="Follow us on Twitter" style="border-radius: 1em; margin-left: 2px;"></a>
+				<a target="_blank" href="http://www.twitter.com/prostudiom"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-twitter.png" width="22" height="22" border="0" alt="Follow us on Twitter" style="border-radius: 1em; margin-left: 3px;"></a>
 			</div>
 						
 		</div>
 		<div class="flashdata"></div>
+		
+		<table id="header_genres_nav">
+		   <tbody><tr>
+				<td class=""><a href="topsellers">Top Sellers</a></td>
+				<td class=""><a href="featured">Recently Added</a></td>
+		      				<td class=""><a href="featured/genre/alternative">Alternative</a></td>
+								<td class=""><a href="featured/genre/blues">Blues</a></td>
+								<td class=""><a href="featured/genre/classical">Classical</a></td>
+								<td class=""><a href="featured/genre/country">Country</a></td>
+								<td class=""><a href="featured/genre/francophone">Francophone</a></td>
+								<td class=""><a href="featured/genre/holiday">Holiday</a></td>
+								<td class=""><a href="featured/genre/jazz">Jazz</a></td>
+								<td class=""><a href="featured/genre/pop">Pop</a></td>
+								<td class=""><a href="featured/genre/rbsoul">R&amp;B/Soul</a></td>
+								<td class=""><a href="featured/genre/rock">Rock</a></td>
+								<td class=""><a href="featured/genre/soundtrack">Soundtracks</a></td>
+								<td class=""><a href="featured/genre/world">World</a></td>
+								<td class=""><a href="featured/genre/other">Other</a></td>
+			</tr>
+		</tbody></table>
 
 	</div>
 </div> <!-- /#header -->
