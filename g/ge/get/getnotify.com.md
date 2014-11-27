@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getnotify.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327102132id_/http%3A//www.getnotify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getnotify.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127150330id_/http%3A//www.getnotify.com/privacy) for the most accurate reproduction.*
 
 # GetNotify - Privacy Policy
 
