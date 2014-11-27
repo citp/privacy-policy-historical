@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condecosoftware.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407094656id_/http%3A//www.condecosoftware.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condecosoftware.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127225334id_/http%3A//www.condecosoftware.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Condeco
 
@@ -96,4 +96,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [enquiries@condecosoftware.com](mailto:enquiries@condecosoftware.com) or by post to 5th Floor, Exchange Tower, 2 Harbour Exchange Square, London E14 9GE, United Kingdom.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [enquiries@condecosoftware.com](mailto:enquiries@condecosoftware.com) or by post to 8th Floor, Exchange Tower, 2 Harbour Exchange Square, London E14 9GE, United Kingdom.
