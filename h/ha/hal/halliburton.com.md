@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the halliburton.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511205714id_/http%3A//www.halliburton.com/en-US/about-us/legal/privacy-policy.page%3Fnode-id%3Dhgeyxt9i%26SRC%3DFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halliburton.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127130748id_/http%3A//www.halliburton.com/en-US/about-us/legal/privacy-policy.page%3Fnode-id%3Dhgeyxt9i%26SRC%3DFooter) for the most accurate reproduction.*
 
 # Privacy Policy - Halliburton
 
-####  PRIVACY STATEMENT
+##  PRIVACY STATEMENT
 
   
 **IMPORTANT:** Please read the following and the [Terms and Conditions of Use](https://web.archive.org/en-US/about-us/legal/default.page?node-id=hgeyxt8i) before accessing and using this Site.
