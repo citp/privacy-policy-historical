@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smoothieweb.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608172527id_/http%3A//www.smoothieweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smoothieweb.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127095246id_/http%3A//www.smoothieweb.com/privacy) for the most accurate reproduction.*
 
-# Privacy » SmoothieWeb.com
+# Privacy - SmoothieWeb.com
 
 Smoothieweb.com does not sell, trade, or rent your personal information to others. Smoothieweb.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will not include personally identifying information.
 
