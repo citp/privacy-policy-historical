@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628200608id_/http%3A//ama.ab.ca/about-ama/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127024056id_/http%3A//ama.ab.ca/about-ama/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AMA
 
@@ -94,3 +94,16 @@ Edmonton, Alberta T6H 5X9
 Phone: (780) 430-5754  
 Fax: (780) 430-5751  
 Email: [privacy.officer@ama.ab.ca](mailto:privacy.officer@ama.ab.ca)
+
+## Intellectual Property
+
+**Trademarks**
+
+CAA, CAA PLUS, Approved Auto Repair Services design and ERS are owned by and use is granted by the Canadian Automobile Association.
+
+TourBook, CampBook, TripTik and Show Your Card & Save are owned by and use is granted by the American Automobile Association.
+
+The CAA name and logo displayed throughout CAA websites and all related products and service names are the trade-marks, service marks or registered trade-marks of the Canadian Automobile Association (“CAA”). Reproduction of any of these marks without the express written consent of CAA is strictly prohibited.
+
+**Design & Image Notice**  
+The design of this site remains the intellectual property of AMA. Reproduction of the design or any images used herein is strictly prohibited.
