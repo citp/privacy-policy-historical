@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmarketing123.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529013633id_/http%3A//www.webmarketing123.com/digital-marketing/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmarketing123.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127215453id_/http%3A//www.webmarketing123.com/digital-marketing/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Webmarketing123
 
@@ -6,7 +6,7 @@
 
 We may collect some personal information for various purposes, such as processing your contact requests, corresponding with you, and providing you with more information about our services.
 
-In addition, we may also collect information relating to your use of our website through the use of various technologies, including cookies. The information that you provide to us may be used to fulfill your requests, provide customer support, contact you for customer satisfaction surveys or market research, or include in Webmarketing123′s marketing purposes if you have permitted such use.
+In addition, we may also collect information relating to your use of our website through the use of various technologies, including cookies. The information that you provide to us may be used to fulfill your requests, provide customer support, contact you for customer satisfaction surveys or market research, or include in Webmarketing123’s marketing purposes if you have permitted such use.
 
 ## Your Privacy
 
@@ -18,7 +18,7 @@ Please feel free to contact us at anytime if you have questions or suggestions r
 
 ## Webmarketing123
 
-__   1485 Park Avenue #103, Emeryville, CA 94608
+__  1250 53rd Street, Suite 4, Emeryville, CA 94608
 
 __   Phone : 1-800-619-1570
 
