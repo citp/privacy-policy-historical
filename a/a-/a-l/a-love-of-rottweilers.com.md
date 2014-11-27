@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-love-of-rottweilers.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605042537id_/http%3A//www.a-love-of-rottweilers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-love-of-rottweilers.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127054549id_/http%3A//www.a-love-of-rottweilers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for A Love Of Rottweilers.com website
 
@@ -28,7 +28,7 @@ We may serve third party advertisements that use cookies and web beacons in the 
 
 Browsers can be set to accept or reject cookies or notifyyou when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
-In addition, Google, as a third party vendor, uses cookies to serve ads to our site. Google's use of the Dart cookie enables it to serve ads to visitors based on visits to our site and other sites on the Internet. Visitors may opt out of the Dart cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+In addition, Google, as a third party vendor, uses cookies to serve ads to our site. Google's use of the DoubleClick cookie enables it to serve ads to visitors based on visits to our site and other sites on the Internet. Visitors may opt out of the DoubleClick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 Google may use interest based advertising where they recognize the types of webpages users visit across the Adsense network.This helps advertisers reach users on the basis of their interests.
 
