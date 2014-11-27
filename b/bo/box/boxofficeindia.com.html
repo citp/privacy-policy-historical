@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the boxofficeindia.com privacy policy that was archived on 2014-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140528104249id_/http%3A//www.boxofficeindia.com/Details/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boxofficeindia.com privacy policy that was archived on 2014-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141127124852id_/http%3A//www.boxofficeindia.com/Details/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Adtomatik-tag" content="MTMxNA==">
 <title>Boxoffice</title>
  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>
@@ -14,11 +15,12 @@
 	<script type="text/javascript">
     $(document).ready(function($)
     {
+	
         $('#search').autocomplete({
-            source: function(request, response) 
+		   source: function(request, response) 
             {
                 $.ajax({
-                         url: "/search.php",
+                         url: "/boxoffice/search.php",
                          data: 
                          {
                             term: request.term,
@@ -28,6 +30,7 @@
                           success: function(data)
                           {
                               response(data);
+							 //alert(data);
                           }
                     });
             },
@@ -38,9 +41,9 @@
             }
         }) .data("ui-autocomplete")._renderItem = function( ul, item ) 
         {
-            if(item.banners !='')
+		     if(item.banners !='')
             {
-            return $( "<li class='ui-menu-item' role='presentation'>" )		
+			 return $( "<li class='ui-menu-item' role='presentation'>" )		
             .append( "<a href='"+item.link+"'><div style='float:left; width:30px;vertical-align:top;'><img src='" + item.banners + "' width='30' height='40'></div><div style='vertical-align:top;float:left;padding-left:5px;'>" + item.value+" <br><span style='font-size:10px; font-color:#000; font-weight:normal'>"+ item.actor_name+"</p></div></a>").appendTo( ul );
             
             }else
@@ -61,9 +64,9 @@
 			<div id="head">
             	<a href="/Boxoffice/homepage">
             	<div class="logo">
-			<div class="date" style="margin:103px 0 0 0px; font-weight:bold; font-size:11px; color:#fff; font-weight:bold; font-family:Verdana, Geneva, sans-serif; text-align:center; text-transform:capitalize;">Wednesday May 28 2014</div>        </div>
+			<div class="date" style="margin:103px 0 0 0px; font-weight:bold; font-size:11px; color:#fff; font-weight:bold; font-family:Verdana, Geneva, sans-serif; text-align:center; text-transform:capitalize;">Thursday November 27 2014</div>        </div>
                 </a>
-               <div class="sstrip_news"><marquee><p><span style="color: rgb(255, 255, 255);"> Box Office Collections Section Update: Dedh Ishqiya Second Week Territorial Breakdown</span></p></marquee> </div>
+               <div class="sstrip_news"><marquee><p><span style="color: rgb(255, 255, 255);"> Domestic Rankings: 1. Aamir Khan - 952 points 2. Salman Khan - 945 points 3. Shahrukh Khan - 792 points</span></p></marquee> </div>
                <div class="ad"><script type="text/javascript"><!--
 
 google_ad_client = "pub-3758174372099805";
@@ -87,7 +90,7 @@ google_ad_height = 90;
                     	<img src="/assets/img/twitter.png" class="twitter">
                     </a>
                                        	<a href="/Subdetails/sign_up"><img src="/assets/img/register.jpg" class="header_register"></a>
-                    	<a href="/Subdetails/sign_up"><img src="/assets/img/suscribe.jpg" class="header_subscribe"></a>
+                    	<!--<a href="/Subdetails/sign_up"><img src="/assets/img/suscribe.jpg" class="header_subscribe" /></a>-->
                            			</div>
         		<!-- AddThis Button BEGIN -->
         		<div class="search-bar">
@@ -102,7 +105,7 @@ google_ad_height = 90;
                                      <option value="all">All</option>
                                       <option value="actors">Actors</option>
                                       <option value="movies">Movies</option>
-                                       <option value="banners">Banners</option>
+                                      <!-- <option  value="banners">Banners</option>-->
                                 </select>
 							</div>
               				<input name="icon" type="image" src="/assets/img/submit.png" style="margin-left: 10px; ">
