@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renaultforums.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044413id_/http%3A//www.renaultforums.co.uk/view.php%3Fpg%3Drules%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renaultforums.co.uk privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128112410id_/http%3A//www.renaultforums.co.uk/view.php%3Fpg%3Drules%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Renault Forums :: Independent Renault forum Our rules
 
@@ -86,7 +86,7 @@ b) Dishonesty
 
 We will not tolerate dishonesty. Nobody likes to deal with deception and lying in the real world and the same can be said of online communities. For this reason the following is unacceptable:
 
-i) Registration under multiple accounts  
+i) Registration under multiple accounts: violating this rule will result in a ban - the duration and extent of which is at our discretion  
 ii) Lying  
 iii) Editing posts to make it appear that you said something different to support an argument
 
