@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the erotic-massage-japan.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209021722id_/http%3A//www.erotic-massage-japan.com/company/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erotic-massage-japan.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128040118id_/http%3A//www.erotic-massage-japan.com/company/pp.php) for the most accurate reproduction.*
 
-# Privacy Policy Japan Escort Erotic Massage Club
+# Privacy Policy | Japan Escort Erotic Massage Club
 
 (March 20, 2009 Last Updated) 
 
