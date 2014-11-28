@@ -1,78 +1,78 @@
-> *The following text is extracted and transformed from the discountvouchers.co.uk privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525045307id_/http%3A//www.discountvouchers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountvouchers.co.uk privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128024003id_/http%3A//www.discountvouchers.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy Discount Codes, Voucher Codes & Printable Discount Vouchers!
+# Privacy Policy
 
-  * We are committed to protecting and respecting your privacy.
-  * This policy (together with our terms of use - [http://www.discountvouchers.co.uk/terms](https://web.archive.org/terms/)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
-  * Please read this policy carefully to ensure that you understand our practices regarding your personal data and how we will treat it.
-  * For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is ASAP Discounts Limited of 1 the Square, Lightwater, Surrey GU18 5SS, registered with the Information Commissioner's Office under registration number Z2804908 and acts in accordance with the Privacy and Electronic Communications (EC Directive) Regulations 2003.
+**ASAP DISCOUNTS LTD** trading as **Discountvouchers.co.uk** , a company registered in England and Wales under company number 06945011 whose registered address is at 1 The Square, Lightwater, Surrey, GU18 5SS, hereinafter referred to as **'Discountvouchers'** or **'We'** have created this privacy statement ( **'Statement'** ) in order to demonstrate our firm commitment to the privacy of the details that You provide to us when using the Site to access the Discountvouchers Services. In this Statement, references to **'You'** and **'Your'** are references to the Discountvouchers Member. When You use the Site to access the Discountvouchers Services, You are consenting to the practices set forth in this Statement. _Unless otherwise indicated, all definitions used in the[Discountvouchers Service Terms](https://web.archive.org/terms/) shall apply herein._
 
+We know that Your privacy is very important to You which makes it very important to us. We aim to be as clear as possible in this Statement in respect of Your Personal Data. This Statement applies inter alia to Your Personal Data that We collect about You when You use the Site, how and when it is used, how We protect it and who has access to it. This Statement incorporates our [Cookie Policy](https://web.archive.org/cookies/) and the [Discountvouchers Service Terms](https://web.archive.org/terms/) by this reference (collectively called the **'Discountvouchers Licence'** ). 
 
-  * We may collect and process the following data about you:
-  * \- Information provided by you whilst using our site DiscountVouchers.co.uk (“our site”). This includes information provided at the time of registering to use our site, subscribing to our services, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
-  * \- If you contact us, we may keep a record of that correspondence.
-  * \- From time to time, we may ask you to complete questionnaires and surveys that we use for research purposes, although you do not have to respond to them.
-  * \- Details of transactions you carry out through our site (if any) and of the fulfilment of your orders.
-  * \- Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
-  * We do not store credit card details nor do we share customer credit card details with any 3rd parties
+  * This Statement governs Your use of the Site to access the Discountvouchers Services, including any dispute concerning privacy. By using the Discountvouchers Services, You accept this Statement in full. You should read the Statement carefully and ensure that You understand its effect before proceeding to use the Site to access the Discountvouchers Services.
 
-
-  * 2.1 When you register with our site or if you sign up to our free weekly newsletter, we will send you information about voucher codes and other products, services or websites that we feel may interest you. 
-  * 2.2 You can subscribe or unsubscribe to our free weekly newsletter at any time. In subscribing, you agree to receive our newsletter. Please see details of how to unsubscribe below.
-
-
-  * We may collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-
-  * 4.1 For the same reason as in clause 3, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate.
-  * 4.2 If you register with us or if you continue to use our site, you agree to our use of cookies. For more information about cookies we recommend you visit the Interactive Advertising Bureau's website at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
-  * 4.3 No cookies on our site are controlled or used by third parties other than by Experian. Experian is the leading global information services company, providing data and analytical tools to clients in more than 80 countries. The company helps businesses to manage credit risk, prevent fraud, target marketing offers and automate decision making. Experian also helps individuals to check their credit report and credit score, and protect against identity theft. Non-personal data is gathered on our behalf using cookies, log file data, and code that is embedded on our website. We use this non-personal information to help improve the services we provides to our users. The non-personal data gathered is used to provide anonymised statistical information. To reject or delete this cookie visit: http://das.uk.experian.com/experianoptout/
-
-
-  * 5.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-  * 5.2 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-  * 5.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-
-  * 6.1 We may use information held about you in the following ways:
-    * \- To ensure that content from our site is presented in the most effective manner for you and for your computer.
-    * \- To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-    * \- To carry out our obligations arising from any contracts entered into between you and us.
-    * \- To allow you to participate in interactive features of our service, when you choose to do so.
-    * \- To notify you about changes to our service.
-  * 6.2 Provided that you have given your consent by ticking the relevant box, we may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email.
-
-
-  * 7\. 1 We may disclose, transfer or sell your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-  * 7\. 2 We may disclose your personal information to third parties:
-    * \- In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-    * \- If DiscountVouchers.co.uk or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-    * \- If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-    * \- If you have given us consent to do so.
-
-
-  * 8.1 You have the right to ask us not to process your personal data for marketing purposes. We will request your consent if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes.
-  * 8.2 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-
-  * The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-
-  * Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. How we use your data is kept under regular review and changes are published on this page. This page updated on the date shown below.
-
-
-  * You can unsubscribe from our site at any time by emailing [customerservices@ discountvouchers.co.uk](mailto:customerservices@discountvouchers.co.uk). If you unsubscribe your information will be placed in a suppression file and you will not receive any further marketing communications from our site. If you need to contact us regarding an unsubscribe request you can do this by emailing [customerservices@discountvouchers.co.uk](mailto:customerservices@discountvouchers.co.uk) or writing to us at 1 the Square, Lightwater, Surrey GU18 5SS.
-
-
-  * For useful information about data protection we recommend you visit the following sites:
-    * \- The Direct Marketing Association - [http://www.dma.org.uk](http://www.dma.org.uk/)
-    * \- The Information Commissioner - <http://www.ico.gov.uk/>
-    * \- The Citizens Advice Bureau - [http://www.adviceguide.org.uk](http://www.adviceguide.org.uk/)
-
-
-  * If you have any questions regarding this statement, please contact us at [customerservices@discountvouchers.co.uk](mailto:customerservices@discountvouchers.co.uk) or by writing to us at 1 the Square, Lightwater, Surrey GU18 5SS.
-  * Last updated: 10/10/2011
+We reserve the right to modify this Statement at any time without notice. Any changes We may make to this Statement in the future will be posted on this page and, where appropriate, notified to You by e-mail or when You next use the Site to access the Discountvouchers Services, the new terms may be displayed on-screen and You may be required to read and accept them to continue. You agree that Discountvouchers will treat Your use of the Site to access the Discountvouchers Services as acceptance of this Statement including Your continued use subsequent to any changes.
 
 
 
-Give Feedback 
+  * **A. PERSONAL DATA**  
+The Site asks You to provide Personal Data to enhance the quality of the Discountvouchers Services We can provide to You and the more accurate the information You provide, the better We are able to respond to Your requirements! As part of the process of using the Site to access the Discountvouchers Services, We may collect the following types of Personal Data about You (as applicable):
+
+\- Your email address upon Sign-Up as a Discountvouchers Member on the Site to enable us to send our Discountvouchers Newsletters to You;  
+\- Your postcode should You wish to compare certain products in Your local area e.g. broadband offers;  
+\- Your browsing data if You choose to download and install (or uninstall) our Discountvouchers Extension;  
+\- Your visits to the Site and the Discountvouchers Content that You download;  
+\- information about Your computer (including Your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and Site navigation);  
+\- any other information that You choose to send to us, including any request for further Discountvouchers Services, general correspondence, reports of a problem with the Site or the Discountvouchers Services.
+
+
+
+  * **3.1** You hereby expressly consent to Your Personal Data being passed on to third party companies who act as our service providers ( **'Discountvouchers Service Providers'** ) for the sole purpose of fulfilling the daily operations pertaining to the Discountvouchers Services only (including making improvements to the Discountvouchers Services) and not for the purposes of those third parties making marketing communications to You, unless You have expressly consented to this being undertaken by a third party such as our selected third parties. **Although You are under no obligation to provide such Personal Data to us, if You choose not to, some of the Discountvouchers Services may not be available to You.**
+  * **3.2** You acknowledge that Your Personal Data may be used by Discountvouchers to contact a Discountvouchers Member by email when necessary in connection with Your use of the Site. 
+  * **3.3** From time to time, Discountvouchers may contact You by email by way of sending You Discountvouchers Newsletters, product and service promotions, requests for feedback and related information. You can opt out of receiving these marketing communications as described below. 
+  * **3.4 Selected third parties:** If You consented to be contacted by email or other means by selected third parties, We may provide Your information to the third parties We select and these third parties may use this information for their marketing or advertising purposes. If Personal Data has been passed to third parties with Your consent, You may need to contact them separately if You change Your mind in relation to their use of Your Personal Data. 
+  * **3.5** Your Personal Data is used solely by Discountvouchers (and Discountvouchers Service Providers to the extent necessary to fulfil the Discountvouchers obligations to You) for the sole purpose of enabling Discountvouchers to act as a service provider to You and is not shared with any person or company without Your express consent. 
+  * **3.6** Any Personal Data that is held with Discountvouchers shall be retained in accordance with the Data Protection Act 1998 and related Data Protection Legislation and/ or our retention and destruction policy culminating in its permanent deletion. 
+
+
+  * If You do not wish to be contacted by Discountvouchers in respect of future marketing communications, We will give You the opportunity to unsubscribe to the receipt of such communications in every electronic mail communication that We send to You. 
+
+
+  * **4.1** We may use the services of Discountvouchers Service Providers to provide some of our business and operational functions so We may need to disclose Your information to them to provide You with the Discountvouchers Services. 
+  * **4.2 Disclosure of Your Personal Data in Compliance with Laws**  
+You should be aware that We may release Your Personal Data when We believe it is necessary to comply with laws or regulations, to assist law enforcement, to enforce the terms under which You transact or communicate with or via Discountvouchers, or to protect the rights, property or safety of Discountvouchers, Discountvouchers Members or third parties. 
+  * **4.3 Transfer of Your Personal Data outside of the EEA**  
+From time to time, We may transfer Your Personal Data to a related company, agent or contractor in order to improve our Discountvouchers Services or to assist our security, credit risk or fraud protection activities. Such companies may be located outside of the EEA and You consent to the transfer of Your Personal Data to such companies for the purposes set out here in accordance with this Statement and as permitted by the Data Protection Legislation from time to time. 
+  * **4.4 Transfer of Personal Data in the Event of the Sale of Discountvouchers.co.uk or its Assets**  
+From time to time, We may transfer Your Personal Data to a related company, agent or contractor in order to improve our Discountvouchers Services or to assist our security, credit risk or fraud protection activities. Such companies may be located outside of the EEA and You consent to the transfer of Your Personal Data to such companies for the purposes set out here in accordance with this Statement and as permitted by the Data Protection Legislation from time to time. 
+  * **4.5 Other Sites and their Privacy Policies and Cookie Policies**  
+The Site may contain links to other websites. Discountvouchers is not responsible for the privacy practices or the content of such websites or for the privacy policies, cookie policies and practices of other third parties, so You should be careful to read and understand those website policies independently. 
+
+
+  * **5.1** The privacy and protection of Your Personal Data is important to us. In addition, any Discountvouchers Member statistics that We may provide to prospective Discountvouchers Service Providers regarding Your usage of the Discountvouchers Services are provided in the aggregate only and do not include any individually identifiable data. 
+  * **5.2** You acknowledge that email messages sent over the internet are not encrypted and are not secure. Despite efforts to protect Your Personal Data, We cannot ensure or warrant the security of any Personal Data You transmit to us, via, to, or from our Site. You accept that Discountvouchers cannot be held liable for any breaches of confidentiality that may occur as a result of the use of email. If there is any sensitive or confidential Personal Data which You do not wish to communicate by email, please contact Discountvouchers by telephone or post to arrange an alternative method of communication. **You transmit all such Personal Data at Your own risk.**
+  * **5.3** How long We keep Your Personal Data collected through our Site depends on the context in which You provide it and the purpose for which We use it. We will only retain it for as long as is necessary for such purposes. We may send You direct marketing communications for as long as You do not unsubscribe from receiving the same from Discountvouchers. In the event that You choose to close Your Discountvouchers Member Account, all Your Personal Data will be deleted from the Site. 
+  * **5.4 Telephone calls:** If You call any of the service telephone numbers quoted, We may record Your call. These recordings are used for training and quality control to ensure that We continuously monitor and improve our service standards. 
+  * **5.5** We may disclose your Personal Data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006. 
+
+
+  * For information about cookies and how they are used, please visit our [Cookie Policy](https://web.archive.org/cookies/).
+
+
+  * Discountvouchers tries to meet the highest standards when collecting and using Personal Data. For this reason, We take any complaints We receive about this very seriously. We encourage You to bring it to our attention if You think that our collection or use of Personal Data is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures. This Statement does not provide exhaustive detail of all aspects of Discountvouchers's collection and use of Personal Data. However, We are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below. If You are not happy with the way in which Your Personal Data is being handled by Discountvouchers, You can complain to the Information Commissioner whose details can be found at: http://www.ico.org.uk/
+
+
+  * Discountvouchers tries to be as open as it can be in terms of giving people access to their Personal Data. Individuals can find out if We hold any Personal Data by making a 'subject access request' under the Data Protection Act 1998. If We do hold Personal Data about You, We will let You have a copy of that Personal Data. To make a request to Discountvouchers for any Personal Data that We may hold, You need to put the request in writing addressing it to the address provided below. They may be an administrative charge applied in accordance with the applicable legislation.
+
+
+  * Requests for information about our Statement or a 'subject access request' can be emailed to info@discountvouchers.co.uk or by writing to:
+
+**ASAP DISCOUNTS LTD** trading as **Discountvouchers.co.uk**  
+(Internal Compliance Department)  
+1 The Square  
+Lightwater  
+Surrey  
+GU18 5SS 
+
+
+
+  * We keep our Statement under regular review. This Statement was last updated on 24 September 2014.
+
+
