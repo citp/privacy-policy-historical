@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automotiveworld.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607111119id_/https%3A//www.automotiveworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotiveworld.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128110702id_/http%3A//www.automotiveworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Automotive World
+# Privacy Policy | Automotive World
 
 Automotive World Limited (“we”, “us”, “our”) are committed to protecting and respecting the privacy of anyone using www.automotiveworld.com (the “Site”). “you” or “your” means the person, firm, company or organisation browsing or using our site, whether as a guest or a registered user.
 
