@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atechguide.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626162911id_/http%3A//atechguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atechguide.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128041931id_/http%3A//atechguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.aTechguide.com
 
@@ -8,7 +8,7 @@ If you require any more information or have any questions about our privacy poli
 
 At www.aTechguide.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.aTechguide.com and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, www.aTechguide.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
 **  
 Cookies and Web Beacons**  
