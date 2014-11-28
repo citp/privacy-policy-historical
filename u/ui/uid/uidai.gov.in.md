@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627212514id_/http%3A//www.uidai.gov.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128131252id_/http%3A//www.uidai.gov.in/privacy-policy.html) for the most accurate reproduction.*
 
 # UIDAI - Privacy Policy
 
@@ -12,7 +12,7 @@ This website records your visit and logs the following information for statistic
 
 Cookies
 
-A cookie is a piece of software code that an Internet website sends to your browser when you access information in that site. This site does not use cookies.
+A cookie is a piece of software code that an Internet website sends to your browser when you access information in that site. This site does not use cookies.
 
 E-mail Management
 
