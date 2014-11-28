@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soleredemption.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075703id_/http%3A//www.soleredemption.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soleredemption.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128113859id_/http%3A//www.soleredemption.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy « Sole Redemption
+# Privacy Policy - Sole Redemption
 
 _We are not affiliated or liable for the actions or claims to the companies or sites listed in our[Links](http://www.soleredemption.com/store/)._
 
@@ -15,7 +15,7 @@ SoleRedemption.com has adopted this Privacy Statement in order to inform you of 
 
 2\. Automatic Collection of Anonymous Information
 
-When you visit SoleRedemption.com website, like when you visit most other websites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as “aol.com” or “earthlink.net”), the date and time you access the site, the pages you access while at SoleRedemption.com’s website, and the internet address of the website, if any, from which you linked directly to SoleRedemption.com’s site. This information is not personally identifiable.
+When you visit SoleRedemption.com website, like when you visit most other websites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as “aol.com” or “earthlink.net”), the date and time you access the site, the pages you access while at SoleRedemption.com”™s website, and the internet address of the website, if any, from which you linked directly to SoleRedemption.com”™s site. This information is not personally identifiable.
 
 3\. Personally Identifiable Information
 
@@ -23,14 +23,14 @@ Personally Identifiable Information is any information that concerns you individ
 
 SoleRedemption.com will not collect any personally identifiable information about you unless you provide it. Therefore, if you do not want SoleRedemption.com to obtain any personally identifiable information about you, do not submit it.
 
-You can visit and browse SoleRedemption.com’s website without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. SoleRedemption.com may collect personally identifiable information about you from its website by methods such as the following:
+You can visit and browse SoleRedemption.com”™s website without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. SoleRedemption.com may collect personally identifiable information about you from its website by methods such as the following:
 
 4\. Registration Forms
 
-If you are offered the opportunity to enter a promotion or to become a registered user of SoleRedemption.com‘s website, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number and/or a unique individual password.
+If you are offered the opportunity to enter a promotion or to become a registered user of SoleRedemption.com”˜s website, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number and/or a unique individual password.
 
 5\. Transactions and Activity  
-If you become a registered user or if you conduct transactions through SoleRedemption.com’s website, it collects information about the transactions you engage in while on the website and your other activity on the site. This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount and payment information.
+If you become a registered user or if you conduct transactions through SoleRedemption.com”™s website, it collects information about the transactions you engage in while on the website and your other activity on the site. This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount and payment information.
 
 6\. Email and other voluntary communications
 
@@ -51,7 +51,7 @@ h) maintaining the security and integrity of its systems.
 SoleRedemption.com uses the anonymous browsing information collected automatically by its servers primarily to help it administer and improve its website. SoleRedemption.com may also use aggregated anonymous information to provide information about its website to potential business partners and other unaffiliated entities. Again, this information is not personally identifiable.
 
 8\. Disclosure of Information  
-SoleRedemption.com does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. SoleRedemption.com may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. SoleRedemption.com may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as SoleRedemption.com’s business develops, it may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If SoleRedemption.com, its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
+SoleRedemption.com does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. SoleRedemption.com may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. SoleRedemption.com may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as SoleRedemption.com”™s business develops, it may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If SoleRedemption.com, its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
 
 9\. “Cookies” and Advertisers
 
@@ -59,7 +59,7 @@ SoleRedemption.com website’s server, or the servers of companies that are used
 
 A “cookie” is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer’s hard drive. Cookies allow SoleRedemption.com to recognize your computer while you are on its website and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the website.
 
-The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by SoleRedemption.com’s website. Such ads or content may contain cookies that help track and target the interests of users of this website in order to present “personalized” advertisements or other messages that the user might find interesting. SoleRedemption.com is not responsible for any such cookies.
+The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by SoleRedemption.com”™s website. Such ads or content may contain cookies that help track and target the interests of users of this website in order to present “personalized” advertisements or other messages that the user might find interesting. SoleRedemption.com is not responsible for any such cookies.
 
 Most web browser applications (such as Microsoft Internet Explorer) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website.
 
@@ -99,7 +99,7 @@ No material from this Site may be copied, reproduced, republished, uploaded, pos
 
 **Advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.**
 
-**End users may opt out of behavioral targeting through the opt-out link located at  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)**
+**End users may opt out of behavioral targeting through the opt-out link located atÂ  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)**
 
-**SoleRedemption is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising:  [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).**  
+**SoleRedemption is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising:Â  [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).**  
 
