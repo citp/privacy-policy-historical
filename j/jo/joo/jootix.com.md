@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jootix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061919id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jootix.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128181335id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Jootix - Your Best Source for HD Wallpapers
 
