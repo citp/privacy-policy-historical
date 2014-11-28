@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the monstersvsaliensinternational.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080538id_/http%3A//www.dreamworksanimation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersvsaliensinternational.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128160804id_/http%3A//www.dreamworksanimation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **LAST UPDATED:** May 7, 2014
 
-DreamWorks Animation SKG, Inc. (� **DreamWorks** �) and its subsidiaries are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with the DreamWorks mobile application (� **App** �) or website through which you are accessing this Privacy Policy, as well as in connection with HTML-formatted email messages that we send to you and that link to this Privacy Policy (collectively, the � **Services** �). By using the Services or by providing your consent to your child�s use of the Services, you agree to this Privacy Policy. If you provide your consent to your child�s use of the Services, your child is an �eligible user.� Users who are not children are also �eligible users.�
+DreamWorks Animation SKG, Inc. (" **DreamWorks** ") and its subsidiaries are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with the DreamWorks mobile application (" **App** ") or website through which you are accessing this Privacy Policy, as well as in connection with HTML-formatted email messages that we send to you and that link to this Privacy Policy (collectively, the " **Services** "). By using the Services or by providing your consent to your child's use of the Services, you agree to this Privacy Policy. If you provide your consent to your child's use of the Services, your child is an "eligible user." Users who are not children are also "eligible users."
 
 ## Collection of Information
 
 We and our service providers may collect the following information from users of the Services:
 
-  * **Parent�s Email Address.** A child user may submit the email address of his or her parent or guardian. We use the email address to seek the consent of the parent or guardian to the child�s use of the Services. We may also use the email address to invite the parent or guardian to create a family account or otherwise interact with us. 
+  * **Parent's Email Address.** A child user may submit the email address of his or her parent or guardian. We use the email address to seek the consent of the parent or guardian to the child's use of the Services. We may also use the email address to invite the parent or guardian to create a family account or otherwise interact with us. 
   * **Device and Activity Information.** We collect persistent identifiers, including cookies and device identifiers, that provide us with information � such as website, game or App usage � that we use solely to support our internal operations. For example, we may use IP addresses for such purposes as to calculate play or use levels, diagnose problems and administer a game, App or the Services, and we may use pixel tags (also known as web beacons or clear GIFs) in our emails to determine the effectiveness of our marketing campaigns. 
 
 
 
 We and our service providers may also collect the following information from eligible users of the Services:
 
-  * **Profile Information.** An eligible user may submit the following information to create a profile: name, email address, address, phone number, gender, preferred language and display name. We also collect a user name and password to permit an eligible user to access and interact with the Services. In addition, we may collect an adult�s payment card and related information in order to permit him or her to make purchases. 
+  * **Profile Information.** An eligible user may submit the following information to create a profile: name, email address, address, phone number, gender, preferred language and display name. We also collect a user name and password to permit an eligible user to access and interact with the Services. In addition, we may collect an adult's payment card and related information in order to permit him or her to make purchases. 
   * **Photos, Videos and Audio files.**
-  * **Location Information.** If a user plays through an App or mobile site, we may collect the physical location of the user�s mobile device by, for example, using satellite, cell phone tower or WiFi signals, in order to provide location-based services and content, such as to permit interactive game play with real world environments. 
+  * **Location Information.** If a user plays through an App or mobile site, we may collect the physical location of the user's mobile device by, for example, using satellite, cell phone tower or WiFi signals, in order to provide location-based services and content, such as to permit interactive game play with real world environments. 
   * **Unique Identifier for Push Notifications.** We may collect a unique identifier assigned to the device used to play an App in order to deliver push notifications to an eligible user. 
 
 
@@ -28,15 +28,15 @@ We may combine the information we collect from eligible users with information t
 
 ## Use and Disclosure
 
-We use the information we collect from and about a user to provide the Services to him or her, including to measure and improve the Services and its features; to improve the user�s experience by delivering relevant content, including advertising and, if the user has agreed, marketing messages; to allow the user to participate in contests or other promotions; to provide the user with customer support; and to respond to requests and inquiries. When the information collected from or about a user does not identify him or her, or allow contact with him or her or his or her device, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law.
+We use the information we collect from and about a user to provide the Services to him or her, including to measure and improve the Services and its features; to improve the user's experience by delivering relevant content, including advertising and, if the user has agreed, marketing messages; to allow the user to participate in contests or other promotions; to provide the user with customer support; and to respond to requests and inquiries. When the information collected from or about a user does not identify him or her, or allow contact with him or her or his or her device, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law.
 
 We use and disclose the information we collect from and about users for these additional purposes:
 
-  * **For our internal business purposes.** We use users� information for our internal business purposes, such as data analysis; audits; fraud prevention; improving or modifying our services; identifying usage trends; determining the effectiveness of our promotional campaigns; and operating our business. 
-  * **To our service providers.** We may disclose users� information to our service providers who assist us in providing and managing our services, such as by providing data analysis, payment processing, information technology, customer service, email delivery, auditing and other services. 
+  * **For our internal business purposes.** We use users' information for our internal business purposes, such as data analysis; audits; fraud prevention; improving or modifying our services; identifying usage trends; determining the effectiveness of our promotional campaigns; and operating our business. 
+  * **To our service providers.** We may disclose users' information to our service providers who assist us in providing and managing our services, such as by providing data analysis, payment processing, information technology, customer service, email delivery, auditing and other services. 
   * **To contact the user.** We may periodically send notifications or reminders related to the Services to an eligible user or parent. We may also send promotional materials to an eligible user by email and/or direct mail, if he or she has agreed to receive them. 
-  * **To protect our rights and those others.** We may use or disclose a user�s information, consistent with applicable law, when we believe such disclosure is necessary or appropriate: (a) under applicable law; (b) to comply with legal process; (c) to respond to requests from public and government authorities; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property and/or that of our affiliates, a user of the Services or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
-  * **In connection with a disposition of our assets.** We may disclose a user�s information, consistent with applicable law, in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). 
+  * **To protect our rights and those others.** We may use or disclose a user's information, consistent with applicable law, when we believe such disclosure is necessary or appropriate: (a) under applicable law; (b) to comply with legal process; (c) to respond to requests from public and government authorities; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property and/or that of our affiliates, a user of the Services or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
+  * **In connection with a disposition of our assets.** We may disclose a user's information, consistent with applicable law, in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). 
 
 
 
@@ -46,13 +46,13 @@ This Privacy Policy does not address, and we are not responsible for, the privac
 
 ## Security
 
-We seek to use reasonable organizational, technical and administrative measures to protect personal information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your or your child�s interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us in accordance with the � _Contacting Us_ � section below.
+We seek to use reasonable organizational, technical and administrative measures to protect personal information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your or your child's interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us in accordance with the " _Contacting Us_ " section below.
 
 ## Choices and Access
 
-**Your choices regarding our use of your and your child�s information**
+**Your choices regarding our use of your and your child's information**
 
-We give you choices regarding our use of your and your child�s personal information for marketing purposes. You may opt out from:
+We give you choices regarding our use of your and your child's personal information for marketing purposes. You may opt out from:
 
   * **Receiving marketing emails:** If you or your child no longer want to receive marketing-related emails from us, follow the unsubscribe instructions at the bottom of each such email. You may also opt out by: (1) sending us an email at [DWAWebContact@DreamWorksAnimation.com](mailto:DWAWebContact@DreamWorksAnimation.com); or (2) writing to us (and include your email address) at DreamWorks Animation LLC, 1000 Flower Street, Glendale, California 91201, Attention: On-Line Marketing. 
   * **Receiving push notifications:** If you or your child want to stop receiving push notifications, change the settings on the mobile device. 
@@ -61,11 +61,11 @@ We give you choices regarding our use of your and your child�s personal inform
 
 We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you or your child opt out of receiving marketing emails from us, we may still send important administrative messages, from which you cannot opt out.
 
-**Your access to and instructions regarding your or your child�s personal information**
+**Your access to and instructions regarding your or your child's personal information**
 
-**Your child�s personal information.** If you would like to review the personal information we have collected from your child, or if you would like to ask us to cease collecting personal information from your child, make no further use of, or delete, the personal information we have collected from your child, contact us as described in the �Contacting Us� section, below. In your request, please include your name and your child�s name and email address, and specify the action you would like us to take. For your child�s protection, we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+**Your child's personal information.** If you would like to review the personal information we have collected from your child, or if you would like to ask us to cease collecting personal information from your child, make no further use of, or delete, the personal information we have collected from your child, contact us as described in the "Contacting Us" section, below. In your request, please include your name and your child's name and email address, and specify the action you would like us to take. For your child's protection, we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
 
-**Your personal information.** If you would like to review, correct, update, suppress or delete personal information that you have provided to us, contact us as described in the �Contacting Us� section, below. In your request, please make clear what action you would like us to take. For your protection, we may only implement requests with respect to the information associated with the email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
+**Your personal information.** If you would like to review, correct, update, suppress or delete personal information that you have provided to us, contact us as described in the "Contacting Us" section, below. In your request, please make clear what action you would like us to take. For your protection, we may only implement requests with respect to the information associated with the email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
 
 ## Retention Period
 
@@ -73,11 +73,11 @@ We will retain the personal information we have collected from you or your child
 
 ## Cross-border Transfer
 
-The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Users� information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country.
+The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Users' information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country.
 
 ## Updates to this Privacy Policy
 
-We may change this Privacy Policy from time to time. The �LAST UPDATED� legend at the top of this page indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+We may change this Privacy Policy from time to time. The "LAST UPDATED" legend at the top of this page indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
 
 ## Contacting Us
 
