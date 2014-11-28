@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519104832id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128181123id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # FAA Privacy and Website Policy
 
@@ -24,7 +24,7 @@ This Privacy Policy explains our online information practices, including how we 
 
 ## What We Collect Automatically
 
-We automatically collect information about your visit that does not personally identify you. We collect the computer, browser, the name of the domain of your Internet Service Provider (ISP), and the Internet Protocol (IP) address of the website from which you linked to FAA.gov. We also collect the date, time, and the pages you visit. Collecting this information helps us design the site to suit your needs. In the event of a known security or virus threat, we may collect information on the web content that you view.
+We automatically collect information about your visit that does not personally identify you. We collect the computer, browser, the name of the domain of your internet service provider (ISP), and the Internet Protocol (IP) address of the website from which you linked to FAA.gov. We also collect the date, time, and the pages you visit. Collecting this information helps us design the site to suit your needs. In the event of a known security or virus threat, we may collect information on the web content that you view.
 
 Back to top
 
@@ -79,7 +79,7 @@ Back to top
 
 ## Information Practices for Children (COPPA)
 
-We have information for children on our [education web pages](https://web.archive.org/education/). We do not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the [Children's Online Privacy Protection Act (COPPA)](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy).
+We have information for children on our [education web pages](https://web.archive.org/education/). We do not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the [Children's Online Privacy Protection Act (COPPA)](http://business.ftc.gov/privacy-and-security/childrens-privacy).
 
 Back to top
 
@@ -93,7 +93,7 @@ A session cookie is stored on your computer only during your visit to FAA.gov. A
 
 In contrast, a persistent cookie is stored on your computer and is re-used each time you visit FAA.gov. After you turn off your computer or close your browser, the cookie is kept on your machine for the next time you visit FAA.gov.
 
-If you want to remove persistent cookies from your machine, you can use your browser to delete all persistent cookies. For example, in Internet Explorer, you delete cookies via Tools > Internet Options. Keep in mind that this removes all cookies from your machine, even those created by other websites. Therefore, it may affect your experience on other websites.
+If you want to remove persistent cookies from your machine, you can use your browser to delete all persistent cookies. For example, in Internet Explorer, you can delete cookies via Tools > Internet Options. Keep in mind that this removes all cookies from your machine, even those created by other websites. Therefore, it may affect your experience on other websites.
 
 If you want to opt-out of the use of Web measurement and cookie technologies, see [Web Measurement and Customization Opt-Out](http://www.usa.gov/optout-instructions.shtml).
 
@@ -108,7 +108,7 @@ Properly securing the information we collect online is a primary commitment. To 
   * Secure the areas where we hold hard copies of information we collect online
   * Perform regular backups of the information we collect online to insure against loss
   * Use technical controls to secure the information we collect online including but not limited to: 
-    * Secure Socket Layer (SSL)
+    * Transport Layer Security (TLS)
     * Encryption
     * Firewalls
     * Password protections
@@ -145,17 +145,15 @@ View our [Privacy Act Notices](http://www.dot.gov/citizens/privacy/privacy-act-s
 
 Back to top
 
-## Social Media and Your Comments
-
 FAA uses third-party services such as Facebook, Twitter, and YouTube to communicate and interact with the public. These services are controlled and operated by third parties, and are not government websites or applications. By interacting with FAA through these third-party services, you may be providing non-government third parties access to your personal information which can be used to distinguish or trace your identity. Any information collected by a third-party service is subject to the privacy policies of the third-party service provider.
 
 Generally, FAA does not collect, disseminate, or maintain any personally identifiable information (PII) about you maintained by third party sites. However, you should be aware that FAA may read, review, or rely upon information that you make publicly available on these services (for example, comments made on the FAA's Facebook page), as authorized or required by law.
 
 Below is the current list of official FAA social media accounts.
 
-  * [FAA Facebook](https://www.facebook.com/FAA)
-  * [FAA Twitter](https://twitter.com/FAANews)
-  * [FAA on YouTube](http://www.youtube.com/user/FAAnews)
+  * [FAA Facebook](https://web.archive.org/exit/?pageName=FAA%20Facebook&pgLnk=https%3A%2F%2Fwww%2Efacebook%2Ecom%2FFAA)
+  * [FAA Twitter](https://web.archive.org/exit/?pageName=FAA%20Twitter&pgLnk=https%3A%2F%2Ftwitter%2Ecom%2FFAANews)
+  * [FAA on YouTube](https://web.archive.org/exit/?pageName=FAA%20on%20YouTube&pgLnk=http%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fuser%2FFAAnews)
 
 
 
@@ -168,3 +166,8 @@ If you have comments, concerns, or need more information on our privacy practice
 View our [DOT Privacy Impact Assessments](http://www.dot.gov/individuals/privacy/privacy-impact-assessments).
 
 Back to top
+  *[ISP]: internet service provider
+  *[COPPA]: Children's Online Privacy Protection Act
+  *[TLS]: Transport Layer Security
+  *[SOR]: systems of records
+  *[PII]: personally identifiable information
