@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180902id_/http%3A//www.cpsc.gov/en/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128184605id_/http%3A//www.cpsc.gov/en/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
 
 # CPSC Privacy and Security Notice | CPSC.gov
 
@@ -122,7 +122,7 @@ CPSC is responsible for ensuring the privacy and confidentiality of the informat
 
 We do not attempt to identify individual users of the website. If you identify yourself by sending an e-mail to CPSC, filling out a form on a CPSC website or submitting a comment to CPSC, any personal information that you provide is used only to respond to your message. It will not be disclosed outside of the agency without explicit permission.
 
-If you join one of the CPSC's email subscription lists, your email address will be used for that purpose only and will not be disclosed outside of the agency. If you submit a report of harm through [SaferProducts.gov](https://www.saferproducts.gov/), via the CPSC Hotline, or by fax or postal mail, the report will be processed and placed on SaferProducts.gov if it meets the [minimum requirements for publication](https://www.saferproducts.gov/faq-report.aspx#faq9). Your name and contact information will never appear on SaferProducts.gov. You will be given the option of allowing CPSC to provide your name and contact information to the manufacturer or private labeler that you identified in your report. By law, we can provide this information to the manufacturer only if you give us written permission to do so.
+If you join one of the CPSC's email subscription lists, your email address will be used for that purpose only and will not be disclosed outside of the agency. If you submit a report of harm through [SaferProducts.gov](https://origin.www.saferproducts.gov/), via the CPSC Hotline, or by fax or postal mail, the report will be processed and placed on SaferProducts.gov if it meets the [minimum requirements for publication](https://origin.www.saferproducts.gov/faq-report.aspx#faq9). Your name and contact information will never appear on SaferProducts.gov. You will be given the option of allowing CPSC to provide your name and contact information to the manufacturer or private labeler that you identified in your report. By law, we can provide this information to the manufacturer only if you give us written permission to do so.
 
 ### Systems of Records
 
