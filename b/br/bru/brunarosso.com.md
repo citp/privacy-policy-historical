@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brunarosso.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627044030id_/http%3A//www.brunarosso.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brunarosso.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128174303id_/http%3A//www.brunarosso.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Italian Fashion Shopping - Worldwide Shipping
 
