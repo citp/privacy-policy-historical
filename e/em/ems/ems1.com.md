@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506165528id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128021850id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 **Privacy Policy**
 
 This Web site: wwww.ems1.com (“Site”, “EMS1”) is owned and operated by:
 
-The Praetorian Group  
+Praetorian Digital  
 200 Green St., Suite 200  
 San Francisco, CA 94111
 
@@ -91,7 +91,7 @@ These third parties are prohibited from using your personally identifiable infor
 
 **Access and Changes to Your Information**
 
-Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by contacting the Praetorian Group below and/or by clicking on the “Update" button located at the bottom of each e-mail communication we send. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
+Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by contacting Praetorian Digital below and/or by clicking on the “Update" button located at the bottom of each e-mail communication we send. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
 
 If you subscribe to an email newsletter, you may occasionally receive new product announcements, market surveys, special offers or promotions. If you wish to cease receiving any of this information, notify the EMS1 Marketing/Web Department below or use the “opt-out” or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.
 
@@ -124,7 +124,7 @@ We contract with third-party advertisers that post on the Site banner ads, which
 
 **Retention of Personal Information**
 
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting the Praetorian Group below.
+We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting Praetorian Digital below.
 
 **Our Commitment to Data Security**
 
@@ -156,17 +156,17 @@ If you ever have questions regarding the EMS1 privacy policy please email [custo
 
 **Questions, Complaints and Dispute Resolution**
 
-If you have any questions or comments regarding this privacy policy, please contact the Praetorian Group at:
+If you have any questions or comments regarding this privacy policy, please contact Praetorian Digital at:
 
-The Praetorian Group  
+Praetorian Digital  
 200 Green St., Suite 200  
 San Francisco, CA 94111  
 Toll Free: 866/402-4371  
 Fax: 415/962-8340  
 [customerservice@ems1.com](mailto:customerservice@ems1.com?subject=Profile%20Update)
 
-If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact the Praetorian Group. Disputes under this privacy policy will be resolved by the Praetorian Group, which will use commercially reasonable efforts to promptly investigate, and if necessary, to correct any problem.
+If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact Praetorian Digital. Disputes under this privacy policy will be resolved by Praetorian Digital, which will use commercially reasonable efforts to promptly investigate, and if necessary, to correct any problem.
 
-EMS1 has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+EMS1 has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.ems1.com](http://www.ems1.com/).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [_here_](https://feedback-form.truste.com/watchdog/request).
