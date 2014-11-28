@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625211827id_/http%3A//www.nasdaqomx.com/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128184850id_/http%3A//www.nasdaqomx.com/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy Statement - NASDAQ OMX
 
@@ -92,5 +92,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.nasdaqomx.com/contactus/ "contact us").  
+If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.nasdaqomx.com/contactus/).  
  
