@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615132553id_/http%3A//www.reebok.co.uk/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128184615id_/http%3A//www.reebok.co.uk/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
