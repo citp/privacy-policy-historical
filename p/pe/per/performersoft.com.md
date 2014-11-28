@@ -1,100 +1,80 @@
-> *The following text is extracted and transformed from the performersoft.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007220033id_/http%3A//privacy-policy.truste.com/verified-policy/www.performersoft.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performersoft.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128024213id_/http%3A//www.performersoft.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy for www.performersoft.com
+# Privacy Policy - www.performersoft.com
 
-Effective on June 7, 2011 
+## Privacy policy
 
-This privacy statement describes how Performersoft Inc collects and uses the personal information you provide on our Web site: [www.performersoft.com ](https://www.performersoft.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+www.performersoft.com regards privacy issues at the utmost seriousness. www.performersoft.com is firmly commitment to the privacy of its users. The following discloses our information gathering and dissemination practices for this website: www.performersoft.com .com, operated by www.performersoft.com , located in Victoria, Seychelles.
 
-**TRUSTe**
+During the administration process of the website, www.performersoft.com needs to gather some personal information, in order to personalize the website usage and personalize the user's experience. Furthermore, collecting information (such as name, e-mail etc) is utilized by www.performersoft.com adjusting its ads to the users preferences. www.performersoft.com respects and grants confidentiality for personal data collected over from its users at several different points on the website. We are the sole owners of the information gathered within the www.performersoft.com .com website. We shall not sell or rent this information to others in any way. We shall not share this information in ways different from what is disclosed in this statement.
 
-Performersoft Inc is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+The clauses of this policy are valid for all kinds of information gathered from www.performersoft.com users. This privacy policy informs you about the type of personal data that we may collect from you, the way we can use it and the way we protect it.
 
-If you have questions or concerns regarding this policy, you should first contact us at [support@performersoft.com ](mailto:support@performersoft.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+**Information that we collect**  
+www.performersoft.com may collect information from its users in three different ways: directly from the user, from traffic references of hosting servers and from cookies.
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+Information provided directly by the user: when you subscribe to a service provided by www.performersoft.com , we may ask you about your name, e-mail address or other personal data. For example, when you register to our website or news letter, you are asked to enter your username, e-mail address and password.
 
-## Collection and Use of Personal Information
+Information from traffic references: when you visit a website, you unveil certain information about you, such as your IP address, time of visit, place from which you accessed our website. www.performersoft.com , like other operators, stores this information.
 
-We collect the following personal information from you
+Information collected from cookies: in order to offer you a personalized service, www.performersoft.com may use cookies to ease storing and tracking your preferences. For instance, we may use cookies to make sure you don't see the same ad repeatedly, or to deliver content specific to your interests; the content contained is not distributed to third parties.
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Unique Identifiers such as user name, account number, password
+Cookies are "txt" files offered to your browser by a web server and then stored on the hard-disk of your computer. Most of browsers are set to accept cookies. But if you prefer, you can reset your browser so as to let you know whenever you receive a cookie or even to refuse cookies. However, you should know that some parts of www.performersoft.com website can only be normally seen if your browser allows cookies.
+
+www.performersoft.com allows other companies, called third-party ad servers or ad networks, to serve advertisements within the www.performersoft.com site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the www.performersoft.com site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+
+www.performersoft.com does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks www.performersoft.com to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the www.performersoft.com Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+
+You need to acknowledge that, whenever you disclose information in public areas on the website, such as message boards (comments) or forums, that information becomes public and can easily be tracked and used by unauthorized persons. Although www.performersoft.com does its best in order to protect your personal data, we cannot entirely grant you its safety. You should exercise caution when deciding to disclose your personal information. You should also know that you are the only one responsible for guarding your passwords, usernames etc.
+
+**How and when www.performersoft.com uses collected information**  
+www.performersoft.com uses the information collected from you for several purposes, depending on the type of data collected:  
+\- information provided directly by the user: this information is used only in order to personalize the services that we offer you and to check your identity;  
+\- information from traffic references: this type of info helps us identify the parts of our site of most interest for you. www.performersoft.com also collects the IP addresses of its users, in order to safely manage our computer system;  
+\- information collected from cookies: www.performersoft.com uses cookies to help you with our services and with getting statistic information for the services improvement. Cookies allow us to save your passwords and your preferences so that you do not have to introduce them again at your next visit.
+
+**How www.performersoft.com protects information collected from users** www.performersoft.com takes confidentiality very seriously. www.performersoft.com does not offer your personal data to third parties without your explicit consent. Any statistics that we may offer to our partners or to advertisement networks does not include any personal identifying information about any individual user.
+
+Your access to certain services on the website is protected by a password. We advise you not to unveil this password to anyone. www.performersoft.com will never ask a user for the password of his accounts through any kind of messages or unsolicited phone calls. We strongly advise you not to reveal your passwords to those who may ask you to do so. We also advise you to close your browser window when you quit using the sites or the services provided by www.performersoft.com .
+
+The abovementioned advice is meant to restrain the access of unauthorized persons to your personal information or mail, especially when you work in a computer network in a public place (net cafe for example).
+
+Unfortunately, no data transmission by means of internet can be 100% certain. As a consequence, despite our best efforts to protect your personal data, www.performersoft.com cannot guarantee the safety of your information. Thus all kinds of transmission and transactions whatsoever are made at your own risk.
+
+Still, we can grant you that we make our best efforts to ensure the safety of our systems, according to the security standards imposed by International standards. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers have strict security in place to prevent intruders from retrieving personal information about our users. www.performersoft.com staff members check server access logs daily to ensure the above holds true.
+
+**Unsolicited communication**  
+www.performersoft.com will not use your e-mail address in order to send you any kind of unsolicited or promotional mail. It is your choice whether you decide to receive or not newsletters from us. You can always choose to unsubscribe from our newsletter services.
+
+**Who has access to the information collected from you**  
+As a rule, www.performersoft.com will never unveil any sort of personally identifiable information about any of its users, without their prior express consent. On the other hand, www.performersoft.com may unveil this kind of data when expressly permitted by law or when this measure is necessary in order to protect www.performersoft.com rights and interests.
+
+As a conclusion, when you access www.performersoft.com website and are asked to offer information about you, only www.performersoft.com will have access to them. However, you acknowledge that our site contains links to some partner sites. www.performersoft.com is not responsible for the privacy practices or the content of such websites.
+
+Our online surveys may ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level). The customer's contact information is only used to contact the visitor when necessary. We do not share this information with third parties.
+
+We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+
+Advertisements served by Google, as a third party vendor, use DART cookies. These cookies are used to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+**How we can correct errors triggered by data collected from you**  
+If you create an account to one of our services, we shall send you a confirmation e-mail in which we give you the details of the newly created account. The confirmation message will be sent at the e-mail address that you provided. We strongly advise you to keep this confirmation mail secret, because it contains information that can be useful when you encounter problems in accessing our services.
+
+**Children's Guidelines**  
+This site gives children under the age of 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum.
+
+**Notification of Changes**  
+If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+If you feel that www.performersoft.com is not abiding by its posted privacy policy, you should first contact www.performersoft.com . For any suggestions and comments regarding www.performersoft.com or our Privacy Policy, please contact us at support@www.performersoft.com .com. 
+
+This Privacy Policy has been last updated on 24th of January 2010.
+
+**How to Remove Private Data**  
+To Remove your Personal data from our servers please contact us about this by writing or emailing us. 
+
+**Contact Information**  
 
 
-
-We also collect the following information from you
-
-  * Information about your business such as company name, company size, business type
-  * Demographic information such as age, education, gender, interests and zip code
-
-
-
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
-
-We use this information to
-
-  * Send you an order confirmation
-  * Assess the needs of your business to determine suitable products
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you marketing communications
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-
-
-
-**Choice/Opt-Out**
-
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@performersoft.com ](mailto:support@performersoft.com).
-
-## Information Sharing
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may also disclose your personal information
-
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Performersoft Inc is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
-
-
-
-_Third Party E-Commerce Solutions Provider_
-
-Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
-
-## Cookies and Other Tracking Technologies
-
-We do not use cookies on this site.
-
-_Links to Other Web Sites_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Performersoft Inc. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
-
-## Security
-
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@performersoft.com ](mailto:support@performersoft.com)
-
-In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
-
-## Additional Policy Information
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [support@performersoft.com ](mailto:support@performersoft.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-Performersoft Inc 
-
-15500 SW Jay Street Suite 32118 
-
-Beaverton, OR, United States 97006
+Performersoft LLC 15500 SW Jay Street   
+#32118 Beaverton, OREGON 97006, United States
