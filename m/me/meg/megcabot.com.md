@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megcabot.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529223726id_/http%3A//www.megcabot.com/about-meg-cabot/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megcabot.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128011948id_/http%3A//www.megcabot.com/about-meg-cabot/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Meg Cabot
+# Privacy Policy - Meg Cabot
 
 ## Privacy Policy
 
