@@ -1,12 +1,25 @@
-> *The following text is extracted and transformed from the savedbythedress.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526225808id_/http%3A//savedbythedress.com/terms-of-use-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savedbythedress.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128195419id_/http%3A//savedbythedress.com/terms-of-use-privacy-policy) for the most accurate reproduction.*
 
-# Terms of use & privacy policy | Saved by the Dress
+# Terms of use & privacy policy - Saved by the Dress
 
 Thank you for visiting Saved by the Dress! This Terms of Use & Privacy Policy page is to explain you how we use private information provided to this website. By using this website, you are accepting these terms and conditions and the practices described in this privacy policy. We may change the practices at any time but they will be posted and we will only apply activities and information on a going forward, not retroactive basis. So please read this section before submitting any transaction to make sure you understand how we use personal information.
 
-\- Sales Tax
+**Billing terms**
 
-If you live in the Sunshine State like me you have to pay state tax. I know boo hoo but in accordance with state law, Saved by the Dress charges sales tax in the amount of  6% to any orders shipped to an address in the state of Florida.
+Payment is required upon check out we only accept the following forms of payment on our site:
+
+  * paypal
+  * credit cards 
+    * visa
+    * mastercard
+    * american express
+  * Saved by the dress store credit and  e-gift cards
+
+
+
+**\- Sales Tax**
+
+If you live in the Sunshine State like me you have to pay state tax. I know boo hoo but in accordance with state law, Saved by the Dress charges sales tax in the amount of  7% to any orders shipped to an address in the state of Florida.
 
 \- Privacy Policy
 
@@ -79,3 +92,5 @@ By using our site, you consent to our websites privacy policy.
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+[Out of Stock](http://savedbythedress.com/out-of-stock-dresses "Out of stock dresses")
