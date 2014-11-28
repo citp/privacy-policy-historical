@@ -1,39 +1,53 @@
-> *The following text is extracted and transformed from the shapeservices.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517184056id_/http%3A//www.shape.ag/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapeservices.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128064323id_/http%3A//www.shape.ag/en/privacy/sicher) for the most accurate reproduction.*
 
-# SHAPE.AG - Privacy Policy
+# Sicher FAQ
 
-**Last Updated: 02.01.2013**
+Your privacy is a top priority for us. We do our best to ensure all data sent via Sicher is protected against unauthorised access at all times.
 
-**Introduction**  
-This policy covers use of personal information that SHAPE.AG collects when you use www.shape.ag, related pages and software applications offered by SHAPE.AG. 
+SHAPE provides this Privacy Policy to help you make an informed decision about whether to use or continue using Sicher.
 
-From time to time, you will be asked to submit personal information about yourself in order to receive or use services on www.shape.ag, such services include receiving newsletters, competitions, registering for events, completing questionnaires, downloading and using software and submitting questions and reports. By entering your details in the fields requested, you enable SHAPE.AG to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. 
+## Sending Messages and Data
 
-**Updates to this Privacy Policy and Notification of Changes**  
-This policy may change without notice from time to time and we will post these changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect and how we use it.
+All messages and data (pictures, voice messages, files) sent via Sicher are protected with [asymmetric point-to-point encryption](http://en.wikipedia.org/wiki/Public-key_cryptography). It means no third party, including SHAPE GmbH as a service operator, can decrypt messages, files or their metadata. Only the owner of original private key can decrypt received messages. No messages or files are ever sent unencrypted.
 
-**The information collected**  
-Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience of using our software and services. We only collect personal information that is relevant to the purpose of our website or software application functionality.
+Additionally all data exchange between mobile apps and Sicher servers is protected using [SSL](http://en.wikipedia.org/wiki/SSL).
 
-Registering on SHAPE sites is optional. If you choose not to register or provide personal information, you can still use the SHAPE website. However, you will not be to receive email alerts. Separately, you may choose to sign-up to receive updates/news information from SHAPE by selecting the appropriate option.
+Encrypted messages are deleted from our servers as soon as they have been delivered. Encrypted data (pictures, voice messages, files) access time is defined by the message self-destruction timer value, but in any case not more than 14 days.
 
-**How can I delete my information?**  
-SHAPE currently does not have a method for completely deleting user information from our database. However, deleting the cookies stored on your computer and removing your personal information from software applications offered by SHAPE will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some services offered by SHAPE.AG.
+On mobile devices all messages, received files and metadata are encrypted before saving them to internal storage. These items are decrypted in memory only when app needs to present them to a user. Items can be temporarily saved to a local storage upon opening them in another application.
 
-**What we do with the information collected**  
-When you visit this site your IP address is recorded. We use your IP address to help diagnose problems with our server and to create statistical reports about usage. Your IP address is used to help identify you to gather broad demographic identification that will not be tied to your identity.
+Application passcode is used as a key to [symmetric](http://en.wikipedia.org/wiki/Symmetric-key_algorithm) encryption, protecting locally saved data. Anyone who gets access to your mobile device will not be able to decrypt stored messages and files unless he/she knows the passcode.
 
-This site also uses "cookies", which are certain bits of information that are deposited on the hard drive of your computer when you visit this site and sent back to this site when you visit again. We use cookies to maintain session information (for example to help us remember your device model so you can go back and continue surfing software for your device) and to keep track of the number of users accessing our site and the information they access. 
+We recommend setting a device-level password in all cases. It gives an additional level of security, especially on iPhone and iPod Touch where hardware encryption is used in this case.
 
-SHAPE maintains a strict "no-spam" policy. We will not sell, trade, rent or lease your personal information to others without your consent. We use your personal information to provide requested information and services, and to keep you informed of SHAPE's commercial products and services to help ensure that the information we provide to you is relevant to your specific needs. If you do not wish to continue receiving marketing information, you can always unsubscribe from our newsletter by clicking on the appropriate link at the bottom of newsletter. If permission is granted, user information may be used to send occasional emails containing offers from our partners. This will only ever be provided to users who have specifically given us permission to use their information in this way. SHAPE will never use your data for anything beyond the reasons stated and the permissions you grant us.
+## Address Book 
 
-We also record information about your questions to us and your purchases so that we and you can keep track of what you've asked about or ordered directly on our site. Additionally, we may need to contact you about your questions and/or your orders.
+Sicher periodically synchronizes your address book with its servers to find your contacts who have joined the service. It means sending contact names and phone numbers to server, where they are matched against existing service users. This data is not stored on servers. Only matching contacts are added to your contact list, all other data is deleted.
 
-We use email addresses to send you the alerts, newsletters and software updates/news information you've requested, to answer the email we receive and to communicate with you about our software.
+Address Book data transmission is also protected by SSL.
 
-**Feedback**  
-Information collected from feedback is used either internally (if the user is submitting feedback about the site or software). We do not share any personal information with any third parties nor is it used for any other purpose. 
+## No Traces
 
-**External Links**  
-This site contains links to other sites in news stories and throughout the site. SHAPE is not responsible for the privacy practices or the content of external websites, even those with whom SHAPE has established special relationships.  
+Sicher does not collect, aggregate, upload or in any other way pass your personally identifiable or non-identifiable information to third parties. We don't send crash logs, don't track usage statistics, don't use any advertising engines or social network SDKs. Any network communication is secure and carried out only to perform effective functions of the application.
 
+## Disclosure
+
+We do not share your personally identifiable information (phone number) with other, third-party companies for their commercial or marketing use. We may release personally identifiable information and/or non-personally-identifiable information only if required to do so by law or respond to a court order, subpoena, or search warrant.
+
+## Your Choices
+
+By registering for a Sicher user account, you explicitly agree with this Privacy Policy. Please contact SHAPE with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices.
+
+## Changes
+
+If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified on 06/01/2014.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[](http://www.shape.ag/)   
+50 Fritz-Elsas-Str.   
+Stuttgart 70174   
+Germany   
+[privacy@shape.ag](mailto:privacy@shape.ag)
