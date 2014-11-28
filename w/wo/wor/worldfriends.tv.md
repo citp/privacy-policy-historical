@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldfriends.tv privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207204957id_/http%3A//www.worldfriends.com/member/support/customercare.jhtml%3Fhandle%3Dcc_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfriends.tv privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128202540id_/http%3A//www.worldfriends.com/support/customercare.jhtml%3Fhandle%3Dcc_privacypolicy) for the most accurate reproduction.*
 
 # WorldFriends :. Member Services
 
@@ -8,7 +8,7 @@ Meta4 Networks ("WorldFriends") respects the privacy of our users and has develo
 
 We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. 
 
-WorldFriends cares deeply about online privacy. If you have any questions concerning this privacy policy, [contact us](https://web.archive.org/web/20131207204957id_/http%3A//www.worldfriends.com/member/support/contactus.jhtml). This Privacy Policy was last updated on January 7, 2011. 
+WorldFriends cares deeply about online privacy. If you have any questions concerning this privacy policy, [contact us](https://web.archive.org/web/20141128202540id_/http%3A//www.worldfriends.com/support/contactus.jhtml). This Privacy Policy was last updated on January 7, 2011. 
 
 #### Persons Under the Age of 18
 
@@ -25,7 +25,7 @@ We may collect and process the following information about you:
 
 
 
-Visitors to our service whose personal data have been collected have rights to access the same, mandate corrections, and ascertain our policies and practices with regard to such data. Our visitors should feel free to exercise any of these rights by contacting us directly: Data Protection Officer, Fax Number: (852) 3106 4753.
+Visitors to our service whose personal data have been collected have rights to access the same, mandate corrections, and ascertain our policies and practices with regard to such data. Our visitors should feel free to exercise any of these rights by contacting us directly: Data Protection Officer, Email: [csos@meta4-group.com](mailto:csos@meta4-group.com).
 
 #### Information Others May Collect
 
@@ -90,7 +90,7 @@ Meta4 Networks
 801, Millennium Trade Center   
 56 Kwai Cheong Road   
 Hong Kong   
-[privacy@meta4-group.com](mailto:privacy@meta4-group.com)   
+[csos@meta4-group.com](mailto:csos@meta4-group.com)   
 
 
 Meta4 Networks is a service powered, hosted and maintained by Meta4 Group (GLOBAL) S.A. and its subsidiary, including but not limited to Meta4 Group (HK) Limited, Meta4 Group KK and WorldFriends (Global) S.A.R.L. ([http://www.meta4-group.com](http://www.meta4-group.com/)).
