@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529005824id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128051141id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Alfresco
 
-Last updated: 19 Dec 2013
+Last updated: 17 Nov 2014
 
 ## Scope of This Notice
 
@@ -83,6 +83,7 @@ Google Analytics | _utma
 _utmb  
 _utmc  
 _utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited. | Click here for an overview of privacy at Google: <http://www.google.co.uk/intl/en/analytics> | All Alfresco websites | Category 2: Performance  
+Marketing Automation From Marketo‎ | _mkto_trk | This cookie is used to store user-entered data submitted via forms on alfresco.com, including software trials, contacting Alfresco sales, requesting white papers, and registering for webinars. | The Marketo privacy policy can be viewed at: <http://www.marketo.com/trust/legal/privacy/> | alfresco.com, blogs.alfresco.com, docs.alfresco.com, forums.alfresco.com, summit.alfresco.com, wiki.alfresco.com | Category 2: Performance  
 Prospect management and lead management, by Pardot | Pardot | This cookie is used to store user-entered data submitted via forms on alfresco.com, including software trials, contacting Alfresco sales, requesting white papers, and registering for webinars. | The Pardot privacy policy can be viewed at: <http://www.pardot.com/company/legal.html> | alfresco.com, blogs.alfresco.com, wiki.alfresco.com, forums.alfresco.com | Category 2: Performance  
 Alfresco Cloud | __site | This cookie is used to store information for users signing up for Alfresco's Cloud service to help us better understand where users who sign up for the Cloud service come from. |  | cloud.alfresco.com | Category 2: Performance  
 MediaWiki | Visitor_id1234 | This cookie remembers your MediaWiki username. |  | wiki.alfresco.com | Category 3: Functionality  
