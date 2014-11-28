@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110236id_/http%3A//vistahigherlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128185229id_/http%3A//vistahigherlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vista Higher Learning
 
 ### PRIVACY POLICY APPLICABLE TO:
 
-VHL Website ([www.vistahigherlearning.com](http://vistahigherlearning.com/home)) (the “VHL Site”)
+Vista Higher Learning Website ([www.vistahigherlearning.com](http://vistahigherlearning.com/home)) (the “VHL Site”)
 
 This Privacy Policy describes certain information that Vista Higher Learning, Inc. (“Vista Higher Learning”) collects through the VHL Site and how we use that information. Please note that this Privacy Policy applies solely to our online information-gathering and dissemination practices in connection with the VHL Site, and does not apply to any of our practices conducted offline.
 
