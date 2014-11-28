@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plugnpay.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209034714id_/http%3A//plugnpay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugnpay.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128213602id_/http%3A//plugnpay.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Security Statement - Plug 'n Pay
 
-**[Partners](https://web.archive.org/web/20140209034714id_/http%3A//plugnpay.com/partner.php) |[ Processors](https://web.archive.org/web/20140209034714id_/http%3A//plugnpay.com/processors.php) | [Testimonials](https://web.archive.org/web/20140209034714id_/http%3A//plugnpay.com/testimonials.php) | [Press Releases](https://web.archive.org/web/20140209034714id_/http%3A//plugnpay.com/press.php) | [Careers](https://web.archive.org/web/20140209034714id_/http%3A//plugnpay.com/careers.php) | [Privacy Policy](https://web.archive.org/web/20140209034714id_/http%3A//plugnpay.com/privacy.php) | [Use Policy](https://web.archive.org/web/20140209034714id_/http%3A//plugnpay.com/use.php)**
+**[Partners](https://web.archive.org/web/20141128213602id_/http%3A//plugnpay.com/partner.php) |[ Processors](https://web.archive.org/web/20141128213602id_/http%3A//plugnpay.com/processors.php) | [Testimonials](https://web.archive.org/web/20141128213602id_/http%3A//plugnpay.com/testimonials.php) | [Press Releases](https://web.archive.org/web/20141128213602id_/http%3A//plugnpay.com/press.php) | [Careers](https://web.archive.org/web/20141128213602id_/http%3A//plugnpay.com/careers.php) | [Privacy Policy](https://web.archive.org/web/20141128213602id_/http%3A//plugnpay.com/privacy.php) | [Use Policy](https://web.archive.org/web/20141128213602id_/http%3A//plugnpay.com/use.php)**
 
 Plug & Pay Technologies Inc. (PnP) has created this privacy statement in order to demonstrate our firm commitment to privacy and security and to clearly define these standards to our customers and the community we serve.  We have established these policies to protect the security and privacy of the information we collect  In addition to these policies, we maintain strict internal policies against unauthorized disclosure or use of customer information.  Security protocols have been implemented to restrict access to information according to job responsibility. 
 
@@ -93,6 +93,6 @@ Hauppauge, NY 11788
 Last Modified: 08/07/2004  
 
 
-**For more information about any of our services,[click here](https://web.archive.org/web/20140209034714id_/http%3A//plugnpay.com/contactmerch.php).**
+**For more information about any of our services,[click here](https://web.archive.org/web/20141128213602id_/http%3A//plugnpay.com/contactmerch.php).**
 
 ©2014 Plug and Pay Technologies • all rights reserved 
