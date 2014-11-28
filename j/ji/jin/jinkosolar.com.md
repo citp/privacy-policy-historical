@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinkosolar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050126id_/http%3A//www.jinkosolar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinkosolar.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128144535id_/http%3A//jinkosolar.com/privacy.html) for the most accurate reproduction.*
 
 # Jinko Solar | Your Best Supplier of Modules,Cells & Wafers
 
