@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606102823id_/http%3A//www.frostclick.com/wp/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128190110id_/http%3A//www.frostclick.com/wp/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Download Privacy Policy | FrostClick.com | Discover The Best Free Downloads Online
 
