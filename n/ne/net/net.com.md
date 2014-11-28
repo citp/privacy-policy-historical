@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330224202id_/http%3A//sonus.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128021816id_/http%3A//www.sonus.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sonus
 
@@ -71,17 +71,17 @@ This policy was last modified on May 25, 2012
 
 ## Customers
 
-  * The industry-leading performance and scale of Sonus' SBC 5100 allows us to maintain a competitive edge in the market while delivering exeptional customer service. 
+  * MathWorks estimates that through the automated provisioning and call routing features of the Sonus solution, the company has freed up more than 250 IT staff hours per week for more important projects.
+
+MathWorks is the leading developer of mathematical computing software for engineers and scientists. Founded in 1984, MathWorks employs 2800 people in 15 countries, with headquarters in Natick, Massachusetts, U.S.A.
+
+  * The industry-leading performance and scale of Sonus' SBC 5100 allows us to maintain a competitive edge in the market while delivering exceptional customer service. 
 
 Smart Tel is a major player in the Singapore telecommunications industry and aims to develop its global presence with new offices in Australia, Thailand, Indonesia, Philippines, India, South Africa, the US and the UK, with cost effective, easy-to-use and scalable telephony solutions. 
 
   * We wanted to work with an industry-leading SBC vendor and our market analysis indicated that Sonus was the clear choice for this partnership.
 
 (GCS) is a software company founded in 2006 by Neal Axelrad and Jay Meranchik. GCS' goal is to be the best company in the marketplace. We are privately held and have offices in New York & New Jersey USA. 
-
-  * MathWorks estimates that through the automated provisioning and call routing features of the Sonus solution, the company has freed up more than 250 IT staff hours per week for more important projects.
-
-MathWorks is the leading developer of mathematical computing software for engineers and scientists. Founded in 1984, MathWorks employs 2800 people in 15 countries, with headquarters in Natick, Massachusetts, U.S.A.
 
   * Sonus made the deployment, integration and migration to Microsoft Lync easy. 
 
