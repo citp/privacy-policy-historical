@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061329id_/http%3A//www.clickpapa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128052321id_/http%3A//www.clickpapa.com/privacy) for the most accurate reproduction.*
 
 # ClickPapa.com - Buy and Sell Traffic - Privacy Policy
 
@@ -64,51 +64,41 @@ General info: info@clickpapa.com
 
 ## __Latest news
 
-2014-06-17
+2014-11-04
 
-### Everything is working fine now! Sorry for the issues! 
+### The payment from 01.11.2014 were sent!
 
-As you may have noticed, we had dificuilties in the past days around our network's performance. From today 7pm GMT we had outage due to hardware and software issues till around 10pm GMT.
+Both paypal and paxum payout were sent out! ClickPapa Team 2014-11-03
 
-Our JavaScript codes and static contents were served normally, as they not caused any downtime in your pages, but no banners, popups, imads, and redirects were shown during this period.
+### Publisher payouts.
 
-This is unpleasant, we know it, as these are the busiest hours in many territories of US, Canada, South America, Australia, and Asia. Of course you will get compensation for this accident.
+Dear webmasters! Since we have grown a lot as a company, you have also grown in number. Because of that we won't be able to do your payouts instantly after the close of the period. We need maximum 5 days from the period closing to complete them safely. Thank you for your understanding and patience. 2014-11-01
 
-As you know, were are new, we're working on the latest technologies we can use, we improve our system and architecture as hard as we can, but things like this happens sometimes.
+### Service issues!
 
-Thank you for your patience, we really appriciate that.
-
-\--  
-Zsolt  
-CTO
-
-2014-05-18
-
-### Stat problems are solved!
-
-Stat problems solved! Thank you for you patience! 2014-05-17
-
-### Stat problems
-
-We have troubles with the statistics, but it will be fixed ASAP.
+On the 1st of November we had some downtime in our system. The problem was solved asap! If you see any mistake in your ClickPapa account please contact your account manager. We apologize for the inconvenience and thank you for your patience! ClickPapa Team
 
 [All news](https://web.archive.org/news)
 
 ## __Upcoming events
 
-2014-08-14
+2015-03-07
 
-### Qwebec Expo 2014, Montreal
+### The European Summit spring 2015 - Sitges, March 07 - 10 2015
 
-2014-09-19
+2015-03-25
 
-### Webmaster Access 2014, Amsterdam
+### The Phoenix Forum 2015 - Phoenix, March 25 - 29 2015
+
+## __Passed events
 
 2014-09-22
 
 ### The European Summit Fall 2014, Prague
 
-## __Passed events
+2014-09-19
+
+### Webmaster Access 2014, Amsterdam
 
 2014-05-28
 
