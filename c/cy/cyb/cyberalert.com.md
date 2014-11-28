@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyberalert.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628221204id_/http%3A//www.cyberalert.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberalert.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128183832id_/http%3A//www.cyberalert.com/privacy_policy.html) for the most accurate reproduction.*
 
 # CyberAlert®: Press Clipping, Broadcast Monitoring, and Web Clipping Service
 
-|  |  This privacy statement applies to the use of Cyberalert.com and its allied web sites.
+This privacy statement applies to the use of Cyberalert.com and its allied web sites.
 
 CyberAlert is highly committed to privacy for our clients and visitors.
 
@@ -30,7 +30,7 @@ Anyone who wishes to have their contact information removed from the CyberAlert 
   3. Phone CyberAlert Customer Service at 800-461-7353 or 203-375-7200.
   4. Send postal mail to:  
 Customer Service   
-CyberAlert, Inc.  
+CyberAlert LLC  
 Foot of Broad St.  
 Stratford, CT. 06615
 
@@ -41,7 +41,3 @@ Stratford, CT. 06615
 CyberAlert reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
 
 This privacy policy was last updated on June 15, 2012.
-
-|  | 
-
-|  | 
