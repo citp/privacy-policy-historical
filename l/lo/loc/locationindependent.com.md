@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the locationindependent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052204id_/http%3A//locationindependent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locationindependent.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128010628id_/http%3A//locationindependent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Location Independent
+# Privacy Policy
 
 When accessing our Website, Inspiring Ventures (the owner of Location Independent) will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
