@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minecraftmine.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001125id_/http%3A//www.minecraftmine.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftmine.org privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128090441id_/http%3A//www.minecraftmine.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Download Minecraft
+# Privacy Policy . Download Minecraft
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -22,3 +22,9 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of www.minecraftmine.org then you may contact us at admin@minecraftmine.org 
+
+#### Incoming search terms:
+
+  * www [minecraft](http://www.minecraftmine.org/gerudoku-1-0-0-texture-pack-minecraft-1-0-0/)/privacy com
+
+
