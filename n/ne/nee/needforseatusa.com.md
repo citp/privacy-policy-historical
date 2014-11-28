@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needforseatusa.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619201427id_/http%3A//www.needforseatusa.com/infopage.asp%3Fpage%3D45%26extra%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needforseatusa.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128183633id_/http%3A//www.needforseatusa.com/infopage.asp%3Fpage%3D45%26extra%3D1) for the most accurate reproduction.*
 
 # NEEDforSEAT USA's privacy policy
 
@@ -28,8 +28,12 @@ You have the right to free information about your stored data at any time as wel
 
 ## Contact party for privacy issues
 
-For questions concerning collection, processing or use of your personal information or for questions concerning accessing of information, amendments, suspension or deletion of data, as well as repealing of previously given authorization, [please use the form on our contact page](https://web.archive.org/web/20140619201427id_/http://www.needforseatusa.com/infopage.asp?page=5). You may also contact us by postal mail using the address provided on that page. 
+For questions concerning collection, processing or use of your personal information or for questions concerning accessing of information, amendments, suspension or deletion of data, as well as repealing of previously given authorization, [please use the form on our contact page](https://web.archive.org/web/20141128183633id_/http://www.needforseatusa.com/infopage.asp?page=5). You may also contact us by postal mail using the address provided on that page. 
 
 ## Revocation of the consent
 
 The following consent you gave (if necessary) in the process of ordering may be withdrawn at any time.
+
+## Trademarks
+
+MAXNOMIC™ and NEEDforSEAT® and their logos are trademarks of the owner Marco Woerenkaemper in Germany, USA and other countries.The use of the trademarks without the prior written consent of the trademark owner, Marco Woerenkaemper is not permitted.If you have any questions about our brands and the use, please contact to above mentioned contact details.
