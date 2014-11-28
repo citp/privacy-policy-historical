@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the casino-x.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809235151id_/https%3A//casino-x.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casino-x.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128210702id_/http%3A//casino-x.com/en/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Casino-x.com
+
+[](http://casino-x.com/en)
+
+  * [Games](http://casino-x.com/en)
+  * Cashier
+  * [Deposits and payouts](http://casino-x.com/en/page/payments)
+  * [Promo](http://casino-x.com/en/page/bonuses)
+  * [Battles](http://casino-x.com/en/battles)
+  * [Tournaments](http://casino-x.com/en/tournaments)
+  * [Achievements](http://casino-x.com/en/achievements)
+  * [Hall of fame](http://casino-x.com/en/halloffame)
+
+
 
 In order to show our firm commitment to strong business practices Casino-x publishes this Privacy Statement.
 
@@ -20,28 +33,4 @@ Credit Card Security - using your Credit Card at Casino-x is perfectly safe. CVC
 
 If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our friendly Customer Support Team or send your questions to [support@casino-x.com](mailto:support@casino-x.com). Our representatives will be more than happy to assist you.
 
-The services and the Content on the Website are provided by Invicta Networks N.V., Curacao, Netherlands Antilles (Invicta Networks N.V. E-Commerce Park Vredenberg / Landhuis Groot Kwartier Groot Kwarierweg 12, Curacao, +442088167903) based company which is fully licensed and regulated by the laws of that country. Daughter company Brivio LTD, Address: Arch. Makariou III, 135Emelle Building, 4 floor, 3021, Limassol, Cyprus.
-
-[](/game/HotInk)
-
-Hot Ink
-
-[](/game/MegaMoolah)
-
-Mega Moolah
-
-[](/game/Carnaval)
-
-Carnaval
-
-[](/game/RubyHellBoy)
-
-Hellboy
-
-[](/game/RubyAgentJaneBlonde)
-
-Agent Jane Blonde
-
-[](/game/BattlestarGalactica)
-
-Battlestar Galactica
+The services and the Content on the Website are provided by Pomadorro N.V., Curacao, Netherlands Antilles (Pomadorro N.V. E-Commerce Park Vredenberg / Landhuis Groot Kwartier Groot Kwarierweg 12, Curacao, +442088167903) based company which is fully licensed and regulated by the laws of that country.
