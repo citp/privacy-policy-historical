@@ -1,0 +1,75 @@
+> *The following text is extracted and transformed from the you2repeat.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128103828id_/http%3A//www.you2repeat.com/privacy) for the most accurate reproduction.*
+
+# YouTube 2 Repeat - You2Repeat
+
+## PRIVACY POLICY
+
+Last modified May 14, 2014
+
+You2Repeat Inc., ("you2repeat") takes your privacy very seriously. Please read the following to learn more about you2repeat's Privacy Policy ("Policy"). This Policy details how you2repeat receives, collects and uses information in connection with its website located at www.you2repeat.com and through your use of the Services. 
+
+Unless otherwise defined in this Privacy Policy, capitalized terms shall have the same meaning ascribed to them in the you2repeat Terms of Use. 
+
+Collection and Use of Information
+
+Information You Provide:
+
+When you register on the Website for the Service, you will be asked to provide certain personally identifiable information, which may include your name, email address, age, gender, address, telephone number(s), areas of interest, login name, login password, billing information, profile information and other self-identifying information (all "Personal Information"). you2repeat collects Personal Information primarily for the following purposes: (i) to maintain a record of registered users; (ii) to manage the login process and maintain users' personal preferences; (iii) to email registered users with news and software updates; (iv) to email promotional offers; and (iv) customer support and product information. If you no longer wish to receive communication from you2repeat, please follow the "unsubscribe" instructions provided in any of those communications or update your account setting information (see section below on Change or Removal of Information). 
+
+you2repeat may also make certain message boards and forums available to you for your feedback or other communication (collectively, "Forums"). You are solely responsible for the information and other content you post on and through these Forums and should be aware that when you voluntarily disclose Personal Information on or through these Forums, such information is generally accessible to and may be collected and used by other users. This Privacy Policy will not cover such disclosure of information. You are encouraged to exercise discretion when providing personal information about yourself in and through any Forums. 
+
+Information you2repeat Automatically Collects:
+
+you2repeat does not automatically collect any Personal Information on or through the Website, except as provided by you in connection with the registration process. However, when you use the Website, you2repeat may also automatically collect certain information about your computer to facilitate, evaluate and verify your use of the Website. For example, you2repeat may use "cookies," "web beacons" and similar devices to track your activities on the Website. Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. A web-beacon is a small transparent gif image that is embedded in an HTML page or email used to track when the page or email has been viewed. Cookies make web-surfing easier by saving preferences and browsing patterns while you are on the Website. Cookies may be used to analyze Website usage, improve content, customize the Website's content and layout and for other customer service purposes. you2repeat's use of cookies or similar devices is not linked to any Personal Information. 
+
+When you visit the Website, you2repeat may automatically receive and record certain non-personally identifiable information on its server logs from your browser, including your IP address, browser type, internet service provider (ISP), cookie information, and the webpage that you visit. you2repeat collects non-personally identifiable information for general purposes, including but not limited to analyzing trends, administering the site, tracking user movements, conducting research, and providing anonymous reporting to internal and external clients. you2repeat will not link any Personal Information, including e-mail addresses, with the aggregate data of its users. Please be aware that some non-personally identifiable information such as Uniform Resource Locators ("URL's) or Internet Protocol ("IP") addresses could become Personal Information when combined by third parties with the ISP's records. you2repeat does NOT do this with your information. 
+
+Sharing and Disclosure of Information
+
+you2repeat does not rent, sell, or share any information about the user with any third-parties. you2repeat may disclose your Personal Information if you2repeat believes such action is necessary to: (a) comply with the law or legal process served on you2repeat; (b) protect and defend the rights or property of you2repeat (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of you2repeat services or members of the public. you2repeat may share aggregated non-personally identifiable demographic information about users with third party advertising and content companies. This information does not identify individual users and you2repeat does not link aggregate user data with Personal Information. 
+
+<
+
+Third party advertisers and websites
+
+you2repeat does not actively share Personal Information with third party advertisers for their direct marketing purposes unless you give you2repeat your consent. Advertisers, however, may obtain public information about you from your user profile and other public sources. Remember, third parties will have access to your Personal Information if you provide it to them. For example, if you want to buy offers, goods or services from through third party advertisers on the Website, the transaction may be facilitated on the third party's website. You will then have to provide the third party with the information required (such as for example name, shipping address, credit card info etc), which will them be subject to their specific privacy policies. If you access another website or promotion and/or service through a website operated by any entity other than you2repeat, that site is referred to as a "Third Party Site".Unless you2repeat clearly indicates otherwise at the time of collection, you2repeat does not share Personal Information with Third Party Sites. Please be aware however that these Third Party Sites may collect information about you. Please see the Third Party Site's privacy policy to better understand what information is collected, how it is used and shared, and your choices regarding control. you2repeat has no control over these linked Third Party Sites, each of which has a separate privacy and data collection practice, independent of this Privacy Policy. you2repeat does not monitor, control, or endorse the information collection or privacy practices of any Third Party Site. As such, you2repeat is not responsible for, or have control over, the content or the privacy policies of these Third Party Sites. You must read the privacy policies of each and every website that you visit when linking from the Website. This Privacy Policy applies solely to information collected by you2repeat. 
+
+Children's Privacy
+
+Protecting the privacy of the very young is especially important. you2repeat operates the Website in compliance with the _Children's Online Privacy Protection Act_ (COPPA). The Website is intended solely for users who are of adult age in their jurisdiction (over 18), and any registration by, use of, or access to the Website or services by anyone under the age of majority is unauthorized, unlicensed, and in violation of this Privacy Policy. By using the Website, you represent and warrant you are of adult age in your jurisdiction and that you agree to abide by all of the terms and conditions herein. you2repeat may terminate your account, project, and any content or information that you have posted on the Website and/or prohibit you from using or accessing the Website for any reason, at any time in its sole discretion, with or without notice, including without limitation if you2repeat believes that you have misrepresented your age. you2repeat never knowingly collects or maintains information at or on the Website from those you2repeat actually knows are under 13, and no part of the Website is directed at or structured to attract anyone under 13. 
+
+Security
+
+you2repeat takes reasonable precaution to protect Personal Information from misuse, loss and unauthorized access. Although you2repeat cannot guarantee that Personal Information will not be subject to unauthorized access, you2repeat has physical, electronic, and procedural safeguards to protect the Personal Information. Personal Information is protected by secured networks and access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. 
+
+If you contact you2repeat by e-mail or a "contact us" or similar feature on the Website,you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. 
+
+Passwords are encrypted and you2repeat policies preclude access to passwords by anyone at you2repeat or its service providers except on a need-to-know basis. You are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Website by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify you2repeat of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify you2repeat when you desire to cancel your account. you2repeat will not be responsible or liable for any loss or damage arising from your failure to comply with this provision. 
+
+In the unlikely event that you2repeat believes that the security of your Personal Information in our possession or control may have been compromised, you2repeat may seek to notify you of that development. If a notification is appropriate, you2repeat will endeavor to do so as promptly as possible under the circumstances, and, to the extent you2repeat has your e-mail address, it may notify you by e-mail. You consent to use of e-mail as a means of such notification. 
+
+If you prefer to use another method to notify you in this situation, please send an e-mail to [general@you2repeat.com](mailto:general@you2repeat.com) with the alternative contact information you wish to be used. 
+
+IF YOU ARE A USER ACCESSING THE WEBSITE FROM THE EUROPEAN UNION, ASIA, OR ANY OTHER REGION WITH LAWS OR REGULATIONS GOVERNING PERSONAL DATA COLLECTION, USE, AND DISCLOSURE THAT DIFFER FROM UNITED STATES LAWS, PLEASE BE ADVISED THAT THROUGH YOUR CONTINUED USE OF THE SERVICES, WHICH ARE GOVERNED BY UNITED STATES LAW, THIS PRIVACY POLICY, AND you2repeat' TERMS OF USE, YOU ARE TRANSFERRING YOUR PERSONAL INFORMATION TO THE UNITED STATES AND YOU CONSENT TO THAT TRANSFER. ADDITIONALLY, YOU UNDERSTAND THAT YOUR PERSONAL INFORMATION MAY BE TRANSFERRED TO AND PROCESSED IN COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING PERSONAL INFORMATION MAY BE LESS STRINGENT THAN IN YOUR COUNTRY. 
+
+Data Retention
+
+you2repeat will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that you2repeat no longer uses your information to provide you services, you may delete your account by notification to [general@you2repeat.com](mailto:general@you2repeat.com). you2repeat may retain and use your information as necessary to comply with its legal obligations, resolve disputes, and enforce our agreements. Consistent with these requirements, you2repeat will try to delete your information quickly and upon request. Please note, however, that there may be latency in deleting information from the you2repeat servers and backed-up versions might exist after deletion. 
+
+Business Transitions
+
+In the event that you2repeat goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, Personal Information will likely be among the assets transferred. you2repeat will post a notice on this Website of any such change in ownership or control of the Personal Information you2repeat may have prior to such transfer. 
+
+Changes to Policy
+
+From time to time, you2repeat may revise this Policy. you2repeat will post the revised Policy on the Website, so that users can always be aware of what information you2repeat collects, how the information is used and under what circumstances such information may be disclosed. If you2repeat makes a change in its data collection policy that would result in a materially more permissive use of your personally identifiable data, you2repeat will obtain your prior affirmative consent before implementing the change with respect to your data. You should also visit this page periodically to review any changes to the Privacy Notice. 
+
+Change or Removal of Information
+
+You can review, update, correct, edit or delete your Personal Information at any time by logging in to your account and editing your profile. 
+
+When user registers on the Website, the user may have the opportunity to opt-in to receive communications from you2repeat, including offers, updates and newsletters. If a user chooses not to "opt-in", the user will not receive any communication from you2repeat. If a user's e-mail address changes, a user may correct such information by sending an e-mail to [general@you2repeat.com](mailto:general@you2repeat.com) with the request or by contacting us by postal mail at the contact information listed below. If a user no longer wishes to receive e-mail communication from you2repeat, a user may opt-out of receiving such communications by following the instructions included in each newsletter or communication. In addition, a user can remove their e-mail address at any time by sending e-mail with the subject line of OPT-OUT to [general@you2repeat.com](mailto:general@you2repeat.com)
+
+Contact Information
+
+If you believe you2repeat is not adhering to this Privacy Policy or you have any questions in connection with this Privacy Policy, please contact you2repeat at: [privacy@you2repeat.com](mailto:privacy@you2repeat.com) or by writing to You2Repeat Inc., Attention: You2Repeat Inc. Privacy Policy Administrator, PO Box 12552, Cyprus 3301 
