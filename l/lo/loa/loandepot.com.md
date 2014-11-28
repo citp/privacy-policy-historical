@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073123id_/http%3A//www.loandepot.com/Content/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128022608id_/http%3A//www.loandepot.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# 
+# loanDepot | Privacy Policy
+
+## Privacy Policy
 
 loanDepot® values your patronage and protecting your confidential information is a priority. Our policies and procedures reinforce the fact that loanDepot strongly believes in protecting the confidentiality and security of the information we collect about you as a customer, potential customer or former customer. We have adopted the following policies and procedures to safeguard the personal information about you in our possession.
 
