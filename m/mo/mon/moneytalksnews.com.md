@@ -1,144 +1,115 @@
-> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214032id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128023224id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Talks News
 
-Money Talks News, a Florida corporation (“MTN”), owns and operates this website and portions of other web pages and web content through which you have accessed this privacy policy (collectively, this “Site”). By visiting, using and/or submitting information to this site, you are accepting the practices described in this privacy policy.
+### Privacy Policy
 
-MTN takes your privacy seriously, and has published this privacy policy to explain how MTN treats all information you may submit to this site, except that information that is submitted pursuant to a sweepstakes entry. Refer to the 0fficial rules and privacy policy for each individual sweepstakes for MTN’s specific policies regarding information sharing and disclosure pursuant to sweepstakes entry.
+Last updated: October 16, 2014
 
-### Collection of personally identifiable information
+J&G Productions, Inc (“us”, “we”, or “our”) operates the http://www.moneytalksnews.com website (the “Service”).
 
-Many of the features of this site are available to you without your providing personally identifiable information. Personally identifiable information generally includes information that could be used to determine your identity, such as your name, address, phone number, email address, and birth date. The following are certain situations in which MTN may collect personally identifiable information from you:
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-  * Registration for newsletters and Sweepstakes. MTN collects personally identifiable information from you if you register online for one of MTN’s newsletters and when you enter MTN’s sweepstakes. When you register online with MTN, MTN asks for personally identifiable information like your name, email address, birth date, gender, ZIP code, occupation, industry, personal interests, and other demographic information.
-  * Use of forums. If you choose to transmit, submit, or post information through MTN’s chat rooms, bulletin boards, or other forums (the “forums”), MTN will collect that information you provide. MTN retains this information as necessary to resolve disputes, provide customer support, and troubleshoot problems as permitted by law and pursuant to MTN’s terms of use.
-  * Forms. MTN may collect personally identifiable information from you if you choose to fill out any forms, profiles, or surveys on this site.
-  * Correspondence. If you send MTN personal correspondence, such as emails or letters, or if other users or third parties send MTN correspondence about your activities or postings on this site, MTN may choose to collect such information into a file specific to you.
-  * Business partners. MTN may receive your personally identifiable information from one of MTN’s business partners.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www.moneytalksnews.com/info/terms-of-service/](https://web.archive.org/info/terms-of-service/)
 
+**Information Collection And Use**
 
-### Use of personally identifiable information
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”).
 
-MTN uses your personally identifiable information as follows:
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-  * to improve MTN’s marketing and promotional efforts, analyze site usage, improve MTN’s content and product offerings, and customize MTN’s content, layout, and services;
-  * to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of this site;
-  * to fulfill your requests for certain products and services;
-  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud, or other criminal activity, to enforce MTN’s terms of use, for other internal purposes, and as otherwise described to you at the time of collection; and
-  * as otherwise set forth in this privacy policy.
+**Log Data**
 
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-You expressly agree to MTN’s use of your personally identifiable information as set forth in this privacy policy and the terms of use.
+**Cookies**
 
-### Disclosure of personally identifiable information
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-The following describes some of the ways that your personally identifiable information may be disclosed in the normal scope of business:
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-  * Advertisers. MTN may aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. For example, MTN may aggregate personally identifiable information and disclose it to network advertisers in a non-personally identifiable manner as set forth in the section entitled “Network Advertisers,” set forth below. MTN does not disclose your information in a personally identifiable manner to such third-party advertisers without your consent.
-  * External service providers. There are a number of separate services offered by third parties, including, without limitation, MTN’s affiliates, that MTN refers to as external service providers that may be complementary to your use of this site. If you choose to use these separate services, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. With your consent, MTN may provide some of your personal information to the external service provider offering such services, for your convenience. To prevent MTN’s disclosure of your personally identifiable information to an external service provider, you can decline such consent or simply not use their services. You should evaluate the practices of external services providers before deciding to use their services.
-  * NOTE: If you click to use or apply for a service or product on this site, you may be linked to an external service provider’s website. If you choose to use or apply for an external service provider’s service or product, then all information you disclose will be governed by the external service provider’s privacy policy. Such links to external service providers are not an endorsement by MTN of those external service providers and/or the products or services offered there. MTN is not responsible for the privacy practices of external service providers and encourages you to check the privacy policy of external service providers.
-  * Internal service providers. MTN may use third parties that MTN refers to as internal service providers to facilitate or outsource one or more aspects of MTN’s business, product, and service operations that MTN provides to you (e.g., technology, forums, newsletters/alerts, analytical tools, advertising campaign management) and therefore MTN may provide some of your personal information directly to these internal service providers. These internal service providers are subject to confidentiality agreements with MTN or other legal restrictions that prohibit their use of the information MTN provides them for any other purpose except to facilitate the specific outsourced MTN related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you. In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personally identifiable information is governed by their applicable privacy policy.
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
+**DoubleClick Cookie**
 
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-Notwithstanding the foregoing, MTN reserves the right (and you authorize MTN) to share or disclose your personally identifiable information when MTN determines, in its sole discretion, that the disclosure of your personally identifiable information is necessary to identify, contact, or bring legal action against you if:
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
 
-  * you are or may be violating this privacy policy or MTN’s terms of use;
-  * you are interfering with another’s rights or property, including, without limitation, MTN’s rights or property;
-  * you are violating any applicable law, rule, or regulation;
-  * necessary or required by any applicable law, rule, or regulation; and/or
-  * requested by authorities in the event of any act of terrorism or instance of local, regional, or national emergency.
+**Behavioral Remarketing**
 
+J&G Productions, Inc uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-
-Personally identifiable information and other personal information collected from you may also be transferred to a third party as a result of a sale, acquisition, merger, reorganization, other transfer, or bankruptcy (a “transfer”) involving MTN and/or its affiliates. MTN specifically reserves the right to transfer personally identifiable information collected from this site, and any of its databases, together with any personally identifiable information contained therein, to a third party in connection with a transfer, and nothing in this privacy policy is intended to interfere with the ability of MTN to transfer all or part of its business and/or assets (including this site) to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever.
-
-In addition, due to the existing regulatory environment, MTN cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this privacy policy. By way of example (without limiting the foregoing), MTN may be forced to disclose personal information to the government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although MTN uses industry standard practices to protect your privacy, MTN does not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.
-
-NOTE: If you are submitting personally identifiable information pursuant to sweepstakes entry, MTN reserves the right to share, loan, rent, and/or sell the personally identifiable information that you submit with its affiliates and other third parties. Please refer to the official rules and privacy policy for each individual sweepstakes for the specific guidelines regarding information sharing and disclosure.
-
-### Network advertising
-
-MTN may use third-party advertising companies for marketing, advertising, and promotional purposes, as well as to serve advertisements to you. Using third-party advertising companies helps us and third-party advertisers better determine which advertisements or content to serve to you. For example, the third-party advertisers may use information regarding your visits to this site and other websites in order to provide advertisements about goods and services that third-party advertisers believe will be of interest to you.
-
-The types of information that may be collected by third-party advertising companies include the following:
-
-  * the type of Internet browser you use;
-  * the type of computer operating system you use;
-  * the domain name of a website you visit, as well as information related to websites and web pages you are viewing when an advertisement is requested;
-  * whether or not you visit specific pages of this site or other websites;
-  * the location of your Internet service provider’s point of presence;
-  * the date and time of a visit to a Web site;
-  * search keywords passed from another server;
-  * the number of times you have clicked on an advertisement; and
-  * other interactions between you and a website.
+  * **Google**  
+Google AdWords remarketing service is provided by Google Inc.  
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads "Google Ads Settings") page.  
+Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on") for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.  
+For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/ "Google Privacy & Terms") web page. 
 
 
 
-### Opt-out and changes to personally identifiable information and use preferences
+**Do Not Track Disclosure**
 
-You may at any time request a copy of MTN’s record of your personally identifiable information, change your personally identifiable information or use preferences, or opt-out of MTN’s use of your personally identifiable information by contacting MTN at [info@moneytalksnews.com](mailto:info@moneytalksnews.com).
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
-### Newsletters and CAN-SPAM compliance
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-MTN sends only verified, double-opt-in email newsletters, specifically requested by MTN subscribers. Subscriptions to MTN newsletters are verified by sending an email confirmation to your email address, which requires a positive response before an email address is added to MTN’s list. MTN is fully compliant with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003. MTN is not responsible for any email communications that you may receive from third parties.
+**Service Providers**
 
-### Cookie technology
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
 
-“Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored by your web browser on your computer’s hard drive. MTN, its external service providers, internal service providers, and third-party advertising companies may set and access cookies on your computer to track and store preferential information about you. MTN, and its external service providers, internal service providers, and third-party advertising companies gather anonymous information about you through cookie technology on an aggregate level only. For example, a third-party advertising company may assign a cookie (and a web beacon, described below) to you to limit the amount of times you see a particular advertisement or to help better determine which advertisements to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer.
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
-### Web beacons
+**Communications**
 
-“Web beacons”, also called single-pixels (1×1) or clear GIFs, are electronic images that allow a website to access cookies and help track marketing campaigns and general usage patterns of visitors to those websites. Web beacons can recognize certain types of information, such as cookie numbers, time and date of a page view, and a description of the page where the web beacon is placed. No personally identifiable information about you is shared with third parties through the use of web beacons.
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-  * Internal use of web beacons. MTN may use Web beacons internally to count users and recognize users through cookies. Access to cookies helps MTN personalize your experience when you visit this site.
-  * Email. MTN may include web beacons in HTML-formatted email messages that MTN or its affiliates or agents send. Including web beacons in email messages helps MTN determine your interest in and the effectiveness of such emails.
-  * External use of web beacons. MTN may also use web beacons externally. For example, MTN may report aggregate information about MTN users, such as demographic and usage information, to its partners, and other third parties. MTN may also include other company’s web beacons within MTN.
+**Compliance With Laws**
 
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
+**Business Transaction**
 
-### Security
+If J&G Productions, Inc is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
 
-Personally identifiable information you submit to MTN is password-protected for your privacy and security. In certain areas MTN uses industry-standard SSL-encryption to protect data transmissions. In the unlikely event that an unauthorized third party compromises MTN security measures, MTN will not be responsible for any damages directly or indirectly caused by an unauthorized third party’s ability to view, use, or disseminate such information.
+**Security**
 
-### Links to other websites
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
 
-This site may include links to other third party websites. Such links are not an endorsement by MTN of those websites and/or the products or services offered there. Third-party websites may have different privacy policies, and MTN is not responsible for the privacy practices of those third-party websites. If you click on a link to a third-party website, MTN encourages you to check the privacy policy of that website, as it may differ substantially from that of this privacy policy.
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
-Please note that MTN has financial relationships with some of the merchants mentioned here. MTN may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant. However, these relationships are separate from and have no impact on the editorial content of this site.
+**International Transfer**
 
-### Access and use of this site
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-This site is intended to be accessed and used only by adults and is not directed to children under the age of 18. MTN does not knowingly permit registration or submission of personally identifiable information by anyone under the age of 18.
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to the United States and process it there.
 
-### Changes to this privacy policy
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-MTN reserves the right to update, amend, and/or change this privacy policy at any time in its sole discretion and without notice. Updates to this privacy policy will be posted here. Any information MTN collects from you online is subject only to MTN’s most current privacy policy. You are encouraged to revisit this privacy policy from time to time in order to review any changes that have been made. Your continued access and use of this site following the posting of any such changes shall automatically be deemed your acceptance of the same.
+**Links To Other Sites**
 
-### Questions or concerns
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-If you have questions, comments, concerns, or feedback regarding this privacy policy, send an email to [info@moneytalksnews.com](mailto:info@moneytalksnews.com).
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-### Governing law; arbitration
+**Children’s Privacy**
 
-You agree that: (i) this site shall be deemed solely based in the State of Florida; and (ii) this site shall be deemed a passive website that does not give rise to personal jurisdiction over MTN, either specific or general, in jurisdictions other than the State of Florida. This Privacy Policy is to be governed by and construed in accordance with the internal laws of the State of Florida, without regard for principles of conflicts of laws. Any civil action, claim, dispute, or proceeding arising out of or relating to this privacy policy shall be referred to final and binding arbitration, before a single arbitrator, under the commercial arbitration rules of the American Arbitration Association in Palm Beach County, Florida.
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
 
-THEREFORE, YOU DO NOT HAVE THE OPPORTUNITY TO GO TO COURT TO ASSERT OR DEFEND YOUR RIGHTS AND YOU GIVE UP YOUR RIGHT TO PARTICIPATE IN OR BRING CLASS ACTIONS. BY USING THIS SITE YOU CONSENT TO THESE RESTRICTIONS.
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please [contact us](https://web.archive.org/contact/). If we discover that a Child under 13 has provided us with Personal Information, we will delete such information from our servers.
 
-You and MTN shall select the arbitrator, and if you and MTN are unable to reach agreement on selection of the arbitrator within thirty (30) days after the notice of arbitration is served, then the American Arbitration Association shall select the arbitrator. Arbitration shall not commence until the party requesting it has deposited 0ne-thousand dollars ($1,000.00) with the arbitrator for the arbitrator’s fees and costs. The party requesting arbitration shall advance such sums as are required from time to time by the arbitrator to pay the arbitrator’s fees and costs until the prevailing party is determined or the parties have agreed in writing to an alternate allocation of fees and costs.
+**Changes To This Privacy Policy**
 
-Judgment upon any award rendered by the arbitrator shall be final, binding, and conclusive upon you and MTN and your and MTN’s respective administrators, executors, legal representatives, successors and assigns, and may be entered in any court of competent jurisdiction. Notwithstanding the previous sentence, in no event shall either you or MTN be entitled to punitive, special, indirect, or consequential damages, and both you and MTN hereby waive your and MTN’s respective rights to any punitive, special, indirect or consequential damages, including, but not limited to, damages for any loss of profit, revenue, or business.
+This Privacy Policy is effective as of October 16, 2014 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-Should a dispute arise and should the arbitration provisions herein become inapplicable or unenforceable, or in any instance of any lawsuit between you and MTN, jurisdiction over and venue of any suit shall be exclusively in the state and federal courts sitting in Palm Beach County, Florida.
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
-### Miscellaneous
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
-If any portion of this Privacy Policy is deemed unlawful, void, or unenforceable by any arbitrator, this privacy policy as a whole shall not be deemed unlawful, voidm or unenforceable, but only that portion of this privacy policy that is unlawful, void, or unenforceable shall be stricken from this privacy policy.
+**Contact Us**
 
-The headings contained in this privacy policy are for convenience of reference only, are not to be considered a part of this privacy policy, and shall not limit or otherwise affect in any way the meaning or interpretation of this privacy policy.
-
-All covenants, agreements, representations and warranties made in this privacy policy, as may be amended by MTN from time to time, shall survive your acceptance of this privacy policy.
-
-This privacy policy and the terms of use represent the entire understanding and agreement between you and MTN regarding the subject matter of the same, and supersede all other previous agreements, understandings, and/or representations regarding the same.
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/contact/).
