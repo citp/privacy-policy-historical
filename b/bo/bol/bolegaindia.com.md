@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bolegaindia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085244id_/http%3A//www.bolegaindia.com/index.php%3Faction%3Dcompany%26page_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bolegaindia.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128045443id_/http%3A//www.bolegaindia.com/index.php%3Faction%3Dcompany%26page_id%3D6) for the most accurate reproduction.*
 
 # BolegaIndia.com - Connect with Friends, Ask Sawaal, Share Knowledge, Share Offers, Polls Predict & Win
 
