@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crainsdetroit.com privacy policy that was archived on 2014-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140608012500id_/http%3A//www.crainsdetroit.com/article/99999999/STATIC/50915004) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crainsdetroit.com privacy policy that was archived on 2014-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141128182114id_/http%3A//www.crainsdetroit.com/article/99999999/STATIC/50915004) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <title>Crain's Detroit Business Privacy Statement | 
@@ -47,6 +47,7 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
 <script src="/js/jquery-preload.js?v=201301301240"></script>
 <script src="/js/jquery.mCustomScrollbar.concat.min.js"></script>
 <script src="/js/jquery.prettyPhoto.js?v=201405121524"></script>
+<script src="/js/jquery.dataTables.min.js"></script>
 <script src="/js/pollMiniAjax.js"></script>
 <script src="/js/cci.js?ver=20100830"></script>
 <script src="/js/cci-setup.js?ver=20100830"></script>
@@ -65,7 +66,7 @@ var CCI = CCI || {};
 		// custom oas vars
 		var OAS_customPrimaryTag = 0;
 		var OAS_sitepage = 'www.detroitbusiness.com';
-		var OAS_sitepath = 'static-pages/article_2014060750915004';
+		var OAS_sitepath = 'static-pages/article_2014112850915004';
 		// standard oas vars
 		var oas_tag = {};
 		oas_tag.url = 'oascentral.crainsdetroit.com'; // define OAS URL
@@ -74,7 +75,7 @@ var CCI = CCI || {};
 		oas_tag.lazyload = false;
 		// oas_tag.taxonomy = 'user=1234';
 		// define ad sizes and override site page in oas-custom:
-		var cdAds = true;
+		if (typeof cdAds === "undefined") { var cdAds = true; }
 if (typeof oasProfile === "undefined") { var oasProfile; }
 		if (cdAds) {
 			if (oasProfile === "mobile") {
@@ -104,6 +105,9 @@ if (typeof oasProfile === "undefined") { var oasProfile; }
 			} else if (oasProfile === "custom") {
 				oas_tag.sizes = function() {
 					oas_tag.definePos('x96', 		[300,	600]);
+					oas_tag.definePos('x72', 		[300,	250]);
+					oas_tag.definePos('x73', 		[300,	250]);
+					oas_tag.definePos('x74', 		[300,	250]);
 				};				
 			}
 		}
@@ -154,7 +158,7 @@ if (typeof oasProfile === "undefined") { var oasProfile; }
 		// stories
 		"disqus_identifier": "B3521083-FE40-4B35-B8EC-5C75BB713A80", // use article GUID, fallback to currentrequest for other pages
 		"disqus_title": "Crain%27s%20Detroit%20Business%20Privacy%20Statement",
-		"disqus_url": "http://www.crainsdetroit.com/article/20140607/STATIC/50915004/crains-detroit-business-privacy-statement",
+		"disqus_url": "http://www.crainsdetroit.com/article/20141128/STATIC/50915004/crains-detroit-business-privacy-statement",
 		// sso
 		"disqus_message": (function() {
 			var msg = null;
@@ -175,20 +179,20 @@ if (typeof oasProfile === "undefined") { var oasProfile; }
 	};
 	// no disqus-custom.pbo for site CD
 	</script>
-<!-- pbs:macro name="cci/services-inner" cci_currcatname="Static Pages" cci_currmaincatname="Static Pages" cci_articleInfo="{'ArtNo':'50915004','AID':'20140607/STATIC/50915004','GUID':'B3521083-FE40-4B35-B8EC-5C75BB713A80','Author': '','Title':'Crain%27s%20Detroit%20Business%20Privacy%20Statement','URL':'http://www.crainsdetroit.com/article/20140607/STATIC/50915004','ISOPubDate':'20140607','ShortDate':'06/07/2014 03:01 a.m.','ExtendedDate':'Sat, 7 Jun 2014 03:01:00 -0400','Summary':'','Theme':'','TaxonomyWords':[{'ID':'19006080','Description':'Mobile%20App%20Info%20Page'}],'ExtLogin':0, 'Status':'9','AccessControl':false,'ExtLoginGlobalVar':'0','ConnectionItems':{}}" cci_hierarchy="djoPid,djoPage,module,class,category,template,id,taxid,profile,section" OASUseDXTags="1" noparse -->
-<!-- services tags generated at 3:24 am 6/7/2014 -->
+<!-- pbs:macro name="cci/services-inner" cci_currcatname="Static Pages" cci_currmaincatname="Static Pages" cci_articleInfo="{'ArtNo':'50915004','AID':'20141128/STATIC/50915004','GUID':'B3521083-FE40-4B35-B8EC-5C75BB713A80','Author': '','Title':'Crain%27s%20Detroit%20Business%20Privacy%20Statement','URL':'http://www.crainsdetroit.com/article/20141128/STATIC/50915004','ISOPubDate':'20141128','ShortDate':'11/28/2014 03:01 a.m.','ExtendedDate':'Fri, 28 Nov 2014 03:01:00 -0500','Summary':'','Theme':'','TaxonomyWords':[{'ID':'19006080','Description':'Mobile%20App%20Info%20Page'}],'ExtLogin':0, 'Status':'9','AccessControl':false,'ExtLoginGlobalVar':'0','ConnectionItems':{}}" cci_hierarchy="template,djoPid,djoPage,module,class,category,id,taxid,profile,section" OASUseDXTags="1" noparse -->
+<!-- services tags generated at 3:23 am 11/28/2014 -->
 
 <!-- END /includes/services.inc -->
 <link rel="stylesheet" href="/css/jquery-ui.css">
 <link rel="stylesheet" href="/css/prettyPhoto.css?v=201405042057">
 <link rel="stylesheet" href="/css/jquery.mCustomScrollbar.css?v=201401131457">
 <link rel="stylesheet" href="/css/ipadMessage.css?v=201405091440">
-<link rel="stylesheet" href="/css/cdb.css?v=201405291628">
-<link rel="stylesheet" href="/css/cdb_customcontent.css?v=201405071642">
+<link rel="stylesheet" href="/css/cdb.css?v=201410201534">
+<link rel="stylesheet" href="/css/cdb_customcontent.css?v=201407251506">
 <!--[if IE 6]><link rel="stylesheet" href="/css/ie6patch.css?v=201401251914" /><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" href="/css/ie7patch.css?v=201401211149" /><![endif]-->
 
-<script async="true" type="text/javascript" src="https://web.archive.org/web/20140401011220/https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="//d.adroll.com/pixel/TGVY7VDCFBCBTCIHXAQVDT/7436BCYHUJBPJDNAJMSH4N?pv=76067024087.87735&amp;cookie=&amp;keyw="></script></head>
+<script async="true" type="text/javascript" src="https://web.archive.org/web/20140401011220/https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="//d.adroll.com/pixel/TGVY7VDCFBCBTCIHXAQVDT/7436BCYHUJBPJDNAJMSH4N?pv=4071764491.163021&amp;cookie=&amp;keyw="></script></head>
 <body>
 <!-- macro cachequalifiers: currcategory,module,@storyid,@cci_extLogin,id,template,taxid,q,crit,djoPid,djoPage,cs,profile,section,cci_FrameVideoTracking -->
 <!-- SiteCatalyst code version: H.25.4.
@@ -202,20 +206,20 @@ var s_isShortArticle = false;
 var s_isMeteredArticle = false;
 var s_loggedInCookie = "CSDemos";
 </script>
-<script language="JavaScript" type="text/javascript" src="http://www.crainsdetroit.com/global/js/omniture/s_crainsc.js?ver=V24"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.crainsdetroit.com/global/js/omniture/s_crainsc.js?ver=V26.1"></script>
 <script language="JavaScript" type="text/javascript">
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 // BEGIN settings from global script
 var _cci_sc_eventsArr = _cci_sc_eventsArr || [];
-s_crainsc.pageName = "static-pages:20140607/STATIC/50915004_crains-detroit-business-privacy-statement";
+s_crainsc.pageName = "static-pages:20141128/STATIC/50915004_crains-detroit-business-privacy-statement";
 s_crainsc.channel = "static-pages";
 s_crainsc.prop1 = s_crainsc.eVar1 = "static-pages"; // site section level 1
 s_crainsc.prop5 = s_crainsc.prop6 = "static-pages"; // site sections concatenated
 s_crainsc.prop25 = s_crainsc.eVar27 = "static-pages"; // content topic 1
-s_crainsc.prop26 = s_crainsc.eVar28 = "20140607"; // content publication date (tries: Story pubdate > date value from URL > nothing)
+s_crainsc.prop26 = s_crainsc.eVar28 = "20141128"; // content publication date (tries: Story pubdate > date value from URL > nothing)
 s_crainsc.prop27 = s_crainsc.eVar29 = "crains-detroit-business-privacy-statement"; // content title (tries: Story Title > title value from URL > nothing)
-s_crainsc.prop28 = s_crainsc.eVar30 = "20140607/STATIC/50915004"; // content ID (currently only works on stories)
+s_crainsc.prop28 = s_crainsc.eVar30 = "20141128/STATIC/50915004"; // content ID (currently only works on stories)
 s_crainsc.prop29 = s_crainsc.eVar31 = "article"; // content type
 s_crainsc.prop42 = "19006080"; // content taxonomy
 s_crainsc.prop43 = s_crainsc.eVar37 = "full"; // article length flag
@@ -240,8 +244,8 @@ if(s_code)document.write(s_code);
 </noscript>
 </div>
 <!-- End SiteCatalyst code version: H.25.4. -->
-<!-- omniture-inner.pbo cached at 5:02 am 6/7/2014 -->
-<!-- Omniture tag generated at 5:02 am 6/7/2014 -->
+<!-- omniture-inner.pbo cached at 4:30 am 11/28/2014 -->
+<!-- Omniture tag generated at 4:30 am 11/28/2014 -->
 
 <div id="fb-root"></div>
 <script>
@@ -263,13 +267,13 @@ if(s_code)document.write(s_code);
 </script>
 		<div id="cci-interstitial">
 		<link href="/global/css/interstitial.css?ver=20130503" rel="stylesheet" type="text/css">
-		<script src="/global/js/cci-ads-inter.js?ver=20140414" type="text/javascript"></script>
+		<script src="/global/js/cci-ads-inter.js?ver=20141006-002" type="text/javascript"></script>
 		<script src="/global/js/jquery/jquery.blockUI-2.64.0-2013.07.18.js" type="text/javascript"></script>
 		<script type="text/javascript" src="/section/cci-static?template=interstitialJS&amp;mime=text%2Fjavascript"></script>
 		</div>
-<!-- cci_onErrorPage: /apps/pbcs.dll/article?AID=/99999999/STATIC/50915004 -->
+<!-- cci_onErrorPage: /apps/pbcs.dll/article?AID=/99999999/STATIC/130729868 -->
 <!-- CCIAdsInterstitialShowOn404:  -->
-<!-- currentrequest: /apps/pbcs.dll/article?AID=/99999999/STATIC/50915004 -->
+<!-- currentrequest: /apps/pbcs.dll/article?AID=/99999999/STATIC/130729868 -->
 
 <div id="peelback-ad"><div id="oas_x70"></div></div>
 <div id="top-shell">
@@ -316,11 +320,11 @@ if(s_code)document.write(s_code);
 <li><a href="/section/RSS">RSS</a></li>
 <li><a href="/section/search">Search</a></li>
 </ul><ul id="inner2-columnHome" class="sub" style="width:220px; left:221px; right:auto;">
-<li><a href="http://reprints.ygsgroup.com/m/crains_detroit" target="_blank">Reprints</a></li>
+<li><a href="/article/99999999/STATIC/140529879" target="_blank">Reprints</a></li>
 <li><a href="/article/99999999/STATIC/130729868">Newsstand Locations</a></li>
 <li><a href="/section/media_kit">Advertise</a></li>
 <li><a href="/article/20101026/STATIC/101029895/how-to-get-your-news-in-crains">How to Get Your News in <em>Crain's</em></a></li>
-<li><a href="/assets/PDF/CD94271421.PDF" target="_blank">2014 Editorial Calendar</a></li>
+<li><a href="/editorialcalendar" target="_blank">2014 Editorial Calendar</a></li>
 
 	</ul>
 </li>
@@ -370,18 +374,18 @@ if(s_code)document.write(s_code);
 	<ul id="inner-columnAwards" class="sub" style="width:240px; left:-1px; right:auto;">
 		<li><a href="/section/nominate">Nominate</a></li>
 <li><a href="/section/twenties14">Twenty in their 20s</a></li>
-<li><a href="/section/forty2013">40 Under 40</a></li>
+<li><a href="/section/forty2014">40 Under 40</a></li>
 <li><a href="/section/best_managed_nonprofits_2013">Best Managed Nonprofits</a></li>
 <li><a href="/section/cfo_awards_2013">CFO Awards</a></li>
 <li><a href="/section/cio_awards_2013">CIO Awards</a></li>
-<li><a href="/section/cool_places_to_work2012">Cool Places to Work</a></li>
+<li><a href="/section/cool_places_to_work2014">Cool Places to Work</a></li>
 </ul><ul id="inner2-columnAwards" class="sub" style="width:240px; left:240px; right:auto;">
 <li><a href="/section/general_and_in_house_counsel_awards_2014">General &amp; In-House Counsel Awards</a></li>
 <li><a href="/section/health_care_heroes_2014">Health Care Heroes</a></li>
 <li><a href="/section/mergers_and_acquisitions_awards_2014">M&amp;A Awards</a></li>
 <li><a href="/section/michigans_healthiest_employers2013">Michigan's Healthiest Employers</a></li>
 <li><a href="/section/newsmakers_of_the_year2013">Newsmaker of the Year</a></li>
-<li><a href="/section/salute_to_entrepreneurs2013">Salute to Entrepreneurs</a></li>
+<li><a href="/section/salute_to_entrepreneurs2014">Salute to Entrepreneurs</a></li>
 <li><a href="/section/women_in_business_changing_the_game2012">Women in Business</a></li>
 
 	</ul>
@@ -392,8 +396,8 @@ if(s_code)document.write(s_code);
 		<li><a href="/section/10things">10 Things to do this Weekend</a></li>
 <li><a href="/section/american_dreamers2014">American Dreamers</a></li>
 <li><a href="/section/auto_show2014">Auto Show</a></li>
-<li><a href="/section/detroit2.0">Detroit 2.0</a></li>
-<li><a href="/section/giving_guide_2013">Giving Guide</a></li>
+<li><a href="/section/detroit2.0_2014">Detroit 2.0</a></li>
+<li><a href="/section/giving_guide_2014">Giving Guide</a></li>
 <li><a href="/section/mackinac2014">Mackinac Policy Conference</a></li>
 </ul><ul id="inner2-columnFeatures" class="sub" style="width:230px; left:230px; right:auto;">
 <li><a href="/section/marykrameraudio">Mary Kramer on WJR</a></li>
@@ -436,10 +440,9 @@ if(s_code)document.write(s_code);
 <li><a href="/section/blogBobAllen">Bob Allen - Michigan and more</a></li>
 <li><a href="/section/blogChadHalcom">Chad Halcom - Law</a></li>
 <li><a href="/section/blogChrisGautz">Chris Gautz - Lansing and Michigan State Government</a></li>
-<li><a href="/section/blogDanielDuggan">Daniel Duggan - Economic Indicators</a></li>
+<li><a href="/section/blogCityMoments">City Moments</a></li>
 <li><a href="/section/blogDustinWalsh">Dustin Walsh - Automotive Suppliers and Business of Law</a></li>
 <li><a href="/section/blogJayGreene">Jay Greene - Health Care</a></li>
-<li><a href="/section/blogJennetteSmith">Jennette Smith - Economics, media and Detroit biz culture.</a></li>
 <li><a href="/section/blogKirkPinho">Kirk Pinho - Detroit city government and commercial real estate</a></li>
 <li><a href="/section/blogKristinBull">Kristin Bull - Detroit in the Media</a></li>
 <li><a href="/section/blogMaryKramer">Mary Kramer - Inside Detroit Business</a></li>
@@ -495,19 +498,19 @@ if(s_code)document.write(s_code);
 		<div class="content first clear">
 			<!--MOST READ ITEM-->
 <div class="mostRead">
-<!--headline --><a href="/article/20140606/NEWS/140609881/atwater-brings-canned-beer-back-to-detroit">Atwater brings canned beer back to Detroit</a>
+<!--headline --><a href="/article/20141127/NEWS01/141129894/treetops-resort-seeking-bankruptcy-reorganization">Treetops Resort seeking bankruptcy reorganization</a>
 </div><!--MOST READ ITEM-->
 <div class="mostRead">
-<!--headline --><a href="/article/20140606/NEWS/140609880/ey-names-entrepreneurs-of-the-year">E&amp;Y names Entrepreneurs of the Year</a>
+<!--headline --><a href="/article/20141127/NEWS01/141129895/oakland-county-companies-get-money-for-training">Oakland County companies get money for training</a>
 </div><!--MOST READ ITEM-->
 <div class="mostRead">
-<!--headline --><a href="/article/20140606/NEWS/140609863/wayne-state-names-new-dean-of-business-school">Wayne State names new dean of business school</a>
+<!--headline --><a href="/article/20141126/NEWS/141129907/woodward-to-reopen-thursday-first-phase-of-m-1-rail-work-wraps-up">Woodward to reopen Thursday; first phase of M-1 Rail work wraps up</a>
 </div><!--MOST READ ITEM-->
 <div class="mostRead">
-<!--headline --><a href="/article/20140604/NEWS/140609899/gilbert-to-buy-four-more-downtown-detroit-properties">Gilbert to buy four more downtown Detroit properties</a>
+<!--headline --><a href="/article/20141125/VIDEO/141129919/got-90-seconds-preview-detroit-thanksgiving-day-parade">Got 90 seconds? Preview Detroit Thanksgiving Day parade</a>
 </div><!--MOST READ ITEM-->
 <div class="mostRead">
-<!--headline --><a href="/article/20140606/NEWS/140609873/banking-entertainment-mogul-don-davis-dies-at-75">Banking, entertainment mogul Don Davis dies at 75</a>
+<!--headline --><a href="/article/20141125/NEWS/141129920/detroit-lions-56044-fans-showed-up-for-free-monday-night-bills-jets">Detroit Lions: 56,044 fans showed up for free Monday night Bills-Jets game</a>
 </div>
 		</div>
 		<div class="content second clear" style="display:none">
@@ -595,7 +598,7 @@ if(s_code)document.write(s_code);
 <table align="center">
       <tbody><tr><td width="160" align="right" valign="top"><!--COVER IMAGE | ARTICLE SUBSCRIBE FORM -->
 
-<img src="/apps/pbcsi.dll/storyimage/CD/20140601/ISSUEPDF/140609983/AR/0/AR-140609983.jpg&amp;MaxW=135&amp;q=90" align="left" hspace="10" style="border:1px solid #ccc;"></td>
+<img src="/apps/pbcsi.dll/storyimage/CD/20141123/ISSUEPDF/141129953/AR/0/AR-141129953.jpg&amp;MaxW=135&amp;q=90" align="left" hspace="10" style="border:1px solid #ccc;"></td>
 <td align="right">
 <!-- onsubmit="return checkscript()" -->
 <!-- subs@crain.com, slosik@crain.com -->
@@ -648,11 +651,11 @@ if(s_code)document.write(s_code);
 <li><a href="/section/crains_custom_media">Crain's Custom Media</a></li>
 <li><a href="/section/RSS">RSS</a></li>
 <li><a href="/section/search">Search</a></li>
-<li><a href="http://reprints.ygsgroup.com/m/crains_detroit" target="_blank">Reprints</a></li>
+<li><a href="/article/99999999/STATIC/140529879" target="_blank">Reprints</a></li>
 <li><a href="/article/99999999/STATIC/130729868">Newsstand Locations</a></li>
 <li><a href="/section/media_kit">Advertise</a></li>
 <li><a href="/article/20101026/STATIC/101029895/how-to-get-your-news-in-crains">How to Get Your News in <em>Crain's</em></a></li>
-<li><a href="/assets/PDF/CD94271421.PDF" target="_blank">2014 Editorial Calendar</a></li>
+<li><a href="/editorialcalendar" target="_blank">2014 Editorial Calendar</a></li>
 
 			</ul>
 			<br>
@@ -827,8 +830,8 @@ if(s_code)document.write(s_code);
 				<li><a href="/section/10things">10 Things to do this Weekend</a></li>
 <li><a href="/section/american_dreamers2014">American Dreamers</a></li>
 <li><a href="/section/auto_show2014">Auto Show</a></li>
-<li><a href="/section/detroit2.0">Detroit 2.0</a></li>
-<li><a href="/section/giving_guide_2013">Giving Guide</a></li>
+<li><a href="/section/detroit2.0_2014">Detroit 2.0</a></li>
+<li><a href="/section/giving_guide_2014">Giving Guide</a></li>
 <li><a href="/section/mackinac2014">Mackinac Policy Conference</a></li>
 <li><a href="/section/marykrameraudio">Mary Kramer on WJR</a></li>
 <li><a href="/section/predictions2014">Predictions 2014</a></li>
@@ -904,6 +907,9 @@ $(document).ready(function(){
 		iframe_markup: '<iframe src="{path}" style="width: {width}px; height: {height}px;" frameBorder="0" scrolling="no"></iframe>'
 	});
 });
+//dataTables
+$(document).ready(function(){$('.dataTable').dataTable({"paging":false,"searching":false})});
+$(document).ready(function(){$('.dataTableSearch').dataTable({"paging":false})});
 //Custom Scrollbar
 var isltIE8;
 if (navigator.userAgent.match(/MSIE\s([0-9])\./) != null) {
