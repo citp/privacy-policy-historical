@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the notchmag.com privacy policy that was archived on 2014-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140608102851id_/http%3A//www.notchmag.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the notchmag.com privacy policy that was archived on 2014-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141128064020id_/http%3A//www.notchmag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -106,7 +106,7 @@ googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
 </script>
-<link href="/website/var/tmp/minified_css_aa44e987b006d9d34876d008d39bc33f.css" media="all" rel="stylesheet" type="text/css">
+<link href="/website/var/tmp/minified_css_7da20fb416f8e3332cc7a25bde06cce8.css" media="all" rel="stylesheet" type="text/css">
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 <div class="wrapper">
@@ -543,7 +543,7 @@ address. We will promptly correct any information found to be incorrect.</p>
 			</div>
 		</form>
 	</div>
-	<a class="opentabbtn" href="javascript:void(0);" style="display:none;">
+	<a class="opentabbtn" href="javascript:void(0);" style="display: none;">
     	<img src="/static/images/opentab.png">
     </a>
 </div>
@@ -756,6 +756,35 @@ address. We will promptly correct any information found to be incorrect.</p>
   		<div class="clearer"></div>
   	</div>
 </div>
+
+<div class="popupoverlay" style="display: block;"></div>
+<div class="popupmain" style="margin-left: -500px; display: block;">
+	<a href="http://www.gemln.in/rings/filter/gender/forhim?utm_source=notch&amp;utm_medium=popup&amp;utm_campaign=gemln" target="_blank">
+		<img src="/static/images/gemlnpopup_7nov2014.jpg">
+	</a>
+	<a class="closepop" href="javascript:void(0);"><img src="/static/images/popcloseicon.png"></a>
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+	
+	var cookieval = $.cookie('gempopcookie');
+	if(cookieval=='gemlnpopcookie'){
+		$(".popupoverlay").hide();
+		$(".popupmain").hide();
+	}
+	else if (cookieval==null || cookieval=="" || cookieval==undefined) {
+		$(".popupoverlay").show();
+		$(".popupmain").show();
+	}
+	
+	$(".closepop").click(function(){
+		$.cookie('gempopcookie', 'gemlnpopcookie', { expires: 1, path: '/' }); 
+		$(".popupoverlay").hide();
+		$(".popupmain").hide();
+	});
+});
+</script>
+
      </div>
     </div>
 </div>
