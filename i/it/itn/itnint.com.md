@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itnint.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054229id_/http%3A//itnint.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnint.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128190433id_/http%3A//www.itnint.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ITN International — Cloud-based Event- and Lead-management Applications and Analytics
 
