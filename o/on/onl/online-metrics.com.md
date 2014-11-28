@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the online-metrics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120956id_/http%3A//online-metrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-metrics.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128054104id_/http%3A//online-metrics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OnlineMetrics
+# Privacy Policy | OnlineMetrics
 
 We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form. When registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address or phone number. You may, however, visit our site anonymously.
 
