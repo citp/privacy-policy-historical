@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techclap.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521042613id_/http%3A//www.techclap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techclap.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128222853id_/http%3A//www.techclap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | TechClap.com
 
