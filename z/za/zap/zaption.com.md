@@ -1,96 +1,52 @@
-> *The following text is extracted and transformed from the zaption.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184303id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaption.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128152928id_/http%3A//www.zaption.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement :: Namesco Limited Domain Names, Hosting, Dedicated Server Solutions and Broadband
+# Privacy Policy - Zaption
 
-  * [> Customer Login](https://web.archive.org/controlpanel.html)
-  * [Domain Names](https://web.archive.org/domains.html)
-  * [Email Packages](https://web.archive.org/email.html)
-  * [Web Hosting](https://web.archive.org/hosting.html)
-  * [Dedicated Servers](https://web.archive.org/servers.html)
-  * [Search Engine Submit](https://web.archive.org/search_engines.html)
-  * [Web Development](https://web.archive.org/phase8.html)
-  * [Internet Access](https://web.archive.org/adsl.html)
-  * [Help and Support](https://web.archive.org/support.html)
-  * [Latest News](https://web.archive.org/news.html)
-  * [About Us](https://web.archive.org/profile.html)
-  * [Contact Us](https://web.archive.org/contact.html)
-  * [Price List](https://web.archive.org/prices.html)
+## Privacy Policy
 
-  
-| [](https://web.archive.org/news.html)  
----  
-| 
+###### Last Updated: February 6th, 2013
 
-This privacy statement discloses the privacy practices for Namesco Limited.
+This privacy policy sets out how Zaption (hereinafter “Company”) uses and protects any information that you give Company when you use this website. Company is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Company may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-This web site agrees to notify you of: 
+##### What we collect
 
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Namesco Limited control 
-  7. How you can correct any inaccuracies in the information. 
+We may collect the following information:
+
+  * name
+  * email address
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20050403184303id_/http%3A//www.names.co.uk/contact.html)
+##### What we do with the information we gather
 
-Information Collection and Use 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Namesco Limited is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Namesco Limited collects information from our users at several different points on our website. 
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information, which we think you may find interesting using the email address, which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-Order 
 
-We request information from the user on our registration, order and payment forms. Here a user must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
 
-Cookies 
+##### Security
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site and is encrypted so cannot be read by any other website. Once the user closes their browser, the cookie simply terminates. It will also terminate once a period of time has elapsed since first using the site. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-We only use cookies for your convenience; for instance, to prevent the user from having to re-enter shopping cart information. If a user rejects the cookie, ordering functionality for the user will be affected. 
+##### How we use cookies
 
-Log Files 
+A cookie is a small file, which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+##### Links to other websites
 
-Sharing 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information, which you provide whilst visiting such sites and this privacy statement does not govern such sites. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+##### Controlling your personal information
 
-We use a credit card processing company to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Links 
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us.
 
-This web site may contain links to other sites. Please be aware that we [Namesco Limited] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
 
-Security 
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
-
-When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounting staff or a customer service representative) are granted access to personally identifiable information. 
-
-Correction/Updating Personal Information: 
-
-If a user's personally identifiable information changes (such as your post code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. 
-
-Choice/Opt-out 
-
-If you use this site to purchase services you may occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications on our order form. 
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, or by contacting us directly. 
-
-Users of our site are notified when their information is being collected or used by any third parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an third party, or not. 
-
-Notification of Changes 
-
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-|  | 
-
-[](https://web.archive.org/adsl.html)
-
-[ ](https://web.archive.org/competition.html)
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
