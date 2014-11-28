@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the k2radio.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223151904id_/http%3A//k2radio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k2radio.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128090829id_/http%3A//k2radio.com/privacy) for the most accurate reproduction.*
 
-# K2 Radio - Wyoming's Radio Station - Casper News
+# K2 Radio – Wyoming's Radio Station – Casper News Radio
 
 ### About K2RADIO.COM
 
