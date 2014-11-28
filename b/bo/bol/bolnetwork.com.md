@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bolnetwork.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081732id_/http%3A//www.bolnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bolnetwork.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128052823id_/http%3A//www.bolnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # BOL - Privacy Policy
 
-### Bol's Privacy Policy
+### BOL's Privacy Policy
 
 We respect the privacy of our online visitors as our own and have made it a primary concern. The main reason for collecting and storing visitor information is to improve customer services and the quality of the website. We are aware of our responsibility to maintain and use visitor information especially client information with utmost security and privacy. No matter what the circumstances, we DO NOT rent or sell any visitor/client information that we collect online. However, we do share information with third parties meeting under certain circumstances. You can find details about third-party information exchange and interactions by reading the point titled "Third Party Sharing".
 
