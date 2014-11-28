@@ -1,0 +1,528 @@
+<!--The following is the downloaded HTML source of the exiliumworld.com privacy policy that was archived on 2014-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141128120713id_/http%3A//exiliumworld.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head></head><body onload="MM_preloadImages('http://exiliumworld.com/resources/images/buttons/start_over.png')"><div id="fb-root"></div>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/pt_BR/all.js#xfbml=1"></script><script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id))
+            return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Exilium World - L2J Server</title>
+        <meta name="ROBOTS" content="INDEX,FOLLOW"> 
+        <meta name="REVISIT-AFTER" content="2 days">
+        <meta name="LANGUAGE" content="EN">
+        <meta name="AUDIENCE" content="ALL">
+        <meta name="msvalidate.01" content="0F693BC677CF36676EFFE5872ED1B70E">
+        <link rel="icon" href="images/favicon.ico" type="image/gif">
+        <link href="http://exiliumworld.com/resources/css/index.css" type="text/css" rel="stylesheet">
+        <link href="http://exiliumworld.com/resources/css/en.css" type="text/css" rel="stylesheet">
+        <link href="http://exiliumworld.com/resources/css/ajax.css" type="text/css" rel="stylesheet">
+        <link href="http://exiliumworld.com/resources/css/tipTip.css" type="text/css" rel="stylesheet">
+
+        <script type="text/javascript" src="http://exiliumworld.com/resources/javascript/jquery171.js"></script>
+        <script type="text/javascript" src="http://exiliumworld.com/resources/javascript/jquery.form.js"></script>
+        <script type="text/javascript" src="http://exiliumworld.com/javascriptLanguage?language=en"></script>
+        <script type="text/javascript" src="http://exiliumworld.com/resources/javascript/jquery.loader.js"></script>
+        <script type="text/javascript" src="http://exiliumworld.com/resources/javascript/jquery.tipTip.minified.js"></script>
+<script src="http://exiliumworld.com/resources/javascript/swfobject_modified.js" type="text/javascript"></script>
+    <link href="http://exiliumworld.com/resources/css/colorbox.css" type="text/css" rel="stylesheet">
+    <script src="http://exiliumworld.com/resources/javascript/jquery.colorbox-min.js"></script>
+    <script language="javascript">
+    function MM_swapImgRestore() { //v3.0
+        var i, x, a = document.MM_sr;
+        for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++)
+            x.src = x.oSrc;
+    }
+    function MM_preloadImages() { //v3.0
+        var d = document;
+        if (d.images) {
+            if (!d.MM_p)
+                d.MM_p = new Array();
+            var i, j = d.MM_p.length, a = MM_preloadImages.arguments;
+            for (i = 0; i < a.length; i++)
+                if (a[i].indexOf("#") != 0) {
+                    d.MM_p[j] = new Image;
+                    d.MM_p[j++].src = a[i];
+                }
+        }
+    }
+
+    function MM_findObj(n, d) { //v4.01
+        var p, i, x;
+        if (!d)
+            d = document;
+        if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+            d = parent.frames[n.substring(p + 1)].document;
+            n = n.substring(0, p);
+        }
+        if (!(x = d[n]) && d.all)
+            x = d.all[n];
+        for (i = 0; !x && i < d.forms.length; i++)
+            x = d.forms[i][n];
+        for (i = 0; !x && d.layers && i < d.layers.length; i++)
+            x = MM_findObj(n, d.layers[i].document);
+        if (!x && d.getElementById)
+            x = d.getElementById(n);
+        return x;
+    }
+
+    function MM_swapImage() { //v3.0
+        var i, j = 0, x, a = MM_swapImage.arguments;
+        document.MM_sr = new Array;
+        for (i = 0; i < (a.length - 2); i += 3)
+            if ((x = MM_findObj(a[i])) != null) {
+                document.MM_sr[j++] = x;
+                if (!x.oSrc)
+                    x.oSrc = x.src;
+                x.src = a[i + 2];
+            }
+    }
+
+    jQuery.noConflict();
+    jQuery(document).ready(function() {
+            jQuery("#unlogin").css("display", "block");
+        function mening(menu) {
+            jQuery(menu).hover(function() {
+                jQuery(menu + " .menu-list").show();
+            }, function() {
+                jQuery(menu + " .menu-list").hide();
+            });
+        }
+
+            jQuery.colorbox({href: "http://exiliumworld.com/launcher/facebook", transition: "fade"});
+    
+        mening("#home");
+        mening("#minha-conta");
+        mening("#downloads");
+        mening("#informacoes");
+        mening("#estatisticas");
+        mening("#suporte");
+        mening("#forum");
+
+        jQuery("#changeLang_pt").click(function() {
+            var lang = "pt_BR";
+            jQuery.ajax({
+                url: "http://exiliumworld.com/ajax_service/changeLang?" + Math.round((new Date()).getTime() / 1000),
+                type: "POST",
+                data: "ajax_service=true&lang=" + lang,
+                success: function() {
+                    window.location.reload();
+                }
+            });
+        });
+
+        jQuery("#changeLang_en").click(function() {
+            var lang = "en";
+            jQuery.ajax({
+                url: "http://exiliumworld.com/ajax_service/changeLang?" + Math.round((new Date()).getTime() / 1000),
+                type: "POST",
+                data: "ajax_service=true&lang=" + lang,
+                success: function() {
+                    window.location.reload();
+                }
+            });
+        });
+
+        jQuery("#changeLang_es").click(function() {
+            var lang = "es";
+            jQuery.ajax({
+                url: "http://exiliumworld.com/ajax_service/changeLang?" + Math.round((new Date()).getTime() / 1000),
+                type: "POST",
+                data: "ajax_service=true&lang=" + lang,
+                success: function() {
+                    window.location.reload();
+                }
+            });
+        });
+
+        var loginOptions = {
+            data: {ajax_service: "true"},
+            beforeSubmit: function() {
+                jQuery("#statusForm #msg").html('');
+                jQuery(this).bodyLoad(0);
+            },
+            success: function(data) {
+                jQuery(this).bodyLoad(1);
+                if (data == 0) {
+                    alert(invalid_login);
+                    //jQuery("#statusForm #msg").html('<font color="#CD0000">'+invalid_login+'</font>');
+
+                } else if (data == 2) {
+                    alert(banned);
+                } else if (data == 1) {
+                    jQuery("input[name=username]").val('Username');
+                    jQuery("input[name=password]").val('Senha');
+
+
+                    var url = window.location.pathname;
+                    url = url.replace("/la2exilium", "");
+                    url = url.split('/');
+
+                    var reload = false;
+                    if (url[1] == 'account') {
+                        if (url[2] == 'panel') {
+
+                            jQuery("#statusForm #msg").html('');
+                            var login_box = welcome_msg + ', <strong><span id="userNameLogin"></span></strong>';
+                            jQuery("#login .welcome").html(login_box);
+
+                            jQuery("#unlogin").css("display", "none");
+                            jQuery("#login").css("display", "block");
+
+                            jQuery.post("http://exiliumworld.com/ajax_service/get_login_name?" + Math.round((new Date()).getTime() / 1000), {ajax_service: "true"}, function(data) {
+                                jQuery("#userNameLogin").html(data);
+                            });
+
+                            if (url.length > 3) {
+                                if (url[3].length > 1) {
+                                    window.location.reload();
+                                    reload = true;
+                                }
+                            }
+                        } else
+                            location.href = weblink + "account/panel";
+                    } else
+                        location.href = weblink + "account/panel";
+
+                    if (!reload) {
+                        jQuery("#painel_controle").css("display", "block");
+                        jQuery("#make_login").css("display", "none");
+                    }
+                }
+            },
+            error: function() {
+                jQuery("#statusForm #msg").resultAjax(true, service_unavaliabre);
+            }
+        }
+
+        jQuery("#headerLoginForm").ajaxForm(loginOptions);
+
+
+        jQuery("#husername").focus(function() {
+            if (jQuery(this).val() == "Username") {
+                jQuery(this).val('');
+            }
+        });
+        jQuery("#hpassword").focus(function() {
+            if (jQuery(this).val() == "Senha") {
+                jQuery(this).val('');
+            }
+        });
+
+        jQuery("#logout").click(function() {
+            jQuery.ajax({
+                url: "http://exiliumworld.com/ajax_service/logout?" + Math.round((new Date()).getTime() / 1000),
+                type: "POST", data: "ajax_service=true",
+                beforeSend: function() {
+                    jQuery(this).bodyLoad(0);
+                    //jQuery("#login .welcome").resultAjax(false);
+                },
+                success: function() {
+                    jQuery(this).bodyLoad(1);
+                    jQuery("#login .welcome").resultAjax(true);
+                    jQuery("#login").css('display', 'none');
+                    jQuery("#unlogin").css('display', 'block');
+                    jQuery("#make_login").css('display', 'block');
+                    jQuery("#painel_controle").css('display', 'none');
+
+                    //window.location.reload();
+                },
+                error: function() {
+                    jQuery("#statusForm #msg").resultAjax(false, service_unavaliabre);
+                }
+            });
+        });
+
+    });
+
+    function voteLink(env) {
+        jQuery.ajax({
+            url: "http://exiliumworld.com/ajax_service/vote?" + Math.round((new Date()).getTime() / 1000),
+            type: "POST",
+            data: "ajax_service=true&vote=" + env
+        });
+    }
+
+
+    /*ADD BY ALLAN RODRIGUES*/
+    function navigation(pageurl, preservNext) {
+        preservNext = preservNext || false;
+        //jQuery('#ajax_content').html('<div align="center" id="content" style="padding-top:110px"><img src="/resources/images/ajax-loader-transparent.gif" alt="" /> <br /> <br /> Please wait...</div>');
+        jQuery("body").css("cursor", "progress");
+        jQuery.ajax({
+            url: pageurl,
+            type: "POST", data: "ajax_request_sending=true",
+            headers: {
+                "ajax-request": true
+            },
+            success: function(data) {
+                jQuery('#ajax_content').html(data);
+                hookNavigation();
+                toolTip_FormHelp_hook();
+                FB.XFBML.parse();
+            }
+        })
+                .fail(function() {
+            jQuery('#ajax_content').html('<div align="center" id="content" style="padding-top:40%"><img src="http://www.exiliumworld.com/resources/error_ajax.png" alt="AjaxError" /></div>');
+        })
+                .complete(function() {
+            jQuery("body").css("cursor", "");
+        });
+        if (pageurl != window.location && !preservNext) {
+            window.history.pushState({path: pageurl}, '', pageurl);
+        }
+    }
+    function hookNavigation() {
+        if (typeof(window.history.pushState) == 'function') {
+            jQuery("[ajax]")
+                    .each(function() {
+                if (!jQuery(this).is('[ajax_hooked]')) {
+                    jQuery(this)
+                            .attr('ajax_hooked', true)
+                            .click(function(e) {
+                        e.preventDefault();
+                        navigation(jQuery(this).attr('href'))
+                    });
+                }
+            });
+        }
+    }
+    if (typeof(window.history.pushState) == 'function') {
+        jQuery(window).bind('popstate', function() {
+            if (window.location.hash == "")
+                navigation(location.pathname, true);
+        });
+    }
+    jQuery(function() {
+        //Temp disabled
+        hookNavigation();
+    })
+
+
+
+
+    /*toolbox*/
+    function toolTip_FormHelp_hook() {
+        jQuery("[tooltip]")
+                .each(function() {
+            if (!jQuery(this).is('[tooltip_hooked]')) {
+                jQuery(this)
+                        .attr('tooltip_hooked', true)
+                        .tipTip({
+                    maxWidth: "auto",
+                    edgeOffset: 10,
+                    attribute: "tooltip",
+                    defaultPosition: "top"
+                });
+            }
+        });
+
+    }
+
+    jQuery(function() {
+        toolTip_FormHelp_hook();
+    });
+
+
+</script>
+<script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<!--<style type="text/css">
+    .Rotate-90
+    {
+        float: left;
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        width: 250px;
+        height: 25px;
+        background-color: red;
+    }
+</style>
+<!--[if IE]>
+    <style>
+        .Rotate-90 {
+                filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+                right:-15px; top:5px;
+        }
+    </style>
+    <![endif]-->
+<!--
+<style type="text/css">
+    #float_sitelocker {
+        z-index: 5;
+        position:fixed;_position:absolute;bottom:0px;right:0px;clip:
+            inherit;_top:expression(document.documentElement.scrollTop+document.documentElement.clientHeight-this.clientHeight);_left:expression(document.documentElement.scrollLeft + document.documentElement.clientWidth - offsetWidth);}
+    </style>
+<!--
+<div id="float_sitelocker">
+<a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=www.la2exilium.com','SiteLock','width=600,height=600,left=160,top=170');" ><img alt="website security" title="SiteLock"  src="//shield.sitelock.com/shield/www.la2exilium.com"/></a> 
+</div>
+-->    
+
+    
+        <div id="topbar">
+            <div class="tbleft">
+                <table border="0" align="left" cellspacing="5" cellpadding="0">
+                    <tbody><tr align="left">
+                        <td align="left">
+                            <div valign="middle" id="changeLang_link">
+                                <span id="changeLang_pt"><img src="http://exiliumworld.com/resources/images/brasil.png" title="Português"></span>
+                                <span id="changeLang_en"><img src="http://exiliumworld.com/resources/images/eua.png" title="English"></span>
+                                <span id="changeLang_es"><img src="http://exiliumworld.com/resources/images/es.png" title="Español"></span>
+                            </div>
+                        </td>
+                        <td align="left">
+                            <span style="font-family: Franklin Gothic Medium Cond, Calibri, Arial; font-size: 12px; color: #a09f97;">SERVER STATUS: <font color="#b4d776">ONLINE</font> <img src="http://exiliumworld.com/resources/images/separator.png" align="absmiddle"> PLAYING: <font color="#b4d776">915</font></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+            <div class="tbright">
+                <div id="statusForm"><span id="msg"></span></div>
+                <div id="statusLogin">
+
+                    <span id="unlogin" style="display: none;">
+                        <form id="headerLoginForm" method="post" action="http://exiliumworld.com/index.php/ajax_service/login?1417176431">
+                            <input type="text" name="username" id="husername" maxlength="20" value="Username">
+                            <input type="password" name="password" id="hpassword" maxlength="20" value="Senha">
+                            <input type="submit" class="but signin" value="" title="Login">
+                            <a href="http://exiliumworld.com/account/recover_psw" class="but forgotpassword" title="Forgot your password?" ajax="true"></a>
+                        </form>
+                    </span>
+
+                    <div id="login" style="display: none;">
+                        <div class="welcome">Welcome, <strong><span id="userNameLogin"></span></strong></div>
+                        <a class="but myaccount" href="http://exiliumworld.com/account/panel" title="My Accout"></a>
+
+                        <a id="logout" class="but logout" href="#" title="Exit"></a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div id="bgmain">
+            <div id="main">
+                <div id="header">
+                    <a href="http://exiliumworld.com/" ajax="true"><img src="http://exiliumworld.com/resources/images/spacer.gif" style="position: absolute; top: 190px; left: 340px; width: 345px; height: 70px; z-index: 1"></a>
+                </div>
+
+                <div id="navi">
+                    <ul id="nav" class="en">
+                        <li id="home"><a href="http://exiliumworld.com/" class="none" ajax="true"></a></li>
+                        <li id="information"><a href="#" class="none"></a>
+                            <ul>
+                                <li><a href="http://exiliumworld.com/info/connect" ajax="true">How to play</a></li>
+                                <li><a href="http://exiliumworld.com/info/location" ajax="true">Players Location</a></li>
+                            </ul>
+                        </li>
+                        <li id="my_account"><a href="#" class="none"></a>
+                            <ul>
+                                <li><a href="http://exiliumworld.com/account/register" ajax="true">Create new account</a></li>
+                                <li><a href="http://exiliumworld.com/account/panel" ajax="true">Control Panel</a></li>
+                            </ul>
+                        </li>
+                        <li id="servers"><a href="#" class="none"></a>
+                            <ul>
+                                <li><a href="#">Faris</a><ul>
+                                        <li><a href="http://exiliumworld.com/servers/faris/features" ajax="true">Features</a></li>
+                                        <li><a href="http://exiliumworld.com/servers/faris/events" ajax="true">Events</a></li>
+                                        <li><a href="http://exiliumworld.com/servers/faris/ranking" ajax="true">Rankings</a></li>
+                                        <li><a href="http://exiliumworld.com/servers/faris/boss" ajax="true">Boss Status</a></li>
+                                        <li><a href="http://exiliumworld.com/servers/faris/territory_status" ajax="true">Territory Status</a></li>
+                                        <!--<li><a href="http://exiliumworld.com/servers/faris/heroes" ajax="true">Heroes</a></li>-->
+                                        <li><a href="http://exiliumworld.com/servers/faris/graph" ajax="true">Statistics</a></li>
+                                    </ul></li>
+                            </ul>
+                        </li>
+                        <li id="media"><a href="#" class="none"></a>
+                            <ul>
+                                <li><a href="http://exiliumworld.com/screens" ajax="true">Screenshots</a></li>
+                                <li><a href="http://exiliumworld.com/videos" ajax="true">Videos</a></li>
+                            </ul>
+                        </li>
+                        <li id="forum"><a href="http://forum.exiliumworld.com" target="_blank" class="none"></a></li>
+                    </ul>
+                </div>
+                <div id="nav_2"></div>
+
+                <div id="ajax_content">
+<div id="content">
+    <div class="pageContent">
+	    <br>
+        <h1>Privacy Policy</h1>
+		
+			The Exilium World is committed to protecting the online privacy of visitors to our virtual environments. This Policy applies to the website and online services provided by Exilium World. The purpose of this Policy is to inform you about the types of information we collect about you during your visit to our environments.<br><br>
+			By accessing and using the EXILIUMWORLD.COM website, your use indicates your agreement with the terms of this Policy. If you do not agree with this Policy, we kindly ask that you not use the site.<br><br>
+			<br>
+			<h2>Personal Information</h2>
+			
+			At various locations on our sites, such as registration forms, surveys and polls, we may request that you supply us with "personal information" such as your full name, username, email, home address and/or home phone number. You will always know when we are collecting personal information, because we do it only when you voluntarily send us through our online forms in a secure environment.<br><br>
+			Although not required to provide any information to visit our websites, you may not be able to fully utilize all the services if you elect not to provide certain information.<br><br>
+			<br>
+			<h2>Non-Personal Information</h2>
+
+			By using our sites, we may also collect "non-personal information." Is data that, by itself, can not be used to identify you or contact you, such as demographic data (age, gender, etc.). Non-personal information may also include technical information, such as your IP address, browser type used, websites you visit immediately before and after visiting our sites and other anonymous involving the use you make of our site. Non-personal information may also include information you provide to us through the use you make of our site.<br><br>
+			<br>
+			<h2>Online Shopping</h2>
+
+			We do not collect personal information when you purchase Exilium Coins through our online shopping process (credit card number/bank data, etc.), these informations is only required by the online payment methods and not by Exilium World.<br><br>
+			<br>
+			<h2>Cookies and Pixel Tags</h2>
+
+			Like many other service sites, we use "cookies" and "pixel tags" to enhance your visits to our sites. A cookie is a small amount of data sent to your browser when you use our sites, stored on the hard drive of your computer. Cookies do not store personal information unless you knowingly provide it. They just store non-personal information, such as websites or pages your browser has accessed immediately before and after coming to our site, or your browsing in our environments.<br><br>
+			A pixel tag is a feature used to understand the behavior of the user visiting a page. Such behaviors to generate non-personal information such as IP address of the computer that requested the service, the time in which this was done, the time taken and the type of browser used.<br><br>
+			The Exilium World uses cookies and pixel tags to personalize your experience on our sites, allowing us to deliver the type of content and relevant products that our customers generally seek, and for communication focused on our customers. For example, cookies allow us to recognize your browser as a previous visitor, thus save, and remember any preferences that may have been set while you were previously browsing here.<br><br>
+			Most browsers can be configured to notify you when a cookie is being placed on your computer, or even to refuse cookies (which automatically locks pixel tags), although this may affect your Internet experience.<br><br>
+			You can delete cookies already on your computer. For more information about configuring your cookies, please refer to the "Help" function of your browser.
+
+
+        <p>
+            <label>&nbsp;</label>
+            <br class="clear">
+        </p>
+
+    </div>
+
+
+
+
+</div></div>
+<div id="page_end"></div>
+<div id="footer"><a href="http://www.l2jserver.com/license/" target="_blank" class="rights"><strong>GRU GENERAL PUBLIC LICENCE</strong></a> | <a href="http://exiliumworld.com/privacy_policy" class="rights" ajax="true"><strong>PRIVACY POLICY</strong></a> | <a href="http://exiliumworld.com/rules" class="rights" ajax="true"><strong>TERMS AND RULES OF CONDUCT</strong></a> | <a href="http://exiliumworld.com/support" class="rights" ajax="true"><strong>SUPPORT</strong></a><br><div class="spacer"></div>
+  ©2013 Exilium World. <a href="http://exiliumworld.com/company_info" ajax="true"><font color="#8e8e8e">Smartime Tecnologia LTDA</font></a>. Designed by <a href="http://fasart.net/" target="_blank"><font color="#8e8e8e">Fasart Web Design Studio</font></a>.
+</div>
+<script type="text/javascript">
+swfobject.registerObject("FlashID");
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41031269-1', 'exiliumworld.com');
+  ga('send', 'pageview');
+
+</script>
+
+
+</div></div></body></html>
