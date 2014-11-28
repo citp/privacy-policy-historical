@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edcite.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529002107id_/http%3A//edcite.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edcite.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128144918id_/http%3A//www.edcite.com/help/privacy.html) for the most accurate reproduction.*
 
 # Edcite Privacy Policy
 
@@ -10,7 +10,11 @@ Edcite Inc. complies with the provisions of the U.S-E.U Safe Harbor framework as
 
 ## Children's Online Privacy Protection
 
-Edcite does not knowingly collect Personal Information from users who are under 13 years of age.
+As a teacher oriented site, Edcite does not directly sign-up users who are under 13 years of age.  Students sign up and use Edcite only with the authorization of a teacher, and need a valid class code from the teacher to sign up.  Teachers may instruct students of any age to join their class on Edcite.  This sign up process collects the following information from students:  a unique userid provided by the student, a password, first name, last name, and optionally an email address.  This student information is used solely to provide the student and their teachers access to the Edcite online education application, and will not be shared with any third-parties.  The optional student email address is used solely to provide notifications of new work assigned by the teacher, and will not be shared with any third-parties.
+
+Results of student activity on Edcite are securely stored on Edcite servers, and are visible only to the student, and to their teachers, who see only the results of the specific subset of work assigned by that teacher.  Teachers do not get to see results of student work assigned by other teachers.
+
+Edcite treats individual student personal information and activity data as highly sensitive information that will not be shared with anyone except the student's teacher, and will only be used within Edcite as needed to provide our online education services to teachers and students.
 
 ## Information Recorded and Use:
 
@@ -66,7 +70,7 @@ We may need to disclose Personal Information to our affiliates, service provider
 
 We adopt industry appropriate data collection, storage and processing practices and security measures, as well as physical security measures to protect against unauthorized access, alteration, disclosure or destruction of your Personal Information, username, password, transaction information and data stored in your user account. Access to your name and email address is restricted to our employees who need to know such information in connection with providing Edcite Services to you and are bound by confidentiality obligations.
 
-## **Your Choice in Information Use**
+## **Your choice in Information Use**
 
 You will be required to register for our Edcite Services by providing Personal Information. If you choose not to provide your Personal Information, we will be unable to provide you the Edcite Services. We do provide you with the option of not choosing a secret question and the answer to it; however, we may not be able to reset your password for you. We also provide you with the option of opting out from receiving mail from us; however, you will not be able to receive email notifications of new services, releases, upcoming events and changes to the Privacy Policy Statement should you decide to opt-out of receiving all messages from Edcite. In the event we decide to use your Personal Information for any purpose other than as stated in this Privacy Policy Statement, we will offer you an effective way to opt out of the use of your Personal Information for those other purposes. You may opt out of receiving newsletters and other secondary messages from Edcite by selecting the ‘unsubscribe’ function present in every message we send.
 
