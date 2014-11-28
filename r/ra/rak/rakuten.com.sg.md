@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rakuten.com.sg privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607235511id_/http%3A//www.rakuten.com.sg/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakuten.com.sg privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128201747id_/http%3A//www.rakuten.com.sg/policy/privacy/%3Fl-id%3Dsg__footer_privacy) for the most accurate reproduction.*
 
 # Rakuten Singapore: Privacy Policy
 
@@ -28,19 +28,19 @@ Rakuten will use information Users provide as necessary to carry out transaction
 
   * **To advertise and promote Rakuten’s business**
 
-Rakuten may use User information to contact User through several media including without limitation e-mail magazines, post, or phone, as allowed by law, providing information about the Services or the services of our merchants or affiliates in Rakuten Group. Rakuten may use User information such as gender, geography, or shopping history to personalize such Service information.
+Rakuten may use User information to contact User through several media including without limitation e-mail magazines, post, or phone, as allowed by law, providing information about the Services or the services of our merchants or affiliates in Rakuten Group. Rakuten may use User information such as gender, geography, or browsing and shopping history to personalize such Service information.
 
   * **To improve customer service**
 
-Information Users provide helps Rakuten respond to User customer service requests and support needs more efficiently.
+Users Information allows Rakuten to respond to User customer service requests and support User needs more efficiently
 
-  * **To personalize user experience**
+  * **To personalize and customize the user experience**
 
-Rakuten may use information in the aggregate to understand how Users as a group use the services and resources provided on the Service.
+Rakuten collects User information in order to understand how Users use the services and resources provided on the Service. Rakuten may provide this information as aggregated statistical data to merchants and advertisers so that product offerings can be continually tailored to meet User needs.
 
   * **To contact Users following inquiries**
 
-Rakuten may use the information provided to respond to their inquiries, questions, and/or other requests.
+Rakuten may use the information provided to respond to inquiries, questions, and/or other requests from that User.
 
 
 
@@ -51,7 +51,9 @@ Rakuten adopts appropriate data collection, storage and processing practices and
 
 Sharing User personal information
 
-Rakuten does not sell, trade, or rent Users personal identification information to others without the consent of users. Rakuten may share User personal identification information to third parties including Rakuten’s affiliates abroad to complete transactions, for account management purposes, for marketing purposes, or to fulfill a legal requirement or request if Rakuten believes that such action is necessary. Any affiliates to whom personal information is shared shall assume all responsibility for their use of such personal information. 
+Rakuten does not sell, trade, or rent Users personal identification information to others without the consent of users. Rakuten may share User personal identification information to third parties including Rakuten’s affiliates abroad to complete transactions, for account management purposes, for marketing purposes, or to fulfill a legal requirement or request if Rakuten believes that such action is necessary. Any affiliates to whom personal information is shared shall assume all responsibility for their use of such personal information.
+
+Users’ personal identification information will be transferred to Rakuten, Inc. in Japan, and Rakuten regional headquarters located in Luxembourg and the United States. If a User uses services in another country, the information will be transferred to the Rakuten affiliate in that country. 
 
 Changes to this privacy policy
 
@@ -73,4 +75,4 @@ Singapore 049145
 Tel: 65-6226 2280  
 Email: [asia-inquiry@mail.rakuten.com](mailto:asia-inquiry@rakuten.com)
 
-**This document was established on November 11, 2013**
+**Last modifired: July 1st 2014**
