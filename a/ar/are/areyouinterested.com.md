@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areyouinterested.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630195321id_/http%3A//www.snap-interactive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areyouinterested.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128092501id_/http%3A//www.snap-interactive.com/privacy-policy) for the most accurate reproduction.*
 
 # SNAP Interactive Inc. | Privacy Policy
 
@@ -39,7 +39,7 @@ Performance-Related. We may use cookies or other tracking technologies to assess
 
 Functionality-Related. We may use tracking technologies to tell us, for example, whether you have visited the Sites before or if you are a new visitor and to help us identify the features in which you may have the greatest interest.
 
-Keep in mind that certain features of our Services are only available through the use of tracking technologies.
+Keep in mind that certain features of our Services are only available through the use of tracking technologies. In addition, our use of tracking technologies may be associated with personally identifiable information that is associated with your user account.
 
 You may encounter tracking technologies/cookies from our third party service providers that we have allowed on our Sites that assist us with various aspects of our web site operations and services to provide us with information about your interests from your web viewing on other sites. You may find out more information about these third parties and their practices and your choices on how such data is collected by clicking here.
 
