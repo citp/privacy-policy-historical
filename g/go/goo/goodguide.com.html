@@ -1,782 +1,495 @@
-<!--The following is the downloaded HTML source of the goodguide.com privacy policy that was archived on 2009-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090927184421id_/http%3A//www.goodguide.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goodguide.com privacy policy that was archived on 2014-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141128035118id_/http%3A//www.goodguide.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-        <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<!DOCTYPE html><html><!--<![endif]--><head>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"5caf9dab80","applicationID":"3571074","transactionName":"dlhaRkJYDl8BQxpVUlpCQB1DXw1E","queueTime":0,"applicationTime":578,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYAU1FWGwAFU1BSAAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<title>Privacy Policy | GoodGuide</title>
+<meta content="We have rated &amp; reviewed 250,000+ products based on safety, health, &amp; environmental factors.  See your favorite products reviewed &amp; rated." name="description">
+<link href="http://www.goodguide.com/about/privacy" rel="canonical">
 
-        
-        <title>GoodGuide | About GoodGuide and GoodGuide Ratings</title>
-<meta name="Description" content="Learn more about GoodGuide: our partners, our data on product performance, how our experts calculate product ratings, and how to contact us.">
-
-<meta content="noindex, nofollow, noodp, noydir" name="robots">
-
-
-        
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-
-
-<link href="http://resources-1.goodguide.com/22/M/stylesheets/cache/document_head.css?1253835868" media="all" rel="stylesheet" type="text/css">
-
-
-        
-
-
-
-
-
-
-
-	
-		
-	
-
-
-
-<script src="http://resources-0.goodguide.com/22/M/javascripts/cache/document_head.js?1253835868" type="text/javascript"></script>
-
-	<script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=default&amp;publisher=19a4527a-bfe6-4bae-b5a6-9d4c4eb3dab0"></script>
-
-
-
-
-<link href="http://feeds2.feedburner.com/goodguide" rel="alternate" type="application/atom+xml">
-<link rel="icon" type="image/png" href="http://static-resources.goodguide.com/images/favicon.png">
-<link rel="search" type="application/opensearchdescription+xml" title="GoodGuide" href="http://resources.goodguide.com/search_description.xml">
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-window.dhtmlHistory.create({
-  toJSON: function(o) {
-    return JSON.stringify(o);
-  },
-  fromJSON: function(s) {
-    return JSON.parse(s);
+<link href="//fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+<link href="//fast.fonts.net/cssapi/8d218c1c-ff57-4a4c-b011-c883544a8f62.css" rel="stylesheet" type="text/css">
+<script src="//cdn.optimizely.com/js/2158200946.js"></script>
+<link href="//d3stjt3o8irh7.cloudfront.net/assets/application-99b2f868d4efb7c19bb62332bf7ac2c2.css" media="screen, projection" rel="stylesheet" type="text/css">
+<!-- HTML5 shim for ie < 9 -->
+<!--[if lt IE 9]>
+<script>
+  var e = ("abbr,article,aside,audio,canvas,datalist,details," +
+    "figure,footer,header,hgroup,mark,menu,meter,nav,output," +
+    "progress,section,time,video").split(',');
+  for (var i = 0; i < e.length; i++) {
+    document.createElement(e[i]);
   }
-});
-
-var pageListener = function(newLocation, historyData) {
-  eval(historyData);
-};
-
-window.onload = function() {
-  dhtmlHistory.initialize();
-  dhtmlHistory.addListener(pageListener);
-}
 </script>
-        
 
-				<link href="http://resources-3.goodguide.com/22/M/stylesheets/list_page.css?1253835868" media="all" rel="stylesheet" type="text/css">
-				<link href="http://resources-0.goodguide.com/22/M/stylesheets/al_fresco.css?1253835868" media="all" rel="stylesheet" type="text/css">
-      <link href="http://resources-1.goodguide.com/22/M/stylesheets/sidebar_page.css?1253835868" media="all" rel="stylesheet" type="text/css">
-        <link href="http://resources-3.goodguide.com/22/M/stylesheets/editorial.css?1253835868" media="all" rel="stylesheet" type="text/css">
-
-        
-        <link href="http://resources-3.goodguide.com/22/M/stylesheets/print.css?1253835868" media="print" rel="stylesheet" type="text/css">
-
-        <!-- IE6 Overrides -->
-        <!--[if lte IE 6]>
-          <link href="http://resources-0.goodguide.com/22/M/stylesheets/ie6.css?1253835868" media="all" rel="stylesheet" type="text/css" />
-        <![endif]-->
-        <!--[if gte IE 7 ]>
-                <link href="http://resources-1.goodguide.com/22/M/stylesheets/ie7.css?1253835868" media="all" rel="stylesheet" type="text/css" />
-        <![endif]-->
-
-				
-				
-				
-
+<![endif]-->
+<link href="//d3stjt3o8irh7.cloudfront.net/assets/favicon-cde208dbc234c56a11af4c5b5f7499d8.ico" rel="shortcut icon" type="image/x-icon">
+<link href="//d3stjt3o8irh7.cloudfront.net/assets/apple-touch-icon-precomposed-ff3ad443da3638d59e2de18654884567.png" rel="apple-touch-icon-precomposed">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="w2ADmqn0s4yxCzmf3Muffkt5OLu8LmNDgItuQG01jcg=" name="csrf-token">
+<meta content="app-id=294447660" name="apple-itunes-app">
 </head>
+<body class="about">
+<div id="wrap">
+<header id="header">
+<nav class="header-container">
+<div class="gg-analytics" data-event-data="null" data-event-enabled="true" data-event-ga-action="Top Nav: Home" data-event-name="Top Nav: Home" data-event-source="about"><div class="header-logo">
+<a href="/" title="GoodGuide">GoodGuide</a>
+</div>
+</div><div class="tab-headers">
+<div class="tab-header nav-menu">
+<div class="text">Personal Care</div>
+<div class="arrow"></div>
+</div>
+<div class="tab-header nav-menu">
+<div class="text">Food</div>
+<div class="arrow"></div>
+</div>
+<div class="tab-header nav-menu">
+<div class="text">Household</div>
+<div class="arrow"></div>
+</div>
+<div class="tab-header nav-menu">
+<div class="text">Babies &amp; Kids</div>
+<div class="arrow"></div>
+</div>
+<div class="tab-header nav-menu">
+<div class="text">More</div>
+<div class="arrow"></div>
+</div>
+<div class="tab-header nav-menu search" id="search-icon">
+<div class="search-icon"></div>
+</div>
+</div>
+</nav>
+<div class="tab-content-container">
+<div class="gg-analytics" data-event-data="{&quot;Browsed Category Name&quot;:&quot;:text&quot;}" data-event-enabled="true" data-event-ga-action="browse_menu_dropdown" data-event-name="Top Nav: Browse Category" data-event-scope=".header-link a" data-event-source="about"><div class="tab-content">
+<div class="header-col one">
+<div class="header-link"><a href="/categories/152642-after-shave-reviews-and-ratings">After Shave</a></div>
+<div class="header-link"><a href="/categories/261594-body-wash-cleanser-reviews-and-ratings">Body Wash &amp; Cleanser</a></div>
+<div class="header-link"><a href="/categories/152675-conditioner-reviews-and-ratings">Conditioner</a></div>
+<div class="header-link"><a href="/categories/153026-deodorants-antiperspirants-reviews-and-ratings">Deodorants &amp; Antiperspirants</a></div>
+<div class="header-link"><a href="/categories/184392-eye-ear-care-reviews-and-ratings">Eye &amp; Ear Care</a></div>
+<div class="header-link"><a href="/categories/184398-makeup-reviews-and-ratings">Makeup</a></div>
+</div>
+<div class="header-col two">
+<div class="header-link"><a href="/categories/152783-medicine-cabinet-reviews-and-ratings">Medicine Cabinet</a></div>
+<div class="header-link"><a href="/categories/152738-mouthwash-reviews-and-ratings">Mouthwash</a></div>
+<div class="header-link"><a href="/categories/152758-shampoo-reviews-and-ratings">Shampoo</a></div>
+<div class="header-link"><a href="/categories/152759-shaving-cream-reviews-and-ratings">Shaving Cream</a></div>
+<div class="header-link"><a href="/categories/184401-skin-care-reviews-and-ratings">Skin Care</a></div>
+</div>
+<div class="header-col three">
+<div class="header-link"><a href="/categories/205501-soap-reviews-and-ratings">Soap</a></div>
+<div class="header-link"><a href="/categories/152766-sunscreen-spf-15-above-reviews-and-ratings">Sunscreen SPF 15 and Above</a></div>
+<div class="header-link"><a href="/categories/231377-tampons-reviews-and-ratings">Tampons</a></div>
+<div class="header-link"><a href="/categories/152770-toothpaste-reviews-and-ratings">Toothpaste</a></div>
+<div class="header-link"><a href="/categories">See all »</a></div>
+</div>
+</div>
+<div class="tab-content">
+<div class="header-col one">
+<div class="header-link"><a href="/categories/255744-breads-baked-goods-reviews-and-ratings">Breads &amp; Baked Goods</a></div>
+<div class="header-link"><a href="/categories/255757-breakfast-reviews-and-ratings">Breakfast</a></div>
+<div class="header-link"><a href="/categories/255760-candy-reviews-and-ratings">Candy</a></div>
+<div class="header-link"><a href="/categories/255770-canned-foods-reviews-and-ratings">Canned Foods</a></div>
+<div class="header-link"><a href="/categories/255779-coffee-reviews-and-ratings">Coffee</a></div>
+</div>
+<div class="header-col two">
+<div class="header-link"><a href="/categories/255782-condiments-dips-salad-dressings-reviews-and-ratings">Condiments, Dips, &amp; Salad Dressings</a></div>
+<div class="header-link"><a href="/categories/255789-dairy-dairy-substitutes-reviews-and-ratings">Dairy &amp; Dairy Substitutes</a></div>
+<div class="header-link"><a href="/categories/255752-drinks-reviews-and-ratings">Drinks</a></div>
+<div class="header-link"><a href="/categories/256022-fresh-meat-seafood-reviews-and-ratings">Fresh Meat &amp; Seafood</a></div>
+<div class="header-link"><a href="/categories/256021-fresh-produce-reviews-and-ratings">Fresh Produce</a></div>
+</div>
+<div class="header-col three">
+<div class="header-link"><a href="/categories/255805-frozen-foods-reviews-and-ratings">Frozen Foods</a></div>
+<div class="header-link"><a href="/categories/255873-packaged-meals-and-sides-reviews-and-ratings">Packaged Meals and Sides</a></div>
+<div class="header-link"><a href="/categories/255898-snacks-reviews-and-ratings">Snacks</a></div>
+<div class="header-link"><a href="/categories/255832-teas-reviews-and-ratings">Teas</a></div>
+<div class="header-link"><a href="/categories">See all »</a></div>
+</div>
+</div>
+<div class="tab-content">
+<div class="header-col one">
+<div class="header-link"><a href="/categories/167203-air-fresheners-reviews-and-ratings">Air Fresheners</a></div>
+<div class="header-link"><a href="/categories/172613-dishwashing-reviews-and-ratings">Dishwashing</a></div>
+</div>
+<div class="header-col two">
+<div class="header-link"><a href="/categories/180013-household-cleaners-reviews-and-ratings">Household Cleaners</a></div>
+<div class="header-link"><a href="/categories/184448-laundry-reviews-and-ratings">Laundry</a></div>
+</div>
+<div class="header-col three">
+<div class="header-link"><a href="/categories/314607-lighting-products-reviews-and-ratings">Lighting Products</a></div>
+<div class="header-link"><a href="/categories/302027-paper-products-reviews-and-ratings">Paper Products</a></div>
+</div>
+</div>
+<div class="tab-content">
+<div class="header-col one">
+<div class="header-link"><a href="/categories/152651-baby-bubble-bath-reviews-and-ratings">Baby Bubble Bath</a></div>
+<div class="header-link"><a href="/categories/255740-baby-food-reviews-and-ratings">Baby Food</a></div>
+<div class="header-link"><a href="/categories/255741-baby-formula-reviews-and-ratings">Baby Formula</a></div>
+<div class="header-link"><a href="/categories/152652-baby-lotion-reviews-and-ratings">Baby Lotion</a></div>
+<div class="header-link"><a href="/categories/152653-baby-oil-reviews-and-ratings">Baby Oil</a></div>
+</div>
+<div class="header-col two">
+<div class="header-link"><a href="/categories/152654-baby-powder-reviews-and-ratings">Baby Powder</a></div>
+<div class="header-link"><a href="/categories/152655-baby-shampoo-reviews-and-ratings">Baby Shampoo</a></div>
+<div class="header-link"><a href="/categories/152656-baby-soap-reviews-and-ratings">Baby Soap</a></div>
+<div class="header-link"><a href="/categories/205490-baby-soap-bath-reviews-and-ratings">Baby Soap &amp; Bath</a></div>
+<div class="header-link"><a href="/categories/152657-baby-sunscreen-reviews-and-ratings">Baby Sunscreen</a></div>
+</div>
+<div class="header-col three">
+<div class="header-link"><a href="/categories/152658-baby-toothpaste-reviews-and-ratings">Baby Toothpaste</a></div>
+<div class="header-link"><a href="/categories/152659-baby-wipes-reviews-and-ratings">Baby Wipes</a></div>
+<div class="header-link"><a href="/categories/278854-childrens-apparel-reviews-and-ratings">Children's Apparel</a></div>
+<div class="header-link"><a href="/categories/152687-diaper-cream-reviews-and-ratings">Diaper Cream</a></div>
+<div class="header-link"><a href="/categories/298990-diapers-reviews-and-ratings">Diapers</a></div>
+</div>
+</div>
+<div class="tab-content">
+<div class="toggler-container">
+<div class="header-col one">
+<div class="toggler-header more-link">
+<div class="text">Pet Food</div>
+<div class="plus"></div>
+</div>
+<div class="toggler-content">
+<div class="header-link"><a href="/categories/334088-cat-food-reviews-and-ratings">Cat Food</a></div>
+<div class="header-link"><a href="/categories/334089-dog-food-reviews-and-ratings">Dog Food</a></div>
+<div class="header-link"><a href="/categories/308912-pet-food-reviews-and-ratings">See all »</a></div>
+</div>
+<div class="toggler-header more-link">
+<div class="text">Apparel</div>
+<div class="plus"></div>
+</div>
+<div class="toggler-content">
+<div class="header-link"><a href="/categories/338648-activewear-reviews-and-ratings">Activewear</a></div>
+<div class="header-link"><a href="/categories/278854-childrens-apparel-reviews-and-ratings">Children's Apparel</a></div>
+<div class="header-link"><a href="/categories/338649-dresses-reviews-and-ratings">Dresses</a></div>
+<div class="header-link"><a href="/categories/278856-jeans-reviews-and-ratings">Jeans</a></div>
+<div class="header-link"><a href="/categories/338650-pants-shorts-reviews-and-ratings">Pants, Shorts</a></div>
+<div class="header-link"><a href="/categories/338651-shirts-blouses-polos-t-reviews-and-ratings">Shirts, Blouses, Polos, T-Shirts, Tanks</a></div>
+<div class="header-link"><a href="/categories/338652-skirts-reviews-and-ratings">Skirts</a></div>
+<div class="header-link"><a href="/categories/338654-sweaters-hoodies-sleep-lounge-reviews-and-ratings">Sweaters, Hoodies, Sleep &amp; Lounge</a></div>
+<div class="header-link"><a href="/categories/277459-apparel-reviews-and-ratings">See all »</a></div>
+</div>
+</div>
+<div class="header-col two">
+<div class="toggler-header more-link">
+<div class="text">Electronics</div>
+<div class="plus"></div>
+</div>
+<div class="toggler-content">
+<div class="header-link"><a href="/categories/332304-cell-phones-reviews-and-ratings">Cell Phones</a></div>
+</div>
+<div class="toggler-header more-link">
+<div class="text">Appliances</div>
+<div class="plus"></div>
+</div>
+<div class="toggler-content">
+<div class="header-link"><a href="/categories/319149-air-conditioners-reviews-and-ratings">Air Conditioners</a></div>
+<div class="header-link"><a href="/categories/319151-dishwashers-reviews-and-ratings">Dishwashers</a></div>
+<div class="header-link"><a href="/categories/319152-refrigerators-and-freezers-reviews-and-ratings">Refrigerators and Freezers</a></div>
+<div class="header-link"><a href="/categories/319160-washers-and-dryers-reviews-and-ratings">Washers and Dryers</a></div>
+<div class="header-link"><a href="/categories">See all »</a></div>
+</div>
+</div>
+<div class="header-col three">
+<div class="toggler-header more-link">
+<div class="text">Cars</div>
+<div class="plus"></div>
+</div>
+<div class="toggler-content">
+<div class="header-link"><a href="/categories/340608-large-cars-reviews-and-ratings">Large Cars</a></div>
+<div class="header-link"><a href="/categories/340605-midsize-cars-reviews-and-ratings">Midsize Cars</a></div>
+<div class="header-link"><a href="/categories/340612-minivans-reviews-and-ratings">Minivans</a></div>
+<div class="header-link"><a href="/categories/340609-pickups-reviews-and-ratings">Pickups</a></div>
+<div class="header-link"><a href="/categories/340606-small-cars-reviews-and-ratings">Small Cars</a></div>
+<div class="header-link"><a href="/categories/340611-special-purpose-vehicles-reviews-and-ratings">Special Purpose Vehicles</a></div>
+<div class="header-link"><a href="/categories/340604-sport-utility-vehicles-reviews-and-ratings">Sport Utility Vehicles</a></div>
+<div class="header-link"><a href="/categories/340607-station-wagons-reviews-and-ratings">Station Wagons</a></div>
+<div class="header-link"><a href="/categories/340610-vans-reviews-and-ratings">Vans</a></div>
+<div class="header-link"><a href="/categories/340613-cars-reviews-and-ratings">See all »</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-content">
+<div class="gg-analytics" data-event-data="{&quot;Query&quot;:&quot;.search-field&quot;}" data-event-enabled="true" data-event-ga-action="header_search_form" data-event-name="Search Performed" data-event-scope="form" data-event-source="about" data-event-type="submit"><div class="search-container">
+<form action="/products" class="search-bar" method="get">
+<div class="search-icon"></div>
+<input autocomplete="off" class="search-field" name="filter" placeholder="Search for products" type="search" value="">
+<input class="search-button" type="submit" value="SEARCH">
+<input class="clear-icon" type="reset">
+</form>
+</div>
+</div>
+</div>
+</div></div>
 
-<body>
-	<div class="body-box">
-		<div id="center-box" class="with-share-header sidebar-page selenium-about-privacy">
-    	
-<div id="header" class="header-background-color">
-        <div id="header-links">
+</header>
+<div id="content-container">
+<nav class="breadcrumbs">
+<div class="gg-analytics" data-event-data="{&quot;Level&quot;:&quot;@level&quot;}" data-event-enabled="true" data-event-ga-action="breadcrumb" data-event-ga-label="@label" data-event-name="Breadcrumbs" data-event-source="about"><div class="breadcrumbs-container"><div class="__microdata-scope gg-analytics" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" data-label="Home" data-level="1" itemprop="url"><div class="gg-analytics" itemprop="title">Home</div></a></div><span class="breadcrumb-spacing">&gt;</span><div class="__microdata-scope gg-analytics" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/about" data-label="About" data-level="2" itemprop="url"><div class="gg-analytics" itemprop="title">About</div></a></div><span class="breadcrumb-spacing">&gt;</span><div class="gg-analytics">Privacy Policy</div></div></div>
 
-<div id="profile-link-box" class="join-link">
-        
-                <a href="http://www.goodguide.com/user/new" class="profile-link-image profile-link-target" u_name="Become a Member"><img alt="Header_star" src="http://resources-0.goodguide.com/22/M/images/backgrounds/home_page/header_star.png?1253835868"></a><a href="http://www.goodguide.com/user/new" class="light-links profile-link-target selenium-join-link" id="profile-link" u_name="Become a Member">Become a Member</a><div id="profile-popup">
-        <div id="profile-popup-background"></div>
-        <div id="profile-popup-content" class="selenium-join-popup">
-                <span class="title">Become a Member</span>
-                <ul>
-                        <li class="padded">Find the best products, share with friends, create personalized favorites lists and more.</li>
-                        <li class="padded"><a href="http://www.goodguide.com/user/new" id="selenium-join-now-link" u_name="Join Now">Join now!</a></li>
-                        <li><a href="#" id="selenium-login-popup-link" onclick="ajax_facebox_message('http://www.goodguide.com/new_login_popup', null, true, 700, 330); return false;" u_name="Existing Member Login">Login!</a></li>
-                </ul>
-        </div>
-        <!--[if lte IE 6.5]>
-          <iframe></iframe>
-        <![endif]-->
+</nav>
+<!--[if IE]>
+<div id='unsupported-browser-notification'>
+Sorry, we don't support
+<a href='http://whatbrowser.org' target='_blank'>your browser.</a>
+We recommend Chrome, Firefox, Safari, or Internet Explorer 10 and higher.
 </div>
 
-        
+<![endif]-->
+<div class="content">
+<div id="column-narrow"><nav>
+<div class="gg-analytics" data-event-data="{&quot;Link&quot;:&quot;:text&quot;}" data-event-enabled="true" data-event-ga-action="link" data-event-ga-label=":text" data-event-name="About Page Sidebar" data-event-source="about"><section class="sidebar info-tile">
+<div class="info-tile-header truncate">
+<h1>About Us</h1>
+</div>
+<div class="info-tile-content">
+<ul class="menu">
+<li><a href="/about" title="Who Are We?">Who Are We?</a></li>
+<li><a href="/about/team" title="Executive Team">Executive Team</a></li>
+<li><a href="/about/contact" title="Contact Us">Contact Us</a></li>
+<li><a href="/about/mobile" title="Mobile Apps">Mobile Apps</a></li>
+<li><a href="/about/platform" title="PurView Platform">PurView Platform</a></li>
+<li><a href="/about/faq" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+</ul>
+
+</div>
+</section>
+<section class="sidebar info-tile">
+<div class="info-tile-header truncate">
+<h1>Jobs</h1>
+</div>
+<div class="info-tile-content">
+<ul class="menu">
+<li><a href="/about/jobs" title="Open Positions">Open Positions</a></li>
+<li><a href="/about/jobs/faq" title="Working With Us">Working With Us</a></li>
+<li><a href="/about/jobs/team" title="Meet the Team">Meet the Team</a></li>
+<li><a href="/about/jobs/b2b" title="Our Platform">Our Platform</a></li>
+<li><a href="/about/jobs/ul" title="GoodGuide and UL">GoodGuide and UL</a></li>
+</ul>
+
+</div>
+</section>
+<section class="sidebar info-tile">
+<div class="info-tile-header truncate">
+<h1>Press</h1>
+</div>
+<div class="info-tile-content">
+<ul class="menu">
+<li><a href="/about/press" title="All Press">All Press</a></li>
+<li><a href="/about/press/news" title="News Coverage">News Coverage</a></li>
+<li><a href="/about/press/media" title="Radio and TV">Radio and TV</a></li>
+</ul>
+
+</div>
+</section>
+<section class="sidebar info-tile">
+<div class="info-tile-header truncate">
+<h1>Our Ratings</h1>
+</div>
+<div class="info-tile-content">
+<ul class="menu">
+<li><a href="/about/ratings" title="Ratings">Ratings</a></li>
+<li><a href="/about/data" title="Data">Data</a></li>
+<li><a href="/about/methodologies" title="Methodology">Methodology</a></li>
+</ul>
+
+</div>
+</section>
+<section class="sidebar info-tile">
+<div class="info-tile-header truncate">
+<h1>Policies</h1>
+</div>
+<div class="info-tile-content">
+<ul class="menu">
+<li><a href="/about/user-agreement" title="User Agreement">User Agreement</a></li>
+<li class="active"><a href="/about/privacy" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="/about/disclaimer" title="Legal Notices">Legal Notices</a></li>
+</ul>
+
+</div>
+</section>
+</div></nav>
+</div>
+<div id="column-wide">
+<article id="about-privacy">
+
+<div class="about-content info-tile">
+<div class="info-tile-header truncate">
+<h1>GoodGuide Privacy Policy (Last Modified October 28, 2011)</h1>
+</div>
+<div class="info-tile-content">
+<div class="gg-analytics" data-event-data="null" data-event-enabled="true" data-event-ga-action="link" data-event-name="link" data-event-scope="a" data-event-source="about" label="@href"><div class="info-tile-text"><h2>Your Privacy</h2>
+
+<p>GoodGuide offers products and services that include our website at  goodguide.com as well as our browser toolbars, mobile applications, and APIs (collectively, the “Services”).  GoodGuide knows that you care about how your personal information is collected, used and shared so we take many steps to protect your privacy.  This document (the “Privacy Policy”) sets forth our practices and policies with respect to our collection, use and sharing of personal information through your use of the Services. Your use of the Services constitutes acknowledgement that that you have read this Privacy Policy and accept its terms. Please do not use the Services if you do not want the Privacy Policy to apply to you.</p>
+
+<h3>What Does This Privacy Policy Cover?</h3>
+
+<p>This Privacy Policy covers treatment of information that GoodGuide may gather when you access or use the Services. This Privacy Policy does not apply to sites or services owned, operated or controlled by third parties. Information that you provide to such third parties and their sites or services will be subject to the privacy policies of such sites or services.</p>
+
+<h3>What Information Does GoodGuide Collect?</h3>
+
+<p>We divide the information that we collect into two categories for the purpose of this Privacy Policy:</p>
+<ol><li>The first category is personally identifiable information (“PII”) - information that can identify you as an individual. Examples of PII are names, addresses, telephone numbers, email addresses or your account credentials at third-party e-commerce sites.</li><li>The other category is “everything else” — that is, information that is not PII, and cannot identify you as an individual. Examples of this category would be page views (of company or product ratings), products scanned (and their geographic location), interactions on GoodGuide or third-party websites (such as recommends/avoids or product additions to shopping carts), and any statistical or aggregate information.  All such information has been de-identified and cannot be tied to you as an individual.</li></ol>
+<p>We use both types of information to provide the Services. This allows us to personalize and improve the services we offer to you. The following gives a little more background on both categories of information:</p>
+
+<p><strong>Information You Provide to Us.</strong> Provision of PII is not required to use the Services and review product or company ratings.  However, in order to use certain Services or to access the full features of certain Services you may be required to register with us (and give us PII such as your name and email address) or provide your account credentials at third-party e-commerce sites.  You can choose not to provide us with such PII, but then you will not be able to use or take advantage of some of the Services. For example, only registered users can access reports summarizing their product searches or scanning activity.  Similarly, only users who provide e-commerce account credentials can have their purchase histories at such sites automatically evaluated by GoodGuide.</p>
+
+<p>The information, including PII, that you provide is also used to customize the content you see and to communicate with you about our Services and new products. If you provide PII to us through one of our Services, we may use it for these purposes in connection with other Services; for example, if you provide your email address to us in connection with a GoodGuide Service you are giving us permission to use that email address in order to respond to your requests, advise you about other services, and so forth. We provide account management tools that let you manage your subscription status to GoodGuide email communications.</p>
+
+<p><strong>Information Collected Automatically.</strong> We receive and store certain types of information whenever you interact with the Services. GoodGuide automatically receives and records information on our server logs from your browser or mobile device, including your IP address or mobile location, cookie information, and the page or portion of the Services that you requested.</p>
+
+<p>GoodGuide also automatically tracks users’ interactions with the Services (whether through use of our websites, mobile applications, browser toolbars or other products or services).  These interactions include product or brand searches or scans, user-submitted content contributions (e.g., recommendations/avoids or comments), social media activity (e.g. shares/likes) or e-commerce activity (e.g., additions to shopping carts and checkouts). Registered users are provided with password-restricted access to their own activity data and GoodGuide also uses these data to personalize our Services for you.   Any other use of automatically collected information occurs only in aggregate form, and not in a manner that would identify you personally.  Automatically collected and aggregated data enables GoodGuide to understand how users are accessing and using the Services so that we can improve them and focus our efforts on popular features.</p>
+
+<h3>Will GoodGuide Share the Information it Collects?</h3>
+
+<p><strong>Personally Identifiable Information.</strong> GoodGuide does not rent, sell, or share PII about you with other companies for any purpose. While we do not rent, share, or sell PII to advertisers, we may utilize PII within our systems to customize the delivery of marketing content or product promotions that will be of greatest relevance, value, and interest to you.</p>
+
+<p><strong>Aggregate Information.</strong> GoodGuide may share aggregate non-PII information with others to help improve the Services, and third party services and products.</p>
+
+<p><strong>Contractors.</strong> GoodGuide may contract with other companies (e.g., for data analysis, email services or other specialties) to perform tasks on our behalf. We may need (and you are authorizing us) to share your information, including PII, with them for the limited purpose of allowing us to fulfill these tasks. We bind these contractors to agreements that prohibit them from using or disclosing any information they receive from GoodGuide for any purposes except the ones they are hired to provide to us.</p>
+
+<p><strong>Legal Compliance.</strong> GoodGuide reserves the right to disclose your PII when we believe in good faith that release is necessary to (1) comply with the law; (2) enforce or apply our conditions of use and other agreements; (3) or protect the rights, property or safety of GoodGuide, our employees, our users, or others.</p>
+
+<p><strong>Business Transfers.</strong> If a third party acquires GoodGuide or GoodGuide goes out of business through bankruptcy or otherwise, information would be one of the assets that could be transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of GoodGuide may continue to use all information, including PII, as long as it does so only as set forth in this Privacy Policy.</p>
+
+<h3>How Secure is My Information?</h3>
+
+<p>GoodGuide has put in place physical, electronic, and managerial procedures in an effort to safeguard our Services, help prevent unauthorized access, maintain data security, and use the PII we collect from you in compliance with this privacy policy.  When communicating with third-party e-commerce sites, GoodGuide transmits information such as your Account Credentials securely.</p>
+
+<h3>Can I Access or Change My Information?</h3>
+
+<p>As a registered user, we will provide you with a password-protected personal account, where you can maintain your profile. It is your responsibility to select an appropriate password for this account, to change it regularly and to ensure that your password is not disclosed to others.</p>
+
+<p>Automatically gathered and aggregated information cannot generally be reviewed or changed by individuals. As noted, such information does not link to any PII about you.</p>
+
+<h3>How Do You Use Cookies and Similar Tools?</h3>
+
+<p>GoodGuide uses cookies and similar tools to track session data and allow us to personalize your experience of the Services. We do not use cookies or other tools to collect or reveal PII to GoodGuide.  Most browsers have an option for turning off the cookie feature, or erasing existing cookies. If you elect to turn off cookies, GoodGuide will not be able to store cookies on your system or collect information from them. As a result, you will not be able to use the personalized features of the Services that depend on cookies and the information they contain.</p>
+
+<p>Some of our advertisers may use cookies in the content they provide for publication within the GoodGuide Services, as may the owners of websites or other services where our Services are available.  For example, the GoodGuide browser toolbar operates when you visit e-commerce websites.  GoodGuide has no access to or control over the use of cookies by any advertisers or owners of third-party websites or other services.</p>
+
+<h3>Other Sites and Services</h3>
+
+<p>The Services may contain links or otherwise make it possible for you to access other websites and services. These other sites and services are not owned or controlled by GoodGuide. We are not responsible for the privacy practices or content of such other sites or services.</p>
+
+<h3>What if You Change the Privacy Policy?</h3>
+
+<p>This Privacy Policy is a living document. GoodGuide may amend the Privacy Policy as we add new features to the Services, or as the law or circumstances change. Accordingly, we reserve the right to modify this Privacy Policy at any time. If we make material changes to the Privacy Policy we will post those changes here and other places we deem appropriate so that you are aware of the changes. Use of particular information or PII will remain subject to whatever version of the Privacy Policy was in effect at the time it was collected.</p>
+
+<h3>Questions or Concerns</h3>
+
+<p>If you have any questions, concerns or suggestions regarding this Privacy Policy, the Services, or GoodGuide in general please contact us at <a href="mailto:info@goodguide.com">info@goodguide.com</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</article>
 </div>
 
+</div>
+</div>
+</div>
+<footer id="footer">
 
-<ul class="inline-list light-links">
-        <li><a href="http://www.goodguide.com/about" class="selenium-about-us-link" u_name="About Us">About Us</a></li>
-        <li><a href="http://www.goodguide.com/about/ratings" class="selenium-ratings-link" rel="nofollow" u_name="Our Ratings">Ratings</a></li>
-        <li><a href="http://www.goodguide.com/about/alliances" class="selenium-partners-link" rel="nofollow" u_name="Partners and Alliances">Partners</a></li>
-        <!--<li><a href="http://www.goodguide.com/about/advisors" class="selenium-advisors-link" rel="nofollow" u_name="Trusted Advisors">Advisors</a></li>-->
-        <li><a href="http://www.goodguide.com/about/jobs" class="selenium-jobs-link" rel="nofollow" u_name="Jobs">Jobs</a></li>
-        <li><a href="http://www.goodguide.com/ideas" class="selenium-ideas-link" rel="nofollow" u_name="Submit Idea">Ideas</a></li>
-        
-                <li><a href="#" id="selenium-login-link" onclick="ajax_facebox_message('http://www.goodguide.com/new_login_popup', null, true, 700, 330); return false;" rel="nofollow" u_name="Login">Login</a></li>
-        
-        <li id="header-share">
-
-
-
-
-  <div class="selenium-share-this-widget share-this-widget with-icon" style="">
-		<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#tabs=email%2Cweb%2Cpost&amp;charset=utf-8&amp;style=default&amp;publisher=19a4527a-bfe6-4bae-b5a6-9d4c4eb3dab0&amp;offsetLeft=1000"></script>
-  </div>
-
-
-
-<script type="text/javascript">
-  $(".share-this-widget a").attr("u_name", "Send to a Friend");
-</script>
+<div class="footer-container">
+<div class="footer-logo"></div>
+<nav class="footer-list">
+<h2 class="footer-title">Ratings</h2>
+<ul>
+<li><a href="http://www.goodguide.com/about/ratings">Ratings</a></li>
+<li><a href="http://www.goodguide.com/about/data">Data</a></li>
+<li><a href="http://www.goodguide.com/about/methodologies">Methodology</a></li></ul>
+</nav>
+<nav class="footer-list">
+<h2 class="footer-title">Jobs</h2>
+<ul>
+<li><a href="http://www.goodguide.com/about/jobs">Open Positions</a></li>
+<li><a href="http://www.goodguide.com/about/jobs/faq">Working with Us</a></li>
+<li><a href="http://www.goodguide.com/about/jobs/ul">GoodGuide + UL</a></li></ul>
+</nav>
+<nav class="footer-list">
+<h2 class="footer-title">Tools</h2>
+<ul>
+<li><a href="http://www.goodguide.com/about/mobile">Mobile App</a></li>
+<li><a href="http://www.goodguide.com/about/platform">Purview Platform</a></li></ul>
+</nav>
+<nav class="footer-list">
+<h2 class="footer-title">Site Index</h2>
+<ul>
+<li><a href="http://www.goodguide.com/categories">Category Index</a></li>
+<li><a href="http://www.goodguide.com/companies">Company Index</a></li>
+<li><a href="http://www.goodguide.com/brands">Brand Index</a></li>
+<li><a href="http://www.goodguide.com/products">Product Index</a></li>
+<li><a href="http://www.goodguide.com/ingredients">Ingredient Index</a></li></ul>
+</nav>
+<nav class="footer-list">
+<h2 class="footer-title">About</h2>
+<ul>
+<li><a href="http://www.goodguide.com/about">About GoodGuide</a></li>
+<li><a href="http://blog.goodguide.com/">Blog</a></li>
+<li><a href="http://www.goodguide.com/about/press">Press</a></li>
+<li><a href="http://www.goodguide.com/about/contact">Contact Us</a></li></ul>
+</nav>
+<div class="copyright">
+<div class="footer-title">
+© 2014 GoodGuide, Inc.
+</div>
+<nav>
+<ul>
+<li>
+<a href="http://www.goodguide.com/about/user-agreement">User Agreement</a>
+</li>
+<li>
+<a href="http://www.goodguide.com/about/privacy">Privacy Policies</a>
+</li>
+<li>
+<a href="http://www.goodguide.com/about/disclaimer">Legal Notices</a>
 </li>
 </ul>
+</nav>
+</div>
+</div>
 
-
+</footer>
+<script data-turbolinks-eval="false" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script data-turbolinks-eval="false" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.3.1/underscore-min.js" type="text/javascript"></script>
+<script data-turbolinks-eval="false" src="//cdnjs.cloudflare.com/ajax/libs/d3/2.8.1/d3.v2.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-  $("#header-share .stbuttontext").text("Share");
+//<![CDATA[
+      window._mixpanel_config = {
+        events: ["Viewed About Page"],
+        attributes: {"Page":"Privacy Policy","Source":"about"},
+        token: "b3171d9464535293a78f2e298b445d06"
+      }
+
+//]]>
+</script><script data-turbolinks-eval="false" type="text/javascript">
+//<![CDATA[
+(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init(window._mixpanel_config.token);
+
+//]]>
+</script>
+<script data-turbolinks-eval="false" src="//d3stjt3o8irh7.cloudfront.net/assets/application-0bc561234d267b9b865f544732a93cb3.js" type="text/javascript"></script>
+<script data-turbolinks-eval="false" type="text/javascript">
+//<![CDATA[
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-7045112-3', 'goodguide.com');
+
+//]]>
 </script>
 
 
-
-</div>
-        <div><a href="http://www.goodguide.com/" u_name="Home Page (logo)"><img alt="Good Guide" id="header-logo" src="http://resources-3.goodguide.com/22/M/images/backgrounds/home_page/header_logo.png?1253835868"></a></div>
-        <div id="header-navigation">
-                <ul class="inline-list light-links" id="header-navigation-links">
-                        <li><a href="http://www.goodguide.com/browse" id="selenium-browse-header-link" rel="nofollow" u_name="Browse Products"><img alt="Header_arrow" src="http://resources-2.goodguide.com/22/M/images/backgrounds/home_page/header_arrow.png?1253835868"> Browse Product Ratings</a></li>
-                        <li><a href="http://www.goodguide.com/learn" id="selenium-learn-header-link" rel="nofollow" u_name="Learn"><img alt="Header_arrow" src="http://resources-2.goodguide.com/22/M/images/backgrounds/home_page/header_arrow.png?1253835868"> Learn About the Issues</a></li>
-                </ul>
-                
-									<div id="header-search">
-                    <form action="/search/" id="search-form" method="get"><input id="ontology" name="ontology" type="hidden" value="default">
-<div id="search-bar">
-  <input class="combo-button selenium-header-search-input" id="q" name="q" size="30" type="text" value="">
-</div>
-<div id="header-filter-picker">
-  <ul class="filter-list">
-  <li class="overall header">Filter Search Results:<a id="clear-filters" href="#">(clear all)</a>
-    <div class="explanation">See only products that match the following qualities:</div>
-  </li>
-  
-    <li class="header">General:</li>
-    
-    
-      <li class="even" u_name="Environmentally Friendly">
-        
-        <input id="selenium-filter-picker-13" name="rating_filter[]" type="checkbox" value="13">
-        <div class="text">
-          <h4>Environmentally Friendly</h4>
-          <p>Best-rated on environmental performance</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-    <div class="clearer"></div>
-
-  
-    <li class="header">Food:</li>
-    
-    
-      <li class="even" u_name="Organic">
-        
-        <input id="selenium-filter-picker-18" name="rating_filter[]" type="checkbox" value="18">
-        <div class="text">
-          <h4>Organic</h4>
-          <p>Certified USDA organic</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-      <li class="odd" u_name="Vegan">
-        
-        <input id="selenium-filter-picker-19" name="rating_filter[]" type="checkbox" value="19">
-        <div class="text">
-          <h4>Vegan</h4>
-          <p>Does not contain any animal products</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-      <li class="even" u_name="Low in Sugar">
-        
-        <input id="selenium-filter-picker-15" name="rating_filter[]" type="checkbox" value="15">
-        <div class="text">
-          <h4>Low in Sugar</h4>
-          <p>Meets FDA guidelines for low sugar foods</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-      <li class="odd" u_name="Low in Sodium">
-        
-        <input id="selenium-filter-picker-8" name="rating_filter[]" type="checkbox" value="8">
-        <div class="text">
-          <h4>Low in Sodium</h4>
-          <p>Meets FDA guidelines for low sodium foods</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-      <li class="even" u_name="Low in Cholesterol">
-        
-        <input id="selenium-filter-picker-10" name="rating_filter[]" type="checkbox" value="10">
-        <div class="text">
-          <h4>Low in Cholesterol</h4>
-          <p>Meets FDA guidelines for low cholesterol foods</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-      <li class="odd" u_name="Low in Saturated Fat">
-        
-        <input id="selenium-filter-picker-14" name="rating_filter[]" type="checkbox" value="14">
-        <div class="text">
-          <h4>Low in Saturated Fat</h4>
-          <p>Meets FDA guidelines for low saturated fat foods</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-    <div class="clearer"></div>
-
-  
-    <li class="header">Personal Care &amp; Cleaners:</li>
-    
-    
-      <li class="even" u_name="Fragrance-Free">
-        
-        <input id="selenium-filter-picker-12" name="rating_filter[]" type="checkbox" value="12">
-        <div class="text">
-          <h4>Fragrance Free</h4>
-          <p>Free of fragrances and perfumes</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-      <li class="odd" u_name="Not Tested On Animals">
-        
-        <input id="selenium-filter-picker-17" name="rating_filter[]" type="checkbox" value="17">
-        <div class="text">
-          <h4>Not Tested On Animals</h4>
-          <p>Free from testing on animals</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-    <div class="clearer"></div>
-
-  
-    <li class="header">Toys:</li>
-    
-    
-      <li class="even" u_name="Contaminant-Free">
-        
-        <input id="selenium-filter-picker-11" name="rating_filter[]" type="checkbox" value="11">
-        <div class="text">
-          <h4>Contaminant Free</h4>
-          <p>Tested and found free of chemical contaminants</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-      <li class="odd" u_name="Lead-Free">
-        
-        <input id="selenium-filter-picker-16" name="rating_filter[]" type="checkbox" value="16">
-        <div class="text">
-          <h4>Lead Free</h4>
-          <p>Tested and found free of lead</p>
-        </div>
-        <div class="clearer"></div>
-
-      </li>
-      
-    
-    <div class="clearer"></div>
-
-  
-</ul>
-
-<script type="text/javascript">
-  
-  //Make the entire li clickable
-  $('.filter-list li *:not(input)').mousedown(function(ev) {
-    $(this).parent().siblings('input')[0];
-    if($(this).parent().siblings('input').attr("checked") == false) {
-      $(this).parent().siblings('input').attr("checked", true);
-    } else {
-      $(this).parent().siblings('input').attr("checked", false);
-    }
-
-  });
-  
-  var toggle_picture = function() {
-    if ($('.filter-list li input:checked').length > 0) {
-      $("#filter-arrow img").attr("src", "/images/icons/search_right_depressed.png")
-    } else {
-      $("#filter-arrow img").attr("src", "/images/icons/search_right.png")
-    }
-  };
-  
-  //Change the little search triangle
-  $('.filter-list li *').mouseup(function() {setTimeout(toggle_picture, 20);});
-
-  $("#clear-filters").click(function() {
-    $('.filter-list li input').attr("checked", false);
-    return false;
-  });
-  
-</script>
-        <!--[if lte IE 6.5]>
-    <iframe></iframe>
-  <![endif]-->
-</div>
-<div id="search-buttons">
-  <button type="submit" value="Search" name="commit" class="combo-button" id="selenium-search-submit"><img alt="Search_left" src="http://resources-0.goodguide.com/22/M/images/icons/search_left.png?1253835868"></button>
-  <div id="filter-arrow"><img alt="Search_right" src="http://resources-3.goodguide.com/22/M/images/icons/search_right.png?1253835868"></div>
-</div>
-</form>
-
-<script type="text/javascript">
-  $('#filter-arrow').mousedown(function() {
-    if ($('#header-filter-picker').css("display") == "none") {
-      $('#header-filter-picker').fadeIn(100);
-    } else {
-      $('#header-filter-picker').fadeOut(100);
-    }
-  });
-
-  //Keep track of if the mouse is over any of the filter objects
-  var mouse_in_play = false;
-  $('#header-filter-picker, #header-filter-picker li, #header-filter-picker li *').mouseover(function() { mouse_in_play = true; });
-  $('#header-filter-picker, #header-filter-picker li, #header-filter-picker li *').mouseout(function() { mouse_in_play = false; });
-
-  $('#header-filter-picker, #header-filter-picker li, #header-filter-picker li *').mouseout(function() {
-      //Fade out popups if the mouse is not anywhere in #what-is-goodguide
-      var fade_out_filters = function() {
-        if(!mouse_in_play) {
-          $('#header-filter-picker').fadeOut('fast');
-        }
-      };
-
-      //COMMENT THIS LINE OUT IF YOU WANT FILTER PICKER TO STAY VISIBLE
-      setTimeout(fade_out_filters, 15);
-    });
-
-  //Set hover color
-  $('#header-filter-picker li:not(.header)').mouseover(function() {
-    $(this).addClass("hovered");
-  });
-
-  $('#header-filter-picker li:not(.header)').mouseout(function() {
-    $(this).removeClass("hovered");
-  });
-
-</script>
-
-
-     <script type="text/javascript">
-       $("#search-form").submit(function(){
-         
-         ntptAddPair("pv", "0"); 
-          
-         
-        value = 'Search';
-        ntptAddPair('type',value);
-      
-         
-         ntptEventTag('ev=header_link_click');
-         
-         if (true) {
-           /*alert('Calling google event with header_link_click and '+'Search');*/
-           pageTracker._trackEvent('header_link_click', 'Search');
-         }
-         
-         
-         return true;
-       });
-     </script>
-    
-
-     <script type="text/javascript">
-       $(".filter-list li").mouseup(function(){
-         
-         ntptAddPair("pv", "0"); 
-          
-         
-        value = 'Filter Selection > ' + $(this).attr('u_name');
-        ntptAddPair('type',value);
-      
-         
-         ntptEventTag('ev=header_link_click');
-         
-         if (true) {
-           /*alert('Calling google event with header_link_click and '+'Filter Selection > ' + $(this).attr('u_name'));*/
-           pageTracker._trackEvent('header_link_click', 'Filter Selection > ' + $(this).attr('u_name'));
-         }
-         
-         
-         return true;
-       });
-     </script>
-    
-
-
-     <script type="text/javascript">
-       $("#filter-arrow").mouseup(function(){
-         
-         ntptAddPair("pv", "0"); 
-          
-         
-        value = 'Filter Dropdown';
-        ntptAddPair('type',value);
-      
-         
-         ntptEventTag('ev=header_link_click');
-         
-         if (true) {
-           /*alert('Calling google event with header_link_click and '+'Filter Dropdown');*/
-           pageTracker._trackEvent('header_link_click', 'Filter Dropdown');
-         }
-         
-         
-         return true;
-       });
-     </script>
-    
-
-	                </div>
-								
-        </div>
-</div>
-
-     <script type="text/javascript">
-       $("#header a").mouseup(function(){
-         
-         ntptAddPair("pv", "0"); 
-          
-         
-        value = $(this).attr('u_name');
-        ntptAddPair('type',value);
-      
-         
-         ntptEventTag('ev=header_link_click');
-         
-         if (true) {
-           /*alert('Calling google event with header_link_click and '+$(this).attr('u_name'));*/
-           pageTracker._trackEvent('header_link_click', $(this).attr('u_name'));
-         }
-         
-         
-         return true;
-       });
-     </script>
-    
-
-
-
-
-
-<script type="text/javascript">
-	function hide_flash_box() {
-		var IE7 = $.browser.msie && $.browser.version >= 7;
-		if (IE7) {
-			$('#home-page-flash').hide();
-		} else {
-			$('#home-page-flash').slideFadeUp('slow');
-		}
-	}
-</script>
-      <div id="sidebar-region">
-				<div class="top-border"></div>
-				<div class="main-content">
-        	<div id="left-sidebar-contents">
-        <h2><span class="text-image fn"><img alt="About GoodGuide" src="http://www.goodguide.com/text/image.png?background=FFFFFF&amp;font_size=14&amp;foreground=444&amp;gotham_family=Medium&amp;text=About+Us&amp;underline=false&amp;version=1"></span></h2>
-        <ul>
-          <li><a href="http://www.goodguide.com/about/contact" class="selenium-about-contact-link">Contact Us</a></li>
-          <li><a href="http://www.goodguide.com/about/jobs" class="selenium-about-jobs-link">We’re Hiring!</a></li>
-                <li><a href="http://www.goodguide.com/about" class="selenium-about-index-link">Who Are We?</a></li>
-                <li><a href="http://www.goodguide.com/about/alliances" class="selenium-about-alliances-link">Partners and Alliances</a></li>
-                <li><a href="http://www.goodguide.com/about/advisors" class="selenium-about-advisors-link">Trusted Advisors</a></li>
-                <li><a href="http://www.goodguide.com/about/faq" class="selenium-about-faq-link">Frequently Asked Questions</a></li>
-                <li><a href="http://www.goodguide.com/about/press" class="selenium-about-press-link">Press and Media</a></li>
-        </ul>
-
-        <h2><span class="text-image fn"><img alt="About Our Product Ratings" src="http://www.goodguide.com/text/image.png?background=FFFFFF&amp;font_size=14&amp;foreground=444&amp;gotham_family=Medium&amp;text=Our+Ratings&amp;underline=false&amp;version=1"></span></h2>
-        <ul>
-                <li><a href="http://www.goodguide.com/about/ratings" class="selenium-about-ratings-link">Ratings</a></li>
-                <li><a href="http://www.goodguide.com/about/methodology" class="selenium-about-methodology-link">Methodology</a></li>
-                <li><a href="http://www.goodguide.com/about/caveats" class="selenium-about-caveats-link">Caveats Regarding Our Data</a></li>
-        </ul>
-
-                <h2><span class="text-image fn"><img alt="Policies" src="http://www.goodguide.com/text/image.png?background=FFFFFF&amp;font_size=14&amp;foreground=444&amp;gotham_family=Medium&amp;text=Policies&amp;underline=false&amp;version=1"></span></h2>
-        <ul>
-                <li><a href="http://www.goodguide.com/about/user_agreement" class="selenium-about-user_agreement-link">User Agreement</a></li>
-                <li><span class="current-about-action">Privacy Policy</span></li>
-        </ul>
-
-        <p><a href="/">Return to Home Page</a></p>
-</div>
-
-				</div>
-				<div class="bottom-border"></div>
-      </div>
-      <div id="main-region" class="sidebar">
-        <div class="top-border"></div>
-				<div class="main-content">
-      		<div id="about-content" class="home-page-box tall">
-  
- 
-    <h2 class="no-top-margin">GoodGuide Privacy Policy</h2>
-  
-  <div id="about-content-body">
-  
-                 <p>GoodGuide knows that you care about  how your personal information is used  and shared so we take many steps  to protect your privacy. This document sets  forth these protections, your use of the websites, mobile applications and  other services available at www.GoodGuide.com, through the iPhone and other  mobile application sites and stores, and all linked pages (collectively "Service   Sites"), lets us know that you acknowledge reading these practices  and policies  (the "Privacy Policy") and accept them. Please do not  use the Service Sites if  you do not want the Privacy Policy to apply to  you. </p> <h3>What Does This Privacy  Policy Cover?</h3> <p> This Privacy Policy covers  GoodGuide's treatment of information that GoodGuide may  gather when you access  or use the Service Sites. This Privacy Policy does not  apply to sites  owned, operated or controlled by third parties. Information that you   provide to such third parties and their sites will be subject to the   privacy policies of such sites.  </p> <h3>What Information Does GoodGuide  Collect?</h3> <p>We divide the  information that we collect into two categories for the purpose of this   Privacy Policy. The first type is personally identifiable information  ("PII") - information that can identify you, the use of the Service Sites,  as an individual. Examples of PII are names, addresses, telephone  numbers and  email addresses. The other category is "everything else" - that is, information  that is <em>not </em> PII, and cannot identify you as an individual. Examples of  this category  would be the types of rankings you request (as long as they are not   tied to you as an individual), the companies or products you show an   interest in, and any statistical or aggregate information.  </p> <p>We use both  types of information that we collect from users,  on or through  the Service Sites.  This allows us to personalize and improve the Service Sites  and the services  we offer to you. GoodGuide is the sole owner of all information  collected  on or through the GoodGuide portions of the Service Sites. The following  gives a little more background on both  categories of information: </p> <p><strong>Information  You Provide to Us.</strong> We receive  and store any information you supply to us,  on or through Service Sites, such as the  searches you want performed, or the  products or companies you would  like evaluated. To use the Service Sites and  out sevices you may need to register, and will need  to give us PII such as your  name and email address as part of the registration  process. You can choose not  to provide us with information, but then  you will not be able to use or take  advantage of some of the features  or services on or through the Services Sites.   The information, including PII, that  you provide is used for such purposes as  responding to your requests  for certain products and services, customizing the  advertising and content  you see, and communicating with you about specials and  new products.  If you provide PII to us through one of our services, we may use  it for these purposes in connection with other GoodGuide services or Service Sites;  for example, if you provide your email address to us in connection with a GoodGuide  mobile application you are giving us permission to use that email address in connection  with responding to your requests, advising you about other services, and so forth.   Information that is <em>not </em>PII is also used as aggregate data, in  the manner  described below. </p> <p><strong>Information  Collected Automatically.</strong>We receive  and store certain types of information whenever  you interact with the  Service Sites. GoodGuide automatically receives and records  information on  our server logs from your browser including your IP address, cookie   information, and the page or portion of the Service Sites that you requested.   This information may be used to offer you a personalized experience  on or  through the Service Sites, including, without limitation, to advise you on  related Service Sites and services of ours that you may want to access.  </p> <p>GoodGuide also  automatically collects usage information, such as the numbers and  frequency  of visitors to our site and its components. GoodGuide only uses automatically   collected information in aggregate form, that is, as a statistical measure,   and not in a manner that would identify you personally. This type of   aggregate data enables GoodGuide to figure out how users are accessing and   using the Service Sites so that we can improve them and focus our efforts   on the more popular features. As part of this use of information, we   may provide aggregate information to our partners about how our customers,   collectively, use the Service Sites.  We share this type of statistical   data so that our partners also understand how often people use their   services and the Service Sites, so that they, too, can improve their offerings.   </p> <h3>Will GoodGuide Share the  Information it Collects?</h3> <p><strong>Aggregate Information. </strong> As noted above, GoodGuide may share aggregate information with others to   help improve the Service Sites, our Services, and third party services and products.  </p> <p><strong>Contractors. </strong> GoodGuide may contract with other companies and people (e.g., for data analysis,   financial and other specialties) to perform tasks on our behalf. We   need (and you are authorizing us) to share your information, including   PII, with them for the limited purpose of allowing us to fulfill your   requests using the Service Sites. We bind these contractors to agreements   that prohibit them from using or disclosing any information they receive   from GoodGuide for any purposes except the ones they are hired to provide   to us.  </p> <p><strong>Legal Compliance. </strong> GoodGuide reserves the right to disclose your PII when we believe in good   faith that release is necessary to (1) comply with the law; (2) enforce   or apply our conditions of use and other agreements; (3) or protect   the rights, property or safety of GoodGuide, our employees, our users, or   others. </p> <p><strong>Business  Transfers.</strong> If a third party acquires GoodGuide or most of its assets,   or in the unlikely event that GoodGuide goes out of business  through bankruptcy  or otherwise, information would be one of the assets that  is transferred  or acquired to a third party. You acknowledge that such transfers may   occur, and that any acquirer of GoodGuide may continue to use all information,   including PII, as long as it does so only as set forth in this Privacy   Policy. </p> <h3>How  Secure is My Information?</h3> <p>To prevent unauthorized access,  maintain data accuracy, and ensure the correct  use of information, GoodGuide  maintains appropriate physical, electronic, and  managerial procedures  to safeguard and secure all information that we collect  online. Should  we collect PII about you through registration, we will protect  that  PII with a password and logon process. You must, however, ensure that   your password is not disclosed to others and it is your responsibility  to  select an appropriate password and change it regularly. </p> <h3>Can I Access or Change  My Information?</h3> <p> As noted, you may be required  to register to use the Service Sites and  GoodGuide services available on or through them, which will require that you provide   us with your name and possibly other PII. You may, of course, choose  not to  provide such PII but in that case you will not be able to access  or use  all of the features of the Service Sites and our services. For registered users,   you will have the opportunity to access and edit all of your PII associated   with your registration.  </p> <p> Automatically gathered and  aggregate information cannot be changed or accessed by  individuals.  As noted, such information does not link to any PII about you.  </p> <h3>How Do You Use Cookies  and Similar Tools?</h3> <p>GoodGuide may use cookies, pixels,  widgets and other tools to track session  data and allow us to personalize  your experience on or through the Service  Sites. We do not use cookies, or other  tools, to collect or reveal PII to  GoodGuide, and we do not combine cookie  information with other PII. Most  browsers have an option for turning  off the cookie feature, or erasing  existing cookies. If you elect to  turn off cookies, GoodGuide will not be  able to store cookies on your system  or collect information from them.  However, you will not be able to use  the personalized features of the  Service Sites and our services that depend on cookies   and the information they contain.   </p> <p>Some of our advertisers may  use cookies on the Service Sites, as may  the owners of those Service Sites that are not controlled by GoodGuide  (including, without limitation, mobile application websites operated by  third parties). We have no access or control over these  cookies.  This Privacy Policy covers the use of cookies by GoodGuide only   and does not cover the use of cookies by any advertisers. </p> <h3>Links to Other Sites</h3> <p>Service Sites contain links to  other websites, including (but not limited to) the citations to the  providers of the databases that we use to rank and evaluate  companies  and products. These other sites are not owned or controlled by GoodGuide.   We are not responsible for the privacy practices or content of such  other sites. </p> <h3>What if You Change the  Privacy Policy?</h3> <p>This Privacy Policy is a living  document. GoodGuide may amend the Privacy Policy  as we add new features  to the GoodGuide portions of the Service Sites, our services,  or as the law or circumstances change. Accordingly,  we need to reserve the right  to modify this Privacy Policy at any time.  If we make material changes to the  Privacy Policy we will post those  changes here, on the GoodGuide homepage,  and other places we deem appropriate  so that you are aware of the changes.  Use of particular information  or PII will remain subject to whatever  version of the Privacy Policy  was in effect at the time it was collected. </p> <h3>Questions or Concerns</h3> <p>If you have any questions,  concerns or suggestions regarding this Privacy Policy,  the Service Sites, our services or GoodGuide in general please contact us at <a href="mailto:info@goodguide.com">info@goodguide.com</a>.</p> 
-  
-  </div>
-</div>
-
-				</div>
-				<div class="bottom-border"></div>
-      </div>
-      <div style="clear:both;"></div>
-    </div>
-    
-
-
-
-<div id="footer">
-
-        <div id="footer-content">
-          
-                <div class="footer-highlight light-links">
-                        <ul>
-                                <li>
-                                        <b>Site</b>
-                                        <ul>
-                                                <li><a href="http://www.goodguide.com/" class="selenium-footer-home-link" u_name="Home">Home</a></li>
-                                                <li><a href="http://blog.goodguide.com" class="selenium-footer-blog-link" u_name="Blog">GoodGuide Blog</a><a href="http://feeds2.feedburner.com/goodguide" u_name="Blog (image)"><img alt="Feed_icon" id="blog-feed-link" src="http://resources-1.goodguide.com/22/M/images/icons/feed_icon.gif?1253835868"></a></li>
-                                                <li><a href="http://www.goodguide.com/about" class="selenium-footer-about-link" u_name="About Us">About&nbsp;Us</a></li>
-                                                <li><a href="http://www.goodguide.com/about/help" class="selenium-footer-help-link" rel="nofollow" u_name="Help">Help</a></li>
-                                                  
-                                        </ul>
-
-
-
-                                </li>
-                        </ul>
-                </div>
-                <div class="footer-highlight light-links">
-                        <ul>
-                                <li>
-                                        <b>Legal</b>
-                                        <ul>
-                                                <li><a href="http://www.goodguide.com/about/privacy" class="selenium-footer-privacy-link" rel="nofollow" u_name="Privacy Policy">Privacy&nbsp;Policy</a></li>
-                                                <li><a href="http://www.goodguide.com/about/user_agreement#user" class="selenium-footer-user-agreement-link" rel="nofollow" u_name="User Agreement">User&nbsp;Agreement</a></li>
-                                                <li><a href="http://www.goodguide.com/about/disclaimer" class="selenium-footer-disclaimer-link" rel="nofollow" u_name="Disclaimer">Disclaimer</a></li>
-                                                <li><a href="http://www.goodguide.com/about/dmca_claim" class="selenium-footer-copyright-link" rel="nofollow" u_name="Copyright Claims">Copyright Claims</a></li>
-                                        </ul>
-                                </li>
-                        </ul>
-                </div>
-
-        
-        <div class="footer-highlight-wide light-links">       
-          
-            <a href="http://www.goodguide.com/"><img alt="Good Guide" id="footer-logo" src="http://resources-0.goodguide.com/22/M/images/logos/header_no_beta.png?1253835868"></a>
-<p>GoodGuide™ strives to provide the world's largest and most reliable source of information on the health, environmental, and social impacts of products and companies. GoodGuide's mission is to help you find safe, healthy, and green products that are better for you and the planet. From our origins as a UC Berkeley research project, GoodGuide has developed into a totally independent "For-Benefit" company. We are committed to providing the information you need to make better decisions, and to ultimately shifting the balance of information and power in the marketplace.</p>
-
-<p class="selenium-footer-user-feedback-prompt">Please <a href="http://www.goodguide.com/about/faq" class="selenium-footer-faq-link" rel="nofollow" u_name="FAQ">send questions or comments</a> to GoodGuide.</p>
-
-
-              
-        </div>
-                
-
-                
-
-
-        
-                
-                <div style="clear: both;" id="copyright">©2009 GoodGuide, Inc. All rights reserved by GoodGuide and its licensors and data providers. All marks, brands, and names belong to the respective companies and manufacturers and are used solely to identify the companies and products.</div>
-
-        
-
-        </div>
-</div>
-
-     <script type="text/javascript">
-       $("#footer a").mouseup(function(){
-         
-         ntptAddPair("pv", "0"); 
-          
-         
-        value = $(this).attr('u_name');
-        ntptAddPair('type',value);
-      
-         
-         ntptEventTag('ev=footer_link_click');
-         
-         if (true) {
-           /*alert('Calling google event with footer_link_click and '+$(this).attr('u_name'));*/
-           pageTracker._trackEvent('footer_link_click', $(this).attr('u_name'));
-         }
-         
-         
-         return true;
-       });
-     </script>
-    
-
-
-
-    <script type="text/javascript">
-	       
-</script>
-
-
-
-
-
-     <script type="text/javascript">
-       $("a[rel=external]").click(function(){
-         
-         ntptAddPair("lk", "0");
-         return ntptLinkTag(this.href);
-       });
-     </script>
-    
-
-      <script type="text/javascript">
-        $("form").submit(function() {
-          
-          return ntptSubmitTag(this);
-        })
-      </script>
-    
-
-
-
-
-	<script type="text/javascript">
-	var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1557&domain=goodguide.com";
-	var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
-	document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
-	</script><script src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js?uid=1557&amp;domain=goodguide.com" type="text/javascript"></script>
-
-
-
-<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script src="http://s.clicktale.net/WRb.js" type="text/javascript"></script>
-<script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(703,0.003,"www02");
-</script>
-<!-- ClickTale end of Bottom part -->
-
-
-
-<!-- BrightEdge / ScoutMetrics -->
-<script type="text/javascript" src="http://edge.analytics.brightedge.com/brightedge_analytics.js"></script>
-<script type="text/javascript">
-  var track = _bright._initialize("c1dca4ad66ce769");
-  track._trackBright();
-</script>
-
-
-
-  <!-- BEGIN: Use this section to set page specific variables for the Unica Page Tag -->
-   <script type="text/javascript">
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-        
-
-        
-
-        
-        
-        
-    var ab_test_string = encodeURIComponent(goodguide_ab_tests).replace(/%20/g, " ");
-    
-    var NTPT_PGEXTRA = "site_version_id=2009_09_02&category_id=&CategName=&pn=About%20%3E%20Privacy&un=&dslv=&env=production&search=&base_category=&price=&rating=&unitsz=&rtv=&test_condition=" + ab_test_string;
-   </script>
-  <!-- END: Use this section to set page specific variables for the Unica Page Tag -->
-
-
-  <!-- BEGIN: Unica Page Tag -->
-        <!-- Copyright 2004-2008 Unica Corporation.  All rights reserved. -->
-        <script src="http://resources-0.goodguide.com/22/M/javascripts/ntpagetag.js?1253835868" type="text/javascript"></script>
-  <!-- END: Unica Page Tag -->
-
-  <!-- If no javascript -->
-  <noscript>
-        <img src="http://pt000138.unica.com/ntpagetag.gif?site_version_id=2009_09_02&category_id=&CategName=&pn=About%20%3E%20Privacy&js=0&site=www.goodguide.com&un=&dslv=&env=production&rtv=&search=&base_category=&price=&rating=&unitsz=&rtv=" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
-  </noscript>
-
-  <img src="http://www.jangomail.com/et/a.z?UID=210541">
-
-
-  
-  <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    try {
-    var pageTracker = _gat._getTracker("UA-7045112-1");
-    pageTracker._trackPageview();
-    } catch(err) {}
-  </script>
-
-
-
-
-  </div>
-
-
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
