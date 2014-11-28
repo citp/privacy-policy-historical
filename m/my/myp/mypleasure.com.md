@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the mypleasure.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208021913id_/http%3A//www.mypleasure.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypleasure.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128113940id_/http%3A//www.mypleasure.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy & Security -- MyPleasure.com
-
-[](http://www.truste.org/ivalidate.php?url=www.mypleasure.com&sealid=101) MyPleasure.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
-
-  1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under MyPleasure.com control 
-  7. How you can correct any inaccuracies in the information 
-
-
-
-If you have questions or concerns regarding this statement, you should first contact the MyPleasure Privacy Team by email at [privacy@mypleasure.com](mailto:privacy@mypleasure.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 **Information Collection and Use**  
 MyPleasure.com will not share, sell or rent this information to others in any way other than as disclosed in this policy or stated at the point where the information is collected. MyPleasure.com collects information from our users in several areas of our Web site as described in this privacy policy. 
