@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msngamecentre.co.uk privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204022039id_/http%3A//www.msngamecentre.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msngamecentre.co.uk privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128180538id_/http%3A//www.iplay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Iplay UK
+# Privacy Policy - Iplay
 
 ## Play Thousands of FREE Games!
 
