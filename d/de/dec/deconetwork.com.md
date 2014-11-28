@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deconetwork.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234241id_/http%3A//www.deconetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deconetwork.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128071900id_/http%3A//www.deconetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DecoNetwork
+# Privacy and Cookie Policy
 
 DecoNetwork Pty Ltd is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the DecoNetwork Pty Ltd Web site and governs data collection and usage. By using the DecoNetwork Pty Ltd website, you consent to the data practices described in this statement.
 
