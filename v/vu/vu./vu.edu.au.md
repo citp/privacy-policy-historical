@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305222444id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128011818id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Victoria University | Melbourne Australia
 
 ## University privacy policy
 
-Victoria University takes your privacy seriously. Please refer to our [privacy policy](http://wcf.vu.edu.au/GovernancePolicy/PDF/POU090123000.PDF) for specific information. If you're a student completing any forms you should read the [Students Information Privacy Collection Statement](https://web.archive.org/sites/default/files/student-connections/pdfs/students-information-privacy-collection-statement.pdf) beforehand.
+Victoria University takes your privacy seriously. Please refer to our [privacy policy](https://policy.vu.edu.au/view.current.php?id=00166) for specific information. If you're a student completing any forms you should read the [Students Information Privacy Collection Statement](https://web.archive.org/sites/default/files/student-connections/pdfs/students-information-privacy-collection-statement.pdf) beforehand.
 
 If you have any questions or concerns, please check our frequently asked questions at [AskVU](http://askvu.vu.edu.au/) or phone us on 9919 6100 or free-call in Australia 1300 VIC UNI (or 1300 842 864).
 
 ## Website Privacy Statement
 
-As a user of the VU websites, your privacy is protected by the Information Privacy Act 2000 (Vic) and the University's [Privacy Policy](http://wcf.vu.edu.au/GovernancePolicy/PDF/POU090123000.PDF). This statement provides you with information on how the University handles your information when you access its websites.
+As a user of the VU websites, your privacy is protected by the Privacy and Data Protection Act 2014 (Vic) and the University's [Privacy Policy](https://policy.vu.edu.au/view.current.php?id=00166). This statement provides you with information on how the University handles your information when you access its websites.
 
 ### Information automatically logged
 
