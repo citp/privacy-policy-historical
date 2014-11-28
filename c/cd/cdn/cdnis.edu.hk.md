@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdnis.edu.hk privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122165643id_/http%3A//www.cdnis.edu.hk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdnis.edu.hk privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128110616id_/http%3A//www.cdnis.edu.hk/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -6,103 +6,32 @@ PRIVACY POLICY
 
 Thank you for visiting the website of Canadian International School of Hong Kong (CDNIS) and for reviewing our privacy policy. We collect no personal information about you unless you choose to provide that information to us.
 
-We pledge to meet fully, and where possible exceed, internationally recognized standards of personal privacy protection, in compliance with the Personal Data (Privacy) Ordinance.
+We pledge to meet, and where possible exceed, internationally recognized standards of personal privacy protection, in compliance with Hong Kong's Personal Data (Privacy) Ordinance.
 
-**DEFINITION**
+**CDNIS Privacy Principles**  
+Please read the following Privacy Policy to understand how CDNIS uses the personal data we may collect from you. You can also review Hong Kong's Personal Data Privacy Ordinance by following this [link](http://www.pcpd.org.hk/english/ordinance/ordglance.html) to the government's website. By selecting CDNIS for the education of your child(ren), and thereby providing personal data to us, you are consenting to the applications of this Privacy Policy and the collection, use, access, transfer, disclosure, storage and processing of your and your child(ren)'s personal information to the extent necessary to deliver educational programmes and adjunct services to the student as described in this Policy.
 
-The CDNIS privacy policy is formulated to protect the privacy of all data subjects, i.e. employees (current and past), students and their parents and job applicants in respect of their personal data.
+**Personal Data we collect and hold**  
+Personal data, which includes information supplied by current students/parents, prospective students/parents, former students (alumni), and other school contacts, is collected through student applications, student records, and other communications activities undertaken by or on behalf of CDNIS. CDNIS requests that personal information on students and related family members be used for the following purposes, including but not limited to: to support the development and delivery of the school's educational programmes; to meet legal and regulatory requirements regarding student records; for health and safety; for fundraising and related activities; to assess suitability for scholarships, bursaries and other financial awards, and to provide references in support of post-secondary or other applications by students. Student records are kept for purposes that include corresponding with, responding to and taking follow-up actions in respect of students, contacts, communications and alumni activities.
 
-A secondary objective of this policy is to develop internal codes of practice to ensure that conditions prescribed by the Personal Data (Privacy) Ordinance are met.
+**Security and Accuracy of Personal Data**  
+To maintain the accuracy of the personal data, as well as to prevent unauthorised access and ensure the correct use of personal data, we have implemented appropriate physical, electronic and managerial procedures to safeguard and protect the personal data we collect against unauthorized or accidental access, processing, erasure or other use. However, we rely on you to inform us of any errors or changes to such information. You may amend your personal data, as appropriate, via the Parent Portal, or please refer to the "How to Access or Update Your Personal Data" section below.
 
-**NON-PERSONAL DATA COLLECTION**
+**Disclosure and Transfer of Personal Data**  
+CDNIS is an educational institution. As such, the personal data you submit to us in Hong Kong may be transferred, used, processed, stored and accessed worldwide (post-secondary applications, CAS Week excursions, etc) as we consider appropriate and only in relation to the delivery of our education programmes. In addition, we may disclose and transfer personal data to and jointly use personal data with the parents' association (CISPA), for the delivering of school activities (CAS Week, ASA programme, etc), government organizations (Centre for Health Protection, etc), other educational institutions and other persons who we consider appropriate, in connection with the services provided to or requested by you. By enrolling you child(ren) in CDNIS, you understand and consent to such transfer.
 
-If you visit the CDNIS website and do nothing more than browse the site, read pages or download information, the site's operating system will automatically record some general information about your visit.
+**Retention of Personal Data**  
+All personal data that has been collected from you will be retained for no longer than is required to fulfill the purpose (or any directly related purpose) for which the data was to be used, subject to legal, statutory and regulatory requirements mandating the retention of data.
 
-During your visit, the CDNIS operating system will record:
+**How to Access or Update Your Personal Data**  
+You may request access to and correct your personal data held by us. If you wish to obtain a copy of any of your personal data, if you believe the personal data relating to you which we collect and maintain is incorrect, or if you believe the personal data held by us was used beyond the scope of the purpose of use disclosed above or was acquired by fraudulent or unlawful means or provided to a third party without your prior consent, please write to us at the address below.
 
-  * The Internet domain for your Internet service, such as "xdomain.com" or "xdomain.net" if you use a private Internet access account, or "yourschool.edu" if you connect from a college or other education domain.
-  * The type of browser (such as Netscape version X or Internet Explorer version Y) that you are using.
-  * The type of operating system that you use (such as Macintosh, UNIX, or Windows).
-  * The date and time you visit our site and the web pages that you visit on our site.
-  * The address of the previous web site you were visiting, if you linked to us from another web site.
+Parents may also check and update their personal data via the Parent Portal at anytime. A request for access or correction to, or deletion of personal data or for information regarding policies and practices and kinds of personal data held by us must be in writing and sent to us via registered postal mail.
 
-
-
-We use this information for statistical analysis and to help make the CDNIS web site more useful to visitors. This tracking system does not record information about individuals.
-
-**PERSONAL DATA HANDLING**
-
-Some of our web pages (such as online contact form) let you voluntarily submit personal information. In those cases, every attempt will be made to protect your privacy. CDNIS cannot, however, provide any guarantees as to the absolute security of your personal information.
-
-Any person who controls the collection, holding, processing and use of personal data (data user) is subject to the Personal Data (Privacy) Ordinance.
-
-They should treat all personal data, in whatever form it is recorded, as confidential and take all reasonably practical steps to ensure adequate security control for the effective use of the personal data according to the following data protection principles:
-
-  * make the purpose(s) clear when collecting personal information;
-  * use the personal data only for the purposes for which it was to be used at the time of collection, or for a directly related purpose;
-  * strive to keep personal data accurate and up-to-date;
-  * lock any personal data kept on paper, tape or disks in a secure location after use;
-  * comply with CDNIS' data protection policies and practices when disclosing personal data;
-  * do not allow anyone inside or outside the organization access to personal data without the prescribed consent of the data subject; and
-  * destroy any personal data which is no longer required for the purposes for which it is collected/used.
-
-
-
-**RIGHTS OF THE DATA SUBJECT**
-
-All CDNIS employees, students, their parents, and job applicants have the right to:
-
-  * obtain a copy of the personal data relating to him/her held by the CDNIS;
-  * require the data user to correct any data relating to him/her which is inaccurate;
-  * obtain the CDNIS data protection policies and practices in relation to data and be informed of the kind of personal data held by the CDNIS; and
-  * be asked for consent before his/her personal data is used for a purpose other than the purposes for which it was collected or directly related purposes.
-
-
-
-All requests for access to data, or correction of data must be made in writing in either English or Traditional Chinese and be addressed to:
-
-Director of Business Administration  
+The Data Protection Officer  
 Canadian International School of Hong Kong  
 36 Nam Long Shan Road  
-Aberdeen, Hong Kong
+Aberdeen  
+Hong Kong
 
-**OPERATIONAL PROCEDURES**
-
-  1. Upon receipt of a written data access/correction request from a data subject, CDNIS will comply with the request within 30 days of receiving the request.
-  2. CDNIS will reject any data access/correction request if: 
-    1. the request is not made in writing;
-    2. the data subject cannot provide sufficient information to locate the data being requested;
-    3. the request involves data relating to staff planning;
-    4. the request involves a personal reference or data generated by certain evaluative processes (including a recruitment/promotion/transfer/removal exercise) prior to a decision being made; and/or
-    5. the request follows two or more similar requests made by the data subject or an authorized person on his/her behalf.
-  3. If a data/access correction request is to be rejected, CDNIS will give reasons in writing to the person making the request within 30 days of receiving the written request.
-  4. CDNIS will keep and maintain a log book of requests and refusals which will be kept for at least two years.
-  5. CDNIS will levy an administration charge for the processing of any data access requested.
-
-
-
-**COLLECTION, HOLDING AND USE OF IDENTITY CARD NUMBERS / PERSONAL IDENTIFIERS AND COPY OF IDENTITY CARD**
-
-The CDNIS privacy policy also applies certain restrictions on the collection, holding and use of identity card numbers/personal identifiers and copies of identity cards:
-
-  * A data user should not collect identity card numbers except:
-
-
-
-  1. where required or specifically empowered to do so by a statutory provision; and
-  2. as a condition for allowing the holder of the identity card access to premises where the monitoring of the activities of the holder on the gaining of such access is not practicable.
-
-
-
-  * A data user shall only use an identity card number for the purpose for which it was collected.
-  * A data user shall not collect an identity card number except by means of the physical production of the identity card/or copy of it in person by the individual.
-  * A data user must take all reasonably practicable steps to erase the record of an identity card number when its requirement to identify or to attribute personal data to the holder of the identity card has been fulfilled.
-  * A data user shall take all reasonably practicable steps to ensure that an identity card number and the name of the holder are not displayed together publicly and not made visible or accessible together to any person.
-
-
-
-Restrictions on the collection and use of identity card copy are similar to that of identity card numbers.
-
-As a security safeguard, except where it is required or permitted by law to the contrary, a data user shall not keep a copy of an identity card unless it is marked clearly and permanently across the entire image of the identity card with the word "copy" or the Chinese equivalent. A copy of the identity card shall be kept under reasonably secure conditions with access restricted to individuals who need to carry out activities related to permitted use of the copy.
-
-If you have any questions or comments about the information presented here, please [contact us](http://www.cdnis.edu.hk/contact-us.html).
+We may charge a reasonable fee for the processing of any data access request.
