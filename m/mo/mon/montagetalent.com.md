@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the montagetalent.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102010809id_/http%3A//info.montagetalent.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montagetalent.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128120139id_/http%3A//www.montagetalent.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
-**  
-Website Privacy Policy**
+**Website Privacy Policy**
 
 Welcome to Montage Talent. We are committed to protecting your privacy. We have adopted this Privacy Policy ("Policy") to memorialize our data collection and disclosure practices for our website and service offerings (the "Services"). Montage voluntarily complies with the United States – European Union and the United States – Switzerland Safe Harbor Privacy Principles, and we invite you to review our Safe Harbor Privacy Statement below. 
 
@@ -44,10 +43,14 @@ We do not knowingly or specifically collect personal information from users unde
 
 We reserve the right to change this Policy at any time.  In particular, we may modify this Policy to reflect changes in the way we collect, use, or disclose information, or to reflect changes in privacy laws, regulations, and/or industry standards.  We encourage you to review this Policy when accessing the Site.  Continued use of the Site following changes indicates your acceptance of the changes. 
 
-**Applicable Law**  
+**Applicable Law**
+
+  
 This Policy shall be governed by the laws of the State of Wisconsin, USA, without regard to conflicts of law principles, and exclusive jurisdiction and venue for any dispute arising out of this Policy shall be the state courts or federal courts located in Wisconsin unless an alternate venue is provided for under the Safe Harbor Privacy Principles to which we have agreed with respect to matters covered by the Safe Harbor Privacy Principles.
 
-**Safe Harbor Privacy Statement**  
+**Safe Harbor Privacy Statement**
+
+  
 Montage complies with the U.S. –EU safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland.  Montage has certified that it adheres to the Safe harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe harbor program, and to view Montage’s certification, please visit <http://www.export.gov/safeharbor/>[ ](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/ ")
 
 As to all such personal information Montage receives from the European Economic Area and Switzerland, these are our promises to you:
@@ -65,7 +68,7 @@ As to all such personal information Montage receives from the European Economic 
 
 
 
-Contact Information
+**Contact Information**
 
 To access your information, ask questions about our privacy practices, or to submit a complaint, please contact us at:
 
@@ -75,6 +78,6 @@ Delafield, WI 53018
 Phone:  262.264.5964  
 Fax: 262.303.4189
 
-Email: [privacy@montagetalent.com.com](mailto:privacy@montagetalent.com.com)
+Email: [privacy@montagetalent.com](mailto:privacy@montagetalent.com.com)
 
 Effective Date: Feburary 5, 2013
