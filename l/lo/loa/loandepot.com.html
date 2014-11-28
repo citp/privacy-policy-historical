@@ -1,855 +1,719 @@
-<!--The following is the downloaded HTML source of the loandepot.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625073123id_/http%3A//www.loandepot.com/Content/Public/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loandepot.com privacy policy that was archived on 2014-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141128022608id_/http%3A//www.loandepot.com/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>loanDepot | Privacy Policy</title>
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, user-scalable=yes">
 
-    
-<link href="../../Styles/Site.css" rel="stylesheet" type="text/css"><link href="../../Styles/validationEngine.jquery.css" rel="stylesheet" type="text/css">
-    <!--used for GoogleAnalytics-->
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N5PGGK"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
-    <!--used for validationEngine-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
-    <!--used for TOOLTIPS-->
-    <script type="text/javascript">
-        $(document).ready(function () {
-            try {
-                $('.RadComboBox').tooltip({ position: 'center right', offset: [-2, 10], effect: 'fade', opacity: 0.9 });
-            }
-            catch (err) { }
-            try {
-                $('.riTextBox').tooltip({ position: 'center right', offset: [-2, 10], effect: 'fade', opacity: 0.9 });
-            }
-            catch (err) { }
-            try {
-                $('.RadButton').tooltip({ position: 'top center', offset: [-10, 0], effect: 'fade', opacity: 1.0 });
-            }
-            catch (err) { }
-        });
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N5PGGK"></script><script src="/bundles/KH9OgSrbJUyMH9CQjhj1A?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
 
-        var LD = {
-            overlays: {}
-        };
-
-        jQuery(function ($) {
-
-            // overlays
-            var overlays = LD.overlays = {
-
-                // core functionality
-                el: {
-                    _screen: $('#screen')
-                },
-                open: function (id) {
-                    this._show_screen();
-                    var obj = this.el[id] = this.el[id] || $('#' + id);
-                    var win = $(window);
-                    var w = (win.width() - obj.outerWidth()) / 2,
-                            h = (win.height() - obj.outerHeight()) / 2;
-                    obj.css({ top: h, left: w }).show();
-                },
-                close: function (id) {
-                    this.el[id].hide();
-                    this._hide_screen();
-                },
-                _show_screen: function () {
-                    this.el._screen.show();
-                    var body = this._body = this._body || $('body');
-                    body.css({ overflow: 'hidden', marginRight: 0 });
-                },
-                _hide_screen: function () {
-                    this.el._screen.hide();
-                    this._body.css({ overflow: 'auto', marginRight: 0 });
-                }
-            };
-
-        });
-    </script>
-    
-    <link href="../../Styles/bootstrap.min.css" rel="Stylesheet" type="text/css" media="all" title="loanDepotStyles">
-    <link href="../../Styles/LD.css" rel="stylesheet" type="text/css" media="all" title="loanDepotStyles">
-    <link href="../../Styles/LD_1-5.css" rel="Stylesheet" type="text/css" media="all" title="loanDepotStyles">
-    <link href="../../Styles/validationEngine.jquery.css" rel="stylesheet" type="text/css" media="all" title="loanDepotStyles">
-    <script src="../../Scripts/jquery.tools.min.js" type="text/javascript"></script>
-    <script src="../../Scripts/jquery-1.7.1.js" type="text/javascript"></script>
-    <script src="../../Scripts/jquery-ld.js" type="text/javascript"></script>
-    <script src="../../Scripts/browserDetect.js" type="text/javascript"></script>
-    <script src="../../Scripts/validationEngine.jquery.js" type="text/javascript"></script>
-    <script src="../../Scripts/jquery.hoverIntent.minified.js" type="text/javascript"></script>
-    <script src="../../Scripts/jquery.cycle.all.js" type="text/javascript"></script>
-    <script src="../../Scripts/jsLib.js" type="text/javascript"></script>
-
-  <script type="text/javascript">
-
-      $(function () {
-          $(".Sub .Content .Row .NavSeal").hover(function () {
-              $(this).stop().fadeTo('slow', 0.4);
-          }, function () {
-              $(this).stop().fadeTo('slow', 1);
-          });
-      });
-//          $(document).ready(function () {
-//             
-//              // Expand Panel
-//              $("#open").click(function () {
-//                  $("div#panel").slideDown("slow");
-
-//              });
-
-//              // Collapse Panel
-//              $("#close").click(function () {
-//                  $("div#panel").slideUp("slow");
-//              });
-
-//              // Switch buttons from "Log In | Register" to "Close Panel" on click
-//              $("#toggle a").click(function () {
-//                  $("#toggle a").toggle();
-//              });
-//          });
-    </script>
-    <script type="text/javascript">
-
-        $(function () {
-            var Pathname = window.location.pathname; //Get URL 
-            var PathSlashesReplaced = Pathname.replace(/\//g, ""); //Replace all "/\//g" with empty string
-            var PathSlashesReplacedNoFirstDash = PathSlashesReplaced.replace("-", ""); //Replace all "-" with empty string
-            var PathDotsReplaced = PathSlashesReplacedNoFirstDash.replace(".", ""); //Replace all "." with empty string 
-            var PathExtReplaced = PathDotsReplaced.replace("aspx", ""); //Replace all "aspx" with empty string 
-            var PathURLSpaceReplaced = PathExtReplaced.replace("%", ""); //Replace all "aspx" with empty string 
-            var PathTWOSpaceReplaced = PathURLSpaceReplaced.replace("0", ""); //Replace all "aspx" with empty string 
-            var PathZEROSpaceReplaced = PathTWOSpaceReplaced.replace("2", ""); //Replace all "aspx" with empty string 
-            var PathURL2SpaceReplaced = PathZEROSpaceReplaced.replace("%", ""); //Replace all "aspx" with empty string 
-            var PathTWO2SpaceReplaced = PathURL2SpaceReplaced.replace("0", ""); //Replace all "aspx" with empty string 
-            var PathZERO2SpaceReplaced = PathTWO2SpaceReplaced.replace("2", ""); //Replace all "aspx" with empty string 
-            var PathURL3SpaceReplaced = PathZERO2SpaceReplaced.replace("%", ""); //Replace all "aspx" with empty string 
-            var PathTWO3SpaceReplaced = PathURL3SpaceReplaced.replace("0", ""); //Replace all "aspx" with empty string 
-            var PathZERO3SpaceReplaced = PathTWO3SpaceReplaced.replace("2", ""); //Replace all "aspx" with empty string 
-            var NewClass = PathZERO3SpaceReplaced.replace(/(\.[\s\S]+)/ig, ""); //Not exactly sure what this does....It works though
-            $("body").addClass(PathZERO3SpaceReplaced); //Get body and add class variable
-            if ($("body").attr("class") == "")//If body class is equal to null
-            {
-                $("body").attr("class", "home-page"); //If body class is equal to null
-            }
-        });
-
-    </script>
-    
-<script type="text/javascript">
-$(document).ready(function(){
-  $(".scroll").click(function(event){
-    event.preventDefault();
-    var offset = $($(this).attr('href')).offset().top;
-    $('html, body').animate({scrollTop:offset}, 500);
-  });
-});
-</script>
-
-<title>
-
-</title></head>
-<body class="browserChrome browserChrome6 web14657313id_http3Awwwloandepot.comContentPublicPrivacyPolicy.">
-    <div id="fb-root">
-    </div>
-    <script type="text/javascript">        
-    (function (d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); 
-        js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-        fjs.parentNode.insertBefore(js, fjs);
-    } (document, 'script', 'facebook-jssdk'));
-    </script>
-    <form method="post" action="PrivacyPolicy.aspx" id="form1">
-<div class="aspNetHidden">
-<input type="hidden" name="RadScriptManager1_TSM" id="RadScriptManager1_TSM" value="">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDE0MTY0NDcPZBYCZg9kFgJmD2QWAgIDD2QWBgIDD2QWAgICD2QWAgIBD2QWAmYPFgIeCWlubmVyaHRtbAUOMS04ODgtMzM3LTY4ODhkAgUPZBYIAgEPFgIeB1Zpc2libGVoZAIDDxYCHwFnZAIFD2QWAgIBD2QWDAIBDxYCHgRUZXh0BQUzLjc1JWQCAw8WAh8CBQs0LjEwNCUgQVBSKmQCBQ8WAh8CBQIzJWQCBw8WAh8CBQszLjIyNSUgQVBSKmQCCQ8WAh8CBQYzLjYyNSVkAgsPFgIfAgULMy45MTIlIEFQUipkAgcPZBYCAgEPZBYEZg8WAh8CBdcBPGEgaHJlZj0iaHR0cDovL3d3dy5iYmIub3JnL2RhbGxhcy9idXNpbmVzcy1yZXZpZXdzL21vcnRnYWdlLWJyb2tlcnMvbG9hbmRlcG90Y29tLWluLXBsYW5vLXR4LTkwNDEwNzA4IiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9JbWFnZXMvSWNvbnMvaWNvbl9iYmIucG5nIiBhbHQ9IiIgc3R5bGU9Im1hcmdpbi1ib3R0b206IDEwcHg7IGhlaWdodDogNThweDsiICAvPjwvYT5kAgEPZBYCZg8WAh8ABQ4xLTg4OC0zMzctNjg4OGQCBw9kFgICBw9kFgICAQ8WAh8ABYwFPGRpdiBzdHlsZT0id2lkdGg6IDcwMHB4OyBoZWlnaHQ6IDUwMHB4OyBiYWNrZ3JvdW5kOiB1cmwoJy4uLy4uL0ltYWdlcy9CYWNrZ3JvdW5kcy9zcGxhc2hQZW9wbGUuanBnJykgbm8tcmVwZWF0OyI+CjxoMSBzdHlsZT0nIGNvbG9yOiAjMDAwMDAwOyBkaXNwbGF5OiBibG9jazsgZm9udDogYm9sZCAyM3B4LzI2cHggaGVsdmV0aWNhLGFyaWFsLHNhbnMtc2VyaWY7IG1hcmdpbjogMCBhdXRvOyBwYWRkaW5nOiAzMHB4IDAgMTBweDsgdGV4dC1hbGlnbjogY2VudGVyOyB3aWR0aDogNTI1cHg7ICc+UGxlYXNlIHdhaXQgd2hpbGUgd2UgcmV0cmlldmUgeW91ciByYXRlczwvaDE+CjxwIHN0eWxlPSIgY29sb3I6ICMwMDAwMDA7IGZvbnQ6IGJvbGQgMTJweC8xNnB4IGhlbHZldGljYSxhcmlhbCxzYW5zLXNlcmlmOyB3aWR0aDogNTI1cHg7IHRleHQtYWxpZ246IGNlbnRlcjsgbWFyZ2luOiAwIGF1dG87IGRpc3BsYXk6IGJsb2NrOyBjbGVhcjogYm90aDsgIj5UaGFuayB5b3UgZm9yIHZpc2l0aW5nIGxvYW5EZXBvdC5jb208L3A+CjxpbWcgc3JjPSIuLi8uLi9JbWFnZXMvQmFja2dyb3VuZHMvbG9hZEJhci5naWYiIGFsdD0iIiBzdHlsZT0iIGRpc3BsYXk6IGJsb2NrOyBtYXJnaW46IDAgYXV0bzsgcGFkZGluZzogMjBweCAwIDA7IiAvPgo8L2Rpdj4KCmRkAYWecfJTUZ42KnrHHRkhUj9h1ZA=">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form1'];
-if (!theForm) {
-    theForm = document.form1;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=sw9fZFGLkS29cjCLPE51C7XfFekq9EtZrUgba2TWbd0hjccqpQ0cJpcMpPmxauZ1Tv4YjLiRIqli0u2tUaSY3Bfvrt01&amp;t=635197039018498623" type="text/javascript"></script>
-
-
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af01b1325-3d40-437a-8da2-df3d86714220%3aea597d4b%3ab25378d2" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
 
     <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$RadScriptManager1', 'form1', [], [], [], 90, 'ctl00$ctl00');
-//]]>
-</script>
+        dataLayer = [{
+            'leadaggid': '',
+            'loantype': '',
+            'loanamount': ''
+        }];
+    </script>
 
-    <!------------ This Is Needed for Overlays ------------->
-    <div id="screen">
-    </div>
-    <!------------ This Is Needed for Overlays ------------->
-    <div class="container">
+    <link href="/content/Common/css/p3Ry1guwEESDAfgx1liqQw?v=ylPy69N6kMusHJL9Km45zugEaYkYbOwIpiIgGqPfHcw1" rel="stylesheet">
+
+
+    <link rel="canonical" href="http://www.loandepot.com/PrivacyPolicy">
+    
     
 
-    <div id="GlobalActionBar">
-        <div class="ContentArea">
-            
+</head>
 
-        <ul id="GlobalActionLinks">
+<body>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5PGGK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script type="text/javascript">
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N5PGGK');
+    </script>
+    <!-- End Google Tag Manager -->
+    <div class="ld container">
+        <!-- BEGIN HEADER SECTION -->
+            <section class="hidden-xs">
+                <div id="GlobalActionBar">
+                    <div class="ContentArea">
+                        
 
-            <li><a href="https://my.loandepot.com/Account/Login" target="_blank">LOAN APPLICATION CENTER</a></li>
-            <li><a href="../../About/AboutloanDepot.aspx">ABOUT US</a></li>
-            <li><a href="Servicing.aspx">SERVICING CENTER</a></li>
-            <li><a href="../../About/Contactus.aspx">CONTACT US</a></li>
 
-        </ul>
-        </div>
-    </div>
-    <div id="GlobalHeader">
-        <div class="ContentArea">
-            <div id="LDSiteLogo">
-                <a href="../../">
-                    <img id="NavigationContent_Image1" class="ldlogo" src="../../Images/Icons/btn_logo.jpg">
-                </a>
-            </div>
-            <div id="LDCallNowInfo">
 
-            </div>
-            <div id="LDSearchBox">
-                <div id="NavigationContent_CallNowDiv" class="CallNowInfo">
-	
-                    Call Now <label id="NavigationContent_CallNowPhone_lblPhone">1-888-337-6888</label>
-                
-</div>
-                
-            </div>
-        </div>
-    </div>
-    <div id="MainNavigationBar">
-        <div class="ContentArea">
-            
 
-<ul id="MainNavigationMenu">
-    <li class="MainNavItem">
-        <a href="../../" class="MainNavItemLink">Home</a>
-    </li>
-    <li class="MainNavItem">
-        <a href="../../LoanOptions/LoanOptions.aspx" class="MainNavItemLink">Loan Options</a>
-        <div class="SubNavAnchor">
-            <div class="SubNavigationMenu">
-                <div class="SubNavItems">
-                    <ul>
-                        <li><a href="../../LoanOptions/FixedRate.aspx" class="SubNavItemLink">Fixed Rate Loans</a></li>
-                        <li><a href="../../LoanOptions/ARM.aspx" class="SubNavItemLink">Adjustable Rate Loans</a></li>
-                        <li><a href="../../LoanOptions/Jumbo.aspx" class="SubNavItemLink">Jumbo Loans</a></li>
-                        <li><a href="../../LoanOptions/FHA.aspx" class="SubNavItemLink">FHA Loans</a></li>
-                        <li><a href="../../LoanOptions/VALoans.aspx" class="SubNavItemLink">VA Loans</a></li>
-                        <li><a href="../../LoanOptions/HARP.aspx" class="SubNavItemLink">HARP Loans</a></li>
-                    </ul>
-                </div>
-                <div class="SubNavFeature">
-                    <a href="../../LoanOptions/OurRateGuarantee.aspx" class="NavSeal2"></a>
-                </div>
-                <div style="clear: both;"></div>
-            </div>
-        </div>
-        <div style="clear: both;"></div>
-    </li>
-    <li class="MainNavItem">
-        <a href="../../Refinance/RefinanceYourHome.aspx" class="MainNavItemLink">Refinance A Home</a>
-        <div class="SubNavAnchor">
-            <div class="SubNavigationMenu">
-                <div class="SubNavItems">
-                    <ul>
-                        <li><a href="../../Refinance/EightGreatReasons.aspx" class="SubNavItemLink">Great Reasons to Refinance</a></li>
-                        <li><a href="../../Refinance/RefinanceProcess.aspx" class="SubNavItemLink">Refinance Process</a></li>
-                        <li><a href="../../LoanOptions/LoanOptions.aspx" class="SubNavItemLink">Loan Options</a></li>
-                        <li><a href="../../Refinance/RefinanceFaqs.aspx" class="SubNavItemLink">Refinance Questions</a></li>
-                    </ul>
-                </div>
-                <div class="SubNavFeature">
-                    <a href="../../LoanOptions/OurRateGuarantee.aspx" class="NavSeal"></a>
-                </div>
-                <div style="clear: both;"></div>
-            </div>
-        </div>
-        <div style="clear: both;"></div>
-    </li>
-    <li class="MainNavItem">
-        <a href="../../Purchase/PurchaseAHome.aspx" class="MainNavItemLink">Purchase A Home</a>
-        <div class="SubNavAnchor">
-            <div class="SubNavigationMenu">
-                <div class="SubNavItems">
-                    <ul>
-                        <li><a href="../../Purchase/GetPreApproved.aspx" class="SubNavItemLink">Get Pre-Approved</a></li>
-                        <li><a href="../../Purchase/PurchaseProcess.aspx" class="SubNavItemLink">Purchase Process</a></li>
-                        <li><a href="../../LoanOptions/LoanOptions.aspx" class="SubNavItemLink">Loan Options</a></li>
-                        <li><a href="../../Purchase/PurchaseFaqs.aspx" class="SubNavItemLink">Purchasing Questions</a></li>
-                    </ul>
-                </div>
-                <div class="SubNavFeature">
-                    <a href="../../LoanOptions/OurRateGuarantee.aspx" class="NavSeal"></a>
-                </div>
-                <div style="clear: both;"></div>
-            </div>
-        </div>
-        <div style="clear: both;"></div>
-    </li>
-    <li class="MainNavItem"><a href="../../MortgageCalculators.aspx" class="MainNavItemLink">Calculators</a></li>
-    <li class="MainNavItem">
-        <a href="../../About/AboutloanDepot.aspx" class="MainNavItemLink">About loanDepot</a>
-        <div class="SubNavAnchor">
-            <div class="SubNavigationMenu SingleColumn">
-                <div class="SubNavItems">
-                    <ul>
-                        <!-- <li><a href="../../About/AboutloanDepot.aspx" class="SubNavItemLink">About loanDepot</a></li>-->
-                        <li><a href="../../About/Leadership.aspx" class="SubNavItemLink">Leadership</a></li>
-                        <li><a href="../../About/ResponsibleLending.aspx" class="SubNavItemLink">Responsible Lending</a></li>
-                        <li><a href="http://www.Lddollarsandsense.com" target="_blank" class="SubNavItemLink">Financial Literacy</a></li>
-                        <li><a href="../../About/Contactus.aspx" class="SubNavItemLink">Contact Us</a></li>
-                        <li><a href="Servicing.aspx" class="SubNavItemLink">Servicing Center</a></li>
-                        <li><a href="../../About/MissionAndValues.aspx" class="SubNavItemLink">Our Missions and Values</a></li>
-                        <li><a href="../../About/PressReleases.aspx" class="SubNavItemLink">Press Releases</a></li>
-                        <li><a href="../../About/InTheNews.aspx" class="SubNavItemLink">In the News</a></li>
-                        <li><a href="../../Careers" class="SubNavItemLink">Careers</a></li>
-                    </ul>
-                </div>
-                <div style="clear: both;"></div>
-            </div>
-        </div>
-        <div style="clear: both;"></div>
-    </li>
-    <li class="MainNavItem PersonalizeRates"><a href="../../RateViewer.aspx" class="MainNavItemLink2">Personalize<br>Your Rates</a></li>
-    <li id="NavigationContent_MainNavigation_ApplyNowNav" class="MainNavItem ApplyOnline"><a href="../../ApplyOnline.aspx" class="MainNavItemLink2" target="_blank">APPLY NOW</a></li>
+<ul id="GlobalActionLinks">
+   
+            <li><a href="https://my.loandepot.com/Account/Login">Loan Application Center</a></li>
+            <li><a href="/About">About Us</a></li>
+            <li><a href="/About/Servicing">Servicing Center</a></li>
+            <li><a href="/About/ContactUs">Contact Us</a></li>
+    
 </ul>
-        
+
+                    </div>
+                </div>
+            </section>
+            <div id="GlobalHeader">
+                <div class="ContentArea container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div id="LDSiteLogo">
+                                <a href="/">
+                                    <img src="/~/Media/Images/loanDepot/Logos/btn_logo.ashx" class="ldlogo" alt="loanDepot.com">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="hidden-xs col-md-8">
+                            <div id="LDSearchBox">
+                                <div id="CallNowDiv" class="CallNowInfo">
+                                    Call Now <label> <span class="PhoneNumber_CallNow">(888) 983-3240</span></label>
+                                </div>
+                                
+
+<form action="/SearchResults" id="searchform" method="get">
+    <div id="SearchContainer">
+        <div style="float: left;">
+            <input class="SiteSearchBox" id="q" name="q" type="text" value="SEARCH">
         </div>
+        <div style="float: right;">
+            <a href="#" class="SiteSearchButton"><span id="searchicon" class="glyphicon glyphicon-search"></span></a>
+        </div>
+        <div style="clear: both;"></div>
     </div>
-
-
-    
-    
-    
-        <div id="InteriorBannerZone">
-            <div class="ContentArea" style="background: url(&quot;/Images/InteriorBanner/bg001.jpg&quot;) center center no-repeat;">
+</form>
+                            </div>
+                        </div>
+                        <div class="visible-xs col-md-8">
+                            <div id="CallNowDiv" class="CallNowInfo">
+                                <span>Call Now</span><a href="#" class="xs-callNow"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <section class="ldNav">
                 
 
-<script type="text/javascript">
-    $(document).ready(function () {
-        //$("#InteriorBannerZone .ContentArea").css("background", "url('" + $(".InteriorBannerSlide").eq(0).attr("HBbackground") + "') no-repeat 0 center");
+<nav>
+    <div class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"></a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul id="menu-header" class="nav navbar-nav navbar-left">
+                        <li class="dropdown ">
+                                <a href="#" class="dropdown-toggle MainNavItemLink" target="" data-toggle="dropdown">
+                                    Loan Options
+                                    <span class="caret"></span>
+                                </a>
+                                    	<div class="SubNavAnchor">
+		                                    <div class="SubNavigationMenu ">
+			                                    <div class="SubNavItems">
+                                                    <ul class="dropdown-menu">
+                                                        <li>
+                                                            <a href="/LoanOptions" class="MainNavItemLink" target="">
+                                                                Overview
+                                                            </a>
+                                                        </li>
+                                                            <li><a href="/LoanOptions/FixedRate" class="SubNavItemLink" target="">Fixed Rate Loans</a></li>
+                                                            <li><a href="/LoanOptions/ARM" class="SubNavItemLink" target="">Adjustable Rate Loans</a></li>
+                                                            <li><a href="/LoanOptions/Jumbo" class="SubNavItemLink" target="">Jumbo Loans</a></li>
+                                                            <li><a href="/LoanOptions/FHA" class="SubNavItemLink" target="">FHA Loans</a></li>
+                                                            <li><a href="/LoanOptions/VA" class="SubNavItemLink" target="">VA Loans</a></li>
+                                                            <li><a href="/LoanOptions/HARP" class="SubNavItemLink" target="">HARP Loans</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SubNavFeature hidden-xs">
+                                                    <br>
+<a href="/LoanOptions/OurRateGuarantee" class="NavSeal"></a>
+                                                </div>
+                                                <div style="clear: both;"></div>
+                                            </div>
+                                        </div>
+                        </li>
+                        <li class="dropdown ">
+                                <a href="#" class="dropdown-toggle MainNavItemLink" target="" data-toggle="dropdown">
+                                    Refinance A Home
+                                    <span class="caret"></span>
+                                </a>
+                                    	<div class="SubNavAnchor">
+		                                    <div class="SubNavigationMenu ">
+			                                    <div class="SubNavItems">
+                                                    <ul class="dropdown-menu">
+                                                        <li>
+                                                            <a href="/Refinance" class="MainNavItemLink" target="">
+                                                                Overview
+                                                            </a>
+                                                        </li>
+                                                            <li><a href="/Refinance/EightGreatReasons" class="SubNavItemLink" target="">Great Reasons to Refinance</a></li>
+                                                            <li><a href="/Refinance/RefinanceProcess" class="SubNavItemLink" target="">Refinance Process</a></li>
+                                                            <li><a href="/LoanOptions" class="SubNavItemLink" target="">Loan Options</a></li>
+                                                            <li><a href="/Refinance/RefinanceFAQs" class="SubNavItemLink" target="">Refinance Questions</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SubNavFeature hidden-xs">
+                                                    <a href="/LoanOptions/OurRateGuarantee" class="NavSeal"></a>
+                                                </div>
+                                                <div style="clear: both;"></div>
+                                            </div>
+                                        </div>
+                        </li>
+                        <li class="dropdown ">
+                                <a href="#" class="dropdown-toggle MainNavItemLink" target="" data-toggle="dropdown">
+                                    Purchase A Home
+                                    <span class="caret"></span>
+                                </a>
+                                    	<div class="SubNavAnchor">
+		                                    <div class="SubNavigationMenu ">
+			                                    <div class="SubNavItems">
+                                                    <ul class="dropdown-menu">
+                                                        <li>
+                                                            <a href="/Purchase" class="MainNavItemLink" target="">
+                                                                Overview
+                                                            </a>
+                                                        </li>
+                                                            <li><a href="/Purchase/GetPreApproved" class="SubNavItemLink" target="">Get Pre-Qualified</a></li>
+                                                            <li><a href="/Purchase/PurchaseProcess" class="SubNavItemLink" target="">Purchase Process</a></li>
+                                                            <li><a href="/LoanOptions" class="SubNavItemLink" target="">Loan Options</a></li>
+                                                            <li><a href="/Purchase/PurchaseFAQs" class="SubNavItemLink" target="">Purchasing Questions</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SubNavFeature hidden-xs">
+                                                    <a href="/LoanOptions/OurRateGuarantee" class="NavSeal"></a>
+                                                </div>
+                                                <div style="clear: both;"></div>
+                                            </div>
+                                        </div>
+                        </li>
+                        <li class="dropdown ">
+                                <a href="/Calculators" class="MainNavItemLink" target="">
+                                    Calculators
+                                </a>
+                        </li>
+                        <li class="dropdown ">
+                                <a href="/Knowledge-Cafe" class="MainNavItemLink" target="">
+                                    Knowledge Cafe
+                                </a>
+                        </li>
+                        <li class="dropdown ">
+                                <a href="#" class="dropdown-toggle MainNavItemLink" target="" data-toggle="dropdown">
+                                    About Us
+                                    <span class="caret"></span>
+                                </a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a href="/About" class="MainNavItemLink" target="">
+                                                Overview
+                                            </a>
+                                        </li>
+                                            <li><a href="/About/Leadership" class="SubNavItemLink" target="">Leadership</a></li>
+                                            <li><a href="/About/ResponsibleLending" class="SubNavItemLink" target="">Responsible Lending</a></li>
+                                            <li><a href="/About/ContactUs" class="SubNavItemLink" target="">Contact Us</a></li>
+                                            <li><a href="/About/Servicing" class="SubNavItemLink" target="">Servicing Center</a></li>
+                                            <li><a href="/About/MissionAndValues" class="SubNavItemLink" target="">Our Mission and Values</a></li>
+                                            <li><a href="/About/Press" class="SubNavItemLink" target="">Press Releases</a></li>
+                                            <li><a href="/About/News" class="SubNavItemLink" target="">In the News</a></li>
+                                            <li><a href="/About/Careers" class="SubNavItemLink" target="">Careers</a></li>
+                                    </ul>
+                        </li>
+                        <li class="dropdown MainNavItem2Line">
+                                <a href="/RateViewer" class="MainNavItemLink2" target="">
+                                    Personalize<br>
+Your Rates
+                                </a>
+                        </li>
+                        <li class="dropdown MainNavItem2Line">
+                                <a href="https://my.loandepot.com/" class="MainNavItemLink2 ApplyNow" target="_blank">
+                                    APPLY<br>
+NOW
+                                </a>
+                        </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+            </section>
+        <!-- END HEADER SECTION -->
+        <section class="row">
+            <div class="col-md-12">
+                
+    <div id="InteriorBannerZone" class="hidden-mobile">
+    <div class="ContentArea">
+        
 
-        //var HBbackgrounds = $.makeArray($(".InteriorBannerSlide").attr("HBbackground"));
-
-        $("#InteriorBannerSlideshow").cycle({
-            timeout: 0,
-            random: true,
-            before: function (curr, next, opts) {
-//                if ($("#InteriorBannerContent").length <= 0) {
-                    $("#InteriorBannerSlideshow").css("background", "none");
-//                }
-
-                //$(".InteriorBannerSlide").eq(opts.currSlide).html($("#InteriorBannerContent").html());
-            },
-            after: function (curr, next, opts) {
-                var HBbackground = $(".InteriorBannerSlide").eq(opts.currSlide).attr("HBbackground");
-                $("#InteriorBannerZone .ContentArea").css("background", "url('" + HBbackground + "') no-repeat center");
-            }
-        });
-    });
-
-</script>
 
 <div id="InteriorBannerModule">
-    <div id="InteriorBannerSlideshow" style="position: relative; background: none;">
-        <div class="InteriorBannerSlide" hbbackground="/Images/InteriorBanner/bg001.jpg" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 6; opacity: 1;">
-        </div>
-        <div class="InteriorBannerSlide" hbbackground="/Images/InteriorBanner/bg007.jpg" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 5; opacity: 0;">
-        </div>
-        <div class="InteriorBannerSlide" hbbackground="/Images/InteriorBanner/bg008.jpg" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;">
-        </div>
-        <div class="InteriorBannerSlide" hbbackground="/Images/InteriorBanner/bg004.jpg" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;">
-        </div>
-        <div class="InteriorBannerSlide" hbbackground="/Images/InteriorBanner/bg005.jpg" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;">
-        </div>
-        <div class="InteriorBannerSlide" hbbackground="/Images/InteriorBanner/bg006.jpg" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">
+    <div id="InteriorBannerSlideshow">
+        <div class="InteriorBannerSlide" ibbackground="/~/media/Images/loanDepot/InteriorBanner/bg001.ashx">
         </div>
     </div>
     <div id="InteriorBannerLeadForm">
         
 
-<script src="../../Scripts/autoNumeric.js" type="text/javascript"></script>
-<script type="text/javascript">
-    $(document).ready(function () {
-        initLoanPurposeToggle();
-        initFormFields();
 
-        $("#MainContent_InteriorBannerContent_InteriorBanner_LeadForm_btnSubmit").click(function (e) {
-            e.preventDefault();
-            evalHeroLeadForm();
-        });
-    });
-
-    function initLoanPurposeToggle() {
-        $("#HeroLeadForm .FormTab").click(function () {
-            $("#HeroLeadForm .FormTab").removeClass("On");
-            $(this).addClass("On");
-
-            var loanPurpose = '2';
-
-            switch ($(this).find("h3").text()) {
-                case 'Buy a Home':
-                    {
-                        loanPurpose = '1';
-                    }
-                    break;
-
-                default:
-                    {
-                        loanPurpose = '2';
-                    }
-            }
-
-            $("#MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmLoanPurpose").val(loanPurpose);
-        });        
-    }
-
-    function initFormFields() {
-        $(".FormField").focus(function () {
-            $(this).css("color", "#666");
-
-            if (($(this).val() == $(this).attr("fldDefault")) || ($(this).val() == 'Invalid Zip')) {
-                $(this).val('');
-            }
-        }).blur(function () {
-            if ($(this).val() == '') {
-                $(this).val($(this).attr("fldDefault"));
-            }
-        });
-
-        $(".FormField").keydown(function (e) {
-            if (($(this).attr("id") == 'MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmPhone') || ($(this).attr("id") == 'MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmZip')) {
-                // Allow: backspace, delete, tab, escape, enter and .
-                if ($.inArray(e.keyCode, [46, 8, 9, 27, 13, 110, 190]) !== -1 ||
-                        // Allow: Ctrl+A
-                        (e.keyCode == 65 && e.ctrlKey === true) ||
-                        // Allow: home, end, left, right
-                        (e.keyCode >= 35 && e.keyCode <= 39)) {
-                    // let it happen, don't do anything
-                    return;
-                }
-                // Ensure that it is a number and stop the keypress
-                if ((e.shiftKey || (e.keyCode < 48 || e.keyCode > 57)) && (e.keyCode < 96 || e.keyCode > 105)) {
-                    e.preventDefault();
-                }
-            }
-        });
-
-        $("#MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmZip").blur(function() {
-            if(($(this).val() !== '') && ($(this).val() !== $(this).attr("fldDefault"))) {
-                ZipRequestCallBackServer($(this).val());
-            }
-        });
-
-        $("#MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmLoanAmount").autoNumeric({
-            mDec: 0,
-            aSign: '$'
-        });
-
-        $("#MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmEstimatedValue").autoNumeric({
-            mDec: 0,
-            aSign: '$'
-        });
-    }
-
-    function evalHeroLeadForm() {
-        var blnValidForm = true;
-
-        $("#HeroLeadForm .FormField").each(function () {
-            //if (($(this).attr("id") != 'MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmLoanAmount') && ($(this).attr("id") != 'MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmEstimatedValue')) {
-                if (($(this).val() == $(this).attr("fldDefault")) || ($(this).val() == 'Invalid Zip')) {
-                    $(this).css("color", "#ff0000");
-
-                    blnValidForm = false;
-                }
-                else {
-                    if ($(this).attr("id") == 'MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmEmail') {
-                        if (!validateEmail($(this).val())) {
-                            $(this).css("color", "#ff0000");
-
-                            blnValidForm = false;                            
-                        }
-                    }
-                }
-            //}
-        });
-
-        if (blnValidForm) {
-            __doPostBack('ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$btnSubmit', '');
-        }
-    }
-
-    function validateEmail(email) {
-        var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,6})?$/;
-
-        if (!emailReg.test(email)) {
-            return false;
-        } 
-        else {
-            return true;
-        }
-    }
-
-    function ZipRequestCallBackServer(args) {
-        
-        WebForm_DoCallback('ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm',args,ZipRequestCallBack,null,null,false)
-    }
-
-    function ZipRequestCallBack(val, ctx) {
-        var jsonResponse;
-
-        jsonResponse = jQuery.parseJSON(val);
-
-        if(jsonResponse.errMsg != 'invalid') {
-            $("#MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmState").val(jsonResponse.state);
-            $("#MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmCounty").val(jsonResponse.county);
-        }
-        else {
-            $("#MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmZip").val("Invalid Zip").css("color","#ff0000");
-        }
-    }
-
-</script>
-<input type="hidden" name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$FormStyle" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_FormStyle" value="Mini">
-<div id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_pnlHeroForm" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'MainContent_InteriorBannerContent_InteriorBanner_LeadForm_btnSubmit')">
-	
-<div id="HeroLeadForm" class="Mini">
-    <div class="FormTabs">
-        <div class="FormTab On">
-            <h3>Refinance</h3>
+<form action="/api/sitecore/Form/PostLead" method="post"><input id="FormStyle" name="FormStyle" type="hidden" value="">    <div id="HeroLeadForm" class="Mini hidden-xs">
+        <div class="FormTabs">
+            <div class="FormTab On">
+                <h3>Refinance</h3>
+            </div>
+            <div class="FormTab">
+                <h3>Buy a Home</h3>
+            </div>
+            <div style="clear: both;"></div>
         </div>
-        <div class="FormTab Off">
-            <h3>Buy a Home</h3>
+        <div class="FormFields">
+            <input id="LoanPurpose" name="LoanPurpose" type="hidden" value="">
+            <input id="State" name="State" type="hidden" value="">
+            <input id="County" name="County" type="hidden" value="">
+            <input value="First name" class="FormField Left" flddefault="First name" id="FirstName" name="FirstName" type="text">
+            <input value="Last name" class="FormField Right" flddefault="Last name" id="LastName" name="LastName" type="text">
+            <div style="clear: both;"></div>
+            <input value="Phone" class="FormField Left" flddefault="Phone" id="Phone" maxlength="10" name="Phone" type="text">
+            <input value="Zip code" class="FormField Right" flddefault="Zip code" id="Zip" maxlength="5" name="Zip" type="text">
+            <div style="clear: both;"></div>
+            <input value="E-mail" class="FormField FullWide" flddefault="E-mail" id="Email" name="Email" type="text">
+            <div style="clear: both;"></div>
+            <input value="Loan Amount" class="FormField Left" flddefault="Loan Amount" id="LoanAmount" name="LoanAmount" type="text">
+            <input value="Estimated Value" class="FormField Right" flddefault="Estimated Value" id="EstimatedValue" name="EstimatedValue" type="text">
+            <div style="clear: both;"></div>
+            <div class="FormDisclaimer">
+                By submitting this form, I am providing express consent to receive autodialed and/or prerecorded calls from loanDepot at the telephone number entered above,
+                even if it is a cellular phone number or other service for which the called person(s) could be charged for such call.
+            </div>
+            <a href="#" id="btnSubmit" class="HeroLeadFormSubmit">Get Started <span style="font-size: 10px; text-shadow: 1px 1px 0 #333333 !important;" class="glyphicon glyphicon-chevron-right"></span></a>
         </div>
-        <div style="clear: both;"></div>
     </div>
-    <div class="FormFields">
-        <input type="hidden" name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmLoanPurpose" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmLoanPurpose" value="2">
-        <input type="hidden" name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmState" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmState">
-        <input type="hidden" name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmCounty" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmCounty">
+    <div style="clear: both;"></div>
+</form>
 
-        <input name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmFirstName" type="text" value="First name" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmFirstName" class="FormField Left" flddefault="First name">
-        <input name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmLastName" type="text" value="Last name" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmLastName" class="FormField Right" flddefault="Last name">
-        <div style="clear: both;"></div>
-
-        <input name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmPhone" type="text" value="Phone" maxlength="10" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmPhone" class="FormField Left" flddefault="Phone">
-        <input name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmZip" type="text" value="Zip code" maxlength="5" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmZip" class="FormField Right" flddefault="Zip code">
-        <div style="clear: both;"></div>
-
-        <input name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmEmail" type="text" value="E-mail" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmEmail" class="FormField FullWide" flddefault="E-mail">
-        
-        <div style="clear: both;"></div>
-
-        <input name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmLoanAmount" type="text" value="Loan Amount" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmLoanAmount" class="FormField Left" flddefault="Loan Amount">
-        <input name="ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$frmEstimatedValue" type="text" value="Estimated Value" id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_frmEstimatedValue" class="FormField Right" flddefault="Estimated Value">
-        <div style="clear: both;"></div>        
-        <a id="MainContent_InteriorBannerContent_InteriorBanner_LeadForm_btnSubmit" class="HeroLeadFormSubmit" href="javascript:__doPostBack('ctl00$ctl00$MainContent$InteriorBannerContent$InteriorBanner$LeadForm$btnSubmit','')">Get Started <span style="font-size: 10px; text-shadow: 1px 1px 0 #333333 !important;" class="glyphicon glyphicon-chevron-right"></span></a>
-    </div>
-</div>
-
-</div>
     </div>
     <div style="clear: both;"></div>
 </div>
 
+
+    </div>
+</div>
+
             </div>
-        </div>
-    
-    
-        <div id="RateBarZone">
+        </section>
+        <section id="RateBarZone">
             <div class="ContentArea">
                 
 
-<div id="RateBarModule">
-    <div class="RateProduct">
-        <div class="RateTerm">30</div>
-        <div class="RateType">Year<br>Fixed</div>
-        <div>
-            3.75%<br>
-            4.104% APR*
-        </div>        
+
+
+<div class="hidden-xs">
+    <div id="RateBarModule">
+        <div class="RateProduct" style="display: none;">
+            <div class="RateTerm">30</div>
+            <div class="RateType">Year<br>Fixed</div>
+            <div>
+                <span id="ldRate_1">3.5%</span><br>
+                <span id="ldRateAPR_1">3.774% APR</span>
+            </div>
+        </div>
+        <div class="RateProduct" style="display: none;">
+            <div class="RateTerm">15</div>
+            <div class="RateType">Year<br>Fixed</div>
+            <div>
+                <span id="ldRate_2">2.75%</span><br>
+                <span id="ldRateAPR_2">3.002% APR</span>
+            </div>
+        </div>
+        <div class="RateProduct" style="display: none;">
+            <div class="RateTerm">20</div>
+            <div class="RateType">Year<br>Fixed</div>
+            <div>
+                <span id="ldRate_3">3.25%</span><br>
+                <span id="ldRateAPR_3">3.573% APR</span>
+            </div>
+        </div>
+        <div class="RateProduct RateTeaser">
+            Lock in your low rate today!
+        </div>
+	    <div class="RateProduct">
+            <div style="margin: 0 auto; float: none;">
+                <div class="RateTerm">3.00%</div>
+                <div class="RateDescription">
+                    <span id="ldRateAPR_4">3.012% APR</span><br>
+                    <span class="RateType">CONVENTIONAL 5/1 ARM*</span>
+                </div>
+            </div>
+	    </div>
+        <div class="RateActionCall">
+            <a href="/RateViewer">Personalize Your Mortgage Rate <span class="glyphicon glyphicon-chevron-right" style="font-size: 12px;"></span></a>
+        </div>
+        <div style="clear: both;"></div>
     </div>
-    <div class="RateProduct">
-        <div class="RateTerm">15</div>
-        <div class="RateType">Year<br>Fixed</div>
-        <div>
-            3%<br>
-            3.225% APR*
+</div>
+
+<div class="visible-xs">
+    <div class="container">
+        <div class="RateProduct RateTeaser">
+            Lock in your low rate today!
+        </div>
+	    <div class="RateProduct">
+            <div style="margin: 0 auto; float: none;">
+                <div class="RateTerm">3.00%</div>
+                <div class="RateDescription">
+                    <span id="ldRateAPR_4">3.012% APR</span><br>
+                    <span class="RateType">CONVENTIONAL 5/1 ARM*</span>
+                </div>
+            </div>
+	    </div>
+        <div class="row RateActionCall">
+            <a href="/RateViewer">Personalize Your Mortgage Rate <span class="glyphicon glyphicon-chevron-right" style="font-size: 12px;"></span></a>
         </div>
     </div>
-    <div class="RateProduct">
-        <div class="RateTerm">20</div>
-        <div class="RateType">Year<br>Fixed</div>
-        <div>
-            3.625%<br>
-            3.912% APR*
-        </div>
-    </div>
-    <div class="RateActionCall">
-        <a href="/RateViewer.aspx">Personalize Your Mortgage Rate <span class="glyphicon glyphicon-chevron-right" style="font-size: 12px;"></span></a>
-    </div>
-    <div style="clear: both;"></div>
 </div>
             </div>
-        </div>    
-    
-    
-<div id="InteriorBody">
-	<div class="AllContent" id="QuestionList">
-		<div id="PrivacyPolicy" class="Company">
-				<div class="CompanyContent">
-						<div class="LeftCol">
-								<h2 class="contentHeader ">Privacy Policy</h2>
-                <p>loanDepot® values your patronage and protecting your confidential information is a priority. Our policies and procedures reinforce the fact that loanDepot strongly believes in protecting the confidentiality and security of the information we collect about you as a customer, potential customer or former customer. We have adopted the following policies and procedures to safeguard the personal information about you in our possession.</p>
+        </section>
+        <!-- BEGIN BODY SECTION -->
+        <div id="ContentZone">
+            <div class="ContentArea">
+                
+
+
+
+
+
+
+
+
+<div id="BreadcrumbModule">
+        <a href="/">Home</a> 
+</div>
+
+
+
+
+<div id="MainContentRightRailZone">
+    <div class="ContentMain">
+        
+        
+
+
+
+
+<div id="PageContentField">
+    <div class="CompanyContent">
+				<h2>Privacy Policy</h2>
+					<p>loanDepot® values your patronage and protecting your confidential information is a priority. Our policies and procedures reinforce the fact that loanDepot strongly believes in protecting the confidentiality and security of the information we collect about you as a customer, potential customer or former customer. We have adopted the following policies and procedures to safeguard the personal information about you in our possession.</p>
                 <h2>Our Privacy Pledge</h2>
-								<ul class="LicensesList">
+						<ul class="LicensesList">
 										<li><span>We do not sell or rent customer information. </span></li>
 										<li><span>We share customer information with certain employees and with companies providing services on our behalf in order to service your needs. </span></li>
 										<li><span>Our policy is to require all employees and companies providing services on our behalf to keep customer information confidential.</span></li>
 										<li><span>Our privacy policy applies to potential customers as well as current and former customers. </span></li>
-								</ul>
+						</ul>
                 <h2>Safeguarding Personal Information<br>We have adopted policies and procedures designed to protect your personal information from unauthorized use or disclosure.</h2>
-                <ul class="LicensesList">
+						<ul class="LicensesList">
 										<li><span>We have implemented physical, electronic and procedural safeguards to maintain confidentiality and integrity of the personal information in our possession and to guard against unauthorized access. These include among other things, procedures for controlling access to customer files, building security programs and information technology security measures such as the use of passwords, firewalls, virus prevention and use detection software.</span></li>
 										<li><span>We continue to assess new technology as it becomes available and to upgrade our physical and electronic security systems as appropriate.</span></li>
 										<li><span>Our policy is to permit employees to access your personal information only if they have a business purpose for using such information, such as administering, providing or developing our products or services.</span></li>
 										<li><span>Our policy, which governs the conduct of all of our employees, requires all employees to safeguard personal information about the consumers and customers we serve or have served in the past.</span></li>
-								</ul>
-								<p>This is the fun part. Once you've been pre-approved and have an idea of what price range you qualify for, you can work with a real estate agent to view homes for sale in the areas you'd like to live. Once you find a home you like, you can work with the real estate agent to draw up an offer and complete a purchase agreement. The seller has the option to submit a counter-offer and you may go through several rounds of counters. Once you and the seller agree to the price and terms, escrow will be opened. Typical escrow periods are 30 days but 45 and 60 day escrows are not uncommon.</p>
+						</ul>
+					<p>This is the fun part. Once you've been pre-approved and have an idea of what price range you qualify for, you can work with a real estate agent to view homes for sale in the areas you'd like to live. Once you find a home you like, you can work with the real estate agent to draw up an offer and complete a purchase agreement. The seller has the option to submit a counter-offer and you may go through several rounds of counters. Once you and the seller agree to the price and terms, escrow will be opened. Typical escrow periods are 30 days but 45 and 60 day escrows are not uncommon.</p>
                 <h2>Information We Collect About You</h2>
-                <p>We collect information about you to help us serve your financial needs, to provide you with quality products and services and to fulfill legal and regulatory requirements. We consider non-public information about you in our possession to be personal information, even if you cease to be a customer. The personal information we collect about you may include among other things:</p>
-                <ul class="LicensesList">
+					<p>We collect information about you to help us serve your financial needs, to provide you with quality products and services and to fulfill legal and regulatory requirements. We consider non-public information about you in our possession to be personal information, even if you cease to be a customer. The personal information we collect about you may include among other things:</p>
+						<ul class="LicensesList">
 										<li><span>Identifying information, such as your name, age, address, phone number and social security number</span></li>
 										<li><span>Employment information</span></li>
 										<li><span>Financial information such as your income, assets and liabilities, as well as information about your savings, investments, insurance and business.</span></li>
-								</ul>
-                <p>loanDepot does not alter its behavior or change its services upon receiving Do Not Track requests.</p>
-                <p>Typically, we collect this information on applications and other forms you complete, through conversations you may have with our loan originators and processors, with our other representatives, and in some cases, over our website. We may also collect information from a wide range of other sources in order to process and/or underwrite your loan. These sources may include among others, employers, attorneys, banks, title insurers, insurance companies and credit reporting agencies.</p>
+						</ul>
+					<p>loanDepot does not alter its behavior or change its services upon receiving Do Not Track requests.</p>
+					<p>Typically, we collect this information on applications and other forms you complete, through conversations you may have with our loan originators and processors, with our other representatives, and in some cases, over our website. We may also collect information from a wide range of other sources in order to process and/or underwrite your loan. These sources may include among others, employers, attorneys, banks, title insurers, insurance companies and credit reporting agencies.</p>
                 <h2>Sharing Information With Companies That Provide Services For Us</h2>
-                <p>We share personal information about you, as required or permitted by law, with third parties, such as service providers who assist us in the day to day operations of our company in the administration, processing, servicing and sale of your loan. These third parties include among others, title companies, appraisers, insurance companies, underwriting services, processing services, printing companies, software providers, marketing services and purchasers of loans. Our policy is to require third party service providers to enter into confidentiality agreements with us, prohibiting them from using any personal information they obtain for any other purpose other than those for which they were retained or as required by law. We may also disclose information about you, when necessary or required, in legal and arbitration proceedings and to government agencies.</p>
+					<p>We share personal information about you, as required or permitted by law, with third parties, such as service providers who assist us in the day to day operations of our company in the administration, processing, servicing and sale of your loan. These third parties include among others, title companies, appraisers, insurance companies, underwriting services, processing services, printing companies, software providers, marketing services and purchasers of loans. Our policy is to require third party service providers to enter into confidentiality agreements with us, prohibiting them from using any personal information they obtain for any other purpose other than those for which they were retained or as required by law. We may also disclose information about you, when necessary or required, in legal and arbitration proceedings and to government agencies.</p>
                 <h2>Changes To Our Privacy Policy</h2>
-                <p>We may make changes to our privacy policy in the future. If you choose to receive e-mail messages or newsletters from us, you may later modify your choice by contacting us at 1-888-337-6888 . You also will be given the opportunity, in any general bulk commercial e-mail that we send to you, to opt out of receiving such messages in the future. We will attempt to address your request immediately but it may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as processing requests, conditional loan offers, requests for additional information, service updates or announcements, administrative notices and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. Note: If we have already provided your information to a third party as part of your loan application then you may have to change your preferences directly with that third party.</p>
-								<p>Our Do Not Call policy states that you may instruct us not to call you for marketing purposes by informing us at 1-888-337-6888 . Our employees are trained through Policies and Procedures to take action on your instructions within 30 days. Please note that we may still need to contact you for legitimate business reasons such as servicing of your loan or other non-marketing purposes.</p>
-								<p>If you do not want us to send you postal mail for marketing purposes, you may remove your name from current and future mailing lists by contacting us at 1-888-337-6888 .</p>
+					<p>We may make changes to our privacy policy in the future. If you choose to receive e-mail messages or newsletters from us, you may later modify your choice by contacting us at 1-888-337-6888 . You also will be given the opportunity, in any general bulk commercial e-mail that we send to you, to opt out of receiving such messages in the future. We will attempt to address your request immediately but it may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as processing requests, conditional loan offers, requests for additional information, service updates or announcements, administrative notices and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. Note: If we have already provided your information to a third party as part of your loan application then you may have to change your preferences directly with that third party.</p>
+					<p>Our Do Not Call policy states that you may instruct us not to call you for marketing purposes by informing us at 1-888-337-6888 . Our employees are trained through Policies and Procedures to take action on your instructions within 30 days. Please note that we may still need to contact you for legitimate business reasons such as servicing of your loan or other non-marketing purposes.</p>
+					<p>If you do not want us to send you postal mail for marketing purposes, you may remove your name from current and future mailing lists by contacting us at 1-888-337-6888 .</p>
                 <h2>Contacting Us</h2>
-								<p>If you have any questions about this privacy policy, please write us at loanDepot, 26642 Towne Centre Drive, Foothill Ranch CA, 92610.</p>
-								<p>1-888-337-6888</p>
-						</div>
-					    <div class="RightCol">
-						    
-
-<!-- <a href="http://www.bbb.org/dallas/business-reviews/mortgage-brokers/loandepotcom-in-plano-tx-90410708" target="_blank"><img src="/Images/Icons/icon_bbb.png" alt="" style="margin-bottom: 10px; height: 58px;"  /></a> -->
-<div class="Smallpanel">
-	<div class="Top"></div>
-	<div class="Body">
-		<div class="Content">
-			<h2>Call Us for a Quote</h2>
-			<p>Talk to a licensed mortgage banker who can answer all your questions, quote rates and find your best loan.</p>
-			<b class="Orange"><label id="MainContent_MainContent02_LDSideBar1_PhoneNumber1_lblPhone">1-888-337-6888</label></b>
+					<p>If you have any questions about this privacy policy, please write us at loanDepot, 26642 Towne Centre Drive, Foothill Ranch CA, 92610.</p>
+					<p>1-888-337-6888</p>
 		</div>
-	</div><img src="../../Images/Backgrounds/SmallPanel/bg_smpanelbottom.png" class="Clear" alt=""></div>
-<div class="Smallpanel">
-	<div class="Top">
-	</div>
-	<div class="Body">
-		<div class="Content">
-			<h2>We’ll Call you</h2>
-			<p>Fill out a short contact form and we’ll have a mortgage expert call or email you back.</p>
-			<a href="RequestACallback.aspx" class="RACActionButton ActionButton"></a>
-		</div>
-	</div><img src="../../Images/Backgrounds/SmallPanel/bg_smpanelbottom.png" class="Clear" alt=""></div>
-<div class="Smallpanel">
-	<div class="Top"></div>
-	<div class="Body">
-		<div class="Content">
-			<h2>Apply Online </h2>
-			<p>Apply with our online application. View and lock in your rate online, all from the convenience of your home</p>
-			<a href="/ApplyOnline.aspx" class="AOActionButton ActionButton" target="_blank"></a>
-		</div>
-	</div><img src="../../Images/Backgrounds/SmallPanel/bg_smpanelbottom.png" class="Clear" alt=""></div>
-<a class="OfficialSeal yrgbox" href="../../LoanOptions/OurRateGuarantee.aspx"></a>
-
-					    </div>
-				</div>
-			<br class="Clear">
-		</div>
-	</div>
 </div>
 
 
+    </div>
+    <div class="RightRail hidden-xs">
+        
+
+
+
+
+<div id="RightRailContentField">
     
-
-    
-
-<div id="FooterZoneContactInfo">
-    <div id="ContactInfoFooterModule" class="ContentArea">
-        <div class="ContactInfo">
-            Call a loan specialist today <b style="text-shadow: none;">888-337-6888</b> 
-           <!-- <img src="../..//Images/Icons/icon_associationicons2.png" /> -->
-        </div>
-    </div>
 </div>
 
-<div id="FooterZoneSocial">
-    <div id="SocialFooterModule" class="ContentArea">
-        <div class="SocialAwareness">
-            <div class="AssociationIcons">
-                <a href="../../About/InTheNews.aspx"><img src="../..//Images/Icons/icon_associationicons2.png"></a>
-            </div>
-            <div class="SocialIcons">
-                <h5>Follow us</h5>
-                <ul class="SocialMediaIcons">
-                    <li>
-                        <a href="https://www.facebook.com/pages/loanDepot/122038777815264" target="_blank">
-                            <img src="/Images/Icons/SociaMedia/icon_facebook.png" alt="Follow us on Facebook">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.linkedin.com/company/loandepot" target="_blank">
-                            <img src="/Images/Icons/SociaMedia/icon_linkedin.png" alt="Follow us on linkedIn">
-                        </a>
-                    </li>                        
-                    <li>
-                        <a href="http://www.youtube.com/user/loanDepotCA" target="_blank">
-                            <img src="/Images/Icons/SociaMedia/icon_youtube.png" alt="Follow us on YouTube">
-                        </a>
-                    </li>
-                </ul>
-                <div style="clear: both;"></div>
-            </div>
-            <div style="clear: both;"></div>
-        </div>
-    </div>
+
+
+
+
+<div class="Smallpanel">
+<div class="Top"></div>
+<div class="Body">
+<div class="Content">
+<h2>Call Us for a Quote</h2>
+<p>Talk to a licensed mortgage banker who can answer all your questions, quote rates and find your best loan.</p>
+<b class="Orange"><label id="MainContent_MainContent02_LDSideBar1_PhoneNumber1_lblPhone"><span class="PhoneNumber_CallNow">(888) 337-6888</span></label></b>
+</div>
+</div>
+<img src="/~/Media/Images/loanDepot/Backgrounds/SmallPanel/bg_smpanelbottom.png" class="Clear" alt="">
 </div>
 
-<div id="FooterZoneCallToAction">
-    <div id="CallToActionFooterModule" class="ContentArea">
-        <div class="CallToActions">
-            <div class="Action">
-                <h5>Pre-qualify for a loan in 30 seconds</h5>
-                <a href="/Content/Public/RequestACallback.aspx" class="btnLaunch">Get Started <span style="font-size: 10px;" class="glyphicon glyphicon-chevron-right"></span></a>
-            </div>
-            <div class="Action">
-                <h5>Fill out our online application</h5>
-                <a href="/ApplyOnline.aspx" class="btnLaunch" target="_blank">Apply Now <span style="font-size: 10px;" class="glyphicon glyphicon-chevron-right"></span></a>        
-            </div>
-            <div class="Action">
-                <h5>loanDepot in the news</h5>
-                <a href="/About/InTheNews.aspx" class="btnLaunch">View Now <span style="font-size: 10px;" class="glyphicon glyphicon-chevron-right"></span></a>        
-            </div>
-        </div>
-    </div>
+
+
+
+
+
+<div class="Smallpanel">
+<div class="Top">
+</div>
+<div class="Body">
+<div class="Content">
+<h2>We’ll Call you</h2>
+<p>Fill out a short contact form and we’ll have a mortgage expert call or email you back.</p>
+<a href="/LoanOptions/RequestACallBack" class="RACActionButton ActionButton"></a>
+</div>
+</div>
+<img alt="" src="/~/Media/Images/loanDepot/Backgrounds/SmallPanel/bg_smpanelbottom.png" class="Clear">
 </div>
 
-    <div id="FooterZoneSiteMap">
-        <div class="ContentArea">
-            
 
-<div id="SiteMapModule">
-    <ul id="SiteMapLinks">
-        <li>
-            <a href="../../LoanOptions/LoanOptions.aspx" class="SectionHeader">Loan Options</a>
-            <ul class="SiteMapSubLinks">
-                <li><a href="../../LoanOptions/FixedRate.aspx">Fixed Rate Loan</a></li>
-                <li><a href="../../LoanOptions/ARM.aspx">Adjustable Rate Loan</a></li>
-                <li><a href="../../LoanOptions/Jumbo.aspx">Jumbo Loans</a></li>
-                <li><a href="../../LoanOptions/FHA.aspx">FHA Loans</a></li>
-                <li><a href="../../LoanOptions/VALoans.aspx">VA Loans</a></li>
-                <li><a href="../../LoanOptions/HARP.aspx">HARP Loans</a></li>
-                <li><a href="../../LoanOptions/OurRateGuarantee.aspx">5-Yr Guarantee</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="../../Refinance/RefinanceYourHome.aspx" class="SectionHeader">Refinance Home</a>
-            <ul class="SiteMapSubLinks">
-                <li><a href="../../Refinance/EightGreatReasons.aspx">Great Reasons to Refinance</a></li>
-                <li><a href="../../Refinance/RefinanceProcess.aspx">Refinance Process</a></li>
-                <li><a href="../../LoanOptions/LoanOptions.aspx">Loan Options</a></li>
-                <li><a href="../../Refinance/RefinanceFaqs.aspx">Refinance Questions</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="../../Purchase/PurchaseAHome.aspx" class="SectionHeader">Purchase Home</a>
-            <ul class="SiteMapSubLinks">
-                <li><a href="../../Purchase/GetPreApproved.aspx">Get Pre-approved</a></li>
-                <li><a href="../../Purchase/PurchaseProcess.aspx">Purchase Process</a></li>
-                <li><a href="../../LoanOptions/LoanOptions.aspx">Loan Options</a></li>
-                <li><a href="../../Purchase/PurchaseFaqs.aspx">Purchasing Questions</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="../../About/AboutloanDepot.aspx" class="SectionHeader">About Us</a>
-            <ul class="SiteMapSubLinks">
-                <li><a href="../../About/Leadership.aspx">Leadership</a></li>
-                <li><a href="../../About/ResponsibleLending.aspx">Responsible Lending</a></li>
-                <li><a href="../../About/Contactus.aspx">Contact Us</a></li>
-                <li><a href="Servicing.aspx">Servicing Center</a></li>
-                <li><a href="../../About/MissionAndValues.aspx">Our Mission &amp; Values</a></li>
-                <li><a href="../../About/PressReleases.aspx">Press Releases</a></li>
-                <li><a href="../../About/InTheNews.aspx">In the News</a></li>
-                <li><a href="../../Careers">Careers</a></li>
-            </ul>
-        </li>
-        <li>
-            <ul class="SiteMapMainLinks">
-                <li><a href="../../RateViewer.aspx" class="SectionHeader">Rate Search</a></li>
-                <li><a href="../../ApplyOnline.aspx" class="SectionHeader" target="_blank">Apply Online</a></li>
-                <li><a href="../../MortgageCalculators.aspx" class="SectionHeader">Calculators</a></li>
-                <li><br></li>
-                <li><a href="Licensing.aspx" class="SectionHeader">State Licensing</a></li>
-                <li><a href="PrivacyPolicy.aspx" class="SectionHeader">Privacy Policy</a></li>
-                <li><a href="TermsOfUse.aspx" class="SectionHeader">Terms Of Use</a></li>
-                <li><br></li>
-                <li><a href="http://www.imortgage.com" class="SectionHeader" target="_blank">imortgage</a></li>
-                <li><a href="https://ldwholesale.com/" class="SectionHeader" target="_blank">LDWholesale</a></li>
-            </ul>
-        </li>
-    </ul>
+
+
+
+
+<div class="Smallpanel">
+<div class="Top"></div>
+<div class="Body">
+<div class="Content">
+<h2>Apply Online</h2>
+<p>Apply with our online application. View and lock in your rate online, all from the convenience of your home</p>
+<a href="/ApplyOnline.aspx" class="AOActionButton ActionButton" target="_blank"></a>
+</div>
+</div>
+<img src="/~/Media/Images/loanDepot/Backgrounds/SmallPanel/bg_smpanelbottom.png" class="Clear" alt="">
+</div>
+
+
+
+
+
+
+
+
+
+
+<div id="OfficialSealRightRail"><a href="/LoanOptions/OurRateGuarantee" class="OfficialSeal yrgbox"></a></div>
+
+
+
+    </div>
     <div style="clear: both;"></div>
-    <div class="FooterSeparator"></div>
 </div>
-    
+
+
+
+<div id="SubPageColumns" style="display: none;">
+    <div id="LeftRailContentField">
+    </div>
+    <div id="RightRailContentField">
+    </div>
+</div>
+
+
+                
+            </div>
+        </div>
+        <!-- END BODY SECTION -->
+        <!-- BEGIN FOOTER SECTION -->
+            <div id="FooterZoneContactInfo">
+                <div class="ContentArea">
+                    
+
+
+<div id="ContactInfoFooterModule">
+    <div class="ContactInfo">
+Call a loan specialist today            <br class="visible-xs">
+            <strong style="text-shadow: none;"> <span class="PhoneNumber_CallNow">(888) 983-3240</span> </strong>
+    </div>
+</div>
+
+                </div>
+            </div>
+            <section class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <div id="FooterZoneSocial">
+                        <div class="ContentArea">
+                            
+
+
+
+<div style="text-align: center;"><a href="/About/News" class=""><img alt="" src="~/media/Images/loanDepot/Icons/icon_associationicons2.ashx?la=en" class="img-responsive"></a></div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="hidden-xs">
+                <div id="FooterZoneCallToAction">
+                    <div class="ContentArea">
+                        
+
+
+
+    <div id="CallToActionFooterModule">
+        <div class="CallToActions">
+                <div class="Action">
+                    <h5>Pre-qualify for a loan in 30 seconds</h5>
+
+                     <a href="/LoanOptions/RequestACallback" class="btnLaunch" target="">Get Started<span style="font-size: 10px;" class="glyphicon glyphicon-chevron-right"></span></a> 
+                </div>                  
+                <div class="Action">
+                    <h5>Fill out our online application</h5>
+
+                     <a href="https://my.loandepot.com" class="btnLaunch" target="_blank">Apply Now<span style="font-size: 10px;" class="glyphicon glyphicon-chevron-right"></span></a> 
+                </div>                  
+                <div class="Action">
+                    <h5>loanDepot in the news</h5>
+
+                     <a href="/About/News" class="btnLaunch" target="">View Now<span style="font-size: 10px;" class="glyphicon glyphicon-chevron-right"></span></a> 
+                </div>                  
         </div>
     </div>
-    <div id="FooterZoneLegal">
-        <div class="ContentArea">
-            
+
+                    </div>
+                </div>
+            </section>
+            <footer id="FooterZoneSiteMap">
+                <div class="ContentArea">
+                    
+
+
+
+<div class="container">
+    <div class="row">
+                <div class="col-xs-12 col-sm-3 col-md-2 hidden-xs">
+                    <ul class="list-unstyled">
+                        <li>
+                            <h6>
+                                <a href="/LoanOptions" class="SectionHeader" target="">Loan Options</a>
+                            </h6>
+                        </li>
+                            <li><a href="/LoanOptions/FixedRate" class="SubNavItemLink" target="">Fixed Rate Loan</a></li>
+                            <li><a href="/LoanOptions/ARM" class="SubNavItemLink" target="">Adjustable Rate Loan</a></li>
+                            <li><a href="/LoanOptions/Jumbo" class="SubNavItemLink" target="">Jumbo Loans</a></li>
+                            <li><a href="/LoanOptions/FHA" class="SubNavItemLink" target="">FHA Loans</a></li>
+                            <li><a href="/LoanOptions/VA" class="SubNavItemLink" target="">VA Loans</a></li>
+                            <li><a href="/LoanOptions/HARP" class="SubNavItemLink" target="">HARP Loans</a></li>
+                            <li><a href="/LoanOptions/OurRateGuarantee" class="SubNavItemLink" target="">5-Yr Guarantee</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-3 col-md-2 hidden-xs">
+                    <ul class="list-unstyled">
+                        <li>
+                            <h6>
+                                <a href="/Refinance" class="SectionHeader" target="">Refinance Home</a>
+                            </h6>
+                        </li>
+                            <li><a href="/Refinance/EightGreatReasons" class="SubNavItemLink" target="">Great Reasons to Refinance</a></li>
+                            <li><a href="/Refinance/RefinanceProcess" class="SubNavItemLink" target="">Refinance Process</a></li>
+                            <li><a href="/LoanOptions" class="SubNavItemLink" target="">Loan Options</a></li>
+                            <li><a href="/Refinance/RefinanceFAQs" class="SubNavItemLink" target="">Refinance Questions</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-3 col-md-2 hidden-xs">
+                    <ul class="list-unstyled">
+                        <li>
+                            <h6>
+                                <a href="/Purchase" class="SectionHeader" target="">Purchase Home</a>
+                            </h6>
+                        </li>
+                            <li><a href="/Purchase/GetPreApproved" class="SubNavItemLink" target="">Get Pre-approved</a></li>
+                            <li><a href="/Purchase/PurchaseProcess" class="SubNavItemLink" target="">Purchase Process</a></li>
+                            <li><a href="/LoanOptions" class="SubNavItemLink" target="">Loan Options</a></li>
+                            <li><a href="/Purchase/PurchaseFAQs" class="SubNavItemLink" target="">Purchasing Questions</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-3 col-md-2 hidden-xs">
+                    <ul class="list-unstyled">
+                        <li>
+                            <h6>
+                                <a href="/About" class="SectionHeader" target="">About Us</a>
+                            </h6>
+                        </li>
+                            <li><a href="/About/Leadership" class="SubNavItemLink" target="">Leadership</a></li>
+                            <li><a href="/About/ResponsibleLending" class="SubNavItemLink" target="">Responsible Lending</a></li>
+                            <li><a href="/About/ContactUs" class="SubNavItemLink" target="">Contact Us</a></li>
+                            <li><a href="/About/Servicing" class="SubNavItemLink" target="">Servicing Center</a></li>
+                            <li><a href="/About/MissionAndValues" class="SubNavItemLink" target="">Mission and Values</a></li>
+                            <li><a href="/About/Press" class="SubNavItemLink" target="">Press Releases</a></li>
+                            <li><a href="/About/News" class="SubNavItemLink" target="">In the News</a></li>
+                            <li><a href="/About/Careers" class="SubNavItemLink" target="">Careers</a></li>
+                    </ul>
+                </div>
+
+        <div class="footer-xs">
+            <ul class="list-unstyled">
+                        <li>
+                            <h6>
+                                <a href="/RateViewer" class="SectionHeader" target="">Rate Search</a>
+                            </h6>
+                        </li>
+                        <li><a href="https://my.loandepot.com" class="SectionHeader" target="_blank">Apply Online</a></li>
+                        <li><a href="/Calculators" class="SectionHeader" target="">Calculators</a></li>
+                        <li><a href="/Licensing" class="SectionHeader" target="">State Licensing</a></li>
+                        <li><a href="/PrivacyPolicy" class="SectionHeader" target="">Privacy Policy</a></li>
+                        <li><a href="/TermsOfUse" class="SectionHeader" target="">Terms Of Use</a></li>
+                        <li><a href="http://www.imortgage.com/" class="SectionHeader" target="_blank">imortgage</a></li>
+                        <li><a href="https://ldwholesale.com/" class="SectionHeader" target="_blank">LDWholesale</a></li>
+            </ul>
+        </div>    
+    </div>
+</div>
+
+                </div>
+            </footer>
+            <div id="FooterZoneLegal">
+                <div class="ContentArea">
+                    
+
+
 
 <div id="LegalFooterModule">
     <div class="DisclaimerContainer">
-        <div style="float: left; width: 90%;">
-            <p>
-                <b>© 2014 loanDepot.com LLC, All rights reserved. NMLS#174457 -  <a href="http://www.nmlsconsumeraccess.org/Home.aspx/SubSearch?searchText=174457">NMLS Consumer Access Site</a></b></p>
-            <p>
-                <b>Rate Assumptions</b>
-            </p>
-            <p>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-11">
+                    <p>
+<strong>© 2009-2014 loanDepot.com LLC, All rights reserved. NMLS#174457 -  <a href="http://www.nmlsconsumeraccess.org/Home.aspx/SubSearch?searchText=174457">NMLS Consumer Access Site</a></strong>
+</p>
+                    <p>
+<strong>Rate Assumptions</strong></p>
+                     <p>
                 * Rate displayed are subject to change and assumes that you are buying or refinancing
                 an owner-occupied single family home, all borrowers have credit scores of 740 or
                 higher, debt-to-income ratios of 35% or lower, asset and reserve requirements are
@@ -858,123 +722,300 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$RadScriptManager1', 'fo
                 (Points include any origination, discount and lender fees.) On adjustable-rate loans,
                 interest rates are subject to potential increases over the life of the loan, once
                 the initial fixed-rate period expires.Please contact one of our Mortgage Bankers
-                at 1-888-337-6888 for a customized rate and payment quote.</p>
-            <p class="RateGuaranteeDisclosureContainer">
-                **Refinancing within the 60 month period is conditional on whether the program type
-                or applicable state/federal laws contain “seasoning” restrictions that would make
-                refinancing during a specific period illegal. For example, waiting until after the
-                12th month, but before the 60th month may be required. Your loan approval for the
-                future refinance is not guaranteed. You must fully qualify for the selected refinance
-                and meet all the requirements of the loan program you select at the time you apply
-                for the refinance. The appraised value of your home for the future refinance is
-                not guaranteed. There must be a full appraisal of your home when the new refinance
-                is requested and the value at that time must be acceptable for the program and loan
-                terms you request. The interest rate for the future refinance is not guaranteed.
-                You will have to qualify for the loan requested, and will be quoted the interest
-                rates in effect at the time of your next refinance.</p>
-                <p>
-                    loanDepot is a direct mortgage lender offering access to current mortgage rates on residential home loans with a selection of mortgage programs 
-                    including: refinance mortgages, adjustable and fixed rate mortgages, HARP loans, Jumbo, VA and FHA loans. Licensed in all 50 states, loanDepot is 
-                    an approved seller/servicer to Fannie Mae, Freddie Mac and Ginnie Mae, providing online mortgage loans for refinancing and home purchase. We are 
-                    committed to delivering accurate lending information, competitive mortgage interest rates, easy loan processing and best in class home loan financing.                
-                </p>
-        </div>
-        <div style="float: right; width: 8%; margin-top: 30px;">
-            <span class="EHLenderIcon"></span>
-        </div>
-        <div style="clear:both;"></div>
-    </div>
-</div>
-
+                at <span class="PhoneNumber_CallNow"></span> for a customized rate and payment quote.</p>
+                    <p class="RateGuaranteeDisclosureContainer">
+** Refinancing within the 60 month period is conditional on whether the program type or applicable state/federal laws contain "seasoning" restrictions that would make refinancing during a specific period legal. For example, waiting until after the 12th month, but before the 60th month may be required. This may not be redeemed within 180 days of the Date Issued. Your loan approval for the future refinance is not guaranteed. You must fully qualify for the selected refinance and meet all the requirements of the loan program you select at the time you apply for the refinance. The appraised value of your home for the future refinance is not guaranteed. There must be a full appraisal of your home when the new refinance is requested and the value at that time must be acceptable for the program and loan terms you request. The interest rate for the future refinance is not guaranteed. You will have to qualify for the loan requested, and will be quoted the interest rates in effect at the time of your next refinance. This program is only available to applicants who closed their previous loan with loanDepot and received a "5 Year loanDepot Guarantee" certificate. Certificate must be presented in order to qualify for program.  Future application must be made directly to loanDepot via the website (www.loandepot.com) or via telephone (888-337-6888).  This document is non-transferable.</p>
+<p class="RateGuaranteeDisclosureContainer">
+loanDepot is a direct mortgage lender offering access to <a href="/State">current mortgage rates </a>on residential home loans with a selection of mortgage programs including: refinance mortgages, adjustable and fixed rate mortgages, HARP loans, Jumbo, VA and FHA loans. Licensed in all 50 states, loanDepot is an approved seller/servicer to Fannie Mae, Freddie Mac and Ginnie Mae, providing online mortgage loans for refinancing and home purchase. We are committed to delivering accurate lending information, competitive mortgage interest rates, easy loan processing and best in class home loan financing.</p>
+                </div>
+                <div class="col-md-1">
+                    <span class="EHLenderIcon"></span>
+                </div>
+            </div>
         </div>
     </div>
-    
-<div id="wait_ad" class="overlay">
-    <div id="FooterContent_wait_ad1_wait_ad"><div style="width: 700px; height: 500px; background: url('../../Images/Backgrounds/splashPeople.jpg') no-repeat;">
-<h1 style=" color: #000000; display: block; font: bold 23px/26px helvetica,arial,sans-serif; margin: 0 auto; padding: 30px 0 10px; text-align: center; width: 525px; ">Please wait while we retrieve your rates</h1>
-<p style=" color: #000000; font: bold 12px/16px helvetica,arial,sans-serif; width: 525px; text-align: center; margin: 0 auto; display: block; clear: both; ">Thank you for visiting loanDepot.com</p>
-<img src="../../Images/Backgrounds/loadBar.gif" alt="" style=" display: block; margin: 0 auto; padding: 20px 0 0;">
 </div>
 
-</div>
-</div>
-
-
+                </div>
+            </div>
+        <!-- END FOOTER SECTION -->
     </div>
+    <div id="PhoneNumber_CallNow" style="display: none;">(888) 983-3240</div>
     
 
-<script type="text/javascript">
-//<![CDATA[
 
-WebForm_InitCallback();//]]>
+<div id="WaitAd_RAC" class="WaitAdOverlay OverlayRAC" style="display: none;">
+    <div id="wait_ad" class="overlay"></div>
+    <div id="WaitAdModule">
+<div style="width: 698px; height: 360px; background: url('/~/media/6BFE84A1F5FC4D72A848B241400124C0.ashx?la=en') no-repeat; background-position: 0 -148px; overflow: hidden;">
+<h1 style="color: #000000; display: block; font-weight: bold; font-style: normal; font-variant: normal; font-size: 23px; line-height: 26px; font-family: helvetica, arial, sans-serif; margin: 0px auto; padding: 30px 0px 10px; width: 525px; text-align: center;">Please wait while we submit your request</h1>
+<p style="color: #000000; font-weight: bold; font-style: normal; font-variant: normal; font-size: 12px; line-height: 16px; font-family: helvetica, arial, sans-serif; width: 525px; margin: 0px auto; display: block; clear: both; text-align: center;">Thank you for visiting loanDepot.com</p>
+<p style="text-align: center;">
+<img alt="Please wait..." src="/~/media/C5461CFE82A942E0B7A3122ED563022E.ashx?la=en&amp;h=12&amp;w=220" style="height: 12px; width: 220px; margin: 0px auto;">
+</p>
+</div>    </div>
+</div>
+
+    <script src="/bundles/UmEOaRrb50SD11DfxD31cA?v=_M07gehLLInnIESeOwLQkpH_VMmDknVm5cQjhwxQw_E1"></script>
+
+    
+    <script type="text/javascript">
+    $(document).ready(function () {
+        //$("#PageContentField").detach().prependTo($("#MainContentRightRailZone div.ContentMain"));
+        //$("#RightRailContentField").detach().appendTo($("#MainContentRightRailZone div.RightRail"));
+    });
 </script>
-</form>
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5PGGK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <script type="text/javascript">
+        var herolead_goalId = 'a1e3ba13-0990-4bc9-b487-b9d8cb625b5c';
+        $(document).ready(function () {
+            initLoanPurposeToggle();
+            initHeroFormFields();
+
+            $("#HeroLeadForm #btnSubmit").click(function (e) {
+                e.preventDefault();
+                evalHeroLeadForm();
+            });
+        });
+
+        function initLoanPurposeToggle() {
+            $("#HeroLeadForm .FormTab").click(function () {
+                $("#HeroLeadForm .FormTab").removeClass("On");
+                $(this).addClass("On");
+
+                var loanPurpose = '2';
+
+                switch ($(this).find("h3").text()) {
+                    case 'Buy a Home':
+                        {
+                            loanPurpose = '1';
+                        }
+                        break;
+
+                    default:
+                        {
+                            loanPurpose = '2';
+                        }
+                        break;
+                }
+
+                $("#HeroLeadForm #LoanPurpose").val(loanPurpose);
+            });
+        }
+
+        function initHeroFormFields() {
+            $("#HeroLeadForm .FormField").focus(function () {
+                $(this).css("color", "#666");
+
+                if (($(this).val() == $(this).attr("fldDefault")) || ($(this).val() == 'Invalid Zip')) {
+                    $(this).val('');
+                }
+
+                if ($(this).attr("id") == 'Phone') {
+                    $(this).mask("(999) 999-9999");
+                }
+
+            }).blur(function () {
+                if ($(this).val() == '') {
+                    $(this).val($(this).attr("fldDefault"));
+                }
+            });
+
+            $("#HeroLeadForm .FormField").keydown(function (e) {
+                if (($(this).attr("id") == 'Phone') || ($(this).attr("id") == 'Zip')) {
+                    // Allow: backspace, delete, tab, escape, enter and .
+                    if ($.inArray(e.keyCode, [46, 8, 9, 27, 13, 110, 190]) !== -1 ||
+                        // Allow: Ctrl+A
+                            (e.keyCode == 65 && e.ctrlKey === true) ||
+                        // Allow: home, end, left, right
+                            (e.keyCode >= 35 && e.keyCode <= 39)) {
+                        // let it happen, don't do anything
+                        return;
+                    }
+                    // Ensure that it is a number and stop the keypress
+                    if ((e.shiftKey || (e.keyCode < 48 || e.keyCode > 57)) && (e.keyCode < 96 || e.keyCode > 105)) {
+                        e.preventDefault();
+                    }
+                }
+            });
+
+            $("#HeroLeadForm #Zip").blur(function () {
+                if (($(this).val() !== '') && ($(this).val() !== $(this).attr("fldDefault"))) {
+                    GetZipInformation($(this).val(), $("#HeroLeadForm #State"), $("#HeroLeadForm #County"), $("#HeroLeadForm #Zip"));
+                }
+            });
+
+            $("#HeroLeadForm #LoanAmount").autoNumeric({
+                mDec: 0,
+                aSign: '$'
+            });
+
+            $("#HeroLeadForm #EstimatedValue").autoNumeric({
+                mDec: 0,
+                aSign: '$'
+            });
+
+            validateAlpha($("#HeroLeadForm #FirstName"));
+            validateAlpha($("#HeroLeadForm #LastName"));
+        }
+
+        function evalHeroLeadForm() {
+            var blnValidForm = true;
+
+            if ($("#HeroLeadForm #LoanPurpose").val() == '') {
+                $("#HeroLeadForm #LoanPurpose").val('2');
+            }
+
+            $("#HeroLeadForm .FormField").each(function () {
+                if (($(this).val() == $(this).attr("fldDefault")) || ($(this).val() == 'Invalid Zip')) {
+                    $(this).css("color", "#ff0000");
+
+                    blnValidForm = false;
+                }
+                else {
+                    if ($(this).attr("id") == 'Email') {
+                        if (!validateEmail($(this).val())) {
+                            $(this).css("color", "#ff0000");
+
+                            blnValidForm = false;
+                        }
+                    }
+                }
+            });
+
+            if (blnValidForm) {
+
+                var leadFormJSON = '';
+
+                //Fields
+                var fldLoanPurpose = $('#HeroLeadForm #LoanPurpose').val();
+                var fldState = $('#HeroLeadForm #State').val();
+                var fldCounty = $('#HeroLeadForm #County').val();
+                var fldFirstName = $('#HeroLeadForm #FirstName').val().replace(/'/g, "\\'");
+                var fldLastName = $('#HeroLeadForm #LastName').val().replace(/'/g, "\\'");
+                var fldPhone = $('#HeroLeadForm #Phone').val();
+                var fldZip = $('#HeroLeadForm #Zip').val();
+                var fldEmail = $('#HeroLeadForm #Email').val();
+                var fldLoanAmount = $('#HeroLeadForm #LoanAmount').val().replace('$', '').replace(/,/g, '');
+                var fldEstimatedValue = $('#HeroLeadForm #EstimatedValue').val().replace('$', '').replace(/,/g, '');
+
+                leadFormJSON = "{ DisplayStyle: '', LoanPurpose : '" + fldLoanPurpose + "', State : '" + fldState +
+                    "', County : '" + fldCounty + "', FirstName : '" + fldFirstName + "', LastName : '" + fldLastName +
+                    "', Phone : '" + fldPhone + "', Zip : '" + fldZip + "', Email : '" + fldEmail +
+                    "', LoanAmount : '" + fldLoanAmount + "', EstimatedValue : '" + fldEstimatedValue + "'}";
+
+                //$("#WaitAdModule h1").text('Please wait...');
+                $(".WaitAdOverlay.OverlayRAC").show();
+
+                var success = false;
+
+                $.ajax({
+                    type: 'POST',
+                    dataType: 'text',
+                    url: "/api/LDAjax/PostLeadForm",
+                    data: "leadFormJSON=" + leadFormJSON,
+                    success: function () {
+                        $(".WaitAdOverlay.OverlayRAC").hide();
+                        success = true;
+                        // TriggerGoal(herolead_goalId);
+                        window.location.href = '/ThankYou' + '?loanType=' + fldLoanPurpose + '&loanAmount=' + fldLoanAmount;
+                    },
+                    cache: false
+                }).done(function () {
+                    $(".WaitAdOverlay.OverlayRAC").hide();
+                    if (success) {
+                        TriggerGoal(herolead_goalId);
+                    }
+
+                });
+            }
+        }
+    </script>
+
+<script src="/bundles/LZMwnXeRUOdOwaTw4qIcA?v=tUl2BuC5b_J_NHnuJFnNXoS4Xq-EXtt6-aELxWgb54w1"></script>
+
+    
+
+<div id="VerisignLogoDiv" style="display: none;">
+    <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.loandepot.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+</div>
+
+<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+
+<!--used for GoogleAnalytics-->
 <script type="text/javascript">
-    (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
-        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-N5PGGK');
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-12105805-1']);
+    _gaq.push(['_addIgnoredOrganic', 'www.loandepot.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 </script>
-<!-- End Google Tag Manager -->
-    <!--used for GoogleAnalytics-->
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        try {
-            var pageTracker = _gat._getTracker("UA-12105805-1");
-            pageTracker._trackPageview();
-        } catch (err) { }</script>
 
-    <!-- Google Code for All Site Visitors -->
-    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-    <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 1025994088;
-        var google_conversion_label = "j0U_CNSm1AQQ6Nqd6QM";
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
-    <noscript>
-        <div style="display: inline;">
-            <img height="1" width="1" style="border-style: none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1025994088/?value=0&amp;label=j0U_CNSm1AQQ6Nqd6QM&amp;guid=ON&amp;script=0" />
-        </div>
-    </noscript>
 
-    <!-- Google Code for Remarketing Tag -->
-    <!--------------------------------------------------
-    Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
-    --------------------------------------------------->
-    <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 973962379;
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
-    <noscript>
-        <div style="display:inline;">
-            <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/973962379/?value=0&amp;guid=ON&amp;script=0"/>
-        </div>
-    </noscript>
+<!-- Google Code for All Site Visitors -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1025994088;
+    var google_conversion_label = "j0U_CNSm1AQQ6Nqd6QM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display: inline;">
+        <img height="1" width="1" style="border-style: none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1025994088/?value=0&amp;label=j0U_CNSm1AQQ6Nqd6QM&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
 
-    <!-- start number replacer -->
-    <script type="text/javascript"><!--
-    vs_account_id      = "CtjSZ1MG4ow7SADa";
-    //--></script>
-    <script type="text/javascript" src="http://calls.jazel.net/euinc/number-changer.js">
-    </script>
-    <!-- end ad widget -->
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 973962379;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/973962379/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
 
+<!-- start number replacer -->
+<script type="text/javascript">
+<!--
+    vs_account_id = "CtjSZ1MG4ow7SADa";
+//-->
+</script>
+<script type="text/javascript" src="http://calls.jazel.net/euinc/number-changer.js"></script>
+<!-- end ad widget -->
+
+<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+  var _weq = _weq || {};
+  _weq['webengage.licenseCode'] = '~9919977d';
+  _weq['webengage.widgetVersion'] = "4.0";
+
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") +
+              "/js/widget/webengage-min-v-3.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>
 
 
 </body></html>
