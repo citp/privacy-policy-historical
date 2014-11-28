@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526181524id_/http%3A//www.arirang.co.kr/Help/Privacy_Policy.asp%3Fsys_lang%3DEng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128184511id_/http%3A//www.arirang.co.kr/Help/Privacy_Policy.asp) for the most accurate reproduction.*
 
-# Arirang Customer Center | Privacy Policy
+# Asia Heartbeat arirang
 
 ## 
 
-  * [english](http://www.arirang.co.kr/Help/Privacy_Policy.asp?sys_lang=Kor)
+  * [english](http://www.arirang.co.kr/Help/Privacy_Policy.asp?sys_lang=Eng)
   * [korean](http://www.arirang.co.kr/Help/Privacy_Policy.asp?sys_lang=Kor)
 
 
