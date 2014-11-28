@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pamojaeducation.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044512id_/http%3A//www.pamojaeducation.com/online-ib-courses-corporate/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pamojaeducation.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128073035id_/http%3A//www.pamojaeducation.com/online-ib-courses-corporate/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Pamoja Education | Online IB Diploma Programme Courses
 
@@ -9,7 +9,7 @@
 
 1.1       Pamoja Education Limited (' **we** ' and ' **us** ') is committed to protecting and respecting your privacy.
 
-1.2       This policy (together with our website [Terms of Use](https://web.archive.org/web/20140625044512id_/http%3A//www.pamojaeducation.com/online-ib-courses-corporate/terms-and-conditions.asp "Website Terms of Use")) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+1.2       This policy (together with our website [Terms of Use](https://web.archive.org/web/20141128073035id_/http%3A//www.pamojaeducation.com/online-ib-courses-corporate/terms-and-conditions.asp "Website Terms of Use")) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 1.3       For the purpose of the Data Protection Act 1998, the data controller is Pamoja Education Limited
 
