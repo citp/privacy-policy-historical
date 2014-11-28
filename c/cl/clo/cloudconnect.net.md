@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cloudconnect.net privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827095239id_/http%3A//www.cloudconnect.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudconnect.net privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128183829id_/http%3A//www.cloudconnect.net/cloudconnect-llc-%25E2%2580%2593-privacy-policy) for the most accurate reproduction.*
 
-# CLOUDCONNECT, LLC – PRIVACY POLICY | CloudConnect
+# CloudConnect, LLC – Privacy Policy | CloudConnect
 
-###  What information do we collect?
+### What information do we collect?
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.
 
-###  What do we use your information for?
+### What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -26,7 +26,7 @@ The email address you provide for order processing, will only be used to send yo
 
 
 
-###  How do we protect your information?
+### How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
@@ -34,7 +34,7 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-###  Do we use cookies?
+### Do we use cookies?
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enable the sites or service providers systems to recognize your browser and capture and remember certain information
 
@@ -42,34 +42,31 @@ We use cookies to help us remember and process the items in your shopping cart, 
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-###  Do we disclose any information to outside parties?
+### Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-###  Third party links
+### Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-###  Terms and Conditions
+### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.cloudconnect.net/terms-service](http://www.cloudconnect.net/terms-service "www.cloudconnect.net/terms-service")
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.cloudconnect.net/terms-service](http://www.cloudconnect.net/terms-service)
 
-###  Your Consent
+### Your Consent
 
 By using our site, you consent to our online privacy policy.
 
-###  Changes to our Privacy Policy
+### Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. This policy was last modified on June 13, 2011
 
-###  Contacting Us
+### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[www.cloudconnect.net](http://www.cloudconnect.net/ "www.cloudconnect.net")  
+[www.cloudconnect.net](http://www.cloudconnect.net/)  
 10 Tech Circle  
 Natick, MA 01760  
 USA
-
-  
-10 Tech Circle Natick, MA 01760 ~ 508-651-3900
