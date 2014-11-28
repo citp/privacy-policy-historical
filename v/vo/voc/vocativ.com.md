@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocativ.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531100720id_/http%3A//www.vocativ.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocativ.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128182955id_/http%3A//www.vocativ.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vocativ
 
@@ -11,7 +11,7 @@ Vocativ, LLC (the “ **Company** ”, “ **we** ”, “ **our** ” or “ **
 
 The Policy describes the ways we collect and use your personal information on Vocativ and the rights and options available to you with respect to your information.
 
-This policy is incorporated by reference to Vocativ’s [Terms of Use](https://web.archive.org/terms-use/) (the “ **Terms** “), and constitutes an integral part of them.
+This policy is incorporated by reference to Vocativ’s [Terms of Use](https://web.archive.org/about/terms-use/) (the “ **Terms** “), and constitutes an integral part of them.
 
 **Personal information that you provide**
 
