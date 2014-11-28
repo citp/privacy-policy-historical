@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidcoin.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407083244id_/http%3A//paidcoin.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidcoin.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129004405id_/http%3A//paidcoin.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Get More Facebook Likes & Fans | PaidCoin
 
