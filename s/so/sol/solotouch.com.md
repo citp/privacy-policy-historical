@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solotouch.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628221730id_/http%3A//yanks.zendesk.com/entries/22464111-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solotouch.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128074018id_/http%3A//yanks.zendesk.com/entries/22464111-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy : Member Support
 
