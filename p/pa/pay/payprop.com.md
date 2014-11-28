@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payprop.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530123400id_/http%3A//www.payprop.com/cgi-bin/giga.cgi%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payprop.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128183406id_/http%3A//za.payprop.com/cgi-bin/giga.cgi%3Fcmd%3Dprivacy) for the most accurate reproduction.*
 
 # PayProp Privacy Policy
 
