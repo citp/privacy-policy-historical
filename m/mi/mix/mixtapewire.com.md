@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixtapewire.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060209id_/http%3A//mixtapewire.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtapewire.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128110925id_/http%3A//mixtapewire.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Mixtapewire Privacy Policy | MixtapeWIRE.com
+# Mixtapewire.com | Only the BEST Mixtapes Here FIRST & Free!
 
 **External Site Links**  
 www.Mixtapewire.com links to other websites on the internet. Content and Privacy Policies are the responsibility of their respective owners.
@@ -24,8 +24,10 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **Report Problem or Broken Link** | [***Submit Your Mixtape***](http://mixtapewire.com/mixtape-submission/)
 
->   
   
 
 
 Listen to mixtape below: 
+
+>   
+
