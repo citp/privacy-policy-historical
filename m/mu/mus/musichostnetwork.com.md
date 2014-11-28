@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528094705id_/http%3A//musichostnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128223105id_/http%3A//musichostnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Music Host Network
+# Privacy Policy - Music Host Network
 
 What information do we collect?
 
