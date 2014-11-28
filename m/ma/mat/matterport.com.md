@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matterport.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170700id_/http%3A//matterport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matterport.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128173056id_/http%3A//matterport.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Matterport
+# Privacy Policy - Matterport
 
 Please note that by using this website and the services available on this website (collectively, the “Site”) provided by MatterPort, Inc. (“Matterport”), you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.
 
