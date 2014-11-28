@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5thround.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626175626id_/http%3A//www.5thround.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5thround.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128153152id_/http%3A//www.5thround.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 5thRound.com: UFC news, play by play results, rumors and more
 
