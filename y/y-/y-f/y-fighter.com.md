@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y-fighter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133558id_/http%3A//taskearn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y-fighter.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128064026id_/http%3A//taskearn.com/privacy-policy) for the most accurate reproduction.*
 
 # Task Earn - Privacy Policy
 
