@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderofbooks.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620102006id_/http%3A//www.orderofbooks.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderofbooks.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128114045id_/http%3A//www.orderofbooks.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer/Privacy Policy - OrderOfBooks.com
 
@@ -20,7 +20,7 @@ How we use collected information
 
 Order of Books collects and uses Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
 
 How we protect your information
