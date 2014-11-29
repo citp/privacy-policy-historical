@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumertrack.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407063906id_/http%3A//www.consumertrack.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumertrack.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129213917id_/http%3A//www.consumertrack.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ConsumerTrack Inc.
 
@@ -59,4 +59,4 @@ If any portion of this Privacy Policy is deemed unlawful, void or unenforceable 
 The headings contained in this Privacy Policy are for convenience of reference only, are not to be considered a part of this Privacy Policy, and shall not limit or otherwise affect in any way the meaning or interpretation of this Privacy Policy.  
 All covenants, agreements, representations and warranties made in this Privacy Policy, as may be amended by CONSUMERTRACK from time to time, shall survive your acceptance of this Privacy Policy.
 
-ConsumerTrack, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@consumertrack.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program covers only information that is collected through this Web site.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at info@consumertrack.com.
