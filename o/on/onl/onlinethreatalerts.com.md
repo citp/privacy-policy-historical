@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinethreatalerts.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022015id_/https%3A//www.onlinethreatalerts.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinethreatalerts.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129171314id_/http%3A//www.onlinethreatalerts.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Online Threat Alerts (OTA)
+# Privacy Policy - Online Threat Alerts
 
 This document details important information regarding the use and disclosure of User Data collected on this website. 
 
