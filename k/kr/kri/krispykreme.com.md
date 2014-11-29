@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404225240id_/http%3A//www.krispykreme.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129150207id_/http%3A//www.krispykreme.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Krispy Kreme - Privacy Policy
 
