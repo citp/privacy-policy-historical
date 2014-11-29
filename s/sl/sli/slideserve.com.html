@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the slideserve.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626025049id_/http%3A//www.slideserve.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slideserve.com privacy policy that was archived on 2014-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129045522id_/http%3A//www.slideserve.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>SlideServe - Privacy Policy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
+<!-- new server -->
+
 
 <link href="http://www.slideserve.com/css/new_style.css" rel="stylesheet" type="text/css">
 <link href="http://www.slideserve.com/css/Adscense.css" rel="stylesheet" type="text/css">
@@ -47,35 +49,58 @@
         '//www.google.com/cse/cse.js?cx=' + cx;
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
   })();
+  
+  function formatSearch()
+  {
+    var strSearch = document.getElementById('field').value;
+    strSearch = strSearch.replace("/","-");
+    strSearch = strSearch.replace(/ /g,"-");
+    //document.searchForm.action = 'http://www.slideserve.com/search/'+encodeURIComponent(strSearch);
+    //document.searchForm.submit();
+    
+    window.location = 'http://www.slideserve.com/search/'+encodeURIComponent(strSearch);
+  }
+  
+  $(document).ready(function() {
+    $('#field').keydown(function(event) {
+        if (event.keyCode == 13) {
+            formatSearch();
+         }
+    });
+});
+  
 </script>
 <!-- Place this tag where you want the search box to render -->
+ 
+
+
+
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
 
-
-
-<div id="main_header">
+<div itemscope="" itemtype="http://schema.org/organization" id="main_header">
 <div id="header">
+<meta itemprop="name" content="SlideServe">
+<meta itemprop="description" content="Slide Hosting Service Provider">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-  	<td width="22%"><a href="http://www.slideserve.com"><img width="227" height="71" src="http://www.slideserve.com/images_new/SlideServe-Logo.png" border="0" alt="Share PowerPoint Presentation to Slideserve"></a></td>
+  	<td width="22%"><a itemprop="url" href="http://www.slideserve.com"><img itemprop="logo" width="227" height="71" src="http://www.slideserve.com/images_new/SlideServe-Logo.png" border="0" alt="Share PowerPoint Presentation to Slideserve"></a></td>
     <td width="9%" align="center"><!--<font color="#f5f5f5">Share Presentations Online for free!</font>--></td>
  	<td width="556">
      
     
-    <!--<form action="http://www.slideserve.com/search/" method="get" name="searchForm">
-		<input  type="text" id="field"  name="search_key" value="Search Presentations..." onClick="this.value=''" />
-		<div id="delete"></div>
-        <input type="submit" name="submit" id="go" value="Go">
-
-       	    </form>-->
-	<gcse:searchbox-only></gcse:searchbox-only> </td>
+            <p>
+		<input type="text" id="field" name="search_key" value="Search Presentations..." onclick="if(this.value == 'Search Presentations...' ) this.value=''">
+		</p><div id="delete"></div>
+                <input type="button" name="submit" id="go" value="Go" onclick="formatSearch();">
+       	    <p></p>
+	<!--<gcse:searchbox-only></gcse:searchbox-only>--> </td>
 <td width="100" align="center"><input type="button" id="upload" onclick="javascript:location.href='http://www.slideserve.com/upload'" value="Upload">
 </td>
  	<td width="19%">
 
- <div class="signfont" id="head_user_area"><a href="/signup">Signup</a> | <a href="/login">Login</a></div>
+ <div class="signfont" id="head_user_area"><a href="http://www.slideserve.com/signup">Signup</a> | <a href="http://www.slideserve.com/login">Login</a></div>
 
 </td>
   </tr>
@@ -84,7 +109,7 @@
 	<div id="bt_panel">
 
 <ul id="nav">
-           <li><a href="/index.php"><span></span>Home</a></li> 
+           <li><a href="http://www.slideserve.com/"><span></span>Home</a></li> 
            <li><a href="/presentations"><span></span>Presentations</a></li> 
            <li><a href="/categories"><span></span>Categories</a></li> 
            <li><a href="/userchannels"><span></span>Channels</a></li> 
@@ -94,7 +119,8 @@
 </div>
        
 
-</div><div id="video_container">
+</div>
+<div id="video_container">
   <div id="leftside_wide">
   
   <div class="white_box">
@@ -170,105 +196,46 @@
 
 		<!-- Footer Section Starts Here -->
         <div class="footerMenu">
-          <div class="oneFourth">
-            <h4 style="text-align:left; padding-left:40px;">INFO</h4>
-            <ul class="arrowList">
-              <li><a href="http://www.slideserve.com/about">About Us</a></li>
-              <li><a href="http://www.slideserve.com/blog/"> Blog </a></li>
-              <li><a href="http://www.slideserve.com/contact.php"> Contact Us </a></li>
-              <li><a href="http://www.slideserve.com/advertise"> Advertise </a></li>
-            </ul>
-          </div>
-          <div class="oneFourth">
-            <h4 style="text-align:left; padding-left:40px;">HELP</h4>
-            <ul class="arrowList">
-              <li><a href="http://www.slideserve.com/terms">Terms of Use</a></li>
-              <li><a href="http://www.slideserve.com/privacy">Privacy Policy</a></li>
-              <li><a href="http://getsatisfaction.com/slideserve">Forum</a></li>
-              <li><a href="http://twitter.com/slideserve">Twitter</a></li>
-            </ul>
-          </div>
-          <div class="oneFourth">
-            <h4 style="text-align:left; padding-left:40px;">RSS</h4>
-            <ul class="arrowList">
-              <li><a href="http://www.slideserve.com/rss">RSS Feeds</a></li>
-              <li><a href="http://www.slideserve.com/presentations"> Newest Presentations</a></li>
-              <li><a href="http://www.slideserve.com/basic/most-viewed"> Most Viewed</a></li>
-              <li><a href="http://www.slideserve.com/basic/most-discussed"> Most Commented </a></li>
-            </ul>
-          </div>
-          <div class="oneFourth">
-            <h4 style="text-align:left; padding-left:40px;">ACCOUNT</h4>
-            <ul class="arrowList">
-              <li><a href="http://www.slideserve.com/signup">Register</a></li>
-              <li><a href="http://www.slideserve.com/login">Sign-In</a></li>
-              <li><a href="http://www.digitalofficepro.com/powerpoint/Power-flash-point-converter.html">PowerFlashPoint</a></li>
-              <li><a href="http://www.digitalofficepro.com/powerpoint/quiz-creator.html">Quiz Creator</a></li>
-            </ul>
-          </div>
-          <div class="oneFourth">
-            <h4 style="text-align:left; padding-left:40px;"> <strong>MEMBERS</strong> </h4>
-            <ul class="arrowList">
-              <li><a href="http://www.slideserve.com/my_profile">My Profile</a></li>
-              <li><a href="http://www.slideserve.com/my_presentations">My Presentations</a></li>
-              <li><a href="http://www.slideserve.com/my_favorites">My Favorites</a></li>
-              <li><a href="http://www.slideserve.com/my_playlists">My Playlist</a></li>
-            </ul>
-          </div>
-          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top:#CCCCCC dotted thin;">
-            <tbody><tr>
-              <td width="1%" align="left">&nbsp;</td>
-              <td width="6%" align="left"><img src="http://www.slideserve.com/images_new/Slideserve_inc.jpg" border="0" alt="slideserve"></td>
-              <td width="66%" align="left">SlideServe is the easiest way to Upload and Share Your PowerPoint presentations Publicly or Privately with the world. Embed / Email the presentations to social networking sites, blogs and friends. SlideServe is a revolutionary free service which gives users the power to easily Share, Discover, View PowerPoint presentations Online.</td>
-              <td width="26%">
-              
-              <table style="line-height:22px;" width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td align="right">
-            <!-- Place this tag where you want the +1 button to render -->
-			<g:plusone size="medium"></g:plusone>
-                	
-      
-                    </td>
-                    <td>&nbsp;</td>
-                  </tr>
-                  <tr>
-                    <td colspan="0" align="right"><strong>View &amp; Share Presentations on FB</strong></td>
-                  </tr>
-                  <tr>
-                    <td colspan="0" align="right"><a href="http://apps.facebook.com/slideserve/" target="_blank"><img src="http://www.slideserve.com/images_new/ss_go-app.gif" width="141" height="32" border="0" alt="slideserve app"></a></td>
-                  </tr>
-              </tbody></table></td>
-            </tr>
-          </tbody></table>
-        </div>
+        	<div align="center">
+                  <ul class="nfooterlist">
+                      <li><a href="http://www.slideserve.com/about">About Us</a></li>
+                      <li><a href="http://www.slideserve.com/advertise">Advertise</a></li>
+                      <li><a href="http://www.slideserve.com/terms">Terms of Use</a></li>
+                      <li><a href="http://www.slideserve.com/privacy">Privacy Policy</a></li>
+                      <li><a href="http://www.slideserve.com/contact.php">Contact Us</a></li>
+                      <li><a href="http://blog.slideserve.com">Blog</a></li>
+                    </ul>
+              </div>
+          
+  	</div>
 </div>
 <div id="footerInformation">
 		<div class="mainWrapper">
 			<div class="fl">
-				<p>Copyright © 2014 SlideServe. All rights reserved  | Powered By <a href="http://www.digitalofficepro.com">DigitalOfficePro</a></p>
+				<p>Copyright © 2014 SlideServe. All rights reserved | Powered By <a href="http://www.digitalofficepro.com" rel="nofollow" style="color:#A3C2D8;">DigitalOfficePro</a></p>
 			</div>
 			
 			<ul class="socialNav fr">
             	<li>
-    <a href="http://www.facebook.com/SlideServe" title="Facebook"><img src="http://www.slideserve.com/images_new/footer_facebook.png" alt="Facebook" border="0"></a>
+    <a href="http://www.facebook.com/SlideServe" title="Facebook" rel="nofollow"><img src="http://www.slideserve.com/images_new/footer_facebook.png" alt="Facebook" border="0"></a>
                 </li>
                 
                 <li>
-    <a href="http://twitter.com/slideserve" title="Twitter"><img src="http://www.slideserve.com/images_new/footer_twitter.png" alt="Twitter" border="0"></a></li>
-				<li>
-    <a href="http://www.slideserve.com/blog" title="Blog"><img src="http://www.slideserve.com/images_new/footer_blog.png" alt="Blog" border="0"></a></li>				
+    <a href="http://twitter.com/slideserve" title="Twitter" rel="nofollow"><img src="http://www.slideserve.com/images_new/footer_twitter.png" alt="Twitter" border="0"></a></li>
+				<!--<li>
+    <a href="http://www.slideserve.com/blog" title="Blog" rel="nofollow"><img src="http://www.slideserve.com/images_new/footer_blog.png" alt="Blog" border="0"></a></li>	-->			
                 
                 <li>
-    <a href="http://www.youtube.com/user/SlideServe" title="Youtube"><img src="http://www.slideserve.com/images_new/footer_youtube.png" alt="Youtube" border="0"></a></li>
+    <a href="http://www.youtube.com/user/SlideServe" title="Youtube" rel="nofollow"><img src="http://www.slideserve.com/images_new/footer_youtube.png" alt="Youtube" border="0"></a></li>
 				
 				<li>
-     <a href="https://plus.google.com/+SlideServe" title="Google Plus"><img src="http://www.slideserve.com/images_new/footer_google-plus.png" alt="Google Plus" border="0"></a></li>
+     <a href="https://plus.google.com/+SlideServe" title="Google Plus" rel="publisher"><img src="http://www.slideserve.com/images_new/footer_google-plus.png" alt="Google Plus" border="0"></a></li>
 				
 			</ul>
 		</div> 
 	</div>
      
+
 
 <!-- google_ad_section_end -->
 <!-- advt tracking starts here -->
