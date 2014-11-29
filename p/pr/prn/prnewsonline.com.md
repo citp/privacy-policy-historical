@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prnewsonline.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209185259id_/http%3A//www.prnewsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prnewsonline.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129151216id_/http%3A//www.prnewsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PR NewsPR News
 
