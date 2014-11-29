@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627130714id_/http%3A//www.wpp.com/wpp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129113849id_/http%3A//www.wpp.com/wpp/privacy) for the most accurate reproduction.*
 
 # WPP Internet Privacy Policy - WPP
 
