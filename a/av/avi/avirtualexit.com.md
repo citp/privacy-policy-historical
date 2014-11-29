@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avirtualexit.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502080708id_/http%3A//www.avirtualexit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avirtualexit.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129045828id_/http%3A//www.avirtualexit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
