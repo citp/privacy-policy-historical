@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popsop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060858id_/http%3A//popsop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsop.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129034908id_/http%3A//popsop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – POPSOP - Brands That Teach: Sustainability, Ethical Marketing, Innovations & Creativity
+# Privacy Policy – POPSOP | Consumer Insight, Ethical Marketing, Design & Creativity
 
 **General Statement**
 
