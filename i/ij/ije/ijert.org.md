@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ijert.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045948id_/http%3A//ijert.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijert.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129181102id_/http%3A//ijert.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IJERT - International Journal of Engineering Research and Technology
+# Privacy Policy - International Journal of Engineering Research and Technology
 
 IJERT is committed to maintaining your confidence and trust with respect to the privacy of the personally identifiable information we collect from you. This privacy policy sets forth our practices regarding collection, use and disclosure of information collected through or in connection with the IJERT corporate website and all other IJERT websites that post a link to this privacy policy (each a "Site").
 
