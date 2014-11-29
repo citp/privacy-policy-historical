@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the il2sturmovik.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055228id_/https%3A//il2sturmovik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the il2sturmovik.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129171057id_/http%3A//il2sturmovik.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy / IL-2 Sturmovik: Battle of Stalingrad
 
-### Privacy policy
+## Privacy policy
 
 il2sturmovik.com's policy is to respect and protect the privacy of our users. il2sturmovik.com will not disclose your personal information to third parties without your consent with a few special exceptions (see last paragraph). This of course includes email addresses – we will never share or sell your email address, and the only email you will receive from il2sturmovik.com will pertain to your account along with the occasional newsletter or announcement.
 
