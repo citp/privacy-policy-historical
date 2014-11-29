@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeaks.org privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601025203id_/http%3A//zeaks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeaks.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129110951id_/http%3A//zeaks.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zeaks Blog
+# Privacy Policy
 
 ZeaksBlog takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.  
 **Routine Information Collection**
