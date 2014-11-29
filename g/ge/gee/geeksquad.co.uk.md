@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209092902id_/http%3A//www.geeksquad.co.uk/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129050804id_/http%3A//www.geeksquad.co.uk/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Geek Squad
 
@@ -88,7 +88,7 @@ We use information held about you in the following ways:
 
 
 
-You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Carphone Warehouse Group of companies and carefully selected third parties believe may be of interest to you. The Carphone Warehouse Group consists of The Carphone Warehouse Limited, together with its subsidiary and holding companies and any subsidiaries of such holding companies whether direct or indirect from time to time, including Best Buy Co. Inc. and its affiliates and subsidiary companies from time to time.
+You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Dixons Carphone of companies and carefully selected third parties believe may be of interest to you. The Dixons Carphone consists of The Carphone Warehouse Limited, together with its subsidiary and holding companies and any subsidiaries of such holding companies whether direct or indirect from time to time, including Best Buy Co. Inc. and its affiliates and subsidiary companies from time to time.
 
 If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
@@ -96,7 +96,7 @@ If you no longer wish to receive marketing communications from Geek Squad, pleas
 
 ## Disclosure of your information
 
-We may disclose your personal information to any member of the Carphone Warehouse Group of Companies. We may disclose your personal information to third parties:
+We may disclose your personal information to any member of the Dixons Carphone of Companies. We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; and
   * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
