@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middleburyinteractive.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531043726id_/http%3A//www.middleburyinteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middleburyinteractive.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129032633id_/http%3A//www.middleburyinteractive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Middlebury Interactive Languages
 
