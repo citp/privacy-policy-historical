@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bglhonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065438id_/http%3A//blackgirllonghair.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bglhonline.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129200424id_/http%3A//blackgirllonghair.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Black Girl with Long Hair
 
