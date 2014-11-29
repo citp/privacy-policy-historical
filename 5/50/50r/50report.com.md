@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 50report.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531050834id_/http%3A//50report.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50report.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129123132id_/http%3A//www.50report.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy
+# 50report Privacy policy | 50REPORT
 
 **50report Media Concept**   is [committed](http://www.infonigeria.net/iran-rejects-nigeria-spying-allegation/) to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.
 
