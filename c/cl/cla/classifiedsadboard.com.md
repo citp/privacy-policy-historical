@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the classifiedsadboard.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401053202id_/http%3A//www.classifiedsadboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsadboard.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129025735id_/http%3A//www.classifiedsadboard.com/privacy.php) for the most accurate reproduction.*
 
 # classifiedsadboard.com > Post Ads for Free, Simple & Easy
 
   
 
 
-[](http://www.classifiedsadboard.com/bannerclick.php?id=74542)
+[](http://www.classifiedsadboard.com/bannerclick.php?id=37945)
 
 ** Classifieds Ad Board Privacy Policy**
 
