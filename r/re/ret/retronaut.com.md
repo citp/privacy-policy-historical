@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the retronaut.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144555id_/http%3A//www.retronaut.com/what-is-retronaut/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retronaut.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129223520id_/http%3A//www.retronaut.com/what-is-retronaut/privacy) for the most accurate reproduction.*
 
-# Your privacy | Retronaut
+# » Your privacy
 
 If you require any more information or have any questions about our privacy policy, contact us at privacy@retronaut.com.
 
