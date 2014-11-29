@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiscox.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628211926id_/http%3A//www.hiscox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiscox.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129125901id_/http%3A//www.hiscox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Hiscox
 
@@ -6,7 +6,7 @@
 
 Hiscox Privacy Policy
 
-Last updated April 8, 2013
+Last updated April 8, 2014
 
 Hiscox Inc., d/b/a Hiscox Insurance Agency in CA, and Hiscox (collectively, “Hiscox”) is committed to protecting your privacy on-line. Hiscox is the marketing name used to refer to the group of US domiciled Hiscox companies, including Hiscox Inc. Our privacy policy explains how we collect information from or in relation to the Hiscox.com website (the "Site") and what we do with the information we collect. We may from time-to-time revise this privacy policy, and the date of last revision will be available at the top of this page, so please be sure to check back periodically. By using the Site, you are acknowledging and accepting this Privacy Policy. Your continued use of the Site after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.
 
