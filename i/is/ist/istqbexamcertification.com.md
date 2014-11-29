@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the istqbexamcertification.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122956id_/http%3A//istqbexamcertification.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istqbexamcertification.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129230420id_/http%3A//istqbexamcertification.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ISTQB Exam Certification
+# Privacy Policy
 
 At istqbexamcertification.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by istqbexamcertification.com and how it is used.
 
