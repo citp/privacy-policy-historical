@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tourism.gov.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153021id_/http%3A//www.tourism.gov.in/Pages/ContentView.aspx%3FPageID%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourism.gov.in privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129214900id_/http%3A//tourism.gov.in/Pages/ContentView.aspx%3FPageID%3D9) for the most accurate reproduction.*
 
 # Privacy Policy - Government of India, Ministry of Tourism
-
-[](http://www.incredibleindia.org/ "Incredible India")
-
-[](http://india.gov.in/ "india.gov.in")
 
 Print
 
