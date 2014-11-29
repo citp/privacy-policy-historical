@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407010548id_/https%3A//www.comerica.com/help-center/pages/privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130003919id_/https%3A//www.comerica.com/help-center/pages/privacy-notice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Comerica
+
+​​ 
 
 ### ​Effective date: January 1, 2014
 
@@ -8,9 +10,15 @@
 
 These Online Privacy Practices only relate to the information we collect online. See below for our general privacy notice applicable to consumers as required by federal law. How we handle information about you when you visit our website will depend on what you do when visiting comerica.com and other websites owned by Comerica Bank.
 
+## Customer information 
+
 ### Solely Visiting Our Website
 
 If you visit our website to solely read information and do not use any of our online services (offered to non-customers and/or customers), then we collect and store only the name of the domain from which you access the Internet, the date and time you access our website, Internet address of the website from which you linked directly to our website and your zip code.  We may record the “IP address” assigned to you by your internet service provider as part of this process. We use the information we collect to measure the number of visitors to different sections of our site, and to help make our website more useful to visitors.
+
+### 
+
+Using Our Services
 
 We recommend that when you complete your online transactions to log off completely before visiting other sites and/or restart your personal computer.  This may clear your cookies (see “Cookies” discussion below).  We also recommend that you do not visit other sites during your online banking session with us.
 
@@ -54,7 +62,7 @@ In addition to above we may ask you to provide non-personally identifiable infor
 
 
 
-Please note that user IDs, personal IDs, passwords, and PINs along with tokens or challenge/security questions would be provided by you only in connection with you opening or logging onto one or more of our services or when you set up and use an aggregation service that allows you to consolidate your financial account information from a variety of sources.  Comerica Bank would never request personal information (e.g. social security number, user IDs, or passwords) via unsolicited e-mail.  Be cautious when clicking on links in e-mails or responding to e-mails you have received, particularly when the message is urgent or threatening.  By doing so, you may unwittingly downloaded viruses or spyware that may cause you to be redirected to a fraudulent site, even when you type in a legitimate site address, such as comerica.com/privacy.  If you are concerned that an e-mail you have received may not be from Comerica, then please send the suspicious e-mail to us at fraud@infosecalerts.com.
+Please note that user IDs, personal IDs, passwords, and PINs along with tokens or challenge/security questions would be provided by you only in connection with you opening or logging onto one or more of our services or when you set up and use an aggregation service that allows you to consolidate your financial account information from a variety of sources.  Comerica Bank would never request personal information (e.g. social security number, user IDs, or passwords) via unsolicited e-mail.  Be cautious when clicking on links in e-mails or responding to e-mails you have received, particularly when the message is urgent or threatening.  By doing so, you may unwittingly downloaded viruses or spyware that may cause you to be redirected to a fraudulent site, even when you type in a legitimate site address, such as comerica.com/privacy.  If you are concerned that an e-mail you have received may not be from Comerica, then please send the suspicious e-mail to us at ReportFraud@comerica.com.
 
 Personal information might be needed or requested from you for you to be able to open deposit accounts online or to register for online banking and other services, or to fill out our forms or applications for services for special promotions or contests, or to accomplish transactions you request.  This may result in sharing Personal Information with third parties (such as data processors or service bureaus) as part of servicing your accounts or transactions.
 
@@ -126,7 +134,7 @@ We safeguard any information our customers share with us, according to strict st
 
 We do not knowingly solicit, collect, or use personal information from children under 13. For information concerning the Children's Online Privacy Protection Act (COPPA), visit the Federal Trade Commission's website at www.ftc.gov.
 
-### Changes to our Online Privacy Practices
+### Changes to our Online Privacy Practices
 
 We reserve the right to change ou​r Online Privacy Practices.  If we make updates to our Online Privacy Practices, we will update the Online Privacy Practices and revise the “Effective Date” at the top of these Online Privacy Practices.  Any updates to our Online Privacy Practices become effective when we post the updates to our website.  Your continued use of any portion of our website following the posting of the updated Online Privacy Practices will constitute your acceptance of the changes.
 
@@ -136,7 +144,7 @@ Your use of one or more of our websites, including dispute concerning privacy, i
 
 ## Comerica's Privacy Notice for Individuals
 
-**FACTS ​**  ​ | **What Does Comerica Do With Your Personal Information?**   ​  
+| **FACTS ​**  ​ | **What Does Comerica Do With Your Personal Information?**   ​  
 ---|---  
 **​Why?** | ​Financial companies choose how they share your personal informati​on. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.​  
 ​ **What?** | ​​The types of personal information we collect and share depend on the product or service you have with us.  
@@ -187,7 +195,7 @@ information about your creditworthiness
 **To limit our sharing​** | 
 
   * ​Call toll free **866.517.1800[](https://web.archive.org/help-center/Pages/privacy-notice.aspx# "Call: 866.517.1800") **– our menu will prompt you through your choices or
-  * Visit us at: [http://www.comerica.com/privacyresponse](https://web.archive.org/privacyresponse)
+  * Visit us at: <http://www.comerica.com/privacyresponse>
 
   
 **Please note:**  
@@ -228,19 +236,19 @@ State laws and individual companies may give you additional rights to limit shar
 ​ **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.​  
 
 
-  *  _Our affiliates i_ _nclude financial companies with a Comerica name and other financial companies such as World Asset Management, Inc._
+  * _Our affiliates i_ _nclude financial companies with a Comerica name and other financial companies such as World Asset Management, Inc._
 
   
 **Nonaffiliates** | ​Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
 
 
-  *  _Comerica_ _does not share with nonaffiliates so they can market to you._
+  * _Comerica_ _does not share with nonaffiliates so they can market to you._
 
   
 ​ **Joint marketing​** | ​A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
 
 
-  *  _Our joint marketing partners include merchant payment processors, credit card, insurance, stored value card and che_ _ck printing companies._
+  * _Our joint marketing partners include merchant payment processors, credit card, insurance, stored value card and che_ _ck printing companies._
 
   
  Other important informat​ion​  
@@ -257,33 +265,33 @@ You may have other privacy protections under state laws; we will comply with all
 Comerica Bank is chartered under the laws of the State of Texas and by state law is subject to regulatory oversight by the Texas Department of Banking. Any consumer wishing to file a complaint against Comerica Bank should contact the Texas Department of Banking through one of the means indicated below:​
 
 >  **In Person or U.S. Mail:  
-> ** Texas Department of Banking  
-> 2601 North Lamar Boulevard  
-> Suite 300  
-> Austin, TX 78705-4294
+>  **Texas Department of Banking  
+>  2601 North Lamar Boulevard  
+>  Suite 300  
+>  Austin, TX 78705-4294
 
   
 
 
 > **Telephone Number:  
-> ** 877.276.5554[](https://web.archive.org/help-center/Pages/privacy-notice.aspx# "Call: 877.276.5554") (toll free)
+>  **877.276.5554[](https://web.archive.org/help-center/Pages/privacy-notice.aspx# "Call: 877.276.5554") (toll free)
 
   
 
 
 > **Fax Number:  
-> ** 512.475.1313[](https://web.archive.org/help-center/Pages/privacy-notice.aspx# "Call: 512.475.1313")
+>  **512.475.1313[](https://web.archive.org/help-center/Pages/privacy-notice.aspx# "Call: 512.475.1313")
 
   
 
 
 > **E-mail Address:  
-> ** consumer.complaints@dob.texas.gov​
+>  **consumer.complaints@dob.texas.gov​
 
   
 
 
 > **Website Address:  
-> ** www.dob.texas.gov  
+>  **www.dob.texas.gov  
   
-​​​​​
+​​​​​ 
