@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the force9.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015025id_/http%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the force9.co.uk privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129131103id_/https%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Plusnet Policies
 
 ### 1\. Who are we?
 
-Plusnet plc is a public limited telecommunications company based in Sheffield, providing fixed line phone, broadband and fibre optic broadband solutions to consumers and businesses across the UK. Plusnet has been offering communication services for over 15 years - becoming a subsidiary of the BT Group in 2007. Plusnet focuses on providing great value and reliable services to its customers, and award-winning customer service at competitive prices. In April 2013 Plusnet received a fourth consecutive recommendation for its products and customer service from the independent consumer body, Which?
+Plusnet plc is a public limited telecommunications company based in Sheffield, providing fixed line phone, broadband and fibre optic broadband solutions to consumers and businesses across the UK. Plusnet has been offering communication services for over 15 years - becoming a subsidiary of the BT Group in 2007. Plusnet focuses on providing great value and reliable services to its customers, and award-winning customer service at competitive prices.
 
 When we refer to "we" or "our" or "Plusnet" we are referring to Plusnet plc. When we refer to "BT" we are referring to BT Group plc (which includes British Telecommunications plc) and its subsidiaries, or any of them, as the context requires.
 
@@ -55,6 +55,8 @@ We subscribe to email and direct mail lists provided by third parties and use th
 When we carry out a marketing campaign, we record contact outcomes, such as if you ask for us to not contact you again.
 
 We also record and retain information about the calls you make and the websites you visit for traffic management. For more information about our traffic management see [http://www.plus.net/support/broadband/speed_guide/traffic_management.shtml](https://web.archive.org/support/broadband/speed_guide/traffic_management.shtml)
+
+We may also take steps in our network to protect you from threats from malicious domains which may attempt to infect your machine with malware associated with criminal threats. For more information please refer to our [Terms and Conditions](https://web.archive.org/terms).
 
 [Top]
 
@@ -113,7 +115,7 @@ We also provide information when we have to do so by law (for example, under a c
 
 ### 8\. How long do we keep your personal information for?
 
-How long we keep personal information depends on how we use that information. In some cases, by law we must keep information for a minimum period. Unless the law says otherwise, we'll keep information no longer than we need to for the purposes we collected it. You can find more details about our Data Retention Policy [here](https://web.archive.org/support/service/policies/data_retention_policy.shtml). We keep this policy under regular review, and any updates we make will be placed on the [Data Retention Schedule](https://web.archive.org/support/service/policies/data_retention_schedule.shtml#CIRS).
+How long we keep personal information depends on how we use that information. In some cases, by law we must keep information for a minimum period. Unless the law says otherwise, we'll keep information no longer than we need to for the purposes we collected it.
 
 [Top]
 
@@ -133,7 +135,7 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 ### 10\. Changes to your privacy policy
 
-We keep our Privacy Policy under regular review and will place any updates on this webpage. This policy was last updated on 31st July 2013.
+We keep our Privacy Policy under regular review and will place any updates on this webpage. This policy was last updated on 24th September 2014.
 
 [Top]
 
