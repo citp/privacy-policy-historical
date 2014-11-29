@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workerscompensation.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045943id_/http%3A//www.workerscompensation.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workerscompensation.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129103758id_/http%3A//www.workerscompensation.com/disclaimer.php) for the most accurate reproduction.*
 
 # Workers Compensation - Workmans Comp Service Center
 
