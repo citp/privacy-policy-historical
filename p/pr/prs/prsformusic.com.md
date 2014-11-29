@@ -1,62 +1,107 @@
-> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626224706id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129165529id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
-The MCPS-PRS Alliance Limited takes your privacy very seriously. This Privacy Policy sets out our data processing practices through the use of the Internet and any other electronic communications networks. It also sets out your options regarding the way your personal information is used. 
+PRS for Music Limited takes your privacy very seriously. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed.  By visiting [www.prsformusic.com](http://www.prsformusic.com/) you accept and consent to the practices outlined in this policy.
 
-## Information collected
+For the purposes of the Data Protection Act 1998, the data controller is PRS for Music Limited of 2 Pancras Square London N1C 4AG.   
 
-We collect personal information from visitors to this website through the use of online forms, when you e-mail us your details and when you sign up to any of the services we offer through our website.  We also collect information about the transactions you undertake including details of payment cards used, all collected via a secure payment processor. In addition, we automatically collect information about your visit to our website.
 
-##   
-Use of personal information 
+## Information we may collect from you
 
-We process personal information collected via this website for the purposes of:
+We may collect and process the following information about you:
 
-  * providing and personalising our services;
-  * dealing with your enquiries and requests;
-  * administering orders and accounts relating to our licensees;
-  * administering licensee records;
-  * maintaining information as a reference tool or general resource;
-  * carrying out market research campaigns; 
-  * contacting you by email and post with information about our licences and services; and
-  * sharing your information with third party organisations who offer products or services that we feel may be of interest to you (providing you agree to receive such information).
-  * disclosing information in aggregate (so that no individuals are identified) for marketing and strategic development purposes.
+  * **Information you give us.** We collect personal information from visitors to this website which includes information you provide when you create an online account to use our web based system, submit membership application forms, apply to request or take out a music licence, pay an invoice online, enter a competition or survey and when you report a problem with our website. The information you give us may include your name, address, email address and phone number, financial and credit card information (collected via a secure payment processor).
+  * **Information we collect about you.** With regard to each of your visits to our website we may automatically collect technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform. 
+  * **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate (e.g. [m-magazine.co.uk](http://www.m-magazine.co.uk/)). We also work closely with selected third parties (including, for example, business partners and sub-contractors in technical, payment and delivery services) and may receive information about you from them.
 
 
 
-##   
-Use of cookies
+## Use of information 
 
-A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser.  Find out more about the use of cookies on: [http://www.cookiecentral.com](http://www.cookiecentral.com/)
+We will use the information set out above to:
 
-We use cookies to identify you when you visit this website and to keep track of your browsing patterns and build up a demographic profile. We also use cookies to remember your log-in details and to allow registered users to carry out transactions and have access to information about their account.
+  * carry out our obligations arising from any contracts entered into between you and us;
+  * provide and personalise our services to you; 
+  * notify you about changes to our service or improvements to our website;
+  * deal with your enquiries and requests; 
+  * administer orders and accounts relating to our licensees; 
+  * administer licensee and membership records; 
+  * maintain information as a reference tool or general resource; 
+  * disclose information in aggregate (so that no individuals are identified) for marketing, research and strategic development purposes.
 
-Most browsers allow you to turn off cookies.  If you want to know how to do this please look at the help menu on your browser.  However, switching off cookies will restrict your use of our web site.
 
-[View more information about using and deleting cookies](https://web.archive.org/aboutus/essentialinformation/Pages/Usinganddeletingcookies.aspx)
 
-##   
-Registered users
+## Disclosure of information
 
-Certain sections of this website are only open to registered users and give those registered users the ability to review and modify personal information previously provided to us. Where any user names, passwords and other secure access is given to you in order to access your personal information or to use any secure section of this website, you are responsible for the security of your information and you will keep such information secure at all times, treating it as strictly confidential. You must notify us in the event that such information is revealed to or accessed by anyone else or where you become aware of a breach of confidentiality or any unauthorised use of this website. 
+We will share your personal information with the Performing Right Society ("PRS") and/or the Mechanical-Copyright Protection Society ("MCPS"), as appropriate.  
 
-##   
-Disclosures
 
-We will only disclose personal information to other companies within our group of companies and business partners (to the extent you consent to this), government bodies, law enforcement agencies and future owners of our business, as well as suppliers we engage to process data on our behalf.
+We may also share your information with selected third parties including:
 
-##   
-Other websites
+  * Business partners and sub-contractors for the performance of any contract we enter into with them or you, including:
+    * other collecting societies in and outside the EEA.
+    * other closely related organisations, such as the PRS for Music Benevolent Fund and the PRS for Music Foundation.
+  * Suppliers we engage to process data on our behalf in which case such supplier will only process personal information according to the instructions we give them. 
+  * Government bodies or law enforcement agencies, where we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of PRS for Music Limited, our members, licensees, or others. 
+  * Future owners of our business, in which case personal data held by PRS for Music Limited about its customers will be one of the transferred assets.
+  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.  
 
-Our web site may contain links to other websites which are outside our control and are not covered by this Privacy Policy.  If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-##   
-Access right
 
-You have a right to access the personal data held about you.  To obtain a copy of the personal information we hold about you, please call 020 7306 4227 or write to us at: Website Privacy, PRS for Music, Copyright House, 29-33 Berners Street, London W1T 3AB.
 
-##   
-Internet-based transfers
+## Use of cookies
 
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis.  Therefore, by browsing this web site and communicating electronically with us, you acknowledge and agree to our processing of personal data in this way.
+Our website uses cookies to distinguish you from other users of our website.  This helps us to provide you with a good experience when you browse our website.  For more details on the cookies we use and the purposes for which we use them, see our [Cookie policy](https://web.archive.org/Pages/Cookiepolicy.aspx).   
+
+
+## Registered users
+
+Certain sections of this website are only open to registered users and give those registered users the ability to review and modify personal information previously provided to us. We ask that you do not share user names, passwords or any other secure access information with anyone – you are responsible for keeping this information confidential and secure. You must [notify us](https://web.archive.org/aboutus/contact_us) in the event that such information is revealed to, or accessed by, anyone else or where you become aware of a breach of confidentiality or any unauthorised use of this website. 
+
+## Direct marketing
+
+Where you have registered with us and provided your consent, we will use the information you provide us to:
+
+  * send you information about other products and services provided by us; and /or
+  * send you information about related products or services offered by our sister organisations (e.g. the PRS for Music Benevolent Fund, the PRS for Music Foundation, PRS and MCPS) and selected third parties offering relevant music-related services.
+
+
+
+You can opt out of this at any time by [contacting us here](https://web.archive.org/aboutus/contact_us/Pages/contactus.aspx).
+
+## Other websites
+
+Our website may contain links to other websites which are outside our control and are not covered by this policy.  We encourage you to read the privacy policies on the other websites you visit.  
+
+
+## Access to your information
+
+You have a right to access the personal information held about you by submitting a "Subject Access Request".  A Subject Access Request may be subject to a fee of £10 to meet our costs in providing you with the details of the information we may hold about you. 
+
+To make a Subject Access Request you will need to put the request in writing, and send it to the address set out below.  
+
+## How your information is stored
+
+The information that we collect from you may be transferred to, and stored at, a destination outside the EEA. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the administration of a contract between us, the processing of your payment details and the provision of support services.  By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## Changes to this privacy policy
+
+Any changes we make to our privacy policy will be posted on this page.  Please check to see if any updates or changes have been made. This policy was last reviewed on 14 August 2014.  
+
+
+## Contact us
+
+Please send any questions on this privacy policy to the following address:
+
+Data Protection Officer  
+Legal Department  
+ _PRS for Music Ltd_   
+2 Pancras Square  
+London N1C 4AG  
+
+
+|  |  |    
+---|---|---|---
