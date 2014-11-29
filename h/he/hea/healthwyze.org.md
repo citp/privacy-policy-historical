@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthwyze.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085032id_/http%3A//healthwyze.org/index.php/component/content/article/334-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwyze.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129213749id_/http%3A//healthwyze.org/index.php/component/content/article/334-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **General Policies**
 
-Will shall keep this simple, because we don't like dealing with lawyers anymore than you do.  We do not share your private information, ever.  It is that simple.  Any information that is shared with us is stored securely on our servers with the most paranoid of security measures.  Our security would be the envy of most banks, in fact.  We do not believe in invading your privacy or treading upon your rights.  Ethics is one of the things that separates us from most of our peers.  You will never be automatically signed up for a mailing list, or anything else.
+We do not share your private information, ever.  It is that simple.  Any information that is shared with us is stored securely on our servers with the most paranoid of security measures.  Our security would be the envy of most banks, in fact.  We do not believe in invading your privacy or treading upon your rights.  Ethics is one of the things that separates us from most of our peers.  You will never be automatically signed up for a mailing list, or anything else.
 
 **Spam**
 
@@ -22,6 +22,8 @@ We recommend that you accept all browser cookies from HealthWyze.org, because th
 
 The general rule is that your messages to us are private.  We may publish your correspondences or portions of it if we feel that it would be of compelling interest to our readers.  In such cases, the standard policy is to remove identifiable information, such as the sender's name and e-mail address, unless we get permission.  Nevertheless, we reserve the right to publish anything that is sent to us, so people who are prone to sending threatening, deceitful, manipulative, or hateful messages should bear this in mind.
 
-**Tracking By Our Advertisers**
+**Google is Watching**
 
-LinkShare corporation (linksynergy.com) and our various advertisers are able to detect your I.P. address using images that are hosted elsewhere.  This should not allow any of the related advertising companies to obtain any personally identifiable information about you.  Using your Internet address, they may be able to determine the city in which you are located and your Internet provider, but little more than that.  We will not be sharing your information with these companies.  This includes your name, user name, e-mail address, password, or any other information.  Some of our advertisers may share cookies with your Internet browser program.
+Health Wyze Media utilizes Google advertising. It gives Google the capability to track all traffic to our site by people who are not using ad blockers. Thus, Google probably knows about you, and knows that you are reading this. We feel that we should give you our complete honesty about the situation. The same is true for about 90% of the sites that you visit.
+
+Google advertising has been disabled at our online store, so that it cannot gather any information about your shopping habits, or your private banking information.
