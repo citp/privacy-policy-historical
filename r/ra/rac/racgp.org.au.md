@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060514id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129103935id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
 
 # RACGP - Privacy statement
 
@@ -60,7 +60,7 @@ We may also require limited disclosure to contractors we engage to act for us or
 
 Other than for administration or membership purposes, we will not use or disclose your personal information without your consent. Some permitted exceptions to this apply, including where we are legally required to disclose, or to protect the personal safety of any individual or the public.
 
-We will not disclose your personal information to anyone outside of Australia. We may share your personal information with external contact centres engaged by the RACGP to provide related business, marketing and support services.
+We will not ordinarily disclose your personal information to anyone outside of Australia. However, we do share limited subsets of member’s personal information, to our engaged external contact centres to provide related business, marketing and support services. This provider is currently based in the United States of America. Any information disclosed is used strictly only for the intended purposes. We periodically review our engagement of such providers to ensure privacy compliance.
 
 ## 6\. Storage and security of your personal information
 
@@ -114,7 +114,7 @@ If you wish to update or correct your personal information, please contact us us
 
 ## 11\. Problems or queries
 
-If you have a problem, query or complaint about the way in which we collect, use or disclose individuals’ personal information, please contact us using the contact details below. We take all aspects of privacy seriously, and welcome your feedback on the relevant issues. Any concerns received will be internally reviewed and where appropriate an internal investigation will be conducted to ensure we continue to comply with the Privacy Act.
+If you have a problem, query or complaint about the way in which we collect, use or disclose individuals’ personal information, please contact us using the contact details below. We take all aspects of privacy seriously, and welcome your feedback on the relevant issues. Any concerns received will be internally reviewed and where appropriate an internal investigation will be conducted to ensure we continue to comply with the Privacy Act. If you are unsatisfied with out response, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/)
 
 ## 12\. Future changes
 
@@ -122,7 +122,7 @@ From time to time, our policies are reviewed and may be revised. We reserve the 
 
 ## 13\. Further information
 
-For more information about privacy issues in Australia and protecting your privacy, visit the website of the Australian Federal Privacy Commissioner.
+For more information about privacy issues in Australia and protecting your privacy, visit the website of the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/).
 
 Alternatively, you may contact the RACGP at:
 
