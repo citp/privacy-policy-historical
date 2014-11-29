@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slotpartners.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530044158id_/http%3A//marketing.slotpartners.com/en/info/marketing-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slotpartners.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129054711id_/http%3A//marketing.slotpartners.com/en/info/marketing-privacy-policy) for the most accurate reproduction.*
 
 # Slotpartners :: Privacy Policy
 
