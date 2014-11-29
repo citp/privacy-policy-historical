@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livesets.at privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110025505id_/http%3A//www.livesets.at/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesets.at privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129063757id_/http%3A//www.livesets.at/privacy) for the most accurate reproduction.*
 
-# « Privacy Policy
+# Privacy Policy -
 
 **Privacy Policy**
 
@@ -16,7 +16,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-\- To improve our website  
+– To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 **Do we use cookies?**
