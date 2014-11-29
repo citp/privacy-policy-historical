@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328115716id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129115459id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
 
 # ReviverSoft Privacy Policy
 
-Last Updated: 9/9/2013
+Last Updated: 5/1/2014
 
 ReviverSoft, LLC's ("ReviverSoft") privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our Web site, purchase ReviverSoft products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how ReviverSoft uses the information, and how we safeguard your Personal Information when you submit it to us at www.reviversoft.com. At ReviverSoft, protecting your privacy is important to us. After all, online privacy and security is what we're all about. **You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by ReviverSoft in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
-
-[](https://privacy.truste.com/privacy-seal/ReviverSoft-LLC/validation?rid=6516f731-1278-4082-b3c6-687811e1721a "TRUSTe online privacy certification")
-
-ReviverSoft, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@reviversoft.com](mailto:support@reviversoft.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this Web site.
 
 ## Why ReviverSoft Collects Personal Information
 
