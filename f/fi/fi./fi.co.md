@@ -1,40 +1,6 @@
-> *The following text is extracted and transformed from the fi.co privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616045228id_/http%3A//fi.co/information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.co privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129163132id_/http%3A//fi.co/information/privacy_policy) for the most accurate reproduction.*
 
 # The Founder Institute: Helping Founders to Build Great Companies
-
-Location
-
-Choose a city closest to you.
-
-**Silicon Valley Spring 2013**  
-Applications: **Mar 17, '13**  
-Sessions: **Apr 01, '13 - Jul 09, '13**
-
-Vision
-
-Our vision is to **Globalize Silicon Valley** by creating and fostering local startup ecosystems in promising markets across the globe. We aim to help launch 1,000 technology companies per year in over 50 cities worldwide.
-
-[Join the Program](https://web.archive.org/join)
-
-Sponsors
-
-[](http://www.wsgr.com/)
-
-[Wilson Sonsini Goodrich & Rosati](http://www.wsgr.com/) is the premier legal advisor to technology and growth enterprises worldwide, as well as the investment banks and venture capital firms that finance them. Over the past four decades, Wilson Sonsini Goodrich & Rosati has established its reputation by having an unmatched knowledge of its clients' industries and deep and long-standing contacts throughout the technology sector. The firm's legal expertise serves clients at all stages of growth, from venture-backed start-up companies to multibillion-dollar global enterprises. The firm's clients include some of the most recognized names in the technology, retail, life sciences, venture capital, and finance sectors. The firm has offices in Austin, Palo Alto, New York, San Diego, San Francisco, Seattle, Shanghai, and Washington, D.C.
-
-* * *
-
-[](http://www.firstrepublic.com/busbank/index.asp)
-
-First Republic Bank and its subsidiaries provide private banking, private business banking and the full range of wealth management services with an emphasis on exceptional relationship-based service and a solid commitment to responsiveness and action.
-
-* * *
-
-[Ravix Group ](http://ravixgroup.com/)\- Ravix Group Inc.provides seasoned consulting expertise to outsource the finance, human resources, and facilities functions of early-stage and middle market companies so that management can focus on their priorities to increase the value of their company. 
-
-* * *
-
-[Purplepatch Services](http://purplepatchservices.com/) is a strategy consulting firm offering technology firms Marketing Communications and User Experience Design solutions.
 
 Welcome to the Founder Institute, Incorporated (“FII”) website and online services (the “FII Site”). FII values the privacy of our subscribers, customers, members, and others who visit and use the FII Site and its associated services (collectively or individually, “You” or “Users”).
 
