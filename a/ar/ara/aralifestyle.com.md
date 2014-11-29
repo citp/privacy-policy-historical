@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aralifestyle.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314021955id_/http%3A//www.aralifestyle.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aralifestyle.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129043829id_/http%3A//aralifestyle.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
