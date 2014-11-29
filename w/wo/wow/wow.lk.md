@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wow.lk privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307223916id_/http%3A//www.wow.lk/company/privacyStatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow.lk privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129063519id_/http%3A//www.wow.lk/company/privacyStatement.jsp) for the most accurate reproduction.*
 
-# WOW.lk Mall
+# Privacy Policy - Online Shopping Mall - wow.lk - Sri Lanka
 
 Digital Commerce Lanka (hereinafter referred to as "DCL" "us" "we" or "our") is committed to respect your privacy and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as "Users"). In addition this Privacy Policy applies to all products and services provided by wow.lk (hereinafter referred to as the "Site"). We at DCL are extremely proud of our commitment to protect your privacy. You can be assured that we will use your personal information only to support your continuing relationship with DCL. We are providing this Privacy Policy to help you understand how we collect, use and protect your information when you visit and/or order products through the Site. Please read the following policy to understand how your personal information will be treated as you make full use of the Site. This Privacy Policy should be read in conjunction with the terms and conditions of use for wow.lk and any separate terms and conditions issued by any other third party selling their products on the website [hereinafter referred to as the "Vendor"] whose products are listed herein.
 
@@ -25,7 +25,7 @@ Your information is the information that's required when you sign up for the sit
 We also receive other types of information about you:
 
   * We receive data from the computer, mobile phone or other device you use to access wow, including when multiple users log in from the same device. This may include your IP address and other information such as your location, type of sites and pages visited etc.
-  * We receive data whenever you visit a website that is connected, affiliated or runs on the wow.lk platform. 
+  * We receive data whenever you visit a website that is connected, affiliated or runs on the wow.lk platform.
   * Sometimes we get data from our advertising partners, agencies, activation partners etc which tells us where you connect to us from and how we can connect with you.
 
 
@@ -40,7 +40,7 @@ DCL reserves the right to use and share information received and stored for mark
 
 ## Data Security
 
-We use a number of mechanisms (encryption, passwords, physical security) to protect the security and integrity of your personal information against unauthorized access and disclosure. Unfortunately, no data transmission over the internet can be guaranteed to be completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure. 
+We use a number of mechanisms (encryption, passwords, physical security) to protect the security and integrity of your personal information against unauthorized access and disclosure. Unfortunately, no data transmission over the internet can be guaranteed to be completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure.
 
 * * *
 
@@ -60,7 +60,7 @@ If you want to stop using your account, please send an email to [support@wow.lk]
 
 ## About social plugins
 
-wow lets you login via your facebook and google accounts. You can also share wow content , comment on other users posts on the wow social sites. 
+wow lets you login via your facebook and google accounts. You can also share wow content , comment on other users posts on the wow social sites.
 
 Please note your posts will be deemed public and wow will not assume responsibility for any repercussions as a result.
 
@@ -90,14 +90,13 @@ Most companies on the web use cookies (or other similar technological tools), in
 
 For any disputes regarding our use of data and data privacy please contact
 
-Ahmed Irfan  
-Chief Marketing Officer  
-irfan@anything.lk  
-m. 94777334444 
+Sheyantha Abeykoon  
+Chief Executive Officer  
+sheyantha@anything.lk
 
 **Responding to legal requests and preventing harm**
 
-We may share your information based on legal requests and official sanction to prevent harm, crime or as part of an official investigation. Information shared will be your login details, type and nature of online transactions, payment methods and financing arrangements if any. 
+We may share your information based on legal requests and official sanction to prevent harm, crime or as part of an official investigation. Information shared will be your login details, type and nature of online transactions, payment methods and financing arrangements if any.
 
 **Notifications and Other Messages**
 
@@ -121,7 +120,7 @@ User agrees to defend, indemnify and hold harmless DCL, its subsidiaries and Bus
 
 you can correct your personal data by clicking on account settings
 
-[Click here to edit your account ](https://web.archive.org/myaccount/profile.jsp)
+Click here to edit your account 
 
 **Change of Control**
 
