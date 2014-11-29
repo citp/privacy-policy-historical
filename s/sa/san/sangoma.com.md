@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013249id_/http%3A//www.sangoma.com/company/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129223902id_/http%3A//www.sangoma.com/company/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Sangoma
+# Privacy Policy Statement - Sangoma
 
 ## This is the web site of Sangoma Technologies Corporation.
 
