@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchofengland.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055540id_/http%3A//www.churchofengland.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchofengland.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129165303id_/https%3A//www.churchofengland.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -42,8 +42,10 @@ This policy may change from time to time.  You should check this policy occasio
   *   * 
 
 
-###  Find Your Local Church
+### Find Your Local Church
 
 Enter postcode or town/city
 
-Tip: Find your **local church** and set it as your **default location** to view your latest services and events on this page
+Via [www.achurchnearyou.com](http://www.achurchnearyou.com/ "Go to www.achurchnearyou.com")
+
+Use this popular website for service times, seasonal events, contact details and more
