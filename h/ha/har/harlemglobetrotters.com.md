@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530023038id_/http%3A//www.harlemglobetrotters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129160351id_/http%3A//www.harlemglobetrotters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
