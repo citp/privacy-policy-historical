@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the torontopolice.on.ca privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625122427id_/http%3A//www.torontopolice.on.ca/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the torontopolice.on.ca privacy policy that was archived on 2014-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129210705id_/http%3A//www.torontopolice.on.ca/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Toronto Police Service :: To Serve and Protect</title>
 <meta name="keywords" content="Toronto Police Service, police, law enforcement, Toronto, Ontario, Canada">
 <meta name="description" content="To Serve and Protect">
@@ -18,20 +20,12 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="/js/jquery.accessiblemenunav.js"></script>
 <link rel="stylesheet" href="/css/colorbox.css" type="text/css" media="screen">
 	<script type="text/javascript">
 	$(document).ready(function () { 
-    	$('#dropdown li').hover(
-        	function () {
-            	//show its submenu
-            	$('ul', this).slideDown(100);
- 
-        	}, 
-        	function () {
-            	//hide its submenu
-            	$('ul', this).slideUp(100);         
-        	}
-    	);   
+ 		$('#dropdown').setup_navigation(); 
+        $('#main-nav').setup_navigation(); 
 	});
 	</script>
 <link rel="stylesheet" href="/themes/TPS/style/dropdown.css" type="text/css" media="screen">
@@ -48,18 +42,20 @@
 				<a href="/" title="Link to home page"><img src="/themes/TPS/images/pix-t.gif" class="home" alt="Front page link"></a>
                 <nav role="navigation">
                     <div class="secondnav">
-                        <div class="dropdown">
-                        <ul>
-                            <li><a id="dropbtn">I am looking for...</a>
+                       <div class="dropdown">
+                        <ul id="dropdown">
+                            <li><a href="#" id="dropbtn">I am looking for...</a>
                             <ul>
                                 <li><a href="/divisions/map.php">Local Police Stations</a></li>
                                 <li><a href="/recordsmanagement/clearance.php">Criminal Background Check</a></li>
                                 <li><a href="/prcp/">Police Reference Check</a></li>
-                                <li><a href="/prime/core.php">Citizen Online Report Entry</a></li>
+                                <li><a href="/core/">Citizen Online Report Entry</a></li>
                                 <li><a href="https://webapp1.torontopolice.on.ca/BicycleRegistry/Submit">Bicycle Registration</a></li>
                                 <li><a href="/paidduty/">A Paid Duty Officer</a></li>
+                                <li><a style="overflow: visible; line-height:14px; height: 30px" target="_top" href="/projectyellowbird/">Property Identification Program Project Yellowbird</a></li>
                                 <li><a href="/newsreleases/">News Releases</a></li>
                                 <li><a href="/tpsml/">TPS Mailing Lists</a></li>
+                                <li><a style="overflow: visible; line-height:14px; height: 30px" target="_top" href="http://www.tpsb.ca/2015 TPS Operating Budget Program Breakdown.pdf">2015 Operating Budget Program Breakdown (via tpsb.ca)</a></li>
                                 <li><a href="/communitymobilization/newcomer/">Newcomer Outreach</a></li>
                                 <li><a href="http://torontopoliceguide.ca">A Guide to Police Services</a></li>
                                 <li><a href="/careers/">Employment Information</a></li>
@@ -73,20 +69,10 @@
                         </ul>
                         </div>
                         <div class="search">
-                            <form method="post" action="/modules.php?op=modload&amp;name=Search&amp;file=index">
+                            <form method="get" action="//www.google.ca/search">
                             <label for="search-q" id="search-q-label">Search</label>
                             <input type="text" name="q" id="search-q" size="22">
-                            <input type="hidden" name="action" value="search">
-                            <input type="hidden" name="overview" value="1">
-                            <input type="hidden" name="stories_topics[]" value="0">
-                            <input type="hidden" name="stories_cat[]" value="0">
-                            <input type="hidden" name="active_stories" value="1">
-                            <input type="hidden" name="active_html" value="1">
-                            <input type="hidden" name="active_downloads" value="0">
-                            <input type="hidden" name="active_faqs" value="0">
-                            <input type="hidden" name="active_news" value="1">
-                            <input type="hidden" name="active_calendar" value="1">
-                            <input type="hidden" name="active_photos" value="0">
+                            <input type="hidden" name="as_sitesearch" value="www.torontopolice.on.ca">
                             </form>
                         </div>
                     </div>
@@ -101,7 +87,6 @@
             <div class="drop">
             <ul id="main-nav">
 <li><a href="#" class="nav-title">Newsroom</a><ul><li class="nav-item"><a href="http://www.torontopolice.on.ca/newsreleases/" title="Latest News Releases" class="nav-link">News Releases</a></li>
-<li class="nav-item"><a href="http://www.torontopolice.on.ca/majors/" title="Daily Major News Reports" class="nav-link">Major News Reports</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/publications/" title="Publications" class="nav-link">Publications</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/statistics/" title="TPS Crime Statistics" class="nav-link">Crime Statistics</a></li>
 <li class="nav-item"><a href="/tpsml/" title="Subscribe to our mailing lists" class="nav-link">TPS Mailing Lists</a></li>
@@ -119,16 +104,17 @@
 <li class="nav-item"><a href="/safetyzone/" title="Kids' Safety Zone" class="nav-link">Kids' Safety Zone</a></li>
 <li class="nav-item"><a href="http://www.victimservicestoronto.com/" title="Victim Services of Toronto" class="nav-link">Victim Services</a></li>
 <li class="nav-item"><a href="/community/" title="Divisional Policing Support Unit" class="nav-link">Divisional Policing Support Unit</a></li>
-<li class="nav-item"><a href="/community/mentalhealth.php" title="Mental Health Issues" class="nav-link">Mental Health</a></li>
+<li class="nav-item"><a href="/community/peopleincrisis.php" title="Police Encounters with People in Crisis" class="nav-link">Police Encounters with People in Crisis</a></li>
 </ul></li><li><a href="#" class="nav-title">Serving Toronto</a><ul><li class="nav-item"><a href="http://www.torontopolice.on.ca/command.php" title="The Command Officers of the Toronto Police Service" class="nav-link">Command Officers</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/mission-values.php" title="Mission and Values" class="nav-link">Mission and Values</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/uniform.php" title="Frontline Units Within the TPS" class="nav-link">Police Stations</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/findaunit.php" title="Find a unit within TPS" class="nav-link">Find a Unit</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/orgchart.pdf" title="Organizational Chart" class="nav-link">Organizational Chart</a></li>
 </ul></li><li><a href="#" class="nav-title">Inside the TPS</a><ul><li class="nav-item"><a href="http://www.torontopolice.on.ca/careers/" title="Join Our Team" class="nav-link">Careers</a></li>
-<li class="nav-item"><a href="http://www.torontopolice.on.ca/prime/core.php" title="Citizen Online Report Entry" class="nav-link">Citizen Online Report Entry</a></li>
+<li class="nav-item"><a href="http://www.torontopolice.on.ca/core/" title="Citizen Online Report Entry" class="nav-link">Citizen Online Report Entry</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/recordsmanagement/clearance.php" title="Clearance Letter Requests" class="nav-link">Clearance Letters</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/prcp/" title="Police Reference Check Program" class="nav-link">Police Reference Check Program</a></li>
+<li class="nav-item"><a href="https://webapp1.torontopolice.on.ca/BicycleRegistry/Submit" title="Bicycle Registration" class="nav-link">Bicycle Registration</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/publications/files/forms/fingerprint_destruction.pdf" title="Fingerprints and photographs destruction policy and form" class="nav-link">Fingerprint Destruction</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/aps/" title="Access and Privacy Section" class="nav-link">Access &amp; Privacy Section</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/professionalstandards/" title="Compliments / Complaints" class="nav-link">Compliments / Complaints</a></li>
@@ -145,11 +131,11 @@
 </ul></li><li><a href="#" class="nav-title">Contact Us</a><ul><li class="nav-item"><a href="http://www.torontopolice.on.ca/contact.php" title="General Contact Information" class="nav-link">General Contact Info</a></li>
 <li class="nav-item"><a href="http://www.torontopolice.on.ca/directory/" title="Telephone and e-mail directory" class="nav-link">Telephone Directory</a></li>
 </ul></li><li><a href="#" class="nav-title">Other Sites</a><ul><li class="nav-item"><a href="http://www.toronto.ca/" title="City of Toronto" class="nav-link">City of Toronto</a></li>
-<li class="nav-item"><a href="http://www.torontopolice.on.ca/coppertones/" title="The Coppertones" class="nav-link">The Coppertones</a></li>
 <li class="nav-item"><a href="http://www.tpsb.ca/" title="Toronto Police Services Board" class="nav-link">Police Services Board</a></li>
 <li class="nav-item"><a href="http://www.opp.ca/ecms/index.php?t=31&amp;id=60" title="Repeat Offender Parole Enforcement" class="nav-link">Provincial Rope Squad</a></li>
-<li class="nav-item"><a href="http://www.toronto.ca/ems/" title="Toronto Emergency Medical Services" class="nav-link">Toronto EMS</a></li>
+<li class="nav-item"><a href="http://torontoparamedicservices.ca/" title="Toronto Paramedic Services" class="nav-link">Toronto Paramedic Services</a></li>
 <li class="nav-item"><a href="http://www.toronto.ca/fire/" title="Toronto Fire Services" class="nav-link">Toronto Fire Services</a></li>
+<li class="nav-item"><a href="http://www.torontopolice.on.ca/coppertones/" title="The Coppertones" class="nav-link">The Coppertones</a></li>
 </ul></li>                </ul>
             </div>
     	</nav>
