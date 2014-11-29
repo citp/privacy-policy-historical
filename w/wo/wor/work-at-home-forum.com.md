@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the work-at-home-forum.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107234235id_/http%3A//www.work-at-home-forum.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work-at-home-forum.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129221028id_/http%3A//www.work-at-home-forum.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Work at Home Forum
+# Privacy Policy for Work at Home Forum | Work at Home Forum
 
 Work at Home Forum privacy policy.
 
