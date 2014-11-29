@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506011831id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129140001id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.*
 
 # Las Vegas Theater - Privacy Policy
 
