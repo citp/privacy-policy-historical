@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601173224id_/http%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129190058id_/http%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Government Department of Social Services
 
@@ -276,3 +276,5 @@ If you wish to make a complaint about a breach of your privacy, please contact t
 If you wish to access this Policy in an alternative format (e.g. hard copy) please contact DSS using the contact details set out at section 5.1 of this Policy.
 
 This Policy will be made available free of charge.
+
+Last updated: 11 March 2014 - 2:33pm
