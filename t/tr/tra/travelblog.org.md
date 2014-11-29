@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelblog.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061220id_/http%3A//www.travelblog.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelblog.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129062742id_/https%3A//www.travelblog.org/privacy.html) for the most accurate reproduction.*
 
 # TravelBlog | Privacy Policy
 
@@ -59,4 +59,4 @@ If you leave your email address through either the messaging system or comments 
 
 Please see our [Terms of Service](https://web.archive.org/tos.html) for details on how we operate and your expected conduct when visiting or using this site.
 
-Tot: 0.07s; Tpl: 0.001s; cc: 0; qc: 0; dbt: s; 0; w:www (50.28.60.10); sld: 3; ; mem: 6mb
+Tot: 0.068s; Tpl: 0.001s; cc: 0; qc: 0; dbt: s; 0; w:www (50.28.60.10); sld: 2; Age:45312h; mem: 6.1mb
