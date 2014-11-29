@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkspace.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515025851id_/http%3A//www.talkspace.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkspace.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129085931id_/http%3A//www.talkspace.com/public/privacy-policy) for the most accurate reproduction.*
 
-# talkspace it's time to talk with a therapist
+# therapy for how we live today
 
 hurray for your new membership!
 
