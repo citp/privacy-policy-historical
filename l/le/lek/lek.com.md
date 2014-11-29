@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328212754id_/http%3A//www.lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129204401id_/http%3A//lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
 
 # L.E.K. Consulting Privacy Policy | L.E.K. Consulting
 
-**WARNING -** An apparent scam is being operated by an individual identifying himself as Jeroen Booms and using an email address “[inbox@lekcorp.com.](mailto:inbox@lekcorp.com.)”   
-Other email addresses might be used as well.  This individual fraudulently claims to have an employment position available and fraudulently claims to be affiliated with L.E.K. Consulting. Please note that this individual is not affiliated with L.E.K. Consulting (or any of its affiliates around the world) and any communication by such individuals is not from or on behalf of L.E.K. Consulting, and L.E.K. Consulting recommends that such communications should be disregarded. L.E.K. Consulting has also filed a complaint with regards to this scam. If you have been a target of this scam, a complaint can be filed with your internet crime office (in the UK, contact Action Fraud at 0300 123 20 40).
-
-**WARNING** \- We are aware that an apparent financial scam (involving the purchase and sale of shares) is being operated by persons purporting to work for a company called L.E.K Consulting Group LLC, of New Bond House, 124 New Bond Street, London, W1S 1DX. The principal contacts purport to be a Mr Isaac Coleman and a Mr James Goodwin. Please note that this company and  these persons are in no way connected to L.E.K. Consulting (or any of its affiliates around the world). We have reported this matter to the Financial Services Authority and recommend that anyone who is contacted by L.E.K Consulting Group LLC (or a company with a similar name) also report this to the Financial Services Authority through the following webpage:  
- 
-
-This is the Web site of L.E.K. Consulting LLC and its affiliates (“L.E.K. Consulting”), which has its main office in the United States in Boston, Massachusetts.We can be reached via e-mail at: [info@lek.com](mailto:info@lek.comn) and our postal address is:
+This is the Web site of L.E.K. Consulting LLC and its affiliates (“L.E.K. Consulting”), which has its main office in the United States in Boston, Massachusetts. We can be reached via e-mail at: [info@lek.com](mailto:info@lek.comn) and our postal address is:
 
 75 State Street  
 19th Floor  
