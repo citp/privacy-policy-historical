@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313050543id_/http%3A//www.ketubanjiwa.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129091435id_/http%3A//www.ketubanjiwa.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -40,4 +40,8 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 
 Although our staff is diligent in providing content that is appropriate to all ages and we screen – to the best of our ability – the content beyond all external links, ketubanjiwa.com cannot be held responsible for the privacy practices and/or age specificity of any other website we link to. By viewing ketubanjiwa.com you agree not to hold us liable for any damages that may occur by any means or for any reason to yourself or your property.
 
-**PES 2014 PESEdit.com Patch 4.0 Single Link+Torrent + More Link**   ** :  [CLICK HERE](http://www.ketubanjiwa.com/2014/03/pes-2014-pesedit-com-patch-4-0-single-link.html)**
+**Pro Evolution Soccer PES 2015 PC Reloaded Full Iso+Crack Only Torrent - Single Link - Multi Part Link :[CLICK HERE](http://www.ketubanjiwa.com/2014/11/pes-2015-reloaded-pc-full-version-crack-single-link.html)**
+
+  
+  
+
