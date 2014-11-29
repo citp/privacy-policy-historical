@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the withtank.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625061800id_/http%3A//support.withtank.com/kb/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the withtank.com privacy policy that was archived on 2014-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129105744id_/http%3A//support.withtank.com/kb/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"transactionName":"cF8IQBcMXlgEQ0lRBUJDSUcNDEU=","agent":"js-agent.newrelic.com/nr-411.min.js","queueTime":4,"applicationID":"16193","agentToken":null,"errorBeacon":"bam.nr-data.net","licenseKey":"97c4857d94","ttGuid":"","applicationTime":124,"beacon":"beacon-5.newrelic.com"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcUUFBSAQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"agent":"js-agent.newrelic.com/nr-488.min.js","ttGuid":"","queueTime":0,"applicationID":"16193","errorBeacon":"bam.nr-data.net","licenseKey":"97c4857d94","agentToken":null,"applicationTime":89,"beacon":"beacon-5.newrelic.com","transactionName":"cF8IQBcMXlgEQ0lRBUJDSUcNDEU="}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcUUFBSAQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(s(h,function(e,n){e in t||(t[e]=n)}),t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-488.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
     
       <meta name="viewport" content="width=1024">
     
@@ -13,29 +13,33 @@
      <link rel="canonical" href="http://support.withtank.com/kb/about/privacy-policy"> 
     
       <!--[if (!IE)|(gte IE 8)]><!-->
-<link href="http://asset-0.tenderapp.com/pkg/frontend-datauri.css?1403632242" media="all" rel="stylesheet" type="text/css">
+<link href="http://asset-1.tenderapp.com/pkg/frontend-datauri.css?1416277276" media="all" rel="stylesheet" type="text/css">
 <!--<![endif]-->
 <!--[if lte IE 7]>
-<link href="http://asset-0.tenderapp.com/pkg/frontend-mhtml.css?1403632242" media="all" rel="stylesheet" type="text/css" />
+<link href="http://asset-0.tenderapp.com/pkg/frontend-mhtml.css?1416277276" media="all" rel="stylesheet" type="text/css" />
 <![endif]-->
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+
+
       <!--[if lte IE 8]>
-      <link href="http://asset-0.tenderapp.com/pkg/ie.css?1403632242" media="all" rel="stylesheet" type="text/css" />
+      <link href="http://asset-0.tenderapp.com/pkg/ie.css?1416277276" media="all" rel="stylesheet" type="text/css" />
       <![endif]-->
       <!--[if IE 6]>
-      <link href="http://asset-1.tenderapp.com/pkg/ie6.css?1403632242" media="all" rel="stylesheet" type="text/css" />
+      <link href="http://asset-1.tenderapp.com/pkg/ie6.css?1416277276" media="all" rel="stylesheet" type="text/css" />
       <![endif]-->
       <!--[if IE 7]>
-      <link href="http://asset-2.tenderapp.com/pkg/ie7.css?1403632242" media="all" rel="stylesheet" type="text/css" />
+      <link href="http://asset-2.tenderapp.com/pkg/ie7.css?1416277276" media="all" rel="stylesheet" type="text/css" />
       <![endif]-->
       <!--[if IE 8]>
-      <link href="http://asset-0.tenderapp.com/stylesheets/browsers/ie8.css?1403632242" media="all" rel="stylesheet" type="text/css" />
+      <link href="http://asset-2.tenderapp.com/stylesheets/browsers/ie8.css?1406414609" media="all" rel="stylesheet" type="text/css" />
       <![endif]-->
-      <link href="http://asset-2.tenderapp.com/stylesheets/browsers/safari.css?1403632242" media="all" rel="stylesheet" type="text/css">
+      <link href="http://asset-2.tenderapp.com/stylesheets/browsers/safari.css?1406414609" media="all" rel="stylesheet" type="text/css">
     
     <script type="text/javascript" charset="utf-8">
   
-  function getAuthKey() { return "8f0357474a89ff48485f0c6693cfea404499b53a64b87da0ab2373907d5d6879"; }
-  Tender = {"root":"/","user_id":0,"user_created":"","is_supporter":false,"user_markdown":false,"discussion_editable":null,"user_flags":{},"user_email":"","user_name":"","kb_enabled":true,"logged_in":false};
+  function getAuthKey() { return "451e883de7f8fa3b65e1cec7e364a7746baaa5f3e83c49294fd73fab0266defd"; }
+  Tender = {"logged_in":false,"user_created":"","user_markdown":false,"user_email":"","user_id":0,"root":"/","kb_enabled":true,"discussion_editable":null,"user_flags":{},"user_name":"","is_supporter":false};
 </script>
 
 
@@ -48,11 +52,11 @@
       <link href="/kb.atom" rel="alternate" title="Knowledge Base" type="application/atom+xml">
   <link href="/kb/about.atom" rel="alternate" title="About Knowledge Base" type="application/atom+xml">
 
-           <link rel="stylesheet" type="text/css" media="all" href="/help/theme.css?1403632242"> 
+           <link rel="stylesheet" type="text/css" media="all" href="/help/theme.css?1411153864"> 
         
-      <link type="text/css" href="/help/custom.css" media="all" rel="stylesheet">
+      <link type="text/css" href="/help/custom.css?t=3996945612d906612bc3dcb1e21d5d39" media="all" rel="stylesheet">
         
-      <script src="http://asset-1.tenderapp.com/pkg/frontend.js?1403632241" type="text/javascript"></script>
+      <script src="http://asset-2.tenderapp.com/pkg/frontend.js?1416277276" type="text/javascript"></script>
       
     
       </head>
@@ -67,12 +71,15 @@
   <div class="inner hide-mobile" data-bind="css: { 'hide-mobile': hideMobileMenu() }">
         
     <p class="welcome">
-                      <a href="http://withtank.com/admin/login/tender/?to=http%3A%2F%2Fsupport.withtank.com%2Fkb%2Fabout%2Fprivacy-policy" class="welcome-login">Log in</a> to Tank
+                      <a href="http://withtank.com/admin/login/tender/?to=http%3A%2F%2Fsupport.withtank.com%2Fkb%2Fabout%2Fprivacy-policy" class="welcome-login">Log in</a>
+        
+          to Tank
+        
                   </p>
     
     <ul id="tender_nav" class="gnav">
       
-        <li class="home"><a href="/home">Support</a></li>
+        <li class="home"><a href="/home">Support Home</a></li>
       
                         <li class="public_issues"><a href="/discussions">Public Discussions</a></li>
                     
@@ -115,7 +122,10 @@
   <a href="/kb">Knowledge Base</a> <span class="sep">→</span>
   <a href="/kb/about">About</a> <span class="sep">→</span>
 </p>
-  <h1>Privacy policy</h1>
+  <h1>
+    Privacy policy
+    
+  </h1>
 </div>
 
 <div class="columns">
@@ -278,8 +288,67 @@ Privacy Policy or the way in which thisarmy handles Personal
 Information, please contact <a>support@withtank.com</a>.</p></div>
     </div>
   </div>
+  
   <div class="column sidebar">
     <dl class="stats">
+      
+        
+          <div class="rating" id="ratingContainer">
+  
+  
+    <!-- ko if: showForm -->
+    <form method="put" action="/kb/about/privacy-policy/rate">
+      <p>
+        
+          Is this article helpful?
+        
+      </p>
+      <p class="ratings">
+        <!-- ko ifNot: isNegative -->
+        <span class="fa-stack fa-lg thumbs-up">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-thumbs-up fa-inverse fa-stack-1x" data-bind="click: ratingUp"></i>
+        </span>
+        <span class="fa-stack fa-lg thumbs-down">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-thumbs-down fa-inverse fa-stack-1x" data-bind="click: ratingDown"></i>
+        </span>
+        <!-- /ko -->
+      </p>
+      <!-- ko if: isNegative -->
+      <p>
+        <label for="reason">Do you have any feedback about this article? (optional)</label>
+      </p>
+      <p>
+        <textarea name="reason" data-bind="value: reason, hasFocus: isNegative"></textarea>
+        <button class="gbutton" type="submit" name="rating" data-bind="click: ratingDown" value="down">Send feedback</button>
+      </p>
+      <!-- /ko -->
+    </form>
+    <!-- /ko -->
+    <!-- ko ifNot: showForm -->
+    <p class="ratings" style="display:none" data-bind="visible: isLoading">
+      <i class="fa fa-spin fa-spinner"></i> Sending your feedback
+    </p>
+    <p class="ratings" style="display:none" data-bind="visible: loaded">
+      Thank you!
+    </p>
+    <!-- /ko -->
+  
+</div>
+
+<script type="text/javascript">
+jQuery(function() {
+  var ratingContainer = document.getElementById('ratingContainer');
+  if (ratingContainer) {
+    Tender.koFaq = new Tender.FaqRatingModel();
+    ko.applyBindings(Tender.koFaq, ratingContainer);
+  }
+});
+</script>
+
+        
+      
       <dt>Section:</dt>
       <dd><a href="/kb/about">About</a></dd>
       <dt>Last Updated:</dt>
@@ -293,12 +362,13 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
             <li class="category-about"><a href="/kb/about/disclosure">Disclosure</a></li>
           </ul>
       </div>
+  
 </div>
 <div class="rule"></div>
 
 
 <ul class="categories" id="faqsections">
-        <li class="faqitem section-general_questions">
+        <li class="faqitem section-general-questions">
         <h3>
       <a href="/kb/general-questions">General questions</a> 
       
@@ -307,35 +377,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-what kb-keyword-tank kb-keyword-content kb-keyword-management first-faq">
           <a href="/kb/general-questions/what-is-tank">What is Tank?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-what kb-keyword-build kb-keyword-showcase ">
           <a href="/kb/general-questions/what-can-i-build-with-tank">What can I build with Tank?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-why kb-keyword-hosted kb-keyword-website kb-keyword-app kb-keyword-manage ">
           <a href="/kb/general-questions/why-would-i-want-to-use-tank">Why would I want to use Tank?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-simple kb-keyword-sustainable kb-keyword-less kb-keyword-small ">
           <a href="/kb/general-questions/is-tank-right-for-me">Is Tank right for me?</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-contract kb-keyword-contracts kb-keyword-cancel kb-keyword-flexible kb-keyword-terms last-faq">
           <a href="/kb/general-questions/are-there-any-long-term-contracts">Are there any long term contracts?</a>
           
           
@@ -344,7 +414,7 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
       <li class="all"><a href="/kb/general-questions">View all (5 more)</a></li>
     </ul>
       </li>
-        <li class="faqitem section-getting_started_with_tank">
+        <li class="faqitem section-getting-started-with-tank">
         <h3>
       <a href="/kb/getting-started-with-tank">Getting started with Tank</a> 
       
@@ -353,35 +423,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-where kb-keyword-start kb-keyword-started kb-keyword-signin kb-keyword-signup kb-keyword-login kb-keyword-reset kb-keyword-password first-faq">
           <a href="/kb/getting-started-with-tank/where-do-i-get-started">Where do I get started?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-create kb-keyword-site kb-keyword-upgrade kb-keyword-skin ">
           <a href="/kb/getting-started-with-tank/how-do-i-create-my-first-site">How do I create my first site?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-delete kb-keyword-deleting kb-keyword-site kb-keyword-section kb-keyword-config kb-keyword-contact kb-keyword-child kb-keyword-page ">
           <a href="/kb/getting-started-with-tank/how-do-i-delete-a-site">How do I delete a site?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-sitemap kb-keyword-homepage kb-keyword-add kb-keyword-edit ">
           <a href="/kb/getting-started-with-tank/how-does-the-sitemap-work">How does the sitemap work?</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-how kb-keyword-navigation kb-keyword-menu kb-keyword-global kb-keyword-utility kb-keyword-hidden kb-keyword-order kb-keyword-reorder last-faq">
           <a href="/kb/getting-started-with-tank/how-does-navigation-work">How does navigation work?</a>
           
           
@@ -390,7 +460,7 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
       <li class="all"><a href="/kb/getting-started-with-tank">View all (1 more)</a></li>
     </ul>
       </li>
-        <li class="faqitem section-getting_to_know_tank">
+        <li class="faqitem section-getting-to-know-tank">
         <h3>
       <a href="/kb/getting-to-know-tank">Getting to know Tank</a> 
       
@@ -399,35 +469,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-how kb-keyword-sections kb-keyword-settings first-faq">
           <a href="/kb/getting-to-know-tank/how-do-sections-work">How do sections work?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-pages kb-keyword-child kb-keyword-sibling kb-keyword-parent kb-keyword-order kb-keyword-reorder kb-keyword-delete kb-keyword-deleting kb-keyword-page ">
           <a href="/kb/getting-to-know-tank/how-do-pages-work">How do 'pages' work?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-photos kb-keyword-photo kb-keyword-albums kb-keyword-images kb-keyword-upload kb-keyword-order kb-keyword-ordering ">
           <a href="/kb/getting-to-know-tank/how-do-photos-work">How do 'photos' work?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-posts kb-keyword-post kb-keyword-section kb-keyword-blog kb-keyword-weblog ">
           <a href="/kb/getting-to-know-tank/how-do-posts-work">How do 'posts' work?</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-how kb-keyword-files kb-keyword-upload kb-keyword-uploading last-faq">
           <a href="/kb/getting-to-know-tank/how-do-files-work">How do files work?</a>
           
           
@@ -436,7 +506,7 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
       <li class="all"><a href="/kb/getting-to-know-tank">View all (3 more)</a></li>
     </ul>
       </li>
-        <li class="faqitem section-managing_content">
+        <li class="faqitem section-managing-content">
         <h3>
       <a href="/kb/managing-content">Managing content</a> 
       
@@ -445,35 +515,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-how kb-keyword-content kb-keyword-on kb-keyword-off kb-keyword-publish kb-keyword-active kb-keyword-inactive kb-keyword-workflow first-faq">
           <a href="/kb/managing-content/how-do-i-switch-content-on-and-off">How do I switch content on and off?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-format kb-keyword-text kb-keyword-formatting kb-keyword-code kb-keyword-markdown kb-keyword-markup ">
           <a href="/kb/managing-content/how-do-i-format-text">How do I format text?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-links kb-keyword-link kb-keyword-mailto kb-keyword-internal kb-keyword-html ">
           <a href="/kb/managing-content/how-do-i-link-things-up">How do I link things up?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-images kb-keyword-upload kb-keyword-embed kb-keyword-align kb-keyword-link kb-keyword-image kb-keyword-resize kb-keyword-resizing ">
           <a href="/kb/managing-content/how-do-i-place-images-in-my-content">How do I place images in my content?</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-how kb-keyword-link kb-keyword-image kb-keyword-images kb-keyword-markdown kb-keyword-html kb-keyword-url last-faq">
           <a href="/kb/managing-content/how-do-i-link-an-image">How do I link an image?</a>
           
           
@@ -482,7 +552,7 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
       <li class="all"><a href="/kb/managing-content">View all</a></li>
     </ul>
       </li>
-        <li class="faqitem section-search_engine_optimisation">
+        <li class="faqitem section-search-engine-optimisation">
         <h3>
       <a href="/kb/search-engine-optimisation">Search engine optimisation</a> 
       
@@ -491,35 +561,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-what kb-keyword-seo kb-keyword-sitemap kb-keyword-analytics kb-keyword-webmaster kb-keyword-google first-faq">
           <a href="/kb/search-engine-optimisation/what-about-seo">What about SEO?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-what kb-keyword-seo kb-keyword-search kb-keyword-engine kb-keyword-optimisation kb-keyword-optimization kb-keyword-markup ">
           <a href="/kb/search-engine-optimisation/no-really-what-about-seo">No really. What about SEO?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-seo kb-keyword-submit kb-keyword-search kb-keyword-engine kb-keyword-index kb-keyword-google kb-keyword-yahoo kb-keyword-bing ">
           <a href="/kb/search-engine-optimisation/how-to-submit-your-site-to-the-search-engines">How to submit your site to the search engines</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-google kb-keyword-analytics kb-keyword-tracking kb-keyword-stats kb-keyword-code ">
           <a href="/kb/search-engine-optimisation/how-to-add-analytics-to-your-site">How to add Analytics to your site</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-how kb-keyword-google kb-keyword-webmaster kb-keyword-tools kb-keyword-sitemap kb-keyword-feeds last-faq">
           <a href="/kb/search-engine-optimisation/how-to-add-webmaster-tools-to-your-site">How to add Webmaster Tools to your site</a>
           
           
@@ -528,7 +598,7 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
       <li class="all"><a href="/kb/search-engine-optimisation">View all</a></li>
     </ul>
       </li>
-        <li class="faqitem section-understanding_skins">
+        <li class="faqitem section-understanding-skins">
         <h3>
       <a href="/kb/understanding-skins">Understanding skins</a> 
       
@@ -537,35 +607,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-what kb-keyword-skins kb-keyword-skin kb-keyword-template kb-keyword-theme kb-keyword-design kb-keyword-layout kb-keyword-structure first-faq">
           <a href="/kb/understanding-skins/what-are-skins">What are skins?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-skin kb-keyword-settings kb-keyword-skins kb-keyword-aspects kb-keyword-features kb-keyword-preferences kb-keyword-configuration ">
           <a href="/kb/understanding-skins/how-do-skin-settings-work">How do 'skin settings' work?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-what kb-keyword-skin kb-keyword-templates kb-keyword-template ">
           <a href="/kb/understanding-skins/what-are-templates">What are 'templates'?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-template kb-keyword-settings kb-keyword-code kb-keyword-page kb-keyword-post kb-keyword-pod ">
           <a href="/kb/understanding-skins/how-do-template-settings-work">How do 'template settings' work?</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-switch kb-keyword-change kb-keyword-skin kb-keyword-skins kb-keyword-theme kb-keyword-design last-faq">
           <a href="/kb/understanding-skins/switching-to-another-skin">Switching to another skin</a>
           
           
@@ -574,7 +644,7 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
       <li class="all"><a href="/kb/understanding-skins">View all (1 more)</a></li>
     </ul>
       </li>
-        <li class="faqitem section-understanding_widgets">
+        <li class="faqitem section-understanding-widgets">
         <h3>
       <a href="/kb/understanding-widgets">Understanding widgets</a> 
       
@@ -583,35 +653,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-slideshow kb-keyword-widget kb-keyword-images kb-keyword-widgets kb-keyword-album kb-keyword-parameters first-faq">
           <a href="/kb/understanding-widgets/the-slideshow-widget">The 'slideshow' widget</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-gallery kb-keyword-widget kb-keyword-widgets kb-keyword-image kb-keyword-images kb-keyword-galleries kb-keyword-album ">
           <a href="/kb/understanding-widgets/the-gallery-widget">The 'gallery' widget</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-imagegrid kb-keyword-widget kb-keyword-widgets kb-keyword-images kb-keyword-image kb-keyword-grid ">
           <a href="/kb/understanding-widgets/the-imagegrid-widget">The 'imagegrid' widget</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-imagelist kb-keyword-widget kb-keyword-widgets kb-keyword-image kb-keyword-list kb-keyword-images ">
           <a href="/kb/understanding-widgets/the-imagelist-widget">The' imagelist' widget</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-pagenav kb-keyword-widget kb-keyword-widgets kb-keyword-navigation kb-keyword-child kb-keyword-page kb-keyword-pages last-faq">
           <a href="/kb/understanding-widgets/the-pagenav-widget">The 'pagenav' widget</a>
           
           
@@ -620,7 +690,7 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
       <li class="all"><a href="/kb/understanding-widgets">View all (4 more)</a></li>
     </ul>
       </li>
-        <li class="faqitem section-adding_stuff_to_your_site">
+        <li class="faqitem section-adding-stuff-to-your-site">
         <h3>
       <a href="/kb/adding-stuff-to-your-site">Adding stuff to your site</a> 
       
@@ -629,35 +699,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-gmail kb-keyword-email kb-keyword-google kb-keyword-apps kb-keyword-setup kb-keyword-pop kb-keyword-smtp kb-keyword-emails kb-keyword-address kb-keyword-addresses first-faq">
           <a href="/kb/adding-stuff-to-your-site/how-to-add-email-to-your-site">How to add email to your site</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-flash kb-keyword-swfobject kb-keyword-code kb-keyword-javacsript ">
           <a href="/kb/adding-stuff-to-your-site/how-to-add-flash-to-your-site">How to add Flash to your site</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-map kb-keyword-google kb-keyword-maps kb-keyword-code ">
           <a href="/kb/adding-stuff-to-your-site/how-to-add-a-map-to-your-site">How to add a map to your site</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-how kb-keyword-video kb-keyword-embed kb-keyword-vimeo kb-keyword-youtube kb-keyword-code ">
           <a href="/kb/adding-stuff-to-your-site/how-to-add-video-to-your-site">How to add video to your site</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-how kb-keyword-form kb-keyword-custom kb-keyword-forms kb-keyword-wufoo last-faq">
           <a href="/kb/adding-stuff-to-your-site/how-to-add-a-form-to-your-site">How to add a form to your site</a>
           
           
@@ -666,7 +736,7 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
       <li class="all"><a href="/kb/adding-stuff-to-your-site">View all (6 more)</a></li>
     </ul>
       </li>
-        <li class="faqitem section-how_upgrading_works">
+        <li class="faqitem section-how-upgrading-works">
         <h3>
       <a href="/kb/how-upgrading-works">How upgrading works</a> 
       
@@ -675,35 +745,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-upgrade kb-keyword-process kb-keyword-activate kb-keyword-account kb-keyword-activating kb-keyword-upgrading first-faq">
           <a href="/kb/how-upgrading-works/the-upgrade-process">The upgrade process</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-upgrade kb-keyword-process kb-keyword-domains kb-keyword-url kb-keyword-domain ">
           <a href="/kb/how-upgrading-works/what-is-upgrading">What is upgrading?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-why kb-keyword-upgrade kb-keyword-website kb-keyword-site kb-keyword-domain kb-keyword-brand ">
           <a href="/kb/how-upgrading-works/why-should-i-upgrade">Why should I upgrade?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-upgrade kb-keyword-domain kb-keyword-point kb-keyword-a-record kb-keyword-dns kb-keyword-hostname kb-keyword-nameserver kb-keyword-nameservers ">
           <a href="/kb/how-upgrading-works/how-do-i-upgrade">How do I upgrade?</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-when kb-keyword-upgrade kb-keyword-register kb-keyword-domain last-faq">
           <a href="/kb/how-upgrading-works/when-should-i-upgrade">When should I upgrade?</a>
           
           
@@ -721,35 +791,35 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-terms kb-keyword-of kb-keyword-service kb-keyword-policy kb-keyword-practice kb-keyword-procedure kb-keyword-customers first-faq">
           <a href="/kb/about/terms-of-service">Terms of service</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-privacy kb-keyword-policy ">
           <a href="/kb/about/privacy-policy">Privacy policy</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-support kb-keyword-policy kb-keyword-design kb-keyword-technical kb-keyword-phone kb-keyword-telephone ">
           <a href="/kb/about/support-policy">Support policy</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-security ">
           <a href="/kb/about/security">Security</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-disclosure kb-keyword-consumer kb-keyword-protection last-faq">
           <a href="/kb/about/disclosure">Disclosure</a>
           
           
@@ -772,29 +842,29 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     <h2>Recent Discussions</h2>
     <table class="listing">
           <tbody><tr>
-        <td class="icon"><span class="icon problems"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="24 Jun, 2014 12:33 PM">24 Jun, 2014 12:33 PM</span></td>
-        <td class="link"><a href="/discussions/problems/10839-my-email-address-is-failing">My email address is failing.</a></td>
-      </tr>
-          <tr>
-        <td class="icon"><span class="icon problems"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="23 Jun, 2014 10:56 AM">23 Jun, 2014 10:56 AM</span></td>
-        <td class="link"><a href="/discussions/problems/10812-page-deleted-by-mistake">Page deleted by mistake</a></td>
+        <td class="icon"><span class="icon questions"></span></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="24 Nov, 2014 01:38 PM">24 Nov, 2014 01:38 PM</span></td>
+        <td class="link"><a href="/discussions/questions/13321-editing-page-titles">Editing page titles</a></td>
       </tr>
           <tr>
         <td class="icon"><span class="icon questions"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="19 Jun, 2014 01:02 PM">19 Jun, 2014 01:02 PM</span></td>
-        <td class="link"><a href="/discussions/questions/7714-adding-google-calendar-to-website">Adding google calendar to website</a></td>
-      </tr>
-          <tr>
-        <td class="icon"><span class="icon css"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="17 Jun, 2014 06:16 PM">17 Jun, 2014 06:16 PM</span></td>
-        <td class="link"><a href="/discussions/css/449-justification">Justification</a></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="24 Nov, 2014 01:03 PM">24 Nov, 2014 01:03 PM</span></td>
+        <td class="link"><a href="/discussions/questions/13305-rss">Rss</a></td>
       </tr>
           <tr>
         <td class="icon"><span class="icon questions"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="17 Jun, 2014 01:43 PM">17 Jun, 2014 01:43 PM</span></td>
-        <td class="link"><a href="/discussions/questions/7676-how-to-add-an-alt-tag-to-an-image">How to add an alt tag to an image</a></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="21 Nov, 2014 12:42 PM">21 Nov, 2014 12:42 PM</span></td>
+        <td class="link"><a href="/discussions/questions/13303-social-media-plugins">Social Media Plugins</a></td>
+      </tr>
+          <tr>
+        <td class="icon"><span class="icon questions"></span></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="14 Nov, 2014 08:27 AM">14 Nov, 2014 08:27 AM</span></td>
+        <td class="link"><a href="/discussions/questions/13269-change-e-mail-adress">change e mail adress</a></td>
+      </tr>
+          <tr>
+        <td class="icon"><span class="icon questions"></span></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="13 Nov, 2014 11:55 AM">13 Nov, 2014 11:55 AM</span></td>
+        <td class="link"><a href="/discussions/questions/13245-very-new-how-do-i">Very new, how do I?</a></td>
       </tr>
         </tbody></table>
   </div>
@@ -802,25 +872,25 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
     
       <h2>Recent Articles</h2>
       <table class="listing">
-              <tbody><tr>
+              <tbody><tr class="section-general-questions kb-keyword-browser kb-keyword-support kb-keyword-supported kb-keyword-firefox kb-keyword-safari kb-keyword-chrome kb-keyword-internet kb-keyword-explorer">
           <td class="icon"><span class="icon folder"></span></td>
-          <td class="link"><a href="/kb/adding-stuff-to-your-site/how-to-add-social-services-to-your-site">How to add social services to your site</a></td>
+          <td class="link"><a href="/kb/general-questions/what-browsers-do-you-support">What browsers do you support?</a></td>
         </tr>
-              <tr>
+              <tr class="section-how-upgrading-works kb-keyword-cancel kb-keyword-cancellation kb-keyword-cancelling kb-keyword-cancellations kb-keyword-suspend kb-keyword-suspension kb-keyword-suspending kb-keyword-downgrade kb-keyword-downgrades kb-keyword-transfer">
           <td class="icon"><span class="icon folder"></span></td>
           <td class="link"><a href="/kb/how-upgrading-works/how-cancellations-work">How cancellations work</a></td>
         </tr>
-              <tr>
+              <tr class="section-general-questions kb-keyword-host kb-keyword-hosting kb-keyword-terms kb-keyword-ftp kb-keyword-licensing kb-keyword-license">
+          <td class="icon"><span class="icon folder"></span></td>
+          <td class="link"><a href="/kb/general-questions/can-anyone-host-my-site">Can anyone host my site?</a></td>
+        </tr>
+              <tr class="section-adding-stuff-to-your-site kb-keyword-social, kb-keyword-icons, kb-keyword-sharing, kb-keyword-facebook, kb-keyword-twitter, kb-keyword-pinterest, kb-keyword-tweet, kb-keyword-like, kb-keyword-pin, kb-keyword-subscribe, kb-keyword-send, kb-keyword-page, kb-keyword-linkedin">
+          <td class="icon"><span class="icon folder"></span></td>
+          <td class="link"><a href="/kb/adding-stuff-to-your-site/how-to-add-social-services-to-your-site">How to add social services to your site</a></td>
+        </tr>
+              <tr class="section-about kb-keyword-terms kb-keyword-of kb-keyword-service kb-keyword-policy kb-keyword-practice kb-keyword-procedure kb-keyword-customers">
           <td class="icon"><span class="icon folder"></span></td>
           <td class="link"><a href="/kb/about/terms-of-service">Terms of service</a></td>
-        </tr>
-              <tr>
-          <td class="icon"><span class="icon folder"></span></td>
-          <td class="link"><a href="/kb/adding-stuff-to-your-site/how-to-add-video-to-your-site">How to add video to your site</a></td>
-        </tr>
-              <tr>
-          <td class="icon"><span class="icon folder"></span></td>
-          <td class="link"><a href="/kb/how-upgrading-works/how-do-i-upgrade">How do I upgrade?</a></td>
         </tr>
             </tbody></table>
     
@@ -862,4 +932,4 @@ Information, please contact <a>support@withtank.com</a>.</p></div>
 
   
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-488.min.js"></script></body></html>
