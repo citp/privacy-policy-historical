@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metallicabb.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318082858id_/http%3A//www.metallicabb.com/index.php%3Fapp%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metallicabb.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130003525id_/http%3A//www.metallicabb.com/index.php%3Fapp%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Metallicabb.com
 
