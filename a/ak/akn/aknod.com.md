@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aknod.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311024537id_/http%3A//aknod.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aknod.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129025916id_/http%3A//aknod.com/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
