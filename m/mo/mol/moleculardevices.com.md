@@ -1,75 +1,128 @@
-> *The following text is extracted and transformed from the moleculardevices.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064853id_/http%3A//www.moleculardevices.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleculardevices.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129171244id_/http%3A//www.moleculardevices.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Molecular Devices
 
-Welcome to www.MolecularDevices.com (and permutation webpages that provide a direct link to this Privacy Policy - collectively the "Sites"), which are owned and operated by Molecular Devices, LLC. This Privacy Policy is designed to explain our practices regarding the collection and use of information received from you and/or your company. 
+Moleculardevices.com Global Privacy Notice
 
-The Sites provide an opportunity for investors, prospective employees, and other adults to learn more about our company. The Sites are particularly geared to our customer base - life science researchers, drug discovery & development scientists, and bioassay/test developers - to provide them with content, products, and services focusing on their industries, to the role they play in their organizations, and to helping them accomplish biological procedures faster, more reliably, and in a cost-efficient manner. 
+Effective Date:  October 3, 2014
 
-Your use of the Sites is subject to this Privacy Policy, which you may at any time print or download (or request a printed copy by contacting us as specified below). We reserve the right to change this Privacy Policy at any time by posting the revised policy at this location. 
+Molecular Devices LLC, along with our affiliates and subsidiaries, (“Molecular Devices”) respect your concerns about privacy and value the relationship we have with you.  This Global Privacy Notice describes the types of personal information we collect on www.moleculardevices.com (the “Site”), how we use the information, with whom we share it, and the choices available regarding our use of the information.  We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices.  
 
-**Consent and data transfer:** By giving your personal information to us, which includes information furnished during a pre-registration, online order, or other registration or data capture process, you agree that we may collect and use such personal information and other information in accordance with the terms and conditions of this Privacy Policy. 
+This Global Privacy Notice does not apply to Molecular Devices sites that have their own separate privacy policies or notices.  
 
-For our customers in Switzerland and the European Union, please note that Molecular Devices, LLC. and affiliates operates in countries outside of Switzerland and the European Union (including the United States). If you use this Site, all information, including personal information, will be transferred to Molecular Devices, LLC. (including subcontractors that may be maintaining and/or operating our Sites) in the United States and elsewhere. Although this may include countries where there may be a lower level of legal protection for your personal information then your location country, we will protect your information in accordance with requirements applicable to your information. By using this Site, you unambiguously consent to the transfer of your personal information and other information to the United States and elsewhere for the purposes and uses described herein. 
+Click on one of the links below to jump to the listed section.
 
-**How we collect information about you:
+  * Information We Collect
+  * How We Use the Information We Collect
+  * Online Tracking
+  * Information We Share
+  * Your Choices
+  * Notice to California Residents
+  * Access and Correction
+  * Data Transfers
+  * How We Protect Personal Information
+  * Links To Other Websites
+  * Updates To Our Global Privacy Notice
+  * How To Contact Us
 
-Personally identifying information.
 
-** When you register via this Site, you will be asked to provide personally identifying contact information (e.g., name, organization, address, phone number, e-mail address, fax number, and so on) and other information. On this Site, for example, we may collect and retain personally identifying and other information from you in a number of ways, such as when you place an order, request e-mail updates or other information, complete customer surveys, submit a feedback or contact form, or provide a resume. Information about particular transactions, such as product purchases over the website, is maintained in our databases in the same or similar manner as such information is maintained for transactions which are done by telephone, fax, etc. If any third parties, including any companies owned by Molecular Devices, LLC., provide information to us about you, we may combine that information with other information we have about you, and if and to the extent we do, we will treat such combined information in accordance with this Privacy Policy. 
 
-**E-mail address.** Your e-mail address is used to raise and respond to issues and inquiries of all types and to keep in contact with you generally. It is also used to distribute information about us and market our products and services as described herein. 
+_**Information We Obtain**_  
 
-**Use of cookies and website data.** This Site collects various information from you in the course of your navigation of the Site, such as the URL of the site you just came from, the browser version you use, your Internet Protocol (IP) address, IP ports, date/time of access, size of data transferred, pages you visit, and other "clickstream" data. We are typically not able to relate such data to you as an individual if you merely browse our Site and do not disclose your identity to us, e.g., in connection with a registration. We also use "cookies" to enhance your Site visit. A "cookie" is information either temporarily or permanently stored in a file on your computer. You can set your internet browser to reject cookies (refer to your internet browser instructions if you wish to do so), but that may limit your use of some convenience features at this Site. 
+We may obtain certain personal information (such as your name and contact details) when you choose to provide them through our Site.  The types of information we may obtain include:
 
-**How we use information about you:  
-**  
-We use information collected by clickstream data collection and cookies to store your preferences, improve web site navigation, make personalized features and other services available to you, compile and analyze aggregate statistics and trends, and otherwise help administer and improve the Site. Where you provide registration information, cookies can also be used to identify you when you log onto the Site or portions of the Site. 
+  * Contact information (such as name, postal address, email address, and mobile or other phone number);
+  * username and password to access Molecular Devices products and services online;
+  * account number;
+  * payment information (such as payment card number, expiration date, delivery address, and billing address); and
+  * content you may provide (for example, when you complete our Online Contact Form).
 
-Except as otherwise stated, we may use information we collect from you and others to respond to your request, improve the content, services, and products that we provide, customize this Site to your preferences, communicate information to you (where you have not expressed a preference otherwise), for our marketing and research analysis, and for other purposes identified to you. Some marketing and research analysis is conducted by third parties providing data collection and analysis services under contract with us, utilizing anonymous data collected from cookies. As noted above, you can reject such cookies by following your browser's instructions. We reserve the right to make full use of information that is not in personally identifiable form. 
 
-From time to time, we use contact information obtained via this Site to send e-mail and postal mail supplying customers with the most recent product and service information, as well as other information we think may be useful to you. If you order products or services via our Site, we may contact you by e-mail to send you information about your order (e.g., order confirmations, shipment notifications, etc.). We may also contact Site visitors via e-mail regarding their account status and about changes to any relevant agreements or policies. We sometimes also use this data to establish a profile for your company, or collectively for some or all of our customers, to help us make business decisions, such as what kinds of new products we should be developing. We will also use it for other internal business purposes including aggregating information, data warehousing and mining, cross matching databases and pooling data for effective data management, to understand your needs, improve security of data, for statistical analysis, devising, deploying and measuring marketing campaigns and group wide sharing and for such and other reasonable business purposes and operational efficiency improvement. We may remove information when it becomes out of date or inaccurate or when properly requested by you (subject to any legal duty or requirement we may have to preserve it). 
 
-In connection with our customer rewards programs and/or other promotions, we use the information you submit to maintain your account, measure the benefits for our business and pursue other legitimate business purposes as described in this Privacy Policy and in the terms and conditions (where applicable) for the program or promotion. 
+In addition, when you visit our Site, we may obtain certain information by automated means, such as cookies and web beacons.    The information we obtain in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, geographic location, referring URLs, information on actions taken on our site, and dates and times of website visits.    A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser.  A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.  Through these automated collection methods, we obtain “clickstream data,” which is a log of content on which a visitor clicks while browsing a website.    As the visitor clicks through the website, a record of the action may be collected and stored.    Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies.  Please note, however, that without cookies you may not be able to use all of the features of our Site.  
 
-**How we share your information:  
-**  
- **Third parties.** Molecular Devices, LLC. does not provide the personally identifiable information you supply to us to outside mailing lists. We may share information about you with employees, affiliates, successors, and agents/representatives (for example, consultants), which are required to treat the information in accordance with this Privacy Policy. Except as specifically described in this Privacy Policy, we will not, without your specific prior consent, sell, trade, or transfer your information to unaffiliated third parties other than authorized third parties (such as, for example, contractors supporting operation of this Site) and others involved in the e-commerce distribution chain (e.g., vendors, service providers), which may need access to some of your personal information. We oblige such third parties to comply with our privacy policy, and limit their access and use of your personal information. 
+To the extent required by applicable law, we will obtain your consent before collecting information using cookies or similar automated means.
 
-**Mergers/acquisitions.** In the event of any prospective or actual merger, business or asset sale, divestiture, other changes in control or financial status, or re-organization we may share or transfer personal information with the other party or parties involved. We will require the recipient to use the information in accordance with this Privacy Policy. 
+_**How We Use the Information We Obtain**_  
 
-**Disclosures required by law.** Occasionally, we may be required by law enforcement, government contract administrators, and/or judicial authorities to provide personally identifiable information to the appropriate judicial, governmental or regulatory authorities under applicable law, regulation or the terms of government contracts. We will disclose personally identifiable information upon receipt of a court order, subpoena, or if required to co-operate with law enforcement investigations or government contract compliance reviews. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful to the extent permitted by law. 
+We may use the information we obtain through the Site to: 
 
-**How we protect your information:  
-**  
-We take reasonable steps to safeguard the information you provide to us. For example, web page elements transmitting personal or financial information are encrypted from your client PC to our servers (which are located in the United States to the extent data on Canadian registered website visitors is concerned) using the standard known as SSL (Secure Sockets Layer). Beyond the SSL encryption your data is protected once it reaches our network through the use of secure network firewalls. Portions of your data may also be encrypted on our storage server for additional security. 
+  * Create and manage your online account;
+  * offer and provide products and services to you; 
+  * communicate with you about, and administer your participation in, surveys, events, programs, promotions and other offers;
+  * display content on our Site;
+  * process your payments;
+  * respond to and communicate with you about your inquiries and requests and provide information you request;
+  * register your purchased products and provide product and service support;
+  * process claims we receive in connection with our products and services;
+  * operate, evaluate and improve our business (including developing new products and services; enhancing and improving our services; managing our communications; analyzing our products; performing data analytics; and performing accounting, auditing, billing reconciliation and collection activities and other internal functions);
+  * perform data analysis and other analyses and processing (including market and consumer research, trend analysis, financial analysis, anonymization, encryption and tokenization of personal information);
+  * protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; 
+  * comply with and enforce applicable legal requirements, relevant industry standards and our policies;
+  * promote our products and services and other Danaher company products and services
 
-Because no system is 100% secure or error-free despite taking commercially reasonable steps, Molecular Devices, LLC. and its affiliates do not promise, and you should not expect, that information you provide shall remain private under all circumstances. It is your responsibility to safeguard any passwords, ID numbers, or other special access features associated with your use of the Site. 
 
-**Opting out:  
-**  
-If you do not wish to receive certain communications from us, or our affiliates or representatives, you may opt out by: (1) declining the service offered when registering or at other information collection points on the Site, or (2) informing us that you no longer wish to receive such communications. We will comply with such requests unless such communications from us are required by law or do not require your consent under applicable laws. If you opt out of certain communications, you may not be able to access certain of our products or services. If you would like to opt out of receiving communications from affiliates or other third parties with whom we shared data in accordance with this policy, please contact such third parties directly. 
 
-**Access, blocking, deletion, and correction of information you provide:**
+In addition, we use information collected online through cookies, web beacons and other automated means for purposes such as (i) customizing our users’ visits to our Site, (ii) delivering content (including advertising) tailored to our users’ interests and the manner in which our users browse our Site, and (iii) managing our business.  We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site, and gather demographic information about our users.    We use clickstream data to determine how much time users spend on web pages of our Site, how users navigate through our Site, and how we may tailor our Site to better meet the needs of our users.    
+We may use third party web analytics services on this Site, such as those of Google Analytics and ActOn.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the Site.  The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the Site.  To learn more about Google Analytics and how to opt out, please visit [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html).  Act-On may use certain other information collected from you to help diagnose technical problems, administer this website, and improve the quality and types of services delivered. ActOn complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. ActOn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ActOn's certification, please visit http://www.export.gov/safeharbor/.
 
-You may at any time request access to a summary of your personal information held by us, and request corrections or updates to that information. We will make reasonable efforts to respond promptly to such requests for information in accordance with local laws. Our response to such requests may be limited to information under our direct control. 
+We also may use the information in other ways for which we provide specific notice at the time of collection.  
 
-Please notify us of any changes in your name, address, title, telephone number or e-mail address. You can correct your personally identifiable information yourself by accessing your online profile, or by [contacting us](http://www.absciex.com/mk/submit/absciex_RD?_JS=T&rd=aa) to request changes. You may ask to have the information on your account deleted or removed; however, because we keep track of certain transaction information, such as past purchases, and other similar information, for legal compliance purposes, we may not be able to delete certain information. If information we hold appears to be inaccurate we will block its use until the position is verified to our satisfaction. 
+_**Online Tracking **_  
+On the Site, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests.    This section of our Global Privacy Notice provides details and explains how to exercise your choices.
 
-If you have any questions relating to this Privacy Policy or relating to the transfer of your personal data, please contact us at your [local office](http://www.absciex.com/mk/submit/absciex_RD?_JS=T&rd=z). If you do not agree to this Privacy Policy, please do not provide us with your information. 
+You may see certain ads on other websites based on your visits to our Site because we participate in advertising networks administered by third-party vendors.    Ad networks allow us to target our messaging to users considering demographic data, users’ inferred interests and browsing context.  These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons.  The networks use this information to show you advertisements that are tailored to your individual interests.  The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you view and the actions you take on the websites.  This data collection takes place both on our Site and on third-party websites that participate in the ad networks.  This process also helps us track the effectiveness of our marketing efforts.  To learn more about how to opt out of ad network interest-based advertising, [click here](http://www.aboutads.info/choices).  
 
-**Other websites:**
+We utilize Google Display Advertising (such as Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting) to (1) show you our ads on other websites based on your prior visits to our Site, and (2) better understand our ad impressions and use of ad services.   In connection with the Google Analytics Demographics and Interest Reporting service, we may use data from Google’s interest-based advertising or third-party audience data (such as age, gender and interests) with Google Analytics to understand and improve our marketing campaigns and Site content.  
 
-This Site contains links to the websites of other organizations. Molecular Devices, LLC. is not responsible for the privacy practices or the content of other websites, and unless otherwise specified, does not imply any relationship, sponsorship, or affiliation between Molecular Devices, LLC. and these linked sites, or adoption or approval of the content of such sites. Since we do not control these websites, we encourage you to review the privacy policies posted on those, and all, third party websites. 
+Some of our online advertising takes place through Google Display Advertising.  As part of this program, we use Google Analytics features such as Retargeting.  In connection with that feature and others offered by ad networks, we and the operators of ad networks, including Google, may use third-party cookies (such as the DoubleClick cookie) – and in some cases first-party cookies (such as the Google Analytics cookie) – to inform, optimize and serve ads across the Internet based on a user’s past visits to our Site.  We also may show you ads from some of our affiliates when you visit our Site.
 
-**Children's privacy:**
+You can opt out of Google AdWords remarketing service and Google Analytics for Display Advertising by clicking [here](http://www.google.com/ads/preferences). Our Site is not designed to respond to “do not track” signals received from browsers.
 
-We do not knowingly collect personal information from children under the age of 18. 
+_**Information We Share**_  
 
-**How to contact us:**
+We do not sell or otherwise disclose personal information we collect about you, except as described here.
 
-For any requests or questions related to this Privacy Policy, or if you have concerns about how information you provide to  **Molecular Devices, LLC.**  is being used, please contact us at [info@moldev.com](mailto:info@moldev.com) or [webmaster@moldev.com](mailto:webmaster@moldev.com). 
+We may share your personal information with:
 
-**Revisions to Privacy Policy:**
+  * Our affiliates and subsidiaries for the purposes described in this Global Privacy Notice.
+  * Service providers who perform services on our behalf based on our instructions.  We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.  Examples of these service providers include entities that respond to customer inquiries, process credit card payments, fulfill orders, and provide web hosting and marketing services.  
+  * Other third parties with your consent.
 
-Please check back for material revisions to this Policy.
+
+
+In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials based on a lawful disclosure request, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.  
+
+We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
+
+_**Your Choices **_
+
+We offer you certain choices in connection with the personal information we collect from you, such as how we use the information and how we communicate with you.  To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified in the How to Contact Us section of this Global Privacy Notice.
+
+_**Notice to California Residents **_
+
+Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties.  To make this request, California residents may contact us as specified in the How to Contact Us section below.
+
+_**Access and Correction **_
+
+To the extent provided by the law of your jurisdiction, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) block or delete your personal information from our database.  To exercise these rights, please contact us as indicated in the How To Contact Us section of this Global Privacy Notice.  To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information.  If you are resident in the EU, a charge may be applicable before we provide a copy to you of any of your personal information that we maintain.
+
+_**Data Transfers**_
+
+We may transfer the personal information we collect about you through the Site to countries other than the country in which the information originally was collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your personal information to other countries, we will protect that information as described in this Global Privacy Notice.  If you are located in the European Union (“EU”) or Switzerland, we will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries outside of the EU or Switzerland.  
+
+_**How We Protect Personal Information**_
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  
+
+_**Links To Other Websites **_
+
+Our Site may provide links to other websites for your convenience and information.  These websites may operate independently from us.  Linked websites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites.  To the extent any linked websites you visit are not owned or controlled by us, we are not responsible for the websites’ content, any use of the websites, or the privacy practices of the websites.  
+
+_**Updates To Our Global Privacy Notice **_
+
+This Global Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices.  We will post a prominent notice on our Site to notify you of any significant changes to our Global Privacy Notice and indicate at the top of the Notice when it was most recently updated.  
+
+_**How To Contact Us **_
+
+If you have any questions or comments about this Global Privacy Notice, or if you would like us to update information we have about you or your preferences, to exercise your rights of access, rectification, blocking, or deletion, or to object to the processing of your personal information, please contact us at [info@moldev.com](mailto:info@moldev.com?subject=Privacy%20Policy) or [webmaster@moldev.com](mailto:webmaster@moldev.com?subject=From%20Privacy%20Policy). 
