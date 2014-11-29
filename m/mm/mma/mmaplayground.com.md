@@ -1,62 +1,71 @@
-> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331015310id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129224234id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
 
-# MMAPlayground.com Internet Privacy Policy
+# MMAPlayground.com Privacy Policy
 
-| **UFC Fight Night 38: Shogun vs Henderson II**  
----  
-Earnings | Username  
-[$41,733](https://web.archive.org/financial_history.aspx?U=63884#EID192) | [Yerloose](https://web.archive.org/profile/Yerloose)  
-[$32,700](https://web.archive.org/financial_history.aspx?U=4305#EID192) | [snakeplissken](https://web.archive.org/profile/snakeplissken)  
-[$24,129](https://web.archive.org/financial_history.aspx?U=21348#EID192) | [sbulldavid](https://web.archive.org/profile/sbulldavid)  
-[$10,075](https://web.archive.org/financial_history.aspx?U=5238#EID192) | [kickass32](https://web.archive.org/profile/kickass32)  
-[$8,867](https://web.archive.org/financial_history.aspx?U=45885#EID192) | [silva18](https://web.archive.org/profile/silva18)  
-[$7,922](https://web.archive.org/financial_history.aspx?U=52650#EID192) | [LOUDFISH](https://web.archive.org/profile/LOUDFISH)  
-[$7,656](https://web.archive.org/financial_history.aspx?U=57533#EID192) | [ShivanTiger](https://web.archive.org/profile/ShivanTiger)  
-[$6,664](https://web.archive.org/financial_history.aspx?U=2712#EID192) | [bonedigger](https://web.archive.org/profile/bonedigger)  
-[$6,561](https://web.archive.org/financial_history.aspx?U=28523#EID192) | [One_Hit_Quit](https://web.archive.org/profile/One_Hit_Quit)  
-[$6,410](https://web.archive.org/financial_history.aspx?U=42862#EID192) | [MindHamster](https://web.archive.org/profile/MindHamster)  
-[$5,996](https://web.archive.org/financial_history.aspx?U=62195#EID192) | [StandTFU](https://web.archive.org/profile/StandTFU)  
-[$5,908](https://web.archive.org/financial_history.aspx?U=62117#EID192) | [james538](https://web.archive.org/profile/james538)  
-[$5,379](https://web.archive.org/financial_history.aspx?U=63822#EID192) | [smky420](https://web.archive.org/profile/smky420)  
-[$4,919](https://web.archive.org/financial_history.aspx?U=29812#EID192) | [JoeWarren33](https://web.archive.org/profile/JoeWarren33)  
-[$4,838](https://web.archive.org/financial_history.aspx?U=14775#EID192) | [dub_Jay](https://web.archive.org/profile/dub_Jay)  
+|   
   
-Sponsors
+---|---  
+  
+Effective: March 26, 2014 
 
-MMAPlayground.com has written this privacy policy to demonstrate our commitment to user based internet privacy. The following discloses our info gathering and dissemination practices for MMAPlayground.com. 
+If you do not agree to the terms and conditions of this Privacy Policy, including the use of your personally identifiable information in any manner described here, you may be prohibited from using much of our websites and services, including revocation of your membership. MMAPlayground may update this Privacy Policy from time-to-time in our sole discretion. In such case, MMAPlayground will attempt to provide you with notice to the email address on file for your account, no less than 30 days prior to any such update. It is your responsibility to check your email for updates, and to review the Privacy Policy for any changes. You agree that each time that you use the Site and Services and you are bound by any such changes. Use of the Site and Services by you following us emailing you or posting a new privacy policy on our Site constitutes your acceptance of the Privacy Policy as modified. 
 
-1\. Collecting Personal Information from Visitors 
+**What information do we collect?**
 
-MMAPlayground.com may track and/or gather (1) email addresses, client computer type, and other non-personal web browser specifics of visitors to the MMAPlayground.com website, (2) emails of visitors that contact and/or communicate with MMAPlayground.com, (3) data/info knowingly given by a visitor via registration forms, forums postings, and any other online web input forms and (4) aggregate user-specific data on which pages visitors access on MMAPlayground.com. 
+**Registration information** \- When you sign up for the Site, we ask for your personal information. In some cases, we may also ask you to send us additional information or to answer additional questions to help verify your information. 
 
-MMAPlayground.com may place "cookies" on visitor's computer. Internet cookies store non-personal data about a user's website preferences and settings. When the visitor returns to MMAPlayground.com, MMAPlayground.com may recognize the user as a past visitor by the cookie and customize the user's experience as needed. Visitors may decline to accept cookies by using the corresponding feature of their browser, but we cannot guarantee all site functionality will remain intact for the maximum user experience. 
+**Information obtained from third parties** \- We may obtain information about you from third parties to verify the information you provide. We also may obtain information from third parties in connection with providing the Services to you. 
 
-Website search data may be recorded and stored for research purposes and/or to help resolve possible technical issues which may in turn link a user id to the performed search. 
+**Submission information** – When you submit information through the Services, we may store that information and also collect and store metadata about that information. We do not screen for personally identifying information; to the extent you have included any such information in your submissions, it will be stored and disclosed in the course of our general use of such information. 
 
-2\. Usage of Data Gathered 
+**Information about your use of the service** \- We may collect information about your interaction with the service to help validate your identity or detect potentially fraudulent conduct. 
 
-Non-specific personal data collected by MMAPlayground.com might be utilized by MMAPlayground.com for feedback and editorial purposes, for promotional marketing purposes, for statistical analysis purposes, for help in developing new website features, to assist in improving website user experience, to inform advertisers how many visitors have viewed and/or clicked on their respective ads, or to customize the contents of MMAPlayground.com for a user. 
+**User-provided contact information** – MMAPlayground may track and/or gather emails of visitors that contact and/or communicate with MMAPlayground. 
 
-3\. Website Security Measures 
+**Cookies** \- When you access an MMAPlayground web page, we may send one or more cookies (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information). 
 
-MMAPlayground.com has implemented varius security features to help prevent any unauthorized release of personal information. Be advised though, that while MMAPlayground.com has endeavored to make a secure reliable website for its users, the privacy and confidentiality of communications transmitted to/from MMAPlayground.com via this website or email cannot be guaranteed. As such, MMAPlayground.com is not held responsible for the security of any data transmitted via the internet to/from our website. 
+**Log information** \- When you use the Site, our servers may automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. User inputted Site search data may be recorded and stored for research purposes and/or to help resolve possible technical issues which may in turn link a user ID to the performed search. 
 
-4\. The Right to Opt-out 
+**User communications** \- When you send an email or other communication to us or other Site users. 
 
-Users may opt out of receiving emails from MMAPlayground.com administration concerning upcoming events and website announcements by clicking the corresponding "unsubscribe" link found in each and every communication sent from MMAPlayground.com. 
+**Links** \- We may present links in a format that enables us to keep track of whether these links have been followed. 
 
-5\. Collection of Personal Data from Children 
+**What do we use your information for?**
 
-To the extent that we are able to accurately determine the age of a website user by their submissions to MMAPlayground.com, MMAPlayground.com not knowingly (1) post or collect information from individuals under the age of thirteen or (2) provide any personally identifying info collected from said youngsters, regardless of its source, to any other party for any purpose whatsoever such as if registering on MMAPlayground.com information is submitted as part of the process which indicates that said user is a child. 
+**To personalize your experience** – Your information helps us better respond to and tailor our Site and Services to your individual needs. 
 
-6\. MMAPlayground.com User Contact Rights 
+**To improve our Site** – we continually update and improve our website and Services based on the information and feedback we receive from you. 
 
-We reserve the right to contact site users/visitors concerning account status updates and changes to the different website users agreements, this privacy policy, or any other documents relevant to the experience/usage of site visitors. 
+**To improve customer service**
 
-7\. MMAPlayground.com Privacy Policy Update Rights 
+**To process transactions for Fight Points (as defined in the Terms of Use)**
 
-The aforementioned policy information is effective as of January 11th, 2007. We reserve the right to alter this policy as deemed necesary at any time to ensure the successful administration of this website. By visiting and using the MMAPlayground.com website you are accepting all of the terms and conditions outlined in the above MMAPlayground.com Internet Privacy Policy. 8\. Other We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit networkadvertising.org/managing/opt_out.asp. 
+**To administer promotions, surveys or other Site features**
 
-| 
+**To send you periodic emails** – the email address you provide for registration purposes may be used to send you information about this website, in addition to occasional news, updates, related product or service information (including, but not limited to sharing such non-specific information with third parties), etc. Users may opt out of receiving emails from MMAPlayground concerning upcoming events and Site announcements by clicking the corresponding "unsubscribe" link found in each and every communication sent from MMAPlayground. 
 
-[](http://www.sports-at-work.com/)
+We will not disclose or sell personally identifiable data to third parties, except as necessary to provide the services. You understand and agree that MMAPlayground may use non-personally identifying data and aggregate data in connection with the above and may share or sell such data to third parties. If you do not want your non-personally identifying data shared, you may [write to us](https://web.archive.org/contact.aspx). You understand and agree that any decision you make to withhold any information from MMAPlayground may prevent MMAPlayground from being able to fulfill your request and/or impair your ability to utilize all functionality of the Site. 
+
+**How do we protect your information?**
+
+MMAPlayground has implemented various security features to help prevent any unauthorized release of personal information. Our features include technical and physical security measures to guard against unauthorized access to systems where we store personal data. Be advised that while MMAPlayground has endeavored to make a secure reliable Site for its users, the privacy and confidentiality of communications transmitted to/from MMAPlayground via this Site or through email cannot be guaranteed. As such, MMAPlayground is not held responsible for the security of any data transmitted via the Internet to/from our website. 
+
+The security of your account also depends on keeping your account password confidential and you should not share your account name or password with anyone. If you do share your account information with a third party, they will have access to your account and your personal information. 
+
+**Accessing and Editing Your Personal Information**
+
+You have the ability to access and edit any personal information held on the site. You may do so by logging into your profile and changing any user information stored on file there. To the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably possible. Please note that although you may delete this information from your profile, the information may remain stored indefinitely in our backup and archival records. While your personal information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our Site. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these sites. 
+
+**Age Restrictions**
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), as we do not collect any information from anyone under 18 years of age. Our website, products and services are all directed to people who are at least 18 years old or older. If you are under the age of 18, please do not submit any personal information through the Site. 
+
+**Changes to this policy**
+
+Please note that this Privacy Policy may change from time to time. We will post any Policy changes on this page. Each version of this Policy will be identified at the top of the page by its effective date. 
+
+If you have any questions about this Policy, please feel free to contact us through the Site or write to us at 67 Harned Rd. Suite 2B, Commack, NY 11725. 
