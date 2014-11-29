@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319063621id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129031118id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
 
 # NRC: Privacy Policy and Security Notice
 
@@ -136,6 +136,6 @@ In response to the Office of Management and Budget (OMB) May 22, 2007, memorandu
 
 ## NRC Personally Identifiable Information Breach Notification Policy
 
-In accordance with established policy, the U.S. Nuclear Regulatory Commission (NRC) actively protects personally identifiable information from access by, or disclosure to, unauthorized individuals. The purpose of this document is to reiterate policy and establish standardized response and notification procedures for breaches of that policy. In the event of a breach in PII security requirements, agency personnel are to comply with the following procedures for response and notice to affected individuals, other Federal agencies, and the media, as appropriate. These policies and procedures govern breaches by agency personnel that may result in unauthorized access, either internal or external to the NRC, whether involving electronic systems or paper documents. For more details, please see [ML083650337](http://pbadupws.nrc.gov/docs/ML0836/ML083650337.pdf).
+In accordance with established policy, the U.S. Nuclear Regulatory Commission (NRC) actively protects personally identifiable information from access by, or disclosure to, unauthorized individuals. The purpose of this document is to reiterate policy and establish standardized response and notification procedures for breaches of that policy. In the event of a breach in PII security requirements, agency personnel are to comply with the following procedures for response and notice to affected individuals, other Federal agencies, and the media, as appropriate. These policies and procedures govern breaches by agency personnel that may result in unauthorized access, either internal or external to the NRC, whether involving electronic systems or paper documents. For more details, please see [ML14036A058](http://pbadupws.nrc.gov/docs/ML1403/ML14036A058.pdf).
 
-_Page Last Reviewed/Updated Friday, November 22, 2013_
+_Page Last Reviewed/Updated Tuesday, October 28, 2014_
