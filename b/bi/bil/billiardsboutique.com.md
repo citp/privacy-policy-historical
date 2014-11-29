@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billiardsboutique.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530153838id_/http%3A//www.billiardsboutique.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billiardsboutique.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129172330id_/http%3A//www.billiardsboutique.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy and use of Cookies
 
