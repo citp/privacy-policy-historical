@@ -1,16 +1,69 @@
-<!--The following is the downloaded HTML source of the goldenplec.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626051727id_/http%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldenplec.com privacy policy that was archived on 2014-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129172940id_/http%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en-US"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4OUFZWGwcBU1NWAgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
- 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4OUFZWGwcGV1lVAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+<meta charset="utf-8">
 <title>Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/themes/zenko-test/style.css" media="screen">
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/themes/zenko-test/ie7.css" /><![endif]-->
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/themes/zenko-test/ie6.css" /><![endif]-->
-<link rel="alternate" type="application/rss+xml" title=" RSS Feed" href="http://www.goldenplec.com/feed/">
-<link rel="pingback" href="http://www.goldenplec.com/xmlrpc.php">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!--[if lt IE 9]>
+    	<script src='http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/js/respond.js'></script>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<link rel="stylesheet" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/style.css">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-72.png">
+<link rel="apple-touch-icon-precomposed" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-57.png">
+<link rel="shortcut icon" href="http://www.goldenplec.com/favicon.ico">
  
+<link rel="canonical" href="http://www.goldenplec.com/privacy-policy/">
+<link rel="publisher" href="https://plus.google.com/b/112071514760753086020/112071514760753086020/posts">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Privacy&nbsp;Policy Your privacy is critically important to us. At GoldenPlec we have a few fundamental principles: We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.) We don’t share your personal information with anyone …">
+<meta property="og:url" content="http://www.goldenplec.com/privacy-policy/">
+<meta property="og:site_name" content="GoldenPlec">
+<meta property="article:publisher" content="http://www.facebook.com/goldenplec">
+<meta property="article:author" content="http://www.facebook.com/dionsis">
+<meta property="fb:admins" content="1183923284">
+<meta property="og:image" content="https://si0.twimg.com/profile_images/2453854008/2whznz7bz5g9xb7229jr.png">
+ 
+<link rel="stylesheet" id="formidable-css" href="http://www.goldenplec.com/wp-content/uploads/formidable/css/formidablepro.css?ver=1.07.11" type="text/css" media="all">
+<link rel="stylesheet" id="wpt-twitter-feed-css" href="http://www.goldenplec.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="us-plugin-styles-css" href="http://www.goldenplec.com/wp-content/plugins/ultimate-social-deux/public/assets/css/style.css?ver=3.1.5" type="text/css" media="all">
+<style type="text/css">.us_floating .us_wrapper .us_button{width:45px;-webkit-transition:width 100ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 100ms ease-in-out,background-color 400ms ease-out;-o-transition:width 100ms ease-in-out,background-color 400ms ease-out;transition:width 100ms ease-in-out,background-color 400ms ease-out;}.us_floating .us_wrapper .us_button:hover{width:90px;-webkit-transition:width 100ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 100ms ease-in-out,background-color 400ms ease-out;-o-transition:width 100ms ease-in-out,background-color 400ms ease-out;transition:width 100ms ease-in-out,background-color 400ms ease-out;}.us_button:hover,.us_fan_count_button:hover{background-color:#008000;}.us_button{-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;-moz-border-radius-bottomright:0px;-moz-border-radius-bottomleft:0px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-webkit-border-bottom-right-radius:0px;-webkit-border-bottom-left-radius:0px;}.us_fan_count_button{-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;-moz-border-radius-bottomright:0px;-moz-border-radius-bottomleft:0px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-webkit-border-bottom-right-radius:0px;-webkit-border-bottom-left-radius:0px;}div[class*='us_facebook']{background-color:#3b5998;}div[class*='us_twitter']{background-color:#00ABF0;}div[class*='us_google']{background-color:#D95232;}div[class*='us_delicious']{background-color:#66B2FD;}div[class*='us_stumble']{background-color:#E94B24;}div[class*='us_linkedin']{background-color:#1C86BC;}div[class*='us_pinterest']{background-color:#dd3333;}div[class*='us_buffer']{background-color:#000000;}div[class*='us_reddit']{background-color:#CEE3F8;}div[class*='us_vkontakte']{background-color:#537599;}.us_mail{background-color:#666666;}div[class*='us_love']{background-color:#FF0000;}div[class*='us_pocket']{background-color:#ee4056;}div[class*='us_tumblr']{background-color:#529ecc;}div[class*='us_print']{background-color:#60d0d4;}div[class*='us_flipboard']{background-color:#c10000;}div[class*='us_comments']{background-color:#b69823;}div[class*='us_feedly']{background-color:#414141;}div[class*='us_youtube']{background-color:#cc181e;}div[class*='us_vimeo']{background-color:#1bb6ec;}div[class*='us_dribbble']{background-color:#f72b7f;}div[class*='us_envato']{background-color:#82b540;}div[class*='us_github']{background-color:#201e1f;}div[class*='us_soundcloud']{background-color:#ff6f00;}div[class*='us_instagram']{background-color:#48769c;}div[class*='us_feedpress']{background-color:#ffafaf;}div[class*='us_mailchimp']{background-color:#6dc5dc;}div[class*='us_flickr']{background-color:#0062dd;}div[class*='us_members']{background-color:#0ab071;}.us_posts_fan_count{background-color:#924e2a;}</style>
+<link rel="stylesheet" id="suppamenu_style-css" href="http://www.goldenplec.com/wp-content/plugins/suppamenu/standard/css/suppa_frontend_style.css?ver=1.8.9" type="text/css" media="screen">
+<link rel="stylesheet" id="suppamenu_custom_style-css" href="http://www.goldenplec.com/wp-content/uploads/suppamenu/suppa_custom_style.css?ver=1.8.9" type="text/css" media="screen">
+<link rel="stylesheet" id="suppa_frontend_fontAwesome-css" href="http://www.goldenplec.com/wp-content/plugins/suppamenu/standard/css/fontAwesome/style-min.css?ver=1.8.9" type="text/css" media="screen">
+<link rel="stylesheet" id="suppa_frontend_hoverCSS-css" href="http://www.goldenplec.com/wp-content/plugins/suppamenu/standard/css/hover-master/hover-min.css?ver=1.8.9" type="text/css" media="screen">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=1.11.1"></script>
+<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/jquery/jquery.color.min.js?ver=2.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var us_script = {"ajaxurl":"http:\/\/www.goldenplec.com\/wp-admin\/admin-ajax.php","tweet_via":"goldenplec","sharrre_url":"http:\/\/www.goldenplec.com\/wp-admin\/admin-ajax.php","success":"Great work! Your message was sent.","trying":"Trying to send email...","total_shares_text":"Total Shares","facebook_height":"500","facebook_width":"900","twitter_height":"250","twitter_width":"650","googleplus_height":"500","googleplus_width":"500","delicious_height":"550","delicious_width":"550","stumble_height":"550","stumble_width":"550","linkedin_height":"550","linkedin_width":"550","pinterest_height":"320","pinterest_width":"720","buffer_height":"500","buffer_width":"900","reddit_height":"500","reddit_width":"900","vkontakte_height":"500","vkontakte_width":"900","printfriendly_height":"500","printfriendly_width":"1045","pocket_height":"500","pocket_width":"900","tumblr_height":"500","tumblr_width":"900","flipboard_height":"500","flipboard_width":"900","vkontakte_appid":"","facebook_appid":"","home_url":"http:\/\/www.goldenplec.com","enabletracking":"","nonce":"c8c507d880","already_loved_message":"You have already loved this item.","error_message":"Sorry, there was a problem processing your request.","logged_in":"false","bitly":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.goldenplec.com/wp-content/plugins/ultimate-social-deux/public/assets/js/script-ck.js?ver=3.1.5"></script>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@GoldenPlec">
+<meta name="twitter:url" content="http://www.goldenplec.com/privacy-policy/">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Privacy&nbsp;Policy Your privacy is critically important to us. At GoldenPlec we have a few …">
+<script>
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-142364-1']);
+				_gaq.push(['_trackPageview']);
+
+				(function() {
+					var ga   = document.createElement('script');
+					ga.type  = 'text/javascript';
+					ga.async = true;
+					ga.src   = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s    = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				}
+				)();
+			</script>
 <script data-cfasync="false" type="text/javascript">
 (function() {
 var useSSL = 'https:' == document.location.protocol;
@@ -20,190 +73,104 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 })();
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script data-cfasync="false" type="text/javascript">
-googletag.defineSlot('/179733492/Goldenplec_ROS_Billboard', [970, 250], 'div-gpt-ad-1403280822985-0').addService(googletag.pubads());
-googletag.defineSlot('/179733492/Goldenplec_ROS_BottomMPU', [[300, 250], [300, 600]], 'div-gpt-ad-1403280822985-1').addService(googletag.pubads());
-googletag.defineSlot('/179733492/Goldenplec_ROS_Leader', [728, 90], 'div-gpt-ad-1403280822985-2').addService(googletag.pubads());
-googletag.defineSlot('/179733492/Goldenplec_ROS_MPU', [[300, 250], [300, 600]], 'div-gpt-ad-1403280822985-3').addService(googletag.pubads());
-googletag.defineSlot('/179733492/Goldenplec_ROS_Skin', [1, 1], 'div-gpt-ad-1403280822985-4').addService(googletag.pubads());
+googletag.defineSlot('/179733492/Goldenplec_Home_BottomMPU', [[300, 250], [300, 600]], 'div-gpt-ad-1415719336457-0').addService(googletag.pubads());
+googletag.defineSlot('/179733492/Goldenplec_Home_Leader', [[320, 50], [728, 90]], 'div-gpt-ad-1415719336457-1').addService(googletag.pubads());
+googletag.defineSlot('/179733492/Goldenplec_Home_MPU', [[300, 250], [300, 600]], 'div-gpt-ad-1415719336457-2').addService(googletag.pubads());
+googletag.defineSlot('/179733492/Goldenplec_Home_Skin', [1, 1], 'div-gpt-ad-1415719336457-3').addService(googletag.pubads());
 googletag.pubads().enableSyncRendering();
 googletag.pubads().enableSingleRequest();
-googletag.pubads().collapseEmptyDivs();
 googletag.enableServices();
 </script>
- 
- 
-<link rel="canonical" href="http://www.goldenplec.com/privacy-policy/">
-<link rel="author" href="https://plus.google.com/u/0/+AidanCuffe/posts">
-<link rel="publisher" href="https://plus.google.com/b/112071514760753086020/112071514760753086020/posts">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="Privacy&nbsp;Policy Your privacy is critically important to us. At Goldenplec we have a few fundamental principles: We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.) We don’t share …">
-<meta property="og:url" content="http://www.goldenplec.com/privacy-policy/">
-<meta property="article:publisher" content="http://www.facebook.com/goldenplec">
-<meta property="article:author" content="http://www.facebook.com/dionsis">
-<meta property="fb:admins" content="1183923284">
-<meta property="og:image" content="https://si0.twimg.com/profile_images/2453854008/2whznz7bz5g9xb7229jr.png">
- 
-<link rel="alternate" type="application/rss+xml" title=" » Feed" href="http://www.goldenplec.com/feed/">
-<link rel="alternate" type="application/rss+xml" title=" » Comments Feed" href="http://www.goldenplec.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title=" » Privacy Policy Comments Feed" href="http://www.goldenplec.com/privacy-policy/feed/">
-<link rel="stylesheet" id="wpt-twitter-feed-css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="us-plugin-styles-css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/plugins/ultimate-social-deux/public/assets/css/style.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="us_ccss-css" href="http://www.goldenplec.com/index.php?us_ccss=1&amp;ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="wpz-shortcodes-css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/themes/zenko-test/functions/wpzoom/assets/css/shortcodes.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="zoom-font-awesome-css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/themes/zenko-test/functions/wpzoom/assets/css/font-awesome.min.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="wpzoom-custom-css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/themes/zenko-test/custom.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="wzslider-css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/themes/zenko-test/functions/wpzoom/assets/css/wzslider.css?ver=3.9.1" type="text/css" media="all">
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-includes/js/jquery/jquery.color.min.js?ver=2.1.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var us_script = {"ajaxurl":"http:\/\/www.goldenplec.com\/wp-admin\/admin-ajax.php","tweet_via":"goldenplec","sharrre_url":"http:\/\/www.goldenplec.com\/wp-admin\/admin-ajax.php","success":"Great work! Your message was sent.","trying":"Trying to send email...","total_shares_text":"Total Shares","facebook_height":"500","facebook_width":"900","twitter_height":"250","twitter_width":"650","googleplus_height":"500","googleplus_width":"500","delicious_height":"550","delicious_width":"550","stumble_height":"550","stumble_width":"550","linkedin_height":"550","linkedin_width":"550","pinterest_height":"320","pinterest_width":"720","buffer_height":"500","buffer_width":"900","reddit_height":"500","reddit_width":"900","vkontakte_height":"500","vkontakte_width":"900","printfriendly_height":"500","printfriendly_width":"1045","pocket_height":"500","pocket_width":"900","tumblr_height":"500","tumblr_width":"900","flipboard_height":"500","flipboard_width":"900","vkontakte_appid":"","facebook_appid":"","home_url":"http:\/\/www.goldenplec.com","enabletracking":"","nonce":"c22b59cc11","already_loved_message":"You have already loved this item.","error_message":"Sorry, there was a problem processing your request.","logged_in":"false","bitly":"false"};
-/* ]]> */
+</head>
+<body class="page page-id-76562 page-template-default page-privacy-policy page-parent-privacy-policy"><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="http://",c="www.goldenplec.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
 </script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/plugins/ultimate-social-deux/public/assets/js/script-ck.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/themes/zenko-test/js/init.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/themes/zenko-test/js/carousel-analytics.js?ver=1.7"></script>
-<meta name="generator" content="WordPress 3.9.1">
-<link rel="shortlink" href="http://www.goldenplec.com/?p=76562">
-<script>
-                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                })(window,document,'script','//www.google-analytics.com/analytics.js','gaplusu');
-
-                                                            gaplusu('create', 'UA-142364-1', 'auto');
-                                        gaplusu('send', 'pageview');
-                
-                            </script>
-<script type="text/javascript">
-	window._zem_rp_post_id = '76562';
-	window._zem_rp_thumbnails = true;
-	window._zem_rp_post_title = 'Privacy+Policy';
-	window._zem_rp_post_tags = [];
-	window._zem_rp_static_base_url = 'https://content.zemanta.com/static/';
-	window._zem_rp_wp_ajax_url = 'http://www.goldenplec.com/wp-admin/admin-ajax.php';
-	window._zem_rp_plugin_version = '1.9';
-	window._zem_rp_num_rel_posts = '8';
-</script>
-<link rel="stylesheet" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/plugins/related-posts-by-zemanta/static/themes/vertical.css?version=1.9">
-<style type="text/css">.related_post_title{}ul.related_post{}ul.related_post li{}ul.related_post li a{}ul.related_post li img{}</style>
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@GoldenPlec">
-<meta name="twitter:url" content="http://www.goldenplec.com/privacy-policy/">
-<meta name="twitter:title" content="Privacy Policy">
-<meta name="twitter:description" content="Privacy&nbsp;Policy Your privacy is critically important to us. At Goldenplec we have a few …">
-<link rel="shortcut icon" href="http://cdn2.goldenplec.com/wp-content/uploads/2012/04/favicon.png" type="image/x-icon"> </head>
-<body class="page page-id-76562 page-template-default"><script type="text/javascript">//<![CDATA[try{(function(a){var b="http://",c="www.goldenplec.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}//]]></script>
  
-<div id="div-gpt-ad-1403280822985-4" style="width:1px; height:1px;">
+<div id="div-gpt-ad-1415719336457-3" style="width:1px; height:1px;">
 <script data-cfasync="false" type="text/javascript">
-googletag.display('div-gpt-ad-1403280822985-4');
+googletag.display('div-gpt-ad-1415719336457-3');
 </script>
 </div>
-<div style="width:100%">
-<div style="width:971px;margin:0 auto;">
- 
-<div id="div-gpt-ad-1403280822985-0" style="width:970px; height:250px;">
-<script data-cfasync="false" type="text/javascript">
-googletag.display('div-gpt-ad-1403280822985-0');
-</script>
-</div></div></div>
-<div id="header">
-<div id="logo">
-<a href="http://www.goldenplec.com" title="Goldenplec Irish Music News and Reviews">
- 
-<img height="100" width="250" src="http://cdn.goldenplec.com/wp-content/uploads/2012/12/Goldenplec-Logo-3.png" alt="Goldenplec Music News - Irish Music Website of the Year 2011">
-</a>
+<header class="hd_header" role="banner">
+<div class="suppaMenu_wrap"><div id="menu-new-gp-desktop" class="suppaMenu"><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_1"><a href="http://www.goldenplec.com" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Home</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_2"><a href="http://www.goldenplec.com/news/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">News</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_3"><a href="http://www.goldenplec.com/events/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Events</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_4"><a href="http://www.goldenplec.com/music-reviews/" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">Reviews</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/album-categories/irish/?post_type=album-reviews"><span class="suppa_item_title">Irish Albums</span><span class="suppa_ar_arrow_right_1_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/album-categories/international/?post_type=album-reviews"><span class="suppa_item_title">International Albums</span><span class="suppa_ar_arrow_right_2_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/live-reviews/"><span class="suppa_item_title">Live Reviews</span><span class="suppa_ar_arrow_right_3_1"></span></a> </div></div></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_5"><a href="http://www.goldenplec.com/galleries/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Galleries</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_6"><a href="http://www.goldenplec.com/featured/" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">Features</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/featured/"><span class="suppa_item_title">Features</span><span class="suppa_ar_arrow_right_4_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/videos/"><span class="suppa_item_title">Videos</span><span class="suppa_ar_arrow_right_5_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/bands/"><span class="suppa_item_title">Bands</span><span class="suppa_ar_arrow_right_6_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/venues/"><span class="suppa_item_title">Venues</span><span class="suppa_ar_arrow_right_7_1"></span></a> </div></div></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_7"><a href="http://www.goldenplec.com/competitions/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Competitions</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_8"><a href="http://www.goldenplec.com/classical/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Classical</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_9"><a href="#" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">About GP</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/about-us/"><span class="suppa_item_title">About Us</span><span class="suppa_ar_arrow_right_8_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/team/"><span class="suppa_item_title">The Team</span><span class="suppa_ar_arrow_right_9_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/write-for-goldenplec/"><span class="suppa_item_title">Write for GoldenPlec</span><span class="suppa_ar_arrow_right_10_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/contact-us/"><span class="suppa_item_title">Contact Us</span><span class="suppa_ar_arrow_right_11_1"></span></a> </div></div></div></div>
+<div class="suppaMenu_rwd_wrap">
+<div class="suppa_rwd_top_button_container">
+<span class="suppa_rwd_button"><span aria-hidden="true" class="suppa-reorder"></span></span>
+<span class="suppa_rwd_text">Menu</span>
 </div>
-<div id="banner">
- 
-<div id="div-gpt-ad-1403280822985-2" style="width:728px; height:90px;">
-<script data-cfasync="false" type="text/javascript">
-googletag.display('div-gpt-ad-1403280822985-2');
-</script>
+<div class="suppa_rwd_menus_container"></div>
 </div>
+</div> <nav class="hd_nav navbar navbar-default" role="navigation">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<i class="fa fa-bars"></i>
+</button>
+</div> 
+<div class="navbar-collapse collapse">
+<div class="nav navbar-nav">
+<ul>
+<li><a href="http://www.goldenplec.com">Home</a></li>
+<li><a href="http://www.goldenplec.com/events">Events</a></li>
+<li><a href="http://www.goldenplec.com/music-reviews">Reviews</a></li>
+<li><a href="http://www.goldenplec.com/galleries">Galleries</a></li>
+<li><a href="http://www.goldenplec.com/competitions">Competitions</a></li>
+<li><a href="http://www.goldenplec.com/featured">Features</a></li>
+<li><a href="http://www.goldenplec.com/videos">Videos</a></li>
+<li><a href="http://www.goldenplec.com/classical/">Classical</a></li>
+<li><a href="http://www.goldenplec.com/team/">The Team</a></li>
+</ul>
+</div> 
+</div> 
+</nav> 
+<section class="hd_search header">
+<form role="search" method="get" id="searchform" class="searchform" action="http://www.goldenplec.com">
+<div>
+<input type="text" value="" name="s" id="s">
+<button type="submit" id="searchsubmit">
+<i class="fa fa-search"></i>
+</button>
 </div>
-</div>
-<div id="menu">
-<div id="menu-wrap">
-<ul id="mainmenu" class="dropdown"><li id="menu-item-19931" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-19931"><a href="http://www.goldenplec.com/">Home</a></li>
-<li id="menu-item-75453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75453"><a href="http://www.goldenplec.com/news/">News</a></li>
-<li id="menu-item-75452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75452"><a href="http://www.goldenplec.com/competitions/">Competitions</a></li>
-<li id="menu-item-75454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-75454"><a href="http://www.goldenplec.com/reviews/">Reviews</a>
-<ul class="sub-menu">
-<li id="menu-item-64344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64344"><a href="http://www.goldenplec.com/reviews/live-reviews/">Live Reviews</a></li>
-<li id="menu-item-64343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64343"><a href="http://www.goldenplec.com/reviews/irish-album-reviews/">Irish Album Reviews</a></li>
-<li id="menu-item-64342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64342"><a href="http://www.goldenplec.com/reviews/international-album-reviews/">Int. Album Reviews</a></li>
-</ul>
-</li>
-<li id="menu-item-83341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-83341"><a href="http://www.goldenplec.com/gig-photos/">Gig Photos</a>
-<ul class="sub-menu">
-<li id="menu-item-83343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83343"><a href="http://www.goldenplec.com/gig-photos/in-photos/">In Photos Galleries</a></li>
-<li id="menu-item-83342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83342"><a href="http://www.goldenplec.com/gig-photos/first-3-no-flash/">First 3 No Flash</a></li>
-<li id="menu-item-20014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20014"><a title="Photographers" href="http://www.goldenplec.com/directory/photographers/">Irish Music Photographers</a></li>
-</ul>
-</li>
-<li id="menu-item-64348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-64348"><a href="http://www.goldenplec.com/features/">Features</a>
-<ul class="sub-menu">
-<li id="menu-item-55523" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55523"><a href="http://www.goldenplec.com/features/interviews/">Interviews</a></li>
-<li id="menu-item-89461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89461"><a href="http://www.goldenplec.com/features/plec-picks-2014-features/">Plec Picks 2014</a></li>
-<li id="menu-item-84301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84301"><a href="http://www.goldenplec.com/features/golden-vault/">Golden Vault</a></li>
-<li id="menu-item-79310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79310"><a href="http://www.goldenplec.com/features/gp-videos/">GP Videos</a></li>
-<li id="menu-item-64349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64349"><a href="http://www.goldenplec.com/features/videos/">Videos</a></li>
-</ul>
-</li>
-<li id="menu-item-84307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84307"><a href="http://www.goldenplec.com/classical/">Classical</a></li>
-<li id="menu-item-34811" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34811"><a href="http://www.goldenplec.com/festivals/">Festivals</a>
-<ul class="sub-menu">
-<li id="menu-item-84319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84319"><a href="http://www.goldenplec.com/festivals/electric-picnic-2/electric-picnic-2014/">Electric Picnic 2014</a></li>
-<li id="menu-item-87313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87313"><a href="http://www.goldenplec.com/festivals/longitude/longitude-2014/">Longitude 2014</a></li>
-<li id="menu-item-84438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84438"><a href="http://www.goldenplec.com/festivals/oxegen/oxegen-2014/">Oxegen 2014</a></li>
-<li id="menu-item-84070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84070"><a href="http://www.goldenplec.com/festivals/live-the-marquee/live-marquee-2014/">Live at The Marquee 2014</a></li>
-<li id="menu-item-88530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88530"><a href="http://www.goldenplec.com/festivals/forbidden-fruit-festival/forbidden-fruit-2014/">Forbidden Fruit 2014</a></li>
-<li id="menu-item-84662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84662"><a href="http://www.goldenplec.com/festivals/body-and-soul/body-soul-2014/">Body And Soul 2014</a></li>
-<li id="menu-item-85130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85130"><a href="http://www.goldenplec.com/festivals/indiependence/indiependence-2014/">Indiependence 2014</a></li>
-<li id="menu-item-88523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88523"><a href="http://www.goldenplec.com/festivals/knockanstockan/knockanstockan-2014/">Knockanstockan 2014</a></li>
-<li id="menu-item-88531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88531"><a href="http://www.goldenplec.com/festivals/camden-crawl-dublin/camden-crawl-2014/">Camden Crawl 2014</a></li>
-<li id="menu-item-85129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85129"><a href="http://www.goldenplec.com/festivals/castlepalooza/castlepalooza-2014/">Castlepalooza 2014</a></li>
-<li id="menu-item-85281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85281"><a href="http://www.goldenplec.com/festivals/westport-music-festival/westport-2014/">Westport 2014</a></li>
-<li id="menu-item-88525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88525"><a href="http://www.goldenplec.com/festivals/life-festival/life-festival-2014/">Life Festival 2014</a></li>
-<li id="menu-item-85712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85712"><a href="http://www.goldenplec.com/festivals/vantastival/vantastival-2014/">Vantastival 2014</a></li>
-<li id="menu-item-93719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93719"><a href="http://www.goldenplec.com/festivals/le-cheile-festival/le-cheile-2014/">Le Cheile 2014</a></li>
-<li id="menu-item-96693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96693"><a href="http://www.goldenplec.com/festivals/daytripper-festival/daytripper-2014/">Daytripper 2014</a></li>
-<li id="menu-item-88524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88524"><a href="http://www.goldenplec.com/festivals/bundoran-surf-festival/sea-sessions-2014/">Sea Sessions 2014</a></li>
-<li id="menu-item-93733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93733"><a href="http://www.goldenplec.com/festivals/light-colour-sound-festival/light-colour-sound-2014/">Light Colour Sound 2014</a></li>
-<li id="menu-item-93727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93727"><a href="http://www.goldenplec.com/festivals/bandon-music-festival/bandon-2014/">Bandon 2014</a></li>
-<li id="menu-item-88528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88528"><a href="http://www.goldenplec.com/festivals/hard-working-class-heroes/hard-working-class-heroes-2014/">HWCH 2014</a></li>
-<li id="menu-item-88529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88529"><a href="http://www.goldenplec.com/festivals/groove/groove-festival-2014/">Groove 2014</a></li>
-</ul>
-</li>
-<li id="menu-item-19971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19971"><a title="Contact Goldenplec" href="http://www.goldenplec.com/about-us/contact-us/">Contact Us</a>
-<ul class="sub-menu">
-<li id="menu-item-87331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87331"><a href="http://www.goldenplec.com/about-us/">About Us</a></li>
-<li id="menu-item-83346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83346"><a href="http://www.goldenplec.com/about-us/write-for-goldenplec/">Write for Goldenplec</a></li>
-<li id="menu-item-19988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19988"><a title="Goldenplec Staff" href="http://www.goldenplec.com/about-us/staff/">Staff</a></li>
-</ul>
-</li>
-</ul>
-<div id="search">
-<form method="get" id="searchform" action="http://www.goldenplec.com/">
-<input type="text" name="s" id="se" size="35" onblur="if (this.value == '') {this.value = 'search...';}" onfocus="if (this.value == 'search...') {this.value = '';}" value="search..." class="text">
-<input type="submit" id="searchsubmit" class="submit" value="Search">
 </form>
-</div>
-</div>  
-</div>  
-<div id="content-wrap">
-<div id="content">
-<div id="middle">
-<div class="post">
+</section>
+ 
+<div class="shd_wings scontainer">
+<section class="hd_hero" style="background-image: url(http://www.goldenplec.com/wp-content/uploads/2014/11/news5.jpg);">
+<div class="hd_overlay" style="opacity: 0.5;"></div>
+<a class="hd_logo" href="http://www.goldenplec.com">
+<img src="http://www.goldenplec.com/wp-content/uploads/2014/11/GoldenPlec_Logo_Main_Outline3.png" alt="GoldenPlec logo">
+</a> 
+<div class="hd_content_container full_width">
 <h1>Privacy Policy</h1>
-<div class="post-meta"></div>
-<div class="us_pages_top" style="margin-top:0px;margin-bottom:0px;"><div class="us_wrapper tac"><div class="us_facebook us_button" data-url="http://www.goldenplec.com/privacy-policy/" data-text="Privacy Policy"><a class="us_box" href="#" data-url="http://www.goldenplec.com/privacy-policy/"><div class="us_share"><i class="us-icon-facebook"></i></div><div class="us_count"><i class="us-icon-spin us-icon-spinner"></i></div></a></div><div class="us_twitter us_button" data-url="http://www.goldenplec.com/privacy-policy/" data-text="Privacy Policy"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-twitter"></i></div><div class="us_count"><i class="us-icon-spin us-icon-spinner"></i></div></a></div><div class="us_googleplus us_button" data-url="http://www.goldenplec.com/privacy-policy/" data-text="Privacy Policy"><a class="us_box" href="#" data-url="http://www.goldenplec.com/privacy-policy/"><div class="us_share"><i class="us-icon-google"></i></div><div class="us_count"><i class="us-icon-spin us-icon-spinner"></i></div></a></div></div></div><h2>Privacy&nbsp;Policy</h2>
-<p>Your privacy is critically important to us. At <a href="http://www.goldenplec.com">Goldenplec</a> we have a few fundamental principles:</p>
+</div> 
+<div class="clearfix"></div>
+</section> 
+<section class="hd_bar" id="charcoal-bar">
+<section class="hd_breadcrumbs">
+ 
+<span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to GoldenPlec." href="http://www.goldenplec.com" class="home">Home</a></span><i class="fa fa-arrow-right"></i><span typeof="v:Breadcrumb"><span property="v:title">Privacy Policy</span></span></section> 
+<section class="hd_advert">
+ 
+<div id="div-gpt-ad-1415719336457-1">
+<script data-cfasync="false" type="text/javascript">
+googletag.display('div-gpt-ad-1415719336457-1');
+</script>
+</div>
+<div class="clearfix"></div>
+</section> 
+</section> 
+</div> 
+</header> 
+<div class="shd_wings scontainer">
+<main class="hd_main" role="main">
+<section class="hd_section">
+<div class="container">
+<div class="row">
+<div class="col-sm-6 col-md-7 col-lg-8">
+<section class="hd_wploop">
+<h2>Privacy&nbsp;Policy</h2>
+<p>Your privacy is critically important to us. At <a href="http://www.goldenplec.com">GoldenPlec</a> we have a few fundamental principles:</p>
 <ul>
 <li>We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)</li>
 <li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
@@ -211,157 +178,246 @@ googletag.display('div-gpt-ad-1403280822985-2');
 <li>In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.</li>
 </ul>
 <p>If you have questions about deleting or correcting your personal data please contact our <a href="mailto:admin@goldenplec.com">Administrator</a>.</p>
-<p>It is <a href="http://www.goldenplec.com">Goldenplec</a>’s policy to respect your privacy regarding any information we may collect while operating our websites.</p>
+<p>It is <a href="http://www.goldenplec.com">GoldenPlec</a>’s policy to respect your privacy regarding any information we may collect while operating our websites.</p>
 <h3>Website Visitors</h3>
-<p>Like most website operators, Goldenplec collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Goldenplec’s purpose in collecting non-personally identifying information is to better understand how Goldenplec’s visitors use its website. From time to time, Goldenplec may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
-<p>Goldenplec also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on articles. Goldenplec only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.</p>
+<p>Like most website operators, GoldenPlec collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. GoldenPlec’s purpose in collecting non-personally identifying information is to better understand how GoldenPlec’s visitors use its website. From time to time, GoldenPlec may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
+<p>GoldenPlec also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on articles. GoldenPlec only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.</p>
 <h3>Gathering of Personally-Identifying Information</h3>
-<p>Certain visitors to Goldenplec’s websites choose to interact with Goldenplec in ways that require Goldenplec to gather personally-identifying information. The amount and type of information that Goldenplec gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to comment&nbsp;to provide a username and email address. Goldenplec collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Goldenplec. Goldenplec does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
+<p>Certain visitors to GoldenPlec’s websites choose to interact with GoldenPlec in ways that require GoldenPlec to gather personally-identifying information. The amount and type of information that GoldenPlec gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to comment&nbsp;to provide a username and email address. GoldenPlec collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with GoldenPlec. GoldenPlec does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
 <h3>Aggregated Statistics</h3>
-<p>Goldenplec may collect statistics about the behavior of visitors to its websites. For instance, Goldenplec may monitor the most popular posts on Goldenplec.com or use spam screened by the Akismet service to help identify spam. Goldenplec may display this information publicly or provide it to others. However, Goldenplec does not disclose personally-identifying information other than as described below.</p>
+<p>GoldenPlec may collect statistics about the behaviour of visitors to its websites. For instance, GoldenPlec may monitor the most popular posts on Goldenplec.com or use spam screened by the Akismet service to help identify spam. GoldenPlec may display this information publicly or provide it to others. However, GoldenPlec does not disclose personally-identifying information other than as described below.</p>
 <h3>Protection of Certain Personally-Identifying Information</h3>
-<p>Goldenplec discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Goldenplec’s behalf or to provide services available at Goldenplec’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Goldenplec’s websites, you consent to the transfer of such information to them. Goldenplec will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Goldenplec discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Goldenplec believes in good faith that disclosure is reasonably necessary to protect the property or rights of Goldenplec, third parties or the public at large. If you are a registered user of a Goldenplec mailing list and have supplied your email address, Goldenplec may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Goldenplec and our products. We primarily use our various mailing lists to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Goldenplec takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
-<h3>Cookies</h3>
-<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Goldenplec uses cookies to help Goldenplec identify and track visitors, their usage of Goldenplec website, and their website access preferences. Goldenplec visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Goldenplec’s websites, with the drawback that certain features of Goldenplec’s websites may not function properly without the aid of cookies.</p>
+<p>GoldenPlec discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organisations that (i) need to know that information in order to process it on GoldenPlec’s behalf or to provide services available at GoldenPlec’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organisations may be located outside of your home country; by using GoldenPlec’s websites, you consent to the transfer of such information to them. GoldenPlec will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organisations, as described above, GoldenPlec discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when GoldenPlec believes in good faith that disclosure is reasonably necessary to protect the property or rights of GoldenPlec, third parties or the public at large. If you are a registered user of a GoldenPlec mailing list and have supplied your email address, GoldenPlec may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with GoldenPlec and our products. We primarily use our various mailing lists to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. GoldenPlec takes all measures reasonably necessary to protect against the unauthorised access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+<h3 id="cookies">Cookies</h3>
+<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. GoldenPlec uses cookies to help GoldenPlec identify and track visitors, their usage of GoldenPlec website, and their website access preferences. GoldenPlec visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using GoldenPlec’s websites, with the drawback that certain features of GoldenPlec’s websites may not function properly without the aid of cookies.</p>
 <p>This is implied acceptance of the cookies as per the EU Cookie Directive. Implied consent is hereby granted by use of the site.</p>
 <h3>Business Transfers</h3>
-<p>If Goldenplec, or substantially all of its assets, were acquired, or in the unlikely event that Goldenplec goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Goldenplec may continue to use your personal information as set forth in this policy.</p>
+<p>If GoldenPlec, or substantially all of its assets, were acquired, or in the unlikely event that GoldenPlec goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of GoldenPlec may continue to use your personal information as set forth in this policy.</p>
 <h3>Ads</h3>
-<p>Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Goldenplec and does not cover the use of cookies by any advertisers.</p>
+<p>Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognise your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by GoldenPlec and does not cover the use of cookies by any advertisers.</p>
 <p>In the case of Muzu video adverts, cookies may be used to remember a users choices on our site. If you mute the video or advert, it will remember this and keep all Muzu content muted for you from then on in.</p>
 <h3>Comments</h3>
 <p>Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.</p>
 <h3>Privacy Policy Changes</h3>
-<p>Although most changes are likely to be minor, Goldenplec may change its Privacy Policy from time to time, and in Goldenplec’s sole discretion. Goldenplec encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
-<div class="us_pages_bottom" style="margin-top:0px;margin-bottom:0px;"><div class="us_wrapper tac"><div class="us_facebook us_button" data-url="http://www.goldenplec.com/privacy-policy/" data-text="Privacy Policy"><a class="us_box" href="#" data-url="http://www.goldenplec.com/privacy-policy/"><div class="us_share"><i class="us-icon-facebook"></i></div><div class="us_count"><i class="us-icon-spin us-icon-spinner"></i></div></a></div><div class="us_twitter us_button" data-url="http://www.goldenplec.com/privacy-policy/" data-text="Privacy Policy"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-twitter"></i></div><div class="us_count"><i class="us-icon-spin us-icon-spinner"></i></div></a></div><div class="us_googleplus us_button" data-url="http://www.goldenplec.com/privacy-policy/" data-text="Privacy Policy"><a class="us_box" href="#" data-url="http://www.goldenplec.com/privacy-policy/"><div class="us_share"><i class="us-icon-google"></i></div><div class="us_count"><i class="us-icon-spin us-icon-spinner"></i></div></a></div></div></div> <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<p>Although most changes are likely to be minor, GoldenPlec may change its Privacy Policy from time to time, and in GoldenPlec’s sole discretion. GoldenPlec encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p> </section> 
+</div> 
+<div class="col-sm-6 col-md-5 col-lg-4">
+<aside class="hd_sidebar">
+<section class="hd_mpu">
  
-<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-5240078363551969" data-ad-slot="4877668396"></ins>
+<div id="div-gpt-ad-1415719336457-2">
+<script data-cfasync="false" type="text/javascript">
+googletag.display('div-gpt-ad-1415719336457-2');
+</script>
+</div>
+</section> 
+<section class="hd_widget">
+<header>
+<h1 class="hd_main_title small widget">Goldenvault</h1>
+</header>
+<ul>
+<li>
+<a href="http://www.goldenplec.com/antlers-hospice-golden-vault-37/">
+<img width="1100" height="988" src="http://www.goldenplec.com/wp-content/uploads/2014/11/theantlershospice-e1414956322556.jpg" class="attachment-post-thumbnail wp-post-image" alt="theantlershospice">The Antlers – Hospice | Golden Vault #37 </a>
+</li>
+<li>
+<a href="http://www.goldenplec.com/stones-roses-stone-roses-goldenvault-36/">
+<img width="1000" height="905" src="http://www.goldenplec.com/wp-content/uploads/2014/10/the-stone-roses-front.jpeg" class="attachment-post-thumbnail wp-post-image" alt="the-stone-roses-front">The Stones Roses – The Stone Roses | Golden Vault #36 </a>
+</li>
+<li>
+<a href="http://www.goldenplec.com/bill-withers-just-as-i-am-golden-vault-35/">
+<img width="700" height="395" src="http://www.goldenplec.com/wp-content/uploads/2014/10/billwithers-e1413395516564.jpg" class="attachment-post-thumbnail wp-post-image" alt="billwithers">Bill Withers – Just As I Am | Golden Vault #35 </a>
+</li>
+<li>
+<a href="http://www.goldenplec.com/dead-milkmen-beelzebubba-golden-vault/">
+<img width="1000" height="1000" src="http://www.goldenplec.com/wp-content/uploads/2014/08/The-Dead-Milkmen-Beelzebubba.jpg" class="attachment-post-thumbnail wp-post-image" alt="The Dead Milkmen - Beelzebubba">The Dead Milkmen – Beelzebubba | Golden Vault #34 </a>
+</li>
+<li>
+<a href="http://www.goldenplec.com/acdc-back-black-golden-vault-33/">
+<img width="1500" height="846" src="http://www.goldenplec.com/wp-content/uploads/2014/08/backinblacklandscape.jpg" class="attachment-post-thumbnail wp-post-image" alt="backinblacklandscape">AC/DC- Back In Black | Golden Vault #33 </a>
+</li>
+</ul>
+</section> 
+<section class="hd_mpu2">
+ 
+<div id="div-gpt-ad-1415719336457-0">
+<script data-cfasync="false" type="text/javascript">
+googletag.display('div-gpt-ad-1415719336457-0');
+</script>
+</div>
+</section> 
+</aside> 
+</div> 
+</div> 
+</div> 
+</section> 
+</main> 
+<footer class="hd_footer" role="contentinfo">
+<div class="container">
+<div class="row">
+<div class="col-sm-3">
+<h1>Connect</h1>
+<ul class="hd_social_links">
+<li>
+<a href="http://facebook.com/goldenplec" target="_blank"> <i class="fa fa-facebook"></i>
+<span>9,758</span>
+<small>Likes</small>
+</a></li>
+<li>
+<a href="http://twitter.com/goldenplec" target="_blank"> <i class="fa fa-twitter"></i>
+<span>12,393</span>
+<small>Followers</small>
+</a></li>
+<li>
+<a href="http://www.goldenplec.com/about-us/subscribe-to-newsletter/"> <i class="fa fa-envelope"></i>
+<span>6,465</span>
+<small>Subscribers</small>
+</a></li>
+<li>
+<a href="http://www.goldenplec.com/about-us/write-for-goldenplec/">
+<i class="fa fa-pencil-square-o"></i>
+<span class="small">Write For Us</span>
+</a>
+</li>
+</ul> 
+</div> 
+<div class="col-sm-5">
+<h1>Menu</h1>
+<div class="left_half">
+<ul>
+<li><a href="http://www.goldenplec.com/">Home</a></li>
+<li><a href="http://www.goldenplec.com/news/">News</a></li>
+<li><a href="http://www.goldenplec.com/classical/">Classical</a></li>
+<li><a href="http://www.goldenplec.com/team/">Meet the Team</a></li>
+<li><a href="http://www.goldenplec.com/contact-us/">Contact Us</a></li>
+<li><a href="http://www.goldenplec.com/about-us/">About Us</a></li>
+</ul>
+</div> 
+<div class="right_half">
+<ul>
+<li><a href="http://www.goldenplec.com/live-reviews/">Live Reviews</a></li>
+<li><a href="http://www.goldenplec.com/album-categories/international/?post_type=album-reviews">International Album Reviews</a></li>
+<li><a href="http://www.goldenplec.com/album-categories/irish/?post_type=album-reviews">Irish Album Reviews</a></li>
+<li><a href="http://www.goldenplec.com/galleries/">Gig Photos</a></li>
+<li><a href="http://www.goldenplec.com/videos/">Videos</a></li>
+<li><a href="http://www.goldenplec.com/competitions/">Competitions</a></li>
+</ul>
+</div> 
+<div class="clearfix"></div>
+</div> 
+<div class="col-sm-4">
+<h1>Instagram Photos</h1>
+<div id="APTFIN_by_TAP-by-shortcode-53_302" class="AlpinePhotoTiles_inpost_container">    <div id="id-53_302-AlpinePhotoTiles_container" class="AlpinePhotoTiles_container_class"><div id="id-53_302-cascade-parent" class="AlpinePhotoTiles_parent_class" style="width:100%;max-width:100%;padding:0px;float:left;text-align:left;"><div class="AlpinePhotoTiles_cascade_column" style="width:33.333333333333%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/vfl_JCTCPP/" class="AlpinePhotoTiles-link" target="_blank" title=" twenty one pilots jumping and leaping around The Academy's stage last night. More on site today! " alt=" twenty one pilots jumping and leaping around The Academy's stage last night. More on site today! "><img id="id-53_302-tile-0" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/10748070_375858675907522_1742765050_s.jpg" title=" twenty one pilots jumping and leaping around The Academy's stage last night. More on site today! " alt=" twenty one pilots jumping and leaping around The Academy's stage last night. More on site today! " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a><a href="http://instagram.com/p/uTAg7EzCEX/" class="AlpinePhotoTiles-link" target="_blank" title=" A photoshoot with a few of the GP heads. I wonder what it's for? OooOOOoOooH! " alt=" A photoshoot with a few of the GP heads. I wonder what it's for? OooOOOoOooH! "><img id="id-53_302-tile-3" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/10735246_779739438752604_2080044999_s.jpg" title=" A photoshoot with a few of the GP heads. I wonder what it's for? OooOOOoOooH! " alt=" A photoshoot with a few of the GP heads. I wonder what it's for? OooOOOoOooH! " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:33.333333333333%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/vMXb_HzCFw/" class="AlpinePhotoTiles-link" target="_blank" title=" Having a bit of a Mac party here #workinghard #hardlyworking " alt=" Having a bit of a Mac party here #workinghard #hardlyworking "><img id="id-53_302-tile-1" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10251462_1533447656900012_1999493349_s.jpg" title=" Having a bit of a Mac party here #workinghard #hardlyworking " alt=" Having a bit of a Mac party here #workinghard #hardlyworking " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a><a href="http://instagram.com/p/r-iMv2TCMP/" class="AlpinePhotoTiles-link" target="_blank" title=" .@IHaveATribe putting on something special at #goldenbeck right now. " alt=" .@IHaveATribe putting on something special at #goldenbeck right now. "><img id="id-53_302-tile-4" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xpa1/t51.2885-15/925586_270719849783468_924461114_s.jpg" title=" .@IHaveATribe putting on something special at #goldenbeck right now. " alt=" .@IHaveATribe putting on something special at #goldenbeck right now. " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:33.333333333333%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/vJpdMDzCJ4/" class="AlpinePhotoTiles-link" target="_blank" title=" The countdown is on. #newsite #sitelaunch #excira " alt=" The countdown is on. #newsite #sitelaunch #excira "><img id="id-53_302-tile-2" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xap1/t51.2885-15/10802955_396849953813453_554655514_s.jpg" title=" The countdown is on. #newsite #sitelaunch #excira " alt=" The countdown is on. #newsite #sitelaunch #excira " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a><a href="http://instagram.com/p/r-bds2TCAX/" class="AlpinePhotoTiles-link" target="_blank" title=" Ah, sure would you look who it is! @WyvernLingo #goldenbeck " alt=" Ah, sure would you look who it is! @WyvernLingo #goldenbeck "><img id="id-53_302-tile-5" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xpf1/t51.2885-15/10632077_451730204968922_798868008_s.jpg" title=" Ah, sure would you look who it is! @WyvernLingo #goldenbeck " alt=" Ah, sure would you look who it is! @WyvernLingo #goldenbeck " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a></div></div><div class="AlpinePhotoTiles_breakline"></div></div><div class="AlpinePhotoTiles_breakline"></div></div><div class="AlpinePhotoTiles_breakline"></div><script type="text/javascript"><!--//--><![CDATA[//><!--		// Use self invoking function expression
+		(function() {// Wait for window to load. Them start plugin.
+			var alpinePluginLoadingFunction = function(method){
+				// Check for jQuery and on() ( jQuery 1.7+ )
+				if( window.jQuery ){
+					if(jQuery.isFunction( jQuery(window).on ) ){jQuery(window).on('load', method);
+					// Check for jQuery and bind()
+					}else{jQuery(window).bind('load', method);}
+				// Check for addEventListener
+				}else if( window.addEventListener ){window.addEventListener('load', method, false);
+				// Check for attachEvent
+				}else if ( window.attachEvent ){window.attachEvent('on' + 'load', method);}
+		}
+			alpinePluginLoadingFunction(function(){
+				if( window.jQuery ){
+					if( jQuery().AlpineAdjustBordersPlugin ){
+						jQuery('#id-53_302-cascade-parent').AlpineAdjustBordersPlugin({highlight:'#64a2d8'});
+					}else{
+						var css = 'http://www.goldenplec.com/wp-content/plugins/alpine-photo-tile-for-instagram/css/AlpinePhotoTiles_style.css';
+						var link = jQuery(document.createElement('link')).attr({'rel':'stylesheet','href':css,'type':'text/css','media':'screen'});
+						jQuery.getScript('http://www.goldenplec.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/AlpinePhotoTiles_script.js', function(){
+							if(document.createStyleSheet){
+								document.createStyleSheet(css);
+							}else{
+								jQuery('head').append(link);
+							}
+							if( jQuery().AlpineAdjustBordersPlugin ){
+								jQuery('#id-53_302-cascade-parent').AlpineAdjustBordersPlugin({
+									highlight:'#64a2d8'
+								});
+							}
+						}); // Close getScript
+					}
+				}else{console.log('Alpine plugin failed because jQuery never loaded');}
+			});
+		})();//--><!]]> </script></div> </div> 
+</div> 
+</div> 
+<section class="hd_footer_lower">
+<div class="container">
+<div class="row">
+<div class="col-sm-4 col-md-4">
+<p class="text-left">© GoldenPlec 2014</p>
+</div> 
+<div class="col-sm-4 col-md-4">
+<section class="hd_footer_nav text-center">
+<ul>
+<li><a href="http://www.goldenplec.com/terms-of-service/">Terms</a></li>
+<li><a href="http://www.goldenplec.com/privacy-policy/">Privacy</a></li>
+<li><a href="http://www.goldenplec.com/privacy-policy/#cookies">Cookies</a></li>
+</ul>
+</section> 
+</div> 
+<div class="col-sm-4 col-md-4">
+<p class="text-right">
+ 
+ 
+</p> 
+</div> 
+</div> 
+</div> 
+</section> 
+</footer> 
+</div> 
+<link rel="stylesheet" id="AlpinePhotoTiles_style-css" href="http://www.goldenplec.com/wp-content/plugins/alpine-photo-tile-for-instagram/css/AlpinePhotoTiles_style.css?ver=1.2.7" type="text/css" media="all">
+<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://www.goldenplec.com/wp-content/uploads/suppamenu/suppa_js_settings.js?ver=1.8.9"></script>
+<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/jquery/ui/jquery.ui.effect.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.goldenplec.com/wp-content/plugins/suppamenu/standard/js/suppa_frontend.min.js?ver=1.8.9"></script>
+<script type="text/javascript" src="http://www.goldenplec.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/AlpinePhotoTiles_script.js?ver=1.2.7"></script>
+<script type="text/javascript" src="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/js/scripts.js"></script>
 <script>
-(adsbygoogle = window.adsbygoogle || []).push({});
+  	$(document).ready(function () {
+
+  		var $carousel = $('.carousel');
+
+  		// Check if a carousel element exists on the page before kicking things off
+  		if ($carousel.is('*')) {
+  			$carousel.carousel({
+  			interval: 7000,
+			  pause: 'hover'
+			});
+
+				var currentIndex = 1;
+
+				// http://stackoverflow.com/a/17841504/1291469
+				$carousel.on('slide.bs.carousel', function (e) {
+					currentIndex = $carousel.find('.active').index() + 1;
+	  			_gaq.push(['_trackPageview', window.location.href + 'page/' + currentIndex])
+				});
+
+			}
+
+		});
+  	</script>
+<script>
+setTimeout(function()
+{
+ if(jQuery('body').attr('style').match(/background/))
+ {
+  jQuery('.shd_wings').addClass('hd_wings').addClass('container');
+ }
+},100);
 </script>
-<div class="clear"></div>
-</div>  
-</div>  
-<div id="sidebar">
-<div id="bannerside">
- 
-<div id="div-gpt-ad-1403280822985-3">
-<script cf-async="false" type="text/javascript">
-googletag.display('div-gpt-ad-1403280822985-3');
-</script>
-</div>
-</div>
-&nbsp;
-<div class="block">
-<h3 class="green"><a href="http://www.goldenplec.com/features/golden-vault/">The Golden Vault »</a></h3>
-<div class="firstnn">
-<a href="http://www.goldenplec.com/killers-hot-fuss-golden-vault-28/" title="The Killers – Hot Fuss | Golden Vault #28"><img src="http://cdn1.goldenplec.com/wp-content/themes/zenko-test/functions/theme/thumb.php?src=http://www.goldenplec.com/wp-content/uploads/2014/06/thekillers.jpg&amp;w=300&amp;h=140&amp;zc=1&amp;a=c" alt="The Killers – Hot Fuss | Golden Vault #28"></a>
-<h2><a href="http://www.goldenplec.com/killers-hot-fuss-golden-vault-28/" title="The Killers – Hot Fuss | Golden Vault #28">The Killers – Hot Fuss | Golden Vault #28</a></h2>
-<small>June 25, 2014 at 2:00 pm</small>
-<p>Welcome to the latest edition of ‘Golden Vault’, where we delve into the annals of music to bring you a classic album. You’ll know some like the back of your hand and...</p>
-</div>
- 
-<div class="rightn">
-<ul>
-</ul>
-</div>
-<div class="clear"></div>
-</div> 
-  <div class="block">
-<h3 class="pink"><a href="http://www.goldenplec.com/gig-photos/in-photos/">Galleries »</a></h3>
-<div class="firstnn">
-<a href="http://www.goldenplec.com/elbow-royal-hospital-kilmainham-photos/" title="Elbow at The Royal Hospital Kilmainham | In Photos"><img src="http://cdn1.goldenplec.com/wp-content/themes/zenko-test/functions/theme/thumb.php?src=http://www.goldenplec.com/wp-content/uploads/2014/06/IMG_9803-18-banner.jpg&amp;w=300&amp;h=140&amp;zc=1&amp;a=c" alt="Elbow at The Royal Hospital Kilmainham | In Photos"></a>
-<h2><a href="http://www.goldenplec.com/elbow-royal-hospital-kilmainham-photos/" title="Elbow at The Royal Hospital Kilmainham | In Photos">Elbow at The Royal Hospital Kilmainham | In Photos</a></h2>
-<small>June 25, 2014 at 11:22 pm</small>
-<p>Photos: Kieran Frost
-Elbow Photo Gallery
-Mick Flannery Photo Gallery
-...</p>
-</div>
- 
-<div class="rightn">
-<ul>
-</ul>
-</div>
-<div class="clear"></div>
-</div> 
-  <div class="block">
-<h3 class="black"><a href="http://www.goldenplec.com/features/videos/">Video »</a></h3>
-<div class="firstnn">
-<a href="http://www.goldenplec.com/wonder-villans-zola-video/" title="Wonder Villains – Zola | Video"><img src="http://cdn1.goldenplec.com/wp-content/themes/zenko-test/functions/theme/thumb.php?src=http://www.goldenplec.com/wp-content/uploads/2014/06/zola.jpg&amp;w=300&amp;h=140&amp;zc=1&amp;a=c" alt="Wonder Villains – Zola | Video"></a>
-<h2><a href="http://www.goldenplec.com/wonder-villans-zola-video/" title="Wonder Villains – Zola | Video">Wonder Villains – Zola | Video</a></h2>
-<small>June 23, 2014 at 8:35 pm</small>
-<p>Wonder Villains are really getting into the spirit of the world cup and all things football with this newest release Zola.&nbsp;The video for this wonderfully wacky tune features...</p>
-</div>
- 
-<div class="rightn">
-<ul>
-</ul>
-</div>
-<div class="clear"></div>
-</div> 
- 
-<div id="sidebar_left">
-</div>  
-<div id="sidebar_right">
-</div>  
-&nbsp;
-<div id="bannerside">
- 
-<div id="div-gpt-ad-1403280822985-1">
-<script cf-async="false" type="text/javascript">
-googletag.display('div-gpt-ad-1403280822985-1');
-</script>
-</div>
-</div>
-</div>  
-</div>  
-</div>  
-<div id="footer">
-<div class="footer-wrap">
-<div id="fside">
-<div class="column">
-<div id="text-3" class="widget widget_text"><h3 class="title">Important Documents</h3> <div class="textwidget"><a href="http://www.goldenplec.com/privacy-policy/">PRIVACY POLICY</a>
-<br><br>
-<a href="http://www.goldenplec.com/terms-of-service/">TERMS OF SERVICE</a></div>
-<div class="clear"></div></div> </div> 
-<div class="column">
-<div id="text-5" class="widget widget_text"><h3 class="title">Popular Tags</h3> <div class="textwidget"><a href="http://www.goldenplec.com/author/alicegoodwin/">Alice Goodwin</a></div>
-<div class="clear"></div></div> </div> 
-<div class="column">
-</div> 
-<div class="column last">
-</div> 
-</div>
-</div>  
-<div class="clear"></div>
-<div id="copyright">
-<div class="footer-wrap">
-Copyright 2014 - All Rights Reserved by Goldenplec.com
- 
-</div>  
-</div>
-</div>  
-<script>(function($){$(document).ready(function(){});})(jQuery);</script><link rel="stylesheet" id="jetpack-carousel-css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/plugins/tiled-gallery-carousel-without-jetpack/jetpack-carousel.css?ver=20120629" type="text/css" media="all">
-<link rel="stylesheet" id="tiled-gallery-css" href="http://goldenplec.goldenplec.netdna-cdn.com/wp-content/plugins/tiled-gallery-carousel-without-jetpack/tiled-gallery/tiled-gallery.css?ver=2012-09-21" type="text/css" media="all">
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-includes/js/comment-reply.min.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/themes/zenko-test/js/dropdown.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/themes/zenko-test/functions/wpzoom/assets/js/galleria.js"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/themes/zenko-test/functions/wpzoom/assets/js/wzslider.js"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/plugins/tiled-gallery-carousel-without-jetpack/spin.js?ver=1.3"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/plugins/tiled-gallery-carousel-without-jetpack/jquery.spin.js?ver=3.9.1"></script>
-<script type="text/javascript">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"4ed85d5bd9","applicationID":"4638764","transactionName":"NAADZ0JRDBECWhFdWA1KIFBEWQ0MTEkEU1I=","queueTime":224,"applicationTime":687,"atts":"GEcUEQpLH05BWEcOTB4Y","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script><script type="text/javascript">
 /* <![CDATA[ */
-var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/www.goldenplec.com\/wp-admin\/admin-ajax.php","nonce":"4f40d4343e","display_exif":"1","display_geo":"1","background_color":"black","comment":"Comment","post_comment":"Post Comment","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/www.goldenplec.com\/wp-login.php?redirect_to=http%3A%2F%2Fwww.goldenplec.com%2Felbow-royal-hospital-kilmainham-photos%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/plugins/tiled-gallery-carousel-without-jetpack/jetpack-carousel.js?ver=20130109"></script>
-<script type="text/javascript" src="http://cdn.goldenplec.com/wp-content/plugins/tiled-gallery-carousel-without-jetpack/tiled-gallery/tiled-gallery.js?ver=3.9.1"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"4ed85d5bd9","applicationID":"4172459","transactionName":"NAADZ0JRDBECWhFdWA1KIFBEWQ0MTEkEU1I=","queueTime":0,"applicationTime":635,"ttGuid":"","agentToken":"","atts":"GEcAEQpLHx8=","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script><script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
 
 
- <script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+ <script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
