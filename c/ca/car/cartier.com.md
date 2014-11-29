@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartier.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824202128id_/http%3A//www.cartier.com/privacy-notice-12854) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartier.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129201250id_/http%3A//www.cartier.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy - Cartier. The renowned French jeweler and fine watchmaker.
+# Privacy Notice - Cartier. The renowned French jeweler and fine watchmaker.
 
 CARTIER has established its Privacy Policy in respect of the confidence its clientele places in it and in conformity with high standards of data protection to which it is committed.
 
@@ -25,7 +25,7 @@ Data Protection
 75008 Paris  
 France
 
-From time to time, CARTIER may amend this Privacy Statement in accordance with modified legislative obligations and CARTIER’s business objectives. Our Privacy Statement can be consulted at any time from our Web Site at <http://www.cartier.com/#/home/:/privacy-policy>.  
+From time to time, CARTIER may amend this Privacy Statement in accordance with modified legislative obligations and CARTIER’s business objectives. Our Privacy Statement can be consulted at any time from our Web Site at [Privacy Notice](https://web.archive.org/navigation/footer_privacypolicy "Privacy Notice").  
 Our main database is managed and located in France at
 
 CLARANET SAS  
@@ -63,5 +63,5 @@ Our IT infrastructure complies with the International Standard ISI/ISO/IEC 27001
 
 For carrying out our data processing activities, we may share your personal data with our trusted third party providers, namely:  
 \- Service provider carrying out email marketing campaigns on our behalf: Epsilon  
-\- Service providers performing customer satisfaction studies on our behalf: Ipsos  
+\- Service providers performing customer satisfaction studies on our behalf: Ifop  
 \- Service providers conducting data analytic activities on our behalf: Ekimetrics
