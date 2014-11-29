@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyshowerstuff.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529062022id_/http%3A//www.babyshowerstuff.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyshowerstuff.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129160211id_/http%3A//www.babyshowerstuff.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
