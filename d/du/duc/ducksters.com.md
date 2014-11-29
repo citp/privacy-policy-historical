@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090355id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130004838id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Ducksters: Privacy Policy
 
@@ -40,6 +40,10 @@ Google Adsense may use online behavioral advertising (OBA) and/or multisite adve
 
 ** Please note that Google Adsense "Interest-based ads" as well as "Third party ads" are turned off for www.ducksters.com. This means that the ads displayed are not behavioral or based on user information including past searches or pages viewed by the user. Also, as added protection, www.ducksters.com is tagged with Google Webmaster Tools for Child-Directed Treatment. 
 
+**Privacy Policy Regarding Media.net as a third party vendor:** www.ducksters.com may also use the [Media.net](http://www.media.net/) ad network to serve ads on the site. Media.net may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://www.media.net/privacy-policy). You can opt out of their cookies [here](http://www.aboutads.info/choices/). 
+
+**Privacy Policy Regarding Q1media as a third party vendor:** www.ducksters.com may also use the [Q1media](http://www.q1media.com/) ad network to serve ads on the site. Q1media may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://q1media.com/sites/default/files/q1media-privacy-policy-6-10-2013.pdf). You can opt out of cookies [here](http://www.aboutads.info/choices/). Q1media treats www.ducksters.com as a COPPA site when serving ads. 
+
 **Privacy Policy Regarding Analytics:**
 
 Ducksters currently uses a program called Google Analytics to track various website metrics such as the number of visiters, browser type, operating system, visitor location, the number of pages each visitor views, etc. A cookie may be placed on your computer to help track this information. This information cannot be used to determine the identity of the user. We only use these statistics as support for internal operations to track the overall health of the website. You can go here to view the [Google Analytics Privacy Overview](http://www.google.com/intl/en_uk/analytics/privacyoverview.html). 
@@ -48,7 +52,7 @@ Ducksters currently uses a program called Google Analytics to track various webs
 
 If you have any questions or concerns regarding our privacy policy please contact us at mail@ducksters.com. 
 
-**Last Updated: 4/24/14**
+**Last Updated: 10/22/14**
 
 Back to [**Ducksters**](http://www.ducksters.com/) Home Page
 
