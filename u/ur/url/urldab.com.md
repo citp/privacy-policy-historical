@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urldab.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430151536id_/http%3A//www.urldab.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urldab.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129083948id_/http%3A//www.myurldab.net/privacy_policy.html) for the most accurate reproduction.*
 
 # :: URLDAB - Helps you with amazing surveys ::
 
@@ -70,7 +70,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 #### Google Analytics (Google)
 
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of UrlDab, to prepare reports on its activities and share them with other Google services.  
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network. 
 
 Personal Data collected: Cookie and Usage Data. 
 
@@ -88,7 +88,7 @@ Personal Data collected: Email, First Name and Last Name.
 
 These services allow interaction with social networks or other external platforms directly from the pages of UrlDab.  
 The interaction and information obtained by UrlDab are always subject to the User’s privacy settings for each social network.  
-If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
+If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it. 
 
 #### Twitter Tweet button and social widgets (Twitter)
 
@@ -124,7 +124,7 @@ Users have the right, at any time, to know whether their Personal Data has been 
 
 The UrlDab reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using UrlDab and can request the UrlDab to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the UrlDab has about Users. 
 
-###  Definitions and legal references 
+### Definitions and legal references 
 
 #### Personal Data (or Data)
 
