@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the go2mobi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181917id_/http%3A//go2mobi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2mobi.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129195131id_/http%3A//www.go2mobi.com/privacy-policy) for the most accurate reproduction.*
 
-# Go2mobi - Mobile Advertising | Mobile RTB - RTB Privacy Policy
-
-### RTB Privacy Policy
+# Privacy Policy - Go2mobiGo2mobi
 
 Go2mobi is a dedicated Mobile Demand Side Platform (DSP). We help agencies and advertisers to plan, execute, evaluate and optimize their mobile advertising campaigns via our platform (the ‘Platform’). This Privacy Policy is intended to provide you with information on our privacy and data protection policies as they pertain to our Platform, and website, located at www.go2mobi.com, (our ‘Website’).
 
