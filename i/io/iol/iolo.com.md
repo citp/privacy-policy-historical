@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514072027id_/http%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129210828id_/http%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PC Tune-Up Software Experts – iolo Technologies
+# Information and Privacy Policy
 
 This Privacy Statement applies to iolo technologies, LLC (“iolo”) and its worldwide corporate affiliates (“we”, “our” or “us”). This Privacy Statement does not apply to the products or websites of our business partners or to any other third parties, even if their products or websites are linked to or from our website. We recommend you review the privacy statements of the other parties with whom you interact.
 
@@ -118,8 +118,8 @@ If you would like to contact us for any reason regarding our privacy practices, 
 
 iolo technologies, LLC  
 Attn: Privacy Policy  
-7470 North Figueroa Street  
-Los Angeles, CA 90041
+150 S. Los Robles, Suite 500  
+Pasadena, CA 91101
 
-Telephone: (323) 257-8888  
+Telephone: (877) 239-4656  
 Email: [support@iolo.com](mailto:support@iolo.com)
