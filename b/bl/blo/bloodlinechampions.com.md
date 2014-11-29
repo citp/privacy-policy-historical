@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodlinechampions.com privacy policy that was archived on 2014-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140106182617id_/http%3A//www.bloodlinechampions.com/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodlinechampions.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130005905id_/http%3A//www.bloodlinechampions.com/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
