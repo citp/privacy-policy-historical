@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neptunlight.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080107id_/http%3A//www.neptunlight.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neptunlight.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129100157id_/http%3A//www.neptunlight.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
