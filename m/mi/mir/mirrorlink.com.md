@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorlink.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507033351id_/http%3A//mirrorlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorlink.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129135243id_/http%3A//www.mirrorlink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MirrorLink
 
