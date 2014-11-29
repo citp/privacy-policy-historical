@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529152517id_/http%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129111756id_/http%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy, Disclaimer And Disclosure For BibleMoneyMatters.com**
 
-##  **Privacy Policy  
+## **Privacy Policy  
 **
 
 The privacy of our visitors to BibleMoneyMatters.com is important to us.
@@ -28,7 +28,7 @@ We also use third party advertisements on Bible Money Matters to support our sit
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
- **Information collected by third-parties.**
+**Information collected by third-parties.**
 
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
