@@ -1,23 +1,81 @@
-> *The following text is extracted and transformed from the swing4ireland.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122102451id_/http%3A//www.swing4ireland.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swing4ireland.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129085839id_/http%3A//www.swing4ireland.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Irish swinging site, meet swingers today!
+# Privacy Policy
 
-**What personally identifiable information do I provide to swing4ireland.com?**
+  1. [Terms and Conditions](http://www.swing4ireland.com/terms-and-conditions.html)
+  2. [Acceptable Use Policy](http://www.swing4ireland.com/aup.html)
+  3. [Privacy Policy](http://www.swing4ireland.com/privacy-policy.html)
+  4. [Webmasters](http://www.swing4ireland.com/banners.html)
+  5. [How we use cookies](http://www.swing4ireland.com/cookies.html)
 
-swing4ireland.com ask you to provide various types of personally identifiable information to enhance your experience on our site. During registration, swing4ireland.com will ask for information such as your name, e-mail address, birth date, gender, address, and other information about yourself. The more information you provide, the better we are able to customise your experience. See below about “cookies” and what other information is collected.
 
-Except as stated in this privacy policy or at the time of collection, a user's personally identifiable information will not be transferred to a party outside swing4ireland.com, its divisions or affiliates, or its service vendors unless notice is given at the time of collection or prior to transfer. swing4ireland.com may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms and Conditions or may be causing injury to or interference with (either intentionally or unintentionally) swing4ireland.com rights or property, other swing4ireland.com users, or anyone else that could be harmed by such activities.
 
-**e-Commerce**
+[Swing4Ireland](http://www.swing4ireland.com/) (the "Site") is owned by Symbios Solutions Limited.
 
-If you make a purchase of Premium Membership or any other product or service from us, your payment and purchase details will remain private and confidential, and will not be passed on to anyone else. All of our transactions are carried out on a secure server with industry-standard 128-bit SSL encryption to protect you against fraud. We do not keep your credit card details on file.
+Our postal address is:  
 
-**Data Security**
 
-We have in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the internet.
+8 Barnes Wallis Road Segensworth East  
+Fareham  
+Hampshire  
+P015 5TU 
 
-**What are cookies and how does swing4ireland.com use them?**
+We can be reached [here](http://www.swing4ireland.com/contact.html) or at [Swing4Ireland](mailto:info@swing4ireland.com).
 
-swing4ireland.com places a "cookie" on the browser of a user's computer in order to keep you logged in to the site. This is strictly for authentication purposes only, and contains no personally identifiable information.
+This is an adult site. Privacy is important to you and to us.
 
-[home](https://web.archive.org/web/20101122102451id_/http%3A//www.swing4ireland.com/index.html)
+**CAREFULLY READ THIS PRIVACY POLICY STATEMENT.**
+
+This site expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site.
+
+We do not knowingly seek or collect any personal information or data from persons under the age of 18. Where we seek payment from you we will request secondary id which will assist us in establishing that you are over 18.
+
+## What Information About Subscribers is Collected?
+
+We may collect and process the following data about you:
+
+  * Information that you provide to us via the Site which includes information provided at the time of registering to use our Site, subscribing to our service, posting material or requesting further services.
+  * If you contact us, we may keep a record of that correspondence.
+  * Details of your visits to our Site (including, but not limited to traffic data, location data, chatroom postings and other communication data), whether this is information required for our own billing purposes, provided by our Moderators and Chatroom Ops or otherwise.
+
+
+
+The Site uses cookies. It is perfectly normal. You may obtain further information about "cookies" and how they function at [Cookie Central](http://www.cookiecentral.com/).
+
+## What do we do with the information?
+
+  * To ensure that content from our Site is presented in the most effective manner for you and for your computer.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
+
+
+
+## Disclosure of your information
+
+We may/would only have the discretion to disclose your personal information to third parties;
+
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.swing4ireland.com/aup.html) or [terms and conditions](http://www.swing4ireland.com/terms-and-conditions.html) and other agreements; or to protect the rights, property or safety of Symbios Solutions Limited, our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of fraud protection or any other kind of illegal activity whether or not identified in the [acceptable use policy](http://www.swing4ireland.com/aup.html).
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or asset.
+  * If Symbios Solutions Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its subscribers will be one of the transferred assets.
+
+
+
+## Where we store your personal data
+
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site. Any transmission is at your own risk.
+
+## Your email address
+
+Your email address is only used for site related information, such as notifications of new private messages and account related notifications, newsletters and special offers. We do not share your email address with any other companies and it will remain completely private throughout your membership with us. If you wish to remove yourself from our email lists then you can simply click the unsubscribe link from one of our emails or send an email (from the address you have registered with us) to [remove me](mailto:remove@swing4ireland.com).
+
+## Data Controller
+
+The Data Controller for all personal information collected about subscribers of the Site is: N.Griffin, and can be reached by e-mail [here](mailto:info@swing4ireland.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the Site.
+
+## Your Rights
+
+You have the right to access information held about you where this is data within the meaning of the Data Protection Act 1998.
+
+Our site may, from time to time, contain links to and from the websites of our affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility for these.
+
+Any changes that we make to our privacy policy in the future will be posted to this page and, where appropriate, notified to you by email.
