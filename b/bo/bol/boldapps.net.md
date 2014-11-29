@@ -1,100 +1,83 @@
-> *The following text is extracted and transformed from the boldapps.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldapps.net privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129152257id_/http%3A//boldapps.net/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# BoldApps.net | Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+###### Purpose
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Boldapps.net a division of Bold Innovation Group LTD., has adopted this Privacy Statement in order to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Statement and your consent to the practices it describes.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+###### Personally Identifiable Information
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Personally Identifiable Information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone/fax number, social security number, email address or any information you submitted to Boldapps.net that identifies you individually. You can visit and browse the Bold Apps website without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below.
 
-**Information Collection and Use**
+Boldapps.net may collect personally identifiable information about you when you register with one of our divisions or brands, for example to enter our contests, join our mailing lists or become our privileged customer, you may be asked for personal information such as, but not restricted to, your contact information (name, telephone numbers, e-mail address, mailing address), date of birth, product and/or cosmetic concerns, which brands and products you use, security information (user name and password).
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+You may also be asked additional marketing-related questions by completing questionnaires, surveys and profile data to help us better understand your needs and those of potential customers. You may also be requested to give your delivery and billing address, credit card number and expiration date when you place an order.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+###### Transactions and Activity
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+If you become a registered user or if you conduct transactions through the Bold Apps website, Boldapps.net collects information about the transactions you engage in while on the website and your other activity on the site. This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount, payment, shipping and billing information as well as the nature, quantity and price of the goods or services you exchange and the individuals or entities with whom you communicate or transact business.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+###### Information Use
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Boldapps.net may use the personally identifiable information collected through its website primarily for such purposes as:
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * Helping to establish and verify the identity of users;
+  * Opening, maintaining, administering and servicing users' accounts or memberships;
+  * Processing, servicing or enforcing transactions and sending related communications;
+  * Providing services and support to users;
+  * Improving the website, including tailoring it to users' preferences;
+  * Providing users with product or service updates, promotional notices and offers, and other information about Bold Apps and its affiliates;
+  * Responding to your questions inquiries, comments and instructions;
+  * Maintaining the security and integrity of its systems.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Boldapps.net uses the anonymous browsing information collected automatically by its servers primarily to help it administer and improve its website. Boldapps.net may also use aggregated anonymous information to provide information about its website to advertisers, potential business partners and other unaffiliated entities. Again, this information is not personally identifiable.
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+###### Children's Privacy
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+This website is directed toward and designed for use by persons aged 13 or older. Boldapps.net will not approve applications of, or establish or maintain accounts or memberships for, any child whom Boldapps.net knows to be under the age of 13. Boldapps.net does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Boldapps.net nevertheless discovers that it has received personally identifiable information from an individual who indicates that he or she is, or whom Bold Apps otherwise has reason to believe is, under the age of 13, Boldapps.net will delete such information from its systems. Additionally, a child's parent or legal guardian may request that the child's information be corrected or deleted from Boldapps.net's files by using our Contact Us Form.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+###### External Links
 
-      iii.      You may call us at: (480) 505-8800
+The Bold Apps website may contain links to other websites, including those of advertisers or third party content providers who offer downloads on Boldapps.net. Please be aware that Bold Apps is not responsible for the privacy practices or the content of other websites. Websites that are accessible by hyperlinks from the Bold Apps website may use cookies. Bold Apps encourages you to read the privacy statements provided by other websites before you provide personally identifiable information to them.
 
-       iv.      You may fax us at: (480) 505-8844
+###### Choice/Opt-Out
 
-**Sending Emails**
+In order to provide service to you, Boldapps.net will send you communications related to your transactions, security or the administration of its website. From time to time, Boldapps.net and its affiliates brands may also wish to send you other messages or updates about Boldapps.net, its affiliates, or their promotions and other activities. If you do not wish to receive non-transaction/security related communications from Boldapps.net and its affiliates, please send an email containing your request to customer service.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+###### Changes to this Privacy Policy
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Boldapps.net reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, Boldapps.net will post a notice on its homepage and a link to the new policy.
 
-**Compliance with Laws and Law Enforcement**
+###### Automatic Collection of Anonymous Information
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+When you visit the Bold Apps website, like when you visit most other websites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as "aol.com" or "earthlink.net"), the date and time you access the site, the pages you access while at the Bold Apps website, and the internet address of the website, if any, from which you linked directly to the Bold Apps site. This information is not personally identifiable.
 
-**Third Party Service Providers**
+###### Registration Forms
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+If you are offered the opportunity to enter a promotion, to become a registered user of the Bold Apps website, or to opt-in to receive Bold Apps information through another site, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number, areas of interest, product usage, and/or a unique individual password. You may also choose to communicate with Boldapps.net through email, via our website, by telephone, in writing, or though other means. We collect the information in these communications, and such information may be personally identifiable.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+###### Disclosure of Information
 
-**Supplementation of Information**
+Boldapps.net does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. Bold Apps may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. Bold Apps may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as Bold Apps business develops, it may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If Bold Apps, its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+###### "Cookies" and Advertisers
 
-**Contests/Surveys**
+The Bold Apps website's server, or the servers of companies that are used to operate this site, may place a "cookie" on your computer in order to allow you to use the website and to personalize your experience.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+A "cookie" is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer's hard drive. Cookies allow Boldapps.net to recognize your computer while you are on its website and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the website.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by the Bold Apps website. Such ads or content may contain cookies that help track and target the interests of users of this website in order to present "personalized" advertisements or other messages that the user might find interesting. Bold Apps is not responsible for any such cookies.
 
-**Tell-A-Friend**
+Most web browser applications (such as Microsoft Internet Explorer and Firefox) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+###### Security
 
-**What Happens to my Personal Information if I Opt Out?**
+Boldapps.net maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the site, transaction information is transmitted to and from Boldapps.net in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Boldapps.net restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+###### Data Quality/Access
 
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Boldapps.net allows you to change, update, or delete the information you may provide in your optional registration form. If you would like to change, update, or delete your personal information, please send an email containing your request to customer service.
