@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405043711id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129031037id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Sony Creative Software - Corporate - Privacy Policy
 
@@ -155,7 +155,7 @@ Sony Creative Software
 Suite 400  
 Middleton, WI 53562
 
-If you have questions regarding products or services, please click [here](http://www.custcenter.com/) for further information.
+If you have questions regarding products or services, please click [here](https://web.archive.org/custcenter/home) for further information.
 
   
 
