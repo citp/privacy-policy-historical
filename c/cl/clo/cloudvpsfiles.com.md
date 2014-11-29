@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudvpsfiles.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629110020id_/http%3A//www.cloudvpsfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudvpsfiles.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129212337id_/http%3A//www.cloudvpsfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cloud VPS Files
 
@@ -20,13 +20,13 @@ How we use collected information
 
 Cloud VPS Files may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests. 
 
 How we protect your information
