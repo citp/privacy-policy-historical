@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524043310id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129030745id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VIBES2LYRICS NIGERIA
 
-[](http://wp.me/P3I14h-SV)
+**26** Flares Filament.io Made with **Flare** More Info'> **26** Flares ×
+
+**Join Our BBM Channel For Hot Updates, Pin:** [**C004AD282**](http://pin.bbm.com/C004AD282)
 
 ## Personal Information
 
@@ -38,3 +40,5 @@
   * You may, of course, decline to submit personal information through VIBES2LYRICS VIDEOS, in which case you can still view videos and explore VIBES2LYRICS VIDEOS, but VIBES2LYRICS VIDEOS may not be able to provide certain services to you. Some advanced VIBES2LYRICS VIDEOS features may use other services like YOUTUBE VIDEOS, Checkout or AdSense. The privacy notices of those services govern the use of your personal information associated with them.
 
 
+
+**26** Flares Twitter 26 Facebook 0 Google+ 0 LinkedIn 0 Reddit 0 Filament.io **26** Flares ×
