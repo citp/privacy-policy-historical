@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the liveinstyle.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404235744id_/http%3A//www.liveinstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveinstyle.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129231946id_/http%3A//www.liveinstyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Live in Style
-
-[ ](https://web.archive.org/)
-
-### Are you 21 years of age or above?
-
-  * YES
-  * NO
-  * Remember me
-
-
-
-Do not tick this box  
-if this is a shared computer
 
 Privacy Policy
 
@@ -59,11 +46,11 @@ Privacy Policy
 
 
 
-05th April 
+30th November 
 
 
 
 
-[](https://web.archive.org/web/20140404235744id_/http%3A//www.liveinstyle.com/cocktails/scotch-and-whisky-cocktails/royal-challenge-cocktails/coconut-breeze)
+[](http://www.liveinstyle.com/cocktails/prince-charming-scotch-and-whisky-cocktail)
 
 ## Cocktails
