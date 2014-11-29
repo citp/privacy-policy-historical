@@ -1,143 +1,201 @@
-> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233334id_/http%3A//www.howrse.com/footer/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129052849id_/http%3A//www.owlient.eu/2013/10/29/pp-us) for the most accurate reproduction.*
 
-# Privacy policy
+# PP-US | Owlient
 
-##  OWLIENT PRIVACY POLICY 
+PRIVACY STATEMENT
 
-_Version dated: January 2010_
+Last updated March 1, 2014
 
-At Owlient (“Owlient” or “we” or “us” or “our"), we respect your privacy rights and are committed to protecting the information we collect from you online. 
+OUR PRIVACY COMMITMENT
 
-We provide this Privacy Policy in order to explain how we collect, use, disclose and protect personal information, as well as the guarantees we offer in this respect. 
+Owlient SARL and its subsidiaries (collectively, “Owlient” or “we”), respects the privacy rights of our visitors and users and recognize the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Privacy Policy (“Policy”) to guide how we collect, store, and use the information you provide us when you access Owlient’s websites, online games, online functions of offline games and any other online functions controlled by Owlient or mobile applications (collectively, the “Services”). If you do not agree to the terms of this Policy, please do not use the Services.
 
-Occasionally, we will revise and update this Privacy Policy, in accordance with changing industry standards, technologies and privacy laws. We will post the revised version on our websites and such revised version will be effective at the time we post it. We therefore ask you to regularly check back and review this Privacy Policy to ensure that you are aware of the last changes to our privacy practices. If the revised version includes substantial changes, we will post an information notice on our websites. 
+We reserve the right to change the provisions of the Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was revised. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used. Your continued use of the Services following the posting of changes to these terms will mean you accept those changes.
 
-  
+**TABLE OF CONTENTS**
 
+Q1. What is Personal Information?
 
-###  1\. Collection of Personal Information 
+Q2. What types of personally identifiable information do we collect about our guests?
 
-When you connect to our websites, we ask you to provide us with personal information about you for the purpose of registering with one of our games and for purchasing our products and services online. 
+Q3. How is your personally identifiable information used and shared?
 
-By personal information, we mean any information that would enable to identify you, such as your name, e-mail address or birth date. 
+Q4. What choices do you have about the collection, use, and sharing of your personally identifiable information?
 
-Please be aware that we will only collect personal information that is strictly necessary for the purposes we pursue. 
+Q5. Do we collect information for children under the age of 13?
 
-When you fill-in our registration form in order to participate in one or several of the games proposed by Owlient, we will only ask for your e-mail address and birth date. 
+Q6. Does this privacy policy apply to other websites linked to this Site?
 
-When you purchase goods or services on our websites, you will be requested to provide a valid credit card number, expiration date and security code, and, when you wish to pay by SMS, your telephone number, in addition to your name, e-mail and mail address and date of birth. Please note that you must be over the age of 18 to order online, or meet the conditions set forth in our General Terms of Use if you are under 18. 
+Q7. What kinds of security measures do we take to safeguard your personally identifiable information?
 
-Owlient will never has access or use in any manner your payment information, credit card and telephone number as the case may be, which will be used only by our payment providers as set forth in Section 2 below. 
+Q8. How can you update your personal information and profile?
 
-Besides this personal information, we will ask you non personal information about your gender, country or else in order to better adapt our offer to your needs. 
+Q9. How can you ask questions, or send us comments, about this Privacy Policy?
 
-  
+**Q1. What is Personal Information?**
 
+A1. As used herein, the term “personal information” means information that specifically identifies any individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card number), or information about that individual that is directly linked to personally identifiable information. Personal information does not include “aggregate information”, which is data we collect about the use of the Services or about a group or category of services or users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information. Personal information also does not include a Device Identifier (as defined below) that is not connected to personal information.
 
-###  2\. Use of Personal Information 
+**Q2. What types of personally identifiable information do we collect about our guests?**
 
-We use the personal information you provide to us for the following purposes: 
+A2. We collect several types of personal information about our guests in a number of ways when you visit or use the Services:
 
-  
+**Information You Provide to Us or Active Collection.**
 
+We collect certain information from you when you voluntarily provide it, such as if you:
 
-  * \- To allow you to participate in the games we propose on our websites, as well as chat rooms and forums; 
-  * \- To process the transactions completed on our websites and send notices about transactions; 
-  * \- To send you our newsletters, provided that you opted-in to receive such newsletter; 
-  * \- To communicate with you: respond to your requests, contact you about your account(s) with us etc. 
+  * Create an Owlient account;
+  * Apply for a beta tester position;
+  * Subscribe to one of our newsletters;
+  * Email-a-friend;
+  * Participate in our community forums or chat rooms;
+  * Shop at one of our online stores or purchase virtual items within an Owlient game;
+  * Receive customer or technical support;
+  * Participate in contests, events, or promotions;
+  * Register product online for warranty protection; and
+  * Polls, surveys, or questionnaires.
 
 
 
-We will keep your information as long as your account with us remains effective. 
+Typically, the personal information collected includes: Name; email address; telephone number; shipping and billing address; date of birth, and for those purchasing products through the Services. Additionally, we may also collect demographic information such as your age, gender, country and zip code of residence, recent game purchases, and game ownership and preferences. This demographic information may be associated with your personal information. If this demographic information is connected with personal information, we will treat the demographic information as personal information. Furthermore, Owlient may collect information regarding the user’s behavior, and his/her use of Owlient’s demos and in-game data such as achievements, rankings, time played to better adapt our products and Services to users’ interests and for a better quality of our services
 
-We undertake to maintain the confidentiality of your personal information. Accordingly, we will not disclose, sell or otherwise transfer your personal information to any third party, except in the following limited circumstances: 
+For some features of the Service, you may be able to submit information about other people. For instance, if you wish to send a coupon or advertisement to a friend you may submit some of your friend’s personal information. Owlient will use any such information that we collect from you about another person to carry out your request.
 
-  
+**Passive Collection**
 
+When you use the Services, some information is also automatically collected. Owlient as well as any third party advertisers and/or service provides, may use a variety of technologies that automatically or passively collect information about how the Services are accessed and used (“Usage Information”). For example, when you come to use or visit the Services, we collect your IP address or other unique identifier (“Device Identifier”) for the computer, mobile device, technology or other device (collectively, “Device”) you use to access the Services, your operating system, the browser type, the address of the referring web site and your activity on the Site or your console ID. A Device Identifier is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. We also can use the Device Identifier to determine the general physical location of your Device and understand from what regions on the world the visitors to the Services come. Standing alone, your Device Identifier is not personally identifiable. At times, we also use Device Identifiers to collect information regarding the frequency with which our guests visit various parts of our websites. If we combine this information with personally identifiable information, we treat this information as personal information.
 
-  * \- When we have your prior consent; 
-  * \- When we are required to disclose your personal information by law, regulation or court order, for instance where it is necessary to investigate, prevent or take action regarding illegal activities. 
+**Cookies**
 
+We may also automatically collect certain information and monitor user activity through the use of “cookies” or web beacons (also known as web bugs, pixel tags, tracking pixels, or clear gif’s or by monitoring a user’s Device Identifier) on the Services. If we link cookies to any personally identifying information, we will treat this information as personal information. The web beacons we use do not collect any personal information. If you wish to block, erase, or be warned of cookies on the Site, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features on the Services. Information provided by cookies, web beacons, Device Identifier’s or other devices may be used, among other things to analyze data, to determine the popularity of certain content, to deliver advertising targeted to your interests, to make recommendations to you and to better understand the usage and visitation of the Services and the effectiveness of Ads.
 
+Finally, once you’ve clicked on an advertisement and have left our websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
 
-We may however share your personal information with our technical partners for the sole purpose of assisting us in the processing of personal information on our behalf. We require these partners to process such information based on our instructions only, in compliance with this Privacy Policy and subject to confidentiality obligations that prohibit them from using your information for their own needs and disclosing them to third parties. 
+Third parties may also use cookies, web beacons, or other devices to collect information when you use the Services. Owlient does not control any cookies or other data collection tools that may be placed on the Services by a third party, and this Policy does not cover the use of such cookies and/or other data collection tools by any third party. We encourage you to read the privacy policies of the website and applications you use to find out more about the information that may be collected by third parties and the choices you have regarding the collection, use and sharing of such information.
 
-Your payment information will be accessible and used by the payment providers only, for the sole purpose of processing the transaction, in accordance with their own confidentiality and security procedures, as disclosed to you at the time you complete the transaction. Such payment providers shall not use this information for their own needs nor disclose it to any third party. 
+**Advertisements**
 
-We will take all appropriate measures to preserve the security of your personal information, and, in particular, prevent their alteration and damage, or access by unauthorized third parties. Only those of our employees who have a need to know for the purpose of performing their work will be entitled to process your personal information. 
+We may partner with third party online advertising companies to deliver advertisements on our Services. Because your internet browser or mobile device must request these advertising banners from ad networks’ servers, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the Service. Please note that if an advertiser on a third party ad network asks us to show an advertisement to a certain audience (for example, males ages 18-34) or audience segment (for example, men ages 18-34 who have viewed video game related items) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. However, we would only authorize third party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. We would not knowingly permit a third party ad server to collect Personal Information about you. If you want to prevent a third party ad server and/or third party service provider from sending and reading cookies on your computer or mobile device, you must visit each third party ad server network’s website individually and opt out (if they offer this capability).
 
-However, despite the security measures we implement, we cannot guarantee that your personal information will never be accessed and/or used by unauthorized third parties. 
+**Information Received From Third Parties**
 
-  
+We also may obtain certain non-personal information about you from third parties. This information may include demographic, geographic, psychographic and other usage information that does not personally identify an individual user and may be associated with anonymous device ID and/or a console identification number. You may also choose to participate in a third party applications or features (such as one of our social network applications or a similar application or feature on a third party website) through which you allow us to collect and share (or the third party to collect and share) information about you, including personal information. If you access the Services through a third-party connection or log-in, we may also collect your user ID and/or username associated with that third-party service, and any information you have made public in connection with that service or with the third party shares with partner services. In addition, we may receive information about you if other users of a third party web site give us access to their providers and you are one of their “connections” or information about you is otherwise accessible through your “connections” webpage, profile page, or similar page on a social networking or other third party website or interactive service. The collection and use of this information is pursuant to such third party’s information collection practices, which are typically outlined in a privacy policy like this one, provided on the third party’s website or in an application. This Policy does not apply to information received from third parties, and Owlient is not responsible for the privacy and security practices and policies of such third parties.
 
+We also may supplement the information we collect about you through the Services with our information from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from these third parties with information we collect through the Services. In those cases, we will apply this Policy to any personal information received, unless we have disclosed otherwise.
 
-###  3\. Rights to Access, Rectify and Delete 
+**Q3. How is your personally identifiable information used and shared?**
 
-You have the right to obtain information with respect to your personal information, such as: 
+A3. We don’t sell or rent your personal information to third parties without your consent. We don’t require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website.
 
-  
+We use personal information we collect through the Site for the purposes described in this Policy or elsewhere on the Site. For example, we may use personal and other information we collect:
 
+  * To provide the services, products or information you request and to process and complete any transactions in connection therewith;
+  * To request feedback and to otherwise contact you about your account or your use of the Services. For instance, if you create an Account and your Account is later cancelled (e.g., due to lack of activity), we may subsequently contact you to let you know that we’ve reactivated your account for a short period of time. We may also use your personal information for other purposes such as « Operational Uses. » For example, we may use your information to send you administrative communications either about your account with us or about features of our websites, including any future changes to this Privacy Policy;
+  * To communicate with you and respond to your emails, submissions, questions, inquiries, comments, requests, and complaints and to provide customer service. For instance, we may use your email address to send you service announcements that tell you about updates to our Policy, changing in pricing, changes to our online service or customer support policies, and other related service changes.;
+  * To personalize and improve the Site and users’ experiences, to increase the functionality and user friendliness of the Site, to deliver advertisements, content, or features that match user profiles or interests, and to provide recommendations as to other advertisements, content or features that may be of interest to users;
+  * To monitor and analyze the Site usage and trends and otherwise measure the effectiveness of the Site;
+  * To provide you with news and information about our third party events, activities, offers, promotions, products, and services we think will be of interest to you;
+  * To send you confirmations, updates, security alerts, and support and administrative messages, to detect and prevent fraud, and to otherwise facilitate your use of, and our administration and operation of, the Services;
+  * To notify you about important changes to our Services;
+  * To conduct surveys and to notify and contact contest and sweepstakes entrants; and
+  * For any other purpose for which the information was collected.
 
-  * \- confirmation as to whether your personal information is processed by us,
-  * \- information relating to the purposes of the processing, the categories of personal information we process and the recipients or categories of recipients to whom you data may be disclosed;
-  * \- information as to whether your personal information is transferred outside the European Union;
-  * \- communication of your personal information. 
 
 
+We will not share the personal information we collect from you through the Services with third parties, except as described in this Policy or on the Site. For example, we may share personal information as follows:
 
-Provided that your request is not excessive, we will provide you with the requested information. 
+  * With vendors, consultants, and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site and who need access to such information to carry out their work for us From time to time, we may share your personal information with technical partners which help Owlient with the operation of the Services, including, without limitation, payment processing, and products delivery. To the extent that our technical partners have access to your information, they will follow practices that are at least as restrictive as the practices described in this Policy ; 
+    * Upon your request or with your consent, we will share your information with other users of the Site;
+    * When you give us your consent to do so, including if we notify you that the information you provide will be shared in a particular manner and you provide such information;
+    * With Advertising Partners to send you coupons, promotions, rewards, awards and advertisements you request;
+    * To enforce or apply this Policy, our Terms of Use, or our other policies or agreements;
+    * To enter you into a sweepstakes, contest, or promotion; and
+    * To respond to your questions.
 
-You may also rectify, complete, update, block or delete your personal information if they are inaccurate, incomplete, equivocal, expired, or if their collection, usage, disclosure or storage is prohibited. 
 
-If you do not want to receive any information on our services such as our newsletter, you can opt-out at the time your register with us, and thereafter at any time. 
 
-In order to exercise these rights, you may write to the following addresses: 
+**Aggregate Information**
 
-  
+We may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). This can include a Device Identifier, usage information and/or information that is not connected to personal information. Given the nature of this information, no restrictions apply under this Privacy Policy on our right to aggregate or de-personalize your personal information, and we may use and share in any way with third parties the resulting non-personally identifiable information.
 
+**Business Information**
 
-  * \- By form: <http://www.howrse.com/support>
-  * \- By mail: Owlient, 26-28, rue de Chambéry – 75015 Paris (France) 
+For practical reasons, we treat personal information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal information submitted to us in a business capacity (e.g. resumes) may be shared with third parties, depending on the nature of the inquiry.
 
-  
+**Purchase or Sale of Businesses**
 
+From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. If we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. If we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
 
-###  4\. Cookies 
+**Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others**
 
-Cookies are small files that Internet sites place on your computer's hard drive when you connect to our websites. 
+We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our websites or third parties.
 
-These files are harmless and do not contain any personal information regarding subscribers. Most cookies used by Owlient are session cookies, which are only active during the connection. Permanent cookies are only saved onto your computer hard drive in order to identify you when you connect, in particular in order to enable you to exercise the rights and advantages acquired. Cookies are occasionally used to show advertising banners, and to obtain statistics on the number of visitors to the website and the most popular sections, in particular in order to improve the Game by adapting it to its subscribers. 
+You understand that when you use the Services, any information you post in any interactive areas of the Services, including in any comments, listings, profiles, public or private groups or forums, as well as any information you share with individuals through public or private groups or forums, as well as any information you share with individuals through the Services or through social network sites or other social feeds, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums.
 
-You may oppose to the installation of "cookies" by modifying your browser settings. However, you are informed that blocking cookies through the browser's settings or firewall will prevent our games from functioning normally. 
+We are not responsible for the actions of third party service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
 
-In addition, where Owlient inserts third parties advertising on its websites, you are aware that those third parties may place a cookie. You have the possibility to de-install these cookies on a page of the third party' website accessible at the address: <http://www.exponential.com/who-we-are/privacy-policy.jsp>
+**Q4. What choices do you have about the collection, use, and sharing of your personally identifiable information?**
 
-  
+A4. As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by visiting your profile section or contacting us at http://support.owlient.eu/wizard. **** When you contact us, please include the name of the website you used to register and the email address you used to register with us so we can verify your request.
 
+**Your California Privacy Rights** : The following applies solely to California residents who have an established business relationship with Owlient. If we collect personal information from you, we may make the personal information available to third parties for their marketing and promotional purposes. If you decide that you do not want us to share your personal information with these companies for their marketing and promotional purposes, please contact us at http://support.owlient.eu/wizard. When you contact us, please state that you would like Owlient to not share your personal information with third parties for their marketing purposes. You opt out request will be processed within thirty (30) days of the date of which we receive it.
 
-###  5\. Specific Rules regarding minors' privacy 
+**Q5. Do we collect information for children under the age of 13?**
 
-We encourage parents and guardians to be aware of and participate in their children's online activities. If you are under the age of 18, you are informed that you need the consent of your parents in order to provide us with your personal information. 
+A5. Owlient is very sensitive to privacy issues. We are especially careful in any communications with children under the age of 13 (“Child” or “Children”). Owlient restricts access to certain Services on age grounds and, in certain jurisdictions, for certain Services and functions, asks for parent approval when a Child wishes to register for the Services.
 
-We will always request your age prior to processing any purchase on our websites. If you are under the age of 18, we will request an authorization from your parents and you will not be able to complete any transaction unless we have this authorization. 
+When we intend to collect personal information from a Child, we take additional steps to protect children’s privacy, including:
 
-Users of our websites located in the United States are informed that we strictly adhere to the Children's Online Privacy Protection Act and will not knowingly collect, use or disclose personal information from any child under the age of 13 in any manner that violates this law. 
+  * Notifying parents about our information practices with regard to Children, including the types of personal information we may collect from Children, the uses to which we may put that information, and whether and with whom we may share that information
+  * In accordance with applicable law, obtaining consent from parents for the collection of personal information from their Children, or for sending information about our products and services directly to their Children
+  * Limiting our collection of personal information from Children to no more than is reasonably necessary to participate in an online activity
 
-  
 
 
-###  6\. International users 
+Giving parents access or the ability to request access to personal information we have collected from their Children and the ability to request that the personal information be changed or deleted
 
-You are advised that this Privacy Policy is intended to meet the laws and regulation of France. By using any of our websites, you acknowledge and agree that personal information you provide to us will be treated in accordance with the laws and regulation of France, although they may differ from your own country's laws and regulations. 
+More specifically, when a Child under the age of 13 registers, (s)he must supply the e-mail address of a parent or legal guardian who will be contacted by Owlient to ask him/her to confirm, refuse to modify his/her Minor’s registration. Owlient reserves the right to limit the period during which a child under the age of 13 may play pending confirmation and activation by his/her parent or guardian. Owlient reserves the right to ask for written proof of parental consent for any user or potential user of the services suspected to be a Child. Parental consent applies exclusively to the specific service for which it has been granted.
 
-  
+Certain Services are specifically designed for Children and enable Children under the age of 13 to create their own free accounts for which Owlient collects their username, password, date of birth (or age), country, and parent or guardian’s e-mail address.
 
+Such services sometimes offer the possibility of paying for a subscription or certain game functions which enable Children to participate in more activities on the Services by making a payment. The subscription services may also allow parents or guardians to manage their Child’s account and create their own player accounts.
 
-* * *
+Certain services enable Children to create personalized avatars which they can use in numerous activities in the services, including mini-games and virtual worlds. Children may also use other functions of the Services such as “Recommend to a friend” to invite a friend to find out about the Services. The “Recommend to a friend” functions enable Children to send their friends a single message inviting them to visit the related service. Owlient will collect the first name and e-mail address of your Child (or, failing that, the e-mail address of the parent or guardian) and the e-mail address of his/her friend for the sole purpose of sending a single message. This information is neither stored nor used for any other purpose and we do not reveal your child’s e-mail address to the recipient.
 
-**Contact us**
+Parents may delete their Child’s Account or change their Child’s privacy settings at any time by creating a parental Account or by sending an e-mail to the administrator of the Privacy Policy, who is identified below.
 
-If you have any questions or concerns about this Privacy Policy or its implementation, you may contact us by mail at Owlient, 26-28, rue de Chambéry – 75015 Paris (France). 
+In all cases, use of the Services by Children must take place under the responsibility of their parents or legal guardians and any use of the Services is assumed to have been validated by them. AS FAR AS IS PERMITTED BY APPLICABLE LEGISLATION, OWLIENT DECLINES ANY RESPONSIBILITY REGARDING ANY ACTIVITIES WHICH MAY BE CONDUCTED BY CHILDREN WITHOUT THE PERMISSION OF THEIR PARENTS OR LEGAL GUARDIANS.
 
-  
+IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU GIVE YOUR PERMISSION FOR YOUR CHILD TO REGISTER FOR ONE OR OTHER OF THE SERVICES, YOU THEREBY AGREE TO THE TERMS RELATING TO USE OF THE SERVICES BY YOUR CHILD.
 
+**Q6. Does this privacy policy apply to other websites linked to this Site?**
+
+A6. The services may contain links to other websites. For instance, purchases of Virtual Currency or Virtual Items for Owlient Services may be transacted on a third party processors site. Any personal information you provide on linked pages or applications is provided directly to that third party and is subject to that third party’s privacy policy. This Privacy Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to or from the Services. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+
+**Q7. What kinds of security measures do we take to safeguard your personally identifiable information?**
+
+A7. The security and confidentiality of your personal information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable. ****
+
+To protect the confidentiality of personal information maintained in your account, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Services by any person using your password. Please advise us immediately if you believe your password has been misused.
+
+DESPITE OUR EFFORTS TO KEEP YOUR PERSONAL INFORMATION SECURE, NO COMPANY CAN GUARANTY THE SECURITY AND PRIVACY OF ITS SERVICES, INFORMATION AND OTHER DATA. ACCORDINGLY, OWLIENT DISCLAIMS AND DOES NOT REPRESENT AND WARRANT THAT IT WILL BE ABLE TO MAINTAIN YOUR PRIVACY OR THE SECURITY OF ITS DATA IN REGARD TO YOUR PERSONAL INFORMATION. OUR PRIVACY POLICIES AND PROCEDURES ARE “AS IS” AND OWLIENT MAKES NO REPRESENTATIONS AS TO THE FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY.
+
+**Q8. How can you update your personal information and profile?**
+
+A8. You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by logging in and clicking the Profile section, or contacting us at http://support.owlient.eu/wizard. When you contact us, please include the name of the website you used to register so we can verify your request.
+
+If you do not wish to receive promotional e-mails, texts, or other communications from Owlient, please follow one of the two options below:
+
+1\. You must opt-out to receive promotional e-mails, texts, or other communications. When providing your personal information, simply uncheck the box that asks whether you would like to receive such communications, and we will not send you any promotional information via these communications methods.
+
+2\. When you receive an e-mail, text, or other communications from us, it will contain a link or other instruction that allows you to stop the delivery of such messages from us. If you decide to use this opt-out method, you will no longer receive special offers, valuable coupons, new product introductions or e-newsletters from Owlient; however, you will continue to receive non-promotional communications from us, such as order confirmations.
+
+**Q9. How can you ask questions, or send us comments, about this Privacy Policy?**
+
+A9. If you have questions or wish to send us comments about this Privacy Policy, please contact Owlient at <http://support.owlient.eu/wizard> and/or at the address below:
+
+Owlient SAS 28 rue de Chambery 75015 Paris, France
+
+Please be assured that any personal information that you provide in communications to the above addresses will not be used to send you promotional materials, unless you request it.
+
+Last updated March 1, 2014
