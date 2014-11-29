@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3million.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209041531id_/http%3A//www.mp3million.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3million.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129163926id_/http%3A//www.mp3million.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,9 +20,3 @@ The User has the right to delete and/or modify his personal information on our w
 
 How We Protect Your Personal Information
      Your personal information is safeguarded through the use of Site's managerial procedures, as well as physical and electronic procedures to protect security. 
-
-_The information contained in this web site is subject to change without notice.  
-Copyright © 2006-2011 Fredondo Ltd. and AIRLUX DYNAMIC LIMITED. All rights reserved.   
-Fredondo Ltd. office 414, Basseynaya str., 6, Kiev, Ukraine.   
-AIRLUX DYNAMIC LIMITED (Company #HE289326), office 602, Centre Point Tower, Stasikratous str., 37, Nicosia Cyprus  
-_
