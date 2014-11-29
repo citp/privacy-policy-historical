@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nival.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122537id_/http%3A//en.nival.com/privacypolicy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nival.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129084948id_/http%3A//en.nival.com/privacypolicy-us) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Nival | Privacy Policy
 
 Effective Date: 4.4.14
 
