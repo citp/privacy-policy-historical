@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theledger.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530063519id_/http%3A//www.theledger.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theledger.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129155737id_/http%3A//www.theledger.com/privacypolicy) for the most accurate reproduction.*
 
 # Untitled Document
 
