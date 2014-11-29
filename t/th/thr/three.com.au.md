@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628025200id_/http%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130005042id_/https%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
 
 # About - Legal - Privacy Policy - Vodafone Australia
 
