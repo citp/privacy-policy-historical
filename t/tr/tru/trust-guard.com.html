@@ -1,24 +1,115 @@
-<!--The following is the downloaded HTML source of the trust-guard.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624105919id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trust-guard.com privacy policy that was archived on 2014-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129070052id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-        <title>Trust Guard Privacy Policy</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="description" content="Improve credibility, build customer trust, and increase conversions and Sales!  Compare and save!">
-        <meta name="keywords" content="McAfee Secure Hacker Safe, HackerSafe, Scan Alert, Online Conversion, Trust Seals, PCI Compliance, Secure Seals, Website Verification, Verisign, Truste, Control Scan, BBB, Thawte, SSL Certificate, Verified Website, Trust Marks, Trust Logo, Verification, w">
-        <meta name="robots" content="">
-        <meta name="GOOGLEBOT" content="">
-        <meta name="google-site-verification" content="IvM4oCWbwEt5uDzk0JpvY59g0OTPCBnXtJgu6wtdJRQ">
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
 
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WMGTWF"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Scripts/update.js"></script>
-        <script type="text/javascript" src="/Scripts/jquery-1.3.2.min.js"></script>
-        <script type="text/javascript" src="/Scripts/jquery-ui-1.8.6.custom.min.js"></script>
-        <script type="text/javascript" src="/Scripts/EasySlider.js"></script>
-        <script type="text/javascript" src="/Other/swfobject/swfobject.js"></script>
-        <script type="text/javascript" src="/Scripts/popup.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Templates/2.0/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/Templates/2.0/css/style-responsive.css">
+    <link href="/Templates/2.0/css/tmbslider.css" rel="stylesheet" type="text/css">
+    <link href="/Templates/2.0/css/flexslider.css" rel="stylesheet" type="text/css">
+    <link href="/Templates/2.0/css/icon-anim.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
-        
-            <script type="text/javascript">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" src="/Scripts/CalculatePackagePricing.js"></script>
+
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700italic,300italic,400italic,600,600italic,700,300,200italic,200" rel="stylesheet" type="text/css">
+    <script type="text/javascript">
+        WebFontConfig = {
+            google: { families: [ 'Source+Sans+Pro:400,700italic,300italic,400italic,600,600italic,700,300,200italic,200:latin' ] }
+        };
+        (function() {
+            var wf = document.createElement('script');
+            wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+            wf.type = 'text/javascript';
+            wf.async = 'true';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(wf, s);
+        })(); </script>
+
+    <!-- Bootstrap -->
+    <link href="/Templates/2.0/css/bootstrap.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="/Templates/2.0/js/bootstrap.min.js"></script>
+    <script src="/Templates/2.0/js/bootstrap-collapse.js"></script>
+    <script type="text/javascript" src="/Templates/2.0/js/Chart.js"></script>
+    <script type="text/javascript" src="/Templates/2.0/js/custom-chart.js"></script>
+    <script type="text/javascript" src="/Scripts/update.js"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('a[href*=#]').click(function () {
+                if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+                    && location.hostname == this.hostname) {
+                    var $target = $(this.hash);
+                    $target = $target.length && $target
+                    || $('[name=' + this.hash.slice(1) + ']');
+                    if ($target.length) {
+                        var targetOffset = $target.offset().top;
+                        $('html,body')
+                            .animate({scrollTop: targetOffset}, 1000);
+                        return false;
+                    }
+                }
+            });
+        });
+    </script>
+    <script>
+        $(function () {
+            var pull = $('#pull');
+            menu = $('nav ul');
+            menuHeight = menu.height();
+
+            $(pull).on('click', function (e) {
+                e.preventDefault();
+                menu.slideToggle();
+            });
+
+            $(window).resize(function () {
+                var w = $(window).width();
+                if (w > 320 && menu.is(':hidden')) {
+                    menu.removeAttr('style');
+                }
+            });
+        });
+    </script>
+    <!--?php
+    session_start();
+    if(isset($_POST['changeOption']))
+    {
+        $disabledSubmit = $_POST['disabledSubmit'];
+        if($disabledSubmit == 1) $js = 'disabledSubmit:true';
+        else $js = 'disabledSubmit:false';
+
+        $autoRevert = $_POST['autoRevert'];
+        if($autoRevert == 1) $js .= ',autoRevert:true';
+        else $js .= ',autoRevert:false';
+
+        $autoSubmit = $_POST['autoSubmit'];
+        if($autoSubmit == 1) $js .= ',autoSubmit:true';
+        else $js .= ',autoSubmit:false';
+    }
+    else
+    {
+        $disabledSubmit = 2;
+        $autoRevert = 1;
+        $autoSubmit = 2;
+        $js = 'disabledSubmit:true,autoRevert:true,autoSubmit:false';
+    }
+    ?-->
+
+    <title>Trust Guard Privacy Policy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="Trust Guard Privacy Policy">
+    <meta name="keywords" content="Trust Guard Privacy Policy">
+    <meta name="robots" content="">
+    <meta name="GOOGLEBOT" content="">
+    <meta name="google-site-verification" content="IvM4oCWbwEt5uDzk0JpvY59g0OTPCBnXtJgu6wtdJRQ">
+        <script type="text/javascript">
 
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -31,515 +122,538 @@
     </script>
 
     
-<script type="text/javascript"> if (typeof hmtracker == 'undefined') {	var hmt_script = document.createElement('script'), hmt_purl = encodeURIComponent(location.href).replace('.', '~');	hmt_script.type = "text/javascript";	hmt_script.src = "//heatmapspro.com/manager/?hmtrackerjs=Trust~Guard&uid=909f125c6e1ee90ee456dad10642e72fcb2ad249&purl="+hmt_purl;	document.getElementsByTagName('head')[0].appendChild(hmt_script);}</script><script type="text/javascript" src="//heatmapspro.com/manager/?hmtrackerjs=Trust~Guard&amp;uid=909f125c6e1ee90ee456dad10642e72fcb2ad249&amp;purl=https%3A%2F%2Fweb~archive.org%2Fweb%2F20140624105919id_%2Fhttp%253A%2F%2Fwww.trust-guard.com%2Fterms_privacy.asp"></script>
-
-<script type="text/javascript">
-
-    
-    adroll_adv_id = "VPDW6SITXVEO3FTJGYIAE6";
-    adroll_pix_id = "T3LWYC4N6BARFKUFK7JMDL";
-    (function () {
-        var oldonload = window.onload;
-        window.onload = function () {
-            __adroll_loaded = true;
-            var scr = document.createElement("script");
-            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-            scr.setAttribute('async', 'true');
-            scr.type = "text/javascript";
-            scr.src = host + "/j/roundtrip.js";
-            ((document.getElementsByTagName('head') || [null])[0] ||
-                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-            if (oldonload) {
-                oldonload()
-            }
-        };
-    }());
-</script>
-
-        
 
 
-        <link type="text/css" href="/CSS/jquery-ui-1.8.6.custom.css" rel="stylesheet">
-        <link type="text/css" href="/CSS/popup.css" rel="stylesheet">
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.10.1.min.js"></script></head>
+
+<body>
+
+<div id="skrollr-body" class="container-fluid">
+    <div id="top-header">
+    <div class="row">
+        <div class="container container-force-fluid" style="margin-top:10px;">
+                    <span class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-xxs-12 center-block text-left xs-text-center"><a href="/index.php">
+                            <img id="logo-top" border="0" src="/Templates/2.0/images/neo-tglogo.png" alt="Trust Guard"></a>
+
+                    </span>
+            <span class="col-lg-1 col-md-1 col-sm-1 col-xs-1 col-xxs-12 no-pad "><img src="/Templates/2.0/images/home-newimg-2.png" style="position: relative;top: 10px;" class="pull-right visible-lg"></span>
+
+            <div class="col-lg-6  col-md-7 col-sm-7  col-xs-12 text-center center-block menu-nav" style="margin:15px 0;">
+                <a href="javascript:" class="col-md-3 dropdown-btn hidden-sm hidden-xs">Get Started</a>
+                <a href="/security-scanned.htm" class="col-md-3 dropdown-btn hidden-md hidden-lg">Get Started</a>
+                <ul class="dropdown-list hidden-sm hidden-xs">
+                    <li><a href="/security-scanned.htm">Security Scanned</a></li>
+                    <li><a href="/privacy-safe.htm">Privacy Safe</a></li>
+                    <li><a href="/business-verified.htm">Business Verified</a></li>
+                </ul>
+                <script>
+                    $(function () {
+                        $('.dropdown-btn').click(function () {
+                            $('.dropdown-list').toggle();
+                        });
+                        $('#mid-section').click(function () {
+                            $('.dropdown-list').hide();
+                        });
 
 
-        <link href="/Templates/Clean/CSS/CustomStyle.css" rel="stylesheet" type="text/css">
-        <!--[if lt IE 7.]>
-        <script defer type="text/javascript" src="/Scripts/pngfix.js"></script><![endif]-->
-        <link rel="shortcut icon" href="/Templates/Clean/Images/favicon.ico">
+                    });
+                </script>
+                <a href="/solution.php" class="col-md-3">Blogs</a>
+                <a href="/category-s/3.htm" class="col-md-3">About Us</a>
+                <a href="javascript:" id="menu-search-pop" data-toggle="popover" class="col-md-1"><span class="glyphicon glyphicon-search"></span></a>
+                <a href="https://members.trust-guard.com/" id="menu-login-pop" data-toggle="tooltip" data-placement="bottom" data-title="<div style='width:100px;margin:0 auto;text-align:center;'>Member Login</div>" data-html="true" class="col-md-1"><span class="glyphicon glyphicon-user"></span></a>
+                <a href="javascript:" id="menu-contact-pop" data-toggle="popover" class="col-md-1"><span class="glyphicon glyphicon-earphone"></span></a>
 
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.10.1.min.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-    <body style="margin:0;">
-        <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WMGTWF"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-WMGTWF');</script>
-<!-- End Google Tag Manager -->
-        <div id="tgDim"></div>
-        <div style="width:100%; position:fixed; background-color:#fff; border-bottom:1px silver solid; top:0;">
-            <div style="margin:0px auto; width:975px; padding-top:10px; padding-bottom:10px;">
-                <a href="/"><img border="0" style="float:left;" src="/Templates/Clean/Images/tg-logo.png" alt="Trust Guard"></a>
 
-                <div id="divHeaderLinks" style="float:left; margin-top:10px;">
-                    <a href="/Website-Security-s/89.htm">Website Security</a>
-                    <a href="/features.htm">Benefits</a>
-                    <a href="/pricing.htm">Pricing</a>
-                    <a href="https://members.trust-guard.com">Login</a>
+                <div id="popover-head" class="hide">Search</div>
+                <div id="popover-search" class="hide">
+                    <div class="form-group">
+                        <input type="search" id="txtSearchWebsiteHeader" required="" class="form-control col-md-10 col-sm-9 col-xs-10" placeholder="Start Your Search here...">
+                        <br><br>
+                        <button type="button" onclick="searchWebsite($('#txtSearchWebsiteHeader').val());" class="form-control  btn btn-success">Search</button>
+                    </div>
                 </div>
-
-                <table style="float:right; text-align:center;" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                        <td style="width:160px; padding-right:35px; text-align:right;">
-                            <div style="margin-right:23px;">
-                                <img src="/Templates/Clean/Images/cellphone-icon.jpg"> 877-848-2731
-                            </div>
-                        </td>
-                        <td valign="middle" style="vertical-align: middle; padding-top:4px;" rowspan="2">
-                            <a name="trustlink" href="http://secure.trust-guard.com/security/637" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Security Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/logo/637-lg.gif"></a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td style="text-align: right;">
-                            <table style="float: right; padding-right:43px; padding-top:5px;" cellspacing="0" cellpadding="0">
-                                <tbody><tr>
-                                    <td style="text-align:right; padding-right:3px;">
-                                        <input id="txtSiteSearch" style="width:80px; height:12px; font-size:8pt;" class="textBox" type="text" placeholder="Search...">
-                                    </td>
-                                    <td>
-                                        <img onclick="searchSite(); return false;" style="cursor:pointer; width:20px;" src="/Images/gonew.png" alt="">
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        </td>
-                    </tr>
-                </tbody></table>
-
-            </div>
-            <div style="clear:both;"></div>
-            <div style="height:10px;"></div>
-        </div>
-
-        <div style="height:41px;"></div>
-
-
-        <div class="grayBox">
-            <div style="height:1px; width:100%; background-color:#909090;"></div>
-            <div style="height:1px; width:100%; background-color:#FFF;"></div>
-            <div style="height:15px;"></div>
-            <div class="mainContentContainer">
-                <div style="padding:15px;">
-                    <table cellpadding="0" cellspacing="0">
-                        <tbody><tr>
-                            <td></td>
-                            <td valign="top" rowspan="2" style="vertical-align:top;">
-                                <div style="padding-left:10px; width:710px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;">
-   
-            
-<h1 style="margin-top:0px;">Trust Guard Privacy Policy</h1>
-            
-            <div><span style="font-weight: bold;"></span>&nbsp;</div>
-            <div><span style="font-weight: bold;">What information do we collect?</span></div>
-            <ul>
-                <li>We collect information from you when you register on the site, place an order, sign up for our newsletter, respond to a survey or communication such as e-mail, or participate in another site feature. 
-                </li><li>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
-                </li><li>Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.</li></ul><br><span style="font-weight: bold;">How do we use your information?</span><br><br>We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
-            <ul>
-                <li>To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-                </li><li>To allow us to better service you in responding to your customer service requests. 
-                </li><li>To quickly process your transactions. 
-                </li><li>To administer a contest, promotion, survey or other site feature. 
-                </li><li>If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.</li></ul><br><span style="font-weight: bold;">How do we protect visitor information?</span><br><br>We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. In addition, all sensitive/credit information you supply is transmitted via 128-Bit Secure Socket Layer (SSL) technology and then encrypted into our databases using a random 16-digit encryption code, to be only accessed as stated above. For your convenience on future orders, and to automate the monthly and/or annual recurring transaction process, you can store your credit card information longer than 60 days if you select the "Keep my payment method on file for easy checkout on future orders" box during checkout. <br><br><br><span style="font-weight: bold;">Do we use "cookies"?</span><br><br>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.<br><br>We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.<br><br><br><span style="font-weight: bold;">Do we disclose the information we collect to outside parties?</span><br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Trust Guard. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.<br><br>However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><br><span style="font-weight: bold;">How can you opt-out, remove or modify information you have provided to us?</span><br><br>To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.<br><br>To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses &amp; payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.<br><br><br><span style="font-weight: bold;">Third party links</span><br><br>In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).<br><br><br><span style="font-weight: bold;">Changes to our policy</span><br><br>If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. <span style="font-weight: bold;">This policy was last modified on&nbsp;August 24th, 2006.</span><br><br><br><span style="font-weight: bold;">Questions and feedback</span><br><br>We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.<br><br><br><span style="font-weight: bold;">Online Policy Only</span><br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><br><span style="font-weight: bold;">Terms and Conditions</span><br><br>Please also visit our <a href="terms.asp">Terms and Conditions</a> section establishing the use, disclaimers, and limitations of liability governing the use of our website.<br><br><br><span style="font-weight: bold;">Your consent</span><br><br>By using our site, you consent to our privacy policy.
-</div>
-<br>&nbsp;
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="vertical-align:top; padding-right:14px;" valign="top">
-                                <div style="float:left;"><script encrypted="true">
-
-    eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('48 49(){6 16=47.46.38;6 18=16.40(16.41(\'/\')+1);50(18){9\'1.11\':6 0=8.7("51");0.3.12="#15";0.3.14="13";10;9\'2.11\':6 0=8.7("60");0.3.12="#15";0.3.14="13";10;9\'5.11\':6 0=8.7("37");0.3.12="#15";0.3.14="13";10;9\'31.11\':6 0=8.7("58");0.3.12="#15";0.3.14="13";10;9\'22.11\':6 0=8.7("57");0.3.12="#15";0.3.14="13";10;9\'4.11\':6 0=8.7("54");0.3.12="#15";0.3.14="13";10;9\'59.11\':6 0=8.7("55");0.3.12="#15";0.3.14="13";10;9\'52.11\':6 0=8.7("56");0.3.12="#15";0.3.14="13";10;9\'69.11\':6 0=8.7("62");0.3.12="#15";0.3.14="13";10;9\'99.11\':6 0=8.7("32");0.3.12="#15";0.3.14="13";10;9\'65.11\':6 0=8.7("25");0.3.12="#15";0.3.14="13";10;9\'39.11\':6 0=8.7("26");0.3.12="#15";0.3.14="13";10;9\'89.11\':6 0=8.7("23");0.3.12="#15";0.3.14="13";10;9\'27-19.11\':6 0=8.7("21");0.3.12="#15";0.3.14="13";10;9\'75.11\':6 0=8.7("20");0.3.12="#15";0.3.14="13";10;9\'76.11\':6 0=8.7("24");0.3.12="#15";0.3.14="13";10;9\'77.11\':6 0=8.7("36");0.3.12="#15";0.3.14="13";10;9\'34-35.11\':6 0=8.7("33");0.3.12="#15";0.3.14="13";10;9\'17-28-29-30-63-61.11\':6 0=8.7("81");0.3.12="#15";0.3.14="13";10;9\'66.11\':6 0=8.7("91");0.3.12="#15";0.3.14="13";10;9\'88.11\':6 0=8.7("87");0.3.12="#15";0.3.14="13";10;9\'17-85.11\':6 0=8.7("86");0.3.12="#15";0.3.14="13";10;9\'93-100-98.11\':6 0=8.7("94");0.3.12="#15";0.3.14="13";10;9\'84-83.11\':6 0=8.7("71");0.3.12="#15";0.3.14="13";10;9\'53.11\':6 0=8.7("68");0.3.12="#15";0.3.14="13";10;9\'43.11\':6 0=8.7("74");0.3.12="#15";0.3.14="13";10;9\'44.11\':6 0=8.7("80");0.3.12="#15";0.3.14="13";10;9\'42.11\':6 0=8.7("79");0.3.12="#15";0.3.14="13";10;9\'73.11\':6 0=8.7("72");0.3.12="#15";0.3.14="13";10;9\'64.11\':6 0=8.7("92");0.3.12="#15";0.3.14="13";10;9\'78.11\':6 0=8.7("82");0.3.12="#15";0.3.14="13";10;9\'45.11\':6 0=8.7("67");0.3.12="#15";0.3.14="13";10;9\'101.11\':6 0=8.7("70");0.3.12="#15";0.3.14="13";10;9\'97.11\':6 0=8.7("95");0.3.12="#15";0.3.14="13";10;9\'96-102.11\':6 0=8.7("90");0.3.12="#15";0.3.14="13";10}}',10,103,'sideMenuElement|||style|||var|getElementById|document|case|break|htm|backgroundColor|green|color|FFFFFF|pathName|PCI|pageName|questions|sideMenuSecuritySeals|sideMenuPCIQuestions||sideMenuIsYourWebsiteSafe|sideMenuBusinessSeals|sideMenuPCICompliance|sideMenuPCIScanning|pci|Compliant|Credit|Card||sideMenuVulnerabilityScanner|sideMenuSSLCertificate|SSL|certificate|sideMenuPrivacySeals|sideMenuCompareTrustMark|pathname||substring|lastIndexOf|||||location|window|function|detectPage|switch|sideMenuGetTrustGuard|||sideMenuContact|sideMenuROICalculator|sideMenuSplitTesting|sideMenuVerificationProcess|sideMenuClientsTestimonials||sideMenuWhyChoose|Scanning|sideMenuVulnerabilityScan|Terminal|Acunetix|||sideMenuControlScan|sideMenuMcafee||sideMenuBBBOnline|sideMenuScanFor|sideMenuQualys|Qualys|sideMenuTruste||||Tenable|sideMenuHackerSafe|sideMenuBBB|sideMenuTerminal|sideMenuTenable|info|scanning|DSS|sideMenuDSS|sideMenuServices|services||sideMenuPenTests|sideMenuPCIFeatures|sideMenuAcunetix|Acquirers|sideMenuBulkServices|sideMenuOnlineSecurity|Penetration||Banks||Merchant||Testing'.split('|'),0,{}))
-
-</script>
-
-<table style="width:165px" border="0" cellpadding="0" cellspacing="0" width="165">
-    <tbody><tr>
-        <td style="border-left:0px solid; font-size:11px;" align="left" valign="top" width="165">
-
-            <table border="0" cellpadding="0" cellspacing="0" width="165">
-    <tbody><tr>
-        <td style="padding-left:10px; background-color:#DBDBDB; font-family:sans-serif,Verdana; font-size:14px; border-radius:3px; color:#000; font-weight:normal;" align="left" height="21" width="165">
-            Menu
-        </td>
-    </tr>
-    <tr>
-        <td width="165">
-            <div id="sideMenuLinks">
-                <table cellpadding="0" cellspacing="0" style="background-color:#fff;">
-                    <tbody><tr style="width:100%;">
-                        <td width="165">
-                            <a style="color:teal; font-weight:bold;" onmouseover="this.style.color = 'green';" onmouseout="this.style.color = 'teal';" href="/compare-Trust-Seals-s/1.htm">Get Trust Guard Now
-                            </a>
-                        </td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuCompareTrustMark" href="/compare-trust-mark-services-s/5.htm">Compare and Save</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuContact" href="/clients-testimonials-s/31.htm">Testimonials</a></td>
-                    </tr>
-
-                    <tr style="width:100%">
-                        <td width="100%">
-                            <a id="sideMenuWhyChoose" href="/Why-Choose-Trust-Guard-s/2.htm">Why Choose Us</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a style="color:maroon;" id="sideMenuROICalculator" onmouseover="this.style.color = 'green';" onmouseout="this.style.color = 'maroon';" href="/ROI-Calculator-s/59.htm">ROI Calculator</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-</tbody></table>
-            <table border="0" cellpadding="0" cellspacing="0" width="165">
-    <tbody><tr>
-        <td style="padding-left:10px; background-color:#DBDBDB; font-family:sans-serif,Verdana; font-size:14px; border-radius:3px; color:#000; font-weight:normal;" align="left" height="21" width="165">
-            Security</td>
-    </tr>
-    <tr>
-        <td width="165">
-            <div id="sideMenuLinks">
-                <table cellpadding="0" cellspacing="0">
-                    <tbody><tr style="width:100%">
-                        <td width="100%"><a id="sideMenuPCICompliance" href="/PCI-Compliance-s/65.htm">PCI Compliance</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuIsYourWebsiteSafe" href="/Website-Security-Is-your-website-safe-s/89.htm">Website Security</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuTerminal" href="/PCI-Compliant-Credit-Card-Terminal-Scanning.htm">POS Terminal Scan</a></td>
-                    </tr>
-
-                    
-
-                    
-
-                    
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-</tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0" width="165">
-    <tbody><tr>
-        <td style="padding-left:10px; background-color:#DBDBDB; font-family:sans-serif,Verdana; font-size:14px; border-radius:3px; color:#000; font-weight:normal;" align="left" height="21" width="165">
-            Trust Guard Vs ...</td>
-    </tr>
-    <tr>
-        <td width="165">
-            <div id="sideMenuLinks">
-                <table cellpadding="0" cellspacing="0">
-
-                    <tbody><tr style="width:100%">
-                        <td><a id="sideMenuMcafee" href="/McAfee-Secure-s/53.htm">McAfee Secure</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuTruste" href="/Truste-Privacy-Seals-s/43.htm">Truste</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuBBB" href="/Better-Business-Bureau-s/44.htm">Better Business Bureau</a></td>
-                    </tr>
-
-                                            
-                    
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-</tbody></table>
-            <table border="0" cellpadding="0" cellspacing="0" width="165">
-    <tbody><tr>
-        <td style="padding-left:10px; background-color:#DBDBDB; font-family:sans-serif,Verdana; font-size:14px; border-radius:3px; color:#000; font-weight:normal;" align="left" height="21" width="165">
-            Products</td>
-    </tr>
-    <tr>
-        <td width="100%">
-            <div id="sideMenuLinks">
-                <table cellpadding="0" cellspacing="0">
-                    <tbody><tr style="width:100%">
-                        <td width="100%"><a id="sideMenuSecuritySeals" href="/Security-Seals-s/75.htm">Security Seals</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuBusinessSeals" href="/Business-Seals-s/76.htm">Business Seals</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuPrivacySeals" href="/Privacy-Seals-s/77.htm">Privacy Seals</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuSSLCertificate" href="/SSL-certificate.htm">SSL Certificates</a></td>
-                    </tr>
-                    
-                    
-                    
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-</tbody></table>
-            <br><br>
-
-
-<a href="/website-security.htm"><img border="0" class="onOffButton" src="/Images/mattcutts-off.jpg" alt="Matt Cutts on Website Security"></a>
-<br><br><br>
-<a href="/as-seen-on-TV-s/102.htm"><img border="0" class="onOffButton" src="/Images/marychamberlain-off.jpg" alt="Mary Chamberlain"></a>
-<br><br><br>
-<a href="#WorldTeacher"><img border="0" onclick="update('WorldTeacher')" class="onOffButton" src="/Images/WTA-off.jpg" alt="World Teacher Aid"></a>
-<br><br><br>
-<a href="http://blog.trust-guard.com" target="_blank"><img border="0" class="onOffButton" src="/Images/insider-off.jpg" alt="Trust Guard Insider"></a>
-<br><br><br>
-
-<img src="/Images/cc-paypal.jpg" alt="">
-<br><br><br>
-<script type="text/javascript">
-    function checkSearch()
-    {
-        window.open('https://secure.trust-guard.com/searchForm.php?searchText='+document.searchForm.searchText.value,'welcome','location=no,scrollbars=yes,width=528,height='+screen.availHeight+',menubar=no,toolbar=no');
-        return false;
-    }
-
-
-    function entsub(myform)
-    {
-        if (window.event && window.event.keyCode == 13)
-            return checkSearch()
-        else
-            return true;
-    }
-
-
-</script>
-
-<table border="0" cellpadding="0" cellspacing="0" width="165">
-    <tbody><tr>
-        <td style="padding-left:10px; background-color:#DBDBDB; font-family:sans-serif,Verdana; font-size:14px; border-radius:3px; color:#000; font-weight:normal;" align="left" height="21" width="165">
-            Extras</td>
-    </tr>
-    <tr>
-        <td width="165">
-            <div id="sideMenuLinks">
-                <table id="tableSideMenuLinks" cellpadding="0" cellspacing="0">
-                    <tbody><tr style="width:100%">
-                        <td><a id="sideMenuContact" href="/faq.htm">FAQ</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td width="100%"><a id="sideMenuPCICompliance" href="/split-testing-is-the-key-to-conversion-s/52.htm">Testing is the Key</a></td>
-                    </tr>
-                    
-                    <tr style="width:100%">
-                        <td><a id="" href="/scanning-info.htm">What We Scan For</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuVerificationProcess" href="/verification-process-s/22.htm">Verification Process</a></td>
-                    </tr>
-                    
-                    <tr style="width:100%">
-                        <td><a id="sideMenuVerificationProcess" href="/computer-protection.htm">Security for Your PC, Tablet, or Smart Phone</a></td>
-                    </tr>
-                    <tr style="width:100%">
-                        <td><a id="sideMenuVerificationProcess" href="/identity-protection.htm">Security for You and Your Family</a></td>
-                    </tr>
-                    
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-</tbody></table>
-
-<br>
-<hr>
-<br>
-<br>
-
-
-<a style="font-weight:normal; color:blue" href="/safe-shopping-online.htm">Protect Yourself from<br>Identity Theft</a><br>
-
-<br><font style="font-weight:normal;" color="#1E3A1E">Shopper Approved</font><br>
-<a style="font-weight:normal; color:#1E3A1E" href="/Shopper-Approved-s/94.htm"><font color="#1E3A1E">Customer Satisfaction Survey</font></a><br>
-<br>
-
-
-<br><a style="font-weight:normal; color:#1E3A1E" href="http://www.rhinosupport.com/zendesk.htm">Zendesk</a> vs.
-<br><a style="font-weight:normal; color:#1E3A1E" href="/rhino-support">Rhino Support</a>
-<br>
-<br>
-<br>
-<hr>
-
-        </td>
-    </tr>
-</tbody></table>
-
-<script encrypted="true">
-    eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('0();',1,1,'detectPage'.split('|'),0,{}))
-
-</script></div>
-                            </td>
-                        </tr>
-                    </tbody></table>
+                <div id="popover-head2" class="hide">Account Login</div>
+                <div id="popover-login" class="hide">
+                    <div class="form-group">
+                        <input type="text" class="form-control" name="user" placeholder="Username..."><br>
+                        <input type="text" class="form-control" name="pass" placeholder="Password...">
+                    </div>
+                    <button type="submit" class="btn btn-success btn-block">Login</button>
                 </div>
-
-            </div>
-        </div>
-
-        <div class="footerTop">
-
-            <div class="topFooterLinks" align="center" style="text-align:center; margin:0px auto; width:975px;">
-                <div style="height:9px;"></div>
-                <a href="/contact-trust-guard-s/4.htm">1-877-848-2731</a>|
-                <a href="/terms_privacy.asp">Privacy</a>|
-                <a href="/terms.asp">Terms of Use</a>|
-                <a href="/category-s/3.htm">About Us</a>|
-                <a href="/affiliate_info.asp">Affiliates</a>|
-                <a href="/partners/htm">Partnerships</a>
-            </div>
-        </div>
-
-        <div class="footerBottom">
-
-            <div style="margin:0px auto; width:975px;">
-                <div style="height:15px;"></div>
-
-                <div style="float:left;">
-                    <table style="border-collapse:collapse;" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td style="">
-            Check a Site
-        </td>
-        <td>
-        </td>
-    </tr>
-    <tr>
-        <td style="padding-right:7px;">
-            <input id="txtSiteSearch" style="width:250px;" type="text" placeholder="Verify a Site / Search Website">
-        </td>
-        <td>
-            <img onclick="searchSite(); return false;" style="cursor:pointer;" src="/Images/gonew.png" alt="">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <br>
-            Follow us and Share
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            <div style="margin-top:7px;">
-                <a href="//www.facebook.com/trustseals?ref=hl" rel="publisher" target="_blank" style="text-decoration:none;">
-                    <img src="/Images/icons_01.png" alt="Facebook Trust Seals" align="top" style="border:0;">
-                </a>
-                &nbsp;&nbsp;
-                <a href="//plus.google.com/105558674944170128171?prsrc=3" rel="publisher" target="_blank" style="text-decoration:none;">
-                    <img src="/Images/icons_02.png" alt="Google+ Trust Seals" align="top" style="border:0;">
-                </a>
-                &nbsp;&nbsp;
-                <a href="//www.linkedin.com/company/trust-guard.com" rel="publisher" target="_blank" style="text-decoration:none;">
-                    <img src="/Images/icons_03.png" alt="LinkedIn Trust Seals" align="top" style="border:0;">
-                </a>
-                &nbsp;&nbsp;
-                <a href="//twitter.com/TrustGuard" rel="publisher" target="_blank" style="text-decoration:none;">
-                    <img src="/Images/icons_04.png" alt="Twitter Trust Seals" align="top" style="border:0;">
-                </a>
-                &nbsp;&nbsp;
-                <a href="http://epicecommercetools.com/" rel="publisher" target="_blank" style="text-decoration:none;">
-                    <img src="/Images/icons_05.png" alt="Increase Sales" align="top" style="border:0;">
-                </a>
-            </div>
-        </td>
-        <td></td>
-    </tr>
-</tbody></table>
-<div id="dialogSearchSite" class="dynamicPopup rounded" style="padding:10px;">
-    <div class="blackText" id="searchSiteContent">
-
-    </div>
-</div>
-<script type="text/javascript">
-
-    function searchSite() {
-        $.post("/AJAX/SiteSearch.php", {txtSiteSearch: $('#txtSiteSearch').val()}, function (data) {
-            $('#searchSiteContent').html(data + "<div style='clear:both;'></div><br />&nbsp;");
-            buildPopup('dialogSearchSite', true, true);
-        });
-    }
-
-    function checkSearch1() {
-        window.open('https://members.trust-guard.com/RemoteScripts/SearchForm.php?url=' + $('#txtSiteSearch').val(), 'welcome', 'location=no,scrollbars=yes,width=528,height=' + screen.availHeight + ',menubar=no,toolbar=no');
-        return false;
-    }
-
-    $(document).ready(function () {
-
-        $('#txtSiteSearch').keyup(function (e) {
-            if (e.keyCode == 13) {
-                searchSite();
-            }
-        });
-    });
-
-</script>
-
-<style type="text/css">
-    .ui-dialog-titlebar {
-        display: none;
-    }
-</style>
-
-                </div>
-
-                <div style="float:left; padding-left:15px; padding-right:15px;">
-                    <img usemap="#partnerMap" border="0" src="/Templates/Clean/Images/tg-WTA.png" alt="World Teacher Aid">
-                </div>
-
-                <map name="partnerMap" style="border:0;">
-                    <area shape="rect" coords="100,10,120,30" href="/partner2.htm">
-                </map>
-                <div class="left tiny">
-                    © 2006 - 2013 Trust Guard<sup style="font-size:6pt;">®</sup> LLC, All Rights Reserved, the<br>
-                    reproduction, distribution, display, or transmission of the content<br>
-                    is strictly prohibited, unless authorized by Trust Guard<sup style="font-size:6pt;">®</sup> LLC. <br>
-                    All other company &amp; product names may be trademarks of the <br>
-                    respective companies with which they are associated. Our <br>
-                    Certified *ASV scanning partner is Clone Systems, Inc.
-                    <br>
-                    <a href="/pindex.asp">Products</a> | <a href="/partners.htm">Partner Opportunities</a> | <a href="/identity-protection.htm">Identity Theft</a> | <a href="/cindex.asp">Category Index</a>
-                    <br>
-
-                    <div style="width:380px;">
-                        
+                <div id="popover-head3" class="hide">Contact Us</div>
+                <div id="popover-contact" class="hide">
+                    <div style="">
+                        <p class="line1-8"><b>Phone: </b><br>Toll Free <i>877-­848-2731</i><br>
+                            <b>Address: </b><br>Trust Guard Office 298 24th St, STE 470 Ogden Utah, 84401<br>
+                            <b>Email: </b> <a class="popoverlink" href="mailto:Support@trustguard.com"> Support@trustguard.com</a> <br><a class="popoverlink" href="mailto:Sales@trustguard.com">Sales@trustguard.com</a></p>
                     </div>
                 </div>
 
-                <div style="clear:both;"></div>
-                <br>&nbsp;
+                <script>
+                    $(document).ready(function () {
+
+
+                        $('#menu-search-pop').popover({
+                            html: true,
+                            trigger: "click",
+                            placement: "bottom",
+                            /*title: function() {
+                             return $("#popover-head").html();
+                             },*/
+                            content: function () {
+                                return $("#popover-search").html();
+                            }
+                        });
+                        /*$('#menu-login-pop').popover({
+                            html: true,
+                            trigger: "click",
+                            placement: "bottom",
+                            title: function () {
+                                return $("#popover-head2").html();
+                            },
+                            content: function () {
+                                return $("#popover-login").html();
+                            }
+                        });*/
+
+                        $('#menu-contact-pop').popover({
+                            html: true,
+                            trigger: "click",
+                            placement: "bottom",
+                            title: function () {
+                                return $("#popover-head3").html();
+                            },
+                            content: function () {
+                                return $("#popover-contact").html();
+                            }
+                        });
+
+                        $('[data-toggle="popover"]').popover();
+
+                        $('body').on('click', function (e) {
+                            $('[data-toggle="popover"]').each(function () {
+                                //the 'is' for buttons that trigger popups
+                                //the 'has' for icons within a button that triggers a popup
+                                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                                    $(this).popover('hide');
+                                }
+                                $('#txtSearchWebsiteHeader').keypress(function(e) {
+                                    if(e.which == 13) {
+                                        searchWebsite($(this).val());
+                                    }
+                                });
+                            });
+                        });
+                    });
+                </script>
+
+            </div>
+
+            <span class="col-lg-1 col-md-1 col-sm-1 col-xs-1 col-xxs-12 no-pad "><a href="/checkout.htm?security" class="btn btn-sm btn-warning visible-lg" style="position: relative;top: 10px;padding:5px;">Let's Get Started</a></span>
+        </div>
+    </div>
+</div>
+<style type="text/css">
+    #divSearchContent {
+        max-height: 512px;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+</style>
+
+<div id="searchModal" class="modal fade bs-example-modal-lg searchModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content text-left col-md-12">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <h2 class="modal-title pull-left" id="myModalLabel"><span id="spanSearchResultCount"></span> Results for "<span id="spanSearchTerm"></span>"</h2><br><br>
+            </div>
+            <div class="modal-body">
+                <div class="col-md-8">
+                    <div id="divSearchContent"></div>
+                </div>
+                <div class="col-md-4">
+                    <div class="col-md-12 well well-md">
+                        <label>Search Our Website</label>
+                        <input type="text" id="txtSearchWebsiteBox" class="form-control">
+                        <!--
+                            <label>Category</label>
+                        <select class="form-control">
+                            <option>All</option>
+                            <option>TG News & Info</option>
+                            <option>PCI</option>
+                        </select>
+                        <label>Sort Order</label>
+                        <select class="form-control">
+                            <option>Newest to Oldest</option>
+                            <option>Oldest to Newest</option>
+                        </select><br>
+                        -->
+                        <br>
+                        <input type="button" onclick="searchWebsite($('#txtSearchWebsiteBox').val());" value="Search" class="btn btn-info">
+                    </div>
+                    <div class="col-md-12 well well-md">
+                        <label>Search for Trusted Websites</label>
+                        <input type="text" class="form-control" id="txtWebsiteSearchBox" placeholder="websitehere.com">
+                        <br>
+                        <input type="button" onclick="searchForWebsite($('#txtWebsiteSearchBox').val());" value="Search" class="btn btn-info">
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-footer" style="padding:20px 0;">
+                <!--
+                <hr>
+                <div class="col-md-6 col-md-push-3 text-center">
+                    <ul class="pagination" style="margin:10px 0;">
+                        <li><a href="#">«</a></li>
+                        <li class="active"><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#">»</a></li>
+                    </ul>
+                </div>
+                -->
             </div>
         </div>
-        
+    </div>
+</div>
+<script>
+
+    $('#txtSearchWebsiteBox').keypress(function (e) {
+        if (e.which == 13) {
+            searchWebsite($(this).val());
+        }
+    });
+    $('#txtWebsiteSearchBox').keypress(function (e) {
+        if (e.which == 13) {
+            searchForWebsite($(this).val());
+        }
+    });
+
+    function searchWebsite(val) {
+        $.post('/AJAX/SearchNews.php', {searchTerm: val}, function (data) {
+            $('#divSearchContent').html(data);
+            $('#spanSearchTerm').text(val);
+        });
+        $('.searchModal').modal('show')
+    }
+
+    function searchForWebsite(val) {
+        window.open('https://members.trust-guard.com/RemoteScripts/SearchForm.php?url=' + val, 'welcome', 'location=no,scrollbars=yes,width=528,height=' + screen.availHeight + ',menubar=no,toolbar=no');
+        return false;
+    }
+
+    //Force it to be outside of any other divs
+    $('#searchModal').appendTo('body');
+</script>
+
+    <div id="mid-section">
+        <div clas="container-fluid">
+        			
+			<div id="mid-section">	
+			<div class="row">
+					<div class="col-md-12">
+						<div id="header-slider" data-0="background-position:0px -200px;" data-top-bottom="background-position:0px -400px;">
+							<div class="container container-force-fluid" style="width:960px;">
+								<img class="pull-right hidden-sm hidden-xs" src="/Templates/2.0/images/tg-header-img1.png">
+								<h1 class="text-center slider-title" style="color:#ffffff;position:relative;top:45px;left:75px;">Protect your site, make more sales.</h1>
+							</div>
+						</div>
+					</div>
+			</div>
+</div>
+
+        <div class="row" style="background:#ffffff;">
+            <div class="container-fluid">
+                <div class="row" style="background:#ffffff;">
+				<div class="container">
+					
+					<div class="col-md-3 col-xs-12 sidebar" style="padding:20px;">
+						<ul class="nav sidebar-menu" id="sidebar1" data-0="position:relative;top:20px;" data--499-bottom="position:relative;top:20px;" data--500-bottom="position:fixed;top:80px;" data--2199-bottom="position:relative;top:80px;" data--2200-bottom="position:absolute;top:1800px;">
+							<li><a href="category-s/3.htm?contact">1-877-848-2731</a></li>
+							<li><a href="/terms_privacy.asp">Privacy</a></li>
+							<li><a href="/terms.asp">Terms of Use</a></li>
+							<li><a href="/category-s/3.htm">About us</a></li>
+							<li><a href="category-s/3.htm?contact">Contact Us</a></li>
+						</ul>
+					</div>
+					<div id="main-content" class="col-md-9 col-xs-12" style="padding:20px;">
+					<h1>Trust Guard Privacy Policy</h1>
+						<p>
+						<b>What information do we collect?</b><br>
+						</p><ul>
+						<li>We collect information from you when you register on the site, place an order, sign up for our newsletter, respond to a survey or communication such as e-mail, or participate in another site feature.</li>
+						<li>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.</li>
+						<li>Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.</li>
+						</ul>
+
+					<b>How do we use your information?</b><br><br>
+
+					We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<br>
+						<ul>
+						<li>To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li>
+						<li>To allow us to better service you in responding to your customer service requests.</li>
+						<li>To quickly process your transactions.</li>
+						<li>To administer a contest, promotion, survey or other site feature.</li>
+						<li>If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.</li>
+						</ul>
+
+					<b>How do we protect visitor information?</b><br><br>
+
+					We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. In addition, all sensitive/credit information you supply is transmitted via 128-Bit Secure Socket Layer (SSL) technology and then encrypted into our databases using a random 16-digit encryption code, to be only accessed as stated above. For your convenience on future orders, and to automate the monthly and/or annual recurring transaction process, you can store your credit card information longer than 60 days if you select the "Keep my payment method on file for easy checkout on future orders" box during checkout.<br><br>
+
+
+					<b>Do we use "cookies"?</b><br><br>
+
+					Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.<br><br>
+
+					We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br>
+
+					You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.<br><br>
+
+
+					<b>Do we disclose the information we collect to outside parties?</b><br><br>
+
+					We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Trust Guard. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.<br><br>
+
+					However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+					<br><br>
+
+					<b>How can you opt-out, remove or modify information you have provided to us?</b><br><br>
+
+					To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.<br><br>
+
+					To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses &amp; payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.<br><br>
+
+
+					<b>Third party links</b><br><br>
+
+					In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).<br><br>
+
+
+					<b>Changes to our policy</b><br><br>
+
+					If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on August 24th, 2006.<br><br>
+
+
+					<b>Questions and feedback</b><br><br>
+
+					We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.<br><br>
+
+
+					<b>Online Policy Only</b><br><br>
+
+					This online privacy policy applies only to information collected through our website and not to information collected offline.
+					<br><br>
+
+					<b>Terms and Conditions</b><br><br>
+
+					Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.<br><br>
+
+
+					<b>Your consent</b><br><br>
+
+					By using our site, you consent to our privacy policy. <p></p><br><br>
+					</div>
+				</div>
+				</div>
+				
+				
+				
+				
+			</div>
+            </div>
+
+            <div id="footer">
+
+    <div class="container container-force-fluid">
+
+        <div class="row footer-links" style="position:relative;top:10px;">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-xxs-12 text-center footer-links" style="color:#666666;">
+
+                <a class="pull-left" style="padding:0 40px;" href="/category-s/3.htm?contact">1-877-848-2731</a>
+                <a class="pull-left" style="padding:0 40px;" href="/ROI-Calculator-s/59.htm">ROI</a>
+                <a class="pull-left" style="padding:0 40px;" href="/clients-testimonials-s/31.htm">Testimonials</a>
+                <a class="pull-left" style="padding:0 40px;" href="/terms_privacy.asp">Privacy</a>
+                <a class="pull-left" style="padding:0 40px;" href="/terms.asp">Terms of Use</a>
+                <a class="pull-left" style="padding:0 40px;" href="/category-s/3.htm">About Us</a>
+                <a class="pull-left" style="padding:0 40px;" href="/affiliate_info.asp">Affiliate</a>
+                <a class="pull-left" style="padding:0 40px;border:none;" href="/partners.htm">Partnerships</a>
+
+            </div>
+
+        </div>
+        <br>
+
+
+    </div>
+    <!-- end footer container -->
+
+    <div class="container-fluid" style="background:#272727;">
+        <div class="container container-force-fluid">
+            <div class="row footer-info">
+
+                <span class="col-md-3 col-sm-6 col-xs-12 col-xxs-12  text-center" style="padding:30px 10px;">
+                    <p style="color:#666;text-shadow: 0 1px 2px #000000;position:relative;left:-50px;font-weight:bold;">Follow us:</p>
+                    <a class="social-icons" style="text-decoration:none;" target="_blank" rel="publisher" href="//www.facebook.com/trustseals?ref=hl">
+                        <img align="top" style="border:0;" alt="Facebook Trust Seals" src="/Templates/2.0/images/icons/social-icons1.png">
+                    </a>
+                    &nbsp;&nbsp;
+                    <a class="social-icons" style="text-decoration:none;" target="_blank" rel="publisher" href="//plus.google.com/105558674944170128171?prsrc=3">
+                        <img align="top" style="border:0;" alt="Google+ Trust Seals" src="/Templates/2.0/images/icons/social-icons2.png">
+                    </a>
+                    &nbsp;&nbsp;
+                    <a class="social-icons" style="text-decoration:none;" target="_blank" rel="publisher" href="//www.linkedin.com/company/trust-guard.com">
+                        <img align="top" style="border:0;" alt="LinkedIn Trust Seals" src="/Templates/2.0/images/icons/social-icons3.png">
+                    </a>
+                    &nbsp;&nbsp;
+                    <a class="social-icons" style="text-decoration:none;" target="_blank" rel="publisher" href="//twitter.com/TrustGuard">
+                        <img align="top" style="border:0;" alt="Twitter Trust Seals" src="/Templates/2.0/images/icons/social-icons4.png">
+                    </a>
+                </span>
+
+                <span class="col-md-3 col-sm-6 col-xs-12 col-xxs-12 text-center" style="padding:30px 10px;">
+                <img src="/Templates/2.0/images/neo-tglogo.png" alt="Trust Guard Logo" style="margin-top:20px;" usemap="#tg-hidden">
+                    <map name="tg-hidden">
+                        <area shape="rect" coords="105,0,160,40" href="/partner2.htm" alt="">
+                    </map>
+                </span>
+
+                <span class="col-md-6 col-xs-12">
+                    <p style="color:#666;padding:30px 10px 15px;;text-align:justify;text-shadow: 0 1px 2px #000000;">
+                        © 2006-2014 Trust Guard® LLC, All Rights Reserved, the reproduction, distribution, display, or transmission of the content is strictly prohibited, unless authorized by Trust Guard® LLC. All other company &amp; product names may be trademarks of the respective companies with which they are associated. Our Certified *ASV scanning partner is Clone Systems, Inc. <!--<a href="products.php">Products</a> | <a href="partner-opportunities.php">Partner Opportunities</a> | <a href="identity-theft.php">Identity Theft</a> | <a href="category-index.php">Category Index</a>-->
+                        <a href="/pindex.asp">Products</a> |
+                        <a href="http://www.trust-guard.com/cindex.asp">Category Index</a>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </p>
+                </span>
+
+                <div class="col-md-12 text-center">
+                    <a href="#footer-end"><b id="footer-seo-title" style="cursor:pointer;">Site Links [<span class="footer-indicator">-</span>]</b></a>
+                    <br><br>
+                    <script>
+                        $(function () {
+
+                            $("#footer-seo-title").click(function () {
+                                var $this = $(this).find('span.footer-indicator');
+                                $this.text($this.text() == '+' ? '-' : '+');
+                                $("#footer-seo-link").slideToggle();
+                            })
+                            $("#footer-seo-link").slideDown(100, function () {
+                                $(this).slideUp(50);
+                            });
+
+
+                        })
+                    </script>
+
+                    <div id="footer-seo-link" class="text-left">
+                        <br><br>
+
+                        <div class="col-md-3 col-xs-6 col-xxs-6 left padRight" style="float:left;">
+                            <span class="bold whiteText">Menu</span><br>
+                            <a href="http://www.trust-guard.com/pricing.htm">Get Trust Guard Now</a><br>
+                            <a href="http://www.trust-guard.com/compare-trust-mark-services-s/5.htm">Compare and Save</a><br>
+                            <a href="http://www.trust-guard.com/clients-testimonials-s/31.htm">Testimonials</a><br>
+                            <a href="http://www.trust-guard.com/Why-Choose-Trust-Guard-s/2.htm">Why Choose Us</a><br>
+                            <a href="http://www.trust-guard.com/ROI-Calculator-s/59.htm">ROI Calculator</a><br>
+                            <br>
+
+                            <span class="bold whiteText">Security</span><br>
+                            <a href="http://www.trust-guard.com/PCI-Compliance-s/65.htm">PCI Compliance</a><br>
+                            <a href="http://www.trust-guard.com/Website-Security-Is-your-website-safe-s/89.htm">Website Security</a><br>
+                            <a href="http://www.trust-guard.com/PCI-Compliant-Credit-Card-Terminal-Scanning.htm" id="footer-end">POS Terminal Scan</a><br><br>
+
+
+                        </div>
+
+                        <div style="float:left; " class="col-md-3 col-xs-6 col-xxs-6 left padRight">
+                            <span class="bold whiteText">Trust Guard Vs...</span><br>
+                            <a href="http://www.trust-guard.com/McAfee-Secure-s/53.htm">Mcafee Secure</a><br>
+                            <a href="http://www.trust-guard.com/Truste-Privacy-Seals-s/43.htm">Truste</a><br>
+                            <a href="http://www.trust-guard.com/Better-Business-Bureau-s/44.htm">Better Business Bureau</a><br>
+                            <br><br>
+
+                            <span class="bold whiteText">Products</span><br>
+                            <a href="http://www.trust-guard.com/Security-Seals-s/75.htm">Security Seals</a><br>
+                            <a href="http://www.trust-guard.com/Business-Seals-s/76.htm">Business Seals</a><br>
+                            <a href="http://www.trust-guard.com/Privacy-Seals-s/77.htm">Privacy Seals</a><br>
+                            <a href="http://www.trust-guard.com/SSL-certificate.htm">SSL Certificates</a><br>
+                        </div>
+
+                        <div style="float:left;" class="col-md-3 col-xs-6 col-xxs-6 left padRight">
+
+                            <!--<span class="bold whiteText">
+                            <a style='font-size:12pt; text-decoration:underline;' href="http://www.trust-guard.com/case-studies.htm">Case Studies</a>
+                            </span><br/>
+
+                                 <br/>
+                                 <br/>
+                                 <br/>-->
+
+                            <span class="bold whiteText">Extras</span><br>
+                            <a href="http://www.trust-guard.com/faq.htm">FAQ</a><br>
+                            <a href="http://www.trust-guard.com/split-testing-is-the-key-to-conversion-s/52.htm">Testing is the Key</a><br>
+                            <a href="http://www.trust-guard.com/scanning-info.htm">What We Scan For</a><br>
+                            <a href="http://www.trust-guard.com/verification-process-s/22.htm">Verification Process</a><br>
+                            <a target="_blank" href="http://blog.trust-guard.com/">Trust Guard Insider</a><br>
+                            <a href="/helps-World-Teacher-Aid.htm">Worldwide Verification</a><br>
+                            <a href="http://www.trust-guard.com/pos-scanning-prevent-hackers.htm">Target POS Terminals Get Hacked</a>
+                        </div>
+
+
+                        <div style="float:left;" class="col-md-3 col-xs-6 col-xxs-6 left padRight">
+
+                            <span class="bold whiteText">Other Stuff</span><br>
+                            <a href="http://www.trust-guard.com/website-security.htm">Matt Cutts Video</a><br>
+                            <a href="http://www.trust-guard.com/rhino-support">Zendesk</a> vs. <a href="http://www.trust-guard.com/rhino-support">Rhino Support</a><br>
+                            <a href="http://www.trust-guard.com/identity-protection.htm">Security for You and Your Family</a><br>
+                            <a href="http://www.trust-guard.com/safe-shopping-online.htm">Protect Yourself from Identity Theft</a><br>
+                            <a href="http://www.trust-guard.com/computer-protection.htm">Security for Your PC, Tablet, or Smart Phone</a><br>
+                            <a href="http://www.trust-guard.com/Shopper-Approved-s/94.htm">Shopper Approved Customer Satisfaction Survey</a> &nbsp; &nbsp;<!-- Place this code where you want the badge to render. -->
+                            <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
 
 <script type="text/javascript">
-    var rsJQ;
-
     rsShowTab = 'chat';
     /* Chat Settings & Customization */
     rsContactInfo = {};
+    rsContactInfo['rsHelpDeskURL'] = "http://support.trust-guard.com";
     rsContactInfo['rsCreateTicketText'] = "Contact Us";
     rsContactInfo['rsLiveChatText'] = "Live Chat";
     rsContactInfo['rsKnowledgeBaseText'] = "View Knowledge Base";
@@ -554,12 +668,14 @@
     rsContactInfo['rsChatTabColorText'] = 'white'; // Navigation Tab Links
     rsContactInfo['rsChatTabColorTextHover'] = 'green'; // Navigation Tab Links Hover
 
-    //Note if this is set then the default tab will disappear
-    rsContactImage = {};
-    rsContactImage['position'] = 'left';
-    rsContactImage['top'] = '120';
+    rsContactInfo['chatPosition'] = 'bottom';
+    rsContactInfo['distanceFromRight'] = 20;
 
-    rsContactInfo['distanceFromLeft'] = 40;
+    //Note if this is set then the default tab will disappear
+//    rsContactImage = {};
+//    rsContactImage['position'] = 'left';
+//    rsContactImage['top'] = '120';
+
     rsContactInfo['showChat'] = 30; //Chat will popup after x amount of seconds
     rsContactInfo['showChatOnlineText'] = "<img src='https://www.trust-guard.com/Templates/Clean/Images/tg-logo.png' style='width:280px;' alt=''><br /><br /><strong>Got questions about PCI Scanning or Conversion?</strong><br /><br />We can help. Please feel free to chat with us or call us at <strong>877-848-2731</strong>.";
     rsContactInfo['alwaysShowChatOnlineText'] = true; // Makes it always display the custom text instead of the default
@@ -567,169 +683,131 @@
     //var rsBoxTicketHeight = 560;
     //var rsShowTab = "ticket";
 
-
-    //rsContactInfo['rsAddButtonGlow'] = true;
-
-    /* End Chat Settings & Customization */
-
-    function rsLoadScript(url, callback) {
-        var head = document.getElementsByTagName('head')[0];
-        var script = document.createElement('script');
-        script.type = 'text/javascript';
-        script.src = url;
-        if (script.readyState) {
-            script.onreadystatechange = function () {
-                if (script.readyState == 'loaded' || script.readyState == 'complete') {
-                    script.onreadystatechange = null;
-                    callback();
-                }
-            };
-        }
-        else {
-            script.onreadystatechange = callback;
-            script.onload = callback;
-        }
-        head.appendChild(script);
-    }
-
-    var rsLoadChatScript = function () {
-        rsJQ = $.noConflict(true);
-        rsJQ.getScript('https://s3.amazonaws.com/RSI/LiteChat.js', function () {
-        });
-    };
-    rsLoadScript('https://code.jquery.com/jquery-1.10.1.min.js', rsLoadChatScript);
+    function rsLoadScript(url, callback) { var head = document.getElementsByTagName('head')[0]; var script = document.createElement('script'); script.type = 'text/javascript'; script.src = url; if (script.readyState) { script.onreadystatechange = function () { if (script.readyState == 'loaded' || script.readyState == 'complete') { script.onreadystatechange = null; callback(); } }; } else { script.onreadystatechange = callback; script.onload = callback; } head.appendChild(script); }
+    var rsLoadChatScript = function () { rsJQ = $.noConflict(true); rsJQ.getScript('https://s3.amazonaws.com/RSI/LiteChat.js', function () { }); }; rsLoadScript('https://code.jquery.com/jquery-1.10.1.min.js', rsLoadChatScript);
 
 </script>
 
 
-        
 
+        </div>
+        <!-- end main container -->
+        <!-- Add fancyBox main JS and CSS files -->
+        <script type="text/javascript" src="/Templates/2.0/source/jquery.fancybox.js?v=2.1.5"></script>
+        <link rel="stylesheet" type="text/css" href="/Templates/2.0/source/jquery.fancybox.css?v=2.1.5" media="screen">
 
+        <!-- Add Thumbnail helper (this is optional) -->
+        <link rel="stylesheet" type="text/css" href="/Templates/2.0/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7">
+        <script type="text/javascript" src="/Templates/2.0/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 
-    <div id="divSendEmailPopup" style="padding: 10px; background-image: url(&quot;/Images/fppgirl.png&quot;); background-repeat: no-repeat; background-position: 290px -6px; border-radius: 8px 8px 0px 0px; border-top: 3px solid silver; border-right: 3px solid silver; border-left: 3px solid silver; border-bottom: 0px none; background-color: rgb(255, 255, 255); width: 450px; position: fixed; bottom: 0px; right: 0px; opacity: 0.02249;">  
-        <form action="https://jo127.infusionsoft.com/app/form/process/ac4b0019ecf5d743a321d0abf0f02976" method="POST">
-            <div style="float:right; padding-bottom:3px;"><img alt="Close" style="cursor:pointer;" onclick="$('#divSendEmailPopup').css('display','none');" src="/Images/xbutton.gif"></div>
+        <!-- Add Media helper (this is optional) -->
+        <script type="text/javascript" src="/Templates/2.0/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
 
-            <table cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                    <td colspan="8">
-                        <div style="font-size:12pt; padding-bottom:5px; font-weight:bold;">Send me <span style="font-size:14pt;"><br>"9 Ways to Increase Sales!</span>"</div>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td colspan="7">
+        <!-- Add custom fancybox -->
+        <script type="text/javascript" src="/Templates/2.0/js/custom-fancy-box.js"></script>
+        <!-- Skrollr script starts here -->
 
-                        <table>
-                            <tbody><tr>
-                                <td>
-                                    <input onclick="showContactInfo();" id="rdoSend7Ways" name="rdo7Ways" type="radio">
-                                </td>
-                                <td><label for="rdoSend7Ways">Yes</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-                                <td>
-                                    <input onclick="hideContactInfo();" id="rdoNoSend7Ways" name="rdo7Ways" type="radio">
-                                </td>
-                                <td><label for="rdoNoSend7Ways">No</label></td>
-                            </tr>
-                        </tbody></table>
-                    </td>
+        <script type="text/javascript" src="/Templates/2.0/js/skrollr.js"></script>
+        <script type="text/javascript">
 
-                </tr>
-            </tbody></table>
+            $("[data-toggle=tooltip]").tooltip();
 
-            <div class="ebookContact" style="display: none;">
-                <table cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                        <td>
-                            <div style="padding-top:5px; padding-bottom:5px;">
-                                &nbsp;
-                            </div>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <div style="padding-top:15px; padding-bottom:5px;">
-                                <input onfocus="$(this).val(''); $(this).css('color','#000');" id="txtName" name="inf_field_FirstName" style="width:240px; color:gray;" type="text" value="* First Name">
-                            </div>
-                        </td>
-                        <td rowspan="4"><div style="font-size:12px; padding-top:14px; padding-left:15px;"><div style="margin-top:-11px; padding-left:54px;"><a name="trustlink" href="http://secure.trust-guard.com/privacy/637" rel="nofollow" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard 1 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Privacy Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/privsafe/637-lg.gif"></a></div><br><div style="height:5px;"></div>Your privacy is important to us,<br>we will never share your information.<br><div style="height:5px;"></div><a style="color:blue;" target="_blank" href="http://www.trust-guard.com/terms_privacy.asp">Trust Guard's Privacy Policy</a></div></td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <div style="padding-top:5px; padding-bottom:5px;">
-                                <input onfocus="$(this).val(''); $(this).css('color','#000');" id="txtEmail" name="inf_field_Email" style="width:240px; color:gray;" type="text" value="* Email">
-                            </div>
-                        </td>
-                    </tr>
+            var viewPortHeight = $(window).height();
+            var viewPortWidth = $(window).width();
 
-                    <tr>
-                        <td>
-                            <div style="padding-top:5px; padding-bottom:5px;">
-                                <!--<input type="button" onclick="sendMe();" value="Send Me 9 Ways to Increase Sales!" />-->
-                                
-                                 <input name="inf_form_xid" type="hidden" value="ac4b0019ecf5d743a321d0abf0f02976">
-                                <input name="inf_form_name" type="hidden" value="&quot;Trust Factor&quot; Sign Up">
-                                <input name="infusionsoft_version" type="hidden" value="1.29.3.58">
-                                
-                                <input type="submit" value="Submit">
-                            </div>
-                        </td>
-                    </tr>
-
-
-                </tbody></table>
-            </div>
-        </form>
-    </div>
-
-    <script type="text/javascript">
-
-        //        function sendMe()
-        //        {
-        //            $('#divSendEmailPopup').css('display','none');
-        //            $.post("/AJAX/FillFirstForm.php", {id : , name : $('#txtName').val(), email : $('#txtEmail').val(), phone : $('#txtPhone').val() }, function(data){
-        //            });
-        //        }
-                            
-        $(document).ready(function(){
-            $('.ebookContact').css('display','none');
-            $('.ebookContact').animate({
-                opacity: 'hide',
-                height:'0px',
-                easing: 'linear'
-            }, 100, function(){
-                            
-                $('#divSendEmailPopup').animate({
-                    opacity: 0,
-                    easing: 'linear'
-                }, 500, function(){
-                    $('#divSendEmailPopup').css('display','');
-                    $('#divSendEmailPopup').animate({
-                        opacity: 1,
-                        easing: 'linear'
-                    }, 1200);
-                });
+            $(window).resize(function () {
+                viewPortHeight = $(window).height();
+                viewPortWidth = $(window).width();
             });
-                            
-        });
-                                                                                                                
-        function showContactInfo()
-        {
-                                
-            $('.ebookContact').slideDown(1000);
-                
-        }
-                                                                                                                
-        function hideContactInfo()
-        {
-            $('#divSendEmailPopup').css('display','none');
-        }
-                                                                                                                                                                
-    </script>
-    
-        <script type="text/javascript" src="/Scripts/buttonhover.js"></script>
 
-    
+            var mainWidth = 950;
+            if (viewPortWidth < 900) {
+                mainWidth = 400;
+            }
+
+            $('.vpHeight').css('min-height', viewPortHeight);
+            $('.vpHeightShort').css('min-height', viewPortHeight - 120);
+            $('.contentContainer').css('width', mainWidth);
+
+
+            var s = skrollr.init({
+                forceHeight: false
+            });
+
+
+        </script>
+        <!-- shuffle-->
+        <script src="/Templates/2.0/js/jquery.shuffleLetters.js"></script>
+        <script src="/Templates/2.0/js/shuffle.js"></script>
+        <!--[if lt IE 9]>
+        <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <!-- qaptcha -->
+        <link rel="stylesheet" href="/Templates/2.0/qaptcha/QapTcha.jquery.css" type="text/css">
+
+        <script type="text/javascript" src="/Templates/2.0/qaptcha/jquery-ui.js"></script>
+        <script type="text/javascript" src="/Templates/2.0/qaptcha/jquery.ui.touch.js"></script>
+        <script type="text/javascript" src="/Templates/2.0/qaptcha/QapTcha.jquery.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.QapTcha').QapTcha({disabledSubmit: true, autoRevert: true, autoSubmit: false});
+            });
+        </script>
+
+
+
+
+        <!-- FlexSlider -->
+        <script defer="" src="/Templates/2.0/js/jqueryflexslider.js"></script>
+        <script type="text/javascript">
+
+            //                    (function () {
+            //
+            //                        // store the slider in a local variable
+            //                        var $window = $(window),
+            //                            flexslider;
+            //
+            //                        // tiny helper function to add breakpoints
+            //                        function getGridSize() {
+            //                            return (window.innerWidth < 500) ? 1 :
+            //                                (window.innerWidth < 600) ? 2 :
+            //                                    (window.innerWidth < 900) ? 3 : 3;
+            //                        }
+            //
+            //                        $(function () {
+            //                            SyntaxHighlighter.all();
+            //                        });
+            //
+            //                        $window.load(function () {
+            //                            $('.flexslider').flexslider({
+            //                                animation: "slide",
+            //                                animationSpeed: 400,
+            //                                animationLoop: false,
+            //                                itemWidth: 210,
+            //                                itemMargin: 5,
+            //                                minItems: getGridSize(), // use function to pull in initial value
+            //                                maxItems: getGridSize(), // use function to pull in initial value
+            //                                start: function (slider) {
+            //                                    $('body').removeClass('loading');
+            //                                    flexslider = slider;
+            //                                }
+            //                            });
+            //                        });
+            //
+            //                        // check grid size on resize event
+            //                        $window.resize(function () {
+            //                            var gridSize = getGridSize();
+            //
+            //                            flexslider.vars.minItems = gridSize;
+            //                            flexslider.vars.maxItems = gridSize;
+            //                        });
+            //                    }());
+
+        </script>
+    </div>
+</div>
+
 
 
 </body></html>
