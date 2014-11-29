@@ -1,47 +1,17 @@
-> *The following text is extracted and transformed from the localmedia.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209173436id_/http%3A//localmedia.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmedia.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129080304id_/http%3A//www.localmedia.org/%3Fp%3D2266) for the most accurate reproduction.*
 
-# Local Media Association
+# Privacy Policy | Local Media Association
 
-Local Media Association is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Local Media Association Web site and governs data collection and usage. By using the Local Media Association website, you consent to the data practices described in this statement.
+#### Privacy Policy
 
-Collection of your Personal Information
+##### We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
-Local Media Association collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Local Media Association also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+##### We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-There is also information about your computer hardware and software that is automatically collected by Local Media Association. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Local Media Association for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Local Media Association Web site.
+##### Our e-mail marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Local Media Association public message boards, this information may be collected and used by others. Note: Local Media Association does not read any of your private online communications.
+##### Each e-mail sent contains an easy, automated way for you to cease receiving e-mail from us, or to change your expressed interests. If you wish to do this, simply follow the SafeUnsubscribe or Update Profile links at the end of any e-mail.
 
-Local Media Association encourages you to review the privacy statements of Web sites you choose to link to from Local Media Association so that you can understand how those Web sites collect, use and share your information. Local Media Association is not responsible for the privacy statements or other content on Web sites outside of the Local Media Association and Local Media Association family of Web sites.
+##### We will never share, sell, or rent individual personal information with anyone for their promotional use without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you e-mails based on your request for information, and to contracted service providers for purposes of providing services relating to our communications with you.
 
-Use of your Personal Information
-
-Local Media Association collects and uses your personal information to operate the Local Media Association Web site and deliver the services you have requested. Local Media Association also uses your personally identifiable information to inform you of other products or services available from Local Media Association and its affiliates. Local Media Association may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
-
-Local Media Association does not sell, rent or lease its customer lists to third parties. Local Media Association may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Local Media Association may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Local Media Association, and they are required to maintain the confidentiality of your information.
-
-Local Media Association does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
-
-Local Media Association keeps track of the Web sites and pages our customers visit within Local Media Association, in order to determine what Local Media Association services are the most popular. This data is used to deliver customized content and advertising within Local Media Association to customers whose behavior indicates that they are interested in a particular subject area.
-
-Local Media Association Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Local Media Association or the site; (b) protect and defend the rights or property of Local Media Association; and, (c) act under exigent circumstances to protect the personal safety of users of Local Media Association, or the public.
-
-Use of Cookies
-
-The Local Media Association Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Local Media Association pages, or register with Local Media Association site or services, a cookie helps Local Media Association to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Local Media Association Web site, the information you previously provided can be retrieved, so you can easily use the Local Media Association features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Local Media Association services or Web sites you visit.
-
-Security of your Personal Information
-
-Local Media Association secures your personal information from unauthorized access, use or disclosure. Local Media Association secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Changes to this Statement
-
-Local Media Association will occasionally update this Statement of Privacy to reflect company and customer feedback. Local Media Association encourages you to periodically review this Statement to be informed of how Local Media Association is protecting your information.
-
-Contact Information
-
-Local Media Association welcomes your comments regarding this Statement of Privacy. If you believe that Local Media Association has not adhered to this Statement, please contact Local Media Association at [hq@localmedia.org](mailto:hq@localmedia.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+##### Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All newsletters from this site allow you to opt out of further mailings.
