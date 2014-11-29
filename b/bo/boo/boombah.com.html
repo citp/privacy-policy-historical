@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the boombah.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626050517id_/http%3A//www.boombah.com/info/policies.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boombah.com privacy policy that was archived on 2014-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129021956id_/http%3A//www.boombah.com/info/policies.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,8 +14,8 @@
 <link href="http://www.boombah.com/StyleBoombah.css" rel="stylesheet" type="text/css">  
 <!-- link href="/css/new-menu-styles.css" rel="stylesheet" type="text/css" / -->
 <link href="http://www.boombah.com/js/lightbox2.05/css/lightbox.css" rel="stylesheet" type="text/css" media="screen">
-
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+
 <script>
 //     jQuery.noConflict();
 
@@ -31,7 +31,7 @@ Shadowbox.init();
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/jquery-ui.min.js" type="text/javascript"></script>
 <script src="/js/jQueryUI/stars/jRating.jquery.js" type="text/javascript"></script>
 <script src="/js/cloudzoom/cloud-zoom.1.0.2.js" type="text/javascript"></script>
-<script src="/productPages/productPagesV2.js" type="text/javascript"></script>
+<script src="/productPages/productPagesV3.js" type="text/javascript"></script>
 <script src="/productPages/productPagesNonInventory.js" type="text/javascript"></script>
 
 <script src="/js/Flash10.js" type="text/javascript"></script>
@@ -212,6 +212,57 @@ span[id^='11custcol_customization'] { display:none; }
                 <@ } @>
             </script>        
 
+
+
+<script type="text/template" id="cert-product-template-mike">
+<div id="cert-product-page">
+<@ var results = data.items.length @>
+<@ for(i=0; i < results; i++) {@>
+    <div class="cert-product-page-cell">
+        <a href="<@= data.items[i].detailurl @>?cid=<@= data.items[i].parentreal @>"><img src="<@= data.items[i].imageurl.replace('webProNormal','webProdNormalPNG' ) @>&fmt=png-alpha&wid=200" width="200"></a> 
+        <h4><a href="#"><@= data.items[i].description @></a></h4>
+        <h5><@= formatCurrency3(data.items[i].listprice) @></h5>
+    </div>
+<@ } @>
+</div>
+</script>
+
+
+
+
+<script type="text/template" id="cert-product-template">
+<div id="cert-products" style="clear:both;">
+<@ for(i=0; i< data.items.length; i++) {@>
+<div style="float:left; width:190px;">
+    <a href="<@= data.items[i].detailurl.replace('www','sandbox') @>">
+    <div><img src="<@= data.items[i].imageurl @>&wid=190" /></div>
+    <div><@= data.items[i].description @></div>
+    <div><@= formatCurrency3(data.items[i].saleprice) @></div>
+    </a>
+</div>
+<@ } @>
+</div>
+<div style="clear:both;"></div>
+</script>
+
+
+<script type="text/template" id="cert-category-template">
+<div id="cert-products" style="clear:both; width: 920px; margin: 30px auto; display:none;">
+<@ for(i=0; i< data.items.length; i++) {@>
+<div style="float:left; width:230px;">
+    <a href="<@= data.items[i].detailurl.replace('www','sandbox') @>">
+    <div><img src="<@= data.items[i].imageurl @>&wid=230" /></div>
+    <div><@= data.items[i].description @></div>
+    <div><@= formatCurrency3(data.items[i].saleprice) @></div>
+    </a>
+</div>
+<@ } @>
+</div>
+<div style="clear:both;"></div>
+</script>
+
+
+
 <meta name="viewport" content="width=1000">
 <link rel="stylesheet" href="http://www.boombah.com/menu2014/css/menu2014.css" type="text/css" media="screen">
 <script type="text/javascript" src="/menu2014/js/megamenu.js"></script>
@@ -256,6 +307,7 @@ var certEmail = "";
 <div id="hp-wrapper">
   
 <table>
+</table><table border="0" cellspacing="0" cellpadding="0" width="100%">
  <tbody><tr>
 <td style="padding-bottom:98px;">
 
@@ -271,13 +323,12 @@ var certEmail = "";
         </div>
         <div id="hp-search-login" style="padding-top:8px; overflow:hidden;"> <!-- start search and login info -->              
             <div id="top-nav-right">
-                <form method="get" name="searchportlettag" id="Form4" action="http://search.boombah.com/search">
                 <input type="text" name="keywords" maxlength="40" height="27" value="SEARCH" onfocus="if (this.value == this.defaultValue) this.value = '';" class="normal" style="border:1px solid #898989; background:#eaeaea; padding:3px;">
                 <input type="hidden" name="sc" value="26">
-                <input name="submit" type="submit" value="GO" width="35" height="27" class="hp-search-button"></form><br>
+                <input name="submit" type="submit" value="GO" width="35" height="27" class="hp-search-button"><br>
             </div>
             <div id="top-nav-left">
-                <a onclick="_gaq.push(['_link', this.href]); return true;" class="smalltext" href="https://checkout.netsuite.com/s.nl?c=460511&amp;sc=26&amp;login=T&amp;reset=T&amp;newcust=T&amp;noopt=T&amp;ck=z_Ht57DgAfPpknZx&amp;vid=z_Ht57DgAfzpkqAk&amp;cktime=123070&amp;gc=clear&amp;ext=F">Register</a>&nbsp;|&nbsp;<a onclick="_gaq.push(['_link', this.href]); return true;" class="smalltext" href="https://checkout.netsuite.com/s.nl?c=460511&amp;sc=26&amp;login=T&amp;reset=T&amp;ck=z_Ht57DgAfPpknZx&amp;vid=z_Ht57DgAfzpkqAk&amp;cktime=123070&amp;gc=clear&amp;ext=F">Log&nbsp;In</a><a href="/s.nl/sc.3/.f" class="smalltext" style="color:#000;">&nbsp;&nbsp;&nbsp;&nbsp;Cart</a>
+                <a onclick="_gaq.push(['_link', this.href]); return true;" class="smalltext" href="https://checkout.boombah.com/s.nl/sc.26/.f?login=T&amp;reset=T&amp;newcust=T&amp;noopt=T&amp;gc=clear&amp;ext=F">Register</a>&nbsp;|&nbsp;<a onclick="_gaq.push(['_link', this.href]); return true;" class="smalltext" href="https://checkout.boombah.com/s.nl/sc.26/.f?login=T&amp;reset=T&amp;gc=clear&amp;ext=F">Log&nbsp;In</a><a href="/s.nl/sc.3/.f" class="smalltext" style="color:#000;">&nbsp;&nbsp;&nbsp;&nbsp;Cart</a>
             </div>
         </div>
     </div>
@@ -296,12 +347,12 @@ var certEmail = "";
                                 <li><a href="/s.nl/sc.26/category.353384/.f">Compression</a></li>
                                 <li><a href="/All-Products/Shirts/">Shirts</a></li>
                                 <li><a href="/All-Products/Polos/">Polos</a></li>
-                                <li><a href="/All-Products/Hoodies-Sweatshirts/">Hoodies/Sweatshirts</a></li>
+                                <li><a href="/All-Products/Hoodies-Sweatshirts/">Hoodies</a></li>
                                 <li><a href="/All-Products/Warm-Ups/">Warm-Ups</a></li>
                                 <li><a href="/All-Products/Outerwear/">Outerwear</a></li>
                                 <li><a href="/All-Products/Pants/">Softball/Baseball Pants</a></li>
                                 <li><a href="/All-Products/Shorts/">Shorts</a></li>
-                                <li><a href="/Premier/premier-mens.html"><strong>Boombah Men's Premier - NEW!</strong></a></li>
+                                <!-- li><a href="/Premier/premier-mens.html"><strong>Boombah Men's Premier - NEW!</strong></a></li -->
                             </ul>                                
                         </div>
                 
@@ -309,7 +360,7 @@ var certEmail = "";
                             <img src="/menu2014/images/title-accessories.png">
                             <ul>
                                 <li><a href="/All-Products/Compression-Arm-Sleeves/">Arm Sleeves</a></li>
-                                <li><a href="/All-Products/Belts/">Belts</a></li>
+                                <li><a href="/All-Products/Belts_2/">Belts</a></li>
                                 <li><a href="/All-Products/Hat-Visors/">Hats</a></li>
                                 <li><a href="/All-Products/Headbands/">Headbands</a></li>
                                 <li><a href="/All-Products/Necklaces/">Necklaces</a></li>
@@ -337,15 +388,16 @@ var certEmail = "";
                         <div class="col_one_quarter">                        
                             <img src="/menu2014/images/title-featured.png">
                             <ul>
-                                <li><a href="/builders/fd/builder-shorts.html"><strong>Custom Ink Shorts - NEW!</strong></a></li>
-                                <li><a href="/Premier/premier-landing.html"><strong>Boombah Premier - NEW!</strong></a></li>
+                               <li><a href="/builders/fd/builder-hoodie.html"><strong>Custom Ink Hoodies - NEW!</strong></a></li>                                
+                               <li><a href="/builders/fd/builder-shorts.html"><strong>Custom Ink Shorts - NEW!</strong></a></li>
+                                <!-- li><a href="/Premier/premier-landing.html"><strong>Boombah Premier - NEW!</strong></a></li -->
                                 <li><a href="/All-Products/Boombah-T-Shirts/">Graphic Apparel</a></li>
                                 <li><a href="/ink/custom-ink.html">Custom INK</a></li>
                                 <li><a href="/builders/ShoeBuilder2012/ShoeBuilderLanding.html">Custom Shoes</a></li>
                                 <li><a href="/builders/fd/builder.html">Full Dye Slowpitch Builder</a></li>
                                 <li><a href="/builders/fd/builder.html?product=FD-BASE">Full Dye Baseball Builder</a></li>
                                 <li><a href="/builders/AuthenticBuilder2012/authentic-builder.html?product=AUTH-BASE">Authentic Baseball Builder</a></li>
-                                <li><a href="/All-Products/USSSA_Apparel/">USSSA Gear</a></li>
+                                <li><a href="http://search.boombah.com/search?keywords=usssa%20officials">USSSA Gear</a></li>
                                 <li><a href="/discount-pricing.html">Promos</a></li>
                             </ul>                              
                         </div>
@@ -354,8 +406,8 @@ var certEmail = "";
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <div class="col_full firstcolumn">                        
-                            <div id="free-shipping-container" style="margin:8px 0 0 150px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                            <div id="free-shipping-container" style="margin:8px 0 0 250px;">
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div>
@@ -370,17 +422,18 @@ var certEmail = "";
                             <img src="/menu2014/images/title-apparel.png">
                             <ul>
                                 <li><a href="/All-Products/Compression/">Compression</a></li>
-                                <li><a href="/All-Products/Womens-Hoodies-Sweatshirts/">Hoodies/Sweatshirts</a></li>
+                                <li><a href="/All-Products/Womens-Hoodies-Sweatshirts/">Hoodies</a></li>
                                 <li><a href="/All-Products/Outerwear_2/">Outerwear</a></li>
                                 <li><a href="/s.nl/sc.26/category.456857/.f">Polos</a></li>
                                 <li><a href="/s.nl/sc.26/category.389797/.f">Shirts</a></li>
                                 <li><a href="/All-Products/Sports-Bra/">Sports Bras</a></li>
                                 <li><a href="/All-Products/Tanks/">Tanks</a></li>
-                                <li><a href="/f1/womens-training/womens-training.html">Training</a></li>
+                             <!--   <li><a href="/All-Products/Womens-Training/">Training</a></li>  -->
                                 <li><a href="/All-Products/Warm-Ups_2/">Warm-Ups</a></li>
-                                <li><a href="/s.nl/sc.26/category.142336/.f">Pants</a></li>
+                                <li><a href="/s.nl/sc.26/category.142336/.f">Bottoms</a></li>
+                                <li><a href="/All-Products/Womens-Softball-Pants/">Softball Pants</a></li>
                                 <li><a href="/All-Products/Shorts_3/">Shorts</a></li>
-                                <li><a href="/Premier/premier-womens.html"><strong>Boombah Women's Premier - NEW!</strong></a></li>
+                                <!-- li><a href="/Premier/premier-womens.html"><strong>Boombah Women's Premier - NEW!</strong></a></li -->
                             </ul>                                
                         </div>
                 
@@ -388,7 +441,7 @@ var certEmail = "";
                             <img src="/menu2014/images/title-accessories.png">
                             <ul>
                                 <li><a href="/All-Products/Compression-Arm-Sleeves/">Arm Sleeves</a></li>
-                                <li><a href="/All-Products/Belts/">Belts</a></li>
+                                <li><a href="/All-Products/Belts_2/">Belts</a></li>
                                 <li><a href="/All-Products/Hat-Visors/">Hats</a></li>
                                 <li><a href="/All-Products/Headbands/">Headbands</a></li>
                                 <li><a href="/All-Products/Necklaces/">Necklaces</a></li>
@@ -413,14 +466,14 @@ var certEmail = "";
                         <div class="col_one_quarter">                        
                             <img src="/menu2014/images/title-featured.png">
                             <ul>
-                                <li><a href="/Premier/premier-landing.html"><strong>Boombah Premier - NEW!</strong></a></li>
+                                <!-- li><a href="/Premier/premier-landing.html"><strong>Boombah Premier - NEW!</strong></a></li -->
                                 <li><a href="/All-Products/Womens-Graphic-Tess/">Graphic Apparel</a></li>
                                 <li><a href="/ink/custom-ink.html">Custom INK</a></li>
                                 <li><a href="/builders/ShoeBuilder2012/ShoeBuilderLanding.html">Custom Shoes</a></li>
                                 <li><a href="/builders/fd/builder.html?product=FD-FAST">Full Dye Fastpitch Builder</a></li>
                                 <li><a href="/builders/AuthenticBuilder2012/authentic-builder.html?product=AUTH-FP">Authentic Fastpitch Builder</a></li>
-                                <li><a href="/f1/womens-training/womens-training.html">Training Apparel</a></li>
-                                <li><a href="/All-Products/Womens-USSSA-Apparel/">USSSA Gear</a></li>
+                             <!--   <li><a href="/All-Products/Womens-Training/">Training Apparel</a></li>  -->
+                                <li><a href="http://search.boombah.com/search?keywords=usssa%20officials">USSSA Gear</a></li>
                                 <li><a href="/discount-pricing.html">Promos</a></li>
                             </ul>                              
                         </div>
@@ -428,8 +481,8 @@ var certEmail = "";
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <div class="col_full firstcolumn">                        
-                            <div id="free-shipping-container" style="margin:8px 0 0 150px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                            <div id="free-shipping-container" style="margin:8px 0 0 250px;">
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div>
@@ -443,11 +496,13 @@ var certEmail = "";
                         <div class="col_one_quarter firstcolumn">                        
                             <img src="/menu2014/images/title-apparel.png">
                             <ul>
+                                <li><a href="/s.nl/sc.26/category.455427/.f">Compression</a></li>
                                 <li><a href="/All-Products/Shirts_2/">Shirts</a></li>
-                                <li><a href="/All-Products/Youth-Hoodies/">Hoodies &amp; Sweatshirts</a></li>
+                                <li><a href="/All-Products/Youth-Hoodies/">Hoodies</a></li>
                                 <li><a href="/s.nl/sc.26/category.388115/.f">Warm-Ups</a></li>
                                 <li><a href="/All-Products/Outerwear_3/">Outerwear</a></li>
                                 <li><a href="/s.nl/sc.26/category.142335/.f">Baseball Pants</a></li>
+                                <li><strong><a href="/All-Products/Youth-Shorts/">Shorts - New!</a></strong></li>
                             </ul>                                
                         </div>
                 
@@ -455,7 +510,7 @@ var certEmail = "";
                             <img src="/menu2014/images/title-accessories.png">
                             <ul>
                                 <li><a href="/All-Products/Compression-Arm-Sleeves/">Arm Sleeves</a></li>
-                                <li><a href="/All-Products/Belts/">Belts</a></li>
+                                <li><a href="/All-Products/Belts_2/">Belts</a></li>
                                 <li><a href="/All-Products/Hat-Visors/">Hats</a></li>
                                 <li><a href="/All-Products/Headbands/">Headbands</a></li>
                                 <li><a href="/All-Products/Necklaces/">Necklaces</a></li>
@@ -494,8 +549,8 @@ var certEmail = "";
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <div class="col_full firstcolumn">                        
-                            <div id="free-shipping-container" style="margin:8px 0 0 150px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                            <div id="free-shipping-container" style="margin:8px 0 0 250px;">
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div>
@@ -524,8 +579,8 @@ var certEmail = "";
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <div class="col_full firstcolumn">                        
-                            <div id="free-shipping-container" style="margin:8px 0 0 150px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                            <div id="free-shipping-container" style="margin:8px 0 0 250px;">
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div>
@@ -602,7 +657,7 @@ var certEmail = "";
                             <a href="/s.nl/sc.26/category.458848/.f"><img src="/menu2014/images/womens-molded.png"></a>
                         </div>
                         <div class="col_one_fifth">
-                            <h3>Sandles/Slides</h3>
+                            <h3>Sandals/Slides</h3>
                             <p class="menu2014-descr-left">More Colors Available!</p>
                             <a href="/All-Products/Womens-Sandals/"><img src="/menu2014/images/womens-sandles.png"></a>
                         </div>
@@ -620,8 +675,8 @@ var certEmail = "";
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <div class="col_full firstcolumn">                        
-                            <div id="free-shipping-container" style="margin:8px 0 0 150px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                            <div id="free-shipping-container" style="margin:8px 0 0 250px;">
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div> 
@@ -684,8 +739,8 @@ var certEmail = "";
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <div class="col_full firstcolumn">                        
-                            <div id="free-shipping-container" style="margin:8px 0 0 150px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                            <div id="free-shipping-container" style="margin:8px 0 0 250px;">
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div>
@@ -695,41 +750,42 @@ var certEmail = "";
             <li class="menuitem_fullwidth"><a href="#_" class="menuitem_drop">Sports</a><!-- Begin Typography Item -->
                 <div class="dropdown_fullwidth"><!-- Begin columns container -->
                     <div class="col_full firstcolumn">
-                        <div class="col_one_fifth firstcolumn">
+                        <div class="col_one_quarter firstcolumn">
                             <h3>Baseball</h3>
                             <a href="/f1/segmentation/baseball.html"><img src="/menu2014/images/baseball.png"></a>
                         </div>
-                        <div class="col_one_fifth">
+                        <div class="col_one_quarter">
                             <h3>Basketball</h3>
                             <a href="/f1/segmentation/basketball.html"><img src="/menu2014/images/basketball.png"></a>
                         </div>
-                        <div class="col_one_fifth">
+                        <div class="col_one_quarter">
                             <h3>Fastpitch</h3>
                             <a href="/f1/segmentation/fastpitch.html"><img src="/menu2014/images/fastpitch.png"></a>
                         </div>
-                        <div class="col_one_fifth">
+                        <div class="col_one_quarter">
                             <h3>Slowpitch</h3>
                             <a href="/f1/segmentation/slowpitch.html"><img src="/menu2014/images/slowpitch.png"></a>
                         </div>
-                        <div class="col_one_fifth">
+                      <!--  <div class="col_one_fifth">
                             <h3>Women's Training</h3>
-                            <a href="/f1/womens-training/womens-training.html"><img src="/menu2014/images/womens-training-apparel.png"></a>
-                        </div>
+                            <a href="/All-Products/Womens-Training/"><img src="/menu2014/images/womens-training-apparel.png"></a>
+                        </div>  -->
                     </div>
                     <div class="col_full firstcolumn" style="padding-top:20px;">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <ul style="margin-left:197px; margin-top:10px;">
                             <li style="float:left !important; margin-right:15px; width:130px !important;"><a href="/f1/segmentation/football.html"><img src="/menu2014/images/football.png"></a></li>
+                            <!-- li style="float:left !important; margin-right:15px; width:130px !important;"><a href="/Uniforms/FullDye/Lacrosse/FD-LACR-CM.html"><img src="/menu2014/images/lacrosse.png"></a></li -->
                             <li style="float:left !important; margin-right:15px; width:130px !important;"><a href="/f1/segmentation/soccer.html"><img src="/menu2014/images/soccer.png"></a></li>
                             <li style="float:left !important; margin-right:15px; width:130px !important;"><a href="/f1/segmentation/volleyball.html"><img src="/menu2014/images/volleyball.png"></a></li>
-                            <li style="float:left !important; margin-right:15px; width:130px !important;"><a href="/All-Products/Officials/"><img src="/menu2014/images/officials.png"></a></li>
+                            <li style="float:left !important; margin-right:15px; width:130px !important;"><a href="http://search.boombah.com/search?keywords=usssa%20officials"><img src="/menu2014/images/officials.png"></a></li>
                         </ul>
                     </div>   
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:5px;">
                         <div class="col_full firstcolumn">                        
                             <div id="free-shipping-container" style="margin:8px 0 0 202px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div>
@@ -786,15 +842,15 @@ var certEmail = "";
                 
                         <div class="col_one_quarter">                        
                             <h3>Officials</h3>
-                            <a href="/All-Products/USSSA_Apparel/"><img src="/menu2014/images/uniforms-officials.png"></a>
+                            <a href="http://search.boombah.com/search?keywords=usssa%20officials"><img src="/menu2014/images/uniforms-officials.png"></a>
                             <p class="menu2014-descr">More Styles &amp; Colors Available!</p>                                
                         </div>
                     </div>
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <div class="col_full firstcolumn">                        
-                            <div id="free-shipping-container" style="margin:8px 0 0 150px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                            <div id="free-shipping-container" style="margin:8px 0 0 250px;">
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div>
@@ -858,8 +914,8 @@ var certEmail = "";
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <div class="col_full firstcolumn">                        
-                            <div id="free-shipping-container" style="margin:8px 0 0 150px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                            <div id="free-shipping-container" style="margin:8px 0 0 250px;">
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div>
@@ -872,7 +928,7 @@ var certEmail = "";
                         <li><a href="/s.nl/sc.9/category.621692/.f">Accessories</a></li>
                         <li><a href="/s.nl/sc.9/category.621691/.f">Equipment</a></li>
                         <li><a href="/s.nl/sc.9/category.142774/.f">Footwear</a></li>
-                        <li><a href="/Graphic-Apparel-Clearance/">Graphic Apparel</a></li>
+                        <!--li><a href="/Graphic-Apparel-Clearance/">Graphic Apparel</a></li-->
                         <li><a href="/Mens-Apparel/">Men's Apparel</a></li>
                         <li><a href="/Mens-Pants/">Men's Pants</a></li>
                         <li><a href="/Womens-Apparel/">Women's Apparel</a></li>
@@ -928,8 +984,8 @@ var certEmail = "";
                     <div class="col_full firstcolumn">
                         <hr style="color:#888888; background:#888888; margin-top:8px;">
                         <div class="col_full firstcolumn">                        
-                            <div id="free-shipping-container" style="margin:8px 0 0 150px;">
-                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Now Ground Shipping $7.50. Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
+                            <div id="free-shipping-container" style="margin:8px 0 0 250px;">
+                                <span style="font-family: 'russo one', Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 14px; color: #ff0000;">Free Shipping on Orders Over $100.</span> <span style="font-size:9px; color:#000; font-family: Arial, Helvetica, sans-serif;">*Applies to 48 Contiguous States</span>
                             </div>                             
                         </div>
                     </div>
@@ -945,9 +1001,8 @@ var certEmail = "";
 <tr id="crumb" style="display:none; height:30px;">
 <td id="crumb-td">All Products&nbsp;&gt;&nbsp;</td>
 </tr>
-
-
 </tbody></table>
+
 
   <div id="hp-middle-content-wrapper">
     <div id="hp-middle-content-container">
@@ -1060,9 +1115,9 @@ Boombah may update this privacy policy from time to time, and you should take th
                                         
                                         
                                         <div id="footer-container-top-right">
-                                        <a href="https://checkout.netsuite.com/s.nl?c=460511&amp;sc=26&amp;login=T&amp;reset=T&amp;newcust=T&amp;noopt=T&amp;ck=Mk2iKfmbASHBXqd3&amp;vid=Mk2iKRScAR1BsFRk&amp;cktime=105515&amp;cart=834337&amp;gc=clear&amp;ext=F&amp;ck=z_Ht57DgAfPpknZx&amp;vid=z_Ht57DgAfzpkqAk&amp;cktime=123070&amp;gc=clear&amp;ext=F"><img src="/f1/images/2012_hp_images/footer_email.png" width="62" height="51"> </a>
+                                        <a href="https://checkout.boombah.com/s.nl?amp;sc=26&amp;login=T&amp;reset=T&amp;newcust=T&amp;noopt=T&amp;ck=Mk2iKfmbASHBXqd3&amp;vid=Mk2iKRScAR1BsFRk&amp;cktime=105515&amp;cart=834337&amp;gc=clear&amp;ext=F&amp;gc=clear&amp;ext=F"><img src="/f1/images/2012_hp_images/footer_email.png" width="62" height="51"> </a>
                                         </div>
-                                        <div id="footer-container-top-right-text"><span class="footer-titles"><a href="https://checkout.netsuite.com/s.nl?c=460511&amp;sc=26&amp;login=T&amp;reset=T&amp;newcust=T&amp;noopt=T&amp;ck=Mk2iKfmbASHBXqd3&amp;vid=Mk2iKRScAR1BsFRk&amp;cktime=105515&amp;cart=834337&amp;gc=clear&amp;ext=F&amp;ck=z_Ht57DgAfPpknZx&amp;vid=z_Ht57DgAfzpkqAk&amp;cktime=123070&amp;gc=clear&amp;ext=F">
+                                        <div id="footer-container-top-right-text"><span class="footer-titles"><a href="https://checkout.boombah.com/s.nl?amp;sc=26&amp;login=T&amp;reset=T&amp;newcust=T&amp;noopt=T&amp;ck=Mk2iKfmbASHBXqd3&amp;vid=Mk2iKRScAR1BsFRk&amp;cktime=105515&amp;cart=834337&amp;gc=clear&amp;ext=F&amp;gc=clear&amp;ext=F">
                                         Sign Up For Exclusive Email Updates</a></span></div>
 										<div id="live-chat">
                                         <div style="text-align:center;" id="LiveChat_1350936780"></div>
@@ -1221,7 +1276,6 @@ Boombah may update this privacy policy from time to time, and you should take th
 <style>
 .nxt-ac-products-container
 {
-  //background: #FFF url('//boombah.ecomm-search.com/separator.png') no-repeat top left ;
   background: #FFF url('//search.boombah.com/separator.png') no-repeat top left ;
   padding-top: 10px;
 }
@@ -1267,9 +1321,9 @@ function nsVoid(){return;};
 
 
 
-<!-- 328 s: 44% #53 co: 20% #129-->
-<!-- [ sh.j40.sv ] [ 2014.1.0.112 ]-->
-<!-- [ 460511 ] [  ] [ /s.nl ] [ Wed Jun 25 22:05:18 PDT 2014 ] -->
+<!-- 213 s: 53% #28 co: 12% #67-->
+<!-- [ sh.j33.sv ] [ 2014.2.0.102 ]-->
+<!-- [ 460511 ] [  ] [ /s.nl ] [ Fri Nov 28 18:19:55 PST 2014 ] -->
 <!-- Not logging slowest SQL -->
 
-</div><iframe id="stSegmentFrame" name="stSegmentFrame" src="https://web.archive.org/web/20130112204149/https://seg.sharethis.com/getSegment.php?purl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140626050517id_%2Fhttp%253A%2F%2Fwww.boombah.com%2Finfo%2Fpolicies.htm&amp;jsref=&amp;rnd=1580497509168" frameborder="0" scrolling="no" width="0px" height="0px" style="display:none;"></iframe><div id="stwrapper" class="stwrapper" style="visibility: hidden; top: -999px; left: -999px; width: 500px; z-index: 89999999;"><div class="stCloseNew2"></div><iframe allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" frameborder="0" scrolling="no" width="500px" height="430px" src="https://web.archive.org/web/20130112204149/https://ws.sharethis.com/secure5x/index.html" style="top: 0px; left: 0px;"></iframe></div><div id="stOverlay" style="height: 100%; width: 100%; background-color: rgb(0, 0, 0); opacity: 0.6; position: fixed; display: none; left: 0px; top: 0px; z-index: 89999990;"></div></body></html>
+</div><iframe id="stSegmentFrame" name="stSegmentFrame" src="https://web.archive.org/web/20130112204149/https://seg.sharethis.com/getSegment.php?purl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141129021956id_%2Fhttp%253A%2F%2Fwww.boombah.com%2Finfo%2Fpolicies.htm&amp;jsref=&amp;rnd=1580497513059" frameborder="0" scrolling="no" width="0px" height="0px" style="display:none;"></iframe><div id="stwrapper" class="stwrapper" style="visibility: hidden; top: -999px; left: -999px; width: 500px; z-index: 89999999;"><div class="stCloseNew2"></div><iframe allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" frameborder="0" scrolling="no" width="500px" height="430px" src="https://web.archive.org/web/20130112204149/https://ws.sharethis.com/secure5x/index.html" style="top: 0px; left: 0px;"></iframe></div><div id="stOverlay" style="height: 100%; width: 100%; background-color: rgb(0, 0, 0); opacity: 0.6; position: fixed; display: none; left: 0px; top: 0px; z-index: 89999990;"></div></body></html>
