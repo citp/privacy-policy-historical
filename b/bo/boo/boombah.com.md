@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boombah.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050517id_/http%3A//www.boombah.com/info/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boombah.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129021956id_/http%3A//www.boombah.com/info/policies.htm) for the most accurate reproduction.*
 
 # Boombah Policies
 
