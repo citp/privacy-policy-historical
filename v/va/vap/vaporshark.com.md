@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vaporshark.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504161253id_/https%3A//www.vaporshark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporshark.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129145053id_/https%3A//www.vaporshark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Privacy Policy
 
 Vapor Shark understands that your privacy is important, especially when providing sensitive, personal information on the internet. This Notice will govern our Privacy Policy applies to all users of this website, whether or not a transaction of any kind is conducted during each browser session.
 
@@ -14,11 +16,11 @@ Does Vaporshark.com Share the Information it Receives?
  **  
 How Secure is My Information?**  
 Your personal information is only accessible to a limited number of qualified employees who are given a password in order to gain access to database information. While we take commercially reasonable measures to maintain a secure site, electric communications and databases are subject to errors, tampering, and break-ins, and we cannot guarantee or warrant that such events will not take place. We will not be liable for any such occurrences. You will find that almost all Internet e-commerce providers make this same claim, especially if they establish privacy policies such as this one.  
- **
+ ****
 
-Are Children Allowed to Use Vapor Shark Electronic Cigarettes?
+ **Are Children Allowed to Use Vapor Shark Electronic Cigarettes?**
 
-** **  
+ **  
 **No. Our products are sold only to adult smokers, 18 years or older. Vapor Shark does not intentionally collect or solicit personal information from or about children or anyone under the age of 18. If we discover we have received any information from an individual under the age of 18 and in violation of this Policy, we will delete that information immediately. If you believe Vapor Shark has any information from or about anyone under the age of 18, please contact us with a thorough description, and we will do our best to resolve it.  
  **
 
