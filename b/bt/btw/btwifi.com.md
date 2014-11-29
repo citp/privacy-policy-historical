@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btwifi.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329035025id_/http%3A//www.btwifi.com/terms-and-conditions/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btwifi.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129050725id_/http%3A//www.btwifi.com/terms-and-conditions/privacy-policy.jsp) for the most accurate reproduction.*
 
 # BT Websites Privacy & Security Policy | BT Wi-fi
 
@@ -58,8 +58,6 @@ Back to top
 
 We may ask you for information to enable us to provide a service to you and we collect this information by telephone, written correspondence or via a website. We may ask you for information including your name, private/business address, contact telephone numbers and email address. We may also ask you for other information that relates to the service you are using or ordering. For example, we may need your credit card number to charge you for certain services. 
 
-We may ask you for information to enable us to provide a service to you and we collect this information by telephone, written correspondence or via a website. We may ask you for information including your name, private/business address, contact telephone numbers and email address. We may also ask you for other information that relates to the service you are using or ordering. For example, we may need your credit card number to charge you for certain services. 
-
   * we have information about your use of our services (such as the amount of time you spend on-line), which we use to manage our network, and for billing. We may also use this information for marketing products and services but we will give the option to opt out of receiving this material. 
   * if you enter into any of our competitions or promotions, we may ask for information about you, which will be made clear at the time you enter. We will also inform you of the purposes for which the information you provide may be used. 
   * we may ask you from time to time about what use you make of the services we provide, what other services you would like us to provide in the future, and for other information, such as lifestyle data
@@ -82,13 +80,13 @@ Back to top
 
 ### 6 Credit checking and account management
 
-please note that when you order goods and services from BT we may make enquiries about you for credit reference purposes. These enquiries include searching your records held by Experian/Equifax or any other Credit Reference Agency (CRA) and checking any details held on you by the Interactive Media in retail Group (IMRG) Security alert or other Fraud Prevention Agencies (FPAs). When CRAs receive a search from us they will place a footprint on your file that may be seen by other organisations. At all times where your information is disclosed to us we may retain it and we will protect it in accordance with this policy and keep it secure. We will retain the outcome of searches we carry out with CRAs to avoid having to make repeat searches against your credit file in circumstances where we may need to carry out further credit checks in respect of additional products or services ordered by you. We will only retain this data for a reasonable period.
+Please note that when you order goods and services from BT we may make enquiries about you for credit reference purposes. These enquiries include searching your records held by Experian/Equifax or any other Credit Reference Agency (CRA) and checking any details held on you by the Interactive Media in retail Group (IMRG) Security alert or other Fraud Prevention Agencies (FPAs). When CRAs receive a search from us they will place a footprint on your file that may be seen by other organisations. At all times where your information is disclosed to us we may retain it and we will protect it in accordance with this policy and keep it secure. We will retain the outcome of searches we carry out with CRAs to avoid having to make repeat searches against your credit file in circumstances where we may need to carry out further credit checks in respect of additional products or services ordered by you. We will only retain this data for a reasonable period.
 
-we will carry out checks while assessing your application for telephone service and will verify your identity. We do this to help protect you from identity theft and fraud, and also to prevent and detect crime and money laundering. We may also make periodic searches at CRAs and FPAs to manage your account with us.
+We will carry out checks while assessing your application for telephone service and will verify your identity. We do this to help protect you from identity theft and fraud, and also to prevent and detect crime and money laundering. We may also make periodic searches at CRAs and FPAs to manage your account with us.
 
-if you tell us that you have a spouse or financial associate, we will link your records together so you must be sure that you have their agreement to disclose information about them. CRAs also link your records together and these links will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs to break that link.
+If you tell us that you have a spouse or financial associate, we will link your records together so you must be sure that you have their agreement to disclose information about them. CRAs also link your records together and these links will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs to break that link.
 
-information on applications will be sent to CRAs and will be recorded by them. We may also give them details of your accounts and billing information, including how you manage it/them to CRAs We may tell them about payments you make to us, your account balances, and payment defaults [We may also give them historical information we hold about your payment history with us.] If you do not pay your bills on time, CRAs will record this information and it may be supplied to other organisations by CRAs and FPAs to perform similar checks and to trace your whereabouts and recover debts that you owe to them as well as us.
+Information on applications will be sent to CRAs and will be recorded by them. We may also give them details of your accounts and billing information, including how you manage it/them to CRAs We may tell them about payments you make to us, your account balances, and payment defaults [We may also give them historical information we hold about your payment history with us.] If you do not pay your bills on time, CRAs will record this information and it may be supplied to other organisations by CRAs and FPAs to perform similar checks and to trace your whereabouts and recover debts that you owe to them as well as us.
 
 **How to find out more**
 
@@ -147,7 +145,7 @@ If you want specific information i.e.:-
 
 
 
-then you must contact [Customer Services](https://web.archive.org/web/20140329035025id_/http%3A//www.btwifi.com/contact/index.jsp "Customer Services").
+then you must contact [Customer Services](https://web.archive.org/web/20141129050725id_/http%3A//www.btwifi.com/contact/index.jsp "Customer Services").
 
 If you are asking for a full subject access request then put your request in writing, enclosing a cheque for £10 made payable to BT plc and send to British Telecommunications PLC, PP M3042 DSAR, Colindale House, The Hyde, Colindale, London NW9 6LB.
 
