@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pjtv.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072506id_/http%3A//www.pjtv.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pjtv.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129052823id_/http%3A//www.pjtv.com/privacy_policy) for the most accurate reproduction.*
 
 # PJTV - Privacy Policy
 
