@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the notlurking.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625132959id_/http%3A//notlurking.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the notlurking.com privacy policy that was archived on 2014-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129132659id_/http%3A//notlurking.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -21,15 +21,9 @@
 <title>Privacy - Linkis.com</title><meta name="title" content="Privacy - Linkis.com">
 <meta name="keywords" content="Privacy, Linkis.com">
 <meta name="description" content="Privacy - Linkis.com"><link href="/favicon.ico" rel="icon" type="image/png">
-<link href="/js/prod/secondary.css?581" media="all" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript">
+<link href="/js/prod/secondary.css?649" media="all" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript">
     /*<![CDATA[*/
-var awo_tw=false;
-function twAuth(rurl){if(awo_tw)return null;var url="/privacy";var url_tpl="/signin/tw/__url__";if(typeof rurl=="string")url=rurl;url=url_tpl.replace("__url__",encodeURIComponent(url));window.HELPER.prepareCounters();awo_tw=true;win=openWindowCentered(url,"tw",500,500);var sid=setInterval(function(){if(win.closed){awo_tw=false;if($.cookie("t6_aw_tw_auth")!==null){switch($.cookie("t6_aw_tw_auth")){case "2":switch(LinkData.curTheme){case Themes.THEME_6:hihit(2071);break;case Themes.THEME_7:hihit(2087);break}break;case "1":$.cookie("t6_popup_action",
-"1",{expires:0,path:"/"});break;case "0":$.cookie("t6_popup_action","0",{expires:0,path:"/"});break}$.cookie("t6_aw_tw_auth",null,{expires:0,path:"/"})}clearInterval(sid)}},500);return win};    /*]]>*/
-</script>
-<script type="text/javascript">
-    /*<![CDATA[*/
-var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";var url_tpl="https://www.facebook.com/dialog/oauth?client_id=318962828183539&redirect_uri=http%3A%2F%2Fnotlurking.com%2Fauth%2Ffb%2Fredirect_url%2F__url__&state=e9a4c40f90d968a1cebfdcc0fd390486&display=popup&scope=publish_stream&skip_api_login=1";if(typeof rurl=="string")url=rurl;url=url_tpl.replace("__url__",encodeURIComponent(encodeURIComponent(url)));awo_fb=true;win=openWindowCentered(url,"fb",500,500);var sid=setInterval(function(){if(win.closed){awo_fb=false;clearInterval(sid)}},500);return win};    /*]]>*/
+var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";var url_tpl="https://www.facebook.com/dialog/oauth?client_id=318962828183539&redirect_uri=http%3A%2F%2Fnotlurking.com%2Fauth%2Ffb%2Fredirect_url%2F__url__&state=e505670e2a74f0c236eb5ca855b9283e&display=popup&scope=publish_stream&skip_api_login=1";if(typeof rurl=="string")url=rurl;url=url_tpl.replace("__url__",encodeURIComponent(encodeURIComponent(url)));awo_fb=true;win=openWindowCentered(url,"fb",500,500);var sid=setInterval(function(){if(win.closed){awo_fb=false;clearInterval(sid)}},500);return win};    /*]]>*/
 </script>
 <script>
     var LNG = {};
@@ -41,7 +35,7 @@ var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";
     LNG['index.poll.question.tooShort'] = 'Your question is too short.';
     LNG['settings.socials.addAccount'] = "Add";
     LNG['settings.socials.deleteAccount'] = "Delete account";
-    LNG['settings.socials.urlPlaceholder'] = "Paste an URL";
+    LNG['settings.socials.urlPlaceholder'] = "Paste an URL or account username";
     LNG['settings.socials.emptyUrl'] = "URL can not be empty";
     LNG['settings.blacklist.add'] = "Add";
     LNG['settings.successMsg'] = "Saved";
@@ -57,10 +51,6 @@ var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";
 
     var customAuthRedirect = null;
 
-        var crossDomainData = {
-        'notlurking' : 'notlurking.com',
-        'linkis' : 'linkis.com'
-    };
     
     var addthis_config = window.addthis_config || {};
     addthis_config.data_track_clickback = false;
@@ -73,7 +63,7 @@ var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";
     function __log(val){}
 
     function hihit(id) {
-        if (id !== null || id !== undefined) {
+        if (id) {
             var url = "http://stat.notlurking.com/log.php?id=" + id + "&r=" + Math.round(100000 * Math.random());
             var im = new Image();
             im.src = url;
@@ -81,21 +71,29 @@ var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";
     }
 
 
-function refreshPage() {
+function refreshPage()
+{
     location.href = location.href.split('#')[0];
     setTimeout(function(){
         if (window.hihit) hihit(2580);
     }, 10000);
 }
-function redirectPage(url) {
+function redirectPage(url)
+{
     location.href = url;
+}
+function lnEvent(action, label, category)
+{
+    
+    var path = ['', 'index', 'ln-event'].join('/');
+    var e = function(str){ return str ? encodeURIComponent(str) : ''; };
+    var theme = window.LinkData ? LinkData.curTheme : 0;
+    (new Image()).src = path + '?c=' + e(category) + '&a=' + e(action) + '&l=' + e(label) + '&t=' + e(theme);
 }
 
 </script>
 
 <script type="text/javascript">
-/** @global NL_APP_DATA */
-/** @var window.NL_APP_DATA */
 window.NL_APP_DATA = {
     user:{
         isLogged: false,
@@ -117,10 +115,102 @@ window.NL_APP_DATA = {
     addThisId: 'ra-513082ca32a826c6',
     referrer_link: '',
     cookie_domain: '.linkis.com',
-	sessCookieName: 'LNSID'
+	sessCookieName: 'LNSID',
+    popupForceLang: Math.random() < 0.3 ? 'en' : null,
+    popupsHtml: {}
 };
 
-</script>
+var LnProf = {
+    profId: 0,
+    enabled: 1,
+    startedAt: 0,
+    startDuration: 0,
+    theme: 0,
+    err: [],
+    path: ['', 'index', 'save-ln-prof?'], // prevent simple url parsing
+    iframeLoad: false,
+
+    // receive profId in this function
+    start: function()
+    {
+        var now = (new Date()).getTime();
+        LnProf.startedAt = now;
+        if (!LnProf.enabled)
+            return;
+        var uri = location.pathname + location.search + location.hash;
+        var src = LnProf.path.join('/') + 'type=start&time='+now+'&uri='+encodeURIComponent(uri)+'&theme='+LnProf.theme;
+        document.write('<' + 'script type="text/javascript" src="' + src + '"><' + '/script>');
+    },
+    prodLoad: function(minifyVersion)
+    {
+        if (!LnProf.profId || !LnProf.enabled)
+            return;
+
+        var browser = $.browser.platform + ' ' + $.browser.name + ' ' + $.browser.versionNumber;
+        var time = (new Date()).getTime() - LnProf.startedAt;
+        var linkId = window.LinkData ? LinkData.id : 0;
+        (new Image()).src = LnProf.path.join('/') + 'type=prod&id=' + LnProf.profId
+            + '&browser=' +encodeURIComponent(browser) + '&time=' + time + '&ver=' + (minifyVersion || '')
+            + '&dur=' + LnProf.startDuration + '&linkid=' + linkId;
+    },
+    stopApp: function()
+    {
+        hihit(3292);
+        if (!LnProf.profId || !LnProf.enabled)
+            return;
+
+        (new Image()).src = LnProf.path.join('/') + 'type=stop-app&id=' + LnProf.profId + '&rnd=' + LnProf._rnd();
+    },
+    iframe: function()
+    {
+        var time = (new Date()).getTime() - LnProf.startedAt;
+        this.iframeLoad = time;
+
+        if (!LnProf.profId || !LnProf.enabled)
+            return;
+
+        (new Image()).src = LnProf.path.join('/') + 'type=iframe&id=' + LnProf.profId + '&time=' + time
+            + '&rnd=' + LnProf._rnd();
+    },
+    popup: function(popup)
+    {
+        if (!LnProf.profId || !LnProf.enabled)
+            return;
+
+        var name;
+        if (typeof popup == 'string') {
+            name = popup;
+        } else if (popup && typeof popup == 'object') {
+            try {
+                name = popup.name || (popup.popupClass ? popup.popupClass.prototype.name : null);
+            } catch (e) {}
+        }
+        (new Image()).src = LnProf.path.join('/') + 'type=popup&id=' + LnProf.profId
+            + '&name=' + encodeURIComponent(name || 'noname') + '&rnd=' + LnProf._rnd();
+    },
+    onError: function(msg, file, line, col)
+    {
+        hihit(3282);
+        LnProf.err.push(msg+' in file '+file+' on line '+line+':'+col);
+        if (!LnProf.profId || !LnProf.enabled)
+            return;
+
+        var now = (new Date()).getTime();
+        var error = JSON.stringify(arguments);
+        (new Image()).src = LnProf.path.join('/') + 'type=error&id=' + LnProf.profId + '&time=' + now
+            + '&error=' + encodeURIComponent(error);
+    },
+    getErrors: function()
+    {
+        return LnProf.err.join("\n");
+    },
+    _rnd: function() { return Math.round(100000 * Math.random()); }
+};
+
+LnProf.start();
+window.onerror = LnProf.onError;
+
+</script><script type="text/javascript" src="/index/save-ln-prof?type=start&amp;time=1580486495459&amp;uri=%2Fweb%2F20141129132659id_%2Fhttp%253A%2F%2Fnotlurking.com%2Fprivacy&amp;theme=0"></script>
 <script type="text/javascript">
     /*
      * use Ga array lika goole gaq array
@@ -160,50 +250,54 @@ window.NL_APP_DATA = {
 <body data-controller="index" data-action="privacy" data-fb-app-id="318962828183539" class="secondary guest">
 
 
-    <script type="text/javascript">
-
-        window.STOP_APP = true;
-
-        function getCookieSrsid()
-        {
-			var match = document.cookie.match(/LNSID=(\w+)/);
-            return match ? match[1] : '';
-        }
-
-        function srsid()
-        {
-            var oldId = getCookieSrsid();
-
-            var img = new Image();
-            img.onload = function()
-            {
-                var newId = getCookieSrsid();
-                var visitFromTwitter = 0;
-
-                                if (newId == oldId && !visitFromTwitter) {
-                    window.STOP_APP = false;
-                    if (window.UTIL)
-                        UTIL.init();
-                } else {
-                    refreshPage();
-                }
-            };
-            img.src = '/checksrsid';
-        }
-    </script>
-
-    
-    
-    <iframe id="srsid_iframe" style="position: absolute; top: -1000px" width="0" height="0" onload="srsid()" src="http://linkis.com/srsid/7f1b99c9e3c47a1bcc6e77cd7bae850e"></iframe>
-
-
 <!-- twitter disabled notification -->
 
 
 <div class="other-pages-holder">
     
 <div class="header">
-
+    <div class="went-wrong-popup  js-went-wrong-popup top-arrow" style="top: 8%; left: 45.3%; display: none;">
+    <a class="close-x" href="#"></a>
+    <div class="popup-pad">
+        <strong>What went wrong?</strong>
+		<span class="feedback-please">
+			Please take a minute to let us know why you have turned off Linkis Twitter Automation. Your answer will help us to improve our core features.
+		</span>
+            <ul class="answer-variants">
+                <li>
+                    <label>
+                        <input class="hidden-input" type="checkbox">
+                        <span class="fake-checkbox"></span>
+                        <span class="variant">Im' not intersted in features Linkis offers</span>
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        <span class="fake-checkbox"></span>
+                        <input class="hidden-input" type="checkbox">
+                        <span class="variant">It affects my links in a negative way</span>
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        <span class="fake-checkbox"></span>
+                        <input class="hidden-input" type="checkbox">
+                        <span class="variant">I don't even know what it is</span>
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        <span class="fake-checkbox"></span>
+                        <input class="hidden-input" type="checkbox">
+                        <span class="variant">You're nothing but annoying app!</span>
+                    </label>
+                </li>
+            </ul>
+            <textarea class="self-answer" placeholder="Add your comment (optional)"></textarea>
+            <button class="send-answer js-send-feedback">Send</button>
+    </div>
+</div>
+<div class="overlay-blind" style="display: none"></div>
     <div class="header-insider">
         <a class="logo" href="/">Linkis</a>
 
@@ -248,7 +342,7 @@ While we do our best to protect your personal information, we cannot guarantee t
     window.steal = { loaded:["prod/production.css"] };
     </script>
 
-    <script src="/js/steal/steal.production.js?prod?581" async="async"></script>
+    <script src="/js/steal/steal.production.js?prod/production.js&amp;642"></script>
 
 
     <!-- UserVoice JavaScript SDK (only needed once on a page) -->
