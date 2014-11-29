@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613021747id_/http%3A//harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129212320id_/http%3A//harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # Harris Poll Online: Privacy Policy
 
