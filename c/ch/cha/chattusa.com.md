@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the chattusa.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811221142id_/http%3A//chattusa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chattusa.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130113457id_/http%3A//www.chattusa.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Chattusa
 
 **Privacy Policy**  
-This Privacy Policy governs the manner in which Chattusa collects, uses, maintains and discloses information collected from users (each, a "User") of the [chattusa.com](https://web.archive.org/web/20130811221142id_/http%3A//chattusa.com/chattusa.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Chattusa.
+This Privacy Policy governs the manner in which Chattusa collects, uses, maintains and discloses information collected from users (each, a "User") of the [chattusa.com](https://web.archive.org/web/20141130113457id_/http%3A//www.chattusa.com/chattusa.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Chattusa.
 
 **Personal identification information**
 
@@ -59,11 +59,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Online USA Chat](https://web.archive.org/web/20130811221142id_/http%3A//chattusa.com/chattusa.com)  
-[chattusa](https://web.archive.org/web/20130811221142id_/http%3A//chattusa.com/chattusa.com)  
+[Online USA Chat](https://web.archive.org/web/20141130113457id_/http%3A//www.chattusa.com/chattusa.com)  
+[chattusa](https://web.archive.org/web/20141130113457id_/http%3A//www.chattusa.com/chattusa.com)  
 Chattusa.com  
 contact@ztuts.com
 
 This document was last updated on July 30, 2013
 
-**Chattusa is a free online text chat rooms without signup or download** , with us you can chat to strangers from USA and all the world, you can also find & meet single woman and man.
+Chattusa is a free online text **chat rooms without signup** or download, with us you can chat to strangers from United States of America and all the world, you can also find & meet single woman and man.
