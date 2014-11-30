@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishworld.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208021411id_/https%3A//dishworld.com/assets/dishworld/pdf/Dish_World_Privacy_Policy_03_29_2013.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishworld.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130051159id_/http%3A//dishworld.com/assets/dishworld/pdf/Dish_World_Privacy_Policy_03_29_2013.pdf) for the most accurate reproduction.*
 
 # 
 
