@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208005711id_/http%3A//perfectconnectiongolfswing.com/privacy-policyV1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130062546id_/http%3A//perfectconnectiongolfswing.com/privacy) for the most accurate reproduction.*
 
-# Perfect Connection Golf Swing Privacy Policy
-
-**PRIVACY POLICY**
-
-**(Last Revised: October 10, 2012)**
+# Privacy Policy | Perfect Connection Golf Swing
 
 Thank you for visiting this web site. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
@@ -26,15 +22,15 @@ We may use cookies to deliver content that is specific to your interests. Cookie
 
 **What are cookies?**
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s "help" file.
 
 Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
 
 Third party vendors, including Google, show our ads on sites on the internet. 
 
-Third party vendors, including Google, use our cookies to serve CJH Interactive Sports LLC dba PerfectConnection Golf Swing ads based on a user's prior visits to our website. 
+Third party vendors, including Google, use our cookies to serve CJH Interactive Sports LLC dba PerfectConnection Golf Swing ads based on a user’s prior visits to our website. 
 
-Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor's use of our cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor’s use of our cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 **How can I disable the display of CJH Interactive Sports LLC dba PerfectConnection Golf Swing personalized advertisements?**
 
