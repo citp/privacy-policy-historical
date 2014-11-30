@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the agiledeals.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624151221id_/http%3A//agiledeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agiledeals.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130143744id_/http%3A//agiledeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Philippines Travel Blog
 
-  
 This privacy notice discloses the privacy practices for this website. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
 1.1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
