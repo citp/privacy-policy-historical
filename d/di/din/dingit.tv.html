@@ -1,0 +1,1886 @@
+<!--The following is the downloaded HTML source of the dingit.tv privacy policy that was archived on 2014-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141130192637id_/http%3A//www.dingit.tv/legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" ng-app="dingit" style=""><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Legal</title>
+        <meta name="description" itemprop="description" content="">
+        <meta name="keywords" itemprop="keywords" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="google-translate-customization" content="2c5fd63f7b3bf2e2-465f5dd4a625c185-g90495123285f5304-a">
+
+        <link rel="stylesheet" href="/js/lib/bootstrap-3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/normalize.min.css">
+        <link rel="stylesheet" href="/js/lib/jquery-ui-1.10.4/css/vader/jquery-ui-1.10.4.custom.min.css">
+        <link rel="stylesheet" href="/css/qtip.css">
+        <link rel="stylesheet" href="/css/main.css">
+
+        
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/lib/jquery-1.11.0.min.js"></script>
+        <script src="/js/lib/jquery-ui-1.10.4/js/jquery-ui-1.10.4.custom.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
+        <script src="/js/lib/ng.sortable.js"></script>
+        <script src="/js/lib/jquery.validate.min.js"></script>
+        <script src="/js/lib/jquery.zclip.min.js" type="text/javascript"></script>
+        <script src="/js/lib/bootstrap-3.2.0/js/bootstrap.min.js"></script>
+        <script src="/js/lib/fancybox-2.1.5.min.js"></script>
+        <script src="/js/lib/qtip.js"></script>
+        <script src="/js/lib/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="/js/lib/isotope.min.js"></script>
+        <script src="/js/global-config.js"></script>
+        <script src="/js/utils.js"></script>
+
+
+        <script src="/js/main.js"></script>
+        <script src="/js/ngControllers/profile.js"></script>
+        <script src="/js/ngControllers/PublicProfile.js"></script>
+        <script src="/js/ngControllers/MessagingControllers.js"></script>
+        <script src="/js/ngControllers/BCDashboardControllers.js"></script>
+        <script src="/js/ngControllers/CategoriesControllers.js"></script>
+        <script src="/js/ngControllers/SubscriptionControllers.js"></script>
+        <script src="/js/ngControllers/ChannelControllers.js"></script>
+            <style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+    <body style="">
+        <div class="body-wrap">
+            <!--[if lt IE 7]>
+                <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+            <![endif]-->
+
+            <div ng-controller="SignupBroadcaster">
+    <div style="display: none;">
+        <div id="modal-signup-broadcaster" class="modal-popup">
+            <div class="space10"></div>
+            <h3>Step 1 - Sign Up as a Broadcaster or <a class="btn-show-signup-viewer">click here to Sign Up as a Viewer</a></h3>
+
+            <div class="space20"></div>
+            <div class="status-bar hidden"></div>
+            <form id="form-signup-broadcaster">
+                <div class="row no-margin">
+                    <div class="col-lg-4">
+                        <div class="space10"></div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-broadcaster-email" name="email" class="text-field" type="text" ng-model="user.email" placeholder="Your Email">
+                        </div>
+                        <div class="space20"></div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-broadcaster-login" name="login" class="text-field" type="text" ng-model="user.login" placeholder="Your Nickname">
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="space10"></div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-broadcaster-password" name="password" class="text-field" type="password" ng-model="user.password" placeholder="Password">
+                        </div>
+                        <div class="space20"></div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-broadcaster-re-password" name="re_password" class="text-field" type="password" placeholder="Retype Password" ng-model="user.re_password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input type="hidden" id="input-signup-broadcaster-bot-surname" name="auto_surname" class="text-field">
+                        </div>
+                    </div>
+                    <div class="col-xs-4" id="recaptcha-container-broadcaster">
+                    </div>
+                </div>
+
+                <div class="space20"></div>
+                <h3>Step 2 - Broadcaster Application</h3>
+                <div class="space20"></div>
+
+
+                <div class="broadcaster-container clearfix">
+                    <div class="row no-margin">
+                        <div class="col-lg-3 pull-left">
+                            <div class="plan-container pull-left">
+                                <ul class="plans-list clearfix">
+                                    <li class="checked">
+                                        <h5 class="text-center">
+                                            Partner
+                                            <small>Partner as a Dingit Broadcaster</small>
+                                        </h5>
+                                        <p class="features text-center">
+                                            Play – Stream – Get Paid
+                                        </p>
+                                        <button class="set-plan">
+                                            Selected
+                                        </button>
+                                    </li>
+                                </ul>
+                                <div class="review text-center">
+                                    D!ngIt Support will review your application and respond within 24 hours
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+
+                            <div class="field-row required clearfix">
+                                <input class="text-field" id="form-guest-become-partner-name" type="text" name="name" placeholder="Your Name">
+                            </div>
+                            <div class="field-row required clearfix">
+                                <input class="text-field" id="form-guest-become-partner-games" type="text" name="games" placeholder="Which Games do you Broadcast?">
+                            </div>
+                            <div class="field-row required clearfix">
+                                <input class="text-field" id="form-guest-become-partner-channels" type="text" name="channels" placeholder="Your Twitch and/or Youtube links">
+                            </div>
+                            <div class="field-row required clearfix">
+                                <input class="text-field" id="form-guest-become-partner-skype" type="text" name="skype" placeholder="Your Skype Id">
+                            </div>
+                            <div class="field-row required clearfix">
+                                <input class="text-field col100" id="form-guest-become-partner-language" type="text" name="language" placeholder="Your Language">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-2">
+                            <div class="field-row required clearfix">
+                                <select name="country_iso" id="form-guest-become-partner-country" class="dropdown medium-dropdown">
+                                    <option value="" selected="selected">Country</option>
+                                </select>
+                            </div>
+                            <div class="field-row required clearfix">
+                                <select name="age" id="form-guest-become-partner-age" class="dropdown small-dropdown col100">
+                                    <option value="" selected="selected">Year of Birth</option>
+                                                                            <option value="2006">2006</option>
+                                                                            <option value="2005">2005</option>
+                                                                            <option value="2004">2004</option>
+                                                                            <option value="2003">2003</option>
+                                                                            <option value="2002">2002</option>
+                                                                            <option value="2001">2001</option>
+                                                                            <option value="2000">2000</option>
+                                                                            <option value="1999">1999</option>
+                                                                            <option value="1998">1998</option>
+                                                                            <option value="1997">1997</option>
+                                                                            <option value="1996">1996</option>
+                                                                            <option value="1995">1995</option>
+                                                                            <option value="1994">1994</option>
+                                                                            <option value="1993">1993</option>
+                                                                            <option value="1992">1992</option>
+                                                                            <option value="1991">1991</option>
+                                                                            <option value="1990">1990</option>
+                                                                            <option value="1989">1989</option>
+                                                                            <option value="1988">1988</option>
+                                                                            <option value="1987">1987</option>
+                                                                            <option value="1986">1986</option>
+                                                                            <option value="1985">1985</option>
+                                                                            <option value="1984">1984</option>
+                                                                            <option value="1983">1983</option>
+                                                                            <option value="1982">1982</option>
+                                                                            <option value="1981">1981</option>
+                                                                            <option value="1980">1980</option>
+                                                                            <option value="1979">1979</option>
+                                                                            <option value="1978">1978</option>
+                                                                            <option value="1977">1977</option>
+                                                                            <option value="1976">1976</option>
+                                                                            <option value="1975">1975</option>
+                                                                            <option value="1974">1974</option>
+                                                                            <option value="1973">1973</option>
+                                                                            <option value="1972">1972</option>
+                                                                            <option value="1971">1971</option>
+                                                                            <option value="1970">1970</option>
+                                                                            <option value="1969">1969</option>
+                                                                            <option value="1968">1968</option>
+                                                                            <option value="1967">1967</option>
+                                                                            <option value="1966">1966</option>
+                                                                            <option value="1965">1965</option>
+                                                                            <option value="1964">1964</option>
+                                                                            <option value="1963">1963</option>
+                                                                            <option value="1962">1962</option>
+                                                                            <option value="1961">1961</option>
+                                                                            <option value="1960">1960</option>
+                                                                            <option value="1959">1959</option>
+                                                                            <option value="1958">1958</option>
+                                                                            <option value="1957">1957</option>
+                                                                            <option value="1956">1956</option>
+                                                                            <option value="1955">1955</option>
+                                                                            <option value="1954">1954</option>
+                                                                            <option value="1953">1953</option>
+                                                                            <option value="1952">1952</option>
+                                                                            <option value="1951">1951</option>
+                                                                            <option value="1950">1950</option>
+                                                                            <option value="1949">1949</option>
+                                                                            <option value="1948">1948</option>
+                                                                            <option value="1947">1947</option>
+                                                                            <option value="1946">1946</option>
+                                                                            <option value="1945">1945</option>
+                                                                            <option value="1944">1944</option>
+                                                                            <option value="1943">1943</option>
+                                                                            <option value="1942">1942</option>
+                                                                            <option value="1941">1941</option>
+                                                                            <option value="1940">1940</option>
+                                                                    </select>
+                            </div>
+                            <div class="field-row required clearfix">
+                                <select name="sex" id="form-guest-become-partner-sex" class="dropdown small-dropdown col100">
+                                    <option value="" selected="selected">Sex</option>
+                                    <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                </select>
+                            </div>
+                            <div class="field-row required clearfix">
+                                <select name="per_week" id="form-guest-become-partner-per-week" class="dropdown small-dropdown col100">
+                                    <option value="" selected="selected">Broadcasts per week</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                    <option value="7">7</option>
+                                </select>
+                            </div>
+                            <div class="field-row required clearfix">
+                                <select name="followers" id="form-guest-become-partner-followers" class="dropdown small-dropdown col100">
+                                    <option value="" selected="selected">Followers</option>
+                                    <option value="0-500">0-500</option>
+                                    <option value="500+">500+</option>
+                                    <option value="1000+">1000+</option>
+                                    <option value="2000+">2000+</option>
+                                    <option value="5000+">5000+</option>
+                                    <option value="10000+">10K+</option>
+                                    <option value="20000+">20K+</option>
+                                    <option value="40000+">40K+</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-lg-2">
+                            <div class="field-row required clearfix">
+                                <input class="text-field" id="form-guest-become-partner-speed" type="text" name="speed" placeholder="Your Upload Speed">
+                            </div>
+                            <div class="field-row required clearfix">
+                                <input class="text-field" id="form-guest-become-partner-processor" type="text" name="processor" placeholder="PC Processor">
+                            </div>
+                            <div class="field-row required clearfix">
+                                <input class="text-field" id="form-guest-become-partner-graphics" type="text" name="graphics" placeholder="PC Graphics Card">
+                            </div>
+                            <div class="field-row required clearfix">
+                                <input class="text-field" id="form-guest-become-partner-ram" type="text" name="ram" placeholder="Amount of RAM">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </form>
+            <div class="space20"></div>
+            <div class="row no-margin">
+                <div class="col-lg-12">
+                    <button class="btn-large primary submit pull-right" ng-click="submit()">Submit
+                    </button>
+                </div>
+            </div>
+            <div class="space20"></div>
+        </div>
+    </div>
+</div><div ng-controller="SignupViewer">
+    <div style="display: none;">
+        <div id="modal-signup-viewer" class="modal-popup">
+            <div class="space10"></div>
+            <h3>Step 1 - Sign Up as a Viewer or <a class="btn-show-signup-broadcaster">click here to Sign Up as a Broadcaster</a></h3>
+
+            <div class="space20"></div>
+            <div class="status-bar hidden"></div>
+            <form id="form-signup-viewer">
+                <div class="row no-margin">
+                    <div class="col-xs-4">
+                        <div class="space10"></div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-email" name="email" class="text-field" type="text" ng-model="user.email" placeholder="Your Email">
+                        </div>
+                        <div class="space20"></div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-login" name="login" class="text-field" type="text" ng-model="user.login" placeholder="Your Nickname">
+                        </div>
+                    </div>
+                    <div class="col-xs-3">
+                        <div class="space10"></div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-password" name="password" class="text-field" type="password" ng-model="user.password" placeholder="Password">
+                        </div>
+                        <div class="space20"></div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-re-password" name="re_password" class="text-field" type="password" placeholder="Retype Password" ng-model="user.re_password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input type="hidden" id="input-signup-viewer-bot-surname" name="auto_surname" class="text-field">
+                        </div>
+                    </div>
+                    <div class="col-xs-5" id="recaptcha-container">
+                        <div class="recaptcha-block">
+                            <script type="text/javascript">
+//<![CDATA[
+var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
+//]]>
+</script><div class="recaptcha"><script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k=6LfWGv4SAAAAALW7mzXsLlI3mFgPZYq3rGVzkYgV"></script><noscript>	<iframe src="https://www.google.com/recaptcha/api/noscript?k=6LfWGv4SAAAAALW7mzXsLlI3mFgPZYq3rGVzkYgV" height="300" width="500" frameborder="0"></iframe><br/>	<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>  <input type="hidden" name="recaptcha_response_field" value="manual_challenge"/></noscript></div>                            <div class="status-bar status-err" style="display: none;">
+                                Captcha entered incorrectly. Please retry.
+                            </div>
+                            <input type="hidden" name="recaptcha_challenge_field" id="recaptcha_challenge_field_holder">
+                            <input type="hidden" name="recaptcha_response_field" id="recaptcha_response_field_holder">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="space20"></div>
+                <h3>Step 2 - Subscribe</h3>
+                <div class="space20"></div>
+
+
+                <div class="row no-margin">
+                    <div class="plans-list-container clearfix">
+                        <h4 class="signup-steps text-center">Choose your Membership</h4>
+                        <ul class="plans-list clearfix">
+                            <li ng-class="{'checked': isPlanSet(dingit.config.products.basic)}">
+                                <h5 class="text-center">
+                                    Free Viewer
+                                    <small>FREEMIUM</small>
+                                </h5>
+                                <ul class="key-features">
+                                    <li>View &amp; Search</li>
+                                    <li>Follow &amp; Share</li>
+                                    <li>View Ads/Commercials</li>
+                                    <li>Low &amp; High Quality Bandwidth</li>
+                                    <li>Channel Chat</li>
+                                </ul>
+                                <button class="set-plan" ng-click="setPlan(dingit.config.products.basic)">
+                                    {{selectedPlan(dingit.config.products.basic)}}</button>
+                            </li>
+                            <li ng-class="{'checked': isPlanSet(dingit.config.products.hd)}">
+                                <h5 class="text-center">
+                                    Premium Viewer
+                                    <small><strong>$0.99</strong> / month</small>
+                                </h5>
+                                <ul class="key-features">
+                                    <li>Enhanced HD, Highest Quality Bandwidth</li>
+                                    <li>View &amp; Search</li>
+                                    <li>Follow &amp; Share</li>
+                                    <li>View Ads/Commercials</li>
+                                    <li>Channel Chat</li>
+                                </ul>
+                                <button class="set-plan" ng-click="setPlan(dingit.config.products.hd)">
+                                    {{selectedPlan(dingit.config.products.hd)}}</button>
+                            </li>
+                            <li ng-class="{'checked': isPlanSet(dingit.config.products.pro), 'best-choice': true}">
+                                <h5 class="text-center">
+                                    Go Pro
+                                    <small><span><strong>$9.99</strong>/month or <strong>$99</strong>/year</span></small>
+                                </h5>
+                                <ul class="key-features">
+                                    <li>Ad Free: Site Wide</li>
+                                    <li>Premium Viewer: Enhanced HD</li>
+                                    <li>Cl!ck Pro Included</li>
+                                    <li>Custom Emoticons</li>
+                                    <li>Profile Badges</li>
+                                    <li>Extended Chat Colors</li>
+                                </ul>
+                                <button class="set-plan" ng-click="setPlan(dingit.config.products.pro)">
+                                    {{selectedPlan(dingit.config.products.pro)}}</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </form>
+            <div class="space20"></div>
+            <div class="row no-margin">
+                <div class="col-lg-12">
+                    <button class="btn-large primary submit pull-right" ng-click="submit()">Submit
+                    </button>
+                </div>
+            </div>
+            <div class="space20"></div>
+        </div>
+    </div>
+</div><div ng-controller="SignupViewerGoPro">
+    <div style="display: none;">
+        <div id="modal-signup-viewer-go-pro" class="modal-popup">
+            <div class="space10"></div>
+            <h3>Go Pro!</h3>
+
+            <div class="space40"></div>
+            <div class="status-bar hidden"></div>
+            <form id="form-signup-viewer-go-pro">
+                <div class="row no-margin">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                        <div class="clearfix">
+                            <ul class="plans-list no-padding clearfix">
+                                <li class="checked">
+                                    <h5 class="text-center">
+                                        Go Pro
+                                        <small><span><strong>$9.99</strong>/month or <strong>$99</strong>/year</span></small>
+                                    </h5>
+                                    <ul class="key-features">
+                                        <li>Ad Free: Site Wide</li>
+                                        <li>Premium Viewer: Enhanced HD</li>
+                                        <li>Cl!ck Pro Included</li>
+                                        <li>Custom Emoticons</li>
+                                        <li>Profile Badges</li>
+                                        <li>Extended Chat Colors</li>
+                                    </ul>
+                                    <button class="set-plan">
+                                        Selected
+                                    </button>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-7 col-md-7 col-lg-7 col-lg-offset-1">
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-go-pro-email" name="email" class="text-field" type="text" ng-model="user.email" placeholder="Your Email">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-go-pro-login" name="login" class="text-field" type="text" ng-model="user.login" placeholder="Your Nickname">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-go-pro-password" name="password" class="text-field" type="password" ng-model="user.password" placeholder="Password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-go-pro-re-password" name="re_password" class="text-field" type="password" placeholder="Retype Password" ng-model="user.re_password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input type="hidden" id="input-signup-viewer-go-pro-bot-surname" name="auto_surname" class="text-field">
+                        </div>
+                        <div class="field-row clearfix" id="recaptcha-container-go-pro">
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <div class="space20"></div>
+            <div class="row no-margin">
+                <div class="col-lg-12">
+                    <button class="btn-large primary submit pull-right" ng-click="submit()">Submit
+                    </button>
+                </div>
+            </div>
+            <div class="space20"></div>
+        </div>
+    </div>
+</div><div ng-controller="SignupViewerKBS">
+    <a class="btn-show-signup-viewer-kbs hidden"></a>
+    <div style="display: none;">
+        <div id="modal-signup-viewer-kbs" class="modal-popup">
+            <div class="space10"></div>
+            <h3>Get Cl!ck Pro Plug-in!</h3>
+
+            <div class="space40"></div>
+            <div class="status-bar hidden"></div>
+            <form id="form-signup-viewer-kbs">
+                <div class="row no-margin">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                        <div class="clearfix">
+                            <ul class="plans-list no-padding clearfix">
+                                <li class="checked">
+                                    <h5 class="text-center">
+                                        Cl!ck Pro
+                                        <small><strong>$5.99 One-time</strong></small>
+                                    </h5>
+                                    <ul class="key-features">
+                                        <li>Keyboard Button Simulation</li>
+                                        <li>View Gamer's Real Time Button &amp; Mouse Clicks</li>
+                                        <li>Move Image Anywhere</li>
+                                        <li>Payment Shared with Broadcaster</li>
+                                    </ul>
+                                    <button class="set-plan">
+                                        Selected
+                                    </button>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-7 col-md-7 col-lg-7 col-lg-offset-1">
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-kbs-email" name="email" class="text-field" type="text" ng-model="user.email" placeholder="Your Email">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-kbs-login" name="login" class="text-field" type="text" ng-model="user.login" placeholder="Your Nickname">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-kbs-password" name="password" class="text-field" type="password" ng-model="user.password" placeholder="Password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-kbs-re-password" name="re_password" class="text-field" type="password" placeholder="Retype Password" ng-model="user.re_password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input type="hidden" id="input-signup-viewer-kbs-bot-surname" name="auto_surname" class="text-field">
+                        </div>
+                        <div class="field-row clearfix" id="recaptcha-container-kbs">
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <div class="space20"></div>
+            <div class="row no-margin">
+                <div class="col-lg-12">
+                    <button class="btn-large primary submit pull-right" ng-click="submit()">Submit
+                    </button>
+                </div>
+            </div>
+            <div class="space20"></div>
+        </div>
+    </div>
+</div><div ng-controller="SignupViewerChannel">
+    <a class="btn-show-signup-viewer-channel hidden"></a>
+    <div style="display: none;">
+        <div id="modal-signup-viewer-channel" class="modal-popup">
+            <div class="space10"></div>
+            <h3>Subscribe to The Channel!</h3>
+
+            <div class="space40"></div>
+            <div class="status-bar hidden"></div>
+            <form id="form-signup-viewer-channel">
+                <div class="row no-margin">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                        <div class="clearfix">
+                            <ul class="plans-list no-padding clearfix">
+                                <li class="plans-list-channel checked">
+                                    <h5 class="text-center">
+                                        Channel Subscription
+                                        <small><strong>$4.99</strong> / month</small>
+                                    </h5>
+                                    <input id="signup-viewer-channel-subscription-nickname" name="broadcaster_nickname" class="modal-plan-input required" type="text" placeholder="Broadcaster's nickname">
+                                    <ul class="key-features">
+                                        <li>Directly Support the Broadcaster</li>
+                                        <li>Ad Free: This Channel Only</li>
+                                        <li>Premium Viewer: Enhanced HD</li>
+                                        <li>Subscriber Badge</li>
+                                        <li>Chat During Subscriber-Only Mode</li>
+                                        <li>Emoticons</li>
+                                        <li>Broadcaster Perks</li>
+                                    </ul>
+                                    <button class="set-plan">
+                                        Selected
+                                    </button>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-7 col-md-7 col-lg-7 col-lg-offset-1">
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-channel-email" name="email" class="text-field" type="text" ng-model="user.email" placeholder="Your Email">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-channel-login" name="login" class="text-field" type="text" ng-model="user.login" placeholder="Your Nickname">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-channel-password" name="password" class="text-field" type="password" ng-model="user.password" placeholder="Password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-channel-re-password" name="re_password" class="text-field" type="password" placeholder="Retype Password" ng-model="user.re_password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input type="hidden" id="input-signup-viewer-channel-bot-surname" name="auto_surname" class="text-field">
+                        </div>
+                        <div class="field-row clearfix" id="recaptcha-container-channel">
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <div class="space20"></div>
+            <div class="row no-margin">
+                <div class="col-lg-12">
+                    <button class="btn-large primary submit pull-right" ng-click="submit()">Submit
+                    </button>
+                </div>
+            </div>
+            <div class="space20"></div>
+        </div>
+    </div>
+</div><div ng-controller="SignupViewerChannelEsport">
+    <a class="btn-show-signup-viewer-channel-esport hidden"></a>
+    <div style="display: none;">
+        <div id="modal-signup-viewer-channel-esport" class="modal-popup">
+            <div class="space10"></div>
+            <h3>Subscribe to The ESport Channel!</h3>
+
+            <div class="space40"></div>
+            <div class="status-bar hidden"></div>
+            <form id="form-signup-viewer-channel-esport">
+                <div class="row no-margin">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                        <div class="clearfix">
+                            <ul class="plans-list no-padding clearfix">
+                                <li class="plans-list-channel checked">
+                                    <h5 class="text-center">
+                                        eSport Subscription
+                                        <small><strong>$4.99</strong> / month</small>
+                                    </h5>
+                                    <input id="signup-viewer-channel-esport-subscription-nickname" name="broadcaster_nickname" class="modal-plan-input required" type="text" placeholder="Broadcaster's nickname">
+                                    <ul class="key-features">
+                                        <li>Directly Support the Broadcaster</li>
+                                        <li>Ad Free: This Channel Only</li>
+                                        <li>Premium Viewer: Enhanced HD</li>
+                                        <li>Subscriber Badge</li>
+                                        <li>Chat During Subscriber-Only Mode</li>
+                                        <li>Emoticons</li>
+                                        <li>Broadcaster Perks</li>
+                                    </ul>
+                                    <button class="set-plan">
+                                        Selected
+                                    </button>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-7 col-md-7 col-lg-7 col-lg-offset-1">
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-channel-esport-email" name="email" class="text-field" type="text" ng-model="user.email" placeholder="Your Email">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-channel-esport-login" name="login" class="text-field" type="text" ng-model="user.login" placeholder="Your Nickname">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-channel-esport-password" name="password" class="text-field" type="password" ng-model="user.password" placeholder="Password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input id="input-signup-viewer-channel-esport-re-password" name="re_password" class="text-field" type="password" placeholder="Retype Password" ng-model="user.re_password">
+                        </div>
+                        <div class="field-row clearfix">
+                            <input type="hidden" id="input-signup-viewer-channel-esport-bot-surname" name="auto_surname" class="text-field">
+                        </div>
+                        <div class="field-row clearfix" id="recaptcha-container-esport">
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <div class="space20"></div>
+            <div class="row no-margin">
+                <div class="col-lg-12">
+                    <button class="btn-large primary submit pull-right" ng-click="submit()">Submit
+                    </button>
+                </div>
+            </div>
+            <div class="space20"></div>
+        </div>
+    </div>
+</div>
+<div ng-controller="GoPro as signup">
+    <div style="display: none;">
+        <div id="modal-go-pro" class="modal-popup">
+            <h3 class="no-padding-btm">Way to D!ngIt</h3>
+            <div class="status-bar hidden"></div>
+            <div class="space20"></div>
+
+            <div class="clearfix">
+                <ul class="plans-list clearfix">
+                    <li ng-class="{'checked': signup.isPlanSet(4)}">
+                        <h5 class="text-center">
+                            Go Pro
+                            <small><span><strong>$9.99</strong>/month or <strong>$99</strong>/year</span></small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Ad Free: Site Wide</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Cl!ck Pro Included</li>
+                            <li>Custom Emoticons</li>
+                            <li>Profile Badges</li>
+                            <li>Extended Chat Colors</li>
+                        </ul>
+                        <button class="set-plan" ng-click="signup.setPro(4)">{{signup.selectedPlan(4)}}</button>
+                    </li>
+                </ul>
+            </div>
+
+            <button class="btn-large primary nonecase submit pull-right btn-store-submit" type="submit" name="password" ng-click="signup.submitInfo()">Submit
+            </button>
+        </div>
+    </div>
+</div><div ng-controller="ChannelSubscription as signup">
+    <input id="btn-show-subscribe" type="hidden">
+
+    <div style="display: none;">
+        <div id="modal-subscribe" class="modal-popup">
+            <h3 class="no-padding-btm">Way to D!ngIt</h3>
+            <div class="status-bar hidden"></div>
+            <div class="space20"></div>
+
+            <div class="clearfix">
+                <ul class="plans-list clearfix">
+                    <li ng-class="{'plans-list-channel checked': signup.isSubscriptionSet(5)}">
+                        <h5 class="text-center">
+                            Channel Subscription
+                            <small><strong>$4.99</strong> / month</small>
+                        </h5>
+                        <form id="standalone-channel-subscription-form">
+                            <input id="standalone-broadcaster-nickname" name="broadcaster_nickname" class="modal-plan-input required" type="text" placeholder="Broadcaster's nickname" text="">
+
+                        </form>
+                        <ul class="key-features">
+                            <li>Directly Support the Broadcaster</li>
+                            <li>Ad Free: This Channel Only</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Subscriber Badge</li>
+                            <li>Chat During Subscriber-Only Mode</li>
+                            <li>Emoticons</li>
+                            <li>Broadcaster Perks</li>
+                        </ul>
+                        <button class="set-plan">
+                            {{signup.selectedPlan(5)}}
+                        </button>
+                    </li>
+                </ul>
+            </div>
+
+            <button class="btn-large primary nonecase submit pull-right btn-store-submit" type="submit" name="password" ng-click="signup.submitInfo()">Submit
+            </button>
+        </div>
+    </div>
+</div><div ng-controller="ESportSubscription as signup">
+    <input id="btn-show-esport-subscribe" type="hidden">
+
+    <div style="display: none;">
+        <div id="modal-esport-subscribe" class="modal-popup">
+            <h3 class="no-padding-btm">Way to D!ngIt</h3>
+            <div class="status-bar hidden"></div>
+            <div class="space20"></div>
+
+            <div class="clearfix">
+                <ul class="plans-list clearfix">
+                    <li ng-class="{'plans-list-channel checked': signup.isSubscriptionSet(8)}">
+                        <h5 class="text-center">
+                            Esport Subscription
+                            <small><strong>$4.99</strong> / month</small>
+                        </h5>
+                        <form id="standalone-esport-subscription-form">
+                            <input id="standalone-esport-broadcaster-nickname" name="broadcaster_nickname" class="modal-plan-input required" type="text" placeholder="Broadcaster's nickname" value="">
+
+                        </form>
+                        <ul class="key-features">
+                            <li>Directly Support the Broadcaster</li>
+                            <li>Ad Free: This Channel Only</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Subscriber Badge</li>
+                            <li>Chat During Subscriber-Only Mode</li>
+                            <li>Emoticons</li>
+                            <li>Broadcaster Perks</li>
+                        </ul>
+                        <button class="set-plan">
+                            {{signup.selectedPlan(8)}}
+                        </button>
+                    </li>
+                </ul>
+            </div>
+
+            <button class="btn-large primary nonecase submit pull-right btn-store-submit" type="submit" name="password" ng-click="signup.submitInfo()">Submit
+            </button>
+        </div>
+    </div>
+</div><div ng-controller="KBSSubscription as signup">
+    <input id="btn-show-guest-kbs" type="hidden">
+    <input class="btn-show-kbs" type="hidden">
+
+    <div style="display: none;">
+        <div id="modal-kbs" class="modal-popup signup-step2">
+            <h3 class="no-padding-btm">Way to D!ngIt</h3>
+            <div class="status-bar hidden"></div>
+            <div class="space20"></div>
+
+            <div class="clearfix">
+                <ul class="plans-list clearfix">
+                    <li ng-class="{'checked': signup.isPluginSet(3)}">
+                        <h5 class="text-center">
+                            Cl!ck Pro
+                            <small><strong>$5.99</strong></small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Keyboard Button Simulation</li>
+                            <li>View Gamer's Real Time Button &amp; Mouse Clicks</li>
+                            <li>Move Image Anywhere</li>
+                            <li>Payment Shared with Broadcaster</li>
+                        </ul>
+                        <button class="set-plan" ng-click="signup.setSimPlugin(3)">{{signup.selectedPlugin(3)}}</button>
+                    </li>
+                </ul>
+            </div>
+
+            <button class="btn-large primary nonecase submit pull-right btn-store-submit" type="submit" name="password" ng-click="signup.submitInfo()">Submit
+            </button>
+        </div>
+    </div>
+</div><div ng-controller="SignUpStep2 as signup">
+    <div style="display: none;">
+        <div id="signup-step-2" class="modal-popup signup-step2">
+            <h3 class="no-padding-btm">Way to D!ngIt</h3>
+            <div class="space20"></div>
+            <div class="status-bar hidden"></div>
+
+            <div class="plans-list-container clearfix">
+                <h4 class="signup-steps text-center">Step 2 - Choose your Membership</h4>
+                <ul class="plans-list clearfix">
+                    <li ng-class="{'checked': signup.isPlanSet(1)}">
+                        <h5 class="text-center">
+                            Free Viewer
+                            <small>FREEMIUM</small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>View &amp; Search</li>
+                            <li>Follow &amp; Share</li>
+                            <li>View Ads/Commercials</li>
+                            <li>Low &amp; High Quality Bandwidth</li>
+                            <li>Channel Chat</li>
+                        </ul>
+                                                    <div class="text-center label-membership">Current Subscription</div>
+                                            </li>
+                    <li ng-class="{'checked': signup.isPlanSet(2)}">
+                        <h5 class="text-center">
+                            Premium Viewer
+                            <small><strong>$0.99</strong> / month</small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Enhanced HD, Highest Quality Bandwidth</li>
+                            <li>View &amp; Search</li>
+                            <li>Follow &amp; Share</li>
+                            <li>View Ads/Commercials</li>
+                            <li>Channel Chat</li>
+                        </ul>
+                                                    <button class="set-plan" ng-click="signup.setHD()">{{signup.selectedPlan(2)}}</button>
+                                            </li>
+                    <li ng-class="{'checked': signup.isPlanSet(4), 'best-choice': true}">
+                        <h5 class="text-center">
+                            Go Pro
+                            <small><span><strong>$9.99</strong>/month or <strong>$99</strong>/year</span></small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Ad Free: Site Wide</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Cl!ck Pro Included</li>
+                            <li>Custom Emoticons</li>
+                            <li>Profile Badges</li>
+                            <li>Extended Chat Colors</li>
+                        </ul>
+                                                    <button class="set-plan" ng-click="signup.setPro(4)">{{signup.selectedPlan(4)}}</button>
+                                            </li>
+                </ul>
+            </div>
+
+            <div class="space20"></div>
+            <div class="submit-row pull-right">
+                <div class="submit-right">
+                    <button class="btn-large primary nonecase submit" type="submit" ng-click="signup.submitInfo()">Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div ng-controller="Partner as signup">
+    <div style="display: none;">
+        <div id="modal-become-partner" class="modal-popup">
+            <h3 class="no-padding-btm">Way to D!ngIt</h3>
+            <div class="status-bar hidden"></div>
+            <div class="space20"></div>
+
+            <div class="broadcaster-container clearfix padding-20">
+                <h4 class="signup-steps text-center">Broadcaster Application</h4>
+
+                <div class="plan-container pull-left">
+                    <ul class="plans-list clearfix">
+                        <li class="checked">
+                            <h5 class="text-center">
+                                Partner
+                                <small>Partner as a Dingit Broadcaster</small>
+                            </h5>
+                            <p class="features text-center">
+                                Play – Stream – Get Paid
+                            </p>
+                            <button class="set-plan">
+                                Selected
+                            </button>
+                        </li>
+                    </ul>
+                    <div class="review text-center">
+                        D!ngIt Support will review your application and respond within 24 hours
+                    </div>
+                </div>
+                <div class="broadcast-form-container pull-left">
+                    <form id="signup-form-step-2" class="broadcast-form clearfix">
+
+                        <div class="broadcaster-container clearfix">
+                            <div class="row no-margin">
+
+                                <div class="col-lg-6">
+
+                                    <div class="field-row required clearfix">
+                                        <input class="text-field" id="form-become-partner-name" type="text" name="name" placeholder="Your Name">
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <input class="text-field" id="form-become-partner-games" type="text" name="games" placeholder="Which Games do you Broadcast?">
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <input class="text-field" id="form-become-partner-channels" type="text" name="channels" placeholder="Your Twitch and/or Youtube links">
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <input class="text-field" id="form-become-partner-skype" type="text" name="skype" placeholder="Your Skype Id">
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <input class="text-field col100" id="form-become-partner-language" type="text" name="language" placeholder="Your Language">
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3">
+                                    <div class="field-row required clearfix">
+                                        <select name="country_iso" id="form-become-partner-country" class="dropdown medium-dropdown">
+                                            <option value="" selected="selected">Country</option>
+                                        </select>
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <select name="age" id="form-become-partner-age" class="dropdown small-dropdown col100">
+                                            <option value="" selected="selected">Year of Birth</option>
+                                                                                            <option value="2006">2006</option>
+                                                                                            <option value="2005">2005</option>
+                                                                                            <option value="2004">2004</option>
+                                                                                            <option value="2003">2003</option>
+                                                                                            <option value="2002">2002</option>
+                                                                                            <option value="2001">2001</option>
+                                                                                            <option value="2000">2000</option>
+                                                                                            <option value="1999">1999</option>
+                                                                                            <option value="1998">1998</option>
+                                                                                            <option value="1997">1997</option>
+                                                                                            <option value="1996">1996</option>
+                                                                                            <option value="1995">1995</option>
+                                                                                            <option value="1994">1994</option>
+                                                                                            <option value="1993">1993</option>
+                                                                                            <option value="1992">1992</option>
+                                                                                            <option value="1991">1991</option>
+                                                                                            <option value="1990">1990</option>
+                                                                                            <option value="1989">1989</option>
+                                                                                            <option value="1988">1988</option>
+                                                                                            <option value="1987">1987</option>
+                                                                                            <option value="1986">1986</option>
+                                                                                            <option value="1985">1985</option>
+                                                                                            <option value="1984">1984</option>
+                                                                                            <option value="1983">1983</option>
+                                                                                            <option value="1982">1982</option>
+                                                                                            <option value="1981">1981</option>
+                                                                                            <option value="1980">1980</option>
+                                                                                            <option value="1979">1979</option>
+                                                                                            <option value="1978">1978</option>
+                                                                                            <option value="1977">1977</option>
+                                                                                            <option value="1976">1976</option>
+                                                                                            <option value="1975">1975</option>
+                                                                                            <option value="1974">1974</option>
+                                                                                            <option value="1973">1973</option>
+                                                                                            <option value="1972">1972</option>
+                                                                                            <option value="1971">1971</option>
+                                                                                            <option value="1970">1970</option>
+                                                                                            <option value="1969">1969</option>
+                                                                                            <option value="1968">1968</option>
+                                                                                            <option value="1967">1967</option>
+                                                                                            <option value="1966">1966</option>
+                                                                                            <option value="1965">1965</option>
+                                                                                            <option value="1964">1964</option>
+                                                                                            <option value="1963">1963</option>
+                                                                                            <option value="1962">1962</option>
+                                                                                            <option value="1961">1961</option>
+                                                                                            <option value="1960">1960</option>
+                                                                                            <option value="1959">1959</option>
+                                                                                            <option value="1958">1958</option>
+                                                                                            <option value="1957">1957</option>
+                                                                                            <option value="1956">1956</option>
+                                                                                            <option value="1955">1955</option>
+                                                                                            <option value="1954">1954</option>
+                                                                                            <option value="1953">1953</option>
+                                                                                            <option value="1952">1952</option>
+                                                                                            <option value="1951">1951</option>
+                                                                                            <option value="1950">1950</option>
+                                                                                            <option value="1949">1949</option>
+                                                                                            <option value="1948">1948</option>
+                                                                                            <option value="1947">1947</option>
+                                                                                            <option value="1946">1946</option>
+                                                                                            <option value="1945">1945</option>
+                                                                                            <option value="1944">1944</option>
+                                                                                            <option value="1943">1943</option>
+                                                                                            <option value="1942">1942</option>
+                                                                                            <option value="1941">1941</option>
+                                                                                            <option value="1940">1940</option>
+                                                                                    </select>
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <select name="sex" id="form-become-partner-sex" class="dropdown small-dropdown col100">
+                                            <option value="" selected="selected">Sex</option>
+                                            <option value="Male">Male</option>
+                                            <option value="Female">Female</option>
+                                        </select>
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <select name="per_week" id="form-become-partner-per-week" class="dropdown small-dropdown col100">
+                                            <option value="" selected="selected">Broadcasts per week</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                            <option value="6">6</option>
+                                            <option value="7">7</option>
+                                        </select>
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <select name="followers" id="form-become-partner-followers" class="dropdown small-dropdown col100">
+                                            <option value="" selected="selected">Followers</option>
+                                            <option value="0-500">0-500</option>
+                                            <option value="500+">500+</option>
+                                            <option value="1000+">1000+</option>
+                                            <option value="2000+">2000+</option>
+                                            <option value="5000+">5000+</option>
+                                            <option value="10000+">10K+</option>
+                                            <option value="20000+">20K+</option>
+                                            <option value="40000+">40K+</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="field-row required clearfix">
+                                        <input class="text-field" id="form-become-partner-speed" type="text" name="speed" placeholder="Your Upload Speed">
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <input class="text-field" id="form-become-partner-processor" type="text" name="processor" placeholder="PC Processor">
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <input class="text-field" id="form-become-partner-graphics" type="text" name="graphics" placeholder="PC Graphics Card">
+                                    </div>
+                                    <div class="field-row required clearfix">
+                                        <input class="text-field" id="form-become-partner-ram" type="text" name="ram" placeholder="Amount of RAM">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="submit-row pull-right">
+                        <div class="submit-right">
+                            <button class="btn-large primary nonecase submit" type="submit" name="password" ng-click="signup.submitInfo()">Submit
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div><div ng-controller="Partner as signup">
+    <a style="display: none;" class="btn-show-partner-confirmation"></a>
+
+    <div style="display: none;">
+        <div id="modal-partner-confirmation" class="modal-popup">
+            <h3 class="no-padding-btm">Application Submitted</h3>
+
+            <div class="space40"></div>
+            <div class="clearfix">
+                <div class="text-center font-20 font-arial">
+                    Thank you for your application. We will process your application within the next two to three
+                    business days (usually sooner) and notify you when you've been accepted. In the meantime, please
+                    click <a href="/user/subscriptions?firstLogin=1">HERE</a> to complete your viewer profile so you
+                    can browse other channels on D!ngIt.
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div>
+    <a style="display: none;" class="btn-prompt-sing-in"></a>
+    <div style="display: none;">
+        <div id="modal-prompt-sign-in" class="modal-popup">
+            <h3 class="no-padding-btm">Sign In</h3>
+
+            <div class="space60"></div>
+            <div class="clearfix">
+                <div class="text-center font-20 font-arial">
+                    Thank you for using D!ngIt, please &nbsp; <a class="login-button">Sign In</a> &nbsp;
+                    or &nbsp; <a class="btn-show-signup-viewer">Sign Up</a> &nbsp; to continue.
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div>
+    <a style="display: none;" class="btn-prompt-mail-confirm"></a>
+    <div style="display: none;">
+        <div id="modal-prompt-mail-confirm" class="modal-popup">
+            <h3 class="no-padding-btm">Mail Confirmation Required</h3>
+
+            <div class="space60"></div>
+            <div class="clearfix">
+                <div class="text-center font-20 font-arial">
+                    Thank you for using D!ngIt, please confirm your email by clicking the link we've sent
+                    to your email provided on sign up.
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div ng-controller="SignUpStep2 as signup">
+    <a style="display: none;" class="btn-prompt-subscribe"></a>
+
+    <div style="display: none;">
+        <div id="modal-prompt-subscribe" class="modal-popup signup-step2">
+            <h3 class="no-padding-btm">Subscribe to Continue</h3>
+
+            <div class="plans-list-container clearfix">
+                <h4 class="signup-steps text-center">Choose your Membership</h4>
+                <ul class="plans-list clearfix">
+                    <li ng-class="{'checked': signup.isPlanSet(1)}">
+                        <h5 class="text-center">
+                            Free Viewer
+                            <small>FREEMIUM</small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>View &amp; Search</li>
+                            <li>Follow &amp; Share</li>
+                            <li>View Ads/Commercials</li>
+                            <li>Low &amp; High Quality Bandwidth</li>
+                            <li>Channel Chat</li>
+                        </ul>
+                                                    <div class="text-center label-membership">Current Subscription</div>
+                                            </li>
+                    <li ng-class="{'checked': signup.isPlanSet(2)}">
+                        <h5 class="text-center">
+                            Premium Viewer<br>(Source HD)
+                            <small><strong>$0.99</strong> / month</small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Enhanced HD, Highest Quality Bandwidth</li>
+                            <li>View &amp; Search</li>
+                            <li>Follow &amp; Share</li>
+                            <li>View Ads/Commercials</li>
+                            <li>Channel Chat</li>
+                        </ul>
+                                                    <button class="set-plan" ng-click="signup.setHD()">{{signup.selectedPlan(2)}}</button>
+                                            </li>
+                    <li ng-class="{'checked': signup.isPlanSet(4), 'best-choice': true}">
+                        <h5 class="text-center">
+                            Go Pro
+                            <small><span class="highlight"><strong>$9.99</strong>/month</span> or <strong>$99</strong>/year</small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Ad Free: Site Wide</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Cl!ck Pro Included</li>
+                            <li>Custom Emoticons</li>
+                            <li>Profile Badges</li>
+                            <li>Extended Chat Colors</li>
+                        </ul>
+                                                    <button class="set-plan" ng-click="signup.setPro(4)">{{signup.selectedPlan(4)}}</button>
+                                            </li>
+                </ul>
+            </div>
+
+            <div class="space40"></div>
+            <div class="submit-row pull-right">
+                <div class="submit-right">
+                    <button class="btn-large primary nonecase submit" type="submit" ng-click="signup.submitInfo()">Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div ng-controller="PromptSubscribeGrey">
+    <a style="display: none;" id="btn-prompt-subscribe-grey"></a>
+
+    <div style="display: none;">
+        <div id="modal-prompt-subscribe-grey" class="modal-popup signup-step2">
+            <h3 class="no-padding-btm">Subscribe to Continue</h3>
+            <div class="space20"></div>
+            <p class="font-arial font-16 text-center">
+                DingIt relies on Advertising income to pay for your bandwidth.
+                Advertising is not supported in your location.
+                Please choose one of the following plans to continue.
+            </p>
+            <div class="space20"></div>
+
+            <div class="plans-list-container clearfix">
+                <form id="form-prompt-subscribe-grey">
+                    <h4 class="signup-steps text-center">Choose your Membership</h4>
+                    <ul class="plans-list clearfix">
+                    <li ng-class="{'checked': isPlanSet(dingit.config.products.hd), 'plans-list-channel': true}">
+                        <h5 class="text-center">
+                            Premium Viewer
+                            <small><strong>$0.99</strong> / month</small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Enhanced HD, Highest Quality Bandwidth</li>
+                            <li>View &amp; Search</li>
+                            <li>Follow &amp; Share</li>
+                            <li>View Ads/Commercials</li>
+                            <li>Channel Chat</li>
+                        </ul>
+                        <button class="set-plan" ng-click="setPlan(dingit.config.products.hd)">
+                            {{selectedPlan(dingit.config.products.hd)}}</button>
+                    </li>
+                    <li ng-class="{'checked': isPlanSet(dingit.config.products.pro), 'best-choice': true, 'plans-list-channel': true}">
+                        <h5 class="text-center">
+                            Go Pro
+                            <small><span><strong>$9.99</strong>/month or <strong>$99</strong>/year</span></small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Ad Free: Site Wide</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Cl!ck Pro Included</li>
+                            <li>Custom Emoticons</li>
+                            <li>Profile Badges</li>
+                            <li>Extended Chat Colors</li>
+                        </ul>
+                        <button class="set-plan" ng-click="setPlan(dingit.config.products.pro)">
+                            {{selectedPlan(dingit.config.products.pro)}}</button>
+                    </li>
+                    <li ng-class="{'checked': isPlanSet(dingit.config.products.channelSubscription), 'plans-list-channel': true}">
+                        <h5 class="text-center">
+                            Channel Subscription
+                            <small><strong>$4.99</strong> / month</small>
+                        </h5>
+                        <input id="prompt-subscribe-grey-subscription-nickname" name="broadcaster_nickname" class="modal-plan-input required" type="text" placeholder="Broadcaster's nickname">
+                        <ul class="key-features">
+                            <li>Directly Support the Broadcaster</li>
+                            <li>Ad Free: This Channel Only</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Subscriber Badge</li>
+                            <li>Chat During Subscriber-Only Mode</li>
+                            <li>Emoticons</li>
+                            <li>Broadcaster Perks</li>
+                        </ul>
+                        <button class="set-plan" ng-click="setPlan(dingit.config.products.channelSubscription)">
+                            {{selectedPlan(dingit.config.products.channelSubscription)}}</button>
+                    </li>
+                </ul>
+                </form>
+            </div>
+
+            <div class="space40"></div>
+            <div class="submit-row pull-right">
+                <div class="submit-right">
+                    <button class="btn-large primary nonecase submit" type="submit" ng-click="submit()">Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div ng-controller="PromptSubscribeForHD">
+    <a style="display: none;" id="btn-prompt-subscribe-for-hd"></a>
+
+    <div style="display: none;">
+        <div id="modal-prompt-subscribe-for-hd" class="modal-popup signup-step2">
+            <h3 class="no-padding-btm">Upgrade your Membership</h3>
+            <div class="space20"></div>
+
+            <div class="plans-list-container clearfix">
+                <form id="form-prompt-subscribe-for-hd">
+                    <ul class="plans-list clearfix">
+                    <li ng-class="{'checked': isPlanSet(dingit.config.products.hd), 'plans-list-channel': true}">
+                        <h5 class="text-center">
+                            Premium Viewer
+                            <small><strong>$0.99</strong> / month</small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Enhanced HD, Highest Quality Bandwidth</li>
+                            <li>View &amp; Search</li>
+                            <li>Follow &amp; Share</li>
+                            <li>Channel Chat</li>
+                        </ul>
+                        <button class="set-plan" ng-click="setPlan(dingit.config.products.hd)">
+                            {{selectedPlan(dingit.config.products.hd)}}</button>
+                    </li>
+                    <li ng-class="{'checked': isPlanSet(dingit.config.products.pro), 'best-choice': true, 'plans-list-channel': true}">
+                        <h5 class="text-center">
+                            Go Pro
+                            <small><span><strong>$9.99</strong>/month or <strong>$99</strong>/year</span></small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Ad Free: Site Wide</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Cl!ck Pro Included</li>
+                            <li>Custom Emoticons</li>
+                            <li>Profile Badge</li>
+                            <li>Chat in Subscriber-Only Mode</li>
+                            <li>Extended Chat Colors</li>
+                        </ul>
+                        <button class="set-plan" ng-click="setPlan(dingit.config.products.pro)">
+                            {{selectedPlan(dingit.config.products.pro)}}</button>
+                    </li>
+                    <li ng-class="{'checked': isPlanSet(dingit.config.products.channelSubscription), 'plans-list-channel': true}">
+                        <h5 class="text-center">
+                            Channel Subscription
+                            <small><strong>$4.99</strong> / month</small>
+                        </h5>
+                        <input id="prompt-subscribe-for-hd-subscription-nickname" name="broadcaster_nickname" class="modal-plan-input required" type="text" placeholder="Broadcaster's nickname">
+                        <ul class="key-features">
+                            <li>Support the Broadcaster</li>
+                            <li>Ad Free: This Channel Only</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Subscriber Badge</li>
+                            <li>Chat in Subscriber-Only Mode</li>
+                            <li>Emoticons</li>
+                            <li>Broadcaster Perks</li>
+                        </ul>
+                        <button class="set-plan" ng-click="setPlan(dingit.config.products.channelSubscription)">
+                            {{selectedPlan(dingit.config.products.channelSubscription)}}</button>
+                    </li>
+                </ul>
+                </form>
+            </div>
+
+            <div class="space40"></div>
+            <div class="submit-row pull-right">
+                <div class="submit-right">
+                    <button class="btn-large primary nonecase submit" type="submit" ng-click="submit()">Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div ng-controller="PromptAdblockUnsubscribed">
+    <a style="display: none;" id="btn-prompt-show-adblock-unsubscribed"></a>
+
+    <div style="display: none;">
+        <div id="modal-prompt-adblock-unsubscribed" class="modal-popup signup-step2">
+            <h3 class="no-padding-btm">Subscribe to Continue</h3>
+
+            <div class="space20"></div>
+            <p class="font-arial font-16 text-center">
+                Advertising &amp; Subscriptions support the Broadcasters, but we noticed you use ad blocker.
+                Please disable the ad blocker or subscribe to GoPro to skip all the ads.
+            </p>
+
+            <div class="space20"></div>
+
+            <div class="clearfix">
+                <ul class="plans-list clearfix">
+                    <li class="checked" style="height: 340px;">
+                        <h5 class="text-center">
+                            Go Pro
+                            <small><span><strong>$9.99</strong>/month or <strong>$99</strong>/year</span></small>
+                        </h5>
+                        <ul class="key-features">
+                            <li>Ad Free: Site Wide</li>
+                            <li>Premium Viewer: Enhanced HD</li>
+                            <li>Cl!ck Pro Included</li>
+                            <li>Custom Emoticons</li>
+                            <li>Profile Badge</li>
+                            <li>Chat in Subscriber-Only Mode</li>
+                            <li>Extended Chat Colors</li>
+                        </ul>
+                        <button class="set-plan">Selected</button>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="space40"></div>
+            <div class="submit-row pull-right">
+                <div class="submit-right">
+                    <button class="btn-large primary nonecase submit" type="submit" ng-click="submit()">Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- Header menus -->
+    <div class="header-container">
+        <header class="r_wrapper clearfix">
+            <div class="browse-modal clearfix">
+    <a href="/site/browse" class="link-browse">Browse</a>
+    <a href="#" class="toggle browse-modal-hide"></a>
+	<ul class="browse-columns">
+		<li>
+			<ul>
+				<li class="column-head text-center">Video type</li>
+				<li><a href="/categories/last_live">Live</a></li>
+				<li><a href="/categories/games">Games</a></li>
+				<li><a href="/categories/top_channels">Channels</a></li>
+				<li><a href="/categories/reruns/">Reruns</a></li>
+                <!--  TODO: implement commented out menu items               -->
+<!--				<li><a href="/categories/highlights">Highlights</a></li>-->
+<!--				<li><a href="#">Walkthroughs</a></li>-->
+<!--				<li><a href="#">Gaming Talk Shows</a></li>-->
+			</ul>
+		</li>
+<!--		<li>-->
+<!--			<ul>-->
+<!--				<li class="column-head text-center">Action</li>-->
+<!--				<li><a href="#">Raiding</a></li>-->
+<!--				<li><a href="#">Farming</a></li>-->
+<!--				<li><a href="#">Leveling</a></li>-->
+<!--				<li><a href="#">Arena</a></li>-->
+<!--				<li><a href="#">Constructed</a></li>-->
+<!--				<li><a href="#">Randoms</a></li>-->
+<!--				<li><a href="#">Grinding</a></li>-->
+<!--				<li><a href="#">Cooaching</a></li>-->
+<!--			</ul>-->
+<!--		</li>-->
+		<li>
+			<ul>
+				<li class="column-head text-center">Popular</li>
+				<li><a href="/categories/popular_by_views">Most Popular by Views</a></li>
+<!--				<li><a href="#">Top Rated by Viewers</a></li>-->
+<!--				<li><a href="#">5 stars</a></li>-->
+<!--				<li><a href="#">4 stars</a></li>-->
+<!--				<li><a href="#">3 stars</a></li>-->
+<!--				<li><a href="#">2 stars</a></li>-->
+<!--				<li><a href="#">1 star</a></li>-->
+			</ul>
+		</li>
+		<li>
+			<ul>
+				<li class="column-head text-center">Misc</li>
+<!--				<li><a href="#">Gaming Events</a></li>-->
+<!--				<li><a href="#">Chatting About</a></li>-->
+				<li><a href="/categories/broadcasters_az">Broadcasters A-Z</a></li>
+<!--				<li><a href="#">Marketplace</a></li>-->
+			</ul>
+		</li>
+	</ul>
+</div>            <a href="/" class="logo">
+                <div class="label-beta">beta</div>
+            </a>
+            <ul class="head_menu pages_menu">
+                <li><a href="/browse" class="highlight pull-left">Browse</a></li>
+                <li><a class="highlight browse-modal-show pull-left">Categories</a></li>
+                <li><a href="/broadcasters" class="highlight pull-left">Broadcasters</a></li>
+                <li><a href="/esports" class="highlight pull-left">eSports</a></li>
+                <li><a href="http://blog.dingit.tv/" target="_blank" class="highlight pull-left">News</a></li>
+                <li><a href="http://kb.dingit.tv/" class="highlight pull-left" target="_blank">FAQ</a></li>
+                                    <li>
+                        <a class="btn-show-signup-viewer-go-pro">
+                            <div class="gopro-button-wrap">
+                                <span class="icon-star"></span>
+                                GO PRO
+                            </div>
+                        </a>
+                    </li>
+                            </ul>
+
+            <ul class="head_menu login_menu">
+                <li class="no-border">
+                    <a class="btn-show-signup-viewer">
+                        Sign Up
+                    </a>
+                </li>
+                <li class="no-border"><a class="login-button">Login</a></li>
+            </ul>
+<!--            <ul class="head_menu additional_menu">-->
+<!--                <li class="search-form right-inner">-->
+<!--                    <form class="right-inner search-form" action="/categories/last_live">-->
+<!--                        <input placeholder="Search" type="text" name="search_text"/>-->
+<!--                        <i class="icon-search"></i>-->
+<!--                    </form>-->
+<!--                </li>-->
+<!--            </ul>-->
+        </header>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $("#loginButton").click(function () {
+                $.ajax({
+                    type: 'POST',
+                    async: true,
+                    cache: false,
+                    url: 'http://www.dingit.tv/user/login',
+                    dataType: "json",
+                    success: function (ans) {
+                        if (ans.status == 2) {
+                            location.href='/BCDashboard/live';
+                        } else if (ans.status == 0) {
+location.reload();                        } else {
+                            $("#login_status").text(ans.text);
+                        }
+                    },
+                    data: $("#login-popup > form").serialize()
+                });
+                return false;
+            });
+
+            $("#resetPasswordButton").click(function () {
+                if ($("#resetPasswordButton").text() == "Close") {
+                    location.reload();
+                } else {
+                    $.ajax({
+                        type: 'POST',
+                        async: true,
+                        cache: false,
+                        url: 'http://www.dingit.tv/user/reset_password',
+                        dataType: "json",
+                        success: function (ans) {
+                            if (ans.status == 0) {
+                                $("#reset_password_notification").text("Check your mail.");
+                                $("#resetPasswordButton").text("Close");
+                            } else {
+                                $("#reset_password_notification").text(ans.text);
+                            }
+                        },
+                        data: {
+                            email: $("#reset_password_mail").val()
+                        }
+                    });
+                }
+                return false;
+            });
+        });
+    </script>
+
+    <div style="display: none;">
+        <div id="login-popup" class="modal-popup">
+            <h3>Welcome Back to D!ngIt</h3>
+            <div class="space40"></div>
+
+            <form action="/user/login" method="post" class="login-form">
+                <div class="field-row clearfix" style="font-family: 'Arial'; color: red; font-size: 12px;" id="login_status"></div>
+                <div class="field-row clearfix">
+                    <input class="text-field" type="text" name="email" placeholder="Email">
+                </div>
+                <div class="field-row clearfix">
+                    <input class="text-field" type="password" name="password" placeholder="Password">
+                </div>
+                <div class="field-row clearfix">
+                    <a class="modal-pw-link">Forgot Password?</a>
+                </div>
+                <div class="field-row clearfix text-center">
+                    <button class="btn-large primary nonecase submit" type="submit" id="loginButton">Login</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+
+    <div style="display: none;">
+        <div id="reset-pw-popup" class="modal-popup">
+            <h3>Reset your password</h3>
+            <div class="space40"></div>
+            <div class="modal-pw-label">
+                We will send reset instructions to the email address associated with your account.
+            </div>
+            <div class="space40"></div>
+            <div class="field-row clearfix">
+                <input class="text-field" type="text" name="email" placeholder="Your Email Address" id="reset_password_mail">
+            </div>
+            <div id="reset_password_notification" class="space40"></div>
+            <div class="field-row clearfix text-center">
+                <button class="btn-large primary nonecase submit" type="submit" id="resetPasswordButton">Send</button>
+            </div>
+
+        </div>
+    </div>
+            <div class="legal-container">
+	<div class="r_wrapper clearfix">
+		<ul class="legal-menu">
+			<li><a href="/terms">Terms of Service</a></li>
+			<li><a class="active" href="/legal/privacy">Privacy Policy</a></li>
+			<li><a href="/legal/dcma">DCMA Guidelines</a></li>
+			<li><a href="/legal/tosale">Terms of Sale</a></li>
+			<li><a href="/legal/tm">Trademark Guidelines</a></li>
+			<li><a href="/legal/cc">Code of Conduct</a></li>
+		</ul>
+		<div class="legal-content">
+			<h1>Privacy at the D!NGIT Network</h1>
+<p>Using the D!NGIT service comprises transmitting any data over the Internet through the servers and the IP addresses of the D!NGIT server network by means of the D!NGIT software application.</p>
+
+<h2>Personally Identifiable Information</h2>
+<p>D!ngIt does not track, collect or store any personally identifiable information at the servers on the D!NGIT server network.</p>
+
+<h2>Collection and Use of Non-Personally Identifiable Information</h2>
+<p>D!ngIt does not cache, log, collect, store, aggregate and use any information whatsoever about user’s Internet activities through the servers on the D!NGIT server network.</p>
+
+<h2>Cookies and Other Technologies, Spyware Protection at the D!NGIT Server Network</h2>
+<p>D!ngIt does not use cookies of other technologies on any of the D!NGIT servers. All D!NGIT servers are secured with Linux hardening, firewalls, anti-spam software, anti-virus and anti DDOS attack software to prevent third parties from maliciously attacking the D!NGIT server network. We maintain our servers and network to provide the best possible privacy.</p>
+
+<h2>Disclosure to Third Parties</h2>
+<p>D!ngIt does not sell, rent, loan, trade, or lease any information to any third party.</p>
+
+<h2>Privacy at the DingIt.tv website</h2>
+<p>We are absolutely committed to safeguarding our users’ privacy, particularly when you visit the D!NGIT web site – DingIt.tv.</p>
+
+<h2>Collection of Personally Identifying Information</h2>
+<p>Personally identifying information is any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or work address, credit card credentials, email address or other contact information. For the purpose of this Privacy Policy we also treat visitors’ Internet Protocol (IP) addresses as personally identifying information.</p>
+<p>You may access content at the D!ngIt.com web site without registration and without providing any personally identifiable information.</p>
+<p>When you contact our support by email, we collect and store your email address. This data is stored on secure servers and destroyed after 7 days unless you become a subscriber (see below).</p>
+<p>We don’t collect any personally identifiable information when you participate in one of our online survey.</p>
+<p>When you sign up for D!NGIT free trial or paid service, we collect and store the email address you choose to provide us with. This data together with your D!NGIT software activation license number is stored in our customer management system on one of our secure servers. We use Avangate to securely process online payments. As you are sent to Avangate’s hosted sites, we do not collect or store your name, address, billing address or credit card credentials.</p>
+
+<h2>Use of Personally Identifying Information</h2>
+<p>The personal information you provide us with when contact our support by email helps us to return answers to your support inquiries directly to your mail box.</p>
+<p>The email address you provide us with when you sign up for D!NGIT free viewing or D!NGIT paid services is used to send you your individual D!NGIT software activation license number. The email address you provide us with together with your D!NGIT software activation license number is what identifies your D!NGIT account. The email address you provide us with also allows us to keep you posted on our latest service announcements, software updates, latest deals and promotions as well as helps us to improve our service, site content, and advertising. If you don’t want to be on our mailing list by unsubscribing in the footer of an email from us.</p>
+<p>The email address you provide us with when you sign up for D!NGIT free or paid services may also be used by us to send you important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to you as a D!NGIT user, you may not opt out of receiving these communications.</p>
+<p>D!ngIt uses the information that you provide or that we collect from or about you: to operate, maintain, enhance, and provide all of the features and services found on the D!ngIt Service; to improve your experience with the D!ngIt Service by delivering content which we hope you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests or rewards programs; and as necessary to comply as a service provider with the Digital Millennium Copyright Act or other similar legal obligations around the world.</p>
+<p>We will use your email address for administrative communications such as notifying you of major D!ngIt Service updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the D!ngIt Service.</p>
+<p>D!ngIt may periodically send promotional materials or notifications to you related to the D!ngIt Service. If you want to stop receiving promotional materials, follow the unsubscribe instructions at the bottom of each email.</p>
+
+<h2>Collection and Use of Non-Personally Identifiable Information</h2>
+<p>Non-personally Identifiable Information is data in a form that does not permit direct association with any specific individual.</p>
+<p><strong>User-provided Information:</strong> You may provide to D!ngIt what is generally called “personal information” in the USA and elsewhere or “personal data” in the European Union (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you register for a D!ngIt Service, or upload, purchase, view or download certain content or products from the D!ngIt Service, enter contests or sweepstakes, or otherwise use the features and functionality of the D!ngIt Service.</p>
+<p>As is true of most websites, we gather some information automatically and store it in our website’s log files for 30 days. This information is non-personally identifiable, and includes website visitors’ general geographical location, browser type and language, referring and exit pages, operating system, date stamp, and click-stream data. With the help of Google’s Analytics Service we automatically aggregate and use this information to better understand and analyze on-site browsing trends, to administer the site and to learn which parts of our website, products, and services are of most interest.</p>
+<p>This aggregated data is considered non-personally identifiable information for the purposes of this Privacy Policy. We do not combine visitors’ non-personally identifiable information with personally identifiable information in any way.</p>
+<p><strong>Information from Other Sources</strong>: We may obtain information, including personal information, from third parties and sources other than the D!ngIt Service, such as advertisers or social media networks for which you have approved our access to information (e.g., information from your Facebook account provided by the Facebook APIs). When you access the D!ngIt Service through social media networks or when you connect a D!ngIt Service to social media networks, you are authorizing D!ngIt to collect, store and use such information and content in accordance with this Privacy Policy. We may also obtain information from third parties such as social entertainment platforms regarding your use of such services, including about your use of the content you choose to broadcast through the D!ngIt Service. If we combine or associate information from other sources with personal information that we collect through the D!ngIt Service, we will treat the combined information as personal information in accordance with this Privacy Policy.</p>
+
+<h2>On-website Cookies and Other Technologies</h2>
+<p>The D!NGIT website, email messages and advertisements may use “cookies” and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. All information collected by cookies and other technologies is aggregated and is treated as non-personally unidentifiable information.</p>
+<p>D!NGIT also uses cookies and other technologies to remember information when you use our website. Our goal in these cases is to make your experience with D!NGIT more convenient.</p>
+<p>If you want to disable cookies go to your Browser’s security preferences and disable cookies. On a mobile device, go to the Cookies section in Settings or Preferences. For specific browsers, check with your provider to find out how to disable cookies. Please note that certain features of the D!NGIT website may not be available when cookies are disabled.</p>
+<p>In some of our email messages, we use a “click-through URL” linked to content on the D!NGIT website. When customers click one of these URLs, they may pass through a separate D!NGIT web server before arriving at the destination page on our website. We gather this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer click-through data not to be collected in this way, you should not click text or graphic links in the email messages.</p>
+<p>Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.</p>
+<p>D!ngIt may use “Automatically Collected” information and “Cookies” information to maintain and improve the D!ngIt Service, including to do the following things: (a) automatically update the D!ngIt application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the D!ngIt Service; (c) provide customized third-party advertisements, content and information; (d) monitor the effectiveness of third-party marketing campaigns; (e) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (f) track your entries, submissions, and status in any promotions or other activities.</p>
+<p>We may use third-party Web analytics services on our site, such as those of Google Analytics.  These service providers use a variety of tracking technologies such as cookies to analyze how users use the D!ngIt Service.  The information collected will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the D!ngIt Service.  To learn about opting out of Google Analytics, please  click here.</p>
+<p>D!ngIt may allow advertisers, third-party advertising networks and third-party advertising serving companies to serve advertisements directly to you within the D!ngIt Service and other D!ngIt sites, services and software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons and other tracking technologies to measure the effectiveness of their advertisements, and to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in personalizing the advertising content delivered to you. D!ngIt does not provide your personal information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks D!ngIt to show an advertisement to a certain audience (for example, males age 15 to 18) or audience segment (for example, males age 15 to 18 who have participated in certain promotions) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach.</p>
+<p>This Privacy Policy does not apply to, and we cannot control the tracking technologies and activities of, those other advertisers, third-party advertising networks, or third-party advertising servers. You should consult the respective privacy policies of these advertisers, third-party advertising networks, or third-party advertising servers.</p>
+
+<h2>Spyware and Malware Protection</h2>
+<p>D!NGIT Ltd. does not and will not distribute any kind of spyware, adware, or malware with or as part of any of its services and products. All D!NGIT Ltd. services products are regularly independently tested by third parties and are guaranteed free from any kind of such spyware, adware, or malware.</p>
+<p>D!ngIt uses commercially reasonable physical, managerial, and technical measures designed to protect the integrity and security of your personal information. However, no security precautions or systems can be completely secure. We cannot therefore ensure or warrant the security of any information you transmit to D!ngIt, and you do so at your own risk. We cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
+
+<h2>Disclosure to Third Parties</h2>
+<p>D!NGIT Ltd. does not forward, sell, rent, loan, trade, or lease any user information – personally identifiable or non-personally identifiable – collected at our web site or forwarded to us by our independent contractors, service providers, or consultants, including email lists, to any third party.</p>
+<p>Please be aware, however, that any personal information that you voluntarily choose to display on any publicly available portion of the D!ngIt Service – such as when you publish content, comments or profile information – becomes publicly available and may be collected and used by others.</p>
+<p>If you connect to a third party service (such as Facebook or Twitter) through an icon or link on the D!ngIt Service or otherwise link your D!ngIt account with a third party service, we may share the contents of your post and associated information (such as your user name, the fact that your connection originated from the D!ngIt Service, and other relevant usage and diagnostic information) with such third party.  With your one-time consent, we may also send information about the content you watch and your activities on the D!ngIt Service to such third parties. Once such information is shared, the use of your information will be subject to that service's privacy policy and this Privacy Policy will not apply.</p>
+<p>D!ngIt may disclose Automatically Collected and other aggregate non-personal information with interested third parties to assist such parties in understanding the usage and demographic patterns for certain programs, content, services, advertisements, promotions, or other functionality of D!ngIt.</p>
+<p>D!ngIt may make both personal and non-personal information available to subsidiaries and affiliated companies that are under common ownership or control within the D!ngIt family.</p>
+<p>D!ngIt may disclose User information if we believe in good faith that such disclosure is necessary to comply with US state and federal laws (such as U.S. Copyright law) or other applicable laws around the world (for example, in the country of your residence); or respond to a court order, judicial or other government subpoena, or warrant in the manner legally required by the requesting entity.</p>
+<p>D!ngIt also reserves the right to disclose User information that we believe, in good faith and after making reasonable enquiries, is appropriate or necessary to take precautions against liability to D!ngIt; protect D!ngIt from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations to protect the security or integrity of the D!ngIt Service; or to protect the rights, property, or personal safety of D!ngIt, our Users, or others. We will notify you of these disclosures if we reasonably think we can do so legally and without harming the purpose of the disclosure.</p>
+<p>For Users visiting the D!ngIt Service from the European Economic Area or other non-U.S. territories, please note that any data you enter into the D!ngIt Service will be transferred outside the European Economic Area or those other non-U.S. territories for use by D!ngIt and its affiliates for any of the purposes described in this Privacy Policy. In addition, because D!ngIt operates globally, we may make information we gather available to worldwide business units and affiliates under the terms of this Privacy Policy. By providing any data on the D!ngIt Service, you hereby expressly consent to such transfers of your data to the United States or other countries, except in the case of data transfers from the European Economic Area or Switzerland, which are covered under our EU-US and Swiss-US Safe Harbor Certifications detailed below. For Users from outside the US, Switzerland or the European Economic Area, please note that laws in the US may not provide the same level of protection for information (which Users provide to D!ngIt or which D!ngIt collects from Users in connection with the D!ngIt Service) as the laws of the User's country of residence.</p>
+
+<h2>Protection of Information Collected at the D!NGIT website</h2>
+<p>D!NGIT takes administrative, technical, and physical precautions to safeguard website’s visitors’ personally identifiable and non-personally identifiable information against loss, theft, unauthorized access, misuse, disclosure, alteration, and destruction.</p>
+<p>D!NGIT online checkout pages, My Account pages and the support portal use Secure Sockets Layer (SSL) encryption on all web pages where personal information is collected. To benefit from SSL encryption of your personal information transmitted over the Internet on these pages, you must use an SSL-enabled browser.</p>
+
+<h2>Correction or Deletion of Information Collected at the D!NGIT website</h2>
+<p>For personal information collected at the D!NGIT website, we make good faith efforts to accommodate requests that we correct your data if it is inaccurate or delete your data if D!NGIT is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Information correction or deletion requests can be made through support@dingit.tv.</p>
+
+<h2>D!NGIT Commitment to Your Privacy</h2>
+<p>To make sure your personal information is secure; we communicate our privacy and security guidelines to all D!NGIT employees and strictly enforce privacy safeguards within the company.</p>
+
+<h2>D!NGIT Privacy Questions?</h2>
+<p>If you have any questions or concerns about D!NGIT Privacy Policy, please contact us through <a href="mailto:support@dingit.tv">support@dingit.tv</a>.<br>
+D!NGIT may update this Privacy Policy from time to time. When we change the policy in a significant way, a notice will be posted on our website along with the updated Privacy Policy.</p>		</div>
+	</div>
+</div>        </div>
+        <div style="display: none;">
+    <div id="modal-info-about-us" class="modal-popup">
+        <h3 class="no-padding-btm">About Us</h3>
+
+        <div class="clearfix modal-text-block">
+            <p>
+                DingIt is a live streaming broadcast site for professional and aspiring gamers. Our patented keyboard simulation, Click Pro, shows actual button actions of the gamer in real time, giving the fan an unprecedented level of visibility into how the best gamers play. Our new broadcast app supports the highest resolution and bit rates of any live streaming site on the web, with minimal skips, sync errors or delays. DingIt provides an environment for viewers to become better gamers, and for gamers to earn real income while they are building a fan base.
+            </p>
+            <br>
+            <p>
+                DingIt was developed by OC Shield Ltd. (ocshield.com), an enterprise technology provider based in Europe. OC Shield’s solutions include: IP Transit Services for ISPs, Enterprise and Personal Security, Cloud Security solutions, ISP Integrity applications, Authentication and Verification solutions, and Internet Optimization solutions. Utilizing Network as a platform, OC Shield develops and publishes software solutions for PC, Android, iOS and IPTV devices all networked via the OC Shield platform or in conjunction with OC Shield partners.
+            </p>
+            <br>
+            <p>
+                Brands include: OC Shield Enterprise, MediShield, DataGard, LiquidStream, OC Shield CDN and VerifyFake. Both our management and development teams are composed of seasoned professionals who have run enterprise-grade networks and operated businesses in the server networks, Subscriber Management Systems, Set top box manufacturing and IPTV networks.
+            </p>
+            <br>
+            <p>
+                OC Shield financed the development and launch of Dingit.tv and spun it off as an independent company – DingMedia Ltd. In addition to OC Shield financing, DingMedia is set to complete its First Round of funding.
+            </p>
+        </div>
+    </div>
+</div><div style="display: none;">
+    <div id="modal-info-advertise" class="modal-popup">
+        <h3 class="no-padding-btm">Advertise With Us</h3>
+
+        <div class="clearfix modal-text-block">
+            <strong>Advertising</strong>
+            <div class="space20"></div>
+
+            <p>
+                D!ngIt’s advertising staff can help brands, agencies, trading desks and buyers target a range of
+                audiences through our global reach. Our audience is mostly male, 18-30-something, and are one of the
+                more engaged fan audience that you’ll find on the web.
+            </p>
+
+            <div class="space20"></div>
+            <strong>Why D!ngIt?</strong>
+            <div class="space20"></div>
+
+            <p>
+                D!ngIt’s content is a cut above other gaming UGC content. We hand select each broadcaster, ensuring a
+                professional level of skill. We also look for what we think our audiences will like: engaging
+                personalities, a history of broadcasting on other live streaming sites or UCG video sites, which we
+                think helps the viewer cut through the noise of interactive web video. As a result, our audience is more
+                engaged, helping reach a targeted and engaged viewer.
+            </p>
+
+            <div class="space20"></div>
+            <p>
+                D!ngIt’s team can help arrange a number of custom ad packages for any brands interested in reaching our
+                viewers and broadcasters.
+            </p>
+
+            <div class="space20"></div>
+            <p>
+                Want more information about our uniques, demos, geos, metrics and how we’ve applied a no tolerance
+                policy against ad blockers? You can reach us at advertise “at” dingit.tv. We will get back to you within
+                a business day.
+            </p>
+
+            <div class="space20"></div>
+            <p>
+                If you are an agency or would like information about advertising with us, please
+                <a href="mailto:advertise@dingit.tv" target="_top">
+                    CONTACT US</a>.
+            </p>
+        </div>
+    </div>
+</div><div style="display: none;">
+    <div id="modal-info-press" class="modal-popup">
+        <h3 class="no-padding-btm">Press</h3>
+
+        <div class="clearfix modal-text-block">
+            <p>
+                If you are a journalist, blogger (amatuer or professional), writer, outlet, etc. and would like to
+                contact us about a story, please email press “at” dingit.tv. Please provide the name of your outlet and
+                give us some details about your inquiry in the email. We will get back to you within one to two business
+                days.
+            </p>
+            <div class="space20"></div>
+            <p>
+                If you’re a member of the press and would like to request information about D!ngIt, please
+                <a href="mailto:press@dingit.tv" target="_top">
+                    CONTACT US</a>.
+            </p>
+        </div>
+    </div>
+</div><div style="display: none;">
+    <input type="hidden" id="btn-show-welcome">
+    <div id="modal-info-welcome" class="modal-popup">
+        <h3 class="no-padding-btm">Welcome to D!ngIt</h3>
+
+        <div class="clearfix modal-text-block">
+            <p>
+                This is your Profile page. Please add your bio, picture/image, text and background image. On this page
+                you can follow your Favorites, Highlights, Upgrade your Subscription and more.
+            </p>
+        </div>
+    </div>
+</div><div style="display: none;">
+    <input type="hidden" class="btn-show-try-later-modal">
+    <div id="modal-info-try-later" class="modal-popup">
+        <h3 class="no-padding-btm">Avangate Payment</h3>
+        <div class="space20"></div>
+
+        <div class="clearfix modal-text-block text-center font-20">
+            <p>
+                Your payment for your online order is being processed. Please check again later.
+            </p>
+        </div>
+    </div>
+</div><div>
+    <div style="display: none;">
+        <div id="modal-monthly-income-calculator" class="modal-popup">
+            <h3>Broadcaster Monthly Income Calculator</h3>
+            <div class="space10"></div>
+
+            <div class="clearfix padding-2">
+                <div class="text-center font-20 font-arial">
+                    <div class="padding-20 container-out">
+                        Select number of followers:
+                        <div class="space20"></div>
+                        <div class="row no-margin">
+                            <div class="col-xs-2">
+                                <a class="btn btn-info" onclick="calculateIncome(500);">
+                                    500
+                                </a>
+                            </div>
+                            <div class="col-xs-2">
+                                <a class="btn btn-info" onclick="calculateIncome(1500);">
+                                    1500
+                                </a>
+                            </div>
+                            <div class="col-xs-2">
+                                <a class="btn btn-info" onclick="calculateIncome(4000);">
+                                    4000
+                                </a>
+                            </div>
+                            <div class="col-xs-2">
+                                <a class="btn btn-info" onclick="calculateIncome(10000);">
+                                    10k
+                                </a>
+                            </div>
+                            <div class="col-xs-2">
+                                <a class="btn btn-info" onclick="calculateIncome(30000);">
+                                    30k
+                                </a>
+                            </div>
+                            <div class="col-xs-2">
+                                <a class="btn btn-info" onclick="calculateIncome(100000);">
+                                    100k
+                                </a>
+                            </div>
+                        </div>
+                        <div class="space20"></div>
+                        <div class="row no-margin">
+                            <div class="col-xs-8 col-xs-offset-2">
+                                <div class="pull-left">
+                                    Or input another value:
+                                </div>
+                                <input id="number-of-followers" class="text-field col30 pull-left" type="text" onkeypress="validateNumber(event);" onkeyup="calculateIncome();">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="space40"></div>
+
+                    <div class="row no-margin">
+                        <p>
+                            <label for="input-subscription-conversion">Select your expected Channel Subscriptions Percentage:</label>
+                            <input type="text" id="input-subscription-conversion" readonly="" style="border:0; color:#46b8da; background: #f9f9f9; width: 52px;" onchange="calculateIncome();">
+                        </p>
+                        <div class="space10"></div>
+                        <div class="col-xs-6 col-xs-offset-3">
+                            <div id="slider-subscription-conversion"></div>
+                        </div>
+                    </div>
+
+                    <div class="space40"></div>
+
+                    <div class="padding-20 container-out">
+                        <div>Expected income:</div>
+                        <div class="space20"></div>
+                        <div id="calculated-income-sum" class="font-arial font-40 text-orange">
+                            0
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="r_wrapper clearfix">
+        <span class="brand">Dingit.tv</span>
+        <span class="date">© 2014</span>
+
+        <div class="r-container">
+            <ul class="r-list">
+                <li>
+                    <a class="btn-show-signup-broadcaster">
+                        Broadcast Partner
+                    </a>
+                </li>
+                <li><a class="btn-show-monthly-income-calculator">Income Calculator</a></li>
+                <li><a class="btn-show-advertise">Advertise</a></li>
+                <li><a class="btn-show-press">Press</a></li>
+                <li><a href="/terms">Terms</a></li>
+                <li><a href="/legal/privacy">Privacy Policy</a></li>
+                <li><a href="mailto:support@dingit.tv">Support</a></li>
+            </ul>
+        </div>
+        <ul class="l-list">
+            <li><a class="btn-show-about-us">About</a></li>
+            <li><a href="http://blog.dingit.tv/" target="_blank">News</a></li>
+            <li><a href="/viewers">Viewers</a></li>
+            <li><a class="btn-show-signup-viewer">Subscribe</a></li>
+        </ul>
+        <ul class="social">
+            <li><a href="https://www.youtube.com/channel/UCAUuoB4zopviW1_aF4RsEMQ" target="_blank" class="icon-youtube"></a></li>
+            <li><a href="https://plus.google.com/u/0/105912185538950598791/" target="_blank" class="icon-gplus"></a></li>
+            <li><a href="https://instagram.com/dingittv" target="_blank" class="icon-instagram"></a></li>
+            <li><a href="https://www.facebook.com/dingittv" target="_blank" class="icon-facebook"></a></li>
+            <li><a href="https://twitter.com/dingittv" target="_blank" class="icon-twitter"></a></li>
+        </ul>
+        <span class="lang">
+        <div id="google_translate_element"></div><script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+                }
+            </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        </span>
+    </div>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54389502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+    
+</body></html>
