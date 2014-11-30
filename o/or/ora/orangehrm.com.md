@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orangehrm.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213172226id_/http%3A//www.orangehrm.com/privacypolicy/OrangeHRM_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangehrm.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130042027id_/http%3A//www.orangehrm.com/privacypolicy/OrangeHRM_PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # OrangeHRM Privacy Policy
 
