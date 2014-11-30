@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ghosthack.de privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425061650id_/http%3A//www.ghosthack.de/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghosthack.de privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130085537id_/http%3A//www.ghosthack.de/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Dubstep Samples Mixes Mp3 Download - Ghosthack
 
-**What information do we collect?**
+﻿
+
+ **What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
 
@@ -49,7 +51,3 @@ Renkerstraße 34
 Düren 52351  
 Germany  
 christoph.palme ( at ) ghosthack.de
-
-Your Cart is currently empty. 
-
-* * *
