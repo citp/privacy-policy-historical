@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cowbird.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920075213id_/http%3A//cowbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowbird.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130033405id_/http%3A//cowbird.com/privacy) for the most accurate reproduction.*
 
-# Cowbird · Privacy
-
-**Privacy Policy** · updated March 22, 2012
+# Cowbird ·
 
 This policy applies to your use of the Cowbird Services and website (collectively, “ _Cowbird_ ”), regardless of how they are accessed. If you do not agree with this privacy policy, do not access or use Cowbird. 
 
@@ -36,7 +34,7 @@ We would transfer information about you if the Company (or Cowbird) is acquired 
 
 You can access and edit your account information through Cowbird. You can also opt out of receiving future messages (including the “Cowbird Daily Story” email), but we reserve the right to continue to send you certain communications relating to Cowbird, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them. 
 
-You can delete your Cowbird account. Please [click here](http://cowbird.com/terms#deletion) to read about information that might possibly remain on Cowbird or in our archived records after your account has been deleted. 
+You can delete your Cowbird account. Please click here to read about information that might possibly remain on Cowbird or in our archived records after your account has been deleted. 
 
 ##  Confidentiality and Security 
 
@@ -58,11 +56,44 @@ If you have any questions or concerns regarding this privacy policy, please cont
 
 **By mail:**  
 Cowbird, Inc.  
-11 Shelter Cove  
-Pacifica, CA 94044 USA  
+P.O. Box 235  
+Shelburne, VT 05482 USA  
 Attn: Privacy Concern 
 
 **By email:**  
 
 
-Thank you! 
+_THIS PROCESS IS FOR COPYRIGHT AND OTHER INTELLECTUAL PROPERTY MATTERS ONLY. For reports of abuse and related concerns, please see the links provided for in the[Cowbird Etiquette](http://cowbird.com/etiquette/). _
+
+Cowbird, Inc. and its affiliates respect the intellectual property of others, and we ask our authors to do the same. We may, in appropriate circumstances and at our discretion, disable and/or terminate the accounts of authors who may infringe or repeatedly infringe the copyrights or other intellectual property rights of Cowbird, Inc. and/or others. 
+
+In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website at <http://www.copyright.gov/legislation/dmca.pdf>, Cowbird will respond expeditiously to claims of copyright infringement committed using the Cowbird service if such claims are reported to Cowbird’s Designated Copyright Agent as identified below. 
+
+If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, please provide our Copyright Agent for Notice with the following information in English (your "Notice"): 
+
+  * an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest 
+  * a description of the copyrighted work or other intellectual property that you claim has been infringed 
+  * a description of where the material that you claim is infringing is located on Cowbird, with enough detail that we may find it on the website (in most circumstances, we will need a URL) 
+  * your address, telephone number, and email address 
+  * a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law 
+  * a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf. 
+  * _Note: If you are asserting infringement of an intellectual property right other than copyright, please specify the intellectual property right at issue (for example, ‘trademark’)._
+
+
+
+In some circumstances, in order to notify the user, account holder or host who submitted the allegedly infringing content to which we have disabled access in response to a Notice, Cowbird, Inc. or its designee may forward a copy of a valid Notice including name and email address to the user or account holder, or others in its discretion. Your Notice is not private information, and we may choose to post a copy of your Notice, with your personal information removed, on Cowbird and/or to [Chilling Effects](http://www.chillingeffects.org/) for publication and/or annotation. 
+
+Cowbird's Designated Copyright Agent can be reached as follows: 
+
+**By mail:**  
+Cowbird, Inc.  
+P.O. Box 235  
+Shelburne, VT 05482 USA  
+Attn: Copyright Agent 
+
+**By phone:**  
+(781) COW-BIRD  
+(781) 269-2473 
+
+**By email:**  
+
