@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrs2be.ie privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629194438id_/http%3A//www.mrs2be.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrs2be.ie privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130062509id_/http%3A//www.mrs2be.ie/privacy-policy) for the most accurate reproduction.*
 
 # Mrs2be.ie and Mum2be.ie Privacy Policy
 
@@ -20,33 +20,33 @@ Please remember that anything you post in the site discussion forums is public a
 
 We collect the following information:
 
-\- Information which you provide on registering with us (such as your name and email address);  
-\- Information which you provide as part of your forum profile;  
-\- Information which you post;  
-\- Information which you otherwise provide to us (for example, by email); and  
-\- Information which relates to your use of the site generally (such as records of posts that you make).
+– Information which you provide on registering with us (such as your name and email address);  
+– Information which you provide as part of your forum profile;  
+– Information which you post;  
+– Information which you otherwise provide to us (for example, by email); and  
+– Information which relates to your use of the site generally (such as records of posts that you make).
 
 When you visit our website technical details of each visit are logged for statistical purposes. These include:
 
-\- The IP address of the computer used;  
-\- The previous website from which a visitor reached us;  
-\- Clickstream data which shows the traffic of visitors around the site; and  
-\- Details of the type of web browser and operating system used.
+– The IP address of the computer used;  
+– The previous website from which a visitor reached us;  
+– Clickstream data which shows the traffic of visitors around the site; and  
+– Details of the type of web browser and operating system used.
 
 ## What we do with this information and when it may be disclosed to third parties
 
 We require this information for the operation of the sites, to understand your needs and provide you with a better service. In particular, we may use or disclose your information for the following reasons:
 
-\- We may use this information for the provision of the sites, our service, our administration, record keeping and resolution of disputes;  
-\- We may use this information for displaying your public profile (including any ratings, reviews or comments) on our sites;  
-\- We may use this information, with your permission only, to contact you for marketing purposes;  
-\- We may use this information for technical processing and to address technical problems or service complaints;  
-\- We may use this information to deal with cases of illegal activity, abuse or harassment;  
-\- We may transfer this information to enable an external auditor to verify our traffic figures;  
-\- We may transfer this information to the seller, buyer or assignee of any business or assets related to the sites;  
-\- We may disclose this information where required by law to do so;  
-\- We may disclose this information to law enforcement, government officials or courts where we believe that disclosure is necessary and proportionate; and  
-\- We may disclose this information where we believe that disclosure is necessary and proportionate for the protection of the legitimate interests of ourselves or of a third party.
+– We may use this information for the provision of the sites, our service, our administration, record keeping and resolution of disputes;  
+– We may use this information for displaying your public profile (including any ratings, reviews or comments) on our sites;  
+– We may use this information, with your permission only, to contact you for marketing purposes;  
+– We may use this information for technical processing and to address technical problems or service complaints;  
+– We may use this information to deal with cases of illegal activity, abuse or harassment;  
+– We may transfer this information to enable an external auditor to verify our traffic figures;  
+– We may transfer this information to the seller, buyer or assignee of any business or assets related to the sites;  
+– We may disclose this information where required by law to do so;  
+– We may disclose this information to law enforcement, government officials or courts where we believe that disclosure is necessary and proportionate; and  
+– We may disclose this information where we believe that disclosure is necessary and proportionate for the protection of the legitimate interests of ourselves or of a third party.
 
 ## Anonymous and aggregated data
 
