@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moms-make-money.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627223734id_/http%3A//moms-make-money.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moms-make-money.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130234436id_/http%3A//moms-make-money.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Moms Make Money
+# Privacy Policy - Moms Make Money
 
 At Moms Make Money ([http://moms-make-money.com](http://moms-make-money.com/ "Home page")), the privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
