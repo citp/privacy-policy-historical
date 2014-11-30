@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiagames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044333id_/http%3A//indiagames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiagames.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130060328id_/http%3A//indiagames.com/privacy) for the most accurate reproduction.*
 
 # Full version PC Games at Indiagames , Online Free Games ,Download PC Games, Online Games, Cricket Games, Games on Demand, Buy Games @ Indiagames
 
