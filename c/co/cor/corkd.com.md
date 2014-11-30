@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corkd.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629014713id_/http%3A//www.corkd.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corkd.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130033720id_/http%3A//www.corkd.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Cork'd
 
