@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015333id_/http%3A//www.brookshires.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130015637id_/http%3A//www.brookshires.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brookshire's
 
@@ -12,7 +12,7 @@ There are special privacy policies and procedures that apply when you enroll in 
 
 There are also special privacy policies and procedures that apply to Brookshire Pharmacies. For detailed information on the privacy policies applicable to the Brookshire’s Pharmacy, which conform to the privacy and security rules relating to the Health Insurance Portability and Accountability Act (HIPAA), along with related state laws, please review our [Brookshire’s Pharmacy Privacy Policy](http://www.brookshires.com/explore/departments/pharmacy/pharmacy-privacy-policies-hipaa/ "Pharmacy Privacy Policies \(HIPAA\)").
 
-In addition, this website was developed by MyWebGrocer, Inc. (“MyWebGrocer”), a third party associated with Brookshire in relation to this website, but not owned or controlled by Brookshire.  For more information regarding MyWebGrocer’s own policies, please review [MyWebGrocer’s Privacy Policy](http://mywebgrocer.com/about/privacy-policy "MWG Privacy Policy") and [MyWebGrocer’s Terms of Use](http://mywebgrocer.com/about/terms-of-use "MWG Terms of Use ").  Brookshire is not responsible or liable for the content of any website, policy, or term of use of MyWebGrocer.
+In addition, this website was developed by MyWebGrocer, Inc. (“MyWebGrocer”), a third party associated with Brookshire in relation to this website, but not owned or controlled by Brookshire.  For more information regarding MyWebGrocer’s own policies, please review [MyWebGrocer’s Privacy Policy](http://brookshires.mywebgrocer.com/Privacy "MWG Privacy Policy") and [MyWebGrocer’s Terms of Use](http://brookshires.mywebgrocer.com/terms "MWG Terms of Use ").  Brookshire is not responsible or liable for the content of any website, policy, or term of use of MyWebGrocer.
 
 **Consent to Policy**
 
