@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michelinman.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517132641id_/http%3A//www.michelinman.com/sites/michelincom/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelinman.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130041714id_/http%3A//www.michelinman.com/sites/michelincom/privacy.page) for the most accurate reproduction.*
 
 # Michelin Privacy | Michelin Tires
 
@@ -26,6 +26,7 @@ Each Michelin Internet site has a particular aim and has characteristics which a
   * Links to Third Party Sites
   * Trademark and Copyright Notice
   * Consent to This Privacy Policy
+  * Sweepstakes Rules
   * Amendments
 
 
@@ -128,6 +129,8 @@ Top
 #### Consent to This Privacy Policy
 
 By using this website, you signify your assent to this Privacy Policy. If you do not agree with any term in this Policy, please do not use this site or submit any personally identifiable information.
+
+Top
 
 Top
 
