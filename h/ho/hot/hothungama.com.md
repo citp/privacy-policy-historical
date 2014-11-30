@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hothungama.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527094257id_/http%3A//www.hothungama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothungama.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130034856id_/http%3A//www.hothungama.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hothungama.com
+# Privacy Policy - Hothungama.com
 
 Hothungama.com knows that you care how information about you is used and shared on internet, and we appreciate your trust that we will do so carefully and sensibly. This page describes our privacy policy. By visiting any of the sites offered by Hothungama ****.com, you are accepting the practices described in this   **Privacy Policy Notice**. For any question on the Privacy Notice please  **Contact Us**.
 
