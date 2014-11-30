@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipyxel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095949id_/http%3A//ipyxel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipyxel.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130075519id_/http%3A//ipyxel.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | iPyxel Creations | Demand-side performance marketing software and digital marketing insights
 
