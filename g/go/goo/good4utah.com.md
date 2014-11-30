@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the good4utah.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628124511id_/http%3A//www.good4utah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good4utah.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130124721id_/http%3A//www.good4utah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Good4Utah.com
 
@@ -136,5 +136,3 @@ If you have any questions or comments about our Privacy Policy please contact Pr
 
 LAST UPDATED: November 2013  
 11/2013 Add ?Your California Privacy Rights?, amended ?Opt-Out Procedures? to ?Your Choices Regarding Your Information? and added Do Not Track language. 
-
-## Popular Stories on Facebook
