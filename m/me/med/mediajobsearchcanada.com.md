@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073131id_/http%3A//www.mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130145959id_/http%3A//www.mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Media Job Search Canada
 
@@ -12,7 +12,8 @@ For more information on **MJSC's Privacy Statement** in full read the complete s
 
 For more information on the "Internet Privacy Act" visit:  [www.privcom.gc.ca](http://www.privcom.gc.ca/)
 
-###  Updated November 22, 2013.
+###    
+Updated July 1, 2014.
 
 Your privacy is very important to us. Rest assured that all information collected through our **( 1 )** visitor tracking program, the personal information provided on **( 2 )** posted resumes and the username and password information through our **( 3 )** login service remains with Media Job Search Canada Inc. and is never shared with outside sources.
 
