@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmax.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123339id_/http%3A//www.lmax.com/pdf/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmax.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130051144id_/http%3A//www.lmax.com/pdf/Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # LMAX Exchange Privacy Policy
 
