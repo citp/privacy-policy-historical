@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealprice.co.uk privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531190505id_/http%3A//www.idealprice.co.uk/site/page.html%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealprice.co.uk privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130235900id_/http%3A//www.idealprice.co.uk/site/page.html%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # idealprice.co.uk
 
