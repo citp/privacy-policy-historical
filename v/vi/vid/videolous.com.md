@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videolous.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316142120id_/http%3A//www.videolous.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videolous.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130143344id_/http%3A//www.videolous.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Videolous
+# Privacy Policy - Videolous
 
 Videolous takes the private nature of your personal information very seriously.
 
