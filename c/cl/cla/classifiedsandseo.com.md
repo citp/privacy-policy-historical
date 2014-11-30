@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classifiedsandseo.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529124056id_/http%3A//www.classifiedsandseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsandseo.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130120248id_/http%3A//www.classifiedsandseo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CLASSIFIEDS&SEO
+# Privacy Policy - CLASSIFIEDS&SEO
 
 We respect the Privacy of all visitors to this blog.We ensure you that we will not share the Email address or any other personal information that you have used to register in this blog with any other third parties.You personal details are used only to provide updates from this site .If you do not wish to receive updates you can unsubscribe at any time and all the details provided by you will be erased from our records.
 
