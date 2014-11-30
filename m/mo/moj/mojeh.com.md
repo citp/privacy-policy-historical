@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojeh.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606180022id_/http%3A//mojeh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojeh.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130164954id_/http%3A//mojeh.com/privacy-policy) for the most accurate reproduction.*
 
 # MOJEH MAGAZINE, PRIVACY POLICY
 
@@ -21,7 +21,7 @@ MOJEH, or its authorized agents, may use the details you provide for the followi
 • To respond directly to requests and queries that you may submit on the Contact Us page of MOJEH.com  
 • To inform you about product upgrades, new product?services from MOJEH.
 
-|   | [](http://mojeh.com/wp-content/uploads/2011/09/static-image.jpg)
+|   | [](http://mojeh.com/about/attachment/about-image)
 
 **Disclosure of Information**
 
