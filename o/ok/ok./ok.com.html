@@ -1,25 +1,26 @@
-<!--The following is the downloaded HTML source of the ok.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603021346id_/http%3A//ok.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ok.com privacy policy that was archived on 2014-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141130034432id_/http%3A//ok.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
     <title>Privacy Policy | Ok.com</title>    <!-- meta -->
     <meta charset="utf-8">
     <meta name="robots" content="all">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <!-- chrome frame if possible -->
-    <meta name="viewport" content="width=device-width"> <!-- Required for responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta name="description" content="Family oriented media ratings and reviews">
     <!-- Apple/mobile icons -->
-    <link rel="apple-touch-icon" href="apple-touch-icon-57x57-precomposed.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon" href="AppIcon60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="AppIcon76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="AppIcon60x60@2x.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="AppIcon76x76@2x.png">
 
     <!-- less compiled for production -->
-    <link rel="stylesheet" href="/css/screen.css">
+
+        <link rel="stylesheet" href="/css/screen.css">
     <!-- less compiled - required for responsive layout -->
     <link rel="stylesheet" href="/css/mobile.css">
     <!-- css -->
     <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css">
-    <link rel="stylesheet" href="/css/library/chosen.css">
     <link rel="stylesheet" href="/css/library/ezmark.css">
         <link href="http://fonts.googleapis.com/css?family=Arvo:700,400italic,700italic,400" rel="stylesheet" type="text/css">
 
@@ -30,8 +31,9 @@
         <![endif]-->
     <!-- END html5 shiv -->
             <!-- js for dev -->
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;cookie=1&amp;status=0&amp;appId=166438626743781"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script data-main="/js/config" src="/js/library/require.js"></script>
-        <script>
+        <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;cookie=1&amp;status=0&amp;appId=310344222444880"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script data-main="/js/config" src="/js/library/require.js"></script>
+        <script type="text/javascript" src="/js/app/parse.article.tokens.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="config" src="/js/config.js"></script>
+    <script>
         if (top.location!= self.location) {
             top.location = self.location.href;
         }
@@ -41,7 +43,7 @@
                 okdata.client_site = {"name":"ok"};
         okdata.favorites = undefined;
         okdata.NETFLIX_KEY = 'r95fe6vqv9b7vywagfaw8mxf';
-        okdata.fbAppId = '166438626743781';
+        okdata.fbAppId = '310344222444880';
     </script>
 
     <script type="text/javascript">
@@ -61,91 +63,210 @@
 
     <script type="text/javascript">
         var client_site_name = 'ok';
+        var ok3_ad_section = 'default/index';
+        var leaderboardSlotSize = window.innerWidth > 480 ? [728, 90] : [320, 50];
+
         googletag.cmd.push(function() {
-        googletag.defineSlot('/6686/OK.com', [[300, 250]], 'div-gpt-ad-monster-sidebar').setTargeting('subcl', client_site_name).setTargeting('pos', 'right2').addService(googletag.pubads());
-        googletag.defineSlot('/6686/OK.com', [[300, 250]], 'div-gpt-ad-block-sidebar').setTargeting('subcl', client_site_name).setTargeting('pos', 'right3').addService(googletag.pubads());
-        googletag.defineSlot('/6686/OK.com', [[300, 250]], 'div-gpt-ad-block-home').setTargeting('subcl', client_site_name).setTargeting('pos', 'right').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
+            googletag.defineSlot('/6686/OK.com', [[300, 250], [300, 600]], 'div-gpt-ad-monster-sidebar')
+                .setTargeting('pos', 'right2')
+                .addService(googletag.pubads());
+            googletag.defineSlot('/6686/OK.com', [[300, 250]], 'div-gpt-ad-block-sidebar')
+                .setTargeting('pos', 'right3')
+                .addService(googletag.pubads());
+            googletag.defineSlot('/6686/OK.com', [[300, 250]], 'div-gpt-ad-block-home')
+                .setTargeting('pos', 'right')
+                .addService(googletag.pubads());
+            googletag.defineSlot('/6686/OK.com', [leaderboardSlotSize], 'div-gpt-ad-leaderboard')
+                .setTargeting('pos', 'leaderboard')
+                .addService(googletag.pubads());
+            googletag.pubads().setTargeting('subcl', client_site_name);
+            googletag.pubads().setTargeting('section', ok3_ad_section);
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
         });
     </script>
+    <!-- Quantcast Tag, part 1 --> 
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
 
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="config" src="/js/config.js"></script></head>
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + 
+                  ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);  
+      })();
+    </script>
+    <!-- Begin comScore Tag -->
+    <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "16033947" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=16033947&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
+    <!-- Begin Optimizely Tag -->
+    <script src="//cdn.optimizely.com/js/869530368.js"></script>
+    <!-- End Optimizely Tag -->
+</head>
     	<body style="margin:0;padding:0;">
             <div id="ok3">
-    <header id="ok3_header_main" class="ok3_header_main_fixed">
-        <div id="ok3_header_main_color_stripe"></div>
-        <div id="ok3_header_main_content">
-            <div class="ok3_grid_container_12">
-                <div id="ok3_header_main_logo">
-                    <a href="/" id="ok3_header_main_logo_sprite" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Nav', 'Ok Logo',, false]);">Ok.com</a>
-                    <span class="ok3_tag_line">Your family's media guide</span>
-                </div>
+        <header id="ok3_header_main" class="ok3_header_main_fixed">
+                <div id="ok3_header_main_color_stripe"></div>
+    <div id="ok3_header_main_content">
+        <div class="ok3_grid_container_12">
+            <a href="#" class="ok3_go_back_btn"></a>
+            <a href="#ok3_rightpanel" id="rightpanel_trigger" class="ok3_open_nav_btn"></a>
+            <div id="ok3_header_main_logo">
+                                    <a href="/" id="ok3_header_main_logo_sprite" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Nav', 'Ok Logo',, false]);">Ok.com</a>
+                    <span class="ok3_tag_line ok3_one_line">Your family's movie guide</span>
+                    <ul class="ok3_signup_socials">
+                        <li><a href="https://www.facebook.com/Okcom" class="ok3_soc_fb" target="_blank"></a></li>
+                        <li><a href="https://twitter.com/OKcom" class="ok3_soc_tw" target="_blank"></a></li>
+                        <li><a href="http://www.pinterest.com/okcom/" class="ok3_soc_pin" target="_blank"></a></li>
+                        <li><a href="https://plus.google.com/u/0/110922675221881937876/posts" class="ok3_soc_goo" target="_blank"></a></li>
+                    </ul>
+                            </div>
 
-                <!-- This block is shown on mobile view only -->
-                <nav id="ok3_header_main_nav_mobile">
-                    <div id="ok3_header_mobile_select">
-                        <select id="ok3_mobile_menu">
-                            <option></option>
-                            <option value="/">Home</option>
-                            <option value="/movies">Movies</option>
-                            <option value="/movies/theaters">Find Movie Times</option>
-                            <option value="http://ok.com/member/login">Sign In</option>                        </select>
-                    </div>
-                </nav>
-                <!-- End mobile block -->
-
-                <div id="ok3_header_main_nav">
-                    <form id="ok3_header_main_nav_search" action="/search" method="get" accept-charset="utf-8" class="ok3_header_main_nav_section">
-                        <span id="ok3_header_main_nav_search_query_wrapper">
-                            <input type="text" name="query" value="" id="ok3_header_main_nav_search_query" placeholder="search...">
-                        </span>
-                        <a href="javascript:" id="ok3_header_main_nav_search_button" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Nav', 'Search',, false]);"><img src="/images/icons/search_icon_white.png" alt="Search"></a>
-                    </form>
-                    <nav id="ok3_header_main_nav_categories" class="ok3_header_main_nav_section">
-                        <a href="/movies" id="ok3_header_main_nav_movies" data-sub-nav-id="ok3_header_main_nav_movies_sub" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Nav', 'Movies',, false]);">Movies</a>
-                        <span class="ok3_divider">|</span>
-                        <a href="/movies/recommendations/index" id="ok3_header_main_nav_recommendations" data-sub-nav-id="ok3_header_main_nav_recommendations_sub" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Nav', 'Recommendations',, false]);">Recommendations</a>
-
-                        
-                    </nav>
-
-                                    </div>
+            <div id="ok3_header_main_nav" class="ok3_okcom_layout">
+                <form id="ok3_header_main_nav_search" action="/search" method="get" accept-charset="utf-8" class="ok3_header_main_nav_section">
+                    <select id="ok3_header_type_search_select" class="ok3_header_type_search chzn-select">
+                        <option value="all">All</option>
+                        <option value="movies">Movies</option>
+                        <option value="theaters">Theaters</option>
+                        <option value="users">People</option>
+                    </select>
+                    <span id="ok3_header_main_nav_search_query_wrapper" class="ok3_wide">
+                        <input type="text" name="query" value="" id="ok3_header_main_nav_search_query" class="ok3_gray" placeholder="Search movies, theaters or people">
+                    </span>
+                    <a href="javascript:" id="ok3_header_main_nav_search_button" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Nav', 'Search',, false]);"><img src="/images/icons/search_icon_white.png" alt="Search"><span>Search</span></a>
+                </form>
             </div>
         </div>
-    </header>
-    <!-- -->
-        <section id="ok3_content" class="ok3_clearfix">
-    <div class="ok3_grid_container_12">
-        <article id="ok3_article" class="ok3_clearfix">
-            <h1>Privacy Policy</h1>
+    </div>        </header>
 
-            <p>This privacy statement sets forth the privacy practices of Ok.com.</p>
-            
-            <h2>Information we collect:</h2>
-            
-            <p>In addition to the profile information that you provide, we will collect and store any information that you send us when reviewing and rating media. This includes your interest ratings, User MPAA ratings, Worth Your Time ratings, and media reviews.
-            We also track the general usage of the website for traffic/analytical purposes. This causes us to use cookies (a computer code sequence that helps us determine each unique visitor) through applications such as Omniture or Google Analytics.</p>
-            
-            <h2>What we do with that information:</h2>
-            
-            <p>Besides displaying review/rating information to all visitors of Ok.com to help them with their media choices, we will use this information to help us, recommend to you, media based on your ratings and interests. This information will be available to the whole Ok.com Network, but not shared with any third-party.</p>
-            
-            <p>Aggregated ratings and media reviews may be included through several distribution channels, such as email, mobile and other media devices. All of which are under and controlled by the Ok.com brand.</p>
-            
-            <h2>Who we share that information with:</h2>
-            
-            <p>Your information will not be shared outside of the Ok.com Network or sold to any third parties. We will not spam you, and will offer a unsubscribe link with every email that we send. We value your privacy and give you the ability to edit and delete your media reviews and disassociate your profile from all past ratings. We believe that your personal information belongs to you and that you should be in full control of it. If you have any questions or concerns about the usage of your data please contact us.</p>
-            
-            <h2>What is the Ok.com Network?</h2>
-            
-            <p>Ok.com is made available to publishers Nationwide. All information collected through Ok.com product is stored in the Ok.com data repository. The reviews and aggregated ratings information is made available to partnered newspapers for print purposes. And it is the complete discretion of each partnered newspaper to determine which reviews are printed.</p>
-            
-            <p>A publisher may choose to aggregate all media reviews and ratings across the entire Ok.com Network, or only display the information received from their own user base. The Ok.com reserves the right to change these policies with sufficient notice, for the purpose of protecting both the user and the brand.</p>
-        </article>
+        <section id="ok3_content" class="ok3_clearfix ok3_new_layout">
+                            <aside class="ok3_ad ok3_top_ad">
+                    <figure>
+                        <div id="div-gpt-ad-leaderboard">
+                            <script type="text/javascript">
+                                googletag.cmd.push(function() {
+                                    googletag.display('div-gpt-ad-leaderboard');
+                                });
+                            </script>
+                        </div>
+                        <figcaption>Advertisement</figcaption>
+                    </figure>
+                </aside>
+                        <div class="ok3_grid_container_12 ">
+                <div id="ok3_left_block" class="ok3_grid_3 ok3_left_sidebar">
+    <nav><ul id="ok3_menu" class="ok3_menu">
+            <li class="ok3_menu_item ok3_menu_item_activity                                      activity_menu_item" data-key="activity">
+            <a href="/">Activity</a>
+        </li>
+            <li class="ok3_menu_item ok3_menu_item_movie                                      " data-key="movies">
+            <a href="/movies">Movies</a>
+        </li>
+            <li class="ok3_menu_item ok3_menu_item_theater                                      " data-key="theaters">
+            <a href="/movies/theaters">Theaters</a>
+        </li>
+            <li class="ok3_menu_item ok3_menu_item_people                                      " data-key="people">
+            <a href="/users">People</a>
+        </li>
+        <li class="ok3_menu_item ok3_menu_item_search ok3_not_draggable_item">
+        <a href="#">Search</a>
+    </li>
+</ul>
+<div class="ok3_tooltip_content">
+    <p class="nav_tooltip_info">Drag these bars to customize your nav. If you use the movies page the most, you can drag it to the top to make it your home page!</p>
+    <a href="#" class="ok3_button getting_nav_tooltip_button">Ok, I got it</a>
+</div>
+</nav>
+    <div id="ok3_profile">    <div class="ok3_login_block">
+        <img src="/images/backgrounds/dont-miss-out.png">
+        <ul>
+            <li>Follow trusted reviewers</li>
+            <li>Get a personalized activity feed</li>
+            <li>Share your own ratings and reviews</li>
+        </ul>
+        <p>
+            <a href="https://ok.com/member/login/signup?cl=ok&amp;ref=/privacy" title="Login with Facebook" class="ok3_button ok3_fb-login" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Login Banner', 'Join Ok.com', , false]);">Join Ok.com</a>
+            <a href="https://ok.com/member/login/index?cl=ok&amp;ref=/privacy" title="Request an invite" class="ok3_button ok3_req-invite" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Login Banner', 'Sign In', , false]);">Sign In</a>
+        </p>
     </div>
-</section>
-    <!-- </div> -->
+</div>
+    <div id="ok3_notifications"></div>
+    <div class="ok3_clearfix"></div>
+    <div id="ok3_footer_main" class="ok3_footer_block">
+    <p>© 2014 Ok.com &nbsp;| <a href="/mission" title="Our Mission">Our Mission</a> | <a href="/default/index/forpublishers" title="Family Media Guide for publishers">For Publishers</a> | <a href="mailto:ken@ok.com">Contact Us</a> | <a href="/terms" title="Ok.com terms of service">Terms of Service</a> | <a href="/privacy" title="Ok.com privacy policy">Privacy Policy</a></p>
+</div>    <div class="ok3_okcom_layout" id="ok3_header_main_nav" style="display: none;">
+        <form class="ok3_header_main_nav_section" method="get" action="/movies" id="ok3_header_main_nav_search">
+            <span class="ok3_wide" id="ok3_header_main_nav_search_query_wrapper">
+                <input type="text" placeholder="Search movies, theaters or people" class="ok3_gray" id="ok3_header_main_nav_search_query" value="" name="title">
+            </span>
+            <a onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Nav', 'Search', false]);" id="ok3_header_main_nav_search_button" href="javascript:"><img alt="Search" src="/images/icons/search_icon_white.png"><span>Search</span></a>
+        </form>
+    </div>
+</div>                        <div class="ok3_grid_8">
+            <article id="ok3_article" class="ok3_clearfix">
+                <h1>Privacy Policy</h1>
+
+                <p>This privacy statement sets forth the privacy practices of Ok.com.</p>
+                
+                <h2>Information we collect:</h2>
+                
+                <p>In addition to the profile information that you provide, we will collect and store any information that you send us when reviewing and rating media. This includes your interest ratings, User MPAA ratings, Worth Your Time ratings, and media reviews.
+                We also track the general usage of the website for traffic/analytical purposes. This causes us to use cookies (a computer code sequence that helps us determine each unique visitor) through applications such as Omniture or Google Analytics.</p>
+                
+                <h2>What we do with that information:</h2>
+                
+                <p>Besides displaying review/rating information to all visitors of Ok.com to help them with their media choices, we will use this information to help us, recommend to you, media based on your ratings and interests. This information will be available to the whole Ok.com Network, but not shared with any third-party.</p>
+                
+                <p>Aggregated ratings and media reviews may be included through several distribution channels, such as email, mobile and other media devices. All of which are under and controlled by the Ok.com brand.</p>
+                
+                <h2>Who we share that information with:</h2>
+                
+                <p>Your information will not be shared outside of the Ok.com Network or sold to any third parties. We will not spam you, and will offer a unsubscribe link with every email that we send. We value your privacy and give you the ability to edit and delete your media reviews and disassociate your profile from all past ratings. We believe that your personal information belongs to you and that you should be in full control of it. If you have any questions or concerns about the usage of your data please contact us.</p>
+                
+                <h2>What is the Ok.com Network?</h2>
+                
+                <p>Ok.com is made available to publishers Nationwide. All information collected through Ok.com product is stored in the Ok.com data repository. The reviews and aggregated ratings information is made available to partnered newspapers for print purposes. And it is the complete discretion of each partnered newspaper to determine which reviews are printed.</p>
+                
+                <p>A publisher may choose to aggregate all media reviews and ratings across the entire Ok.com Network, or only display the information received from their own user base. The Ok.com reserves the right to change these policies with sufficient notice, for the purpose of protecting both the user and the brand.</p>
+            </article>
+        </div>            </div>
+        </section>
+    </div>
+
+    <div id="ok3_rightpanel" class="ok3_right_swiped_nav">
+                <div id="ok3_profile">    <div class="ok3_login_block">
+        <img src="/images/backgrounds/dont-miss-out.png">
+        <ul>
+            <li>Follow trusted reviewers</li>
+            <li>Get a personalized activity feed</li>
+            <li>Share your own ratings and reviews</li>
+        </ul>
+        <p>
+            <a href="https://ok.com/member/login/signup?cl=ok&amp;ref=/privacy" title="Login with Facebook" class="ok3_button ok3_fb-login" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Login Banner', 'Join Ok.com', , false]);">Join Ok.com</a>
+            <a href="https://ok.com/member/login/index?cl=ok&amp;ref=/privacy" title="Request an invite" class="ok3_button ok3_req-invite" onclick="_gaq.push(['_trackEvent', 'Click Tracking', 'Login Banner', 'Sign In', , false]);">Sign In</a>
+        </p>
+    </div>
+</div>
+        <p class="ok3_footer_socials">
+          <a href="https://www.facebook.com/Okcom" class="ok3_footer_social_facebook" target="_blank"></a>
+          <a href="https://twitter.com/okcom" class="ok3_footer_social_twitter" target="_blank"></a>
+          <a href="https://plus.google.com/+Okdotcom/posts" class="ok3_footer_social_google" target="_blank"></a>
+          <a href="http://www.pinterest.com/okcom/" class="ok3_footer_social_pinterest" target="_blank"></a>
+        </p>
     </div>
 
     <!--social js-->
@@ -157,6 +278,46 @@
       js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&cookie=1&status=0&appId=" + okdata.fbAppId;
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>
+        // Auto login via FB cookie
+                    window.fbAsyncInit = function() {
+                var loginXhr,
+                    cl = "ok",
+                    ref = "/privacy";
+
+                require(['main'], function(){
+                    require(['jquery'], function($){
+                        //Ensure that AJAX posts aren't cached
+                        $.ajaxSetup({cache: false});
+
+                        FB.getLoginStatus(function(response) {
+                            if (response.status === 'connected') {
+                                fbLoginRedirect(response)
+                            }
+                        }, true);
+
+                        function fbLoginRedirect(response) {
+                            if(loginXhr && loginXhr.state() === 'pending') return;
+                            var auth = response.authResponse;
+                            loginXhr = $.post('/member/login/fblogin', {
+                                    'fb_id': auth.userID,
+                                    'token': auth.accessToken,
+                                    'cl': cl,
+                                    'ref': ref,
+                                    'auto_login': 1
+                                },
+                                function(url){window.location = url;}
+                            );
+
+                        }
+                    });
+                });
+            }
+                // Use in ok.js for draggable navigation init
+        var memberLoggedIn = 0,
+            showNavTooltip = 0;
+    </script>
 
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
@@ -170,7 +331,17 @@
 
     <script src="//assets.pinterest.com/js/pinit.js"></script>
     <!--end social js-->
-        <!-- Google Analytics Code -->
+        <!-- Quantcast Tag, part 2 -->
+    <script type="text/javascript">
+    _qevents.push( { qacct:"p-KUMT4fYgcdEeg",
+                     labels:"ddmnetwork.family.ok, admazingnetwork.ok"} );
+    </script>
+    <noscript>
+    <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-KUMT4fYgcdEeg.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+    <!-- End Quantcast tag -->
+
+    <!-- Google Analytics Code -->
             <script type="text/javascript">
             var _gaq = _gaq || [];
             _gaq.push(['_setAccount', 'UA-29270854-1']);
@@ -180,12 +351,12 @@
 
             (function() {
                 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
         </script>
          <!-- End Google Analytics Code -->
 
 
-    	<div id="ok3"><div id="ok3_movie_search_hover"><div class="ok3_close"></div><div class="ok3_content"></div><div class="ok3_bottom"></div></div><div id="ok3_product_rating_age_chart_hover"><div class="ok3_content"><span class="ok3_override_hover"><span class="ok3_ok">Ok</span><span class="ok3_for_ages">for ages</span><span class="ok3_age">12</span><span class="ok3_plus_sign">+</span></span></div><div class="ok3_arrow"></div></div></div>
+    	<div id="ok3"><div id="ok3_movie_search_hover"><div class="ok3_close"></div><div class="ok3_content"></div><div class="ok3_bottom"></div></div><div id="ok3_product_rating_age_chart_hover"><div class="ok3_content"><span class="ok3_override_hover"><span class="ok3_ok">Ok</span><span class="ok3_for_ages">for ages</span><span class="ok3_age">12</span><span class="ok3_plus_sign">+</span></span></div><div class="ok3_arrow"></div></div><div id="ok3_nav_tooltip"><div class="ok3_close"></div><div class="ok3_content"></div><div class="ok3_bottom"></div></div></div>
 </body></html>
