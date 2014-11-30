@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truetrophies.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092451id_/http%3A//www.truetrophies.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truetrophies.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130140003id_/http%3A//www.truetrophies.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # TrueTrophies - Playstation Trophy Tracking
 
