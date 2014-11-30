@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629033829id_/http%3A//www.statsoft.com/company/other/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130231931id_/http%3A//www.statsoft.com/company/other/privacy-statement) for the most accurate reproduction.*
 
 # StatSoft, Inc. | Privacy Statement
 
 ## StatSoft Pledges to Protect Your Privacy
 
 Your privacy is important to StatSoft. This notice describes and explains our practices regarding information that is collected from visitors to this Web site (located at StatSoft.com) and from people and organizations that purchase products and services from StatSoft.
-
-StatSoft Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  StatSoft Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view StatSoft’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ## Information We Collect
 
@@ -33,8 +31,4 @@ StatSoft is a global corporation with subsidiaries and business partners in many
 
 ## How to Contact Us
 
-For comments or questions about this Privacy Statement, you may email us at: [privacy@StatSoft.com](mailto:privacy@StatSoft.com) or write us at StatSoft, Inc., 2300 East 14th Street, Tulsa, OK 74104.
-
-## Independent Third Party Resolution
-
-In the rare case that a third party is required for resolution to a Safe Harbor question, please contact [JAMS International](http://www.jamsinternational.com/contact-us) via their website.
+For comments or questions about this Privacy Statement, you may email us at: [Statistica.General@software.dell.com](mailto:Statistica.General@software.dell.com) or write us at StatSoft, Inc., 2300 East 14th Street, Tulsa, OK 74104.
