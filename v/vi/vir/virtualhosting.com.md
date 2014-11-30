@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521173024id_/http%3A//www.virtualhosting.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130123455id_/http%3A//www.virtualhosting.com/blog/privacy) for the most accurate reproduction.*
 
-# Privacy - Virtual Hosting.com
+# The StudyWeb.com Privacy Policy at StudyWeb.com
 
-Thank you for visiting [Virtual Hosting](http://www.virtualhosting.com/ "Virtual Hosting").com. This policy explains how we use personal information collected at this Web site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy.
+Thank you for visiting StudyWeb.com. This policy explains how we use personal information collected at this Web site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy.
 
-This policy may be changed at any time. Any changes will be posted. You are encouraged to [review](http://www.virtualhosting.com/blog/reviews/ "review") the privacy policy each and every time you visit the site.
+This policy may be changed at any time. Any changes will be posted. You are encouraged to review the privacy policy each and every time you visit the site.
 
 ### Cookies
 
