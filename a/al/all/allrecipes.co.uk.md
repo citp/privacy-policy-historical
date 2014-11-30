@@ -1,8 +1,31 @@
-> *The following text is extracted and transformed from the allrecipes.co.uk privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722192710id_/http%3A//allrecipes.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.co.uk privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130125509id_/http%3A//allrecipes.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - All recipes UK
 
-##  Privacy policy _ as of 15/07/2008_
+as of 15/07/2008
+
+  * About the Privacy Policy
+  * Types of Information We Collect
+  * How We Collect and Use Personal Information
+  * Registration, Purchases; Other Information Submissions
+  * E-mail and Newsletters
+  * E-mail-A-Friend
+  * Competitions, Promotions, Offers and Surveys
+  * Customer Service
+  * Cookies, Web Beacons and Log Files
+  * Disclosure of Personal Information
+  * Own Business Purposes
+  * Protection of Allrecipes.com and Others
+  * Business Transfers
+  * Children
+  * Third Party Advertising
+  * Third Party Links
+  * Third Party Sources
+  * Security
+  * Correcting/Updating Personal Information
+  * Contact us
+
+
 
 * * *
 
