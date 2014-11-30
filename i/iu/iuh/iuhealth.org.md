@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iuhealth.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100859id_/http%3A//iuhealth.org/patients/notice-of-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuhealth.org privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000041id_/http%3A//iuhealth.org/patients/notice-of-privacy-policy) for the most accurate reproduction.*
 
 # Notice of Privacy Practices | IU Health
 
@@ -168,7 +168,7 @@ IU Health reserves the right to change this Notice and to make the revised or ch
 
 If you believe IU Health has violated your privacy rights, you may file a complaint with IU Health or with the Secretary of the Department of Health and Human Services. You will not be penalized for filing a complaint. To file a complaint with IU Health, please submit a complaint in writing to the IU Health Risk Management department.
 
-If you have further questions about this Notice of Privacy Practices, please contact the IU Health Hospital Privacy Officer at 317.962.3597; or the IU Health Physicians Compliance Officer and Privacy Officer at 317.948.8906.
+If you have further questions about this Notice of Privacy Practices, please contact the IU Health Hospital Privacy Officer at [317.962.3597](tel:3179623597); or the IU Health Physicians Compliance Officer and Privacy Officer at [317.948.8906](tel:3179488906).
 
 **Contact Information**
 
@@ -177,33 +177,33 @@ Release of Information
 DG 412  
 1701 N. Senate Blvd.  
 Indianapolis, IN 46202  
-T 317.962.8670
+T [317.962.8670](tel:3179628670)
 
 IU Health Hospital Privacy Officer  
 Fairbanks Hall, Room 3110  
 340 W. 10th St.  
 Indianapolis, IN 46202  
-T 317.962.3597
+T [317.962.3597](tel:3179623597)
 
 IU Health Office of Philanthropy  
 Fairbanks Hall, Room 2102  
 340 W. 10th St.  
 Indianapolis, IN 46202  
-T 317.963.9796
+T [317.963.9796](tel:3179639796)
 
 IU Health Physicians Compliance Officer and Privacy Officer  
 6640 Intech Blvd., Suite 310  
 Indianapolis, IN 46278  
-T 317.948.8906
+T [317.948.8906](tel:3179488906)
 
 IU Health Risk Management Department  
 Fairbanks Hall, Room 3119  
 340 W. 10th St.  
 Indianapolis, IN 46202  
-T 317.962.2130
+T [317.962.2130](tel:3179622130)
 
 Office for Civil Rights  
 U.S. Department of Health and Human Services  
 233 N. Michigan Ave., Suite 240  
 Chicago, IL 60601  
-dhhs.gov
+[dhhs.gov](http://dhhs.gov/)
