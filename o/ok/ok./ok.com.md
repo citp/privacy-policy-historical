@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ok.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603021346id_/http%3A//ok.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130034432id_/http%3A//ok.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ok.com
-
-[Ok.com](https://web.archive.org/) Your family's media guide
 
 This privacy statement sets forth the privacy practices of Ok.com.
 
