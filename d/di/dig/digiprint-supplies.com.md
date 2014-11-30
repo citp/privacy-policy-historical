@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiprint-supplies.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531131651id_/http%3A//www.digiprint-supplies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiprint-supplies.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130041110id_/http%3A//www.digiprint-supplies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DIGIPRINT SUPPLIES
 
