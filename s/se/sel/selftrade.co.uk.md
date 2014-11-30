@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the selftrade.co.uk privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602084344id_/http%3A//www.selftrade.co.uk/docs/legal/pdf/privacy-policy/0114.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selftrade.co.uk privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130074207id_/http%3A//www.selftrade.co.uk/docs/legal/pdf/privacy-policy/0114.pdf) for the most accurate reproduction.*
 
 # 
 
-    Important information
+    IMPORTANT INFORMATION
     Privacy Policy
-                                                                                                                                                                                     0845 0700 720
-                                                                                                                                                                                     selftrade.co.uk
+                                                                                                                                                                           0845 0700 720
+                                                                                                                                                                           selftrade.co.uk
        We recognise that personal information you provide to us must be stored and handled in a safe, secure
        manner in order to ensure that it remains confidential. This Privacy Policy sets out our strict confidentiality
        standards, which are designed to protect the information we hold regarding you and your Account.
@@ -49,9 +49,10 @@
        telephone regarding such products or promotions.
        You can specify that you do not wish to receive marketing emails from us by sending an email with
        “unsubscribe” in the subject field to info@selftrade.co.uk. If you have registered more than one email
-Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk                                                                            FS16 1113
-Selftrade® is a trading name of Talos Securities Limited and registered trade mark of Boursorama. Talos Securities Limited is incorporated in England and Wales (Registration No. 4196325, Registered Address:
-Boatman’s House, 2 Selsdon Way, London E14 9LA), is authorised and regulated by the Financial Services Authority (FSA Register No. 208271) and is a member of the London Stock Exchange and PLUS Markets plc.
+Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk                                                                FS16 0914
+Selftrade® is a trading name of Talos Securities Limited and registered trade mark of Boursorama. Talos Securities Limited is incorporated in England and Wales (Registration No. 4196325, Registered
+Address: Boatman’s House, 2 Selsdon Way, London E14 9LA) and is a member of the London Stock Exchange and ICAP Securities & Derivatives Exchange Limited (ISDX). Talos Securities Limited is
+authorised and regulated by the Financial Conduct Authority (Register No. 208271).
 
 
        address with Selftrade, please list all your email addresses to be removed from our marketing emails
@@ -103,7 +104,7 @@ Boatman’s House, 2 Selsdon Way, London E14 9LA), is authorised and regulated b
        c - information otherwise obtained in conjunction with your subsequent use of the Website or any services.
        You confirm that you are entitled to disclose information about any third party named on an application
        form. You freely consent to the processing and disclosure of your Personal Data for the Purposes.
-Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk FS16 1113
+Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk FS16 0914
 
 
        B - Purposes for which we may process your Personal Data
@@ -161,7 +162,7 @@ Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 E
             insurance policy or contract;
        f - we do so in the event that our business or its assets are sold or transferred; or
        g - our legitimate business interests require the disclosure of the information.
-Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk FS16 1113
+Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk FS16 0914
 
 
        We currently transfer information which contains Personal Data to Boursorama, Equiniti Financial
@@ -215,7 +216,7 @@ Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 E
        For more information about how we use cookies, and your right to consent to their use, please see our
        Cookie Policy - (Please note that the Cookie Policy does not form part of this Privacy Policy or part of
        our Terms and Conditions).
-Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk FS16 1113
+Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk FS16 0914
 
 
        5 - Links to other websites
@@ -224,4 +225,4 @@ Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 E
        advertisers, nor for the way in which information about their users is treated. In particular, unless
        expressly stated, we are not agents for these sites or advertisers nor are we authorised to make
        representations on their behalf.
-Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk FS16 1113
+Selftrade, Boatman’s House, 2 Selsdon Way, London E14 9LA Tel: 0845 0700 720 Email: info@selftrade.co.uk www.selftrade.co.uk FS16 0914
