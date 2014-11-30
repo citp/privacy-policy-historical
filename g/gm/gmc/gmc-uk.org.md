@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325185903id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130113635id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
@@ -12,7 +12,7 @@ This statement outlines how we will use and protect information that you provide
   1. 2\. Your rights under the Data Protection Act 1998
   2. 3\. Social media 
   3. 4\. Website security: how we protect your information
-  4. 5\. Use of cookies
+  4. 5\. Use of cookies and social variables
 
 
 
@@ -22,35 +22,47 @@ We may collect personal information about you if you take part in a consultation
 
 ### Registration of doctors
 
-If you provide your details when inquiring about registration or sitting the Professional Linguistic Assessment Board (PLAB) test we will use that information for the following purposes:
+If you provide your details when enquiring about registration or sitting the Professional Linguistic Assessment Board (PLAB) test we will use that information for the following purposes:
 
   * To process your enquiry or application
   * To compile statistics
-  * To send you relevant GMC information and our e-newsletter, _GMC News_
   * We will supply information to the Department of Health, professional, education and training bodies so they can compile statistics
   * We may retain details of your application on our files and may disclose that information to overseas regulators in the EEA and elsewhere.
 
 
 
-If you subsequently obtain registration from the GMC we will use the information you provide to us for these purposes:
+### Revalidation of doctors
 
-  * Update the registers
-  * Administer and maintain your registration
-  * Process complaints
-  * Compile statistics
-  * Keep you updated with information about the GMC including guidance and news*.
+If you provide your details when enquiring about revalidation, confirming whether you have a prescribed connection, or submitting an annual return, we will use that information for the following purposes:
+
+  * To process your enquiry or annual return
+  * To determine how to revalidate you
+  * We may contact, and disclose information to your appraiser(s), bodies and/or organisations to which you have provided medical services, any Responsible Officer or Suitable Person who you have had a connection to since your last revalidation and overseas regulators in the EEA and elsewhere where you have been registered
+  * We may retain information provided by you for revalidation on our files and may disclose that information to overseas regulators in the EEA and elsewhere.
 
 
 
-We may be asked to provide your registered address to the British Medical Association, medical defence organisations and medical Royal Colleges and faculties so that they can keep their records up to date. We will only do so, where we are satisfied you are already a member. If you would prefer us not to share your registered address with these organisations please let us know either by writing to Registration Update Team, General Medical Council, 3 Hardman Street, Manchester M3 3AW or by sending an email to [registrationhelp@gmc-uk.org](mailto:registrationhelp@gmc-uk.org).
+If you subsequently obtain registration from the GMC, or if you provide information for the purposes of revalidation, we may additionally use this information to:
 
-All registered doctors’ Level 1 information will be published in the List of Registered Medical Practitioners on our website and made available to any enquirer. Level 1 information consists of registered doctors’ reference number, gender, name, any former name, year and place of primary medical qualification, registration status, date of registration and any publicly available fitness to practise history.
+  * update the registers
+  * administer and maintain your registration
+  * process complaints
+  * compile statistics and undertake research. We may work in partnership with external researchers to do this.
+  * keep you updated with information about the GMC including guidance and news*
 
-We will provide Level 2 information in response to telephone or written enquiries. Level 2 information is a registered doctor’s Level 1 information plus the date on which their annual retention fee is due.
 
-We will provide Level 3 Information to the UK health departments, employers and other regulatory bodies. Level 3 information consists of registered doctors’ Level 1 and 2 information plus, date of birth, photograph, passport details, registered address and whether a doctor is subject to investigation under the fitness to practise procedures.
 
-*We work hard to avoid cluttering up your inbox. We use technology to tailor the material we send you. We use "open tracking" in our email campaigns. If you open one of our emails and download the images contained in the email, or click on a link contained within the email, we will record this information. This helps us to understand your professional interests and develop our communications based on your preferences. If you do not wish to participate in "open tracking", your email application (Outlook, Hotmail, Gmail etc.) can be configured to prevent the downloading of email images and you should not click through the links contained in the email.
+*We work hard to avoid cluttering up your inbox. We use technology to tailor the material we send you. We use 'open tracking' in our email campaigns. If you open one of our emails and download the images contained in the email, or click on a link contained within the email, we will record this information. This helps us to understand your professional interests and develop our communications based on your preferences. If you do not wish to participate in 'open tracking', you can configure your email application (Outlook, Hotmail, Gmail etc) to prevent the downloading of email images and you should not click through the links contained in the email.
+
+**How we categorise doctors' information and who we'll share it with:**
+
+Level 1 information – is published in the List of Registered Medical Practitioners (LRMP) on our website and made available to any enquirer. It consists of registered doctors’ reference number, gender, name, year and place of primary medical qualification, registration status, date of registration and any publicly available fitness to practise history.
+
+Level 2 information – is a registered doctor’s Level 1 information plus the date on which their annual retention fee is due. We give it out in response to telephone or written enquiries.
+
+Level 3 information - is registered doctors’ Level 1 and 2 information plus date of birth, photograph, passport details, registered email address, registered address and whether a doctor is subject to investigation under the fitness to practise procedures. We will only give Level 3 Information to UK health departments, employers, designated bodies, Responsible Officers, Suitable Persons and other bodies where appropriate.
+
+Some organisations may ask us for your registered address so they can contact you about the services they provide. These may include the British Medical Association, medical defence organisations and medical Royal Colleges and faculties so they can keep their records up to date. We will only give your Level 3 information to them where we are satisfied you are already a member and haven’t asked us not to share with them. If you would like to update your preference for us to share your registered address with these organisations please let us know either by writing to Registration Update Team, General Medical Council, 3 Hardman Street, Manchester M3 3AW or by sending an email to [registrationhelp@gmc-uk.org](mailto:registrationhelp@gmc-uk.org).
 
 ### Third Party Service Providers
 
@@ -112,7 +124,9 @@ We are accredited to the international information security standard ISO27001 an
 
 For further advice on how you can keep your information secure online, you may find it useful to visit [Get Safe Online](http://www.getsafeonline.org/ "Opens in a new window"), which is jointly funded by government and private sector businesses.
 
-## 5\. Use of Cookies
+## 5\. Use of Cookies and Session variables
+
+### Cookies
 
 When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally. In some cases we may record your computer’s IP address in a cookie so that we are able to remember your preferences when visiting our website.
 
@@ -127,11 +141,11 @@ These pieces of information are used to improve services for you through, for ex
 
 We use two types of cookies, session cookies and persistent cookies.
 
-**Session Cookies** are stored only for the duration of your visit to the website and these are deleted from your device when your browsing session ends. Persistent Cookies  are stored on your device for a fixed period.
+**Session Cookies** are stored only for the duration of your visit to the website and these are deleted from your device when your browsing session ends.
 
 **Persistent cookies** are used where we need to know who you are for more than one usage session. For example, if you have asked us to remember preferences like your location or your username.
 
-### How to control and delete cookies
+#### How to control and delete cookies
 
 If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
 
@@ -139,15 +153,15 @@ If you wish to restrict or block web browser cookies which are set on your devic
 
 Please be aware that restricting cookies may impact on the functionality of our website.
 
-The GMC is subject to the EC Privacy and Electronic Communications directive, otherwise known as the “E-privacy directive”. As part of our approach to being compliant with this directive we are keen to show the cookies currently in use on the GMC websites. This is our current position and we will continue to review this over the coming weeks.  
+The GMC is subject to the EC Privacy and Electronic Communications directive, otherwise known as the “E-privacy directive”. As part of our approach to being compliant with this directive we are keen to show the cookies currently in use on the GMC websites.
 
 The information below details the cookies used on the GMC websites.
 
-### First party cookies
+#### First party cookies
 
 The following cookies are set by the GMC.  
 
-#### The GMC website: [http://www.gmc-uk.org]
+##### The GMC website: [http://www.gmc-uk.org]
 
 N.B. Certain pages on the GMC website have ‘Share’ functionality with Facebook and Twitter that result in an advertising cookie ‘AddThis.com’ being added to your device. Personal information is not collected by this cookie, but you can easily stop AddThis from collecting any information about you for online behavioural advertising by [opting out](http://www.addthis.com/privacy/opt-out "Opens in a new window"). 
 
@@ -159,13 +173,13 @@ MobileNoDetect | This cookie is set to allow a mobile device to use a link to vi
 _atuvc | This cookie is an Addthis.com cookie set when using the Share functionality for Facebook and Twitter. | Persistent  
 GMCAcceptCookie | This is set when you click on 'Accept cookies'   | Persistent  
   
-####  The GMC Mobile website: [http://www.gmc-uk.org/mobile]
+#####  The GMC Mobile website: [http://www.gmc-uk.org/mobile]
 
  Name | Purpose | Cookie type  
 ---|---|---  
 WT_FPC | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
   
-#### The GMC Learning Disabilities website: [http://www.gmc-uk.org/learningdisabilities]
+##### The GMC Learning Disabilities website: [http://www.gmc-uk.org/learningdisabilities]
 
 N.B. The pages on the GMC Learning Disabilities website have ‘Share’ functionality with Facebook and Twitter that result in an advertising cookie ‘AddThis.com’ being added to your device. Personal information is not collected by this cookie, but you can easily stop AddThis from collecting any information about you for online behavioural advertising by [opting out](http://www.addthis.com/privacy/opt-out "Opens in a new window").
 
@@ -176,7 +190,7 @@ ASP.NET_SessionId | This cookie is necessary for site functionality. | Session
 _atuvc | This cookie is an Addthis.com cookie set when using the Share functionality for Facebook and Twitter. | Persistent  
 GMCAcceptCookie  | This is set when you click on 'Accept cookies'    | Persistent   
   
-#### The GMC Consultation website: [https://gmc.e-consultation.net/econsult/]
+##### The GMC Consultation website: [https://gmc.e-consultation.net/econsult/]
 
 Name | Purpose | Cookie type  
 ---|---|---  
@@ -193,7 +207,7 @@ This is used for the “Remember Me” function upon a successful login.
 
 Persistent  
   
-#### The GMC Recruitment website: [https://jobs.gmc-uk.org]
+##### The GMC Recruitment website: [https://jobs.gmc-uk.org]
 
 Name | Purpose | Cookie type  
 ---|---|---  
@@ -204,13 +218,13 @@ Ccp_name2965   | Captures candidate name - only set if user registers to use t
 Wedeputy_reg_username_3552 | Captures candidate username - only set if user registers to use the site and allows user to apply for jobs. | Session  
 Wedeputy_reg_email_3552 | Captures candidate email address - only set if user registers to use the site and allows user to apply for jobs. | Session  
   
-#### GMC Connect: [https://webcache.gmc-uk.org/filescanner/upload]
+##### GMC Connect: [https://webcache.gmc-uk.org/filescanner/upload]
 
 Name | Purpose | Cookie type  
 ---|---|---  
 jsessionid | This cookie is necessary to upload a file to GMC Connect. | Session  
   
-### Third Party Cookies
+#### Third Party Cookies
 
 The following cookies are set by third parties who provide a service to the GMC:
 
@@ -221,4 +235,8 @@ The following cookies are set by third parties who provide a service to the GMC:
 Name | Purpose | Cookie type  
 ---|---|---  
 WEBTRENDS_ID | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
-ACOOKIE | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent
+ACOOKIE | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
+  
+### Session variables
+
+Some of our microsites use session variables in order to record your responses, such as the [Fitness to practise panel decisions in action](http://www.gmc-uk.org/pdia "Opens in a new window") site. Session variables are different to cookies because they are stored on the server relative to the session, rather than your device. Session Variables are semi-permanent data files that exist only while your session with an application is active. Session variables are specific to each visitor and are deleted when you close the browser.
