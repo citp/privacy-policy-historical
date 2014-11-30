@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penthousevideos.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617153204id_/http%3A//penthousevideos.com/terms.php%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penthousevideos.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130144459id_/http%3A//penthousevideos.com/terms.php%3Fprivacy%3D1) for the most accurate reproduction.*
 
 # Privacy Policy at Penthouse Videos
 
