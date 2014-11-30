@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlfi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071403id_/http%3A//wlfi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlfi.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130062646id_/http%3A//wlfi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | wlfi.com
 
@@ -31,3 +31,5 @@ To opt out of eXelate cookies, see <http://www.exelate.com/consumer-opt-out/>.
 If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact us at privacypolicy@linmedia.com.
 
 7513
+
+[blog comments powered by Disqus](http://disqus.com/)
