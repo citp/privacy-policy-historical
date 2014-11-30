@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the szul.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807061109id_/http%3A//www.szul.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the szul.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130034441id_/http%3A//www.szul.com/privacy.aspx) for the most accurate reproduction.*
 
 # Szul.com - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **Szul Jewelry, Inc.** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
-  * What personally identifiable information of yours or third party personally identification is collected from you through the web site 
+  * What personally identifiable information of yours or third party personal identification is collected from you through the web site 
   * The organization collecting the information 
   * How the information is used 
   * With whom the information may be shared 
@@ -25,7 +25,7 @@ If you have questions or concerns regarding this statement, you should first con
 Effective on: (05/25/04)  
 Szul offers a written privacy policy to inform customers about the type of information we collect, why we collect it, how it is processed, and with whom it may be shared. 
 
-We respect the value of all personal information that you share with us. We appreciate the fact that you are showing us your trust and confidence, and we promise to live up to your expectations at all times. We will use you personal information only to improve your shopping experience on the site, and **we will not share your information** with any outside parties, except as outlined in this privacy statement (see "Third party intermediaries) 
+We respect the value of all personal information that you share with us. We appreciate the fact that you are showing us your trust and confidence, and we promise to live up to your expectations at all times. We will use your personal information only to improve your shopping experience on the site, and **we will not share your information** with any outside parties, except as outlined in this privacy statement (see "Third party intermediaries) 
 
 ###  **Why we need customer information**
 
@@ -61,7 +61,7 @@ Customers may update or correct their information via the "My Account" section o
 
 ####  **f) E-mail links:**
 
-We use e-mail links located on the "Contact Us" page to allow customers to contact us directly with any questions or comments they may have. We read every message, and we try to reply promptly to every one. This information is used solely to respond to customer questions or comments. We may file comments to use as we improve our site, products, and services, or we may review and discard the information. 
+We use e-mail links located on the "Contact Us" page to allow customers to contact us directly with any questions or comments they may have. We read every message, and we try to reply promptly to everyone. This information is used solely to respond to customer questions or comments. We may file comments to use as we improve our site, products, and services, or we may review and discard the information. 
 
 ####  **g) Customize Jewelry Form**
 
@@ -88,7 +88,7 @@ When customers enter Szul's site, we automatically track their last visited URL,
 
 ###  **Third party intermediaries**
 
-Szul promises not to share personal information with any third parties other than intermediaries involved in the process of completing an online transaction. Such intermediaries act as links in the order fulfillment chain and do not store, use, or retain any of the information we give them. Examples include credit card companies, authorization services, and banks. Please be awaare that when you register for our Affiliate Program, you will be entering your personal information on our third party secured server site www.ssl.linksynergy.com. This page has the look and feel of the Szul site for ease of naviation back to our site. 
+Szul promises not to share personal information with any third parties other than intermediaries involved in the process of completing an online transaction. Such intermediaries act as links in the order fulfillment chain and do not store, use, or retain any of the information we give them. Examples include credit card companies, authorization services, and banks. Please be aware that when you register for our Affiliate Program, you will be entering your personal information on our third party secured server site www.ssl.linksynergy.com. This page has the look and feel of the Szul site for ease of navigation back to our site. 
 
 ###  **Security policy**
 
@@ -122,4 +122,5 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-Copyright 1999-2013 Szul.com, All rights reserved.
+Szul and its logos are registered trademarks of Szul Jewelry, Inc. All copyrighted logos are used with businesses’ permission.  
+Copyright 1999-2014 Szul.com. 
