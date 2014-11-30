@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the padlet.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626042748id_/http%3A//jn.padlet.com/article/32-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the padlet.com privacy policy that was archived on 2014-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141130103027id_/http%3A//sl.padlet.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -9,7 +9,7 @@
 <meta name="description" content="Wallwisher, Inc. (&quot;Padlet&quot;, &quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) takes the private nature of your personal information very seriously. This policy regarding our privacy practi">
 <meta name="author" content="Padlet">
 <link rel="canonical" href="http://jn.padlet.com/article/32-privacy-policy">
-<link rel="stylesheet" href="//d25gbwvd82b2e5.cloudfront.net/assets/stylesheets/launch-1403529059678.css">
+<link rel="stylesheet" href="//d25gbwvd82b2e5.cloudfront.net/assets/stylesheets/launch-1416317796749.css">
 <style>body{background:#fff}.navbar .navbar-inner{background:#000}.navbar .nav li a,.navbar .icon-private-w{color:silver}.navbar .brand,.navbar .nav li a:hover,.navbar .nav li a:focus,.navbar .nav .active a,.navbar .nav .active a:hover,.navbar .nav .active a:focus{color:#fff}.navbar a:hover .icon-private-w,.navbar a:focus .icon-private-w,.navbar .active a .icon-private-w,.navbar .active a:hover .icon-private-w,.navbar .active a:focus .icon-private-w{color:#fff}#serp-dd .result a:hover,#serp-dd .result>li.active,#full-Article strong a,.collection a,.contentWrapper a,.most-pop-articles .popArticles a,.most-pop-articles .popArticles a:hover span,.category-list .category .article-count,.category-list .category:hover .article-count{color:#3498db}#fullArticle,#fullArticle p,#fullArticle ul,#fullArticle ol,#fullArticle li,#fullArticle div,#fullArticle blockquote,#fullArticle dd,#fullArticle table{color:#585858}</style>
 <link rel="stylesheet" href="">
 <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/52c32846e4b035b8451b2d6e/images/52c33cefe4b035b8451b2db6/crane_floral_avatar.png">
@@ -81,6 +81,8 @@ We seek to protect your information (including your Account information) to ensu
 <ul class="nav nav-list">
 <li class="active"><a href="/category/29-about-us">About Us <i class="icon-arrow"></i></a></li>
 <li><a href="/category/71-account">Account <i class="icon-arrow"></i></a></li>
+<li><a href="/category/108-error-message">Errors and Warnings <i class="icon-arrow"></i></a></li>
+<li><a href="/category/123-padlet-backpack">Padlet Backpack <i class="icon-arrow"></i></a></li>
 <li><a href="/category/20-browsers">Browsers <i class="icon-arrow"></i></a></li>
 <li><a href="/category/15-exporting">Exporting <i class="icon-arrow"></i></a></li>
 <li><a href="/category/38-getting-started">Getting Started <i class="icon-arrow"></i></a></li>
@@ -107,26 +109,26 @@ We seek to protect your information (including your Account information) to ensu
 <div class="control-group">
 <label for="name" class="control-label">Name</label>
 <div class="controls">
-<input type="text" name="name" id="name" placeholder="(optional)">
+<input type="text" name="name" id="md-name" placeholder="(optional)">
 </div>
 </div>
 <div class="control-group">
 <label for="email" class="control-label">Email</label>
 <div class="controls">
-<input type="email" name="email" id="email" parsley-required="true" parsley-type="email" parsley-notblank="true" parsley-required-message="Email is required">
+<input type="email" name="email" id="md-email" parsley-required="true" parsley-type="email" parsley-notblank="true" parsley-required-message="Email is required">
 <input type="text" name="phone" id="phone" value="">
 </div>
 </div>
 <div class="control-group">
 <label for="subject" class="control-label">Subject</label>
 <div class="controls">
-<input type="text" name="subject" id="subject" parsley-required="true" parsley-notblank="true" parsley-required-message="Subject is required">
+<input type="text" name="subject" id="md-subject" parsley-required="true" parsley-notblank="true" parsley-required-message="Subject is required">
 </div>
 </div>
 <div class="control-group">
 <label for="message" class="control-label">Message</label>
 <div class="controls">
-<textarea name="message" id="message" parsley-required="true" parsley-notblank="true" parsley-required-message="Message is required"></textarea>
+<textarea name="message" id="md-message" parsley-required="true" parsley-notblank="true" parsley-required-message="Message is required"></textarea>
 </div>
 </div>
 <div class="form-actions">
@@ -135,10 +137,10 @@ We seek to protect your information (including your Account information) to ensu
 </form>
 </div>
 </section>
-<script src="//d25gbwvd82b2e5.cloudfront.net/assets/javascripts/app2.min.js"></script>
-<script src="//d25gbwvd82b2e5.cloudfront.net/assets/javascripts/lib/parsley.min.js"></script>
+<script src="//d25gbwvd82b2e5.cloudfront.net/assets/javascripts/app3.min.js"></script>
 <script>if(("standalone"in window.navigator)&&window.navigator.standalone){var noddy,remotes=false;document.addEventListener('click',function(event){noddy=event.target;while(noddy.nodeName!=="A"&&noddy.nodeName!=="HTML"){noddy=noddy.parentNode;}
-if('href'in noddy&&noddy.href.indexOf('http')!==-1&&(noddy.href.indexOf(document.location.host)!==-1||remotes)){event.preventDefault();document.location.href=noddy.href;}},false);}</script>
+if('href'in noddy&&noddy.href.indexOf('http')!==-1&&(noddy.href.indexOf(document.location.host)!==-1||remotes)){event.preventDefault();document.location.href=noddy.href;}},false);}
+$('#contactModal').on('shown',function(){$('#md-name').focus();});</script>
 
 
 </body></html>
