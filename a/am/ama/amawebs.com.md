@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amawebs.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629043543id_/http%3A//amawebs.com/pdf/privacy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amawebs.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130031821id_/http%3A//www.amawebs.com/pdf/privacy_en.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
