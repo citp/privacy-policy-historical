@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the slightlyviral.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531034801id_/http%3A//www.slightlyviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slightlyviral.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130054322id_/http%3A//www.slightlyviral.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Slightly Viral
 
-100
-
- ****As fellow Internet users ourselves, we totally respect your online privacy. So it goes without saying that we at are fully committed to safeguarding your online privacy while you’re here at the SlightlyViral website.
+****As fellow Internet users ourselves, we totally respect your online privacy. So it goes without saying that we at are fully committed to safeguarding your online privacy while you’re here at the SlightlyViral website.
 
 And that’s precisely why we have decided to include the following, which discloses the information gathering and dissemination practices for this website.
 
