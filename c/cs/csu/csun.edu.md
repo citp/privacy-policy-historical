@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csun.edu privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819130135id_/http%3A//www-admn.csun.edu/vp/policies/500_itr/500-8025.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csun.edu privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130074007id_/http%3A//www.csun.edu/sites/default/files/500-8025.pdf) for the most accurate reproduction.*
 
 # I. Privacy of Personal Information:
 
