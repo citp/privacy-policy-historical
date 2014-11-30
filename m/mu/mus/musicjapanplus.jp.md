@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicjapanplus.jp privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618082820id_/http%3A//www.musicjapanplus.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicjapanplus.jp privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130055210id_/http%3A//www.musicjapanplus.jp/privacy) for the most accurate reproduction.*
 
-# musicJAPANplus -Privacy policy+-
+# musicJAPANplus - privacy policy - Jpop, Jrock, and visual kei.-
 
 Personal Information Protection Policy  
 Cool Japan Inc prescribes this Privacy Policy based on the ethical codes of the company for the necessary operation of personal information. It is for us to found a personal data administration system and realize the obligation as the enterprise side.
