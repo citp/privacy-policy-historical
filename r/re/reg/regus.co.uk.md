@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regus.co.uk privacy policy that was archived on 2014-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140308034241id_/http%3A//www.regus.co.uk/images/PrivacyPolicy_tcm7-38647.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regus.co.uk privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130032717id_/http%3A//www.regus.co.uk/images/PrivacyPolicy_tcm294-38647.pdf) for the most accurate reproduction.*
 
 # Privacy Policy of Regus Group
 
