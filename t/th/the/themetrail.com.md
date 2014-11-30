@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the themetrail.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115107id_/http%3A//themetrail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themetrail.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130094642id_/http%3A//themetrail.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ThemeTrail
 
-ThemeTrail.com (“Website”) collects and manages user data according to the privacy policy (“Policy”) as outlined below. This Policy is part of ThemeTrail’s [Terms of Service](https://web.archive.org/web/20140625115107id_/http://themetrail.com/terms/). By using this Website you represent that you have the legal capacity to enter into a binding agreement, that you agree to the terms of this Policy and the Terms of Service.
+ThemeTrail.com (“Website”) collects and manages user data according to the privacy policy (“Policy”) as outlined below. This Policy is part of ThemeTrail’s [Terms of Service](https://web.archive.org/web/20141130094642id_/http://themetrail.com/terms/). By using this Website you represent that you have the legal capacity to enter into a binding agreement, that you agree to the terms of this Policy and the Terms of Service.
 
 ### Data Collection
 
-This Website collects anonymous data to monitor traffic and bug fixing, such as the internet protocol address, browser type, the browser language, and timestamps. 
+This Website collects anonymous data to monitor traffic and bug fixing, such as the internet protocol address, browser type, the browser language, and timestamps.
 
 In order to access your account, you need to provide us with personal information such as your name and email address. All login based features are using cookies to store information about your session. You can disable or delete those cookies in the privacy settings of your browser, and still use this Website, with the downside that you have to enter your login details every time anew.
 
@@ -17,6 +17,8 @@ You can at any time view, update and remove your account data. If you choose to 
 A cookie is a simple text file that contains certain data, sent by a server to a browser; stored by the browser. If you are not happy with this common practice, you should not use this Website.
 
 This Website is using both “session” as well as “permanent” cookies. Session cookies will be deleted when closing the browser. Permanent cookies will are being stored they expired or deleted.
+
+This Website is using Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).”
 
 ### Data Usage
 
