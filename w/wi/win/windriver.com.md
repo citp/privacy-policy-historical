@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windriver.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065212id_/http%3A//www.windriver.com/company/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windriver.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130092906id_/http%3A//www.windriver.com/company/terms/privacy.html) for the most accurate reproduction.*
 
 # Wind River Terms and Conditions: Privacy Statement for windriver.com
 
@@ -8,7 +8,7 @@ Wind River® Systems, Inc. ("Wind River") has created this privacy statement to 
 
 We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to gather broad demographic information. We use cookies to save your password so you don't have to re-enter it each time you visit our support website. 
 
-Our site's registration forms require users to give us contact information (such as their name, mailing address, and email address). We may use contact information from the registration forms to send you information about our company. The user's contact information is also used to contact the user when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. We also gather specific technical information about the user's development environment to better understand the needs of our customers. 
+Our site's registration forms require users to give us contact information (such as their name, mailing address, and email address). By providing your contact information, you have authorized Wind River to contact you via telephone and email with information about Wind River products, events, and updates. For more information, please review the [Wind River Terms of Use](http://www.windriver.com/company/terms/) and [Privacy Notice](http://www.windriver.com/company/terms/privacy.html#details_1) . Users may opt-out of receiving future mailings; see the choice/opt-out section below. We also gather specific technical information about the user's development environment to better understand the needs of our customers. 
 
 This site contains links to other sites. Www.windriver.com is not responsible for the privacy practices or the content of such websites. 
 
