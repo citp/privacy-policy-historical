@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529093553id_/http%3A//10-strike.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130090741id_/http%3A//www.10-strike.com/privacy.shtml) for the most accurate reproduction.*
 
-# Links: Software Download Archives
+# Privacy Policy
+
+You are here: [Home](https://web.archive.org/) > Privacy Policy
 
 This Privacy Policy has been created to demonstrate our commitment to your privacy and protection of your information. The Policy applies only to the 10-Strike Software company.  
 We do not give, share, sell or transfer any personal information to a third party.
@@ -15,3 +17,13 @@ When you place an online order with us, we re-direct you to secure paying system
 When you buy our products elsewhere and register with us, we keep your registration code along with your contact information: name, address, phone (optional), email. We use security measures to protect against loss, misuse and alteration of data used by our system.
 
 For more information on our privacy policy please contact us at: [info@10-strike.com](mailto:info@10-strike.com)
+
+[Subscribe](https://web.archive.org/subscribe.php "Subscribe to our newsletter!")
+
+All products
+
+[LANState](https://web.archive.org/lanstate/ "10-Strike LANState")  
+Monitor and Manage Network Hosts on a Visual Map, Create Network Maps 
+
+[SearchMyDiscs](https://web.archive.org/searchmydiscs/ "10-Strike SearchMyDiscs")  
+Catalog CD/DVD Discs and external HDDs, Create the File Database 
