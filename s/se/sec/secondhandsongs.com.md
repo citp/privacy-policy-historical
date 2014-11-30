@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondhandsongs.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602144124id_/http%3A//www.secondhandsongs.com/wiki/Main/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondhandsongs.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000526id_/http%3A//www.secondhandsongs.com/wiki/Main/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiki - PrivacyPolicy | SecondHandSongs
 
