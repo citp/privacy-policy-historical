@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055800id_/https%3A//www.elifesciences.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130110507id_/http%3A//elifesciences.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | eLife
 
