@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070454id_/http%3A//instantpot.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130065233id_/http%3A//instantpot.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.printfriendly.com/print/v2?url=http://instantpot.com/policies/privacy-policy/)
 
 This Privacy Policy describes the terms of our commitment to respect and protect your privacy.
 
@@ -60,3 +58,5 @@ Canada
 Copyright © 2008 [Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at InstantPot.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
 This Privacy Policy was last updated on June 9th, 2009.
+
+[](http://www.printfriendly.com/print/v2?url=http://instantpot.com/policies/privacy-policy/)
