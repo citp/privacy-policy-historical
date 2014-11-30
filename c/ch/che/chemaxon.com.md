@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530140432id_/http%3A//www.chemaxon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130052526id_/http%3A//www.chemaxon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « ChemAxon – cheminformatics platforms and desktop applications
 
