@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getinternetmarketingstrategies.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224030757id_/http%3A//getinternetmarketingstrategies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinternetmarketingstrategies.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130102533id_/http%3A//getinternetmarketingstrategies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ Dot Comers
 
@@ -13,14 +13,14 @@ The website owner is a participant in the Amazon Services LLC Associates Program
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, may use cookies to serve ads on this http://getinternetmarketingstrategies.com/ website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other [websites](http://getinternetmarketingstrategies.com/7vdd "websites") on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
 
 **[Links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "Links") to Third Party [Websites](http://getinternetmarketingstrategies.com/7vdd "Websites")**  
 We have included [links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "links") on this website for your use and reference. We are not responsible for the privacy policies on these [websites](http://getinternetmarketingstrategies.com/7vdd "websites"). You should be aware that the privacy policies of these [websites](http://getinternetmarketingstrategies.com/7vdd "websites") may differ from our own. 
 
-**Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....**  
+**Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….**  
 Google Adsense  
 Ebay Partner Network  
 Share-A-Sale  
@@ -38,7 +38,7 @@ This website is a member of the ePN (eBay Partner Network). We are required by e
 **State Law & Accompanying Rights**  
 Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
 
-**Our Commitment To Children's Privacy**  
+**Our Commitment To Children’s Privacy**  
 Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
 
 Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
