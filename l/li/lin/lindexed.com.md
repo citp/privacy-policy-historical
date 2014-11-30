@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindexed.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095856id_/http%3A//www.lindexed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindexed.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130184635id_/http%3A//www.lindexed.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Lindexed.com
 
