@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guides.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133940id_/http%3A//www.guides.co/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guides.co privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000519id_/http%3A//guides.co/privacy_policy) for the most accurate reproduction.*
 
 # Guides.co Privacy Policy
 
@@ -20,7 +20,7 @@ User profile information including members' pictures and names are displayed to 
 
 Members can invite other people to join the service by sending invitation emails via our automated invitation system. GUIDES.CO may store the email addresses that members provide so that the respondents may be added to the user's list of the member sending the invitations, and also to send reminders of the invitations. GUIDES.CO online services does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from GUIDES.CO may contact GUIDES.CO to request the removal of their information from our database.
 
-GUIDES.CO members may also store email addresses of people they know in their internal contact book as part of the member network. Any such use is subject to our [Terms of Use](https://web.archive.org/terms-of-use).
+GUIDES.CO members may also store email addresses of people they know in their internal contact book as part of the member network. Any such use is subject to our [Terms of Use](https://web.archive.org/terms_of_use).
 
 #### Use of Cookies 
 
@@ -52,4 +52,4 @@ From time to time we may make changes to our privacy policy. If we make changes,
 
 #### Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact us at [privacy@accel.io](mailto:privacy@accel.io).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact us at [privacy@guides.co](mailto:privacy@guides.co).
