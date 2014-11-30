@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the xiaomi.eu privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601023642id_/http%3A//xiaomi.eu/community/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiaomi.eu privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130034636id_/http%3A//xiaomi.eu/community/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unofficial International MIUI / Xiaomi Phone Support
+
+TEST 
 
 This privacy policy sets out how Xiaomi.eu uses and protects any information that you give Xiaomi.eu when you use this website.
 
