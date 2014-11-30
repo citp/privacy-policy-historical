@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elistmania.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072932id_/http%3A//elistmania.com/general/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elistmania.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130030330id_/http%3A//elistmania.com/general/privacy-policy.php) for the most accurate reproduction.*
 
 # e-ListMania: Home | Terms of Service
 
