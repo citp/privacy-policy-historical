@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ttpm.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411202619id_/http%3A//www.timetoplaymag.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttpm.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130033418id_/http%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# TimetoPlayMag.com Privacy Policy | TimetoPlayMag.com | Time to Play | TTPM.com
+# Privacy Policy | Time to Play | TTPM.com
 
 #### PLEASE READ OUR PRIVACY POLICY CAREFULLY BEFORE USING THIS WEB SITE. YOUR USE OF THIS WEB SITE CONFIRMS YOUR UNCONDITIONAL ACCEPTANCE OF THE FOLLOWING TERMS AND CONDITIONS. IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, DO NOT USE THIS WEB SITE.
 
 ### What information do we collect?
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address. You may, however, visit our site anonymously.
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form, and register for any of our sweepstakes. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
@@ -40,7 +40,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.timetoplaymag.com/legal/terms-of-use/>.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://ttpm.com/legal/terms-of-use/>.
 
 ### Changes to our Privacy Policy
 
@@ -48,6 +48,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information posted at [http://www.timetoplaymag.com/about](http://www.timetoplaymag.com/about/#contact).
+If there are any questions regarding this privacy policy you may contact us using the information posted at [http://ttpm.com/about/](http://ttpm.com/about/#contact).
 
-###### Updated: April 1, 2013
+###### Updated: April 1, 2014
