@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vitalproteins.com privacy policy that was archived on 2014-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622062245id_/http%3A//www.vitalproteins.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalproteins.com privacy policy that was archived on 2014-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141130134133id_/http%3A//www.vitalproteins.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -27,6 +27,10 @@
 <link rel="stylesheet" type="text/css" href="http://www.vitalproteins.com/skin/frontend/default/simplegreat/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.vitalproteins.com/skin/frontend/default/simplegreat/css/widgets.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.vitalproteins.com/skin/frontend/default/default/aw_blog/css/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.vitalproteins.com/skin/frontend/default/default/css/magestore/affiliateplus.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.vitalproteins.com/skin/frontend/default/default/css/magestore/affiliateplusreferfriend.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.vitalproteins.com/skin/frontend/default/default/css/tinybox/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.vitalproteins.com/skin/frontend/default/default/css/magestore/affiliateplusprogram.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.vitalproteins.com/skin/frontend/default/simplegreat/css/print.css" media="print">
 <script type="text/javascript" src="http://www.vitalproteins.com/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="http://www.vitalproteins.com/js/prototype/prototype.js"></script>
@@ -44,6 +48,8 @@
 <script type="text/javascript" src="http://www.vitalproteins.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://www.vitalproteins.com/js/mage/cookies.js"></script>
 <script type="text/javascript" src="http://www.vitalproteins.com/js/jquery/func.js"></script>
+<script type="text/javascript" src="http://www.vitalproteins.com/js/magestore/affiliateplus.js"></script>
+<script type="text/javascript" src="http://www.vitalproteins.com/js/tinybox/tinybox.js"></script>
 <script type="text/javascript" src="http://www.vitalproteins.com/js/easing/jquery.easing.1.3.min.js"></script>
 <script type="text/javascript" src="http://www.vitalproteins.com/js/slideshow/efects.js"></script>
 <link href="http://www.vitalproteins.com/blog/rss/index/store_id/1/" title="Blog" rel="alternate" type="application/rss+xml">
@@ -481,6 +487,24 @@ h1 {
 .block-cart-header #header-items {
 	border-color: #103763;
 }
+.box-product-item {
+    border: 8px solid #FFFFFF;
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 5px;
+    min-height: 414px;
+    overflow: hidden;
+    padding-bottom: 20px;
+    width: 294px;
+}
+.box-product-item .image {
+    border-bottom: 1px solid #EAE9E9;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+
 .box-product-item .name a {
 	color: #000000;
 	display: block;
@@ -492,7 +516,11 @@ h1 {
 	padding-right: 20px;
 	text-align: left;
 	text-overflow: ellipsis;
-	white-space: nowrap;
+	white-space: normal;
+        width: 150px;
+}
+.category-products .box-product-item .name a {
+  width: 130px;
 }
 .box-product-item .price {
 	color: #000000;
@@ -521,6 +549,9 @@ h1 {
 	margin-left: 20px;
 	margin-bottom: 20px;
 }
+#product_tabs_description_contents li {
+	padding-bottom: 5px;
+}
 .cart-table .quantity_box_button_up, .cart-table .quantity_box_button_down, .cart-table .qty {
 	padding: 0;
 	width: 20px;
@@ -548,6 +579,9 @@ input, input.input-text, select, textarea {
 	float: left;
 	height: 39px;
 }
+.products-grid .box-product-item {
+    width: 294px;
+}
 .product-view .white-back .box-product-buttons .buttons-cart, .ajax-index-options .box-product-buttons .buttons-cart {
 	margin-left: 93px;
 	margin-top: 20px;
@@ -562,6 +596,11 @@ input, input.input-text, select, textarea {
 .product-view .product-shop .price-box .price {
 	font-weight: normal;
 	font-size: 20px;
+}
+.product-view .product-shop .product-name {
+margin: 0 0 5px;
+color: #090909;
+width: 290px;
 }
 .product-view .product-shop .product-name h2 {
 	font-size: 22px;
@@ -578,6 +617,20 @@ input, input.input-text, select, textarea {
 .pasture-raised {
        float: right;
        margin-top: 40px;
+}
+.product-tabs {
+float: left;
+display: none;
+}
+.product-collateral .product-tabs-content {
+min-height: 150px;
+background: #ffffff;
+padding: 15px;
+border: 1px solid #DCDDDD;
+margin-left: 0px;
+}
+#swipebox-overlay {
+background: #ffffff;
 }	
 </style>
 
@@ -675,17 +728,21 @@ input, input.input-text, select, textarea {
 <option value="http://www.vitalproteins.com/">Home</option>
 <option value="http://www.vitalproteins.com/collagen.html">
  Collagen
-</option><option value="http://www.vitalproteins.com/collagen-and-gelatin-benefits.html">
- Collagen Benefits
+</option><option value="http://www.vitalproteins.com/collagen-and-gelatin-research.html">
+ Collagen Research
 </option>
-<option value="http://www.vitalproteins.com/collagen-and-gelatin-benefits/collagen-benefits-skin1.html">
+<option value="http://www.vitalproteins.com/collagen-and-gelatin-research/collagen-benefits-skin1.html">
 - Preventing Skin Aging
-</option><option value="http://www.vitalproteins.com/collagen-and-gelatin-benefits/collagen-benefits-joint-and-bone-health-ri.html">
+</option><option value="http://www.vitalproteins.com/collagen-and-gelatin-research/collagen-benefits-joint-and-bone-health-ri.html">
 - Joint &amp; Bone Health
-</option><option value="http://www.vitalproteins.com/collagen-and-gelatin-benefits/collagen-supplements-natural-protein-nutrition-benefits-2.html">
+</option><option value="http://www.vitalproteins.com/collagen-and-gelatin-research/collagen-supplements-natural-protein-nutrition-benefits-2.html">
 - Lean Body and Athletic Performance
 </option><option value="http://www.vitalproteins.com/blog.html">
  Blog
+</option><option value="http://www.vitalproteins.com/frequently-asked-questions.html">
+ FAQ
+</option><option value="http://www.vitalproteins.com/affiliate-program.html">
+ Affiliate
 </option><option value="http://www.vitalproteins.com/wholesale.html">WHOLESALE</option>
  
 <option value="http://www.vitalproteins.com/about-vital-proteins">ABOUT US</option>
@@ -702,27 +759,35 @@ input, input.input-text, select, textarea {
 <span>Collagen</span>
 </a>
 </li><li class="level0 nav-2 level-top parent">
-<a href="http://www.vitalproteins.com/collagen-and-gelatin-benefits.html" class="level-top">
-<span>Collagen Benefits</span>
+<a href="http://www.vitalproteins.com/collagen-and-gelatin-research.html" class="level-top">
+<span>Collagen Research</span>
 </a>
 <ul class="level0 chield chield3">
 <li class="level1 nav-2-1 first">
-<a href="http://www.vitalproteins.com/collagen-and-gelatin-benefits/collagen-benefits-skin1.html">
+<a href="http://www.vitalproteins.com/collagen-and-gelatin-research/collagen-benefits-skin1.html">
 <span>Preventing Skin Aging</span>
 </a>
 </li><li class="level1 nav-2-2">
-<a href="http://www.vitalproteins.com/collagen-and-gelatin-benefits/collagen-benefits-joint-and-bone-health-ri.html">
+<a href="http://www.vitalproteins.com/collagen-and-gelatin-research/collagen-benefits-joint-and-bone-health-ri.html">
 <span>Joint &amp; Bone Health</span>
 </a>
 </li><li class="level1 nav-2-3 last">
-<a href="http://www.vitalproteins.com/collagen-and-gelatin-benefits/collagen-supplements-natural-protein-nutrition-benefits-2.html">
+<a href="http://www.vitalproteins.com/collagen-and-gelatin-research/collagen-supplements-natural-protein-nutrition-benefits-2.html">
 <span>Lean Body and Athletic Performance</span>
 </a>
 </li>
 </ul>
-</li><li class="level0 nav-3 level-top last">
+</li><li class="level0 nav-3 level-top">
 <a href="http://www.vitalproteins.com/blog.html" class="level-top">
 <span>Blog</span>
+</a>
+</li><li class="level0 nav-4 level-top">
+<a href="http://www.vitalproteins.com/frequently-asked-questions.html" class="level-top">
+<span>FAQ</span>
+</a>
+</li><li class="level0 nav-5 level-top last">
+<a href="http://www.vitalproteins.com/affiliate-program.html" class="level-top">
+<span>Affiliate</span>
 </a>
 </li>                        
 	    
@@ -920,9 +985,10 @@ input, input.input-text, select, textarea {
    <div class="column">
 <h3>Information</h3>
 <ul>
-<li><a href="about-vital-proteins">About Us</a></li>
-<li><a href="shipping-information">Shipping Information</a></li>
-<li><a href="privacy-policy">Privacy Policy</a></li>
+<li><a href="/about-vital-proteins">About Us</a></li>
+<li><a href="/shipping-information">Shipping Information</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+<li><a href="/affiliate-program">Affiliate Program</a></li>
 </ul>
 </div>
 <div class="column">
