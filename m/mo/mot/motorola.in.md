@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorola.in privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601164039id_/http%3A//www.motorola.com/on/demandware.store/Sites-Motorola_WE-Site/en/Page-Show%3Fcid%3Dprivacy-we) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorola.in privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130153518id_/http%3A//www.motorola.com/on/demandware.store/Sites-Motorola_WE-Site/en/Page-Show%3Fcid%3Dprivacy-we) for the most accurate reproduction.*
 
 # 
 
