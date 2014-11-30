@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noisetrade.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083449id_/http%3A//www.noisetrade.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisetrade.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130011400id_/http%3A//noisetrade.com/info/privacy) for the most accurate reproduction.*
 
 # NoiseTrade | Thousands of Albums. Completely Free. Completely Legal.
 
