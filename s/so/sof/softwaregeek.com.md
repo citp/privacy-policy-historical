@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaregeek.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629102638id_/http%3A//www.softwaregeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaregeek.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000851id_/http%3A//www.softwaregeek.com/privacy) for the most accurate reproduction.*
 
 # Software Geek - Free Software Downloads and Reviews - Privacy Policy
 
@@ -11,6 +11,7 @@
   * [Games](https://web.archive.org/catalog/games/1.html)
   * [Home & Education](https://web.archive.org/catalog/home___education/1.html)
   * [Internet](https://web.archive.org/catalog/internet/1.html)
+  * [Mobile](https://web.archive.org/catalog/mobile/1.html)
   * [Multimedia & Design](https://web.archive.org/catalog/multimedia___design/1.html)
   * [Software Development](https://web.archive.org/catalog/software_development/1.html)
   * [Utilities](https://web.archive.org/catalog/utilities/1.html)
