@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607004219id_/http%3A//www.clarku.edu/policies/detailpolicy.cfm%3Fpid%3D72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130085740id_/http%3A//www.clarku.edu/policies/detailpolicy.cfm%3Fpid%3D72) for the most accurate reproduction.*
 
 # University Policies | Clark University
 
@@ -21,5 +21,5 @@ We reserve the right to publish e-mail addresses of Clark faculty, administratio
 
 
 
-[](https://web.archive.org/web/20140607004219id_/http%3A//www.clarku.edu/policies/policyPDF.cfm?pid=72)  
+[](https://web.archive.org/web/20141029114052id_/http://web.clarku.edu/policies/policyPDF.cfm?pid=72)  
 
