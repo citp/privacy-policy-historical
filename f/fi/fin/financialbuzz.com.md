@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialbuzz.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601133829id_/http%3A//www.financialbuzz.com/edward-snowden-forces-americans-to-choose-between-privacy-and-security-10115) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialbuzz.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000011id_/http%3A//www.financialbuzz.com/edward-snowden-forces-americans-to-choose-between-privacy-and-security-10115) for the most accurate reproduction.*
 
 # Edward Snowden Forces Americans to Choose Between Privacy and Security - Financial Buzz
 
