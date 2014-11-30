@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531163443id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000338id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz Articles
 
@@ -15,7 +15,7 @@ Please note that separate privacy policies apply to the use of sites that are av
 
 ## Go to top 1\. Your personal information is important to us
 
-ExplorOz recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Unless you give us explicit consent to act otherwise, the following policy will govern how ExplorOz handles your personal information and safeguards your privacy. ExplorOz is committed to protecting your personal information and giving you choice in who can use your personal information and how it can be used. We believe that our [privacy policy](https://web.archive.org/Privacy.aspx) not only complies with relevant laws but represents industry best practice.  
+ExplorOz recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Unless you give us explicit consent to act otherwise, the following policy will govern how ExplorOz handles your personal information and safeguards your privacy. ExplorOz is committed to protecting your personal information and giving you choice in who can use your personal information and how it can be used. We believe that our privacy policy not only complies with relevant laws but represents industry best practice.  
 
 
   
@@ -61,7 +61,7 @@ Any further collection of your personal information other than that explained ab
 
 We understand that most internet users are concerned about their privacy, want to keep control of their personal information, and may not trust the web sites which they visit. In fact, research shows around a third of internet users give false information online rather than saying who they really are. 
 
-ExplorOz understands that even with our [privacy policy](https://web.archive.org/Privacy.aspx), some people still will not feel comfortable disclosing their personal information in order to register or even to join as a Member. We have accounted for this in the way you may setup your alias/screen name. This way, you choose your own alias, which might be "Mickey Mouse" or "Blinky Bill" and that's what we will call you in all our correspondence and that is what the site will show to others when use the interactive features. We won't know who you really are, but we will still be able to track your use of the Site and therefore give you the most enjoyable and customised experience of the Site possible. We never disclose information to any person or organisation (either online or if requested by phone or email) that identifies you as an individual (such as your name or your email address), however you may choose to add this information to your public profile (if you are a Member).
+ExplorOz understands that even with our privacy policy, some people still will not feel comfortable disclosing their personal information in order to register or even to join as a Member. We have accounted for this in the way you may setup your alias/screen name. This way, you choose your own alias, which might be "Mickey Mouse" or "Blinky Bill" and that's what we will call you in all our correspondence and that is what the site will show to others when use the interactive features. We won't know who you really are, but we will still be able to track your use of the Site and therefore give you the most enjoyable and customised experience of the Site possible. We never disclose information to any person or organisation (either online or if requested by phone or email) that identifies you as an individual (such as your name or your email address), however you may choose to add this information to your public profile (if you are a Member).
 
   
 
@@ -150,7 +150,7 @@ ExplorOz provides links to websites outside of the Site. These linked sites are 
 
 ## Go to top 11\. What to do if you have a problem or question
 
-If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our [privacy policy](https://web.archive.org/Privacy.aspx), or you have a problem or complaint, please [contact us](https://web.archive.org/AboutUs/Contact.aspx) at info@ExplorOz.com   
+If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please [contact us](https://web.archive.org/AboutUs/Contact.aspx) at info@ExplorOz.com   
 
 
   
