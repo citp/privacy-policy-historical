@@ -1,100 +1,137 @@
-> *The following text is extracted and transformed from the domestically-speaking.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domestically-speaking.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130052034id_/http%3A//www.domestically-speaking.com/wp-content/uploads/2014/04/DomesticPrivacy.pdf) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Privacy Policy
+Welcome to Domestically Speaking
+Domestically Speaking has created this Privacy Policy in order to set forth the principles
+governing our information-gathering and dissemination practices, including but not limited to
+such activities as forums, chat rooms, personal profile pages, product reviews, article
+commentary, blogs, RSS feeds and newsletters, among other offerings. Domestically Speaking
+has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies
+only to information collected through Domestically Speaking and not to information collected
+offline or to information you may provide to any third-party sites to which Domestically
+Speaking may link, except as expressly provided herein.
+Information We Collect
+There are two kinds of information that Domestically Speaking can obtain about you:
+“Anonymous Information” and “Personally Identifiable Information.”
+“Anonymous Information” consists of non-personally-identifiable data, such as your Internet
+Protocol (“IP”) address or domain, or information about your usage on Domestically Speaking
+that is used for administrative purposes only. For example, an IP address is a unique string of
+numbers that is assigned to your computer by your Internet Service Provider. Web servers
+automatically identify your computer by its IP address. We may collect our users’ IP addresses
+for such purposes as to help diagnose problems with our servers and to report aggregate
+information to our advertisers, corporate affiliates and consultants, and to third parties that
+perform particular services on our behalf.
+We may also use the information linked to IP addresses to ban users who violate our Terms and
+Conditions of use.
+“Personally Identifiable Information” is any information that personally identifies you, such as
+your name, street address, email address, or telephone number. We collect such information
+when, for example, you enter a contest, subscribe to our email newsletter, and participate in other
+interactive online activities such as forums.
+When we collect Personally Identifiable Information from you, you will have the opportunity to
+“opt in” to receive email or other digital communications from us and/or our business partners.
+If you have submitted your personal information to Domestically Speaking, you may correct,
+amend or delete the Personally Identifiable Information maintained on file about you if it is
+incorrect.
+In all cases, we will only use your information as permitted by law. Notwithstanding any other
+provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to
+others if we are required to do so by law or we in good faith believe that such action is necessary
+to (a) comply with the law or with legal process; (b) protect and defend our rights and property;
+(c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or
+property of our users or the public. Please note that we may not provide you with notice prior to
+disclosure in such cases.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Use of “Cookies”
+Domestically Speaking uses “cookies” – data that is transferred from Domestically Speaking to
+your hard drive for record-keeping purposes. We use cookies to deliver content specific to your
+interests and to save your password so you do not have to re-enter it each time you visit
+Domestically Speaking. Some of the advertisements appearing on Domestically Speaking are
+delivered by our third-party ad network, DoubleClick. In the course of serving advertisements,
+DoubleClick may place or recognize a unique “cookie” in your browser’s cache, and may use
+Anonymous Information (including date/time of the banner ad displayed, the ad that was
+displayed and the IP address of the visitor) about your visits to this and other Web sites in order
+to provide advertisements about goods and services of interest to you and to collect statistical
+information. For more information about DoubleClick’s privacy policy, please click here. If you
+would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick,
+please click here or here.
+Disclosure of Information through Business Transfers
+As we continue to develop our business, we may buy, merge or partner with other companies or
+businesses, and in so doing, acquire customer information. In such transactions, user information
+may be among the transferred assets. Similarly, in the event that a portion or all of Domestically
+Speaking’s assets are sold or transferred to a third party, customer information (including your
+email address) would likely be one of the transferred business assets.
+Third Party Web Sites
+Domestically Speaking contains links to third-party Web sites not owned or controlled by
+Domestically Speaking. Domestically Speaking is not responsible for the privacy practices or the
+content of such third-party Web sites. Inclusion of any linked Web site on Domestically Speaking
+does not imply or express an approval or endorsement of the linked Web site by us, or of any of
+the content, opinions, products or services provided on these Web sites. Even if an affiliation
+exists between Domestically Speaking and a third-party Web site, we exercise no control over
+linked sites. Each of these linked sites maintains its own independent privacy and data collection
+policies and procedures. If you visit a Web site via a link from one of our Sites, we encourage
+you to consult that Web site’s privacy policy before providing any personal information, and
+whenever interacting with any such Web site.
+Public Forums
+Domestically Speaking may make chat rooms, forums, blogs, article commenting, and personal
+profile pages available to users. Please remember that any such information that you may choose
+to provide in these areas becomes accessible to the public, and also becomes the property of
+Domestically Speaking in accordance with our Terms and Conditions, and we may use such
+information in any way that we see fit. Consequently, you should exercise caution when deciding
+to disclose your personal information or to upload material of any kind.
+Security
+Domestically Speaking has reasonable security measures in place to protect the loss, misuse and
+alteration of the information under our control. Security of information communicated by or to
+us over the Internet is of utmost concern to us; however, no data transmission over the Internet
+can be guaranteed to be 100% secure. Please note that your email, like most, if not all,
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
+unencrypted Internet communications, may potentially be accessed and viewed by other Internet
+users, without your knowledge and permission, while in transit to us. For that reason, to protect
+your privacy, please do not use email to communicate information to us that you consider
+confidential. While we strive to protect your personal information, Domestically Speaking
+cannot ensure or warrant the security of any information you transmit to us. Once we receive
+your transmission, we will use reasonable efforts to ensure its security on our internal systems.
+Depending on the nature of the inquiry, your communication may be discarded or archived.
+Policy Regarding Minors
+Children should always ask parents before providing any personal information online. No
+information should be submitted to or posted on Domestically Speaking by any minor (a person
+under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed
+during collection, we do not knowingly provide any Personally Identifiable Information about
+minors, regardless of its source, nor is this information knowingly used by Domestically
+Speaking for any marketing or promotional purposes. Minors are not eligible to participate in
+contests.
+Domestically Speaking abides by the Children’s Online Privacy Protection Act. In the event that
+we learn that we have collected information from any child under the age of 13 without
+verification of parental consent, we will delete this information from our database as quickly as
+reasonably possible. If you believe that any Site has collected any information about anyone
+under 13, please contact Domestically Speaking’s Site Administrator via postal mail or email at
+one of the addresses listed below.
+Financial Relationships
+Please note that Domestically Speaking may have financial relationships with some of the
+merchants/vendors mentioned on this website. In some instances, Domestically Speaking may be
+compensated if consumers choose to utilize the links located throughout the content on this site
+and generate sales for said merchant/vendor.
+Limitation of Liability
+Domestically Speaking PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON
+THIS WEB SITES “AS IS” WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT
+Domestically Speaking SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON
+OUR FORUMS THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR
+THROUGH Domestically Speaking FORUMS IS DONE AT YOUR OWN RISK, AND THAT
+Domestically Speaking IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS
+THAT ARISE FROM YOUR POSTINGS. Domestically Speaking SHALL NOT BE
+RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING
+WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.
+Consent and Modifications to this Privacy Statement
+Domestically Speaking is controlled, operated and administered entirely within the United States.
+By using Domestically Speaking and/or participating in the activities of Domestically Speaking
+Community, you signify your agreement to the terms of this Privacy Statement. If you do not
+agree with this Privacy Statement, please do not disclose any personal information through our
+site. Domestically Speaking may modify this Privacy Statement at any time, at its discretion, and
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+modifications are effective upon being posted on this the applicable Site. You are responsible for
+reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.
+This Privacy Policy is effective as of December 2013 and supersedes all earlier versions of our
+Privacy Policy
