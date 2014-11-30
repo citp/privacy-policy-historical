@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waytonikah.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415160108id_/http%3A//www.waytonikah.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waytonikah.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130154456id_/http%3A//www.waytonikah.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Way to Nikah
 
