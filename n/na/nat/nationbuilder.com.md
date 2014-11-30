@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083224id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130164006id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
 
 # 3dna Privacy Policy
 
@@ -46,7 +46,7 @@ We use cookies, clear gifs, and log file information to: (a) remember informatio
 
 **Personally Identifiable Information:** 3dna will never rent or sell your personally identifiable information to others. 3dna may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of 3dna (for instance, on servers or databases co-located with hosting providers). As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
 
-Any personal information or content that you voluntarily disclose for posting to the Service becomes available to the public, as controlled by any applicable privacy or website customization settings. To change your privacy settings on the Service, you may visit [your NationBuilder account settings page](https://web.archive.org/web/20140625083224id_/http%3A//nationbuilder.com/%7B%7B%20request.current_signup.settings_url%20%7D%7D). If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other users have copied or saved that information.
+Any personal information or content that you voluntarily disclose for posting to the Service becomes available to the public, as controlled by any applicable privacy or website customization settings. To change your privacy settings on the Service, you may visit [your NationBuilder account settings page](https://web.archive.org/web/20141130164006id_/http%3A//nationbuilder.com/%7B%7B%20request.current_signup.settings_url%20%7D%7D). If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other users have copied or saved that information.
 
 From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
@@ -62,7 +62,7 @@ We endeavor to protect the privacy of your account and other Personal Informatio
 
 **What You Can Access**
 
-Through [your account settings](https://web.archive.org/web/20140625083224id_/http%3A//nationbuilder.com/%7B%7B%20request.current_signup.settings_url%20%7D%7D), you may access, and, in some cases, edit or delete the following information you’ve provided to us:
+Through [your account settings](https://web.archive.org/web/20141130164006id_/http%3A//nationbuilder.com/%7B%7B%20request.current_signup.settings_url%20%7D%7D), you may access, and, in some cases, edit or delete the following information you’ve provided to us:
 
   * name and password
   * email address
