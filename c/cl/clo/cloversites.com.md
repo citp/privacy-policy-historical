@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloversites.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110055532id_/http%3A//www.cloversites.com/legal/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloversites.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130090856id_/http%3A//www.cloversites.com/legal/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Clover may place Internet cookies on your hard drive. Internet cookies are small files that may be placed on your hard disk for record-keeping purposes. Cookies are used to (a) remind us of who you are in order to deliver you better service; (b) estimate our audience size by determining repeat usage of the Web site; (c) track your progress and entries in promotions, sweepstakes and contests, if any; (d) measure certain traffic patterns for use as a research tool to understand how our users’ habits are similar or different from one another; (e) track purchases and compare to where you heard about clover. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. By not accepting cookies, some Web pages may not display properly or you may not be permitted to access certain information.
 
@@ -101,12 +101,12 @@ ensure or warrant the security of any information through the transmission proce
 at your own risk.
          9.        Other Legal Notices.
          Any dispute over privacy is subject to this privacy policy and our Terms of Access and
-Use (http://www.cloversites.com/legal/terms_of_use.pdf), including limitations on damages and
-application of the law of the State of California. If you have any concern about your privacy in
-connection with this policy, please send us a thorough description to privacy@cloversites.com,
-and we will try to resolve it. We may post a revised privacy policy on our site. Please note that
-the use of information that we gather is subject to the privacy notice in effect at the time of use.
-You should check our Web site frequently to see recent changes.
+Use ( http://www.cloversites.com/legal/terms_of_service.pdf), including limitations on damages
+and application of the law of the State of California. If you have any concern about your privacy
+in connection with this policy, please send us a thorough description to
+privacy@cloversites.com, and we will try to resolve it. We may post a revised privacy policy on
+our site. Please note that the use of information that we gather is subject to the privacy notice in
+effect at the time of use. You should check our Web site frequently to see recent changes.
 Dated: 04/28/2009
 ///
                                               Page 3 of 3
