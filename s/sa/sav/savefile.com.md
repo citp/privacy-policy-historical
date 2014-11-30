@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the savefile.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110023743id_/http%3A//www.savefile.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savefile.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201001432id_/http%3A//www.savefile.com/privacy.php) for the most accurate reproduction.*
 
-# Upload Files with Savefile.com
+# Privacy Policy - Savefile
 
-Privacy Policy
+Please [contact us](http://www.savefile.com/contact.php) if you have any questions regarding this page.
+
+Savefile.com respects the privacy of all of its visitors and is committed to protecting such privacy in accordance with this Privacy Policy.  
+This Privacy Policy explains Savefile's treatment of your personally identifiable information collected in connection with your activities on this website.
+
+We urge you to read this Privacy Policy carefully and to check back periodically as this Privacy Policy may change form time to time, without any further notice. Please note that this Privacy Policy does not apply to the practices of companies or websites that are not owned or controlled by the owners of Savefile.
 
   * Information Collected
   * Cookies
@@ -12,10 +17,7 @@ Privacy Policy
   * Jurisdiction and venue
   * Applicable law
 
-  
 
-
-## Privacy Policy
 
 ### Information Collected
 
