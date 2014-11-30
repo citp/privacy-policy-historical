@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncixus.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516023502id_/http%3A//www.ncixus.com/go/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncixus.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130155809id_/http%3A//www.ncixus.com/go/%3Fprivacy) for the most accurate reproduction.*
 
 # NCIXUS.com - Buy Computers, Computer Parts, Laptops, World's Leading Discount Computer Store
 
