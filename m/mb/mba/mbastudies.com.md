@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbastudies.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601180446id_/http%3A//www.mbastudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbastudies.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130033408id_/http%3A//www.mbastudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
