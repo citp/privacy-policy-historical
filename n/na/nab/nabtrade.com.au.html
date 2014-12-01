@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nabtrade.com.au privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630235310id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nabtrade.com.au privacy policy that was archived on 2014-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201053942id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -68,6 +68,11 @@
 		$(externalLink).append(strExternalLinkImg);
 		$(externalLink).attr('target','_blank');
 		$(externalLink).attr('rel','external');
+
+        //add click track code to the Need help button
+        var needHelp = $("#strapline a[href$='help.html']");
+        needHelp.addClass('track');
+        needHelp.attr('data-track', 'CT14311');
 	});
 	</script>
 	
@@ -134,16 +139,37 @@
 	<nav id="shortcuts" role="navigation">
 		<ul>
 			
-					 
+
+                
+                    
+                    
+                        
+                    
+                
 				<li><a href="/about-us/contact-us">
 		Contact us</a>
 </li>
 			
-					
-						
-					 
+
+                
+                    
+                        
+                    
+                    
+                
 				<li><a href="https://www.nab.com.au/locations/" target="_blank">
 		Locations</a>
+</li>
+			
+
+                
+                    
+                    
+                        
+                    
+                
+				<li><a href="/help">
+		Need help?</a>
 </li>
 			
 		</ul>
@@ -220,11 +246,13 @@
 			
 		
 			
-		
-			
 				<li itemprop="name"> 
 					
 				</li>
+			
+		
+			
+		
 			
 		
 	</ul>
@@ -332,8 +360,8 @@
 <form class="search-form" action="/search" method="get">
     <fieldset>
         <legend>Search</legend>
-        <label for="form_h4wpA9VN">Search</label>
-        <input id="form_h4wpA9VN" name="queryString" title="Search NAB" type="text" placeholder="Search" value="Search NAB.com.au" class="ac-input ui-autocomplete-input" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+        <label for="form_JJGYaVGy">Search</label>
+        <input id="form_JJGYaVGy" name="queryString" title="Search NAB" type="text" placeholder="Search" value="Search NAB.com.au" class="ac-input ui-autocomplete-input" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
         <input type="image" alt="Search NAB" name="Search" title="Search NAB" class="nab-search-icon" src="/etc/designs/nab/images/icon-search.gif">
     </fieldset>
 </form>
@@ -341,7 +369,7 @@
 $(document).ready(function() {
 
 	$('.search-form').on('submit', function(){
-		var searchQuery = $('#form_h4wpA9VN').val();
+		var searchQuery = $('#form_JJGYaVGy').val();
         var catalystTag = document.createElement('a');
 		catalystTag.href = '/content/nab/search.html';
         CQ_Analytics.record({event: 'searchFormSubmit', values: {'searchFormSearchQuery': searchQuery, 'searchFormPageName': 'National Australia Bank Privacy Policy'}, collect:  false, options: {obj: catalystTag, defaultLinkType: 'o'}, componentPath: 'nab/components/search'});
@@ -3059,6 +3087,7 @@ CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
 	mapping.push({scVar:"list1",cqVar:"eventdata.HeroTileInternalPromo",resourceType:"nab/components/hero-tiles"});
 	mapping.push({scVar:"eVar14",cqVar:"eventdata.clickIbLogoutTileClickTrack",resourceType:"nab/components/logout-notification"});
 	mapping.push({scVar:"pageName",cqVar:"s.pageName.substring(s.pageName.indexOf('nab'),s.pageName.length)",resourceType:"foundation/components/page"});
+	mapping.push({scVar:"eVar47",cqVar:"!!window.mvtExpName?window.mvtExpName:''",resourceType:"foundation/components/page"});
 	mapping.push({scVar:"eVar14",cqVar:"eventdata.clickBoxClickTrack",resourceType:"nab/components/tool-box"});
 	mapping.push({scVar:"eVar14",cqVar:"eventdata.clickSidebarTileClickTrack",resourceType:"nab/components/sidebar-tile"});
 	mapping.push({scVar:"eVar14",cqVar:"eventdata.clickMastHeadClickTrack",resourceType:"nab/components/carousel"});
@@ -3088,15 +3117,27 @@ CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
     // update 
     CQ_Analytics.Sitecatalyst.updateEvars();
 
-    try {
-if ((s.pageName=="nab:personal-target-test" || s.pageName=="nab:personal") && (window.tt_list!==undefined)) {
-analist1_page=window.tt_list;
+    //Overwrite s.list1 impression value with Target offer
+if(!!window.analist1_target) {
+  window.analist1_page = '';
+  s.list1 = window.analist1_target;
+  s.events=s.apl(s.events,"event19",",",2);
 }
-if ((s.pageName=="nab:personal-target-test" || s.pageName=="nab:personal") && (window.mvtExpName!==undefined)) {
-s.eVar47=window.mvtExpName;
-} 
-} 
-catch (err) {
+//Set Target Integration (Campaign/Offer) value
+if(!!window.s_tnt) {
+  s.tnt = s_tnt;
+  delete window.s_tnt;
+} else if(!!s.tnt) { 
+  delete s.tnt;
+}
+//Set AAM Segment in s.prop23 & s.prop24.
+var cookiestring = RegExp("aam_tnt=[^;]+").exec(document.cookie);
+s.prop24 = unescape( !! cookiestring ? cookiestring.toString().replace(/^[^|]+\|/, "").replace("=", ""): "");
+s.eVar61 = s.prop24;
+if (!!s.prop24 && s.prop24.length > 0) {
+  var prop24split = s.prop24.split(',');
+  s.prop23 = prop24split[0];
+  s.eVar60 = prop24split[0];
 }
     /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
     var s_code=s.t();if(s_code)document.write(s_code);
@@ -3110,7 +3151,7 @@ catch (err) {
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //-->
 </script>
-<noscript><img src="http://metrics.nab.com.au/b/ss/nab-prd/1/H.25--NS/1403834674601?cdp=3&amp;gn=nab%3Aabout-us%3Ausing-this-site%3Anational-australia-bank-privacy-policy" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
+<noscript><img src="http://metrics.nab.com.au/b/ss/nab-prd/1/H.25--NS/1417128911810?cdp=3&amp;gn=nab%3Aabout-us%3Ausing-this-site%3Anational-australia-bank-privacy-policy" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
 
 <span record="'pageView', {}"></span></div>
 </div>
