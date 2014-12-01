@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062931id_/http%3A//www.metrocouncil.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201130307id_/http%3A//www.metrocouncil.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Metropolitan Council - Privacy Policy
 
