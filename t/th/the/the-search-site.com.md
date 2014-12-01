@@ -1,71 +1,71 @@
-> *The following text is extracted and transformed from the the-search-site.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111557id_/http%3A//the-search-site.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-search-site.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201031833id_/http%3A//the-search-site.com/privacy) for the most accurate reproduction.*
 
 # Privacy « Directory – Worldwide
 
 * * *
 
-This [Privacy](http://the-search-site.com/privacy/ "Privacy") Policy governs the manner in which [The-Search-Site.com](http://the-search-site.com/tag/the-search-site-com/ "The-Search-Site.com") collects, uses, maintains and discloses information collected from users (each, a “User”) of the [ http://the-search-site.com](http://the-search-sitel.com/) website (“Site”). This [privacy](http://the-search-site.com/privacy/ "privacy") policy applies to the Site and all products and services offered by [The-Search-Site.com](http://the-search-site.com/tag/the-search-site-com/ "The-Search-Site.com").
+This [Privacy](http://the-search-site.com/privacy/ "Privacy") Policy governs the manner in which [The-Search-Site.com](http://the-search-site.com/tag/the-search-site-com/ "The-Search-Site.com") collects, uses, maintains and discloses [information](http://the-search-site.com/tag/information/ "information") collected from users (each, a “User”) of the [ http://the-search-site.com](http://the-search-sitel.com/) website (“Site”). This [privacy](http://the-search-site.com/privacy/ "privacy") policy applies to the Site and all products and [services](http://the-search-site.com/tag/services/ "services") offered by [The-Search-Site.com](http://the-search-site.com/tag/the-search-site-com/ "The-Search-Site.com").
 
-**Personal identification information**
+**Personal identification[information](http://the-search-site.com/tag/information/ "information")**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification [information](http://the-search-site.com/tag/information/ "information") from Users in a variety of ways, including, but not [limited](http://the-search-site.com/tag/limited/ "limited") to, when Users visit our site, register on the site, [place](http://the-search-site.com/tag/place/ "place") an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, [services](http://the-search-site.com/tag/services/ "services"), features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card [information](http://the-search-site.com/tag/information/ "information"). We will collect personal identification [information](http://the-search-site.com/tag/information/ "information") from Users only if they voluntarily submit such [information](http://the-search-site.com/tag/information/ "information") to us. Users can always refuse to supply personally identification [information](http://the-search-site.com/tag/information/ "information"), except that it may prevent them from engaging in certain Site related activities.
 
-**Non-personal identification information**
+**Non-personal identification[information](http://the-search-site.com/tag/information/ "information")**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification [information](http://the-search-site.com/tag/information/ "information") about Users whenever they interact with our Site. Non-personal identification [information](http://the-search-site.com/tag/information/ "information") may include the browser name, the type of computer and technical [information](http://the-search-site.com/tag/information/ "information") about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar [information](http://the-search-site.com/tag/information/ "information").
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track [information](http://the-search-site.com/tag/information/ "information") about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**How we use collected information**
+**How we use collected[information](http://the-search-site.com/tag/information/ "information")**
 
-[The-Search-Site.com](http://the-search-site.com/tag/the-search-site-com/ "The-Search-Site.com") may collect and use Users personal information for the following purposes:
+[The-Search-Site.com](http://the-search-site.com/tag/the-search-site-com/ "The-Search-Site.com") may collect and use Users personal [information](http://the-search-site.com/tag/information/ "information") for the following purposes:
 
   * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
+[Information](http://the-search-site.com/tag/information/ "Information") you provide helps us respond to your customer service requests and support needs more efficiently.
   * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+We may use [information](http://the-search-site.com/tag/information/ "information") in the aggregate to understand how our Users as a group use the [services](http://the-search-site.com/tag/services/ "services") and resources provided on our Site.
   * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
+We may use feedback you provide to improve our products and [services](http://the-search-site.com/tag/services/ "services").
   * _\- To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+We may use the [information](http://the-search-site.com/tag/information/ "information") Users provide about themselves when placing an order only to provide service to that order. We do not share this [information](http://the-search-site.com/tag/information/ "information") with outside parties except to the extent necessary to provide the service.
   * _\- To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
+To send Users [information](http://the-search-site.com/tag/information/ "information") they agreed to receive about topics we think will be of interest to them.
   * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may [contact](http://the-search-site.com/contact/ "contact") us via our Site.
+We may use the email address to send User [information](http://the-search-site.com/tag/information/ "information") and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company [news](http://the-search-site.com/tag/news-2/ "news"), updates, related product or service [information](http://the-search-site.com/tag/information/ "information"), etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may [contact](http://the-search-site.com/contact/ "contact") us via our Site.
 
 
 
-**How we protect your information**
+**How we protect your[information](http://the-search-site.com/tag/information/ "information")**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal [information](http://the-search-site.com/tag/information/ "information"), username, password, transaction [information](http://the-search-site.com/tag/information/ "information") and data stored on our Site.
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-**Sharing your personal information**
+**Sharing your personal[information](http://the-search-site.com/tag/information/ "information")**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users personal identification [information](http://the-search-site.com/tag/information/ "information") to others. We may share generic aggregated demographic [information](http://the-search-site.com/tag/information/ "information") not linked to any personal identification [information](http://the-search-site.com/tag/information/ "information") regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your [information](http://the-search-site.com/tag/information/ "information") with these third parties for those [limited](http://the-search-site.com/tag/limited/ "limited") purposes provided that you have given us your permission.
 
 **Third party websites**
 
-Users may find [advertising](http://the-search-site.com/advertising/ "advertising") or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own [privacy](http://the-search-site.com/privacy/ "privacy") policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own [terms](http://the-search-site.com/terms/ "terms") and policies.
+Users may find [advertising](http://the-search-site.com/advertising/ "advertising") or other content on our Site that link to the sites and [services](http://the-search-site.com/tag/services/ "services") of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or [services](http://the-search-site.com/tag/services/ "services"), including their content and links, may be constantly changing. These sites and [services](http://the-search-site.com/tag/services/ "services") may have their own [privacy](http://the-search-site.com/privacy/ "privacy") policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own [terms](http://the-search-site.com/terms/ "terms") and policies.
 
 **[Advertising](http://the-search-site.com/advertising/ "Advertising")**
 
-Ads appearing on our site may be delivered to Users by [advertising](http://the-search-site.com/advertising/ "advertising") partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This [privacy](http://the-search-site.com/privacy/ "privacy") policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by [advertising](http://the-search-site.com/advertising/ "advertising") partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an [online](http://the-search-site.com/tag/online/ "online") advertisement to compile non personal identification [information](http://the-search-site.com/tag/information/ "information") about you or others who use your computer. This [information](http://the-search-site.com/tag/information/ "information") allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This [privacy](http://the-search-site.com/privacy/ "privacy") policy does not cover the use of cookies by any advertisers.
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy](http://the-search-site.com/privacy/ "privacy") policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable [information](http://the-search-site.com/tag/information/ "information")” and does NOT track personal [information](http://the-search-site.com/tag/information/ "information") about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy](http://the-search-site.com/privacy/ "privacy") policy at <http://www.google.com/privacy_ads.html>
 
-**Compliance with children’s online[privacy](http://the-search-site.com/privacy/ "privacy") protection act**
+**Compliance with children’s[online](http://the-search-site.com/tag/online/ "online") [privacy](http://the-search-site.com/privacy/ "privacy") protection act**
 
-Protecting the [privacy](http://the-search-site.com/privacy/ "privacy") of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Protecting the [privacy](http://the-search-site.com/privacy/ "privacy") of the very young is especially important. For that reason, we never collect or maintain [information](http://the-search-site.com/tag/information/ "information") at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **Changes to this[privacy](http://the-search-site.com/privacy/ "privacy") policy**
 
-[The-Search-Site.com](http://the-search-site.com/tag/the-search-site-com/ "The-Search-Site.com") has the discretion to update this [privacy](http://the-search-site.com/privacy/ "privacy") policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this [privacy](http://the-search-site.com/privacy/ "privacy") policy periodically and become aware of modifications.
+[The-Search-Site.com](http://the-search-site.com/tag/the-search-site-com/ "The-Search-Site.com") has the discretion to update this [privacy](http://the-search-site.com/privacy/ "privacy") policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal [information](http://the-search-site.com/tag/information/ "information") we collect. You acknowledge and agree that it is your responsibility to review this [privacy](http://the-search-site.com/privacy/ "privacy") policy periodically and become aware of modifications.
 
 **Your acceptance of these[terms](http://the-search-site.com/terms/ "terms")**
 
@@ -75,7 +75,7 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 
 If you have any questions about this [Privacy](http://the-search-site.com/privacy/ "Privacy") Policy, the practices of this site, or your dealings with this site, please [contact](http://the-search-site.com/contact/ "contact") us at:  
 [http://the-search-site.com](http://the-search-site.com/)   
-Suite 3 – 6 32 Gibson Square London United Kingdom N1 0RD  
+Suite 3 – 6 32 Gibson Square London [United Kingdom](http://the-search-site.com/tag/united-kingdom/ "United Kingdom") N1 0RD  
 enquiries@directory-local.com
 
 This document was last updated on July 23, 2013
