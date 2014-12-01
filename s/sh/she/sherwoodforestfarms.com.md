@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sherwoodforestfarms.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928160632id_/http%3A//www.sherwoodforestfarms.com/sherwood-forest-farms-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherwoodforestfarms.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201124326id_/http%3A//sherwoodforestfarms.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sherwood Forest Farms
+# Sherwood Forest Farms | Privacy Policy
+
+Sherwood Forest Farms Privacy Statement
 
 1\. Acknowledgment and acceptance of terms
 
@@ -18,17 +20,17 @@ a. Web Server Logs.
 
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-· Your Internet protocol address.
+· Your Internet protocol address.
 
-· The kind of browser or computer you use.
+· The kind of browser or computer you use.
 
-· Number of links you click within the site.
+· Number of links you click within the site.
 
-· Date and time of your visit.
+· Date and time of your visit.
 
-· Web page you linked to our site from.
+· Web page you linked to our site from.
 
-· Pages you viewed on the site.
+· Pages you viewed on the site.
 
 b. Use of Cookies
 
@@ -46,13 +48,13 @@ Visitors to our website can register to purchase services. When you register, we
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-· To fulfill your service requests for services.
+· To fulfill your service requests for services.
 
-· To protect ourselves from liability,
+· To protect ourselves from liability,
 
-· To respond to legal process or comply with law, or
+· To respond to legal process or comply with law, or
 
-· In connection with a merger, acquisition, or liquidation of the company.
+· In connection with a merger, acquisition, or liquidation of the company.
 
 4\. Use of Web Beacons or GIF files
 
@@ -62,7 +64,7 @@ Some of these Web beacons may be placed by third party service providers to help
 
 5\. Accessing Web Account Information
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant – [Sherwood@sherwoodforestfarms.com](mailto:Sherwood@sherwoodforestfarms.com).
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant –Sherwood@sherwoodforestfarms.com.
 
 6\. Changes to this Statement
 
@@ -70,13 +72,13 @@ Sherwood Forest Farms has the discretion to occasionally update this privacy sta
 
 7\. Contacting Us
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [Sherwood@sherwoodforestfarms.com](mailto:Sherwood@sherwoodforestfarms.com) or send your comments to:
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at Sherwood@sherwoodforestfarms.com or send your comments to:
 
 Sherwood Forest Farms
 
 Attention: Privacy Statement Personnel
 
-P.O. Box 8400 
+P.O. Box 8400
 
 Lacey, WA 98509
 
