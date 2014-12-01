@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071522id_/http%3A//incomeaccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201231927id_/http%3A//incomeaccess.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Income Access
+# Income Access | Privacy Policy
 
 Income Access was created to manage relationships between Affiliates and Merchants, while maintaining the privacy of its users. We understand the need to safeguard sensitive information that you have entrusted to us by using our services. Consequently, we maintain standards and procedures – outlined in this document, the Income Access Privacy Policy – designed to prevent misuse of this information. This document explains Income Access (“Income Access” “we” “our”) policies for the collection, use and disclosure of personal information. The following policies are only in effect for the Web pages, newsletters and opt-in announcement lists owned and operated by Income Access. This policy forms part of, and should be read in conjunction with, our Terms and Conditions. You may contact us regarding this Privacy Policy by e-mail, info@incomeaccess.com or by mail at our headquarters address:
 
