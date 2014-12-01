@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vampire-diaries.net privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614161425id_/http%3A//www.vampire-diaries.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vampire-diaries.net privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201070907id_/http%3A//www.vampire-diaries.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vampire-Diaries.net | The Vampire Diaries & The Originals Fansite
 
