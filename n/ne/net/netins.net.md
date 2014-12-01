@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054144id_/http%3A//netins.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201205559id_/http%3A//www.netins.net/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | netINS
 
