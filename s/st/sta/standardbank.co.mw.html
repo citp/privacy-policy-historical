@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the standardbank.co.mw privacy policy that was archived on 2013-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131107162054id_/http%3A//www.standardbank.co.mw/malawi/Standard-Bank-Malawi/Footer/Privacy-and-security-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the standardbank.co.mw privacy policy that was archived on 2014-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201213116id_/http%3A//www.standardbank.co.mw/malawi/Standard-Bank-Malawi/Footer/Privacy-and-security-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -66,7 +66,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 
-		<div><div>
+		
 			<div class="siteBanner_print">
 				<img border="0" src="/standimg/Malawi/staticFile/44412_Malawi.jpg">
 				<div class="site-country">
@@ -138,8 +138,8 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 		
 			</div>
-</div>
-</div>
+
+
  
 
 <!-- HeaderOverride.jsp -->
@@ -168,7 +168,20 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 
-		<div><div><div id="navBar"><div class="topNav">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navBar"><div class="topNav">
 	<ul class="mainMenu">		<li class="activeTab"><a href="/malawi/Standard-Bank-Malawi">Standard Bank Malawi</a></li>		<li class=""><a href="/malawi/Personal-banking">Personal banking</a></li>		<li class=""><a href="/malawi/Business-banking">Business banking</a></li>		<li class=""><a href="/malawi/Corporate">Corporate</a></li>	</ul>
 
 	<div class="topNavSearch actionBar">
@@ -181,9 +194,83 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 			<input type="submit" name="submit" value="Search">
 			
 	</form>
-	</div><br class="clearBoth">
-</div></div></div>
+	</div>
+ 
+ 
+ 
+ <div id="topTools">
+ <div>
 </div>
+            
+</div>
+
+ 
+ <br class="clearBoth">
+</div></div>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">  
+
+var callbackWindow = false;
+var chatWindow = false;
+var emailWindow = false;
+
+function onIndexLoadDo()
+{
+                //             Check if skillset is in service and alter display accordingly
+                isSkillsetInService();
+}
+function isSkillsetInService()
+{
+                //             Get session key
+                var SessionResult = jqSajax.x_GetAnonymousSessionKey("<?php echo $home?>");
+                var SessionKey = SessionResult.SessionKey;
+
+                //             Get skillset id for default skillset: WC_Default_Skillset
+                //             WC_Default_Skillset can be replaced with another valid skillset
+                var SkillsetReadResult = jqSajax.x_ReadSkillsetByName(SessionKey, "<?php echo $WEBCHAT_SERVICE_SKILLSET?>", "<?php echo $home?>");
+                var SkillsetID = SkillsetReadResult.id;
+
+                //             Check if skillset is in service
+                var IsSkillsetInUseResult = false;
+                IsSkillsetInUseResult = jqSajax.x_IsSkillsetInUse(SessionKey, SkillsetID, "<?php echo $home?>");
+
+                //             Check result and display page elements appropriately
+                if (IsSkillsetInUseResult == "true")
+                {
+                                //             Display chat icon
+
+document.getElementById('skillset_status').innerHTML = "<a href=\"javascript:void(0)\"        onclick=\"chatWindow = window.open('Code/webchatLogin.php', 'WebChat', 'width=430, height=430, resizable=0');\"><img title=\"<?php echo $CHAT_IMAGE_TEXT?>\" alt=\"Chat icon.\" border=\"0\" height=\"50\" width=\"50\" src=\"Code/img/webchat.gif\" /></a>";
+
+                                //             Call launch
+                                setTimeout('launchWebchatQuestion()', "<?php echo $POPUP_WAIT_TIME?>");
+                }
+                else
+                {
+                                //             Display email icon
+                                document.getElementById('skillset_status').innerHTML = "<a href=\"javascript:void(0)\" onclick=\"emailWindow = window.open('Code/email.php', 'Email', 'width=430, height=540, resizable=0, status=0, toolbar=0, menubar=0');\"><img  title=\"<?php echo $EMAIL_IMAGE_TEXT?>\" alt=\"Email icon.\" border=\"0\" height=\"50\" width=\"50\" src=\"Code/img/email.gif\" /></a>";
+                }
+}
+function launchWebchatQuestion()
+{
+                //             Unless a callback, chat or email pop-up is previously launched, pop-up a question window offering a webchat session
+                if (!callbackWindow && !chatWindow && !emailWindow)
+                                window.open('Code/webchatLogin_confirm.php', 'WebChat', 'width=430, height=232, resizable=0, status=0, toolbar=0, menubar=0');
+}
+
+</script>
+
+
+
+
  
 
 <!-- HorizontalNavOverride.jsp -->
@@ -202,7 +289,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 
-		<div><div>
+		
 	<div id="crumbBar"><div id="breadCrumbBar">
 		<div id="breadCrumbItem" class="breadCrumb module">
 			<div id="breadCrumbHolder" class="breadCrumbHolder module"><div style="overflow:hidden; position:relative;  width: 525px;"><div><ul id="crumbList" style="width: 5000px;">
@@ -222,8 +309,8 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 	
 		</ul>
 		<br class="clearBoth">
-	</div></div></div>
-</div>
+	</div></div>
+
  
 
 <!-- SBBreadcrumb.jsp -->
@@ -247,12 +334,12 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 
-		<div><div><h1>Footer</h1>
+		<h1>Footer</h1>
 	<ul class="leftNavigation">
 	</ul>
 	<br class="clearLeft">
-</div>
-</div>
+
+
  
 
 
@@ -272,14 +359,14 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 
-		<div><div><div id="leftNavSubMenu">
+		<div id="leftNavSubMenu">
 	<h1 class="subNavMenu"><a href="/malawi/Standard-Bank-Malawi"> Standard Bank Malawi </a></h1>
 		<ul class="subNavMenu">
 				<li><a href="/malawi/Standard-Bank-Malawi/Overview" title="Overview"> Overview</a></li>				<li><a href="/malawi/Standard-Bank-Malawi/About-us" title="About us"> About us</a></li>				<li><a href="/malawi/Standard-Bank-Malawi/Leadership" title="Leadership"> Leadership</a></li>				<li><a href="/malawi/Standard-Bank-Malawi/Branches" title="Branches"> Branches</a></li>				<li><a href="/malawi/Standard-Bank-Malawi/Investor-relations" title="Investor relations"> Investor relations</a></li>				<li><a href="/malawi/Standard-Bank-Malawi/Awards-and-accolades" title="Awards and accolades"> Awards and accolades</a></li>				<li><a href="/malawi/Standard-Bank-Malawi/Careers" title="Careers"> Careers</a></li>				<li><a href="/malawi/Standard-Bank-Malawi/Contact-us" title="Contact us"> Contact us</a></li>				<li><a href="/malawi/Standard-Bank-Malawi/News" title="News"> News</a></li>
 		</ul>
 	<br class="clearLeft">
-	</div></div>
-</div>
+	</div>
+
  
 
 
@@ -297,11 +384,11 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 
-		<div><div>
+		
 
 
-</div>
-</div>
+
+
  
 
 
@@ -356,7 +443,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 
-		<div><div>
+		
 
 
 
@@ -418,10 +505,19 @@ We reserve the right to amend this privacy and security statement at any time. A
 						
 							
 				
+				
+				<!-- New Accordion Feature Implementation -->
+				
+				<!-- End of New Accordion Feature Implementation -->
+				
 							
 			</div>
+
 			<div class="rightNav">
 					
+
+
+
 
 
 
@@ -436,10 +532,39 @@ We reserve the right to amend this privacy and security statement at any time. A
 					</select>
 
 
-					<span class="goTextButton"><input value=" Go " name="submit" onclick="javascript:window.open(guidelinks.options[guidelinks.selectedIndex].value,'','width=800,height=600,status=yes,location=no,scrollbars=yes,resizable=yes,toolbar==no,menubar=yes');return false" type="submit"></span>
+					<span class="goTextButton"><input value=" Go " name="submit" onclick="javascript:window.open(guidelinks.options[guidelinks.selectedIndex].value,'','width=800,height=600,status=yes,location=no,scrollbars=yes,resizable=yes,toolbar==no,menubar=yes');goButtonClick(event);return false" type="submit"></span>
 		</form>
 	</div>
 			
+			
+	<script type="text/javascript">
+	//get instance of the report suite
+	function getSCodeObject(){
+		return s_gi("accstandardbankmalawi");
+	}
+
+	/*
+	* function call and parsing the action name as the parameter
+	* click to access Internet banking could be âcoza â Internet banking access clickâ
+	*/
+	function goInternetbanking(ActionName){
+	  var s= getSCodeObject();
+	  s.linkTrackVars='eVar35,events';
+	  s.linkTrackEvents='event27';
+	  s.events='event27';
+	  s.eVar35=ActionName;
+	  s.tl(this, 'o', ActionName);
+	  s.events=s.eVar35='';//Clear
+	}
+
+	function goButtonClick(event){
+		event.preventDefault();
+		var av = $('[name="guidelinks"] :selected').text();
+		goInternetbanking(av);
+	}
+	
+	</script>
+
 </div>
 
 					
@@ -463,19 +588,31 @@ We reserve the right to amend this privacy and security statement at any time. A
 </div>
 			
 
+					<!-- SBCategoryAd.jsp start -->
 					
 
 
-							
+					<!-- SBCategoryAd.jsp end -->
+					
+					<!-- SBRelatedTopics.jsp start -->
+					
 
 
 
-			<div><div>
-</div></div>
+					<!-- SBRelatedTopics.jsp end -->
+					<div>
+					<!-- SBNewsSection.jsp -->
+					</div>
+					
+
+			<!-- regionleft start -->		
+			<div>
+</div> 
+			<!-- regionleft end -->
 			</div>
 <br class="clearBoth">
-		</div></div>
-</div>
+		</div>
+
 
 	  
 	  
@@ -547,7 +684,7 @@ We reserve the right to amend this privacy and security statement at any time. A
 
 
 
-		<div><div>
+		
 		<div id="footerLegalBar"><div id="footerLegal">
 			<div id="legalLinks">
 				<ul>
@@ -567,7 +704,10 @@ We reserve the right to amend this privacy and security statement at any time. A
 					<li><a href="/malawi/Standard-Bank-Malawi/Footer/Site-specs">Site specs </a></li>
 			
 
-					<li class="last"><a href="/malawi/Standard-Bank-Malawi/Footer/Electronic-banking-agreement">Electronic Banking Agreement</a></li>
+					<li><a href="/malawi/Standard-Bank-Malawi/Footer/Electronic-banking-agreement">Electronic Banking Agreement</a></li>
+			
+
+					<li class="last"><a target="FooterWindow" href="http://www.standardbank.com/FATCATermsAndConditions.aspx">FATCA</a></li>
 			
 
 				</ul>
@@ -591,8 +731,8 @@ We reserve the right to amend this privacy and security statement at any time. A
 			</div>
 			<br class="clearBoth">
 
-		</div></div></div>
-</div>
+		</div></div>
+
  
 
 <!-- SBFooter.jsp -->
