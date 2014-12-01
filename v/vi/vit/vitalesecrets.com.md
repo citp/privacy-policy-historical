@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vitalesecrets.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629062907id_/http%3A//www.vitalesecrets.com/campaigns/tsm/common/privacy.php%3Foffer%3Dtsm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalesecrets.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201161602id_/http%3A//www.vitalesecrets.com/campaigns/tsm3/common/privacy.php%3Foffer%3Dtsm3) for the most accurate reproduction.*
 
 # Joe Vitale - The Secret Mirror Privacy Policy
 
 ## Privacy Policy
 
-Current as of June 2014
+Current as of December 2014
 
 OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY
 
@@ -60,7 +60,7 @@ We realize the sensitive nature of the information you provide to us. This Priva
 
 5.1 Unsubscribe Procedure. If you wish to discontinue receiving commercial email messages from the Company, you have these options: 
 
-(a) To unsubscribe from the Company's commercial email list, follow the instructions in each promotional email message sent by the company or complete the online form at: [http://www.vitalesecrets.com/remove.](http://www.vitalesecrets.com/remove/?offer_id=tsm)
+(a) To unsubscribe from the Company's commercial email list, follow the instructions in each promotional email message sent by the company or complete the online form at: [http://www.vitalesecrets.com/remove.](http://www.vitalesecrets.com/remove/?offer_id=tsm3)
 
 (b) Unsubscribe by sending a letter to:  
 Vitale Secrets  
