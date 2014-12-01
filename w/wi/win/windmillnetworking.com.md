@@ -1,17 +1,77 @@
-> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123737id_/http%3A//maximizeyoursocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201233844id_/http%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Maximize Your Social
+# Privacy Policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+**PRIVACY POLICY STATEMENT**
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+Your privacy is important to Windmills Marketing.  This privacy statement provides information about the personal information that Windmills Marketing collects, and the ways in which Windmills Marketing uses that personal information.
+
+ **This privacy policy statement**
+
+This statement is based on a [free privacy policy](http://www.freenetlaw.com/free-privacy-statement.html) form made available by contract experts SEQ Legal.  SEQ Legal supplies a wide range of commercial legal documents, including [novation agreement ](http://www.template-contracts.co.uk/acatalog/novation_agreements.html)templates.
+
+ **Personal information collection**
+
+Windmills Marketing may collect and use the following kinds of personal information:
+
+  * information about your use of this website, including the utilization of cookies;
+  * information that you provide using for the purpose of registering with the website;
+  * information about transactions carried out over this website;
+  * information that you provide for the purpose of subscribing to the website services; and
+  * any other information that you send to Maximize Social Business.
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+ **Using personal information**
+
+Windmills Marketing may use your personal information to:
+
+  * administer this website;
+  * personalize the website for you;
+  * enable your access to and use of the website services;
+  * publish information about you on the website;
+  * remarketing to you outside of this website utilizing online advertising;
+  * send to you products that you purchase;
+  * supply to you services that you purchase;
+  * send you statements and invoices;
+  * collect payments from you; and
+  * send you marketing communications.
+
+
+
+Where Windmills Marketing discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
+
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Windmills Marketing may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+
+ **Securing your data**
+
+Windmills Marketing will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+
+ **Cross-border data transfers**
+
+Information that Windmills Marketing collects may be stored and processed in and transferred between any of the countries in which Windmills Marketing operates to enable the use of the information in accordance with this privacy policy.
+
+In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
+
+You agree to such cross-border transfers of personal information.
+
+ **Updating this statement**
+
+Windmills Marketing may update this privacy policy by posting a new version on this website.
+
+You should check this page occasionally to ensure you are familiar with any changes.
+
+ **Other websites**
+
+This website contains links to other websites.
+
+Windmills Marketing is not responsible for the privacy policies or practices of any third party.
+
+ **Contact Windmills Marketing**
+
+If you have any questions about this privacy policy or Windmills Marketing’s treatment of your personal information, please write to:
+
+  * by email to neal at maximizesocialbusiness dot com; or
+  * by post to 14271 Jeffrey Rd., Suite 177, Irvine, CA 92620 USA
+
+
