@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadic.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605130841id_/http%3A//www.downloadic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadic.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201174055id_/http%3A//www.downloadic.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
