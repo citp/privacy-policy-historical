@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonstopenglish.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420004800id_/http%3A//www.nonstopenglish.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonstopenglish.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201123420id_/http%3A//www.nonstopenglish.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - NonStopEnglish.com
 
