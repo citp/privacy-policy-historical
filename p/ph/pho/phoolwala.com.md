@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064300id_/http%3A//www.phoolwala.com/page/privacy-policy/190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201045758id_/http%3A//www.phoolwala.com/page/privacy-policy/190) for the most accurate reproduction.*
 
-# Gifts to India: Phoolwala.com Privacy Policy to Send Flowers Gifts to India
+# Phoolwala.com Privacy Policy to Send Flowers Gifts to India-Phoolwala.com
 
 Browse by Categories
 
@@ -8,9 +8,7 @@ Quick Search
 
 Same Day Flower Delivery!
 
-[ ](http://www.phoolwala.com/products/anniversary/1/ "Send Flowers N Gifts on Anniversary To India")
-
-## Privacy Policy 
+[ ](http://www.phoolwala.com/products/anniversary/ "Send Gifts on Anniversary") [ ](http://www.phoolwala.com/category/archies-store/ "Send Archies Gifts To India")
 
 **Privacy Policy: Phoolwala.com**
 
