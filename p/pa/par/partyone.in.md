@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partyone.in privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616224526id_/http%3A//www.partyone.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyone.in privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201154354id_/http%3A//www.partyone.in/privacypolicy.php) for the most accurate reproduction.*
 
-# Plan My Party
+# Privacy Police Of Partyone.in By Partyone Team
 
 ## Privacy Policy
 
@@ -18,15 +18,13 @@ Additionally, you may encounter "cookies" or other similar devices on certain pa
 
 If you choose to buy on the Website, we collect information about your buying behaviour.
 
-If you transact with us, we collect some additional information, such as a billing address, a credit / debit card number and a credit / debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders.
-
 If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you.
 
 By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
 
-We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up a free account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
+We collect personally identifiable information (email address, name, phone number etc.) from you when you set up a free account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
 
 ##### 2\. Use of Demographic / Profile Data / Your Information
 
