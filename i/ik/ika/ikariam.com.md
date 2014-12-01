@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010057id_/http%3A//agbserver.gameforge.com/enUS-Privacy-Ikariam.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201200714id_/http%3A//agbserver.gameforge.com/enUS-Privacy-Ikariam.html) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ This Privacy Policy applies to all services which are offered on Gameforge Inter
 Data controller    
 
 
-The data controller according to the Federal Data Protection Act is Gameforge Productions GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe. In case you have any questions concerning privacy policy issues, please contact datenschutz@gameforge.com. At this address, you can inquire about privacy issues and review, change or delete your personal data stored by Gameforge. Alternatively, you can also contact us using the above postal address. Please - if possible – indicate the online game that you have played, the server and your player name. This will cause you no other costs than the transmission costs stated in the base rates (i.e. the costs of your Internet, e-mail, mobile phone or telephone connection).    
+The data controller according to the Federal Data Protection Act is Gameforge 4D GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe. In case you have any questions concerning privacy policy issues, please contact datenschutz@gameforge.com. At this address, you can inquire about privacy issues and review, change or delete your personal data stored by Gameforge. Alternatively, you can also contact us using the above postal address. Please - if possible – indicate the online game that you have played, the server and your player name. This will cause you no other costs than the transmission costs stated in the base rates (i.e. the costs of your Internet, e-mail, mobile phone or telephone connection).    
 
 
 General information    
