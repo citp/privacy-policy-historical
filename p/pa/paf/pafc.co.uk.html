@@ -1,18 +1,24 @@
-<!--The following is the downloaded HTML source of the pafc.co.uk privacy policy that was archived on 2014-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140602154034id_/http%3A//www.pafc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pafc.co.uk privacy policy that was archived on 2014-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201162242id_/http%3A//www.pafc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Prata">
       <link rel="shortcut icon" type="image/ico" href="/images/icons/favicon.ico">
          <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script type="text/javascript" async="" src="https://web.archive.org/web/20140327093215/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script async="" src="//web.archive.org/web/20140930202849/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20140930202849/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var adlZone = 'ROS'; 
 var ionosImpressionsUrl = 'http://FLIIONOSAdCapture-173219926.eu-west-1.elb.amazonaws.com/blank.png';
 
-var websiteSponsorText = "Official Website Sponsor";
-	  
+		
+			var websiteSponsorText = "Official Website Sponsor";
+		
+		
+  
 </script>
+
+
+
 
 <script type="text/javascript" src="/combinedjs/combinedHeader_CBC6FB284FFAEE051DD9D264733F7225.js"></script>
 
@@ -32,7 +38,7 @@ var websiteSponsorText = "Official Website Sponsor";
         <link rel="canonical" href="http://www.pafc.co.uk/global/privacy-policy.aspx">	
 
 	<link rel="stylesheet" href="/css/base.css">
-	<link rel="stylesheet" href="/css/editorial_patch08May.css">
+	<link rel="stylesheet" href="/css/editorial.css?TimeStamp=20141120">
 	<link rel="stylesheet" href="/skin/editorial_skin.css">
         <link rel="stylesheet" href="/css/style.css">
 <link rel="stylesheet" href="/css/scribble_desktop.css">
@@ -48,20 +54,42 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
  var error_response = "<section id='newsletter_signup_popup4' class='block col6 popup'><div class='content'><p class='title'>Some error occurred while saving the subscription information. Please try again later after some time.</p></div><div class='widget_cta clearfix'> <a href='javascript:void(0)' onclick='javascript:closeDialog();' class='cta close' title='Close'>Close</a></div></section>";
 
 	</script>
-<script type="text/javascript" src="/combinedjs/combinedtop_C3760A3A1D05165F4AEDC6F8033DBF28.js"></script>
+<script type="text/javascript" src="/combinedjs/combinedtop_94D64D7FCE6CC6F2A624DC4A378DADE7.js"></script>
 
 
 <!--[if lt IE 9]>
      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
+<script>
+var rollUpAccount = "";
+var clubAccount="";
+var domainNameForGA = 'www.pafc.co.uk';      
+      
+
+
+
+             rollUpAccount = "UA-29399239-1";
+             clubAccount = "UA-29367362-1";
+             gaTracking(domainNameForGA, rollUpAccount, clubAccount);
+
+             
+   function EventTracking(category, action, opt_label){		
+		var category = category;
+		var action = action;
+		optlabel = unescape(opt_label);
+		var opt_label = "Plymouth Argyle FC : " + optlabel;
+                 gatrackevent(category, action, opt_label , rollUpAccount, clubAccount) ;
+	}
+  
+</script>
+<script type="text/javascript" src="/js_extended/fli.header.js"></script>
 </head>
 
 
 
+<body id="editorial" style="background-image:url(/cms_images/news/backgroundyellowtint86-238713_1600x900.jpg); background-repeat: no-repeat; background-position: center top">
 
-
-<body id="editorial">
 
 <input name="ctl00$ctl00$hdnShowSplashConfigValue" type="hidden" id="ctl00_hdnShowSplashConfigValue" class="hdnShowSplashConfigValue" value="false">
 <input name="ctl00$ctl00$hdnClubMobileSiteUrl" type="hidden" id="ctl00_hdnClubMobileSiteUrl" class="hdnClubMobileSiteUrl">
@@ -79,14 +107,21 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 <script language="javascript" type="text/javascript">
 	function AdvertisementTracking(advertInfo, isClick){		
 		var advertTrackingLink ;
-		var adGAAccount = "UA-29399239-5";
-		if(isClick){
+		var adGAAccount ='';
+
+                if(isClick){
 			advertTrackingLink = '/FLiClick/'; 
 		}else{
 			advertTrackingLink = '/FLiImpression/';
 		}
 		advertTrackingLink += "Plymouth Argyle FC : " + advertInfo;
-		trackVirtualPageview(advertTrackingLink, adGAAccount) ;
+
+
+
+             adGAAccount = "UA-29399239-5";
+              trackVirtualPageview(advertTrackingLink, adGAAccount) ;
+
+
 	}
 
 function IonosImpressionTracking(addata)
@@ -222,17 +257,18 @@ var adlSite = 'www.pafc.co.uk';
 var mfNWID = new Array(979, 1);
 var adlPro = window.location.protocol == 'https:' ? 'https:' : 'http:';
 Addjs(adlSite, adlZone, mfNWID, adlPro);
-</script><script type="text/javascript" src="https://web.archive.org/web/20140327093215/http://js.adlink.net/js?lang=uk&amp;s=www.pafc.co.uk&amp;z=ROS&amp;d=1582534481383"></script>
+</script><script type="text/javascript" src="https://web.archive.org/web/20140930202849/http://js.adlink.net/js?lang=uk&amp;s=www.pafc.co.uk&amp;z=ROS&amp;d=1582534494312"></script>
 
 
 <form method="post" action="#" id="frmSiteMaster">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODMxMzM3MDE4D2QWAmYPZBYCAgQPZBYGAgUPZBYCZg8WAh4EVGV4dAU7PGRpdiBpZD0nQ2x1YlNwb25zb3JzX2xlYWd1ZV9zcG9uc29yJyBjbGFzcz0nbG9hZGVyJz48L2Rpdj5kAgYPZBYCZg8WAh8ABTo8ZGl2IGlkPSdXZWJzaXRlU3BvbnNvcnNfbmF2aWdhdGlvbicgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIJD2QWBmYPZBYCZg8WAh8ABU08ZGl2IGlkPSdDbHViU3BvbnNvcnNfbmV3c19zZWN0aW9uX3NlY3Rpb25fc3BvbnNvcl90b3AnIGNsYXNzPSdsb2FkZXInPjwvZGl2PmQCAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBhYMZg9kFgJmDxUNBWZpcnN0BXZpZGVvIlZJREVPOiBNYXR0eSYjMzk7cyBDb250cmFjdCBSZWxpZWY4aHR0cDovL3d3dy5wbGF5ZXIucGFmYy5jby51ay9sYXRlc3QtbmV3cy9hcnRpY2xlLzM4NzYxNzYiVklERU86IE1hdHR5JiMzOTtzIENvbnRyYWN0IFJlbGllZiJWSURFTzogTWF0dHkmIzM5O3MgQ29udHJhY3QgUmVsaWVmPC9jbXNfaW1hZ2VzL3ZpZGVvLzM4NzYxNzYtMDEyODc4MzA4MDA4Ni0xNTkzMjkxXzE1MHgxMTMuanBlZwswMiBKdW4gMjAxNDhodHRwOi8vd3d3LnBsYXllci5wYWZjLmNvLnVrL2xhdGVzdC1uZXdzL2FydGljbGUvMzg3NjE3Ng90YXJnZXQ9J19ibGFuayciVklERU86IE1hdHR5JiMzOTtzIENvbnRyYWN0IFJlbGllZhVWSURFTzogTWF0dHkmIzM5O3MuLi4AZAIBD2QWAmYPFQ0KZXZlbiBmaXJzdARuZXdzDUFzIFB1cnIgVXN1YWwoL25ld3MvYXJ0aWNsZS9hcy1wdXJyLXVzdWFsLTE1OTI5NjQuYXNweA1BcyBQdXJyIFVzdWFsDUFzIFB1cnIgVXN1YWxNL2Ntc19pbWFnZXMvbmV3cy9iZW4tcHVycmluZ3Rvbi13aW1ibGVkb24tY2hhbGxlbmdlLTR4Mzg2LTEyNjQ3ODNfMTUweDExMy5qcGcLMDIgSnVuIDIwMTQoL25ld3MvYXJ0aWNsZS9hcy1wdXJyLXVzdWFsLTE1OTI5NjQuYXNweAANQXMgUHVyciBVc3VhbA1BcyBQdXJyIFVzdWFsbUlOIGZvb3RiYWxsLCBvbmUgdGVuZHMgdG8gYXNzb2NpYXRlIHRlbiB5ZWFycyBvZiBzZXJ2aWNlIHdpdGggYW4gZXhwZXJpZW5jZWQgcGxheWVyIGdldHRpbmcgaGlzIHRlc3RpbW9uaWFsLiBkAgIPZBYCZg8VDQAFdmlkZW8YVklERU86IEJlbiBQZW5zIE5ldyBEZWFsOGh0dHA6Ly93d3cucGxheWVyLnBhZmMuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS8zODc1OTI5GFZJREVPOiBCZW4gUGVucyBOZXcgRGVhbBhWSURFTzogQmVuIFBlbnMgTmV3IERlYWw8L2Ntc19pbWFnZXMvdmlkZW8vMzg3NTkyOS0wMTI4NzgxMzAwMDg2LTE1OTI4NjFfMTUweDExMy5qcGVnCzAyIEp1biAyMDE0OGh0dHA6Ly93d3cucGxheWVyLnBhZmMuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS8zODc1OTI5D3RhcmdldD0nX2JsYW5rJxhWSURFTzogQmVuIFBlbnMgTmV3IERlYWwYVklERU86IEJlbiBQZW5zIE5ldyBEZWFsAGQCAw9kFgJmDxUNBGV2ZW4EbmV3cxlCZW4gRXh0ZW5kcywgTmF0aGFuIFN0YXlzMy9uZXdzL2FydGljbGUvYmVuLWV4dGVuZHMtbmF0aGFuLXN0YXlzLTE1OTIxNzQuYXNweBlCZW4gRXh0ZW5kcywgTmF0aGFuIFN0YXlzGUJlbiBFeHRlbmRzLCBOYXRoYW4gU3RheXNIL2Ntc19pbWFnZXMvbmV3cy9iZW4tcHVycmluZ3Rvbi1nb2FsLXBvcnQtdmFsZS00eDM4Ni0xMjc4MzE0XzE1MHgxMTMuanBnCzAyIEp1biAyMDE0My9uZXdzL2FydGljbGUvYmVuLWV4dGVuZHMtbmF0aGFuLXN0YXlzLTE1OTIxNzQuYXNweAAZQmVuIEV4dGVuZHMsIE5hdGhhbiBTdGF5cxlCZW4gRXh0ZW5kcywgTmF0aGFuIFN0YXlzmAFBUkdZTEUmIzM5O1MgdGVlbmFnZSBsZWZ0LWJhY2sgQmVuIFB1cnJpbmd0b24gaGFzIGJlZW4gcmV3YXJkZWQgZm9yIGEgbWFnbmlmaWNlbnQgYnJlYWt0aHJvdWdoIHNlYXNvbiBieSBzaWduaW5nIGFuIGV4dGVuc2lvbiB0byBoaXMgY3VycmVudCBjb250cmFjdC4uLmQCBA9kFgJmDxUNBGxhc3QEbmV3cx9XYXRjaCBFbmdsYW5kIHYgVXJ1Z3VheSBXaXRoIFVzOi9uZXdzL2FydGljbGUvd2F0Y2gtZW5nbGFuZC12LXVydWd1YXktd2l0aC11cy0xNTU2MzcyLmFzcHgfV2F0Y2ggRW5nbGFuZCB2IFVydWd1YXkgV2l0aCBVcx9XYXRjaCBFbmdsYW5kIHYgVXJ1Z3VheSBXaXRoIFVzOC9jbXNfaW1hZ2VzL25ld3MvbHVnZ3ktZW5nbGFuZC00eDM4Ni0xNTU2MzMyXzE1MHgxMTMuanBnCzAyIEp1biAyMDE0Oi9uZXdzL2FydGljbGUvd2F0Y2gtZW5nbGFuZC12LXVydWd1YXktd2l0aC11cy0xNTU2MzcyLmFzcHgAH1dhdGNoIEVuZ2xhbmQgdiBVcnVndWF5IFdpdGggVXMaV2F0Y2ggRW5nbGFuZCB2IFVydWd1YXkuLi68AUVOR0xBTkQmIzM5O1MgV29ybGQgQ3VwIGNsYXNoIHdpdGggVXJ1Z3VheSBpcyBiZWluZyBzY3JlZW5lZCBhdCBIb21lIFBhcmssIHdpdGggUGF1bCBTdHVycm9jayBpbiBhdHRlbmRhbmNlIGFzIGEgc3BlY2lhbCBndWVzdCAtIGFuZCB5b3UgY2FuIGpvaW4gdXMgZm9yIGZyZWUgYXMgYW4gQXJneWxlIEZvdW5kYXRpb24gbWVtYmVyZAIFD2QWAmYPFQ0JZXZlbiBsYXN0BG5ld3MMQW5ub3VuY2VtZW50Jy9uZXdzL2FydGljbGUvYW5ub3VuY2VtZW50LTE1OTE3NjQuYXNweAxBbm5vdW5jZW1lbnQMQW5ub3VuY2VtZW50Ly9jbXNfaW1hZ2VzL25ld3MvYXJneWxlNHgzODYtMjYzNDY5XzE1MHgxMTMuanBnCzMxIE1heSAyMDE0Jy9uZXdzL2FydGljbGUvYW5ub3VuY2VtZW50LTE1OTE3NjQuYXNweAAMQW5ub3VuY2VtZW50DEFubm91bmNlbWVudFBXRSBhcmUgZGVsaWdodGVkIHRvIGFubm91bmNlIHRoYXQgTFRDIFBvd2VyZWQgQWNjZXNzIGFyZSBvdXIgbmV3IHNoaXJ0IHNwb25zb3JzLmQCBQ9kFgICAQ8WAh8BAgMWBmYPZBYCZg8VCiJWSURFTzogTWF0dHkmIzM5O3MgQ29udHJhY3QgUmVsaWVmBXZpZGVvOGh0dHA6Ly93d3cucGxheWVyLnBhZmMuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS8zODc2MTc2D3RhcmdldD0nX2JsYW5rJyJWSURFTzogTWF0dHkmIzM5O3MgQ29udHJhY3QgUmVsaWVmIlZJREVPOiBNYXR0eSYjMzk7cyBDb250cmFjdCBSZWxpZWY8L2Ntc19pbWFnZXMvdmlkZW8vMzg3NjE3Ni0wMTI4NzgzMDgwMDg2LTE1OTMyOTFfMTUweDExMy5qcGVnCzAyIEp1biAyMDE0IlZJREVPOiBNYXR0eSYjMzk7cyBDb250cmFjdCBSZWxpZWYAZAIBD2QWAmYPFQoNQXMgUHVyciBVc3VhbARuZXdzKC9uZXdzL2FydGljbGUvYXMtcHVyci11c3VhbC0xNTkyOTY0LmFzcHgADUFzIFB1cnIgVXN1YWwNQXMgUHVyciBVc3VhbE0vY21zX2ltYWdlcy9uZXdzL2Jlbi1wdXJyaW5ndG9uLXdpbWJsZWRvbi1jaGFsbGVuZ2UtNHgzODYtMTI2NDc4M18xNTB4MTEzLmpwZwswMiBKdW4gMjAxNA1BcyBQdXJyIFVzdWFsbUlOIGZvb3RiYWxsLCBvbmUgdGVuZHMgdG8gYXNzb2NpYXRlIHRlbiB5ZWFycyBvZiBzZXJ2aWNlIHdpdGggYW4gZXhwZXJpZW5jZWQgcGxheWVyIGdldHRpbmcgaGlzIHRlc3RpbW9uaWFsLiBkAgIPZBYCZg8VChhWSURFTzogQmVuIFBlbnMgTmV3IERlYWwFdmlkZW84aHR0cDovL3d3dy5wbGF5ZXIucGFmYy5jby51ay9sYXRlc3QtbmV3cy9hcnRpY2xlLzM4NzU5MjkPdGFyZ2V0PSdfYmxhbmsnGFZJREVPOiBCZW4gUGVucyBOZXcgRGVhbBhWSURFTzogQmVuIFBlbnMgTmV3IERlYWw8L2Ntc19pbWFnZXMvdmlkZW8vMzg3NTkyOS0wMTI4NzgxMzAwMDg2LTE1OTI4NjFfMTUweDExMy5qcGVnCzAyIEp1biAyMDE0GFZJREVPOiBCZW4gUGVucyBOZXcgRGVhbABkZFzQ0xuVcNzbp2GTVJhERzEMLeHx">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODMxMzM3MDE4D2QWAmYPZBYCAgQPZBYGAgUPZBYCZg8WAh4EVGV4dAU7PGRpdiBpZD0nQ2x1YlNwb25zb3JzX2xlYWd1ZV9zcG9uc29yJyBjbGFzcz0nbG9hZGVyJz48L2Rpdj5kAgYPZBYCZg8WAh8ABTo8ZGl2IGlkPSdXZWJzaXRlU3BvbnNvcnNfbmF2aWdhdGlvbicgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIJD2QWBmYPZBYCZg8WAh8ABU08ZGl2IGlkPSdDbHViU3BvbnNvcnNfbmV3c19zZWN0aW9uX3NlY3Rpb25fc3BvbnNvcl90b3AnIGNsYXNzPSdsb2FkZXInPjwvZGl2PmQCAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBhYMZg9kFgJmDxUNBWZpcnN0BG5ld3MmQ2hyaXN0bWFzICZhbXA7IE5ldyBZZWFyIE9wZW5pbmcgSG91cnM7L25ld3MvYXJ0aWNsZS9jaHJpc3RtYXMtbmV3LXllYXItb3BlbmluZy1ob3Vycy0xMjQyODYyLmFzcHgmQ2hyaXN0bWFzICZhbXA7IE5ldyBZZWFyIE9wZW5pbmcgSG91cnMmQ2hyaXN0bWFzICZhbXA7IE5ldyBZZWFyIE9wZW5pbmcgSG91cnM4L2Ntc19pbWFnZXMvbmV3cy9ob21lLXBhcmstc25vdy00eDM4Ni00ODI0MDBfMTUweDExMy5qcGcLMDEgRGVjIDIwMTQ7L25ld3MvYXJ0aWNsZS9jaHJpc3RtYXMtbmV3LXllYXItb3BlbmluZy1ob3Vycy0xMjQyODYyLmFzcHgAJkNocmlzdG1hcyAmYW1wOyBOZXcgWWVhciBPcGVuaW5nIEhvdXJzG0NocmlzdG1hcyAmYW1wOyBOZXcgWWVhci4uLlRUSEUgQXJneWxlIFRpY2tldCBPZmZpY2UgYW5kIENsdWIgU2hvcCB3aWxsIGJlIG9wZW4gZm9yIG11Y2ggb2YgdGhlIGZlc3RpdmUgcGVyaW9kLiBkAgEPZBYCZg8VDQpldmVuIGZpcnN0BG5ld3MgQXJneWxlIHYgWW9yayAtIE1hdGNoZGF5IE1vbWVudHM5L25ld3MvYXJ0aWNsZS9hcmd5bGUtdi15b3JrLW1hdGNoZGF5LW1vbWVudHMtMjExNjQyMi5hc3B4IEFyZ3lsZSB2IFlvcmsgLSBNYXRjaGRheSBNb21lbnRzIEFyZ3lsZSB2IFlvcmsgLSBNYXRjaGRheSBNb21lbnRzNi9jbXNfaW1hZ2VzL3JldWJlbi1yZWlkLXlvcmstNHgzODYtMjExMjg5OF8xNTB4MTEzLmpwZwswMSBEZWMgMjAxNDkvbmV3cy9hcnRpY2xlL2FyZ3lsZS12LXlvcmstbWF0Y2hkYXktbW9tZW50cy0yMTE2NDIyLmFzcHgAIEFyZ3lsZSB2IFlvcmsgLSBNYXRjaGRheSBNb21lbnRzG0FyZ3lsZSB2IFlvcmsgLSBNYXRjaGRheS4uLlNXRSBnbyBiZWhpbmQgdGhlIHNjZW5lcyBvZiBhIEhvbWUgUGFyayBtYXRjaC1kYXkgb25jZSBtb3JlIHdpdGggb3VyIHJlZ3VsYXIgc2VyaWVzLmQCAg9kFgJmDxUNAARuZXdzFERldmVsb3BtZW50IEdhbWUgT2ZmLy9uZXdzL2FydGljbGUvZGV2ZWxvcG1lbnQtZ2FtZS1vZmYtMjExNjQ2MC5hc3B4FERldmVsb3BtZW50IEdhbWUgT2ZmFERldmVsb3BtZW50IEdhbWUgT2ZmLy9jbXNfaW1hZ2VzL25ld3MvYXJneWxlNHgzODYtMjYzNDY5XzE1MHgxMTMuanBnCzAxIERlYyAyMDE0Ly9uZXdzL2FydGljbGUvZGV2ZWxvcG1lbnQtZ2FtZS1vZmYtMjExNjQ2MC5hc3B4ABREZXZlbG9wbWVudCBHYW1lIE9mZhREZXZlbG9wbWVudCBHYW1lIE9mZmVBIFNDSEVEVUxFRCBkZXZlbG9wbWVudCBmaXh0dXJlIGJldHdlZW4gYW4gQXJneWxlIFhJIGFuZCBQb3J0c21vdXRoIGF0IEhvbWUgUGFyayBoYXMgYmVlbiBwb3N0cG9uZWQuIGQCAw9kFgJmDxUNBGV2ZW4FdmlkZW8gVklERU86IEJvYmJ5JiMzOTtzIFlvcmsgVGhvdWdodHM4aHR0cDovL3d3dy5wbGF5ZXIucGFmYy5jby51ay9sYXRlc3QtbmV3cy9hcnRpY2xlLzQzNDAwOTEgVklERU86IEJvYmJ5JiMzOTtzIFlvcmsgVGhvdWdodHMgVklERU86IEJvYmJ5JiMzOTtzIFlvcmsgVGhvdWdodHM8L2Ntc19pbWFnZXMvdmlkZW8vNDM0MDA5MS0wMTMzMTA3NTQwMDg2LTIxMTY4MzVfMTUweDExMy5qcGVnCzAxIERlYyAyMDE0OGh0dHA6Ly93d3cucGxheWVyLnBhZmMuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS80MzQwMDkxD3RhcmdldD0nX2JsYW5rJyBWSURFTzogQm9iYnkmIzM5O3MgWW9yayBUaG91Z2h0cxpWSURFTzogQm9iYnkmIzM5O3MgWW9yay4uLl5Hb2Fsc2NvcmVyIEJvYmJ5IFJlaWQgZ2l2ZXMgaGlzIHRha2Ugb24gdGhlIFBpbGdyaW1zJiMzOTsgMS0xIGRyYXcgd2l0aCBZb3JrIENpdHkgb24gU2F0dXJkYXkuZAIED2QWAmYPFQ0EbGFzdARuZXdzIkFoZWFkIE9mIFRoZSBHYW1lIC0gU3RlZWwgWW91cnNlbGY7L25ld3MvYXJ0aWNsZS9haGVhZC1vZi10aGUtZ2FtZS1zdGVlbC15b3Vyc2VsZi0yMTE2MjAxLmFzcHgiQWhlYWQgT2YgVGhlIEdhbWUgLSBTdGVlbCBZb3Vyc2VsZiJBaGVhZCBPZiBUaGUgR2FtZSAtIFN0ZWVsIFlvdXJzZWxmPS9jbXNfaW1hZ2VzL2pvaG4tc2hlcmlkYW4tYWNjcmluZ29uLTR4Mzg2LTE5NzM2MjBfMTUweDExMy5qcGcLMDEgRGVjIDIwMTQ7L25ld3MvYXJ0aWNsZS9haGVhZC1vZi10aGUtZ2FtZS1zdGVlbC15b3Vyc2VsZi0yMTE2MjAxLmFzcHgAIkFoZWFkIE9mIFRoZSBHYW1lIC0gU3RlZWwgWW91cnNlbGYcQWhlYWQgT2YgVGhlIEdhbWUgLSBTdGVlbC4uLl5BRlRFUiBhIGhlYXJ0YnJlYWtpbmcgbGF0ZSBlcXVhbGlzZXIgYnkgWW9yayBDaXR5IGVuZGVkIEFyZ3lsZeKAmXMgd2lubmluZyBydW4gYXQgSG9tZSBQYXJrLi4uZAIFD2QWAmYPFQ0JZXZlbiBsYXN0BG5ld3MZVGhlIDUwLTUwIExvdHRlcnkgUmVzdWx0czMvbmV3cy9hcnRpY2xlL3RoZS01MC01MC1sb3R0ZXJ5LXJlc3VsdHMtMzUyMjM4LmFzcHgZVGhlIDUwLTUwIExvdHRlcnkgUmVzdWx0cxlUaGUgNTAtNTAgTG90dGVyeSBSZXN1bHRzMS9jbXNfaW1hZ2VzL25ld3MvaG9tZXBhcms0eDM4Ni0yMjQzNjRfMTUweDExMy5qcGcLMDEgRGVjIDIwMTQzL25ld3MvYXJ0aWNsZS90aGUtNTAtNTAtbG90dGVyeS1yZXN1bHRzLTM1MjIzOC5hc3B4ABlUaGUgNTAtNTAgTG90dGVyeSBSZXN1bHRzGVRoZSA1MC01MCBMb3R0ZXJ5IFJlc3VsdHNDQUxMIG9mIHRoZSByZXN1bHRzIGZyb20gdGhlIDUwLTUwIExvdHRlcnkgd2lsbCBhcHBlYXIgb24gdGhpcyBwYWdlLmQCBQ9kFgICAQ8WAh8BAgMWBmYPZBYCZg8VCiZDaHJpc3RtYXMgJmFtcDsgTmV3IFllYXIgT3BlbmluZyBIb3VycwRuZXdzOy9uZXdzL2FydGljbGUvY2hyaXN0bWFzLW5ldy15ZWFyLW9wZW5pbmctaG91cnMtMTI0Mjg2Mi5hc3B4ACZDaHJpc3RtYXMgJmFtcDsgTmV3IFllYXIgT3BlbmluZyBIb3VycyZDaHJpc3RtYXMgJmFtcDsgTmV3IFllYXIgT3BlbmluZyBIb3VyczgvY21zX2ltYWdlcy9uZXdzL2hvbWUtcGFyay1zbm93LTR4Mzg2LTQ4MjQwMF8xNTB4MTEzLmpwZwswMSBEZWMgMjAxNCZDaHJpc3RtYXMgJmFtcDsgTmV3IFllYXIgT3BlbmluZyBIb3Vyc1RUSEUgQXJneWxlIFRpY2tldCBPZmZpY2UgYW5kIENsdWIgU2hvcCB3aWxsIGJlIG9wZW4gZm9yIG11Y2ggb2YgdGhlIGZlc3RpdmUgcGVyaW9kLiBkAgEPZBYCZg8VCiBBcmd5bGUgdiBZb3JrIC0gTWF0Y2hkYXkgTW9tZW50cwRuZXdzOS9uZXdzL2FydGljbGUvYXJneWxlLXYteW9yay1tYXRjaGRheS1tb21lbnRzLTIxMTY0MjIuYXNweAAgQXJneWxlIHYgWW9yayAtIE1hdGNoZGF5IE1vbWVudHMgQXJneWxlIHYgWW9yayAtIE1hdGNoZGF5IE1vbWVudHM2L2Ntc19pbWFnZXMvcmV1YmVuLXJlaWQteW9yay00eDM4Ni0yMTEyODk4XzE1MHgxMTMuanBnCzAxIERlYyAyMDE0IEFyZ3lsZSB2IFlvcmsgLSBNYXRjaGRheSBNb21lbnRzU1dFIGdvIGJlaGluZCB0aGUgc2NlbmVzIG9mIGEgSG9tZSBQYXJrIG1hdGNoLWRheSBvbmNlIG1vcmUgd2l0aCBvdXIgcmVndWxhciBzZXJpZXMuZAICD2QWAmYPFQoURGV2ZWxvcG1lbnQgR2FtZSBPZmYEbmV3cy8vbmV3cy9hcnRpY2xlL2RldmVsb3BtZW50LWdhbWUtb2ZmLTIxMTY0NjAuYXNweAAURGV2ZWxvcG1lbnQgR2FtZSBPZmYURGV2ZWxvcG1lbnQgR2FtZSBPZmYvL2Ntc19pbWFnZXMvbmV3cy9hcmd5bGU0eDM4Ni0yNjM0NjlfMTUweDExMy5qcGcLMDEgRGVjIDIwMTQURGV2ZWxvcG1lbnQgR2FtZSBPZmZlQSBTQ0hFRFVMRUQgZGV2ZWxvcG1lbnQgZml4dHVyZSBiZXR3ZWVuIGFuIEFyZ3lsZSBYSSBhbmQgUG9ydHNtb3V0aCBhdCBIb21lIFBhcmsgaGFzIGJlZW4gcG9zdHBvbmVkLiBkZPjK3ZYlx1d7dPZptVqX3w4AjwXq">
 </div>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwLm1sDlAwLxt6buAgKD6Zv+AwKR/9fABwK4l9ypDQKMw8L1CQK1k/qOAXva+Vkoaf/WqkybGjSlvpEPLHtL">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="22D027B6">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwK1qdZMAvG3pu4CAoPpm/4DApH/18AHAriX3KkNAozDwvUJArWT+o4B8UmTnKDk9eFjig/yG83V92bzJj8=">
 </div>
 
 <span title="" id="skip-link"><a title="Skip to main content" accesskey="0" href="#content">Skip to main content</a></span>
@@ -345,9 +381,9 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
 <li class="separator">|</li>	 
  
 
-                      <li><a title="Argyle Player" href="http://www.player.pafc.co.uk/home/" target="_blank" onclick="EventTracking('External Link', 'Click','Navbar : Plymouth Argyle FC Player');" class="player">Argyle Player</a></li>
+                      <li><a title="Argyle Player" rel="nofollow" href="http://www.player.pafc.co.uk/home/" target="_blank" onclick="EventTracking('External Link', 'Click','Navbar : Plymouth Argyle FC Player');" class="player">Argyle Player</a></li>
                       <li class="separator">|</li>
-                      <li><a title="Shop" href="http://www.argylesuperstore.co.uk/" target="_blank" onclick="EventTracking('External Link', 'Click','NavBar : Shop');">Shop</a></li>
+                      <li><a title="Shop" rel="nofollow" href="http://www.argylesuperstore.co.uk/" target="_blank" onclick="EventTracking('External Link', 'Click','NavBar : Shop');">Shop</a></li>
                       <li class="separator">|</li>
                       <li class="subnav">
                                       <a title="Newsletter" href="javascript:void(0);">Newsletter</a>
@@ -507,13 +543,13 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             <h4>Features</h4>
             <ul>
               <li>
-                <a title="Argyle Player" href="http://www.player.pafc.co.uk" target="_self">Argyle Player</a>
+                <a title="Argyle Player" href="http://www.player.pafc.co.uk" rel="nofollow" target="_self">Argyle Player</a>
               </li>
               <li>
-                <a title="Twitter" href="https://twitter.com/only1argyle" target="_blank">Twitter</a>
+                <a title="Twitter" href="https://twitter.com/only1argyle" rel="nofollow" target="_blank">Twitter</a>
               </li>
               <li>
-                <a title="Facebook" href="http://www.facebook.com/plymouthargylefc/" target="_blank">Facebook</a>
+                <a title="Facebook" href="http://www.facebook.com/plymouthargylefc/" rel="nofollow" target="_blank">Facebook</a>
               </li>
             </ul>
           </li>
@@ -559,13 +595,16 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             <h4>Features</h4>
             <ul>
               <li>
-                <a title="Academy Fixtures &amp; Results" href="/fixtures-results/academy_f_and_r.aspx" target="_self">Academy Fixtures &amp; Results</a>
+                <a title="Academy Fixtures &amp; Results" href="/fixtures-results/academy_f_and_r.aspx" rel="nofollow" target="_self">Academy Fixtures &amp; Results</a>
               </li>
               <li>
-                <a title="Ladies Fixtures &amp; Results" href="/fixtures-results/ladies_f_r.aspx" target="_self">Ladies Fixtures &amp; Results</a>
+                <a title="Ladies Fixtures &amp; Results" href="/fixtures-results/ladies_f_r.aspx" rel="nofollow" target="_self">Ladies Fixtures &amp; Results</a>
               </li>
               <li>
-                <a title="Development Squad Fixtures &amp; Results" href="/fixtures-results/dev_squad_fixtures.aspx" target="_self">Development Squad Fixtures &amp; Results</a>
+                <a title="Development Squad Fixtures &amp; Results" href="/fixtures-results/dev_squad_fixtures.aspx" rel="nofollow" target="_self">Development Squad Fixtures &amp; Results</a>
+              </li>
+              <li>
+                <a title="Fantasy Football" href="http://www.football-leaguemanager.co.uk/" rel="nofollow" target="_blank">Fantasy Football</a>
               </li>
             </ul>
           </li>
@@ -614,13 +653,13 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             <h4>Features</h4>
             <ul>
               <li>
-                <a title="Online Tickets" href="https://www.eticketing.co.uk/pafc/default.aspx" target="_blank">Buy Online Tickets</a>
+                <a title="Online Tickets" href="https://www.eticketing.co.uk/pafc/default.aspx" rel="nofollow" target="_blank">Buy Online Tickets</a>
               </li>
               <li>
-                <a title="First Time At Home Park?" href="/tickets/first_time_home_park.aspx" target="_self">First Time At Home Park?</a>
+                <a title="First Time At Home Park?" href="/tickets/first_time_home_park.aspx" rel="nofollow" target="_self">First Time At Home Park?</a>
               </li>
               <li>
-                <a title="Ticket Office Opening Hours" href="/tickets/opening_hours.aspx" target="_self">Ticket Office Opening Hours</a>
+                <a title="Ticket Office Opening Hours" href="/tickets/opening_hours.aspx" rel="nofollow" target="_self">Ticket Office Opening Hours</a>
               </li>
             </ul>
           </li>
@@ -746,13 +785,13 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             <h4>Features</h4>
             <ul>
               <li>
-                <a title="FL Fan Panel" href="https://www.thechangingroom.uk.com/R.aspx?a=30" target="_blank">FL Fan Panel</a>
+                <a title="FL Fan Panel" href="https://www.thechangingroom.uk.com/R.aspx?a=30" rel="nofollow" target="_blank">FL Fan Panel</a>
               </li>
               <li>
-                <a title="Family Zone For All" href="/fans/family_zone.aspx" target="_self">Family Zone For All</a>
+                <a title="Family Zone For All" href="/fans/family_zone.aspx" rel="nofollow" target="_self">Family Zone For All</a>
               </li>
               <li>
-                <a title="First Time At Home Park?" href="/tickets/first_time_home_park.aspx" target="_self">First Time At Home Park?</a>
+                <a title="First Time At Home Park?" href="/tickets/first_time_home_park.aspx" rel="nofollow" target="_self">First Time At Home Park?</a>
               </li>
             </ul>
           </li>
@@ -810,7 +849,7 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             <h4>Features</h4>
             <ul>
               <li>
-                <a title="Greens on Screen - The Definitive Argyle History" href="http://www.greensonscreen.co.uk/" target="_self">GoS - The Definitive Argyle History</a>
+                <a title="Greens on Screen - The Definitive Argyle History" href="http://www.greensonscreen.co.uk/" rel="nofollow" target="_self">GoS - The Definitive Argyle History</a>
               </li>
             </ul>
           </li>
@@ -853,13 +892,13 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             <h4>Features</h4>
             <ul>
               <li>
-                <a title="Club Shop" href="http://www.argylesuperstore.co.uk/" target="_self">Club Shop</a>
+                <a title="Club Shop" href="http://www.argylesuperstore.co.uk/" rel="nofollow" target="_self">Club Shop</a>
               </li>
               <li>
-                <a title="The 50-50 Lottery" href="/commercial/50_50.aspx" target="_self">The 50-50 Lottery</a>
+                <a title="The 50-50 Lottery" href="/commercial/50_50.aspx" rel="nofollow" target="_self">The 50-50 Lottery</a>
               </li>
               <li>
-                <a title="Contact the Commericial Team" href="/commercial/commercial_contact.aspx" target="_self">Contact the Commericial Team</a>
+                <a title="Contact the Commericial Team" href="/commercial/commercial_contact.aspx" rel="nofollow" target="_self">Contact the Commericial Team</a>
               </li>
             </ul>
           </li>
@@ -1214,45 +1253,45 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     <ul>
         
                 <li class="first">
-                <a class="thumb video" title="VIDEO: Matty's Contract Relief" href="http://www.player.pafc.co.uk/latest-news/article/3876176"><span></span><img alt="VIDEO: Matty's Contract Relief" title="VIDEO: Matty's Contract Relief" src="/cms_images/video/3876176-0128783080086-1593291_150x113.jpeg" width="68" height="51"></a>
-                <p class="info"><strong>02 Jun 2014</strong><br>
-                <a href="http://www.player.pafc.co.uk/latest-news/article/3876176" target="_blank" title="VIDEO: Matty's Contract Relief">VIDEO: Matty's...</a>
-                <span class="mxl" data-mxl="65"></span></p>
+                <a class="thumb news" title="Christmas &amp; New Year Opening Hours" href="/news/article/christmas-new-year-opening-hours-1242862.aspx"><span></span><img alt="Christmas &amp; New Year Opening Hours" title="Christmas &amp; New Year Opening Hours" src="/cms_images/news/home-park-snow-4x386-482400_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>01 Dec 2014</strong><br>
+                <a href="/news/article/christmas-new-year-opening-hours-1242862.aspx" title="Christmas &amp; New Year Opening Hours">Christmas &amp; New Year...</a>
+                <span class="mxl" data-mxl="65">THE Argyle Ticket Office and Club Shop will be open for much of the festive period. </span></p>
                 </li>
             
                 <li class="even first">
-                <a class="thumb news" title="As Purr Usual" href="/news/article/as-purr-usual-1592964.aspx"><span></span><img alt="As Purr Usual" title="As Purr Usual" src="/cms_images/news/ben-purrington-wimbledon-challenge-4x386-1264783_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>02 Jun 2014</strong><br>
-                <a href="/news/article/as-purr-usual-1592964.aspx" title="As Purr Usual">As Purr Usual</a>
-                <span class="mxl" data-mxl="65">IN football, one tends to associate ten years of service with an experienced player getting his testimonial. </span></p>
+                <a class="thumb news" title="Argyle v York - Matchday Moments" href="/news/article/argyle-v-york-matchday-moments-2116422.aspx"><span></span><img alt="Argyle v York - Matchday Moments" title="Argyle v York - Matchday Moments" src="/cms_images/reuben-reid-york-4x386-2112898_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>01 Dec 2014</strong><br>
+                <a href="/news/article/argyle-v-york-matchday-moments-2116422.aspx" title="Argyle v York - Matchday Moments">Argyle v York - Matchday...</a>
+                <span class="mxl" data-mxl="65">WE go behind the scenes of a Home Park match-day once more with our regular series.</span></p>
                 </li>
             
                 <li class="">
-                <a class="thumb video" title="VIDEO: Ben Pens New Deal" href="http://www.player.pafc.co.uk/latest-news/article/3875929"><span></span><img alt="VIDEO: Ben Pens New Deal" title="VIDEO: Ben Pens New Deal" src="/cms_images/video/3875929-0128781300086-1592861_150x113.jpeg" width="68" height="51"></a>
-                <p class="info"><strong>02 Jun 2014</strong><br>
-                <a href="http://www.player.pafc.co.uk/latest-news/article/3875929" target="_blank" title="VIDEO: Ben Pens New Deal">VIDEO: Ben Pens New Deal</a>
-                <span class="mxl" data-mxl="65"></span></p>
+                <a class="thumb news" title="Development Game Off" href="/news/article/development-game-off-2116460.aspx"><span></span><img alt="Development Game Off" title="Development Game Off" src="/cms_images/news/argyle4x386-263469_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>01 Dec 2014</strong><br>
+                <a href="/news/article/development-game-off-2116460.aspx" title="Development Game Off">Development Game Off</a>
+                <span class="mxl" data-mxl="65">A SCHEDULED development fixture between an Argyle XI and Portsmouth at Home Park has been postponed. </span></p>
                 </li>
             
                 <li class="even">
-                <a class="thumb news" title="Ben Extends, Nathan Stays" href="/news/article/ben-extends-nathan-stays-1592174.aspx"><span></span><img alt="Ben Extends, Nathan Stays" title="Ben Extends, Nathan Stays" src="/cms_images/news/ben-purrington-goal-port-vale-4x386-1278314_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>02 Jun 2014</strong><br>
-                <a href="/news/article/ben-extends-nathan-stays-1592174.aspx" title="Ben Extends, Nathan Stays">Ben Extends, Nathan Stays</a>
-                <span class="mxl" data-mxl="65">ARGYLE'S teenage left-back Ben Purrington has been rewarded for a magnificent breakthrough season by signing an extension to his current contract...</span></p>
+                <a class="thumb video" title="VIDEO: Bobby's York Thoughts" href="http://www.player.pafc.co.uk/latest-news/article/4340091"><span></span><img alt="VIDEO: Bobby's York Thoughts" title="VIDEO: Bobby's York Thoughts" src="/cms_images/video/4340091-0133107540086-2116835_150x113.jpeg" width="68" height="51"></a>
+                <p class="info"><strong>01 Dec 2014</strong><br>
+                <a href="http://www.player.pafc.co.uk/latest-news/article/4340091" target="_blank" title="VIDEO: Bobby's York Thoughts">VIDEO: Bobby's York...</a>
+                <span class="mxl" data-mxl="65">Goalscorer Bobby Reid gives his take on the Pilgrims' 1-1 draw with York City on Saturday.</span></p>
                 </li>
             
                 <li class="last">
-                <a class="thumb news" title="Watch England v Uruguay With Us" href="/news/article/watch-england-v-uruguay-with-us-1556372.aspx"><span></span><img alt="Watch England v Uruguay With Us" title="Watch England v Uruguay With Us" src="/cms_images/news/luggy-england-4x386-1556332_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>02 Jun 2014</strong><br>
-                <a href="/news/article/watch-england-v-uruguay-with-us-1556372.aspx" title="Watch England v Uruguay With Us">Watch England v Uruguay...</a>
-                <span class="mxl" data-mxl="65">ENGLAND'S World Cup clash with Uruguay is being screened at Home Park, with Paul Sturrock in attendance as a special guest - and you can join us for free as an Argyle Foundation member</span></p>
+                <a class="thumb news" title="Ahead Of The Game - Steel Yourself" href="/news/article/ahead-of-the-game-steel-yourself-2116201.aspx"><span></span><img alt="Ahead Of The Game - Steel Yourself" title="Ahead Of The Game - Steel Yourself" src="/cms_images/john-sheridan-accringon-4x386-1973620_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>01 Dec 2014</strong><br>
+                <a href="/news/article/ahead-of-the-game-steel-yourself-2116201.aspx" title="Ahead Of The Game - Steel Yourself">Ahead Of The Game - Steel...</a>
+                <span class="mxl" data-mxl="65">AFTER a heartbreaking late equaliser by York City ended Argyle’s winning run at Home Park...</span></p>
                 </li>
             
                 <li class="even last">
-                <a class="thumb news" title="Announcement" href="/news/article/announcement-1591764.aspx"><span></span><img alt="Announcement" title="Announcement" src="/cms_images/news/argyle4x386-263469_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>31 May 2014</strong><br>
-                <a href="/news/article/announcement-1591764.aspx" title="Announcement">Announcement</a>
-                <span class="mxl" data-mxl="65">WE are delighted to announce that LTC Powered Access are our new shirt sponsors.</span></p>
+                <a class="thumb news" title="The 50-50 Lottery Results" href="/news/article/the-50-50-lottery-results-352238.aspx"><span></span><img alt="The 50-50 Lottery Results" title="The 50-50 Lottery Results" src="/cms_images/news/homepark4x386-224364_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>01 Dec 2014</strong><br>
+                <a href="/news/article/the-50-50-lottery-results-352238.aspx" title="The 50-50 Lottery Results">The 50-50 Lottery Results</a>
+                <span class="mxl" data-mxl="65">ALL of the results from the 50-50 Lottery will appear on this page.</span></p>
                 </li>
             
     </ul>
@@ -1285,35 +1324,35 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
   <ul>
    
 	  <li>
-		<a title="VIDEO: Matty's Contract Relief" href="http://www.player.pafc.co.uk/latest-news/article/3876176" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
-            <img alt="VIDEO: Matty's Contract Relief" title="VIDEO: Matty's Contract Relief" src="/cms_images/video/3876176-0128783080086-1593291_150x113.jpeg" width="68" height="51">
+		<a title="VIDEO: Bobby's York Thoughts" href="http://www.player.pafc.co.uk/latest-news/article/4340091" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
+            <img alt="VIDEO: Bobby's York Thoughts" title="VIDEO: Bobby's York Thoughts" src="/cms_images/video/4340091-0133107540086-2116835_150x113.jpeg" width="68" height="51">
             </a>
-            <a title="VIDEO: Matty's Contract Relief" href="http://www.player.pafc.co.uk/latest-news/article/3876176" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
-            VIDEO: Matty's Contract Relief
+            <a title="VIDEO: Bobby's York Thoughts" href="http://www.player.pafc.co.uk/latest-news/article/4340091" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
+            VIDEO: Bobby's York Thoughts
             </a>
-			<span>1 hours 15 mins ago</span>
+			<span>4 hours 21 mins ago</span>
 				
 			</li>
 			  
 	  <li>
-		<a title="VIDEO: Ben Pens New Deal" href="http://www.player.pafc.co.uk/latest-news/article/3875929" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
-            <img alt="VIDEO: Ben Pens New Deal" title="VIDEO: Ben Pens New Deal" src="/cms_images/video/3875929-0128781300086-1592861_150x113.jpeg" width="68" height="51">
+		<a title="Plymouth 1 York 1" href="http://www.player.pafc.co.uk/latest-news/article/2304066" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
+            <img alt="Plymouth 1 York 1" title="Plymouth 1 York 1" src="/cms_images/video/2304066-0133068240086-2114305_150x113.jpeg" width="68" height="51">
             </a>
-            <a title="VIDEO: Ben Pens New Deal" href="http://www.player.pafc.co.uk/latest-news/article/3875929" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
-            VIDEO: Ben Pens New Deal
+            <a title="Plymouth 1 York 1" href="http://www.player.pafc.co.uk/latest-news/article/2304066" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
+            Plymouth 1 York 1
             </a>
-			<span>3 hours 31 mins ago</span>
+			<span>1 day ago</span>
 				
 			</li>
 			  
 	  <li>
-		<a title="VIDEO: Deane's On Screen" href="http://www.player.pafc.co.uk/latest-news/article/3861797" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
-            <img alt="VIDEO: Deane's On Screen" title="VIDEO: Deane's On Screen" src="/cms_images/video/3861797-0128655830086-1574876_150x113.jpeg" width="68" height="51">
+		<a title="VIDEO: Sheridan's York Reaction" href="http://www.player.pafc.co.uk/latest-news/article/4336905" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
+            <img alt="VIDEO: Sheridan's York Reaction" title="VIDEO: Sheridan's York Reaction" src="/cms_images/video/4336905-0133061900086-2113166_150x113.jpeg" width="68" height="51">
             </a>
-            <a title="VIDEO: Deane's On Screen" href="http://www.player.pafc.co.uk/latest-news/article/3861797" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
-            VIDEO: Deane's On Screen
+            <a title="VIDEO: Sheridan's York Reaction" href="http://www.player.pafc.co.uk/latest-news/article/4336905" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
+            VIDEO: Sheridan's York Reaction
             </a>
-			<span>6 days ago</span>
+			<span>1 day ago</span>
 				
 			</li>
 			  
@@ -1332,7 +1371,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
              <section class="col4 block mpu clearfix">
                  
       
-          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=3078&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=3078&amp;charset=UTF-8&amp;cb=88923728568&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20140602154034id_/http%253A//www.pafc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=acc6f40b&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=3078&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=acc6f40b&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=3078&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=3078&amp;charset=UTF-8&amp;cb=20666732580&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141201162242id_/http%253A//www.pafc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=acc6f40b&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=3078&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=acc6f40b&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
       
 
             </section>
@@ -1371,7 +1410,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
                              
                        <script>
        var monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-       var currentDate= "2014,6";
+       var currentDate= "2014,12";
 </script>
 <section id="news_archive" class="col4">
   <h3>News Archive</h3>
@@ -1395,7 +1434,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
           <section class="col4 block mpu clearfix">
                 
       
-          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=3079&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=3079&amp;charset=UTF-8&amp;cb=17017781733&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20140602154034id_/http%253A//www.pafc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=af49adb0&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=3079&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=af49adb0&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=3079&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=3079&amp;charset=UTF-8&amp;cb=78980292164&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141201162242id_/http%253A//www.pafc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=af49adb0&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=3079&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=af49adb0&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
       
 
           </section>
@@ -1418,33 +1457,33 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
  <ul>
 
  <li>
-   <a title="VIDEO: Matty's Contract Relief" class="video" href="http://www.player.pafc.co.uk/latest-news/article/3876176" target="_blank">
+   <a title="Christmas &amp; New Year Opening Hours" class="news" href="/news/article/christmas-new-year-opening-hours-1242862.aspx">
      <span></span>
-     <img alt="VIDEO: Matty's Contract Relief" title="VIDEO: Matty's Contract Relief" src="/cms_images/video/3876176-0128783080086-1593291_150x113.jpeg" width="68" height="51">
-     <p class="date">02 Jun 2014</p>
-     VIDEO: Matty's Contract Relief
+     <img alt="Christmas &amp; New Year Opening Hours" title="Christmas &amp; New Year Opening Hours" src="/cms_images/news/home-park-snow-4x386-482400_150x113.jpg" width="68" height="51">
+     <p class="date">01 Dec 2014</p>
+     Christmas &amp; New Year Opening Hours
     </a>
- <span class="mxl" data-mxl="65"></span>
+ <span class="mxl" data-mxl="65">THE Argyle Ticket Office and Club Shop will be open for much of the festive period. </span>
   </li>
 
  <li>
-   <a title="As Purr Usual" class="news" href="/news/article/as-purr-usual-1592964.aspx">
+   <a title="Argyle v York - Matchday Moments" class="news" href="/news/article/argyle-v-york-matchday-moments-2116422.aspx">
      <span></span>
-     <img alt="As Purr Usual" title="As Purr Usual" src="/cms_images/news/ben-purrington-wimbledon-challenge-4x386-1264783_150x113.jpg" width="68" height="51">
-     <p class="date">02 Jun 2014</p>
-     As Purr Usual
+     <img alt="Argyle v York - Matchday Moments" title="Argyle v York - Matchday Moments" src="/cms_images/reuben-reid-york-4x386-2112898_150x113.jpg" width="68" height="51">
+     <p class="date">01 Dec 2014</p>
+     Argyle v York - Matchday Moments
     </a>
- <span class="mxl" data-mxl="65">IN football, one tends to associate ten years of service with an experienced player getting his testimonial. </span>
+ <span class="mxl" data-mxl="65">WE go behind the scenes of a Home Park match-day once more with our regular series.</span>
   </li>
 
  <li>
-   <a title="VIDEO: Ben Pens New Deal" class="video" href="http://www.player.pafc.co.uk/latest-news/article/3875929" target="_blank">
+   <a title="Development Game Off" class="news" href="/news/article/development-game-off-2116460.aspx">
      <span></span>
-     <img alt="VIDEO: Ben Pens New Deal" title="VIDEO: Ben Pens New Deal" src="/cms_images/video/3875929-0128781300086-1592861_150x113.jpeg" width="68" height="51">
-     <p class="date">02 Jun 2014</p>
-     VIDEO: Ben Pens New Deal
+     <img alt="Development Game Off" title="Development Game Off" src="/cms_images/news/argyle4x386-263469_150x113.jpg" width="68" height="51">
+     <p class="date">01 Dec 2014</p>
+     Development Game Off
     </a>
- <span class="mxl" data-mxl="65"></span>
+ <span class="mxl" data-mxl="65">A SCHEDULED development fixture between an Argyle XI and Portsmouth at Home Park has been postponed. </span>
   </li>
 
 </ul>
@@ -1465,7 +1504,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <!--Script tag-->
 <div style="display: none">
-
+<script type="text/javascript" src="/js_extended/fli.footer.js"></script>
 </div>
 
 
@@ -1814,15 +1853,6 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
                  </section>
  </div>
-
-<div class="clearfix" id="cookie_disclaimer_wrapper" style="display: block;">
- <section id="cookie_disclaimer" class="clearfix">	
-	<ul>
-	<li class="news-item">By continuing to use the site, you agree to the use of cookies. You can change this and find out more by following<a style="text-decoration:underline;" target="_blank" href="/global/privacy-policy.aspx">this link</a>.</li>		
-	</ul>
-	<div id="acceptCookies">Accept Cookies</div>	
-	</section>
-</div>
 
 
 
@@ -4035,7 +4065,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 			</div>
 		</li>
 		<li>
-			<div class="fb-like" data-href="http://www.facebook.com/plymouthargylefc" data-send="false" data-width="200" data-show-faces="true" data-font="arial"></div>
+			<div class="fb-like" data-href="http://www.facebook.com/plymouthargylefc" data-send="false" data-width="200" data-show-faces="false" data-font="arial"></div>
 		</li>
 		<li><a href="http://www.twitter.com/Only1Argyle" class="twitter-follow-button" target="followTwitter" data-show-count="true">Follow&nbsp;Plymouth Argyle FC</a></li>
 
@@ -4050,7 +4080,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 <span id="PieChartLossColour"></span>
 <span id="PieChartDrawColour"></span>
 
- <script type="text/javascript" src="/combinedjs/combinedbottom_37A598144DA45B65FF040FCD7225710E.js"></script>
+ <script type="text/javascript" src="/combinedjs/combinedbottom_5F5204EA3ED85ABA8D1BA8B2A000C8EF.js"></script>
 
 
  
@@ -4066,16 +4096,13 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 
 <script>
-	var rollUpAccount = "UA-29399239-1";
-	var clubAccount = "UA-29367362-1";
-	$(document).ready(function(){
+	
+$(document).ready(function(){
 		var bodyTag = $("body");
 		var bodyImage = $("[id$=_hdnBackgroundImage]").val();
 		bodyTag.attr("style", bodyImage);
 		fli.init(loader,adloader);
-		var domainNameForGA = 'www.pafc.co.uk';   
-                    
-		gaTracking(domainNameForGA, rollUpAccount, clubAccount);
+		
 		onkeyPressMethod();
                 if ($("#archive_year").attr("id") != undefined) {
                 $("#archive_year").html(getDateDropdown());
@@ -4083,16 +4110,6 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 	});
 
-    function EventTracking(category, action, opt_label){
-		var category = category;
-		var action = action;
-		optlabel = unescape(opt_label);
-		var opt_label = "Plymouth Argyle FC : " + optlabel;
-		gatrackevent(category, action, opt_label , rollUpAccount, clubAccount) ;
-	}
-	
-
-	
 	$(document).ready(function(){
 		   window.twttr = (function (d,s,id) {
 			var t, js, fjs = d.getElementsByTagName(s)[0];
