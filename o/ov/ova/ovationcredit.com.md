@@ -1,101 +1,57 @@
-> *The following text is extracted and transformed from the ovationcredit.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511175054id_/http%3A//www.ovationcredit.com/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovationcredit.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201114912id_/http%3A//www.ovationcredit.com/Policies/Privacy) for the most accurate reproduction.*
 
-# Ovation Credit Services – Privacy Policy
+# Ovation Credit | Privacy Policy
 
-Your information is safe and secure with Ovation. Protecting your privacy is extremely important to Ovation. We guarantee to use the latest technology and adhere to the most stringent confidentiality procedures in the market to keep your personal information confidential. By ensuring that you are aware of and understand the Ovation Client Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. If you have any questions, concerns, or comments about the Ovation Client Privacy Policy, please feel fee to contact us.
+### Your information is safe and secure with Ovation. 
 
-## Our Company-Wide Commitment to Privacy
+Protecting your privacy is extremely important to Ovation. We guarantee to use the latest technology and adhere to the most stringent confidentiality procedures in the market to keep your personal information confidential. By ensuring that you are aware of and understand the Ovation Client Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. If you have any questions, concerns, or comments about the Ovation Client Privacy Policy, please feel fee to contact us. 
 
-To make sure your personal information remains confidential, we communicate these privacy guidelines to every Ovation employee and staff member. Ovation does not knowingly solicit personal information from children or send them requests for personal information. Ovation's web site may contain links to other sites. Ovation does not share your personal information with those web sites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
+##### Our Company-Wide Commitment to Privacy
 
-## Privacy Safeguards We Use To Protect You
+To make sure your personal information remains confidential, we communicate these privacy guidelines to every Ovation employee and staff member. Ovation does not knowingly solicit personal information from children or send them requests for personal information. Ovation's web site may contain links to other sites. Ovation does not share your personal information with those web sites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner. 
 
-Ovation safeguards the security of the data you send us with physical, electronic, and managerial procedures.
+##### Privacy Safeguards We Use To Protect You
 
-  * Our website uses industry-standard Secure Sockets Layer (SSL) encryption wherever sensitive personal information is required
-  * Our servers are maintained in secure facilities behind the latest firewall technologies.
-  * The login schema utilized in the online account access we offer you utilizes the most modern and sophisticated approach to security. Access requires usernames and passwords that employ a combination of letters and numbers making the chance of unauthorized login virtually nonexistent.
-  * To signup for service or to obtain account access one must also use an SSL-enabled browser such as Netscape Navigator 3.0 or later, or Internet Explorer. This protects the confidentiality of your personal information, and credit card or checking account information while it is transmitted over the Internet.
-  * Our staff is granted only limited and pertinent access to the information necessary to perform service on your account. Your data cannot be transmitted or downloaded from our system by members of our staff.
+Ovation safeguards the security of the data you send us with physical, electronic, and managerial procedures. 
 
-
-
-The Ovation Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes. If you have any questions, concerns, or comments about the Ovation Client Privacy Policy, please feel free to contact us.
-
-## Ways You Can Help Keep Your Information Secure
-
-We urge you to take every precaution to protect your personal data when you are on the Internet. Here are some helpful tips to consider whenever handling your important information with us or anywhere else on the internet
-
-  * Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
-  * Don't use the same password for different websites. This way if anyone ever gets your password they will only have it for one website.
-  * Never share your login information with anyone you would not want to have full access to all of your information.
-  * Avoid login on any public computer or computer that is not solely yours. If you must, be sure to logout when you are finished. Be sure that there are no spyware applications installed on the machine and empty all stored cookie or cache information.
-  * Notify us the moment you feel there has been a breach of privacy or security on your end.
+  * Our website uses industry-standard Secure Sockets Layer (SSL) encryption wherever sensitive personal information is required 
+  * Our servers are maintained in secure facilities behind the latest firewall technologies. 
+  * The login schema utilized in the online account access we offer you utilizes the most modern and sophisticated approach to security. Access requires usernames and passwords that employ a combination of letters and numbers making the chance of unauthorized login virtually nonexistent. 
+  * To sign-up for service or to obtain account access one must also use an SSL-enabled browser such as Netscape Navigator 3.0 or later, or Internet Explorer. This protects the confidentiality of your personal information, and credit card or checking account information while it is transmitted over the Internet. 
+  * Our staff is granted only limited and pertinent access to the information necessary to perform service on your account. Your data cannot be transmitted or downloaded from our system by members of our staff. 
 
 
 
-## Why Do We Need To Collect Personal Information? 
+The Ovation Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes. If you have any questions, concerns, or comments about the Ovation Client Privacy Policy, please feel free to contact us. 
 
-In order to provide the types of services we provide to you we must collect certain necessary information in order to perform those services. We collect personal information to enroll you in our service and to provide our services for you. Once you have retained Ovation, we use you personal information to correct inaccuracies, mistakes, and misleading items on your credit reports. Additionally, we use your personal information to provide you with superior customer service, and to communicate with you regarding your case. We also use your personal information to keep you up to date on the latest service announcements, feature updates, special offers, and other information we think you would like to hear about.
+##### Ways You Can Help Keep Your Information Secure
 
-## What Type of Information Do We Need To Collect? 
+We urge you to take every precaution to protect your personal data when you are on the Internet. Here are some helpful tips to consider whenever handling your important information with us or anywhere else on the internet 
 
-The personal information that we collect is limited to the information that you provide to us when you sign up for and use our services. This information consists of your name, address, email address, phone number, social security number, date of birth, and billing information. Additionally, you will provide the information contained on your credits reports to Ovation in order for us to provide our service. All personal information that is provided to and maintained by Ovation is available for review and edit directly through our online Client Access Center. Additionally, you may contact us if you would like us to review and edit your personal information for you.
-
-## How Do We Collect The Information We Need To Collect? 
-
-We collect information about you at the time you sign up for our service, and any time we enter information from your credit report into our database in order to facilitate your service, particularly for our Dispute ManagerTM pages where you may continually update your information and review the status of your case. All personal information our clients provide is stored in a secure database for the sole purpose of rendering our services to you. When you browse Ovation's web site, you are able to do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
-
-## When Do We Disclose Information We Need To Disclose?
-
-We maintain strict confidence of your personal information. The ability to communicate with our clients during any part of the credit recovery process is absolutely essential and, as a result, your personal information may be shared internally with other Ovation employees. They will protect your personal information in accordance with the Ovation Customer Privacy Policy. Ovation works with other companies that help us provide Ovation services to you, and we may provide your personal information to these companies. For example, should we need to forward written documents to you we give shipping companies this information so they can deliver more efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with Ovation's policies. Ovation will not share, sell, transfer or convey your personal information to any unaffiliated companies or third parties which are not necessary to perform our services unless you specify otherwise.
-
-## Your Information Is Safe With Us
-
-Ovation will not share, sell, transfer or convey your personal information to any unaffiliated companies or third parties which are not necessary to perform our services unless you specify otherwise.
-
-## Your Credit Report Ratings
-
-Don't understand your credit report? Don't know what the numbers and letters mean under the ratings section. Let us help you understand your credit report a little better. Below are the numbers used to rate an account and the "R" before the number means that it is a Revolving account.
-
-  * **R0** \- Too new to rate. Approved but not used
-  * **R1** \- Paying as agreed
-  * **R2** \- 30 days late: Late more than 30 days, but less than 60
-  * **R3** \- 60 days late: Late more than 60 days, but less than 90
-  * **R4** \- 90 days late: Late more than 90 days, but less than 120
-  * **R5** \- 120 days late, but is not yet rated collections
-  * **R6** \- 150 days late, but is not yet rated collections
-  * **R7** \- 180 days late, Paid through a debt management or credit counseling program
-  * **R8** \- Over 180 days late, Repossession
-  * **R9** \- Bad debt: Collection, Charge Off, Bankruptcy, Included in Bankruptcy, Judgment, Lien, Foreclosure
+  * Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
+  * Don't use the same password for different websites. This way if anyone ever gets your password they will only have it for one website. 
+  * Never share your login information with anyone you would not want to have full access to all of your information. 
+  * Avoid login on any public computer or computer that is not solely yours. If you must, be sure to logout when you are finished. Be sure that there are no spyware applications installed on the machine and empty all stored cookie or cache information. 
+  * Notify us the moment you feel there has been a breach of privacy or security on your end. 
 
 
 
-Each item on your credit report carries a corresponding rating number that summarizes your account status.
+##### Why Do We Need To Collect Personal Information? 
 
-  * **R** \- Revolving Account - A credit account that is charged and once paid can be used over and over. A revolving balance.
-  * **I** \- Installment
+In order to provide the types of services we provide to you we must collect certain necessary information in order to perform those services. We collect personal information to enroll you in our service and to provide our services for you. Once you have retained Ovation, we use you personal information to correct inaccuracies, mistakes, and misleading items on your credit reports. Additionally, we use your personal information to provide you with superior customer service, and to communicate with you regarding your case. We also use your personal information to keep you up to date on the latest service announcements, feature updates, special offers, and other information we think you would like to hear about. 
 
+##### What Type of Information Do We Need To Collect? 
 
+The personal information that we collect is limited to the information that you provide to us when you sign-up for and use our services. This information consists of your name, address, email address, phone number, social security number, date of birth, and billing information. Additionally, you will provide the information contained on your credits reports to Ovation in order for us to provide our service. All personal information that is provided to and maintained by Ovation is available for review and edit directly through our online Client Access Center. Additionally, you may contact us if you would like us to review and edit your personal information for you. 
 
-## Did You Know?
+##### How Do We Collect The Information We Need To Collect? 
 
-Studies show that less than 10% of the population looks at their credit report annually. Instead, they wait until they're ready to buy a car, make a real estate purchase or refinance property and then check their credit report and credit score. In some cases, this may be too late.
+We collect information about you at the time you sign-up for our service, and any time we enter information from your credit report into our database in order to facilitate your service, particularly for our Dispute Manager™ pages where you may continually update your information and review the status of your case. All personal information our clients provide is stored in a secure database for the sole purpose of rendering our services to you. When you browse Ovation's web site, you are able to do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
 
-  * Twenty-five percent (25%) of the credit reports contained errors serious enough to result in the denial of credit
-  * Seventy-nine percent (79%) of the credit reports contained mistakes of some kind
-  * Fifty-four percent (54%) of the credit reports contained personal demographic identifying information that was misspelled, long-outdated, belonged to a stranger, or was otherwise incorrect
-  * Thirty percent (30%) of the credit reports contained credit accounts that had been closed by the consumer but were reporting incorrectly
+##### When Do We Disclose Information We Need To Disclose?
 
+We maintain strict confidence of your personal information. The ability to communicate with our clients during any part of the credit recovery process is absolutely essential and, as a result, your personal information may be shared internally with other Ovation employees. They will protect your personal information in accordance with the Ovation Customer Privacy Policy. Ovation works with other companies that help us provide Ovation services to you, and we may provide your personal information to these companies. For example, should we need to forward written documents to you we give shipping companies this information so they can deliver more efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with Ovation's policies. Ovation will not share, sell, transfer or convey your personal information to any unaffiliated companies or third parties which are not necessary to perform our services unless you specify otherwise. 
 
+##### Your Information Is Safe With Us
 
-## Proven Results
-
-### Our clients average 19 improvements to their combined credit reports.
-
-These improvements generally lead to higher credit scores and better borrowing opportunities.
-
-Individual results may vary.
-
-For a Free Consultation   
-Call 866-639-3426 
+Ovation will not share, sell, transfer or convey your personal information to any unaffiliated companies or third parties which are not necessary to perform our services unless you specify otherwise. 
