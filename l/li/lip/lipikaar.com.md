@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331020915id_/http%3A//www.lipikaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201090515id_/http%3A//www.lipikaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Lipikaar - Privacy Policy
 
