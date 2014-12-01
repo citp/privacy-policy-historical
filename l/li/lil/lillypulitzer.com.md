@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lillypulitzer.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529011911id_/http%3A//www.lillypulitzer.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lillypulitzer.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201161721id_/http%3A//www.lillypulitzer.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security - Lilly Pulitzer
 
@@ -63,7 +63,7 @@ You have the option not to receive marketing information or calls. For instructi
 We may share your personal information in the following ways:
 
   * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information.
-  * We may share your information when we partner with another company in a joint marketing program to offer or provide products, services, contests, or promotions to our customers. We also work with third party companies that use tracking technologies (including cookies, tags and web beacons) on our website in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options, please visit [http://www.aboutads.info](http://www.aboutads.info/). Except for sharing this information with a joint marketing partner, we do not sell or lease your information to any third party to use for marketing their products.
+  * We may share your information when we partner with another company in a joint marketing program to offer or provide products, services, contests, or promotions to our customers. We also work with third party companies that use tracking technologies (including cookies and tags) on our website in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options, please visit [http://www.aboutads.info](http://www.aboutads.info/). Except for sharing this information with a joint marketing partner, we do not sell or lease your information to any third party to use for marketing their products.
   * We may share information about you, if necessary, in our good faith judgment, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Lilly Pulitzer or others.
   * If you purchase Lilly Pulitzer products through our website or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes.
 
@@ -131,4 +131,4 @@ King of Prussia, PA 19406
 1.888.725.4559  
 [service@LillyPulitzer.com](mailto:service@LillyPulitzer.com)
 
-Effective Date: October 21, 2013
+Effective Date: February 20, 2013
