@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotornot.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022050id_/http%3A//hotornot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotornot.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201182228id_/http%3A//hotornot.com/privacy) for the most accurate reproduction.*
 
 # Hot or Not - Privacy Policy
 
@@ -6,7 +6,7 @@ This policy and any dispute or claim arising out of or in connection with it or 
 
 ## What’s this all about then?
 
-Hello (again, if you clicked through to here from our Terms and Conditions of Use). You should read this privacy policy because it will tell you exactly how your personal data is being looked after by Hot or Not and that’s a pretty important thing for you to know. Here are the topics that we cover: 
+Hello (again, if you clicked through to here from our [Terms and Conditions of Use](http://hotornot.com/terms/)). You should read this privacy policy because it will tell you exactly how your personal data is being looked after by Hot or Not and that’s a pretty important thing for you to know. Here are the topics that we cover: 
 
   1. What information we collect and how we collect it
   2. How we use the information and who we share it with
@@ -23,7 +23,7 @@ Hot or Not is operated by Or Not Limited, a company registered in England at Med
 
 We know that other people’s use of your personal data is a big concern for social network users, so we at Hot or Not have developed this privacy policy (the “ **Policy** ”) to let you know how we use personal information (‘personal data’ or ‘personal information’). 
 
-Our Policy applies to your use of the Hot or Not app and website at www.hotornot.com (“Hot or Not”). We suggest you read it in conjunction with our Terms and Conditions of Use (the “ **Terms** ”). When you access or use Hot or Not, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy. 
+Our Policy applies to your use of the Hot or Not app and website at http://hotornot.com/ (“Hot or Not”). We suggest you read it in conjunction with our [Terms and Conditions of Use](http://hotornot.com/terms/) (the “ **Terms** ”). When you access or use Hot or Not, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy. 
 
 Hot or Not reserves the right to change our Policy at any time and without notice, so be sure to check this Policy regularly to understand how we use your information. 
 
@@ -35,9 +35,13 @@ IF YOU DO NOT ACCEPT AND AGREE WITH OUR PRIVACY POLICY THEN YOU MUST NOT ACCESS 
 
 Hot or Not is a place for meeting new people, and we provide that service by operating a social network app and site offering users the opportunity to connect to our global community of users. 
 
-To join the Hot or Not network you will have to sign in with your Facebook profile, from which we will collect your name, your gender, your date of birth, your location details and your interests. You may also have the opportunity to provide other details about yourself, but these are optional. Because you control your user profile, these details are available to you at any time by accessing your “Profile” page, which gives you the chance to correct or update (other than gender and interests) your information at any time by just logging in to Hot or Not. 
+To join the Hot or Not network we have several ways you can sign in. You may be able to sign in with your email address, and you will provide us with your full name, your gender, your date of birth, and your location details, which we will collect. You can also sign in with your Facebook profile, from which we will collect your full name, your gender, your date of birth, your location details, your profile photos, your list of public friends, and your interests. 
 
-Once you have created a Profile, we will automatically track certain information such as your IP and email addresses. 
+Other ways to join the Hot or Not network are by signing in with your Google Plus profile, from which we will collect your basic profile info, such as your full name, your gender, your list of friends in your circle and your email address. You can also join via other social networks available in certain countries from which we will collect your full name, your gender, your friends, your date of birth, your email address and your location details. 
+
+You may also have the opportunity to provide other details about yourself, but these are optional. Because you control your user profile, these details are available to you at any time by accessing your “Profile” page, which gives you the chance to correct or update your information (other than gender and your date of birth) at any time by just logging in to Hot or Not. We may require you to verify your Profile and provide us with a phone number for the sole purpose of verification. We will take measures to keep this safe in accordance with this policy. 
+
+Once you have created a Profile, we will automatically track certain information such as your IP and email addresses, (if you have provided this to us). 
 
 #### What information does Hot or Not collect about me if I’m under 13? 
 
@@ -51,9 +55,11 @@ No. We don’t collect any personal information about visitors to our site. If y
 
 Hot or Not is designed to make it easy for you to find, connect and interact with other members of Hot or Not by posting information about yourself. You can also use our electronic messaging system, which allows you to communicate with other users. We recommend and encourage you (and all our members) to think carefully about the information they disclose about themselves. We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers’ licence details and other sensitive information in your Profile which is open to abuse and misuse. 
 
-Please be careful about posting sensitive details about yourself on your Profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your Profile, including your sexual preferences and ethnic background, there is no requirement to do so. Please remember that photographs that you post on Hot or Not may reveal these kinds of sensitive personal data. Where you do upload and choose to tell us sensitive information about yourself, you are explicitly consenting to our processing your information and making this public to other users. 
+Please be careful about posting sensitive details about yourself on your Profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your Profile, including your sexual preferences and ethnic background, there is no requirement to do so. Please remember that photographs that you post on Hot or Not may reveal this kind of sensitive personal data. Where you do upload and choose to tell us sensitive information about yourself, you are explicitly consenting to our processing your information and making this public to other users. 
 
-When you post information about yourself or use the messaging, the amount of personal information you share is at your own risk. If you post anything that is inconsistent with our Terms and Conditions of Use, we reserve the right to terminate your account. 
+If you are between the ages of 13- 17 years of age, we are afraid you cannot chat or share photos with anyone outside of that age bracket. If you are 18 years old or over, we do not permit you to start new conversations or share photos with anyone younger than 18.
+
+When you post information about yourself or use the messaging, the amount of personal information you share is at your own risk. If you post anything that is inconsistent with our [Terms and Conditions of Use](http://hotornot.com/terms/), we reserve the right to terminate your account. 
 
 #### What does Hot or Not collect about me if I use the mobile app? 
 
@@ -63,13 +69,15 @@ When you use your mobile app, we will collect information about WiFi access poin
 
 #### Can Hot or Not collect information about me from other sites I use, such as Facebook? 
 
-You will be required to register through Facebook and parts of your Facebook Profile (such as your interests, photos, first name, and your 'about me' etc) will be available to all users of the Hot or Not social network. 
+If you have joined our network through another social network, such as Facebook, or Google+, parts of your social network profile (such as your interest, profile photos and name) will be available to all users of the Hot or Not social network. 
 
-Remember that when you register with Facebook, you are also giving them personal information, so we recommend that you read their privacy policies as Hot or Not does not control how they use their information. 
+Remember that when you register with Facebook or any other social network, you are also giving them personal information, so we recommend that you read their privacy policies as Hot or Not does not control how they use their information. 
 
-Once you have registered through Facebook, we will connect your Hot or Not profile with your Facebook profile. We may do this by way of new products and applications, which we introduce from time to time.
+If you use the voting feature on Hot or Not, you can share these voting results on celebrities and other Hot or Not users on other social networks. You can turn this sharing feature off in your settings at any time. 
 
-If you have created a Hot or Not profile through Facebook and you do not want to link your Hot or Not profile to your profile on Facebook, Hot or Not cannot amend these settings. Please visit the application settings on your Facebook profile and follow the instructions to remove the Hot or Not access permissions. 
+Once you have registered through Facebook or another social network, we will connect your Hot or Not profile with that social network profile. We may do this by way of new products and applications, which we, or one of our partners‘ introduce from time to time.
+
+If you have created a Hot or Not profile through Facebook or another social network, and you do not want to link your Hot or Not profile to your profile on Facebook or other social network, Hot or Not cannot amend these settings. Please visit the application settings on your Facebook or other social network profile and follow the instructions to remove the Hot or Not access permissions. 
 
 #### Does Hot or Not collect any other personal information about me? 
 
@@ -83,13 +91,13 @@ On your “ **Settings** ” page Hot or Not offers you the opportunity to recei
 
 We may use material that you post on the open access areas of Hot or Not in advertising and promotional materials on our partner sites and partner products. We believe these uses allow us to improve our app or website and better tailor your online experience to meet your needs. 
 
-We use your personal information to resolve disputes, troubleshoot problems and enforce our Terms and Conditions of Use.
+We use your personal information to resolve disputes, troubleshoot problems and enforce our [Terms and Conditions of Use](http://hotornot.com/terms/).
 
 #### What are 'cookies' and what 'cookies' does Hot or Not use? 
 
 We collect information by placing cookies on your computer or mobile. A cookie is a piece of text stored on your computer or mobile by your web browser. They are basically a tool that stores information about website visits, recognises you and your preferences each time you visit Hot or Not, and ensures site functionality and enables us to provide the services our members request. 
 
-When you visit the publicly available sections of Hot or Not, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known an local storage devices) on members’ computers, so that Hot or Not remembers them and makes their login experience faster and easier. We may use persistent tracking cookies on your mobile device, mainly for security protection purposes, such as to prevent phishers, scammers, unauthorised log in attempts, and to help you access your hacked account. We do not use any information whilst you are logged off. 
+When you visit the publicly available sections of Hot or Not, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known an local storage devices) on members’ computers, so that Hot or Not remembers them and makes their login experience faster and easier. We may use persistent tracking cookies on your mobile device, mainly for security protection purposes, such as to prevent phishers, scammers, unauthorised log-in attempts, and to help you regain access if your account is hacked. We do not use any information whilst you are logged off. 
 
 You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Hot or Not offers. 
 
@@ -118,13 +126,13 @@ Site features and services |
 
 These cookies and local storage devices provide the functionality that our Hot or Not members enjoy, such as uploading of photographs, chats, instant messaging, your account settings and your request to have Hot or Not as your homepage or your search preference. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between Hot or Not with your other favourite social networks.
 
-In some cases, the app or site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and Hot or Not recommends that you read their privacy policies. Third parties who place cookies on your device when you use Hot or Not include, and we have included a link to their privacy policies:
+In some cases, the app or site feature you choose may allow a third party to place cookies or save data to your local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and Hot or Not recommends that you read their privacy policies. Third parties who place cookies on your device when you use Hot or Not include, and we have included a link to their privacy policies:
 
 Twitter, <https://twitter.com/privacy> Facebook, <http://www.facebook.com/about/privacy/your-info-on-other#socialplugin> YouTube, <http://www.google.co.uk/intl/en/policies/privacy/> AddThis, <http://www.addthis.com/privacy>  
   
-Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our app and site, ensuring pages load up quickly and respond faster to your requests for Hot or Not services.  
+Performance | We need to use certain cookies and save data to your local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our app and site, ensuring pages load up quickly and respond faster to your requests for Hot or Not services.  
   
-Our use of cookies and local share devices, including the specific cookie names, may change over time, but will generally fall into the above categories. Please visit this page regularly so that you are aware of any changes.
+Our use of cookies and local storage devices, including the specific cookie names, may change over time, but will generally fall into the above categories. Please visit this page regularly so that you are aware of any changes.
 
 If you would like to know more about cookies, including flash cookies/local storage devices, the following websites provide useful information:
 
@@ -140,11 +148,11 @@ For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/coo
 
 #### When I put information about myself on Hot or Not, what do the other users see? 
 
-To ensure you get to meet as many people as possible on Hot or Not, other members get to see your user name and any information you post on your Profile, including photos. Any information you choose to provide should reflect how much you want other Hot or Not members to know about you. 
+To ensure you get to meet as many people as possible on Hot or Not, other members may get to see your user name, full name, and any information you post on your Profile, including photos. Any information you choose to provide should reflect how much you want other Hot or Not members to know about you. 
 
 #### What am I allowed to do with other user’s personal information? 
 
-Use it to meet new friends and make new contacts! Beware that you may not use other users' information for commercial purposes, to spam, to harass, or to make unlawful threats. Hot or Not reserves the right to terminate the accounts of those who misuse other users' information or who otherwise violate the Terms and Conditions of Use.
+Use it to meet new friends and make new contacts! Beware that you may not use other users' information for commercial purposes, to spam, to harass, or to make unlawful threats. Hot or Not reserves the right to terminate the accounts of those who misuse other users' information or who otherwise violate the [Terms and Conditions of Use](http://hotornot.com/terms/).
 
 ## 3. Third parties
 
@@ -180,28 +188,21 @@ We cannot guarantee the security of your personal data while it is being transmi
 
 #### How do I help keep my information secure? 
 
-You may not disclose your login details to any third parties or share it with any third parties. If you lose your login details or give them out, your personal information may be compromised. If that happens, you must change your login details immediately. Hot or Not cannot be held responsible for your failure to keep your login details secure and failure to do so may violate our Terms and Conditions of Use.
+You may not disclose your login details to any third parties or share it with any third parties. If you lose your login details or give them out, your personal information may be compromised. If that happens, you must change your login details immediately. Hot or Not cannot be held responsible for your failure to keep your login details secure and failure to do so may violate our [Terms and Conditions of Use](http://hotornot.com/terms/).
 
 ## 6. Your rights
 
 #### How do I change my Profile? 
 
-You can review and revise your profile information at any time. Once you register, you will be able to review and change much of your personal information through your Facebook profile and through your Settings page including: 
-
-  1. Your profile and photographs;
-  2. Your city;
-
-
-
-Please promptly update your information if it changes by signing-in to your account and following the screen prompts. We strongly urge you to periodically change your password to help reduce the risk of unauthorised access to your account information. 
+You can review and revise your profile information at any time. Once you register, you will be able to review and change much of your personal information through your Facebook profile and, for some features, through your Settings page including your profile and photographs. Please promptly update your information if it changes by signing-in to your account and following the screen prompts. We strongly urge you to periodically change your password to help reduce the risk of unauthorised access to your account information. 
 
 Users in certain jurisdictions are, in accordance with applicable law, entitled to exercise a right of access to personal information about themselves by asking for a copy of the information we hold about them (for which, where allowed by law, we may charge a small fee). Please put any such request in writing and using our contact form on our website.
 
 #### Can I deactivate or delete my Profile? 
 
-Users of the Hot or Not network have the following choices to delete their profile from our database: 
+Users of the Hot or Not network may delete their profile from our database: 
 
-  1. Sign in to your account, go to the 'Account' options in your settings and delete your profile. 
+  1. Sign into your account, go to the 'Account' option in your settings and delete your profile. 
 
 
 
@@ -209,7 +210,7 @@ If you want to stop using your account it will be initially deactivated. This me
 
 After the expiration of 30 days, your account is permanently deleted from Hot or Not. We delete photographs from our servers within 14 days from the expiration of the deactivation period while other information (such as contact history) is deleted by us over a longer timescale, by way of housekeeping on a periodic basis. You should only delete your account if you are certain you never want to restore it. 
 
-To prevent abuse and/or misuse of Hot or Not by a user following termination or deletion of a profile/account we shall retain such information as we deem in our sole discretion may be necessary to ensure that user does not open a new account and profile in breach of our Terms and Conditions of Use and to ensure compliance with all laws and regulations. 
+To prevent abuse and/or misuse of Hot or Not by a user following termination or deletion of a profile/account we shall retain such information as we deem in our sole discretion may be necessary to ensure that user does not open a new account and profile in breach of our [Terms and Conditions of Use](http://hotornot.com/terms/) and to ensure compliance with all laws and regulations. 
 
 Warning: Even after you remove information from your profile or delete your account, copies of that information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, or copied or stored by other users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies. 
 
@@ -219,14 +220,17 @@ Removed and deleted information may persist in backup copies for up to 30 days t
 
 If you have not signed in to Hot or Not for three months, we may remove your Profile as part of our data cleansing process. 
 
+Your Hot or Not account is non-transferable and any rights to your profile or contents within your account will be canceled upon your death. 
+
 If you have questions about our Privacy Policy or how we collect and use information, contact us through our website. 
 
 ## Useful links
 
 You might also want to take a look at the following pages:
 
-  1. Terms and Conditions: find out how we govern the relationship between you and Hot or Not.
+[Terms and Conditions](http://hotornot.com/terms/): to find out how we govern the relationship between you and Hot or Not.
 
 
 
-This Privacy Policy was last updated on 6 June 2013.
+
+This Privacy Policy was last updated on 30 September 2014.
