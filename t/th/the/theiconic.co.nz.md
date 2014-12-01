@@ -1,90 +1,106 @@
-> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601210022id_/http%3A//www.theiconic.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201192159id_/http%3A//www.theiconic.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ](http://www.theiconic.co.nz/)
+
+Your shopping bag is empty 
+
+### The Iconic Privacy Statement
 
 We take our customers privacy seriously and we will only collect and use your personal information as outlined below.
 
 Our Privacy Statement fully complies with the Privacy Act 1988 and represents the industry’s best practice.
 
-## Personal information collected
+    
 
-THE ICONIC does not sell, share or trade customers personal information collected online with third parties.
+Normally we collect information from you directly, unless it is unreasonable or impracticable to do so.
 
-Personal information collected online will only be disclosed within our corporate group for internal use only.
+Collection of your personal information can occur through the following interactions:
 
-## Collection of Personal Information
-
-When you create an ICONIC account the personal information we collect may include your:
-
-  * \- Name
-  * \- Delivery Address
-  * \- Email Address
-  * \- Telephone Number
-  * \- Mobile Number
-  * \- Date of Birth
-  * \- Gender
+  * when you access and use our website or WiFi services;
+  * during conversations with our team members;
+  * when you complete purchase orders, registrations, requests or applications for our products or services (by phone, in person or electronically);
+  * when you communicate with us directly (by email, telephone, direct mail or any other means); 
+  * when you interact with us during promotions, competitions, special events, or by using devices within our stores; or
+  * if you are a candidate for employment, when you complete forms in relation to the recruitment and selection process, for the purpose of assessment.
 
 
 
-The personal information we collect from you will be used in some or all of the following ways:
+We may also collect personal information about you from the following third parties:
 
-  * \- To deliver the products you have purchased from THE ICONIC
-  * \- To update you on the delivery of the product and for customer support purposes
-  * \- To provide you with relevant product information 
-  * \- To customize future shopping for you and improve our store.
+  * retail brands and suppliers who provide goods and services within our stores. This may include other suppliers who provide products and services to you on our behalf; and
+  * if you are a candidate for employment, we may collect information about you from your nominated referees, where you have authorised us to do so.
 
 
 
-When you register as a user on THE ICONIC website, we will also use your personal information to send you marketing and/or promotional materials from time to time. You can unsubscribe from marketing information at anytime by using the unsubscribe function within the electronic marketing material.
+    
 
-## Updating Your Personal Information
+​​We collect your personal information so that we can carry out the following actions (“Purpose”):
+
+  * to provide you with products and services that you have requested from us;
+  * to communicate with you, including about products and services, competition results, special offers, and events which might interest you;
+  * to answer your questions and provide you with information or advice;
+  * to create orders, transaction records, agreements for the sale of products or services, accounts, tax invoices or receipts;
+  * provide your personal information to third parties that assist us in providing products and services you have requested, such as delivery service providers and fulfilment managers;
+  * carry out administration, marketing, planning, fraud and loss prevention activities, procurement, product and service development, quality control and research to improve the way THE ICONIC and its related bodies corporate and service providers provide products and services to you;
+  * to consider and respond to complaints made by you;
+  * to comply with laws or regulations or to comply with any directions given by regulators or authorities; or
+  * if you are a candidate for employment, to assess your suitability for a position at THE ICONIC.
+
+
+
+    
 
 You can update your personal information anytime by accessing your account on THE ICONIC website.
 
-## Security of Your Personal Information
+    
 
-THE ICONIC ensures that all information collected will be safely and securely stored.
-
+HE ICONIC ensures that all information collected will be safely and securely stored.   
 We protect your personal information by:
 
-  * \- Restricting access to personal information
-  * \- Maintaining technology products to prevent unauthorised computer access
-  * \- Securely destroying your personal information when it's no longer needed for our record retention purposes
-
-
-
+  * Restricting access to personal information
+  * Maintaining technology products to prevent unauthorised computer access
+  * Securely destroying your personal information when it's no longer needed for our record retention purposes   
 THE ICONIC uses 128 - bit SSL (secure sockets layer) encryption technology when processing your financial details. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard.
 
-## Disclosure of Personal Information
 
-We will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from THE ICONIC website.
 
-In exceptional circumstances THE ICONIC may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes.
+    
 
-THE ICONIC is committed to complying with the Privacy Act and the National Privacy principles.
+​​Your personal information may be disclosed in connection with any Purpose to any of the following:
 
-##  About Breaches of Privacy
+  * our employees, contractors or service providers, to the extent reasonably necessary to fulfil our obligations to you. This may include internet service providers, IT systems administrators, mailing houses, couriers, payment processors, and data entry service providers;
+  * retail brands and suppliers who provide goods and services within our stores. This may include other suppliers who provide products and services to you on our behalf;
+  * our business advisors, including lawyers, accountants or other professional service providers, to the extent reasonably required;
+  * suppliers and other third parties with whom we have commercial relationships, for business, marketing and related purposes;
+  * if you are a candidate for an employment position involving a third party with whom we have an agreement, to that third party to assess your application; and
+  * if required by law, to any person authorised by such law. This may include the police service, ambulance service, or government departments or regulators within Australia in connection with law enforcement activities.
+
+
+
+Your personal information will not be shared, sold, rented or disclosed other than as described in this privacy policy.
+
+    
 
 If you believe that your privacy has been breached by THE ICONIC please contact us at [customer.service@theiconic.com.au](mailto:%20customer.service@theiconic.com.au) and we will resolve the issue.
 
-## Collection of Computer Data
+    
 
 When you visit THE ICONIC, our company servers will automatically record information that your browser sends whenever you visit a website. This data may include:
 
-  * \- Your computer's IP address
-  * \- Browser type
-  * \- Webpage you were visiting before you came to our site
-  * \- The pages with in THE ICONIC you visit
-  * \- The time spent on those pages, items and information searched for on our site, access times and dates, and other statistics.
+  * Your computer's IP address
+  * Browser type
+  * Webpage you were visiting before you came to our site
+  * The pages with in THE ICONIC you visit
+  * The time spent on those pages, items and information searched for on our site, access times and dates, and other statistics. This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information.
 
 
 
-This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information.
-
-## Changes to the Privacy Policy
+    
 
 THE ICONIC reserves the right to modify and change the Privacy Statement at any time. Any changes to this policy will be published on our site.
 
-## Complaints about breaches of privacy
+    
 
-If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at customer.service@theiconic.com.au.
+If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at [customer.service@theiconic.com.au.](mailto:%20customer.service@theiconic.com.au)
