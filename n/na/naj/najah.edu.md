@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the najah.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083948id_/http%3A//www.najah.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the najah.edu privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201211038id_/http%3A//www.najah.edu/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | An-Najah National University
 
@@ -38,7 +38,7 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ### How to contact us
 
-If you have any questions or concerns about an-najah online policy for this site or its implementation contact us. pr [at] najah [dot] edu
+If you have any questions or concerns about an-najah online policy for this site or its implementation contact us. [pr@najah.edu](mailto:pr%40najah.edu)
 
 ### Update & Effective Date
 
