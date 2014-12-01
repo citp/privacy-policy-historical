@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appdevelopermagazine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081457id_/http%3A//appdevelopermagazine.com%3Fref%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdevelopermagazine.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201210016id_/http%3A//appdevelopermagazine.com%3Fref%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy | App Developer Magazine
 
