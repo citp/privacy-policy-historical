@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004315id_/http%3A//www.mellanox.com/page/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201053942id_/http%3A//www.mellanox.com/page/legal_privacy) for the most accurate reproduction.*
 
 # Legal Privacy: Mellanox Technologies
 
 ## Legal & Privacy Policy
 
-**_Policy last updated_** :  August 26, 2013  
+**_Policy last updated_** :  July 22, 2014  
 
 
 This is the website (“Website”) of Mellanox Technologies, Ltd. (collectively with all subsidiaries, “Mellanox”).  Your privacy is very important to us.  The purpose of this privacy policy (“Privacy Policy”) is to inform you about our policy and our practices regarding the collection and use of information from visitors to this Website.  By accessing or using this Website, you agree to all of the terms and conditions set forth in this Privacy Policy.  
@@ -64,6 +64,17 @@ Except as otherwise required by applicable law, no part of any copyrighted mater
 
 Mellanox, Mellanox logo, BridgeX, ConnectX, CORE-Direct, InfiniBridge, InfiniHost, InfiniScale, PhyX, SwitchX, Virtual Protocol Interconnect and Voltaire are registered trademarks of Mellanox Technologies, Ltd. FabricIT, MLNX-OS, Unbreakable-Link, UFM and Unified Fabric Manager are trademarks of Mellanox Technologies, Ltd. All other trademarks are property of their respective owners.
 
+#### **_Code of Ethics  
+_**
+
+Mellanox Technologies, Ltd. (the "Company") is dedicated to conducting its business consistent with the highest standards of business ethics. We have an obligation to our employees, shareholders, customers, suppliers, community representatives and other business contacts to be honest, fair and forthright in all of our business activities. 
+
+This Code of Business Conduct and Ethics contains general guidelines for conducting the business of the Company consistent with the highest standards of business ethics. To the extent this Code requires a higher standard than required by commercial practice or applicable laws, rules or regulations, we adhere to these higher standards. 
+
+This Code applies to all of our directors, officers and employees. We refer to all persons covered by this Code as "Company employees" or simply "employees." We also refer to our Chief Executive Officer and our Chief Financial Officer as our "principal financial officers."
+
+[Download Code of Ethics Document](http://www.mellanox.com/related-docs/company/Mellanox-Code-of-ethics.pdf)
+
 #### **_Changes to this Privacy Policy  
 _**
 
@@ -71,7 +82,7 @@ We reserve the right to amend this Privacy Policy at any time without notice.  
 
 Mellanox shall have the right, in its sole discretion, to change, suspend or discontinue this Website or any aspect of this Website, generally or with respect to you, at any time, including hours of operation and availability of any Website feature, database or content without notice and without liability to you or any third party.
 
-#### **_Opt-out  
+####  **_Opt-out  
 _**
 
 If you request to receive communications from us, you will receive information we believe will be of use and interest to you.  ****
