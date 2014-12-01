@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnwlocalnews.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604001607id_/http%3A//www.pnwlocalnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnwlocalnews.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201134919id_/http%3A//www.pnwlocalnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PNWLocalNews
 
