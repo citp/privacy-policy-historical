@@ -1,33 +1,33 @@
-<!--The following is the downloaded HTML source of the erply.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625091919id_/http%3A//erply.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the erply.com privacy policy that was archived on 2014-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201055431id_/https%3A//erply.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		
+				
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
-		<title>Privacy Policy | Erply Retail Software</title>
+
+		<title>Privacy Policy</title>
 		
 		<meta name="google-site-verification" content="xuD1hdpPLbubabgxefGYLRkZR3WRn3rNKHmmHC8J-G4">
+				
+		<link rel="shortcut icon" href="/wp-content/themes/Erply2.0/favicon-new.ico">
 		
-		<link rel="shortcut icon" href="http://erply.com/wp-content/themes/Erply2.0/favicon-new.ico">
-		
-		
-		<link href="http://erply.com/wp-content/themes/Erply3.2/css/bootstrap.css" rel="stylesheet">
-		<link href="http://erply.com/wp-content/themes/Erply3.2/css/erply.css" rel="stylesheet">
+		<link href="/wp-content/themes/Erply3.2/css/bootstrap.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/Erply3.5/style.css">
 		
 		
 				
-		
 				
+		<link rel="stylesheet" href="/wp-content/themes/Erply3.5/fonts/ElegantIcons.css">
+		<!--[if lte IE 7]><script src="/wp-content/themes/Erply3.5/fonts/ElegantIcons.lte-ie7.js"></script><![endif]-->
+
 		<link rel="alternate" type="application/rss+xml" title="Erply Retail Software » Privacy Policy Comments Feed" href="http://erply.com/privacy-policy/feed/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://erply.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://erply.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Quickbooks ver 1.0" href="http://erply.com/quickbooks-ver-1-0/">
-<link rel="next" title="Franchise Management Software" href="http://erply.com/franchise-management-software/">
 <link rel="shortlink" href="http://erply.com/?p=1262">
 
-<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[161,212] -->
+<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[156,206] -->
 <meta name="description" content="Privacy Policy We respect the privacy of your personal and corporate information. This policy sets out how we use any personal information collected from">
 <link rel="canonical" href="http://erply.com/privacy-policy/">
 <!-- /all in one seo pack -->
@@ -38,11 +38,9 @@
 		<script src="http://erply.com/wp-content/themes/Erply3.2/js/respond.min.js"></script>
 		<![endif]-->
 		
-		
-		
 		<!-- Google Analytics -->
 		
-				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+				<script type="text/javascript" async="" src="https://erply.com/wp-content/themes/Erply3.5/ga.js"></script><script type="text/javascript">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-16362540-1']);
 			_gaq.push(['_setDomainName', 'none']);
@@ -50,7 +48,7 @@
 			_gaq.push(['_trackPageview']);
 			(function() {
 				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+								ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'erply.com/wp-content/themes/Erply3.5/ga.js';
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 		</script>
@@ -58,20 +56,47 @@
 				
 				
 		
-		
 		<script type="text/javascript">
+			function toggleNavbarMethod() {
+				if ($(window).width() > 768) {
+					$('.navbar .dropdown').on('mouseover', function(){
+						$('.dropdown-toggle', this).trigger('click');
+					}).on('mouseout', function(){
+						$('.dropdown-toggle', this).trigger('click').blur();
+					});
+				}
+				else {
+					$('.navbar .dropdown').off('mouseover').off('mouseout');
+				}
+			}
 			function body_onLoad() {
 				var isMac = navigator.platform.toUpperCase().indexOf('MAC')>=0;
 				var isChrome = navigator.userAgent.toLowerCase().indexOf('chrome')>=0;
-								document.getElementById("collapseLogin").style.marginTop = '50px'; 
-				document.getElementById("collapseSignup").style.marginTop = '50px'; 
+																document.getElementById("collapseLogin").style.marginTop = '0px'; /*50px*/
+				document.getElementById("collapseSignup").style.marginTop = '0px'; /*50px*/ 
 									$('#collapseLogin').collapse({toggle:false});
 					$('#collapseSignup').collapse({toggle:false});
+												toggleNavbarMethod();
 							}
+			function setCookie(cname, cvalue, exdays) {
+				var d = new Date();
+				d.setTime(d.getTime() + (exdays*24*60*60*1000));
+				var expires = "expires="+d.toUTCString();
+				document.cookie = cname + "=" + cvalue + "; " + expires;
+			}
+			function getCookie(cname) {
+				var name = cname + "=";
+				var ca = document.cookie.split(';');
+				for(var i=0; i<ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0)==' ') c = c.substring(1);
+					if (c.indexOf(name) != -1) return c.substring(name.length, c.length);
+				}
+				return false;
+			}
 		</script>		
 		
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-		
+				
 		<script>
 		// This adds 'placeholder' to the items listed in the jQuery .support object. 
 		jQuery(function() {
@@ -103,19 +128,202 @@
 		</script>		
 		
 		<style>
-		#infobox {
-		}
-		#infobox input {
-		}
-		.hasPlaceholder {
-		}
-		</style>		
+			
+			#infobox {
+			}
+			#infobox input {
+			}
+			.hasPlaceholder {
+			}
+			
+			.subtitlearea {
+				text-align: center;
+				padding-top: 100px;
+				padding-bottom: 100px;
+			}
+			.icnsA {
+				font-size: 40px;
+				color: #444B58;
+				margin:0;
+				padding:0;
+				font-weight: normal;
+			}
+			.icnsB { 
+				font-size: 30px;
+				color: #444B58;
+				margin: 3px 15px 0 0;
+				padding: 0;
+				font-weight: normal;
+				float: left;
+			}
+			.icnsC {
+				font-size: 40px;
+				color: #FFFFFF;
+				margin:0;
+				padding:0;
+				font-weight: normal;
+			}
+			.icontitle {
+				padding: 0 0 2px 0;
+			}
+			.btn-warning, .btn-warning:hover {
+				color: #000000;
+				background-color: #F4C345;
+				border-color: #F4C345;
+				width: 150px; /* 180px; */
+				height: 40px;
+				font-size:15px;
+			}
+			.scrnl {
+				text-align: right;
+			}
+			.scrnr {
+				text-align: left;
+			}
+			@media screen and (max-width: 1000px) {
+				.subtitlearea {
+					padding-top: 50px;
+					padding-bottom: 10px;
+				}
+			}
+			@media screen and (max-width: 991px) {
+				.scrnl {
+					text-align: center;
+				}
+				.scrnr {
+					text-align: center;
+				}
+			}
+			@media screen and (max-width: 500px) {
+				.btn-warning, .btn-warning:hover, .signupEmail {
+					width: 100%;
+				}
+			}
+			
+			.navbar {
+				border: none;
+				box-shadow: none;
+				background-image: none;
+				background-color: #FFFFFF; /*#061524;*/
+				margin-bottom: 0px;
+				border-radius: 0px;
+				text-shadow: none;
+			}
+			.navbar a {
+				color: #FFFFFF;
+			}
+			.heading {
+				font-size: 60px;
+				font-weight: 300;
+			}
+			.nav li, .nav a {
+				color: #FFFFFF;
+				/* text-transform: uppercase; */
+				font-size: 14px;
+				text-shadow: none;
+			}
+			.navbar-collapse {
+				border: none;
+				background-color: #FFFFFF;
+			}
+			.navbar-default .navbar-nav > li > a {
+				color: #666666;
+			}
+			.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+				/* background-color:  #081d32; #011a5a; #036e9a; #0CB7FA; */
+				color: #000000; /*#f4c345;*/
+			}
+			.navbar-logo {
+				/* margin-top: 15px; */
+			}	
+			.panel-collapse {
+				position: fixed;
+				z-index: 9012;
+			}
+			.collapsearea {
+				height: 800px;
+				background-color: #000000;
+				opacity: 0.6;
+			}
+			.accClose {
+				padding-top: 20px;
+				text-align: right;
+			}
+			.accClose a {
+				font-size: 100px;
+				text-decoration: none;
+				font-weight: 300;
+				color: #F0F0F0;
+			}
+			.panel-collapse .btn {
+				float: left;
+				margin-top: -5px;
+				width: 250px;
+				height: 30px;
+				background-color: #0CB7FA;
+				border-color: #0CB7FA;
+				padding: 0px;
+				font-weight: normal;
+				font-size: 14px;
+				color: #000000;
+			}
+			.navbar-nav > li > a {
+				padding: 10px 15px;
+			}
+			
+							.iobox {
+					margin-left: 10px;
+					border: 1px solid #00a3e2;
+					border-radius: 4px;
+					text-align: center;
+					width: 100px;
+				}
+				.ioleft {
+					background: #00a3e2;
+				}
+				.iorght {
+					background: #FFFFFF;
+				}
+				#btnLogin {
+					color: #FFFFFF;
+				}
+				#btnSignup {
+					color: #00a3e2;
+				}
+				@media (max-width: 767px) {
+					.iorght {
+						margin-top: 10px;
+					}
+				}	
+						
+			@media (max-width: 990px) {
+				.panel-collapse {
+					position: absolute;
+				}		
+				.collapsearea {
+					height: 10px;
+					background-color: #FFFFFF;
+					opacity: 0.6;
+				}
+				.accClose {
+					visibility: hidden;
+					height: 1px;
+				}
+			}
+			@media (max-width: 770px) {
+				.navbar {
+					/*background-color: #000000;*/
+				}
+			}
+			
+								
+		</style>
 		
-	</head>
+	<style id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style></head>
 
-	<body onload="body_onLoad();"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+	<body onload="body_onLoad();" style=""><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
-		<style>
+		<style scoped="">
 			#habla_wcsend_input,
 			#habla_wcsend_input:before,
 			#habla_wcsend_input:after {
@@ -124,10 +332,11 @@
 					 box-sizing: content-box !important;
 			}		
 		</style>
-		<!-- begin olark code --><script type="text/javascript">/*{literal}<![CDATA[*/window.olark||(function(i){var e=window,h=document,a=e.location.protocol=="https:"?"https:":"http:",g=i.name,b="load";(function(){e[g]=function(){(c.s=c.s||[]).push(arguments)};var c=e[g]._={},f=i.methods.length; while(f--){(function(j){e[g][j]=function(){e[g]("call",j,arguments)}})(i.methods[f])} c.l=i.loader;c.i=arguments.callee;c.f=setTimeout(function(){if(c.f){(new Image).src=a+"//"+c.l.replace(".js",".png")+"&"+escape(e.location.href)}c.f=null},20000);c.p={0:+new Date};c.P=function(j){c.p[j]=new Date-c.p[0]};function d(){c.P(b);e[g](b)}e.addEventListener?e.addEventListener(b,d,false):e.attachEvent("on"+b,d); (function(){function l(j){j="head";return["<",j,"></",j,"><",z,' onl'+'oad="var d=',B,";d.getElementsByTagName('head')[0].",y,"(d.",A,"('script')).",u,"='",a,"//",c.l,"'",'"',"></",z,">"].join("")}var z="body",s=h[z];if(!s){return setTimeout(arguments.callee,100)}c.P(1);var y="appendChild",A="createElement",u="src",r=h[A]("div"),G=r[y](h[A](g)),D=h[A]("iframe"),B="document",C="domain",q;r.style.display="none";s.insertBefore(r,s.firstChild).id=g;D.frameBorder="0";D.id=g+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){D.src="javascript:false"} D.allowTransparency="true";G[y](D);try{D.contentWindow[B].open()}catch(F){i[C]=h[C];q="javascript:var d="+B+".open();d.domain='"+h.domain+"';";D[u]=q+"void(0);"}try{var H=D.contentWindow[B];H.write(l());H.close()}catch(E){D[u]=q+'d.write("'+l().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}c.P(2)})()})()})({loader:(function(a){return "static.olark.com/jsclient/loader0.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]});
+		
+				<!-- begin olark code --><script type="text/javascript">/*{literal}<![CDATA[*/window.olark||(function(i){var e=window,h=document,a=e.location.protocol=="https:"?"https:":"http:",g=i.name,b="load";(function(){e[g]=function(){(c.s=c.s||[]).push(arguments)};var c=e[g]._={},f=i.methods.length; while(f--){(function(j){e[g][j]=function(){e[g]("call",j,arguments)}})(i.methods[f])} c.l=i.loader;c.i=arguments.callee;c.f=setTimeout(function(){if(c.f){(new Image).src=a+"//"+c.l.replace(".js",".png")+"&"+escape(e.location.href)}c.f=null},20000);c.p={0:+new Date};c.P=function(j){c.p[j]=new Date-c.p[0]};function d(){c.P(b);e[g](b)}e.addEventListener?e.addEventListener(b,d,false):e.attachEvent("on"+b,d); (function(){function l(j){j="head";return["<",j,"></",j,"><",z,' onl'+'oad="var d=',B,";d.getElementsByTagName('head')[0].",y,"(d.",A,"('script')).",u,"='",a,"//",c.l,"'",'"',"></",z,">"].join("")}var z="body",s=h[z];if(!s){return setTimeout(arguments.callee,100)}c.P(1);var y="appendChild",A="createElement",u="src",r=h[A]("div"),G=r[y](h[A](g)),D=h[A]("iframe"),B="document",C="domain",q;r.style.display="none";s.insertBefore(r,s.firstChild).id=g;D.frameBorder="0";D.id=g+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){D.src="javascript:false"} D.allowTransparency="true";G[y](D);try{D.contentWindow[B].open()}catch(F){i[C]=h[C];q="javascript:var d="+B+".open();d.domain='"+h.domain+"';";D[u]=q+"void(0);"}try{var H=D.contentWindow[B];H.write(l());H.close()}catch(E){D[u]=q+'d.write("'+l().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}c.P(2)})()})()})({loader:(function(a){return "static.olark.com/jsclient/loader0.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]});
 		/* custom configuration goes here (www.olark.com/documentation) */
-		olark.identify('4403-601-10-1022');/*]]>{/literal}*/</script><a href="http://olark.com/about" style="display:none" rel="nofollow">Powered by Olark</a>
-		<!-- end olark code -->
+		olark.identify('4403-601-10-1022');/*]]>{/literal}*/</script>		<!-- end olark code -->
+				
         <script type="text/javascript">
 			olark.extend(function(api){
 				if( api.chat.operatorsAreAvailable() ){
@@ -145,97 +354,7 @@
 		<script type="text/javascript">var submitted=false;</script>
 		
 		<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted){window.thankforsubmitting();}"></iframe> 
-
-<style type="text/css">
-	.navbar {
-		border: none;
-		box-shadow: none;
-		background-image: none;
-		background-color: #000000;
-		margin-bottom: 0px;
-		border-radius: 0px;
-		text-shadow: none;
-	}
-	.navbar a {
-		color: #FFFFFF;
-	}
-	.heading {
-		font-size: 60px;
-	}
-	.nav li, .nav a {
-		color: #FFFFFF;
-		text-transform: uppercase;
-		font-size: 14px;
-		text-shadow: none;
-	}
-	.navbar-collapse {
-		border: none;
-		background-color: #000000;
-	}
-	.navbar-default .navbar-nav > li > a {
-		color: #FFFFFF;
-	}
-	.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-		background-color: #0CB7FA;
-		color: #000000;
-	}
-	.navbar-logo {
-		margin-top: 7px;
-	}	
-	.panel-collapse {
-		position: fixed;
-		z-index: 9012;
-	}
-	.collapsearea {
-		height: 800px;
-		background-color: #000000;
-		opacity: 0.6;
-	}
-	.accClose {
-		padding-top: 20px;
-		text-align: right;
-	}
-	.accClose a {
-		font-size: 100px;
-		text-decoration: none;
-		font-weight: bold;
-		color: #F0F0F0;
-	}
-	.panel-collapse .btn {
-		float: left;
-		margin-top: -5px;
-		width: 250px;
-		height: 30px;
-		background-color: #0CB7FA;
-		border-color: #0CB7FA;
-		padding: 0px;
-		font-weight: normal;
-		font-size: 14px;
-		color: #000000;
-	}
-	
-	@media (max-width: 990px) {
-		.panel-collapse {
-			position: absolute;
-			z-index: 9004;
-		}		
-		.collapsearea {
-			height: 10px;
-			background-color: #000000;
-			opacity: 0.6;
-		}
-		.accClose {
-			visibility: hidden;
-			height: 1px;
-		}
-	}
-	@media (max-width: 770px) {
-		.navbar {
-			background-color: #000000;
-		}
-	}
-</style>
-
+		
 <script type="text/javascript">
 	function onClick_login() {
 		if (document.getElementById("floatingnavbar")) {
@@ -248,11 +367,6 @@
 			$('#collapseSignup').collapse('hide');
 		}
 		$('#collapseLogin').collapse('show');
-		btnSignup.style.cssText = "color:#FFFFFF;";
-		btnSignup.style.cssText = ":hover{color:#000000;}";
-		btnSignup.style.cssText = ":focus{color:#000000;}";
-		btnLogin.style.background="#FFFFFF";
-		btnLogin.style.color="#000000";
 		if (window.innerWidth<990) {
 			window.scrollTo(0,0);
 		}
@@ -269,29 +383,18 @@
 		}
 		$('#collapseSignup').collapse('show');
 		document.signupform.sendvars.value=sendvars;
-		btnLogin.style.cssText = "color:#FFFFFF;";
-		btnLogin.style.cssText = ":hover{color:#000000;}";
-		btnLogin.style.cssText = ":focus{color:#000000;}";
-		btnSignup.style.background="#FFFFFF";
-		btnSignup.style.color="#000000";
 		if (window.innerWidth<990) {
 			window.scrollTo(0,0);
 		}
 	}
 	function collapse_login() {
 		$('#collapseLogin').collapse('hide');
-		btnLogin.style.cssText = "color:#FFFFFF;";
-		btnLogin.style.cssText = ":hover{color:#000000;}";
-		btnLogin.style.cssText = ":focus{color:#000000;}";
 		if (document.getElementById("floatingnavbar")) {	
 			floatingnavbar.style.zIndex="9007";
 		}
 	}
 	function collapse_signup() {
 		$('#collapseSignup').collapse('hide');
-		btnSignup.style.cssText = "color:#FFFFFF;";
-		btnSignup.style.cssText = ":hover{color:#000000;}";
-		btnSignup.style.cssText = ":focus{color:#000000;}";
 		if (document.getElementById("floatingnavbar")) {
 			floatingnavbar.style.zIndex="9007";
 		}
@@ -327,7 +430,15 @@
 		var contactName = document.signupform.contactName.value;
 		var contactNames = contactName.split(" ");
 		var businessName = document.signupform.businessName.value;
-		var businessCountry = document.signupform.businessCountry.value;
+		if  (document.signupform.businessCountry) {
+			var businessCountry = document.signupform.businessCountry.value;
+		}
+		if  (document.signupform.activity) {
+			var activity = document.signupform.activity.value;
+			var employees = document.signupform.employees.value;
+			var currsoft = document.signupform.currsoft.value;
+			var training = document.signupform.training.value;
+		}
 		var phone = document.signupform.phone.value;
 		var email = document.signupform.email.value;
 		var password1 = document.signupform.password1.value;
@@ -360,42 +471,49 @@
 			error_signup('Password needs to be at least 8 characters.');
 			return false;
 		}
-		var ajaxRequest;
-		var tosend = "&2yI4XIk6w2Tg9LBa=yS1S5UrdMlmYOj2Y"+
-			"&contactName="+contactName+
-			"&businessName="+businessName+
-			"&businessCountry="+businessCountry+
-			"&phone="+phone+
-			"&contact="+email+
-			"&password="+password1+
-			"&password2="+password2;
-		try {
-			ajaxRequest = new XMLHttpRequest();
-		} catch (e) {
+					var ajaxRequest;
+			var tosend = "&2yI4XIk6w2Tg9LBa=yS1S5UrdMlmYOj2Y"+
+								"&contactName="+contactName+
+				"&businessName="+businessName+
+				"&businessCountry="+businessCountry+
+				"&activity="+activity+
+				"&employees="+employees+
+				"&currsoft="+currsoft+
+				"&training="+training+
+				"&phone="+phone+
+				"&contact="+email+
+				"&password="+password1+
+				"&password2="+password2;
+			tkps = getCookie('MX41anA2Od562XIa');
+			if (tkps=='73GqcaV55o7Yym6M') {
+				tosend = tosend + "&352JUJq4l7VKpb95=q8fTgdsz4AiU27bp"; 			}
 			try {
-				ajaxRequest = new ActiveXObject("Msxml2.XMLHTTP");
+				ajaxRequest = new XMLHttpRequest();
 			} catch (e) {
 				try {
-					ajaxRequest = new ActiveXObject("Microsoft.XMLHTTP");
+					ajaxRequest = new ActiveXObject("Msxml2.XMLHTTP");
 				} catch (e) {
-					alert("Your browser broke!");
-					return false;
+					try {
+						ajaxRequest = new ActiveXObject("Microsoft.XMLHTTP");
+					} catch (e) {
+						alert("Your browser broke!");
+						return false;
+					}
 				}
 			}
-		}
-		document.getElementById('signupformarea').innerHTML = 
-			"<div class='progress progress-striped active' style='width:245px;margin-bottom:10px;'>"+
-			"<div class='progress-bar' role='progressbar' aria-valuenow='245' aria-valuemin='0' aria-valuemax='245' style='width:245px;'>"+
-			"</div></div><div style='line-height:30px;'>Creating your account. Please wait...</div>";
-		ajaxRequest.open("POST", "/ajax.php?13b3y14iX8x07c13=C6L3y3nKKItPrn05&"+sendvars+"&reseller=", true);
-		ajaxRequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-		ajaxRequest.onreadystatechange = function(){
-			if (ajaxRequest.readyState == 4) {
-				document.getElementById('signupformarea').innerHTML = ajaxRequest.responseText;
+			document.getElementById('signupformarea').innerHTML = 
+				"<div class='progress progress-striped active' style='width:245px;margin-bottom:10px;'>"+
+				"<div class='progress-bar' role='progressbar' aria-valuenow='245' aria-valuemin='0' aria-valuemax='245' style='width:245px;'>"+
+				"</div></div><div style='line-height:30px;'>Creating your account. Please wait...</div>";
+			ajaxRequest.open("POST", "/ajax.php?13b3y14iX8x07c13=q2d5eK9n3s4L5L59&"+sendvars+"&reseller=", true);
+			ajaxRequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+			ajaxRequest.onreadystatechange = function(){
+				if (ajaxRequest.readyState == 4) {
+					document.getElementById('signupformarea').innerHTML = ajaxRequest.responseText;
+				}
 			}
-		}
-		ajaxRequest.send(tosend);
-	}
+			ajaxRequest.send(tosend);
+			}
 	function error_signup(message) {
 		document.getElementById("alertbox-signup").className = 'alertbox-error-signup'; 
 		document.getElementById("alertbox-signup").innerHTML = message;
@@ -412,7 +530,16 @@
 </script> 
 
 <div class="navbar navbar-default navbar-fixed-top" style="z-index:9005;">
-	<div>
+	
+		<div style="padding:15px 0 10px 0;">
+		<div class="container" style="text-align:right;padding-right:22px;font-size:14px;">
+			1-855-463-7759 &nbsp; &nbsp; 
+			<a href="/about-erply-contact-us/" style="font-size:15px;color:#555555;text-decoration:none;">Company/Contact us</a> &nbsp; &nbsp; 
+			<a href="/blog/" style="font-size:15px;color:#555555;text-decoration:none;">Blog</a>
+		</div>
+	</div>
+		
+	<div style="padding:0px 0 20px 0;">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -420,30 +547,72 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="http://erply.com/" style="float:left;">
-					<img class="navbar-logo" src="http://erply.com/wp-content/themes/Erply3.2/img/logo-white-small.png" alt="ERPLY">
+				<a href="/" style="float:left;">
+					<img class="navbar-logo" src="http://erply.com/wp-content/themes/Erply3.5/img/Erply-logo.png" alt="ERPLY" style="width:120px;">
 				</a>
 			</div>
 			<div id="collapseNavbar" class="navbar-collapse collapse" style="background:transparent;">
-				<ul class="nav navbar-nav navbar-right">
+				<ul class="nav navbar-nav navbar-right" style="padding-top:0px;">
 					
-											
-						<li style="padding:15px 15px 10px 15px;">855-GO-ERPLY (855-463-7759)</li>
-					
-												
-							<li><a href="http://erply.com/pricing/">Pricing</a></li>
-															<li><a id="btnLogin" href="#" onclick="onClick_login();return false;">Login</a></li>
-														<li><a id="btnSignup" href="#" onclick="onClick_signup('plan=freeSU');return false;">Sign-Up</a></li>
-						
+																	
+													
+							<li style="margin-top:1px;"><a href="/features/" style="font-size:15px;font-weight:600;">FEATURES</a></li>
+							<li class="dropdown" style="margin-top:1px;">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:15px;font-weight:600;">POS APPS<span class="caret"></span></a>
+								<ul class="dropdown-menu" role="menu">
+									<li><a href="/ipad-pos/">iPad POS</a></li>
+									<li><a href="/windows-point-of-sale-pos-download/">POS for Windows</a></li>
+									<li><a href="/paypal-pointofsale-instore-payment-retail-pos-integration-ipad-pos/">PayPal POS</a></li>
+									<li><a href="/quick-service-pos/">Quick Service POS</a></li>
+									<li><a href="http://speedpos.com/ipadposfeatures/">Restaurant POS</a></li>
+									<li><a href="/simple-spa-salon-software/">Salons</a></li>
+									<li><a href="/pricing/">Pricing</a></li>
+								</ul>
+							</li>
+							<li class="dropdown" style="margin-top:1px;">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:15px;font-weight:600;">ENTERPRISE<span class="caret"></span></a>
+								<ul class="dropdown-menu" role="menu">
+									<li><a href="/retail-erp-software/">Retail Management</a></li>
+									<li><a href="/franchise-management-software/">Franchise Management</a></li>
+									<li><a href="http://www.inventory.com/">Inventory Management</a></li>
+									<li><a href="https://erply.com/multi-channel-ecommerce-platform/">eCommerce platform</a></li>
+									<li><a href="/retail-erp-system-software-2015-beta/">ERPLY 2015 Beta</a></li>
+								</ul>
+							</li>
+							<li class="dropdown" style="margin-top:1px;">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:15px;font-weight:600;">INTEGRATIONS<span class="caret"></span></a>
+								<ul class="dropdown-menu" role="menu">
+									<li><a href="/api/">Developer API</a></li>
+									<li><a href="http://erply.com/accounting/">Accounting</a></li>
+									<li><a href="http://support.erply.com/import/">Products import</a></li>
+									<li><a href="/paypal-pointofsale-instore-payment-retail-pos-integration-ipad-pos/">PayPal POS</a></li>
+									<li><a href="/integrations-with-partners/erply-integration-with-prestashop/">Prestashop</a></li>
+									<li><a href="/erply-shopify-connector/">Shopify</a></li>
+									<li><a href="/integrations-with-partners/erply-integration-with-magento/">Magento</a></li>
+									<li><a href="/erply-integration-with-quickbooks/">QuickBooks</a></li>
+									<li><a href="/ad-hoc-reporting/">Labels</a></li>
+									<li><a href="/multi-channel-ecommerce-platform/">Wordpress cart</a></li>
+								</ul>
+							</li>
+							<li style="margin-top:1px;"><a href="http://support.erply.com/" style="font-size:15px;font-weight:600;">SUPPORT</a></li>
+							
+														
+															
+																	<li class="iobox iorght" style="width:105px;"><a id="btnLogin" href="#" onclick="onClick_login();return false;" style="color:#00a3e2;">Login</a></li>
+																
+																	<li class="iobox ioleft" style="width:105px;"><a id="btnSignup" href="http://pages.erply.com/free-demo-top/" style="color:#FFFFFF;">Free Demo</a></li>
+																
+													
 											
 										
 				</ul>
 			</div>
 		</div>
 	</div>
+	<div style="background-color:#E2E4E5;height:1px;"></div>	
 </div>
 
-<div id="collapseLogin" class="panel-collapse collapse" style="background: transparent; width: 100%; margin-top: 50px;">
+<div id="collapseLogin" class="panel-collapse collapse" style="background: transparent; width: 100%; margin-top: 0px;">
 	<div style="background:#FFFFFF;">
 		<div class="panel-body">
 			<div class="container">
@@ -456,7 +625,7 @@
 							<div style="clear:both;"></div>
 							<input type="password" name="password" class="form-control" placeholder="Password" onkeypress="if (event.keyCode==13) { submit_login();return false; }" autocomplete="off">							<div style="clear:both;"></div>
 							<input type="text" name="code" class="form-control" placeholder="Customer code" onkeypress="if (event.keyCode==13) { submit_login();return false; }" autocomplete="off">
-							<div class="submit"><a href="#" onclick="submit_login();return false;" style="font-weight:bold;">Login</a></div>
+							<div class="submit"><a href="#" onclick="submit_login();return false;" style="font-weight:600;">Login</a></div>
 							<div style="clear:both;"></div>
 						</form>
 						<div style="margin-top:20px;"><a href="https://reg.erply.com/account_reminder/" rel="nofollow">Forgot your Customer Code? Restore it here.</a></div>
@@ -479,7 +648,7 @@
 	<div class="collapsearea"></div>
 </div>
 
-<div id="collapseSignup" class="panel-collapse collapse" style="background: transparent; width: 100%; margin-top: 50px;">
+<div id="collapseSignup" class="panel-collapse collapse" style="background: transparent; width: 100%; margin-top: 0px;">
 	<div style="background:#FFFFFF;">
 		<div class="panel-body">
 			<div class="container">
@@ -501,256 +670,27 @@
 								<input id="businessName" name="businessName" type="text" class="form-control" placeholder="Business name" onkeypress="if (event.keyCode==13) { submit_signup();return false; }">
 								
 																	<select id="businessCountry" name="businessCountry" class="form-control" style="color:#AAAAAA;" onclick="this.style.color='#595959';">
-									<option value="" default="">Business Country</option>
-									<option value="US">United States</option>
-									<option value="GB">United Kingdom</option>
-									<option value="AU">Australia</option>
-									<option value="EE">Estonia</option>
-									<option value="" disabled=""> - </option>
-									<option value="AF">Afghanistan</option>
-									<option value="AL">Albania</option>
-									<option value="DZ">Algeria</option>
-									<option value="AS">American Samoa</option>
-									<option value="AD">Andorra</option>
-									<option value="AO">Angola</option>
-									<option value="AI">Anguilla</option>
-									<option value="AQ">Antarctica</option>
-									<option value="AG">Antigua and Barbuda</option>
-									<option value="AW">Aruba</option>
+									<option value="">Business Country</option>
 									<option value="AU">Australia</option>
 									<option value="AT">Austria</option>
-									<option value="AZ">Azerbaijan</option>
-									<option value="BS">Bahamas</option>
-									<option value="BH">Bahrain</option>
-									<option value="BD">Bangladesh</option>
-									<option value="BB">Barbados</option>
-									<option value="BY">Belarus</option>
-									<option value="BE">Belgium</option>
-									<option value="BZ">Belize</option>
-									<option value="BJ">Benin</option>
-									<option value="BM">Bermuda</option>
-									<option value="BT">Bhutan</option>
-									<option value="BO">Bolivia</option>
-									<option value="BQ">Bonaire</option>
-									<option value="BA">Bosnia and Herzegovina</option>
-									<option value="BW">Botswana</option>
-									<option value="BV">Bouvet Island</option>
-									<option value="BR">Brazil</option>
-									<option value="IO">British Indian Ocean Territory</option>
-									<option value="BN">Brunei Darussalam</option>
-									<option value="BG">Bulgaria</option>
-									<option value="BF">Burkina Faso</option>
-									<option value="BI">Burundi</option>
-									<option value="KH">Cambodia</option>
-									<option value="CM">Cameroon</option>
-									<option value="CA">Canada</option>
-									<option value="CV">Cape Verde</option>
-									<option value="KY">Cayman Islands</option>
-									<option value="CF">Central African Republic</option>
-									<option value="TD">Chad</option>
-									<option value="CL">Chile</option>
-									<option value="CN">China</option>
-									<option value="CX">Christmas Island</option>
-									<option value="CC">Cocos (Keeling) Islands</option>
-									<option value="CO">Colombia</option>
-									<option value="KM">Comoros</option>
-									<option value="CG">Congo</option>
-									<option value="CD">Congo Democratic Republic</option>
-									<option value="CK">Cook Islands</option>
-									<option value="CR">Costa Rica</option>
-									<option value="CI">Côte d'Ivoire</option>
-									<option value="HR">Croatia</option>
-									<option value="CU">Cuba</option>
-									<option value="CW">Curaçao</option>
-									<option value="CY">Cyprus</option>
-									<option value="CZ">Czech Republic</option>
 									<option value="DK">Denmark</option>
-									<option value="DJ">Djibouti</option>
-									<option value="DM">Dominica</option>
-									<option value="DO">Dominican Republic</option>
-									<option value="EC">Ecuador</option>
-									<option value="EG">Egypt</option>
-									<option value="SV">El Salvador</option>
-									<option value="GQ">Equatorial Guinea</option>
-									<option value="ER">Eritrea</option>
 									<option value="EE">Estonia</option>
-									<option value="ET">Ethiopia</option>
-									<option value="FK">Falkland Islands</option>
-									<option value="FO">Faroe Islands</option>
-									<option value="FJ">Fiji</option>
 									<option value="FI">Finland</option>
-									<option value="FR">France</option>
-									<option value="GF">French Guiana</option>
-									<option value="PF">French Polynesia</option>
-									<option value="TF">French Southern Territories</option>
-									<option value="GA">Gabon</option>
-									<option value="GM">Gambia</option>
-									<option value="GE">Georgia</option>
 									<option value="DE">Germany</option>
-									<option value="GH">Ghana</option>
-									<option value="GI">Gibraltar</option>
-									<option value="GR">Greece</option>
-									<option value="GL">Greenland</option>
-									<option value="GD">Grenada</option>
-									<option value="GP">Guadeloupe</option>
-									<option value="GU">Guam</option>
-									<option value="GT">Guatemala</option>
-									<option value="GG">Guernsey</option>
-									<option value="GN">Guinea</option>
-									<option value="GW">Guinea-Bissau</option>
-									<option value="GY">Guyana</option>
-									<option value="HT">Haiti</option>
-									<option value="VA">Holy See</option>
-									<option value="HN">Honduras</option>
-									<option value="HK">Hong Kong</option>
-									<option value="HU">Hungary</option>
-									<option value="IS">Iceland</option>
-									<option value="IN">India</option>
-									<option value="ID">Indonesia</option>
-									<option value="IR">Iran</option>
-									<option value="IQ">Iraq</option>
-									<option value="IE">Ireland</option>
-									<option value="IM">Isle of Man</option>
-									<option value="IL">Israel</option>
-									<option value="IT">Italy</option>
-									<option value="JM">Jamaica</option>
-									<option value="JP">Japan</option>
-									<option value="JE">Jersey</option>
-									<option value="JO">Jordan</option>
-									<option value="KZ">Kazakhstan</option>
-									<option value="KE">Kenya</option>
-									<option value="KI">Kiribati</option>
-									<option value="KP">Korea Democratic</option>
-									<option value="KR">Korea Republic</option>
-									<option value="KW">Kuwait</option>
-									<option value="KG">Kyrgyzstan</option>
-									<option value="LA">Lao</option>
 									<option value="LV">Latvia</option>
-									<option value="LB">Lebanon</option>
-									<option value="LS">Lesotho</option>
-									<option value="LR">Liberia</option>
-									<option value="LY">Libya</option>
-									<option value="LI">Liechtenstein</option>
 									<option value="LT">Lithuania</option>
-									<option value="LU">Luxembourg</option>
-									<option value="MO">Macao</option>
-									<option value="MK">Macedonia (FYR)</option>
-									<option value="MG">Madagascar</option>
-									<option value="MW">Malawi</option>
-									<option value="MY">Malaysia</option>
-									<option value="MV">Maldives</option>
-									<option value="ML">Mali</option>
-									<option value="MT">Malta</option>
-									<option value="MH">Marshall Islands</option>
-									<option value="MQ">Martinique</option>
-									<option value="MR">Mauritania</option>
-									<option value="MU">Mauritius</option>
-									<option value="YT">Mayotte</option>
-									<option value="MX">Mexico</option>
-									<option value="FM">Micronesia</option>
-									<option value="MD">Moldova</option>
-									<option value="MC">Monaco</option>
-									<option value="MN">Mongolia</option>
-									<option value="ME">Montenegro</option>
-									<option value="MS">Montserrat</option>
-									<option value="MA">Morocco</option>
-									<option value="MZ">Mozambique</option>
-									<option value="MM">Myanmar</option>
-									<option value="NA">Namibia</option>
-									<option value="NR">Nauru</option>
-									<option value="NP">Nepal</option>
 									<option value="NL">Netherlands</option>
-									<option value="NC">New Caledonia</option>
 									<option value="NZ">New Zealand</option>
-									<option value="NI">Nicaragua</option>
-									<option value="NE">Niger</option>
-									<option value="NG">Nigeria</option>
-									<option value="NU">Niue</option>
-									<option value="NF">Norfolk Island</option>
-									<option value="MP">Northern Mariana Islands</option>
 									<option value="NO">Norway</option>
-									<option value="OM">Oman</option>
-									<option value="PK">Pakistan</option>
-									<option value="PW">Palau</option>
-									<option value="PS">Palestinian Territory</option>
-									<option value="PA">Panama</option>
-									<option value="PG">Papua New Guinea</option>
-									<option value="PY">Paraguay</option>
-									<option value="PE">Peru</option>
-									<option value="PH">Philippines</option>
-									<option value="PN">Pitcairn</option>
-									<option value="PL">Poland</option>
-									<option value="PT">Portugal</option>
-									<option value="PR">Puerto Rico</option>
-									<option value="QA">Qatar</option>
-									<option value="RE">Réunion</option>
-									<option value="RO">Romania</option>
 									<option value="RU">Russian Federation</option>
-									<option value="RW">Rwanda</option>
-									<option value="BL">Saint Barthélemy</option>
-									<option value="SH">Saint Helena</option>
-									<option value="KN">Saint Kitts and Nevis</option>
-									<option value="LC">Saint Lucia</option>
-									<option value="MF">Saint Martin (French part)</option>
-									<option value="PM">Saint Pierre and Miquelon</option>
-									<option value="VC">Saint Vincent and Grena...</option>
-									<option value="WS">Samoa</option>
-									<option value="SM">San Marino</option>
-									<option value="ST">Sao Tome and Principe</option>
 									<option value="SA">Saudi Arabia</option>
-									<option value="SN">Senegal</option>
-									<option value="RS">Serbia</option>
-									<option value="SC">Seychelles</option>
-									<option value="SL">Sierra Leone</option>
 									<option value="SG">Singapore</option>
-									<option value="SX">Sint Maarten (Dutch part)</option>
-									<option value="SK">Slovakia</option>
-									<option value="SI">Slovenia</option>
-									<option value="SB">Solomon Islands</option>
-									<option value="SO">Somalia</option>
-									<option value="ZA">South Africa</option>
-									<option value="GS">South Georgia</option>
-									<option value="SS">South Sudan</option>
-									<option value="ES">Spain</option>
-									<option value="LK">Sri Lanka</option>
-									<option value="SD">Sudan</option>
-									<option value="SR">Suriname</option>
-									<option value="SJ">Svalbard and Jan Mayen</option>
-									<option value="SZ">Swaziland</option>
 									<option value="SE">Sweden</option>
 									<option value="CH">Switzerland</option>
-									<option value="SY">Syrian Arab Republic</option>
-									<option value="TW">Taiwan</option>
-									<option value="TJ">Tajikistan</option>
-									<option value="TZ">Tanzania</option>
-									<option value="TH">Thailand</option>
-									<option value="TL">Timor-Leste</option>
-									<option value="TG">Togo</option>
-									<option value="TK">Tokelau</option>
-									<option value="TO">Tonga</option>
-									<option value="TT">Trinidad and Tobago</option>
-									<option value="TN">Tunisia</option>
-									<option value="TR">Turkey</option>
-									<option value="TM">Turkmenistan</option>
-									<option value="TC">Turks and Caicos Islands</option>
-									<option value="TV">Tuvalu</option>
-									<option value="UG">Uganda</option>
-									<option value="UA">Ukraine</option>
 									<option value="AE">United Arab Emirates</option>
 									<option value="GB">United Kingdom</option>
-									<option value="US">United States</option>
-									<option value="UY">Uruguay</option>
-									<option value="UZ">Uzbekistan</option>
-									<option value="VU">Vanuatu</option>
-									<option value="VE">Venezuela</option>
-									<option value="VN">Viet Nam</option>
-									<option value="VG">Virgin Islands, British</option>
-									<option value="VI">Virgin Islands, U.S.</option>
-									<option value="WF">Wallis and Futuna</option>
-									<option value="EH">Western Sahara</option>
-									<option value="YE">Yemen</option>
-									<option value="ZM">Zambia</option>
-									<option value="ZW">Zimbabwe</option>
+									<option value="US">United States</option> 
+									<option value="other">other</option>
 								</select>	
 																
 								<div style="clear:both;"></div>
@@ -760,7 +700,7 @@
 																		<input id="psw1" name="password1" type="password" class="form-control" placeholder="Pick a password" onkeypress="if (event.keyCode==13) { submit_signup();return false; }">
 										<input id="psw2" name="password2" type="password" class="form-control" placeholder="Re-enter your password" onkeypress="if (event.keyCode==13) { submit_signup();return false; }">
 																		<div class="submit">
-									<a href="#" style="font-weight:bold;" onclick="submit_signup();return false;">Continue</a>
+									<a href="#" style="font-weight:600;" onclick="submit_signup();return false;">Continue</a>
 								</div>
 								<div style="clear:both;"></div>
 							</form>
@@ -777,61 +717,14 @@
 	<div class="collapsearea"></div>
 </div>
 
-
-
-<div class="midbar">
-	&nbsp;
+<div style="height:100px;"></div>
+<div class="pagetitle">
+  <div class="container">
+    <h1>Privacy Policy</h1>
+  </div>
 </div>
 
-
-<style type="text/css">
-	.subpage h1 {
-		text-align: center;
-		text-shadow: 0px 0px 8px #3D3D3D;
-	}
-	.subpage h2 {
-		margin-top: 50px;
-	}
-	.subpage h3 {
-		text-shadow: 0px 0px 8px #3D3D3D;
-	}
-	.subpage .intro {
-		margin-top: 50px;
-		font-size: 20px;
-	}
-	.subpage .row {
-		margin-top: 50px;
-	}
-	.subpage .leftcol {
-		padding-right: 35px;
-	}
-	.subpage .rightcol {
-		padding-left: 35px;
-	}
-	.subpage .icon {
-		float: left;
-		margin-right: 10px;
-	}
-	.subpage .header {
-		margin: 50px 0 130px 0;
-		text-align: center;
-	}
-	@media (max-width: 768px) {
-		.subpage .row {
-			margin-top: 0;
-		}
-		.subpage .leftcol {
-			padding-right: 15px;
-		}
-		.subpage .rightcol {
-			padding-left: 15px;
-		}
-	}
-</style>
-
-<div class="container subpage" style="position:relative;margin-top:-200px;padding-bottom:50px;">
-
-<h1 style="margin-bottom:180px;">Privacy Policy</h1>
+<div class="container">
 
 <p>We respect the privacy of your personal and corporate information. This policy sets out how we use any personal information collected from you, or that you provide to us, when using our service.</p>
 
@@ -873,153 +766,41 @@
 <br><br>
 
 </p></div>
-
-
-<style type="text/css">
-	.subbar {
-		text-align:center;
-		background-color: #000000;
-	}
-	.subbar a {
-		padding: 15px 20px 15px 20px;
-		line-height: 50px;
-		color:#FFFFFF;
-	}
-	.subbar a:hover, .subbar a:focus {
-		text-decoration: none;
-		background-color: #0CB7FA; 
-		color:#000000; 
-	}
-	.subdrop {
-		background-color: #000000;
-	}
-	.subdrop a {
-		padding: 15px 20px 15px 20px;
-		line-height: 50px;
-		color:#FFFFFF;
-	}
-	.subdrop a:hover, .subdrop a:focus {
-		text-decoration: none;
-		background-color: #0CB7FA; 
-		color:#000000; 
-	}
-	.fpnav {
-		z-index: 9007;
-	}
-	@media (max-width: 1200px) {
-		.canhideA  {
-			display: none; 
-		}
-	}
-	@media (max-width: 1000px) {
-		.canhideB  {
-			display: none; 
-		}
-	}
-	@media (min-width: 982px) {
-		.fpnav {
-			z-index: 9007;
-		}
-		.subbar {
-			visibility: visible; 
-		}
-		.subdrop {
-			height: 0px;
-			visibility: hidden; 
-		}
-	}
-	@media (max-width: 981px) {
-		.fpnav {
-			z-index: 9001;
-		}
-		.subbar {
-			height: 0px;
-			visibility: hidden; 
-		}
-		.subdrop {
-			visibility: visible; 
-		}
-		.subcollapse a {
-			display: block;
-			padding: 10px 5px 10px 50px;
-		}
-		.subcollapse a:hover, .subcollapse a:focus {
-			text-decoration: none;
-			background-color: #0CB7FA; 
-			color:#000000; 
-		}
-	}
-</style>	
-<script type="text/javascript">
-	function onClick_dropmenu() {
-		if ($('#collapseDropmenu').is(':visible')) {
-			$('#collapseDropmenu').collapse('hide');
-			btnSubdrop.style.background="#000000";
-			btnSubdrop.style.color="#FFFFFF";
-			btnSubdrop.style.cssText = ":hover{color:#000000;}";
-			btnSubdrop.style.cssText = ":focus{color:#000000;}";
-		} else {
-			$('#collapseDropmenu').collapse('show');
-			btnSubdrop.style.background="#EEEEEE";
-			btnSubdrop.style.color="#000000";
-		}
-	}
-</script>
-<div class="navbar navbar-default fpnav" id="floatingnavbar" style="width:100%;margin-bottom:0px;border-radius:0px;background:transparent;">	<div class="subbar">
-		<div class="container">
-							<a href="http://erply.com/retail-erp-software/">Retailers</a>
-				<a href="http://www.inventory.com/" rel="nofollow">Warehouses</a>
-				<a href="http://erply.com/quick-service-pos/" class="canhideA">Quick&nbsp;Service</a>
-				<a href="http://erply.com/franchise-management-software/" class="canhideA">Franchises</a>
-				<a href="http://erply.com/ipad-pos/">iPad&nbsp;POS</a>
-				<a href="http://erply.com/paypal-pointofsale-instore-payment-retail-pos-integration-ipad-pos/">PayPal&nbsp;POS</a>
-				<a href="http://erply.com/ad-hoc-reporting/">Labels</a>
-				<a href="http://erply.com/accounting/">Accounting</a>
-				<a href="http://www.erply.com/api/" class="canhideB">API</a>
-				<a href="http://erply.com/security/" class="canhideB">Security</a>
-								</div>
-	</div>
-	
-		<div class="subdrop">
-		<a id="btnSubdrop" href="#" onclick="onClick_dropmenu();return false;">Features</a>
-	</div>
-	<div id="collapseDropmenu" class="panel-collapse collapse subcollapse" style="background:#000000;color:#FFFFF;width:100%;z-index:9012;">
-					<a href="http://erply.com/retail-erp-software/">Retailers</a>
-			<a href="http://www.inventory.com/" rel="nofollow">Warehouses</a>
-			<a href="http://erply.com/quick-service-pos/">Quick&nbsp;Service</a>
-			<a href="http://erply.com/franchise-management-software/">Franchises</a>
-			<a href="http://erply.com/ipad-pos/">iPad&nbsp;POS</a>
-			<a href="http://erply.com/paypal-pointofsale-instore-payment-retail-pos-integration-ipad-pos/">PayPal&nbsp;POS</a>
-			<a href="http://erply.com/ad-hoc-reporting/">Labels</a>
-			<a href="http://erply.com/accounting/">Accounting</a>
-			<a href="http://www.erply.com/api/">API</a>
-			<a href="http://erply.com/security/">Security</a>
-					</div>	
-	
-</div>
-
+<p>&nbsp;</p><p>&nbsp;</p>
 		<div class="section-grey footer">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-2">
-						<a href="http://erply.com/">
-							<img src="http://erply.com/wp-content/themes/Erply2.0/img/logo-white.png" alt="ERPLY" class="footer-logo">
+						<a href="/">
+														<img class="navbar-logo" src="http://erply.com/wp-content/themes/Erply3.5/img/logo.png" style="margin:0px;width:130px;" alt="ERPLY">
 						</a>
-						<br>
-												110 West 40th St. Suite 1801<br>
-						NY 10018, (917) 210-1251<br>
-						855-GO-ERPLY (855-463-7759)
-					</div>
+						<div style="margin-top:8px;">
+														110 West 40th St. Suite 1801<br>
+							NY 10018, (917) 210-1251<br>
+							855-GO-ERPLY (855-463-7759)
+						</div>
+												<div style="margin-top:10px;width:120px;">
+							<!-- Begin DigiCert site seal HTML and JavaScript -->
+							<div id="DigiCertClickID_3ujLW8jr" data-language="en_US">
+								<a href="https://www.digicert.com/ev-ssl-certification.htm" style="line-height:20px;">EV SSL</a>
+							</div>
+							<script type="text/javascript">
+								var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_3ujLW8jr", "13", "s", "black", "3ujLW8jr"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
+							</script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
+							<!-- End DigiCert site seal HTML and JavaScript --> 
+						</div>
+											</div>
 					<div class="col-md-1">
 						<br>
 						<br>
-						<a href="http://erply.com/features/">Features</a><br>
+						<a href="https://erply.com/features/">Features</a><br>
+						<a href="https://erply.com/security/">Security</a><br>
 												<a href="http://support.erply.com/" rel="nofollow"><sup>Live</sup> Support</a><br>
-													<a href="#" onclick="onClick_login();return false;">Login</a><br>
+													<a href="#" onclick="scroll(0,0);onClick_login();return false;">Login</a><br>
 											</div>
 					<div class="col-md-2">
 						<div class="title">Erply</div>
-						<a href="http://erply.com/about-erply-contact-us/">About / Contact Us</a><br>
+						<a href="https://erply.com/about-erply-contact-us/">About / Contact Us</a><br>
 						<a href="http://support.erply.com" rel="nofollow">Support</a><br>
 						<a href="http://erply.com/blog-2/">News &amp; Blog</a><br>						<a href="http://www.facebook.com/ERPLY" rel="nofollow">Facebook</a><br>
 						<a href="http://www.twitter.com/erply" rel="nofollow">Twitter</a><br>
@@ -1028,27 +809,28 @@
 					</div>
 					<div class="col-md-2">
 						<div class="title">Service</div>
-						<a href="http://erply.com/why-erply/">Why ERPLY</a><br>
-						<a href="http://erply.com/security/">Cloud Security</a><br>
-						<a href="http://erply.com/hardware-options/">POS Hardware</a><br>
-						<a href="http://erply.com/windows-point-of-sale-pos-download/">Windows Point of Sale</a><br>
-						<a href="http://erply.com/ipad-pos/">iPad POS</a><br>
-						<a href="http://erply.com/simple-spa-salon-software/">Salons</a><br>
-						<a href="http://erply.com/terms-of-service/">Terms of Service</a><br>
-						<a href="http://erply.com/privacy-policy/">Privacy Policy</a><br>
+						<a href="https://erply.com/why-erply/">Why ERPLY</a><br>
+						<a href="https://erply.com/security/">Cloud Security</a><br>
+						<a href="https://erply.com/hardware-options/">POS Hardware</a><br>
+						<a href="https://erply.com/windows-point-of-sale-pos-download/">Point of Sale for Windows</a><br>
+						<a href="https://erply.com/ipad-pos/">iPad POS</a><br>
+						<a href="https://erply.com/simple-spa-salon-software/">Salons</a><br>
+						<a href="https://erply.com/terms-of-service/">Terms of Service</a><br>
+						<a href="https://erply.com/privacy-policy/">Privacy Policy</a><br>
 					</div>
 					<div class="col-md-2">
 						<div class="title">Integrations</div>
-						<a href="http://erply.com/paypal-pointofsale-instore-payment-retail-pos-integration-ipad-pos/" title="LikePOS - PayPal integrated POS">PayPal POS</a><br>
+						<a href="https://erply.com/paypal-pointofsale-instore-payment-retail-pos-integration-ipad-pos/" title="LikePOS - PayPal integrated POS">PayPal POS</a><br>
 						<a href="http://erply.com/api/">Developer API</a><br>
-						<a href="http://erply.com/integrations-with-partners/erply-integration-with-quickbooks/">QuickBooks</a><br>
-						<a href="http://erply.com/erply-shopify-connector/">Shopify</a><br>
-						<a href="http://erply.com/integrations-with-partners/erply-integration-with-prestashop/">Prestashop</a><br>
-						<a href="http://erply.com/integrations-with-partners/erply-integration-with-magento/">Magento</a><br>
+						<a href="https://erply.com/integrations-with-partners/erply-integration-with-quickbooks/">QuickBooks</a><br>
+						<a href="https://erply.com/erply-shopify-connector/">Shopify</a><br>
+						<a href="https://erply.com/integrations-with-partners/erply-integration-with-prestashop/">Prestashop</a><br>
+						<a href="https://erply.com/integrations-with-partners/erply-integration-with-magento/">Magento</a><br>
+						<a href="https://erply.com/multi-channel-ecommerce-platform/">Wordpress cart</a>
 					</div>
 					<div class="col-md-3">
 												<div class="title">Like us</div>
-						<iframe class="facebookshare" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FERPLY&amp;width=240&amp;height=250&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23ffffff&amp;stream=false&amp;header=false&amp;appId=102694003168257" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:240px; height:255px;" allowtransparency="true">
+						<iframe class="facebookshare" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FERPLY&amp;width=240&amp;height=250&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23ffffff&amp;stream=false&amp;header=false&amp;appId=102694003168257" style="border:none; overflow:hidden; width:240px; height:255px;">
 						</iframe>
 					
 					</div>
@@ -1056,16 +838,15 @@
 			</div>
 		</div>
 		
-		<!-- Bootstrap core JavaScript
-		================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
-		<script src="http://erply.com/wp-content/themes/Erply3.2/js/jquery.js"></script>
-		<script src="http://erply.com/wp-content/themes/Erply3.2/js/bootstrap.min.js"></script>
-		<script src="http://erply.com/wp-content/themes/Erply3.2/js/holder.js"></script>
-		<script src="http://erply.com/wp-content/themes/Erply3.2/js/collapse.js"></script>
-		<script src="http://erply.com/wp-content/themes/Erply3.2/js/transition.js"></script>
-
-			
+		<!-- Bootstrap core JavaScript -->
+		<script src="/wp-content/themes/Erply3.2/js/jquery.js"></script>
+		<script async="" src="/wp-content/themes/Erply3.2/js/bootstrap.min.js"></script>
+		<script async="" src="/wp-content/themes/Erply3.2/js/holder.js"></script>
+		<script async="" src="/wp-content/themes/Erply3.2/js/collapse.js"></script>
+		<script async="" src="/wp-content/themes/Erply3.2/js/transition.js"></script>
+		
+				
+				
 	
 
 
