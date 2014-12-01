@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wornontv.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001124id_/http%3A//wornontv.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wornontv.net privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201142453id_/http%3A//wornontv.net/privacy) for the most accurate reproduction.*
 
 # Privacy | WornOnTV
+
+**CYBER MONDAY SALES** have started, find out what items from TV are on sale: [SHOP OUR GUIDE](https://web.archive.org/black-friday-2014/) _(updated daily)_
 
 ## Privacy Policy
 
