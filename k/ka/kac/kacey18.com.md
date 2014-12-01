@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kacey18.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331221737id_/http%3A//kacey18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kacey18.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201060220id_/http%3A//kacey18.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
