@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trespass.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526203804id_/http%3A//www.trespass.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trespass.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201114823id_/http%3A//www.trespass.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Trespass
 
