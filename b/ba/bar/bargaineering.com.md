@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargaineering.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124901id_/http%3A//www.bargaineering.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargaineering.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201214239id_/http%3A//www.bargaineering.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy - Bargaineering
 
