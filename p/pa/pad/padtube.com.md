@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130357id_/http%3A//www.padtube.com/aboutus.html%3Fsection%3DLegalInformation.PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201125704id_/http%3A//www.padtube.com/aboutus.html%3Fsection%3DLegalInformation.PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
