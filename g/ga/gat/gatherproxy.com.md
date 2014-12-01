@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatherproxy.com privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305115237id_/http%3A//gatherproxy.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatherproxy.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201140301id_/http%3A//www.gatherproxy.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy - Free proxy list online - Free proxy servers list - Online proxy checker.
 
