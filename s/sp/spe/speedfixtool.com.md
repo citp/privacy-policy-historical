@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the speedfixtool.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516051833id_/http%3A//speedfixtool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedfixtool.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201094157id_/http%3A//speedfixtool.com/privacy-policy) for the most accurate reproduction.*
 
 # SpeedFixTool privacy policy
+
+Revolution Slider Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!
 
 The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to speedfixtool.com to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
