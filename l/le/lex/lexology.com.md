@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexology.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227113314id_/http%3A//www.lexology.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexology.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201232619id_/http%3A//www.lexology.com/Privacy) for the most accurate reproduction.*
 
 # Lexology
 
@@ -52,7 +52,7 @@ You are also responsible for keeping your password confidential and we ask that 
 
 ## Use of cookies
 
-We use cookies to optimise Lexology content and for analytics. For information on our use of cookies, please read our [Cookie Policy](https://web.archive.org/web/20140227113314id_/http%3A//www.lexology.com/Cookies).
+We use cookies to optimise Lexology content and for analytics. For information on our use of cookies, please read our [Cookie Policy](https://web.archive.org/web/20141201232619id_/http%3A//www.lexology.com/Cookies).
 
 Most browsers allow you to turn off cookies or to receive a warning before a cookie is stored on your hard drive. Please refer to your browser instructions or help screen to learn more about how to do this. However, should you decide to disable any cookies that we place on your computer, you may be unable to use certain services or facilities on Lexology.
 
