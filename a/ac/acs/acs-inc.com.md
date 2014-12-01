@@ -1,105 +1,177 @@
-> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025733id_/http%3A//www.acs-inc.com/acs-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201194115id_/http%3A//www.xerox.com/about-xerox/privacy-policy/enus.html) for the most accurate reproduction.*
 
-# ACS Privacy Policy | ACS
+# Xerox Corporation Privacy Policy
 
-**General** This Privacy Statement (“Statement”) describes the online privacy practices for this website maintained by Xerox Business Services, LLC (formerly Affiliated Computer Services, LLC), (“Xerox Business Services”). It also describes our privacy practices related to certain personal information that Xerox Business Services receives in the United States from the European Union and Switzerland (see the “Safe Harbor” section below).
+  
 
-By using our sites you agree that your use is subject to the terms of this Statement and you consent to the collection, use and storage of your information by Xerox Business Services in accordance with this Statement and as may be more specifically explained on each website. Xerox Business Services may change this Statement at any time and will display the changes here in the form of a new Statement. Because your use of this website after changes have been posted indicates your agreement with those changes, we encourage you to visit this Statement on a regular basis. If you are not comfortable with using this website in accordance with this Statement, please exit immediately.
 
-You may have accessed this Xerox Business Services website as a result of a link from another Xerox Business Services site. This Statement applies to all Xerox Business Services websites linked to this site except where more specific information is provided on the linked site with respect to the collection, use and storage of personal information.
+**This is the Online Privacy Policy of Xerox Corporation in the United States.**
 
-**What Personal Information May Be Collected**
+This privacy policy covers the websites belonging to Xerox Corporation (“Xerox” or “we”) in the United States. It does not cover the websites of Xerox subsidiaries or affiliates who publish their own policies.
 
-Xerox Business Services may collect personal information about you when you use our websites; place orders for products or services; request information such as quotes, newsletters, promotional materials or services from Xerox Business Services; participate in surveys or promotional activities; seek information about employment opportunities or apply for a position; or participate in other activities on our sites. The personal information we collect may include name, physical address, telephone number, email address and other personal information that you choose to provide. For certain activities, such as when you order a product or service, we may ask for your payment card information, driver’s license number, social security number or equivalent national identification number and date of birth. If you express an interest in employment with Xerox Business Services, we may ask you to provide your resume/CV and other relevant information.
+At Xerox, privacy on the Internet means that: 
 
-When you visit our site we may collect information through the use of a "cookie". A cookie is a small file that a website can send to your browser and then is stored on your computer. This type of technology is designed to tell us when you reenter our site, where you visit within our site, and the type of browser you use. You are not required to accept any cookie we might use, although some areas of a site may not be operational without the use of cookies. You can disable cookies on your computer by changing the settings in your browser. The information collected helps us identify data relating to usage and trends, address any problems with site administration, and to further improve this site. We also may automatically collect certain information relating to you, such as your Internet Protocol (IP) address, Internet service provider, type of operating system, the time and date you accessed the Site, the Uniform Resource Locator (URL) from which you arrived at our site and, if you browse away from our site by clicking on a link on our site, the URL you click on. This is more fully described under the section entitled “Cookies, Web Beacons and AdChoices” below.
+  * Xerox informs its website users (“you”) how it uses personally identifiable information that is collected online;
+  * Xerox maintains confidentiality and security safeguards for personally identifiable information;
+  * You have control over personally identifiable information you decide to submit to Xerox; and
+  * You can opt-out of receiving commercial email from Xerox at any time.
 
-We do not require you to provide your Social Security Number on our site unless a secure connection is used or the SSN is encrypted. We also do not require you to enter your SSN to access our sites without requiring additional authentication.
 
-**How Personal Information May Be Used**
 
-The information we collect may be used to facilitate your use of our site and improve the operation of the site; respond to and fulfill any requests you make for products, services or other support from Xerox Business Services; communicate with you about the products, services and promotional offers available from Xerox Business Services or our business partners. We also may use the information to implement terms and restrictions associated with purchases you make or separate contracts you enter into with Xerox Business Services, if any. Finally, if you express an interest in employment opportunities with Xerox Business Services we will use any information submitted, such as a resume/CV, to evaluate candidates for employment purposes. Other uses of information may be evident from the particular site or point at which we collect the information.
+Xerox maintains the information it receives online in strict confidence; information you submit to Xerox is not sold to or shared with third parties, except our subsidiaries, affiliates, agents and partners as described in this policy. 
 
-Xerox Business Services will retain personal information collected for as long as it is needed to fulfill the purpose for which the information was collected or as required by applicable law.
+Xerox reserves the right to notify you about administrative matters that pertain to your Xerox products or services. We may disclose your personally identifiable information, as required by law or regulation, in connection with law enforcement, fraud prevention, or other legal action; or if Xerox reasonably believes it is necessary to protect Xerox, our customers, or the public. Although we do not currently anticipate a change in our corporate status, in the event of a merger or acquisition of the company or a substantial portion of its assets, Xerox may disclose, transfer or sell personal information collected online to the surviving or acquiring party, respectively. Personal information collected online will remain subject to promises made in this Online Privacy Policy. 
 
-**Sharing of Personal Information with Third Parties**
+If you would like to contact Xerox without submitting personally identifiable information online, you can reach a Xerox representative by calling 1-800-ASK-XEROX. 
 
-Xerox Business Services will not sell or give your personal information to third parties for their use for purposes unrelated to Xerox Business Services without your permission, except as noted in this Statement or on our websites.
+**Xerox is authorized to display the BBBOnline Accredited Business Seal.**
 
-Xerox Business Services may share personal information about you with our subsidiaries and affiliated companies. We also may share personal information with our suppliers, contractors and agents who perform functions on our behalf, with other third party business partners, or in connection with products and services offered by Xerox Business Services or a request made by you. On occasion when Xerox Business Services transfers personal information to one of those third parties for purposes of responding to a request from you, that third party may need to furnish the information to an unaffiliated party for further assistance.
+The BBBOnline Accredited Business Seal reflects our adherence to the BBB’s Code of Business Practices.
 
-Xerox Business Services may disclose your personal information as we consider necessary to comply with the law or requests by governmental authorities, in connection with litigation, dispute resolution, or administration of this Statement or a possible violation of this site's Terms of Use or the rights of Xerox Business Services or a third party. In addition, Xerox Business Services may disclose or receive personal information in connection with a possible sale, purchase, merger or other reorganization of a business.
+[](https://www.bbb.org/connecticut/business-reviews/printers-business-forms/xerox-corporation-in-norwalk-ct-12000842#sealclick)
 
-**Communications**
+For more information, please visit the [BBBOnLine](http://www.bbb.org/us/bbb-accreditation-standards/) Web page. 
 
-From time to time Xerox Business Services or our business partners may send you marketing communications regarding products and services that can be purchased directly from Xerox Business Services. For some communications you can choose to receive them or opt-out by using the checkbox on the web form. If you receive marketing communications from Xerox Business Services and wish to discontinue them, please contact the sender as identified in the email or you may contact Xerox Business Services through the Xerox Business Services website.
+**Xerox is Safe Harbor certified.**
 
-**Security**
+Xerox complies with the U.S.-EU Safe Harbor Framework established by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Xerox has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
-To protect the personal information we receive, Xerox Business Services uses certain security measures designed to guard against the loss, misuse and alteration of that information. It should be recognized, however, that we cannot guarantee that transmission of data over the Internet will be absolutely secure. Due to the open nature of the Internet the information you provide may be in environments that do not have adequate security measures and may be accessed and used by persons other than those intended. As a result, while protection of your personal information is important to us, Xerox Business Services is not able to ensure the security of information you transmit to us and you assume the risk of any third party obtaining that information. Upon receipt of your information Xerox Business Services will strive to ensure its security on our systems.
+**Privacy Complaints.**
 
-Xerox Business Services may use Social Security Numbers in connection with the sale or licensing of products and services. We use security measures designed to protect the confidentiality of the SSNs while in Xerox Business Services’ possession and control. No unlawful disclosure of SSNs is permitted. Contracts with clients, suppliers or other third parties may contain additional requirements relating to the protection of SSNs. Xerox Business Services will comply with all applicable laws relating to the use, access and disclosure of SSNs.
+In compliance with the Safe Harbor Principles, Xerox commits to resolve complaints about your privacy and our collection or use of your personal information. Inquiries or concerns regarding this privacy policy should be directed to the Xerox Business Ethics and Compliance Office. 
 
-**Cookies, Web Beacons and AdChoices**
+To report your inquiries or concerns to the Business Ethics and Compliance Office please contact the Xerox Ethics Helpline. The Xerox Ethics Helpline is confidential and anonymous, if you so desire, and is available online and via a toll-free number listed below.
 
-**What is a cookie?**  
-Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They are widely used in order to make websites work efficiently, as well as to provide information to the owners of the site. Cookies are useful because they allow a website to recognize your device, letting you navigate between pages efficiently, remembering your preferences, and generally improving your experience.
+  * Web Reporting: [www.xeroxethicshelpline.com](http://www.xeroxethicshelpline.com/)
+  * US & Canada Toll-Free Number: 1-866-979-0001
+  * [Direct Dial Toll-Free Numbers Outside US & Canada](http://www.xerox.com/downloads/usa/en/h/HowtoContacttheXeroxEthicsHelpline.pdf) available at [www.xerox.com/ethics](http://www.xerox.com/about-xerox/citizenship/ethics/enus.html)
 
-**How does Xerox use cookies?**  
-Xerox uses cookies to recognize repeat visits to our websites and to facilitate Web navigation and online shopping. The cookies store your country and language, along with an assigned random session ID. In some cases, the cookies store name and address information so you do not have to re-enter this information in multiple forms.
 
-The cookie information that Xerox collects helps us track the number of visitors to our websites over time and determine whether these were new or repeat visits.
 
-Xerox also works with third party advertising partners that use cookies to deliver Xerox advertising on other websites and to measure the performance of our advertising campaigns.
+You may also contact us via postal mail at: 
 
-**What is a Web Beacon?**  
-A web beacon is an electronic image that can be used to recognize a cookie on your computer or other device when you view a web page or email.
+Xerox Corporation  
+Xerox Business Ethics and Compliance  
+45 Glover Avenue  
+Norwalk, CT 06856-4505  
+USA 
 
-**How does Xerox use Web Beacons?**  
-Xerox and our third party advertising partners may use web beacons on our websites, in our emails, and in our advertisements on other websites to measure the effectiveness of our websites and our advertising. For example, web beacons may count the number of individuals who visit our websites from a particular advertisement or the number of individuals who open or act upon an email message.
+Xerox has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Xerox, you may contact [BBB EU Safe Harbor](http://www.bbb.org/us/safe-harbor-complaints). 
 
-**Can I block cookies and web beacons?**  
-Yes, the ability to enable, disable or delete cookies can be controlled though your website browser. Consult the "Help" menu of your browser application for details. If you block the use of cookies, you will not be able to use some of the features on Xerox websites, including the shopping cart and online account management services. You can make some web beacons unusable by disabling cookies.
+You may choose to give us personally identifiable information online to allow us to communicate with you, process your orders, or provide you with services. Our online forms ask for a small amount of relevant information, such as name, email, street address, and phone number. Some forms may ask for your customer number or product serial number. If you make a purchase, we may ask for your credit card number and billing information. Job applicants may be requested to provide information such as educational background, employment experience, and job interest. 
 
-**Links to non-Xerox websites.**  
-Other websites that may be accessed through our website, such as through social media buttons or other links, may collect certain information about you through the use of cookies, web beacons and other features. We do not have access to or control over the cookies or other features that these third party sites may use, and the information practices of these third party websites are not covered by this Online Privacy Policy. Please contact them directly for more information about their privacy practices.
+We may also collect information about your visits to our websites, including your Internet Protocol (IP) address, browser type and language, location information and details of your browsing patterns. This is more fully described under the section entitled “Cookies, Web Beacons and AdChoices” below. We collect this information to determine such things as the number of visitors to various parts of our websites and to personalize your experience on our sites, and tailor our interactions with you. 
 
-**AdChoices: How does Xerox use Interest-Based Advertising?**  
-Websites cooperate with online advertisers to collect information about visitors to present ads that are more useful and relevant. This is known as interest-based advertising or online behavioral advertising. Xerox and our third party advertising partners may use cookies and web beacons to deliver interest-based ads that are relevant and targeted to our customers and prospects. When delivering interest-based ads, Xerox adheres to the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/principles/).
+If you do not want to give personally identifiable information to Xerox online you may communicate with us through the postal addresses or the phone or fax numbers that we also provide on our websites or in this policy. Xerox does not direct any part of its website to children under 13 years old and does not knowingly collect personally identifiable information from children. 
 
-**What information do Xerox websites collect for interest-based advertising?**  
-Xerox and our third party advertising partners may use cookies or web beacons to collect information for the purposes of interest-based advertising based on your visits to Xerox.com and other web sites. These cookies identify the pages you view, the links and ads you click on, other actions you take on those websites, and the referring website. Similarly, online advertisers use cookies to deliver advertising to you for companies other than Xerox based on your visits to Xerox.com and other websites.
+Personally identifiable information that is submitted in a business capacity may be merged with available business data base directories. 
 
-You can learn more about interest-based advertising at [www.aboutads.info/choices](http://www.aboutads.info/choices/).
+Personally identifiable information collected may be stored and processed in the United States or any other country in which Xerox or its subsidiaries, affiliates, agents or partners maintain facilities, and by using this website, you consent to any such transfer of information outside of your country. 
 
-**Can I control the interest-based advertising that Xerox websites collect about me?**  
-Yes, the web site at [www.aboutads.info/choices](http://www.aboutads.info/choices/) provides you the ability to opt-out of data collection by companies that adhere to the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/principles/).
+Xerox uses personally identifiable information submitted online to: 
 
-**Xerox Business Services Client Web Sites**
+  * respond to your questions;
+  * provide customer support;
+  * share news, updates, or helpful tips about Xerox products and services;
+  * enable online shopping;
+  * inform you of special promotions;
+  * sign up for online services;
+  * create reseller partnerships;
+  * evaluate job applications;
+  * customize, analyze, and improve our products, services, technologies, communications and relationships with you; and
+  * deliver products and services requested by you.
 
-In the course of providing services to its clients, Xerox Business Services may operate websites for certain clients that involve the collection, use and retention of personal information. For example, if you are a health plan member, health plan provider, a patient or other individual who does business with an Xerox Business Services client, Xerox Business Services may collect, use and maintain personal information in order to provide you with services on behalf of the Xerox Business Services client. Those activities are conducted by Xerox Business Services under a contract between Xerox Business Services and the client. This Statement is not intended to modify the terms of the contract between Xerox Business Services and the client. If you have questions about the handling of your personal information that are not addressed on the specific website through which Xerox Business Services conducts those activities on behalf of the client, please use the contact information listed on that site or communicate with the Xerox Business Services client.
 
-**Global Presence**
 
-Xerox Business Services has employees, clients and suppliers in many countries around the world. The management, operational and technical processes and systems used by Xerox Business Services may involve transfer of information across borders. For example, personal information that Xerox Business Services obtains may be sent to systems outside the country in which you initially provided the information, and it may be processed and stored in a different country, including jurisdictions that may not have data privacy laws that provide protection equivalent to such laws in the country in which you reside. By your use of this site you consent to the transfer of your personal information outside of your country to any other country. Regardless of the location from which you provide your personal information to Xerox Business Services through its websites, Xerox Business Services will take steps to handle it in a secure manner in accordance with this Statement and all applicable laws.
+ **Communication Preferences.**
 
-**Children**
+Xerox may send commercial email to you advertising our products and services. You can also subscribe to various product and service-specific communications on our websites. If you receive commercial email from Xerox and wish to discontinue these mailings, you may unsubscribe at [www.xerox.com/unsubscribe](http://www.xerox.com/perl-bin/formeng.pl?form=2680_email_pref&XOGlang=en_US). You may also mail an unsubscribe request to: 
 
-Xerox Business Services does not market its products or services to children under thirteen years of age and does not wish to collect personal information from children.
+Marketing Privacy Preferences  
+Xerox Corporation  
+Xerox Square 16th Floor  
+100 Clinton Avenue South  
+Rochester, NY  
+14604-1801 
 
-**Contact Information**
+This unsubscribe option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, software updates, or other administrative and transactional notices, the primary purpose of which is not promotional in nature. 
 
-Please direct any questions you might have about this Statement to the Xerox Business Services Chief Information Security Officer at [ciso@xerox.com](mailto:ciso@xerox.com) or you may direct your communications to::   
-              Xerox Business Services Information Security   
-              2828 N. Haskell Avenue, Bldg. 5  
-              Dallas, Texas 75204
+**Xerox maintains strict access control over personally identifiable information.**
 
-**Safe Harbor**
+Only authorized Xerox personnel, and those of our subsidiaries, affiliates, agents, and partners are allowed to handle information submitted to Xerox online. 
 
-Xerox Business Services complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce with respect to certain personal information that Xerox Business Services receives in the United States about individuals in the EU and Switzerland (“European Personal Information”). Specifically, Xerox Business Services may receive and process European Personal Information about client contacts and other visitors to this website who purchase, or may purchase, products or services from Xerox Business Services on behalf of their companies (“Client Contact Data”). Xerox Business Services handles such Client Contact Data in accordance with the purposes of use and other descriptions in this Privacy Statement.
+Xerox’s websites store personally identifiable information in password-protected environments on servers that are located in the United States. These servers are subject to Xerox's information security policies, standards, and procedures. 
 
-Xerox Business Services also receives certain European Personal Information about client employees, beneficiaries, dependents, customers and others in connection with the provision of information technology, business process management, and related services to our clients (“Client Controlled Data”). Xerox Business Services acts as a data processor with respect to the handling and processing of the Client Controlled Data, and in accordance with our client’s instructions. Xerox Business Services has no contractual relationship with the individuals concerned.
+**Credit card data is encrypted.**
 
-Individuals with questions about Xerox Business Services’ handling of their Client Controlled Data should first contact the Xerox Business Services client involved. Questions about Client Contact Data or other concerns may be directed to Xerox Business Services as per the Contact Information in the section above. Or, if the individual’s questions cannot be answered directly, such persons may contact their local data protection authority for further information. More information about the U.S. Department of Commerce Safe Harbor Program can also be found at <http://www.export.gov/safeharbor/>.
+To ensure that you can purchase with confidence from the Xerox website, Xerox protects credit card information submitted online with industry-standard encryption technology. 
 
-This Privacy Statement was last updated on July 19, 2013.
+**Our agents and partners protect personally identifiable information.**
+
+When you purchase equipment or supplies or arrange for services online from Xerox it may be necessary to transfer personally identifiable information to our subsidiaries, affiliates, agents or partners, who then fill the orders or provide the services. Xerox requires that its subsidiaries, affiliates, agents and partners handle personally identifiable information with the same concern for personal privacy as Xerox. 
+
+You may contact Xerox to check the accuracy of your personally identifiable information or to request that your information be updated or deleted by writing to ethics@xerox.com. Please indicate "Access" in the subject line and let us know the details of your request in the body of the message. You may also contact us at the Xerox Ethics and Privacy Hotline at 1-866-XRX-0001. Xerox reserves the right to confirm your identity and to modify the scope and number of requests. 
+
+**What is a cookie?**
+
+Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They are widely used in order to make websites work efficiently, as well as to provide information to the owners of the site. Cookies are useful because they allow a website to recognize your device, letting you navigate between pages efficiently, remembering your preferences, and generally improving your experience. 
+
+**How does Xerox use cookies?**
+
+Xerox uses cookies to recognize repeat visits to our websites and to facilitate Web navigation and online shopping. The cookies store your country and language, along with an assigned random session ID. In some cases, the cookies store name and address information so you do not have to re-enter this information in multiple forms. 
+
+The cookie information that Xerox collects helps us track the number of visitors to our websites over time and determine whether these were new or repeat visits. 
+
+Xerox also works with third party advertising partners that use cookies to deliver Xerox advertising on other websites and to measure the performance of our advertising campaigns. 
+
+**What is a Web Beacon?**
+
+A web beacon is an electronic image that can be used to recognize a cookie on your computer or other device when you view a web page or email. 
+
+**How does Xerox use Web Beacons?**
+
+Xerox and our third party advertising partners may use web beacons on our websites, in our emails, and in our advertisements on other websites to measure the effectiveness of our websites and our advertising. For example, web beacons may count the number of individuals who visit our websites from a particular advertisement or the number of individuals who open or act upon an email message. 
+
+**Can I block cookies and web beacons?**
+
+Yes, the ability to enable, disable or delete cookies can be controlled though your website browser. Consult the “Help” menu of your browser application for details. If you block the use of cookies, you will not be able to use some of the features on Xerox websites, including the shopping cart and online account management services. You can make some web beacons unusable by disabling cookies. 
+
+**Links to non-Xerox websites.**
+
+Other websites that may be accessed through our website, such as through social media buttons or other links, may collect certain information about you through the use of cookies, web beacons and other features. We do not have access to or control over the cookies or other features that these third party sites may use, and the information practices of these third party websites are not covered by this Online Privacy Policy. Please contact them directly for more information about their privacy practices. 
+
+Websites cooperate with online advertisers to collect information about visitors to present ads that are more useful and relevant. This is known as interest-based advertising or online behavioral advertising. Xerox and our third party advertising partners may use cookies and web beacons to deliver interest-based ads that are relevant and targeted to our customers and prospects. When delivering interest-based ads, Xerox adheres to the Self-Regulatory Program for Online Behavioral Advertising. 
+
+**What information do Xerox websites collect for interest-based advertising?**
+
+Xerox and our third party advertising partners may use cookies or web beacons to collect information for the purposes of interest-based advertising based on your visits to Xerox.com and other web sites. These cookies identify the pages you view, the links and ads you click on, other actions you take on those websites, and the referring website. Similarly, online advertisers use cookies to deliver advertising to you for companies other than Xerox based on your visits to Xerox.com and other websites. 
+
+**Can I control the interest-based advertising that Xerox web sites collect about me?**
+
+Yes, Xerox provides a tool to opt-out of data collection by companies that adhere to the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/principles/). 
+
+We welcome questions or comments about our Online Privacy Policy. You may also contact us if you feel that your personal information is used in a way inconsistent with this policy. [Email](mailto:ethics@xerox.com) us or call 1-866-XRX-0001 if you are in North America. International numbers and a Web submission tool are available on [www.xerox.com/ethics](http://www.xerox.com/ethics). You may also contact us via postal mail at: 
+
+Xerox Corporation  
+Xerox Business Ethics and Compliance  
+45 Glover Avenue  
+Norwalk, CT 06856-4505  
+USA
+
+  * If you have questions about Xerox products or services, call us toll-free at 1-800-ASK-XEROX or 1-800-275-9376.
+  * [More contact information](http://www.xerox.com/about-xerox/contact-us/enus.html) is available on [www.xerox.com](http://www.xerox.com/) if you are outside the United States and Canada, and/or if you have questions about support, sales, corporate information, scholarships, research and innovation, or services.
+
+
+
+Xerox reserves the right to make changes to this policy. If we make changes, we will revise this Online Privacy Policy to reflect such changes and revise the effective date of the policy. 
+
+Policy Effective Date: February 24, 2014. 
+
+**What was revised in the last update?**
+
+The privacy practices at Xerox did not change with the last update of this policy. No changes were made to the substance of this policy. We added the following content to the policy: 
+
+  * Additional information was provided regarding the use of cookies. 
+  * Additional information was provided regarding Xerox’s advertising practices. 
+
+
