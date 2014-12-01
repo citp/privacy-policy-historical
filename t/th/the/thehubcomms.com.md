@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehubcomms.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327020426id_/http%3A//www.thehubcomms.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehubcomms.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201232125id_/http%3A//www.thehubcomms.com/privacypolicy) for the most accurate reproduction.*
 
-# The Hub | Digital marketing blog | Tech, mobile & social media news
+# Privacy Policy
 
 **Last updated: November 2013**
 
@@ -34,6 +34,8 @@ Several companies unaffiliated with Haymarket provide email deployment services 
 In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket’s behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [web@haymarketmedia.com.](mailto:web@haymarketmedia.com)
 
 For the Monthly Prescribing Reference app only user data will be shared with Haymarket’s software partner, Atmosphere Apps. To view the Atmosphere App’s privacy policy please go to <http://www.atmosphereapps.com/privacy.html>
+
+Haymarket will share user data with accredited provider(s) of CME/CE activities in which users participate, and/or medical education and communications companies who assisted in the development of CME/CE activities in which users participate. 
 
 **Aggregated information**
 
