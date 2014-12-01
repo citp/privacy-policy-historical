@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedwebranking.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165609id_/http%3A//www.advancedwebranking.com/online/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedwebranking.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201214057id_/http%3A//www.advancedwebranking.com/online/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - AWR Cloud online rank tracker
 
