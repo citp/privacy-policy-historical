@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hungryhowies.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514001834id_/http%3A//www.hungryhowies.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryhowies.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201221030id_/http%3A//www.hungryhowies.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Hungry Howie's Pizza
+# Privacy Statement | Hungry Howies
 
 This statement describes how Hungry Howie's Pizza ("Hungry Howies") may use information collected from users of this site.
 
@@ -12,7 +12,7 @@ Collection of Personal Information
 
 Online Technology
 
-  * Hungry Howies' website technology has the ability to collect data other than personally identifiable information. Hungry Howies may collect information about your computer configuration, such as your browser type, operating system, or ISP domain name. Hungry Howies may collect information about the site you last visited prior to visiting a Hungry Howies website or about your activity during your visit to a Hungry Howies site. This information may be used by Hungry Howies to administer the technical and operational aspects of this site, and may include using your IP address to help diagnose problems with our server. Your IP address may also be used to gather broad demographic information for aggregate use. Hungry Howies may use cookies (a piece of data stored on the user's hard drive containing information about the user) to assist in performing some or all of these activities. You can set your browser to accept all, some or no cookies. If you set your browser to reject all cookies, you may be limited in your ability to access some or all aspects of the site or be required to re-enter information. 
+  * Hungry Howies' website technology has the ability to collect data other than personally identifiable information. Hungry Howies may collect information about your computer configuration, such as your browser type, operating system, or ISP domain name. Hungry Howies may collect information about the site you last visited prior to visiting a Hungry Howies website or about your activity during your visit to a Hungry Howies site. This information may be used by Hungry Howies to administer the technical and operational aspects of this site, and may include using your IP address to help diagnose problems with our server. Your IP address may also be used to gather broad demographic information for aggregate use. Hungry Howies may use cookies (a piece of data stored on the user's hard drive containing information about the user) to assist in performing some or all of these activities. You can set your browser to accept all, some or no cookies. If you set your browser to reject all cookies, you may be limited in your ability to access some or all aspects of the site or be required to re-enter information.
 
 
 
@@ -24,23 +24,21 @@ COPPA
 
 Opt-Out
 
-  * If you want to "opt-out" of being contacted by Hungry Howies after you have shared your information, or you wish to correct the information you have provided, you may do so in one of two (2) ways:   
-
-    1. Send email to [hhcustserv@hungryhowies.com](mailto:hhcustserv@hungryhowies.com). 
-    2. Call (248) 414-3300 and ask to speak to Customer Service. 
+  * If you want to "opt-out" of being contacted by Hungry Howies after you have shared your information, or you wish to correct the information you have provided, you may do so in one of two (2) ways: 
+    1. Send email to [hhcustserv@hungryhowies.com](mailto:hhcustserv@hungryhowies.com).
+    2. Call (248) 414-3300 and ask to speak to Customer Service.
 
 
 
 Contact Hungry Howies
 
-  * If you wish to contact Hungry Howies to correct, amend, or delete information (if Hungry Howies is holding on to your information as explained above), about Privacy related issues or for any reason at all, you may do so by contacting Hungry Howie's Customer Service at:   
-
+  * If you wish to contact Hungry Howies to correct, amend, or delete information (if Hungry Howies is holding on to your information as explained above), about Privacy related issues or for any reason at all, you may do so by contacting Hungry Howie's Customer Service at: 
     1. Mail to: Privacy Policy c/o;  
 Hungry Howie's Pizza, Inc.  
 30300 Stephenson Hwy.  
 Madison Heights, MI. 48071
-    2. Email to: hhcustserv@hungryhowies.com; or 
-    3. Phone to: (248) 414-3300. 
+    2. Email to: [hhcustserv@hungryhowies.com](mailto:hhcustserv@hungryhowies.com); or
+    3. Phone to: (248) 414-3300.
 
 
 
