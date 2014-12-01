@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleonmain.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065554id_/http%3A//styleonmain.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleonmain.net privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201035001id_/http%3A//styleonmain.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Style on MainStyle on Main
 
