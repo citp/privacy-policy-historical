@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthisoft.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623060743id_/http%3A//www.arthisoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthisoft.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201045012id_/http%3A//www.arthisoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arth I-Soft
 
