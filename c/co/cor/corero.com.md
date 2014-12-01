@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corero.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509040845id_/http%3A//www.corero.com/company/Footer/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corero.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201181720id_/http%3A//www.corero.com/company/Footer/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
