@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soldoutaftercrisis.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065453id_/http%3A//soldoutaftercrisis.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soldoutaftercrisis.net privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201061229id_/http%3A//soldoutaftercrisis.net/privacy.php) for the most accurate reproduction.*
 
 # 37 Critical Items
 
@@ -79,7 +79,7 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
 
-_[http://www.SoldOutAfterCrisis.net/terms.php](http://www.soldoutaftercrisis.net/terms.php)._
+_[http://www.SoldOutAfterCrisis.com/terms.php](http://www.soldoutaftercrisis.com/terms.php)._
 
 **Your Consent**
 
@@ -91,12 +91,11 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information found at this link: http://www.SoldOutAfterCrisis.net/contactus.php    
-3879 E. 120th Avenue  
-Suite 323  
-Thornton, CO 80233  
+If there are any questions regarding this privacy policy you may contact us using the information found at this link: http://www.SoldOutAfterCrisis.com/contactus.php    
+4155 E Jewell Ave, Suite 900  
+Denver, CO 80222  
 USA  
-info@SoldOutAfterCrisis.net
+info@SoldOutAfterCrisis.com
 
 **Privacy Policy Customer Pledge**
 
@@ -109,4 +108,4 @@ Privacy Alliance
 Respectfully,
 
 SoldOutAfterCrisis   
-www.SoldOutAfterCrisis.net
+www.SoldOutAfterCrisis.com
