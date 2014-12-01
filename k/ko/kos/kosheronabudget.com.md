@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kosheronabudget.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084423id_/http%3A//kosheronabudget.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kosheronabudget.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201061131id_/http%3A//kosheronabudget.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kosher on a Budget
 
