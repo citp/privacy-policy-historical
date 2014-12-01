@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asee.org privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207022353id_/http%3A//www.asee.org/about-us/headquarters/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asee.org privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201130048id_/http%3A//www.asee.org/about-us/headquarters/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement: American Society for Engineering Education
 
@@ -26,7 +26,7 @@ Responsible third parties may purchase mailing lists in the form of address labe
 
 * * *
 
-##  Fellowships
+##  Fellowships and Research Opportunities
 
 When you apply for a fellowship we store data required to process your application. This personally identifiable information is used only by ASEE staff and the sponsoring agency or their designated affiliate for processing of appointments or security clearances. No other third party is allowed access to this information.
 
