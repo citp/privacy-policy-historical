@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the irokotv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063535id_/http%3A//irokotv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irokotv.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201233916id_/http%3A//irokotv.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy on iROKOtv | Number One Home For Nollywood & Ghanaian Movies
 
-  *   * [ Menu ](https://web.archive.org/)
+  *   * Need help? Call +16465045947 
   * [ Account ](https://web.archive.org/account/signup)
   * [ Search ](https://web.archive.org/search)
 
 
 
-##  Privacy and cookies 
+##  Privacy Policy 
 
 At iROKO Partners Limited (the “Company”); we recognize your privacy is important. This Policy explains the Company’s privacy practices on its website iROKOtv (the “Site”). This Policy also explains what information we collect about you (the “User”) and how we use this information. 
 
@@ -28,11 +28,15 @@ We collect information Users provide when registering to use our Site. Through a
 
   3. **Cookies**
 
-The Site uses cookies. A cookie is a small data text file placed on the User’s computer. We use cookies to collect certain aggregate date about our Users, to deliver content specific to your interest and to prevent you entering login information at each connection. Also, the cookie enhances User experience and interaction with the Site. Users may choose not to accept cookies, but this may prevent the Site from functioning properly. 
+The Site uses cookies. Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are useful because they allow a website to recognize a User’s device. And, to do a lot of other tasks, you may see examples below. You can find more information about cookies at: [allaboutcookies.org](http://www.allaboutcookies.org/) and [youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
-We may also use external third party advertising partners to display advertisement on the Site. As part of their services, they will place a separate cookie on your computer to help them precisely target advertising to you. Our third party advertising partners do not collect personally identifiable information. 
+We use performance, functionality and targeting or advertising cookies on the Site. These cookies may allow: 
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, doing so means that you will not be presented with advertising that reflects the way that you use our, and other, websites and may adversely affect your experience of websites that use cookies to enhance or personalize that experience. You can find out how to make these changes to your browser at this site: [ http://www.allaboutcookies.org/manage-cookies/ ](http://www.allaboutcookies.org/manage-cookies/). 
+    * Functionality - us remember choices you make to improve your experience (such as your username, age classification, subscription package and period, where applicable, free trial period, movie player quality preference, session management, and live chats etc.); 
+    * Advertising or targeting - third party advertising companies to display advertisement more relevant to you and your interests. As part of their services, they will place a separate cookie on your computer to help them precisely target advertising to you. These third party advertising companies do not collect personally identifiable information; and 
+    * Performance - us or/and third party partners collect anonymous information including but not limited to performance and website improvement. This may include web analytics, error management and testing designs. 
+
+Users may choose not to accept cookies, but this may prevent the Site from functioning properly, or may affect your experience on the Site, or you may not be presented with relevant advertising. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. You can find out how to make these changes to your browser at this site: [allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies). 
 
   4. **Release of Information**
 
@@ -44,13 +48,13 @@ We may disclose your PII as required by law, such as to comply with a subpoena o
 
   5. **Correct and update your information**
 
-Users can modify or change their password, and e-mail address by through their “My Profile” settings. Also, Users can modify, change or delete their personal information anytime by emailing us at [ support@irokotv.com ](mailto:support@irokotv.com). 
+Users can modify or change their password, and e-mail address by through their “My Profile” settings. Also, Users can modify, change or delete their personal information anytime by emailing us at [ support@irokotv.com ](mailto:support@irokotv.com) or calling us on +234-800-333-0000. 
 
 Users can access the information held on them on the Site by emailing us at [ support@irokotv.com ](mailto:support@irokotv.com). The Company makes a nominal charge of £10, to cover administration costs. 
 
   6. **Opt out**
 
-Users may opt out of receiving communications from us by following directions in our e-mail to “unsubscribe” from our mailing list, or by sending an e-mail request to [ support@irokotv.com ](mailto:support@irokotv.com) . Users also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Site may not work properly in your case. You may opt out of interest based advertising from third party advertising agencies here [ http://www.networkadvertising.org/optout_nonppii.asp ](http://www.networkadvertising.org/optout_nonppii.asp) . 
+Users may opt out of receiving communications from us by following directions in our e-mail to “unsubscribe” from our mailing list, or by sending an e-mail request to [ support@irokotv.com ](mailto:support@irokotv.com) or calling us on +234-800-333-0000. Users also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Site may not work properly in your case. You may opt out of interest based advertising from third party advertising agencies here [ http://www.networkadvertising.org/optout_nonppii.asp ](http://www.networkadvertising.org/optout_nonppii.asp) . 
 
   7. **Other websites and links**
 
@@ -78,7 +82,10 @@ We may make changes to this Privacy Policy from time to time, and for any reason
 
   13. **Contact Us**
 
-If you have any questions concerning this Privacy Policy please contact us at [ support@irokotv.com ](mailto:support@irokotv.com). 
+If you have any questions concerning this Privacy Policy please contact us at [support@irokotv.com](mailto:support@irokotv.com) or on +234-800-333-0000.  
+iROKO Partners Limited  
+Unit 66, 272 Kensington High St  
+Kensington and Chelsea, London W8 6ND, United Kingdom 
 
 
 
