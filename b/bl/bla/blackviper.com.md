@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215032730id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201014055id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
 
-# » Legal
+# Legal » Black Viper | www.blackviper.com
 
 ## Introduction
 
@@ -12,7 +12,7 @@ What you will find here is plain, easy to understand English. At least, I hope t
 
 By using this site for whatever purpose you intended, you agree to abide by the rules set forth on this page.
 
-If you do not agree, [please leave](http://www.google.com/) and do not access my domain again.
+If you do not agree, [please leave](https://www.google.com/?gws_rd=ssl) and do not access my domain again.
 
 ## Network
 
@@ -22,10 +22,10 @@ At my discretion, I reserve the right to allow and disallow IP addresses and cli
 
 Whatever information I place here is on my spare time, drafted by me and offered free of charge to the end user (you). As a result, I will not authorize anyone to make money off the information contained on my sites by redistribution. This includes reposting any of my content, including images, on an “ad supported domain”, blog, forum or wiki.
 
-All content, including pictures, screen shots and images on www.blackviper.com are Copyright © 1999-2012 by Charles “Black Viper” Sparks.  
+All content, including pictures, screen shots and images on www.blackviper.com are Copyright © 1999-2014 by Charles “Black Viper” Sparks.  
 All Rights Reserved.
 
-Content taken in context from Windows® Operating systems, such as “Default Service Descriptions,” are Copyright © 2012 Microsoft®.
+Content taken in context from Windows® Operating systems, such as “Default Service Descriptions,” are Copyright © 2014 Microsoft®.
 
 ## Fair Use and Permissions
 
