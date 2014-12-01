@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiumone.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234741id_/http%3A//radiumone.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiumone.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201010023id_/http%3A//www.radiumone.com/legal/privacy.html) for the most accurate reproduction.*
 
 # RadiumOne – Enterprise Advertising Platform – We Know Your Next Customer
 
@@ -24,7 +24,7 @@ If you prefer not to have RadiumOne tailor online advertising to your interests,
 
 [](http://rs.gwallet.com/r1/optout?optout&ra1 "Opt Out")
 
-  * RadiumOne is a member of the Network Advertising Initiative (NAI). If you would like to opt-out of RadiumOne together with other NAI members using the NAI's opt-out tool, you can do so by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).
+  * RadiumOne is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Code of Conduct. If you would like to opt-out of RadiumOne together with other NAI members using the NAI's opt-out tool, you can do so by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).
   * RadiumOne is also a member of PrivacyChoice, which offers an opt-out wizard covering numerous advertising technology companies. Please click [here](http://www.privacychoice.org/) for more information.
 
 
@@ -85,7 +85,7 @@ RadiumOne reserves the right to periodically update or modify this Privacy Polic
 
 ### Effective Date
 
-The privacy policy was last revised on June 23, 2014.
+The privacy policy was last revised on July 2, 2014.
 
 ### Comments & Complaints
 
