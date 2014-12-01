@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbreak.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617175050id_/http%3A//www.sportsbreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbreak.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201183634id_/http%3A//www.sportsbreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SportsBreak
 
