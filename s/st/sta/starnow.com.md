@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624102346id_/http%3A//www.starnow.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201230337id_/http%3A//www.starnow.com/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | StarNow
 
@@ -22,7 +22,7 @@ Find out more about our [cookie policy](https://web.archive.org/help/CookiePolic
 
 ### Third Party Services
 
-StarNow may contain links to other websites ("Third Party Services") and may post your information on other websites (including, but not limited to, Facebook, Twitter and YouTube). If you choose to use a Third Party Service they may use and share your data in accordance with their privacy policy and your privacy settings on that service. You should always review the policies of Third Party Services and websites to make sure you are comfortable with the ways in which they use information you share with them.
+StarNow may contain links to other websites ("Third Party Services") and may post your information on other websites (including, but not limited to, Facebook, Twitter and YouTube). If you choose to use a Third Party Service they may use and share your data in accordance with their privacy policy and your privacy settings on that service. You should always review the policies of Third Party Services and websites to make sure you are comfortable with the ways in which they use information you share with them. StarNow may use third party providers to provide certain services to you in connection with your membership on StarNow. StarNow may disclose personally identifiable information to these third party service providers for the sole purpose of the provision of services to you.
 
 ### Applying for roles
 
