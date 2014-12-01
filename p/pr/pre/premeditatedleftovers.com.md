@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premeditatedleftovers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064246id_/http%3A//premeditatedleftovers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premeditatedleftovers.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201180320id_/http%3A//premeditatedleftovers.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Premeditated Leftovers
 
@@ -20,9 +20,9 @@ How we use collected information
 
 Premeditated Leftovers may collect and use Users personal information for the following purposes:
 
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 How we protect your information
