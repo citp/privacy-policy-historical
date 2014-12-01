@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210054708id_/http%3A//gobingoo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201182442id_/http%3A//lbclassifieds.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Listbingo
 
@@ -73,7 +73,7 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.gobingoo.com/terms-of-use](http://gobingoo.com/privacy-policy.html?id=6)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://lbclassifieds.com/terms-of-use.html](http://lbclassifieds.com/privacy-policy.html?id=6)
 
 #### Your Consent
 
@@ -87,5 +87,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.gobingoo.com  
-email: [privacy@gobingoo.com](mailto:privacy@gobingoo.com)
+http://www.lbclassifieds.com  
+email: [info@lbclassifieds.com](mailto:info@lbclassifieds.com)
