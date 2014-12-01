@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osnn.net privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610060916id_/http%3A//www.osnn.net/news-information/2399-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osnn.net privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201114740id_/http%3A//www.osnn.net/news-information/2399-privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
