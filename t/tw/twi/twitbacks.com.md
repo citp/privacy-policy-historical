@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitbacks.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501222842id_/http%3A//www.twitbacks.com/twitbacks-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitbacks.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201111758id_/http%3A//www.twitbacks.com/twitbacks-privacy.php) for the most accurate reproduction.*
 
 # Twitter Backgrounds Privacy Policy
 
