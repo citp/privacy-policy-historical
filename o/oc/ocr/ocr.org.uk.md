@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055017id_/http%3A//www.ocr.org.uk/about-us/our-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201033645id_/http%3A//www.ocr.org.uk/about-us/our-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy policy - OCR
 
@@ -15,6 +15,11 @@ The personal data we collect is used to process your request for our services, t
 ### Disclosure of information to third parties
 
 Oxford Cambridge and RSA Examinations is associated with the University of Cambridge (formerly known as The Chancellor, Masters and Scholars of the University of Cambridge). When submitting personal data to OCR you agree that we may disclose such data to the University of Cambridge, and that the University of Cambridge may store this information and may contact you to inform you of other information, products or services that may be of interest to you. If you do not wish to receive such information you may contact us at any time at the address below. We will not disclose your personal data to any other person or organisation unless we are legally required to do so.
+
+OCR   
+9 Hills Road   
+Cambridge   
+CB1 2EU
 
 ### Cookies
 
