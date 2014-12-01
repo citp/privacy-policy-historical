@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energy.com.au privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528143124id_/https%3A//www.ausgrid.com.au/Common/About-us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energy.com.au privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201024307id_/http%3A//www.ausgrid.com.au/Common/About-us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Ausgrid
 
@@ -18,14 +18,11 @@ Ausgrid is bound by the Australian Privacy Principles (APPs). The APPs are set o
 6     How can you complain about a breach of your privacy and how will we handle that complaint?   
 7     Questions or comments about this privacy policy   
 8     Changes to this privacy policy   
-**   
+**
 
+#### 1     What personal information do we collect and hold? 
 
-#### 1     What personal information do we collect and hold?   
-
-
-### 1.1 Personal details   
-
+### 1.1 Personal details 
 
 We collect and hold a range of personal information that is reasonably necessary for the purpose of supplying customers with our services and products. The kinds of personal information we collect for this purpose may include your name, contact information (including your address and telephone numbers) and your particular requirements for our services and products. 
 
@@ -36,14 +33,11 @@ We do all that we reasonably can so that the information we hold is accurate, up
 
 Generally, it is necessary for us to collect your personal details so that we can provide you with our services or products. However, if it is practicable and lawful for us to do so, we will give you the option of dealing with us anonymously or through the use of a pseudonym. 
 
-### 1.2 Metering data   
+### 1.2 Metering data 
 
+We collect metering data about the premises connected to our electricity network. Metering data is collected via the meter at your home or business premises, to record your electricity use. Metering data information is handled in accordance with the National Electricity Rules and the Market Operations Rules where they apply, as well as in accordance with the Privacy Act. 
 
-We collect metering data about the premises connected to our electricity network. Metering data is collected via the meter at your home or business premises, to record your electricity use. Metering data information is handled in accordance with the National Electricity Rules and the Market Operations Rules where they apply, as well as in accordance with the Privacy Act.   
-
-
-### 1.3 Projects and customer surveys   
-
+### 1.3 Projects and customer surveys 
 
 As part of our commitment to develop new products and services to meet the needs of our customers, we may undertake projects and pilot studies relating to energy efficiency, demand management and/or smart electricity grid activities. From time to time we may also undertake customer surveys to collect statistics about our customers for research and product development purposes. 
 
@@ -51,27 +45,21 @@ As part of our commitment to develop new products and services to meet the needs
 
 Generally, we will not collect sensitive information about you, such as details of your race, political beliefs, religion or health. We may, however, collect some health information in certain circumstances. For instance, we may need to collect your health information if you use particular health-related appliances in your household. We will only collect and use health information for these purposes where you have provided your consent. 
 
-### 1.5 Non-customer information   
+### 1.5 Non-customer information 
 
+We may also collect information about other members of a household in which a customer resides, such as whether they consent to the use of particular services in the home. Sometimes, we also need to collect personal information about individuals who are not customers. This need will usually arise where we collect the name and business contact details of a person who is the contact in the company or a government agency with which we deal. Our policy is to use personal information collected from non-customers only as permitted under the Privacy Act. 
 
-We may also collect information about other members of a household in which a customer resides, such as whether they consent to the use of particular services in the home. Sometimes, we also need to collect personal information about individuals who are not customers. This need will usually arise where we collect the name and business contact details of a person who is the contact in the company or a government agency with which we deal. Our policy is to use personal information collected from non-customers only as permitted under the Privacy Act.   
+### 1.6 Credit information 
 
+Occasionally, we also collect, use and disclose personal credit information about our customers. For more information about how we handle this information, please [click here](https://web.archive.org/Common/About-us/Corporate-information/Credit-information.aspx). 
 
-### 1.6 Credit information   
+#### 2     How do we collect and hold your personal information? 
 
-
-Occasionally, we also collect, use and disclose personal credit information about our customers. For more information about how we handle this information, please [click here](https://web.archive.org/Common/About-us/Credit-information.aspx). 
-
-#### 2     How do we collect and hold your personal information?   
-
-
-### 2.1 Direct collection of personal information   
-
+### 2.1 Direct collection of personal information 
 
 We generally collect your personal information directly from you. For example, we may collect personal information about you when you deal with us over the telephone, send us correspondence (whether by letter, fax or email), when you have contact with us in person or when you complete a form on our website. If we do not obtain the information requested, we may not be able to provide you with the products or services requested or fulfil another applicable purpose of collection. 
 
-### 2.2 Indirect collection of personal information   
-
+### 2.2 Indirect collection of personal information 
 
 There may be occasions when we need to obtain personal information about you from a third party. For example, we collect personal information from your energy retailer regarding your energy supply arrangement. If you work for one of our service providers or business customers or other organisations with which we do business, we may need to obtain your contact details from them. In some circumstances also, we may need to obtain information relating to you from a credit reporting agency, or from a publicly maintained record. If we collect personal information about you in these ways, we will take reasonable steps to make you aware of the relevant matters set out in this policy. Finally, where a third party provides us with information we have not asked for, we will destroy or de-identify the information unless we would have been entitled to collect it under the APPs. 
 
@@ -95,16 +83,13 @@ We take reasonable steps to destroy or de-identify personal information that we 
 
 #### 3     For what purposes do we collect, hold, use and disclose personal information?
 
-As mentioned at paragraph 1.1 above, we collect, hold, use and disclose personal information for the purpose of providing you with services and products, or with other information you have requested, and for purposes related or ancillary to this. To carry out those purposes, we may need to use and disclose personal information to establish and maintain any necessary accounts or records, credit checks, invoicing and billing systems, debt recovery and market research, and to develop new and better services. We will use your personal information only for the purpose for which it was collected, unless we have your consent or the different use is permitted under the APPs.   
-
+As mentioned at paragraph 1.1 above, we collect, hold, use and disclose personal information for the purpose of providing you with services and products, or with other information you have requested, and for purposes related or ancillary to this. To carry out those purposes, we may need to use and disclose personal information to establish and maintain any necessary accounts or records, credit checks, invoicing and billing systems, debt recovery and market research, and to develop new and better services. We will use your personal information only for the purpose for which it was collected, unless we have your consent or the different use is permitted under the APPs. 
 
 ### 3.1 Direct marketing
 
-We may also collect, hold, use and disclose personal information for the purpose of telling you from time to time about our services, products or promotions. If at any time you no longer wish to be told about our new services, products or promotions, please contact us on 13 15 35 or via email [enquiries@ausgrid.com.au](mailto:enquiries@ausgrid.com.au)   
+We may also collect, hold, use and disclose personal information for the purpose of telling you from time to time about our services, products or promotions. If at any time you no longer wish to be told about our new services, products or promotions, please contact us on 13 15 35 or via email [enquiries@ausgrid.com.au](mailto:enquiries@ausgrid.com.au)
 
-
-### 3.2 Will we give your personal information to anyone else?   
-
+### 3.2 Will we give your personal information to anyone else? 
 
 We do not sell personal information to third parties. However, in the circumstances described below, we may disclose your personal information to other people or entities. We may make additional disclosures where you provide consent or where such disclosures are otherwise permitted under the Privacy Act. 
 
@@ -122,8 +107,7 @@ We may disclose personal information to third parties (such as government agenci
 (c) Disclosures required by law   
 For legal reasons, and in special circumstances, we may need to make disclosures of your personal information. This may occur where we are directed to do so under arrangements in place to make sure that you continue to receive electricity supply in the event of retailer failure. We may also be required to disclose your personal information to law enforcement agencies, government agencies, courts or external advisors. For example, we may be asked to disclose certain personal information about an individual to assist the police with an investigation into criminal activities. Our policy is to make such disclosures only in accordance with the Privacy Act. We may also be required to disclose certain information under the energy industry laws and rules. We are also subject to the Government Information (Public Access) Act 2009 (NSW) (GIPA Act), which requires us to make government information publicly available in response to a request unless there is an overriding public interest against disclosure of the information. If a person makes an application for access to information that relates to you, we will consult you and give you the opportunity to object to the release of the information. For more information on how we comply with the GIPA Act, please go to <http://www.ausgrid.com.au/Common/About-us/Your-Right-to-Information.aspx>
 
-#### 4     Do we disclose personal information to entities located overseas?   
-
+#### 4     Do we disclose personal information to entities located overseas? 
 
 We may disclose personal information to service providers or research organisations located outside of Australia. For instance, we may engage third party data storage providers located overseas to store and secure our data, including our customer information. We may also disclose your personal information (such as your credit card details) outside Australia if you use a payment method (including a credit card issued overseas), which requires us to communicate information about you internationally (for example, to your bank if it is outside Australia). 
 
@@ -131,15 +115,14 @@ We may disclose personal information to service providers or research organisati
 
 Under the Privacy Act, you have a right to seek access to personal information which we hold about you. You also have the right to ask us to correct information about you which is inaccurate, incomplete, out of date, irrelevant or misleading. 
 
-If you wish to access the personal information that we hold about you, please contact our **Privacy Officer on 13 15 35** or via email [privacy@ausgrid.com.au](mailto:privacy@ausgrid.com.au) so we can explain how we will handle your access request. Once we have verified your identity, we would generally provide you with a summary of the information held about you. We would assume (unless you told us otherwise) that your request related to our current records about you. Those current records would include personal information about you which was included in our databases and in paper files, and which might be used by us on a day to day basis. 
+If you wish to access the personal information that we hold about you, please contact our **Privacy Officer on 13 13 65** or via email [privacy@ausgrid.com.au](mailto:privacy@ausgrid.com.au) so we can explain how we will handle your access request. Once we have verified your identity, we would generally provide you with a summary of the information held about you. We would assume (unless you told us otherwise) that your request related to our current records about you. Those current records would include personal information about you which was included in our databases and in paper files, and which might be used by us on a day to day basis. 
 
 To provide you with access to this personal information, we would ordinarily provide you with a print-out of the relevant personal information from our databases, or with photocopies of records which were held only on paper files. Ordinarily, we would not charge you for the cost of providing this type of access to these records. 
 
 For legal and administrative reasons, we may also store records containing personal information in our archives. You may seek access to our non-current records, but if you do so, we may charge you for the cost of providing the access.   
 If you believe that personal information about you is inaccurate, incomplete, out of date, irrelevant or misleading, please provide us with your request for correction (contact details are set out in Section 7). Our policy is to consider any requests for correction in a timely way. If we refused to provide you with access to the information, we would provide you with reasons for the refusal and inform you of any exceptions relied upon under the Privacy Act (unless it is not reasonable in the circumstances for us to do so). 
 
-#### 6     How can you complain about a breach of your privacy and how will we handle your complaint?   
-
+#### 6     How can you complain about a breach of your privacy and how will we handle your complaint? 
 
 If you wish to complain about our handling of your personal information, in the first instance please email our Privacy Officer [privacy@ausgrid.com.au](mailto:privacy@ausgrid.com.au) or phone us on **13 15 35**. We will make every effort to investigate and respond to your complaint in a timely way (generally within 30 days of our receipt of the complaint). 
 
@@ -148,12 +131,10 @@ If you are dissatisfied with the outcome of our investigation, you may take your
 For information on making a complaint to the OAIC, please visit the OAIC’s website <http://www.oaic.gov.au/privacy/making-a-privacy-complaint>, or phone **1300 363 992**.   
  
 
-#### 7     Questions or comments about this privacy policy   
+#### 7     Questions or comments about this privacy policy 
 
-
-If you have any questions or comments about this privacy policy, please contact us by email [privacy@ausgrid.com.au](mailto:privacy@ausgrid.com.au) or phone us on **13 15 35**. 
+If you have any questions or comments about this privacy policy, please contact us by email [privacy@ausgrid.com.au](mailto:privacy@ausgrid.com.au) or phone us on **13 13 65**. 
 
 #### 8     Changes to this Privacy Policy 
 
-This privacy policy may change. Changes to the policy will be reflected in the privacy policy on our website from time to time. This policy was last updated in February 2014.   
-
+This privacy policy may change. Changes to the policy will be reflected in the privacy policy on our website from time to time. This policy was last updated in February 2014. 
