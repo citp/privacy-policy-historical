@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harley-davidson.asia privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529093620id_/http%3A//www.harley-davidson.com/content/h-d/en_AP/footer/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harley-davidson.asia privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201101607id_/http%3A//www.harley-davidson.com/content/h-d/en_AP/footer/utility/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Harley-Davidson International
 
@@ -26,7 +26,8 @@ We recognize the importance of protecting the privacy of children. For this reas
 **Collection of information by third parties**  
 Our Web pages may offer promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain Customer Identifiable Information that visitors voluntarily submit to participate in the activity. We have no control over these parties' use of this information and we encourage you to consult their privacy policies for more information on their privacy practices.  
 **How to contact us**  
-If you have questions about our Privacy Policy or its application, please write to us at Harley-Davidson, Inc., 3700 West Juneau Avenue, Milwaukee, Wisconsin 53208 USA, Attention: eMarketing Dept., [_hdonline@harley-davidson.com_](mailto:hdonline@harley-davidson.com).  
+If you have questions about our Privacy Policy or its application, please write to us at Harley-Davidson, Inc., 3700 West Juneau Avenue, Milwaukee, Wisconsin 53208 USA,  
+or Attention: Chief Privacy Officer, Lim Cheng Huang via _[H-DOnlineAP@harley-davidson.com](mailto:h-donlineAP@harley-davidson.com)_.  
 **Links**  
 To improve your Web experience, and to offer you products in which you might be interested, we provide links to business alliance companies, Harley-Davidson/Buell dealers, and other third-party sites. When you click on one of these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that you selected. Because Harley-Davidson/Buell does not control these sites, even if an affiliation exists between our Web site and a third party site, you are encouraged to review their individual privacy notices. If you visit a site that is linked to our site, you should consult that site's privacy policy before providing any Customer Identifiable Information.  
 **Changes in practices**  
