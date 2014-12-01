@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the dirtstyle.tv privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307213534id_/http%3A//dirtstyle.tv/page/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtstyle.tv privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201085129id_/http%3A//dirtstyle.tv/page/2/privacy) for the most accurate reproduction.*
 
-# DirtStyle.tv - Privacy Policy
+# Privacy Policy - DSTV
 
 **Privacy Policy**
 
- **Personal Information:  
-**  
- **Browsing DirtStyle.tv:** You can watch videos on DirtStyle.tv without having a personal account. You also can contact us through the DirtStyle.tv Help Center or by emailing us directly without having to register for an account.
+ **Personal Information:**
 
  **Your DirtStyle.tv Account:** For some activities on DirtStyle.tv, like uploading videos, posting comments, flagging videos, or watching restricted videos, you need a DirtStyle.tv account. We ask for some personal information when you create an account, including your email address and a password, which is used to protect your account from unauthorized access.
 
@@ -14,8 +12,7 @@
 
 In order to ensure the quality of our service to you, we may place a tag (also called a "web beacon") in HTML-based customer support emails or other communications with you in order to confirm delivery.
 
- **Content Uploaded to Site:** Any personal information or video content that you voluntarily disclose online (e.g., video comments, your profile page) may be collected and used by others. If you download the DirtStyle.tv Uploader, your copy includes a unique application number. This number, and information about your installation of the Uploader (version number, language) will be sent to DirtStyle.tv when the Uploader automatically checks for updates and will be used to update your version of the Uploader.
-
+  
  **Uses:**
 
 If you submit personal information to DirtStyle.tv, we may use that information to operate, maintain, and improve the features and functionality of DirtStyle.tv, and to process any flagging activity or other communication you send to us.
