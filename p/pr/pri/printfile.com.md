@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100930id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201141700id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Print File | Archival Supplies | Photo Storage Products - Privacy Policy
 
-[](https://web.archive.org/web/20140626100930id_/http%3A//www.printfile.com/index.aspx)  
+[](https://web.archive.org/web/20141201141700id_/http%3A//www.printfile.com/index.aspx)  
   
 ---  
 | 
 
-[ ](https://web.archive.org/web/20140626100930id_/index.asp?PageAction=CONTACTUS) 
+[ ](https://web.archive.org/web/20141201141700id_/index.asp?PageAction=CONTACTUS) 
 
-|  |  [  
-](https://www.mcafeesecure.com/RatingVerify?ref=www.printfile.com)  
----|---  
-  
+| 
+
 [Home](https://web.archive.org/) > Privacy Policy
 
 | | |   
@@ -60,11 +58,11 @@ Back to top
 Receive our latest   
 news and offers by email.
 
-[](http://app.streamsend.com/public/4RFN/p5M/subscribe)  
+[](http://eepurl.com/4LLuD)  
   
 ---  
   
 Click to explore our  
 Electronic Catalog
 
-[](http://digital.turn-page.com/t/10424 "Open This Issue For Reading")
+[](http://digital.turn-page.com/t/10424)
