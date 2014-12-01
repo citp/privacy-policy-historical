@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the zapinspace.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208044933id_/http%3A//www.zapinspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapinspace.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201074115id_/http%3A//www.zapcomic.com/privacy-policy) for the most accurate reproduction.*
 
-# Z A P ! Online Comic
+# PRIVACY POLICY | Zap! Online Comic
 
-###  We won't sell your information. No, really. 
+## [PRIVACY POLICY](http://www.zapcomic.com/privacy-policy/)
+
+### We won’t sell your information. No, really.
 
 ## Information that is gathered from visitors
 
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
 
 Cookies may be used to remember visitor preferences when interacting with the website.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+Where registration is required, the visitor’s email and a username will be stored on the server.
 
 ## How the Information is used
 
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+The information is used to enhance the vistor’s experience when using the website to display personalised content and possibly advertising.
 
 E-mail addresses will not be sold, rented or leased to 3rd parties.
 
@@ -36,12 +38,8 @@ Cookies are small digital signature files that are stored by your web browser th
 
 Google, as a third party vendor, uses cookies to serve ads.
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-### We value you as a reader. We'll keep your information private.   
-  
----  
-  
-
+### We value you as a reader. We’ll keep your information private.
