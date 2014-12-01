@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biopharminternational.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611005607id_/http%3A//www.biopharminternational.com/biopharm/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biopharminternational.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201125720id_/http%3A//www.biopharminternational.com/biopharm/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - BioPharm International
 
