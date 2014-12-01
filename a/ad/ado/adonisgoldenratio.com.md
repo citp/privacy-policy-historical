@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonisgoldenratio.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608031523id_/http%3A//www.adonisgoldenratio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonisgoldenratio.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201104137id_/http%3A//www.adonisgoldenratio.com/privacy) for the most accurate reproduction.*
 
 # Adonis Golden Ratio
 
@@ -14,15 +14,11 @@ The information collection, use, and dissemination practices of Adonis Golden Ra
 
 Adonis Golden Ratio collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes a Adonis Golden Ratio survey, order form, or a registration pages either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a "Survey"). (As used herein, "online" means using the Internet, including the Websites, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, Adonis Golden Ratio or a third party (a "Third Party") may ask an individual to provide various information to Adonis Golden Ratio , which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). Adonis Golden Ratio may also collect information concerning an individual from another source and uses that information in combination with information provided from this web site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to Adonis Golden Ratio or Third Party, but an individual may receive incentives from Adonis Golden Ratio or a Third Party in exchange for providing Survey Information to Adonis Golden Ratio.
 
-### 1.2 Third Party List Information.
-
-Adonis Golden Ratio collects information from individuals when an individual provides information to a third party and Adonis Golden Ratio subsequently purchases, licenses, or otherwise acquires the information from the third party (the "Seller"). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, credit card information, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, Adonis Golden Ratio seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to Adonis Golden Ratio and that the Seller has a right to provide offers from advertisers to the individuals whose personal information is included on the Seller's list.
-
-### 1.3 Other Information.
+### 1.2 Other Information.
 
 Other occasions when Adonis Golden Ratio obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by Adonis Golden Ratio or by a third party, (2) when an individual requests assistance through Adonis Golden Ratio's customer service department, and (3) when an individual voluntarily subscribes to a Adonis Golden Ratio service or newsletter (together, "Other Information").
 
-### 1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.
+### 1.3 Cookies, Web Beacons, and Other Info Collected Using Technology.
 
 Adonis Golden Ratio currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, Adonis Golden Ratio may use other new and evolving sources of information in the future (together, "Technology Information").
 
@@ -38,19 +34,19 @@ A web beacon is programming code that can be used to display an image on a web p
 
 The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is Adonis Golden Ratio's use of new and evolving technology. As a result, Adonis Golden Ratio strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
 
-### 1.5 Outside Information.
+### 1.4 Outside Information.
 
 Adonis Golden Ratio may receive information about individuals from third parties or from other sources of information outside of Adonis Golden Ratio including information located in public databases ("Outside Information").
 
-### 1.6 Individual Information.
+### 1.5 Individual Information.
 
 As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information Adonis Golden Ratio gathers or receives about individuals.
 
-### 1.7 No Information Collected from Children.
+### 1.6 No Information Collected from Children.
 
 Adonis Golden Ratio will never knowingly collect any personal information about children under the age of 13. If Adonis Golden Ratio obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, Adonis Golden Ratio has no such information to use or to disclose to third parties. Adonis Golden Ratio has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
 
-### 1.8 Credit Card Information.
+### 1.7 Credit Card Information.
 
 Adonis Golden Ratio may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Adonis Golden Ratio. When the Credit Card Information is submitted to Adonis Golden Ratio, such information is encrypted and is protected with SSL encryption software. Adonis Golden Ratio will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction.
 
