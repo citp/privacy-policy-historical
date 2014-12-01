@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ussearch.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625080622id_/http%3A//ussearch.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ussearch.com privacy policy that was archived on 2014-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201090637id_/http%3A//ussearch.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
             <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6QB3G"></script><script src="//cdn.optimizely.com/js/1000201234.js"></script>
@@ -77,7 +77,7 @@
 
       var partner = JSON.parse(rawPartner);
 
-      partner.abTestCaseId = 756;
+      partner.abTestCaseId = 816;
       partner.hasVisitedAbTestCase = false;
 
       dataLayer.push(partner);
@@ -95,16 +95,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div id="uss-wrapper" class="uss-clearfix ">
                      <div id="uss-header" class="uss-clearfix">
                <div class="uss-nav-header">
-                  <a href="/"><img src="/bundles/ussearchsite/images/nav/uss_logo_main_165x55.gif" border="0" height="55" width="165" alt="US Search - Be Informed" title="US Search - Be Informed" class="uss-nav-logo"></a>
+                  <a href="/"><img src="/bundles/ussearchsite/images/nav/uss_header_logo.png" border="0" height="55" width="169" alt="US Search - for PEOPLEDATA" title="US Search - for PEOPLEDATA" class="uss-nav-logo"></a>
                                              <div class="uss-login uss-account-navigation">
          <div class="uss-account-control-sub">
                         <a class="uss-a-login" rel="nofollow" href="/signin">Sign In</a></div>
 
+         
          <div class="uss-cs-phone-number"><span class="left-text">Need Help?</span> <span class="right-text">Call (800) 877-3272</span></div>
          <div class="uss-cs-header-info">
             <span class="uss-cs-phone-time">M-F, 5AM - 6PM PST, S-S 6am - 4pm PST</span>
          </div>
-      </div>
+</div>
+
                                                          
       <div id="uss-navigation">
          <ul class="uss-home-active">
@@ -179,7 +181,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    </div>
 
    <div class="uss-main-content-column" id="uss-privacy">
-      <h2><a name="top"></a>Our Approach to Privacy<br><span>Updated: Apr 02, 2014</span></h2>
+
+   	   		      <h2 class="heading-primary text-center"><a name="top"></a>Our Approach to Privacy<br><span class="heading-secondary">Updated: Apr 02, 2014</span></h2>
 
       <p>US Search, owned and operated by inome, inc. has been a leading online people search service provider for more than a decade. We provide this privacy statement so we may inform you about our company privacy practices, including 1) our practices as they pertain to our corporate website located at www.USSearch.com ("Website"), and 2) our practices that apply when you purchase one of our products or services.</p>
 
@@ -289,7 +292,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </li>
       </ol>
 
-      <p><img class="uss-link-icon" src="/bundles/ussearchsite/images/aboutus/images/grey_up_arrow_in_box_15x16.gif" width="15" height="16" alt="Back to Top"><a class="uss-link-anchor" href="#top">Back to Top</a></p>
+   	   	
+   <p><img class="uss-link-icon" src="/bundles/ussearchsite/images/aboutus/images/grey_up_arrow_in_box_15x16.gif" width="15" height="16" alt="Back to Top"><a class="uss-link-anchor" href="#top">Back to Top</a></p>
 
    </div><!-- end column1 -->
 
@@ -333,9 +337,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <script type="text/javascript">
    if (!/jsEnabled=/.exec(document.cookie)) {
       document.cookie = "jsEnabled=1";
-      $.get('/jsenabled');
+      document.write('<iframe height="0" frameborder="0" scrolling="no" src="/jsenabled"></iframe>');
+   } else {
+      document.write('<noscript><iframe height="0" frameborder="0" scrolling="no" src="/jsenabled?javascript=false"></iframe></noscript>');
    }
-</script>      
+</script><iframe height="0" frameborder="0" scrolling="no" src="/jsenabled"></iframe>
+      
                <!-- prod -->
       
    
