@@ -1,81 +1,109 @@
-> *The following text is extracted and transformed from the visionworkseyewear.com privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723011406id_/http%3A//www.visionworks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionworkseyewear.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201215931id_/http%3A//www.visionworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Visionworks | Privacy Policy
+# Online Privacy Policy | Visionworks
 
-_(Updated October 16, 2007)_
+  * [Home](https://web.archive.org/) ›
+  * Privacy Policy
 
-Online Privacy Policy  | [HIPAA](https://web.archive.org/privacypolicy/hipaa.php "HIPAA")
 
-At Eye Care Centers of America, Inc., we value and protect our customers' privacy. This Online Privacy Policy describes the types of information we collect from users of our websites ("Users") and explains what we do with that information. As used herein, "Users" includes you, and refers to any individual who visits our websites or provides any personal information via our websites, through registration or otherwise.
 
-This Online Privacy Policy is applicable to the websites of Eye Care Centers of America, Inc. and its affiliates, including ecca.com, eyemasters.com, visionworks.com, steinoptical.com, visionworld.com, chicago-visionworks.com, eyedrx.com, houreyes.com, doctorsvaluvision.com, drbizersvisionworld.com, and drbizersvaluvision.com (the "Websites").
+(Updated June 26, 2014)
 
-### What Information We Obtain
+At Visionworks of America, Inc. (“Visionworks”) is committed to respecting the privacy rights and concerns of all users of this website (the “Site”) (we refer to the Site and the services made available through the Site collectively as the “Site Features”). As such, we have established this Privacy Policy so that you can know our practices regarding the collection and use of information about visitors to the Site. The Site is intended to provide information and a number of different services to assist you in evaluating and shopping for various products sold by Visionworks.
 
-For each User, we may receive information concerning the usage of our Websites by that User including the User's IP address, information concerning the User's browser and/or operating systems, and other access-related information. In addition, we (or a third party acting on our behalf) may collect or use "cookies", "log files", or other tools, which are addressed below under the heading Use of Cookies and Similar Tools.
+We use information that we collect from you to efficiently provide the Site Features. By visiting the Site or using any of the Site Features, your consent to Visionworks’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. This Privacy Policy is only applicable to the Site and not to any other website that you may be able to access from the Site which may have its own data collection and use practices and policies.
 
-We also collect information provided by Users in connection with online inquiries and transactions involving our goods and services, as well as the information provided by Users when Users register on one of the Websites.
+  1. ## Information We Collect
 
-The information that we collect may include personally identifiable information (such as the User's name and address) as well as other information that Users may provide (such as the User's gender and age range). We also maintain the identification number or password selected or assigned to a User when a User register on one of our Websites. You should be sure to keep any such identification numbers and password information confidential, and to let us know right away (using any of the contact methods below) if you believe that someone else may have learned your identification number or password.
+Visionworks does not collect personal information unless you voluntarily provide it to us. We do, however, collect certain types of information and ask for personal information in certain circumstances, such as when you set up a User Account, use the Frame Finder™ service, request custom alerts and notifications regarding particular products and product categories, indicate your favorite products, and search for products on the Site. The following sections describe the type of information we collect and how we collect it.
 
-### How We Use the Information We Obtain and How You Can Control Such Use
+    1. ### Information You Give Us
 
-We use the information that we collect online to maintain and improve our products and services, and to enhance our Websites as well as our email and other marketing activities. 
+All users may visit the public areas of the Site without disclosing any personal information about themselves.However, in order to use certain Site Features, you may be asked for, or you may choose to provide, certain personally identifiable information (“PII”), such as your name, email address, mailing address, phone number and similar information. We will not collect PII from you while you use the Site Features unless you voluntarily provide it to us or authorize us to collect such information. When you complete a registration form to create a User Account, we require you to provide us with relevant PII.
 
-The information that Users provide to us may be combined with other information (such as demographic information and transaction history) available from our records and other sources, in order to make our future marketing efforts more efficient. 
+    2. ### Cookies.
 
-We may send emails or regular mail to a User in connection with the User's transaction or business relationship with us. If the User signs up on our online registration page, we may send email to the User concerning special offers, promotions, and eye exam and contact lens replenishment reminders consistent with any email preferences selected by the User on the registration page. A User may also provide his or her address information for inclusion on our email or regular mail lists in person at one of our stores. If the User does not wish to receive special offers or promotional mailings, the User may be removed from our email or regular mail lists through the use of any of the Contact/Opt-Out Methods listed below.
+Like many websites, we employ the use of “cookies” in certain areas of our Site to allow us to provide information that is targeted to your interests and make your online experience more convenient (for instance, by reducing the number of times you have to re-enter your password). Cookies are small bits of electronic information that a website sends to a visitor’s browser and are stored on your hard drive. We may use cookies or similar tools to learn about your preferences and Internet session information, to record information including your likely state of residence, the web pages that you access and for how long, whether you return to the Site, and whether a particular email is opened. We do not receive or record any personal information in the cookies we use and are never tied to anything that could be used to identify you. We may encode our cookies so that only we can interpret the information stored in them. Although most web browsers automatically accept cookies, you may choose to change your browser to block cookies that or to notify you when you are sent a cookie. Most cookies are “session cookies,” meaning that they are automatically deleted at the end of a session and you are always free to decline our cookies if your browser permits. You can still use the Site if your browser is set to reject cookies.
 
-We or one of our affiliated service providers may contact a User by phone, email, or regular mail in connection with the provision of goods or services to the User or in response to an inquiry from the User.
+    3. ### Log Information.
 
-Some of the information we collect may be shared with other reputable marketers to bring the User offers of interest, and, if personally identifiable information is collected in connection with a joint promotion, it may be provided to that joint promoter for marketing and research purposes. If the User prefers that we do not share their name and address with other reputable marketers, Users may contact us at any of the Contact/Opt-Out Methods listed below and request that their name be marked as "do not share." 
+Our servers automatically track certain information about you as you use our Site. This information may include the URL that you just came from, which URL you go to next, what browser you are using, and your IP address. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our Site. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but the statistics contain no personal information and cannot be used to gather such information.
 
-We may provide personally identifiable or other information, with or without notice to the User, in response to a lawful request from a law enforcement or government agency or in response to a formal request in a civil action. In addition, we may provide personally identifiable information, with or without notice to the User, to credit bureaus or collection agencies if we are permitted or required to do so by law. In the event of a merger or acquisition of Eye Care Centers of America, Inc., the sale of substantially all of its assets related to the operation of any of the Websites, or other change of corporate control, information collected by us may be transferred to or controlled by a present or future controlling corporation or by a surviving or successor entity. 
+    4. ### Favorites and Custom Alerts.
 
-In other respects, we do not disclose personally identifiable information to third parties, except when such disclosure is necessary for particular third party service providers to perform services for us or to provide goods or services to Users, or for other purposes as permitted or required by law. We require our third party service providers to confirm that their privacy practices are consistent with our privacy practices.
+You may choose to submit information pertaining to your areas of interest, including the designation of certain categories of content as “favorites” or the like. Similarly, you may choose to sign-up for customized alerts and notifications pertaining to certain products or product categories featured on the Site. This information is used to personalize the Site Features and tailor the Site to your particular preferences.
 
-### Use of Cookies and Similar Tools
+    5. ### User Content.
 
-"Cookies" are small pieces of information about an Internet session that may be created when an individual accesses a website. Cookies are delivered and received by our Websites (or, in some instances, by our emails or by banner ads that we may purchase for use on another organization's website) and stored by a User's browser on the User's computer hard drive. We may use cookies or similar tools to learn about Users' preferences and Internet session information, to record User-specific information including the User's likely state of residence, the web pages that the User accesses and for how long, whether the User returns to any of our Websites, and whether a particular email is opened. Such data, however, is not linked by us to any personally identifiable information concerning the User. Cookies and similar tools permit us to tailor offerings to User preferences, to improve our Websites and email marketing, and to provide better service to return visitors to our Websites. 
+You may choose to submit content to the Site (hereinafter, “User Content”), including personal photographs for use in connection with the Frame Finder™ service. This User Content will be used to facilitate delivery of the Site Features.
 
-We may encode our cookies so that only we can interpret the information stored in them. If a User rejects cookies, the User may still use our Websites, but the User's ability to use some of the Websites' areas, such as any contests or surveys, may be limited. 
+    6. ### Usage Activity.
 
-Please note that this Online Privacy Policy does not cover the use of cookies or the collection or use of any other information by any advertisers or third-party websites that may be linked to or from any of the Websites. For links to third-party websites, the use of cookies on those websites is governed by the third-party's privacy policy, although in some circumstances such use may be subject to contractual arrangements and obligations between us and the third party.
+When you use the Site Features we may track your usage history, including search history and the particular content you viewed. This usage history will be used for your convenience, so that you can easily access past searches and content of interest.
 
-### Protection/Security
+  2. ## Sharing of Information
 
-We employ security measures to protect sensitive information, including personally identifiable information, in our possession. However, Users should remember that no information storage or information transmissions on the Internet are completely protected. Consequently, while we strive to protect Users' personal information, we cannot guarantee such security, and you ultimately provide such information at your own risk.
+We may use personal information that you provide to us to personalize your profile information, maintain, customize and add new resources and services, and allow communication and interaction between you and Visionworks, and between Visionworks and its operating personnel. In addition, we will share the personal information we collect from you under the following circumstances:
 
-### Protecting Children
+    1. ### Direct Communication.
 
-We do not market our products or services to children (although we do market some of our products and services for children to their parents), and we do not knowingly permit persons under the age of 13 to register or provide personally identifiable information on any of our Websites. The provision of personally identifiable information by children on any of our Websites is strictly prohibited. We encourage parents to supervise and participate in their children's Internet activities, and we urge children to exercise caution and consult their parents before providing any personally identifiable information on the Internet.
+We may send emails or regular mail to you in connection with your transaction or business relationship with us. If you sign up on our online registration page, we may send email to you concerning special offers, promotions, and eye exam and contact lens replenishment reminders consistent with any email preferences selected by you on the registration page. You may also provide your address information for inclusion on our email or regular mail lists in person at one of our stores. Visionworks or one of Visionworks’ affiliated service providers may contact you by phone, email, or regular mail in connection with the provision of goods or services to you or in response to an inquiry from you. If you do not wish to receive special offers or promotional mailings, you may be removed from our email or regular mail lists through the use of any of the “Control of Your Information & Opt-Out Methods” listed below.
 
-### Links to Other Websites
+    2. ### Reputable Marketers.
 
-Our Websites contains links to other websites that are not owned or controlled by Eye Care Centers of America, Inc. or its affiliates. Also, Users may have linked to one of our Websites from another website that is not owned or controlled by Eye Care Centers of America, Inc. or its affiliates. Please be aware that Eye Care Centers of America, Inc. and its affiliates are not responsible for the privacy practices of other such websites, and this Online Privacy Policy applies only to information collected by our Websites.
+Some of the information we collect may be shared with other reputable marketers to bring you offers of interest, and, if personally identifiable information is collected in connection with a joint promotion, it may be provided to that joint promoter for marketing and research purposes. If you prefer that we do not share your name and address with other reputable marketers, you may contact us using the “Control of Your Information & Opt-Out Methods“ listed below and request that your name be marked as ”do not share.“
 
-### Updates to this Online Privacy Policy
+    3. ### Protection of Rights.
 
-This Online Privacy Policy supersedes and replaces all of our previous online privacy policies and statements. It does not supersede or replace our HIPAA Privacy Notice found at [http://www.ecca.com/legal/legal_hipaa.pdf](https://web.archive.org/web/20120723011406id_/http://www.visionworks.com/privacypolicy/legal_hipaa.pdf "HIPAA Privacy Notice"). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a User's rights concerning any health information that we may receive or maintain concerning the User. 
+We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Use for the Site, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Site Features, or (iv) such action is appropriate to protect the rights, property or safety of Visionworks, its employees, users of the Site Features or others. 
 
-From time to time, we may update this Online Privacy Policy. Notification of any such updates which contain any material changes will be posted on the homepage of our Websites. Users are encouraged to check our Websites periodically for any material changes to this Online Privacy Policy.
+    4. ### Asset Transfers.
 
-### Contact/Opt-Out Methods
+If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Visionworks’ assets, user information, including personal information collected from you through your use of the Site Features, could be included in the transferred assets. Visitors to the Site will be notified via a prominent notice on the Site for thirty (30) days prior to a change of ownership or control of user information held by us.
 
-Should you have any questions or concerns regarding personal information or privacy-related issues, please contact us via any of the methods listed directly below.
+    5. ### Service Providers.
 
-**Via Mail:**  
-ECCA Online Privacy Representative  
-Eye Care Centers of America, Inc.  
-11103 West Avenue, Ste. 6  
-San Antonio, Texas 78259
+We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf. We require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
 
-**Via Email:**  
-[marktgprivacydept@ecca.com](mailto:marktgprivacydept@ecca.com)
+In addition, we may share with third parties user information in the form of aggregated non-personal information. This non-identifying information may include, for example, the patterns, trends, preferences, and other collective characteristics of our users. Disclosure of this information serves to help us and our marketing partners evaluate and tailor our communications, advertisements, services and general business practices to the needs of users of the Site Features. 
 
-**Via Telephone:**  
-210-524-6511
+  3. ## Control Of Your Information & Opt-Out Methods
 
-You may also request to be removed from any of our email lists using any of these methods, or by clicking on an unsubscribe link where provided on our emails and following the related instructions.
+You may request us to correct, update or delete any of the information we have collected from you by sending an email to us at [WebMaster@visionworks.com](mailto:WebMaster@visionworks.com) and we will attempt to fulfill your request. We may choose not to fulfill any request that we determine is unreasonable, unduly burdensome or impractical or that constitutes a threat to the privacy or rights of others. You may also request to be removed from any of our email lists by clicking on an unsubscribe link where provided on our emails and following the related instructions. Should you have any questions or concerns regarding personal information or privacy-related issues, please contact us by sending an email to [WebMaster@visionworks.com](mailto:WebMaster@visionworks.com).
 
-[](http://www.adobe.com/products/acrobat/readstep.html) Note: To view the PDF documents, you will need Acrobat Reader from Adobe. [Download Acrobat Read now](http://www.adobe.com/products/acrobat/readstep.html "Download Acrobat Read now.").
+  4. ## Security
+
+The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information. In addition, we restrict access to personal information to Visionworks employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Site Features. All Visionworks personnel who have access to this information are trained in the maintenance and security of such information. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Site Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our systems. 
+
+  5. ## Minor’s Privacy
+
+The Site is not targeted towards, nor intended for use by, anyone under the age of 18. We do not market our products or services to children (although we do market some of our products and services for children to their parents), and we do not knowingly permit persons under the age of 18 to register or provide personally identifiable information on the Site. The provision of personally identifiable information by children on the Site is strictly prohibited. We encourage parents to supervise and participate in their children’s Internet activities, and we urge children to exercise caution and consult their parents before providing any personally identifiable information on the Internet.
+
+  6. ## Notification of Changes
+
+This Privacy Policy may change from time to time and we will post all changes on this page. Users are encouraged to check this page periodically for any material changes to this Privacy Policy. This Privacy Policy does not supersede or replace our **HIPAA Privacy Notice** found [**here**](https://web.archive.org/privacy-policy/hipaa.php). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a user’s rights concerning any health information that we may receive or maintain concerning the user.
+
+  7. ## Mediation
+
+You also agree that, in the event any dispute or claim arises out of or relating to your use of the Site or the Site Features or this Privacy Policy that you and Visionworks will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in Bexar County, Texas with a mutually agreed mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorneys’ fees, even if you would otherwise be entitled to them.
+
+  8. ## Questions? Contact Us
+
+If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at the following address: [WebMaster@visionworks.com.](mailto:WebMaster@visionworks.com)
+
+  9. ## [Terms of Service](https://web.archive.org/terms-of-use/)
+
+Please read the Terms of Use governing the use of the Site and the Site Features.
+
+(Updated August 27, 2013)
+
+[Click here](https://web.archive.org/web/20141201215931id_/http://www.visionworks.com/privacy-policy/legal_hipaa.pdf "HIPAA Privacy Notice") to download the HIPAA Privacy Notice pdf.
+
+This notice describes how Medical information about you may be used and disclosed and how you can get access to this information.
+
+[Click Here](https://web.archive.org/web/20141201215931id_/http://www.visionworks.com/privacy-policy/Protecting_Competitively_Sensitive_Information_4-24-14.pdf#zoom=100 "Protecting Competitively Sensitive Information Policy") to view Protecting Competitively Sensitive Information Policy pdf.
+
+[](http://get.adobe.com/reader/)Note: To view the PDF documents, you will need Acrobat Reader from Adobe. [Download Acrobat Read now](http://get.adobe.com/reader/ "Download Acrobat Read now.").
+
+
+
