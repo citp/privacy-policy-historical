@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214185007id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201180717id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
 
 # Halloween Costumes for Kids & Adults | Costume Accessories - CostumeExpress.com
 
@@ -12,7 +12,7 @@ Follow the instructions below to remove yourself from any of our mailing lists:
 
   * ##### Our Email lists
 
-On our [email subscription page](https://web.archive.org/profile/emailsubscription), enter in your email and select the "I do not wish to receive any e-mails from CostumeExpress.com" option.
+On our [email preference page](https://web.archive.org/profile/emailsubscription), enter in your email and select the "I do not wish to receive any e-mails from CostumeExpress.com" option.
 
   * ##### Our Catalog mailing lists
 
