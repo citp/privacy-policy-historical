@@ -1,134 +1,111 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621214610id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201233806id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
 
 # privacy policy - myDr.com.au
 
-## A statement about privacy and collection of personal information
+* ## We care about your privacy.
 
-Cirrus Media Pty Ltd (" **We** ", " **Our** ", or " **Us** ") as publisher of _myDr_ ( **Website** ), aims to protect the privacy of the personal information We collect and hold whilst carrying out Our business activities. 
+At Cirrus Media, we‘re committed to protecting your personal information. That’s why we’ve put together this policy. It explains in simple terms what kind of personal information we collect, how we use it and whether we disclose it to anyone else. And because we take privacy seriously, it’s been designed with careful reference to the Australian Privacy Principles (APPs) and related privacy laws.
 
-We are bound by the National Privacy Principles ( **Principles** ) in the _Privacy Act 1988_ (Cth)( **Act** ). 
+This policy applies to the Cirrus Media Group Companies, including Cirrus Media Pty Ltd (“Cirrus Media”, “we”, “us”, “our”) and its related bodies corporate.
 
-This statement explains: 
+* ## Collection of personal information
 
-  * what types of personal information We might collect
-  * how We aim to use personal information
-  * when We will disclose personal information to others
-  * how We manage and secure personal information, and
-  * how you can access personal information that We hold about you.
+Personal information is information or an opinion about an identified individual or an individual who is reasonably identifiable. We usually collect personal information directly from individuals. However, we may also collect personal information about individuals from various third parties (for more details, see ‘Handling of personal information’ below).
 
+The type of personal information we collect depends upon your relationship with us. When doing business with us, you may need to prove your identity and in some cases, the law requires you to do so. We may also require your contact information so that we can communicate with you directly or deliver products and services to you. So the information we collect for these purposes might include your name, telephone number, email address, business address, employment information and possibly, your driver’s licence or some other form of photo identification.
 
+Less often we might collect personal information about you in connection with a commercial trading account or financing arrangement (such as bank records, credit card statements, credit reporting information), particularly if you’re intending to enter into the arrangement in your own name. We’ll provide you with more detailed information about exactly how this type of information will be used and who it may be disclosed to prior to collection.
 
-This statement does not form part of any contract. 
+At times we may also collect personal information for quality and improvement purposes, such as voice recordings made to our call centre and customer satisfaction surveys.
 
-From time to time, We may review and update this statement - for example, to reflect changes to the law, technology or Our company. We reserve the right to change this statement at any time and notify you by posting an updated version of the statement on the Website. 
+Whenever it’s appropriate, we’ll offer you the opportunity to interact with us anonymously or by a different name. Commonly this option will be provided to you when making a general enquiry about our products and services or requesting information about a job opportunity.
 
-## What types of personal information do we collect?
+* ## Handling of personal information
 
-We aim only to collect 'personal information' (as defined under the Act) that is necessary for Our activities. The types of personal information that We collect will depend on the nature of the interaction between you and Us, and where and how We collect the information. 
+We will do our utmost to ensure that your personal information is only used and/or disclosed for the purpose it was collected, or a related purpose that’s within your reasonable expectations.
 
-Most commonly, the information collected from you may include your name, address/es, email address/es, telephone and fax number/s, and other contact details, your medical practitioner registration details (if relevant), and also information about your use of Our services or the Website. 
+From time to time we may need to disclose personal information to, or collect information about individuals from various third parties, including:
 
-Some of the information We collect is 'sensitive information' (as defined under the Act). The Act requires Us only to collect sensitive information from you where this is consented to by you, or if the collection is required by law, and only to share sensitive information if We have a belief that its use and/or disclosure is necessary to prevent threats to health, life or safety of any individual. 
-
-## How do We collect your personal information?
-
-We collect most of your personal information directly from you, for example when you send Us correspondence by e-mail, via the Website or in writing; deal with Us over the telephone or in person; or register or post information on the Website. 
-
-Sometimes, someone else may provide Us with personal information about you, with or without your direct involvement. For example, We might collect your personal information from: 
-
-  * another organisation or alliance you are a member of
-  * your representative
-  * publicly available sources of information (such as telephone directories), or
-  * commercially available mailing or marketing lists.
-
-
-
-## How do We use your personal information?
-
-In most cases, if We ask you to provide information about yourself it is because We need that information for the purpose it was collected or to provide you with the information you require or access to the Website. For example, We may use your personal information to: 
-
-  * verify that you are an Australian healthcare practitioner (if relevant)
-  * tailor your experience of Our site to your interests
-  * provide you with access to certain parts of the Website
-  * provide ongoing support or help manage the Website, for example if you have a query about this statement
-  * communicate with you, for example to seek feedback regarding your experiences with the Website, or the information, the services and the promotions offered on the Website
-  * provide information about other events, promotions, products or services that We believe would interest you (which you can tell Us not to do at any time)
-  * help us run Our organisation, for example to improve the Website. Our products or services or Our security, train staff or undertake marketing activities, and 
-  * comply with legal obligations.
+  * other companies within the Cirrus Media group of companies
+  * credit providers (disclosed and undisclosed)
+  * information technology providers
+  * data processing and payment providers
+  * financial services and banking providers
+  * consultancy firms and independent contractors
+  * auditors, lawyers and other professional service firms
+  * marketing agencies and other marketing services providers
+  * print/mail/digital/imaging/document management service providers
+  * customer, product, business or strategic research and development organisations
+  * data partners and analytics consultants
+  * publicly available sources of information
+  * other entities, as required or authorised by law
 
 
 
-## When will We disclose your personal information to others?
+Some of these third parties may be located overseas.
 
-We aim to confine Our disclosure of personal information to the primary purpose for which it has been collected, or for a related purpose. This means We will usually only disclose personal information in order to fulfil our business and admininstrative functions, including when disclosure is necessary to complete a transaction on your behalf; provide you with a product, service or activity you have requested; help Us with the running of Our organisation; or for security reasons. 
+And to help safeguard your privacy, we’ll impose requirements on these entities for handling personal information. We’ll also do our best to inform you at or before the time of collection, about the types of organisations we may be disclosing your personal information to.
 
-We may also disclose your personal information outside Our organisation for the purpose for which the information was collected, for a related purpose - for example when disclosure is necessary to complete a transaction on your behalf, provide you with a product, service or activity you have requested, help Us with the running of Our organisation, or for security reasons. 
+In addition to the above, personal information may be provided to other parties where you specifically consent.
 
-We may provide your personal information to: 
+* ## Marketing
 
-  * companies related to Us that are located in Australia or offshore
-  * outsourced service providers who perform functions on Our behalf, such as organisations providing security services, conducting market research, providing advertising/marketing services, or providing hosting, email or mail handling services to Us or Our service providers
-  * anyone authorised by you to receive your personal information (your consent may be express or implied and can be withdrawn at any time)
-  * an actual or prospective purchaser in the event We sell part of Our business, and
-  * anyone We are required by law to disclose it to.
+Every now and again you may be contacted by mail, SMS, telephone, email or online so that we can inform you about new products and services, promotions, offers, newsletters, customer surveys competitions and the like. We may also engage third parties to do this on our behalf. In so far as the law allows us to, we are likely to market to you unless you tell us otherwise. Equally, we’ll always give you the opportunity to “opt-out” of direct marketing communications. If you don’t want to be contacted for marketing purposes, you don’t have to wait to be contacted. Simply advise us in any one of the methods set out below and we will make every effort to meet your request as soon as practicable.
 
+* ## Our use of Cookies and other technologies
 
+Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. Most web browsers are set to accept cookies. Cirrus Media uses cookies to make your use of our websites and services as convenient as possible. Cookies in and of themselves do not personally identify users, although they do identify a user’s browser. Cookies are useful to estimate our number of users and determine overall traffic patterns through our website. Cirrus Media also uses other technologies such as Catchbot to collect data. Bots are a type of web crawler that browse the internet for the purpose of web indexing and updating web content.
 
-We generally require third parties only to use your personal information for the specific purpose for which it was given and to protect the privacy and confidentiality of your personal information. 
+If you do not wish to receive any cookies or bots you may set your browser to refuse cookies or bots. This may mean you will not be able to take full advantage of Cirrus Media’s services.
 
-You consent to us disclosing your personal information to third parties for marketing purposes. You can withdraw your consent at any time by informing Us that you withdraw that consent. 
+**Google cookies**  
+Cirrus Media uses Google Analytics features (including Google Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager and Google Analytics Demographics and Interest Reporting) on our website. We, and some third parties (including Google), use both first party and third party cookies to record standard internet traffic information to optimise ad selection based on age, gender, interests and past visits to our site; evaluate your interactions with ad services on our site; and serve targeted advertising on sites across the Internet.
 
-To the extent that the Website contains links to sites operated by third parties, including other organisations, those linked websites are not controlled by Us and We are not responsible for the privacy practices of the site operators. Before you disclose your personal information to any linked websites, We advise you to examine their privacy policies and terms and conditions of use. 
+We, and some third parties (including Google), also use first and third party cookies to optimise advertising on our websites.
 
-### Use of cookies on the Website
+Importantly, we do not combine the anonymous information collected through Google Analytics with personally identifiable information.
 
-We sometimes use cookie technology on the Website to enable us to provide information and services to You. Cookies are pieces of information that a website transfers to Your computer's hard disk for record keeping purposes and are a necessary part of facilitating access to that website. Most web browsers are set to accept cookies. The Website uses cookies to make Your use of the Website and Our services as enjoyable as possible. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Cookies are useful to determine overall traffic patterns through the Website, as well as responding to Your requests for particular services. 
+To opt out of these features at any time, simply change your Google Ads Settings by [clicking here](http://google.com.au/policies/technologies/ads). Alternatively, you can opt out of a third party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (see <http://networkadvertising.org/choices/#completed>).
 
-We use third-party advertising companies (such as Google) to serve ads when You visit the Website. These third parties may use information (not including Your name, address/es, email address/es and other contact details) about Your visits to this Website and other websites in order to provide advertisements about goods and services of interest to you. 
+If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this will mean that we will not be able to personalise your website each time you visit.
 
-You may opt out of cookies by: 
+* ## Security of personal information
 
-  * visiting the Network Advertising Initiative website ([www.networkadvertising.org](http://www.networkadvertising.org/)) and following the instructions; and/or
-  * set Your browser to refuse all cookies (this may mean You will not be able to take full advantage of the Website and/or Our services).
+Once we have collected your personal information, we’ll take reasonable steps to ensure it is protected against misuse, loss, interference, unauthorised access, modification and disclosure. We do this in a variety of ways, including maintaining physical security of paper and electronic data stores (such as locks, security systems) and appropriate computer and network security (such as firewalls, user identification policies, encryption, password controls). Your personal information is stored and held securely by third party data storage providers used by Cirrus Media.
 
+* ## Destruction of personal information
 
+We’ll destroy or de-identify personal information that is no longer needed, provided there is no law requiring us to retain it.
 
-## How We manage and secure personal information
+* ## Access to and correction of personal information
 
-We have appointed a Privacy Officer to be responsible for the management of personal information We collect. We have security systems in place to protect your personal information and have directed Our staff that personal information must be dealt with in accordance with this statement. 
+Whilst we have processes in place to make sure your personal information is accurate and up-to-date, we welcome your requests to access and/or correct information we hold about you. To make a request, simply contact us in one of the ways set out below. There are no set charges for making a request, however we may charge a fee if need be, to recover any reasonable costs associated with responding to your request.
 
-## Updating personal information that We hold about you
+* ## Collection notice: Booking forms
 
-We aim to keep all personal information We hold both accurate and up-to-date and encourage you to tell us if you change your contact details. 
+This following information relates specifically to the personal information we collect from our event booking forms. Such information will generally include the names, and contact details of event delegates or sponsors, as well as information about the particular industry sector in which they operate and general billing information.
 
-If you believe that the information We hold about you is incorrect, incomplete or out-of-date, please contact our Privacy Officer. 
+We use this information for the primary purpose of registering delegates for the events we organise, and administering the attendance and participation of both sponsors and delegates.
 
-If We no longer require your personal information, We will generally destroy or de-identify that information. 
+If we do not collect the information requested on the booking forms, we may not be able to process an individual’s attendance at an event.
 
-## Password and log-in security
+With your consent, we may also share your information with other entities [so that they can contact you about future event opportunities that may be of interest to you.
 
-On occasion there may be services that you nominate to use that require you to nominate a user name and password. You are responsible for the security of your password and log-in information. You can play an important role in keeping your personal information secure by maintaining the confidentiality of any passwords used on the Website. Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security. 
+Please see paragraphs 8 and 10 for details as to how you can access and correct the personal information we collect from our booking forms, or make a complaint about our handling of such information.
 
-## How you can access personal information that We hold about you
+We do not disclose personal information collected from our booking forms to recipients located outside Australia.
 
-You may seek access to personal information that We hold about you by contacting Our Privacy Officer as follows: 
+* ## Contact Us and complaints
 
-By Post:  
-Cirrus Media Privacy and Security  
-Locked Bag 4700,  
-Chatswood DC, NSW 2067,  
-Australia 
+For more information about our privacy practices, make a complaint or lodge a request under this policy, please contact:
 
-By Phone: +61 2 8484 0888 
+The Privacy Officer
 
-By Fax: +61 2 8484 0922 
+Cirrus Media Pty Limited  
+Phone: +612 8484 0888  
+Email: privacy@cirrusmedia.com.au  
+Mail: Cirrus Media Pty Limited,  
+Tower 2 475 Victoria Ave or Locked Bag 2999 Chatswood DC,  
+Chatswood NSW 2067
 
-By Email: [admin@mydr.com.au](mailto:admin@mydr.com.au)
-
-If you make a request for access to your personal information, We will ask you to verify your identity and specify what information you require. We may also charge a reasonable fee to cover Our costs of supplying you with access to this information. 
-
-In some circumstances, the Act entitles Us to deny access, for example if providing access would impact unreasonably on the privacy of others or prejudice negotiations in which We are involved. If We do refuse access, We are required to let you know the reasons for Our refusal. 
-
-Last revised: 03 February 2014. 
-
-Last Reviewed: 03 February 2014 
+We will endeavour to respond to your request or complaint within 30 days. If you are still not satisfied, you may take your complaint to the OAIC.
