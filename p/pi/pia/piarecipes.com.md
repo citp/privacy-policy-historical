@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piarecipes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121527id_/http%3A//www.piarecipes.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piarecipes.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201101951id_/http%3A//www.piarecipes.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cook'n is Fun - Food Recipes, Dessert, & Dinner Ideas
 
