@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lodep.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063453id_/http%3A//lodep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lodep.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201073436id_/http%3A//lodep.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lodep
 
