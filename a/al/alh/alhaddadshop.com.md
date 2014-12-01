@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alhaddadshop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223859id_/http%3A//www.alhaddadshop.com/privacypolicies/%3F___store%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alhaddadshop.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201205418id_/http%3A//www.alhaddadshop.com/privacypolicies/%3F___store%3Den) for the most accurate reproduction.*
 
 # Privacy Policies
 
