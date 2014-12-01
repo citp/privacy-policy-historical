@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaprofitsacademy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053526id_/http%3A//cpaprofitsacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaprofitsacademy.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201201331id_/http%3A//cpaprofitsacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CPA Profits Academy
 
