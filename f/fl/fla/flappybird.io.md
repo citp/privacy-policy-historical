@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flappybird.io privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306031929id_/http%3A//www.iubenda.com/privacy-policy/807148/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flappybird.io privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201130220id_/http%3A//www.iubenda.com/privacy-policy/807148/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of flappybird.io
 
@@ -18,17 +18,17 @@ The individual using this Application, which must coincide with or be authorized
 
 The legal or natural person to whom the Personal Data refers to.
 
-#### Data Processor
+#### Data Processor (or Data Supervisor)
 
 The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
 
-#### Data Controller (or Application Owner, or Owner)
+#### Data Controller (or Owner)
 
 The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
 
 #### This Application
 
-The hardware or software tool by which the User Personal Data is collected.
+The hardware or software tool by which the Personal Data of the User is collected.
 
 #### Cookie
 
@@ -40,4 +40,4 @@ Small piece of data stored in the User's device.
 
 Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
 
-This privacy policy is solely about this Application.
+This privacy policy relates solely to this Application.
