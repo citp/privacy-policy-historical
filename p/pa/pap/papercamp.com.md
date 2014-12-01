@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papercamp.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621012441id_/http%3A//www.papercamp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercamp.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201015819id_/http%3A//www.papercamp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PaperCamp.com
 
@@ -70,8 +70,8 @@ If you have any questions or concerns about PaperCamp.com's Privacy Policy or it
 
 By mail:   
 PaperCamp.com  
-8939 1/2 Santa Monica Blvd  
-West Hollywood, CA 90069 USA 
+1680 Vine Street Suite 1200  
+Hollywood, CA 90028 
 
 By email:   
 privacy@papercamp.com 
