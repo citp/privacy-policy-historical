@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rici4you.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516195432id_/http%3A//www.rici4you.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rici4you.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201113341id_/http%3A//www.rici4you.com/en/privacy_policy) for the most accurate reproduction.*
 
 # RICI-EN Privacy Policy | Royal Innovation Club International
 
