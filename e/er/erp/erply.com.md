@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the erply.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091919id_/http%3A//erply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erply.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201055431id_/https%3A//erply.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Erply Retail Software
+# Privacy Policy
 
 We respect the privacy of your personal and corporate information. This policy sets out how we use any personal information collected from you, or that you provide to us, when using our service.
 
