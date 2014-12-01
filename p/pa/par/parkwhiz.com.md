@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210065444id_/http%3A//www.parkwhiz.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201090140id_/http%3A//www.parkwhiz.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Guaranteed Parking - ParkWhiz
 
@@ -76,4 +76,4 @@ Any changes to ParkWhiz's privacy policy will always be posted to this section o
 
 If you have any questions or would like to provide feedback about ParkWhiz's privacy policy, please contact ParkWhiz via email at [info@parkwhiz.com](mailto:info@parkwhiz.com). You may also write directly to ParkWhiz, Attn: Legal Department, 208 S. Jefferson St, Suite 403, Chicago, IL 60661. 
 
-Last modified on December 20, 2011. 
+Last modified on April 25, 2014. 
