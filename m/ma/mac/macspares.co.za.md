@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macspares.co.za privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140315id_/http%3A//www.macspares.co.za/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macspares.co.za privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201170434id_/http%3A//macspares.co.za/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : MacSpares | Wholesale spare parts, Supplying Africa by E-Commerce
 
@@ -7,13 +7,9 @@ We collect information from you when you register on our site, place an order or
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information
 
- **What do we use your information for?**    
-Any of the information we collect from you may be used in one of the following ways:
+**What do we use your information for?**    
+Any of the information we collect from you may be used in one of the following ways:To personalize your experience (your information helps us to better respond to your individual needs)
 
- 
-To personalize your experience (your information helps us to better respond to your individual needs)
-
- 
 To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
@@ -59,4 +55,4 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-(This policy was last changed on 30/8/2012)
+(This policy was last changed on 30/8/2013)
