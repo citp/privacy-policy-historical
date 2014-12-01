@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the kickapps.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101615id_/http%3A//www.perfectsensedigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickapps.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201141556id_/http%3A//www.perfectsensedigital.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Page
 
-## Your privacy on our site
+### Your privacy on our site
 
 The primary purpose of our site is to be a resource and business tool to help you learn more about Perfect Sense Digital. We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so. Any changes we may make to our privacy policy in the future will be posted on this page.
 
  **What information do we gather?**
 
-Perfect Sense only collects information in one way, directly. For example, when you provide information to sign up for a newsletter or you apply for a job.
+Perfect Sense only collects information in one way, directly. For example, when you provide information to [apply for a job](http://www.perfectsensedigital.com/about-us/careers/).
 
 We may collect and process the following information:
 
-Information that you provide by filling in forms on our site. This includes registering to apply for a job or subscribing to newsletters. Pages that collect this type of information may provide further information as to why your data is needed and how it will be used. It is completely up to you whether you want to provide it.
+Information that you provide by filling in forms on our site. This includes registering to apply for a job. Pages that collect this type of information may provide further information as to why your data is needed and how it will be used. It is completely up to you whether you want to provide it.
 
 If you contact us, we may keep a record of that correspondence.
 
