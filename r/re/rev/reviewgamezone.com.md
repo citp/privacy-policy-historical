@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124100id_/http%3A//reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201032042id_/http%3A//reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### **Updated: May 2014**
+### **Updated: October 2014**
 
 **Overview**
 
@@ -24,7 +24,7 @@ There are sections of this Site that require a User ID and Password.  To obtain
 
 **Policy for Minors**
 
-Use of any section of the site by minors is prohibited without permission by a parent or legal guardian of the minor. Minors are not permitted to submit personal information at any time to this site other than their first name provided they are 13 years old or greater. Any other information or data submitted from minors under 13 will be immediately discarded upon discovery. ReviewGameZone.com does not knowingly accept, print or process information submitted by minors under 13 years old, and cannot be held responsible for such actions. 
+Use of any section of the site by minors is prohibited without permission by a parent or legal guardian of the minor. Minors are not permitted to submit personal information at any time to this site other than their first name and first two letters of the their last names provided they are 13 years old or older and their teacher requested said information to be used via the statistical collection portion of the website. It is the teachers responsibility to assure all rules are followed by their students while using this site once parent or guardian permission is granted. ReviewGameZone.com does not knowingly accept, print or process information submitted by minors under 13 years old, and cannot be held responsible for such actions. 
 
 PLEASE NOTE: That upon giving your child consent to access the Internet; they are being exposed to certain material that may not be appropriate for minors. They are also being exposed to areas where they may have communication with adults, where personal information such as phone numbers and addresses, could be voluntarily revealed. Please talk to your children about these areas, before you grant them consent. ReviewGameZone.com cannot be held responsible for situations that arise from such situations where personal information is disclosed while using this site. 
 
