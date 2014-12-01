@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turnhere.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602214217id_/http%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnhere.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201093519id_/http%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
 
-# SmartShoot Privacy Policy
+# Privacy Policy - SmartShoot
 
 Privacy Policy  
 Effective October 1, 2012  
