@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ownmatrix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071436id_/http%3A//ownmatrix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownmatrix.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202064843id_/http%3A//ownmatrix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Online Wealth Matrix
+
+##   **Privacy Policy  **
 
 The following describes the Privacy Policy for our HTTP://ONLINEWEALTHNETWORK.COM AND ITS SUBSIDIARY WEBSITES
 
@@ -10,7 +12,7 @@ Your privacy is important to us at ONLINE WEALTH NETWORK LLC.  To better protec
 **State Law & Accompanying Rights**  
 Please understand that you may have additional rights originating from State laws based on where you live.  These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law.  Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate.  Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
 
-**Our Commitment To Children’s Privacy**  
+**Our Commitment To Children's Privacy**  
 Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services.  It is not our intention to offer products or services to minors.
 
 **Collection of Personal Information**  
@@ -42,4 +44,4 @@ We have included links on this website for your use and reference. We are not re
 
 **QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
 
-Online Wealth Network LLC, 2401 Brentwood Rd, Suite 101, Raleigh, North Carolina, 27604
+[Click here to contact us](http://ownmatrix.com/contact-us/)
