@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exec-appointments.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531131700id_/http%3A//www.exec-appointments.com/staticpages/40/financial-times-career-management-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exec-appointments.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202145159id_/http%3A//www.exec-appointments.com/staticpages/40/financial-times-career-management-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
