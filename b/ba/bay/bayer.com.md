@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234146id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202235128id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -127,19 +127,19 @@ If you have any problems, questions or ideas, please contact one of the followin
 Data Protection Officer of Bayer AG:  
 
 
-Thomas Beyer  
+Andreas Euler  
 Bayer AG  
 Corporate Office  
 Building W 11  
 51368 Leverkusen, Germany  
-[E-mail](https://secure.bayer.com/bayer-group/contact.aspx?lang=en)
+[E-mail](https://secure.bayer.com/bayer/data-protection-officer.aspx?lang=en)
 
-Corporate Data Protection Officer of Bayer AG:  
-Rainer Meyer  
+Corporate Privacy Officer of Bayer AG:  
+Dr. Rainer Schwarz  
 Building K56  
 51368 Leverkusen, Germany  
 Phone: +49 (0) 214 30 2 05 22  
 Fax: +49 (0) 214 30 2 03 46  
-[E-mail](https://secure.bayer.com/bayer-group/ContactDataprotectionOfficer.aspx?lang=en)
+[E-mail](https://secure.bayer.com/bayer/ContactDataprotectionOfficer.aspx?lang=en)
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
