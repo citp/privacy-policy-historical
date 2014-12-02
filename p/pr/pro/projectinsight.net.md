@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the projectinsight.net privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401031206id_/http%3A//www.projectinsight.net/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectinsight.net privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202164828id_/http%3A//www.projectinsight.net/privacy-policy) for the most accurate reproduction.*
 
 # Project Insight Privacy Statement
-
-|  | 
 
 Metafuse has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy within the Project Insight™ Website is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect. 
 
