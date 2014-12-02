@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perryellis.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614155450id_/http%3A//www.perryellis.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perryellis.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202070230id_/http%3A//www.perryellis.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Perry Ellis Privacy Policy
 
@@ -6,12 +6,14 @@ Privacy Policy
 
 ### Our Commitment to Privacy
 
-Perry Ellis®, a division and wholly owned subsidiary of [Perry Ellis International, Inc](http://www.pery.com/ "http://www.pery.com/"). (“Perry Ellis,” “we,” or “us”) respects your privacy.  This Internet privacy policy applies to your use of the PerryEllis.com website (the “Site”) and covers how we collect, use, disclose, transfer and store your information on the Site.   
-Any changes to our privacy policy and practices on the Site will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our Site, you consent to the collection and use of this information by Perry Ellis.  Our privacy policy was last updated on February 17, 2011.
+Perry Ellis®, a division and wholly owned subsidiary of [Perry Ellis International, Inc](http://www.pery.com/ "http://www.pery.com/"). (“Perry Ellis,” “we,” or “us”) respects your privacy.  This Internet privacy policy applies to your use of the PerryEllis.com website (the “Site”) and covers how we collect, use, disclose, transfer and store your information on the Site. 
+
+Any changes to our privacy policy and practices on the Site will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our Site, you consent to the collection and use of this information by Perry Ellis.  Our privacy policy was last updated on June 25, 2014.
 
 ### PRIVACY POLICY FAQ'S
 
   * What information does Perry Ellis collect?
+  * Information From Third-Party Social Media Platforms
   * How does Perry Ellis use your information?
   * Does Perry Ellis use "cookies" or other tracking technologies?
   * How can you access your information?
@@ -27,18 +29,25 @@ Any changes to our privacy policy and practices on the Site will be reflected on
 
 Perry Ellis collects data that you provide on the Site, either through transactions, email registration, text message sign up, sweepstakes, contests, or membership; or through online live chat, phone, mail and fax interactions or registrations that you submit.   
 This includes information such as your name, mailing address, email address, phone number, any personal preferences you choose to provide, transaction details such as style, size, price, discount, date, store, your credit card number and expiration date used for transactions, and an encrypted password to ensure maximum protection of your privacy (“Personal Information”).   
-Perry Ellis occasionally obtains email addresses of active Perry Ellis customers who requested fashion emails on other websites. Perry Ellis also reserves the right to obtain publicly accessible customer demographics.   
+Perry Ellis occasionally obtains email addresses of active Perry Ellis customers who requested fashion emails on other websites. Perry Ellis also reserves the right to obtain publicly accessible customer demographics. 
+
 We gather certain non-personally identifiable information about your Site visit automatically and store it in log files. We use this information to understand and analyze trends, to administer the Site, to learn about user behavior on the Site, and to gather demographic information about our user base as a whole.  This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.  However, to the extent that IP addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as Personal Information for purposes of this Privacy Policy.  Also, to the extent that non-personal information is combined with Personal Information about you, we treat the combined information as Personal Information for purposes of this Privacy Policy.
+
+### Information From Third-Party Social Media Platforms
+
+You may be able to register with, log on to, or enhance your profile on our Website by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform. By doing this, you are asking the third-party platform to send us information from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile. 
 
 ### How does Perry Ellis use your personal information?
 
-Perry Ellis uses your Personal Information for a number of purposes, including (i) to enhance and personalize your shopping experience and use of the Site, (ii) to confirm and process sales transactions and/or contact you with questions or communications about your order, (iii) to respond to your questions, requests or comments, (iv) to notify you about contests and promotional events, allow you to participate in such contests and events, and notify you in the event that you are a winners of any such contest or event, (v) to contact you with reminders, updates and news, (vi) for marketing, advertising or promotional use, (vii) to conduct polls, surveys and consumer testing, (viii) to protect the security of our visitors, systems and/or Site, and/or (ix) to improve our services.  You may indicate your contact preferences regarding promotional communications directly to us online.   
+Perry Ellis uses your Personal Information for a number of purposes, including (i) to enhance and personalize your shopping experience and use of the Site, (ii) to confirm and process sales transactions and/or contact you with questions or communications about your order, (iii) to respond to your questions, requests or comments, (iv) to notify you about contests and promotional events, allow you to participate in such contests and events, and notify you in the event that you are a winners of any such contest or event, (v) to contact you with reminders, updates and news, (vi) for marketing, advertising or promotional use, (vii) to conduct polls, surveys and consumer testing, (viii) to protect the security of our visitors, systems and/or Site, and/or (ix) to improve our services.  You may indicate your contact preferences regarding promotional communications directly to us online. 
+
 We use the payment card information you provide to us for billing purposes and to fulfill your order.   
 
 ### Does Perry Ellis use cookies or other tracking technologies?
 
 We use cookies, web beacons (also known as pixel tags) and other technologies to speed your navigation of the Site, recognize you and your access privileges, and understand your Site usage.  Cookies are small data files or small bits of information that are stored by your browser on your computer's hard drive when you visit our Site so that we can recognize you. Web beacons assist in delivering cookies and help us determine whether a web page on the Site has been viewed and, if so, how many times.  You can refuse cookies by turning them off in your browser.   
-We also use these technologies to control the number of times you see a given ad, to deliver ads and other product offers and suggestions to you that relate to your interests, product selections or purchases, and measure the effectiveness of various offers and ad campaigns. In all cases, this information helps us serve you better by improving our Site design, as well as our products, services, contests, and promotions. If you block or otherwise reject our cookies, you will not be able to take advantage of these services.  
+We also use these technologies to control the number of times you see a given ad, to deliver ads and other product offers and suggestions to you that relate to your interests, product selections or purchases, and measure the effectiveness of various offers and ad campaigns. In all cases, this information helps us serve you better by improving our Site design, as well as our products, services, contests, and promotions. If you block or otherwise reject our cookies, you will not be able to take advantage of these services.
+
 We may use third-party service providers to help tailor Site content to you or to serve ads or product offers on our behalf. These service providers may employ cookies and other technologies to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies, web beacons and other technologies is not linked to any Personal Information collected by us.
 
 ### How can you access your information?
@@ -70,4 +79,4 @@ In keeping with the Children's Online Privacy Protection Act, Perry Ellis will n
 There may be links on our Site to the websites of others. When you click onto one of these links, you are leaving Perry Elli’s Site and accessing another party's website. These other websites are not under our control and may collect Personal Information from you. Our Privacy Policy does not address the information, privacy and security practices or policies of any other website. For more information, please read our [copyright, trademark, and site usage policy](http://www.perryellis.com/terms.html "http://www.perryellis.com/page/peterms").   
 Please send any concerns regarding our Privacy Policy to [legal@perryellis.com](mailto:legal@perryellis.com).
 
-Effective: February 17, 2011
+Effective: June 25, 2014
