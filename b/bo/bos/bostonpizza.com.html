@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the bostonpizza.com privacy policy that was archived on 2014-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140521173252id_/http%3A//bostonpizza.com/en/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bostonpizza.com privacy policy that was archived on 2014-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202130942id_/http%3A//bostonpizza.com/en/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en" class="en webkit chrome linux js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en" class="en desktop-version webkit chrome linux js"><head>
 	<title>Privacy Policy | Legal | Boston Pizza</title>
 	<meta http-equiv="P3P" content="CP=&quot;IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT CAO HONK&quot;">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,12 +14,14 @@
 	<meta property="og:image" content="http://www.bostonpizza.com/img/global/fb-icon.jpg">
 	<meta property="og:site_name" content="Boston Pizza">
 	<meta property="og:description" content="We offer great food and drinks at 350 locations in Canada. From pizza, pasta, wings &amp; more, we have a variety of dishes for every occasion. Order online or visit us in-store.">
+	<meta name="viewport" content="width=device-width">
 	<meta property="fb:admins" content="">
-	<link rel="icon" type="image/png" href="/img/global/favicon.ico">
+		<link rel="icon" type="image/png" href="/img/global/favicon.ico">
 
 	
 	
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.fancybox-1.3.4.css">
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/global.css">
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/typography.css">
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/header.css">
@@ -49,11 +51,27 @@
 
 	
 	
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MKN7Z6"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20131002231832/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/tracking.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MKN7Z6"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_CA/sdk.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20131002231832/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    // https redirect commented out dev environemnt
+    if((window.location.protocol != 'https:') && (window.location.href.indexOf("mybp") > -1)) {
+        location.href = location.href.replace("http://", "https://");
+    }
+    </script>
+	<script type="text/javascript" src="/js/tracking.js"></script>
 	<script type="text/javascript" src="/js/json2.min.js"></script>
 	<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.cookies.2.2.0.min.js"></script>
 	<script type="text/javascript" src="/js/css_browser_selector.js"></script>
+
+	<script type="text/javascript" src="/js/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="/js/jquery.fancybox-1.3.4.pack.js"></script>
+	<script type="text/javascript" src="/js/underscore.js"></script>
+	<script type="text/javascript" src="/js/handlebars.js"></script>
+	<script type="text/javascript" src="/js/backbone.js"></script>
+	<script type="text/javascript" src="/js/backbone-relational.js"></script>
+	<script type="text/javascript" src="/js/grm/main.js"></script>
+
+
 	<script type="text/javascript" src="/js/global.js"></script>
 	<script type="text/javascript" src="/js/site.js"></script>
 	
@@ -70,6 +88,22 @@
 		
 	
 
+	<!-- GRM App bootstrap -->
+	<script type="text/javascript">
+		bp.grm.App.init({
+			isAuthenticated: 0,
+			guest_id: "",
+			lang: 'en',
+            csrf: 'fc3b06df24b55740b6d1de476268a8de',
+			urlParams: [],
+			onosysUrl: 'https://order.bostonpizza.com/api/acount/post_order_registration',
+			onosysKey: '7EA91447BD6AF59D52622B8DEC33E',
+			fbId: '644664915626164',
+			authSuccessRedirect: '/en/mybp',
+			authFailRedirect: '/en/mybp/signin'
+		});
+	</script>
+
 	
 	<script type="text/javascript">
 	var _gaq = _gaq || [];
@@ -85,12 +119,22 @@
 
 </head>
 <body class="png24">
-<!-- Data Layer for GTM - Calendar --> 
+<!-- FB SDK async load -->
+<script>
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = '//connect.facebook.net/en_CA/sdk.js';
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- Data Layer for GTM - Calendar -->
 <script>
   dataLayer = [{
   }];
 </script>
-<!-- Data Layer for GTM --> 
+<!-- Data Layer for GTM -->
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MKN7Z6"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -136,6 +180,42 @@ dynamicRetargetingValues=$$&amp;
 acp=$$$$&amp;"
 style="display:none;width:0px;height:0px"></iframe>
 </noscript>
+
+<script type="text/x-handlebars-template" id="loginpanel-template">
+	{{#if first_name}}
+    
+    <li class="greet"><span>Welcome back, {{first_name}}!</span>
+	</li>
+    
+	<li>
+		<a href="#0" class="logout">
+			<span>Logout</span>
+			<img src="/img/mybp/cta-btn-spinner.gif" class="logout-spinner" width="16" height="16" />
+		</a>
+	</li>
+	{{else}}
+	<li class="login">
+		<a href="/en/mybp/signin" onClick="_gaq.push(['_trackEvent', 'Landing Page en Non-Mobile', 'Click', 'MyBP SignUp', null, true]);">Sign In</a> |
+		<a href="/en/mybp/signup" onClick="_gaq.push(['_trackEvent', 'Landing Page en Non-Mobile', 'Click', 'MyBP  SignIn', null, true]);">Sign Up</a>
+	</li>
+	{{/if}}
+	<li class="lang">
+		<a href="/fr/legal/privacy/">Français</a>
+	</li>
+
+</script>
+
+<div style="display: none;">
+	<div id="error-500">
+		<h3>Whoops!</h3>
+		<p>Something's wrong with the site.</p>
+		<p>Please try again.</p>
+		<button class="cta-btn--red error-500__close">Close</button>
+	</div>
+</div>
+
+
+
 		<div id="header">
 	<div id="header-center" class="png24">
 		<div class="wrapper">
@@ -145,19 +225,26 @@ style="display:none;width:0px;height:0px"></iframe>
 
 			
 			<ul class="nav">
-				<li><a id="menu" class="active" href="https://order.bostonpizza.com/EN#content=/Menu/ViewMenu/" title="Menu">Menu</a></li>
-				<li><a id="locations" href="/en/locations/" title="Locations" class="">Locations</a></li>
-				<li><a id="gift" href="/en/gift-cards/" title="Gift Cards" class="">Gift Cards</a></li>
-				<li><a id="order" href="https://order.bostonpizza.com/EN#content=/Home/UserHome" title="Order Online">Order Online</a></li>
+                <li><a id="order" href="https://order.bostonpizza.com/#/ts/ordersetup" title="Order">Order</a></li>
+		<li><a id="locations" href="/en/locations/" title="Locations" class="">Locations</a></li>
+                <li><a id="menu" class="active" href="https://order.bostonpizza.com/#/ts/menu" title="Menu">Menu</a></li>
+                <li><a id="mybp" href="/en/mybp/" onclick="_gaq.push(['_trackEvent', 'Landing Page en Non-Mobile', 'Click', 'MyBP Top Button', null, true]);" title="MyBP" class="">MyBP</a></li>
+
 			</ul>
 
 			
-			<ul class="options">
-				<li class="login"><a href="https://order.bostonpizza.com/EN#content=/Home/UserHome">Sign In / Register</a></li>
-				<li class="greet"><a href="https://order.bostonpizza.com/EN#content=/Home/UserHome">Welcome back, <span></span>!</a></li>
-				<li class="order-resume"><a href="https://order.bostonpizza.com/EN#content=/Home/UserHome">Return to your order</a></li>
-				<li class="lang"><a href="/fr/legal/privacy/">Français</a></li>
-			</ul>
+			<ul id="login-panel" class="options">
+	
+	<li class="login">
+		<a href="/en/mybp/signin" onclick="_gaq.push(['_trackEvent', 'Landing Page en Non-Mobile', 'Click', 'MyBP SignUp', null, true]);">Sign In</a> |
+		<a href="/en/mybp/signup" onclick="_gaq.push(['_trackEvent', 'Landing Page en Non-Mobile', 'Click', 'MyBP  SignIn', null, true]);">Sign Up</a>
+	</li>
+	
+	<li class="lang">
+		<a href="/fr/legal/privacy/">Français</a>
+	</li>
+
+</ul>
 
 			
 			<div class="local">
@@ -166,7 +253,8 @@ style="display:none;width:0px;height:0px"></iframe>
 					<span class="selected">Your local Boston Pizza:</span>
 					<span><a href="/en/locations/" class="local-store-name"></a></span>
 				</p>
-				<a href="/en/locations/">Change Location</a>
+                <a id="facebook-regional" data-url="https://www.facebook.com/" data-default="BostonPizza" href="#0" target="_blank">Facebook</a>
+                <a href="/en/locations/">Change Location</a>
 				<a class="question" href="#">?</a>
 				<div class="question-popup">
 					<img class="ie-fade png24" src="/img/header/question-popup-en.png" alt="">
@@ -186,51 +274,53 @@ style="display:none;width:0px;height:0px"></iframe>
 
 	<h2>Privacy Policy</h2>
 
-	<p>This version in effect since September 26, 2008</p>
-	<p>Protecting your privacy is important to Boston Pizza International Inc. and its affiliates (“Boston Pizza”).  This Policy explains how Boston Pizza collects, uses and discloses the personal information you may provide to Boston Pizza while using Boston Pizza’s website and the services provided through the website (collectively the “Website”).</p>
+	<p>This version in effect since June 13, 2014</p>
+	<p>Protecting your privacy is important to Boston Pizza International Inc. and its affiliates (“Boston Pizza”).  This Policy explains how Boston Pizza collects, uses and discloses the personal and non-personal information you may provide to Boston Pizza: (i) while using Boston Pizza’s websites and the services provided through the websites (collectively the “Websites”); (ii) while using Boston Pizza’s mobile applications and the services provided through the mobile applications (collectively, the “Mobile Apps”, and together with the Websites, the “Boston Pizza Technology”); or (iii) while otherwise corresponding to or with Boston Pizza (collectively, “Correspondence”).</p>
 
 	<h5>Your Consent</h5>
-	<p>1. By using the Website or by submitting information to Boston Pizza through or in connection with the Website, you signify your consent to the collection, use and disclosure of your personal information in accordance with this Policy.</p>
+	<p>1. By using the Boston Pizza Technology or by submitting information to Boston Pizza through or in connection with the Boston Pizza Technology or via Correspondence, you signify your consent to the collection, use and disclosure of your personal information in accordance with this Policy and Boston Pizza’s General Terms and Conditions (which are available <a href="http://bostonpizza.com/en/legal/disclaimer/">here</a>).  If you do not consent to the collection, use, and disclosure of your personal information in accordance with this Policy and the General Terms and Conditions, you may not use the Boston Pizza Technology.</p>
 
 	<h5>Information Automatically Collected Through The Website</h5>
-	<p>2. Non-Personal Information – The Website automatically collects certain non-personal information regarding Website users, such as the date and time you access the Website, the Internet address of the website from which you linked to the Website, the operating system you are using, and the Website pages read and images viewed.  This non-personal information is used for the Website and system administration purposes and to improve the Website.  Non-personal information may be disclosed to other persons and permanently retained for future use.</p>
-	<p>3. Cookies – The Website uses “cookies”, a technology that installs a small amount of information on a Website user’s computer to permit the Website to recognize future visits using that computer.  Cookies enhance the convenience and use of the Website.  For example, the information provided through cookies is used to recognize you as a previous user of the Website (so you do not have to enter information every time), offer personalized web page content and information for your use, and otherwise facilitate your Website experience.  You may choose to decline cookies if your browser permits, but doing so may affect your ability to access or use certain features of the Website.</p>
+	<p>2. Non-Personal Information – The Boston Pizza Technology automatically collects certain non-personal information regarding users, such as the date and time you access the Boston Pizza Technology, the Internet address of the website from which you linked directly to the Boston Pizza Technology, the browser and operating system you are using, and the Boston Pizza Technology pages read and content accessed or downloaded.  This non-personal information is used for system administration purposes and to improve the Boston Pizza Technology.  Non-personal information may be disclosed to other persons and permanently retained for future use.  If non-personal information is combined with personal information, then the non-personal information will be treated as personal information.</p>
+	<p>3. Cookies – The Boston Pizza Technology uses “cookies”, a technology that installs a small amount of information on a user’s computer or smartphone to permit the Boston Pizza Technology to recognize future visits using that computer or smartphone.  Cookies enhance the convenience and use of the Boston Pizza Technology.  For example, the information provided through cookies is used to recognize you as a previous user of the Boston Pizza Technology (so you do not have to enter information every time), offer personalized page content and information for your use, and otherwise facilitate your Boston Pizza Technology experience.  You may choose to decline cookies if your computer or smartphone permits, but doing so may affect your ability to access or use certain features of the Boston Pizza Technology.</p>
+    <p>4. Advertisement Cookies – Advertisements may be displayed on the Boston Pizza Technology and may contain cookies or other technologies.  Third party advertising companies may provide those advertisements and Boston Pizza has no control over, and no responsibility or liability for, the cookies or other technologies used in the advertisements or for the use and disclosure of information collected through advertisement cookies or other technologies.</p>
 
 	<h5>Personal Information You Specifically Provide</h5>
-	<p>4. Your Personal Information – During your use of the Website, you may be asked to voluntarily provide personal information, such as your personal name, email address, postal address, telephone number, birth date, occupation, present employer and other information) in order to participate in sweepstakes or contests, submit suggestions or comments, request information regarding becoming a franchisee or other online interactive activities.  You can choose not to provide certain requested personal information, but then you may not be able to use certain services provided by Boston Pizza or access or use certain features of the Website.</p>
-	<p>5. Use of Your Personal Information – Boston Pizza uses your personal information for the following purposes and as otherwise permitted by applicable law:  (a) to help us understand better visitors’ use of the Website; (b) to fulfill prizes; (c) to respond to specific requests from you; (d) to contact and correspond with you regarding your visits to Boston Pizza restaurants; (e) to contact and correspond to you regarding promotions offered by Boston Pizza, its franchisees and its suppliers and contractors; and (f) to evaluate your suitability as a prospective franchisee; and (g) to protect the security of the Website when necessary.  Boston Pizza may also develop a confidential profile for you, which will be used to provide services to you and facilitate your use of the Website, and may keep a record of all communications with you.</p>
-	<p>6. Emails and Newsletters from Boston Pizza – From time to time, Boston Pizza may send to you email or other communications containing information about Boston Pizza, current promotions or specials, the Website and other matters Boston Pizza believes will interest you.  At any time you may ask Boston Pizza to stop sending you email, newsletters and other information by sending your request to Boston Pizza’s Privacy Officer at one of the addresses noted below.  Also, each email Boston Pizza sends to you will tell you how to decline further unsolicited communications.</p>
-	<p>7. Disclosure of Your Personal Information – Boston Pizza may disclose your personal information in the following circumstances and as otherwise permitted by applicable law:</p>
-	<p>(a) Disclosure to Authorizing Persons – If you use the Website on behalf of another person or organization (such as your employer), Boston Pizza may provide your personal information to that authorizing person or organization.  If you do not wish your personal information to be disclosed to the person or organization on whose behalf you use the Website, you may not use the Website.</p>
-	<p>(b)Disclosure to Affiliates, Agents and Suppliers – Boston Pizza may provide your personal information to its affiliates, agents, suppliers and service providers in order to provide services to you.  Boston Pizza requires its affiliates, agents, suppliers and service providers to agree to use your personal information only for the purposes for which it is provided to them, and to protect the privacy of your personal information in a manner that is consistent with this Policy.  If at any time you do not wish your personal information to be disclosed to certain or any other persons, please send your request to Boston Pizza’s Privacy Officer at one of the addresses noted below; however, this may affect your ability to use the Website or receive services from Boston Pizza.</p>
-	<p>(c)Disclosure in Business Transfers – Boston Pizza may be involved in the sale or transfer of some or all of its businesses.  As part of that sale or transfer, Boston Pizza may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy.  If at any time you do not wish Boston Pizza to disclose your personal information as part of the sale or transfer of some or all of its business, please send your request to Boston Pizza’s Privacy Officer at one of the addresses noted below.</p>
-	<p>(d)Law Enforcement and Legal Disclosure – Boston Pizza may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where Boston Pizza has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to its legal counsel.  Boston Pizza has no control over, or liability for, those persons’ use and disclosure of your personal information, and that use and disclosure is not subject to this Policy.</p>
-	<p>8. Ensuring Accuracy of Your Information – Boston Pizza will make reasonable efforts to ensure that your personal information is accurate and complete.  Subject to certain exceptions and limitations prescribed by applicable law, you may request corrections to your personal information in order to ensure its accuracy and completeness.  Requests for corrections to your personal information should be sent to Boston Pizza’s Privacy Officer at one of the addresses noted below.  If the personal information is demonstrated to be inaccurate or incomplete, we will correct the information as required.  You can help Boston Pizza maintain the accuracy of your information by notifying Boston Pizza of any changes to your personal information</p>
-	<p>9. Depersonalized Information – Boston Pizza may use personal information to create non-personal information regarding the use of the Website and related services.  Boston Pizza may then disclose that non-personal information to other persons and permanently retain that non-personal information for future use.</p>
-	<p>10. Business Contact Information – To the extent permitted by law, the provisions of this Policy concerning “personal information” do not apply to information (such as your personal name, position or title, business address, business telephone number, business fax number and business email address) which enable you to be contacted at a place of business.</p>
-	<p>11. Location of Information – Boston Pizza will store and process your personal information in Canada and the United States of America.</p>
-	<p>12. Securing Your Information – Boston Pizza employs reasonable security safeguards appropriate to the sensitivity of the personal information in its possession or under its control in order to protect that information from unauthorized access, collection, use, disclosure, copying, modification or disposal or similar risks.  Only those persons who need to have access to your personal information in order to carry out their duties with respect to the uses set out above will have access to your personal information.  Nevertheless, security risks cannot be eliminated and Boston Pizza cannot guarantee that your personal information will not be used or disclosed in ways not otherwise described in this Policy.</p>
+	<p>5. Your Personal Information – During your use of the Boston Pizza Technology, you may be asked to voluntarily provide personal information (such as your personal name, email address, postal address, telephone number, fax number, login and password information, birth date, occupation, present employer and other information).  You can choose not to provide certain requested personal information, but then you may not be able to use certain services provided by Boston Pizza or access or use certain features of the Boston Pizza Technology.</p>
+	<p>6. Use of Your Personal Information – Boston Pizza uses your personal information for the following purposes and as otherwise permitted by law:  (a) to contact and correspond with you regarding the Boston Pizza Technology, your visits to Boston Pizza restaurants, and promotions offered by Boston Pizza, its franchisees, and its suppliers and contractors; (b) to respond to specific requests from you, and to otherwise administer Boston Pizza’s relationship with you; (c) to process orders for products or services from Boston Pizza restaurants and to facilitate your transactions through the Boston Pizza Technology; (d) to facilitate your participation in rewards programs offered by Boston Pizza; (e) to facilitate your participation in sweepstakes or contests and to fulfill prizes; (f) to process suggestions and comments provided by you; (g) to provide you with franchise information or evaluate your suitability as a prospective franchisee; (h) to help us better understand visitors’ use of the Boston Pizza Technology; and (i) to administer the Boston Pizza Technology and to protect the security of the Boston Pizza Technology when necessary.  Boston Pizza may also develop a confidential profile for you, which will be used to provide services to you and facilitate your use of the Boston Pizza Technology, and may keep a record of all communications with you.</p>
+	<p>7. Communications from Boston Pizza – Subject to you providing your express or implied consent and applicable laws, from time to time, Boston Pizza may send to you email, text messages or other communications containing information about Boston Pizza, current promotions or specials, the Boston Pizza Technology, programs offered or administered by Boston Pizza, and other matters Boston Pizza believes will interest you.  At any time, you may ask Boston Pizza to stop sending you such email, text messages or other communications by sending your request to Boston Pizza’s Privacy Officer at one of the addresses noted below.  Also, each email Boston Pizza sends to you will tell you how to decline further communications.</p>
+	<p>8. Disclosure of Your Personal Information – Boston Pizza may disclose your personal information in the following circumstances and as otherwise permitted by law:</p>
+	<p>(a) Authorized Disclosure:  Boston Pizza may disclose your personal information as permitted by Boston Pizza’s General Terms and Conditions.</p>
+	<p>(b) Disclosure to Authorizing Persons – If you use the Boston Pizza Technology on behalf of another person or organization (such as your employer), Boston Pizza may provide your personal information to that authorizing person or organization.  Boston Pizza has no control over, and no responsibility or liability for, the use of your personal information by your authorizing person or organization, and that use is not subject to this Policy.  If you do not wish your personal information to be disclosed to the person or organization on whose behalf you use the Boston Pizza Technology, you may not use the Boston Pizza Technology.</p>
+	<p>(c) Disclosure to Affiliates, Agents, Suppliers, and Service Providers – Boston Pizza may provide your personal information to its affiliates, agents, suppliers and service providers for use in connection with matters relating to your use of the Boston Pizza Technology, in order to provide products and services to you, to bill you and process payments for the products and services requested by you, and as otherwise permitted by law.  Boston Pizza requires its affiliates, agents, suppliers and service providers to agree to use your personal information only for the purposes for which it is provided to them, and to protect the privacy of your personal information in a manner that is consistent with this Policy.  If at any time you do not wish your personal information to be disclosed to certain or any other persons, please send your request to Boston Pizza’s Privacy Officer at one of the addresses noted below; however, this may affect your ability to use the Boston Pizza Technology, participate in programs offered or administered by Boston Pizza, or receive products or services from Boston Pizza.</p>
+	<p>(d) Disclosure in Business Transfers – Boston Pizza may be involved in the sale or transfer of some or all of its businesses.  As part of that sale or transfer, Boston Pizza may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy and applicable law.</p>
+    <p>(e) Law Enforcement and Legal Disclosure – Boston Pizza may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where Boston Pizza has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to its legal counsel.  Boston Pizza has no control over, or liability for, those persons’ use and disclosure of your personal information, and that use and disclosure is not subject to this Policy.</p>
+	<p>9. Accessing Your Personal Information – You may request access to your personal information and information about Boston Pizza’s collection, use and disclosure of that information by sending your request to Boston Pizza’s Privacy Officer at one of the addresses noted below.  Subject to certain exceptions and limitations prescribed by law, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of the information and to have it amended as appropriate.  You can help Boston Pizza maintain the accuracy of your information by notifying Boston Pizza of any changes to your personal information.</p>
+	<p>10. Depersonalized Information – Boston Pizza may use personal information to create non-personal information regarding the use of the Boston Pizza Technology and related services.  Boston Pizza may then disclose that non-personal information to other persons and permanently retain that non-personal information for future use.</p>
+	<p>11. Business Contact Information – To the extent permitted by law, the provisions of this Policy concerning “personal information” do not apply to information (such as your personal name, position or title, business address, business telephone number, business fax number and business email address) which enable you to be contacted at a place of business.</p>
+	<p>12. Location of Information – Boston Pizza will store and process your personal information in Canada and the United States of America.  The laws of other countries regarding the collection, use, and disclosure of personal information may be different from the laws of Canada. The disclosure of your information in accordance with this Policy and applicable law may result in your personal information being transferred outside of Canada and the United States.</p>
+	<p>13. Securing Your Information – Boston Pizza employs reasonable security safeguards appropriate to the sensitivity of the personal information in its possession or under its control in order to protect that information from unauthorized access, collection, use, disclosure, copying, modification or disposal or similar risks.</p>
 
 	<h5>Other Matters</h5>
-	<p>13. Personal Information of Children – Boston Pizza does not knowingly collect personal information from children under the legal age of majority. If we learn that we have inadvertently collected personal information on a child under the legal age of majority, we will delete that information from our systems.  If you are under the legal age of majority, do not submit or post any information on the Website.</p>
-	<p>14. Other Websites – The Website may contain links to other websites or Internet resources.  When you click on one of those links you are contacting another website.  Boston Pizza has no responsibility or liability for or control over those other websites or their collection, use and disclosure of your personal information.</p>
-	<p>15. Policy Changes – To accommodate changes in Boston Pizza, changing technology, and legal developments, this Policy may be changed from time to time in Boston Pizza’s discretion and without any prior notice or liability to you or any other person.  Boston Pizza’s collection, use and disclosure of your personal information will be governed by the version of this Policy in effect at that time.  New versions of the Policy will be posted on the Website.  Your continued dealings with Boston Pizza or your use of the Website subsequent to any changes to this Policy will signify your consent to the collection, use and disclosure of your personal information in accordance with the changed Policy.  Accordingly, when you use the Website you should check the date of this Policy and review any changes since the last version.  You should also bookmark this page and periodically review this Policy to ensure that you are familiar with the most current version.</p>
+	<p>14. Personal Information of Children – Boston Pizza only collects personal information from or relating to persons who indicate that they are at least 13 years of age.  If we learn that we have inadvertently collected personal information from or relating to a child under 13 years of age, we will delete that information from our systems.  If you are under the age of 13, do not submit or post any information via the Boston Pizza Technology, and do not provide any Correspondence containing personal information.</p>
+	<p>15. Other Websites – The Boston Pizza Technology may contain links to other websites or Internet resources.  When you click on one of those links you are contacting another website.  Boston Pizza has no responsibility or liability for or control over those other websites or their collection, use and disclosure of your personal information.</p>
+	<p>16. Policy Changes – To accommodate changes in Boston Pizza’s businesses, the Boston Pizza Technology, changing technology, and legal developments, among other things, this Policy may be changed from time to time in Boston Pizza’s discretion and without any prior notice or liability to you or any other person.  Boston Pizza’s collection, use and disclosure of your personal information will be governed by the version of this Policy in effect at that time.  New versions of the Policy will be posted on the Websites.  Your continued dealings with Boston Pizza or your use of the Boston Pizza Technology subsequent to any changes to this Policy will signify your consent to the collection, use and disclosure of your personal information in accordance with the changed Policy.  Accordingly, when you use the Boston Pizza Technology you should check the date of this Policy and review any changes since the last version.  You should also bookmark this page and periodically review this Policy to ensure that you are familiar with the most current version.</p>
 
-	<p>Former Users – If you stop using the Website or your permission to use the Website is terminated, Boston Pizza may continue to use and disclose your personal information in accordance with this Policy as amended from time to time.  However, if you want Boston Pizza to stop sending you unsolicited email and other information, please send your request to Boston Pizza’s Privacy Officer at one of the addresses noted below.</p>
+	<p>17. Former Users – If you stop using the Boston Pizza Technology or your permission to use the Boston Pizza Technology is terminated, Boston Pizza may continue to use and disclose your personal information in accordance with this Policy as amended from time to time.</p>
 
-	<h5>17. Contacting The Company’s Privacy Officer</h5>
+	<p>18. Contacting The Company’s Privacy Officer</p>
+    <p>Boston Pizza’s Privacy Officer may be contacted by mail, facsimile or email at:</p>
 	<p>
-		Boston Pizza’s Privacy Officer may be contacted by mail, facsimile or email at:<br>
 		Boston Pizza International Inc.<br>
-		100 – 10760 Shellbridge Way<br>
+		100  10760 Shellbridge Way<br>
 		Richmond, British Columbia<br>
 		V6X 3H1<br>
 		Facsimile No.:  604-270-1041<br>
 		Email:  <a href="mailto:privacy@bostonpizza.com">privacy@bostonpizza.com</a><br>
 		Attention:  Privacy Officer<br>
-		The parties have expressly requested and required that this Policy and all other related documents be drawn up in the English language.  Les parties conviennent et exigent expressement que ce Politique et tous les documents qui s’y rapportent soient rédigés en anglais.
 	</p>
-	
+    <p>19. English Language – The parties have expressly requested and required that this Policy and all other related documents be drawn up in the English language.  Les parties conviennent et exigent expressement que ce Politique et tous les documents qui s’y rapportent soient rédigés en anglais.</p>
+
 </div>
 		
 	</div>
@@ -238,39 +328,69 @@ style="display:none;width:0px;height:0px"></iframe>
 	
 			<div id="footer">
 	<div class="wrapper">
-		<ul id="features">
-			<li><a id="email" href="//subscription.e.bostonpizza.com/" title="Email Club">Email Club</a></li>
-			<li><a id="nutrition" href="/en/nutrition/" title="Nutrition">Nutrition</a></li>
-			<li><a id="kids" href="/en/kids/" title="Kids">Kids</a></li>
-			<li><a id="school" href="/en/school-programs/" title="School Programs">School Programs</a></li>
-			<li><a id="foundation" href="/en/bp-foundation/" title="BP Foundation">BP Foundation</a></li>
-		</ul>
-		<a id="twitter" class="social-buttons" href="//twitter.com/#!/bostonpizza" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Media', 'Click','Twitter']);">Twitter</a>
-		<a id="facebook" class="social-buttons" href="//www.facebook.com/bostonpizza" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Media', 'Click','Facebook - BP']);">Facebook</a>
-		<ul id="info">
-			<li><a href="/en/about/">About Us</a></li>
-			<li><a href="/en/franchising/">Franchising</a></li>
-			<li><a href="/en/careers/">Careers</a></li>
-			<li><a href="/en/bp-income-fund/">BP Income Fund</a></li>
-			<li><a href="/en/bp-usa/">BP USA</a></li>
-			<li><a href="/en/contact/">Contact Us</a></li>
-		</ul>
-		<ul id="legal">
-			<li><a href="/en/site-map/">Site Map</a></li>
-			<li><a href="/en/legal/disclaimer/">Legal Disclaimer</a></li>
-			<li><a href="/en/legal/privacy/">Privacy Policy</a></li>
-			<li><a href="/en/legal/whistle-blower/">Whistle Blower Policy</a></li>
-			
-			
-			
 
-			
-			
-						
-		</ul>
-		<p id="copyright">© Boston Pizza International Inc. 2014</p>
+        <div class="footer-left">
+            <h4>Still haven't found what you're looking for?</h4>
+            <div class="column">
+                <h6>Gift Cards</h6>
+                <ul class="menu">
+                    <li><a id="order-gifts" href="/en/gift-cards/" title="Order a Gift Card" class="">Order a Gift Card</a></li>
+                </ul>
+                <h6>Kids</h6>
+                <ul class="menu">
+                    <li><a id="kids-meals" href="/en/kids/" title="Kid's Meals" class="">Kid's Meals</a></li>
+                    <li><a id="school-programs" href="/en/school-programs/" title="School Programs" class="">School Programs</a></li>
+                </ul>
+            </div>
+            <div class="column">
+                <h6>Nutrition</h6>
+                <ul class="menu">
+                    <li><a id="healthcheck" href="/en/nutrition/" title="Nutrition" class="">Nutrition Overview</a></li>
+                    <li><a id="healthcheck" href="/en/nutrition/smart-eats/" title="Health Check<sup>TM</sup>" class="">Smart Eats<sup>TM</sup></a></li>
+                    <li><a id="nutrition-information" href="/en/nutrition/information/" title="Nutritional Information" class="">Nutritional Information</a></li>
+                    <li><a id="glutenwise" href="/en/nutrition/glutenwise/" title="GlutenWise" class="">GlutenWise</a></li>
+                </ul>
+            </div>
+            <div class="column">
+                <h6>Corporate</h6>
+                <ul class="menu">
+                    <li><a id="about" href="/en/about/" title="About Us" class="">About Us</a></li>
+                    <li><a id="bp-foundation" href="/en/bp-foundation/" title="BP Foundation" class="">BP Foundation</a></li>
+                    <li><a id="franchising" href="/en/franchising/" title="Franchising" class="">Franchising</a></li>
+                    <li><a id="careers" href="/en/careers/" title="Careers" class="">Careers</a></li>
+                    <li><a id="bp-income-fund" href="/en/bp-income-fund/" title="BP Income Fund" class="">BP Income Fund</a></li>
+                    <li><a id="bp-usa" href="/en/bp-usa/" title="BP USA" class="">BP USA</a></li>
+                </ul>
+            </div>
+            <ul id="legal">
+                <li><a href="/en/site-map/">Site Map</a></li>
+                <li><a href="/en/legal/disclaimer/">Legal Disclaimer</a></li>
+                <li><a href="/en/legal/privacy/">Privacy Policy</a></li>
+                <li><a href="/en/legal/whistle-blower/">Whistle Blower Policy</a></li>
+
+                
+                
+
+
+                
+                
+            </ul>
+            <p id="copyright">© Boston Pizza International Inc. 2014</p>
+        </div>
+        <div class="footer-right">
+            <h4>Keep in touch, eh?</h4>
+            <a id="youtube" class="social-buttons" href="//www.youtube.com/user/BostonPizzaCanada" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Media', 'Click','youTube - BP']);">youTube</a>
+            <a id="instagram" class="social-buttons" href="//instagram.com/bostonpizzacanada" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Media', 'Click','Instagram - BP']);">Instagram</a>
+            <a id="twitter" class="social-buttons" href="//twitter.com/bostonpizza" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Media', 'Click','Twitter']);">Twitter</a>
+            <a id="facebook" class="social-buttons" href="//www.facebook.com/bostonpizza" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Media', 'Click','Facebook - BP']);">Facebook</a>
+            <a id="contact" href="/en/contact/" title="Contact Us" class="">Contact Us</a>
+        </div>
+
+
+
+
 	</div>
 </div>		
 
 		
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
