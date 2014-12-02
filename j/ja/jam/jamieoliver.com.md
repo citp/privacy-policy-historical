@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamieoliver.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325153703id_/http%3A//www.jamieoliver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamieoliver.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202221158id_/http%3A//www.jamieoliver.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Jamie Oliver
 
@@ -7,7 +7,7 @@
 
 
 
-**1.** In order to provide you with the full range of services on the Site, we are sometimes required to collect information about you. We will use any personal information collected from the Site in accordance with all laws and regulations relating to the protection of personal data including the Data Protection Act 1998 (as may be amended) (the "Data Protection Act"). Further details on the Data Protection Act can be found on the Information Commissioner's website [(www.informationcommissioner.gov.uk)](http://www.ico.gov.uk/ "information commissioner")
+**1.** In order to provide you with the full range of services on the Site and in connection with any of our competitions and prize draws (together the 'Site' for the purposes of this Privacy Policy), we are sometimes required to collect information about you. We will use any personal information collected from the Site in accordance with all laws and regulations relating to the protection of personal data including the Data Protection Act 1998 (as may be amended) (the "Data Protection Act"). Further details on the Data Protection Act can be found on the Information Commissioner's website [(www.informationcommissioner.gov.uk)](http://www.ico.gov.uk/ "information commissioner")
 
 **2.** Personal information you are asked to supply during your use of the Site including that you supply voluntarily as part of the registration process and any other information relating to your Contributions ("Your Data"), will be used by us, our group companies, service providers and other organisations and by subcontractors, employees, agents and advisors (including legal advisors) as follows: (i) to administer your Membership; (ii) in making decisions about whether any Contributions you seek to upload onto the Site should be accepted, rejected or used; (iii) for marketing purposes where you have specifically agreed to this (see paragraph 10 below); and/or (iv) as set out on the Site or the Terms. In addition, we may at our discretion disclose this information to the police, regulatory bodies or any legal advisers in connection with any alleged criminal offence or suspected breach of the Terms by you or otherwise where required by law.
 
