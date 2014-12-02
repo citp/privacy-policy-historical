@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macmillanhighered.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429214858id_/http%3A//www.macmillanhighered.com/Catalog/content.aspx%3FTitle%3D136) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillanhighered.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202084747id_/http%3A//www.macmillanhighered.com/Catalog/other/privacy) for the most accurate reproduction.*
 
-# Macmillan Higher Education :: PrivacyPolicy
+# Privacy Policy
 
 Effective August 1, 2013
 
