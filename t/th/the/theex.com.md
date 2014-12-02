@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theex.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502050551id_/http%3A//www.theex.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theex.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202110006id_/http%3A//theex.com/system/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : TheEx.com
+# Privacy Policy
 
 The Canadian National Exhibition is committed to protecting the privacy of any personal information you may provide when visiting our Web site. Part of that commitment is to explain what information may be collected and why, how it will be used and who may have access to it. Our practices have been designed to ensure compliance with the privacy provisions of the Municipal Freedom of Information and Protection of Privacy Act.
 
@@ -9,8 +9,6 @@ This privacy statement applies to interactions with the Canadian National Exhibi
 **Personal information**
 
 When you visit the Canadian National Exhibition Web site, you do so anonymously - there is no need to tell us who you are. If you direct an enquiry, we will ask you to provide your name and mailing address or e-mail address for the purpose of responding to your enquiry. Only those who "need to know" will have access to the personal information provided.
-
-Encryption technology protects personal information during transmission. A notice stating "you are in a secure site" will be posted on City sites when you are in an encrypted session. A security icon will also appear in either the lower left corner or, depending on your browser, the lower right corner of your browser window. Secure pages are not saved in temporary caches on a computer. Once you exit secure screens, those screens cannot be accessed again. If encryption is not available through a site, an alternative means of communication will be recommended.
 
 The Canadian National Exhibition Web server does not collect or retain your e-mail address in a database format although some Internet Service Providers may automatically include your e-mail address with your IP address (Internet Protocol).
 
@@ -29,4 +27,4 @@ The Canadian National Exhibition logs HTTP requests to the Canadian National Exh
 
 Our logging is passive and we don't use technologies such as "cookies" or "Web bugs" to maintain any information on site visitors. Logged information, also known as clickstream data, is recorded in non-identifiable form and is used by Canadian National Exhibition staff or those under contract for Web site system administration. Log files are archived and used for systems analysis, maintenance and site evaluation.
 
-If you have any questions about this Web site, use and disclosure practices, please contact Linda Cobon, Privacy Officer at 416-263-3658.
+If you have any questions about this Web site, use and disclosure practices, please contact Corporate Secretariat, Canadian National Exhibition, 210 Princes Boulevard, Exhibition Place, Toronto, Ontario M6K 3C3
