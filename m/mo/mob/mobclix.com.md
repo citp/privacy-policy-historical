@@ -1,137 +1,101 @@
-> *The following text is extracted and transformed from the mobclix.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429161810id_/http%3A//www.mobclix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobclix.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202075351id_/http%3A//axonix.com/privacy-and-cookies.html%23cookie) for the most accurate reproduction.*
 
-# Mobile Advertising, App Advertising and Analytics, Mobile Ad Exchange, Mobclix
+# Axonix | Privacy & Cookies Policy
+
+* * *
 
 ## Privacy Policy
 
-### Mobclix, Inc. Consumer Privacy Policy  
-Your Privacy Rights
+### Who Are We?
 
-Mobclix, Inc. respects our consumer user’s privacy. This Privacy Policy has been developed by Mobclix, Inc. to demonstrate its commitment to your privacy protection. Mobclix, Inc. maintains several websites. For an individual who is a user of one of or several of our websites or is otherwise a user of the variety of services provided by Mobclix, Inc. or its divisions and/or subsidiaries, this Privacy Policy is intended to describe the following for you:
+Axonix Ltd ("Axonix", "us" or "we") is a company incorporated under the laws of England and Wales with its principal office at 20 Air Street, London W1B 5HQ. We control the processing of any information obtained through or in connection with your use of our website; some of that information may enable you to be identifiable ("Personal Information"). Axonix will be responsible for your Personal Information and will decide how it is held and processed. Any Personal Information Axonix collects from you will be processed in accordance with this Privacy Policy.
 
-  * the information we collect about you,
-  * how that information may be used,
-  * with whom it may be shared,
-  * and your choices about such uses and disclosures.
+Axonix is part of the Telefonica group of companies (together the "Telefonica Group Companies" or "Telefonica Group").
 
+### How do we deal with data protection and privacy in general?
 
+We aim keep up-to-date with the legislation on personal data protection, usersï¿½ rivacy and the secrecy and security of personal data.
 
-We encourage you to carefully read this Privacy Policy prior to and when using our websites or services or transacting business with us. By using any of our websites, you are hereby accepting any and all of the practices described in this Privacy Policy.
+Axonix is a new business. This Privacy Policy covers our website but it does not yet include complete details of how the Axonix service itself will process personal data. Rest assured that we are actively working on updating this Privacy Policy for when our new services are launched. In the meantime, if you have any questions please contact [legal@axonix.com](mailto:legal@axonix.com "legal@axonix.com").
 
-If you have any questions about our privacy practices, the end of this Privacy Policy provides information on how to contact us.
+### What Personal Information do we collect from you?
 
-### INFORMATION COLLECTION
+We collect Personal Information that you give to us if sign up for our email alerts. If you register, we will ask you to give us your name, email, occupation and company name. Please make sure that if you give us your personal information, you do it correctly ï¿½ it is your responsibility to give us accurate information about you.
 
-We may collect personal information that can identify you such as your name and e-mail address, as well as other information that does not identify you. When you provide personal information to us through our websites or through any other means, the information may be sent to our servers located in the United States, India, and/or other countries around the world.
+### What exactly do you get if you sign up to mail alerts?
 
-**User Provided Information.** We may collect, store, and use any personal information that you enter on our websites or provide to us in any other manner. This includes identifying information (including but not limited to your name, home or mailing address, e-mail address, and telephone number), your financial information (including but not limited to your income, credit scores, assets, or debts), your Social Security number, personal information (including but not limited to your gender and age), and, any other personal information of any nature whatsoever that you provide to us.
+If you sign up, you can get the latest Axonix news, views or video emailed to you direct from the Website as soon as theyï¿½re available. You also have a choice to opt-in to receive alerts on either news, or opinion pieces or both.
 
-Third Party Information. We may also periodically obtain both personal and non-personal information of any nature whatsoever about you from other Mobclix, Inc. businesses, subsidiaries, divisions, business partners, contractors, affiliates, advisors, service providers, independent application developers, and other third parties. When obtaining this information from third parties, Mobclix, Inc. seeks assurances from the third parties that it has the right to provide the information to us.
+### What if you donï¿½t want alerts anymore?
 
-Information About Others. We may also collect and store personal information that you provide to us about other people (including but not limited to co-applicants), including but not limited to their name, address, phone number, Social Security number, financial information, any resulting Third Party Information, and/or any and all other personal information. By providing us any such information about other people or from our receipt of any such information as a result of information you provided, you are expressly guaranteeing that you have permission to provide such information whether it be of a personal or non-personal nature.
+You can unsubscribe at any time, just click on the link provided at the bottom of the email alert.
 
-**Automatic Information Collection.** We use various technologies to collect information from your computer and about your activities on our websites. These technologies include cookies and similar technologies, web beacons and similar technologies, and other information collection technologies. For example, we collect and store non-personally identifying information through cookies, log files, clear gifs ("web beacons"), and third parties to create a profile of our users that details the users' viewing preferences. Additional detail is provided below:
+### Is there any other data that we get to see?
 
-_Log Files._ Information from your browser is automatically collected when you visit our websites. This information includes your IP address, your browser type and language, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
+We sometimes like to look at which pages are visited the most, so we might analyse some click through rates and see how often some pages were opened or links were clicked. This is done through the use of cookies.
 
-_Cookies._ A cookie is a piece of data stored on a user's computer that tracks non-personal information about the user. When using our wesbites, we may assign your computer one or more cookies which enable us to improve the quality of our service and to personalize your experience. Cookies allow us to automatically collect and record information about your activity on our website including but not limited to the web pages you visit, the links or advertisements you click, or any other action you conduct while using our websites. The cookies do not store any personally identifiable information about you. Most browsers automatically accept cookies, but you can usually modify your browser setting to disable cookies. If you choose to disable cookies, you will still be able to access our websites, but you may not be able to use all of the interactive features we offer. Additional information on cookies can be found at: <http://www.microsoft.com/info/cookies.mspx>.
+### What do I need to know about Cookies?
 
-_Web Beacons_. We, or our advertisers, may use standard Internet technology such as web beacons (or "clear gifs") and other similar technologies, to gather aggregate, non-personally identifiable information about your use of our websites. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. This allows us to gauge the effectiveness of our marketing efforts, online advertising, content, programming, or other activities, deliver targeted advertisements, customize the services we offer our users, and measure the overall quality of our websites, our online advertising, content, programming or other activities.
+We use cookies on this website in a few different ways. If you want to know more about cookies, take a look at our Website Cookies Policy. If you donï¿½t want anything to do with cookies, you can change your browser settings to decline them if you like.
 
-_Information Collected by Third Parties_. We and our business partners, including but not limited to advertisers, may use tracking technologies, such as cookies, web beacons, and other similar technologies to collect information about users who view or interact with these business partners, advertisers, and/or third parties on our website; further, we may use these tracking technologies to collect information about users who view or interact with advertisements and connect to other websites. This information allows us and our business partners to deliver targeted advertisements and gauge their effectiveness. Please note that we do not have access to or control over third party cookies used on our websites, and this policy does not govern the use of cookies by these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies.
+### Do we share your Personal Information with anyone?
 
-**Sponsor or Link Websites.** Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used. We use this information for several purposes including but not limited to improving the quality of our websites, tracking advertising, and personalizing your online experience. Please be aware, however, that we are not responsible for the privacy practices of any website that is not controlled by and owned by Mobclix, Inc.
+We donï¿½t share your Personal Information with anyone, except:
 
-**No Information From Children.** Mobclix, Inc. will never knowingly collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because we do not collect such information, we have no such information to use or to disclose to third parties. Our websites target an audience that is over the age of 18 and some content may not be appropriate for all ages. We recommend that minors over the age of 13 ask their parents and/or legal guardians for permission before sending any information about themselves to anyone over the Internet. We have designed our privacy policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
-
-### INFORMATION USE  
-PLEASE NOTE THAT WE MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN OUR SOLE DISCRETION.
-
-We may match any of the technical information we gather to any personally identifying information, any personal information, and/or any non-personal information that we have obtained through you or third parties to provide you offers and improve the content of the websites and services for you. Some of the ways in which we may use or share information that we collect about you include but are not limited to the following:
-
-  * Develop and display customized content, advertising, and services for our websites and other websites;
-  * Deliver the products and services that you have requested and/or expressed interest in as determined by our information collection technologies;
-  * Advertise products and/or services;
-  * Provide technical or customer support;
-  * Manage your customer relationship;
-  * Perform research and analysis to gauge use of or interest in products, services, or content offered on our websites or by third parties, and to develop new content, products, and services;
-  * Communicate with you by internet, chat, instant messenger, e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties;
-  * Enforce our terms and conditions, or otherwise manage our business;
-  * Verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes;
-  * Perform functions as otherwise described to you at the time of collection.
+  * With other Telefonica group companies and/or the trusted business partners that work with us on collecting, storing and processing your information for us. We only give them the information that they need in order to perform their specific obligations and we require them to do it based on our instructions and in compliance with this Privacy Policy and any other relevant confidentiality or security measures;
+  * When we have a good faith belief that we should share your information;
+  * To comply with applicable laws, regulations, legal processes or enforceable governmental requests;
+  * To enforce applicable Terms and Conditions, including the investigation of potential violations; or
+  * To protect against or prevent harm to rights, property or safety of Axonix, or yours or those of the public, as required or permitted by law.
 
 
 
-Financial Information. We may use financial information to match you with institutions that offer financial and/or insurance products and services, to verify your identify, to protect against or identify possible fraudulent transactions, or otherwise as needed to manage our business; further, if you request a product or service through our website, we may use your financial information to charge you any applicable processing fees.
+### Security
 
-Communications from This Website. Unless you have opted out of these features, we may use your information in a variety of ways to communicate with you, including but not limited to email, newsletters, RSS feeds, service announcements, or for customer service.
+Axonix has technical and organisational measures in place to protect against the loss, misuse, alteration, unauthorised access or theft of any of your Personal Information. We use industry standard efforts to safeguard the confidentiality of the information stored in our platform.
 
-Job Applicants. If your personal information is submitted through our websites when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for an indefinite period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with the other Mobclix, Inc. companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
+### Changes
 
-### INFORMATION SHARING
+We may update this Privacy Policy from time to time. We will post any Privacy Policy changes on our Website. The date that this Privacy Policy was last changed is stated below. Please do check back here from time to time to make sure that you remain fully informed.
 
-_Personal Information:_ We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our websites or while using our services. Unless you have opted out, we may rent, sell, or share any of your information, personal, financial or otherwise, with third parties, including but not limited to the following purposes:
+### Need to get in touch with us?
 
-_Service Providers:_ We may share your personal information alone or in combination with non-personal information with our service providers that perform certain services on our behalf in connection with your request, interest, and/or inquiries for products and/or services offered on our websites. These service providers may include but are not limited to educational institutions, credit bureaus, title companies, insurance providers, appraisal companies, escrow companies, closing agents, other financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through our websites, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions which may include contacting you.
+If you want to ask us to access, correct, change, get rid of, or stop any of your Personal Information from being processed, or if you just want to ask anything about this Privacy Policy, then drop us an email on [legal@axonix.com](mailto:legal@axonix.com "legal@axonix.com").
 
-_Business Partners:_ When you express interest in promotions, offers, programs, applications, products, and/or services offered through our websites or our services, we may share your expression of interest and any and all personal, non-personal, and other information of any nature whatsoever to which we have access with the businesses with which we partner to offer you products, services, promotions, contests and/or sweepstakes.
+## Cookie Policy
 
-If you partially or totally complete and submit a portion of a form on any of our websites, Mobclix, Inc. and its family of businesses may share your personal information with other businesses within the family of Mobclix, Inc. and third parties to complete a form or application on any of the websites. Because these third parties may retain or use your personal information, you should contact them directly concerning their privacy and information sharing practices. For a list of these third parties to whom your information was disclosed, you may email us at info@Mobclix.com
+When you browse on our website, Axonix Ltd ("Axonixï¿½, "usï¿½ or "weï¿½) receives and records information from your browser. We get hold of this information using technology such as cookies.
 
-_Other Mobclix, Inc. Businesses:_ We are part of the Mobclix, Inc. family of businesses. For a list of our family of businesses, please email us at [info@Mobclix.com](mailto:info@Mobclix.com). We may share any and all information of any nature whatsoever that we collect, including but not limited to personal and non-personal information, with the Mobclix, Inc. family of businesses (some of which are nonfinancial businesses). Sharing information with Mobclix, Inc. companies enables us to provide you with information about a variety of products and services that might interest you. All of Mobclix, Inc. family of businesses comply with this Privacy Policy. All Mobclix, Inc. family of businesses will also comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages from that company in the future. Special notice to California residents: Mobclix, Inc. will not share any personal information about you with other Mobclix, Inc. family of businesses to the extent prohibited by applicable California law or to the extent your prior consent to share is required by applicable California law. California residents may, no more than once per calendar year, request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us at info@Mobclix.com. Within thirty days of receiving this request, we will provide a list of the categories of personal information disclosed for direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties, and if the nature of the third party’s business cannot be determined from their name, examples of the products or services marketed; we may provide this information in a standardized format that is not specific to you.
+Axonix is a new business. This Cookies Policy covers our website but it does not yet include complete details of how the Axonix service itself will use cookies. Rest assured that we are actively working on updating this Cookies Policy for when our new services are launched. In the meantime, if you have any questions please contact [legal@axonix.com](mailto:legal@axonix.com "legal@axonix.com").
 
-_Third parties for legal process:_ In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms of use, conditions or other agreements or policies.
+### What are Cookies?
 
-_Third parties for business reasons:_ In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. If a change in ownership occurs that will result in your personal information being used in a manner different from that stated in the then-existing privacy policy, notification will be provided consistent with the terms of this Privacy Policy.
+Cookies are text files that contain little amounts of information that Axonix or third parties send to your computer, phone, tablet or other equipment ("deviceï¿½) when you visit our website. If you visit our website again, those cookies are sent back to our website or another one that recognises the cookie, allowing us to recognise your device.
 
-Please note that once your information is shared with a third party, our Privacy Policy does not cover any third party's use or handling of any of your information (whether it be your personal information, your non-personal information, or your other information). Any third parties to whom we may disclose any information may have their own privacy policies which describe how they use and disclose any and all information. Those policies will govern use, handling and disclosure of any and all of your information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+### How do we use Cookies?
 
-**Aggregated and Non-Personal Information.** We may rent, sell, or share aggregated and/or demographic information (i.e., information about you and other customers collectively, but not specifically identifiable to you), and other non-personal information we collect under any of the above circumstances. We may also share it with third parties and the Mobclix, Inc. family of businesses to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including but not limited to advisors, advertisers, affiliates, business partners, and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our websites and the most popular features or services accessed.
+We use cookies in a few different ways:
 
-**Third-Party Websites and Links.** There are a number of places on our websites where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on our websites, you may be taken to a website that we do not control. We are not responsible for the privacy practices of third party linked websites, even if our websites frame the linked third party website. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We encourage and recommend you to be aware of when you leave our website and to review and consult the privacy statements and policies of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting. This Privacy Policy applies solely to information we collect.
+  * We use some to enable you to browse our website and use all of the different features ï¿½ without them we wonï¿½t be able to offer you all of the services available on our pages. You can decline these if set your browser to, but please remember this might affect the usability of the website.
+  * We also have cookies that collect information on how our website is used. This is information such as which pages are visited the most or whether any pages wonï¿½t load. The information collected is anonymous and aggregated and allows us to improve the performance of our website.
+  * Another cookie we use is known as the Google Analytics cookie. This is a tracking cookie set by Google and used to collect information about how you use our website. Google use this information for us to compile reports which show us how our website is used. This helps us to improve our website. The cookie collects information in an anonymous form, which means it cannot be linked back to you. It collects information such as the number of visitors using the website, where visitors have come to the website from and what pages they have visited. If you want to read more about Google Analytics, just have a look at their [Privacy Policy](https://www.google.com/analytics/learn/privacy.html "Google Privacy Policy") online.
 
-### YOUR CHOICES ABOUT COLLECTION AND USE OF YOUR INFORMATION & OPT-OUT
 
-We give our users the opportunity to "opt-out" of having their information used for purposes not directly related to our websites at the point where we ask for the information. It may take up to 30 days for us to process an opt-out request. Please be aware that this may result in Mobclix, Inc. and its family of businesses not being able to provide certain services to you and our not being able to provide certain services to you that require us to share your information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by any of the following means: sending an email to [unsubscribe@Mobclix.com](mailto:unsubscribe@Mobclix.com); or sending postal mail to: Mobclix, Inc., Attn: 102 University Ave, Palo Alto, CA 94301
 
-When you initially use our websites, you will be given a choice as to whether you want to receive e-mail messages or newsletters from Mobclix, Inc., its family of businesses, and its third party partners. You may later modify your choice by sending an email to [subscribe@Mobclix.com](mailto:subscribe@Mobclix.com); or sending postal mail to: Mobclix, Inc., Attn: Opt-Out, 2747 Paradise Blvd., Suite 406, Las Vegas, NV 89109. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 30 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as product and service offers, requests for additional information, service updates or announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.
+### How do I turn off Cookies?
 
-Under our Do Not Call policy you may instruct us not to call you for marketing purposes by sending an email to [info@Mobclix.com](mailto:info@Mobclix.com); or sending postal mail to: Mobclix, Inc., Attn: Opt-Out, 102 University Ave. Palo Alto, CA 94301
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to find out the correct way to modify your cookies. But remember, as we mentioned earlier, if you turn cookies off, you may not have access to some of the features that make our website more efficient.
 
-We will implement your instructions within 30 days. We have policies and procedures in place and train our employees to honor your request. Please note that we may still need to call you for servicing or other non-marketing purposes.
+### What about web beacons and page tags?
 
-If you do not want us to send you postal mail for marketing purposes, you may remove your name from current and future mailing lists by sending an email to [info@Mobclix.com](mailto:info@Mobclix.com); or sending postal mail to: Mobclix, Inc., Attn: 102 University Ave, Palo Alto, CA 94301
+Google Analytics also uses web beacons and page tags. These serve a similar purpose to cookies. A "web beacon" is a clear picture file which keeps track of your navigation through the website. Turning off the website's cookies as detailed above will prevent web beacons from tracking your specific activity. The web beacon may still record an anonymous visit from your IP address but unique information will not be recorded.
 
-Please note that opting out of receipt of promotional e-mail communications or any other type of communication will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party. To opt-out of communications from our third party business partners, please contact them directly.
+### Can I opt out of Google Analytics?
 
-### INFORMATION RETENTION, SECURITY, AND PROTECTION
+If you wish to opt out of being tracked by Google Analytics across all websites you can visit [Google's website](http://tools.google.com/dlpage/gaoptout "Google Analytics Website Optout") and download the Google Analytics Opt-out Browser Add-on.
 
-Mobclix, Inc. and its family of businesses store your information, automated personal information, financial information, credit card, and billing information that we collect about you for a minimum of one year from the time of initial submission. We may retain the information for indefinite periods of time during and for a minimum of one year after the term of your membership for billing purposes. Further, we may use this information for any purpose including but not limited to marketing, billing and/or any other purpose required by applicable law.
+### Your consent and feedback
 
-We take appropriate security measures (including physical, electronic and procedural measures) to protect your personal information from unauthorized access, loss, alteration, destruction, and disclosure. These include internal reviews of our data collection, storage and processing practices and security measures, as well as digital encryption and physical security measures to guard against unauthorized access to systems where we store personal information. We use industry standard one-way SHA-256 hash to store all user information.
+By using our website without disabling cookies you are consenting to our use of cookies and web beacons as described in this policy. If you have any questions of feeback concerning this Cookies Policy please drop us an email on [legal@axonix.com](https://web.archive.org/web/20141202075351id_/http%3A//axonix.com/legal@axonix.com "legal@axonix.com").
 
-Further, only authorized employees and authorized third-party service providers are permitted to access personal information, and they may do so only for permitted business functions; also, we restrict access to personal information to employees, contractors, and agents who have a "need-to-know" that information in order to operate, develop or improve our services and websites, and who are bound by confidentiality requirements. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
-
-We want you to feel confident using our websites to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information. Please refer to the Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
-
-### OTHER PRIVACY POLICY INFORMATION
-
-**Visiting our websites from outside the United States**  
-This Privacy Policy is intended to cover collection of information on our websites from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. If you are visiting our websites from outside the United States, you acknowledge and agree that your information may be transferred to, stored, and processed in the United States and/or India where our servers are located and our central databases are operated. By using our services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
-
-**No Rights of Third Parties**  
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of our websites.
-
-**Changes to this Privacy Policy**  
-This Privacy Policy may be updated from time to time to reflect changes in our practices and services. We reserve the right to modify it at any time, so please review it frequently. When changes are made to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will also prominently post notice of the changes on our websites and/or we may notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an e-mail address or you have opted-out of such communication). We recommend that you check our websites from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. Your continued use of our websites or services after we have posted any Privacy Policy changes indicates your agreement to the changes unless you notify us otherwise.
-
-**How to contact us**  
-If you have any questions about this Privacy Policy or want to update your personal information, please contact us by postal mail as follows:
-
-Privacy Officer  
-Mobclix, Inc.  
-102 University Ave,  
-Palo Alto, CA 94301  
-© 2008-2010 Mobclix, Inc. All rights reserved.
-
- 
+Last updated: 30 April 2014
