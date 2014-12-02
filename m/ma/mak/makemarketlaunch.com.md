@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makemarketlaunch.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617043358id_/http%3A//www.businessacceleratorblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemarketlaunch.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202044113id_/http%3A//www.businessacceleratorblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business Accelerator Blog
+# Privacy Policy - Business Accelerator Blog
 
 **Privacy Policy  
 (Ver 1.0 Effective October 28, 2011)**
