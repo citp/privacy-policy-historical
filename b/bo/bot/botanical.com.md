@@ -1,20 +1,8 @@
-> *The following text is extracted and transformed from the botanical.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045230id_/http%3A//botanical.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botanical.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202025229id_/http%3A//botanical.com/privacy.html) for the most accurate reproduction.*
 
-# Botanical.com Privacy Statement
+# A Modern Herbal - Privacy
 
-  
-_...on the world wide web since 1995_   
-Home of the electronic version of "A Modern Herbal" by Maud Grieve.   
-
-
-|   
-  
-_"The scholar who cherishes the love of comfort is not fit to be deemed a scholar."_   
-**\-- The Confucian Analects**  
-  
-* * *  
-  
-|  |   | 
+## Privacy Statement
 
 **Our Promise**   
 Your information remains confidential. We pledge to regard your privacy with the highest degree of respect. 
