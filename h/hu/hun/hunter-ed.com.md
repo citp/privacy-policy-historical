@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042204id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202023854id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hunter Safety Course with Online Exam - Get Your Hunting License or Certification
 
@@ -10,9 +10,7 @@ In order to access the course material, users must register by providing persona
 
 ## What Hunter Ed Does With the Information We Collect
 
-The personal information you supply to **Hunter Ed** will not be disclosed outside of **Hunter Ed** , except to securely transfer the personal data to the agency in your state which is responsible for hunting in order to issue your hunter education certificate. Your credit card information will be used only for processing your fee(s) related to taking the online certification exam.
-
-**Hunter Ed** will not use the personal information we collect for any other purpose other than to help you obtain your hunting safety certification.
+The personal information you supply to **Hunter Ed** will not be disclosed outside of **Hunter Ed** , except to securely transfer the personal data to the agency in your state which is responsible for hunting in order to issue your hunter education certificate. Your credit card information will be used only for processing your fee(s) related to taking the online certification exam. 
 
 The online hunting safety courses on this site contain links to other sites. **Hunter Ed** is not responsible for the privacy practices or the content of such websites; however, we make our best effort to only provide links to reputable sites with acceptable content. Please remember that any information that is disclosed in these other sites may become public information and you should exercise caution when deciding to disclose your personal information.
 
@@ -22,7 +20,7 @@ We do not share, sell, or otherwise distribute information about individual user
 
 ## Identity Theft and Security
 
-All of your personal and credit card information is collected using SSL (Secure Socket Layer) Protocol, which encrypts your information and allows that information to be securely transferred to Boat Ed. The SSL Certificate that protects the Boat Ed site ensures that your identity is authenticated and that any and all information you enter on our website is private. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.
+All of your personal and credit card information is collected using SSL (Secure Socket Layer) Protocol, which encrypts your information and allows that information to be securely transferred to Bowhunter Ed. The SSL Certificate that protects the Bowhunter Ed site ensures that your identity is authenticated and that any and all information you enter on our website is private. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.
 
 ## Children and Privacy
 
