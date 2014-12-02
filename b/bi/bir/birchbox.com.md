@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625004525id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202210121id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Birchbox
 
 Birchbox Inc. (“Birchbox”, “we” or “us”), the operator of this web site, is committed to preserving the privacy of those who visit [www.birchbox.com](https://birchbox.com/) site (the “Site”). This document will outline how we gather and utilize various sources of information obtained during your visit to the Site. We adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the [U.S. Department of Commerce](https://safeharbor.export.gov/list.aspx) (the “Principles”) with respect to all such data. If there is any conflict between the Policies in this privacy policy and the Principles, the Principles shall govern. This Privacy Policy applies solely to information collected at this Site, and is made a part of and incorporated into the Site [Terms and Conditions](https://web.archive.org/about/terms-conditions).
 
@@ -71,10 +71,14 @@ Birchbox Inc
 12th Floor  
 New York, NY 10016  
 (877) 487-7272  
-[info@birchbox.com](https://web.archive.org/web/20140625004525id_/https%3A//www.birchbox.com/about/info@birchbox.com)
+[info@birchbox.com](https://web.archive.org/web/20141202210121id_/https%3A//www.birchbox.com/about/info@birchbox.com)
 
 ### United States of America
 
 Our Site is maintained in the United States of America. By using the Site, you authorize the export of Personal Information to the USA and its storage and use as specified in this policy.
 
 **Effective Date:** This Privacy Policy is effective and was last updated on April 5, 2013.
+
+Get a monthly box of five personalized beauty samples. 
+
+Get a monthly box of personalized grooming samples, plus a stylish accessory. 
