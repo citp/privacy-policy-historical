@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the normalboots.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071501id_/http%3A//normalboots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the normalboots.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202084815id_/http%3A//normalboots.com/privacy) for the most accurate reproduction.*
 
 # Privacy » NormalBoots
 
@@ -24,7 +24,7 @@ Normalboots.com takes great care to protect its users personal information but c
 
 Normalboots.com allows members to post URL’s that may take users to other websites. Normalboots.com can make no guarantees as to the Privacy Policies of these sites.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](https://web.archive.org/web/20140625071501id_/http://normalboots.com/privacy/networkadvertising.org).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](https://web.archive.org/web/20141202084815id_/http://normalboots.com/privacy/networkadvertising.org).
 
 Normalboots.com will update this Privacy Policy from time to time and alert users of the changes via the Normalboots.com online forum or alert system. It is the responsibility of the user to be aware of the current policy.
 
