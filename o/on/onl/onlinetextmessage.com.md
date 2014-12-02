@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetextmessage.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331110415id_/http%3A//www.onlinetextmessage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetextmessage.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202120419id_/http%3A//www.onlinetextmessage.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy For OnlineTextMessage.com
 
@@ -47,7 +47,7 @@ Enter your email/phone number to block its use on this site.
 
 | 
 
-OnlineTextMessage.com - 221,263,855 Messages Sent  
+OnlineTextMessage.com - 242,521,860 Messages Sent  
   
 ---  
 | 
@@ -62,8 +62,8 @@ Your E-Mail Address (from):
   
 Subject:  
   
-|  [](https://web.archive.org/web/20140331110415id_/http%3A//www.onlinetextmessage.com/addtogoogle.php)  
-[](https://web.archive.org/web/20140331110415id_/http%3A//www.onlinetextmessage.com/myspace.php)  
+|  [](https://web.archive.org/web/20141202120419id_/http%3A//www.onlinetextmessage.com/addtogoogle.php)  
+[](https://web.archive.org/web/20141202120419id_/http%3A//www.onlinetextmessage.com/myspace.php)  
   
 Select Carrier:  
   
