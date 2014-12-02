@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spaceotechnologies.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630233713id_/http%3A//www.spaceotechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaceotechnologies.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202231041id_/http%3A//www.spaceotechnologies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Space-O : iPhone | iPad | Android | Mobile | App | Developer | Programmer
+# Privacy Policy :: Space-O
 
 [](http://www.spaceotechnologies.com/ "Space-O Technologies")
 
