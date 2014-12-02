@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceptnothing.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530022626id_/http%3A//www.exceptnothing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceptnothing.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202063724id_/http%3A//www.exceptnothing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,4 +62,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about the Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 **m.anirudh18@gmail.com**
 
-Last Updated on:  **June 12, 2013**.
+Last Updated on: **Nov 24, 2014.**
