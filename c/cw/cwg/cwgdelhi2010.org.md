@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwgdelhi2010.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628055323id_/http%3A//d2010.thecgf.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwgdelhi2010.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202030435id_/http%3A//d2010.thecgf.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | XIX Commonwealth Games 2010 Delhi
 
