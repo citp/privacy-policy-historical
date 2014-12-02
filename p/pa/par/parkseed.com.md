@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102915id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202144954id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Park Seed | Park Seed Co.
 
-[](http://parkseed.com/pagan-purples-new-millennium-delphinium/p/43192/)
+[](http://parkseed.com/gateway.aspx?c=bio-dome)
 
 Park Seed asks you to provide certain personally identifiable information in order to use certain "Password Required" features and functions of the website. By providing such information, you consent to our collection and use of it, as described in this Privacy Statement. 
 
