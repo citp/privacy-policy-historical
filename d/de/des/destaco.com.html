@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the destaco.com privacy policy that was archived on 2014-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140417083614id_/http%3A//www.destaco.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the destaco.com privacy policy that was archived on 2014-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202110213id_/http%3A//www.destaco.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>Privacy | DE-STA-CO</title>
 	<base href="http://www.destaco.com/">
 	<link rel="canonical" href="http://www.destaco.com/privacy.html">
-	
+
 	<meta name="description" content="">
 
 	<!-- CSS -->
@@ -101,7 +101,7 @@ jQuery(document).ready(function($) {
 	<div id="container">
 		<div id="primary-nav-region">
 			<ul id="primary-nav" class="clearfix">
-        <li id="link1" class="first level1"><a href="http://www.destaco.com/" title="Material Handling Tools &amp; Automation Equipment">Home</a></li>
+        <li id="link1" class="first level1 parent"><a href="http://www.destaco.com/" title="Material Handling Tools &amp; Automation Equipment">Home</a></li>
 <li id="link2" class="level1 parent"><a href="products.html" title="Material Handling &amp; Automation Equipment Products">Products</a><ul>
         <li id="link3" class="first level2 parent"><a href="clamps.html" title="DE-STA-CO Material Handling Clamps">Clamps</a><ul>
         <li id="link4" class="first level3"><a href="manual-clamps.html" title="Manual Toggle Clamps">Manual Toggle Clamps</a></li>
@@ -115,7 +115,7 @@ jQuery(document).ready(function($) {
 <li id="link411" class="level3"><a href="conveyors.html" title="Precision Conveyors">Conveyors</a></li>
 <li id="link108" class="level3"><a href="parts-handlers.html" title="CAMCO Parts Handlers - Linear &amp; Rotary">Parts Handlers</a></li>
 <li id="link436" class="level3"><a href="custom-cams.html" title="CAMCO Custom Cams - Cam Design &amp; Manufacturing">Custom Cams</a></li>
-<li id="link4037" class="last level3"><a href="rdm-promo.html" title="CAMCO Special Promotions">CAMCO Indexer Promotions</a></li>
+<li id="link4037" class="last level3"><a href="rdm-promo.html" title="CAMCO RDM Indexers - CAMCO Special Promotions">CAMCO Indexer Promotions</a></li>
 
 </ul></li>
 <li id="link90" class="level2 parent"><a href="robohand-grippers.html" title="Robohand Gripping Solutions">Gripping Solutions</a><ul>
@@ -137,13 +137,15 @@ jQuery(document).ready(function($) {
 <li id="link377" class="last level3"><a href="robotic-tooling-safety-mounts.html" title="Robotic Tooling Safety Mounts - Assembly Machine Overload Protection">Safety Mounts</a></li>
 
 </ul></li>
-<li id="link161" class="last level2 parent"><a href="manipulation-transfer-equipment.html" title="CRL Manipulation &amp; Transfer Equipment - Remote Handling Equipment">CRL Remote Handling</a><ul>
+<li id="link161" class="level2 parent"><a href="manipulation-transfer-equipment.html" title="CRL Manipulation &amp; Transfer Equipment - Remote Handling Equipment">CRL Remote Handling</a><ul>
         <li id="link397" class="first level3"><a href="transfer-equipment.html" title="CRL Transfer Products - Hazardous, Toxic &amp; Sterile Material Transfer Equipment">Transfer Products</a></li>
 <li id="link401" class="level3"><a href="waste-drum-transfer-systems-wdts.html" title="Waste Drum Transfer Systems (WDTS)">Waste Drum Transfer Systems (WDTS)</a></li>
 <li id="link163" class="level3"><a href="telemanipulators.html" title="Telemanipulators Products">Telemanipulators</a></li>
 <li id="link349" class="last level3"><a href="gloveport-systems.html" title="Gloveport Systems">Gloveport Systems</a></li>
 
 </ul></li>
+<li id="link176" class="level2"><a href="custom-solutions.html" title="Custom Solutions">Custom Solutions</a></li>
+<li id="link4081" class="last level2 parent"><a href="case-studies.html" title="Case Studies">Case Studies</a></li>
 
 </ul></li>
 <li id="link177" class="level1 parent"><a href="markets.html" title="Markets: Industrial Material Handling Tools, Products &amp; Automation Equipment">Markets</a><ul>
@@ -159,10 +161,11 @@ jQuery(document).ready(function($) {
 <li id="link429" class="last level3"><a href="food-processing-products.html" title="Food Processing - Products">Products</a></li>
 
 </ul></li>
-<li id="link178" class="last level2 parent"><a href="life-sciences-material-handling.html" title="Life Sciences Industry Material Handling">Life Sciences</a><ul>
+<li id="link178" class="level2 parent"><a href="life-sciences-material-handling.html" title="Life Sciences Industry Material Handling">Life Sciences</a><ul>
         <li id="link425" class="first level3"><a href="life-sciences-features.html" title="Life Sciences: Features">Features &amp; Benefits</a></li>
 
 </ul></li>
+<li id="link182" class="last level2"><a href="nuclear.html" title="Nuclear Market">Nuclear Solutions</a></li>
 
 </ul></li>
 <li id="link185" class="level1 parent"><a href="product-brands.html" title="Workholding &amp; Automation Product Manufacturers - DE-STA-CO Brands">Brands</a><ul>
@@ -187,6 +190,31 @@ jQuery(document).ready(function($) {
 
 </ul>
 			<!--// search-results.html //-->
+<script type="text/javascript">
+  $(document).ready(function(){
+    var url = window.location.search;
+ 
+    var ctReg = /(\?|\&)\_vsrefdom\=([^\&]+)/i 
+    ctOutput = ctReg.exec(url);
+ 
+    var exReg = /(\?|\&)\ex\=([^\&]+)/i 
+    exOutput = exReg.exec(url);
+ 
+    if(ctOutput != null) {
+      $('#ctInput').attr({
+	name: '_vsrefdom',
+	value: ctOutput[2]
+      });
+    }
+    if(exOutput != null) {
+      $('#exInput').attr({
+	name: 'ex',
+	value: exOutput[2]
+      });
+    }
+  });
+</script>
+
 
 <form class="sisea-search-form" action="search-results.html" method="get">
   <fieldset>
@@ -660,8 +688,8 @@ margin: 0.5em 0;
                                 <a id="tw" href="http://www.twitter.com/destacochat" target="_blank" title="Follow us on Twitter">Follow us on Twitter</a>
                                 <a id="li" href="http://www.linkedin.com/groups?about=&amp;gid=3068790&amp;trk=anet_ug_grppro" target="_blank" title="Connect with us on LinkedIn">Connect with us on LinkedIn</a>
                                 <a id="fb" href="http://www.facebook.com/pages/DE-STA-CO/103432409689319" target="_blank" title="Like us on Facebook">Like us on Facebook</a>
-                                <!--a id="gp" href="cccccc" target="_blank" title="Find us on Google+" rel="publisher">Find us on Google+</a>
-                                <a id="pt" href="ffffff" target="_blank" title="Find us on Pinterest">Find us on Pinterest</a-->
+                                <a id="gp" href="http://plus.google.com/103274530665026371333?rel=author" target="_blank" title="Find us on Google+" rel="publisher">Find us on Google+</a>
+                               <!-- <a id="pt" href="ffffff" target="_blank" title="Find us on Pinterest">Find us on Pinterest</a-->
                             </div>
                             <h5>Subscribe to Our Newsletter</h5>
                             <form id="ccoptin" name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post">
@@ -698,13 +726,21 @@ margin: 0.5em 0;
                 </div>	<!-- /bottom -->            
             </div>	<!-- /megafooter -->
         </div> <!-- END page-wrap -->
-<!-- TopSpot InsiteMetrics Code - START -->
+
+<!--TopSpotIMS.com SNIPPET//-->
 <script type="text/javascript">
-var imJsHost = (("https:" == document.location.protocol) ? "https://www." : "http://www.");
-var imJsFile = (("https:" == document.location.protocol) ? "ujutilv2sll.js" : "ujutilv2.js");
-document.write(unescape("%3Cscript language='JavaScript' src='" + imJsHost + "topfloortech.com/insitemetrics/uRMJ/"+imJsFile+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script language="JavaScript" src="https://www.topfloortech.com/insitemetrics/uRMJ/ujutilv2sll.js" type="text/javascript"></script>
-<!-- TopSpot InsiteMetrics Code - END -->
+//<![CDATA[
+var DID=235329;
+var pcheck=(window.location.protocol == "https:") ? "https://stats.sa-as.com/live.js":"http://stats.sa-as.com/live.js";
+document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'ipt>');
+//]]>
+</script><script src="https://stats.sa-as.com/live.js" type="text/javascript"></script>
+
+<!--TopSpotIMS.com SNIPPET//-->
+
+
+
+
 
 <!-- TopSpot Call Tracking Code - START -->
 <script type="text/javascript">
