@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bedfordstmartins.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514135431id_/http%3A//www.bedfordstmartins.com/Catalog/content.aspx%3FTitle%3D136) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedfordstmartins.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202084747id_/http%3A//www.macmillanhighered.com/Catalog/other/privacy) for the most accurate reproduction.*
 
-# Bedford/St. Martin's :: PrivacyPolicy
+# Privacy Policy
 
 Effective August 1, 2013
 
