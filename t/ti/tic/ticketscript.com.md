@@ -1,33 +1,50 @@
-> *The following text is extracted and transformed from the ticketscript.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924033458id_/http%3A//company.ticketscript.com/eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketscript.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202121745id_/http%3A//company.ticketscript.com/uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - ticketscript
+# Privacy Policy | ticketscript
 
-When you visit our website, our web server only automatically recognises your IP address and not your email address. Our website does not store any information about you.  
-This information is used to individualise the contents and layout of our pages for each individual user. The information is only used internally and is not forwarded to other organisations for commercial purposes.
+**DATA COLLECTION**
 
-On this site we use cookies (a cookie is a small file sent by an Internet server which installs itself on your computer. This file monitors browsing behaviour on the visited Internet site and contains data about this visit):
+**We collect personal and activity data, which may be linked.**  
+We use technologies like cookies to identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address. 
 
-\- to register information sessions, such as information about what you add to your cart.
+We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your explicit permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Google and Facebook. 
 
-We do not have any partnerships or special relations with third parties on the Internet.  
-When transferring or receiving your data on our website, we always use coding technologies which are accepted as standard within the IT sector. All the necessary security measures have been taken to prevent the loss, misuse or editing of information received on our site.
+Our systems may associate this personal information with your activities in the course of providing service to you (such as pages you view or things you click on or search for). 
 
-**How do you contact us with regard to our privacy policy?**  
-If you wish to discuss our privacy policy, you can contact us:  
-\- By email: info@ticketscript.com  
-\- By telephone: +31 (0)205289068  
-\- By letter: Prins Hendrikkade 187 1011 TD Amsterdam, the Netherlands
+We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly obtain parental consent or remove the information. 
 
-**About communication by email:**  
-If you do not wish to receive emails from our company in future, you can contact us at the above address.
+Our service does not currently recognize the "Do Not Track" signal that may be available in some web browsers. 
 
-**About communication by letter:**  
-If you tell us your postal address via the web, you will only receive the information requested at the given address.
+**SHARING DATA**
 
-Our company may use the consumer information for new purposes which have not yet been specified in our privacy policy. In that case, we will contact you before using your data for these new purposes to inform you about any changes to our regulations regarding the protection of your personal data and to offer you the opportunity to refuse.
+**We may collect but do not share your location history.**  
+To customize our service for you, we may collect and store your geographic location as part of your user profile. This data generally is not shared with others. We may ask for your consent on your first use of the service. 
 
-On request, we will grant visitors to our site access to all the information we hold about them. If you wish to have access to this information, please contact us at the above address.
+**We don't share your personal data with other companies.**  
+We generally do not share personally identifiable information (such as name, address, email or phone) with other companies, with the exception of advertising companies and analytics providers 
 
-On request, we offer visitors to our site the possibility to update and edit any incorrect information we hold about them. If you wish to edit your personal data, please contact us at the above address.
+**Advertising companies may collect data through our service.**  
+Advertising companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. 
 
-If you feel that our site does not correspond with our privacy policy, please contact our company at the above address.
+**You can ask privacy questions.**  
+If you have any questions or concerns about our privacy policies, please contact us via info@ticketscript.com. 
+
+**Analytics providers access data on our behalf.**  
+Analytics companies like Google may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data. 
+
+Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve it. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. [Privacy Policy and Choices](https://support.google.com/analytics/answer/6004245)
+
+**DATA PROTECTION**
+
+**We take detailed steps to protect personal information.**  
+We take reasonable administrative, physical and electronic measures designed to safeguard and protect your information from unauthorized access or disclosure. This includes utilizing Secure Sockets Layer (SSL) software, which encrypts the personal information you input, and storing your information in encrypted form behind a firewall designed to block access from outside our network. However, no security or encryption method can be guaranteed to protect information from hackers or human error. 
+
+Information we collect may be stored or processed on computers located in any country where we do business. 
+
+**YOUR DATA**
+
+**You can ask privacy questions.**  
+If you have any questions or concerns about our privacy policies, please contact us via info@ticketscript.com. 
+
+**You can review more privacy-related information.**  
+This privacy policy was last updated on December 1st, 2014. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. 
