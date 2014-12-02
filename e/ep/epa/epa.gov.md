@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220044104id_/http%3A//www2.epa.gov/webguide/privacy-and-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202063907id_/http%3A//www2.epa.gov/home/privacy-and-security-notice) for the most accurate reproduction.*
 
-# Privacy and Security Notice | Web Guide | US EPA
+# Privacy and Security Notice | EPA Home | US EPA
 
 This page explains how we will handle information we learn about you from your visit to our site, and tells you that EPA monitors network traffic to ensure website security.
 
@@ -37,7 +37,7 @@ Your viewing of EPA’s website does not result in the collection of any persona
 
 Top of Page
 
-**Children’s Privacy** : Some EPA Web pages provide content to children. It is EPA policy, in compliance with the requirements of the [Children's Online Privacy Protection Act (COPPA)](http://www.ftc.gov/ogc/coppa1.htm), to collect no information online about or from children under the age of 13 except when it is needed to identify a submission or to answer a question. Any such instances where information is collected on Web pages for children will be clearly marked. Unless required by law or EPA obtains parental permission in writing, the information will not be used for other purposes or shared with third parties, nor will personally identifying information be published on the EPA website. When EPA offices identify the work product of a child under thirteen on the EPA public access website, only the first name, age, and home state of the child will be stated (e.g., Mike, age 7, Kentucky) unless the parent makes a hardcopy request to have additional information posted. [More information about EPA's Children's Privacy Policy (PDF)](http://www.epa.gov/irmpoli8/policies/2182p.pdf) (5 pp, 72K, [About PDF](https://web.archive.org/webguide/pdf-files)).
+**Children’s Privacy** : Some EPA Web pages provide content to children. It is EPA policy, in compliance with the requirements of the [Children's Online Privacy Protection Act (COPPA)](http://www.ftc.gov/ogc/coppa1.htm), to collect no information online about or from children under the age of 13 except when it is needed to identify a submission or to answer a question. Any such instances where information is collected on Web pages for children will be clearly marked. Unless required by law or EPA obtains parental permission in writing, the information will not be used for other purposes or shared with third parties, nor will personally identifying information be published on the EPA website. When EPA offices identify the work product of a child under thirteen on the EPA public access website, only the first name, age, and home state of the child will be stated (e.g., Mike, age 7, Kentucky) unless the parent makes a hardcopy request to have additional information posted. [More information about EPA's Children's Privacy Policy (PDF)](http://www.epa.gov/irmpoli8/policies/2182p.pdf) (5 pp, 72K, [About PDF](https://web.archive.org/home/pdf-files)).
 
 Top of Page
 
@@ -65,7 +65,7 @@ For more information about the federal government's use of persistent cookies, p
 
 Top of Page
 
-**How Long is the Information Retained** : The logs for each day, with no personal information, are maintained in accordance with [Records Schedule 095](http://www.epa.gov/records/policy/schedule/sched/095.htm).
+**How Long is the Information Retained** : The logs for each day, with no personal information, are maintained in accordance with [Records Schedule 095](http://www.epa.gov/records/policy/schedule/sched/0095.htm).
 
 Top of Page
 
