@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voteurl.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508002414id_/http%3A//www.voteurl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voteurl.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202103600id_/http%3A//www.voteurl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › VoteURL.com : Organizing and categorizing bookmarks for efficient retrieval from anywhere | Enabling users to organize their bookmarks in flexible ways and develop shared vocabularies
 
