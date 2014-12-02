@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326031253id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202081409id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
 
 # XSplit - Privacy Policy
 
@@ -6,7 +6,7 @@ This policy describes the ways we collect, store, use and protect your personal 
 
 When you use the XSplit Services, we collect information sent to us by your computer, mobile phone or other access device. This information may include your IP address, device information including but not limited to identifier, name and type, operating system, location, and standard web log information, such as your browser type, traffic to and from our site and the pages you accessed on our website.
 
-If you open an account or use the XSplit Services, we may collect the following types of contact information - your name, screen name, password, country, age, gender, email, and other similar information.
+If you open an account or use the XSplit Services, we may collect the following types of contact information - your name, user name, password, country, age, gender, email, and other similar information.
 
 When you use the XSplit Services, we collect information about your streams and your activities on our website, and we may collect information about your computer or other access devices for tracking issues that you may have encountered using our services or applications or for general statistics about our users.
 
