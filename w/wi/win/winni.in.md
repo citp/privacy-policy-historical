@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the winni.in privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520104813id_/http%3A//www.winni.in/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winni.in privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202013846id_/http%3A//www.winni.in/s/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Winni.in
 
-      We understand gifts are best when they come as surprise. Your privacy is very important to us. That's why we insist upon the highest standards for secure transactions and customer information privacy. We do not publish, sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. 
+We understand gifts are best when they come as surprise. Your privacy is very important to us. That's why we insist upon the highest standards for secure transactions and customer information privacy. We do not publish, sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information.
 
-Note:
+**Note:** Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
-Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. 
+**By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.**
 
-By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website. 
-
-By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use. 
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
 
 The privacy practices of this statement apply to our services available under the domain and subdomains of www.winni.in Winni (the "Site") and apply generally to our parent, affiliates, subsidiaries or joint venture websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site. 
 
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about Winni?s practices so that you can make informed decisions. As described in this Privacy Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout Winni. 
 
-By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users. 
-
-Winni.in
+By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users.
 
 ## Your Privacy - Our Commitment
 
@@ -28,7 +24,7 @@ At Winni, we are extremely proud of our commitment to protect your privacy. We v
 
 Winni promises that we will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. From time to time we may reveal general statistical information about our Web site and visitors, such as number of visitors, number and type of goods and services purchased, etc. Your trust and confidence are our highest priority. We will never reveal your personal and sensitive information like credit card numbers, your password, your order details etc.
 
-## Information we collect 
+## Information we collect
 
 When you use our Site, we collect and store your personal information. Our primary goal in doing so is to provide a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Site to make your experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose.
 
@@ -52,7 +48,7 @@ You agree that we may use personal information about you to improve our marketin
 
 You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile. You may make changes to your profile at any time. 
 
-## Our Disclosure of your information 
+## Our Disclosure of your information
 
 We may also use your information to deliver information to you that, in some cases, are targeted to your interests, such as new services and promotions. 
 
@@ -64,7 +60,7 @@ Subclause 1: Therefore, although we use industry standard practices to protect y
 
 Your Consent: By using the Site and/ or by providing your information, you consent to the collection and use of the information you disclose on the Site by Winni in accordance with this Privacy Policy, including but not limited to your consent for sharing your information as per Clause 5 subclause 1 mentioned above. 
 
-If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. We might inform you by email whenever we made changes to our privacy policy else keep checking this page periodically for any changes made.
+If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. We might inform you by email whenever we made changes to our privacy policy else keep checking this page periodically for any changes made. 
 
 ## Security
 
@@ -80,13 +76,13 @@ We may modify this Privacy Policy at any time, and we will post any new versions
 
 If you believe that Winni has not adhered to this Privacy Policy you may write to Winni at the following address: e-mail: [info@winni.in](mailto:info@winni.in)
 
-In your email, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.
+In your email, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
 
 ## Contacting the website and access to your personal information
 
-Upon written request, subject to certain exceptions, Winni will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Privacy Officer, using the contact information above. When requesting access to your personal information, we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide the personal information that we hold about you. We may charge you a fee to access your personal information to cover our costs; however, we will advise you of any fee in advance, which will be no more than any maximum fee prescribed by law.
+Upon written request, subject to certain exceptions, Winni will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Privacy Officer, using the contact information above. When requesting access to your personal information, we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide the personal information that we hold about you. We may charge you a fee to access your personal information to cover our costs; however, we will advise you of any fee in advance, which will be no more than any maximum fee prescribed by law. 
 
-## Your Consent 
+## Your Consent
 
 By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy.
 
