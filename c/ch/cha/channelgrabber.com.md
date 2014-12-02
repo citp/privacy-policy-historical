@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelgrabber.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507020805id_/http%3A//www.channelgrabber.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelgrabber.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202165847id_/https%3A//www.channelgrabber.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ChannelGrabber Privacy Policy
 
