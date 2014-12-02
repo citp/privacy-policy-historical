@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pearsonschoolsandfecolleges.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626102057id_/http%3A//uk.pearson.com/pearson-privacy/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonschoolsandfecolleges.co.uk privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202012309id_/http%3A//uk.pearson.com/pearson-privacy/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Pearson UK
 
-(Updated 14 September 2012) 
+(Updated 31 July 2014)
 
-Please read our Privacy Policy as it explains how your personal information will be used by Pearson.
+Please read our privacy policy as it explains how your personal information will be used by Pearson.
 
   1. [Introduction](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#1)
   2. [What information does Pearson collect about me?](http://uk.pearson.com/pearson-privacy/policy/privacy-policy#2)
@@ -22,37 +22,40 @@ Please read our Privacy Policy as it explains how your personal information will
 
 ### 1\. Introduction
 
-At Pearson, we know that you care how your personal information is used and we appreciate that you trust us to do that carefully and sensibly.  
+At Pearson, we know that you care how your personal information is used and we appreciate that you trust us to do that carefully and sensibly.
 
-This Privacy Policy is designed to help you understand how we and other companies in our group collect and use your personal information. We want you to make informed decisions when using our websites and any features on them, including any registration and e-commerce services.   
+This Privacy Policy is designed to help you understand how we and other companies in our group collect and use your personal information. We want you to make informed decisions when using our websites and any features on them, including any registration and e-commerce services.
 
 This Privacy Policy applies to all the pages on our sites and any features of them and any e-commerce, purchasing or other areas which require registration. However, it won’t apply to any third-party sites which are linked to our sites. We recommend that you read the privacy policy of any such sites that you visit as we are not responsible for them.
 
-When we refer to our website or sites, we mean any of our websites from which you have accessed this Privacy Policy. 
+When we refer to our website or sites, we mean any of our websites from which you have accessed this Privacy Policy.
 
-We have included full details of who we and our group companies are at the end of this Privacy Policy.  
+We have included full details of who we and our group companies are at the end of this Privacy Policy.  
+
 
 ### 2\. What information does Pearson collect about me?
 
-Personal information that we collect may include your name, contact details (phone numbers, email address and addresses), your date of birth, job, course information, your personal interests, credit card or billing information, shopping selections and data about the pages you visit on our site, as well as any other personal information relating to you or a third party that you supply to us.
+Personal information that we collect may include your name, contact details (phone numbers, email address and addresses), your date of birth, job, course information, your personal interests, credit card or billing information, shopping selections and data about the pages you visit on our site, as well as any other personal information relating to you or a third party that you supply to us.  
+
 
 ### 3\. How does Pearson collect my personal information?
 
-  
 We collect your information in two ways:  
 
 
-  1. Personal information you choose to disclose. You may, for example, provide us with your information when you post something on our site, when you register for any features on our site that require registration, when you contact us (online or offline) or when you order goods or services from us. 
-  2. Website use information collected by us as you interact with our site. We use cookies (a small piece of computer code that we store for a period of time on your computer or mobile device) when you visit our site in order to make the site work better for you.  Our “[Cookie Policy](http://uk.pearson.com/pearson-privacy/your-data-at-pearson/cookies/cookie-policy)” explains what cookies we use.
+  1. Personal information you choose to disclose. You may, for example, provide us with your information when you post something on our site, when you register for any features on our site that require registration, when you contact us (online or offline) or when you order goods or services from us.  
+ 
+  2. Information collected by us when you interact with our site, our mobile applications or when you open our email communications. We use cookies (a small piece of computer code that we store for a period of time on your computer or mobile device) and other similar technologies to collect this information. To find out more, please visit our [**Cookie Policy**](http://uk.pearson.com/pearson-privacy/your-data-at-pearson/cookies/cookie-policy) page.
 
 
 
-In a separate automatic operation the web server will collect your IP address and browser type and details of the website you came from before entering our site. This information is used to:
+In a separate automatic operation the web server will collect your IP address and browser type and details of the website, mobile application or email communication you came from before entering our site. This information is used to:
 
-a) work out how many times our site has been visited   
-b) record which parts of our site have been visited so we can improve the content and layout of the site. 
+a) work out how many times our site has been visited  
+b) record which parts of our site have been visited so we can improve the content and layout of the site  
+c) understand the effectiveness of our email communications.
 
-This information is anonymous – it is not used to identify you. We may from time to time supply third parties with this anonymous data for uses in connection with our site.  
+We may from time to time supply this data to third parties in an anonymised form for uses in connection with our site.
 
 ### 4\. What will Pearson do with my personal information?
 
@@ -62,11 +65,9 @@ In particular, we may use your information to: 
 
   1. contact you with more information on our products and services and those of our group companies, except where you have told us not to
   2. inform you of activities on our site
-  3. invite you to participate in surveys, discussions and prize draws and ask for your views on our services via online surveys and discussion forums.
+  3. invite you to participate in surveys, discussions and prize draws and ask for your views on our services via online surveys and discussion forums. 
 
 
-
- 
 
 We also use personal information in aggregate form (so that no individual user is identified by name) to build marketing profiles, audit how our sites are used, and to help with the strategic development of our sites.
 
@@ -75,17 +76,17 @@ We will show your username on any content you submit or post on our sites (inclu
 
 ### 5\. Email marketing and opt-out
 
-We will not send you marketing emails if you have opted out of receiving them. Any marketing emails we send you will include an unsubscribe link at the end of the email. Some Pearson sites also provide contact details you may use if you want to contact us by email, post or telephone in order to unsubscribe. In addition, some Pearson sites have a "My Account" page where you can choose whether or not to receive marketing communications from us.  
+We will not send you marketing emails if you have opted out of receiving them. Any marketing emails we send you will include an unsubscribe link at the end of the email. Some Pearson sites also provide contact details you may use if you want to contact us by email, post or telephone in order to unsubscribe. In addition, some Pearson sites have a "My Account" page where you can choose whether or not to receive marketing communications from us.  
+
 
 ### 6\. How does Pearson keep my personal information safe?
 
 We seek to protect the safety of all your personal information. In particular, provided your browser accepts Secure Sockets Layer encryption, we seek to protect your payment information against unauthorised access through a secure server. Where we use third parties to process personal information, we require them to ensure the safety of your information. We use appropriate security measures on our own systems, but the internet is not a secure medium and we cannot guarantee the security of information transmitted via the internet. 
 
-Any personal information that you voluntarily post on a public area of our site, such as a bulletin board or discussion forum, or an interactive area requiring registration and/or subscription, may be collected and used by others. Please be careful what personal information you disclose in this way. You understand that we cannot control the actions of other users. 
+Any personal information that you voluntarily post on a public area of our site, such as a bulletin board or discussion forum, or an interactive area requiring registration and/or subscription, may be collected and used by others. Please be careful what personal information you disclose in this way. You understand that we cannot control the actions of other users.
 
 ### 7\. Will Pearson share my personal information with anyone else?
 
-  
 We will never sell your personal information. We may disclose and share personal information with the third parties listed below. Because the internet is a global environment, you accept and agree that this will include the transfer of your personal information to other countries around the world, including countries outside of the European Economic Area which may not have the same data protection laws as the UK. We may share your personal information:  
 
 
@@ -104,7 +105,7 @@ If you are under 18, please be sure to read this Privacy Policy with your parent
 
 ### 9\. Abuses of this Privacy Policy
 
-Any improper collection or misuse of personal information is in violation of this Privacy Policy and of our “[Legal Notice](https://web.archive.org/legal-notice.html)”. Please report it by emailing [UKDataProtection@pearson.com](mailto:UKDataProtection@pearson.com).
+Any improper collection or misuse of personal information is in violation of this Privacy Policy and of our [**Legal Notice**](https://web.archive.org/legal-notice.html). Please report it by emailing [ **UKDataProtection@pearson.com**](mailto:UKDataProtection@pearson.com).
 
 You agree not to misuse any personal information available on our Site or to gather it or use robots or other automated scripts, codes or functionalities to do so. 
 
@@ -112,7 +113,8 @@ We may immediately suspend or terminate your access to our site without notice i
 
 ### 10\. Changes to this Privacy Policy
 
-We may update this Privacy Policy from time to time. We will always include the date of a new version so that you know when there has been a change. If you don’t agree to the changes, please don’t continue to use our site or provide us with your personal information.   
+We may update this Privacy Policy from time to time. We will always include the date of a new version so that you know when there has been a change. If you don’t agree to the changes, please don’t continue to use our site or provide us with your personal information.  
+
 
 ### 11\. Contacting Pearson
 
@@ -125,7 +127,7 @@ London
 WC1V 7BH  
 United Kingdom 
 
-\- or email us at [UKDataProtection@pearson.com](mailto:UKDataProtection@pearson.com).
+\- or email us at [ **UKDataProtection@pearson.com**](mailto:UKDataProtection@pearson.com).
 
 This Privacy Policy is provided by Pearson Education Limited (registered number 872828, registered office Edinburgh Gate, Harlow, Essex CM20 2JE, United Kingdom) on its own behalf, and on behalf of its group companies.  
 
