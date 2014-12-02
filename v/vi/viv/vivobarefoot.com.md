@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603112454id_/http%3A//www.vivobarefoot.com/us/customer-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202084658id_/http%3A//www.vivobarefoot.com/us/customer-services/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy
+# Privacy Policy | VIVOBAREFOOT US
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998. We collect information about you for two reasons: firstly, to process your order and secondly, to provide you with the best possible service.
 
@@ -65,4 +65,4 @@ Our website may contain links to other sites which are outside our control and w
 
 This policy is correct as of August 2012. We reserve the right to change the policy at any time.
 
-If you have any questions/comments about privacy, you should e-mail us at [customerservice@vivobarefootusa.com](mailto:customerservice@vivobarefootusa.com). 
+If you have any questions/comments about privacy, you should e-mail us at [customerservices@vivobarefoot.com](https://web.archive.org/customerservices@vivobarefoot.com).
