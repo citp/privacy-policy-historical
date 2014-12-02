@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datafilehost.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221073104id_/http%3A//www.datafilehost.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafilehost.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202033935id_/http%3A//www.datafilehost.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
