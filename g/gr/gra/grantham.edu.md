@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grantham.edu privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529002429id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantham.edu privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202184023id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Grantham.edu
 
 Grantham University is committed to protecting your privacy when you visit our websites. We want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. The University reserves the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates.
 
