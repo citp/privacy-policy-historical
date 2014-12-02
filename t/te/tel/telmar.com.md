@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528092455id_/http%3A//www.telmar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202161138id_/http%3A//www.telmar.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Data Integration and Media Planning Services
+# Privacy Policy | Telmar - Media Advertising, Planning Software
 
 **Telmar.com Privacy Policy**  
 Effective September 1, 2009
 
-**Our Commitment To Privacy…**
+ **Our Commitment To Privacy…**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -46,7 +46,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **Privacy Policy Only:**
 
-This privacy policy applies only to information collected through our website and not to information collected offline. 
+This privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions:**
 
