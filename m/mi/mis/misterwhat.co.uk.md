@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the misterwhat.co.uk privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122052139id_/http%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misterwhat.co.uk privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202154706id_/http%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.*
 
-# Terms of use
+# Terms of use | MisterWhat
 
-Terms and Conditions of Use for the website www.misterwhat.co.uk , administered by FABULABS S.R.L. 
+Terms and Conditions of Use for the website www.misterwhat.co.uk , administered by FABULABS S.p.A. 
 
 ### 1\. Domain of application of Terms and Conditions
 
@@ -10,7 +10,7 @@ Terms and Conditions of Use for the website www.misterwhat.co.uk , administered 
 
 1.2 (Definitions) 
 
-MISTERWHAT: FABULABS S.r.l., Via Ticinello 22, Pavia (27100 – PV, Italy), P. IVA 02531310346 ("FABULABS"), promotes its activities and provides services through the website (“Portal”) www.misterwhat.co.uk ("MISTERWHAT"). 
+MISTERWHAT: FABULABS S.p.A., Via Ticinello 22, Pavia (27100 – PV, Italy), P. IVA 02531310346 ("FABULABS"), promotes its activities and provides services through the website (“Portal”) www.misterwhat.co.uk ("MISTERWHAT"). 
 
 Services: the services provided by the MISTERWHAT; 
 
@@ -52,7 +52,7 @@ B. MISTERWHAT may at any time enable features allowing users and/or clients to a
 
 3.5 The user is fully aware that all rights and responsibilities arising from the use of MISTERWHAT, including published contents, particularly the copyright law and the right to use, for example the database and files containing contact information, belong to MISTERWHAT or to third parties, especially to the clients. Databases of the portal are protected by copyright. 
 
-3.6 MISTERWHAT source code, software, logos, texts and images are protected by copyright and by trademark rights whenever applicable. The trademarks and logos on the Portal are property of MISTERWHAT. Unless stated otherwise by MISTERWHAT, the copyright of the sofware, programs, source code, graphics, design, texts, data etc. belongs to MISTERWHAT. Users/clients agree that the logos, trademarks, contents, information, software program and code, data and any other technical, creative, graphical solution on the Portal are property of MISTERWHAT and can be used by the user/client for the sole purpose of using the Portal and its Services. Any reproduction or unauthorised use, including but not limited to: the partial or complete reproduction, sale, modification, distribution, transmission, publication is prohibited and it is subject to civil and criminal law. Any reproduction or any other use requires written authorization. 
+3.6 MISTERWHAT source code, software, data, logos, texts, images, graphics, page layout and design solutions are protected by copyright and by trademark rights whenever applicable. The trademarks and logos on the Portal are property of MISTERWHAT. Unless stated otherwise by MISTERWHAT, the copyright of the sofware, programs, source code, graphics, design, texts, data etc. belongs to MISTERWHAT. Users/clients agree that the logos, trademarks, contents, information, software program and code, data and any other technical, creative, graphical solution on the Portal are property of MISTERWHAT and can be used by the user/client for the sole purpose of using the Portal and its Services. Any reproduction or unauthorised use, including but not limited to: the partial or complete reproduction, sale, modification, distribution, transmission, publication is prohibited and it is subject to civil and criminal law. Any reproduction or any other use requires written authorization. 
 
 3.7 When infringing use rights, clients and users are entirely liable for any damages arising therefrom. 
 
@@ -102,13 +102,13 @@ B. MISTERWHAT may at any time enable features allowing users and/or clients to a
 
 6.1 The subject of this privacy policy refers to personal data. These are specific information about an identified or identifiable natural person's material or personal circumstances. These legal definitions include names, addresses, dates of birth, personal identification numbers, email addresses and similar information. 
 
-MISTERWHAT binds itself to comply with data protection laws and to use the data entrusted by clients only within legal limits. This privacy policy applies only to our site www.misterwhat.co.uk. MISTERWHAT does not assume any responsibility for the contents of contents of the external websites and web pages that can be accessed through the external links available on the portal and that are not operated by us. 
+MISTERWHAT binds itself to comply with data protection laws and to use the data entrusted by clients only within legal limits. This privacy policy applies only to our site www.misterwhat.co.uk. MISTERWHAT does not assume any responsibility for the contents of the external websites and web pages that can be accessed through the external links available on the portal and that are not operated by us. 
 
 The business directory Misterwhat.co.uk provides free access to publicly available information (business name, address, phone number) on business and professionals in the UK. Data can be added, edited, removed by Users/Clients for free, through Registration and email confirmation (Users/Clients need to click on the confirmation link provided in the email). Data treatment is performed by MISTERWHAT according to the prescriptions contained in the data protection code, considering that the data is about companies, professional and organisations that operate publicly and are accessible directly and from a number of publicly available sources; as such, data can be treated by third parties that must adhere to the prescriptions contained in the code for the protection of personal data, including those of art.130, regarding unsolicited/undesired communication. Every company/professional/organization listed on MISTERWHAT can exercise their rights as per art. 7 of D.Lgs. 196/03, including the right to: 
 
-Obtain the confirmation of existence of his/her personal and get them in intelligible form; Ask to update, amend, correct, integrate, delete his/her information; 
+Obtain the confirmation of existence of his/her personal data and get them in intelligible form; Ask to update, amend, correct, integrate, delete his/her information; 
 
-Such rights can be exercised by writing to Fabulabs s.r.l. to the email address info@misterwhat.co.uk or by sending a fax to the number +39 0382.049305. 
+Such rights can be exercised by writing to Fabulabs S.p.A. to the email address  or by sending a fax to the number +39 0382.049305. 
 
 6.2 If we present information that is not covered by the Data Protection Act, for example, in the case of legal persons or pseudonyms, these conditions of confidentiality are not applicable to these records. 
 
@@ -126,7 +126,7 @@ We also use third party advertisements MISTERWHAT. Some of these advertisers may
 
 You can disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with MISTERWHAT as well as other websites. This could include the inability to login to services or programs, such as logging into your account. 
 
-6.7 You have the right to request information for free, in writing, about the personal data we hold about you. Your claims and the correction, blocking or deletion of data will be applied immediately, if they are legally permitted. If you have questions or comments regarding the use of personal data by our company, please contact us. Please note that emails can be read by third parties. If you send us confidential information, please send it in writing or by fax. Please contact us at: FABULABS S.R.L. - Via Ticinello 22 - 27100 Pavia - ITALY - Email: info@misterwhat.co.uk - Fax: +39 0382 049305 
+6.7 You have the right to request information for free, in writing, about the personal data we hold about you. Your claims and the correction, blocking or deletion of data will be applied immediately, if they are legally permitted. If you have questions or comments regarding the use of personal data by our company, please contact us. Please note that emails can be read by third parties. If you send us confidential information, please send it in writing or by fax. Please contact us at: FABULABS S.R.L. - Via Ticinello 22 - 27100 Pavia - ITALY - Email:  \- Fax: +39 0382 049305 
 
 ### 7\. Limitation of Liability
 
@@ -146,16 +146,16 @@ You can disable or selectively turn off our cookies or third-party cookies in yo
 
 8.4 For current and future services to meet more precisely his requirements, the client accepts that a pseudonym may be requested and be used when he applies for services. The authenticated pseudonymous data, in accordance with the law, will not be merged with the data of the pseudonym holder. MISTERWHAT uses these protocols only for its own purposes and in the interest of its clients to develop new services. There will be no transfer of personal data to third parties. 
 
-### 8\. Security of personal data processing
+### 9\. Security of personal data processing
 
-8.1 MISTERWHAT uses all the technical and organizational security measures to protect authentication information, passwords or any other data recorded for security purposes, from destruction, manipulation, loss, unauthorized access. The methods used to meet the protection requirements are in accordance with the generally accepted standards of this field. 
+9.1 MISTERWHAT uses all the technical and organizational security measures to protect authentication information, passwords or any other data recorded for security purposes, from destruction, manipulation, loss, unauthorized access. The methods used to meet the protection requirements are in accordance with the generally accepted standards of this field. 
 
 ### 10\. Jurisdiction
 
 10.1 The exclusive place for all the disputes concerning services provided by MISTERWHAT is Pavia, Italy. For all claims of any kind arising from or in connection with a situation under terms and conditions, the Italian legislation will be applied. 
 
-11\. Severability 
+### 11\. Severability
 
 11.1 If some provisions of these Terms, in whole or in part, are no longer valid, or will lose their legal effect later, the validity of the Terms will not be affected more than that. Instead of the inefficient regulations the legal provisions will come in force automatically. The same applies in case of any possible omissions in the terms. 
 
-Pavia, 2011 FABULABS S.R.L. Via Ticinello 22 27100 Pavia Italy
+Pavia, 2014 - FABULABS S.p.A. - Via Ticinello 22 - 27100 Pavia - Italy 
