@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefus.com privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304062102id_/http%3A//www.gamefus.com/%3Fpage_id%3D2862) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefus.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202192748id_/http%3A//www.gamefus.com/%3Fpage_id%3D2862) for the most accurate reproduction.*
 
 # Privacy Policy | GameFUS.com
 
