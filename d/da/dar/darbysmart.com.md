@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the darbysmart.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030936id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darbysmart.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202120608id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.*
 
-# Darby Smart
+# Privacy Policy - Darby Smart
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.darbysmart.com and Darby Smart, Inc and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Darby Smart include www.darbysmart.com and Darby Smart, Inc. The Darby Smart website is an ecommerce site. By using the Darby Smart website, you consent to the data practices described in this statement. 
 
