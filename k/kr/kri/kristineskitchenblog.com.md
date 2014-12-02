@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kristineskitchenblog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065358id_/http%3A//kristineskitchenblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kristineskitchenblog.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202054905id_/http%3A//kristineskitchenblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kristine's Kitchen
 
