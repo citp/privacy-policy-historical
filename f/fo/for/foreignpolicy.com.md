@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628234750id_/http%3A//foreignpolicy.com/articles/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202063427id_/http%3A//foreignpolicy.com/articles/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
