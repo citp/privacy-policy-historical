@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the waridtel.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625111219id_/http%3A//www.waridtel.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waridtel.com privacy policy that was archived on 2014-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202012738id_/http%3A//www.waridtel.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-Frame-Options" content="SAMEORIGIN">    <!--// mozile iframe prevention--><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Warid Telecom ::  Privacy Policy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
-    <link rel="stylesheet" href="./css/new-style.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="./css-dropdown/menu.css">
-    <link rel="stylesheet" type="text/css" href="./tab-css/nasted-tab-css.css" media="screen">
-    <!--<script src="./js_slider/jquery.min.js"></script>-->
-    <script src="./Scripts/swfobject_modified.js" type="text/javascript"></script>
-    <script type="text/javascript" src="./dropdown-js/jquery.js"></script>
-<script type="text/javascript" src="./dropdown-js/menu.js"></script>
-<script type="text/javascript" src="./tab-js/ddaccordion.js"></script>
+    <link rel="stylesheet" href="css/new-style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="css-dropdown/menu.css">
+    <link rel="stylesheet" type="text/css" href="tab-css/nasted-tab-css.css" media="screen">
+    <!--<script src="js_slider/jquery.min.js"></script>-->
+    <script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+    <script type="text/javascript" src="dropdown-js/jquery.js"></script>
+<script type="text/javascript" src="dropdown-js/menu.js"></script>
+<script type="text/javascript" src="tab-js/ddaccordion.js"></script>
 <script type="text/javascript">
 
 
@@ -81,7 +81,7 @@ document.getElementById("floats").lastChild.style.width="19.5%";
         <!-- Wrapper Start-->
                 <!--Header Start-->
                 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<!--<script src="./js_slider/jquery.min.js"></script>-->
+<!--<script src="js_slider/jquery.min.js"></script>-->
 <!-- customer-feedback-form -->
 <script type="text/javascript">
 $(document).ready(function(){	
@@ -123,14 +123,14 @@ top: 5px;
 right: 25px;}
 .close-div a{ text-decoration:none; border:none;}
 </style>
-<link href="./feedback-form-css/style.css" rel="stylesheet" type="text/css">
+<link href="feedback-form-css/style.css" rel="stylesheet" type="text/css">
 <div id="slideOut" class="clearfix">
 	<div id="slideContent">
 		
         <div id="divFeedback">
         <div id="container">
         <div id="wrapper">
-        <div id="top"><div class="close-div"><a href="#" class="closesurveryform" style="border:none;"><img src="./images/close-image.png" alt="" title=""></a></div></div>
+        <div id="top"><div class="close-div"><a href="#" class="closesurveryform" style="border:none;"><img src="images/close-image.png" alt="" title=""></a></div></div>
         <div id="center"><div id="container_center">
             <div id="mainDiv">
                 <div id="container_prefix">
@@ -320,7 +320,7 @@ right: 25px;}
                   </div>
               
               		<div class="btm_form">
-                    	<div id="submit_button"><img src=".//feedback-form-images/next-btn-form.jpg" class="add_customer_survey" border="0" title=""></div>
+                    	<div id="submit_button"><img src="/feedback-form-images/next-btn-form.jpg" class="add_customer_survey" border="0" title=""></div>
              			<div class="one_of_two">1 OF 2</div>
                     </div>
                     
@@ -329,7 +329,7 @@ right: 25px;}
         <div id="bottom"></div>
         </div>
         </div>
-        <div id="loaderDiv" style="display:none;position:absolute;left:44%; top:65%;"><img src="./feedback-form-images/ajax-loader-1.gif" title=""></div>
+        <div id="loaderDiv" style="display:none;position:absolute;left:44%; top:65%;"><img src="feedback-form-images/ajax-loader-1.gif" title=""></div>
     </div>
         
 	</div>
@@ -340,7 +340,7 @@ var fanc_show	=	'0';
 function check_survey()
 {
 	$.ajax({
-		url : './customer_services_survey/user_survey_check.php',
+		url : 'customer_services_survey/user_survey_check.php',
 		type: 'GET',
 		success: function(res)
 		{
@@ -408,7 +408,7 @@ $(document).ready(function() {
 				
 		var prefix = $('#prefix').val();
 		var mobile = $('#mobile').val();
-		var uip = '207.241.237.224';
+		var uip = '207.241.237.211';
 				
 		var $checkbox = $('input:checkbox[name=emailer_check]:checked');
 		var emailer_size = $checkbox.size();
@@ -722,7 +722,7 @@ $(document).ready(function() {
 				var dataString = 'name='+ name+'&emailer_check='+emailer_check+'&email='+ email+'&prefix='+ prefix+'&mobile='+ mobile+ dataString_cutomer_service+ dataString_network_cellular_services+ dataString_product_services+'&uip='+uip;
 			/*alert(dataString); return false;*/
 			$.ajax({
-				url:'./customer_services_survey/add_customer_opinion.php',
+				url:'customer_services_survey/add_customer_opinion.php',
 				data:dataString,
 				type:'post',
 				success:function(res){
@@ -828,7 +828,7 @@ $(document).ready(function() {
 					{
 						//alert(res);
 						$.ajax({
-							url : './customer_services_survey/already_feedback.php',
+							url : 'customer_services_survey/already_feedback.php',
 							type: 'POST',
 							success: function(data)
 							{
@@ -844,7 +844,7 @@ $(document).ready(function() {
 						var dataStringSecond = 'prefix='+ prefix+'&mobile='+ mobile+'&uip='+uip;
 						/*alert(dataStringSecond);*/ 
 						$.ajax({
-							url : './customer_services_survey/index_sub.php',
+							url : 'customer_services_survey/index_sub.php',
 							data:dataStringSecond,
 							type: 'POST',
 							success: function(data)
@@ -861,7 +861,7 @@ $(document).ready(function() {
 						/*alert('Oops! something went wrong.');
 						return false;*/
 						$.ajax({
-							url : './customer_services_survey/invaliduser_feedback.php',
+							url : 'customer_services_survey/invaliduser_feedback.php',
 							type: 'POST',
 							success: function(data)
 							{
@@ -916,7 +916,7 @@ $(document).ready(function() {
 					$('#loaderDiv').show();	
 				   var dataString = 'id='+id;
 					$.ajax({
-					  url: "./customer_services_survey/get_customer_service.php",
+					  url: "customer_services_survey/get_customer_service.php",
 					  type: "post",
 					  data: dataString,
 					  success: function(resp){
@@ -944,7 +944,7 @@ $(document).ready(function() {
 					$('#loaderDiv').show();	
 				   var dataString = 'id='+id;
 					$.ajax({
-					  url: "./customer_services_survey/get_network_cellular_services.php",
+					  url: "customer_services_survey/get_network_cellular_services.php",
 					  type: "post",
 					  data: dataString,
 					  success: function(resp){
@@ -972,7 +972,7 @@ $(document).ready(function() {
 					$('#loaderDiv').show();	
 				   var dataString = 'id='+id;
 					$.ajax({
-					  url: "./customer_services_survey/get_product_services.php",
+					  url: "customer_services_survey/get_product_services.php",
 					  type: "post",
 					  data: dataString,
 					  success: function(resp){
@@ -1000,7 +1000,7 @@ $(document).ready(function() {
 					$('#loaderDiv').show();	
 				   var dataString = 'id='+id;
 					$.ajax({
-					  url: "./customer_services_survey/get_value_added_services.php",
+					  url: "customer_services_survey/get_value_added_services.php",
 					  type: "post",
 					  data: dataString,
 					  success: function(resp){
@@ -1027,7 +1027,7 @@ $(document).ready(function() {
 					$('#loaderDiv').show();	
 				   var dataString = 'id='+id;
 					$.ajax({
-					  url: "./customer_services_survey/get_pricing_policies.php",
+					  url: "customer_services_survey/get_pricing_policies.php",
 					  type: "post",
 					  data: dataString,
 					  success: function(resp){
@@ -1054,7 +1054,7 @@ $(document).ready(function() {
 					$('#loaderDiv').show();	
 				   var dataString = 'id='+id;
 					$.ajax({
-					  url: "./customer_services_survey/get_web_services.php",
+					  url: "customer_services_survey/get_web_services.php",
 					  type: "post",
 					  data: dataString,
 					  success: function(resp){
@@ -1083,32 +1083,32 @@ $(document).ready(function() {
 
 <div id="header-main">
                 	<div id="logo">
-                		                		<a href="./"><img src="./images/logo.png" title=""></a>
+                		                		<a href=""><img src="images/logo.png" title=""></a>
                                         </div>
                     <div id="social-search-container-inner">
                     
                     <div id="social-links-inner" style="width:290px;">
-                    <div class="slogo"><a href="https://www.facebook.com/OfficialWarid" target="_blank"><img src="./images/fb_logo.png" border="0" title=""></a></div>
-                	<div class="slogo"><a href="https://twitter.com/officialwarid" target="_blank"><img src="./images/twitter_logo.png" border="0" title=""></a></div>
-                    <div class="slogo"><a href="http://www.linkedin.com/company/166868?trk=tyah" target="_blank"><img src="./images/linkdln_logo.png" width="24" height="24" border="0" title=""></a></div>
-                    <!--<div class="slogo"><a href="http://www.youtube.com/officialwarid" target="_blank"><img src="./images/youtube_logo.png" border="0"/></a></div>-->
+                    <div class="slogo"><a href="https://www.facebook.com/OfficialWarid" target="_blank"><img src="images/fb_logo.png" border="0" title=""></a></div>
+                	<div class="slogo"><a href="https://twitter.com/officialwarid" target="_blank"><img src="images/twitter_logo.png" border="0" title=""></a></div>
+                    <div class="slogo"><a href="http://www.linkedin.com/company/166868?trk=tyah" target="_blank"><img src="images/linkdln_logo.png" width="24" height="24" border="0" title=""></a></div>
+                    <!--<div class="slogo"><a href="http://www.youtube.com/officialwarid" target="_blank"><img src="images/youtube_logo.png" border="0"/></a></div>-->
                     <div id="fb_count" style="width:72px;">
                     	                    	<iframe src="//www.facebook.com/plugins/like.php?href=http://waridtel.com/privacy_policy.php&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=278187648920849" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
-                    	<!--<a href="#"><img src="./images/fb_count.png" border="0" /></a>-->
+                    	<!--<a href="#"><img src="images/fb_count.png" border="0" /></a>-->
                     </div>
                     
                     <div id="members_inner_bg">
                     <div id="members_inner_container">
-                    <a href="http://members.waridtel.com/"><img src="./images/member_button.png" border="0" title=""></a>
+                    <a href="http://members.waridtel.com/"><img src="images/member_button.png" border="0" title=""></a>
                     </div>
                     </div>
-					<div class="fb-button"><a href="https://www.facebook.com/OfficialWarid/app_530770766988736" target="_blank"><img src="./images/services-hub.jpg" alt="button" title="button"></a></div>
+					<div class="fb-button"><a href="https://www.facebook.com/OfficialWarid/app_530770766988736" target="_blank"><img src="images/services-hub.jpg" alt="button" title="button"></a></div>
 					
                     
                     <!--<div id="search_area_inner">
-                    	<form name="search1" action="./search/search.php" method="post">
+                    	<form name="search1" action="search/search.php" method="post">
                         <div id="search_input"><div class="input"><input id="txtSearch" name="txtSearch" type="text" value="Search Here" onclick="this.value=''" /></div>
-                        <div id="search-button"><input type="image" src="./images/search_button.png" border="0" /></div>
+                        <div id="search-button"><input type="image" src="images/search_button.png" border="0" /></div>
                         </div>                        
                         </form>
                         </div>-->
@@ -1120,23 +1120,23 @@ $(document).ready(function() {
 <div id="contant-demo-inner">
                 <div id="search-inner">
                 <div id="menu-container-inner">
-                <div class="menu-main-inner"><a href="./">Home</a></div>
-                <div class="menu-main-inner"><a href="./about/">About Warid</a></div>
-                <div class="menu-main-inner"><a href="./coverage/">Coverage</a></div>
-                <div class="menu-main-inner"><a href="./cs">Customer Services</a></div>
-                <div class="menu-main-inner"><a href="./about/media">Media Center</a></div>                
+                <div class="menu-main-inner"><a href="">Home</a></div>
+                <div class="menu-main-inner"><a href="about/">About Warid</a></div>
+                <div class="menu-main-inner"><a href="coverage/">Coverage</a></div>
+                <div class="menu-main-inner"><a href="cs">Customer Services</a></div>
+                <div class="menu-main-inner"><a href="about/media">Media Center</a></div>                
                 <div class="menu-main-inner"><a href="http://careers.waridtel.com/">Careers</a></div>
-                <div class="menu-main-inner" style="background:none;"><a href="./about/media/contactus.php">Contact Us</a></div>
+                <div class="menu-main-inner" style="background:none;"><a href="about/media/contactus.php">Contact Us</a></div>
                 </div>
                 </div>
-      <div id="rounded-top-bottom_demo"><img src="./images/rounded_top.png" border="0" title=""></div>
+      <div id="rounded-top-bottom_demo"><img src="images/rounded_top.png" border="0" title=""></div>
                     </div>  <div id="contant-main">
                 	
                     <div id="contant-area">
                     <!--[if lte IE 9]>
-<link href='./css-dropdown/menu-ie9.css' rel='stylesheet' />
+<link href='css-dropdown/menu-ie9.css' rel='stylesheet' />
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="./css-dropdown/prepaid-menu-demo.css">
+<link rel="stylesheet" type="text/css" href="css-dropdown/prepaid-menu-demo.css">
     <div class="menu-main-blue-2">
     	<div class="menu-inner-cont-2">
         <!--Menue Below-->
@@ -1144,140 +1144,140 @@ $(document).ready(function() {
                 <ul class="navB"> 
                 
                     <li id="wpost" class="goBlur first drop1"> 
-                        <a href="./postpaid/index.php" id="fly16_fly" class="m flydown">WARID POSTPAID</a><br> 
+                        <a href="postpaid/index.php" id="fly16_fly" class="m flydown">WARID POSTPAID</a><br> 
                         <div id="fly16" class="flybox" style="top: 50px; margin: 0px;">
                             <div id="warid-postpaid" class="topflyinc">
                             	<div class="droop-down-contpost">
                                 	<div class="droop-top-port-wpost">
                                     	<div class="droop-top-left">
                                                                                 	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1403074094Wed062014.png" alt="3G Roaming Service" title="3G Roaming Service" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/3g-roaming.php" title="3G Roaming Service">3G Roaming Service</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1416570800Fri112014.png" alt="Free For 3" title="Free For 3" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/free-for-3.php" title="Free For 3">Free For 3</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1393512718Thu022014.jpg" alt="Double Bundle &amp; New Tariff" title="Double Bundle &amp; New Tariff" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/double-bundle.php" title="Double Bundle &amp; New Tariff">Double Bundle &amp; New Tariff</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337632266Mon052012.png" alt="NEW POSTPAID PLAN" title="NEW POSTPAID PLAN" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/double-bundle.php" title="NEW POSTPAID PLAN">NEW POSTPAID PLAN</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1384263735Tue112013.png" alt="Handset Discount Offer" title="Handset Discount Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/handsets-discount-offer.php" title="Handset Discount Offer">Handset Discount Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1403074094Wed062014.png" alt="3G Roaming Service" title="3G Roaming Service" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/3g-roaming.php" title="3G Roaming Service">3G Roaming Service</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1383911477Fri112013.jpg" alt="Warid Data Usage Alerts" title="Warid Data Usage Alerts" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/data-usage-alerts.php" title="Warid Data Usage Alerts">Warid Data Usage Alerts</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1384263735Tue112013.png" alt="Handset Discount Offer" title="Handset Discount Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/handsets-discount-offer.php" title="Handset Discount Offer">Handset Discount Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1380872689Fri102013.jpg" alt="Postpaid High Value" title="Postpaid High Value" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/premium-plus.php" title="Postpaid High Value">Postpaid High Value</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878024Thu052012.png" alt="Corporate Briefcase" title="Corporate Briefcase" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/corporate.php" title="Corporate Briefcase">Corporate Briefcase</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1373449111Wed072013.jpg" alt="BlackBerry Q10" title="BlackBerry Q10" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/blackberry/q10.php" title="BlackBerry Q10">BlackBerry Q10</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1383911477Fri112013.jpg" alt="Warid Data Usage Alerts" title="Warid Data Usage Alerts" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/data-usage-alerts.php" title="Warid Data Usage Alerts">Warid Data Usage Alerts</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878193Thu052012.png" alt="IR Tariffs" title="IR Tariffs" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/ir_tariffs.php" title="IR Tariffs">IR Tariffs</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1373449111Wed072013.jpg" alt="BlackBerry Q10" title="BlackBerry Q10" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/blackberry/q10.php" title="BlackBerry Q10">BlackBerry Q10</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878135Thu052012.png" alt="International Dialing" title="International Dialing" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/international_dialing.php" title="International Dialing">International Dialing</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878193Thu052012.png" alt="IR Tariffs" title="IR Tariffs" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/ir_tariffs.php" title="IR Tariffs">IR Tariffs</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1366806190Wed042013.jpg" alt="Online Bill Payment" title="Online Bill Payment" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/bill_payment_via_online.php" title="Online Bill Payment">Online Bill Payment</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878135Thu052012.png" alt="International Dialing" title="International Dialing" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/international_dialing.php" title="International Dialing">International Dialing</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878292Thu052012.png" alt="Postpaid Tariff" title="Postpaid Tariff" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/tariff.php" title="Postpaid Tariff">Postpaid Tariff</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1366806190Wed042013.jpg" alt="Online Bill Payment" title="Online Bill Payment" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/bill_payment_via_online.php" title="Online Bill Payment">Online Bill Payment</a></div>
                                             </div>            	
                                                     </div>
                                         <div class="droop-top-right">
                                         	                                        	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1362582387Wed032013.jpg" alt="Blackberry Z10" title="Blackberry Z10" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/blackberry/z10.php" title="Blackberry Z10">Blackberry Z10</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878292Thu052012.png" alt="Postpaid Tariff" title="Postpaid Tariff" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/tariff.php" title="Postpaid Tariff">Postpaid Tariff</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1342786139Fri072012.gif" alt="BlackBerry" title="BlackBerry" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/blackberry/index.php" title="BlackBerry">BlackBerry</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1342786139Fri072012.gif" alt="BlackBerry" title="BlackBerry" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/blackberry/index.php" title="BlackBerry">BlackBerry</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1352311765Wed112012.png" alt="International Call Offer" title="International Call Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/local_rate_international_call_offer.php" title="International Call Offer">International Call Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1362582387Wed032013.jpg" alt="Blackberry Z10" title="Blackberry Z10" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/blackberry/z10.php" title="Blackberry Z10">Blackberry Z10</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878024Thu052012.png" alt="Corporate Briefcase" title="Corporate Briefcase" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/corporate.php" title="Corporate Briefcase">Corporate Briefcase</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1352311765Wed112012.png" alt="International Call Offer" title="International Call Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/local_rate_international_call_offer.php" title="International Call Offer">International Call Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878431Thu052012.png" alt="Unlimited Edge" title="Unlimited Edge" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/unlimited_edge.php" title="Unlimited Edge">Unlimited Edge</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878431Thu052012.png" alt="Unlimited Edge" title="Unlimited Edge" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/unlimited_edge.php" title="Unlimited Edge">Unlimited Edge</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878506Thu052012.png" alt="Postpaid Weekend / LNO" title="Postpaid Weekend / LNO" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/postpaid-plus.php" title="Postpaid Weekend / LNO">Postpaid Weekend / LNO</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878506Thu052012.png" alt="Postpaid Weekend / LNO" title="Postpaid Weekend / LNO" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/postpaid-plus.php" title="Postpaid Weekend / LNO">Postpaid Weekend / LNO</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878454Thu052012.png" alt="Warid Mobile Email" title="Warid Mobile Email" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/wme/index.php" title="Warid Mobile Email">Warid Mobile Email</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878454Thu052012.png" alt="Warid Mobile Email" title="Warid Mobile Email" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/wme/index.php" title="Warid Mobile Email">Warid Mobile Email</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337877960Thu052012.png" alt="Bill Payment" title="Bill Payment" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/billpayment.php" title="Bill Payment">Bill Payment</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337877960Thu052012.png" alt="Bill Payment" title="Bill Payment" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/billpayment.php" title="Bill Payment">Bill Payment</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878151Thu052012.png" alt="International Dialing Info" title="International Dialing Info" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/IDD-info-service.php" title="International Dialing Info">International Dialing Info</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878151Thu052012.png" alt="International Dialing Info" title="International Dialing Info" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/IDD-info-service.php" title="International Dialing Info">International Dialing Info</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878388Thu052012.png" alt="SMS Roaming" title="SMS Roaming" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/sms_roaming.php" title="SMS Roaming">SMS Roaming</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878274Thu052012.png" alt="My5" title="My5" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/my5.php" title="My5">My5</a></div>
                                             </div>            	
                                                     </div>
                                         <div class="droop-top-right">
                                         	                                        	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878397Thu052012.png" alt="Tax Exemption Certificate" title="Tax Exemption Certificate" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/tax_exemption_certificate.php" title="Tax Exemption Certificate">Tax Exemption Certificate</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878397Thu052012.png" alt="Tax Exemption Certificate" title="Tax Exemption Certificate" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/tax_exemption_certificate.php" title="Tax Exemption Certificate">Tax Exemption Certificate</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878300Thu052012.png" alt="Roam Info" title="Roam Info" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/roam_info.php" title="Roam Info">Roam Info</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878300Thu052012.png" alt="Roam Info" title="Roam Info" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/roam_info.php" title="Roam Info">Roam Info</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878182Thu052012.png" alt="IR Incoming SMS Free" title="IR Incoming SMS Free" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/international_sms.php" title="IR Incoming SMS Free">IR Incoming SMS Free</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878182Thu052012.png" alt="IR Incoming SMS Free" title="IR Incoming SMS Free" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/international_sms.php" title="IR Incoming SMS Free">IR Incoming SMS Free</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878347Thu052012.png" alt="Roam with Warid" title="Roam with Warid" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/warid_roamers.php" title="Roam with Warid">Roam with Warid</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878347Thu052012.png" alt="Roam with Warid" title="Roam with Warid" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/warid_roamers.php" title="Roam with Warid">Roam with Warid</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337877651Thu052012.png" alt="About International Roaming" title="About International Roaming" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/about.php" title="About International Roaming">About International Roaming</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337877651Thu052012.png" alt="About International Roaming" title="About International Roaming" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/about.php" title="About International Roaming">About International Roaming</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878172Thu052012.png" alt="IR Coverage Map" title="IR Coverage Map" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/ir_map.php" title="IR Coverage Map">IR Coverage Map</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878172Thu052012.png" alt="IR Coverage Map" title="IR Coverage Map" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/ir_map.php" title="IR Coverage Map">IR Coverage Map</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878085Thu052012.png" alt="In-Flight Roaming" title="In-Flight Roaming" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/in-flight.php" title="In-Flight Roaming">In-Flight Roaming</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878085Thu052012.png" alt="In-Flight Roaming" title="In-Flight Roaming" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/in-flight.php" title="In-Flight Roaming">In-Flight Roaming</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878205Thu052012.png" alt="Maritime Roaming" title="Maritime Roaming" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/ir/maritime_roaming.php" title="Maritime Roaming">Maritime Roaming</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878205Thu052012.png" alt="Maritime Roaming" title="Maritime Roaming" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/ir/maritime_roaming.php" title="Maritime Roaming">Maritime Roaming</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878053Thu052012.png" alt="Corporate Member Area" title="Corporate Member Area" border="0"></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878053Thu052012.png" alt="Corporate Member Area" title="Corporate Member Area" border="0"></div>
                                                 <div class="lk-lp-link"><a href="http://members.waridtel.com/cgi-bin/warid/dev1/warid/homepage" title="Corporate Member Area">Corporate Member Area</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337877984Thu052012.png" alt="Business Solutions" title="Business Solutions" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/corporate/business-solutions.php" title="Business Solutions">Business Solutions</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337877984Thu052012.png" alt="Business Solutions" title="Business Solutions" border="0"></div>
+                                                <div class="lk-lp-link"><a href="postpaid/corporate/business-solutions.php" title="Business Solutions">Business Solutions</a></div>
                                             </div>            	
                                                     </div>
                                     </div>
                                     <div class="droop-bottom-port-wppost">
-                                    	<div class="dp-rdmore-link"><a href="./postpaid/index.php" title="MORE">MORE</a></div>
+                                    	<div class="dp-rdmore-link"><a href="postpaid/index.php" title="MORE">MORE</a></div>
                                     </div>
                                 </div>
                             </div>
@@ -1286,98 +1286,98 @@ $(document).ready(function() {
                     
                     
                     <li id="wpre" class="goBlur drop2" style="margin-left: -8px;"> 
-                        <a href="./prepaid/index.php" id="fly104_fly" class="m flydown">WARID PREPAID</a><br> 
+                        <a href="prepaid/index.php" id="fly104_fly" class="m flydown">WARID PREPAID</a><br> 
                         <div id="fly104" class="flybox" style="top: 50px; margin: 0px;">
                             <div id="warid-prepaid" class="topflyinc" style="margin-left:-10px;">
                             	<div class="droop-down-cont">
                                 	<div class="droop-top-port-wpre">
                                     	<div class="droop-top-left">
                                         	                                        	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878916Thu052012.png" alt="PREPAID TARIFF" title="PREPAID TARIFF" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/tariff.php" title="PREPAID TARIFF">PREPAID TARIFF</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878916Thu052012.png" alt="PREPAID TARIFF" title="PREPAID TARIFF" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/tariff.php" title="PREPAID TARIFF">PREPAID TARIFF</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1399556194Thu052014.png" alt="Prepaid Call Details" title="Prepaid Call Details" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/prepaid-call-details.php" title="Prepaid Call Details">Prepaid Call Details</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1350085282Fri102012.jpg" alt="Pakistan Offer" title="Pakistan Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/pakistan-offer.php" title="Pakistan Offer">Pakistan Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1377328441Sat082013.png" alt="Unlimited FaceBook &amp; WhatsApp!" title="Unlimited FaceBook &amp; WhatsApp!" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/facebook-bundle-nd-whats-app.php" title="Unlimited FaceBook &amp; WhatsApp!">Unlimited FaceBook &amp; WhatsApp!</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337632911Mon052012.png" alt="Free Call Offer" title="Free Call Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/free-calls-offer.php" title="Free Call Offer">Free Call Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379914465Mon092013.jpg" alt="IDD Afghanistan Offer" title="IDD Afghanistan Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/idd-afghanistan-offer.php" title="IDD Afghanistan Offer">IDD Afghanistan Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1399556194Thu052014.png" alt="Prepaid Call Details" title="Prepaid Call Details" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/prepaid-call-details.php" title="Prepaid Call Details">Prepaid Call Details</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1376912997Mon082013.jpg" alt="20 Paisa Offer" title="20 Paisa Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/20-paisa-offer.php" title="20 Paisa Offer">20 Paisa Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1404370867Thu072014.png" alt=" Int Calling Offer Saudia &amp; UAE" title=" Int Calling Offer Saudia &amp; UAE" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/int-calling-offer-saudia-uae.php" title=" Int Calling Offer Saudia &amp; UAE"> Int Calling Offer Saudia &amp; UAE</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878791Thu052012.png" alt="Karachi Offer" title="Karachi Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/karachi-offer.php" title="Karachi Offer">Karachi Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1377328441Sat082013.png" alt="Unlimited FaceBook &amp; WhatsApp!" title="Unlimited FaceBook &amp; WhatsApp!" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/facebook-bundle-nd-whats-app.php" title="Unlimited FaceBook &amp; WhatsApp!">Unlimited FaceBook &amp; WhatsApp!</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878553Thu052012.png" alt="111 - LCR" title="111 - LCR" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/lcr.php" title="111 - LCR">111 - LCR</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878791Thu052012.png" alt="Karachi Offer" title="Karachi Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/karachi-offer.php" title="Karachi Offer">Karachi Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1368617695Wed052013.jpg" alt="IDD India &amp; Bangladesh" title="IDD India &amp; Bangladesh" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/international-calling-offer.php" title="IDD India &amp; Bangladesh">IDD India &amp; Bangladesh</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1379914465Mon092013.jpg" alt="IDD Afghanistan Offer" title="IDD Afghanistan Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/idd-afghanistan-offer.php" title="IDD Afghanistan Offer">IDD Afghanistan Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1366806222Wed042013.jpg" alt="Online Prepaid Top up" title="Online Prepaid Top up" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/bill_payment_via_online.php" title="Online Prepaid Top up">Online Prepaid Top up</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1376912997Mon082013.jpg" alt="20 Paisa Offer" title="20 Paisa Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/20-paisa-offer.php" title="20 Paisa Offer">20 Paisa Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1363324193Fri032013.jpg" alt="International Dialing Offer" title="International Dialing Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/international-dialing-offer.php" title="International Dialing Offer">International Dialing Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1368617695Wed052013.jpg" alt="IDD India &amp; Bangladesh" title="IDD India &amp; Bangladesh" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/international-calling-offer.php" title="IDD India &amp; Bangladesh">IDD India &amp; Bangladesh</a></div>
                                             </div>            	
                                                     </div>
                                         <div class="droop-top-right">
                                         	                                        	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1350085282Fri102012.jpg" alt="Apna Sheher" title="Apna Sheher" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/apna_sheher.php" title="Apna Sheher">Apna Sheher</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1366806222Wed042013.jpg" alt="Online Prepaid Top up" title="Online Prepaid Top up" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/bill_payment_via_online.php" title="Online Prepaid Top up">Online Prepaid Top up</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1340713191Tue062012.png" alt="SMS Bundles" title="SMS Bundles" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/sms_bundle.php" title="SMS Bundles">SMS Bundles</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1352311061Wed112012.png" alt="International Call Offer" title="International Call Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/local_rate_international_call_offer.php" title="International Call Offer">International Call Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1340571121Sun062012.png" alt="Power Pack" title="Power Pack" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/power_pack.php" title="Power Pack">Power Pack</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1350085282Fri102012.jpg" alt="Apna Sheher" title="Apna Sheher" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/apna_sheher.php" title="Apna Sheher">Apna Sheher</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1352311061Wed112012.png" alt="International Call Offer" title="International Call Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/local_rate_international_call_offer.php" title="International Call Offer">International Call Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1340713191Tue062012.png" alt="SMS Bundles" title="SMS Bundles" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/sms_bundle.php" title="SMS Bundles">SMS Bundles</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1340570819Sun062012.png" alt="Ghanta Offer" title="Ghanta Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/ghanta_offer.php" title="Ghanta Offer">Ghanta Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1340571121Sun062012.png" alt="Power Pack" title="Power Pack" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/power_pack.php" title="Power Pack">Power Pack</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878591Thu052012.png" alt="Double Dhamal Offer" title="Double Dhamal Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/double-dhamal-offer.php" title="Double Dhamal Offer">Double Dhamal Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1340570819Sun062012.png" alt="Ghanta Offer" title="Ghanta Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/ghanta_offer.php" title="Ghanta Offer">Ghanta Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879066Thu052012.png" alt="Warid Minute Package" title="Warid Minute Package" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/warid-minute-package.php" title="Warid Minute Package">Warid Minute Package</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337890109Thu052012.png" alt="IR Tariff Sheet" title="IR Tariff Sheet" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/ir/prepaid_tariffs.php" title="IR Tariff Sheet">IR Tariff Sheet</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878621Thu052012.png" alt="Hourly Package" title="Hourly Package" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/hourly_package.php" title="Hourly Package">Hourly Package</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878775Thu052012.png" alt="International Dialing" title="International Dialing" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/international_dialing.php" title="International Dialing">International Dialing</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878581Thu052012.png" alt="Crazy Nites" title="Crazy Nites" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/crazy_nites.php" title="Crazy Nites">Crazy Nites</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337879080Thu052012.png" alt="Where to buy?" title="Where to buy?" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/where_to_buy.php" title="Where to buy?">Where to buy?</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337890109Thu052012.png" alt="IR Tariff Sheet" title="IR Tariff Sheet" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/ir/prepaid_tariffs.php" title="IR Tariff Sheet">IR Tariff Sheet</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337878591Thu052012.png" alt="Double Dhamal Offer" title="Double Dhamal Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="prepaid/double-dhamal-offer.php" title="Double Dhamal Offer">Double Dhamal Offer</a></div>
                                             </div>            	
                                                     </div>
                                     </div>
                                     <div class="droop-bottom-port">
-                                    	<div class="dp-rdmore-link"><a href="./prepaid/index.php" title="MORE">MORE</a></div>
+                                    	<div class="dp-rdmore-link"><a href="prepaid/index.php" title="MORE">MORE</a></div>
                                     </div>
                                 </div>
                             </div>
@@ -1392,152 +1392,152 @@ $(document).ready(function() {
                     </li>        
                                 
                     <li id="pserv" class="goBlur drop3" style="margin-left: 7px;"> 
-                        <a href="./products/index.php" id="fly101_fly" class="m flydown">PRODUCTS &amp; SERVICES</a><br> 
+                        <a href="products/index.php" id="fly101_fly" class="m flydown">PRODUCTS &amp; SERVICES</a><br> 
                         <div id="fly101" class="flybox" style="top: 50px; margin: 0px;">
                             <div id="productservice" class="topflyinc" style="margin-left:-449px;">
                                 <div class="droop-down-contpost">
                                 	<div class="droop-top-port-wpost">
                                     	<div class="droop-top-left">
                                         	                                        	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1403157210Thu062014.png" alt="SMS Supreme" title="SMS Supreme" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/sms-supreme.php" title="SMS Supreme">SMS Supreme</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1372851596Wed072013.jpg" alt="Warid Youth Portal" title="Warid Youth Portal" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/youth-portal.php" title="Warid Youth Portal">Warid Youth Portal</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1369836049Wed052013.jpg" alt="Warid Football Club" title="Warid Football Club" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/warid-football-club.php" title="Warid Football Club">Warid Football Club</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1415795154Wed112014.png" alt="Sitarey Kehtey Hain" title="Sitarey Kehtey Hain" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/sitarey-kehtay-hain.php" title="Sitarey Kehtey Hain">Sitarey Kehtey Hain</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1401363125Thu052014.png" alt=" Warid Sim Wapas Lagao" title=" Warid Sim Wapas Lagao" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/sim-wapas-lagao.php" title=" Warid Sim Wapas Lagao"> Warid Sim Wapas Lagao</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337633070Mon052012.png" alt="Warid Rockstar" title="Warid Rockstar" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/warid-rockstar.php" title="Warid Rockstar">Warid Rockstar</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1401347850Thu052014.png" alt="Jhat Patt Bill" title="Jhat Patt Bill" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/jhat-patt-bill.php" title="Jhat Patt Bill">Jhat Patt Bill</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337632844Mon052012.png" alt="Warid Drama Line" title="Warid Drama Line" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/drama-line.php" title="Warid Drama Line">Warid Drama Line</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1400845707Fri052014.png" alt="Doctors Helpline" title="Doctors Helpline" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/doctors-helpline.php" title="Doctors Helpline">Doctors Helpline</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337632568Mon052012.png" alt=" Warid Balance Request" title=" Warid Balance Request" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/balance-request.php" title=" Warid Balance Request"> Warid Balance Request</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1398438179Fri042014.png" alt="Maal Dhamaal 2" title="Maal Dhamaal 2" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./maaldhamaal2/index.php" title="Maal Dhamaal 2">Maal Dhamaal 2</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337632684Mon052012.png" alt="Voice Poke" title="Voice Poke" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/voice-poke.php" title="Voice Poke">Voice Poke</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1398316493Thu042014.png" alt="Warid IQ Test" title="Warid IQ Test" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/iq-test.php" title="Warid IQ Test">Warid IQ Test</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337633225Mon052012.png" alt=" Warid Video News" title=" Warid Video News" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/video-news.php" title=" Warid Video News"> Warid Video News</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1397052053Wed042014.png" alt=" Surprise Promo" title=" Surprise Promo" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/surprise-bonus.php" title=" Surprise Promo"> Surprise Promo</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1337632568Mon052012.png" alt="Notify Me" title="Notify Me" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/notify-me.php" title="Notify Me">Notify Me</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1396531828Thu042014.png" alt="Warid Voiler" title="Warid Voiler" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/warid-voiler.php" title="Warid Voiler">Warid Voiler</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1403157210Thu062014.png" alt="SMS Supreme" title="SMS Supreme" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/sms-supreme.php" title="SMS Supreme">SMS Supreme</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1395293757Thu032014.png" alt="Warid Cricket Alerts" title="Warid Cricket Alerts" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./cricket/index.php" title="Warid Cricket Alerts">Warid Cricket Alerts</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1401347850Thu052014.png" alt="Jhat Patt Bill" title="Jhat Patt Bill" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/jhat-patt-bill.php" title="Jhat Patt Bill">Jhat Patt Bill</a></div>
                                             </div>            	
                                                     </div>
                                         <div class="droop-top-right">
                                         	                                        	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1393913554Tue032014.png" alt="Language Learner " title="Language Learner " border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/language-learner.php" title="Language Learner ">Language Learner </a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1400845707Fri052014.png" alt="Doctors Helpline" title="Doctors Helpline" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/doctors-helpline.php" title="Doctors Helpline">Doctors Helpline</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1392641017Mon022014.png" alt="Prize Bond Informer" title="Prize Bond Informer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/prize-bond-informer.php" title="Prize Bond Informer">Prize Bond Informer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1398438179Fri042014.png" alt="Maal Dhamaal 2" title="Maal Dhamaal 2" border="0"></div>
+                                                <div class="lk-lp-link"><a href="maaldhamaal2/index.php" title="Maal Dhamaal 2">Maal Dhamaal 2</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1392358131Fri022014.png" alt=" Warid Virtual Stocks" title=" Warid Virtual Stocks" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/virtual-stocks.php" title=" Warid Virtual Stocks"> Warid Virtual Stocks</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1398316493Thu042014.png" alt="Warid IQ Test" title="Warid IQ Test" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/iq-test.php" title="Warid IQ Test">Warid IQ Test</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1392299790Thu022014.png" alt="Valentine Promo" title="Valentine Promo" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/valentine-promo.php" title="Valentine Promo">Valentine Promo</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1397052053Wed042014.png" alt=" Surprise Promo" title=" Surprise Promo" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/surprise-bonus.php" title=" Surprise Promo"> Surprise Promo</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1390219955Mon012014.png" alt="Warid Name Tune" title="Warid Name Tune" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/warid-name-tune.php" title="Warid Name Tune">Warid Name Tune</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1396531828Thu042014.png" alt="Warid Voiler" title="Warid Voiler" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/warid-voiler.php" title="Warid Voiler">Warid Voiler</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1389268813Thu012014.png" alt="Vocabulary Builder" title="Vocabulary Builder" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/vocabulary-builder.php" title="Vocabulary Builder">Vocabulary Builder</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1395293757Thu032014.png" alt="Warid Cricket Alerts" title="Warid Cricket Alerts" border="0"></div>
+                                                <div class="lk-lp-link"><a href="cricket/index.php" title="Warid Cricket Alerts">Warid Cricket Alerts</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1387553392Fri122013.png" alt="Start Stop Service" title="Start Stop Service" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/start-stop-service.php" title="Start Stop Service">Start Stop Service</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1393913554Tue032014.png" alt="Language Learner " title="Language Learner " border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/language-learner.php" title="Language Learner ">Language Learner </a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1385533107Wed112013.png" alt="Facebook Awaz" title="Facebook Awaz" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/facebook-awaz.php" title="Facebook Awaz">Facebook Awaz</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1392641017Mon022014.png" alt="Prize Bond Informer" title="Prize Bond Informer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/prize-bond-informer.php" title="Prize Bond Informer">Prize Bond Informer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1383908271Fri112013.jpg" alt="Mobile Backup" title="Mobile Backup" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/mobile-backup.php" title="Mobile Backup">Mobile Backup</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1392358131Fri022014.png" alt=" Warid Virtual Stocks" title=" Warid Virtual Stocks" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/virtual-stocks.php" title=" Warid Virtual Stocks"> Warid Virtual Stocks</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1383283222Fri112013.jpg" alt="SMS Based Number Reservation" title="SMS Based Number Reservation" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/sms-based-number.php" title="SMS Based Number Reservation">SMS Based Number Reservation</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1392299790Thu022014.png" alt="Valentine Promo" title="Valentine Promo" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/valentine-promo.php" title="Valentine Promo">Valentine Promo</a></div>
                                             </div>            	
                                                     </div>
                                         <div class="droop-top-right">
                                         	                                        	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1383205801Thu102013.jpg" alt="Intro Me" title="Intro Me" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/intro-me.php" title="Intro Me">Intro Me</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1390219955Mon012014.png" alt="Warid Name Tune" title="Warid Name Tune" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/warid-name-tune.php" title="Warid Name Tune">Warid Name Tune</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1382968161Mon102013.jpg" alt="Poetry Junction" title="Poetry Junction" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/poetry-junction.php" title="Poetry Junction">Poetry Junction</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1389268813Thu012014.png" alt="Vocabulary Builder" title="Vocabulary Builder" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/vocabulary-builder.php" title="Vocabulary Builder">Vocabulary Builder</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1381496696Fri102013.jpg" alt="Help Me" title="Help Me" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/help-me.php" title="Help Me">Help Me</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1387553392Fri122013.png" alt="Start Stop Service" title="Start Stop Service" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/start-stop-service.php" title="Start Stop Service">Start Stop Service</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379684834Fri092013.jpg" alt="Warid Kissan Line" title="Warid Kissan Line" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/kissan-line.php" title="Warid Kissan Line">Warid Kissan Line</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1385533107Wed112013.png" alt="Facebook Awaz" title="Facebook Awaz" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/facebook-awaz.php" title="Facebook Awaz">Facebook Awaz</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379682859Fri092013.jpg" alt="Warid Handset Offer" title="Warid Handset Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/handset.php" title="Warid Handset Offer">Warid Handset Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1383908271Fri112013.jpg" alt="Mobile Backup" title="Mobile Backup" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/mobile-backup.php" title="Mobile Backup">Mobile Backup</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379504288Wed092013.jpg" alt="Warid Career Portal" title="Warid Career Portal" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./careers/" title="Warid Career Portal">Warid Career Portal</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1383283222Fri112013.jpg" alt="SMS Based Number Reservation" title="SMS Based Number Reservation" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/sms-based-number.php" title="SMS Based Number Reservation">SMS Based Number Reservation</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379005488Thu092013.jpg" alt="Shaadi Portal" title="Shaadi Portal" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/shaadi-portal.php" title="Shaadi Portal">Shaadi Portal</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1383205801Thu102013.jpg" alt="Intro Me" title="Intro Me" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/intro-me.php" title="Intro Me">Intro Me</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1378804819Tue092013.jpg" alt="Back to fun" title="Back to fun" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/back-to-fun.php" title="Back to fun">Back to fun</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1382968161Mon102013.jpg" alt="Poetry Junction" title="Poetry Junction" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/poetry-junction.php" title="Poetry Junction">Poetry Junction</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1378452850Fri092013.jpg" alt="Background Music" title="Background Music" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/background-music.php" title="Background Music">Background Music</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1381496696Fri102013.jpg" alt="Help Me" title="Help Me" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/help-me.php" title="Help Me">Help Me</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1376979013Tue082013.jpg" alt="Ladies Portal" title="Ladies Portal" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/ladies-portal.php" title="Ladies Portal">Ladies Portal</a></div>
+                                            	<div class="lk-lp-img"><img src="uploaded_files/1379684834Fri092013.jpg" alt="Warid Kissan Line" title="Warid Kissan Line" border="0"></div>
+                                                <div class="lk-lp-link"><a href="products/kissan-line.php" title="Warid Kissan Line">Warid Kissan Line</a></div>
                                             </div>            	
                                                     </div>
                                     </div>
                                     <div class="droop-bottom-port-wppost">
-                                    	<div class="dp-rdmore-link"><a href="./products/index.php" title="MORE">MORE</a></div>
+                                    	<div class="dp-rdmore-link"><a href="products/index.php" title="MORE">MORE</a></div>
                                     </div>
                                 </div>
                             </div>
                         </div> 
                     </li> 
                     <li class="goBlur" id="whatsnew" style="margin-left: 15px;">
-                        <a href="./whatsnew/" id="fly102_fly" class="m flydown">WHAT'S NEW</a><br> 
+                        <a href="whatsnew/" id="fly102_fly" class="m flydown">WHAT'S NEW</a><br> 
                     </li> 
                     
                     <!-- join-us -->
                     <li id="bnow" class="goBlur" style="margin-left: 6px;">  
-                        <a href="./cs/join-us.php" id="fly125_fly" class="m flydown">JOIN US</a><br> 
+                        <a href="cs/join-us.php" id="fly125_fly" class="m flydown">JOIN US</a><br> 
                     </li> 
                     <!-- join-us -->
                     
@@ -1556,9 +1556,9 @@ $(document).ready(function() {
     
     <div class="search_box">
     	<div id="search_area_ins">
-        	<form name="search1" action="./search/search.php" method="post">
+        	<form name="search1" action="search/search.php" method="post">
                 <div class="search_ins"><input id="txtSearch" class="search ac_input" name="txtSearch" type="text" value="Search Here" onclick="this.value=''" autocomplete="off">
-                	<div id="search-button"><input type="image" src="./images/search_button.png" border="0"></div>
+                	<div id="search-button"><input type="image" src="images/search_button.png" border="0"></div>
                 </div>                        
         	</form>
         </div>
@@ -1575,11 +1575,11 @@ $(document).ready(function() {
 </style>
 
 <!--autocomplete suggestions start here-->
-<script type="text/javascript" src="./js_autocomplete/jquery.autocomplete.js"></script>
-<link rel="stylesheet" type="text/css" href="./css_autocomplete/jquery.autocomplete.css">
+<script type="text/javascript" src="js_autocomplete/jquery.autocomplete.js"></script>
+<link rel="stylesheet" type="text/css" href="css_autocomplete/jquery.autocomplete.css">
 <script type="text/javascript">
 $().ready(function() {
-	$("#txtSearch").autocomplete("./search/get_search_suggestions.php", {
+	$("#txtSearch").autocomplete("search/get_search_suggestions.php", {
 		width: 499,
 		matchContains: true,
 		//mustMatch: true,
@@ -1594,11 +1594,11 @@ $().ready(function() {
 <!--autocomplete suggestions end here-->   
                     
                     
-                     <div id="slider"><img src="./images/products/Default.jpg" alt="" title=""></div>
+                     <div id="slider"><img src="images/products/Default.jpg" alt="" title=""></div>
               </div>
-              <div id="rounded-top-bottom"><img src="./images/rounded_bottom.png" border="0" title=""></div>
+              <div id="rounded-top-bottom"><img src="images/rounded_bottom.png" border="0" title=""></div>
                             <div id="contant-main-inner">
-              <div id="rounded-top-bottom-inner"><img src="./images/rounded_top_border.png" border="0" title=""></div>
+              <div id="rounded-top-bottom-inner"><img src="images/rounded_top_border.png" border="0" title=""></div>
               <!-- Content Area Start -->
               <div id="contant-area-inner">
               <div id="contant-placement-inner">
@@ -1611,14 +1611,14 @@ $().ready(function() {
             <!--<div class="shadow"><img src="tab-images/shadow-top.png" alt="" title="" border="0" /></div>-->
             <div class="left-navigation-main">                                                	
                 <div class="arrowlistmenu"><!--Accordian Start-->
-                	<h3 class="menuheader expandable " style="background-image:none; padding:0px 0px 0px 0px; margin:0px 0px 0px -3px; width:199px; height:42px;" headerindex="0h"><span class="accordprefix"></span><a href="./cs"><img src="./tab-images/customer-tab-top-bg.png" alt="" title="" border="0"></a><span class="accordsuffix"></span></h3>
+                	<h3 class="menuheader expandable " style="background-image:none; padding:0px 0px 0px 0px; margin:0px 0px 0px -3px; width:199px; height:42px;" headerindex="0h"><span class="accordprefix"></span><a href="cs"><img src="tab-images/customer-tab-top-bg.png" alt="" title="" border="0"></a><span class="accordsuffix"></span></h3>
                     	<div class="outer-line">
                         	<!---->
                                                         	<ul class="categoryitems" contentindex="0c">
                                 	<li>
                                         <ul class="nodroopul">
                                             <li class="nodroop">
-        <a href="./cs" class="">Customer Services</a>
+        <a href="cs" class="">Customer Services</a>
     										</li>
                                         </ul>
                                     </li>
@@ -1635,84 +1635,84 @@ $().ready(function() {
                                 										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/gprs-mms-settings.php" title="GPRS - MMS Settings" class="">GPRS - MMS Settings</a>
+            <a href="cs/joint-industry-media-campaign.php" title="Joint Industry Media Campaign" class="">Joint Industry Media Campaign</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/ivr-100.php" title="IVR 100" class="">IVR 100</a>
+            <a href="cs/gprs-mms-settings.php" title="GPRS - MMS Settings" class="">GPRS - MMS Settings</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/online-sim.php" title="Reserve Sim Online" class="">Reserve Sim Online</a>
+            <a href="cs/ivr-100.php" title="IVR 100" class="">IVR 100</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./products/services.php" title="Free Assistance Service" class="">Free Assistance Service</a>
+            <a href="cs/online-sim.php" title="Reserve Sim Online" class="">Reserve Sim Online</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/sim_info_668.php" title="Overseas SIM Info System 668" class="">Overseas SIM Info System 668</a>
+            <a href="products/services.php" title="Free Assistance Service" class="">Free Assistance Service</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/customer-service-centers.php" title="Customer Service Centers" class="">Customer Service Centers</a>
+            <a href="cs/sim_info_668.php" title="Overseas SIM Info System 668" class="">Overseas SIM Info System 668</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/help-service.php" title="Prepaid Help Services" class="">Prepaid Help Services</a>
+            <a href="cs/customer-service-centers.php" title="Customer Service Centers" class="">Customer Service Centers</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/franchises.php" title="Business Centres &amp; Franchises" class="">Business Centres &amp; Franchises</a>
+            <a href="cs/help-service.php" title="Prepaid Help Services" class="">Prepaid Help Services</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/online-port-in.php" title="MNP" class="">MNP</a>
+            <a href="cs/franchises.php" title="Business Centres &amp; Franchises" class="">Business Centres &amp; Franchises</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./about/media/contactus.php" title="Contact Us" class="">Contact Us</a>
+            <a href="about/media/contactus.php" title="Contact Us" class="">Contact Us</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/mnp-faqs.php?p=default&amp;cat=20" title="MNP FAQs" class="">MNP FAQs</a>
+            <a href="cs/mnp-faqs.php?p=default&amp;cat=20" title="MNP FAQs" class="">MNP FAQs</a>
         </li>
                                             </ul>
                                         </li>
                                         										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
-            <a href="./cs/Consumer-Manual-Ver.005F201212.pdf" title="Consumer Manual" class="">Consumer Manual</a>
+            <a href="cs/Consumer-Manual-Ver.005F201212.pdf" title="Consumer Manual" class="">Consumer Manual</a>
         </li>
                                             </ul>
                                         </li>
@@ -1724,7 +1724,7 @@ $().ready(function() {
             </div>
             <!---->
         </div>
-        <div class="tab-bottom-img"><img src="./tab-images/tab-bottom.png" alt="" title="" border=""></div>
+        <div class="tab-bottom-img"><img src="tab-images/tab-bottom.png" alt="" title="" border=""></div>
     </div>
 </div>
               </div>              <div id="inner_container-750">
@@ -1791,14 +1791,14 @@ $().ready(function() {
               </div>
               </div>
               <!-- Content Area Close -->
-              <div id="rounded-top-bottom-inner"><img src="./images/rounded_bottom_border.png" border="0" title=""></div>
+              <div id="rounded-top-bottom-inner"><img src="images/rounded_bottom_border.png" border="0" title=""></div>
               </div>
               </div>
                 <!--Contant End-->
                 <!--Footer Start-->
                 <div id="footer-main">
                     <div id="footer-links">                    
-                    	<a href="./">Home</a> | <a href="http://careers.waridtel.com/" target="_blank">Careers</a> | <a href="./fraud.php">Avoid Fraud</a> <!--| <a href="./sitemap.php">Site Map</a>--> | <a href="./about/media">Media Center</a> | <a href="./privacy_policy.php">Privacy Policy</a> | <a href="./about/media/contactus.php">Contact Us</a> | <a href="./cs/Consumer-Manual-Ver005F201212.pdf">Consumer Manual</a> </div>
+                    	<a href="">Home</a> | <a href="http://careers.waridtel.com/" target="_blank">Careers</a> | <a href="fraud.php">Avoid Fraud</a> <!--| <a href="sitemap.php">Site Map</a>--> | <a href="about/media">Media Center</a> | <a href="privacy_policy.php">Privacy Policy</a> | <a href="about/media/contactus.php">Contact Us</a> | <a href="cs/Consumer-Manual-Ver005F201212.pdf">Consumer Manual</a> </div>
                     <div id="copyright">
                     	Copyright 2014, Warid Telecom (Pvt) Limited. All rights reserved
                     </div>
@@ -1819,13 +1819,13 @@ $(document)
 			}
 			var images = new Array();
 			images[images.length] 			= new Image();
-			images[images.length-1].src		= './dropdown-images/warid-postpaid.png';
+			images[images.length-1].src		= 'dropdown-images/warid-postpaid.png';
 			
 			images[images.length] 			= new Image();
-			images[images.length-1].src		= './dropdown-images/warid-prepaid.png';
+			images[images.length-1].src		= 'dropdown-images/warid-prepaid.png';
 			
 			images[images.length] 			= new Image();
-			images[images.length-1].src		= './dropdown-images/warid-p-services.png';
+			images[images.length-1].src		= 'dropdown-images/warid-p-services.png';
 			if( $('.menuheader').size() == 1 )
 			{
 				$('.menuheader').trigger('mouseover');
@@ -1886,7 +1886,7 @@ $(document)
 					}
 				);
 			/*$('ul.subcategoryitems li:has(.subexpandabledrop)').not('.subcategoryitemsdrop li')
-				.css('background-image','url(./tab-images/sub-link-left-navi.png)')
+				.css('background-image','url(tab-images/sub-link-left-navi.png)')
 				.css('background-repeat','no-repeat');*/
 			//$('.subcategoryitemsdrop li').css('background-image','');
 			$('ul.subcategoryitemsdrop')
@@ -2018,7 +2018,7 @@ $(document)
 						function()
 						{
 							var href = $(this).find('a').attr('href');
-							href = href.replace('./','');
+							href = href.replace('','');
 							console.log('href: ' + href);
 							console.log('targetLoc: ' + targetLoc);
 							console.log( href.indexOf(targetLoc) );
