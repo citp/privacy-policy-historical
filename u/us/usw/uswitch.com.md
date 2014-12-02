@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628080054id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202063817id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-##  The uSwitch privacy policy forms part of uSwitch's terms and conditions. 
+The uSwitch privacy policy forms part of uSwitch's terms and conditions.
 
 This privacy policy forms part of uSwitch.com's terms and conditions. Once you have provided your personal details on this website you will be deemed to have read and accepted this privacy policy. 
 
@@ -66,9 +66,9 @@ In the event that none of the companies we forward your information to are able 
 
 Also, we may share your personal information with other selected third parties that may contact you directly about their products or services. We shall give you an opportunity to choose not to share your information with such selected parties before you submit your personal information. 
 
-If while comparing loans with us you provide us with your phone number, name, address and postcode, we may pass these details - and the information you have submitted on the site - on to one of our loans brokers.
+If while comparing loans or mortgages with us you provide us with your phone number, name, address and postcode, we will pass these details - and the information you have submitted on the site - on to one of our loans or mortgages brokers.
 
-By entering this information you are agreeing for us to pass your personal data to our loans brokers and for them to contact you by phone or email to discuss your requirements.
+By entering this information you are agreeing for us to pass your personal data to our loans and mortgages brokers and for them to contact you by phone or email to discuss your requirements.
 
 They will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose.
 
