@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231356id_/https%3A//www.brighthorizons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202011811id_/http%3A//www.brighthorizons.com/privacy) for the most accurate reproduction.*
 
-# Bright Horizons®
+# Website Privacy Policy | Bright Horizons® | Bright Horizons®
 
 **Welcome**
 
