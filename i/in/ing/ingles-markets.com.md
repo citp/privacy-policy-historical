@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingles-markets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115937id_/http%3A//ingles-markets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingles-markets.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202054930id_/http%3A//www.ingles-markets.com/privacy) for the most accurate reproduction.*
 
 # Ingles Markets - Grocery Stores, Supermarkets, Pharmacies - Online Privacy Policy Statement
 
@@ -31,7 +31,7 @@ For each visitor to our Web page, our Web server automatically recognizes the vi
 
 We collect only the domain name and IP address, browser/operating system specs, the e-mail addresses of those who communicate with us via e-mail or online contact forms, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations.
 
-If users have questions or concerns regarding this statement, they should contact our Customer Service department by using our online [Contact Form](http://ingles-markets.com/comments/contact-information), calling, or writing us at the address above.
+If users have questions or concerns regarding this statement, they should contact our Customer Service department by using our online [Contact Form](http://www.ingles-markets.com/comments/contact-information), calling, or writing us at the address above.
 
 Information Collection and Use  
   
