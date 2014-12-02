@@ -1,149 +1,115 @@
-> *The following text is extracted and transformed from the here.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the here.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202024824id_/http%3A//here.com/privacy/privacy-policy/%3Flang%3Den-GB) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - parent | HERE
 
-#### Find Answers To Your Questions:
+**Nokia Privacy Policy for products and services**
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Effective date 25.04.2014
 
-### Privacy Policy
+**WE CARE ABOUT YOUR PRIVACY**
 
-**Why A Privacy Policy?**  
+Nokia Corporation, including its affiliates, is committed to respect your privacy and to comply with applicable data protection and privacy laws. This privacy policy (“Policy”) describes how we collect and use personal data where Nokia is the data controller or where we refer to the applicability of this Policy. “Personal data” means information relating to you or another identifiable individual.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+We will give you additional privacy information that is specific to a product or service in Supplements to this Policy and other notices you may see while using our products or services. If there is a difference between such notices and this Policy, the notices should be considered first.
 
- **This Privacy Policy protects your privacy by:**
+Software on your device may access your information. Our products or services may contain links to other companies’ websites and services that have privacy policies of their own. Nokia is not responsible for the privacy practices of others and we recommend you read their privacy notices.
 
- **Informing you about:**
+**If you do not agree with this Policy, do not use our products and services or provide Nokia with your personal data.**
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+**What Information Do We Collect?**
 
+We collect your personal data and other information when you make a purchase, use or register into our products and services, take part in campaigns or research or otherwise interact with us. This includes following categories:
 
+  * **Product and service activations** Nokia products and services may require electronic activation, where your device and application type, as well as unique device, application, network and subscription identifiers are sent to Nokia.
+  * **Use of products and services** When you access our services online, our web servers automatically create records of your visit. These records typically include IP-address, access times, the sites linked from, pages visited, the links and features used, the content viewed or requested, browser or application type, language and other such information. See also our [Cookie policy](https://web.archive.org/privacy/cookie-policy/ "Cookie policy parent").
 
-**Empowering you to choose:**
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
+Our applications may contact our servers periodically, for example to check for updates or to send us information relating to service usage. Additionally, we may invite you to join voluntary product and service improvement or research programs where detailed information is collected. See Supplements to this Policy for more details.
 
+  * **Information you provide us with** When you create an account, make a purchase, request services, participate in research or campaigns or otherwise interact with us, we may ask for information such as your name, email address, phone number, street address, user names and passwords, feedback, information relating to your devices, age, gender, and language, bank account number, credit card details and other such financial information.We also maintain records of your consents, preferences and settings relating to, for example, location data, marketing and sharing of personal data.
+  * **Your transactions with us** We maintain records of your purchases, downloads, the content you have provided us with, your requests, agreements between you and Microsoft Mobile, the products and services provided to you, payment and delivery details, your contacts and communications and other interactions with us. We may, in accordance with applicable law, record your communication with our customer care or with other such contact points.
+  * **Positioning and Location data** Location-based services establish location through the use of satellite, mobile, Wi-Fi or other network based positioning methods. These technologies may involve exchanging your location data and unique device and mobile, Wi-Fi or other network related identifiers with Nokia. Our products may operate on multiple device platforms, applications and services which may also collect your location data. We do not use this information to identify you personally without your consent.
 
-**Assuring you that Network Solutions:**
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
 
+When you use our location based services and features, for example location based search, navigation and routing, or request for map data, your location data is sent to Nokia to serve you with the right content, which may also include location based advertising.
 
+**Why Do We Process Personal Data?**
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+Nokia may process your personal data for the following purposes. One or more purposes may apply simultaneously.
 
-  
-**Third Party Advertising and Cookies**
+  * **Providing products and services** We may use your personal data to provide you with our products and services, to process your requests or as otherwise may be necessary to perform the contract between you and Nokia, to ensure the functionality and security of our products and services, to identify you as well as to prevent and investigate fraud and other misuses.
+  * **Accounts** Some services may require an account to help you manage your content and preferences. For more information, see our account supplement.
+  * **Developing and managing products and services** We may use your personal data to develop and manage our products, services, customer care, sales and marketing. We may combine personal data collected in connection with your use of a particular Nokia product and/or service with other personal data we may have about you, unless such personal data was collected for a different purpose.
+  * C **ommunicating with you** We may use your personal data to communicate with you, for example to inform you that our services have changed or to send you critical alerts and other such notices relating to our products and/or services and to contact you for customer care related purposes.
+  * **Marketing, advertising and making recommendations** We may contact you to inform you of new products, services or promotions we may offer and to conduct market research when we have your consent or it is otherwise allowed. We may use your personal data to personalise our offering and to provide you with more relevant services, for example, to make recommendations and to display customised content and advertising in our services. This may include displaying Nokia and third party content.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+**Do We Share Personal Data?**
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+We do not sell, lease, rent or otherwise disclose your personal data to third parties unless otherwise stated below.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+  * **Your consent and social sharing services** We may share your personal data if we have your consent to do so. Some services may allow you to share your personal data with other users of the service or with other services and their users. Please consider carefully before disclosing any personal data or other information that might be accessible to other users.
+  * **Nokia companies and authorised third parties** We may share your personal data with other Nokia companies or authorised third parties who process personal data for Nokia for the purposes described in this Policy. This may include for example billing through your network service provider or otherwise, delivery of your purchases, providing services including customer service, managing and analysing consumer data, credit checks, conducting research and managing marketing and other such campaigns. When you purchase a Nokia product from us with a network service provider plan, we may need to exchange information with your network service provider to provide you with such service.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+We may conduct joint marketing and other communications with our partners, for example your mobile operator. To avoid duplicate or unnecessary communications and to tailor the message to you we may need to match information that Nokia has collected with information that the partner has collected where this is permitted by law.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+These authorised third parties are not permitted to use your personal data for any other purposes. We require them to act consistently with this Policy and to use appropriate security measures to protect your personal data.
 
- **Getting to Know Our Customers**
+  * **International transfers of personal data** Our products and services may be provided using resources and servers located in various countries around the world. Therefore your personal data may be transferred across international borders outside the country where you use our services, including to countries outside the European Economic Area (EEA) that do not have laws providing specific protection for personal data or that have different legal rules on data protection, for example, the United States of America. In such cases we ensure that there is a legal basis for such a transfer and that adequate protection for your personal data is provided as required by applicable law, for example, by using standard agreements approved by relevant authorities (where necessary) and by requiring the use of other appropriate technical and organisational information security measures.
+  * **Mandatory disclosures** We may be obligated by mandatory law to disclose your personal data to certain authorities or other third parties, for example, to law enforcement agencies in the countries where we or third parties acting on our behalf operate. We may also disclose and otherwise process your personal data in accordance with applicable law to defend Nokia’s legitimate interests, for example, in civil or criminal legal proceedings.
+  * **Mergers and Acquisitions** If we decide to sell, buy, merge or otherwise reorganise our businesses in certain countries, this may involve us disclosing personal data to prospective or actual purchasers and their advisers, or receiving personal data from sellers and their advisers.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+**How Do We Address The Privacy of Children?**
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+Nokia products and services are typically intended for general audiences. Nokia does not knowingly collect information of children without the consent of their parents or guardians. Nokia publishes safety guidelines for using internet services in our websites.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+**How Do We Address Data Quality?**
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+We take reasonable steps to keep the personal data we possess accurate and to delete incorrect or unnecessary personal data.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+We encourage you to access your personal data through your account from time to time to ensure that it is up to date.
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+**What Steps Are Taken To Safeguard Personal Data?**
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+Privacy and security are key considerations in the creation and delivery of our products and services. We have assigned specific responsibilities to address privacy and security related matters. We enforce our internal policies and guidelines through an appropriate selection of activities, including proactive and reactive risk management, security and privacy engineering, training and assessments. We take appropriate steps to address online security, physical security, risk of data loss and other such risks taking into consideration the risk represented by the processing and the nature of the data being protected. Also, we limit access to our data bases containing personal data to authorised persons having a justified need to access such information.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+**How Do We Use Cookies and Web Beacons?**
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+Nokia uses cookies, web beacons and other similar technologies to operate and improve our websites and offering. We also use cookies for personalisation and to display ads. Some Nokia websites use third party advertising technologies, such as DoubleClick, to serve ads.
 
-b. Click “Edit User Info” in the left menu;
+Our domains may include third party elements that set cookies on behalf of a third party, for example relating to third party social network. Please visit our [Cookie policy](https://web.archive.org/privacy/cookie-policy/) to find out more about how Nokia uses cookies and how you can disable cookies by browser settings or otherwise.
 
-c. Scroll to the bottom of the page;
+**What Are Your Rights?**
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+You have a right to know what personal data we hold about you. You have a right to have incomplete, incorrect, unnecessary or outdated personal data deleted or updated. You have a right to unsubscribe from direct marketing messages and to request that we stop processing your personal data for direct marketing purposes or on other compelling legal grounds. However, if you opt-out from marketing and other communications from Nokia, critical alerts may still be sent to you.
 
-e. Click “SAVE.”
+You may exercise your rights by contacting us or by managing your account and choices through available profile management tools on your device and our services. In some cases, especially if you wish us to delete or stop processing your personal data, this may also mean that we may not be able to continue to provide the services to you.
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+**Who Is The Controller of Your Personal Data?**
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+Nokia Corporation of Karakaari 7, 02610 Espoo , Finland is the controller of your personal data.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+In addition, the Nokia affiliate providing the product or service may be a controller of your personal data. You may find the identity of the controller and its contact details by reviewing the terms and conditions of such a product or service or by using contact information provided in the applicable Nokia websites.
 
-b. Click “Edit User Info” in the left menu;
+In matters pertaining to Nokia’s privacy practices you may also contact us at:
 
-c. Scroll to the bottom of the page;
+Nokia Corporation
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+c/o Privacy
 
-e. Click “SAVE.” 
+Karakaari 7
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+02610 Espoo
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+Finland
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+**Changes to This Privacy Policy**
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+Nokia may from time to time change this Policy or change, modify or withdraw access to this site at any time with or without notice. However, if this Policy is changed in a material, adverse way, Nokia will post a notice advising of such change at the beginning of this Policy and on this site’s home page for 30 days. We recommend that you re-visit this Policy from time to time to learn of any such changes to this Policy.
