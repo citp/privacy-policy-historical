@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the videomega.tv privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208182942id_/http%3A//www.videomega.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomega.tv privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202132429id_/http%3A//videomega.tv/index_privacy.php) for the most accurate reproduction.*
 
-# 
+# Videomega.tv - Host and share your videos free, subtitles supported
 
-**Privacy** This Privacy Policy governs the manner in which VideoMega collects, uses, maintains and discloses information collected from users (each, a "User") of the www.videomega.tv website ("Site"). This privacy policy applies to the Site and all products and services offered by VideoMega.
+## __Privacy
+
+* * *
+
+This Privacy Policy governs the manner in which VideoMega collects, uses, maintains and discloses information collected from users (each, a "User") of the www.videomega.tv website ("Site"). This privacy policy applies to the Site and all products and services offered by VideoMega.
 
 **Personal identification information**
 
@@ -51,4 +55,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.  
-This document was last updated on January 23, 2012
+This document was last updated on May 25, 2014
