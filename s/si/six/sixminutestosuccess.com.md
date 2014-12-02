@@ -1,83 +1,55 @@
-> *The following text is extracted and transformed from the sixminutestosuccess.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119084233id_/http%3A//www.sixminutestosuccess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixminutestosuccess.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202011757id_/http%3A//www.getresultsthatstick.com/pgi-privacy-policy) for the most accurate reproduction.*
 
-# Six Minutes To Success: Bob Proctor Helps You Acheive Success Through The Law Of Attraction In 6 Minutes A Day
+# Privacy Policy | Get Results That Stick!
 
-#### SixMinutesToSuccess.com Privacy Statement
+**PRIVACY POLICY STATEMENT**
 
-The basic gist of this is that we won't sell or rent your private info. We care about your privacy. We hate spam, too. 
+Proctor Gallagher Institute (the “Company”) is dedicated to protecting privacy while using the services of www.proctorgallagherinstitute.com and its affiliated websites (the “Site”).  This privacy policy statement explains information collection and use practices for the Site. By accessing the Site, you are agreeing with and consenting to the data collection and use practices described in this privacy policy. This privacy policy statement expressly incorporates and is subject to the Terms of Use (“TOU”) for the Site, which may be separately accessed via a hypertext link located on its homepage. The provisions, terms and conditions set forth in the TOU shall supersede, govern and control in the event of any actual or potential inconsistency or conflict with the contents of this privacy policy statement.
 
-When you use this website, you consent to the use of your personal information by SixMinutesToSuccess.com in the manner specified in this Privacy Statement.
+**PERSONAL DATA COLLECTION**
 
-#### Personal Information
+You may be asked to provide the Company with information that personally identifies you or allows us to contact you (“Personal Data”), if necessary, to carry out a transaction or other service that you have requested in connection with use of the Site. The Personal Data the Company gathers, if necessary, may include your name, title, company or organization name, e-mail address, work phone, work or home address, information about your job function, information about your company and credit card information, as well as additional information that may be necessary to provide services offered on or in connection with the Site.
 
-We require customers who register to use the services offered on our website to give us personally identifiable information such as name, address, telephone number, e-mail address, institution affiliation, credit card number, checking account number, or date of birth. This personal information is collected and used by SixMinutesToSuccess.com for the purpose of facilitating a relationship or business transaction. We will not sell, trade or rent your personally identifiable information to third parties.
+The Company may additionally collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you accessed the Internet; the date and time you accessed the Site; the pages that you have accessed while at the Site and the Internet address of the website from which you linked directly to the Site. This information is used to help the Company improve the Site, analyze trends and administer the Site.
 
-#### Private Information
+In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate and harmful purposes, the Company strongly advises that you use exercise extreme caution when posting your e-mail address or other personal information to newsgroups, chats, listings or other public forums on the Site or any other website.
 
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, (ModularMerchant.com and Authorize.net), keeps this information encrypted and secure on your behalf. 
+**PERSONAL DATA USE**
 
-#### E-mail
+The Personal Data collected on the Site will be used to operate the Site and to provide service(s) and/or carry out the transaction(s) you have requested or authorized in connection with the Site.
 
-SixMinutesToSuccess.com does not sell or rent e-mail addresses to anyone. SixMinutesToSuccess.com may generate e-mail for the following types of communication:
+The Company may use Personal Data to provide you with customer service for Site improvements, any related products or services or to otherwise customize the Site to your particular preferences or interests.
 
-1\. Notification e-mail to which the individual may subscribe and unsubscribe.
+The Company may use personal information or Personal Data to provide you with important information about the products or services that you are using, to inform or inquire about products, services or matters related to the Site, which may include updates and notifications. Additionally, we may send you information about other products, services and/or share information with partners and affiliates so that they may send you information about certain products and services.
 
-2\. Transactional e-mail, which is the result of a business transaction initiated with SixMinutesToSuccess.com.
+When you sign up for or agree to receive promotional e-mail or other offers made in connection with or via use of the Site, the Company may use customized links or similar technologies to track e-mail links that you click. The Company may associate that information with your personal information or Personal Data in order to provide you more focused e-mail communications, use of the Site or other services and information related to, offered on or available through the Site. The Company will provide means to unsubscribe to e-mail communications that allows you to stop delivery of that type of communication.
 
-3\. Relationship e-mail, which is sent as an informational service because of a relationship with SixMinutesToSuccess.com.
+We may disclose your personal information and/or Personal Data if required to do so by law or in good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Site or the Company; (b) protect and defend the rights or property of the Site or the Company; or (c) act in urgent circumstances to protect the personal safety of employees or agents, user of this Site’s products or services, or members of the public.
 
-4\. Commercial e-mail, which is sent to promote an SixMinutesToSuccess.com product or service; you may opt to not receive this type of e-mail.
+Personal information and Personal Data collected on the Site may be stored and processed in the United States or any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities. By using this Site, you consent to any such transfer or information outside of your country.
 
-5\. Correspondence from SixMinutesToSuccess.com as a result of a communication initiated by a member or customer.
+**CONTROL OF YOUR PERSONAL DATA**
 
-E-mail that has a provision for opt-out will include instructions on how to do so. All inquiries regarding subscription-based e-mails should be directed to SixMinutesToSuccess.com Customer Service (see Contact Information below).
+Except as otherwise described in this statement, personal information and Personal Data provided to the Company with regard to use of the Site will not be shared outside of this Site and its controlled subsidiaries and affiliates without your permission.
 
-SixMinutesToSuccess.com may occasionally send informational or promotional materials to members and customers. You may choose to exclude yourself from all, none, or only non-SixMinutesToSuccess.com mailings by contacting Customer Service (see Contact Information below).
+The Company may send out periodic e-mails informing you of certain services or products offered by it, its subsidiaries and affiliates, concerning technical services or security issues related to a product or service you requested or otherwise related to your use of the Site, or confirming a requested product or service related to the Site. Contact with the customer is an intrinsic part of the product or service being offered. You will not be able to unsubscribe to these e-mails as they are considered an essential part of the product(s) or service(s) you have chosen.  
+**PERSONAL DATA SECURITY**
 
-#### Non-personal Information
+The Company is committed to protecting the security of your Personal Data. The Company, through its selected service providers, uses a variety of security technologies and procedures to help protect your personal information and Personal Data from unauthorized access, use or disclosure.
 
-We may collect information about you that is not personally identifiable. Examples of this type of information include:  
-* IP address of computer  
-* Browser-related information  
-* Locations visited on the website  
-* HTTP cookies.
+**USE OF COOKIES**
 
-SixMinutesToSuccess.com may use this information to help us in website research and development or to facilitate restricted website services.
+The Company may use cookies on this Site to ensure the integrity of the registration process, if required, and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you and can only be read by a Web server in the domain that issued the cookie to you.
 
-#### IP Address
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this Site or other websites you visit.
 
-IP addresses are used to verify access rights of licensed subscribers to SixMinutesToSuccess.com products or services that require license agreements. They also aid in the general administration of the website.
+**MODIFICATIONS TO THIS PRIVACY POLICY STATEMENT**
 
-#### HTTP Cookies
+The Company may occasionally modify this privacy policy statement. When this is done, the Company will also revise the “last updated” date at the top of the privacy policy statement. The Company encourages you to periodically review this private policy statement to stay informed as to how the Company is helping to protect the Personal Data it collects. Your continued use of the Site constitutes your agreement to this privacy policy statement, its terms, conditions and any updates thereto.  Updates to this privacy policy statement will be posted online only.  You will not be sent e-mail or other forms of notification that updates to this privacy policy statement have been made.  Accordingly, you are advised to review this privacy policy statement periodically for updates.
 
-A HTTP Cookie is a piece of data that is stored by your browser in either your computer's memory or on your computer's hard drive. SixMinutesToSuccess.com uses cookies to keep track of user session identity on the website, such as tracking items in a shopping cart or maintaining access to restricted website services via SixMinutesToSuccess.com Service Account. Cookies are also used to track the effectiveness of various services provided on SixMinutesToSuccess.com website. Browsers generally allow you to disable cookies. Services on SixMinutesToSuccess.com website that require a login to an SixMinutesToSuccess.com Service Account require that cookies are enabled.
+**CONTACT INFORMATION**
 
-#### Monitoring, Enforcement and Legal Requests
+We welcome your comments regarding this privacy policy statement.  You may contact us via e-mail at customerservice@proctorgallagher.com or by U.S. Mail at Proctor Gallagher Institute – Privacy Policy Comments, 8776 E Shea Blvd, Suite 106-621, Scottsdale, AZ 85260.  
 
-SixMinutesToSuccess.com has no obligation to monitor the website or the use of the website, or to retain the content of any user session. However, SixMinutesToSuccess.com reserves the right at all times to monitor, review, retain and/or disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request or to cooperate with law enforcement and other authorities in investigating a claim of illegal activity. We may use IP addresses to identify a user when we feel it is necessary to protect our service, website, customers or others. 
 
-#### Third-Parties
-
-SixMinutesToSuccess.com uses third-party intermediaries for several business purposes, including credit card validation, data gathering, and other services. These third-parties are permitted to use your personal information only to provide SixMinutesToSuccess.com with a specific service and not for any other purpose. Please contact SixMinutesToSuccess.com Customer Service (see SixMinutesToSuccess.com Contact Information below) if you believe this policy has been violated.
-
-#### Other Sites
-
-This Privacy Statement only addresses SixMinutesToSuccess.com use and disclosure of the information we collect from you. The SixMinutesToSuccess.com website may contain links to other websites. SixMinutesToSuccess.com is not responsible for the privacy practices or content of these other websites. To the extent that you visit or disclose personal information to other websites, you are subject to the privacy customs and policies of these other websites. We encourage you to ask questions before you disclose any personal information.
-
-#### Transmission Errors or Unauthorized Acts
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, SixMinutesToSuccess.com cannot ensure or warrant the security of any information you transmit to us or any information provided by our online services, and you do so at your own risk. SixMinutesToSuccess.com will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. However, once we receive your transmission, we do our best to ensure its security on our systems by making reasonable efforts to protect the information. 
-
-#### Security
-
-Any information provided to SixMinutesToSuccess.com is treated with care and discretion. SixMinutesToSuccess.com will take a proactive approach to ensure the information is kept private and not misused. 
-
-#### Contact Information
-
-If you have any questions about this Privacy Statement, the practices of this website, your dealings with the website, or would like to provide comments, you can contact SixMinutesToSuccess.com Customer Services by e-mail at support@sixminutestosuccess.com, or by regular mail to: 
-
-SixMinutesToSuccess  
-15016 N. 40th Lane  
-Phoenix, AZ 85053
-
-This Privacy Statement is subject to change at any time, so please check back from time to time. 
+[](http://www.hupso.com/share/)
