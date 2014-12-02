@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deepetch.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615073834id_/https%3A//www.deepetch.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepetch.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202111715id_/http%3A//www.deepetch.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy, We value your photographs | Deepetch.com
+# Deepetch: Customer Privacy Policy
 
 We obtain only specific and individualized data on our website visitors when such information is supplied voluntarily. However, we may, from time to time, gather generic information solely to determine the success and usefulness of our website. This generic information, which does not reveal the identity of the visitor, may include, how much time people spend on various pages of the site, visitors' domain name types (.com, .org, etc.) and the originating web page of the visitor. We use this information to determine customer service needs. In the future, we may increase our technical abilities for gathering data about visitors in order to enhance the services offered to visitors and clients.
 
