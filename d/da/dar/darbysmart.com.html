@@ -1,25 +1,35 @@
-<!--The following is the downloaded HTML source of the darbysmart.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624030936id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the darbysmart.com privacy policy that was archived on 2014-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202120608id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-<script src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/2vd88yk2g0/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"5a206499f7","applicationID":"2129328","transactionName":"IV4LQ0UOXlRRRU0RUwVUFhhECV1P","queueTime":6,"applicationTime":294,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIOVV9SGwEBVlhRBQk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js" async=""></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/2vd88yk2g0/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"6deffb7ba6","applicationID":"4120491","transactionName":"cF9WQxZZXF8BRBcUBVRVSxgXXl9E","queueTime":8,"applicationTime":81,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
 <script>
   (function() {
+    window.UPLOADCARE_PUBLIC_KEY = "4dd274705c4e3f9528d1";
+  
     window.DS = {
       Data: {}
     };
   
     window.DS.Data.user = {
-      signedIn: false
+      signedIn: false,
+      group: 'Anonymous',
+      subGroup: ''
     };
   
   }).call(this);
 </script>
+<script>
+  (function() {
+    window.DS.Data.showSignInModal = false;
+  
+  }).call(this);
+</script>
+<script src="//cdn.optimizely.com/js/254795097.js"></script>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <link href="//fonts.googleapis.com/css?family=Rock+Salt" media="screen" rel="stylesheet">
-<link href="//duiqzmx3vcp3l.cloudfront.net/assets/application-d349e17ff7ca5af2fba4eafed98bcac3.css" media="screen" rel="stylesheet">
 <meta content="darbysmart" name="twitter:site">
 <meta content="pk_live_ng1ReyYdWQkb7qtXV9p1229i" name="stripe:key">
 <meta content="VAYSMXF5KNR3ZPCXGM7Y" name="cloud_sponge:key">
@@ -27,39 +37,151 @@
 <meta content="Darby Smart" property="og:site_name">
 <meta content="103834603160623" property="fb:app_id">
 <script>
-  var _rollbarParams = {"server.environment": "production"};
-  _rollbarParams["notifier.snippet_version"] = "2"; var _rollbar=["e5bdd241d04b4edaa6de1f5a601f0622", _rollbarParams]; var _ratchet=_rollbar;
-  (function(w,d){w.onerror=function(e,u,l){_rollbar.push({_t:'uncaught',e:e,u:u,l:l});};var i=function(){var s=d.createElement("script");var
-  f=d.getElementsByTagName("script")[0];s.src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js";s.async=!0;
-  f.parentNode.insertBefore(s,f);};if(w.addEventListener){w.addEventListener("load",i,!1);}else{w.attachEvent("onload",i);}})(window,document);
+  var _rollbarConfig = {
+    accessToken: "e5bdd241d04b4edaa6de1f5a601f0622",
+    captureUncaught: true,
+    payload: {
+      environment: "production"
+    }
+  };
+  
+  !function(a,b){function c(b){this.shimId=++h,this.notifier=null,this.parentShim=b,this.logger=function(){},a.console&&void 0===a.console.shimId&&(this.logger=a.console.log)}function d(b,c,d){a._rollbarWrappedError&&(d[4]||(d[4]=a._rollbarWrappedError),d[5]||(d[5]=a._rollbarWrappedError._rollbarContext),a._rollbarWrappedError=null),b.uncaughtError.apply(b,d),c&&c.apply(a,d)}function e(b){var d=c;return g(function(){if(this.notifier)return this.notifier[b].apply(this.notifier,arguments);var c=this,e="scope"===b;e&&(c=new d(this));var f=Array.prototype.slice.call(arguments,0),g={shim:c,method:b,args:f,ts:new Date};return a._rollbarShimQueue.push(g),e?c:void 0})}function f(a,b){if(b.hasOwnProperty&&b.hasOwnProperty("addEventListener")){var c=b.addEventListener;b.addEventListener=function(b,d,e){c.call(this,b,a.wrap(d),e)};var d=b.removeEventListener;b.removeEventListener=function(a,b,c){d.call(this,a,b&&b._wrapped?b._wrapped:b,c)}}}function g(a,b){return b=b||this.logger,function(){try{return a.apply(this,arguments)}catch(c){b("Rollbar internal error:",c)}}}var h=0;c.init=function(a,b){var e=b.globalAlias||"Rollbar";if("object"==typeof a[e])return a[e];a._rollbarShimQueue=[],a._rollbarWrappedError=null,b=b||{};var h=new c;return g(function(){if(h.configure(b),b.captureUncaught){var c=a.onerror;a.onerror=function(){var a=Array.prototype.slice.call(arguments,0);d(h,c,a)};var g,i,j="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(g=0;g<j.length;++g)i=j[g],a[i]&&a[i].prototype&&f(h,a[i].prototype)}return a[e]=h,h},h.logger)()},c.prototype.loadFull=function(a,b,c,d,e){var f=g(function(){var a=b.createElement("script"),e=b.getElementsByTagName("script")[0];a.src=d.rollbarJsUrl,a.async=!c,a.onload=h,e.parentNode.insertBefore(a,e)},this.logger),h=g(function(){var b;if(void 0===a._rollbarPayloadQueue){var c,d,f,g;for(b=new Error("rollbar.js did not load");c=a._rollbarShimQueue.shift();)for(f=c.args,g=0;g<f.length;++g)if(d=f[g],"function"==typeof d){d(b);break}}"function"==typeof e&&e(b)},this.logger);g(function(){c?f():a.addEventListener?a.addEventListener("load",f,!1):a.attachEvent("onload",f)},this.logger)()},c.prototype.wrap=function(b,c){try{var d;if(d="function"==typeof c?c:function(){return c||{}},"function"!=typeof b)return b;if(b._isWrap)return b;if(!b._wrapped){b._wrapped=function(){try{return b.apply(this,arguments)}catch(c){throw c._rollbarContext=d(),c._rollbarContext._wrappedSource=b.toString(),a._rollbarWrappedError=c,c}},b._wrapped._isWrap=!0;for(var e in b)b.hasOwnProperty(e)&&(b._wrapped[e]=b[e])}return b._wrapped}catch(f){return b}};for(var i="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),j=0;j<i.length;++j)c.prototype[i[j]]=e(i[j]);var k="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||k;var l=c.init(a,_rollbarConfig);l.loadFull(a,b,!1,_rollbarConfig)}(window,document);
 </script>
-
+<meta content="oR5R6rgoByy094OZeDXPdNxzxp60ivYoOJQP2FaQgls" name="google-site-verification">
 <script>
   var analytics=analytics||[];(function(){var e=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group"],t=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var n=0;n<e.length;n++)analytics[e[n]]=t(e[n])})(),analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)};
   analytics.load('2vd88yk2g0');
 </script>
-
-<meta content="oR5R6rgoByy094OZeDXPdNxzxp60ivYoOJQP2FaQgls" name="google-site-verification">
+<script>
+  (function() {
+    analytics.identify({
+      user_group: window.DS.Data.user.group,
+      user_subgroup: window.DS.Data.user.subGroup
+    });
+  
+  }).call(this);
+</script>
+<link href="//duiqzmx3vcp3l.cloudfront.net/assets/application-a3dfa07b0e97c1c480f15db7d92e7e49.css" media="screen" rel="stylesheet">
 <meta content="http://www.darbysmart.com/privacy" property="og:url">
 <meta content="website" property="og:type">
 <meta content="Darby Smart" property="og:title">
 <meta content="Darby Smart sends you chic materials and simple instructions, and you get to create stylish DIY projects based on the latest design trends. Don't dream about it. Design it!" property="og:description">
 <meta content="http://duiqzmx3vcp3l.cloudfront.net//duiqzmx3vcp3l.cloudfront.net/assets/darbysmart-logo-7ab489eb5c21bcb2fc62598761f09c03.png" property="og:image">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="al+PhrjKc+GiD72kCL9q+khpI707e5BEsxo8AwMvr18=" name="csrf-token">
-<title>Darby Smart</title>
+<meta content="4ieCQvzZn27bAL3l9O7vTAOZH3ytWGLaWdMCyxTLo1U=" name="csrf-token">
+<title>Privacy Policy - Darby Smart</title>
+<script>
+  (function() {
+    window.friendbuy || (window.friendbuy = []);
+  
+    window.friendbuy.push(['site', "site-4659dfc7-www.darbysmart.com"]);
+  
+    window.friendbuy.push([
+      'subscribe', 'widget.open', function() {
+        return analytics.track('Friend buy - Open widget', {
+          url: location.href
+        });
+      }
+    ]);
+  
+    window.friendbuy.push([
+      'subscribe', 'widget.close', function() {
+        return analytics.track('Friend buy - Close widget', {
+          url: location.href
+        });
+      }
+    ]);
+  
+    window.friendbuy.push([
+      'subscribe', 'share.success', function(share) {
+        return analytics.track('Friend buy - Share', {
+          id: share.id,
+          network: share.network,
+          message: share.message
+        });
+      }
+    ]);
+  
+  }).call(this);
+</script>
+<script>
+  (function (f, r, n, d, b, y) {
+    b = f.createElement(r), y = f.getElementsByTagName(r)[0];
+    b.async = 1;
+    b.src = n;
+    y.parentNode.insertBefore(b, y);
+  })(document, 'script', '//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js');
+</script>
 </head>
 <body class="pages pages-show">
-<div class="mainnav_nousers">
+<div class="mainnav_nousers" id="navbar">
+<div class="twelve columns logo_mobile-only">
+<a href="/" id="logo"><img alt="Darby Smart" class="topnav-logo_mobile" src="//duiqzmx3vcp3l.cloudfront.net/assets/darbysmart-logo-7ab489eb5c21bcb2fc62598761f09c03.png">
+</a></div>
+<div class="topnav_mobile-wrapper">
 <div class="topnav_account">
 <div class="topnav-container">
 <div class="twelve columns">
 <ul class="topnav_secondary">
-<li class="topnav-item_secondary" id="friendbuy_widget"></li>
-<a class="topnav-link_secondary" href="/users/sign_in"><li class="topnav-item_secondary">
+<li class="topnav-item_friendbuy">
+</li>
+<a href="/users/sign_in"><li class="topnav-item_account">
 Log In
 </li>
-</a></ul>
+</a><div id="cart">
+<a href="/store/cart" id="cart-link">
+<li class="topnav-item_cart">
+<span class="icon-cart">
+<span class="icon-box_black cart-inactive"></span>
+<span class="icon-box_pink cart-active"></span>
+</span>
+<span class="cartInfo">
+<span class="cartQuantity">-</span>
+</span>
+</li>
+</a>
+<div class="preview-cart"></div>
+</div>
+<span id="nav_mobile">
+<li class="dropdown_show">
+<span class="icon-dropdown" data-event="Mobile - Nav menu open">
+<span class="icon-more-down_black"></span>
+</span>
+<ul class="topnav_dropdown topnav_mobile-dropdown">
+<a class="topnav-link_dropdown" data-event-property-item="Products" data-event="Mobile - Nav menu item" href="/shop">
+<li class="topnav-item_dropdown">
+Shop
+</li>
+</a>
+<a class="topnav-link_dropdown" data-event-property-item="Printables" data-event="Mobile - Nav menu item" href="/printables">
+<li class="topnav-item_dropdown">
+Printables
+</li>
+</a>
+<a class="topnav-link_dropdown" data-event-property-item="Showroom" data-event="Mobile - Nav menu item" href="/showroom">
+<li class="topnav-item_dropdown">
+Showroom
+</li>
+</a>
+<a class="topnav-link_dropdown" data-event-property-item="Gift" data-event="Mobile - Nav menu item" href="/gift">
+<li class="topnav-item_dropdown">
+Gift
+</li>
+</a>
+<a class="topnav-link_dropdown" data-event-property-item="Design" data-event="Mobile - Nav menu item" href="/designer_applications/new">
+<li class="topnav-item_dropdown">
+Design
+</li>
+</a>
+<a class="topnav-link_dropdown" data-event-property-item="Log In" data-event="Mobile - Nav menu item" href="/users/sign_in">
+<li class="topnav-item_dropdown">
+Log In
+</li>
+</a>
+</ul>
+</li>
+</span>
+</ul>
 </div>
 </div>
 </div>
@@ -68,34 +190,20 @@ Log In
 <div class="nine columns">
 <a href="/" id="logo"><img alt="Darby Smart" class="topnav-logo" src="//duiqzmx3vcp3l.cloudfront.net/assets/darbysmart-logo-7ab489eb5c21bcb2fc62598761f09c03.png">
 </a><ul class="topnav_primary" id="nav_site">
-<a class="topnav-link_primary" href="/projects" id="shop">
+<a class="topnav-link_primary " data-event="Project categories - View" href="/shop" id="shop"><li class="topnav-item_primary">
+Shop
+</li>
+</a><a class="topnav-link_primary" href="/gift" id="gift">
 <li class="topnav-item_primary">
-Projects
+Gift
 </li>
 </a>
-<a class="topnav-link_primary" href="/craft-supplies" id="shop_supplies">
-<li class="topnav-item_primary">
-Supplies
-</li>
-</a>
-<a class="topnav-link_primary  topnav_new" data-event-property-section="printables" data-event="Nav bar click" href="/printables"><div class="icon_new-feature">
-<img alt="Icon new" class="image-block" src="//duiqzmx3vcp3l.cloudfront.net/assets/icon-new-fb6e4c3d1e2c087128ec95ed9a79a3ba.png">
-</div>
-<li class="topnav-item_primary">
+<a class="topnav-link_primary " data-event-property-section="printables" data-event="Nav bar click" href="/printables"><li class="topnav-item_primary">
 Printables
 </li>
 </a><a class="topnav-link_primary" href="/showroom" id="show">
 <li class="topnav-item_primary">
 Showroom
-</li>
-</a>
-<!-- - if @gifting -->
-<!-- %a.topnav-link_primary#gift{href: gift_path, class: "#{'active' if @active_session == :gift}"} -->
-<!-- %li.topnav-item_primary -->
-<!-- Gift -->
-<a class="topnav-link_primary" href="/trends" id="vote">
-<li class="topnav-item_primary">
-Vote
 </li>
 </a>
 <a class="topnav-link_primary" href="/designer_applications/new" id="apply">
@@ -106,263 +214,212 @@ Design
 </ul>
 </div>
 <div class="three columns">
-<ul class="topnav-secondary">
-<a class="topnav-link_primary" href="/store/cart" id="cart">
-<li class="topnav-item_primary cartItem">
-<span class="icon-cart">
-<span class="icon-box_black cart-inactive"></span>
-<span class="icon-box_pink cart-active"></span>
-</span>
-<span class="cartInfo">
-<span class="cartTitle">My Bag</span>
-<span class="cartTitle2">Cart</span>
-<span class="cartQuantity">0</span>
-
-</span>
-</li>
-</a>
-<span id="nav_mobile">
-<li class="topnav-item_primary dropdown-moreinfo">
-<div class="topnav-link_primary nohover">
-<span class="icon-dropdown">
-<span class="icon-more-down_black dropdown-inactive"></span>
-<span class="icon-more-down_pink dropdown-active"></span>
-</span>
-<ul class="topnav_dropdown">
-<a class="topnav-link_dropdown" href="/projects">
-<li class="topnav-item_dropdown hide-large">
-Projects
-</li>
-</a>
-<a class="topnav-link_dropdown" href="/craft-supplies">
-<li class="topnav-item_dropdown hide-large">
-Supplies
-</li>
-</a>
-<a class="topnav-link_dropdown" href="/printables">
-<li class="topnav-item_dropdown hide-large">
-Printables
-</li>
-</a>
-<a class="topnav-link_dropdown" href="/showroom">
-<li class="topnav-item_dropdown hide-large">
-Showroom
-</li>
-</a>
-<!-- - if @gifting -->
-<!-- %a.topnav-link_dropdown{href: gift_path} -->
-<!-- %li.topnav-item_dropdown.hide-large -->
-<!-- Gift -->
-<a class="topnav-link_dropdown" href="/trends">
-<li class="topnav-item_dropdown hide-large">
-Vote
-</li>
-</a>
-<a class="topnav-link_dropdown" href="/designer_applications/new">
-<li class="topnav-item_dropdown hide-large">
-Design
-</li>
-</a>
-<a class="topnav-link_dropdown" href="/users/sign_in">
-<li class="topnav-item_dropdown hide-large">
-Log In
-</li>
-</a>
-</ul>
+<div class="search-bar_container">
+<form action="/search" method="get">
+<input class="search-bar search-bar_topnav" id="search-field" name="q" placeholder="Search" type="search" value="">
+<input class="search-bar_icon" type="submit" value="Search">
+</form>
 </div>
-</li>
-</span>
-</ul>
+</div>
 </div>
 </div>
 </div>
 <div class="topnav-banner topnav-banner_wedding">
 <div class="topnav-container">
 <div class="twelve columns">
-<a href="/weddings"><span class="nav-offer secondary-header hide-for-small">
-Just Launched! Darby Smart Wedding
-<span class="nav-offer_link wedding">Show Me »</span>
-</span>
-<span class="nav-offer secondary-header show-for-small">
-New! Darby Smart Wedding
-<span class="nav-offer_link wedding">Show Me »</span>
-</span>
-</a></div>
+<h5 class="nav-offer">
+<a class="nav-offer_link wedding" href="/gift-guide"><img alt="Icon gift pink" src="//duiqzmx3vcp3l.cloudfront.net/assets/icon-gift_pink-8402545c69d3a774e962204784d5ccbb.png">
+SHOP
+<span class="hide-for-small">OUR HOLIDAY</span>
+GIFT GUIDE!
+</a></h5>
+<h5 class="shipping-offer">
+<span class="free">FREE SHIPPING</span>
+<span class="extra">on orders</span>
+$25+
+</h5>
 </div>
 </div>
 </div>
-
+</div>
 <div class="container pod" id="main-content">
 <div class="row">
-  <div class="twelve columns">
-    <h1 class="center topmargin">Privacy Policy</h1>
-    <p>
-      Protecting your private information
-      is our priority. This Statement of Privacy applies to the www.darbysmart.com
-      and Darby Smart, Inc and governs data collection and usage. For the purposes
-      of this Privacy Policy, unless otherwise noted, all references to Darby Smart
-      include www.darbysmart.com and Darby Smart, Inc. The Darby Smart website is an
-      ecommerce site. By using the Darby Smart website, you consent to the data
-      practices described in this statement.
-    </p>
-    <h3>Collection of your Personal Information</h3>
-    <p>
-      Darby Smart may collect personally identifiable
-      information, such as your name. If you purchase Darby Smart's products and
-      services, we collect billing and credit card information. This information is
-      used to complete the purchase transaction. We may gather additional personal
-      or non-personal information in the future.
-    </p>
-    <p>
-      Information about your
-      computer hardware and software may be automatically collected by Darby Smart.
-      This information can include: your IP address, browser type, domain names,
-      access times and referring website addresses. This information is used for the
-      operation of the service, to maintain quality of the service, and to provide
-      general statistics regarding use of the Darby Smart website.
-    </p>
-    <p>
-      Please
-      keep in mind that if you directly disclose personally identifiable information
-      or personally sensitive data through Darby Smart's public message boards, this
-      information may be collected and used by others.
-    </p>
-    <p>
-      Darby Smart encourages
-      you to review the privacy statements of websites you choose to link to from
-      Darby Smart so that you can understand how those websites collect, use and
-      share your information. Darby Smart is not responsible for the privacy
-      statements or other content on websites outside of the Darby Smart
-      website.
-    </p>
-    <h3>Use of your Personal Information</h3>
-    <p>
-      Darby Smart collects
-      and uses your personal information to operate its website(s) and deliver the
-      services you have requested.
-    </p>
-    <p>
-      Darby Smart may also use your personally
-      identifiable information to inform you of other products or services available
-      from Darby Smart and its affiliates. Darby Smart may also contact you via
-      surveys to conduct research about your opinion of current services or of
-      potential new services that may be offered.
-    </p>
-    <h3>Darby Smart does not sell,
-        rent or lease its customer lists to third parties.</h3>
-    <p>
-      Darby Smart may
-      share data with trusted partners to help perform statistical analysis, send
-      you email or postal mail, provide customer support, or arrange for deliveries.
-      All such third parties are prohibited from using your personal information
-      except to provide these services to Darby Smart, and they are required to
-      maintain the confidentiality of your information.
-    </p>
-    <p>
-      Darby Smart may keep
-      track of the websites and pages our users visit within Darby Smart, in
-      order to determine what Darby Smart services are the most popular. This data
-      is used to deliver customized content and advertising within Darby Smart to
-      customers whose behavior indicates that they are interested in a particular
-      subject area.
-    </p>
-    <p>
-      Darby Smart will disclose your personal information,
-      without notice, only if required to do so by law or in the good faith belief
-      that such action is necessary to: (a) conform to the edicts of the law or
-      comply with legal process served on Darby Smart or the site; (b) protect and
-      defend the rights or property of Darby Smart; and, (c) act under exigent
-      circumstances to protect the personal safety of users of Darby Smart, or the
-      public.
-    </p>
-    <h3>Promotions</h3>
-    <p>Darby Smart Referral Program - We reserve the right to refuse sales to anyone. On all orders related to our referral program, valid referrals are defined as a new Darby Smart customer in a unique household.</p>
-    <h3>Use of Cookies</h3>
-    <p>
-      The Darby Smart website may use
-      "cookies" to help you personalize your online experience. A cookie is a text
-      file that is placed on your hard disk by a web page server. Cookies cannot be
-      used to run programs or deliver viruses to your computer. Cookies are uniquely
-      assigned to you, and can only be read by a web server in the domain that
-      issued the cookie to you.
-    </p>
-    <p>
-      One of the primary purposes of cookies is to
-      provide a convenience feature to save you time. The purpose of a cookie is to
-      tell the Web server that you have returned to a specific page. For example, if
-      you personalize Darby Smart pages, or register with Darby Smart site or
-      services, a cookie helps Darby Smart to recall your specific information on
-      subsequent visits. This simplifies the process of recording your personal
-      information, such as billing addresses, shipping addresses, and so on. When
-      you return to the same Darby Smart website, the information you previously
-      provided can be retrieved, so you can easily use the Darby Smart features that
-      you customized.
-    </p>
-    <p>
-      You have the ability to accept or decline cookies. Most
-      Web browsers automatically accept cookies, but you can usually modify your
-      browser setting to decline cookies if you prefer. If you choose to decline
-      cookies, you may not be able to fully experience the interactive features of
-      the Darby Smart services or websites you visit.
-    </p>
-    <h3>Security of your Personal Information</h3>
-    <p>
-      Darby Smart secures your personal information
-      from unauthorized access, use or disclosure.
-    </p>
-    <h3>Children Under Thirteen</h3>
-    <p>
-      Darby Smart does not knowingly collect personally
-      identifiable information from children under the age of thirteen. If you are
-      under the age of thirteen, you must ask your parent or guardian for permission
-      to use this website.
-    </p>
-    <h3>Opt-Out &amp; Unsubscribe</h3>
-    <p>
-      We respect your
-      privacy and give you an opportunity to opt-out of receiving announcements of
-      certain information. Users may opt-out of receiving any or all communications
-      from Darby Smart by contacting us here: <a href="mailto:wink@darbysmart.com">wink@darbysmart.com</a>
-    </p>
-    <h3>Changes to this Statement</h3>
-    <p>
-      We reserve the right, at our discretion,
-      to change, modify, add, or remove portions from this policy at any time. If we
-      decide to change our Privacy Policy for the Site, we will post the revised
-      Privacy Policy here so that you will always know what information we gather,
-      how we might use that information and whether we may disclose it to anyone.
-      Any changes will be consistent with the stated Principles of the Safe Harbor
-      Agreement. Your continued use of the Site indicates your assent to the Privacy
-      Policy as posted. Please check this page periodically for changes to this
-      Privacy Policy.
-    </p>
-    <h3>Contact Information</h3>
-    <p>
-      Darby Smart welcomes your
-      questions or comments regarding this Statement of Privacy. If you believe that
-      Darby Smart has not adhered to this Statement, please contact us at:
-    </p>
-    <p>
-    Darby Smart, Inc
-    <br>
-    944 Market St.
-    <br>
-    San Francisco, California 94102
-    <br>United States of America
-    <br>
-    <a href="mailto:wink@darbysmart.com">wink@darbysmart.com</a>
-    </p><p>
-    Our Site is maintained in the United States of America. By using the Site,
-      you authorize the export of Personal Information to the USA and its storage
-      and use as specified in this policy.
-    </p>
-    <h3>Effective Date</h3>
-    <p>
-    This Privacy Policy is effective and was last updated on May 10, 2013.
-    </p>
-  </div>
+<div class="twelve columns">
+<h1 class="center topmargin">Privacy Policy</h1>
+<p>
+Protecting your private information
+is our priority. This Statement of Privacy applies to the www.darbysmart.com
+and Darby Smart, Inc and governs data collection and usage. For the purposes
+of this Privacy Policy, unless otherwise noted, all references to Darby Smart
+include www.darbysmart.com and Darby Smart, Inc. The Darby Smart website is an
+ecommerce site. By using the Darby Smart website, you consent to the data
+practices described in this statement.
+</p>
+<h3>Collection of your Personal Information</h3>
+<p>
+Darby Smart may collect personally identifiable
+information, such as your name. If you purchase Darby Smart's products and
+services, we collect billing and credit card information. This information is
+used to complete the purchase transaction. We may gather additional personal
+or non-personal information in the future.
+</p>
+<p>
+Information about your
+computer hardware and software may be automatically collected by Darby Smart.
+This information can include: your IP address, browser type, domain names,
+access times and referring website addresses. This information is used for the
+operation of the service, to maintain quality of the service, and to provide
+general statistics regarding use of the Darby Smart website.
+</p>
+<p>
+Please
+keep in mind that if you directly disclose personally identifiable information
+or personally sensitive data through Darby Smart's public message boards, this
+information may be collected and used by others.
+</p>
+<p>
+Darby Smart encourages
+you to review the privacy statements of websites you choose to link to from
+Darby Smart so that you can understand how those websites collect, use and
+share your information. Darby Smart is not responsible for the privacy
+statements or other content on websites outside of the Darby Smart
+website.
+</p>
+<h3>Use of your Personal Information</h3>
+<p>
+Darby Smart collects
+and uses your personal information to operate its website(s) and deliver the
+services you have requested.
+</p>
+<p>
+Darby Smart may also use your personally
+identifiable information to inform you of other products or services available
+from Darby Smart and its affiliates. Darby Smart may also contact you via
+surveys to conduct research about your opinion of current services or of
+potential new services that may be offered.
+</p>
+<h3>Darby Smart does not sell,
+rent or lease its customer lists to third parties.</h3>
+<p>
+Darby Smart may
+share data with trusted partners to help perform statistical analysis, send
+you email or postal mail, provide customer support, or arrange for deliveries.
+All such third parties are prohibited from using your personal information
+except to provide these services to Darby Smart, and they are required to
+maintain the confidentiality of your information.
+</p>
+<p>
+Darby Smart may keep
+track of the websites and pages our users visit within Darby Smart, in
+order to determine what Darby Smart services are the most popular. This data
+is used to deliver customized content and advertising within Darby Smart to
+customers whose behavior indicates that they are interested in a particular
+subject area.
+</p>
+<p>
+Darby Smart will disclose your personal information,
+without notice, only if required to do so by law or in the good faith belief
+that such action is necessary to: (a) conform to the edicts of the law or
+comply with legal process served on Darby Smart or the site; (b) protect and
+defend the rights or property of Darby Smart; and, (c) act under exigent
+circumstances to protect the personal safety of users of Darby Smart, or the
+public.
+</p>
+<h3>Promotions</h3>
+<p>Darby Smart Referral Program - We reserve the right to refuse sales to anyone. On all orders related to our referral program, valid referrals are defined as a new Darby Smart customer in a unique household.</p>
+<h3>Use of Cookies</h3>
+<p>
+The Darby Smart website may use
+"cookies" to help you personalize your online experience. A cookie is a text
+file that is placed on your hard disk by a web page server. Cookies cannot be
+used to run programs or deliver viruses to your computer. Cookies are uniquely
+assigned to you, and can only be read by a web server in the domain that
+issued the cookie to you.
+</p>
+<p>
+One of the primary purposes of cookies is to
+provide a convenience feature to save you time. The purpose of a cookie is to
+tell the Web server that you have returned to a specific page. For example, if
+you personalize Darby Smart pages, or register with Darby Smart site or
+services, a cookie helps Darby Smart to recall your specific information on
+subsequent visits. This simplifies the process of recording your personal
+information, such as billing addresses, shipping addresses, and so on. When
+you return to the same Darby Smart website, the information you previously
+provided can be retrieved, so you can easily use the Darby Smart features that
+you customized.
+</p>
+<p>
+You have the ability to accept or decline cookies. Most
+Web browsers automatically accept cookies, but you can usually modify your
+browser setting to decline cookies if you prefer. If you choose to decline
+cookies, you may not be able to fully experience the interactive features of
+the Darby Smart services or websites you visit.
+</p>
+<h3>Security of your Personal Information</h3>
+<p>
+Darby Smart secures your personal information
+from unauthorized access, use or disclosure.
+</p>
+<h3>Children Under Thirteen</h3>
+<p>
+Darby Smart does not knowingly collect personally
+identifiable information from children under the age of thirteen. If you are
+under the age of thirteen, you must ask your parent or guardian for permission
+to use this website.
+</p>
+<h3>Opt-Out &amp; Unsubscribe</h3>
+<p>
+We respect your
+privacy and give you an opportunity to opt-out of receiving announcements of
+certain information. Users may opt-out of receiving any or all communications
+from Darby Smart by contacting us here: <a href="mailto:wink@darbysmart.com">wink@darbysmart.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>
+</p>
+<h3>Changes to this Statement</h3>
+<p>
+We reserve the right, at our discretion,
+to change, modify, add, or remove portions from this policy at any time. If we
+decide to change our Privacy Policy for the Site, we will post the revised
+Privacy Policy here so that you will always know what information we gather,
+how we might use that information and whether we may disclose it to anyone.
+Any changes will be consistent with the stated Principles of the Safe Harbor
+Agreement. Your continued use of the Site indicates your assent to the Privacy
+Policy as posted. Please check this page periodically for changes to this
+Privacy Policy.
+</p>
+<h3>Contact Information</h3>
+<p>
+Darby Smart welcomes your
+questions or comments regarding this Statement of Privacy. If you believe that
+Darby Smart has not adhered to this Statement, please contact us at:
+</p>
+<p>
+Darby Smart, Inc
+<br>
+944 Market St.
+<br>
+San Francisco, California 94102
+<br>United States of America
+<br>
+<a href="mailto:wink@darbysmart.com">wink@darbysmart.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>
+</p><p>
+Our Site is maintained in the United States of America. By using the Site,
+you authorize the export of Personal Information to the USA and its storage
+and use as specified in this policy.
+</p>
+<h3>Effective Date</h3>
+<p>
+This Privacy Policy is effective and was last updated on May 10, 2013.
+</p>
 </div>
-
+</div>
 </div>
 <div class="twelve columns socialicons home">
 <a data-ga-event-label="DS Facebook" href="http://www.facebook.com/hi.darbysmart" target="_blank"><img alt="Facebook" src="//duiqzmx3vcp3l.cloudfront.net/assets/facebook-836632af43e39e085895a0241fea1450.png">
@@ -404,15 +461,50 @@ New! Darby Smart Wedding
 <div class="row">
 <div class="twelve colums">
 <p class="bottom">Darby Smart is a new way to DIY. Simple, Stylish and Splendid.</p>
-<a href="mailto:wink@darbysmart.com">wink@darbysmart.com</a>
+<a href="mailto:wink@darbysmart.com">wink@darbysmart.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>
 </div>
 </div>
 </div>
-
 <div id="first-time-user-promo">
+<div class="first-time-user-promo-modal reveal-modal">
+<h3>Surprise!</h3>
+<h4>A GIFT FOR YOU</h4>
+<br>
+<p class="center">
+As our newest member, we're giving you
+<br>
+<strong>$10</strong>
+to buy anything you want today. Enjoy!
+</p>
+<script>
+  (function() {
+    window.DS.Data.promoPercentageEnabled = false;
+  
+  }).call(this);
+</script>
+<p class="center" id="daily-promo-code">
+<strong>
+Your code is:
+<span class="promo_code">WELCOME88</span>
+( Jot this down
+<img alt="Smiley" src="//duiqzmx3vcp3l.cloudfront.net/assets/smiley-986cf39aeaffc2cad46e25e8548841c0.jpg" style="height:15px;width:15px;vertical-align:center;">
+)
+</strong>
+</p>
+<p class="center exit">
+<a class="button lets-shop" href="#">LET'S SHOP</a>
+</p>
+<p class="center" style="font-size: 10px;">
+This gift card expires after this visit and is for new Darby Smart members only.
+</p>
+<a class="close-reveal-modal">×</a>
 </div>
-<script src="//duiqzmx3vcp3l.cloudfront.net/assets/application-b83b5056198148bee3f814d058f3d8a3.js"></script>
-
+</div>
+<script src="//duiqzmx3vcp3l.cloudfront.net/assets/application-62128180dda5e0a142dae427917becb5.js"></script>
 <script src="//api.filepicker.io/v1/filepicker.js"></script>
 <div id="fb-root"></div>
 <script>
@@ -466,45 +558,7 @@ New! Darby Smart Wedding
   
   }).call(this);
 </script>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-  /* <![CDATA[ */
-  var google_conversion_id = 926886552;
-  var google_custom_params = window.google_tag_params;
-  var google_remarketing_only = true;
-  /* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-  <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/926886552/?value=0&amp;guid=ON&amp;script=0"/>
-  </div>
-</noscript>
-
-<img alt="Event" src="//api.nanigans.com/event.php?app_id=64965&amp;name=landing&amp;type=visit" style="display: none;">
-<script>
-  (function() {
-    var _fbq = window._fbq || (window._fbq = []);
-    if (!_fbq.loaded) {
-      var fbds = document.createElement('script');
-      fbds.async = true;
-      fbds.src = '//connect.facebook.net/en_US/fbds.js';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(fbds, s);
-      _fbq.loaded = true;
-    }
-    _fbq.push(['addPixelId', '1480710628808568']);
-  })();
-  window._fbq = window._fbq || [];
-  window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1480710628808568&amp;ev=NoScript" /></noscript>
-
-<div class="reveal-modal reveal-modal-fixed" id="sign_up_modal">
+<div class="reveal-modal reveal-modal-fixed two_step" id="sign_up_modal">
 <div class="sign_up_modal-header">
 <div class="pod-content center allcaps">
 <h2>A Surprise is waiting for you!</h2>
@@ -512,46 +566,87 @@ Remarketing tags may not be associated with personally identifiable information 
 </div>
 <div class="pod-content">
 <div class="twelve columns centered">
-<div class="center">
+<div class="center step1">
 <a class="button button_facebook toggleable" href="/users/auth/facebook">Unlock with Facebook</a>
 <h2 class="primary-subhead primary-subhead-strike">
-<span class="toggleable">Or Sign Up with Email</span>
+<span class="toggleable">Or unlock it with your Email</span>
 </h2>
+</div>
+<div class="center step2" style="display: none">
+<h4>One more detail and we're ready to DIY!</h4>
 </div>
 <div class="center">
 <h4 class="sign_up_errors" style="display: none"></h4>
 </div>
-<form accept-charset="UTF-8" action="/users" class="hide-for-small sign-in-form" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div><div>
-<label for="user_email">Email</label>
-<input autofocus="autofocus" id="user_email" name="user[email]" type="email" value="">
+<div class="signUp">
+<form accept-charset="UTF-8" action="/users" class="sign-in-form" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div><div class="ten columns centered">
+<div class="step1 emailField">
+<input autofocus="autofocus" id="user_email" name="user[email]" placeholder="E-mail Address" type="email" value="">
 </div>
-<div>
-<label for="user_password">Password</label>
-<input id="user_password" name="user[password]" type="password">
+<div class="step2 passwordField" style="display: none">
+<input id="user_password" name="user[password]" placeholder="Password (6-16 Characters)" type="password">
 </div>
-<div class="center">
+<div class="center step1">
+<div class="form-buttons">
+<button class="button toggleable goToStep2" name="button" type="submit">Go</button>
+</div>
+</div>
+<div class="center step2" style="display: none">
 <div class="form-buttons" data-hook="buttons">
-<input class="button toggleable" name="commit" type="submit" value="Sign Up">
+<input class="button toggleable" name="commit" type="submit" value="Reveal">
 <div class="loading"></div>
 </div>
 </div>
+</div>
 </form>
-
+</div>
+<div class="signIn" style="display: none;">
+<form accept-charset="UTF-8" action="/users" class="sign-in-form" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div><div class="ten columns centered">
+<div>
+<input autofocus="autofocus" id="user_email" name="user[email]" placeholder="E-mail Address" type="email" value="">
+</div>
+<div>
+<input id="user_password" name="user[password]" placeholder="Password (6-16 Characters)" type="password">
+</div>
+<div class="center">
+<div class="form-buttons" data-hook="buttons">
+<input class="button" name="commit" type="submit" value="Log in">
+<div class="loading"></div>
+</div>
+</div>
+</div>
+</form>
+</div>
 <br>
-<p class="small allcaps center">
+<p class="small allcaps center step1">
 <a class="toggle-copy" href="#">Already a member? Log In</a>
+</p>
+<p class="small allcaps center password-reset" style="display:none;">
+<a href="/users/password/new">Reset Password</a>
 </p>
 </div>
 </div>
 </div>
-
 <script>
   (function() {
-    window.router.signUpModal = new DS.SignUpModalView({
+    window.router.signUpModal = new DS.SignUpModal2StepView({
       el: '#sign_up_modal'
     });
   
   }).call(this);
 </script>
+<script>
+  (function() {
+    analytics.track('Filters - Status', {
+      enabled: true
+    });
+  
+  }).call(this);
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
