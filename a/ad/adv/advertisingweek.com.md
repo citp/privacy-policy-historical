@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advertisingweek.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616045943id_/http%3A//advertisingweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertisingweek.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202020931id_/http%3A//www.advertisingweek.com/privacy) for the most accurate reproduction.*
 
-# Advertising Week 2014 – New York [ Sep 29 - Oct 3 ] / Privacy Policy
+# Advertising Week 2014 - New York [ Sep 29 - Oct 3 ] / Privacy Policy
 
 Welcome to www.advertisingweek.com (the “Website”) operated by Advertising Week., located at 131 West 33rd Street, Suite 800, New York, NY 10001 (“AW”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how your personally identifiable information (“PII”) and other information is collected by us in operating the Website.
 
