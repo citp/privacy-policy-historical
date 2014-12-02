@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607004152id_/http%3A//www.scouting.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202132503id_/http%3A//scouting.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
