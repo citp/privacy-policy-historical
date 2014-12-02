@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xzoom.in privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505093210id_/http%3A//www.xzoom.in/page.aspx%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xzoom.in privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202192207id_/http%3A//www.xzoom.in/page.aspx%3Fid%3D3) for the most accurate reproduction.*
 
 # Privacy policy
 
