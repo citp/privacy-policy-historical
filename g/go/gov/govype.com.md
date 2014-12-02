@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the govype.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075749id_/http%3A//uk.govype.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govype.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202043931id_/http%3A//uk.govype.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vype UK
 
-This Privacy Policy explains how we, CN Creative Limited, may collect, use and share your Personal Information when visiting this website.
+This Privacy Policy explains how we, Nicoventures Trading Limited, may collect, use and share your Personal Information when visiting this website.
 
   * What information we collect about you
   * How we use information we collect about you
@@ -75,7 +75,7 @@ Except for strictly necessary cookies our cookies expire after 60 days.
 
 ## How to contact us
 
-If you wish to contact us with any queries or concerns, please see our [Contact Us](https://web.archive.org/contacts) page or email us at [info@govype.com](mailto:info@govype.com) or write to us via post at Customer Services, CN Creative Ltd. Phoenix Park Unit 1, Blakewater Rd, Blackburn, Lancashire, BB1 5SJ.
+If you wish to contact us with any queries or concerns, please see our [Contact Us](https://web.archive.org/contacts) page or email us at [info@govype.com](mailto:info@govype.com) or write to us via post at Customer Services, Nicoventures Trading Ltd. Phoenix Park Unit 1, Blakewater Rd, Blackburn, Lancashire, BB1 5SJ.
 
 ## Definitions
 
