@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beirutnightlife.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626094017id_/http%3A//www.beirutnightlife.com/terms-of-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beirutnightlife.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202010451id_/http%3A//www.beirutnightlife.com/terms-of-service-privacy-policy) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy | Beirut The Only Way It Should Be, NightLife, Clubbing, Events, DineOut, Concerts, Festivals, Clubs, Pubs, Bars, Hotels, Restaurants, Lifestyle, Music, Fashion
 
