@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiopt.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616024750id_/http%3A//www.desiopt.com/include/themes/custom/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiopt.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202031131id_/http%3A//www.desiopt.com/include/themes/custom/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
