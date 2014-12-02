@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didyouknowgaming.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132421id_/http%3A//didyouknowgaming.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didyouknowgaming.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202223158id_/http%3A//didyouknowgaming.com/privacypolicy) for the most accurate reproduction.*
 
 # Did You Know Gaming? — Privacy Policy
 
