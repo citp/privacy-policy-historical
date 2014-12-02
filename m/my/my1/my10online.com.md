@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my10online.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114501id_/http%3A//my10online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my10online.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202084425id_/http%3A//my10online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My10Online : My10Online
 
@@ -24,13 +24,13 @@ We only collect personal information that is relevant to the purpose of our we
 
 E-mail Communications
 
-Hutch Media, LLC is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the ”Sharing Your Information” section below. Hutch Media, LLC may send out e-mails with Hutch Media, LLC-related news, products, offers, surveys or promotions.
+Hutch Media, LLC is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Hutch Media, LLC may send out e-mails with Hutch Media, LLC-related news, products, offers, surveys or promotions.
 
 Cookies
 
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Hutch Media, LLC cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-The ”help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Hutch Media, LLC’s coolest features.
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Hutch Media, LLC’s coolest features.
 
 Third Party Advertising – Ad Choices
 
