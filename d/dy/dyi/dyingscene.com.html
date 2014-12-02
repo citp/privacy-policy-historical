@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dyingscene.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626041604id_/http%3A//dyingscene.com/dying-scene-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dyingscene.com privacy policy that was archived on 2014-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202081627id_/http%3A//dyingscene.com/dying-scene-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=341936235825744"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://dyingscene.com/wp-content/cache/minify/000000/lY7dDsIgDIVfiMKmxvdhrBg2oEi7KG8vJrvRLCbeNaff-RnM3EK-mYXNct-wNhj1SV91sW5Vw_dTM0Z0MtEThg6NB4QPEVlaRHUx_PA0Ld3Qb0cpYRaoWGJT5x1Xo3EbCyVwlMU6AU818TvvSIfZCpbgVqw_nPsSIYqsU8h_lnTcbnMgKNE2rMYyo_CH9gI.js"></script>
 <script type="text/javascript" src="http://dyingscene.com/wp-content/cache/minify/000000/M9YvzdTPKixNLarUK83US84vStXLzcwDAA.js"></script>
@@ -17,7 +17,7 @@
 
 	<link rel="shortcut icon" href="http://dyingscene.com/favicon.ico">
 
-	<link rel="stylesheet" type="text/css" href="http://dyingscene.com/wp-content/themes/dying/style.css?ver=777">
+	<link rel="stylesheet" type="text/css" href="http://dyingscene.com/wp-content/themes/dying/style.css?ver=666">
 
 	<!--[if IE 8]>
 	<style type="text/css">
@@ -52,7 +52,7 @@
 			event = event || window.event;
 			source = event.SrcElement || event.target;	
 			if(source.id == "takeover" || source.id == "wrapperFade"){
-				window.open("http://smarturl.it/rttbroketilmidnight");	
+				window.open("http://found.ee/HIAWKdlx");	
 			}
 		}
 	</script>
@@ -86,9 +86,257 @@
 		});
 	</script>
 	
+	<!-- Floating Nav Fuction -->
+
+<script>
+    $(window).load(function(){
+      $("#NavWrap2").sticky({ topSpacing: 0 });
+    });
+  </script>
+  
+  <script>
+  (function($) {
+  var defaults = {
+      topSpacing: 0,
+      bottomSpacing: 0,
+      className: 'is-sticky',
+      wrapperClassName: 'sticky-wrapper',
+      center: false,
+      getWidthFrom: ''
+    },
+    $window = $(window),
+    $document = $(document),
+    sticked = [],
+    windowHeight = $window.height(),
+    scroller = function() {
+      var scrollTop = $window.scrollTop(),
+        documentHeight = $document.height(),
+        dwh = documentHeight - windowHeight,
+        extra = (scrollTop > dwh) ? dwh - scrollTop : 0;
+
+      for (var i = 0; i < sticked.length; i++) {
+        var s = sticked[i],
+          elementTop = s.stickyWrapper.offset().top,
+          etse = elementTop - s.topSpacing - extra;
+
+        if (scrollTop <= etse) {
+          if (s.currentTop !== null) {
+            s.stickyElement
+              .css('position', '')
+              .css('top', '');
+            s.stickyElement.parent().removeClass(s.className);
+            s.currentTop = null;
+          }
+        }
+        else {
+          var newTop = documentHeight - s.stickyElement.outerHeight()
+            - s.topSpacing - s.bottomSpacing - scrollTop - extra;
+          if (newTop < 0) {
+            newTop = newTop + s.topSpacing;
+          } else {
+            newTop = s.topSpacing;
+          }
+          if (s.currentTop != newTop) {
+            s.stickyElement
+              .css('position', 'fixed')
+              .css('top', newTop);
+
+            if (typeof s.getWidthFrom !== 'undefined') {
+              s.stickyElement.css('width', $(s.getWidthFrom).width());
+            }
+
+            s.stickyElement.parent().addClass(s.className);
+            s.currentTop = newTop;
+          }
+        }
+      }
+    },
+    resizer = function() {
+      windowHeight = $window.height();
+    },
+    methods = {
+      init: function(options) {
+        var o = $.extend(defaults, options);
+        return this.each(function() {
+          var stickyElement = $(this);
+
+          var stickyId = stickyElement.attr('id');
+          var wrapper = $('<div></div>')
+            .attr('id', stickyId + '-sticky-wrapper')
+            .addClass(o.wrapperClassName);
+          stickyElement.wrapAll(wrapper);
+
+          if (o.center) {
+            stickyElement.parent().css({width:stickyElement.outerWidth(),marginLeft:"auto",marginRight:"auto"});
+          }
+
+          if (stickyElement.css("float") == "right") {
+            stickyElement.css({"float":"none"}).parent().css({"float":"right"});
+          }
+
+          var stickyWrapper = stickyElement.parent();
+          stickyWrapper.css('height', stickyElement.outerHeight());
+          sticked.push({
+            topSpacing: o.topSpacing,
+            bottomSpacing: o.bottomSpacing,
+            stickyElement: stickyElement,
+            currentTop: null,
+            stickyWrapper: stickyWrapper,
+            className: o.className,
+            getWidthFrom: o.getWidthFrom
+          });
+        });
+      },
+      update: scroller
+    };
+
+  // should be more efficient than using $window.scroll(scroller) and $window.resize(resizer):
+  if (window.addEventListener) {
+    window.addEventListener('scroll', scroller, false);
+    window.addEventListener('resize', resizer, false);
+  } else if (window.attachEvent) {
+    window.attachEvent('onscroll', scroller);
+    window.attachEvent('onresize', resizer);
+  }
+
+  $.fn.sticky = function(method) {
+    if (methods[method]) {
+      return methods[method].apply(this, Array.prototype.slice.call(arguments, 1));
+    } else if (typeof method === 'object' || !method ) {
+      return methods.init.apply( this, arguments );
+    } else {
+      $.error('Method ' + method + ' does not exist on jQuery.sticky');
+    }
+  };
+  $(function() {
+    setTimeout(scroller, 0);
+  });
+})(jQuery);
+
+	</script>
+	
+	
+	<style>
+	  /*----------LIST BASED NAV BAR-----------*/
+
+		#NavWrap2{
+			height:30px;
+			width:1000px;
+			z-index:10;
+		}
+		
+		#list-nav{
+			background-color:#262221;
+			list-style:none;
+			font-weight:bold;
+			margin-bottom:10px;
+			float:left;
+			width:1000px;
+			position:relative;
+			z-index: 10;
+		}
+		
+		#list-nav li{   /*top level nav item*/
+			float:left;
+			text-align:center;
+			position:relative;
+			
+		}
+		
+		.sub_nav{
+			width:450px;
+			display:none;
+			position:absolute;
+			left:0px;
+			top:32px;
+			z-index: 10;
+		}
+		
+		.news_list{
+			width:150px;
+			float:left;
+			overflow:hidden;
+			left:auto;
+			position:relative;
+		}
+		
+		#list-nav ul.news_list.list_1{
+			left:0px;
+		}
+		
+		#list-nav ul.news_list.list_2{
+			left:150px;
+		}
+		
+		#list-nav ul.news_list.list_3{
+			left:300px;
+		}
+		
+		#news_tab:hover .sub_nav{
+			display:block;
+		}
+		
+		#list-nav a{      /*top level text link*/
+			display:block;
+			border-right:1px solid black;
+			padding:7px 13px 7px 13px;
+			color:#fff;
+			text-decoration:none;
+		}
+		
+		#list-nav a:hover{   /*top level text link on hover*/
+			color:#CC0000
+		}
+		
+		#list-nav ul{   /*drop down menu when not hovered over is positioned off page*/
+			background:#000;
+			background:rgba(255,255,255,0);
+			list-style:none;
+			position:absolute;
+			left:-9999px;
+		}
+		
+		#list-nav ul li{
+			float:none;
+		}
+		
+		#list-nav ul a{
+			white-space:nowrap;
+			padding:4px 13px 4px 13px;
+			border-top:1px solid black;
+			border-right:none;
+		}
+		
+		#list-nav li:hover ul{  /*drop down menu items when top level is hovered over*/
+			left:0px;
+			z-index:20;
+		}
+		
+		#list-nav li:hover a{
+			background:#262221;
+			text-decoration:none;
+			color:#CC0000;
+		}
+		
+		#list-nav li:hover ul a{                 /*subnav items pre hover*/
+			text-decoration:none;
+			color:white;
+			font-weight:normal;
+			font-size:85%;
+			text-align:left;
+		}
+		
+		#list-nav li:hover ul li a:hover{       /*subnav items on hover*/
+			background:#262221;
+			color:#CC0000;
+			text-decoration:none;
+		}
+	  
+	</style>
+	
 <link rel="alternate" type="application/rss+xml" title="Dying Scene » Dying Scene Privacy Policy Comments Feed" href="http://dyingscene.com/dying-scene-privacy-policy/feed/">
 <link rel="stylesheet" id="bbpress-style-css" href="http://dyingscene.com/wp-content/plugins/bbpress/bbp-themes/bbp-twentyten/css/bbpress.css?ver=20110912" type="text/css" media="screen">
-<link rel="stylesheet" id="wp-polls-css" href="http://dyingscene.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.50" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="http://dyingscene.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.63" type="text/css" media="all">
 <link rel="stylesheet" id="ccf-jquery-ui-css" href="http://dyingscene.com/wp-content/plugins/custom-contact-forms/css/jquery-ui.css?ver=3.4" type="text/css" media="all">
 <link rel="stylesheet" id="CCFStandardsCSS-css" href="http://dyingscene.com/wp-content/plugins/custom-contact-forms/css/custom-contact-forms-standards.css?ver=3.4" type="text/css" media="all">
 <link rel="stylesheet" id="CCFFormsCSS-css" href="http://dyingscene.com/wp-content/plugins/custom-contact-forms/css/custom-contact-forms.css?ver=3.4" type="text/css" media="all">
@@ -142,7 +390,7 @@
 	<link rel="pingback" href="http://dyingscene.com/xmlrpc.php">
 <script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 
-<body class="wordpress y2014 m06 d25 h21 page pageid-2638 page-author-dying-scene">
+<body class="wordpress y2014 m12 d02 h00 page pageid-2638 page-author-dying-scene">
 
 	<div id="warning">
 		<noscript>
@@ -168,11 +416,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1370317714023-4');
 	<div id="header">
 		<a href="http://dyingscene.com" title="Dying Scene" id="dying-scene-logo"><span>Dying Scene</span></a>
 		<div id="socialNetworking">
-			<a id="rssLink" href="http://feeds.feedburner.com/DyingScene" title="Subscribe to our RSS Feed" target="_blank"><span>RSS</span></a>
+							<a href="http://dyingscene.com/wp-login.php" title="Sign In" style="float:left;width:40px;height:15px;background:transparent;padding:8px;padding-top:3px;padding-left:45px;color:#B4B183;font-weight:bold;text-decoration:none;">Sign&nbsp;In&nbsp;&nbsp;</a>
+				<a href="http://dyingscene.com/wp-login.php?action=register" title="Sign Up" style="float:left;background:transparent;padding:8px;padding-top:3px;color:#B4B183;font-weight:bold;text-decoration:none; border-right:none;">Sign&nbsp;Up</a>
+						<a id="rssLink" href="http://feeds.feedburner.com/DyingScene" title="Subscribe to our RSS Feed" target="_blank"><span>RSS</span></a>
 			<a id="twitterLink" href="http://twitter.com/DyingScene" title="Follow Us On Twitter" target="_blank"><span>Twitter</span></a>
 			<a id="myspaceLink" href="http://www.myspace.com/dyingscene" title="Friend Us On MySpace" target="_blank"><span>MySpace</span></a>			
 			<a id="facebookLink" href="http://www.facebook.com/pages/DyingScenecom/114793588576764" title="Add Us On Facebook" target="_blank"><span>Facebook</span></a>
 			<br>
+			
 					</div>
 		
 		
@@ -180,94 +431,72 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1370317714023-4');
 									
 	</div><!--  #header -->
 
-	<div id="topNav">
-		<div id="menu"><ul><li class="page_item page-item-3 current_page_item" onmouseover="showMenu();" onmouseout="hideMenu();">
-				<a href="http://dyingscene.com/" title="News"><span>News</span></a>
-			</li><li class="page_item page-item-2603"><a href="http://dyingscene.com/dying-scene-album-reviews/"><span>Dying Scene Album Reviews</span></a></li><li class="page_item page-item-2607"><a href="http://dyingscene.com/album-release-schedule/"><span>Album Release Schedule</span></a></li><li class="page_item page-item-7">
-				<a href="http://dyingscene.com/search-dying-scene/?type=news_search&amp;news_type=26" title="Free Music"><span>Free Music</span></a>
-			</li><li class="page_item page-item-4" onmouseover="showMenu2();" onmouseout="hideMenu2();">
-				<a href="http://dyingscene.com/dying-scene-band-index/" title="Profiles"><span>Profiles</span></a>
-			</li><li class="page_item page-item-5">
-				<a href="http://dyingscene.com/forums/" title="Forums"><span>Forums</span></a>
-			</li><li class="page_item page-item-6">
-				<a href="http://dyingscenerecords.bandcamp.com/" title="Dying Scene Records"><span>Dying Scene Records</span></a>
-			</li></ul></div>
-		
-
-<div id="subMenu" onmouseover="showMenu();" onmouseout="hideMenu();">
-	<ul style="list-style-type:none; text-indent:1em; float:left ">
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?radar=true">My Radar</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=1">Celtic</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=24">Crust</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=22">Easycore</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=5">Emo</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=13">Female&nbsp;Fronted</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=9">Folk</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=26">Garage&nbsp;Punk</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=25">Gravelcore</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=4">Hardcore</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=27">Horror&nbsp;Punk</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=20">Melodic&nbsp;Hardcore</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=10">Metal</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=19">Metalcore</a></li>
-	</ul>
-	<ul style="list-style-type:none; text-indent:1em; float:right; padding-left:0px; padding-right:20px ">
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=7">Oi!</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=8">Pop&nbsp;Punk</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=18">Post-Hardcore</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=14">Progressive</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=11">Psychobilly</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=2">Punk</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=16">Rapcore</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=12">Rock</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=6">Screamo</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=3">Ska</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=21">Skate&nbsp;Punk</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=17">Solo&nbsp;Project</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=23">Street&nbsp;Punk</a></li>
-	</ul>
-</div>
-
-<div id="subMenu2" onmouseover="showMenu2();" onmouseout="hideMenu2();">
-	<ul style="list-style-type:none; text-indent:1em; float:left ">
-		<li><a class="subMenuLink" href="http://dyingscene.com/dying-scene-band-index/">Bands</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/dying-scene-label-index/">Labels</a></li>
-		<li><a class="subMenuLink" href="http://dyingscene.com/dying-scenesters-chart/">Scenesters</a></li>
-	</ul>
-</div>
-
-
-
-<script>
-	//document.getElementById("homeLink").onmouseover = showMenu();
-
-
-	function showMenu()
-	{
-		document.getElementById("subMenu").style.display = "block";	
-	}
-
-	function hideMenu()
-	{
-		document.getElementById("subMenu").style.display = "none";	
-	}
-
-	function showMenu2()
-	{
-		document.getElementById("subMenu2").style.display = "block";	
-	}
-
-	function hideMenu2()
-	{
-		document.getElementById("subMenu2").style.display = "none";	
-	}
-</script>
-		
-		<div id="topNavRight">
-						<a href="http://dyingscene.com/wp-login.php" title="Sign In">Sign In</a><span class="link-sep">|</span><a href="http://dyingscene.com/wp-login.php?action=register" title="Sign Up">Sign Up</a>
+	<!--  List Based Nav Bar -->
+	<div id="NavWrap2">
+	
+		<ul id="list-nav">
+			<li id="news_tab"><a href="http://dyingscene.com">News</a>
+	        	<div class="sub_nav">
+	        	<ul class="news_list list_1">
+	                <li><a href="http://dyingscene.com/search-dying-scene/?radar=true">My Radar</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=1">Celtic</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=24">Crust</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=22">Easycore</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=5">Emo</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=13">Female Fronted</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=9">Folk</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=26">Garagepunk</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=25">Gravelcore</a></li>
+	            </ul>
+	        	<ul class="news_list list_2">
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=4">Hardcore</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=27">Horror Punk</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=20">Melodic Hardcore</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=10">Metal</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=19">Metalcore</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=7">Oi!</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=8">Pop-Punk</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=18">Post-Hardcore</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=14">Progressive</a></li>
+	            </ul>
+	        	<ul class="news_list list_3">
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=11">Psychobilly</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=2">Punk</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=16">Rapcore</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=12">Rock</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=6">Screamo</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=3">Ska</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=21">Skate Punk</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=17">Solo Project</a></li>
+	                <li><a href="http://dyingscene.com/search-dying-scene/?type=genre_search&amp;genre=23">Street Punk</a></li>
+	            </ul>
+	            </div>
+	        </li>
+	    	<li><a href="http://dyingscene.com/dying-scene-album-reviews/">Reviews</a></li>
+	    	<li><a href="http://dyingscene.com/album-release-schedule/">Releases</a></li>
+	    	<li><a href="http://dyingscene.com/search-dying-scene/?type=news_search&amp;news_type=26">Free Music</a></li>
+	    	<li><a href="http://dyingscene.com/dying-scene-band-index/">Profiles</a>
+	        	<ul>
+	            	<li><a href="http://dyingscene.com/dying-scene-band-index/">Bands</a></li>
+	                <li><a href="http://dyingscene.com/dying-scene-label-index/">Labels</a></li>
+	                <li><a href="http://dyingscene.com/dying-scenesters-chart/">Scenesters</a></li>
+	            </ul>
+	        </li>
+	    	<li><a href="http://dyingscene.com/forums/">Forum</a></li>
+	    	<li><a href="http://dyingscenerecords.bandcamp.com/">DS Records</a></li>
+	    	
+			<li id="search" class="widget widget_search" style="margin-left:200px;">				
+				<form id="searchform" class="blog-search" method="get" action="http://dyingscene.com/search-dying-scene/">
+					<div>
+						<input id="s" name="search_term" type="text" class="text" value="" size="10" tabindex="1">
+						<input type="hidden" name="type" value="free_search">
+						<input type="submit" class="button" value=" " tabindex="2">
 					</div>
-		<div class="clear"></div>
-	</div><!-- #topNav -->
+				</form>
+			</li>
+					</ul>
+	</div>
+
 
 	<div id="mainContainer">
 		
@@ -275,7 +504,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1370317714023-4');
 	<div id="container">
 		<div id="content">			
 
-			<div id="post-2638" class="box boxFull hentry p1 page publish author-dying-scene category-news untagged y2009 m05 d19 h10">
+			<div id="post-2638" class="box boxFull hentry p1 page publish author-dying-scene category-news untagged y2009 m05 d19 h09">
 				<div class="cornerTR"><!-- load corner img --></div>
 				<div class="boxInner">
 					<div class="postTop">
@@ -320,24 +549,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1370317714023-4');
 
 
 	<div id="primary" class="sidebar">
-		<ul class="xoxo">
+		<ul>
 			
 						
 			<li class="widget widget_text">
 				<div class="textwidget">
 					<img id="sidebarSubmitText" src="http://dyingscene.com/wp-content/themes/dying/images/Submit.jpg" alt="Submit"><a id="sidebarSubmitNews" href="http://dyingscene.com/submit-news/" title="Submit News"><span>Submit News</span></a><a id="sidebarSubmitReview" href="http://dyingscene.com/submit-review/" title="Submit Review"><span>Submit Review</span></a>
 				</div>
-			</li>
-
-			<li id="search" class="widget widget_search">				
-				<h3 class="widgettitle"><label for="s">Search</label></h3>
-				<form id="searchform" class="blog-search" method="get" action="http://dyingscene.com/search-dying-scene/">
-					<div>
-						<input id="s" name="search_term" type="text" class="text" value="" size="10" tabindex="1">
-						<input type="hidden" name="type" value="free_search">
-						<input type="submit" class="button" value=" " tabindex="2">
-					</div>
-				</form>
 			</li>
 
 			<li id="widget-adSidebarMiddle" class="widget widgetAd">
@@ -362,52 +580,52 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1370317714023-5');
 				
 					<div id="featuredStreams">
 														<div id="album-stream">
-									<a href="http://dyingscene.com/?p=269015"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/Eli-Whitney-and-the-Sound-Machine-Reasons-to-Leave-e1403112957801.jpg" alt=""><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
+									<a href="http://dyingscene.com/?p=279644"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/We-Will-Fly-Complexity-Is-Not-Chaos-520x520.jpg" alt="Complexity Is Not Chaos"><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
 									<div id="album-meta">
 										<ul>
-											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=269015">Eli Whitney And The Sound Machine</a></li>
-											<li><span class="list-font">Song:</span> <a href="http://dyingscene.com/?p=269015">"Gutterball"</a></li>
-											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=269015">Ska</a></li>
+											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=279644">We Will Fly</a></li>
+											<li><span class="list-font">Album:</span> <a href="http://dyingscene.com/?p=279644">"Complexity Is Not Chaos"</a></li>
+											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=279644">Punk</a></li>
 										</ul>
 									</div>
 								</div>
 														<div id="album-stream">
-									<a href="http://dyingscene.com/?p=268573"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/Dead-Rejects-This-Is-Killing-Me-Cover-e1402628991260.jpg" alt="This Is Killing Me"><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
+									<a href="http://dyingscene.com/?p=279278"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/kepi-goes-country-e1417118767627.jpg" alt=""><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
 									<div id="album-meta">
 										<ul>
-											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=268573">Dead Rejects</a></li>
-											<li><span class="list-font">Album:</span> <a href="http://dyingscene.com/?p=268573">"This Is Killing Me"</a></li>
-											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=268573">Ska</a></li>
+											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=279278">Kepi Ghoulie</a></li>
+											<li><span class="list-font">Song:</span> <a href="http://dyingscene.com/?p=279278">"Fortune Teller"</a></li>
+											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=279278">Solo Project</a></li>
 										</ul>
 									</div>
 								</div>
 														<div id="album-stream">
-									<a href="http://dyingscene.com/?p=268496"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/backet-hold-your-applause-e1402588761152.jpg" alt=""><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
+									<a href="http://dyingscene.com/?p=279159"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/losing-season-spin-e1415900296422.jpg" alt="Spin"><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
 									<div id="album-meta">
 										<ul>
-											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=268496">Bracket</a></li>
-											<li><span class="list-font">Song:</span> <a href="http://dyingscene.com/?p=268496">"She's My Eraser"</a></li>
-											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=268496">Punk</a></li>
+											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=279159">Losing Season</a></li>
+											<li><span class="list-font">Album:</span> <a href="http://dyingscene.com/?p=279159">"Spin"</a></li>
+											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=279159">Rock</a></li>
 										</ul>
 									</div>
 								</div>
 														<div id="album-stream">
-									<a href="http://dyingscene.com/?p=268126"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/better-things-killing-ghosts-e1402338436225.png" alt=""><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
+									<a href="http://dyingscene.com/?p=278057"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/nate-allen-pic.png" alt=""><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
 									<div id="album-meta">
 										<ul>
-											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=268126">Better Things</a></li>
-											<li><span class="list-font">Song:</span> <a href="http://dyingscene.com/?p=268126">"Killing Ghosts"</a></li>
-											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=268126">Pop Punk</a></li>
+											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=278057">Destroy Nate Allen</a></li>
+											<li><span class="list-font">Song:</span> <a href="http://dyingscene.com/?p=278057">"We Don't Even Know"</a></li>
+											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=278057">Folk</a></li>
 										</ul>
 									</div>
 								</div>
 														<div id="album-stream">
-									<a href="http://dyingscene.com/?p=268099"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/the-attack-e1400188286150.jpg" alt="Under The Gun"><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
+									<a href="http://dyingscene.com/?p=277875"><img id="album-image" src="http://dyingscene.com/wp-content/uploads/chanters-alley-we-are-alive-e1414523927470.png" alt="We Are Alive"><img class="playbutton" src="http://dyingscene.com/wp-content/themes/dying/images/play-button.png"> </a>
 									<div id="album-meta">
 										<ul>
-											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=268099">The Attack</a></li>
-											<li><span class="list-font">Album:</span> <a href="http://dyingscene.com/?p=268099">"Under The Gun"</a></li>
-											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=268099">Punk</a></li>
+											<li><span class="list-font">Artist:</span> <a id="artist-link" href="http://dyingscene.com/?p=277875">Chanters Alley</a></li>
+											<li><span class="list-font">Album:</span> <a href="http://dyingscene.com/?p=277875">"We Are Alive"</a></li>
+											<li><span class="list-font">Genre:</span> <a href="http://dyingscene.com/?p=277875">Street Punk</a></li>
 										</ul>
 									</div>
 								</div>
@@ -464,7 +682,7 @@ pageTracker._trackPageview();
 
 <script type="text/javascript">
 /* <![CDATA[ */
-var pollsL10n = {"ajax_url":"http:\/\/dyingscene.com\/wp-content\/plugins\/wp-polls\/wp-polls.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+var pollsL10n = {"ajax_url":"http:\/\/dyingscene.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
 /* ]]> */
 </script>
 
@@ -514,4 +732,4 @@ var pollsL10n = {"ajax_url":"http:\/\/dyingscene.com\/wp-content\/plugins\/wp-po
 Minified using disk
 Page Caching using disk: enhanced
 
- Served from: dyingscene.com @ 2014-06-25 21:16:05 by W3 Total Cache --></body></html>
+ Served from: dyingscene.com @ 2014-12-02 00:00:31 by W3 Total Cache --></body></html>
