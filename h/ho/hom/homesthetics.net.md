@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the homesthetics.net privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602163744id_/http%3A//www.homesthetics.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesthetics.net privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202084951id_/http%3A//www.homesthetics.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Homesthetics - Inspiring ideas for your home.
+# Privacy Policy - Homesthetics - Inspiring ideas for your home.
 
 [
 
 ### __Privacy Policy
 
-](http://www.homesthetics.net/privacy-policy/)
-
-**0** Flares **0** Flares ×
+](http://homesthetics.net/privacy-policy/)
 
 **Privacy Policy of Homesthetics**
 
@@ -60,5 +58,3 @@ We may change some of the statements in this Privacy Policy at any time. We will
 Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof and if it`s the case and if we make any changes to this privacy policy stated above, we will post them on our website in order to keep you in touch, in this way you will always know what personal data we collect, how we use it, and what your legal rights are.
 
 If you have any other concerns or questions please  **contact  us**.
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Email \-- **0** Flares ×
