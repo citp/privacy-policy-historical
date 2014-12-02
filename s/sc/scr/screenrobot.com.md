@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenrobot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065639id_/http%3A//screenrobot.com/about-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenrobot.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202191955id_/http%3A//screenrobot.com/about-us) for the most accurate reproduction.*
 
 # About Us/Privacy Policy | Screen Robot
 
@@ -11,6 +11,8 @@ We aim to create a community of like-minded robots who love Film, TV, Gaming, an
 We have a healthy obsession with digital everything.
 
 If you want to get involved or have any enquiries, drop us an email at leadrobot@screenrobot.com
+
+We are part of the  **[Magnific](http://magnific.com/)**  network of sites.
 
 Thanks!
 
