@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfwithmoney.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090939id_/http%3A//www.surfwithmoney.com/%3Fsignup%26show%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfwithmoney.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202213904id_/http%3A//www.surfwithmoney.com/%3Fsignup%26show%3Dprivacy) for the most accurate reproduction.*
 
 # Surf With Money - get paid to surf, earn money daily online with autosurf, work at home paying free money wiredpay, bitcoin, egopay, litecoin, paypal, payza, okpay.
 
