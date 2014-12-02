@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531121538id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202073544id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs2Careers
 
 ## Privacy Policy
 
-Last update on: January 13th, 2014
+Last update on: August 30th, 2014
 
 Jobs-to-Careers.com and Jobs2Careers.com ("Jobs2Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy.
 
@@ -48,7 +48,7 @@ We use personal information to enhance, improve, operate, and maintain Jobs2Care
 
 Jobs2Careers collects the following categories of personally identifiable information: first and last name; home address, including name of a city and state or zip code; email address; telephone number, information about your job candidacy and job search (e.g., the number of years of work experience you have), information about your activities on Jobs2Careers, and demographic information, such as gender, geographic area, and preferences, when any of this information is linked to personal information that identifies you. 
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. 
 
 Jobs2Careers may share this personal information with the following categories of third party persons: any person or entity to whom you have given us permission to share personal information; any third party affiliate, agent, service provider or business partner of such person or entity; any affiliate, agent, service provider or business partner who provides a service that you request on our site; any court, law enforcement agency or other investigator; any owner, successor or purchaser of Jobs2Careers or its assets. The use of information by each of these third parties is subject to such third-party's privacy policy. 
 
