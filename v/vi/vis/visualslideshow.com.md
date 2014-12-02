@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualslideshow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122431id_/http%3A//www.visualslideshow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualslideshow.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202191228id_/http%3A//visualslideshow.com/privacy.html) for the most accurate reproduction.*
 
 # Visual SlideShow: Free Visual Maker for Mootools Script: Privacy Policy
 
