@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apphp.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207122430id_/http%3A//www.apphp.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apphp.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202181223id_/http%3A//www.apphp.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ApPHP - Professional PHP Scripts
 
@@ -23,6 +23,6 @@ Your personally identifiable information is kept secure. Only authorized employe
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-By e-mail: [info@apphp.com](mailto:info@apphp.com)
+By e-mail: [info@apphp.com](mailto:%69%6e%66%6f%40%61%70%70%68%70%2e%63%6f%6d)
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
