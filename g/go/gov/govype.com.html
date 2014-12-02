@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the govype.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625075749id_/http%3A//uk.govype.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the govype.com privacy policy that was archived on 2014-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202043931id_/http%3A//uk.govype.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcAVldTGwACVFhaAAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M8L43Z"></script><script async="" charset="utf-8" src="//v2.zopim.com/?YX03IRXgtfbYGEw9YSDcSOxV3VnrHERL" type="text/javascript"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcAVldTGwACVFhaAAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 <title>Privacy Policy | Vype UK</title>
 <meta name="description" content="This Privacy Policy explains how we, CN Creative Limited, may collect, use and share your Personal Information when visiting this website.">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
+<meta property="og:title" content="Privacy Policy | Vype UK">
+<meta property="og:description" content="This Privacy Policy explains how we, CN Creative Limited, may collect, use and share your Personal Information when visiting this website.">
+<meta name="format-detection" content="telephone=no">
 <link rel="apple-touch-icon" href="/touchicon.png">
 <link rel="icon" href="/favicon.png">
 
@@ -27,8 +30,10 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://uk.govype.com/media/sass/08f662ebcbab68a7671199a1e3c519e1.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://uk.govype.com/js/videojs/video-js.min.css">
+<link rel="stylesheet" type="text/css" href="http://uk.govype.com/media/sass/08f662ebcbab68a7671199a1e3c519e120141118.css" media="all">
 <script type="text/javascript" src="http://uk.govype.com/js/jquery/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="http://uk.govype.com/js/modernizr/modernizr.min.js"></script>
 <script type="text/javascript" src="http://uk.govype.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://uk.govype.com/js/lib/ccard.js"></script>
 <script type="text/javascript" src="http://uk.govype.com/js/prototype/validation.js"></script>
@@ -43,9 +48,12 @@
 <script type="text/javascript" src="http://uk.govype.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://uk.govype.com/js/mage/cookies.js"></script>
 <script type="text/javascript" src="http://uk.govype.com/js/backgroundsize/jquery.backgroundsize.js"></script>
+<script type="text/javascript" src="http://uk.govype.com/js/glidejs/dist/jquery.glide.min.js"></script>
+<script type="text/javascript" src="http://uk.govype.com/js/throttle/throttle.min.js"></script>
 <script type="text/javascript" src="http://uk.govype.com/js/bootstrap/bootstrap.min.js"></script>
 <script type="text/javascript" src="http://uk.govype.com/js/respond/respond.js"></script>
-<link href="http://uk.govype.com/hub/rss/index/store_id/1/" title="Hub" rel="alternate" type="application/rss+xml">
+<script type="text/javascript" src="http://uk.govype.com/js/vype/vype.core.js"></script>
+<script type="text/javascript" src="http://uk.govype.com/js/videojs/video.js"></script>
 <!--[if lt IE 7]>
 <script type="text/javascript" src="http://uk.govype.com/js/lib/ds-sleight.js"></script>
 <script type="text/javascript" src="http://uk.govype.com/skin/frontend/base/default/js/ie6.js"></script>
@@ -68,7 +76,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 </script>
 <script type="text/javascript">
     //<![CDATA[
-    window.HDUSeed = '0e184a5ee82f71ce3857da7cc5491a8a';
+    window.HDUSeed = '919214a10d0226feaafed4e2c8a89dff';
     window.HDUSeedIntId = setInterval(function() {
         if (document.observe) {
             document.observe('dom:loaded', function() {
@@ -88,135 +96,181 @@ optionalZipCountries = ["HK","IE","MO","PA"];
     }, 100)
     //]]>
 </script>
-    <!--Aromicon Google Universal Analytics Section start -->
-    <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-42198476-1', 'uk.govype.com');
-        ga('set', 'anonymizeIp', false);
-                                                        ga('send', 'pageview');
-                    </script>
-        <!--Aromicon Google Universal Analytics Section end -->
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script>
+<!--[if lt IE 9]>
+<script src="http://uk.govype.com/js/html5shiv/dist/html5shiv.min.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7516512/664366/css/fonts.css">
+
 <script>
 // Change JS variable to not conflict with Prototype
 var $j = jQuery.noConflict();
 </script>
 
-
-
-<script src="/js/bxslider/jquery.bxslider.min.js"></script>
-<link href="//fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
-
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script></head>
-<body>
-    
-<!-- ClickTale Top part -->
+<!-- Start of Zopim Live Chat Script -->
 <script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?YX03IRXgtfbYGEw9YSDcSOxV3VnrHERL';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </script>
-<!-- ClickTale end of Top part -->
+<!-- End of Zopim Live Chat Script -->
 
 
-  
+</head>
+<body>
 
-	<div class="video" style="display: none">
-		<div class="mask"></div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M8L43Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M8L43Z');</script>
+<!-- End Google Tag Manager -->
+
+
 		
-		<div class="overlay">
-		<a href="#" class="close-btn"><span class="fa fa-times"></span></a>
-			<iframe id="player" width="98%" height="64%" src="//www.youtube.com/embed/quAMUXNeY6Y?autohide=1&amp;showinfo=0&amp;rel=0" frameborder="0" allowfullscreen="" style="margin-top:15%; padding-left:10px; padding-right:10px" class="box--translucent"></iframe>
-		</div>
-	</div>
+<header class="site-header site-header--fixed" role="banner">
 
+	<div class="site-header__inner">
 
-		
-<div class="wrapper wrapper--header">
+		<div class="navbar-primary">
 
-	<div class="container">
-	
-		<ul class="ui-list menu-drawer">
-				
-			<li><a href="http://uk.govype.com/why-vype" class="menu-drawer__link">why vype?</a></li>
-			<li><a href="http://uk.govype.com/get-the-facts" class="menu-drawer__link">get the facts</a></li>
-			<li><a href="http://uk.govype.com/range" class="menu-drawer__link">see the range</a></li>
-			<li><a href="http://uk.govype.com/hub" class="menu-drawer__link">hub</a></li>
-			<li><a href="http://uk.govype.com/shop" class="menu-drawer__link">shop</a></li>
-			<li><a href="http://uk.govype.com/customer/account" class="menu-drawer__link">my account</a></li>
-			<li><a href="http://uk.govype.com/contacts" class="menu-drawer__link">contact us</a></li>
-		
-		</ul>
-		
-		<ul class="ui-list menu-tablet">
-			<li><a href="http://uk.govype.com/checkout/cart" class="link--light menu-tablet__link"><img src="http://uk.govype.com/skin/frontend/default/vype/images/icon-basket.png" style="height: 15px; margin-top: -2px" alt="View Basket"> </a></li>
-			<li><a href="#" class="link--light menu-tablet__link" id="menuTrigger"><span class="fa fa-bars"></span></a></li>
-		</ul>
+			<div class="container">
 
-		<div class="row">
+				<div class="navbar-primary__inner">
 
-			<div class="col-xs-3 site-logo-holder">
+					<div class="navbar-primary__drawer-wrapper">
+						
+						<ul class="ui-list menu menu--drawer">
 
-				<a href="http://uk.govype.com/" class="site-logo">Vype</a>
-
-			</div>
-
-			<div class="col-xs-9">
-
-				<ul class="ui-list menu-primary">
-					<li><a href="http://uk.govype.com/why-vype" class="menu-primary__link ">why vype?</a></li>
-					<li><a href="http://uk.govype.com/get-the-facts" class="menu-primary__link ">get the facts</a></li>
-					<li><a href="http://uk.govype.com/range" class="menu-primary__link ">see the range</a></li>
-					<li><a href="http://uk.govype.com/hub" class="menu-primary__link ">hub</a></li>
-					<li><a href="http://uk.govype.com/shop" class="menu-primary__link ">shop</a></li>
-				</ul>
-				
-				<ul class="ui-list menu-secondary">
-					<li><a href="http://uk.govype.com/customer/account" class="menu-secondary__link ">My Account</a></li>
-					<li>
-						<a href="http://uk.govype.com/checkout/cart" class="menu-secondary__link ">
-							<img src="http://uk.govype.com/skin/frontend/default/vype/images/icon-basket.png" style="height: 15px; margin-top: -2px" alt="View Basket"> 
-															0
-													</a>
-					</li>
-				</ul>
-
-			</div>
-
-		</div>
-
-	</div>
-
-</div>
-
-	
-		
-		
-
-<div class="messages--add-padding">
-
-<div class="container">
-	<div class="row">
-		<div class="col-xs-12">
+							<li class="first"><span class="menu__label">Explore</span></li>
+							<li><a href="http://uk.govype.com/why-vype" class="menu__link">Why Vype?</a></li>
+							<li><a href="http://uk.govype.com/vapour-science" class="menu__link">Vapour Science</a></li>
+							<li><a href="http://uk.govype.com/contacts" class="menu__link">Talk to Us</a></li>
+							<li><span class="menu__label">Satisfaction Guaranteed</span></li>
+							<li><a href="http://uk.govype.com/satisfaction-estick" class="menu__link">For eStick</a></li>
+							<li><a href="http://uk.govype.com/satisfaction-epen" class="menu__link">For ePen</a></li>
+							<li><span class="menu__label">Account</span></li>
+															<li><a href="http://uk.govype.com/customer/account/create" class="menu__link">Create</a></li>
+								<li class="last"><a href="http://uk.govype.com/customer/account" class="menu__link">Login</a></li>
+							
+						</ul>
+						
 					</div>
+					
+					<ul class="ui-list menu menu--moblinks">
+						<li class="first">
+							
+
+
+<div class="block block-cart block-cart--empty">
+    <a class="block-cart__link" href="http://uk.govype.com/checkout/cart">
+        <span class="block-cart__summary">
+                    <span class="block-cart__basket-label">Basket is</span>
+            <span class="block-cart__amount">Empty</span>
+                </span>
+		
+					<span class="block-cart__shipping">Free delivery on 1<span class="lower">st</span> <span class="lower">e</span>Stick or <span class="lower">e</span>Pen</span>
+				
+		    </a>
+</div>
+
+
+						</li>
+						<li class="last">
+							<a href="#" class="link--dark menu__link menu-toggle" id="menuTrigger">
+								<span class="menu-toggle__open fa fa-bars"></span>
+								<span class="menu-toggle__close fa fa-times"></span>
+							</a>
+						</li>
+					</ul>
+
+					<a href="http://uk.govype.com/" class="site-logo">Vype</a>
+
+					<ul class="ui-list ui-list--inline menu menu--primary">
+						<li class="first"><a href="http://uk.govype.com/why-vype" class="menu__link">Why Vype?</a></li>
+						<li><a href="http://uk.govype.com/vapour-science" class="menu__link">Vapour Science</a></li>
+						<li><a href="http://uk.govype.com/contacts" class="menu__link">Talk to Us</a></li>
+						<li class="last"><a href="http://uk.govype.com/customer/account" class="menu__link">My Account</a></li>
+					</ul>
+					
+					<ul class="ui-list ui-list--inline menu menu--account">
+						<li>
+							
+
+
+<div class="block block-cart block-cart--empty">
+    <a class="block-cart__link" href="http://uk.govype.com/checkout/cart">
+        <span class="block-cart__summary">
+                    <span class="block-cart__basket-label">Basket is</span>
+            <span class="block-cart__amount">Empty</span>
+                </span>
+		
+					<span class="block-cart__shipping">Free delivery on 1<span class="lower">st</span> <span class="lower">e</span>Stick or <span class="lower">e</span>Pen</span>
+				
+		    </a>
+</div>
+
+
+						</li>
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="navbar-secondary">
+
+			<div class="container">
+
+				<div class="navbar-secondary__inner">
+
+					<ul class="ui-list ui-list--inline menu menu--secondary">
+						<li class="first"><a href="http://uk.govype.com/estick" class="menu__link"><span class="first">Buy <span class="lower">e</span>Stick</span> <span class="last">Find out more</span></a></li>
+						<li><a href="http://uk.govype.com/epen" class="menu__link"><span class="first">Buy <span class="lower">e</span>Pen</span> <span class="last">Find out more</span></a></li>
+						<li><a href="http://uk.govype.com/flavours" class="menu__link"><span class="first">Buy Flavours</span> <span class="last">Find out more</span></a></li>
+						<li class="last"><span class="menu__link"><span class="first">Satisfaction Guaranteed</span> <span class="last"><a href="http://uk.govype.com/satisfaction-epen" class="menu__link satisfaction">For ePen</a> <span style="color:#969696 !important;">|</span> <a href="http://uk.govype.com/satisfaction-estick" class="menu__link satisfaction">For eStick</a></span></span></li>
+					</ul>
+
+					<ul class="ui-list menu menu--quicklinks">
+						<li class="first"><a href="http://uk.govype.com/estick" class="menu__link"><span class="first">Buy</span> <span class="last"><span class="lower">e</span>Stick</span></a></li>
+						<li class="middle"><a href="http://uk.govype.com/flavours" class="menu__link"><span class="first">Buy</span> <span class="last">Flavours</span></a></li>
+						<li class="last"><a href="http://uk.govype.com/epen" class="menu__link"><span class="first">Buy</span> <span class="last"><span class="lower">e</span>Pen</span></a></li>
+					</ul>
+
+				</div>
+
+				<div class="navbar-secondary__overflow"></div>
+
+			</div>
+
+		</div>
+
 	</div>
-</div>
 
-</div>
+</header>
+		
+
+
+<div class="main-content" role="main">
 	
-<div class="std"><p></p><div class="container">
+  <div class="page-standard"><div class="container">
 
-	<div class="row" style="margin-top: 40px">
+	<div class="row">
 	
 		<div class="col-xs-12">
 			
-			<div class="box box--add-padding-xxl center">
+			<div class="box box--add-padding-m center">
 				
-				<h1 class="center box--dark__text add-large-margin">Privacy Policy</h1>
+				<h1 class="center add-margin">Privacy Policy</h1>
 				
 			</div>
 		
@@ -226,9 +280,11 @@ var WRInitTime=(new Date()).getTime();
 	
 </div>
 
-<div class="box--translucent-dark add-large-margin">
+<div class="page-divider-dark" style="margin-top: 10px"></div>
 
-	<div class="container" style="padding-top: 40px;">
+<div class="box--light__grey">
+
+	<div class="container" style="padding-top: 10px;">
 	
 		<div class="row">
 			
@@ -236,15 +292,15 @@ var WRInitTime=(new Date()).getTime();
 			
 				<div class="box--add-padding-xl">
 					
-					<p class="p--lead">This Privacy Policy explains how we, CN Creative Limited, may collect, use and share your Personal Information when visiting this website.</p>
+					<p class="p--lead">This Privacy Policy explains how we, Nicoventures Trading Limited, may collect, use and share your Personal Information when visiting this website.</p>
 					
 					<ul class="list">
-					<li><a href="#what" class="link link--light link--nodecoration">What information we collect about you</a></li>
-					<li><a href="#how" class="link link--light link--nodecoration">How we use information we collect about you</a></li>
-					<li><a href="#where" class="link link--light link--nodecoration">Where we store our information about you</a></li>
-					<li><a href="#cookies" class="link link--light link--nodecoration">Our cookie policy</a></li>
-					<li><a href="#contact" class="link link--light link--nodecoration">How to contact us</a></li>
-					<li><a href="#definitions" class="link link--light link--nodecoration">Definitions</a></li>
+					<li><a href="#what" class="link link--dark link--nodecoration">What information we collect about you</a></li>
+					<li><a href="#how" class="link link--dark link--nodecoration">How we use information we collect about you</a></li>
+					<li><a href="#where" class="link link--dark link--nodecoration">Where we store our information about you</a></li>
+					<li><a href="#cookies" class="link link--dark link--nodecoration">Our cookie policy</a></li>
+					<li><a href="#contact" class="link link--dark link--nodecoration">How to contact us</a></li>
+					<li><a href="#definitions" class="link link--dark link--nodecoration">Definitions</a></li>
 					</ul>
 					
 					
@@ -257,7 +313,7 @@ var WRInitTime=(new Date()).getTime();
 					<li>set up an account with us; or</li>
 					<li>correspond with us.</li>
 					</ul>
-					<p class="Body2">We also automatically collect information about how visitors use our site (such as statistical data on click-through rates, sales on the website and information about where traffic to our website comes from) by using cookies and similar technology. To learn more about how we use cookies please see our <a href="#cookies" class="link link--light">Cookie Policy</a>.</p>
+					<p class="Body2">We also automatically collect information about how visitors use our site (such as statistical data on click-through rates, sales on the website and information about where traffic to our website comes from) by using cookies and similar technology. To learn more about how we use cookies please see our <a href="#cookies" class="link link--dark">Cookie Policy</a>.</p>
 					
 					
 					<a name="how"></a>
@@ -265,7 +321,7 @@ var WRInitTime=(new Date()).getTime();
 					<p class="Body2">We will use your Personal Information to provide you with the products and services you request from us. To do this we may need to share your Personal Information with third parties (for example, in order to fulfil your order).</p>
 					<p class="Body2">We may use your information to tell you more about our products and services we think may interest you. We will only send you information electronically if you have already agreed to this.</p>
 					<p class="Body2">If you choose to answer our market research questions when registering or checking out (for example, "how did you hear about us?"), we will use your answers for market research.<strong><em></em></strong></p>
-					<p class="Body2">Please see our <a href="#cookies" class="link link--light">Cookie Policy</a> for details of how we use Personal Information we collect or process with cookies.</p>
+					<p class="Body2">Please see our <a href="#cookies" class="link link--dark">Cookie Policy</a> for details of how we use Personal Information we collect or process with cookies.</p>
 					
 					
 					<a name="where"></a>
@@ -297,7 +353,7 @@ var WRInitTime=(new Date()).getTime();
 					
 					<a name="contact"></a>
 					<h2 class="add-margin caps">How to contact us</h2>
-					<p class="Body2">If you wish to contact us with any queries or concerns, please see our <a href="/contacts" class="link link--light">Contact Us</a> page or email us at <a href="mailto:info@govype.com" class="link link--light">info@govype.com</a> or write to us via post at Customer Services, CN Creative Ltd. Phoenix Park Unit 1, Blakewater Rd, Blackburn, Lancashire, BB1 5SJ.</p>
+					<p class="Body2">If you wish to contact us with any queries or concerns, please see our <a href="/contacts" class="link link--dark">Contact Us</a> page or email us at <a href="mailto:info@govype.com" class="link link--dark">info@govype.com</a> or write to us via post at Customer Services, Nicoventures Trading Ltd. Phoenix Park Unit 1, Blakewater Rd, Blackburn, Lancashire, BB1 5SJ.</p>
 					
 					
 					<a name="definitions"></a>
@@ -312,22 +368,25 @@ var WRInitTime=(new Date()).getTime();
 		
 	</div>
 	
-</div><p></p></div>
+</div></div>
+</div>
 
+
+<footer class="site-footer" role="contentinfo">
+	
 <div class="wrapper wrapper--footer">
 
 	<div class="container">
 		
 		<div class="row add-margin">
 			
-			<div class="col-xs-12 col-sm-3 center-mobile">
+			<div class="col-xs-12 col-sm-3 col-md-2 center-mobile">
 			
 				<div class="add-margin box box--dark">
 					
-					<h4 class="box--dark__text add-letter-spacing-2 size-xs add-margin caps">Information</h4>
+					<h4 class="box--dark__text size-xs add-margin caps">Information</h4>
 					<ul class="ui-list menu-footer">
 						<li><a href="http://uk.govype.com/faq" class="link link--grey size-xs link--nodecoration">FAQ</a></li>
-						<li><a href="http://uk.govype.com/glossary" class="link link--grey size-xs link--nodecoration">Glossary</a></li>
 						<li><a href="http://uk.govype.com/newsletter" class="link link--grey size-xs link--nodecoration">Newsletter</a></li>
 						<li><a href="http://uk.govype.com/where-to-buy" class="link link--grey size-xs link--nodecoration">Where to Buy</a></li>
 					</ul>
@@ -336,14 +395,13 @@ var WRInitTime=(new Date()).getTime();
 			
 			</div>
 			
-			<div class="col-xs-12 col-sm-3">
+			<div class="col-xs-12 col-sm-2 col-md-3">
 			
 				<div class="add-margin box box--dark center-mobile">
 				
-					<h4 class="box--dark__text add-letter-spacing-2 size-xs add-margin caps">About</h4>
+					<h4 class="box--dark__text size-xs add-margin caps">About</h4>
 					<ul class="ui-list menu-footer">
-
-						<li><a href="http://uk.govype.com/about" class="link link--grey size-xs link--nodecoration">About CN Creative</a></li>
+						<li><a href="http://uk.govype.com/about" class="link link--grey size-xs link--nodecoration">About</a></li>
 						<li><a href="http://uk.govype.com/delivery-returns" class="link link--grey size-xs link--nodecoration">Delivery &amp; Returns</a></li>
 						<li><a href="http://uk.govype.com/disposal" class="link link--grey size-xs link--nodecoration">Disposal of Used Products</a></li>
 					</ul>
@@ -356,7 +414,7 @@ var WRInitTime=(new Date()).getTime();
 			
 				<div class="add-margin box box--dark mobile-padding">
 				
-					<h4 class="box--dark__text add-letter-spacing-2 size-xs add-margin caps">Register For Exclusive Updates</h4>
+					<h4 class="box--dark__text size-xs add-margin caps">Register For Exclusive Updates</h4>
 						
 					
 			
@@ -364,13 +422,13 @@ var WRInitTime=(new Date()).getTime();
 			
 			<ul class="ui-list">
 			
-				<li class="add-half-margin form__list-item"><input class="form__item-input input-text required-entry validate-email" type="email" name="email" placeholder="Your email address" style="float:none;" required=""></li>
+				<li class="add-half-margin form__list-item"><input class="form__item-input input-text required-entry validate-email" type="email" name="email" placeholder="E-mail Address" style="float:none;" required=""></li>
 				
-				<li><button class="btn btn--darkest" type="submit">Sign Up <span class="fa fa-angle-right"></span></button></li>
+				<li><button class="btn btn--grey" type="submit">Sign Up <span class="fa fa-angle-right"></span></button></li>
 			
 			</ul>
 			
-		<input name="form_key" type="hidden" value="zQlZkM01Z0wXfsxB">
+		<input name="form_key" type="hidden" value="7LyMtzbHxfqxKZvn">
 </form>		
 		
 	
@@ -384,15 +442,15 @@ var WRInitTime=(new Date()).getTime();
 				
 			</div>
 			
-			<div class="col-xs-12 col-sm-2">
+			<div class="col-xs-12 col-sm-3 col-md-2">
 			
 				<div class="add-margin box box--dark center-mobile">
 				
-					<h4 class="box--dark__text add-letter-spacing-2 size-xs add-margin caps">Contact Us</h4>
+					<h4 class="box--dark__text size-xs add-margin caps">Contact Us</h4>
 					<ul class="ui-list menu-footer">
-						<li><a href="tel:0800 1337 350" class="link link--grey size-xs link--nodecoration"><img src="http://uk.govype.com/skin/frontend/default/vype/images/icon-phone-footer.png" style="margin-right: 4px" alt="Call us">  0800 1337 350</a></li>
-						<li><a href="mailto:info@goVype.com" class="link link--grey size-xs link--nodecoration"><img src="http://uk.govype.com/skin/frontend/default/vype/images/icon-envelope-footer.png" style="margin-right: 4px" alt="Email us"> info@goVype.com</a></li>
-						<li><a href="http://uk.govype.com/contacts" class="link link--grey size-xs link--nodecoration"><img src="http://uk.govype.com/skin/frontend/default/vype/images/icon-contact-footer.png" style="margin-right: 4px" alt="Write to us"> Get in Touch</a></li>
+						<li><a href="tel:0800 1337 350" class="link link--grey size-xxs link--nodecoration"><img src="http://uk.govype.com/skin/frontend/default/vype/images/icon-phone-footer.png" style="margin-right: 4px" alt="Call us">  0800 1337 350</a></li>
+						<li><a href="mailto:info@goVype.com" class="link link--grey size-xxs link--nodecoration"><img src="http://uk.govype.com/skin/frontend/default/vype/images/icon-envelope-footer.png" style="margin-right: 4px" alt="Email us"> info@goVype.com</a></li>
+						<li><a href="http://uk.govype.com/contacts" class="link link--grey size-xxs link--nodecoration"><img src="http://uk.govype.com/skin/frontend/default/vype/images/icon-contact-footer.png" style="margin-right: 4px" alt="Write to us"> Get in Touch</a></li>
 					</ul>
 					
 				</div>
@@ -405,7 +463,7 @@ var WRInitTime=(new Date()).getTime();
 		
 			<div class="col-xs-12">
 			
-				<div class="box box--dark box--add-padding-m center" style="padding-top: 0">
+				<div class="box box--dark center">
 			
 					<a title="Facebook" target="_blank" href="http://facebook.com/govype" class="link link--dark link--roundel link--roundel-light size-xs link--roundel-facebook" style="margin-right: 8px"><span class="fa fa-facebook"></span></a>
 					<a title="Twitter" target="_blank" href="http://twitter.com/govype" class="link link--dark link--roundel link--roundel-light size-xs link--roundel-twitter" style="margin-right: 8px"><span class="fa fa-twitter"></span></a>
@@ -430,7 +488,7 @@ var WRInitTime=(new Date()).getTime();
 		
 			<div class="col-xs-12">
 			
-				<div class="box add-margin box--clearfix">
+				<div class="box add-margin box--clearfix center">
 					<ul class="ui-list menu-tertiary">
 						<li><a href="http://uk.govype.com/accessibility" class="link link--grey size-xs link--nodecoration menu-tertiary__link">Accessibility</a></li>
 						<li><a href="http://uk.govype.com/conditions-of-sale" class="link link--grey size-xs link--nodecoration menu-tertiary__link">Conditions of Sale</a></li>
@@ -440,13 +498,12 @@ var WRInitTime=(new Date()).getTime();
 					</ul>
 				</div>
 				
-				<p class="box--dark__text--dark size-xxs">Vype electronic cigarettes may be hazardous to health and contain nicotine which is addictive. Vype electronic cigarettes are not suitable for use by: persons under the age of 18; persons who are allergic/sensitive to nicotine; pregnant or breast-feeding women; persons who should avoid using tobacco or nicotine products for medical reasons; or persons with an unstable heart condition, severe hypertension or diabetes. Keep Vype products out of reach of children.</p>
-				<p class="box--dark__text--dark size-xxs">© CN Creative Ltd 2014. All rights reserved. Registered in England &amp; Wales: 06665343. VAT Registered: GB239136950. </p>
-				
-																<!-- HP Tag -->
-				<img src="http://tags.w55c.net/rs?id=3de590e543ea4e7fb48d25a60f63113d&amp;t=homepage">
-				<!-- /HP Tag -->
-											
+				<div class="site-closure">
+					<p class="box--dark__text--dark size-xxxs">Vype is sold by Nicoventures Trading Limited, a company acquired by BAT in late 2012. Nicoventures Trading sits in the Nicoventures division of the BAT Group which is managed separately from the tobacco business.</p>
+					<p class="box--dark__text--dark size-xxxs">Vype electronic cigarettes may be hazardous to health and contain nicotine which is addictive. Vype electronic cigarettes are not suitable for use by: persons under the age of 18; persons who are allergic/sensitive to nicotine; pregnant or breast-feeding women; persons who should avoid using tobacco or nicotine products for medical reasons; or persons with an unstable heart condition, severe hypertension or diabetes. Keep Vype products out of reach of children.</p>
+					<p class="box--dark__text--dark size-xxxs">© Nicoventures Trading Ltd 2014. All rights reserved. Registered in England &amp; Wales: 06665343. VAT Registered: GB239136950. </p>
+				</div>
+			
 			</div>
 		
 		</div>
@@ -454,91 +511,113 @@ var WRInitTime=(new Date()).getTime();
 	</div>
 
 </div>
-	
-<script>
-$j(document).ready(function(){
-	// Hub page
-    $j('.tweet').insertAfter($j('.blogpost').eq(Math.floor(Math.random() * $j('.blogpost').length)));
-	
-	// Slide out menu
-	$j('#menuTrigger').mousedown(
-	  function(){
-		$j('.menu-drawer').toggle();
-	  }
-	);
-});
-</script>
 
-<script language="JavaScript" type="text/javascript">
-/*<![CDATA[*/
-window.fbAsyncInit = function() {
-	FB.init({appId: '329903040474582',             
-	    status     : true, 
-            cookie     : true,
-            xfbml      : true,
-            oauth      : true});
+</footer>
 
-	FB.getLoginStatus(function(response) {
-	   if (response.status == 'connected') {
-	    	   }
-	});
-};
-(function(d){
-           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-           js = d.createElement('script'); js.id = id; js.async = true;
-           js.src = "//connect.facebook.net/en_GB/all.js";
-           d.getElementsByTagName('head')[0].appendChild(js);
-         }(document));
-
-function login(){
-	   document.location.href="http://uk.govype.com/facebookfree/customer/login/?referer=aHR0cDovL3VrLmdvdnlwZS5jb20vcHJpdmFjeS1wb2xpY3k,";
-	}
-	function logout(){
-	   document.location.href="http://uk.govype.com/facebookfree/customer/logout/";
-	}
-	function greet(id){
-	   FB.api('/me', function(response) {
-		var src = 'https://graph.facebook.com/'+id+'/picture';
-		$$('.welcome-msg')[0].insert('<img src="'+src+'"/>');
-	   });
-	}
-
-    function fblogin(){
-        FB.login(function(response) {
-
-           if (response.status == 'connected') {
-                login();
-            } else {
-                // user is not logged in
-                window.location.reload();
-            }
-        }, {scope:'email,publish_stream'});
-        return false;
-    }
-/*]]>*/
-</script>
-
-
-
-    
-<!-- ClickTale Bottom part -->
 
 <script type="text/javascript">
-// The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
-// 
-//   function ClickTalePreRecordingHook() { /* place your customized code here */  }
-//
-// For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
-var ClickTaleFetchFrom="http://uk.govype.com/lib/ClickTale/ClickTaleCache.php?t=3f1ecc8f10cc4acc6615";
-document.write(unescape("%3Cscript%20src='"+
-(document.location.protocol=='https:'?
-"https://cdnssl.clicktale.net/www07/ptc/57401a42-2155-4f25-b293-40c97b043aa5.js":
-"http://cdn.clicktale.net/www07/ptc/57401a42-2155-4f25-b293-40c97b043aa5.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://cdnssl.clicktale.net/www07/ptc/57401a42-2155-4f25-b293-40c97b043aa5.js" type="text/javascript"></script>
+//<![CDATA[
+	var productForms = {};
 
-<!-- ClickTale end of Bottom part -->
+	jQuery('.product-addtocart-form').each(function(e) {
+		var formId = jQuery(this).attr('id');
+		productForms[formId] = new VarienForm(formId);
+
+		$( this ).on( 'submit', function( event ) {
+			var formId = jQuery(this).attr('id');
+			var formButton = jQuery('input[type="submit"]', this);
+		  productAddToCart(productForms[formId], formButton);
+		  event.preventDefault();
+		});
+	});
+
+	productAddToCart = function(form, button, url) {
+		if (form.validator.validate()) {
+		  var e = null;
+		  var oldUrl = form.form.action;
+
+		  if (url)  { form.form.action = url; } 
+		  if (!url) { url = form.form.action; }
+
+		  var data = jQuery('#'+form.form.id).serialize();
+
+		  data += '&isAjax=1';
+
+		  var oldButtonHtml = button.html();
+		  var oldButtonValue = button.attr('value');
+
+		  if (button.html()) { button.html('One Moment Please...'); }
+		  if (button.attr('value')) { button.attr('value', 'One Moment Please'); }
+
+		  button.prop({ disabled: true });
+		  button.addClass( "btn--add-to-basket-wait" );
+
+		  try {
+		    jQuery.ajax( {
+		        url: url,
+		        dataType: 'json',
+		        type : 'post',
+		        data: data,
+		        success: function(data){
+						  if (button.html()) { button.html(oldButtonHtml); }
+						  if (button.attr('value')) { button.attr('value', oldButtonValue); }
+
+						  button.prop({ disabled: false });
+		          button.removeClass("btn--add-to-basket-wait");
+
+		          /* AJAX Notification Success Message */
+		          jQuery('#ajaxCartNotification_text').html(data.message);
+		          jQuery('#ajaxCartNotification').show();
+		          jQuery('#ajaxCartNotification_blackout').show();
+		          
+		          
+		          if(jQuery('.block-cart')){
+		            jQuery('.block-cart').replaceWith(data.sidebar);
+		          }
+		          if(jQuery('.header .links')){
+		            jQuery('.header .links').replaceWith(data.toplink);
+		          }
+		        }
+		    });
+		  } catch (e) { }
+
+		  form.form.action = oldUrl;
+		  if (e) { throw e; }
+		}
+	}
+
+  var productAddToCartForm = new VarienForm('product_addtocart_form');
+
+  productAddToCartForm.submit = function(button, url) {
+  	productAddToCart(this, jQuery(button), url);
+  }.bind(productAddToCartForm);
+
+//]]>
+</script>
+
+<div class="cart-notification-blackout" id="ajaxCartNotification_blackout" style="display:none;"></div>
+<div class="cart-notification" style="display:none;" id="ajaxCartNotification">
+	<div class="box box--translucent" style="padding: 10px;">
+		<div class="box box--light box--add-padding-xl center">
+			<p class="box--light__text" id="ajaxCartNotification_text">&nbsp;</p>
+			<button class="btn btn--grey btn--add-margin add-half-margin" id="ajaxCartNotification_continue">Continue Shopping</button>
+			<a href="http://uk.govype.com/checkout/cart/" class="btn btn--grey btn--add-margin add-half-margin" id="ajaxCartNotification_continue">View Basket</a>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+	jQuery("#ajaxCartNotification_continue").click(function() {
+		jQuery('.cart-notification').hide();
+		jQuery('.cart-notification-blackout').hide();
+	});
+//]]>
+</script>
 
 
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"fd77784797","applicationID":"3209876","transactionName":"NFYGMUdVCxFVWxFfWg0cJQZBXQoMG1sIRRoTUgMAGkIMB0M=","queueTime":0,"applicationTime":95,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"fd77784797","applicationID":"3209876","transactionName":"NFYGMUdVCxFVWxFfWg0cJQZBXQoMG1sIRRoTUgMAGkIMB0M=","queueTime":0,"applicationTime":1674,"atts":"GBEFRw9PGB8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
