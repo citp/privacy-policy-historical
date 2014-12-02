@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forgerock.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054740id_/http%3A//forgerock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forgerock.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202013909id_/http%3A//forgerock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForgeRock
 
@@ -49,7 +49,7 @@ If ForgeRock is involved in a merger, acquisition, or sale of all or a portion o
 ForgeRock welcomes your comments regarding this privacy statement. If you believe that ForgeRock has not adhered to this privacy statement, please contact us by e-mail at [info@forgerock.com](mailto:info@forgerock.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 ForgeRock  
-500 3rd Street, Suite 265  
-San Francisco, CA 94107
+33 New Montgomery Street, Suite 1500  
+San Francisco, CA 94105
 
 If you no longer wish to receive our newsletter communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@forgerock.com](mailto:info@forgerock.com) or you may contact us at our address.
