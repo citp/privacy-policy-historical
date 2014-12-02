@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hibike.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530154437id_/http%3A//www.hibike.com/shop/catalog/n739/show.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibike.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202021348id_/http%3A//www.hibike.com/shop/catalog/n739/HIBIKE-s-privacy-policy.html) for the most accurate reproduction.*
 
-# HIBIKE /Help & Info/HIBIKE's privacy policy
+# Help-Info-HIBIKE-s-privacy-policy
 
 Thanks for visiting HIBIKE's Online World! Our privacy policy is straight forward: unless you explicitly decide to give personal information, we do not store any personal data on your visit to our e-Shop. In some cases, i.e. when sending an e-mail feedback to us, it might be necessary to let us know your e-mail-address in order for us to answer. 
 
