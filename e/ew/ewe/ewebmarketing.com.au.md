@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ewebmarketing.com.au privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530141724id_/http%3A//www.ewebmarketing.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewebmarketing.com.au privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202141807id_/http%3A//www.ewebmarketing.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | E-Web Marketing
+# Privacy Policy - E-Web Marketing
 
 This following document sets forth the Privacy Policy for E-Web Marketing’s website, http://www.ewebmarketing.com.au
 
@@ -36,7 +36,11 @@ All personal information you provide to us is stored in our secure database. Rea
 
 ## Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you. Those third parties may be located overseas and to the extent to which is practicable to specify the countries in which such third parties are likely to be located, we advise that they include the United States.
+
+By providing your personal information, you agree to the sharing od your personal information with third parties outside of Australia. We will take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this policy.
+
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ## Third party links
 
@@ -91,7 +95,7 @@ If we refuse your request to correct your personal information, you may request 
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on May 19, 2014.
+This policy was last modified on June 11, 2014.
 
 ## Contacting Us
 
