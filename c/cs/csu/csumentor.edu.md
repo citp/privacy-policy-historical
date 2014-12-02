@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the csumentor.edu privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209115954id_/https%3A//secure.csumentor.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csumentor.edu privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202100448id_/https%3A//secure.csumentor.edu/privacy.asp) for the most accurate reproduction.*
 
 # CSUMentor - Privacy Policy Statement
 
-|  |  |  **The Privacy Policy from the  
-California State University**  
-
+## The Privacy Policy from the California State University
 
 Effective as of August 2, 2006
 
@@ -98,6 +96,3 @@ This Privacy Policy may be amended from time to time. Unless legal obligations r
 
 **QUESTIONS**  
 If you have any questions about this Privacy Policy and the privacy practices on this site, you may contact us at [support@csumentor.edu](mailto:support@csumentor.edu). 
-
-  
-|  |  | 
