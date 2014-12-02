@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050745id_/http%3A//www.parkinson.org/Privacy---Terms-of-Use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202121249id_/http%3A//www.parkinson.org/Privacy---Terms-of-Use.aspx) for the most accurate reproduction.*
 
 # National Parkinson Foundation - Privacy & Terms of Use
 
