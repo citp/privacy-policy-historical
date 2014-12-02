@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oecd.org privacy policy that was archived on 2014-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140531235609id_/http%3A//www.oecd.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oecd.org privacy policy that was archived on 2014-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202100229id_/http%3A//www.oecd.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -508,11 +508,16 @@ var cleanfirstchar = firstchar.replace(',','').replace('(', '').replace(')','').
                   <script type="text/javascript" src="/media/oecdorg/styleassets/javascript/jquery.xdajax.js"></script> <!-- RSS Feed -->
             
              <!-- navigation object : Google Analytics changed cd 20130519 --><script type="text/javascript">
+  var originalOecdGA = 'UA-29376537-1';
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-29376537-1']);
+  _gaq.push(['_setAccount' , originalOecdGA]);
   _gaq.push(['_trackPageview']);
 
+  if(window["customGACode"] != undefined && window["customGACode"] != '') {
+    _gaq.push(['account2._setAccount' , window["customGACode"]]);
+    _gaq.push(['account2._trackPageview']);
+  }
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -520,8 +525,6 @@ var cleanfirstchar = firstchar.replace(',','').replace('(', '').replace(')','').
   })();
 
 </script>
-
-
 
              
     
