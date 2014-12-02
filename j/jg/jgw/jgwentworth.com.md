@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213215018id_/http%3A//jgwentworth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202044836id_/http%3A//jgwentworth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | J.G. Wentworth
-
-** ** **PRIVACY POLICY**
 
 This Privacy Policy is provided by J.G. Wentworth (“the Company”), on behalf of itself and certain of the various companies that it owns.
 
@@ -86,7 +84,7 @@ Your personal information may also be shared:
 **How can I limit the sharing of my information?**
 
   * Call _1 (800) 715-8127_ —or
-  * E-mail us at _Privacy@jgwpt.com_ and provide contact information
+  * E-mail us at _Privacy@jgwentworth.com_ and provide contact information
 
 
 
@@ -135,12 +133,12 @@ Your choices will apply to all transactions that you have completed where there 
 
 **Affiliates** | Companies related by common ownership or control.  They can be financial and nonfinancial companies.  Our Affiliates include companies that acquire assets such as structured settlement payment streams and lottery payment streams, or offer  other asset-backed transactions.  Every company in  that family is an Affiliate  of every other company in that family.  If you establish a relationship with one company on that list, every other company on that list will be considered an Affiliate.  
 ---|---  
-**Non-affiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies.   
-**Joint marketing** | A formal agreement between Nonaffiliated companies that together market transactions to you.   
+**Non-affiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies.   
+**Joint marketing** | A formal agreement between Nonaffiliated companies that together market transactions to you. ** **  
   
 **Is there anything else I should know?**
 
-**Nevada**.  We are providing you this notice pursuant to state law.  You may be placed on our internal Do Not Call List by following the directions in the section above entitled, “How can I limit the sharing of my information?”.  Nevada law requires that we also provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; Phone number- 702.486.3132; email: BCPINFO@ag.state.nv.us.  J.G.  Wentworth, 201 King of Prussia Road, Suite 200, Radnor, Pennsylvania 19087; Phone Number:  1 (800) 715-8127 email: Privacy@jgwpt.com.
+**Nevada**.  We are providing you this notice pursuant to state law.  You may be placed on our internal Do Not Call List by following the directions in the section above entitled, “How can I limit the sharing of my information?”.  Nevada law requires that we also provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; Phone number- 702.486.3132; email: BCPINFO@ag.state.nv.us.  J.G.  Wentworth, 201 King of Prussia Road, Suite 200, Radnor, Pennsylvania 19087; Phone Number:  1 (800) 715-8127 email: Privacy@jgwentworth.com.
 
 **Vermont** :  In accordance with Vermont law, we will not share information we collect about Vermont residents with companies outside of our corporate family, except as permitted by law, such as with your consent, to service  or audit or fund your transactions or with  financial institutions (or other companies) with which we have joint marketing agreements.  We will not share information about your creditworthiness within our corporate family except with your authorization or consent, but we may share information about our transactions or experiences with you within our corporate family without your consent.
 
