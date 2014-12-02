@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricstaal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001824id_/http%3A//www.lyricstaal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstaal.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202051440id_/http%3A//www.lyricstaal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lyricstaal
 
