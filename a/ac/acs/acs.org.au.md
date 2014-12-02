@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acs.org.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122953id_/https%3A//www.acs.org.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs.org.au privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202042553id_/https%3A//www.acs.org.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Computer Society
 
