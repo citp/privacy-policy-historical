@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the sonyopentennis.com privacy policy that was archived on 2014-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140424062645id_/http%3A//www.sonyopentennis.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sonyopentennis.com privacy policy that was archived on 2014-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202074051id_/http%3A//www.miamiopen.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><!--<![endif]--><head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"a487b485d3","applicationID":"2412481","transactionName":"Y1VRMkMFXkEHUhdcXVofYwdWAR9CFFgVVFFNHUMJXQ1TSw==","queueTime":15,"applicationTime":18,"ttGuid":"44D3D7CDB9AC3C1E","agent":"js-agent.newrelic.com/nr-400.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUFdRGwEEVVNWDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,o,a,u){return s?s-=1:n("err",[u||new UncaughtException(t,e,o)]),"function"==typeof i?i.apply(this,r(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}var n=t("handle"),r=t(6),o=t(5),i=window.onerror,a=!1,s=0;t("loader").features.push("err"),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),a=!0)}o.on("fn-start",function(){a&&(s+=1)}),o.on("fn-err",function(t,e,r){a&&(this.thrown=!0,n("err",[r,(new Date).getTime()]))}),o.on("fn-end",function(){a&&!this.thrown&&s>0&&(s-=1)}),o.on("internal-error",function(t){n("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);return i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1),n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,p=e(d);if(p&&(r.rxSize=p),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){a.emit("internal-error",e)}};for(var p=0;u>p;p++)n.addEventListener(s[p],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=c.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){c.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=c.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",p="attachEvent",f=(""+location).split("?")[0],c=e.exports={offset:i(),origin:f,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[p]("onreadystatechange",r),s[p]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,n,r){function nrWrapper(){try{var a,u=s(arguments),d=this,p=n&&n(u,d)||{}}catch(f){i([f,"",[u,d,r],p])}o(e+"start",[u,d,r],p);try{return a=t.apply(d,u)}catch(c){throw o(e+"err",[u,d,c],p),c}finally{o(e+"end",[u,d,a],p)}}return t&&"function"==typeof t&&t.apply&&!t._wrapped?(e||(e=""),nrWrapper._wrapped=!0,nrWrapper):t}function r(t,e,r,o){r||(r="");var i,a,s,u="-"===r.charAt(0);for(s=0;s<e.length;s++)a=e[s],i=t[a],i&&"function"==typeof i&&i.apply&&!i._wrapped&&(t[a]=n(i,u?a+r:r,o,a,t))}function o(t,e,n){try{a.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{a.emit("internal-error",t)}catch(e){}}var a=t(1),s=t(2);e.exports=n,n.inPlace=r},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"a487b485d3","applicationID":"2412481","transactionName":"Y1VRMkMFXkEHUhdcXVofYwdWAR9XCB4TR1tCUVAfHBRfXg9SGg==","queueTime":15,"applicationTime":58,"ttGuid":"B4C3BEE44146E2B6","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUFdRGwEEVVNWDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 
 	<title>
-		Privacy Policy | Sony Open
+		Privacy Policy | Miami Open
 	</title>
 	<meta name="description" content="">
 	<meta property="og:image" content="/Assets/sonyopen/images/fb-lightmaker-logo.jpg">
@@ -15,18 +14,17 @@
 
 
 
-
 	<!-- facebook -->
 	<meta property="og:locale" content="en">
 	<meta property="og:type" content="Article">
-	<meta property="og:title" content="Privacy Policy | Sony Open">
+	<meta property="og:title" content="Privacy Policy | Miami Open">
 	<meta property="og:description" content="">
-	<meta property="og:url" content="http://www.sonyopentennis.com/privacy-policy">
-	<meta property="og:site_name" content="Sony Open">
+	<meta property="og:url" content="http://origin-www.miamiopen.com/en/privacy-policy">
+	<meta property="og:site_name" content="Miami Open">
 
 	<!-- twitter -->
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="Privacy Policy | Sony Open">
+	<meta name="twitter:title" content="Privacy Policy | Miami Open">
 	<meta name="twitter:creator" content="@atpworldtour">
 	<meta name="twitter:description" content="">
 
@@ -42,49 +40,52 @@
 	<link href="/Assets/SonyOpen/images/global/favicon.png" rel="shortcut icon">
 	
     <meta name="viewport" content="width=device-width, maximum-scale=1, user-scalable=1">
-    <link rel="stylesheet" type="text/css" href="/Assets/SonyOpen/css/desktop.css?v=635304057476469742">
+    <link rel="stylesheet" type="text/css" href="/Assets/SonyOpen/css/desktop.css?v=635452988465707384">
 
 
-    <!-- fonts -->
+	<!-- fonts -->
 	<script type="text/javascript" src="http://fast.fonts.net/jsapi/ab0252fe-ba1e-461d-a641-de69e8c90448.js"></script>
 
 	<!--[if lt IE 9]>
 	<script src="/Assets/SonyOpen/js/vendor/html5.js" type="text/javascript"></script>
 	<![endif]-->
-	<!-- js -->
-
-	
-    <script type="text/javascript" data-main="/assets/SonyOpen/js/desktop.min" src="/assets/SonyOpen/js/vendor/require.min.js"></script>
-
 	  <script type="text/javascript">
-    var _gaq = _gaq || [];
+	  var _gaq = _gaq || [];
 
-    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+	  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 
-    _gaq.push(['_setAccount', 'UA-45941102-1']);
-    _gaq.push(['_setDomainName', 'sonyopentennis.com']);
-    _gaq.push(['_trackPageview']);
+	  _gaq.push(['_setAccount', 'UA-45941102-1']);
+	  _gaq.push(['_setDomainName', 'sonyopentennis.com']);
+	  _gaq.push(['_trackPageview']);
 
-    (function () {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+	  (function () {
+		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
 
   </script>
 
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop.min" src="/assets/SonyOpen/js/desktop.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/init" src="/assets/SonyOpen/js/desktop/init.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/liveScores" src="/assets/SonyOpen/js/desktop/liveScores.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/collections/live-scores" src="/assets/SonyOpen/js/desktop/collections/live-scores.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//web.archive.org/web/20140714124134/http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/requireIf" src="/assets/SonyOpen/js/desktop/requireIf.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="vendor/jquery.mobile.events" src="/assets/SonyOpen/js/vendor/jquery.mobile.events.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/sharrre" src="/assets/SonyOpen/js/desktop/sharrre.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/GoogleAnalytics" src="/assets/SonyOpen/js/desktop/GoogleAnalytics.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.migrate" src="//web.archive.org/web/20140714124134/http://code.jquery.com/jquery-migrate-1.2.1.min.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sharrre" src="/assets/SonyOpen/js/vendor/jquery.sharrre.min.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/overflowNav" src="/assets/SonyOpen/js/desktop/overflowNav.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/fixedNav" src="/assets/SonyOpen/js/desktop/fixedNav.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/formValidations" src="/assets/SonyOpen/js/desktop/formValidations.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="validate" src="/assets/SonyOpen/js/vendor/jquery.validate.min.js?v=2"></script></head>
-<body style="">
+<!-- Pixel Retargeting -->
+<script type="text/javascript" src="http://tag.yieldoptimizer.com/ps/ps?t=s&amp;p=1624&amp;pg=Page"></script>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop.min" src="/assets/SonyOpen/js/desktop.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/init" src="/assets/SonyOpen/js/desktop/init.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//web.archive.org/web/20140714124134/http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/requireIf" src="/assets/SonyOpen/js/desktop/requireIf.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="vendor/jquery.mobile.events" src="/assets/SonyOpen/js/vendor/jquery.mobile.events.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/sharrre" src="/assets/SonyOpen/js/desktop/sharrre.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/GoogleAnalytics" src="/assets/SonyOpen/js/desktop/GoogleAnalytics.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.migrate" src="//web.archive.org/web/20140714124134/http://code.jquery.com/jquery-migrate-1.2.1.min.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sharrre" src="/assets/SonyOpen/js/vendor/jquery.sharrre.min.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/overflowNav" src="/assets/SonyOpen/js/desktop/overflowNav.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/fixedNav" src="/assets/SonyOpen/js/desktop/fixedNav.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="desktop/formValidations" src="/assets/SonyOpen/js/desktop/formValidations.js?v=2"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="validate" src="/assets/SonyOpen/js/vendor/jquery.validate.min.js?v=2"></script></head><body style=""><img src="https://cs.yieldoptimizer.com/cs/c?a=1715&amp;cpid=951&amp;" width="1" height="1">
+
+
+
 	
-    
-    <header class="header" style="margin-top: 29px;">
-            <div class="header-sub">
+
+
+
+
+<header class="header" style="margin-top: 29px;">
+        <div class="header-sub">
         <div class="header-sub-weather" id="headerWeather">
-            <img src="/assets/SonyOpen/images/weather/113.png" alt="">72°Clear
+                <img src="/assets/SonyOpen/images/weather/116.png" alt="">68°Partly Cloudy
 
         </div>
         
+
         
 <!-- START : SLIDE SHARE -->
 <div class="slide-share">
@@ -92,7 +93,7 @@
 		<div class="facebook sharrre"><span class="icon-facebook"></span><span class="count">0</span></div>
 		<div class="twitter sharrre"></div>
 		<div class="mail">
-			<a href="mailto:?body=http://www.sonyopentennis.com/en/privacy-policy&amp;subject="><span class="icon-mail"></span></a>
+			<a href="mailto:?body=http://origin-www.miamiopen.com/en/privacy-policy&amp;subject="><span class="icon-mail"></span></a>
 		</div>
 		<div class="close">
 			<span class="icon-close"></span>
@@ -114,63 +115,256 @@ Share
 
 <div class="header-main">
 
-    <div class="header-main-title">
+	<div class="header-main-title">
         
-<div class="site-logo"><a href="/en">Sony Open</a></div>        <div class="site-date-location">Miami // March 17-30, 2014</div>
+<div class="site-logo"><a href="/en"><img src="/assets/SonyOpen/images/global/mia-head-logo.png" alt="Miami Open"></a></div>        <div class="site-date-location"> //March 23-April 5, 2015</div>
 
     </div>
     <div class="header-callout">
-            <a href="/en/tickets-and-packages/exchange-tickets" class="button ga-track-link" data-ga-category="Header Tickets" data-ga-action="Buy"><span class="button-inner"><b>Exchange</b> Tickets</span></a>
+	        <a href="/en/tickets-and-packages/packages" class="button ga-track-link" data-ga-category="Header Tickets" data-ga-action="Buy">
+		        <span class="button-inner">
+			        <b>Buy</b> Tickets
+		        </span>
+	        </a>
         
                 <span class="header-callout-sponsor">
-                    <a rel="nofollow" href="http://atpworldtour.com/" target="_blank"><img src="/~/media/sponsors/atp.ashx" alt="ATP"></a>
+                    <a rel="nofollow" href="http://atpworldtour.com/" target="_blank"><img src="/~/media/miami-open/images/atp.ashx" alt=""></a>
                 </span>
                 <span class="header-callout-sponsor">
-                    <a rel="nofollow" href="http://www.wtatennis.com" target="_blank"><img src="/~/media/sponsors/wta.ashx" alt="WTA"></a>
+                    <a rel="nofollow" href="http://www.wtatennis.com" target="_blank"><img src="/~/media/miami-open/images/wta.ashx" alt=""></a>
                 </span>
     </div>
 </div><nav class="site-navigation" id="siteNav">
 
-	<div class="site-logo-compact">
-		<a href="/"><img src="/assets/SonyOpen/images/global/sony-logo-compact.gif" alt="Sony Open Tennis"></a>
-	</div><!-- .site-logo-compact -->
+    <div class="site-logo-compact">
+        <a href="/"><img src="/assets/SonyOpen/images/global/miami-open-logo.png" alt="Miami Open Tennis"></a>
+    </div><!-- .site-logo-compact -->
 
-	<ul class="site-nav-list" id="siteNavList">
-		<li class="site-nav-item overflow"><a href="/en/visiting-the-open" id="visiting-the-open">Visiting The Open</a></li>
-		<!-- .site-nav-item -->
-		<li class="site-nav-item overflow"><a href="/en/schedule-and-events/schedule" id="schedule-and-events">Schedule &amp; Events</a></li>
-		<!-- .site-nav-item -->
-		<li class="site-nav-item overflow"><a href="/en/tickets-and-packages" id="tickets-and-packages">Tickets &amp; Packages</a></li>
-		<!-- .site-nav-item -->
-		<li class="site-nav-item overflow"><a href="/en/scores-and-results/matches-in-progress" id="scores-and-results">Scores &amp; Results</a></li>
-		<!-- .site-nav-item -->
-		<li class="site-nav-item overflow"><a href="/en/news-and-media" id="news-and-media">News and Media</a></li>
-		<!-- .site-nav-item -->
-		<li class="site-nav-item overflow"><a href="/en/players/player-list-static" id="players">Players</a></li>
-		<!-- .site-nav-item -->
-		<li class="site-nav-item overflow"><a href="/en/social-lounge" id="social-lounge">Social Lounge</a></li>
-		<!-- .site-nav-item -->
-				<li class="site-nav-item site-nav-more">
-			<a href="#" class="site-nav-item-more">More</a>
-			<ul class="site-sub-nav-list" id="siteSubNav"><li class="site-sub-nav-item overflow-item"><a href="/en/social-lounge" id="social-lounge">Social Lounge</a></li><li class="site-sub-nav-item overflow-item"><a href="/en/players/player-list-static" id="players">Players</a></li><li class="site-sub-nav-item overflow-item"><a href="/en/news-and-media" id="news-and-media">News and Media</a></li><li class="site-sub-nav-item overflow-item"><a href="/en/scores-and-results/matches-in-progress" id="scores-and-results">Scores &amp; Results</a></li><li class="site-sub-nav-item overflow-item"><a href="/en/tickets-and-packages" id="tickets-and-packages">Tickets &amp; Packages</a></li><li class="site-sub-nav-item overflow-item"><a href="/en/schedule-and-events/schedule" id="schedule-and-events">Schedule &amp; Events</a></li><li class="site-sub-nav-item overflow-item"><a href="/en/visiting-the-open" id="visiting-the-open">Visiting The Open</a></li>
-				<li class="site-sub-nav-item">
-					<a href="/en/the-open/history" id="the-open">The Open</a>
-				</li>
-				<li class="site-sub-nav-item">
-					<a href="http://www.campuscustoms.com/sony_open_tennis/" target="_blank" id="shop" class="ga-external-link">Shop<span class="icon-external"></span></a>
-				</li>
-				<li class="site-sub-nav-item">
-					<a href="/en/press/credentials" id="press">Press</a>
-				</li>
-				<li class="site-sub-nav-item">
-					<a href="/en/contact" id="Contact">Contact</a>
-				</li>
-			</ul>
-		</li>
-	</ul><!-- .site-nav-list -->
+    <ul class="site-nav-list" id="siteNavList">
+            <li class="site-nav-item dropdown overflow">
+                <a href="/en/visiting-the-open" id="visiting-the-open">Visiting The Open</a>
 
-	<div class="site-search" id="siteSearch">
-		
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/the-venue" id="the-venue">The Venue</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/where-to-stay" id="where-to-stay">Where To Stay</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/where-to-eat" id="where-to-eat">Where to Eat</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/where-to-park" id="where-to-park">Where to Park</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/getting-here" id="getting-here">Getting Here</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/preferred-airline" id="preferred-airline">Preferred Airline</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/prohibited-items" id="prohibited-items">Prohibited Items</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li>
+            <!-- .site-nav-item -->
+            <li class="site-nav-item dropdown overflow">
+                <a href="/en/schedule-and-events/schedule" id="schedule-and-events">Schedule &amp; Events</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/schedule-and-events/schedule" id="Schedule">Schedule</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/schedule-and-events/order-of-play" id="order-of-play">Order of Play</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/schedule-and-events/practice-schedule" id="practice-schedule">Practice Schedule</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/schedule-and-events/tv-schedule" id="tv-schedule">TV Schedule</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li>
+            <!-- .site-nav-item -->
+            <li class="site-nav-item dropdown overflow">
+                <a href="/en/tickets-and-packages" id="tickets-and-packages">Tickets &amp; Packages</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/daily-tickets" id="daily-tickets">Daily Tickets</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/packages" id="packages">Packages</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/vacation-packages" id="vacation-packages">Vacation Packages</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/vip-experiences" id="vip-experiences">VIP Experiences</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/policies" id="policies">Policies</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/faq" id="faq">FAQ</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/ticket-brochure" id="ticket-brochure">Ticket Brochure</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li>
+            <!-- .site-nav-item -->
+            <li class="site-nav-item dropdown overflow">
+                <a href="/en/scores-and-results/draws" id="scores-and-results">Scores &amp; Results</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/scores-and-results/draws" id="draws">Draws</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/scores-and-results/tournament-results" id="tournament-results">Tournament Results</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/scores-and-results/live-scores" id="live-scores">Live Scores</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li>
+            <!-- .site-nav-item -->
+            <li class="site-nav-item dropdown overflow">
+                <a href="/en/news-and-media" id="news-and-media">News and Media</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/news-and-media/news" id="news">News</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/news-and-media/photos" id="photos">Photos</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/news-and-media/videos" id="videos">Videos</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li>
+            <!-- .site-nav-item -->
+            <li class="site-nav-item dropdown overflow">
+                <a href="/en/social-lounge" id="social-lounge">Social Lounge</a>
+
+            </li>
+            <!-- .site-nav-item -->
+            <li class="site-nav-item dropdown overflow">
+                <a href="/en/the-open/history" id="the-open">The Open</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/the-open/crandon-park" id="crandon-park">Crandon Park</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/management-team" id="management-team">Management Team</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/past-champions-and-past-draws" id="past-champions-and-past-draws">Past Champions</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/prize-money" id="prize-money">Prize Money</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/records-and-stats" id="records-and-stats">Records and Stats</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/tournament-facts" id="tournament-facts">Tournament Facts</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li>
+            <!-- .site-nav-item -->
+                    <li class="site-nav-item site-nav-more">
+                <a href="#" class="site-nav-item-more">More</a>
+                <ul class="site-sub-nav-list" id="siteSubNav"><li class="site-sub-nav-item overflow-item">
+                <a href="/en/the-open/history" id="the-open">The Open</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/the-open/crandon-park" id="crandon-park">Crandon Park</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/management-team" id="management-team">Management Team</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/past-champions-and-past-draws" id="past-champions-and-past-draws">Past Champions</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/prize-money" id="prize-money">Prize Money</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/records-and-stats" id="records-and-stats">Records and Stats</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/the-open/tournament-facts" id="tournament-facts">Tournament Facts</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li><li class="site-sub-nav-item overflow-item">
+                <a href="/en/social-lounge" id="social-lounge">Social Lounge</a>
+
+            </li><li class="site-sub-nav-item overflow-item">
+                <a href="/en/news-and-media" id="news-and-media">News and Media</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/news-and-media/news" id="news">News</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/news-and-media/photos" id="photos">Photos</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/news-and-media/videos" id="videos">Videos</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li><li class="site-sub-nav-item overflow-item">
+                <a href="/en/scores-and-results/draws" id="scores-and-results">Scores &amp; Results</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/scores-and-results/draws" id="draws">Draws</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/scores-and-results/tournament-results" id="tournament-results">Tournament Results</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/scores-and-results/live-scores" id="live-scores">Live Scores</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li><li class="site-sub-nav-item overflow-item">
+                <a href="/en/tickets-and-packages" id="tickets-and-packages">Tickets &amp; Packages</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/daily-tickets" id="daily-tickets">Daily Tickets</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/packages" id="packages">Packages</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/vacation-packages" id="vacation-packages">Vacation Packages</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/vip-experiences" id="vip-experiences">VIP Experiences</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/policies" id="policies">Policies</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/faq" id="faq">FAQ</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/tickets-and-packages/ticket-brochure" id="ticket-brochure">Ticket Brochure</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li><li class="site-sub-nav-item overflow-item">
+                <a href="/en/schedule-and-events/schedule" id="schedule-and-events">Schedule &amp; Events</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/schedule-and-events/schedule" id="Schedule">Schedule</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/schedule-and-events/order-of-play" id="order-of-play">Order of Play</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/schedule-and-events/practice-schedule" id="practice-schedule">Practice Schedule</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/schedule-and-events/tv-schedule" id="tv-schedule">TV Schedule</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li><li class="site-sub-nav-item overflow-item">
+                <a href="/en/visiting-the-open" id="visiting-the-open">Visiting The Open</a>
+
+                    <ul class="site-sub-nav-list">
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/the-venue" id="the-venue">The Venue</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/where-to-stay" id="where-to-stay">Where To Stay</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/where-to-eat" id="where-to-eat">Where to Eat</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/where-to-park" id="where-to-park">Where to Park</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/getting-here" id="getting-here">Getting Here</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/preferred-airline" id="preferred-airline">Preferred Airline</a></li>
+                        <!-- .site-sub-nav-item -->
+                            <li class="site-sub-nav-item"><a href="/en/visiting-the-open/prohibited-items" id="prohibited-items">Prohibited Items</a></li>
+                        <!-- .site-sub-nav-item -->
+                    </ul>
+                    <!-- .site-sub-nav-list -->
+            </li>
+                        <li class="site-sub-nav-item">
+                            <a href="/en/press/credentials" id="press">Press</a>
+                        </li>
+                </ul>
+            </li>
+    </ul><!-- .site-nav-list -->
+
+    <div class="site-search" id="siteSearch">
+        
 <form method="GET" action="/en/search-results">
         <div class="site-search-display">
             <input name="q" id="q" class="site-search-input" placeholder="START TYPING TO SEARCH" type="text">
@@ -178,103 +372,73 @@ Share
         <button class="icon-search" id="searchBtn"></button>
 </form>
 
-	</div><!-- .site-search -->
+    </div><!-- .site-search -->
 
 </nav><!-- .site-navigation -->
 <!-- END : SITE NAVIGATION -->
-
-
-<!-- START : MATCHES IN PROGRESS -->
-<div class="matches-live-bar" id="matchesLiveBar">
-
-    <div class="matches-live-container">
-
-        <div class="content-w-gallery">
-
-            <div class="matches-live-header">
-                <h2 class="matches-live-title">Matches in Progress / <strong>Day 39</strong> / <strong>April 24</strong></h2>
-	            <a href="/en/scores-and-results/live-scores" class="view-more">Live Scores</a>
-				<a href="/en/scores-and-results/tournament-results" class="view-more">All Scores</a>
-            </div><!-- .matches-live-header -->
-
-            <div class="royalSlider matches-slider" id="matchesSlider">
-            </div>
-
-        </div><!-- .content-w-gallery -->
-
-		<a href="http://www.sonyopentennis.tennistv.com/" target="_blank" class="match-live-link"><img src="/Assets/SonyOpen/images/global/tennistv.jpg" alt="Tennis TV. Watch it live."></a>
-
-        <div class="clearfix"></div>
-
-    </div><!-- .matches-live-container -->
-
-    <div class="hide-show" id="hideShowBtn">
-        <span class="hide-show-text hide-show-show">Show Scores</span>
-        <span class="hide-show-text hide-show-hide">Hide Scores</span>
-    </div><!-- .hide-show -->
-
-</div><!-- .matches-live-bar -->
-<!-- END : MATCHES IN PROGRESS -->
-
-
-
-
-
-    </header>
-
-
-	
-
-
-
-
+</header>
 
 <div class="container main-content">
     
-
-    
-
     
 	<div class="section-header">
 			<h1 class="section-title">
 				Privacy Policy
 			</h1>
+
+<!-- START : SLIDE SHARE -->
+<div class="slide-share">
+	<div class="share-items">
+		<div class="facebook sharrre"><span class="icon-facebook"></span><span class="count">0</span></div>
+		<div class="twitter sharrre"></div>
+		<div class="mail">
+			<a href="mailto:?body=http://origin-www.miamiopen.com/en/privacy-policy&amp;subject="><span class="icon-mail"></span></a>
+		</div>
+		<div class="close">
+			<span class="icon-close"></span>
+		</div>
+	</div>
+    <div class="page-share">
+Share        
+        <span class="icon-share-alt"></span>
+    </div>
+</div>
 	</div>
     <!-- .section-header -->
 
 
+
+
+    
+
 <article class="article">
  
-	<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #666666;">Your privacy on the internet is of the utmost importance to us. Because we gather certain types of information about the users of this site, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy policy discloses the privacy practices for this site (“this site”) - what information we gather, how we use it and how to correct or change it. This privacy policy only addresses our activities from our servers. Other sites (including those to which this site links and third party sites or services with which IMG may have relationships) may have their own privacy policies and practices, which we do not control, and we are not responsible for nor we endorse such practices or policies.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">General Privacy Information</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">This site contains links to partners, advertisers and third party internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of this site and IMG has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such sites. Please keep in mind that whenever you voluntarily and publicly disclose personal information on any online service or website - for example through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Further, while we take reasonable steps to protect your personal information using the security and other measures set forth herein, IMG cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Collection and Use of Information</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">This site collects information about you both from what you tell us and what we collect through the use of cookies (see Cookies below). Information collected about you is used in two different ways. Information is "aggregated" -- meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. We may use this aggregated information to determine user traffic statistics for this site (including without limitation to determine browser usage, duration of stay, the referring URL, IP address geographical location, etc.) and to evaluate which products and services are successful and which ones are not, and in order to evaluate which new services we should make available on this site. We may use only the anonymous click stream data to help our advertisers deliver better-targeted advertisements. In addition, IMG may use personal information collected through cookies and registration pages to target e-commerce promotions and telemarketing activities for products and services related to IMG and/or its sponsors, advertisers and business partners. In addition, some of your personal information may be shared with third parties who assist IMG in producing its site or provide a service to this site's users.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Registration</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Anyone who participates in any interactive activities offered on this site may be asked to register for a free guest ID and password or to complete subscription registration for an ID and password. We use this contact information from this registration form to send the registrant information about IMG, IMG affiliates, IMG events and clients, and promotional material from some of our clients, sponsors, advertisers and business partners. Users may always opt-out of receiving any such information either by responding to the relevant communication as directed or by contacting this site (see Contacting the Site and Changing Your Personal Information below). Financial information that is collected may be used to bill the user for any products and services purchased from IMG. The registrant's contact information is also used to contact the user who has purchased good from this site when necessary for customer service reasons. Unique identifiers, such as ID and passwords, are collected to verify the user's identity and for use as account numbers in our record system.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Child Online Protection Act Notification</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Pursuant to 47 U.S.C. Section 230(d) as amended, IMG hereby notifies you that parental control provisions (such as computer hardware, software, or filtering services) are commercially available that may assist you in limiting access to material that is harmful to minors. Information identifying current providers of such protections is available at the Web Sites of the Electronic Frontier Foundation:&nbsp;<a href="http://www.eff.org/" style="margin: 0px; padding: 0px; outline: 0px; text-decoration: none; color: #23a8e0;">http://www.eff.org&nbsp;</a>and America Links Up:&nbsp;<a href="http://www.netparents.org/" style="margin: 0px; padding: 0px; outline: 0px; text-decoration: none; color: #23a8e0;">http://www.netparents.org&nbsp;</a>.&nbsp; To view information on our policy regarding the privacy of children under the age of 13, please see our privacy policy.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Children Under the Age of 13</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">This privacy notice describes our practice of collecting, using and disclosing any personal information collected by IMG from all visitors to the Site, therefore including visitors who are children under the age of 13. If you have any questions about this policy, you may contact us by e-mail at&nbsp;<a href="mailto:pgrooms@imgworld.com" style="margin: 0px; padding: 0px; outline: 0px; text-decoration: none; color: #23a8e0;">pgrooms@imgworld.com&nbsp;</a>, or in writing at Website Operator, IMG, IMG Center , Suite 100 , 1360 East 9th Street , Cleveland , OH 44114-1782 .</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">IMG collects personal information from those who access the site. The personal information collected by IMG is currently limited to each visitor's name and email address. No user is required to disclose more information than is reasonably necessary. Any collected information is for IMG's internal purposes only, and is not disclosed to third parties. Information may be used for marketing purposes, and/or to provide you with IMG information which we believe may be of interest to you. In order to receive such information, marketing and otherwise, it is necessary for you to establish an account with us.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">It is IMG's intent to adhere to the provisions of the Children's Online Protection and Privacy Act of 1998 (U.S.C. 6501 et seq.) ("COPPA"). No child who visits the site is required to provide any information in order to access most of the site. If you are under age 13, please have a parent or guardian establish your account on the site. For account registration on the site, we require your name and email address. IMG will not rent or sell children's personal identifiable information. IMG will not contact children under age 13 regarding special offers or for marketing purpose without parental/guardian consent. A parent/guardian may review his or her child's personal information, ask to have it deleted and/or refuse to allow any further collection or use of his or her child's information from the site. To do any of the foregoing, please contact the site's operator through one of the methods listed above.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Cookies</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. A cookie can't read data off your hard disk or read cookie files created by other sites. This random number lets us keep track of "how many" times customers are doing specific things - like visiting our site each month - without really knowing who those customers are. We use cookies to deliver content specific to your interests and to save your member ID. Additionally, after you've entered your member ID and password during a session on our service, we save that information so you don't have to reenter it repeatedly during that session. Users should be aware that this site cannot control the use of cookies or the resulting information placed by advertisers or third parties hosting data for this site. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies maybe necessary to provide the user with certain features (e.g., customized delivery of information) available on this site.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Newsletter</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">We may offer newsletters to share content information about this site with interested users. We use contact data from our newsletter subscriptions to send users the newsletter. On occasion we will email customers promotional material from some of our sponsors, advertisers or business partners. Users may cancel their free email subscriptions and other communications by following the simple instructions at the bottom of each newsletter or email.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Security</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">This site utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in this site's secure database, which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in this site's databases as stated above.</p>
-<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px; line-height: 16px; color: #666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;">Copyright © IMG Worldwide, Inc. All rights reserved. 2010.</p>
+	<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; font-size: 12px; font-family: Verdana,Arial,Helvetica,sans-serif; color: #666666;">Your privacy on the internet is of the utmost importance to us. Because we gather certain types of information about the users of this site, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy policy discloses the privacy practices for this site (“this site”) - what information we gather, how we use it and how to correct or change it. This privacy policy only addresses our activities from our servers. Other sites (including those to which this site links and third party sites or services with which IMG may have relationships) may have their own privacy policies and practices, which we do not control, and we are not responsible for nor we endorse such practices or policies.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">General Privacy Information</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">This site contains links to partners, advertisers and third party internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of this site and IMG has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such sites. Please keep in mind that whenever you voluntarily and publicly disclose personal information on any online service or website - for example through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Further, while we take reasonable steps to protect your personal information using the security and other measures set forth herein, IMG cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Collection and Use of Information</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">This site collects information about you both from what you tell us and what we collect through the use of cookies (see Cookies below). Information collected about you is used in two different ways. Information is "aggregated" -- meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. We may use this aggregated information to determine user traffic statistics for this site (including without limitation to determine browser usage, duration of stay, the referring URL, IP address geographical location, etc.) and to evaluate which products and services are successful and which ones are not, and in order to evaluate which new services we should make available on this site. We may use only the anonymous click stream data to help our advertisers deliver better-targeted advertisements. In addition, IMG may use personal information collected through cookies and registration pages to target e-commerce promotions and telemarketing activities for products and services related to IMG and/or its sponsors, advertisers and business partners. In addition, some of your personal information may be shared with third parties who assist IMG in producing its site or provide a service to this site's users.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Registration</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Anyone who participates in any interactive activities offered on this site may be asked to register for a free guest ID and password or to complete subscription registration for an ID and password. We use this contact information from this registration form to send the registrant information about IMG, IMG affiliates, IMG events and clients, and promotional material from some of our clients, sponsors, advertisers and business partners. Users may always opt-out of receiving any such information either by responding to the relevant communication as directed or by contacting this site (see Contacting the Site and Changing Your Personal Information below). Financial information that is collected may be used to bill the user for any products and services purchased from IMG. The registrant's contact information is also used to contact the user who has purchased good from this site when necessary for customer service reasons. Unique identifiers, such as ID and passwords, are collected to verify the user's identity and for use as account numbers in our record system.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Child Online Protection Act Notification</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Pursuant to 47 U.S.C. Section 230(d) as amended, IMG hereby notifies you that parental control provisions (such as computer hardware, software, or filtering services) are commercially available that may assist you in limiting access to material that is harmful to minors. Information identifying current providers of such protections is available at the Web Sites of the Electronic Frontier Foundation:&nbsp;<a href="http://www.eff.org/" style="margin: 0px; padding: 0px; outline: 0px none; text-decoration: none; color: #23a8e0;">http://www.eff.org&nbsp;</a>and America Links Up:&nbsp;<a href="http://www.netparents.org/" style="margin: 0px; padding: 0px; outline: 0px none; text-decoration: none; color: #23a8e0;">http://www.netparents.org&nbsp;</a>.&nbsp; To view information on our policy regarding the privacy of children under the age of 13, please see our privacy policy.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Children Under the Age of 13</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">This privacy notice describes our practice of collecting, using and disclosing any personal information collected by IMG from all visitors to the Site, therefore including visitors who are children under the age of 13. If you have any questions about this policy, you may contact us by e-mail at&nbsp;<a href="mailto:pgrooms@imgworld.com" style="margin: 0px; padding: 0px; outline: 0px none; text-decoration: none; color: #23a8e0;">pgrooms@imgworld.com&nbsp;</a>, or in writing at Website Operator, IMG, IMG Center , Suite 100 , 1360 East 9th Street , Cleveland , OH 44114-1782 .</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">IMG collects personal information from those who access the site. The personal information collected by IMG is currently limited to each visitor's name and email address. No user is required to disclose more information than is reasonably necessary. Any collected information is for IMG's internal purposes only, and is not disclosed to third parties. Information may be used for marketing purposes, and/or to provide you with IMG information which we believe may be of interest to you. In order to receive such information, marketing and otherwise, it is necessary for you to establish an account with us.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">It is IMG's intent to adhere to the provisions of the Children's Online Protection and Privacy Act of 1998 (U.S.C. 6501 et seq.) ("COPPA"). No child who visits the site is required to provide any information in order to access most of the site. If you are under age 13, please have a parent or guardian establish your account on the site. For account registration on the site, we require your name and email address. IMG will not rent or sell children's personal identifiable information. IMG will not contact children under age 13 regarding special offers or for marketing purpose without parental/guardian consent. A parent/guardian may review his or her child's personal information, ask to have it deleted and/or refuse to allow any further collection or use of his or her child's information from the site. To do any of the foregoing, please contact the site's operator through one of the methods listed above.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Cookies</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. A cookie can't read data off your hard disk or read cookie files created by other sites. This random number lets us keep track of "how many" times customers are doing specific things - like visiting our site each month - without really knowing who those customers are. We use cookies to deliver content specific to your interests and to save your member ID. Additionally, after you've entered your member ID and password during a session on our service, we save that information so you don't have to reenter it repeatedly during that session. Users should be aware that this site cannot control the use of cookies or the resulting information placed by advertisers or third parties hosting data for this site. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies maybe necessary to provide the user with certain features (e.g., customized delivery of information) available on this site.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Newsletter</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">We may offer newsletters to share content information about this site with interested users. We use contact data from our newsletter subscriptions to send users the newsletter. On occasion we will email customers promotional material from some of our sponsors, advertisers or business partners. Users may cancel their free email subscriptions and other communications by following the simple instructions at the bottom of each newsletter or email.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Security</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">This site utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in this site's secure database, which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in this site's databases as stated above.</p>
+<p style="margin: 0px 0px 1em; padding: 0px; outline: 0px none; line-height: 16px; color: #666666; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px;">Copyright © IMG Worldwide, Inc. All rights reserved. 2010.</p>
 
 </article>
 </div>
-
-
-	
-
 <!-- START : FOOTER -->
 <footer class="footer" id="footer">
-    <div class="site-wide-ad">
+	<div class="site-wide-ad">
 	    
     </div><!-- .site-wide-ad -->
     <div class="callouts">
@@ -284,7 +448,7 @@ Share
 <div class="callout-item">
     
     <a href="/en/visiting-the-open/getting-here" class="callout-item-thumb">
-        <img src="/~/media/images/callouts/300x169_sony_open.ashx?h=169&amp;w=300" alt="Sony Open" width="300" height="169">
+        <img src="/~/media/miami-open/images/callouts/drivingandparking2.ashx?h=169&amp;la=en&amp;w=300" alt="Key Biscayne" width="300" height="169">
     </a><!-- .callout-item-thumb -->
     <h2 class="callout-item-section">Driving and Parking</h2>
     <h3 class="callout-item-title">
@@ -295,7 +459,7 @@ Share
 <div class="callout-item">
     
     <a href="/en/visiting-the-open" class="callout-item-thumb">
-        <img src="/~/media/images/callouts/300x169_sunset.ashx?h=169&amp;w=300" alt="Miami Sunset" width="300" height="169">
+        <img src="/~/media/miami-open/images/callouts/300x169_sunset.ashx?h=169&amp;la=en&amp;w=300" alt="Miami Sunset" width="300" height="169">
     </a><!-- .callout-item-thumb -->
     <h2 class="callout-item-section">Visiting The Open</h2>
     <h3 class="callout-item-title">
@@ -305,12 +469,12 @@ Share
 
 <div class="callout-item">
     
-    <a href="/en/tickets-and-packages/vip-experiences/2014/mc-priceless-experiences" class="callout-item-thumb">
-        <img src="/~/media/images/callouts/300x169_stadium_audience.ashx?h=169&amp;w=300" alt="Stadium Audience" width="300" height="169">
+    <a href="/en/tickets-and-packages/vip-experiences/2014/collectors-club" class="callout-item-thumb">
+        <img src="/~/media/miami-open/images/callouts/300x169_stadium_audience.ashx?h=169&amp;la=en&amp;w=300" alt="Stadium Audience" width="300" height="169">
     </a><!-- .callout-item-thumb -->
-    <h2 class="callout-item-section">Special Events</h2>
+    <h2 class="callout-item-section">VIP Experiences</h2>
     <h3 class="callout-item-title">
-        <a href="/en/tickets-and-packages/vip-experiences/2014/mc-priceless-experiences"><p>MasterCard Priceless Experiences Available Now</p></a>
+        <a href="/en/tickets-and-packages/vip-experiences/2014/collectors-club"><p>Premium access to the Collector's Club available now</p></a>
     </h3><!-- .callout-item-title -->
 </div><!-- .callout-item -->
 	<div class="clearfix"></div>
@@ -319,15 +483,15 @@ Share
     <div class="promos">
 
     <a href="/en/tickets-and-packages/vacation-packages" class="promo-item  ">
-        <img src="/~/media/images/300-x-100-internal-ads/300-x-100-book-online.ashx?h=100&amp;w=300" alt="" width="300" height="100">
+        <img src="/~/media/miami-open/images/300-x-100-internal-ads/300-x-100-book-online-v2.ashx?h=100&amp;la=en&amp;w=300" alt="" width="300" height="100">
     </a>
 
-    <a href="/en/mobile-app" class="promo-item  ">
-        <img src="/~/media/images/300-x-100-internal-ads/300-x-100-download-app.ashx?h=100&amp;w=300" alt="" width="300" height="100">
+    <a href="/en/visiting-the-open/getting-here/rental-cars" class="promo-item  ">
+        <img src="/~/media/miami-open/images/300-x-100-internal-ads/300-x-100-rent-car-v2.ashx?h=100&amp;la=en&amp;w=300" alt="" width="300" height="100">
     </a>
 
     <a href="/en/social-lounge" class="promo-item  ">
-        <img src="/~/media/images/300-x-100-internal-ads/300-x-100-social-lounge.ashx?h=100&amp;w=300" alt="Social Lounge" width="300" height="100">
+        <img src="/~/media/miami-open/images/300-x-100-internal-ads/300-x-100-social-lounge-v2.ashx?h=100&amp;la=en&amp;w=300" alt="" width="300" height="100">
     </a>
 
 	    <div class="clearfix"></div>
@@ -340,19 +504,19 @@ Share
             <h4 class="connect-title">Connect with us</h4>
 	    <ul class="connect-social">
                 <li class="connect-social-item">
-                    <a href="https://www.facebook.com/SonyOpenTennis" class="icon-facebook" target="_blank" rel="nofollow"></a>
+                    <a href="https://www.facebook.com/MiamiOpenTennis" class="icon-facebook" target="_blank" rel="nofollow"></a>
                 </li>
                 <li class="connect-social-item">
-                    <a href="https://twitter.com/sonyopentennis" class="icon-twitter" target="_blank" rel="nofollow"></a>
+                    <a href="https://twitter.com/miamiOpenTennis" class="icon-twitter" target="_blank" rel="nofollow"></a>
                 </li>
                 <li class="connect-social-item">
-                    <a href="http://www.youtube.com/user/SonyOpenTennis" class="icon-youtube" target="_blank" rel="nofollow"></a>
+                    <a href="http://www.youtube.com/user/MiamiOpenTennis" class="icon-youtube" target="_blank" rel="nofollow"></a>
                 </li>
                 <li class="connect-social-item">
                     <a href="http://www.pinterest.com/sonyopentennis/" class="icon-pinterest" target="_blank" rel="nofollow"></a>
                 </li>
                 <li class="connect-social-item">
-                    <a href="http://instagram.com/sonyopentennis" class="icon-instagram" target="_blank" rel="nofollow"></a>
+                    <a href="http://instagram.com/miamiopentennis" class="icon-instagram" target="_blank" rel="nofollow"></a>
                 </li>
 	        
 	    </ul>
@@ -372,7 +536,7 @@ Share
         <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/sponsors" id="sponsors" class="ga-track-link">Sponsors</a>
         </li>
         <li class="footer-links-item">
-        <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/sponsors/sponshorship-opportunities" id="sponsorship-opportunities" class="ga-track-link">Sponsorship Oportunities</a>
+        <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/sponsors/sponsorship-opportunities" id="sponsorship-opportunities" class="ga-track-link">Sponsorship Opportunities</a>
         </li>
     </ul><!-- .footer-links -->
     <ul class="footer-links">
@@ -391,6 +555,9 @@ Share
         <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/contact" id="contact" class="ga-track-link">Contact</a>
         </li>
         <li class="footer-links-item">
+        <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/mobile-app" id="mobile-app" class="ga-track-link">Mobile App</a>
+        </li>
+        <li class="footer-links-item">
         <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/newsletter" id="newsletter-signup" class="ga-track-link">Newsletter Signup</a>
         </li>
         <li class="footer-links-item">
@@ -400,7 +567,7 @@ Share
 
 
           <div class="footer-sponsors">
-<a rel="nofollow" href="http://www.sonymobile.com/us/" target="_blank"><img src="/~/media/images/sponsor-logos/new-sponsor-logos/footer_logo_sony_white.ashx" alt="Sony Logo"></a><a rel="nofollow" href="http://img.com/home.aspx" target="_blank"><img src="/~/media/images/sponsor-logos/new-sponsor-logos/img_footer.ashx" alt="IMG"></a>            </div>
+<a rel="nofollow" href="http://img.com/home.aspx" target="_blank"><img src="/~/media/miami-open/images/sponsor-logos/new-sponsor-logos/img_footer.ashx" alt="IMG"></a>            </div>
 
 		<div class="clearfix"></div>
 
@@ -411,9 +578,10 @@ Share
 
 		<!-- Site Copyright Links -->
 		<nav class="copyright-links">
-			<span class="copyright-text"><p>Copyright © Sony Open Tennis 2013-2014. All Rights Reserved.</p></span>
+			<span class="copyright-text"><p>Copyright © Miami Open 2013-2014. All Rights Reserved.</p></span>
 			<a href="/en/terms-and-conditions">Terms and Conditions</a>
 			<a href="/en/privacy-policy">Privacy Policy</a>
+            <a href="https://plus.google.com/107303649435564092605" rel="publisher">Google+</a>
 		</nav><!-- .copyright-links -->
 
 		<!-- Site By Lightmaker -->
@@ -427,90 +595,13 @@ Share
 
 </footer><!-- .footer -->
 <!-- END : FOOTER -->
-	
-	
+
+<script type="text/javascript" data-main="/assets/SonyOpen/js/desktop.min" src="/assets/SonyOpen/js/vendor/require.min.js"></script>
+
+
+    <div align="center" style="margin: 0px; position: absolute; top: 0; width: 100%; min-width: 1024px;"><script id="ptn-banner" type="text/javascript" src="http://www.atpworldtour.com/share/PTN-banner.aspx"></script></div>
 
 	
-        <div align="center" style="margin: 0px; position: absolute; top: 0; width: 100%; min-width: 1024px;"><script id="ptn-banner" type="text/javascript" src="http://www.atpworldtour.com/share/PTN-banner.aspx"></script></div>
-
-	<script type="text/template" class="liveScore">
-		<% var matchData = ls.MatchData %>
-         <div id="live-scores-<%= ls.Id %>" class="round">
-             <table>
-                 <thead>
-                     <!-- Only on Matches in Progress -->
-                     <tr>
-                         <th colspan="5"><%- ls.MatchType %> - <%- ls.Stadium %> - Round <%- matchData.RoundId %></th>
-                     </tr>
-                 </thead>
-                 <tbody>
-                     <tr>
-                         <td class="round-name">
-                             <a href="<%- ls.TeamAPlayer1Link %>" target="_blank"><%-ls.TeamAPlayer1Name %></a>
-                             <% if (ls.TeamAPlayer2Name != '') { %>
-                             / <a href="<%- ls.TeamAPlayer2Link %>" target="_blank"><%-ls.TeamAPlayer2Name %></a>
-                             <% } %>
-                             <span class="teamAIsServing <% if (ls.TeamAIsServing) { %>icon-tennis_ball_icon<% } %>"></span>
-                             <span class="teamAIsWinner <% if (ls.TeamAIsWinner) { %>icon-win<% } %>"></span>
-                         </td>
-                         <td class="round-end teamAPoints"><%- matchData.TeamAPoints %></td>
-                         <td class="teamASet1"><% if (matchData.TeamASet1Games !== '') { %><%= matchData.TeamASet1Games %><% } else { %>&nbsp;<% } %></td>
-                         <td class="teamASet2"><% if (matchData.TeamASet2Games !== '') { %><%= matchData.TeamASet2Games %><% } else { %>&nbsp;<% } %></td>
-                         <td class="teamASet3"><% if (matchData.TeamASet3Games !== '') { %><%= matchData.TeamASet3Games %><% } else { %>&nbsp;<% } %></td>
-                     </tr>
-                     <tr>
-                         <td class="round-name">
-                             <a href="<%- ls.TeamBPlayer1Link %>" target="_blank"><%-ls.TeamBPlayer1Name %></a>
-                             <% if (ls.TeamBPlayer2Name != '') { %>
-                             / <a href="<%- ls.TeamBPlayer2Link %>" target="_blank"><%-ls.TeamBPlayer2Name %></a>
-                             <% } %>
-                             <span class="teamBIsServing <% if (ls.TeamBIsServing) { %>icon-tennis_ball_icon<% } %>"></span>
-                             <span class="teamBIsWinner <% if (ls.TeamBIsWinner) { %>icon-win<% } %>"></span>
-                         </td>
-                         <td class="round-end teamBPoints"><%- matchData.TeamBPoints %></td>
-                         <td class="teamBSet1"><% if (matchData.TeamBSet1Games !== '') { %><%= matchData.TeamBSet1Games %><% } else { %>&nbsp;<% } %></td>
-                         <td class="teamBSet2"><% if (matchData.TeamBSet2Games !== '') { %><%= matchData.TeamBSet2Games %><% } else { %>&nbsp;<% } %></td>
-                         <td class="teamBSet3"><% if (matchData.TeamBSet3Games !== '') { %><%= matchData.TeamBSet3Games %><% } else { %>&nbsp;<% } %></td>
-                     </tr>
-                     <tr class="round-updates">
-                         <td class="round-name"><span class="round-name-text message"><%- ls.Message %></span></td>
-                         <td class="round-end"></td>
-                         <td colspan="3" class="matchTime"><%- matchData.MatchTime %></td>
-                     </tr><!-- .round-updates -->
-                 </tbody>
-             </table>
-         </div><!-- .round -->
-
-	</script>
-<script>
- 		require(["desktop.min"], function() {
- 		    require(["desktop/liveScores", "desktop/collections/live-scores"], function (liveScoresView) {
-
- 				var collectionInitialized = false;
- 				if (!App.Global.Collections.LiveScores) {
- 					App.Global.Collections.LiveScores = new App.Collections.LiveScoresCollection(null, {
- 						tournamentId: '9a9a789d-ecd4-4508-95ca-5f0f74d321e6'
- 					});
- 					collectionInitialized = true;
- 				}
-
- 		        var lsv = new liveScoresView({
- 					el: '#matchesLiveBar',
- 					collection: App.Global.Collections.LiveScores
- 				});
-
- 				if (collectionInitialized) {
- 					App.Global.Collections.LiveScores.fetch({ reset: true });
-
- 					setInterval(function() {
- 						App.Global.Collections.LiveScores.fetch({ remove: false });
- 					}, 10000);
- 				}
- 			});
- 		});
- 	</script>
 
 
-
-
-<script src="https://js-agent.newrelic.com/nr-400.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
