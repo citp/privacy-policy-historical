@@ -1,5 +1,5 @@
-> *The following text is extracted and transformed from the heforshe.org privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611211424id_/http%3A//www.unwomen.org/en/about-the-website/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heforshe.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202182858id_/http%3A//www.unwomen.org/en/about-the-website/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | UN Women - Headquarters
+# About the website: Privacy notice | UN Women – Headquarters
 
 By accessing this Site, certain information about the User, such as Internet protocol (IP) addresses, navigation through the Site, the software used and the time spent, along with other similar information, will be stored on United Nations and web analytics servers. This information will not specifically identify the User. The information will be used internally only for website traffic analysis. If the User provides unique identifying information, such as name, address and other information on forms stored on this Site, such information will be used only for statistical purposes and will not be published for general access. The United Nations, however, assumes no responsibility for the security of this information. 
