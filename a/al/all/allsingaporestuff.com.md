@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allsingaporestuff.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208002010id_/http%3A//www.allsingaporestuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsingaporestuff.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202085956id_/http%3A//www.allsingaporestuff.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All Singapore Stuff
+# Privacy Policy | All Singapore Stuff (ASS)
 
 By using our site, you consent to our Privacy Policy and Terms and Conditions, together the Website Conditions. If you do not consent to these conditions, please leave the site and cease use of the website and related services immediately.
 
@@ -72,4 +72,4 @@ For the purpose of this Policy, “we” and “our” shall refer to AllSingapo
 
 6\. Contacting Us
 
-6.1 If you have any problems or questions regarding this privacy policy, all enquiries may be directed to AllSingaporeStuff.com Admin Team: ASSEditor1 [at] gmail.com
+6.1 If you have any problems or questions regarding this privacy policy, all enquiries may be directed to AllSingaporeStuff.com Admin Team by clicking on "Contact Us".
