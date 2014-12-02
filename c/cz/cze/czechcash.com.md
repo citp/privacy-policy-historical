@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the czechcash.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326073517id_/http%3A//nats.czechcash.com/external.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the czechcash.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202232544id_/http%3A//nats.czechcash.com/external.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # CzechCASH
 
@@ -6,7 +6,7 @@ CZECHCASH affiliate program gives you an unbeatable opportunity to earn 50% comm
 
 ## 
 
-  * 24 original, exclusive sites
+  * 28 original, exclusive sites
   * Beautiful czech amateurs
   * High-converting sites to promote
   * Payouts by wire and check through CCBill
