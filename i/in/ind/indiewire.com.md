@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiewire.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213140id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiewire.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202040148id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.*
 
-# Privacy|Filmmakers,Film Industry, Film Festivals, Awards & Movie Reviews | Indiewire
+# Privacy | Indiewire
 
 **Indiewire Privacy Statement**
 
