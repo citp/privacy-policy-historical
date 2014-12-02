@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120544id_/http%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202043808id_/https%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## We take your privacy seriously; please read the following to learn more about our privacy policy:
 
-  1. [General information](http://www.gavick.com/privacy-policy.html#1)
-  2. [Safe and secure online purchases](http://www.gavick.com/privacy-policy.html#2)
-  3. [Information collection and use](http://www.gavick.com/privacy-policy.html#3)
-  4. [Changing / updating personal data](http://www.gavick.com/privacy-policy.html#4)
-  5. [Protection of personal information](http://www.gavick.com/privacy-policy.html#5)
-  6. [Consent to disclose data](http://www.gavick.com/privacy-policy.html#6)
-  7. [Contact information](http://www.gavick.com/privacy-policy.html#7)
+  1. [General information](https://www.gavick.com/privacy-policy.html#1)
+  2. [Safe and secure online purchases](https://www.gavick.com/privacy-policy.html#2)
+  3. [Information collection and use](https://www.gavick.com/privacy-policy.html#3)
+  4. [Changing / updating personal data](https://www.gavick.com/privacy-policy.html#4)
+  5. [Protection of personal information](https://www.gavick.com/privacy-policy.html#5)
+  6. [Consent to disclose data](https://www.gavick.com/privacy-policy.html#6)
+  7. [Contact information](https://www.gavick.com/privacy-policy.html#7)
 
 
 
@@ -52,7 +52,7 @@ Please note that there may be legal or official situations where it is necessary
 
 Please do not hesitate to contact us at:
     GavickPro
-    ul. Kraszewskiego 1
+    ul. Czarny Potok 11/56
     33-380 Krynica Zdroj
     Poland
     Phone: (0048) 535 79 19 04
