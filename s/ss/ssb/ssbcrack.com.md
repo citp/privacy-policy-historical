@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssbcrack.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327190146id_/http%3A//www.ssbcrack.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssbcrack.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202013622id_/http%3A//www.ssbcrack.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SSB Interview Tips & Coaching | SSBCrack
 
