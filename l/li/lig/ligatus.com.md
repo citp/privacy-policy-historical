@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ligatus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121018id_/http%3A//www.ligatus.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ligatus.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202125405id_/http%3A//www.ligatus.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Ligatus Privacy Policy
 
 ## Ligatus takes the protection of your personal data very seriously. We would like to inform you about the data we collect and how or when we use it.   
 
 
-We have taken technical and organizational measures to ensure that the rules on data protection are observed by us and by external service providers. In the course of developing our website and implementing new technologies to improve our service to you, changes to this privacy policy may be necessary. Therefore, we recommend that you read this Privacy Policy from time to time. [Here you can find a separate privacy policy for Ligatus Retargeting](http://www.ligatus.de/de/datenschutz/datenschutz-ligatus-retargeting.html).
+We have taken technical and organizational measures to ensure that the rules on data protection are observed by us and by external service providers. In the course of developing our website and implementing new technologies to improve our service to you, changes to this privacy policy may be necessary. Therefore, we recommend that you read this Privacy Policy from time to time. [Here you can find a separate privacy policy for Ligatus Retargeting](http://www.ligatus.com/en/privacy-policy/retargeting-privacy-policy.html).
 
 ### 1\. Personal Data
 
