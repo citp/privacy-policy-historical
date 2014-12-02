@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115052id_/http%3A//www.firstgreatwestern.co.uk/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202081554id_/https%3A//www.firstgreatwestern.co.uk/Privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - First Great Western
 
