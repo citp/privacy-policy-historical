@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianmotorcycle.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601022238id_/http%3A//www.polaris.com/en-us/Company/Privacy/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmotorcycle.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202023543id_/http%3A//www.polaris.com/en-us/Company/Privacy/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Polaris ATV, Snowmobiles, RANGER, Victory
 
