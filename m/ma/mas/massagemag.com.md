@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the massagemag.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624014518id_/http%3A//www.massagemag.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagemag.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202051404id_/http%3A//www.massagemag.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – MASSAGE Magazine
+# Privacy Statement - MASSAGE Magazine
 
 #### What information do we collect?
 
