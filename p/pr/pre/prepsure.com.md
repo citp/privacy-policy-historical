@@ -1,100 +1,210 @@
-> *The following text is extracted and transformed from the prepsure.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepsure.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202145202id_/http%3A//www.prepsure.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Prepsure.com
 
-**Go Daddy Respects Your Privacy**
+The Company and its subsidiaries respect your privacy. This Privacy Policy lists the manner your data is collected and used by the site/service, and you are requested to read it carefully. By accessing the services provided by the site service india.com, You agree to the collection and use of your data by the site/service india.com in the manner provided in this Privacy Policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by the Company and the site/service india.com or to the people that are not engaged, employed or managed by the Company the site/service india.com.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We want you to:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  * feel comfortable using our web sites
+  * feel secure submitting information to us
+  * contact us with your questions or concerns about privacy on this site
+  * know that by using our sites you are consenting to the collection of certain data
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+## WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from “cookies,” sent to your browser from:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  * web server cookie stored on your hard drive
+  * an IP address, assigned to the computer which you use
+  * the domain server through which you access our service
+  * the type of computer you’re using
+  * the type of web browser you’re using
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may collect the following personally identifiable information about you:
 
-**Security**
+  * name including first and last name
+  * alternate email address
+  * mobile phone number and contact details
+  * ZIP/Postal code
+  * demographic profile (like your age, gender, occupation, education, address and durables owned);
+  * preferences and interests (such as news, sports, travel and so on);
+  * financial information (like account or credit card numbers); and
+  * opinions of features on our websites.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We may also collect the following information:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * about the pages you visit/access
+  * the links you click on our site
+  * the number of times you access the page You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+## WHO COLLECTS THE INFORMATION?
 
-**Sending Emails**
+We will collect anonymous traffic information from you when you visit our site.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We collect the personally identifiable information from you when you register with us. During registration you are required to give us your contact information (such as name, email address, date of birth, gender, address, pin code, cell number, occupation and interests). Upon registration users may receive communications from india.com (e.g. newsletters, updates)
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We use this information to contact you about the services you are using on our site and services in which you have expressed interest.
 
-**Compliance with Laws and Law Enforcement**
+You have the option to provide demographic information (such as occupation, education and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date, CVV verification, Name on card, billing address etc.).
 
-**Third Party Service Providers**
+We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. india.com does store this information and the information is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof.
 
-**Supplementation of Information**
+Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.
 
-**Contests/Surveys**
+We make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We are the sole owners of your information collected by us at several different points on our Website.
 
-**Tell-A-Friend**
+## HOW IS THE INFORMATION USED?
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We use your email address to send you:
 
-**What Happens to my Personal Information if I Opt Out?**
+  * Password reminder and registration confirmation
+  * Special offers
+  * News letters
+  * Changes in the service’s policy or terms of use
+  * Event based communications such as order information, renewal notices, invites, reminders etc.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Note: We send users newsletters and updates upon registration. We send newsletters and/or promotional emails on behalf of our alliance partners.
 
-**Changes in Our Practices**
+We use your personal information to:
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+  * help us provide personalized features
+  * tailor our sites to your interest
+  * to get in touch with you in the case of password retrieval and policy changes
+  * to provide the services requested by you
+  * to preserve social history as governed by existing law or policy
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We use contact information internally to:
 
-* * *
+  * direct our efforts for product improvement
+  * contact you as a survey respondent
+  * notify you if you win any contest; and
+  * send you promotional materials from our contest sponsors or advertisers
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+
+
+Generally, we use anonymous traffic information to:
+
+  * remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective;
+  * recognize your access privileges to our Web sites
+  * track your entries in some of our promotions, sweepstakes and contests to indicate a player’s progress through the promotion and to track entries, submissions, and status in prize drawings
+  * make sure that you don’t see the same ad repeatedly
+  * help diagnose problems with our server
+  * administer our Web sites
+  * track your session so that we can understand better how people use our sites
+
+
+
+## WITH WHOM WILL YOUR INFORMATION BE SHARED?
+
+We will not use your financial information for any purpose other than to complete a transaction with you.  
+We do not share or rent your email addresses with third parties except our agents and alliance partners.AGENTS
+
+We use the services of our enabling partners such as outside shipping companies, resellers, business associates to fulfill orders, and credit card processing companies to process the payment for goods and services ordered from india.com website. These entities do not retain, store, share or use personally identifiable information for any other purposes.ALLIANCE PARTNERS
+
+We will share your information with our Alliance Partners who work with us or on our behalf to help provide you the services. An alliance partner is a company or an individual who owns and manages (wholly or part of) online content on their websites powered by india.com.
+
+We share email addresses email addresses with Agents and Alliance Partners. The Agents and Alliance Partners use the email address to confirm the deliveries, send notices and offer services related to the service.
+
+We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
+
+  * we have your permission
+  * to provide products or services you’ve requested
+  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of india.com terms of use or to defend against legal claims;
+  * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
+
+
+
+We reserve the right to disclose your personally identifiable and email address information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+We share your information with advertisers on an aggregate basis only.
+
+The security of your personal information and email address is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <http://www.verisign.com/ssl/index.html>. We follow generally accepted industry standards to protect the personal information and email address submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can send email us at [support@india.com](mailto:support@india.com)
+
+## WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?
+
+Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
+
+You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. india.com reserves the right to send you certain service related communication, considered to be a part of your india.com account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@india.com](mailto:support@india.com).
+
+We provide you the opportunity to ‘opt-out’ of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference, follow the instructions included in each newsletter or communication or by emailing us at [support@india.com](mailto:support@india.com).
+
+Upon request, we will remove/block your personally identifiable information from our database, thereby cancelling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
+
+If your personally identifiable information or email address change, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page, or by emailing our Customer Support at [support@india.com](mailto:support@india.com) or by contacting us by telephone or postal mail at the contact information listed below.
+
+If your personally identifiable information or email address changes, or if you no longer desire our service, you may correct, update or deactivate it by making the change on our member information page or by emailing our Customer Support at [support@india.com](mailto:support@india.com) or by contacting us by telephone or postal mail at the contact information listed below.
+
+If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
+
+You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to <http://www.cookiecentral.com/faq/>
+
+COOKIES
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier and secured for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. Reference for cookies can be found a <http://www.cookiecentral.com/>.
+
+We use session cookies to store the secure session and browsing preferences of the user. We set a persistent cookie to store your username and interests so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. Cookies are used in shopping cart to enable enhanced security and ensuring there is no URL based spamming.
+
+Some of our business partners (e.g., advertisers) set cookies while delivering banners on our site. We have no access to or control over these cookies.
+
+This privacy statement covers the use of cookies by [india.com](http://www.india.com/) only and does not cover the use of cookies by any advertisers.
+
+We do use cookies on point of collection pages of email address but we do not use them in emails.
+
+india.com cookies are not being tied to PII.
+
+SECURITY PROCEDURES IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION
+
+To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
+
+Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
+
+We follow generally accepted industry standards to protect the personal information and email addresses submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
+
+POLICY UPDATES
+
+We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon to this site.
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage.
+
+If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we decide to change our email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+India Webportal Private Limited  
+JV – PMC and Zee Entertainment Enterprises Ltd  
+8th floor, Vishwaroop IT Park,Opp. Vashi Railway Station, Sector 30A, Vashi,  
+Navi Mumbai-400703, Maharashtra, India  
+Main Vashi Office: +91-22-41151660
