@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babes.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501161205id_/http%3A//www.babes.com/assets/policy/pp.php%3Fsite%3Dbb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babes.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202024237id_/http%3A//www.babes.com/policy/pp.php%3Fsite%3Dbb) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -38,7 +38,7 @@ Whenever applicable, each subscriber should seek to read the privacy policy of a
 
 All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals. 
 
-A subscriber�s IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites. 
+A subscriber's IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites. 
 
 ## SECURITY OF INFORMATION COLLECTED BY THE SITE
 
@@ -56,13 +56,13 @@ Subscribers e-mail address may be used by the site to communicate special offers
 
 ## "OPT-IN" & "OPT-OUT" PROVISIONS 
 
-"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriber�s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
+"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
 
 "OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
 ## CHANGES/MODIFICATIONS TO PRIVACY POLICY
 
-This privacy policy may be changed, modified or edited at any time. It is the subscriber�s responsibility to verify the Privacy Policy intermittently to see if there has been any change. All changes to the privacy policy shall be in effect thirty days after it is posted, unless the terms of the privacy policy indicate otherwise. 
+This privacy policy may be changed, modified or edited at any time. It is the subscriber's responsibility to verify the Privacy Policy intermittently to see if there has been any change. All changes to the privacy policy shall be in effect thirty days after it is posted, unless the terms of the privacy policy indicate otherwise. 
 
 ## TERMS AND CONDITIONS OF MEMBERSHIP
 
@@ -70,11 +70,11 @@ Each subscriber should carefully read each of the terms and conditions of member
 
 ## "OPT-IN" & "OPT-OUT" USER COMMUNICATION 
 
-"OPT-IN" -- Subscriber�s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber�s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber�s personal information, including its email address and data may be used for that matter or disclosed to third-parties.
+"OPT-IN" -- Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties.
 
-"OPT-OUT" -- Subscriber�s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber�s personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+"OPT-OUT" -- Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
 ### Terms and Conditions:
 
   
-
+[Babes.com](http://www.babes.com/ "Babes.com")
