@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftservers.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060855id_/http%3A//minecraftservers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftservers.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202175211id_/http%3A//minecraftservers.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Servers
 
@@ -19,7 +19,6 @@ Google, as a third party vendor, uses cookies to serve ads on MinecraftServers.o
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
   * Google Adsense
-  * Project Wonderful
 
 
 
