@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014951id_/http%3A//www.verint.com/About/legal/privacy-policy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202125925id_/http%3A//www.verint.com/About/legal/privacy-policy/index) for the most accurate reproduction.*
 
 # Verint's Privacy Policy
 
@@ -6,7 +6,7 @@
 
  **Verint Systems Inc. and its subsidiaries** (“Verint”) are concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the “ **Site** ”) as well as certain information we collect from offline sources, as explained in more detail below. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-If you apply for a job through the Site, our use of the Personal Information you provide through our Career Center is governed by a separate privacy policy, not this Privacy Policy. Please click [here](https://web.archive.org/About/Careers/index.html "Careers")[](http://verint.com/corporate/careers_list.cfm) to review our privacy policy for job seekers who apply for jobs through the Site.
+If you apply for a job through the Site, our use of the Personal Information you provide through our Career Center is governed by a separate privacy policy, not this Privacy Policy. Please click [here](https://web.archive.org/about/careers/index.html "Careers")[](http://verint.com/corporate/careers_list.cfm) to review our privacy policy for job seekers who apply for jobs through the Site.
 
 Verint complies with the U.S. – E.U. and US- Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Information regarding the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>. A copy of Verint’s Safe Harbor policy can be found at <http://verint.com/About/legal/verints-safe-harbor-policy/index>.
 
@@ -51,7 +51,7 @@ We may use Personal Information:
 
 Your Personal Information may be disclosed:
 
->   * To our [affiliates](https://web.archive.org/About/legal/privacy-policy/subsidiaries "Subsidiaries of Verint Systems Inc.") for the purposes described in this Privacy Policy. Verint Systems Inc. is the party responsible for the management of the jointly-used Personal Information.
+>   * To our [affiliates](https://web.archive.org/about/legal/privacy-policy/subsidiaries "Subsidiaries of Verint Systems Inc.") for the purposes described in this Privacy Policy. Verint Systems Inc. is the party responsible for the management of the jointly-used Personal Information.
 >   * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery services, credit card processing, auditing services and other similar services to enable them to provide services.
 >   * To business partners, if you choose to purchase products and services from us that include or require products and services of our business partners (such as integration services), to enable them to provide the applicable products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF YOUR PERSONAL INFORMATION BY SUCH BUSINESS PARTNERS.
 >   * To identify you to anyone to whom you send messages through the Site.
