@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104638id_/http%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202074815id_/http%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Anime Lyrics dot Com - Privacy Policy
 
   
-[Win $10 in the Anime Wallpapers.Com August 2013 Wallpaper Contest or Origami Sticky Notes!](http://www.animeforum.com/showthread.php?116825-Wallpaper-of-the-Month-August-2013-1st-Prize-10-gift-certificate)  
+[Win $10 in the Anime Wallpapers.Com August 2013 Wallpaper Contest or Origami Sticky Notes! ](http://www.animeforum.com/showthread.php?116825-Wallpaper-of-the-Month-August-2013-1st-Prize-10-gift-certificate)  
   
 Our postal address is  
 2006 Benson ave 3d  
