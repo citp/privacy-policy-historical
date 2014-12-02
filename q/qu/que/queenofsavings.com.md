@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queenofsavings.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630010450id_/http%3A//queenofsavings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queenofsavings.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202085640id_/http%3A//queenofsavings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Queen of Savings
 
@@ -27,3 +27,5 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email [webmaster](mailto:queenofsavings@charter.net)
+
+Share if you care...0000000
