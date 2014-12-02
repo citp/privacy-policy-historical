@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the gaa.ie privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626081511id_/http%3A//www.gaa.ie/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gaa.ie privacy policy that was archived on 2014-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202140303id_/http%3A//www.gaa.ie/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Statement | GAA.ie</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=Edge, chrome=1"><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=376700719117345"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8OUVZXGwAHXFJTAQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge, chrome=1"><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=376700719117345"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
 <meta name="google-site-verification" content="vT-nPuMyKYAQNPCMCFQUO9ubNHYk2HqgZL77TOmm1rk">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,9 +18,10 @@
 <meta property="fb:admins" content="1754674189"> <!-- Alan O'Mara -->
 <meta property="fb:admins" content="936076"> <!-- Brian Murphy -->
 <meta property="fb:app_id" content="376700719117345">
-<link rel="shortcut icon" type="image/x-icon" href="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/favicon.ico?v=1">
+<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico?v=1">
 <link rel="stylesheet" href="/smartoptimizer/?/css/reset.css,main.css,main_extra.css,new_portal.css,responsive.css,chosen.css,slidedeck.skin.css" media="screen">
 <link rel="stylesheet" href="/css/print.css?v=1" type="text/css" media="print">
+
 
 
 <!--[if IE]>
@@ -51,6 +52,15 @@
 <link rel="stylesheet" type="text/css" href="/scripts/jquery/plugins/fancybox/jquery.fancybox-1.3.4.css" media="screen">
 <script type="text/javascript" src="/scripts/jquery/plugins/fancybox/jquery.fancybox-1.3.4.js"></script>
 
+<!-- Royal Slider Css -->
+<link href="/css/royalslider.css?v=1" rel="stylesheet">
+<link href="/css/royalslider/skins/default/rs-default.css?v=3" rel="stylesheet">
+<!-- Royal Slider Js -->
+<script type="text/javascript" src="/scripts/js/jquery.royalslider.min.js"></script>
+
+<!-- Main Js -->
+<script type="text/javascript" src="/scripts/jquery/main.js?v=15"></script>
+
 
 <!-- Survey script -->
 <!--
@@ -72,8 +82,9 @@ $(document).ready(function() {
 	
 	});
 </script>
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body>
+
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -84,6 +95,8 @@ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
 </script>
+
+
 <!--
 <div id="popUpSurvey" class="popup" style="display:none;">
 	<img class="desk" src="/images/survey-img.jpg" alt="Complete our #GAAFUTURE survey and be in with a chance to win 2 tickets to a 2014 All Ireland Final" />
@@ -109,28 +122,28 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         <input type="hidden" value="1" name="search">
     </form>
 </div>		<div class="clearfix">
-			<div id="new_header_logo"><a href="http://www.gaa.ie/"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/new_gaa_logo.png"></a></div>
+			<div id="new_header_logo"><a href="http://www.gaa.ie/"><img src="/images/new_header/new_gaa_logo.png"></a></div>
 			<div id="mobile_dropdown_button" class="mobile_only printOff"></div>
 			<div id="tablet_dropdown_button" class="tablet_only printOff"></div>
 			<div id="tablet_social_menu" class="tablet_only printOff">
 				<ul>
-					<li><a href="http://www.facebook.com/officialgaa" rel="nofollow" target="_blank"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/img/social_icon_tablet_facebook.png" alt="Gaa Facebook"></a></li>
-					<li><a href="http://www.twitter.com/officialgaa" rel="nofollow" target="_blank"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/img/social_icon_tablet_twitter.png" alt="Gaa Twitter"></a></li>
-					<li><a href="http://www.youtube.com/user/officialgaa" rel="nofollow" target="_blank"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/img/social_icon_tablet_youtube.png" alt="Gaa Youtube"></a></li>
+					<li><a href="http://www.facebook.com/officialgaa" rel="nofollow" target="_blank"><img src="/img/social_icon_tablet_facebook.png" alt="Gaa Facebook"></a></li>
+					<li><a href="http://www.twitter.com/officialgaa" rel="nofollow" target="_blank"><img src="/img/social_icon_tablet_twitter.png" alt="Gaa Twitter"></a></li>
+					<li><a href="http://www.youtube.com/user/officialgaa" rel="nofollow" target="_blank"><img src="/img/social_icon_tablet_youtube.png" alt="Gaa Youtube"></a></li>
 				</ul>
 			</div>
 			
 			<div id="new_header_top_nav" class="desktop_only">
 				<ul>
-					<li class="desktop_only"><a href="/clubzone/transfers-and-sanctions/transfers-archive/"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/transfers_and_sanctions.png" alt="Transfers and Sanctions">&nbsp;<img src="/images/new_header/header_green_button.png"></a></li>
-					<li class="desktop_only"><a href="/about-the-gaa/provinces-and-counties/"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/find_county_province.png" alt="Find County or Province">&nbsp;<img src="/images/new_header/header_green_button.png"></a></li>
+					<li class="desktop_only"><a href="/clubzone/transfers-and-sanctions/transfers-archive/"><img src="/images/new_header/transfers_and_sanctions.png" alt="Transfers and Sanctions">&nbsp;<img src="/images/new_header/header_green_button.png"></a></li>
+					<li class="desktop_only"><a href="/about-the-gaa/provinces-and-counties/"><img src="/images/new_header/find_county_province.png" alt="Find County or Province">&nbsp;<img src="/images/new_header/header_green_button.png"></a></li>
 					<!--
 					<li class="desktop_only"><a href="http://www.gaelicboots.com" target="_blank"><img src="/images/new_header/gaelicboots_com.png" alt="Gaelic Boots website" />&nbsp;<img src="/images/new_header/header_green_button.png" /></a></li>
 					-->
-					<li class="desktop_only"><a id="searchgaaie" href="javascript:void(0);"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/search_gaa.png" alt="Search GAA">&nbsp;<img src="/images/new_header/header_green_button.png"></a></li>
-					<li class="desktop_only"><a href="/about-the-gaa/cultur-agus-gaeilge/"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/cultur_agus_gaeilge.png" alt="Cultur agus Gaeilge">&nbsp;<img src="/images/new_header/header_green_button.png"></a></li>
-					<li class="facebook"><a target="_blank" href="http://www.facebook.com/officialgaa"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/fb_button.png" alt="Official GAA Facebook"></a></li>
-					<li class="twitter"><a target="_blank" href="http://www.twitter.com/officialgaa"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/tw_button.png" alt="Official GAA Twitter"></a></li>
+					<li class="desktop_only"><a id="searchgaaie" href="javascript:void(0);"><img src="/images/new_header/search_gaa.png" alt="Search GAA">&nbsp;<img src="/images/new_header/header_green_button.png"></a></li>
+					<li class="desktop_only"><a href="/about-the-gaa/cultur-agus-gaeilge/"><img src="/images/new_header/cultur_agus_gaeilge.png?v=1" alt="Cultur agus Gaeilge">&nbsp;<img src="/images/new_header/header_green_button.png"></a></li>
+					<li class="facebook"><a target="_blank" href="http://www.facebook.com/officialgaa"><img src="/images/new_header/fb_button.png" alt="Official GAA Facebook"></a></li>
+					<li class="twitter"><a target="_blank" href="http://www.twitter.com/officialgaa"><img src="/images/new_header/tw_button.png" alt="Official GAA Twitter"></a></li>
 				</ul>
 			</div>
 			<div id="new_header_nav" class="desktop_only">
@@ -196,7 +209,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			<a href="javascript:void(0)">ABOUT THE GAA</a>
 			<ul class="new_header_dropdown_news new_header_dropdown_news_4">
 				<li class="level1"><a href="/about-the-gaa/">About the GAA</a></li>
-				<li><a href="/about-the-gaa/mission-and-vision/">Administration</a></li><li><a href="/about-the-gaa/provinces-and-counties/">Provinces &amp; Counties</a></li><li><a href="/about-the-gaa/the-gaa-club/">The GAA Club</a></li><li><a href="/about-the-gaa/our-games/">Our Games</a></li><li><a href="/about-the-gaa/rules-and-regulations/">Rules &amp; Regulations</a></li><li><a href="/about-the-gaa/gaa-history/">GAA History</a></li><li><a href="/about-the-gaa/cultur-agus-gaeilge/">Cultúr Agus Gaeilge</a></li><li><a href="/about-the-gaa/gaa-overseas/">International GAA</a></li><li><a href="/about-the-gaa/schools-and-third-level/">Schools &amp; Third level</a></li><li><a href="/about-the-gaa/international-rules/">International Rules</a></li><li><a href="/about-the-gaa/partnerships/">Partnerships</a></li><li><a href="/about-the-gaa/publications-and-resources/">Publications &amp; Resources</a></li><li><a href="/about-the-gaa/gaa-on-your-mobile/">GAA on your Mobile</a></li>			</ul>
+				<li><a href="/about-the-gaa/mission-and-vision/">Administration</a></li><li><a href="/about-the-gaa/provinces-and-counties/">Provinces &amp; Counties</a></li><li><a href="/about-the-gaa/the-gaa-club/">The GAA Club</a></li><li><a href="/about-the-gaa/our-games/">Our Games</a></li><li><a href="/about-the-gaa/rules-and-regulations/">Rules &amp; Regulations</a></li><li><a href="/about-the-gaa/gaa-history/">GAA History</a></li><li><a href="/about-the-gaa/cultur-agus-gaeilge/">Cultúr Agus Gaeilge</a></li><li><a href="/about-the-gaa/gaa-overseas/">International GAA</a></li><li><a href="/about-the-gaa/schools-and-third-level/">Schools &amp; Third level</a></li><li><a href="/about-the-gaa/international-rules/">International Rules</a></li><li><a href="/about-the-gaa/super-11s-hurling/">Super 11's Hurling</a></li><li><a href="/about-the-gaa/partnerships/">Partnerships</a></li><li><a href="/about-the-gaa/publications-and-resources/">Publications &amp; Resources</a></li><li><a href="/about-the-gaa/gaa-on-your-mobile/">GAA on your Mobile</a></li>			</ul>
 		</li>
 	</ul>
 	<ul class="clearfix">
@@ -204,19 +217,19 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			<a href="javascript:void(0)">COACHING &amp; GAMES DEVELOPMENT</a>
 			<ul class="new_header_dropdown_news new_header_dropdown_news_5">
 				<li class="level1"><a href="/coaching-and-games-development/">Coaching and Games Development</a></li>
-				<li class="level2"><a href="/coaching-and-games-development/news/">News</a></li><li class="level2"><a href="/coaching-and-games-development/events/">Events</a></li><li class="level2"><a href="/coaching-and-games-development/newsletters/">Newsletters</a></li><li class="level2"><a href="/coaching-and-games-development/games-video-room/">Games Video Room</a></li><li class="level2"><a href="/coaching-and-games-development/research/">Research</a></li><li class="level2"><a href="/coaching-and-games-development/gogames/">GAA Go Games</a></li><li class="level2"><a href="/coaching-and-games-development/games-development-conference-2012/">Games Development Conference 2013</a></li><li class="level2"><a href="/coaching-and-games-development/recreational-football-and-hurling/">Camán Abú &amp; Peil Abú (Recreational Hurling &amp; Football)</a></li><li class="level2"><a href="/coaching-and-games-development/coaching/">Coaching</a></li><li class="level2"><a href="/coaching-and-games-development/match-officials/">Match Officials</a></li><li class="level2"><a href="/coaching-and-games-development/rules-and-specifications/">Rules &amp; Specifications</a></li><li class="level2"><a href="/coaching-and-games-development/coaching-resources/">Coaching Resources</a></li><li class="level2"><a href="/coaching-and-games-development/schools/">Schools</a></li><li class="level2"><a href="/coaching-and-games-development/the-grassroots-to-national-programme/">The Grassroots To National Programme</a></li><li class="level2"><a href="/coaching-and-games-development/coaching-in-your-club/">Coaching In Your Club</a></li><li class="level2"><a href="/coaching-and-games-development/resources-and-publications/">Publications</a></li><li class="level2"><a href="/coaching-and-games-development/contacts-and-links/">Contacts &amp; Links</a></li><li class="level2"><a href="/coaching-and-games-development/youth-games-centres/">Play to Stay</a></li>			</ul>
+				<li class="level2"><a href="/coaching-and-games-development/news/">News</a></li><li class="level2"><a href="/coaching-and-games-development/events/">Events</a></li><li class="level2"><a href="/coaching-and-games-development/newsletters/">Newsletters</a></li><li class="level2"><a href="/coaching-and-games-development/games-video-room/">Games Video Room</a></li><li class="level2"><a href="/coaching-and-games-development/research/">Research</a></li><li class="level2"><a href="/coaching-and-games-development/gogames/">GAA Go Games</a></li><li class="level2"><a href="/coaching-and-games-development/games-development-conference-2012/">Games Development Conference 2013</a></li><li class="level2"><a href="/coaching-and-games-development/recreational-football-and-hurling/">GAA NRG - National Recreational Games </a></li><li class="level2"><a href="/coaching-and-games-development/coaching/">Coaching</a></li><li class="level2"><a href="/coaching-and-games-development/match-officials/">Match Officials</a></li><li class="level2"><a href="/coaching-and-games-development/rules-and-specifications/">Rules &amp; Specifications</a></li><li class="level2"><a href="/coaching-and-games-development/coaching-resources/">Coaching Resources</a></li><li class="level2"><a href="/coaching-and-games-development/schools/">Schools</a></li><li class="level2"><a href="/coaching-and-games-development/the-grassroots-to-national-programme/">The Grassroots To National Programme</a></li><li class="level2"><a href="/coaching-and-games-development/coaching-in-your-club/">Coaching In Your Club</a></li><li class="level2"><a href="/coaching-and-games-development/resources-and-publications/">Publications</a></li><li class="level2"><a href="/coaching-and-games-development/contacts-and-links/">Contacts &amp; Links</a></li><li class="level2"><a href="/coaching-and-games-development/youth-games-centres/">Super Games Centre</a></li>			</ul>
 		</li>
 		<li id="nav_medical">
 			<a href="javascript:void(0)">MEDICAL &amp; PLAYER WELFARE</a>
 			<ul class="new_header_dropdown_news new_header_dropdown_news_6">
 				<li class="level1"><a href="/medical-and-player-welfare/">Medical and Player Welfare</a></li>
-				<li class="level2"><a href="/medical-and-player-welfare/news/">News</a></li><li class="level2"><a href="/medical-and-player-welfare/injuries/">Injuries</a></li><li class="level2"><a href="/medical-and-player-welfare/fitness/">Fitness</a></li><li class="level2"><a href="/medical-and-player-welfare/nutrition/">Nutrition</a></li><li class="level2"><a href="/medical-and-player-welfare/anti-doping/">Anti-Doping</a></li><li class="level2"><a href="/medical-and-player-welfare/cardiac-screening/">Cardiac Screening</a></li><li class="level2"><a href="/medical-and-player-welfare/gaa-insurance-and-injury-scheme/">GAA Insurance and Injury Scheme</a></li><li class="level2"><a href="/medical-and-player-welfare/protective-equipment/">Helmet Standards</a></li><li class="level2"><a href="/medical-and-player-welfare/mouthguards/">Mouthguards</a></li><li class="level2"><a href="/medical-and-player-welfare/medical-equipment/">Medical Equipment</a></li><li class="level2"><a href="/medical-and-player-welfare/resources/">Resources</a></li>			</ul>
+				<li class="level2"><a href="/medical-and-player-welfare/news/">News</a></li><li class="level2"><a href="/medical-and-player-welfare/injuries/">Injuries</a></li><li class="level2"><a href="/medical-and-player-welfare/fitness/">Fitness</a></li><li class="level2"><a href="/medical-and-player-welfare/nutrition/">Nutrition</a></li><li class="level2"><a href="/medical-and-player-welfare/anti-doping/">Anti-Doping</a></li><li class="level2"><a href="/medical-and-player-welfare/cardiac-screening/">Cardiac Screening</a></li><li class="level2"><a href="/medical-and-player-welfare/gaa-insurance-and-injury-scheme/">GAA Injury Benefit Fund</a></li><li class="level2"><a href="/medical-and-player-welfare/protective-equipment/">Helmet Standards</a></li><li class="level2"><a href="/medical-and-player-welfare/mouthguards/">Mouthguards</a></li><li class="level2"><a href="/medical-and-player-welfare/medical-equipment/">Medical Equipment</a></li><li class="level2"><a href="/medical-and-player-welfare/resources/">Resources</a></li>			</ul>
 		</li>
 		<li id="nav_clubzone">
 			<a href="javascript:void(0)">CLUBZONE</a>
 			<ul class="new_header_dropdown_news new_header_dropdown_news_7">
 				<li class="level1"><a href="/clubzone/">Clubzone</a></li>
-				<li class="level2"><a href="/clubzone/club-info/">General Information</a></li><li class="level2"><a href="/clubzone/club-newsletter/">Club Newsletter</a></li><li class="level2"><a href="/clubzone/club-resources/">Club I.T. Resources</a></li><li class="level2"><a href="/clubzone/club-manual/">Club Advice Manual</a></li><li class="level2"><a href="/clubzone/club-programmes/">Club Planning and other Club Programmes</a></li><li class="level2"><a href="/clubzone/transfers-and-sanctions/">Transfers &amp; Sanctions</a></li><li class="level2"><a href="/clubzone/inclusion-and-integration/">Inclusion &amp; Integration</a></li><li class="level2"><a href="/clubzone/child-welfare-and-protection/">Child Welfare &amp; Protection</a></li><li class="level2"><a href="/clubzone/gaa-injury-scheme/">GAA Insurance and Injury Scheme</a></li><li class="level2"><a href="/clubzone/national-club-draw/">National Club Draw</a></li><li class="level2"><a href="/clubzone/asap-programme/">ASAP Programme</a></li><li class="level2"><a href="/clubzone/gaa-samaritans-partnership/">GAA Samaritans Partnership</a></li><li class="level2"><a href="/clubzone/gaa-health-and-wellbeing-conference/">GAA Health &amp; Wellbeing Conference</a></li><li class="level2"><a href="/clubzone/play-in-my-boots/">Play In My Boots</a></li><li class="level2"><a href="/clubzone/gaa-mental-health-charter/">GAA Mental Health Charter</a></li>			</ul>
+				<li class="level2"><a href="/clubzone/club-info/">General Information</a></li><li class="level2"><a href="/clubzone/club-newsletter/">Club Newsletter</a></li><li class="level2"><a href="/clubzone/club-resources/">Club I.T. Resources</a></li><li class="level2"><a href="/clubzone/club-manual/">Club Advice Manual</a></li><li class="level2"><a href="/clubzone/club-programmes/">Club Planning and other Club Programmes</a></li><li class="level2"><a href="/clubzone/transfers-and-sanctions/">Transfers &amp; Sanctions</a></li><li class="level2"><a href="/clubzone/inclusion-and-integration/">Inclusion &amp; Integration</a></li><li class="level2"><a href="/clubzone/child-welfare-and-protection/">Child Welfare &amp; Protection</a></li><li class="level2"><a href="/clubzone/gaa-injury-scheme/">GAA Injury Benefit Fund</a></li><li class="level2"><a href="/clubzone/national-club-draw/">National Club Draw</a></li><li class="level2"><a href="/clubzone/gaa-samaritans-partnership/">GAA Samaritans Partnership</a></li><li class="level2"><a href="/clubzone/play-in-my-boots/">Play In My Boots</a></li><li class="level2"><a href="/clubzone/gaa-mental-health-charter/">GAA Mental Health Charter</a></li><li class="level2"><a href="/clubzone/health-and-wellbeing-theme-day/">Community &amp; Health Day</a></li>			</ul>
 		</li>
 		<li id="nav_youth">
 			<a href="javascript:void(0)">YOUTHZONE</a>
@@ -240,13 +253,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 									<ul class="new_header_dropdown_news new_header_dropdown_news_3">						
 						<li><div><a href="/tickets-and-merchandise/">Tickets &amp; Merchandise</a></div></li><li><div><a href="/tickets-and-merchandise/tickets/">Tickets</a></div></li><li><div><a href="/tickets-and-merchandise/merchandise/">Merchandise</a></div></li><li><div><a href="/tickets-and-merchandise/approved-suppliers/">Approved Suppliers</a></div>					</li></ul>
 									<ul class="new_header_dropdown_news new_header_dropdown_news_4">						
-						<li><div><a href="/about-the-gaa/">About the GAA</a></div><div><a href="/about-the-gaa/mission-and-vision/">Administration</a></div><div><a href="/about-the-gaa/provinces-and-counties/">Provinces &amp; Counties</a></div><div><a href="/about-the-gaa/the-gaa-club/">The GAA Club</a></div></li><li><div><a href="/about-the-gaa/our-games/">Our Games</a></div><div><a href="/about-the-gaa/rules-and-regulations/">Rules &amp; Regulations</a></div><div><a href="/about-the-gaa/gaa-history/">GAA History</a></div><div><a href="/about-the-gaa/cultur-agus-gaeilge/">Cultúr Agus Gaeilge</a></div></li><li><div><a href="/about-the-gaa/gaa-overseas/">International GAA</a></div><div><a href="/about-the-gaa/schools-and-third-level/">Schools &amp; Third level</a></div><div><a href="/about-the-gaa/international-rules/">International Rules</a></div><div><a href="/about-the-gaa/partnerships/">Partnerships</a></div></li><li><div><a href="/about-the-gaa/publications-and-resources/">Publications &amp; Resources</a></div><div><a href="/about-the-gaa/gaa-on-your-mobile/">GAA on your Mobile</a></div></li>					</ul>
+						<li><div><a href="/about-the-gaa/">About the GAA</a></div><div><a href="/about-the-gaa/mission-and-vision/">Administration</a></div><div><a href="/about-the-gaa/provinces-and-counties/">Provinces &amp; Counties</a></div><div><a href="/about-the-gaa/the-gaa-club/">The GAA Club</a></div></li><li><div><a href="/about-the-gaa/our-games/">Our Games</a></div><div><a href="/about-the-gaa/rules-and-regulations/">Rules &amp; Regulations</a></div><div><a href="/about-the-gaa/gaa-history/">GAA History</a></div><div><a href="/about-the-gaa/cultur-agus-gaeilge/">Cultúr Agus Gaeilge</a></div></li><li><div><a href="/about-the-gaa/gaa-overseas/">International GAA</a></div><div><a href="/about-the-gaa/schools-and-third-level/">Schools &amp; Third level</a></div><div><a href="/about-the-gaa/international-rules/">International Rules</a></div><div><a href="/about-the-gaa/super-11s-hurling/">Super 11's Hurling</a></div></li><li><div><a href="/about-the-gaa/partnerships/">Partnerships</a></div><div><a href="/about-the-gaa/publications-and-resources/">Publications &amp; Resources</a></div><div><a href="/about-the-gaa/gaa-on-your-mobile/">GAA on your Mobile</a></div></li>					</ul>
 									<ul class="new_header_dropdown_news new_header_dropdown_news_5">						
-						<li><div><a href="/coaching-and-games-development/">Coaching &amp; Games Development</a></div><div><a href="/coaching-and-games-development/news/">News</a></div><div><a href="/coaching-and-games-development/events/">Events</a></div><div><a href="/coaching-and-games-development/newsletters/">Newsletters</a></div><div><a href="/coaching-and-games-development/games-video-room/">Games Video Room</a></div></li><li><div><a href="/coaching-and-games-development/research/">Research</a></div><div><a href="/coaching-and-games-development/gogames/">GAA Go Games</a></div><div><a href="/coaching-and-games-development/games-development-conference-2012/">Games Development Conference 2013</a></div><div><a href="/coaching-and-games-development/recreational-football-and-hurling/">Camán Abú &amp; Peil Abú (Recreational Hurling &amp; Football)</a></div><div><a href="/coaching-and-games-development/coaching/">Coaching</a></div></li><li><div><a href="/coaching-and-games-development/match-officials/">Match Officials</a></div><div><a href="/coaching-and-games-development/rules-and-specifications/">Rules &amp; Specifications</a></div><div><a href="/coaching-and-games-development/coaching-resources/">Coaching Resources</a></div><div><a href="/coaching-and-games-development/schools/">Schools</a></div><div><a href="/coaching-and-games-development/the-grassroots-to-national-programme/">The Grassroots To National Programme</a></div></li><li><div><a href="/coaching-and-games-development/coaching-in-your-club/">Coaching In Your Club</a></div><div><a href="/coaching-and-games-development/resources-and-publications/">Publications</a></div><div><a href="/coaching-and-games-development/contacts-and-links/">Contacts &amp; Links</a></div><div><a href="/coaching-and-games-development/youth-games-centres/">Play to Stay</a></div></li>					</ul>
+						<li><div><a href="/coaching-and-games-development/">Coaching &amp; Games Development</a></div><div><a href="/coaching-and-games-development/news/">News</a></div><div><a href="/coaching-and-games-development/events/">Events</a></div><div><a href="/coaching-and-games-development/newsletters/">Newsletters</a></div><div><a href="/coaching-and-games-development/games-video-room/">Games Video Room</a></div></li><li><div><a href="/coaching-and-games-development/research/">Research</a></div><div><a href="/coaching-and-games-development/gogames/">GAA Go Games</a></div><div><a href="/coaching-and-games-development/games-development-conference-2012/">Games Development Conference 2013</a></div><div><a href="/coaching-and-games-development/recreational-football-and-hurling/">GAA NRG - National Recreational Games </a></div><div><a href="/coaching-and-games-development/coaching/">Coaching</a></div></li><li><div><a href="/coaching-and-games-development/match-officials/">Match Officials</a></div><div><a href="/coaching-and-games-development/rules-and-specifications/">Rules &amp; Specifications</a></div><div><a href="/coaching-and-games-development/coaching-resources/">Coaching Resources</a></div><div><a href="/coaching-and-games-development/schools/">Schools</a></div><div><a href="/coaching-and-games-development/the-grassroots-to-national-programme/">The Grassroots To National Programme</a></div></li><li><div><a href="/coaching-and-games-development/coaching-in-your-club/">Coaching In Your Club</a></div><div><a href="/coaching-and-games-development/resources-and-publications/">Publications</a></div><div><a href="/coaching-and-games-development/contacts-and-links/">Contacts &amp; Links</a></div><div><a href="/coaching-and-games-development/youth-games-centres/">Super Games Centre</a></div></li>					</ul>
 									<ul class="new_header_dropdown_news new_header_dropdown_news_6">						
-						<li><div><a href="/medical-and-player-welfare/">Medical &amp; Player Welfare</a></div><div><a href="/medical-and-player-welfare/news/">News</a></div><div><a href="/medical-and-player-welfare/injuries/">Injuries</a></div></li><li><div><a href="/medical-and-player-welfare/fitness/">Fitness</a></div><div><a href="/medical-and-player-welfare/nutrition/">Nutrition</a></div><div><a href="/medical-and-player-welfare/anti-doping/">Anti-Doping</a></div></li><li><div><a href="/medical-and-player-welfare/cardiac-screening/">Cardiac Screening</a></div><div><a href="/medical-and-player-welfare/gaa-insurance-and-injury-scheme/">GAA Insurance and Injury Scheme</a></div><div><a href="/medical-and-player-welfare/protective-equipment/">Helmet Standards</a></div></li><li><div><a href="/medical-and-player-welfare/mouthguards/">Mouthguards</a></div><div><a href="/medical-and-player-welfare/medical-equipment/">Medical Equipment</a></div><div><a href="/medical-and-player-welfare/resources/">Resources</a></div></li>					</ul>
+						<li><div><a href="/medical-and-player-welfare/">Medical &amp; Player Welfare</a></div><div><a href="/medical-and-player-welfare/news/">News</a></div><div><a href="/medical-and-player-welfare/injuries/">Injuries</a></div></li><li><div><a href="/medical-and-player-welfare/fitness/">Fitness</a></div><div><a href="/medical-and-player-welfare/nutrition/">Nutrition</a></div><div><a href="/medical-and-player-welfare/anti-doping/">Anti-Doping</a></div></li><li><div><a href="/medical-and-player-welfare/cardiac-screening/">Cardiac Screening</a></div><div><a href="/medical-and-player-welfare/gaa-insurance-and-injury-scheme/">GAA Injury Benefit Fund</a></div><div><a href="/medical-and-player-welfare/protective-equipment/">Helmet Standards</a></div></li><li><div><a href="/medical-and-player-welfare/mouthguards/">Mouthguards</a></div><div><a href="/medical-and-player-welfare/medical-equipment/">Medical Equipment</a></div><div><a href="/medical-and-player-welfare/resources/">Resources</a></div></li>					</ul>
 									<ul class="new_header_dropdown_news new_header_dropdown_news_7">						
-						<li><div><a href="/clubzone/">Clubzone</a></div><div><a href="/clubzone/club-info/">General Information</a></div><div><a href="/clubzone/club-newsletter/">Club Newsletter</a></div><div><a href="/clubzone/club-resources/">Club I.T. Resources</a></div></li><li><div><a href="/clubzone/club-manual/">Club Advice Manual</a></div><div><a href="/clubzone/club-programmes/">Club Planning and other Club Programmes</a></div><div><a href="/clubzone/transfers-and-sanctions/">Transfers &amp; Sanctions</a></div><div><a href="/clubzone/inclusion-and-integration/">Inclusion &amp; Integration</a></div></li><li><div><a href="/clubzone/child-welfare-and-protection/">Child Welfare &amp; Protection</a></div><div><a href="/clubzone/gaa-injury-scheme/">GAA Insurance and Injury Scheme</a></div><div><a href="/clubzone/national-club-draw/">National Club Draw</a></div><div><a href="/clubzone/asap-programme/">ASAP Programme</a></div></li><li><div><a href="/clubzone/gaa-samaritans-partnership/">GAA Samaritans Partnership</a></div><div><a href="/clubzone/gaa-health-and-wellbeing-conference/">GAA Health &amp; Wellbeing Conference</a></div><div><a href="/clubzone/play-in-my-boots/">Play In My Boots</a></div><div><a href="/clubzone/gaa-mental-health-charter/">GAA Mental Health Charter</a></div></li>					</ul>
+						<li><div><a href="/clubzone/">Clubzone</a></div><div><a href="/clubzone/club-info/">General Information</a></div><div><a href="/clubzone/club-newsletter/">Club Newsletter</a></div><div><a href="/clubzone/club-resources/">Club I.T. Resources</a></div></li><li><div><a href="/clubzone/club-manual/">Club Advice Manual</a></div><div><a href="/clubzone/club-programmes/">Club Planning and other Club Programmes</a></div><div><a href="/clubzone/transfers-and-sanctions/">Transfers &amp; Sanctions</a></div><div><a href="/clubzone/inclusion-and-integration/">Inclusion &amp; Integration</a></div></li><li><div><a href="/clubzone/child-welfare-and-protection/">Child Welfare &amp; Protection</a></div><div><a href="/clubzone/gaa-injury-scheme/">GAA Injury Benefit Fund</a></div><div><a href="/clubzone/national-club-draw/">National Club Draw</a></div><div><a href="/clubzone/gaa-samaritans-partnership/">GAA Samaritans Partnership</a></div></li><li><div><a href="/clubzone/play-in-my-boots/">Play In My Boots</a></div><div><a href="/clubzone/gaa-mental-health-charter/">GAA Mental Health Charter</a></div><div><a href="/clubzone/health-and-wellbeing-theme-day/">Community &amp; Health Day</a></div></li>					</ul>
 									<ul class="new_header_dropdown_news new_header_dropdown_news_8">						
 						<li><div><a href="/youth-zone/">Youth Zone</a></div><div><a href="/youth-zone/kelloggs-gaa-cul-camps/">Kellogg's GAA Cúl Camps</a></div></li><li><div><a href="/youth-zone/gaa-respect-initiative/">GAA Respect Initiative</a></div><div><a href="/youth-zone/video-room/">Video Room</a></div></li><li><div><a href="/youth-zone/feile-2014/">Féile 2014</a></div><div><a href="/youth-zone/school-project/">School Project</a></div></li>					</ul>
 					</div>
@@ -256,141 +269,37 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	<div id="fix_res" class="clearfix">
 		<div id="header_fixtures_scroller" class="clearfix">
 			<div class="scroller_buttons">
-				<div class="fixtures"><a href="javascript:void(0);" class="fixture_toggle"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/fixtures_button_on.png"></a></div>
-				<div class="results"><a href="javascript:void(0);" class="fixture_toggle"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/results_button_off.png"></a></div>
+				<div class="fixtures"><a href="javascript:void(0);" class="fixture_toggle"><img src="/images/new_header/fixtures_button_on.png"></a></div>
+				<div class="results"><a href="javascript:void(0);" class="fixture_toggle"><img src="/images/new_header/results_button_off.png"></a></div>
 			</div>
-			<div id="fixtures_scroller_button_left"><a class="prev-slide" href="javascript:void(0);"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/fix_arrow_left.png"></a></div>
+			<div id="fixtures_scroller_button_left"><a class="prev-slide" href="javascript:void(0);"><img src="/images/new_header/fix_arrow_left.png"></a></div>
 			<div id="fixtures_scroller">
 				<ul id="fixtures_scroller_ul">
-					<li class="fixture_scroller_date">
-								<span class="fixture_scroller_date_day">Sat</span>
-								<span class="fixture_scroller_date_num">28</span> <span class="fixture_scroller_date_mon">Jun</span> <span class="fixture_scroller_date_year">2014</span>
-							</li>
-							<li class="fixture_scroller_fixture">
-								<span class="scroller_time">2:00pm</span><span class="scroller_comp">GAA Football All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Carlow vs. Waterford</span>
-								<span class="scroller_stadium">Dr Cullen Park</span>
-							</li><li class="fixture_scroller_fixture">
-								<span class="scroller_time">2:30pm</span><span class="scroller_comp">GAA Football All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Tyrone vs. Louth</span>
-								<span class="scroller_stadium">Omagh</span>
-							</li><li class="fixture_scroller_fixture">
-								<span class="scroller_time">3:00pm</span><span class="scroller_comp">GAA Football All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Cavan vs. Westmeath</span>
-								<span class="scroller_stadium">Kingspan Breffni Pk</span>
-							</li><li class="fixture_scroller_fixture">
-								<span class="scroller_time">7:00pm</span><span class="scroller_comp">Ulster GAA<br> Football Senior Championship 2014</span>
-								<span class="scroller_teams">Armagh vs. Monaghan</span>
-								<span class="scroller_stadium">Clones</span>
-							</li><li class="fixture_scroller_fixture">
-								<span class="scroller_time">7:00pm</span><span class="scroller_comp">Leinster GAA<br> Hurling Senior Championship 2014</span>
-								<span class="scroller_teams">Kilkenny vs. Galway</span>
-								<span class="scroller_stadium">O Connor Park, Tullamore</span>
-							</li><li class="fixture_scroller_fixture">
-								<span class="scroller_time">7:00pm</span><span class="scroller_comp">GAA Hurling All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Waterford vs. Laois</span>
-								<span class="scroller_stadium">Walsh Park</span>
-							</li><li class="fixture_scroller_date">
-								<span class="fixture_scroller_date_day">Sun</span>
-								<span class="fixture_scroller_date_num">29</span> <span class="fixture_scroller_date_mon">Jun</span> <span class="fixture_scroller_date_year">2014</span>
-							</li>
-							<li class="fixture_scroller_fixture">
-								<span class="scroller_time">2:00pm</span><span class="scroller_comp">GAA Football All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Down vs. Leitrim</span>
-								<span class="scroller_stadium">Páirc Esler, Newry</span>
-							</li><li class="fixture_scroller_fixture">
-								<span class="scroller_time">2:00pm</span><span class="scroller_comp">Leinster GAA<br> Football Senior Championship 2014</span>
-								<span class="scroller_teams">Kildare vs. Meath</span>
-								<span class="scroller_stadium">Páirc an Chrócaigh</span>
-							</li><li class="fixture_scroller_fixture">
-								<span class="scroller_time">2:00pm</span><span class="scroller_comp">GAA Hurling All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Antrim vs. Offaly</span>
-								<span class="scroller_stadium">Ballycastle</span>
-							</li><li class="fixture_scroller_fixture">
-								<span class="scroller_time">3:45pm</span><span class="scroller_comp">Ulster GAA Hurling<br> Senior Championship 2014</span>
-								<span class="scroller_teams">Down vs. Derry</span>
-								<span class="scroller_stadium">Clones</span>
-							</li><li class="fixture_scroller_fixture">
-								<span class="scroller_time">4:00pm</span><span class="scroller_comp">Leinster GAA<br> Football Senior Championship 2014</span>
-								<span class="scroller_teams">Dublin vs. Wexford</span>
-								<span class="scroller_stadium">Páirc an Chrócaigh</span>
-							</li>					<li class="fixture_scroller_fixture last"></li>
+										<li class="fixture_scroller_fixture last"></li>
 				</ul>
 			</div>
-			<div id="fixtures_scroller_button_right"><a class="next-slide" href="javascript:void(0);"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/fix_arrow_right.png"></a></div>
+			<div id="fixtures_scroller_button_right"><a class="next-slide" href="javascript:void(0);"><img src="/images/new_header/fix_arrow_right.png"></a></div>
 		</div>
 		<div id="header_results_scroller" class="clearfix" style="display:none;">
 			<div class="scroller_buttons">
-				<div class="fixtures"><a href="javascript:void(0);" class="fixture_toggle"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/fixtures_button_off.png"></a></div>
-				<div class="results"><a href="javascript:void(0);" class="fixture_toggle"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/results_button_on.png"></a></div>
+				<div class="fixtures"><a href="javascript:void(0);" class="fixture_toggle"><img src="/images/new_header/fixtures_button_off.png"></a></div>
+				<div class="results"><a href="javascript:void(0);" class="fixture_toggle"><img src="/images/new_header/results_button_on.png"></a></div>
 			</div>
-			<div id="results_scroller_button_left"><a class="results_prev-slide" href="javascript:void(0);"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/fix_arrow_left.png"></a></div>
+			<div id="results_scroller_button_left"><a class="results_prev-slide" href="javascript:void(0);"><img src="/images/new_header/fix_arrow_left.png"></a></div>
 			<div id="results_scroller">
 				<ul id="results_scroller_ul">
-					<li class="result_scroller_date">
-								<span class="result_scroller_date_day">Sun</span>
-								<span class="result_scroller_date_num">22</span> <span class="result_scroller_date_mon">Jun</span> <span class="result_scroller_date_year">2014</span>
-							</li>
-							<li class="result_scroller_result">
-								<span class="scroller_time">4:00pm</span><span class="scroller_comp">Leinster GAA<br> Hurling Senior Championship 2014</span>
-								<span class="scroller_teams">Galway 5-16 - 3-22 Kilkenny</span>
-								<span class="scroller_stadium">O Connor Park, Tullamore</span>
-							</li><li class="result_scroller_result">
-								<span class="scroller_time">3:30pm</span><span class="scroller_comp">Munster GAA<br> Football Senior Championship 2014</span>
-								<span class="scroller_teams">Clare 1-13 - 1-17 Kerry</span>
-								<span class="scroller_stadium">Cusack Park, Ennis</span>
-							</li><li class="result_scroller_result">
-								<span class="scroller_time">2:00pm</span><span class="scroller_comp">Ulster GAA<br> Football Senior Championship 2014</span>
-								<span class="scroller_teams">Donegal 3-16 - 0-12 Antrim</span>
-								<span class="scroller_stadium">Clones</span>
-							</li><li class="result_scroller_date">
-								<span class="result_scroller_date_day">Sat</span>
-								<span class="result_scroller_date_num">21</span> <span class="result_scroller_date_mon">Jun</span> <span class="result_scroller_date_year">2014</span>
-							</li>
-							<li class="result_scroller_result">
-								<span class="scroller_time">7:00pm</span><span class="scroller_comp">GAA Football All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Wicklow 3-12 - 0-17 Offaly</span>
-								<span class="scroller_stadium">Aughrim</span>
-							</li><li class="result_scroller_result">
-								<span class="scroller_time">7:00pm</span><span class="scroller_comp">Connacht GAA<br> Football Senior Championship 2014</span>
-								<span class="scroller_teams">Sligo 0-11 - 0-16 Galway</span>
-								<span class="scroller_stadium">Markievicz Park</span>
-							</li><li class="result_scroller_result">
-								<span class="scroller_time">7:00pm</span><span class="scroller_comp">Munster GAA<br> Football Senior Championship 2014</span>
-								<span class="scroller_teams">Cork 0-16 - 1-11 Tipperary</span>
-								<span class="scroller_stadium">Páirc Uí Chaoimh</span>
-							</li><li class="result_scroller_result">
-								<span class="scroller_time">5:00pm</span><span class="scroller_comp">GAA Football All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Derry 2-14 - 2-16 Longford</span>
-								<span class="scroller_stadium">Celtic Park</span>
-							</li><li class="result_scroller_result">
-								<span class="scroller_time">3:30pm</span><span class="scroller_comp">GAA Football All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Laois 1-19 - 2-15 Fermanagh</span>
-								<span class="scroller_stadium">Portlaoise</span>
-							</li><li class="result_scroller_result">
-								<span class="scroller_time">3:00pm</span><span class="scroller_comp">GAA Football All<br> Ireland Senior Championship 2014</span>
-								<span class="scroller_teams">Limerick 1-16 - 1-13 London</span>
-								<span class="scroller_stadium">Gaelic Grounds, Limerick</span>
-							</li><li class="result_scroller_date">
-								<span class="result_scroller_date_day">Thu</span>
-								<span class="result_scroller_date_num">19</span> <span class="result_scroller_date_mon">Jun</span> <span class="result_scroller_date_year">2014</span>
-							</li>
-							<li class="result_scroller_result">
-								<span class="scroller_time">12:00pm</span><span class="scroller_comp">Christy Ring 2014<br></span>
-								<span class="scroller_teams">Down 0-0 - 0-0 Tyrone</span>
-								<span class="scroller_stadium"></span>
-							</li>					<li class="result_scroller_result last"></li>
+										<li class="result_scroller_result last"></li>
 				</ul>
 			</div>
-			<div id="results_scroller_button_right"><a class="results_next-slide" href="javascript:void(0);"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/fix_arrow_right.png"></a></div>
+			<div id="results_scroller_button_right"><a class="results_next-slide" href="javascript:void(0);"><img src="/images/new_header/fix_arrow_right.png"></a></div>
 		</div>
 		<a href="/fixtures-and-results/" id="new_view_all_fixtures">View all <span>Fixtures &amp; Results</span> &gt;</a>
 	</div>
 </div>
 
 <div id="new_header_button" class="clearfix printOff">
-	<a id="header_hide_button" href="javascript:void(0);"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/header_hide_button_txt.png"></a>
-	<a id="header_show_button" href="javascript:void(0);"><img src="http://9c52c579c2a941f070d6-716282423d47cd863698e4eb08b2a3f5.r41.cf3.rackcdn.com/images/new_header/header_show_button_txt.png"></a>
+	<a id="header_hide_button" href="javascript:void(0);"><img src="/images/new_header/header_hide_button_txt.png"></a>
+	<a id="header_show_button" href="javascript:void(0);"><img src="/images/new_header/header_show_button_txt.png"></a>
 </div>
 
 <div id="cookie_bar" class="cookie printOff">
@@ -645,17 +554,17 @@ function surveyBox(action){
 		GAA POLL
 		</div>
 		<div id="poll_middle">
-			<h3>After the spectacular draw on Sunday, who is your favourite to win the Leinster GAA Hurling Senior Championship 2014 Semi Final replay?</h3>
+			<h3>If you could choose one of the 2014 All-Stars to train with, who would it be?</h3>
 			<form name="poll_form" action="#" method="post">
 			<ul>
-			<li><label class="poll"><input type="radio" name="poll_answer" value="404"> Kilkenny</label></li><li><label class="poll"><input type="radio" name="poll_answer" value="405"> Galway</label></li>			</ul>
+			<li><label class="poll"><input type="radio" name="poll_answer" value="457"> James O’Donoghue (Kerry)</label></li><li><label class="poll"><input type="radio" name="poll_answer" value="458"> Richie Hogan (Kilkenny)</label></li><li><label class="poll"><input type="radio" name="poll_answer" value="459"> Brendan Maher (Tipperary)</label></li><li><label class="poll"><input type="radio" name="poll_answer" value="460"> Paul Flynn (Dublin)</label></li><li><label class="poll"><input type="radio" name="poll_answer" value="461"> Paul Durcan (Donegal)</label></li>			</ul>
 			<input type="hidden" name="poll_id" value="">
-			<a href="javascript:poll_vote(167);"><img src="/images/buttons/vote.png" id="poll_vote"></a>
+			<a href="javascript:poll_vote(187);"><img src="/images/buttons/vote.png" id="poll_vote"></a>
 			<div style="clear:both;"></div>
 			</form>
 		</div>
 		<div id="poll_footer">
-			<a href="/gaa-news-and-videos/poll-result/167/">View Results</a>
+			<a href="/gaa-news-and-videos/poll-result/187/">View Results</a>
 		</div>
 	</div>
 	</div>
@@ -765,7 +674,7 @@ $(".smlink").click(function () {
 </map>
 <map name="sponors1">
   <area shape="rect" coords="0,0,91,23" href="http://www.eircom.net" target="_blank">
-  <area shape="rect" coords="121,0,218,23" href="http://gaago.ie/​" target="_blank">
+  <area shape="rect" coords="121,0,218,23" href="http://gaago.ie​" target="_blank">
   <area shape="rect" coords="248,0,339,23" href="http://www.supervalu.ie" target="_blank">
 </map><div id="bottom">
     <ul id="footer" class="clearfix">
@@ -793,25 +702,45 @@ $(".smlink").click(function () {
 
         <ul class="col">
             <li class="header"><a href="/about-the-gaa/">About the GAA</a></li>
-            <li><a href="/about-the-gaa/mission-and-vision/">Administration</a></li><li><a href="/about-the-gaa/provinces-and-counties/">Provinces &amp; Counties</a></li><li><a href="/about-the-gaa/the-gaa-club/">The GAA Club</a></li><li><a href="/about-the-gaa/our-games/">Our Games</a></li><li><a href="/about-the-gaa/rules-and-regulations/">Rules &amp; Regulations</a></li><li><a href="/about-the-gaa/gaa-history/">GAA History</a></li><li><a href="/about-the-gaa/cultur-agus-gaeilge/">Cultúr Agus Gaeilge</a></li><li><a href="/about-the-gaa/gaa-overseas/">International GAA</a></li><li><a href="/about-the-gaa/schools-and-third-level/">Schools &amp; Third level</a></li><li><a href="/about-the-gaa/international-rules/">International Rules</a></li><li><a href="/about-the-gaa/partnerships/">Partnerships</a></li><li><a href="/about-the-gaa/publications-and-resources/">Publications &amp; Resources</a></li><li><a href="/about-the-gaa/gaa-on-your-mobile/">GAA on your Mobile</a></li>        </ul>
+            <li><a href="/about-the-gaa/mission-and-vision/">Administration</a></li><li><a href="/about-the-gaa/provinces-and-counties/">Provinces &amp; Counties</a></li><li><a href="/about-the-gaa/the-gaa-club/">The GAA Club</a></li><li><a href="/about-the-gaa/our-games/">Our Games</a></li><li><a href="/about-the-gaa/rules-and-regulations/">Rules &amp; Regulations</a></li><li><a href="/about-the-gaa/gaa-history/">GAA History</a></li><li><a href="/about-the-gaa/cultur-agus-gaeilge/">Cultúr Agus Gaeilge</a></li><li><a href="/about-the-gaa/gaa-overseas/">International GAA</a></li><li><a href="/about-the-gaa/schools-and-third-level/">Schools &amp; Third level</a></li><li><a href="/about-the-gaa/international-rules/">International Rules</a></li><li><a href="/about-the-gaa/super-11s-hurling/">Super 11's Hurling</a></li><li><a href="/about-the-gaa/partnerships/">Partnerships</a></li><li><a href="/about-the-gaa/publications-and-resources/">Publications &amp; Resources</a></li><li><a href="/about-the-gaa/gaa-on-your-mobile/">GAA on your Mobile</a></li>        </ul>
 
         <ul class="col">
             <li class="header"><a href="/coaching-and-games-development/">Coaching &amp; Games Development</a></li>
-            <li><a href="/coaching-and-games-development/news/">News</a></li><li><a href="/coaching-and-games-development/events/">Events</a></li><li><a href="/coaching-and-games-development/newsletters/">Newsletters</a></li><li><a href="/coaching-and-games-development/games-video-room/">Games Video Room</a></li><li><a href="/coaching-and-games-development/research/">Research</a></li><li><a href="/coaching-and-games-development/gogames/">GAA Go Games</a></li><li><a href="/coaching-and-games-development/games-development-conference-2012/">Games Development Conference 2013</a></li><li><a href="/coaching-and-games-development/recreational-football-and-hurling/">Camán Abú &amp; Peil Abú (Recreational Hurling &amp; Football)</a></li><li><a href="/coaching-and-games-development/coaching/">Coaching</a></li><li><a href="/coaching-and-games-development/match-officials/">Match Officials</a></li><li><a href="/coaching-and-games-development/rules-and-specifications/">Rules &amp; Specifications</a></li><li><a href="/coaching-and-games-development/coaching-resources/">Coaching Resources</a></li><li><a href="/coaching-and-games-development/schools/">Schools</a></li><li><a href="/coaching-and-games-development/the-grassroots-to-national-programme/">The Grassroots To National Programme</a></li><li><a href="/coaching-and-games-development/coaching-in-your-club/">Coaching In Your Club</a></li><li><a href="/coaching-and-games-development/resources-and-publications/">Publications</a></li><li><a href="/coaching-and-games-development/contacts-and-links/">Contacts &amp; Links</a></li><li><a href="/coaching-and-games-development/youth-games-centres/">Play to Stay</a></li>        </ul>
+            <li><a href="/coaching-and-games-development/news/">News</a></li><li><a href="/coaching-and-games-development/events/">Events</a></li><li><a href="/coaching-and-games-development/newsletters/">Newsletters</a></li><li><a href="/coaching-and-games-development/games-video-room/">Games Video Room</a></li><li><a href="/coaching-and-games-development/research/">Research</a></li><li><a href="/coaching-and-games-development/gogames/">GAA Go Games</a></li><li><a href="/coaching-and-games-development/games-development-conference-2012/">Games Development Conference 2013</a></li><li><a href="/coaching-and-games-development/recreational-football-and-hurling/">GAA NRG - National Recreational Games </a></li><li><a href="/coaching-and-games-development/coaching/">Coaching</a></li><li><a href="/coaching-and-games-development/match-officials/">Match Officials</a></li><li><a href="/coaching-and-games-development/rules-and-specifications/">Rules &amp; Specifications</a></li><li><a href="/coaching-and-games-development/coaching-resources/">Coaching Resources</a></li><li><a href="/coaching-and-games-development/schools/">Schools</a></li><li><a href="/coaching-and-games-development/the-grassroots-to-national-programme/">The Grassroots To National Programme</a></li><li><a href="/coaching-and-games-development/coaching-in-your-club/">Coaching In Your Club</a></li><li><a href="/coaching-and-games-development/resources-and-publications/">Publications</a></li><li><a href="/coaching-and-games-development/contacts-and-links/">Contacts &amp; Links</a></li><li><a href="/coaching-and-games-development/youth-games-centres/">Super Games Centre</a></li>        </ul>
         
         <ul class="col">
             <li class="header"><a href="/medical-and-player-welfare/">Medical &amp; Player Welfare</a></li>
-            <li><a href="/medical-and-player-welfare/news/">News</a></li><li><a href="/medical-and-player-welfare/injuries/">Injuries</a></li><li><a href="/medical-and-player-welfare/fitness/">Fitness</a></li><li><a href="/medical-and-player-welfare/nutrition/">Nutrition</a></li><li><a href="/medical-and-player-welfare/anti-doping/">Anti-Doping</a></li><li><a href="/medical-and-player-welfare/cardiac-screening/">Cardiac Screening</a></li><li><a href="/medical-and-player-welfare/gaa-insurance-and-injury-scheme/">GAA Insurance and Injury Scheme</a></li><li><a href="/medical-and-player-welfare/protective-equipment/">Helmet Standards</a></li><li><a href="/medical-and-player-welfare/mouthguards/">Mouthguards</a></li><li><a href="/medical-and-player-welfare/medical-equipment/">Medical Equipment</a></li><li><a href="/medical-and-player-welfare/resources/">Resources</a></li>        </ul>
+            <li><a href="/medical-and-player-welfare/news/">News</a></li><li><a href="/medical-and-player-welfare/injuries/">Injuries</a></li><li><a href="/medical-and-player-welfare/fitness/">Fitness</a></li><li><a href="/medical-and-player-welfare/nutrition/">Nutrition</a></li><li><a href="/medical-and-player-welfare/anti-doping/">Anti-Doping</a></li><li><a href="/medical-and-player-welfare/cardiac-screening/">Cardiac Screening</a></li><li><a href="/medical-and-player-welfare/gaa-insurance-and-injury-scheme/">GAA Injury Benefit Fund</a></li><li><a href="/medical-and-player-welfare/protective-equipment/">Helmet Standards</a></li><li><a href="/medical-and-player-welfare/mouthguards/">Mouthguards</a></li><li><a href="/medical-and-player-welfare/medical-equipment/">Medical Equipment</a></li><li><a href="/medical-and-player-welfare/resources/">Resources</a></li>        </ul>
         
         <ul class="col end">
             <li class="header"><a href="/clubzone/">Clubzone</a></li>
-            <li><a href="/clubzone/club-info/">General Information</a></li><li><a href="/clubzone/club-newsletter/">Club Newsletter</a></li><li><a href="/clubzone/club-resources/">Club I.T. Resources</a></li><li><a href="/clubzone/club-manual/">Club Advice Manual</a></li><li><a href="/clubzone/club-programmes/">Club Planning and other Club Programmes</a></li><li><a href="/clubzone/transfers-and-sanctions/">Transfers &amp; Sanctions</a></li><li><a href="/clubzone/inclusion-and-integration/">Inclusion &amp; Integration</a></li><li><a href="/clubzone/child-welfare-and-protection/">Child Welfare &amp; Protection</a></li><li><a href="/clubzone/gaa-injury-scheme/">GAA Insurance and Injury Scheme</a></li><li><a href="/clubzone/national-club-draw/">National Club Draw</a></li><li><a href="/clubzone/asap-programme/">ASAP Programme</a></li><li><a href="/clubzone/gaa-samaritans-partnership/">GAA Samaritans Partnership</a></li><li><a href="/clubzone/gaa-health-and-wellbeing-conference/">GAA Health &amp; Wellbeing Conference</a></li><li><a href="/clubzone/play-in-my-boots/">Play In My Boots</a></li><li><a href="/clubzone/gaa-mental-health-charter/">GAA Mental Health Charter</a></li>            <li class="header mid"><a href="/youthzone/">Youthzone</a></li>
+            <li><a href="/clubzone/club-info/">General Information</a></li><li><a href="/clubzone/club-newsletter/">Club Newsletter</a></li><li><a href="/clubzone/club-resources/">Club I.T. Resources</a></li><li><a href="/clubzone/club-manual/">Club Advice Manual</a></li><li><a href="/clubzone/club-programmes/">Club Planning and other Club Programmes</a></li><li><a href="/clubzone/transfers-and-sanctions/">Transfers &amp; Sanctions</a></li><li><a href="/clubzone/inclusion-and-integration/">Inclusion &amp; Integration</a></li><li><a href="/clubzone/child-welfare-and-protection/">Child Welfare &amp; Protection</a></li><li><a href="/clubzone/gaa-injury-scheme/">GAA Injury Benefit Fund</a></li><li><a href="/clubzone/national-club-draw/">National Club Draw</a></li><li><a href="/clubzone/gaa-samaritans-partnership/">GAA Samaritans Partnership</a></li><li><a href="/clubzone/play-in-my-boots/">Play In My Boots</a></li><li><a href="/clubzone/gaa-mental-health-charter/">GAA Mental Health Charter</a></li><li><a href="/clubzone/health-and-wellbeing-theme-day/">Community &amp; Health Day</a></li>            <li class="header mid"><a href="/youthzone/">Youthzone</a></li>
             <li><a href="/youth-zone/kelloggs-gaa-cul-camps/">Kellogg's GAA Cúl Camps</a></li><li><a href="/youth-zone/gaa-respect-initiative/">GAA Respect Initiative</a></li><li><a href="/youth-zone/video-room/">Video Room</a></li><li><a href="/youth-zone/feile-2014/">Féile 2014</a></li><li><a href="/youth-zone/school-project/">School Project</a></li>           
         </ul>
     </div>
 </div>
 	<div style="clear:both;"></div>
-	<div id="signature"><a href="http://www.ebow.ie/" target="_blank">web design</a> by <a href="http://www.ebow.ie/" target="_blank" title="Digital Agency">digital agency</a> <a href="http://www.ebow.ie/" target="_blank" title="Web Design">ebow</a></div></div>
+	<div id="signature"><a href="http://www.ebow.ie/" target="_blank">web design</a> by <a href="http://www.ebow.ie/" target="_blank" title="Digital Agency">digital agency</a> <a href="http://www.ebow.ie/" target="_blank" title="Web Design">ebow</a></div>
+
+<!-- Targeted -->
+<script type="text/javascript">
+adroll_adv_id = "J6UMPEQRQNA3VOZZISSZZG";
+adroll_pix_id = "NK7BVTLITFBS7NCQR32BJV";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- // Targeted --></div>
 <ul id="targets">
 	<li id="twitter"><a href="http://twitter.com"></a></li>
 	<li id="facebook"><a href="http://www.facebook.com"></a></li>
@@ -829,7 +758,7 @@ $(".smlink").click(function () {
 			<li><label for="emailcomment">Comment</label><textarea name="emailcomment" id="emailcomment" rows="8" cols="8"></textarea></li>
 			<li><input type="image" src="http://www.gaa.ie/images/buttons/submit.png" name="submit" value="submit" class="submit_button"></li>
 		</ul>
-		<input type="hidden" name="page" id="emailpage" value="http://www.gaa.ie/gaa-news-and-videos/daily-news/1/2406141459-video-gaaie-championship-columnists-revealed/">
+		<input type="hidden" name="page" id="emailpage" value="https://www.gaa.ie/gaa-news-and-videos/daily-news/3/1106130951-cahir-healy-i-am-a-hurler/">
 		<input type="hidden" name="title" id="title" value="Privacy Statement | GAA.ie">
 	</form>
 </div>
@@ -849,5 +778,5 @@ $(document).ready(function() {
 	$('#selectnav2').wrap('<div id="selectnav1_wrapper" />');
 });
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"7d9b50ed52","applicationID":"3783160","transactionName":"Z11WMRcAWkYEBhUKWF4XYRcMTl1bAQAZTUdYSA==","queueTime":0,"applicationTime":78,"ttGuid":"","agentToken":"","atts":"SxpVR18aSUg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"97740e4f65","applicationID":"4843649","transactionName":"Z1YDNUZWC0BTV0xYDV4cNBNdGAxdVlFAHxJYQw==","queueTime":0,"applicationTime":100,"atts":"SxEAQw5MGE4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
