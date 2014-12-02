@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the at.govt.nz privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326093333id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the at.govt.nz privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202153650id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -41,17 +41,13 @@ The information that we collect from you may be used by us for a number of purpo
 
 2.5 carrying out market and product analysis and marketing our products and services generally;
 
-2.6 providing the information to carefully selected third parties (such as our Business Partners) so that they can offer products and services that we reasonably believe may be of interest to you (unless you [ ask us](mailto:PrivacyOfficer@aucklandtransport.govt.nz?subject=I%20do%20not%20want%20to%20receive%20information%20from%20a%20third%20party) in writing not to); 
+2.6 registering your details and allocating or offering you rewards, discounts or other benefits and fulfilling any requests or requirements you may have in respect of our loyalty or reward programmes and other similar schemes;
 
-2.7 contacting you about our products and services and the products and services of carefully selected third parties which we reasonably believe may be of interest to you (unless you [ ask us](mailto:PrivacyOfficer@aucklandtransport.govt.nz?subject=I%20do%20not%20want%20to%20receive%20information%20from%20a%20third%20party) in writing not to). Where such contact is via electronic means, any electronic marketing messages we and/or our selected third parties send will include an unsubscribe facility;
+2.7 carrying out any activity in connection with a legal, governmental or regulatory requirement on us or in connection with legal proceedings, crime or fraud prevention, detection or prosecution;
 
-2.8 registering your details and allocating or offering you rewards, discounts or other benefits and fulfilling any requests or requirements you may have in respect of our loyalty or reward programmes and other similar schemes;
+2.8 carrying out activities connected with the running of our business such as personnel training, quality control, network monitoring, testing and maintenance of computer and other systems and in connection with the transfer of any part of our business in respect of which you are a customer or a potential customer;
 
-2.9 carrying out any activity in connection with a legal, governmental or regulatory requirement on us or in connection with legal proceedings, crime or fraud prevention, detection or prosecution;
-
-2.10 carrying out activities connected with the running of our business such as personnel training, quality control, network monitoring, testing and maintenance of computer and other systems and in connection with the transfer of any part of our business in respect of which you are a customer or a potential customer;
-
-2.11 for general administrative and business purposes. 
+2.9 for general administrative and business purposes. 
 
 ## 3\. Will Auckland Transport share my information?
 
@@ -67,11 +63,11 @@ There may be times when we disclose your personal information to third parties. 
 
 3.5 any person or organisation as authorised by the Privacy Act 1993.
 
-If you have not [opted out](http://engage.ubiquity.co.nz/forms/dkgd5AHwMkmB9gjPkGCB0w "Manage your subscriptions") of receiving marketing material from us or [carefully selected third parties](mailto:PrivacyOfficer@aucklandtransport.govt.nz?subject=I%20do%20not%20want%20to%20receive%20information%20from%20a%20third%20party) who we reasonably believe provide products or services that may be of interest to you, we may also provide your personal information to those third parties. We will only do this where those third parties have contracted with Auckland Transport to keep the information confidential, or are subject to obligations to protect your personal information.
-
 ## 4\. What about cookies?
 
-"Cookies" are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. The cookie assigns you an ID that allows Auckland Transport to recognise you when you return to one of our websites. We use cookies to deliver content specific to your interests, so users do not have to register each time they use our websites.
+"Cookies" are pieces of information that a website transfers to an individual's device’s hard drive for record-keeping purposes. The cookie assigns that device an ID that allows Auckland Transport to recognise it when it is used to access an Auckland Transport website.
+
+We use cookies on Auckland Transport websites to collect standard internet log information and details of our visitors’ behaviour patterns in order to  obtain statistics of the number of visits and the popular parts of those website.  These  statistics are gathered and used solely for the purposes of analysing, evaluating and improving the content of Auckland Transport’s websites.
 
 ## 5\. Will my personal information be protected?
 
@@ -85,7 +81,7 @@ The location at which we store your personal information will depend on the natu
 
 ## 7\. Can I access my personal information?
 
-You have the right to know whether or not we hold any personal information about you. You also have the right to access your personal information, if we hold that personal information in a way that it can be readily retrieved. You may request access to the personal information we hold about you by sending an email to: [PrivacyOfficer@aucklandtransport.govt.nz](mailto:PrivacyOfficer@aucklandtransport.govt.nz?subject= "privacyofficer@aucklandtransport.govt.nz").
+You have the right to know whether or not we hold any personal information about you. You also have the right to access your personal information, if we hold that personal information in a way that it can be readily retrieved. You may request access to the personal information we hold about you by sending an email to: [PrivacyOfficer@aucklandtransport.govt.nz](mailto:PrivacyOfficer@aucklandtransport.govt.nz "privacyofficer@aucklandtransport.govt.nz").
 
 You can ask to see the personal information that we hold about you, or make a request for information under the Local Government and Meetings Act 1987, by sending a written request to:
 
@@ -104,6 +100,6 @@ We may change this Privacy Policy from time to time.
 
 ## 9\. Acceptance
 
-The privacy policy forms a part of our [Website Terms and Conditions](https://web.archive.org/about-us/about-this-site/terms-conditions/website-terms-conditions/ "Website Terms & Conditions") and should be read in conjunction with them. By viewing and using our websites or related services offered in conjunction with our websites, you agree to Auckland Transport collecting and using your personal informal information as set out in this Privacy Policy. If you do not agree to anything in this Privacy Policy (for example if you do not wish to receive marketing material from Auckland Transport or carefully selected third parties), you can either [ contact us](mailto:PrivacyOfficer@aucklandtransport.govt.nz?subject= "Email request") or you can stop accessing or using our websites.
+The privacy policy forms a part of our [Website Terms and Conditions](https://web.archive.org/about-us/about-this-site/terms-conditions/website-terms-conditions/ "Website Terms & Conditions") and should be read in conjunction with them. By viewing and using our websites or related services offered in conjunction with our websites, you agree to Auckland Transport collecting and using your personal informal information as set out in this Privacy Policy. If you do not agree to anything in this Privacy Policy or if you do not wish to receive marketing material from Auckland Transport, you can either [ contact us](mailto:PrivacyOfficer@aucklandtransport.govt.nz "Email request") or you can stop accessing or using our websites.
 
-If you decide not to provide personal information requested when you use, register or open an account on one of websites, this may result in services or products (including related services offered in conjunction with our websites) not being offered or provided to you.
+If you decide not to provide the personal information requested when you use, register or open an account on our website, this may result in services or products (including related services offered in conjunction with our websites) not being offered or provided to you.
