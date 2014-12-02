@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the indiancolleges.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210013934id_/http%3A//www.indiancolleges.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancolleges.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202145202id_/http%3A//www.prepsure.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy | Prepsure.com
 
 The Company and its subsidiaries respect your privacy. This Privacy Policy lists the manner your data is collected and used by the site/service, and you are requested to read it carefully. By accessing the services provided by the site service india.com, You agree to the collection and use of your data by the site/service india.com in the manner provided in this Privacy Policy.
 
 This Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by the Company and the site/service india.com or to the people that are not engaged, employed or managed by the Company the site/service india.com.
 
-We want you to
+We want you to:
 
   * feel comfortable using our web sites
   * feel secure submitting information to us
@@ -15,15 +15,15 @@ We want you to
 
 
 
-WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?
+## WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?
 
-We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from: 
+We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from “cookies,” sent to your browser from:
 
   * web server cookie stored on your hard drive
   * an IP address, assigned to the computer which you use
   * the domain server through which you access our service
-  * the type of computer you're using
-  * the type of web browser you're using
+  * the type of computer you’re using
+  * the type of web browser you’re using
 
 
 
@@ -48,7 +48,7 @@ We may also collect the following information:
 
 
 
-WHO COLLECTS THE INFORMATION?
+## WHO COLLECTS THE INFORMATION?
 
 We will collect anonymous traffic information from you when you visit our site.
 
@@ -62,7 +62,7 @@ If you purchase a product or service from us, we request certain personally iden
 
 We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. india.com does store this information and the information is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. india.com does store this information and the information is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof.
 
@@ -76,21 +76,21 @@ If you use a bulletin board or chat room on this site, you should be aware that 
 
 We are the sole owners of your information collected by us at several different points on our Website.
 
-HOW IS THE INFORMATION USED?
+## HOW IS THE INFORMATION USED?
 
-We use your email address to send you: 
+We use your email address to send you:
 
   * Password reminder and registration confirmation
   * Special offers
   * News letters
-  * Changes in the service's policy or terms of use
+  * Changes in the service’s policy or terms of use
   * Event based communications such as order information, renewal notices, invites, reminders etc.
 
 
 
 Note: We send users newsletters and updates upon registration. We send newsletters and/or promotional emails on behalf of our alliance partners.
 
-We use your personal information to: 
+We use your personal information to:
 
   * help us provide personalized features
   * tailor our sites to your interest
@@ -100,7 +100,7 @@ We use your personal information to:
 
 
 
-We use contact information internally to: 
+We use contact information internally to:
 
   * direct our efforts for product improvement
   * contact you as a survey respondent
@@ -109,37 +109,33 @@ We use contact information internally to:
 
 
 
-Generally, we use anonymous traffic information to: 
+Generally, we use anonymous traffic information to:
 
   * remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective;
   * recognize your access privileges to our Web sites
-  * track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings
-  * make sure that you don't see the same ad repeatedly
+  * track your entries in some of our promotions, sweepstakes and contests to indicate a player’s progress through the promotion and to track entries, submissions, and status in prize drawings
+  * make sure that you don’t see the same ad repeatedly
   * help diagnose problems with our server
   * administer our Web sites
   * track your session so that we can understand better how people use our sites
 
 
 
-WITH WHOM WILL YOUR INFORMATION BE SHARED?
+## WITH WHOM WILL YOUR INFORMATION BE SHARED?
 
 We will not use your financial information for any purpose other than to complete a transaction with you.  
-We do not share or rent your email addresses with third parties except our agents and alliance partners. 
+We do not share or rent your email addresses with third parties except our agents and alliance partners.AGENTS
 
-AGENTS
-
-We use the services of our enabling partners such as outside shipping companies, resellers, business associates to fulfill orders, and credit card processing companies to process the payment for goods and services ordered from india.com website. These entities do not retain, store, share or use personally identifiable information for any other purposes. 
-
-ALLIANCE PARTNERS
+We use the services of our enabling partners such as outside shipping companies, resellers, business associates to fulfill orders, and credit card processing companies to process the payment for goods and services ordered from india.com website. These entities do not retain, store, share or use personally identifiable information for any other purposes.ALLIANCE PARTNERS
 
 We will share your information with our Alliance Partners who work with us or on our behalf to help provide you the services. An alliance partner is a company or an individual who owns and manages (wholly or part of) online content on their websites powered by india.com.
 
 We share email addresses email addresses with Agents and Alliance Partners. The Agents and Alliance Partners use the email address to confirm the deliveries, send notices and offer services related to the service.
 
-We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless: 
+We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
 
   * we have your permission
-  * to provide products or services you've requested
+  * to provide products or services you’ve requested
   * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of india.com terms of use or to defend against legal claims;
   * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
 
@@ -153,7 +149,7 @@ The security of your personal information and email address is important to us. 
 
 If you have any questions about security on our Web site, you can send email us at [support@india.com](mailto:support@india.com)
 
-WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?
+## WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?
 
 Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
 
@@ -161,7 +157,7 @@ You may change your interests at any time and may opt-in or opt-out of any marke
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@india.com](mailto:support@india.com).
 
-We provide you the opportunity to 'opt-out' of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference, follow the instructions included in each newsletter or communication or by emailing us at [support@india.com](mailto:support@india.com).
+We provide you the opportunity to ‘opt-out’ of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference, follow the instructions included in each newsletter or communication or by emailing us at [support@india.com](mailto:support@india.com).
 
 Upon request, we will remove/block your personally identifiable information from our database, thereby cancelling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
@@ -175,11 +171,11 @@ You can accept or decline the cookies. All sites that are customizable require t
 
 COOKIES
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier and secured for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Reference for cookies can be found a <http://www.cookiecentral.com/>.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier and secured for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. Reference for cookies can be found a <http://www.cookiecentral.com/>.
 
-We use session cookies to store the secure session and browsing preferences of the user. We set a persistent cookie to store your username and interests so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+We use session cookies to store the secure session and browsing preferences of the user. We set a persistent cookie to store your username and interests so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. Cookies are used in shopping cart to enable enhanced security and ensuring there is no URL based spamming.
 
@@ -208,7 +204,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we decide to change our email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 India Webportal Private Limited  
-JV PMC and Zee Entertainment Enterprises Ltd  
-B/1201 BSEL Tech Park, Near Vashi Rly Station,  
-Navi Mumbai, India 400705  
+JV – PMC and Zee Entertainment Enterprises Ltd  
+8th floor, Vishwaroop IT Park,Opp. Vashi Railway Station, Sector 30A, Vashi,  
+Navi Mumbai-400703, Maharashtra, India  
 Main Vashi Office: +91-22-41151660
