@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the ezdia.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231075041id_/http%3A//www.ezdia.com/view/store/signinPages/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezdia.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202101535id_/http%3A//www.ezdia.com/store/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | eZdia
+# Privacy | eZdia
 
 This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
+  * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  * What choices are available to you regarding the use of your data.
+  * The security procedures in place to protect the misuse of your information.
+  * How you can correct any inaccuracies in the information.
 
 
 
-## Information Collection, Use, and Sharing
+## Information collection, use, and sharing
 
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
@@ -19,7 +19,7 @@ We will use your information to respond to you, regarding the reason you contact
 
 Unless you ask us not to, we may contact you via email in the future to tell you about news, specials, new products or services, or changes to this privacy policy.
 
-## Your Access to and Control Over Information
+## Your access to and control over information
 
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
@@ -28,7 +28,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-## Security 
+## Security
 
 We take precautions to protect your information. When you submit information via the website, your information is protected.
 
