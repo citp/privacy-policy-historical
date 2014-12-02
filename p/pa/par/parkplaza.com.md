@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630134843id_/http%3A//www.parkplaza.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202144606id_/http%3A//www.parkplaza.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
 
 # Guest Privacy Policy
 
