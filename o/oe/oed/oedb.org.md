@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070649id_/http%3A//oedb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202235805id_/http%3A//oedb.org/privacy-policy) for the most accurate reproduction.*
 
-# OEDb.org Privacy Policy - OEDB.org
+# OEDb.org Privacy Policy | OEDB.org
 
 This privacy statement defines the ways in which OEDB.org gathers and shares users’ personal information, as well as what it does internally with said information. This policy may be modified in the future to reflect changes in our information procedures; as such, we suggest reading this policy periodically so that you know how your information is gathered, shared, and used by us.
 
