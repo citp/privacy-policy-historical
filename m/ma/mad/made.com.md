@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528185710id_/http%3A//www.made.com/our-cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202174646id_/http%3A//www.made.com/our-cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Our Cookie and Privacy Policy | made.com
 
