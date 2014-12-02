@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512061940id_/http%3A//www.globalgamingexpo.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202010621id_/http%3A//www.globalgamingexpo.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Gaming Expo
 
