@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaidutyfreetennischampionships.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508171327id_/http%3A//www.dubaidutyfreetennischampionships.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaidutyfreetennischampionships.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202181654id_/http%3A//www.dubaidutyfreetennischampionships.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Dubai Duty Free Tennis Championships - Privacy Policy
 
