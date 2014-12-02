@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222408id_/https%3A//www.bankatfirst.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202015340id_/https%3A//www.bankatfirst.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy l First Financial Bank
+
+Rev. 05/2014
 
 **FACTS** | **WHAT DOES FIRST FINANCIAL BANK DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -22,7 +24,7 @@ Such as to process your transactions, maintain your account(s),respond to court 
 To offer our products and services to you | Yes | No  
 **For joint marketing with other financial companies** | Yes | No  
 **For our affiliates' everyday business purposes —**  
-Information about your transactions and experiences | Yes | Yes  
+Information about your transactions and experiences | Yes | No  
 **For our affiliates' everyday business purposes —**  
 Information about your creditworthiness | Yes | Yes  
 **For our affiliates to market to you** | Yes | Yes  
@@ -87,9 +89,6 @@ State laws and individual companies may give you additional rights to limit shar
   
 **Other important information**  
 ---  
-  
-First Financial Bank honors the National and Indiana Do-Not-Call Registries. From time-to-time we may call you about additional financial products and services that may be of interest to you. If you would prefer not to receive a call from us, please write to us at: First Financial Bank, Attn: CIF Department, 225 Pictoria Dr., Suite 600, Cincinnati, OH 45246, or call us at 877-322-9530. You will remain on the bank’s Do Not Call list until you notify us otherwise.  
-  
 **List of Affiliates**  
 | First Financial Bancorp | First Financial Bank, N.A.  
 ---|---  
