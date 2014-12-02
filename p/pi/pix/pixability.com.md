@@ -1,76 +1,71 @@
-> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127031758id_/http%3A//www.pixability.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202192251id_/http%3A//www.pixability.com/privacy-policy) for the most accurate reproduction.*
 
-# PIXABILITY PRIVACY POLICY | Pixability
+# Video Marketing Privacy Policy| Pixability | Pixability
 
-(last updated Sept. 20, 2008)
+## Privacy Policy
 
-## Our Policy
+This is the privacy policy of Pixability, Inc. (“Pixability” or “we” or “us,” or “our.”) and governs the web sites and services that are owned and operated by Pixability and can be found at [www.pixability.com](http://www.pixability.com/) (and related and successor URLs). These sites and services are referred to as the “Pixability Sites and Solution.”
 
-Welcome to the website (the “Site”) of Pixability, Inc. (“Pixability”, “we”, “us” and/or “our”). This Site is operated by Pixability and has been created to provide information about our company and to provide access to video editing and video sharing services (the “Pixability Services”) to our Site visitors (“you”, “your”). This Privacy Policy sets forth Pixability’s policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from Site visitors.   
-**  
-We’re dedicated to protecting your privacy – regarding your personal home videos as well as your personal information.**
+When you access or use any Pixability Sites and Solution, you are accepting this Privacy Policy, and Pixability will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you should contact us immediately and discontinue using Pixability Sites and Solution.
 
-## Information We Collect
+**How Is Your Information Collected and Used by Pixability?**
 
-When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below:
+This Privacy Policy describes the kinds of information Pixability may collect or use or disclose about you or your computer or device when you access or use any Pixability Sites and Solution.
 
-**Personal Data That You Provide:**
+• If you are a customer of Pixability, we will require you to provide, and we will store, information that identifies you personally such as your name, contact information, and payment method. Pixability uses the personal data you provide to respond to your inquiries and requests, to operate and provide the Pixability Sites and Solution, to keep records concerning your use of the Pixability Sites and Solution you access, and to manage billing and accounts.
 
-We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Pixability Services or use certain Pixability Services – such as sending us your personal video memories. Wherever Pixability collects Personal Data we make an effort to provide a link to this Privacy Policy. For example, we may collect your email address in order to send you newsletters or information on our products on regular basis. We collect your credit card number, expiration date as well as billing and shipping address if you choose to purchase Pixability Services.  
-By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Pixability and the authorized third parties referred to herein located in the United States.
+• If, as a customer of Pixability or other user (including as an employee, etc. of a customer), you subscribe to any service offered by Pixability that requires you to employ a user id and password (or other user authentication method) in order to access such service, then you may be asked to provide your name, employer name, contact information (including email address and/or phone number) and other personal information.
 
-**Other Information:**
+Also, your user ID and password may include or feature personally-identifiable information, in order to access the console, account areas and/or other areas that are accessible only by customers or its personnel. We use user IDs and passwords, in part, to protect your privacy and security. You and, if applicable, your employer are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-**Non-Identifiable Data:** When you interact with Pixability through the Site, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Pixability may store such information itself or such information may be included in databases owned and maintained by Pixability affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.   
-In operating this Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features.
+• You may be required to provide an email address or other contact information in order to receive notifications, subscription-based functions, as well as email newsletters or promotions (some of which may be on an “opt-in” basis). As a customer and user of any Pixability Solution, you acknowledge that we have the right to send you emails relating to your access or use of such Pixability Solution and/or your registration or account from time to time.
 
-**Aggregated Personal Data:** In an ongoing effort to better understand and serve the users of the Pixability Services, Pixability often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Pixability may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Pixability may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+• You may also be given the opportunity to provide an email address or other unique identifier or be requested or required to provide log-in information in order to use a social media feature or for Pixability to access a customer’s account for providing its Pixability Sites and Solution. Where the feature is branded according to a branded social network or social media service, then Pixability could, in fact, not be provided visibility or access to such log-in or other identifier, and thus we shall have no responsibility over the privacy and use of such log-in information or the use, storage or disclosure of any information about you by such service.
 
-## Our Use of Your Personal Data and Other Information
+Additionally, you should be aware of the following:
 
-Pixability uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Pixability Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Pixability and its subsidiaries and affiliates (the “Pixability Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Pixability Services. Pixability and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.  
-If Pixability intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
+• Pixability archives any and all information, including personally identifiable information, that may be input in any registration process even if the user or the customer ceases or refuses or fails to use or abandons the product or service offered by Pixability.
 
-## Our Disclosure of Your Personal Data and Other Information
+• If you submit an inquiry to or respond to a request by Pixability, any information you provide, including any contact name, address, email address, telephone number, financial information, etc., will be used by Pixability in order to respond to such inquiry or request and may be archived by us indefinitely for future reference.
 
-**Pixability is not in the business of selling your information.** We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
+• Pixability does not share personally-identifiable information of any customers with other organizations for their marketing or promotional uses without your express consent.
 
-Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.   
-Related Companies: We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.   
-Agents, Consultants and Related Third Parties: Pixability, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. We will not disclose your information for third-party direct-marketing purposes.   
-Legal Requirements: Pixability may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Pixability, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
+• To provide web site hosting, maintenance and security, fulfill orders, offer certain functionality, improve our site, and create new site features, we may disclose one or more customers’ information to affiliated companies or other businesses or persons, such as, for example, credit card service providers or cloud or data storage providers. In some cases, the use, collection and disclosure of information by these third party providers are governed by their privacy policies and this Privacy Policy does not apply, or our privacy policies may jointly apply.
 
-## Your Choices
+• By using any Pixability Sites and Solution, you are consenting to the placing of cookies and other tools on your computer or devices which allow Pixability to collect certain information. We generally use non-personally identifiable information in aggregated form to help measure the performance and effectiveness of our Pixability Sites and Solution, and to improve their usefulness.
 
-You can use the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Pixability Services.
+• We may also combine your information with information collected from other sources, particularly in cases where we and our third party partners or contractors may be vetting or investigating a new, existing or prospective customer for potential of fraud or other undesirable activities.
 
-## Exclusions
+You may, of course, decline to share any or certain items of personally-identifiable information with Pixability, in which case we may be unable to provide you with the Pixability Sites and Solution.
 
-This Privacy Policy does not apply to any Personal Data collected by Pixability other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Pixability through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Pixability shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+**Where Pixability stores Personal Data**
 
-## Children
+By using any Pixability Sites and Solution, you are consenting to the possible transfer of your personal data to, and storage of your personal data in, countries outside your home country or territory. If you reside in the European Economic Area (“EEA”), your personal data may be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of services.
 
-Pixability does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Pixability through this Site, please contact us, and we will endeavor to delete that information from our databases.
+Pixability uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of the information it collects. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect our customers’ and users’ information, please be advised that Pixability assumes no responsibility or liability for disclosure of your information due to errors in transmission, unauthorized third-party access or other causes beyond Pixability’s reasonable control.
 
-## Links to Other Websites
+**Other Information Sharing**
 
-This Privacy Policy applies only to the Site. This Site may contain links to other websites not operated or controlled by Pixability (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that Pixability endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+Pixability may disclose one or more customers’ and/or individual users’ information if required to do so by law (or it believes in good faith that such action is necessary or advisable in order to comply with any laws of any country or region which may assert its jurisdiction) or in order to respond to a judicial or other governmental action, order, subpoena, request, demand or warrant. We may make such disclosures without providing notice to you.
 
-## Security
+Pixability also reserves the right to collect and/or disclose one or more customers’ and/or individual users’ information if Pixability determines that it is necessary or appropriate in its sole discretion for the following reasons: to take precautions against liability; to protect against fraudulent, abusive, or unlawful uses; to investigate or defend against third-party actions or allegations (including assisting a customer or third party to do so); to assist government enforcement agencies; or to protect the security, integrity, rights, property, or personal safety of Pixability, its systems and services, as well as its employees, customers and/or others.
 
-Pixability takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to Pixability via the Internet.
+There is the possibility that Pixability, or parts of the company or existing or future affiliates, may one day be purchased by, or merged with, another company and your and other customers’ and users’ information may be disclosed or transferred as part of a merger, acquisition, debt financing, sale of assets, bankruptcy, receivership, insolvency, liquidation or dissolution event. In these cases, any acquiring (or merging) company will be provided and have access to your information.
 
-## Other Terms and Conditions
+**Third party sites and services**
 
-Your access to and use of this Site is subject to the Terms of Use.
+If you have encountered Pixability at sites or through using offerings that are owned or controlled by third parties, then any information, use of cookies or other means to collect information about you or your computer or device, the use of such information, and other matters involving your personal information and privacy will be governed by the privacy policy of such third party that owns or controls such sites or offerings. This Privacy Policy does not apply to the such third party sites or offerings. This is true even if Pixability is involved in such third party offering including providing such offering on behalf of an advertiser or other third party customer or partner of Pixability.
 
-## Changes to Pixability’s Privacy Policy
+Notably, some customers (and their third-party service or technology providers) may use pixels, cookies, flash cookies, web beacons and/or similar technologies which are activated when they use Pixability Solutions or other services. Consistent with such third party’s privacy policy and other terms, Pixability may receive aggregate information from such customers but we do not request or actively seek to obtain or receive any personal information about any individual users.
 
-The Site and our business may change from time to time. As a result, at times it may be necessary for Pixability to make changes to this Privacy Policy. Pixability reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+**Changes to this Policy**
 
-## Access to Information; Contacting Pixability
+Pixability may update this Privacy Policy from time to time, and so you should review this Privacy Policy periodically. You may be provided other privacy-related information in connection with your use of offerings from Pixability, as well as for special features and services not described in this Privacy Policy that may be introduced in the future.
 
-To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site.   
-Please also feel free to contact us if you have any questions about Pixability’s Privacy Policy or the information practices of this Site.
+**Questions, Concerns, Comments**
 
-You may contact us as follows: [privacy@pixability.com](mailto:privacy@pixability.com)
+For more information, or if you have questions or concerns regarding our Privacy Policy, you may contact us by contacting us here or you can send correspondence to the following address:
+
+Pixability, Inc.  
+123 North Washington Street  
+Boston MA 02114 USA
