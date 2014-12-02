@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealware.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101907id_/http%3A//idealware.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealware.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202050455id_/http%3A//idealware.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Idealware
 
