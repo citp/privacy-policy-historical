@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623143213id_/http%3A//www.dotcom-monitor.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202013550id_/https%3A//www.dotcom-monitor.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Dotcom-Monitor Privacy Statement | Dotcom-Monitor
 
-* Dotcom-Monitor collects certain information relative to users who visit the site and applications we monitor. This service categorizes information into certain categories and the privacy level and what we do with the information that we collect depends upon the category in which it falls.
+  * Dotcom-Monitor collects certain information relative to users who visit the site and applications we monitor. This service categorizes information into certain categories and the privacy level and what we do with the information that we collect depends upon the category in which it falls.
 
 Category I \- Information on users who visit our site to read or download information on our pages. From these users, we collect and store only the following information: 
 
-  * The domain name through which you gained access to our Web site;
-  * The precise time and date that you entered our web site.
-  * The URL of the web page through which you linked to our web site.
-  * General browsing information gathered via Google Adwords, retargeting, and search history.
-
-
+    * The domain name through which you gained access to our Web site;
+    * The precise time and date that you entered our web site.
+    * The URL of the web page through which you linked to our web site.
+    * General browsing information gathered via Google Adwords, retargeting, and search history.
 
 Category II \- Users who send us e-mail containing personal information or identifies you, or request technical support. Any information that we collect in this way is used only for purposes of responding to you and addressing the issues that you may have raised.
 
@@ -21,7 +19,7 @@ As a security measure for ourselves and our users, we utilize certain software p
 
 Because our service is subscription-based, it may be necessary to keep your information in our database depending on the services you select. It is not our policy to sell, share or otherwise provide access to such information to any unaffiliated third parties.
 
-* Ready to Start?
+  * Ready to Start?
 
 Have a Question?
 
@@ -50,3 +48,6 @@ Netherlands
 
 United Kingdom
     +442030265049
+
+
+
