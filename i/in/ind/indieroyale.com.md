@@ -1,174 +1,45 @@
-> *The following text is extracted and transformed from the indieroyale.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603035646id_/http%3A//www.indieroyale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indieroyale.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202145733id_/http%3A//www.indieroyale.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Linden Lab
+# Bad Juju Games, Inc | Privacy Policy – Desura
 
-### **Linden Lab Privacy Policy**
+**[](http://www.badjuju.com/)**
 
-Effective Date: August 1, 2013
+You are here: [Home](http://www.badjuju.com/ "Bad Juju Games, Inc") / Privacy Policy – Desura
 
-Linden Research, Inc. and Linden Research UK, Ltd. (collectively **“Linden Lab”** ) respect the privacy of its online visitors and users of its products and services. We recognize the importance of protecting information collected from our users and have adopted this Privacy Policy to inform you about how we gather, store and use information derived from your use of our products, services and online sites in accordance with local law in the places where we operate.
+## **DESURA**
 
-By using our online sites, products, and services (collectively, the **“Service”** ), you agree that we may collect personally identifiable information (as defined below). We will not share your personally identifiable information except as described herein.
+## **ONLINE PRIVACY POLICY/ YOUR CALIFORNIA PRIVACY RIGHTS**
 
-  1. Types of Information We Collect  
+October 31, 2014
 
-  2. How We Collect Your Information  
+Desura Pty Ltd, a wholly owned subsidiary of Bad Juju Games, Inc., and its network of websites are committed to protecting your privacy. This Online Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Online Privacy Policy. Please note that by visiting and using [www.desura.com](http://www.desura.com/), [www.indieroyale.com](http://www.indieroyale.com/) and [www.dailyroyale.com](http://www.dailyroyale.com/)   and or any other website owned and operated by Desura Pty Ltd., you are accepting the practices described in this Online Privacy Policy.
 
-  3. Use of Your Information by Linden Lab  
+We take care to protect the privacy of children under the age of 13 who visit our websites. If you are under 18, please be sure to read this policy with your parents or legal guardians and ask questions about things you do not understand. Children under 13 should get your parent’s or legal guardian’s permission before giving out your e-mail address or any personal information to Desura or to anyone else on the Internet. **To learn about Desura’s Children Privacy Policy please[click here](http://www.badjuju.com/privacy-policy-for-children-desura/ "Privacy Policy for Children – Desura").  **
 
-  4. Sharing Your Information with Other Companies  
+  1. ****What Personal Information does Desura Collect?**** When users visit our website, mobile apps purchase content, purchase advertising, make requests and register/win competitions to receive materials, we may collect “Personal Information”.  Personal Information is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, credit/debit card information or other contact information.Personal Information includes information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with Desura websitesPersonal Information may also include certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site. 
 
-  5. Your Controls and Choices  
+When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is treated as Personal Information.
 
-  6. Children's Privacy  
+There is absolutely nothing special about the information just described, and the practice of collecting this data has been generally standardized by virtually every Web Server on the Internet today.
 
-  7. Data Transfers, Storage and Processing Globally  
+  2. ****How Does Desura Use Cookies?**** Cookies are small pieces of data that are transferred to your computer’s hard drive through your Web browser from our Web Server. A cookie cannot read data from your hard disk or read cookie files that may have been created from other sites. The Desura website utilizes cookies as a means of providing personalization features to our visitors. For example, we utilize cookies to remember settings (music preferences, language settings, etc.) that you may have made at our website.You can choose whether to accept cookies by changing the settings of your browser. Typically, by accessing the browser’s help feature you can obtain information on how to prevent your browser from accepting all cookies or to notify you when a cookie is being sent. If you choose not to accept these cookies, your experience at our website and other websites may be diminished and some features may not work as intended. Depending on your mobile device, you may not be able to control tracking technologies through browser settings.If you would like more information about cookies and related technologies, [click here](http://www.allaboutcookies.org/).
+  3. ****Why does Desura collect Personal Information?**** The purpose for this information is actually two-fold. One, Desura has found it advantageous to examine visitor traffic in its aggregate, so that we can ensure maximum compatibility for the various browsers and operating systems that visit our site. Additionally, as any business should attest, it is our desire to generate greater amounts of visitor traffic. By analyzing visitation patterns, referring URLs and Search Engine terms, we can strategically enhance our exposure on the Internet.
+  4. ****Does Desura Share Personal Information?**** We do not sell Personal Information about our customers or website users to any third parties. We maintain a strict “No Spam or UCE” policy that means we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent.We may from time to time share your Personal Information with our business partners, resellers, affiliates, and service providers, consulting partners and others in an effort to better serve you.Any Personal Information we collect may be shared with Desura’s corporate affiliates, or companies who operate under the same corporate control. Desura will take reasonable steps to ensure that these company affiliates honor this Online Privacy Policy and Children Privacy Policy. 
 
-  8. Changes to this Privacy Policy  
+However, we may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Desura; or (b) to protect and defend the rights or property of Desura or users of our website.
 
-  9. Comments and Questions  
+Desura may also “de-personalize” Personal Information by removing personally identifiable characteristics, such as name and email address, and aggregate data for use in surveys or other business purposes. Desura may then use and/or share this de-personalized information with third parties.
 
+  5. ****Your Choices Regarding Your Personal Information**** If you choose not to provide any Personal Information when requested on the website, you can still enjoy most areas on the website. However, you may be unable to access certain areas and services that require our interaction with you.Desura will not send you e-mail that you have not agreed to receive. If you are a member of our Mailing List, you will be contacted with announcements, news, portfolio additions, and new products or services. You have the option of “Unsubscribing” from our Mailing List at any time, thereby disabling any further such e-mail communication from being sent to you. If you wish to have specific communications with a member of the Desura staff, you will be required to provide specific information that will be routed to the appropriate contact within Desura.
+  6. ****Third Party Links**** Desura uses third-party advertising companies to serve ads when you visit our websites. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).Desura further provides “links” to a wide variety of other web sites on the Internet, including access to social media features such as Facebook, Twitter and Pinterest buttons (such as “Like,” “Tweet” or “Pin”). We are not responsible for their Privacy Policies or how those web sites manage information about their users. Your interactions with third party links or the social media features are governed by the privacy policy of the company providing the feature. We strongly urge you to check with those web sites to determine their privacy policy and to control your privacy settings.
+  7. ****Commitment to Data Security**** To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. All financial transactions are protected by 2048bit SSL encryption.
+  8. ****Contact Us**** Please send any notices or request regarding this Privacy Policy by care of e-mail to: [legal@badjuju.com](mailto:legal@badjuju.com).
+  9. ****Notice To California Residents – Your California Privacy Rights:**** Under California Civil Code Section 1798.83 (known as the “Shine the Light” law), Desura customers who are residents of California may request certain information you have the right to request certain information regarding the disclosure of your information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes.To make such a request, please write to us at the following address:32 Journey, Suite 200, Aliso Viejo, CA 926565. 
 
+Alternatively, you may send us an email at [legal@badjuju.com](mailto:legal@badjuju.com).
 
+  10. ****Online Privacy Policy Updates**** We may periodically update our Online Privacy Policy.  When this happens we will notify you of the new policy by posting it on our sites. Please review our policies regularly as updated policies will apply to your future visits to our website.
 
-### 1.    Types of Information We Collect
 
-We collect two basic types of information – personal information and anonymous information – and we may use personal and anonymous information to create a third type of information, aggregate information. **Personal Information**   means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s first and last name, postal address, e-mail address and/or telephone number. **Anonymous Information** means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual (including an individual’s computing device). **Aggregate Information** means information about groups or categories of individuals which does not identify and cannot reasonably be used to identify an individual. We may share Aggregate and Anonymous Information with other parties without restriction.
 
-We collect the following categories of information:
-
-  * Registration information you provide when you create an account, which may include your first name and surname, country of residence, gender, date of birth, e-mail address, username and password.
-  * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information. If you conduct transactions (for instance, on Second Life’s LindeX), we may collect and retain some or all of the information related to these transactions, including transaction amount(s), parties involved, time and manner of exchange, and other transaction circumstances. 
-  * Information you provide in public forums on our Service. Please note that our sites and applications may offer chat, forums, community environments (including multiplayer gameplay) or other tools that do not have a restricted audience. If you provide Personal Information when you use any of these features, that Personal Information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. We have no obligation to keep private personally identifiable information that you have made available to other users or the public using these functions. To request removal of your Personal Information from a public forum on one of our sites or applications, please contact [Customer Support](mailto:privacy@lindenlab.com).
-  * Information sent either one-to-one or within a limited group using our message, chat, post or similar functionality, where we are permitted by law to collect this information.
-  * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms (such as social networking sites), or link your profile from a third-party site or platform to your registered account.
-  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information. 
-  * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms, or open e-mails that we send.
-
-
-
-Additionally there are a few special circumstances to note:
-
-  *  **Intellectual Property Claim Notices:** If you notify us of an intellectual property claim, the information in your claim notice may be shared with other parties to the disagreement or third parties in our discretion and as required by law.
-  *  **Beta Service User:** If you volunteer to serve as a beta participant for our pre-commercial content, we may track bug reports and individual system performance in an effort to test our technology rigorously before it is deployed. 
-  *  **Former Customer:** If you discontinue your use of our Service, we may keep your registration file in our database for use in the event that you elect to renew your use of our Service, as well as for anti-fraud and other such protective measures. 
-  *  **Job Postings or Unsolicited Communications:  ** Please note that information we receive in reference to a job posting or by unsolicited communications does not fall within the terms outlined in this Privacy Policy, however information from your resume will be used solely for the purpose of evaluating your candidacy for employment.
-
-
-
-### 2.    How We Collect Your Information
-
-We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer inquiries or surveys, or otherwise interact with us.
-
-  * We collect information through technology, such as cookies and other technologies (such as web beacons and pixel tags), including when you visit our sites and applications or use our applications on third-party sites or platforms. A cookie is a small string of data which often includes an anonymous unique identifier sent to your Internet browser from a website’s computers, which is stored on your computer’s hard drive and is used to customize your use of a product or online site, keep records of your access to an online site or product, or store information needed by you on a regular basis (e.g. password retention functionality). Linden Lab (itself or through third parties acting on our behalf) use cookies for a number of purposes relating to our websites, applications and services, including to access your account information where you “login” to our websites, forums or other areas and to keep track of your website session data. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so consult the “Help” menu of your browser to learn how you change your cookie preferences. Please note that if you reject all cookies, you may not be able to use certain of our (or other companies’) web pages.
-  * We participate in ad and/or affiliate networks operated by various third party companies. These companies collect and may use certain anonymous information about your visits to our Service as a function of referring Internet traffic to our Service. We do not permit these companies to collect any Personal Information about you; however these companies may collect your IP address. These companies may set and use cookies, web beacons, pixels and other technologies to collect anonymous information about your visits to our Service, and may otherwise aggregate, analyze and anonymize that data. If you would like to learn more about these specialized advertising technologies, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies, including [information about how to opt-out](http://www.networkadvertising.org/choices) of certain information collection.
-  * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
-
-
-
-Please keep in mind that when you provide information to us on a third-party site or platform (for example, through our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this Privacy Policy and the information that the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
-
-### 3.    Use of Your Information by Linden Lab
-
-Linden Research, Inc. (itself or in the capacity of a data processor for Linden Research UK, Ltd.)(collectively, “Linden Lab”) will be the data controller for your information. Linden Lab may have access to your information where it performs services on behalf of the data controller(s)(as a data processor) and, unless prohibited under applicable law, for use on its own behalf (as a data controller) for the following purposes:
-
-  * Provide you with the products and services you request
-  * Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies
-  * Consistent with local law and choices and controls that may be available to you: 
-    * Send you offers and promotions for our products and services or, as permitted, third-party products and services
-    * Personalize content and experiences on our sites and applications
-    * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. 
-  * Optimize or improve our products, services and operations
-  * Detect, investigate and prevent activities that may violate our policies or be illegal
-
-
-
-Except under certain limited circumstances as set forth here and in our [Terms of Service](http://www.lindenlab.com/tos), Linden Lab does not disclose to third parties the Personal Information or other account-related information that you provide to us without your permission. You understand, however, that Linden Lab may disclose your Personal Information or other account-related information under the following circumstances:
-
-  * If we believe in good faith that such disclosure is necessary under applicable law, or to comply with legal process served on Linden Lab;
-  * In order to protect and defend the rights or interests of Linden Lab, its products and services, and/or the other users of such products and services;
-  * In order to report to law enforcement authorities, or assist in their investigation of suspected illegal or wrongful activity, or to report any instance in which we believe a person may be in danger;
-  * To service providers with whom we have contracted to assist us with the features or operations (such as anti-fraud functions, billing, collections, registration, customer support, e-mail delivery, age verification, or Second Life’s LindeX operations), to fulfill your service requests, offer new content or help us improve our products and/or services. Our contracts with these third parties prohibit them from using any of your Personal Information for purposes unrelated to the product or services they are providing;
-  * To other third parties (a) to provide you with services you have requested, (b) to offer you information about our products or services (e.g. events or features), or (c) to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). For instance, we may provide certain information to our payment processor, to credit card associations, banks or issuers (if you are using a credit card), to PayPal (if you are using a PayPal account), or to providers of other services you request. If you choose to use these third parties’ products or services, then their use of your information is governed by their privacy policies. You should evaluate the practices of third party providers before deciding to use their services; and
-  * To other business entities, should we plan to merge with or be acquired by that business entity.
-
-
-
-### 4.    Sharing Your Information with Other Companies
-
-We will not share your Personal Information outside of Linden Lab except in limited circumstances, including:
-
-  * When you allow us to share your Personal Information with another company, such as:
-    * Directing us to share your Personal Information with third-party sites or platforms, such as social networking sites
-    * Please note that once we share your Personal Information with another company, the information received by the other company becomes subject to the other company’s privacy practices. 
-  * When companies perform services on our behalf; however, these companies are prohibited from using your Personal Information for purposes other than those requested by us or required by law.
-  * When we share Personal Information with third parties in connection with the sale of a business, to enforce our Terms of Service or rules, to ensure the safety and security of our users and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law.
-
-
-
-### 5.    Your Controls and Choices
-
-We provide you with the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include:
-
-  * You  may correct, update and/or delete your account registration
-  * You may change your choices for subscriptions, newsletters and alerts
-  * You may choose whether to receive offers and promotions from us for our products and services, or products and services that we think may be of interest to you
-  * You may choose whether to share your Personal Information with other companies so they can send you offers and promotions about their products and services
-  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers by following the directions set forth above in Section 2   
-
-  * You may request access to the Personal Information we hold about you and that we amend or delete it and we request third parties with whom we have shared such information to do the same
-
-
-
-You may exercise your controls and choices, or request access to your Personal Information, by modifying your selections at <http://lindenmktg.p0.com/resubscribe.jsp>, following instructions provided in communications we send to you, or sending correspondence regarding the publications or services you no longer wish to receive from us to the following address:
-
-Linden Lab Privacy Policy  
-Attention: Opt-Out Administrator  
-945 Battery Street  
-San Francisco, CA 94111
-
-Please be aware that if you do not allow us to collect Personal Information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences.
-
-### 6.    Children’s Privacy
-
-We recognize the need to provide further privacy protections with respect to Personal Information that we may collect from children on our sites and applications. Some of the features on our sites and applications are not directed towards children, and we do not knowingly collect Personal Information from children in connection with those features. When we direct certain sites, products or services toward children and intend to collect Personal Information from children, we take additional steps to protect their privacy, including:
-
-  * Notifying parents (including guardians) about our information practices with regard to children, including the types of Personal Information we may collect from children, the uses to which we may put that information, and whether and with whom we may share that information;
-  * In accordance with applicable law, obtaining parental consent for the collection, disclosure or use of Personal Information from their children, or for sending information about our products and services directly to their children;
-  * Limiting our collection of Personal Information from children to no more than is reasonably necessary to participate in an online activity; and
-  * Giving parents access or the ability to request access to Personal Information we have collected from their children and the ability to request that such Personal Information be changed or deleted. At any time a parent may request that we cease to collect further Personal Information from their child or request that any Personal Information that we have collected be changed or deleted from our records, in accordance with applicable law, by sending an e-mail to our [Customer Support](mailto:privacy@lindenlab.com) team.
-
-
-
-In some instances, certain portions of our Service may allow children to submit Personal Information (such as their name and/or the child’s or his or her parent’s e-mail address) without first obtaining their parent’s consent. For example, we may collect online contact information from a child for the purpose of:
-
-  * Obtaining parental consent and/or providing the child’s parent with any information regarding their child’s use of our Service, as required by law;
-  * Responding directly to a specific request from the child on a one-time basis (for instance, in response to a customer support inquiry);
-  * Responding directly more than once to a specific request from the child (for instance, to receive a newsletter or in-game communication from us), provided that in such case (i) we will use reasonable efforts to notify the child’s parent (e.g. via e-mail) of such ongoing communications with the child promptly after our initial response to the child and before making any subsequent responses to the child, and (ii) the child’s parent shall have the right to refuse further contact with the child and require the deletion of Personal Information about or collected from the child by contacting our Customer Support team;
-  * Protecting the safety of a child participant on our Service, provided that we have used reasonable efforts to provide notice to the child’s parent (e.g. via e-mail). If the parent fails to respond to such notice, we may use such online contact information for the purpose stated therein; and
-  * Protecting the security or integrity of our Service, to take precautions against liability, to respond to judicial process or to the extent permitted under other provisions of applicable laws, to provide information to law enforcement agencies or for an investigation on a matter related to public safety, to the extent reasonably necessary to do so.
-
-
-
-Parents are encouraged to spend time online with their children and to become familiar with the types of content available through our Service and on the Internet in general. Parents should regularly oversee their child’s use of e-mail and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help to provide a safe online environment for children. If your child has used your credit card in connection with our Service without your permission, please contact our [Customer Support](mailto:privacy@lindenlab.com) team immediately. 
-
-### 7.    Data Transfers, Storage and Processing Globally
-
-We operate globally and may transfer your Personal Information to individual companies of Linden Research, Inc. or third parties in locations around the world for the purposes described in this Privacy Policy. Whenever your Personal Information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your Personal Information in accordance with applicable law.
-
-### 8.    Changes to this Privacy Policy
-
-From time to time, we may change this Privacy Policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent.
-
-### 9.    Comments and Questions
-
-If you have a comment or question about this Privacy Policy or our privacy practices, please send an e-mail to [privacy@lindenlab.com](mailto:privacy@lindenlab.com) or write us:
-
-Privacy Rights  
-Linden Lab  
-945 Battery Street  
-San Francisco, CA 94111
-
-### Notice to California Residents:
-
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your Personal Information by Linden Lab to third parties for the third parties’ direct marketing purposes. With respect to these entities, this Privacy Policy applies only to their activities within the State of California. To make such a request, please send an e-mail to [privacy@lindenlab.com](mailto:privacy@lindenlab.com) or write us at the address listed immediately above. 
+Last Updated: October 31, 2014, our Terms of Use can be found here.
