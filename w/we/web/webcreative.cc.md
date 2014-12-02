@@ -1,19 +1,25 @@
-> *The following text is extracted and transformed from the webcreative.cc privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208232931id_/http%3A//webcreative.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcreative.cc privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202155906id_/http%3A//www.webcreative.cc/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Creative - Web Design Blog
+# Privacy Policy - Blogger Codes
 
-At Web Creative, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our site, and how we safeguard your information. We never sell your personal information to third parties.
+We believe that the privacy of our readers and visitors should be kept safe and protected. We value every personal information that you will supply on this website, and as the owner of this website, I make sure that transparency will be imposed regarding to the information that you’re going to share. Please be reminded that personal information you will supply will be gathered and saved, and are subjected to future usage probably by us. To make things clear, we make the privacy information policy available in our homepage for your reference. Whatever information you’re going to share will be based on your discretion.
 
-### Log Files
+### Google Adsense DoubleClick DART Cookie on Google Adsense
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP, the browser you used to visit our site, the time you visited our site and which pages you visited throughout our site.
+This website is in cooperation with Google, and every advertisement you will see from any of our pages are subject to Google’s dart cookie. Your click or view on any of the ads will give the third-party advertising vendor access to your browser, leaving cookie that will gather information of your browsing activities and history. This will be used for the company’s (Google), evaluation to better understand the advertising trend from websites worldwide.
 
-### Cookies and Web Beacons
+You can consult Google for additional information regarding DART Cookie by visiting this link: <http://www.google.com/privacy_ads.html> Tracking users’ browsing trend through this system is under the responsibility of Google’s own privacy rules, and has no relation with how Make Money Online operates.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+Other existing third-party advertisers may also track or follow your history through this website using their own cookies. This is mainly to explore advertising techniques, and we at Make Money Online is not responsible for controlling the access of these third-party vendors and whatever other purpose they may have, through your IP address.
 
-We may also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited _(such as showing cooking ads to someone who frequents cooking sites)_.
+### Gathering of Personal Data
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Web Creative has the authority to save the IP address of its visitors, including other information like the date and time stamp of the visit. Our purpose is to obtain information that will help us see the full picture of how the site will be made even more effective based on trends of visitor visits. We also track online users’ activities to determine the average number of visits we have. This information is strictly used within our website. You’re IP address will be kept within our database, and will be used internaly.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+### How Privacy Policy of Link Third Party Websites Work
+
+The URLs that you can see on this website are published to give credits to our references. These website links are also intended to give you additional reference for better understanding of the information that our website is sharing. Web Creative has nothing to do with the privacy policy of these third-party websites, and the policy can be changed under their discretion without our knowledge.
+
+### Privacy Policy Changes
+
+Please be reminded that we have the right and full authority to alter or make changes to our privacy policy without prior notice, based on whatever we think is good for the website and our visitors. You may however contact us if you have questions or clarifications regarding our privacy policy.
