@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnp.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040322id_/http%3A//www.fnp.com/static/privacy-policy.dot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnp.in privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202145604id_/http%3A//www.fnp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ferns N Petals - Shipping Disclaimer
 
@@ -90,6 +90,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below: 
 
-Mr. Sajid Husain  
-Contact No.: +91 - 9711304337   
-Email Id: sajad@fnp.com
+Mr. Rahul Kapoor  
+Contact No.: +91 - 9711901466   
+Email Id: rahul.kapoor@fnp.com
