@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puremix.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627184717id_/http%3A//www.puremix.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puremix.net privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202214548id_/http%3A//www.puremix.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
