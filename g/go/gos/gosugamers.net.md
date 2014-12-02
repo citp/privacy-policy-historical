@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the gosugamers.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629052715id_/http%3A//www.gosugamers.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosugamers.net privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202152552id_/http%3A//www.gosugamers.net/privacy) for the most accurate reproduction.*
 
 # Privacy | GosuGamers
 
 **WHAT INFORMATION DO WE COLLECT?**
 
-We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your name and e-mail address. You may, however, visit our site anonymously without creating a user account.  
- 
+We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your name and e-mail address. You may, however, visit our site anonymously without creating a user account.
+
+**COOKIE POLICY**
+
+You can read about GosuGamers.net cookie policy [here.](http://www.gosugamers.net/395-cookie-policy)
 
 **WHAT DO WE USE YOUR INFORMATION FOR?**
 
