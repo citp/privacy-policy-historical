@@ -1,173 +1,108 @@
-> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825063340id_/http%3A//www.medicareaustralia.gov.au/about/privacy-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203235109id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.*
 
-# Privacy and security - Medicare Australia
+# Your right to privacy
 
-For Medicare and PBS claims information see [How to request your personal information](https://web.archive.org/about/information/request-yourinfo.jsp).
+You have a right to have your personal information kept private.
 
-For information about Healthcare Identifiers see [Healthcare Identifiers Service](https://web.archive.org/public/health-identifier/index.jsp).
+## About privacy
 
-Medicare Australia is committed to protecting the privacy and security of personal information that it collects. All requests for personal information* are subject to the secrecy provisions including those under section 135A of the _National Health Act 1953 (PBS Data),_ section 130 of the _Health Insurance Act 1973 (Medicare information),_ and/or the _Privacy Act 1988_. Disclosure of Healthcare Identifiers are protected by provisions in the _Healthcare Identfiers Act 2010._
+We are bound by strict confidentiality and secrecy provisions in social security, families, health, child support and disability services law. These provisions limit how we use your information and when and to whom it can be released. We also have obligations under the _Privacy Act 1988._
 
-Our policy is to respect and protect the privacy of the Australian public. This policy statement explains how we collect online information and how we use it.
+### What is privacy
 
-When dealing with personal information* Medicare Australia has legal obligations to:
+The Privacy Act contains 13 Australian Privacy Principles which regulate the way we collect, store, provide access to, use and disclose personal information. The new Principles came into effect on 12 March 2014, and apply to public and private sector entities.
 
-  * collect it in a fair and lawful manner
-  * check the accuracy of the information before it is used
-  * keep it stored securely to safeguard against unauthorised access
-  * make sure it is used only for the purpose for which it was collected (unless provided for by law)
-  * make sure it is not disclosed to any other person (unless provided for by law).
+Read more about our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1] and how we apply the Principles.
 
+The Privacy Act provides you with rights, including:
 
+  * being told generally what kind of information we are collecting and how we collect it
+  * being told generally why your personal information is being collected
+  * your personal information can only be collected for a lawful purpose
+  * finding out what information we hold about you and have it corrected if it is incorrect, out of date or incomplete, the _Freedom of Information Act 1982_ also supports this
+  * providing that your personal information must be stored securely and protected from interference or misuse
+  * finding out how your personal information will be used by reading our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1]
 
-In general, de-identified aggregated data may be released, subject to assessment of any potential privacy issues to ensure individuals cannot be identified or re-identified.
 
-With respect to the collection, use and disclosure of personal information*, Medicare Australia complies with the Information Privacy Principles of the _Commonwealth Privacy Act 1988_ and the [Guidelines for Federal and ACT Government Websites](http://www.privacy.gov.au/internet/web/index.html) issued by the Office of the Privacy Commissioner.
 
-## Your privacy
+You can make a complaint to us about the way your personal information has been handled.
 
-As a general rule, we do not collect personal information* about you when you visit our website. You can generally visit our website without telling us who you are or revealing other personal information*, unless you choose to provide such information to us. 
+## Tax File Numbers
 
-No attempt will be made to identify you or your browsing activities except where we are required to do so by law.
+If you give us your Tax File Number (TFN), we have an obligation to keep that information secure. Due to the sensitivity we place on TFNs and the legal restraints on their use and disclosure, if you lose your TFN we will not be able to provide it to you. You will have to ask the Australian Taxation Office for a copy of it. We can only provide TFNs under strict conditions as authorised or required by law. In limited circumstances, the Australian Taxation Commissioner can be required by law to provide your TFN to us.
 
-## Collection of your personal information*
+### Data matching use of Tax File Numbers
 
-The information we receive depends on what you do when visiting our website. If you visit our website to read or download information, we record the following.
+We are authorised to use TFN to facilitate the administration of social security, student assistance, youth allowance, child support and data matching law. This can include using data to check the entitlements of people applying for services and payments. The _Data-matching Program (Assistance and Tax) Act 1990_ authorises certain agencies to compare the personal information they hold, including the TFNs of an individual, to ensure that tax, pensions and other payments are being paid correctly.
 
-  * Your server's address.
-  * The name of the top level domain from which you access the internet (for example, .gov, .com, .edu, .org, .au, .nz etc).
-  * The type of browser you use.
-  * The date and time you access our website.
-  * The pages you have accessed and the documents you have downloaded.
-  * The previous internet address from which you linked directly to our website.
-  * The internet address to which you link directly from our website.
+## Collection and use of information
 
+### Collection of information
 
-  * The internet address to which you link directly from our website.
+When we collect your personal information it must be reasonably necessary for, or directly related to, 1 or more of our functions or activities.
 
+The authority provided by the legislation we administer also allows us to collect your personal information.
 
+In addition to requesting information from you, we may also obtain information about you and your family from other government agencies and third parties.
 
-The above information is used to create summary statistics which allow us to assess the number of visitors to the different sections of our website, discover what information is most and least used, determine technical design specifications and help us make our website more useful.
+Any personal information we receive from a third party is treated the same as if you provided it.
 
-Where we ask you for any personal information* we will tell you how we intend to use that information, should you choose to give it to us. All personal information* provided through our website will remain confidential and will not be used or disclosed without your consent unless we are required to do so by law.
+The collection of your personal information is detailed in our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1].
 
-Your email address will only be recorded if you send us a message. It will be used for the purpose for which you have provided it and will not be added to a mailing list or disclosed to a third party.
+### Use of information
 
-If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, notify us using the feedback link at the top of this page.
+Your personal information will be used in accordance with the Privacy Act. It will not be used for any purpose other than why it was collected. We may use your personal information if:
 
-## Use of your personal information*
+  * it is authorised or required by law
+  * you have consented to the use
+  * the use meets one of the other exceptions in the Australian Privacy Principles
 
-Your personal information* will not be used for any purpose other than that for which it was collected. We will not share your information with other government agencies or other organisations without your permission unless:
 
-  * it is necessary to provide you with a service which you have requested
-  * it is required or authorised by law
-  * it will prevent or lessen a serious and imminent threat to somebody’s health
 
+When your personal information is collected, you will usually be advised of its intended use at the point of collection. Your information may also be used by our other services, as authorised or required by law.
 
+## Disclosure of information
 
-If personal information* is collected, you will be advised of its intended use at the point of collection. At this time you will also be notified of any parties to whom your information may be disclosed.
+Your personal information will not be disclosed to any other person, body or agency unless:
 
-## Accessing your personal information*
+  * you give us permission
+  * it is authorised or required by law
+  * it meets one of the other exceptions in the Australian Privacy Principles
 
-If you want to gain access to your personal information* held by Medicare Australia, such as your Medicare and/or PBS claims histories, you can request access to this information at any time through Medicare Australia’s Information Release team.
 
-If when you gain access to your records, you believe your personal information* has been recorded inaccurately, you may also request that the information be amended.
 
-## Protecting your information
+From time to time it may be necessary to disclose your personal information to third parties. The circumstances surrounding why, who and when your information may be disclosed are outlined in our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1].
 
-Personal information is collected (as required) to administer Medicare Australia programs. By law, we are required to protect this information from unauthorised access, use and disclosure.
+## Privacy notice for our applications
 
-The legislation that protects your information includes:
+The privacy notices outline how we will manage your personal information in connection with the:
 
-Medicare Australia can only divulge personal information* when you give us permission, or when it is authorised (or required) by law.
+  * [Express Plus Medicare mobile app](https://web.archive.org/customer/information/privacy-notice-for-express-plus-medicare-mobile-app)[2]
+  * [Express Plus Jobseekers, Students, Families and Seniors mobile apps](https://web.archive.org/customer/information/privacy-notice-for-express-plus-mobile-apps)[3]
+  * [Centrelink online accounts - Privacy and security](https://web.archive.org/customer/services/centrelink/centrelink-online-accounts#a5)[4]
+  * [Medicare online account](https://www2.medicareaustralia.gov.au/pext/coin/termsAndConditions.do)[5]
+  * [Child Support online accounts terms and conditions - Your privacy](https://web.archive.org/customer/enablers/child-support/child-support-online-accounts/child-support-online-accounts-terms-and-conditions#a12)[6]
+  * [Healthcare Identifiers Service](https://web.archive.org/customer/services/medicare/healthcare-identifiers-service)[7]
 
-Medicare Australia staff can only access your information in order for them to perform their duties. We take the privacy and confidentiality of your information very seriously.
 
-## Health professionals
 
-Medicare Australia’s Health Professional Online Services includes certain services for which the collection of bank account details and other personal information may be required. The collection of this information is governed by the same regulations that cover the collection of any other personal information* throughout this website or on Medicare Australia forms in general.
+## If you have privacy concerns
 
-## Statistical data
+If you are concerned about how we have collected or managed your personal information, you can read our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1] to familiarise yourself with our approach to privacy. You can also call Customer Relations on **1800 132 468** or the TTY phone on **1800  000 567**.
 
-Medicare Australia can only divulge statistical data where there is no possibility that an individual can be identified from the information. Medicare Australia must adhere to strict legislation and privacy guidelines to protect the privacy of the Australian public when responding to requests for statistical data.
+Read more about general privacy, on the [Office of the Australian Information Commissioner’s (OAIC)](http://www.oaic.gov.au/)[8] website.
 
-Requests for statistical data must be submitted by completing the clarification form, available on request by emailing [statistics@medicareaustralia.gov.au](mailto:statistics@medicareaustralia.gov.au) or by calling 1800 101 099.  The following information is required;
+If you are not satisfied with how we have handled your privacy concerns you can also contact the OAIC directly. The OAIC is independent to us and has the power to investigate complaints about possible interferences with your privacy. It is usually best to contact us first. While it is possible for the first contact to be with the OAIC, they will generally ask us to conduct our own inquiry first and pass any findings on to the OAIC.
 
-  * how the information contributes to improving Australia's health
-  * the type of information required
-  * what the information will be used for and
-  * to whom the information will be disclosed.
+## Link references
 
+  1. https:/ / web.archive.org/ corporate/ publications-and-resources/ privacypolicy
+  2. https:/ / web.archive.org/ customer/ information/ privacy-notice-for-express-plus-medicare-mobile-app
+  3. https:/ / web.archive.org/ customer/ information/ privacy-notice-for-express-plus-mobile-apps
+  4. https:/ / web.archive.org/ customer/ services/ centrelink/ centrelink-online-accounts#a5
+  5. https:/ / www2.medicareaustralia.gov.au/ pext/ coin/ termsAndConditions.do
+  6. https:/ / web.archive.org/ customer/ enablers/ child-support/ child-support-online-accounts/ child-support-online-accounts-terms-and-conditions#a12
+  7. https:/ / web.archive.org/ customer/ services/ medicare/ healthcare-identifiers-service
+  8. http:/ / www.oaic.gov.au/
 
 
-The completed clarification form can be sent to:
-
-Information Strategy  
-Information Management branch  
-Medicare Australia  
-PO Box 1001  
-Tuggeranong DC ACT 2901
-
-[Statistical data is available online](https://web.archive.org/about/stats/index.jsp) or contact the Information Management Branch on **1800 101 099** for more information.
-
-## Contact our privacy area
-
-If you would like to know more about **privacy** and how Medicare Australia protects your personal information*, call **02 6124 6333** and ask for the Privacy Policy Section or write to:
-
-Manager, Ombudsman, Privacy and Information Release section  
-Medicare Australia  
-Ombudsman Privacy and FOI branch  
-PO Box 1001  
-Tuggeranong DC ACT 2901
-
-## Useful links
-
-* The use of the term "personal information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained. 
-
-## General security advice
-
-Before submitting any personal details online, such as a password, you should make sure your computer has the latest operating system security updates installed. This will help protect your computer against online security threats.
-
-You should be aware of the following issues.
-
-### Malicious code
-
-Malicious code can exist in the form of a virus, trojan, worm or other variant. There are a number of steps you can take to reduce the chances of your computer being infected by malicious code. Anti-virus software lets you detect, and in some cases remove, malicious files from your computer. However, there will always be a risk that your computer may become infected as there is a delay between the release of a new virus or trojan and the time it takes the anti-virus vendors to update their software.
-
-If you suspect your computer has been infected by a virus, trojan or other malicious program, you should contact your IT service provider or anti-virus vendor.
-
-### Anti-virus software
-
-You should make sure your anti-virus software is up-to-date by installing the latest available patches or signatures. Patches are generally provided to close security holes that may be exploited by malicious attackers. While these are often available from your anti-virus vendor, you may need to subscribe to receive these updates. Patches may be applied manually or automatically and this is dependent on the type of anti-virus software you use. Ideally you should configure your software to automatically install any new updates as soon as they become available.
-
-### Configure your anti-virus software
-
-You should configure your anti-virus software to scan all inbound and outbound emails to make sure you do not send or receive any malicious content. It is also important to configure your software to scan any files you download from the internet. Contact your anti-virus vendor for specific information on configuration settings.
-
-### Spyware
-
-Spyware is software that gathers information such as internet browsing habits or personal information from email and internet chat services. The information is usually used for advertising purposes. Most internet browsers can be configured to reduce the likelihood of your privacy being invaded by spyware or other malicious programs. For more information contact your IT service provider.
-
-### Update your software and operating system
-
-You should update your other programs and operating systems with patches or updates provided by software vendors. You should regularly check vendor websites for notification of any new patches or service packs applicable to the software on your computer.
-
-### Be suspicious of strange email attachments or hyperlinks
-
-You should be cautious of the email attachments you receive as they may contain malicious content. Configuring your anti-virus software to scan your email is important, but your computer may still be vulnerable to new viruses or trojans hidden in attachments. If you are suspicious of the content of an email attachment, simply delete it. Alternatively, you may want to call the company to confirm the email's authenticity.
-
-'Phishing' scams attempt to deceive you into divulging information that should not be disclosed. The most common phishing scams are unsolicited email made to look like they have originated from a legitimate company or financial institution. You may be encouraged to click on a hyperlink in the email to enter your personal or financial information into a website. While a website may seem legitimate, it may have been created by the scammer for the purpose of gaining your personal information such as passwords and credit card details. Your information could also be used for identity theft for the scammer's financial gain.
-
-## Cookies
-
-A cookie is a piece of information contained within a small file that an internet website sends to your browser when you access information at that site. Medicare Australia's site may use cookies.
-
-## Transmission of data via the internet
-
-While Medicare Australia endeavours to make our website secure, users should be aware that the internet is an insecure network that may be at risk of transactions being viewed, intercepted or modified by third parties. If you want to contact Medicare Australia without sending information through the internet, see [contact us](https://web.archive.org/about/contact.jsp) for details.
-
-## Disclaimer
-
-Despite its best efforts, Medicare Australia does not warrant that the information in its website is free from infection by computer viruses or other contamination.
-
-Last updated: 23 November, 2011
