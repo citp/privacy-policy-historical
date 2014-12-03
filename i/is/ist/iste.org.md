@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iste.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629023129id_/https%3A//www.iste.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iste.org privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203093047id_/http%3A//www.iste.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
