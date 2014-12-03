@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the econolodge.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327023338id_/http%3A//www.choicehotels.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econolodge.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203103751id_/http%3A//www.choicehotels.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Choice Hotels Privacy and Security Policy
 
@@ -8,7 +8,7 @@ Choice Hotels International, Inc. and its subsidiaries (“Choice”, “we” o
 
 Some countries also require notice about other means of collecting personal information. This policy also sets forth our practices for obtaining personal information from other sources, such as written or verbal communications or information collected at a hotel.
 
-Hotels franchised under Choice’s brand (“Franchised Hotels”) are independently owned and operated. Your personal information collected or maintained directly by the Franchised Hotels is not subject to this policy, unless such information has been shared with us. If you book a reservation directly with a hotel and that hotel utilizes our proprietary property management system, your personal information related to that reservation will be transmitted to and processed by Choice.
+Hotels franchised under Choice’s brand (“Franchised Hotels”) are independently owned and operated. Your personal information collected or maintained directly by the Franchised Hotels is not subject to this policy, unless such information has been shared with us, in which case the policy only covers Choice’s collection, use, and maintenance of your personal information. If you book a reservation directly with a hotel and that hotel utilizes our proprietary property management system, your personal information related to that reservation will be transmitted to and processed by Choice.  We do not control the collection, use, or access of your information by the Franchised Hotels and their staff. The Franchised Hotel is the merchant who collects and processes credit card information and receives payment for your stay. The Franchised Hotels are subject to the merchant rules of the credit card processors they select, which establish credit card security rules and procedures.
 
 By submitting your personal information to us, you agree to the transfer to and processing of your personal information in the United States in accordance with the terms of this Policy.
 
@@ -32,11 +32,11 @@ We collect information from you that allows us to provide services and content t
 
 
 
-When you use our reservation system, call our toll-free reservation telephone number, become a **Choice Privileges** member, create an online account, or purchase a gift card, we collect personally identifiable information that you supply, such as your name, address, telephone number, e-mail address, room preference, credit card details, day and month of your birthdate and **Choice Privileges** number. We may also ask for additional information such as an association number (e.g., AAA), corporate account number, or group number. 
+When you use our reservation system, call our toll-free reservation telephone number, become a **Choice Privileges** member, create an online account, elect to receive offers, or purchase a gift card, we collect personally identifiable information that you supply, such as your name, address, telephone number, e-mail address, room preference, credit card details, day and month of your birthdate and **Choice Privileges** number. We may also ask for additional information such as an association number (e.g., AAA), corporate account number, or group number. 
 
 If you choose to earn airline miles or other third-party loyalty program points from your stay at a Franchised Hotel, we will ask you to provide us your membership number for such loyalty program.
 
-Choice may occasionally conduct sweepstakes and contests that offer you the opportunity to win prizes. As part of entering a sweepstakes, certain personally identifiable information such as name, mailing address, e-mail address and Choice Privileges number may be required.
+Choice may occasionally conduct sweepstakes and contests that offer you the opportunity to win prizes. As part of entering a sweepstakes, certain personally identifiable information such as name, mailing address, e-mail address and **Choice Privileges** number may be required.
 
 Children’s Privacy: Our websites are not intended for children and we do not knowingly solicit or collect personal information for persons under the age of 18.
 
@@ -60,7 +60,7 @@ We may use your personal information to send you via e-mail, telephone or postal
  **Choice Privileges** Members  
 If you are a **Choice Privileges** member, we will use your personal information to perform certain administrative tasks necessary for the administration and operation of the program such as: (1) allowing you to earn points for staying at various Franchised Hotels; and (2) allow Franchised Hotels to be aware of the **Choice Privileges** points earned by members so that such hotels can award and redeem points.
 
-We may also use your personal information to send you via e-mail, telephone or postal mail program details, account summaries, satisfaction surveys, promotions, third party offers, sweepstakes and contests. We may also contact you about applying for the **Choice Privileges** ® Visa® card by Barclays Bank or MasterCard® card by MBNA.
+We may also use your personal information to send you via e-mail, telephone or postal mail program details, account summaries, satisfaction surveys, promotions, third party offers, sweepstakes and contests. We may also contact you about applying for the **Choice Privileges** ® Visa® card by Barclays Bank.
 
  **Choice Privileges** members’ personal information may be collected through Choice’s Websites, by Choice’s call centers, paper applications, or may be passed on to Choice by Franchised Hotels. Choice may transfer personal information to Franchised Hotels as a part of administering the **Choice Privileges** program as outlined above. Choice processes **Choice Privileges** members’ personal information primarily in the United States.
 
@@ -83,9 +83,11 @@ Choice may partner with other companies to provide co-sponsored or co-branded pr
 
 If you choose to apply for a **Choice Privileges** Visa Signature card, you will be linked from Choice’s website to Barclays Bank Delaware’s website and will be required to enter certain personally identifiable information as part of the credit application process. Please refer to Barclays Bank Delaware’s privacy statement posted on their website to understand how the information you supply will be used.
 
+If you choose to apply for a **Choice Privileges** MasterCard card, you will be linked from Choice’s website to Toronto-Dominion Bank’s website and will be required to enter certain personally identifiable information as part of the credit application process. Please refer to Toronto-Dominion Bank’s privacy statement posted on their website to understand how the information you supply will be used.
+
 Although unlikely, in certain instances, Choice may disclose your personally identifiable information when Choice has reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Choice or to others. Choice may also disclose your personally identifiable information when Choice believes the law requires it.
 
-Special Notification to California Residents: If you reside in California and have provided Choice your personally identifiable information, you may request a list from us of third parties with whom we shared your personally identifiable information for their own direct marketing purposes during the preceding calendar year. Such requests must be submitted to us at: Privacy@choicehotels.com or Privacy Officee, Choice Hotels International, 6811 E. Mayo Blvd., Suite 100, Phoenix, Arizona 85054 (USA). This request may be made no more than once per calendar year.  
+Special Notification to California Residents: If you reside in California and have provided Choice your personally identifiable information, you may request a list from us of third parties with whom we shared your personally identifiable information for their own direct marketing purposes during the preceding calendar year. Such requests must be submitted to us at: Privacy@choicehotels.com or Choice Hotels International, Attention: Privacy Officer, 6811 E. Mayo Blvd., Suite 100, Phoenix, Arizona 85054. This request may be made no more than once per calendar year.  
  **  
 How do I opt-out of marketing communications or otherwise change my privacy preferences?**  
 We respect the right of each visitor to control how his or her personal information is used. If you do not want us to provide your information to our business partners, or if you do not wish to receive promotional communications from us or our affiliates concerning special offers, discounts, airline bonuses, or contests, select one of the following options to provide us with your privacy preferences:
@@ -133,7 +135,7 @@ If you have questions about this policy or complaints about how we collect, use,
 **How do you resolve complaints?**  
 For individuals residing in European Union countries or Switzerland, complaints are addressed as described in the Safe Harbor portion of the policy above.  For individuals residing in countries other than Switzerland or the European Union, we will work with you to address complaints.  We may also contact applicable authorities as part of the resolution process.
 
-This policy was last modified on February 27, 2014.
+This policy was last modified on April 23, 2014.
 
  **What if there's a difference between versions of the Privacy and Security Policy?**  
 As a service to our customers, we make this privacy and security policy available in several different languages. In the event of any discrepancies between the various translations of the policy, the English version of the policy is the authoritative one.
