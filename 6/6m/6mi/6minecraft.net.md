@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 6minecraft.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627060313id_/http%3A//www.6minecraft.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6minecraft.net privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203172844id_/http%3A//www.6minecraft.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Minecraft Mods, Texture Packs and Tools
+# Privacy Policy - 6Minecraft
 
 At 6Minecraft, the privacy of our visitors is of extremely importance to us. This privacy policy document outlines the types of personal information is received and collected by 6Minecraft.com and how it is used.
 
