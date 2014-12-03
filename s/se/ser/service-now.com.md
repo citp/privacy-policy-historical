@@ -1,92 +1,93 @@
-> *The following text is extracted and transformed from the service-now.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170250id_/http%3A//www.servicenow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the service-now.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203070330id_/http%3A//www.servicenow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ServiceNow | Privacy Policy | IT Service Management Software, SaaS
 
 ### ServiceNow Privacy Policy
 
+**Effective as of October 16, 2014**
+
 ## **Purpose**
 
-ServiceNow (the "Company", "we" or "us") respects your privacy and is committed to protecting it through our compliance with this policy. 
-
-This policy (together with our Website Terms of Use and any other documents referred to in it) describes the personal information that we collect, or that is provided to us, and how that information may be used or disclosed by us. 
+ServiceNow, Inc. ("ServiceNow", "we" or "us") respects the privacy of its customers, business partners and visitors to its Website (as defined below).  The ServiceNow Privacy Policy (the "Policy") describes the information that we collect, how we obtain the information, and how we may use or disclose that information. This Policy also describes the measures we take to protect the security of the information and how individuals can contact us about our privacy practices.
 
 ## **Scope**
 
-This policy covers the collection and use of information on the ServiceNow website at www.servicenow.com, wiki.servicenow.com, community.servicenow.com, it3dot0.com and it3-0.com (collectively, our "Website") and in connection with the use of our software applications and other services that we provide as a service (collectively, the "Services") to customers who purchase those Services ("Customers").
+This Policy only covers our privacy practices with respect to the collection, use, and disclosure of information obtained through the ServiceNow websites at www.servicenow.com, wiki.servicenow.com, community.servicenow.com, it3dot0.com and it3-0.com (collectively, our "Website") and in connection with the use of our hosted and mobile software applications (the "Subscription Service") and related support services ("Support Services"), as well as expert services, including professional services, training and certification (the "Expert Services") that we provide to Customers. In this Policy, the Subscription Service, Support Services and the Expert Services are collectively referred to as the "Service."
 
-This policy does not apply to information we collect through any other means, or to information collected on any third-party site or by any third-party application that may link to or be accessible from the Website. Customers and other third parties, including consultants, may develop applications or provide services to you or other third parties using our Services. This policy does not apply to information collected by Customers, third parties or third-party applications or services, even if this information is collected using our Services. This policy also does not cover the use or disclosure of any information stored in our applications or services when hosted by the Customer. 
+For the purposes of this Policy:
 
-## **Privacy Policy**
+_"Customer"_  means any entity that purchases the Service.
 
-The Company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit http://www.export.gov/safeharbor/. Please read the following carefully to understand our policies and practices regarding your personal information and how we will treat it. By using or accessing our Website or Services, you agree to this policy. This policy may change from time to time (see Changes to our Privacy Policy) and your continued use of the Website or Services is deemed to be acceptance of such changes, so please check the policy periodically for updates. 
+" _Customer Data"_  means the electronic data uploaded into the Subscription Service by or for Customer or its authorized users.
 
-## **Information We Collect**
+" _Visitor"_  means a visitor of the Website.
 
-We collect several types of information from and about visitors to our Website ("Visitors") and Customers, including:
+## **Website**
 
-  * Information you provide to us.
-  * Information we collect as you navigate through the Website or use the Services, including usage details, IP addresses and cookies.
-  * Information we receive from third parties, for example, our business partners.
+**How We Obtain Information**
 
+As further described below, we collect several types of information from and about our Visitors. 
 
+_Information you provide to us_
 
-## **Information You Provide to Us**
-
-We may collect and use the following information that you provide to us:
-
-  * Information that you provide by filling in forms on our Website. This includes information provided in connection with posting material to our website, participation in bulletin boards, chat rooms, blogs, comment threads, forums or other interactive features of our Website, registering, or requesting further information or services from us. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
-  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
-  * Your responses to surveys that we might ask you to complete for research purposes, although you do not have to respond to them.
-  * Data or information submitted by a Customer to the Services for hosting and processing purposes ("Customer Data").
-  * Information and correspondence you submit to us in connection with technical support, maintenance, troubleshooting and other requests related to our Website or Services.
+  * When filling out forms on our Website we collect personal information, including without limitation, name, mailing address, email address and telephone number.
+  * When you post material to our Website, participate in bulletin boards, chat rooms, blogs, comment threads, forums or other interactive features of our Website, register, or request further information or services from us. 
+  * When you enter a contest or promotion we sponsor.
+  * When you report a problem with our Website.
+  * When you contact us.
+  * When you complete our surveys.
+  * Other information you may submit to us related to your use of our Website.
 
 
 
-## **Usage Details, IP Addresses and Cookies**
+_Information from third parties_
 
-Usage Details and IP Addresses. As you navigate through the Website or use the Services, we may also collect details of your visits to our Website or use of the Services, including, but not limited to, traffic data, location data, logs and other communication data and the resources that you access, as well as information about your computer and internet connection, including your IP address, operating system and browser type, for system administration.
+ServiceNow may collect and use information we receive from third parties in connection with your use of the Website.  For instance, ServiceNow uses a third party for reporting and analytics to measure the effectiveness of our Website and marketing efforts, and to identify areas for improvement. 
 
-Cookies. For the same reason, we may obtain information about your general internet usage by using cookies. A cookie is a small file stored on the hard drive of your computer. Use of cookies helps us to improve our Website and to deliver a better and more personalized service by enabling us to:
+_Information we collect as you navigate through the Website_
+
+As you navigate through the Website, we may also collect details about your visits to our Website including, but not limited to, your IP address, usage patterns, traffic data, location data, logs and other communication data and the resources that you access, as well as information about your computer and internet connection, including your operating system and browser type. 
+
+**_Cookies and Other Forms of Automated Collection_**
+
+We use “cookies” to help us improve our Website. A cookie is a small file stored on the hard drive of your computer. We may use cookies to obtain information about your general Internet usage and to: 
 
   * Estimate our audience size and usage patterns.
-  * Store information about your preferences, allowing us to customize our Website and the Services according to your individual interests.
+  * Store information about your preferences, allowing us to customize our Website.
   * Speed up your searches.
-  * Authenticate your access to various areas of our Website or Services.
-  * Recognize you when you return to our Website or the Services.
+  * Authenticate your access to various areas of our Website.
+  * Recognize you when you return to our Website.
   * Track when you respond to surveys.
 
 
 
-You may refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website and will not be able to use the Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website or Services. We do not collect personally identifiable information automatically, but we may tie this information to your previously submitted personally identifiable information. 
+ServiceNow’s third parties may use JavaScript to collect IP addresses from our Visitors and our hosting provider may also collect server logs. Information gathered through these automated means may be associated with the personal information you previously submitted on our Website.
 
-## **User Contributions**
+**How We Use Information Collected**
 
-You are responsible for any content, including personal information, that you contribute to be published or displayed (hereinafter, "posted") on the Website, or transmit to other users of the Website (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Website Terms of Use and known or suspected violations should be reported to our Privacy Officer via e-mail at [privacy@servicenow.com](mailto:privacy@servicenow.com). 
+We may use information that we collect about Visitors for the following purposes:
 
-## **Uses Made of the Information**
-
-We use information, other than Customer Data, that we collect about you or that you provide to us, including any personal information, in the following ways:
-
-  * To present our Website and our Services and their contents in a suitable and effective manner for you and for your computer.
-  * To diagnose and resolve technical problems with our Website or Services.
-  * To improve our Website or Services.
+  * To present our Website and their contents in a suitable and effective manner for you and for your computer.
+  * To diagnose and resolve technical problems with our Website.
+  * To improve our Website.
   * To provide you with information, products or services that you request from us.
-  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us.
-  * To notify you about changes to our Website or Services.
-  * To allow you to participate in interactive features of our Website or Services, when you choose to do so.
-  * To track aggregate usage patterns on the Website or Services.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including without limitation, our Website Terms of Use.
+  * To notify you about changes to our Website or obtain any required consent.
+  * To allow you to participate in interactive features of our Website, when you choose to do so.
+  * For industry analysis, benchmarking, analytics, marketing, and other business purposes. 
+  * To track your browsing behavior, such as the pages you visited over time.
 
 
 
-We may also use your information, or permit selected third parties to use your information, to contact you about goods and services that may be of interest to you where you have consented to be contacted for such purposes. If you do not want us to use your information in this way, or to provide your information to third parties for marketing purposes, please check the relevant box located on the form or e-mail on which we collect your data. For more information, see Choices About How We Use and Disclose Your Information. 
+If you ask us to contact you about goods and services that may be of interest to you, we may use your personal information or permit selected third parties to use your personal information to provide you with such services. Visitors may withdraw consent at a later time by clicking on the “unsubscribe” link located in the emails sent by ServiceNow. For more information, see Communication Preferences and Choices below. 
 
-## **Disclosure of Your Information**
+**How We Share Information Collected**
 
-We may disclose personal information that you provide via this Website or our Services, other than Customer Data, to the following third parties:
+We may disclose personal information that you provide to us via this Website, to the following third parties:
 
   * Our subsidiaries and affiliates.
-  * Contractors and service providers we use to support our business.
-  * In the event of merger, acquisition, or any form of sale of some or all of our assets, in which case personal information held by us about our customers will be among the assets transferred to the buyer.
+  * Contractors, business partners and service providers we use to support our business or who provide services on our behalf.
+  * In the event of merger, acquisition, or any form of sale or transfer of some or all of our assets (including in the event of a reorganization, dissolution or liquidation), in which case personal information held by us about our Visitors will be among the assets transferred to the buyer or acquirer.
 
 
 
@@ -94,62 +95,130 @@ We may also disclose your personal information to third parties to:
 
   * Comply with any court order or other legal obligation.
   * Enforce or apply our Website Terms of Use or terms of any other agreement.
-  * Protect the rights, property, or safety of ServiceNow, our customers, or others.
+  * Protect the rights, property, or safety of ServiceNow or others.
 
 
 
-We do not share, sell, rent or trade information collected through the Website or the Services with third parties for their promotional purposes. 
+We do not sell, rent or trade information collected through the Website with third parties for their promotional purposes. 
 
-## Customer Data
+**Public Forums and Blogs**
 
-Notwithstanding anything else to the contrary in this policy, we will not use, disclose, review, share, distribute, or reference any Customer Data except as permitted in the agreement pursuant to which the Customer purchased the Services (the "Customer Agreement") or as may be required by law. Customer Data is hosted and maintained in one or more of our data centers, which are located around the world. We also provide technical support to Customers from locations around the world. 
+Your User Contributions (as defined in the [Website Terms of Use](http://www.servicenow.com/terms-of-use.html)) are posted on and transmitted to other users of the Website at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Website Terms of Use and known or suspected violations should be reported to our Privacy Officer via e-mail at [privacy@servicenow.com](mailto:privacy@servicenow.com). 
 
-## **Choices About How We Use and Disclose Your Information**
+**International Transfer of Data**
 
-We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+ServiceNow may store and process any information collected in connection with the Website in any country where we have facilities or in which we engage service providers. A list of ServiceNow’s global offices is available [here](http://info.servicenow.com/contact-us). By using our Website, you consent to the collection, storage, transfer and processing of information outside of your country of residence, including in the United States.
 
-  * Cookies. If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of our Website may then be inaccessible or not function properly. Cookies must be enabled in order to use the Services.
-  * Promotional Offers from Third Parties. If you do not wish us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by checking the relevant box located on the form or e-mail on which we collect your data.
-  * Promotional Offers from the Company. If you do not wish to have your e-mail address used for promotional purposes by the Company, you can opt-out by checking the relevant box located on the form or e-mail on which we collect your data. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of your use of the Services.
-  * Choices when using Services. Since each Customer is in control of what information is collected by such Customer's users, how that information is disclosed and used, and how that information can be changed, users of the Services have to contact the applicable Customer administrator in order to make choices about how the Customer uses and discloses personal information contained in Customer Data.
-  * You should review this policy carefully, because if you do not agree with our practices, your ultimate choice is not to use the Website or the Services. Remember, by using any part of the Website or the Services, you accept and agree to our privacy practices. If we update this policy, your continued use of the Website or Services (following the posting of the revised policy) means that you accept and agree to the terms of the revised policy.
+**Communication Preferences and Choices**
+
+We provide certain choices regarding the information Visitors provide to us. We have created mechanisms to provide you with the following control over your information when using our Website. If you do not wish to have your e-mail address used for promotional purposes by ServiceNow, you may withdraw consent at a later time by clicking on the “unsubscribe” link located in the emails sent by ServiceNow. 
+
+**_Cookies_**
+
+Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. _ _ You may refuse to accept cookies by activating the appropriate setting on your browser. You may also set your browser to alert you when cookies are being sent. However, if you do so, please note that some parts of our Website may then be inaccessible or function improperly.
+
+**_Do Not Track_**
+
+While ServiceNow attempts to honor do not track (“DNT”) instructions we receive from a Visitor’s browser, we cannot guarantee that ServiceNow will always respond to such signals, in part, because of the lack of common industry standard for DNT technology. We continue to monitor developments in DNT technology and stay apprised of DNT industry standards as they evolve.
+
+**_Choice_**
+
+You should review this Policy carefully, because if you do not agree with our practices, your ultimate choice is not to use the Website. Remember, by using any part of our Website, you accept and agree to our privacy practices. 
+
+**Accessing and Correcting Your Personal Information**
+
+You may send us an e-mail at [privacy@servicenow.com](mailto:privacy@servicenow.com) to request access to, correct or delete any personal information that you have provided to us in connection with the Website. We will use reasonable efforts to respond to such requests for correction or updates to personal information.
+
+## **Services**
+
+**How We Obtain Information**
+
+As described below, we collect several types of information from about our Customers, including:
+
+  * General information, including a Customer’s company name and address, credit card information, and the Customer’s representative’s contact information (“General Information”) for billing and contracting purposes.
+  * Information and correspondence you submit to us in connection with Expert Services or other requests related to our Service.
+  * Information we receive from our business partners in connection with your use of the Service or in connection with services provided by our business partners on your behalf, including configuration of the Subscription Service.
+  * Quantitative data derived from your use of the Subscription Service, for example and without limitation, the number of active roles within a Customer’s instance.  All data collected, used, and disclosed will be in aggregate form only and will not identify Customer or its users.
+  * Server logs in support of the Subscription Service.
 
 
 
-## **Accessing and Correcting Your Personal Information**
+**_Cookies_**
 
-You may send us an e-mail at marketing@servicenow.com to request access to, correct or delete any personal information that you have provided to us in connection with the Website.
+When you use the Subscription Service, we use cookies to:
 
-If you have submitted personal information to us in connection with the use of the Services, you can contact us through the technical service portal to request access to, correct or delete any personal information. We will respond to any request for correction or update of personal information within 30 days of the date of such request. Personal information that is contained in Customer Data can be accessed, updated or changed by logging into the Services. Since each Customer is in control of what information is collected by such Customer's users, how that information is disclosed and used, and how that information can be changed, users of the Services have to contact the applicable Customer administrator in order to access, update or change personal information contained in Customer Data. 
+  * Track session state in the Subscription Service.
+  * Authenticate your access to the Subscription Service.
+  * Recognize you when you return to the Subscription Service.
 
-## **DATA SECURITY**
 
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. When accessed from a browser implementing SSL technology, the information you send to our Website and Services are encrypted. The Services also allow Customers to configure security settings for their users.
 
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website or Services, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.
+**How We Share Information Collected**
 
-In order to protect you and your data, ServiceNow may suspend your use of a Website or Service, without notice, pending an investigation, if any breach of security is suspected. Access to and use of password protected and/or secure area of the Website or Services is restricted to authorized users only. Unauthorized access to such areas is prohibited and may lead to criminal prosecution. 
+We may disclose personal information that you provide to our Service, to the following third parties:
 
-## **CHANGES TO OUR PRIVACY POLICY**
+  * Our subsidiaries and affiliates.
+  * Contractors, business partners and service providers we use to support our Service and business partners who provide services on your behalf.
+  * In the event of merger, acquisition, or any form of sale or transfer of some or all of our assets (including in the event of a reorganization, dissolution or liquidation), in which case personal information held by us about our Customers will be among the assets transferred to the buyer or acquirer.
 
-It is our policy to post any changes we make to our policy on this page. If we make material changes to this policy, we will notify you through a notice on our home page. 
 
-## **CONTACT INFORMATION**
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: privacy@servicenow.com
+We may also disclose your personal information to third parties to:
+
+  * Comply with any court order or other legal obligation.
+  * Enforce or apply the terms of the definitive agreement between Customer and ServiceNow pursuant to which the Customer purchased access to the Subscription Service (the “Customer Agreement”).
+  * Protect the rights, property, or safety of ServiceNow, our Customers, or others.
+
+
+
+We do not share, sell, rent or trade information collected through the Service with third parties for their promotional purposes.
+
+**Customer Data**
+
+We may use Customer Data to provide the Service, including updating and maintaining the Subscription Service and providing Support and Expert Services. Notwithstanding anything else to the contrary in this Policy, we will not use, disclose, review, share, distribute, transfer or reference any Customer Data except as permitted in the Customer Agreement or as required by law.
+
+**Communication Preferences and Choices and Accessing and Correcting Your Personal Information  **
+
+Since each Customer is in control of what information, including any personal information, it collects from its users, how that information is used and disclosed, and how that information can be changed, users of the Subscription Service must contact the applicable Customer administrator with any inquiries about how the Customer uses and discloses personal information and how to access or correct personal information contained in Customer Data.
+
+To access or correct any personal information Customer has provided as part of the General Information, the Customer should contact their account representative.  
+
+**_Cookies_**
+
+Cookies must be enabled in order to use the Subscription Service. You may however, refuse to accept the “remember me” cookie, which will then require you to provide your username and password to log into the Subscription Service.
+
+## **General**
+
+**Safe Harbor Statement  **
+
+ServiceNow complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding personal information transferred from the European Economic Area or Switzerland to the United States. Please visit our [Safe Harbor Privacy Policy](http://www.servicenow.com/content/dam/servicenow/documents/corporate/Safe-Harbor-Policy-092914.pdf) for more information. 
+
+**Security Statement**
+
+We maintain administrative, organizational, technical and physical safeguards designed to protect the personal information obtained through the Website and in connection with the Service against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. 
+
+**Third Party Websites and Applications**
+
+This Website may link to websites that are not owned or controlled by ServiceNow. As such, this Policy does not apply to information collected on any third-party site or by any third-party application that may link to or be accessible from the Website. In addition, Customers and other third parties, including consultants, may develop applications or provide services to you or other third parties using our Service. This Policy does not apply to information collected by Customers, third parties or third-party applications or services, even if this information is collected using our Website or Service. This Policy also does not cover the use or disclosure of any information stored in the Subscription Service when hosted by the Customer. 
+
+**Changes to Our Privacy Policy**
+
+ServiceNow reserves the right to update or change this Policy from time to time. If we make material changes to this Policy, we will notify you through an appropriate online notice (and obtain your consent where required by applicable law). Your continued use of the Website or Service is deemed to be acceptance of any updates or changes we make to this Policy and as such, we ask that you review the Policy periodically for any updates or changes that we may have made.
+
+**Contact Information  **
+
+To ask questions or comment about this Policy and our privacy practices or if you need to update, change or remove your information, contact us at: [privacy@servicenow.com](mailto:privacy@servicenow.com).
 
 or
 
-ServiceNow 
+ServiceNow, Inc
 
-attn: Privacy Officer 
+Attn: Privacy Officer 
 
-4810 Eastgate Mall 
+3260 Jay Street
 
-San Diego, CA 92121
+Santa Clara, CA 95054
 
-ServiceNow will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this privacy policy. For complaints that cannot be resolved between ServiceNow and the complainant, ServiceNow has agreed to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Safe Harbor Principles. 
+All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [marketing@servicenow.com](mailto:marketing@servicenow.com).
 
-## **Your Comments and Concerns**
-
-This website is operated by ServiceNow, a California corporation located at 3260 Jay Street, Santa Clara, CA 95054. All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: marketing@servicenow.com.
+This website is operated by ServiceNow, Inc., a Delaware corporation located at 3260 Jay Street, Santa Clara, CA 95054. 
