@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressionengine.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627172050id_/http%3A//ellislab.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressionengine.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203143257id_/https%3A//ellislab.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / About / EllisLab
 
@@ -30,12 +30,12 @@ As a member of our Web site you may occasionally receive an email newsletter inf
 
 We are committed to privacy and support industry initiatives to preserve individual privacy rights on the Internet. Questions regarding this policy may be sent to: [corporate@ellislab.com](mailto:corporate@ellislab.com).
 
-  * [About](http://ellislab.com/about "About")
-  * [Our Team](http://ellislab.com/team "Our Team")
-  * [Careers](http://ellislab.com/about/career "Careers")
-  * [Trademark Policy](http://ellislab.com/about/trademark-use-policy "Trademark Policy and Logos")
-  * [Privacy Policy](http://ellislab.com/about/privacy-policy "Our Privacy Policy")
-  * [Terms of Service](http://ellislab.com/about/terms-of-service "Our Terms of Service")
+  * [About](https://ellislab.com/about "About")
+  * [Our Team](https://ellislab.com/team "Our Team")
+  * [Careers](https://ellislab.com/about/career "Careers")
+  * [Trademark Policy](https://ellislab.com/about/trademark-use-policy "Trademark Policy and Logos")
+  * [Privacy Policy](https://ellislab.com/about/privacy-policy "Our Privacy Policy")
+  * [Terms of Service](https://ellislab.com/about/terms-of-service "Our Terms of Service")
 
 
 
