@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-medium-maria.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626065327id_/http%3A//www.the-medium-maria.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-medium-maria.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203162330id_/http%3A//www.the-medium-maria.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
