@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512014828id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203201458id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
 
-# The WELL - Privacy Policy
+# 
+
+<%doc> See README.txt for information on how to update this file.  <%#--------------------------- BEGIN CONTENT AREA ---------------------------%>   
+The WELL Privacy Policy
 
 This document is one of the agreements between The Well Group, Inc., (referred to as "The Well Group," "we," or "us" below), and users (referred to as "you," "visitors" or "members" below), of any of our services, (referred to as "The WELL," the "service" or "services"), whether offered free of charge or for a fee. It concerns the legal privacy framework in which you use services provided by us, what your rights and responsibilities are and what you can expect from your visits to or your membership in The WELL. 
 
@@ -100,3 +103,9 @@ The WELL sites and services contain many links to other Internet sites. The Well
 If you have any further questions or concerns about The Well Group's privacy policies and use of personal information, please email them to helpdesk [at] well.com, or post them to The WELL Policy Conference (the shortcut is **g policy** ).
 
 _April, 2014_
+
+[Terms of service](https://web.archive.org/web/20141203201458id_/http%3A//www.well.com/%3C%%20$BASEDIR%20%%3E/member_agreement.html)
+
+[DMCA (copyright dispute) procedure](https://web.archive.org/web/20141203201458id_/http%3A//www.well.com/%3C%%20$BASEDIR%20%%3E/dmca.html)
+
+<& "$INCLUDES/Search.mhtml" &> <%#---------------------------- END CONTENT AREA ----------------------------%> <%doc> The page title should be placed in the ".title" section below. This is what will appear at the top of the browser window. HTML will be ignored.  <%method .title> The WELL - Privacy Policy  <%doc> The author meta-information belongs in the ".author" section. HTML will be ignored.  <%method .author> The WELL; original HTML coding created on March 28, 2005, by Fleur Helsingor; revised June 23, 2005  <%doc> The page description belongs in the ".description" section. HTML will be ignored.  <%method .description> The WELL privacy policy  <%doc> The page keywords belong in the ".keywords" section. Multiple keywords should be separated by commas. HTML will be ignored.  <%method .keywords> The WELL, community 
