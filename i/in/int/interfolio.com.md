@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630113335id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203181946id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Interfolio
+# Privacy Policy - Interfolio
 
-_Last updated on November 7, 2013_
+_Last updated on September 3, 2014_
 
 Interfolio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Interfolio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Interfolio’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -104,6 +104,10 @@ You may not be able to access Confidential Personal Information submitted to the
 Certain information is necessary in order for us to provide the Site or Services; therefore, if you delete such necessary information you will not be able to use the Site or Services. If you wish to have your Personal Information removed from our databases or to discontinue the Service you may contact us at [privacy@interfolio.com](mailto:privacy@interfolio.com). Within a reasonable time period after we receive your request—and it may take up to thirty (30) days to process the deletion—we will remove your Personal Information provided, however, that we may continue to maintain and use your Personal Information in a manner where the information is no longer personally identifiable.
 
 Please note that even though you may request the deletion of your Personal Information by us, we may be required (by law or otherwise, such as to prevent fraud, resolve disputes, troubleshoot problems, or enforce our Services Agreement) to keep this information and not delete it (or to keep this information for a certain time) in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives.
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Interfolio commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Interfolio at [privacy@interfolio.com](mailto:privacy@interfolio.com)
+
+Interfolio has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Interfolio, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 ### USER FEEDBACK
 
