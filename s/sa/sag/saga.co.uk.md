@@ -1,47 +1,51 @@
-> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628131556id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203215155id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Saga Group Data Protection Privacy Policy - Saga
 
-### **This is the standard data protection privacy policy for the Saga Group (which includes the Saga, and Allied Healthcare and Nestor Primecare groups of companies).**
+### This is the standard data protection privacy policy for the Saga Group (which includes the Saga, and Allied Healthcare and Nestor Primecare groups of companies).
 
 When it comes to your privacy we never compromise. We will always be clear about why we need the details we ask for, and ensure your personal information is kept as secure as possible. How we do this is explained below.
 
-**Last updated:  May 2014**
+**Last updated:  October 2014**
 
-  * Introduction 
-  * How we use the information you provide us 
-  * Your consent 
-  * Cookies 
-  * How we use cookies 
-  * Links to other sites 
-  * How you can control cookies 
-  * How to accept cookies 
-  * How to delete cookies 
-  * Disclosure of information to third parties 
-  * Employees and employees' spouses or partners 
-  * Data Protection Act marketing consent 
-  * Amendment and retention of information 
-  * Subject access requests 
-  * Your choice of information 
-  * Changes to our privacy policy 
-  * Tell us what you think 
+  * Introduction
+  * How we use the information you provide us
+  * Your consent
+  * Cookies
+  * How we use cookies
+  * Links to other sites
+  * How you can control cookies
+  * How to accept cookies
+  * How to delete cookies
+  * Mobile and Tablet accepting and deleting cookies
+  * Disclosure of information to third parties
+  * Employees and employees' spouses or partners
+  * Data Protection Act marketing consent
+  * Amendment and retention of information
+  * Subject access requests
+  * Your choice of information
+  * Changes to our privacy policy
+  * Tell us what you think
+
+  
 
 
+### 
 
 ### Introduction
 
 ### 
 
-Saga plc, together with its subsidiaries, being the various groups of companies that Saga plc ultimately owns including the Saga Leisure group, the Allied Healthcare ("Allied") group and the Nestor Healthcare ("Nestor") group.
+Saga plc., together with its subsidiaries, being the various groups of companies that Saga plc. ultimately owns including the Saga Leisure group, the Allied Healthcare ("Allied") group and the Nestor Healthcare ("Nestor") group.
 
-Companies within the Saga group (“Saga”) use a variety of well-known brand and trading names including, but not limited to, Saga, Titan Travel, Allied Healthcare, Nestor, Direct Choice, Claimfast, and Metromail. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
+Companies within the Saga group (“Saga”) use a variety of well-known brand and trading names including, but not limited to, Saga, Titan Travel, Allied Healthcare, Nestor, Direct Choice Insurance Services Limited, Claimfast, and Metromail. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
 
-Saga ("we","us") are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data."
-
-Back to top 
+Saga ("we","us") are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data." Back to top 
 
 ### How we use your information   
 
+
+## 
 
 We use the information we receive from you, together with information we have obtained from our dealings with you (including in relation to goods and/or services we provide to you and/or your use of those goods and/or services), to provide goods and/or services that you request, to communicate with you, and to personalise information sent to you. Examples of how we may personalise information include using your information in generating an insurance quote for you, working out which departure airports are near to you, or when we will be delivering certain products in your area.
 
@@ -98,7 +102,8 @@ In the event of phone calls from you, we also reserve the right to ask security 
 
 If you contact us electronically we may collect your electronic identifier, eg Internet protocol (IP) address or phone number supplied by your service provider. This is to identify any repeat website visits, fraudulent behaviour or mystery shoppers using our websites.
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top   
+
 
 ## 
 
@@ -114,11 +119,9 @@ It is worth noting, however, that some non-EEA countries do not afford the same 
 
 Subsequent to your purchase of a product or service, we may enter into an arrangement for that service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer and processing of personal and/or sensitive personal data to the new provider, subject to the requirement of the Data Protection Act 1998 and associated regulations.
 
-    [Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top)
+Back to top 
 
-## 
-
-### Cookies 
+### Cookies
 
 From offers and promotions to sound and video, the aim of this site is to be interesting, helpful and informative. We’re keen to find out what you like and dislike – your feedback plays a key role in helping us improve this site. We use many techniques to follow your use of the site and provide you with a customised experience. The main and best-known technique is by using what are known as 'cookies'.
 
@@ -126,11 +129,10 @@ From offers and promotions to sound and video, the aim of this site is to be int
 
 Other cookies can tell us if you come back. These are ‘persistent cookies’, which expire after a period of time unless you delete them from your device. We use them to help customise the site – to do things such as display relevant information based on your visit.
 
-Some cookies enable sites to work, while others help us learn about what people are browsing for.
+Some cookies enable sites to work, while others help us learn about what people are browsing for.   
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
 
-## 
+Back to top  
 
 ### How we use cookies 
 
@@ -156,19 +158,16 @@ Rest assured that the cookies we use do not store personal details, such as paym
 **4\. Targeting or advertising cookies**  
 **In brief** These cookies collect anonymous information about your browsing habits which are then used to make advertising relevant to you. They remember if you have visited a website and share this information with advertisers.
 
-**For example** We limit advertising to certain sections of the website. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
+**For example  **These may be used by third parties to serve advertisements on our behalf across the internet based on your interaction with Saga's website through cookies and other technologies. This information may be used by us and our third parties to analyse and track data, as well as to deliver advertising and content that is based on your interests. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
-
-## 
+Back to top  
 
 ### Links to other sites 
 
-We often link off to other sites to help provide you with extra information or services. For example, to make it easy for you to share information with your family and friends, we provide links to Twitter, Facebook and other popular social media or book-marking sites. But remember, these sites may use cookies that we do not control. So be sure to check how they use your information.
+We often link off to other sites to help provide you with extra information or services. For example, to make it easy for you to share information with your family and friends, we provide links to Twitter, Facebook and other popular social media or book-marking sites. But remember, these sites may use cookies that we do not control. So be sure to check how they use your information.   
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
 
-## 
+Back to top  
 
 ### How you can control cookies 
 
@@ -184,80 +183,100 @@ How you manage your cookies depends on your browser. To find out which browser y
 
 If you would prefer to restrict or block cookies and/or delete any you may already have, then follow the how-to guide, which covers the most popular browsers, below:
 
-  * [How to accept cookies](http://www.saga.co.uk/privacy-policy.aspx#accept_cookies)
+  * [How to accept cookies](http://www.saga.co.uk/privacy-policy.aspx#_Toc368658488)
   * [How to view cookies](http://www.allaboutcookies.org/manage-cookies/)
-  * [How to delete cookies](http://www.saga.co.uk/privacy-policy.aspx#delete_cookies)
+  * [How to delete cookies](http://www.saga.co.uk/privacy-policy.aspx#_Toc368658489)
+  * [Mobile and Tablet accepting and deleting cookies](http://www.saga.co.uk/privacy-policy.aspx#_Toc368658499)
 
 
 
-If you would like to know more about cookies you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which explains in detail how they can work and can be managed.
+ If you would like to know more about cookies you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which explains in detail how they can work and can be managed.
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top  
 
 ## 
 
 ### How to accept cookies 
 
-**Internet Explorer 6.0**
+**Internet Explorer 8.0**
 
-1. From the menu choose **Tools**  
-2. Then **Internet Options**  
-3. Click the **Privacy tab**  
-4. Move the slider to select the level of privacy you prefer, or click **Advanced** for customised settings
+  1. Click on the **Tools** menu in Internet Explorer and select **Internet Options**.
+  2. Click on the **Privacy** tab. There are 2 options on how much you want to restrict cookies: 
+    1. **Automatic cookie handling** – Set the slider to **Medium** to enable cookies on most websites
+    2. **Restrict to selective sites** – Set slider to **High** and select the **Sites** button and enter in [www.saga.co.uk](http://www.saga.co.uk/) in the text field and then click the Allow button then the **OK** button.
+  3. Click on the **OK** button to save settings.
 
-**Internet Explorer 7.0 and 8.0**
 
-1. From the menu choose **Tools**  
-2. Then **Internet Options**  
-3. On the General tab, under **Browsing History** click **Settings**  
-4. Move the slider to select the level of privacy you prefer, or click **Sites** or **Advanced** for customised settings
 
-**FireFox 1.0, 2.0 and 3.0**
+**Internet Explorer 9.0 – 11.0**
 
-1. From the menu choose **Tools**  
-2. Then **Options**  
-3. Click the **Privacy** icon and then **Show cookies**  
-4. Tick the check box for **Accept cookies from sites**  
-5. To allow third party cookies tick **Accept third party cookies**
+  1. Click on the **Gear icon** in the top right hand corner of the browser window and click on **Internet Options**.
+  2. Click on the **Privacy** Tab. There are 2 options on how much you want to restrict cookies: 
+    1. **Automatic cookie handling** – Set the slider to **Medium** to enable cookies on most websites.
+    2. **Restrict to selective sites** – Set slider to **High** and select the **Sites** button and enter in [www.saga.co.uk](http://www.saga.co.uk/) in the text field and then click the **Allow** button then the **OK** button.
+  3. Click on the **OK** button to save settings.
 
-**FireFox up to  11.0**
 
-1. From the menu choose **Tools**  
-2. Then **Options**  
-3. Click the **Privacy** icon  
-4. In History, set **Firefox** will: to **Use custom settings for history**  
-5. Tick the check box **Accept cookies from sites** to enable cookies, and uncheck it to disable them
 
-**Chrome**
+**Firefox 26.0 and newer**
 
-1. From the browser menu choose the **Spanner** icon   
-2. Then **Settings**  
-3. Click **Under the Bonnet**  
-4. In **Privacy** click **Content settings**  
-5. In **Cookie** s choose the radio button **Allow local data to be set**
+  1. Click the **icon depicting three horizontal lines** in the top-right corner and select **Options**.
+  2. Click on the **Privacy** tab. There are 2 options on how much you want to restrict cookies: 
+    1. **No Restriction** – Select from the dropdown **Remember History**.
+    2. **Restrict to selective sites** – Select from the dropdown to **Use Custom settings for history**. Tick **Accept cookies from sites**.
+  3. Click the **OK** button to save settings.
+
+
+
+**Chrome 10 - 22**
+
+  1. From the browser menu choose the **Spanner** icon 
+  2. Then **Settings**
+  3. Click **Under the Bonnet**
+  4. In **Privacy** click **Content settings**
+  5. In **Cookie** s choose the radio button **Allow local data to be set.**
+
+
+
+**Chrome 31 and Newer**
+
+  1. Click the **icon depicting three horizontal lines** in the top-right corner and select **Settings**.
+  2. Click on **Show advanced Settings** … at the bottom of the page.
+  3. In the section entitled **Privacy** click the button **Content Settings…** There 2 options: 
+    1. **Automatic cookie handling** – In the section entitled **Cookies** select the option **Allow local to be set**.
+    2. **Add exceptions manually** – Click the **Manage exceptions…** button. In the column titled **Hostname pattern** type [www.saga.co.uk](http://www.saga.co.uk/) into the text box and select **Allow** and click **Done**.
+  4. Click on **Done** to save settings.
+
+
 
 **Safari 5.0 (Apple Macintosh and PC Windows)**
 
-1. From the menu choose **Safari**  
-2. Then **Preferences**  
-3. Click the **Security** icon and then Show cookies   
-4. Choose to accept cookies Always or Only from sites I visit
+  1. From the menu choose **Safari**
+  2. Then **Preferences**
+  3. Click the **Security** icon and then Show cookies 
+  4. Choose to accept cookies Always or Only from sites I visit
+
+
 
 **Safari 5.1 (Apple Macintosh)**
 
-1. From the menu choose **Safari**  
-2. Then **Preferences**  
-3. Click the **Privacy** icon  
-4. For the option **Block cookies** : choose **Never** or else  **From third parties and advertisers**
+  1. From the menu choose **Safari**
+  2. Then **Preferences**
+  3. Click the **Privacy** icon
+  4. For the option **Block cookies** : choose **Never** or else  **From third parties and advertisers**
+
+
 
 **Safari 5.1.5 (PC Windows)**
 
-1. From the browser menu choose the **Cog wheel** icon   
-2. Then **Preferences**  
-3. Click the **Privacy** icon  
-4. For the option **Block cookies** : choose **Never** or else  **From third parties and advertisers**
+  1. From the browser menu choose the **Cog wheel** icon 
+  2. Then **Preferences**
+  3. Click the **Privacy** icon
+  4. For the option **Block cookies** : choose **Never** or else  **From third parties and advertisers**
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+
+
+Back to top  
 
 ## 
 
@@ -265,84 +284,200 @@ If you would like to know more about cookies you can visit [www.allaboutcookies.
 
 To remove cookies follow the steps in this section. Do not try to edit the cookies file on your computer.
 
-**Internet Explorer 6.0**
+**Internet Explorer 8.0**
 
-1. From the menu choose **Tools**  
-2. Then **Internet Options**  
-3. On the **General** tab click **Settings** , then **View Files**  
-4. Select a cookie and click **Delete**
+  1. From the menu choose **Tools**
+  2. Then **Internet Options**
+  3. On the **General tab** , under Browsing history click Settings 
+  4. Click **View files**
+  5. Click the **Name** column heading to alphabetically sort the files 
+  6. Scroll down to files that begin with the prefix **cookie** : – all cookies have this prefix, and they usually contain the name of the website that created the cookie 
+  7. **Right-click** to delete a cookie you want to remove 
+  8. Close the window, then click **OK** twice to return to the browser window
 
-**Internet Explorer 7.0 and 8.0**
 
-1. From the menu choose **Tools**  
-2. Then **Internet Options**  
-3. On the **General tab** , under Browsing history click Settings   
-4. Click **View files**  
-5. Click the **Name** column heading to alphabetically sort the files   
-6. Scroll down to files that begin with the prefix **cookie** : – all cookies have this prefix, and they usually contain the name of the website that created the cookie   
-7.  **Right-click** to delete a cookie you want to remove   
-8. Close the window, then click **OK** twice to return to the browser window
 
-**FireFox 1.0, 2.0 and 3.0**
+**Internet Explorer 9.0 – 11.0**
 
-1. From the menu choose **Tools**  
-2. Then **Options**  
-3. Click the **Privacy** icon and then **Show Cookies**  
-4. Select a site from the list and click **Remove Cookie(s)**  
-5. To remove all sites click **Remove All Cookies**
+  1. Click on the **Gear icon** in the top right hand corner of the browser window and click on **Internet Options**.
+  2. In the **General Tab** under the **Browsing history section** click on the **Delete…** button.
+  3. Within the pop up window tick the **Cookies and website data** and click on the **Delete** Button.
+  4. Click the **Apply** button to save settings.
 
-**FireFox up to 11.0**
 
-1. From the menu choose **Tools**   
-2. Then **Options**  
-3. Click the **Privacy** icon  
-4. In History, click **remove individual cookies**  
-5. Select a site from the list and click **Remove Cookie**
 
-**Chrome**
+**Firefox 26.0 and Newer**
 
-1. From the browser menu choose the **Spanner** icon   
-2. Then **Settings**  
-3. Click **Under the Bonnet**  
-4. In **Privacy** click **Content settings**  
-5. In **Cookies** click the button **All cookies and site data**  
-6. Select a site from the list and click **X**
+  1. Click the **icon depicting three horizontal lines** in the top-right corner and select **Options**.
+  2. Click on the **Privacy** tab, under the History section click on **clear your recent history link in blue**.
+  3. From the pop up window select **Everything** in the dropdown and click the **Clear Now** button.
+  4. Click the **OK** button to exit.
+
+
+
+**Chrome 10 - 22**
+
+  1. From the browser menu choose the **Spanner** icon 
+  2. Then **Settings**
+  3. Click **Under the Bonnet**
+  4. In **Privacy** click **Content settings**
+  5. In **Cookies** click the button **All cookies and site data**
+  6. Select a site from the list and click **X**
+
+
+
+**Chrome 31 and Newer**
+
+  1. Click the **icon depicting three horizontal lines** in the top-right corner and select **Settings**.
+  2. Click on **Show Advanced Settings…** at the bottom of the page.
+  3. In the section entitled **Privacy** click the button **Clear Browsing Data…**
+  4. From the pop up window in the drop down select **the beginning of time** and tick the **Cookies and other site and plug-in data**.
+  5. Click the **Clear Browsing data** button to remove cookies.
+
+
 
 **Safari 5.0 (Apple Macintosh)**
 
-1. From the menu choose **Safari**  
-2. Then **Preferences**  
-3. Click the Security icon and then **Show Cookies**  
-4. Select a cookie from the list and click **Remove**  
-5. To delete all cookies click **Remove All**
+  1. From the menu choose **Safari**
+  2. Then **Preferences**
+  3. Click the Security icon and then **Show Cookies**
+  4. Select a cookie from the list and click **Remove**
+  5. To delete all cookies click **Remove All**
+
+
 
 **Safari 5.1 (Apple Macintosh)**
 
-1. From the menu choose **Safari**  
-2. Then **Preferences**  
-3. Click the **Privacy** icon and then **Details**  
-4. Select a cookie from the list and click **Remove**  
-5. To delete all cookies click **Remove All**
+  1. From the menu choose **Safari**
+  2. Then **Preferences**
+  3. Click the **Privacy** icon and then **Details**
+  4. Select a cookie from the list and click **Remove**
+  5. To delete all cookies click **Remove All**
+
+
 
 **Safari 5.0 (PC Windows)**
 
-1. From the menu choose **Edit**  
-2. Then **Preferences**  
-3. Click the **Security** icon and then **Show Cookies**  
-4. Select a cookie from the list and click the **Remove** button   
-5. To delete all cookies click **Remove All**
+  1. From the menu choose **Edit**
+  2. Then **Preferences**
+  3. Click the **Security** icon and then **Show Cookies**
+  4. Select a cookie from the list and click the **Remove** button 
+  5. To delete all cookies click **Remove All**
 
-**Safari 5.1.5 (PC Windows)**
 
-1. From the browser menu choose the **Cog** wheel icon   
-2. Then **Preferences**  
-3. Click the Privacy icon and then **Details**  
-4. Select a cookie from the list and click **Remove**  
-5. To delete all cookies click **Remove All**
+
+**Safari 5.1.5 and Newer  (PC Windows)**
+
+  1. Click on the **Gears icon** in the right hand corner of the window.
+  2. Select **Reset Safari** and tick **Remove all website data**.
+  3. Click the **Reset** button to remove cookies.
+
+
 
 If you are not using any of the above browsers, then select 'cookies' in the 'Help' function for information on where to find your cookie folder.
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top  
+
+  
+
+
+## 
+
+### Mobile and Tablet accepting and deleting cookies
+
+These are only for the built in browsers on phones and tablets. Please refer to the help menu for all other browsers.
+
+**iPad/iPhone accepting cookies**
+
+  1. Go to the **Home screen** by pressing the **Home** button.
+  2. Select the **Settings icon** and select **Safari** from the Settings Menu.
+  3. Select **Block Cookies** from the Safari menu and then from the drop down **select Always Allow** and select the **tick icon** to save.
+  4. Press **Home** button to exit.
+
+
+
+**iPad/iPhone deleting cookies**
+
+  1. Go to the **Home screen** by pressing the **Home** button.
+  2. Select the **Settings icon** and select **Safari** from the Settings Menu.
+  3. Select **Clear Cookies** and from the pop up click on **Clear**.
+  4. Press **Home** button to exit.
+
+
+
+**Samsung Tab accepting cookies**
+
+  1. Open the **Browser** and select the **Menu** button.
+  2. Select the **Gear Settings option**. Scroll to the **Privacy Settings** section.
+  3. Tick the **Accept Cookies** option.
+  4. Select the **Home** button to exit.
+
+
+
+**Samsung Tab deleting cookies**
+
+  1. Open the **browser** and select the **Menu** button.
+  2. Select the **Gear Settings option**. Scroll to the **Privacy Settings** section.
+  3. Select the **Clear all cookie data** and select **Yes**.
+  4. Select the **Home** button to exit.
+
+
+
+**Samsung phones accepting cookies**
+
+  1. Open the **inbuilt browser** and open a **new tab**.
+  2. Select the **3 dots icon** on the right hand corner of the screen and select **Settings**.
+  3. Under the **Advanced section** select **Content Settings**.
+  4. Under the **Content settings section** tick the **Accept cookies**.
+  5. Select the **Home** button to exit.
+
+
+
+**Samsung phones deleting cookies**
+
+  1. Open the **inbuilt browser** and open a **new tab**.
+  2. Select the **3 dots icon** on the right hand corner of the screen and select **Settings**.
+  3. Under the **Advanced section** select **Content Settings**.
+  4. Under the **Reset Settings** select **Reset settings** and select OK.
+  5. Select the **Home** button to exit.
+
+
+
+**Windows phone accepting cookies**
+
+  1. Open **Internet Explorer** and press **3 dot icon** and select **Settings**.
+  2. Tick the **Allow cookies on my phone**.
+
+
+
+**Windows phone deleting cookies**
+
+  1. Open **Internet Explorer** and press **3 dot icon** and select **Settings**.
+  2. Select **Delete history** and select **OK**.
+
+
+
+**Windows Surface accepting cookies**
+
+  1. Open **Internet Explorer** and swipe in the right to get the **Charms Bar**.
+  2. Tap the **Spanner icon** to show the settings and select **Options**.
+  3. Under the **Privacy section** and tick **Allow Cookies**.
+
+
+
+**Windows Surface deleting cookies**
+
+  1. Open **Internet Explorer** and swipe in the right to get the **Charms Bar**.
+  2. Tap the **Spanner icon** to show the settings and select **Options**.
+  3. Under the **History section** select the button to delete.
+  4. Select **Cookies** to delete and tap delete.
+
+
+
+Back to top 
+
+  
+
 
 ## 
 
@@ -358,9 +493,9 @@ c) for underwriting, pricing, insurance rating analysis and testing purposes, an
 
 We may of course be obliged at law to pass on your information to the police or any other statutory or regulatory authority and in some cases, exemptions may apply under the Data Protection Act 1998, whereby we can legitimately release personal data e.g. to prevent or detect crime or in connection with legal proceedings.
 
-See also **How we use the information you provide us** above for information on how we may exchange personal data with third parties to help us prevent fraud and money laundering, to assist us in providing a quote, or to check which payment options we can make available to you.
+See also **How we use the information you provide us** above for information on how we may exchange personal data with third parties to help us prevent fraud and money laundering, to assist us in providing a quote, or to check which payment options we can make available to you. 
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top  
 
 ## 
 
@@ -368,7 +503,7 @@ See also **How we use the information you provide us** above for information on 
 
 Personal and/or sensitive personal data of an employee and his or her spouse or partner who take out a product and/or service may be shared to any group company for the purpose of operation of the product or service or for administrative reasons (including but not limited to claim administration, which may be assisted by the employee's department personnel). By accepting or purchasing the product or service the employee and his or her spouse or partner provide the necessary consent for this transfer of data.
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top  
 
 ## 
 
@@ -378,7 +513,7 @@ Saga groups of companies have adopted the following procedure in gaining your co
 
 When you first make an enquiry of or buy a product from Saga Group you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the group and a 'questionnaire' will be sent to you; it may be sent electronically. This questionnaire gives a list of all the products of the group, and the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top  
 
 ## 
 
@@ -386,7 +521,7 @@ When you first make an enquiry of or buy a product from Saga Group you consent t
 
 Please advise us in writing as to any changes in your circumstances. Obviously it is preferable for us to retain up to date information. We will amend details as required. We are, however, obliged and permitted by law and regulation to retain certain types of data for a minimum period of time. The minimum period of time tends to be for six years but can be longer if the statute or regulation requires.
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top  
 
 ## 
 
@@ -399,15 +534,15 @@ Requests relating to Allied Healthcare should be made to the branch manager of y
 We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.  
  
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top  
 
 ## 
 
 ### Your choice of information 
 
-You may change the type of material sent to you at any time. Saga allows you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, for Saga products please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE. 
+You may change the type of material sent to you at any time. Saga allows you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, for Saga products please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE.
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top
 
 ## 
 
@@ -415,7 +550,7 @@ You may change the type of material sent to you at any time. Saga allows you to 
 
 If we decide to change our privacy policy, we will update all relevant documentation and post any changes on our websites so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-[Back to top ](http://cmi.cms.scsaga/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b51AF9E3F-270C-4DF0-B0CC-EA11899FFCB8%7d&ed=FIELD968775346&vs&la=en&fld=%7bA0AD83E2-1099-407C-B8D7-C123FDAAD5DD%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fRich+Text+Full&di=0&hdl=H968775725&us=sitecore%5cLauren+johnson&mo&pe=0#top) 
+Back to top 
 
 ## 
 
@@ -425,7 +560,7 @@ We welcome your questions and comments about privacy.
 
 Please write to The Group Data Protection Officer, The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE.
 
-[Back to top ](http://cmi.cms.scsaga/privacy-policy.aspx#explore) 
+Back to top 
 
 ## 
 
