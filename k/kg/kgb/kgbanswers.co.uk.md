@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgbanswers.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628151359id_/http%3A//www.kgbanswers.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgbanswers.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203171357id_/http%3A//www.kgbanswers.co.uk/privacy) for the most accurate reproduction.*
 
 # kgb answers – high-quality answers on the go
 
