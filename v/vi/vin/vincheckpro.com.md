@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vincheckpro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102952id_/http%3A//www.vincheckpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincheckpro.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203184528id_/http%3A//www.vincheckpro.com/privacy) for the most accurate reproduction.*
 
 # VINCheckPro.com Privacy Policy
 
@@ -53,7 +53,7 @@ We do not sell, rent or share personal information regarding your person with ot
 
   * You may edit or delete information regarding your account within our member’s area, by simply clicking on the "My Account" and then followed by clicking "Make Changes".
   * To remove yourself from any commercial e-mails or alerts sent to you by us, you can simply do so by following the unsubscribe link provided by any and all commercial messages sent to your e-mail.
-  * We reserve the right to send you information and communication relating to our service, such as service announcements, administration related messages, customer receipts and so forth without providing an opt-out option of receiving them. If you wish to no longer receive these emails please contact us by clicking here or at [support@vincheckpro.com](mailto:support@vincheckpro.com). We provide an option of opting-out of our living people searches completely free. Simply contact our [support staff](https://web.archive.org/web/20140625102952id_/http%3A//www.vincheckpro.com/support) to do so.
+  * We reserve the right to send you information and communication relating to our service, such as service announcements, administration related messages, customer receipts and so forth without providing an opt-out option of receiving them. If you wish to no longer receive these emails please contact us by clicking here or at [support@vincheckpro.com](mailto:support@vincheckpro.com). We provide an option of opting-out of our living people searches completely free. Simply contact our [support staff](https://web.archive.org/web/20141203184528id_/http%3A//www.vincheckpro.com/support) to do so.
 
 
 
