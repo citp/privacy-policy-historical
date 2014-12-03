@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519042124id_/http%3A//www.transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203055044id_/http%3A//transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
 
 # Transit & Travel Job Insider - Privacy Policy
 
@@ -12,7 +12,7 @@ This Policy describes the types of information that Transit & Travel Job Insider
 
 ### **Your Consent**
 
-Please read this entire Policy carefully before using this Site or providing us with any information. When you access or use this Site, you consent to the collection, use and disclosure of your information in accordance with this Policy. By providing personal information to the Site, all Users fully understand and consent to the collection, use and processing of such information by Transit & Travel Job Insider or third parties as set forth herein. If you do not agree to the terms of this Policy, you are not authorized to use the Site. 
+Please read this entire Policy carefully before using this Site or providing us with any information. When you access or use this Site, you consent to the collection, use and disclosure of your information in accordance with this Policy. By providing personal information to the Site, all Users fully understand and consent to the collection, use and processing of such information by Transit & Travel Job Insider, affiliates or other third parties as set forth herein. If you do not agree to the terms of this Policy, you are not authorized to use the Site. 
 
 ### **Contact Us**
 
@@ -31,7 +31,7 @@ New York, NY 10016
 
 ### **Registration**
 
-Users are welcome to browse our Site; however, in order to participate in some of our services, Users may be required to complete brief registration forms. These forms may or may not ask for personally identifiable information. When personally identifiable information is collected, it is subject to the terms of this Policy. Information entered by Users may be transmitted to third parties.
+Users are welcome to browse our Site; however, in order to participate in some of our services, Users may be required to complete brief registration forms. These forms may or may not ask for personally identifiable information. When personally identifiable information is collected, it is subject to the terms of this Policy. Information entered by Users may be transmitted to affiliates and other third parties.
 
 ### **Personally Identifiable Information**
 
@@ -70,13 +70,13 @@ We may use the information (whether or not personally identifiable) that you pro
   * Make your next visit to the Site more personalized.
   * Process or complete transactions requested by you.
   * Contact you regarding administrative issues, such as questions about your specific request, or otherwise respond to your comments or requests.
-  * E-mail information and offers to you.
-  * Mail information and offers to you. 
+  * E-mail information and offers to you from us and our affiliates and partners.
+  * Mail information and offers to you from us and our affiliates and partners. 
   * Make telephone calls and send text messages to you with information and offers. 
-  * Provide your information to third parties to fulfill services you have requested or that may be of interest to you.
+  * Provide your information to affiliates and other third parties to fulfill services you have requested or that may be of interest to you.
   * Compile anonymous statistical information and analysis. 
-  * Provide compiled anonymous information to third parties. 
-  * Provide, sell, or rent your information to third parties for advertising purposes.
+  * Provide compiled anonymous information to affiliates and other third parties. 
+  * Provide, sell, or rent your information to affiliates and other third parties for advertising purposes.
   * Permit you to access certain web-based programs or applications on the Site.
   * Help administer and protect the security of the Site.
   * Process online purchases or other payment transactions.
