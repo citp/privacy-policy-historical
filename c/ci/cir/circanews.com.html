@@ -1,25 +1,23 @@
-<!--The following is the downloaded HTML source of the circanews.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625092715id_/http%3A//cir.ca/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the circanews.com privacy policy that was archived on 2014-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203171929id_/http%3A//cir.ca/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="https://www.facebook.com/2008/fbml"><!--[endif]----><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# circa-news: http://ogp.me/ns/apps/circa-news#">
-  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=412601415425648"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
   <script src="//cdn.optimizely.com/js/142352353.js"></script>
   <meta charset="utf-8">
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="app-id=517114354" name="apple-itunes-app">
   <title>Circa News | News, Re-imagined</title>
   
   <meta name="keywords" content="">
   
   <meta name="description" content="">
-  <script src="//use.typekit.net/bal1rkt.js" type="text/javascript"></script>
-  <script>
-    try{Typekit.load();}catch(e){}
-  </script>
+    <script type="text/javascript" src="//use.typekit.net/lpm5rnr.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   <link href="/stylesheets/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
   <link href="/stylesheets/circa.css" media="screen" rel="stylesheet" type="text/css">
   <link href="/stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css">
+  <link rel="icon" type="image/png" href="/img/favicon.png">
   
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="HandheldFriendly" content="true">
@@ -30,22 +28,83 @@
 <body class="generic">
   <div class="page">
 
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '',
+    status     : true,
+    cookie     : true,
+    xfbml      : false
+  });
+  FB.Event.subscribe('auth.authResponseChange', function(response) {
+    if (response.authResponse.accessToken && response.authResponse.userID && response.status === 'connected') {
+      fbFinalize(response.authResponse.userID, response.authResponse.accessToken);
+    } else if (response.status === 'not_authorized') {
+      FB.login();
+    } else {
+      FB.login();
+    }
+  });
+  };
+
+  (function(d){
+   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+   if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   ref.parentNode.insertBefore(js, ref);
+  }(document));
+
+  function fbFinalize(fb_uid, access_token) {
+    window.fb_uid = fb_uid;
+    window.access_token = access_token;
+    if (window.fb_login_attempt) {
+      post_fb_login(fb_uid, access_token);
+    }
+  }
+</script>
+
+<header>
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, minimal-ui">
+    
+	<div id="header-alt">
+	<div id="header-alt-content">
+        <div id="header-background-img">
+            <img id="about-background" src="/img/AboutBackground.jpg" data-src-2x="/img/AboutBackground@2x.jpg" style="display:none;">
+            <img id="press-background" src="/img/PressBackground.jpg" data-src-2x="/img/PressBackground@2x.jpg" style="display:none;">
+            <img id="generic-background" src="/img/GenericBackground.jpg" data-src-2x="/img/GenericBackground@2x.jpg" style="display:none;">
+        </div>
+	    <div class="left">
+		<a id="circa-white-header-logo" href="/"><img src="../static/img/CircaLogoWhite.png" data-src-2x="/img/CircaLogoWhite@2x.png"></a>
+		<a id="circa-black-header-logo" href="/"><img src="../static/img/CircaLogoBlackSmall.png" data-src-2x="/img/CircaLogoBlackSmall@2x.png"></a>
+	    </div>
+	    <div class="right">
+		<div class="white-header-text-wrapper">
+		<a id="white-header-text-about" class="about-link alt-right-text" href="/about/">About</a>
+		<a id="white-header-text-press" class="press-link alt-right-text" href="/press/">Press</a>
+		<a id="white-header-text-blog" class="blog-link alt-right-text" target="_blank" href="https://medium.com/circa">Blog</a>
+		<a id="white-header-text-help" class="help-link alt-right-text" href="http://circa.helpshift.com/a/circa-news/">Help</a>
+		</div>
+		<div class="black-header-text-wrapper">
+		<a class="alt-right-text black-header-text" href="/about/">About</a>
+                <a class="alt-right-text black-header-text" href="/press/">Press</a>
+                <a class="alt-right-text black-header-text" href="http://blog.cir.ca/">Blog</a>
+                <a class="alt-right-text black-header-text" href="http://circa.helpshift.com/a/circa-news/">Help</a>
+                </div>
+		<div class="underline-selector">
+                    <img id="header-white-underline" src="../static/img/UnderlineRectangle.png">
+		    <img id="header-black-underline" src="../static/img/UnderlineRectangleBlack.png">
+                </div>
+	    </div>
+	</div>
+	</div>
+    
+</header>
 
 
-  <div class="main-navbar navbar">
-    <div class="navbar-inner">
-      <a class="logo" href="/">circa</a>
-      <ul class="pull-right">
-        <li><a href="mailto:support@cir.ca">Contact</a></li>
-        <li><a href="http://help.cir.ca/">Help</a></li>
-        <li><a href="http://blog.cir.ca/">Blog</a></li>
-      </ul>
-    </div>
-  </div>
 
-
-
-
+<div id="section-wrapper">
   <div class="container">
     <h1>Circa's Privacy Policy</h1>
 <p><em>Last Updated: September 28, 2012</em></p>
@@ -76,35 +135,124 @@ Our Services are not directed to children under 13 and we do not knowingly colle
 We may modify and revise this policy from time to time. If we make any material changes to this policy, we'll notify you of such changes by posting them on our website or by sending you an email or other notification, and we'll indicate when such changes will become effective.</p>
 <p><strong>Questions?</strong> Please contact us at <a href="http://help.cir.ca/">http://help.cir.ca/</a> if you have any questions about our privacy policy.</p>
   </div>
+</div>
 
 
     <footer>
+<!-- The information on the left side of the screen-->
 
-
-      <ul class="nav nav-pills center-pills">
-        <li><a href="/">Home</a></li>
-
-
-        <li><a href="mailto:support@cir.ca">Contact</a></li>
-        <li><a href="http://help.cir.ca/">Help</a></li>
-        <li><a href="http://blog.cir.ca/">Blog</a></li>
-      </ul>
-
-      <p class="copyright">
-        2014 © Circa 1605, Inc.
+    <div class="hidden-links-mobile">
+	<a href="/about/">About</a>
+	<a href="/press/">Press</a>
+	<a href="http://blog.cir.ca">Blog</a>
+        <a href="http://www.help.cir.ca/">Help</a>
+    </div>
+    <div class="copyright-info">
+	2014 © CIRCA 1605, INC.
         &nbsp;·&nbsp;
-        <a href="/privacy/">Privacy Policy</a>
+        <a href="/privacy/">PRIVACY POLICY</a>
         &nbsp;·&nbsp;
-        <a href="/tos/">Terms of Service</a>
-      </p>
+        <a href="/tos/">TERMS OF SERVICE</a>	
+    </div>
 
-      <p class="storelinks">
 
-        <a class="DownloadStore" href="/app-iphone"></a>
-        <a class="DownloadPlay" href="/app-android"></a>
+</footer>
+<div id="appModal" class="modal-mask hide">
+ <div class="modal">
+  <div class="modal-header">
+    <a href="/" class="close"></a>
 
-      </p>
-    </footer>
+    <h3>Get Circa</h3>
+  </div>
+  <div class="modal-body">
+    <p>Enter your email or phone number to have a link to Circa send directly to your phone.</p>
+    <form id="appModal-form"><input type="hidden" name="csrfmiddlewaretoken" value="zz6ObNkaF60BcCgxRDTVSj3a1KOOZ3oU">
+      <input type="text" class="input" placeholder="Email Address or Phone #">
+      <input type="hidden" name="os" value="universal">
+      <p class="error-message">This is not a recognizable address. Please try again.</p>
+      <p><small>Standard texting rates may apply.</small></p>
+      <a href="#" class="btn btn-circa btn-circa-primary">Send</a>
+    </form>
+    <div class="icon-spinner icon-spin icon-large"></div>
+    <div class="complete">
+      <div class="icon Permalink_Icon_PasswordSent"></div>
+      <div class="now">A link to download Circa has been sent to your phone.</div>
+      <div class="bottom-button"><a href="#" class="btn btn-circa btn-circa-primary">OK</a></div>
+    </div>
+  </div>
+ </div>
+</div>
+
+<div id="loginModal" class="modal-mask hide">
+ <div class="modal">
+  <div class="modal-header">
+    <a href="/" class="close"></a>
+
+    <h3>Log in to Circa</h3>
+  </div>
+  <div class="modal-body">
+    <p>If you don't have a Circa account yet, download and sign up using the <a id="now-available" href="/app">free app</a> for iPhone.</p>
+    <form><input type="hidden" name="csrfmiddlewaretoken" value="zz6ObNkaF60BcCgxRDTVSj3a1KOOZ3oU">
+        <input class="input" type="text" name="email" id="email" placeholder="Email Address">
+        <input class="input" type="password" name="password" id="password" placeholder="Password">
+        <p><small><a class="forgot-password" href="#">Forget your password?</a></small></p>
+        <a href="#" class="btn btn-circa btn-circa-primary">Log In</a>
+	<p class="sign-in-alternatives">Or Sign In With: </p>
+	<div class="social-login">
+        <a href="#" id="login-to-twitter" class="login-button twitter-login"><img src="/img/TwitterShare.png" data-src-2x="/img/TwitterShare@2x.png"></a>
+	<a href="#" id="login-to-facebook" class="login-button facebook-login"><img src="/img/FacebookShare.png" data-src-2x="/img/FacebookShare@2x.png"></a>
+	<!--<a href="#" class="login-button googleplus-login"><img src="/img/GooglePlusShare.png" data-src-2x="/img/GooglePlusShare@2x.png"></a> -->
+	</div>
+	<p class="error-message">Your login was unsuccessful. Please try again.</p>
+    </form>
+    <div class="icon-spinner icon-spin icon-large"></div>
+  </div>
+ </div>
+</div>
+
+<div id="resetModal" class="modal-mask hide">
+ <div class="modal">
+  <div class="modal-header">
+    <a href="/" class="close"></a>
+
+    <h3>Reset Password</h3>
+  </div>
+  <div class="modal-body">
+    <form><input type="hidden" name="csrfmiddlewaretoken" value="zz6ObNkaF60BcCgxRDTVSj3a1KOOZ3oU">
+        <input class="input" type="text" name="email" id="email" placeholder="Email Address">
+      <p class="error-message">This is not a recognizable address. Please try again.</p>
+      <p>Enter the email address you registered with above, and we will send you
+         instructions on how to reset your password.</p>
+      <a href="#" class="btn btn-circa btn-circa-primary">Reset</a>
+    </form>
+    <div class="icon-spinner icon-spin icon-large"></div>
+    <div class="complete">
+      <div class="icon Permalink_Icon_PasswordSent"></div>
+      <p>Instructions on how to reset your account's password have been sent to the
+      email address you provided.</p>
+      <div class="bottom-button"><a href="#" class="btn btn-circa btn-circa-primary">Back to Log In</a></div>
+    </div>
+  </div>
+ </div>
+</div>
+
+<div id="promptModal" class="modal-mask hide">
+ <div class="modal">
+  <div class="modal-header">
+    <a href="/" class="close"></a>
+
+    <h3>Log in to follow this story</h3>
+  </div>
+  <div class="modal-body">
+    <p>To follow this story, download the free Circa app and sign up.
+       If you already have a Circa account, log in and try following the story again.</p>
+    <form>
+      <a href="#" class="btn btn-circa btn-circa-primary" rel="appModal">Get Circa and Sign Up</a>
+
+      <a href="#" class="btn btn-circa btn-circa-primary" rel="loginModal">Log In</a>
+    </form>
+  </div>
+ </div>
 </div>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.js"></script>
@@ -114,7 +262,10 @@ We may modify and revise this policy from time to time. If we make any material 
     //]]>
   </script><script src="javascripts/lib/jquery-1.8.2.min.js"></script>
   <script src="/javascripts/bootstrap.min.js" type="text/javascript"></script>
-  <script src="/javascripts/circa.js" type="text/javascript"></script>
+  <script src="/javascripts/store.js" type="text/javascript"></script>
+
+  <script src="/javascripts/circa.min.js" type="text/javascript"></script>
+
   <script type="text/javascript">
         (function() {
           var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -143,29 +294,25 @@ We may modify and revise this policy from time to time. If we make any material 
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));</script>
 <script type="text/javascript">
-    var _sf_async_config={};
-    /** CONFIGURATION START **/
-    _sf_async_config.uid = 32093;
-    _sf_async_config.domain = 'cir.ca';
-    _sf_async_config.useCanonical = true;
-    _sf_async_config.sections = 'circa';
-    _sf_async_config.authors = 'circa';
-    /** CONFIGURATION END **/
-    (function(){
-      function loadChartbeat() {
-        window._sf_endpt=(new Date()).getTime();
-        var e = document.createElement('script');
-        e.setAttribute('language', 'javascript');
-        e.setAttribute('type', 'text/javascript');
-        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
-        document.body.appendChild(e);
-      }
-      var oldonload = window.onload;
-      window.onload = (typeof window.onload != 'function') ?
-         loadChartbeat : function() { oldonload(); loadChartbeat(); };
-    })();
+var _sf_async_config={uid:32093,domain:"cir.ca"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
 </script>
 
 
 
-<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</div><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
