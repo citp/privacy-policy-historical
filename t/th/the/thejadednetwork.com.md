@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejadednetwork.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515012432id_/http%3A//thejadednetwork.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejadednetwork.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203194719id_/http%3A//thejadednetwork.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ The JADED Network
 
