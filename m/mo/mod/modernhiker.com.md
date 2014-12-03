@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernhiker.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104711id_/http%3A//modernhiker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhiker.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203131628id_/http%3A//www.modernhiker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Modern Hiker
 
@@ -91,6 +91,8 @@ Information we collect may be stored or processed on computers located in any co
  ****
 
 **** This privacy policy was last updated on February 10, 2014. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
+
+Last Updated: Monday, February 10, 2014
 
   
 
