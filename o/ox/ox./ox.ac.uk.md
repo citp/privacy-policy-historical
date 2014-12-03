@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ox.ac.uk privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121124017id_/http%3A//www.admin.ox.ac.uk/dataprotection/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ox.ac.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203050644id_/http%3A//www.admin.ox.ac.uk/councilsec/compliance/dataprotection/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy, Data Protection
 
@@ -32,11 +32,11 @@ We may disclose your personal information to third parties if we are under a dut
 
 Most of our web pages use "cookies". A cookie is a small file of letters and numbers that we place on your computer or mobile device if you agree. These cookies allow us to distinguish you from other users of our website, which helps us to provide you with a good experience when you browse our website and also allow us to improve our website.
 
-For more detailed information on the cookies we use on the University's main web pages (i.e. those in **www.ox.ac.uk** ) and the purposes for which we use them, please see our [Cookie Statement](https://web.archive.org/dataprotection/cookies/). Please refer to individual web pages for further information about the use of cookies on other web pages on the ox.ac.uk domain.
+For more detailed information on the cookies we use on the University's main web pages (i.e. those in **www.ox.ac.uk** ) and the purposes for which we use them, please see our [Cookie Statement](https://web.archive.org/councilsec/compliance/dataprotection/cookies/). Please refer to individual web pages for further information about the use of cookies on other web pages on the ox.ac.uk domain.
 
 ## Access to information
 
-The Data Protection Act 1998 gives you the right to access information held about you. For further information about this right and how to exercise it, please see the [University’s Policy on Data Protection](https://web.archive.org/dataprotection/policy/).
+The Data Protection Act 1998 gives you the right to access information held about you. For further information about this right and how to exercise it, please see the [University’s Policy on Data Protection](https://web.archive.org/councilsec/compliance/dataprotection/policy/).
 
 ## Changes to our Privacy Policy
 
