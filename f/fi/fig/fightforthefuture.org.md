@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightforthefuture.org privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616074959id_/http%3A//fightforthefuture.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightforthefuture.org privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203233255id_/https%3A//www.fightforthefuture.org/privacy) for the most accurate reproduction.*
 
 # Fight for the Future | a nonprofit working to expand the internet's power for good
 
@@ -12,6 +12,6 @@ For petitions, open letters, or similar public communications that you've signed
 
 We may have joint campaigns with cooperating organizations and in those cases will explicitly state that we are doing so. In those cases, if your information will be shared with another organization in order to facilitate email delivery, list management, and other stated purposes, we will explicitly make notice on any campaign or website that this organization owns before you submit any of your information. If you are submitting your information to one of these campaigns or websites, you are opting into the sharing of your information for the stated purposes and will be treated as so. We will only share information which you submit at the time of notice and will not share any person's information obtained from other past or future campaigns, knowingly or on purpose. 
 
-If there is a breach of this policy, it will only be done by error, accident, or involuntarily.
+We sometimes carry out our business or operate our website using third party tools. Information may be shared with the operators of those tools in connection with our use of those tools to operate our website.
 
-Last changed: 05/2013
+Last changed: 09/2014
