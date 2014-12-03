@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxford-royale.co.uk privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604011939id_/http%3A//www.oxford-royale.co.uk/ora/useful-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxford-royale.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203232800id_/http%3A//www.oxford-royale.co.uk/ora/useful-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OXFORD ROYALE ACADEMY
+# Privacy Policy | Oxford Summer School 2014 with Oxford Royale Academy
 
 Oxford Programs Limited (Oxford Royale Academy) ( **“We”** ) are committed to protecting and respecting your privacy.
 
@@ -13,8 +13,8 @@ We may collect and process the following data about you:
 
   * **Information you give us.** You may give us information about you by filling in forms on our site [www.oxford-royale.co.uk](http://www.oxford-royale.co.uk/) ( **“our site”** ) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, complete a course and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description, medical and dietary information, and school.
   * **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information:  
-\- technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;  
-\- information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
+– technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;  
+– information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
   * **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers and email service providers) and may receive information about you from them.
   * We may also receive information about you from our parallel company, ORA Prep Limited.
 
@@ -27,18 +27,18 @@ Our website uses cookies to distinguish you from other users of our website. Thi
 We use information held about you in the following ways:
 
   * **Information you give to us.** We will use this information:  
-\- to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;  
-\- to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;  
-\- to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form);  
-\- to notify you about changes to our service;  
-\- to ensure that content from our site is presented in the most effective manner for you and for your computer.
+– to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;  
+– to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;  
+– to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form);  
+– to notify you about changes to our service;  
+– to ensure that content from our site is presented in the most effective manner for you and for your computer.
   * **Information we collect about you.** We will use this information:  
-\- to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;  
-\- to improve our site to ensure that content is presented in the most effective manner for you and for your computer;  
-\- to allow you to participate in interactive features of our service, when you choose to do so;  
-\- as part of our efforts to keep our site safe and secure;  
-\- to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;  
-\- to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+– to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;  
+– to improve our site to ensure that content is presented in the most effective manner for you and for your computer;  
+– to allow you to participate in interactive features of our service, when you choose to do so;  
+– as part of our efforts to keep our site safe and secure;  
+– to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;  
+– to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
   * **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
 
