@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfueled.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121014id_/http%3A//www.getfueled.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfueled.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203142117id_/http%3A//www.getfueled.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fuel Education
 
