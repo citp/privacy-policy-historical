@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circanews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092715id_/http%3A//cir.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circanews.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203171929id_/http%3A//cir.ca/privacy) for the most accurate reproduction.*
 
 # Circa News | News, Re-imagined
 
