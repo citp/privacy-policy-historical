@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menepe.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401120138id_/http%3A//www.instabang.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Djetwebus%26prg%3D1%26tour%3D1%26ot%3D1%26cmp%3Dmarusw3%26ad_id%3Dibweb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menepe.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203091546id_/http%3A//www.instabang.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Djetwebus%26prg%3D1%26tour%3D1%26ot%3D1%26cmp%3Dust%26ad_id%3Dibweb) for the most accurate reproduction.*
 
 # Instabang.com - World's Best Personals
 
