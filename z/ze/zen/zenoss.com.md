@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001233id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203171542id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Transforming IT Operations
+# Zenoss | Privacy Policy
 
 The intent of this privacy policy is to disclose Zenoss privacy practices, whether you are a casual browser of our website, or a community member who chooses to interact actively with us through our website, use our software, or receive email from us.
 
