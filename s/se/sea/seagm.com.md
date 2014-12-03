@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seagm.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603233345id_/http%3A//www.seagm.com%3Fr%3Dpage%26view%3Dmemberprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seagm.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071120id_/http%3A//www.seagm.com%3Fr%3Dpage%26view%3Dmemberprivacy) for the most accurate reproduction.*
 
-# SEA Gamer Mall Online Game Store | Game Gold, Game Card, CD-Key, MMO, Web-based & Facebook Game
+# SEA Gamer Mall Online Game Store | FIFA Coins, Archeage Gold, Global Game Card and CD-Key
 
 SEA Gamer Mall respects your privacy and works hard to safeguard the privacy of your personal data. We realize that the exciting growth of the Internet and online services raise questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we apply our long-standing commitment of safeguarding privacy to our online and Internet activities. 
 
