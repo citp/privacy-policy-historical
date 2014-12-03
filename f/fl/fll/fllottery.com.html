@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fllottery.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625111914id_/http%3A//fllottery.com/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fllottery.com privacy policy that was archived on 2014-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203070556id_/http%3A//www.fllottery.com/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
 <meta charset="iso-8859-1">
@@ -18,7 +18,7 @@
 
 <link rel="apple-touch-startup-image" sizes="640x920" href="Images/png/splash-screen-640x920.png">
 <link rel="apple-touch-startup-image" sizes="640x1096" href="Images/png/splash-screen-640x1096.png">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript">
 	if (typeof jQuery == 'undefined')
 	{
@@ -33,34 +33,17 @@
 	<script type="text/javascript" src="js/html5shiv-printshiv.js"></script>
 	<link rel="stylesheet" type="text/css" media="all" href="resources/lotteryIE8.css" />
 	<![endif]-->
-	<script type="text/javascript"> 
-		var _gaq = _gaq || []; 
-		_gaq.push(['_setAccount', 'UA-3966406-1']); 
-		_gaq.push(['_trackPageview']);
-		
-		(function() { 
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
-		})(); 
-		
-		function recordOutboundLink(link, category, action) {
-			_gat._getTrackerByName()._trackEvent(category, action);
-			window.open(link.href);
-		}
-	</script>
 </head>
-<body style="">
 
+<body style="">
 <noscript><p id="enableJavaScript">Please enable JavaScript in order to view this site properly.</p></noscript>
 <a href="#bodyContent" class="skipNavigation">Skip Navigation</a>
 
 
 <script type="text/javascript">
 function trackOutboundLink(link, category, action) {
- 
 try {
-_gaq.push([_trackEvent(category, action, opt_label, opt_value, opt_noninteraction)]);
+	ga('send', 'event', 'category', 'action', 'opt_label', opt_value, {'nonInteraction': 1});
 } catch(err){}
  
 setTimeout(function() {
@@ -75,16 +58,18 @@ document.location.href = link.href;
 	<ul>
 		<li id="playNav"><a class="qmparent" href="lotto.do"><span>Play</span></a>
 			<div class="dropDown">
-				<div class="column">
+				<div class="column columnWide">
 					<h3>Draw Games</h3>
 					<ul>
 						<li><a href="lotto.do">Florida Lotto</a></li>
-						<li><a href="megaMillions.do">Mega Millions</a></li>
 						<li><a href="powerball.do">Powerball</a></li>
-						<li><a href="megaMoney.do">Mega Money</a></li>
+						<li><a href="megaMillions.do">Mega Millions</a></li>
+						<li><a href="mmc.do">Monopoly Millionaires' Club</a></li>
+						<li><a href="luckyMoney.do">Lucky Money</a></li>
 						<li><a href="fantasy5.do">Fantasy 5</a></li>
 						<li><a href="play4.do">Play 4</a></li>
 						<li><a href="cash3.do">Cash 3</a></li>
+						<li><a href="megaMoney.do" style="color: #666; ">Mega Money</a></li>
 					</ul>
 				</div>
 				<div class="column">
@@ -130,6 +115,7 @@ document.location.href = link.href;
 						<li><a href="lotteryDrawings.do">Lottery Drawings</a></li>
 						<li><a href="winners.do">Winner Showcase</a></li>
 						<li><a href="howToClaim.do">How to Claim</a></li>
+						<li><a href="terminalSounds.do">Terminal Sounds</a></li>
 					</ul>
 				</div>
 <!-- 				<div class="column"> -->
@@ -253,18 +239,27 @@ document.location.href = link.href;
 		
 		</div>
 <!-- Google CSE Search Box Ends -->
-		
-		
-		<p id="expiringTicketsAlert"><a onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Link Clicked', 'Expiring Tickets']);" href="expiringTickets.do"><img src="Images/png/iconExpiringTickets.png" width="32" height="32" alt="Expiring Tickets"><span>Expiring Tickets</span></a></p>
-		
+
+
+
+	<p id="expiringTicketsAlert"><a href="expiringTickets.do"><img src="Images/png/iconExpiringTickets.png" width="32" height="32" alt="Expiring Tickets"><span>Expiring Tickets</span></a></p>
+
+
 </nav>
 </div>
+
 <script type="text/javascript">
 if ('ontouchstart' in document.documentElement) {
 	$(".qmparent").click(function(event){
 		event.preventDefault();
 	});
 }
+$('#amberAlert a').click(function() {
+  ga('send', 'event', 'Outbound Links', 'Link Clicked', 'Amber Alert', {'nonInteraction': 1});
+});
+$('#expiringTicketsAlert a').click(function() {
+  ga('send', 'event', 'Outbound Links', 'Link Clicked', 'Expiring Tickets', {'nonInteraction': 1});
+});
 </script>
 
 <header id="headerMain">
@@ -287,25 +282,7 @@ if ('ontouchstart' in document.documentElement) {
 		
 
 <div id="connectSprites">
-	<!-- mp_trans_remove_start --> 
-		<span id="connectText" style="font-family: 'Open Sans', Arial, Helvetica, sans-serif;"><a href="stayConnected.do">Connect:</a></span>
-	<!-- mp_trans_remove_end -->
-	<!-- mp_trans_add
-	<!-- mp_trans_disable_start --]>
-		<span id="connectText" style="font-family: 'Open Sans', Arial, Helvetica, sans-serif;"><a href="stayConnected.do">Con&eacute;ctate</a></span>
-	<!-- mp_trans_disable_end --]>
-	-->
-	<ul>
-		<li title="Facebook"><a href="https://www.facebook.com/FloridaLottery" target="_blank" class="facebookSprite hiddenText">Facebook</a></li>
-		<li title="Twitter"><a href="http://www.twitter.com/FloridaLottery" target="_blank" class="twitterSprite hiddenText">Twitter</a></li>
-		<li title="YouTube"><a href="http://www.youtube.com/FloridaLottery" target="_blank" class="youTubeSprite hiddenText">You Tube</a></li>
-		<li title="Instagram"><a href="http://www.instagram.com/FloridaLottery" target="_blank" class="instagramSprite hiddenText">Instagram</a></li>
-		<li title="Email"><a href="stayConnected.do#emailAlerts" class="emailSprite hiddenText">Email</a></li>
-		<li title="Text Messaging"><a href="stayConnected.do#textAlerts" class="textSprite hiddenText">Text Messaging</a></li>
-		<li title="iPhone App"><a href="stayConnected.do#app" class="iPhoneSprite hiddenText">iPhone App</a></li>
-		<li title="RSS"><a href="stayConnected.do#rss" class="rssSprite hiddenText">RSS</a></li>
-		<li title="Podcast"><a href="stayConnected.do#podcast" class="podcastSprite hiddenText">Podcast</a></li>
-	</ul>
+	<a href="socialHub.do"><img src="Images/gif/transparent.gif" width="222" height="40" alt="Social Hub" title="Social Hub"></a>
 </div>
 	</div>
 	<div id="bodyContent" class="template1">
@@ -367,8 +344,7 @@ if ('ontouchstart' in document.documentElement) {
 
 
 
-
-	<div class="slide-out-div" style="line-height: 1; position: absolute; height: 1079px; top: -2px; left: -208px;">
+	<div class="slide-out-div" style="line-height: 1; position: absolute; height: 1281px; top: -2px; left: -208px;">
 	<!-- mp_trans_remove_start --> 
 		<a class="handle" href="winningNumbers.do" style="display: block; text-indent: -99999px; outline: none; position: absolute; top: 0px;">Winning Numbers</a>
 	<!-- mp_trans_remove_end -->
@@ -378,66 +354,79 @@ if ('ontouchstart' in document.documentElement) {
 	<!-- mp_trans_disable_end --]>
 	-->
 	<div class="wnPlainBkgrd wnLotto wnGameBkgrd"> <a href="lotto.do"><img src="Images/png/LottoWithExtraLogo_86x54.png" width="86" height="54" alt="Florida Lotto with Xtra" class="wnLogo"></a>
-		<p class="wnDate">Saturday, June 21, 2014</p>
-<p class="wnBalls"><span class="balls" title="8">8</span><span class="wnDash">-</span><span class="balls" title="18">18</span><span class="wnDash">-</span><span class="balls" title="31">31</span><span class="wnDash">-</span><span class="balls" title="34">34</span><span class="wnDash">-</span><span class="balls" title="36">36</span><span class="wnDash">-</span><span class="balls" title="47">47</span><span class="wnDash">-</span><span class="balls multiplier" title="x5">x5</span></p>
+		<p class="wnDate">Saturday, November 29, 2014</p>
+<p class="wnBalls"><span class="balls" title="7">7</span><span class="wnDash">-</span><span class="balls" title="18">18</span><span class="wnDash">-</span><span class="balls" title="25">25</span><span class="wnDash">-</span><span class="balls" title="27">27</span><span class="wnDash">-</span><span class="balls" title="30">30</span><span class="wnDash">-</span><span class="balls" title="53">53</span><span class="wnDash">-</span><span class="balls multiplier" title="x2">x2</span></p>
 
 		<img src="Images/png/winn-numbers-divider.png" width="181" height="1" alt="" class="wnLogo">
 		<p class="wnNextJp">Next Jackpot:</p>
-		<p class="wnNextDate">Wednesday, June 25, 2014</p>
-<p class="wnNextJpAmt">$11 Million</p>
+		<p class="wnNextDate">Wednesday, December 3, 2014</p>
+<p class="wnNextJpAmt">$5 Million</p>
+
+	</div>
+	<div class="wnPlainBkgrd"> <a href="powerball.do"><img src="Images/png/winn-numbers-pb-logo.png" width="148" height="44" alt="Powerball" class="wnLogo"></a>
+		<p class="wnDate">Saturday, November 29, 2014</p>
+<p class="wnBalls"><span class="balls" title="13">13</span><span class="wnDash">-</span><span class="balls" title="24">24</span><span class="wnDash">-</span><span class="balls" title="30">30</span><span class="wnDash">-</span><span class="balls" title="42">42</span><span class="wnDash">-</span><span class="balls" title="48">48</span><span class="wnDash sbDash">-</span><span class="balls pbBall" title="Powerball 27">27</span><span class="wnDash">-</span><span class="balls multiplier" title="x2">x2</span></p>
+
+		<img src="Images/png/winn-numbers-divider.png" width="181" height="1" alt="" class="wnLogo">
+		<p class="wnNextJp">Next Jackpot:</p>
+		<p class="wnNextDate">Wednesday, December 3, 2014</p>
+<p class="wnNextJpAmt">$40 Million</p>
 
 	</div>
 	
-	 <div class="wnPlainBkgrd wnLotto"> <a href="megaMillions.do"><img src="Images/png/winn-numbers-mMillions-logo.png" width="120" height="64" alt="Mega Millions" class="wnLogo"></a>
-		<p class="wnDate">Tuesday, June 24, 2014</p>
-<p class="wnBalls"><span class="balls" title="13">13</span><span class="wnDash">-</span><span class="balls" title="17">17</span><span class="wnDash">-</span><span class="balls" title="24">24</span><span class="wnDash">-</span><span class="balls" title="47">47</span><span class="wnDash">-</span><span class="balls" title="65">65</span><span class="wnDash sbDash">-</span><span class="balls mMillBall" title="Mega Ball 10">10</span><span class="wnDash">-</span><span class="balls multiplier" title="x4">x4</span></p>
+	 <div class="wnPlainBkgrd wnLotto wnGameBkgrd"> <a href="megaMillions.do"><img src="Images/png/winn-numbers-mMillions-logo.png" width="120" height="64" alt="Mega Millions" class="wnLogo"></a>
+		<p class="wnDate">Tuesday, December 2, 2014</p>
+<p class="wnBalls"><span class="balls" title="13">13</span><span class="wnDash">-</span><span class="balls" title="18">18</span><span class="wnDash">-</span><span class="balls" title="22">22</span><span class="wnDash">-</span><span class="balls" title="49">49</span><span class="wnDash">-</span><span class="balls" title="62">62</span><span class="wnDash sbDash">-</span><span class="balls mMillBall" title="Mega Ball 11">11</span><span class="wnDash">-</span><span class="balls multiplier" title="x5">x5</span></p>
 
 		<img src="Images/png/winn-numbers-divider.png" width="181" height="1" alt="" class="wnLogo">
 		<p class="wnNextJp">Next Jackpot:</p>
-		<p class="wnNextDate">Friday, June 27, 2014</p>
-<p class="wnNextJpAmt">$33 Million</p>
+		<p class="wnNextDate">Friday, December 5, 2014</p>
+<p class="wnNextJpAmt">$80 Million</p>
 
 	</div> 
 	
-	<div class="wnPlainBkgrd wnGameBkgrd"> <a href="powerball.do"><img src="Images/png/winn-numbers-pb-logo.png" width="148" height="44" alt="Powerball" class="wnLogo"></a>
-		<p class="wnDate">Saturday, June 21, 2014</p>
-<p class="wnBalls"><span class="balls" title="5">5</span><span class="wnDash">-</span><span class="balls" title="6">6</span><span class="wnDash">-</span><span class="balls" title="37">37</span><span class="wnDash">-</span><span class="balls" title="41">41</span><span class="wnDash">-</span><span class="balls" title="54">54</span><span class="wnDash sbDash">-</span><span class="balls pbBall" title="Powerball 26">26</span><span class="wnDash">-</span><span class="balls multiplier" title="x3">x3</span></p>
+	
+	<div class="wnPlainBkgrd"> <a href="mmc.do"><img src="Images/png/winn-numbers-mmc-logo.png" width="148" height="53" alt="Monopoly Millionaires' Club" class="wnLogo"></a>
+		<p class="wnDate">Friday, November 28, 2014</p>
+<p class="wnBalls"><span class="balls" title="12">12</span><span class="wnDash">-</span><span class="balls" title="14">14</span><span class="wnDash">-</span><span class="balls" title="25">25</span><span class="wnDash">-</span><span class="balls" title="39">39</span><span class="wnDash">-</span><span class="balls" title="45">45</span><span class="wnDash sbDash">-</span><span class="balls mmcProperty" title="Property: 12 St. James Place"><span class="mmcColor" style="background-color:#F68E1E;"></span>12</span></p>
+
+		<img src="Images/png/winn-numbers-divider.png" width="181" height="1" alt="" class="wnLogo">
+		<p class="wnNextJp">Next Top Prize:</p>
+		<p class="wnNextDate">Friday, December 5, 2014</p>
+<p class="wnNextJpAmt">$25 Million</p>
+
+		<p class="mmcClubPrizes"><span class="mmc">16</span><span class="mmcClubText">Current $1 Million<br>Millionaires' Club Prizes</span></p>
+	</div>
+	
+	
+	<div class="wnPlainBkgrd wnGameBkgrd"> <a href="luckyMoney.do"><img src="Images/png/winn-numbers-lm-logo.png" width="122" height="50" alt="Lucky Money" class="wnLogo"></a>
+		<p class="wnDate">Tuesday, December 2, 2014</p>
+<p class="wnBalls"><span class="balls" title="7">7</span><span class="wnDash">-</span><span class="balls" title="11">11</span><span class="wnDash">-</span><span class="balls" title="15">15</span><span class="wnDash">-</span><span class="balls" title="38">38</span><span class="wnDash sbDash">-</span><span class="balls lbBall" title="Lucky Ball 5">5</span></p>
 
 		<img src="Images/png/winn-numbers-divider.png" width="181" height="1" alt="" class="wnLogo">
 		<p class="wnNextJp">Next Jackpot:</p>
-		<p class="wnNextDate">Wednesday, June 25, 2014</p>
-<p class="wnNextJpAmt">$70 Million</p>
-
-	</div>
-	<div class="wnPlainBkgrd"> <a href="megaMoney.do"><img src="Images/png/winn-numbers-mm-logo.png" width="96" height="49" alt="Mega Money" class="wnLogo"></a>
-		<p class="wnDate">Tuesday, June 24, 2014</p>
-<p class="wnBalls"><span class="balls" title="10">10</span><span class="wnDash">-</span><span class="balls" title="16">16</span><span class="wnDash">-</span><span class="balls" title="25">25</span><span class="wnDash">-</span><span class="balls" title="39">39</span><span class="wnDash sbDash">-</span><span class="balls mmBall" title="Megaball 19">19</span></p>
-
-		<img src="Images/png/winn-numbers-divider.png" width="181" height="1" alt="" class="wnLogo">
-		
-		<p class="wnNextJp">Next Jackpot</p>
-		
-		<p class="wnNextDate">Friday, June 27, 2014</p>
+		<p class="wnNextDate">Friday, December 5, 2014</p>
 <p class="wnNextJpAmt">$2 Million</p>
 
 	</div>
-	<div class="wnPlainBkgrd wnGameBkgrd"> <a href="fantasy5.do"><img src="Images/png/winn-numbers-f5-logo.png" width="100" height="50" alt="Fantasy 5 with EZmatch" class="wnLogo"></a>
-		<p class="wnDate">Tuesday, June 24, 2014</p>
-<p class="wnBalls"><span class="balls" title="1">1</span><span class="wnDash">-</span><span class="balls" title="12">12</span><span class="wnDash">-</span><span class="balls" title="20">20</span><span class="wnDash">-</span><span class="balls" title="27">27</span><span class="wnDash">-</span><span class="balls" title="33">33</span></p>
+	
+	<div class="wnPlainBkgrd"> <a href="fantasy5.do"><img src="Images/png/winn-numbers-f5-logo.png" width="100" height="50" alt="Fantasy 5 with EZmatch" class="wnLogo"></a>
+		<p class="wnDate">Tuesday, December 2, 2014</p>
+<p class="wnBalls"><span class="balls" title="1">1</span><span class="wnDash">-</span><span class="balls" title="11">11</span><span class="wnDash">-</span><span class="balls" title="14">14</span><span class="wnDash">-</span><span class="balls" title="25">25</span><span class="wnDash">-</span><span class="balls" title="35">35</span></p>
 
 	</div>
-	<div class="wnPlainBkgrd"> <a href="play4.do"><img src="Images/png/winn-numbers-p4-logo.png" width="94" height="39" alt="Play 4" class="wnLogo"></a>
-		<p class="wnDate">Tuesday, June 24, 2014</p>
-<p class="wnBalls"><span class="balls sun">&nbsp;</span><span class="wnDash">-</span><span class="balls" title="0">0</span><span class="wnDash">-</span><span class="balls" title="9">9</span><span class="wnDash">-</span><span class="balls" title="6">6</span><span class="wnDash">-</span><span class="balls" title="5">5</span></p>
-<p class="wnDate">Tuesday, June 24, 2014</p>
-<p class="wnBalls"><span class="balls moon">&nbsp;</span><span class="wnDash">-</span><span class="balls" title="4">4</span><span class="wnDash">-</span><span class="balls" title="3">3</span><span class="wnDash">-</span><span class="balls" title="1">1</span><span class="wnDash">-</span><span class="balls" title="7">7</span></p>
+	<div class="wnPlainBkgrd wnGameBkgrd"> <a href="play4.do"><img src="Images/png/winn-numbers-p4-logo.png" width="94" height="39" alt="Play 4" class="wnLogo"></a>
+		<p class="wnDate">Tuesday, December 2, 2014</p>
+<p class="wnBalls"><span class="balls sun">&nbsp;</span><span class="wnDash">-</span><span class="balls" title="9">9</span><span class="wnDash">-</span><span class="balls" title="9">9</span><span class="wnDash">-</span><span class="balls" title="1">1</span><span class="wnDash">-</span><span class="balls" title="5">5</span></p>
+<p class="wnDate">Tuesday, December 2, 2014</p>
+<p class="wnBalls"><span class="balls moon">&nbsp;</span><span class="wnDash">-</span><span class="balls" title="1">1</span><span class="wnDash">-</span><span class="balls" title="1">1</span><span class="wnDash">-</span><span class="balls" title="5">5</span><span class="wnDash">-</span><span class="balls" title="5">5</span></p>
 
 	</div>
-	<div class="wnPlainBkgrd wnLastBkgrd wnGameBkgrd"> <a href="cash3.do"><img src="Images/png/winn-numbers-c3-logo.png" width="94" height="37" alt="Cash 3" class="wnLogo"></a>
-		<p class="wnDate">Tuesday, June 24, 2014</p>
-<p class="wnBalls"><span class="balls sun">&nbsp;</span><span class="wnDash">-</span><span class="balls" title="2">2</span><span class="wnDash">-</span><span class="balls" title="5">5</span><span class="wnDash">-</span><span class="balls" title="0">0</span></p>
-<p class="wnDate">Tuesday, June 24, 2014</p>
-<p class="wnBalls"><span class="balls moon">&nbsp;</span><span class="wnDash">-</span><span class="balls" title="0">0</span><span class="wnDash">-</span><span class="balls" title="9">9</span><span class="wnDash">-</span><span class="balls" title="5">5</span></p>
+	<div class="wnPlainBkgrd wnLastBkgrd"> <a href="cash3.do"><img src="Images/png/winn-numbers-c3-logo.png" width="94" height="37" alt="Cash 3" class="wnLogo"></a>
+		<p class="wnDate">Tuesday, December 2, 2014</p>
+<p class="wnBalls"><span class="balls sun">&nbsp;</span><span class="wnDash">-</span><span class="balls" title="0">0</span><span class="wnDash">-</span><span class="balls" title="5">5</span><span class="wnDash">-</span><span class="balls" title="4">4</span></p>
+<p class="wnDate">Tuesday, December 2, 2014</p>
+<p class="wnBalls"><span class="balls moon">&nbsp;</span><span class="wnDash">-</span><span class="balls" title="4">4</span><span class="wnDash">-</span><span class="balls" title="4">4</span><span class="wnDash">-</span><span class="balls" title="0">0</span></p>
 
 	</div>
 </div>
@@ -465,6 +454,18 @@ $( document ).ready(function() {
 	});
 </script>
 <!-- mp_trans_disable_end -->
+	<!-- Google Analytics -->
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-3966406-1', 'auto');  // Unique property ID
+	ga('send', 'pageview');
+	
+	</script>
+	<!-- End Google Analytics -->
 
 
 
