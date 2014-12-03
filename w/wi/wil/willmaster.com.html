@@ -1,69 +1,51 @@
-<!--The following is the downloaded HTML source of the willmaster.com privacy policy that was archived on 2014-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140505001457id_/http%3A//www.willmaster.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the willmaster.com privacy policy that was archived on 2014-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203062053id_/http%3A//www.willmaster.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<!--
-<.script type="text/javascript" src="http://www.willmaster.com/GlobalPageTop.js"><./script>
--->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Will Bontrager Software LLC Privacy Policy
+<title>
+Will Bontrager Software LLC Privacy Policy
+
 </title>
-
-
-<link href="http://www.willmaster.com/08willmaster.css" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+<link href="http://www.willmaster.com/14willmaster.css" rel="stylesheet" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.willmaster.com/index.xml">
 <link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.willmaster.com/atom.xml">
 
 </head>
 <body>
 
-<div id="masthead"><!-- www.willmaster.com-->
-<div id="toprightnav" style="position:relative;">
-<a href="/contact.php">Contact</a> | 
-<a href="/terms-of-use.php">Terms of Use</a> |
-<a href="/privacy-policy.php">Privacy Policy</a> |
-<a href="/aboutus.php">About Us</a>
-<div style="position:absolute; top:35px; right:5px;">
+
+
+<!-- BEGIN masthead -->
+
+<!-- Mobile Detection (should be first) -->
+<!-- End of Mobile Detection -->
+
+
+<div id="masthead">
+
+<div id="masthead-above-desktop-menu"><!-- Is position:relative for the position:absolute divs within the masthead -->
+
+<div id="toprightnav">
+<span id="masthead-contact-us"><a href="/contact.php">Contact Us</a></span> 
 <a href="http://www.willmaster.com/software/WebSitesSecret/entry.php">Log In to WebSite's Secret</a>
-</div>
-</div>
-<!-- /toprightnav -->
+<br>&nbsp;<!-- Blank line to keep positioning same as 2-line "logged in" notice. -->
+</div><!-- id="toprightnav" -->
 
 
-
-<div id="logo"><a href="/" title="WillMaster Website Tools"><img src="http://www.willmaster.com/images/wmlogo_icon.gif" alt="Willmaster.com logo" width="50" height="50" border="0"></a></div>
-<!-- /logo -->
-<div id="tagline"><p><b>Secure software</b> that works like it should.
-<b>Support</b> so good it's actually talked about.
-
-</p>
-<p><strong>Will Bontrager</strong> builds powerful software solutions backed with 16 years of personal experience.</p>
-</div><!--/tagline-->
-
-<div id="navcontainer">
-<ul id="navlist">
-<li><a href="/" id="home">Home</a></li>
-<li><a href="/software/">Software</a></li>
-
-<li><a href="/software/custom/">Custom</a></li>
-<li><a href="/support/">Support</a></li>
-<li><a href="/library/">Library</a></li>
-<li><a href="/blog/">Blog</a></li>
-<li><a href="/possibilities/">Ezine</a></li>
-<li><a href="/software/WebSitesSecret/">WebSite's Secret</a></li>
-<li><a href="/create-form/index.php">Form Creator</a></li>
-<li><a href="/DealsForYou/">Deals</a></li>
-</ul>
-</div>
-
-
-</div><!--/masthead-->
+<div id="logo"><!-- Is position:relative -->
+<a href="/" title="WillMaster Website Tools"><img src="http://www.willmaster.com/images/wmlogo_icon.gif" alt="Willmaster.com logo" width="50" height="50" border="0"></a>
+<div id="nameline"><!-- Is position:absolute -->
+WillMaster
+</div><!-- id="nameline" -->
+</div><!-- id="logo" -->
 
 
 
 
 <!-- Search box spot. Will be copied into here from end of page. -->
-<div id="goosearchbox" style="width:275px; height:45px; float:right; padding-right:10px; padding-left:10px;">
+<div id="goosearchbox">
 
 <span class="bold">Search WillMaster.com:</span>
 <!-- Google CSE Search Box Begins  -->
@@ -72,21 +54,90 @@
   <input type="hidden" name="cof" value="FORID:9">
 <nobr><input type="text" name="q" size="20"><input type="submit" name="sa" value="Search"></nobr>
 </form>
-<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_010408856781260195799%3Arxfkix_vi9m&amp;lang=en"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_010408856781260195799%3Arxfkix_vi9m&amp;lang=en"></script>
 <!-- Google CSE Search Box Ends -->
 
 <script type="text/javascript">
 document.cookie = 'CurrentLocation='+document.URL+'; path=/';
 </script>
 
-</div>
+</div><!-- Is position:absolute. Will be moved to replace menu bar on phones. -->
+
+
+<!-- BEGIN: Burger icon and menu. -->
+
+<div id="masthead-burger-icon"><!-- Is position:absolute and display:none. Will be moved to old search box position and made visible for phones. -->
+<img src="http://www.willmaster.com/images/burger-willmaster.png" style="width:42px; height:26px; border:none; cursor:pointer;" onclick="MobileMenuOnOff()" alt="burger menu icon">
+</div><!-- id="masthead-burger-icon" -->
+
+<div id="masthead-burger-menu" style="display:none;"><!-- Is position:absolute and display:none. Will be moved into position and made visible for phones. -->
+<!-- Can be designed as you wish. Position with #masthead-burger-menu in style sheet. -->
+<div class="burger-nav-content" onclick="location.href='/'"><a href="/">Home</a></div>
+<div class="burger-nav-content" onclick="location.href='/software/'"><a href="/software/">Software</a></div>
+<div class="burger-nav-content" onclick="location.href='/software/custom/'"><a href="/software/custom/">Custom</a></div>
+<div class="burger-nav-content" onclick="location.href='/support/'"><a href="/support/">Support</a></div>
+<div class="burger-nav-content" onclick="location.href='/library/'"><a href="/library/">Library</a></div>
+<div class="burger-nav-content" onclick="location.href='/blog/'"><a href="/blog/">Blog</a></div>
+<div class="burger-nav-content" onclick="location.href='/possibilities/'"><a href="/possibilities/">Ezine</a></div>
+<div class="burger-nav-content" onclick="location.href='/software/WebSitesSecret/'"><a href="/software/WebSitesSecret/">WebSite's Secret</a></div>
+<div class="burger-nav-content" onclick="location.href='/create-form/'"><a href="/create-form/">Form Creator</a></div>
+<div class="burger-nav-content" onclick="window.location='/DealsForYou/'"><a href="/DealsForYou/">Deals</a></div>
+<div class="burger-nav-content" onclick="MobileMenuOnOff()"><span class="pseudolink">Search this Site</span></div>
+</div><!-- id="masthead-burger-menu" -->
+
+<!-- JavaScript to turn display of burger menu off and on. -->
+<script type="text/javascript">
+function MobileMenuOnOff()
+{
+	var d = document.getElementById("masthead-burger-menu");
+	if( d.style.display == "none" ) { d.style.display = "block"; }
+	else { d.style.display = "none"; }
+}
+function CloseBurgerMenu() { document.getElementById("masthead-burger-menu").style.display = "none"; }
+function AppendOnresizeEvent4BurgerMenu(f)
+{
+	var cache = window.onresize;
+	if(typeof window.onresize != 'function') { window.onresize = f; }
+	else { window.onresize = function() { f(); }; }
+}
+AppendOnresizeEvent4BurgerMenu(CloseBurgerMenu);
+CloseBurgerMenu();
+</script>
+
+<!-- END: Burger icon and menu. -->
+
+
+</div><!-- id="masthead-above-desktop-menu" -->
+
+
+<div id="navcontainer"><!-- Will be display:none for phones. -->
+<span class="navcontainer-text"><a href="/" id="home">Home</a></span>
+<span class="navcontainer-text"><a href="/software/">Software</a></span>
+<span class="navcontainer-text"><a href="/software/custom/">Custom</a></span>
+<span class="navcontainer-text"><a href="/support/">Support</a></span>
+<span class="navcontainer-text"><a href="/library/">Library</a></span>
+<span class="nowrap">
+<span class="navcontainer-text"><a href="/blog/">Blog</a></span>
+<span class="navcontainer-text"><a href="/possibilities/">Ezine</a></span>
+<span class="navcontainer-text"><a href="/software/WebSitesSecret/">WebSite's Secret</a></span>
+<span class="navcontainer-text"><a href="/create-form/index.php">Form Creator</a></span>
+<span class="navcontainer-text"><a href="/DealsForYou/">Deals</a></span>
+</span>
+
+</div><!-- id="navcontainer" -->
+
+<div id="navcontainer-phone-searchspot"></div><!-- Search box will pop into the space this provides for phones. -->
+
+</div><!-- id="masthead" -->
+
+<!-- END masthead -->
 
 
 
-<table width="500" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td valign="top" id="right">
-<div class="likerightcontent" style="margin-top:100px;">
+
+
+<div id="one-column-content-container">
+
 
 
 
@@ -195,18 +246,39 @@ If you have any questions about this privacy policy, the practices of any of the
 
 
 
-</div></td></tr></tbody></table>
-<table width="500" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td id="footer">
+</div><!-- id="one-column-content-container" -->
+
+<script type="text/javascript">
+var MostPopularReportingURL = "http://www.willmaster.com/blog/popularstats/mpInclude.php";
+var tempimagevar = new Image();
+tempimagevar.src = MostPopularReportingURL+"?js=yes&url="+document.URL;
+</script>
+<!-- BEGIN footer -->
+
+<div id="footer-container">
+
+<div class="footer">
+
+<div class="footer-nav">
+<a href="/contact.php">Contact</a> | 
+<a href="/terms-of-use.php">Terms of Use</a> |
+<span class="nowrap">
+<a href="/privacy-policy.php">Privacy Policy</a> |
+<a href="/aboutus.php">About Us</a>
+</span>
+</div>
+
 <p class="small">© 1998-2001 William and Mari Bontrager
 <br>
 © 2001-2011 Bontrager Connection, LLC
 <br>© 2011-2014 Will Bontrager Software, LLC
-</p></td>
-</tr>
-</tbody></table>
+</p>
+</div> <!--id="footer" -->
 
+</div><!-- id="footer-container" -->
+
+<!-- END footer -->
+<script src="/php-bin/CTPstatRecording.php?JS"></script>
 
 <!-- Will be copied into search box spot further above on page. -->
 <div id="tempholder" style="display:none;"></div>
@@ -218,9 +290,23 @@ tempdiv.innerHTML = '';
 
 
 
+<script type="text/javascript" src="/js/2014entiresite.js"></script><div id="mouseover_message_box"></div><!--AAAAAAAA--><script type="text/javascript" src="http://www.willmaster.com/php-bin/dailystats/dailystats3.php?url=https%3A//web.archive.org/web/20141203062053id_/http%253A//www.willmaster.com/privacy-policy.php&amp;ref="></script><!--BBBBBBBB-->
+
+<!-- START GOOGLE ANALYTICS (WillMaster.Com) -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56976783-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- END GOOGLE ANALYTICS -->
 
 
-<script type="text/javascript" src="/js/entiresite.js"></script>
+
 
 
 
