@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currys.ie privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060309id_/http%3A//www.currys.ie/content/Privacypolicy/932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currys.ie privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071057id_/http%3A//www.currys.ie/content/privacypolicy/932) for the most accurate reproduction.*
 
 # Currys | Washing Machines | TVs | Ipods | MP3 Players | Laptops |
 
