@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucasentertainment.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612201128id_/http%3A//www.lucasentertainment.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasentertainment.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203022228id_/http%3A//www.lucasentertainment.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucas Entertainment - Official Website
 
