@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvardmagazine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103426id_/http%3A//harvardmagazine.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvardmagazine.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203164305id_/http%3A//www.harvardmagazine.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Harvard Magazine
 
@@ -32,7 +32,7 @@ Systems that relay payment information are [PCI-compliant](http://en.wikipedia.
 
 ### Contacting Us
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact our webmaster ([webmaster[at]harvardmag [dot] com" data-parsed="true">webmaster[at]harvardmag [dot] com](mailto:%3Cspan%20class=)).
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact our webmaster ([webmaster@harvardmag.com](mailto:webmaster@harvardmag.com)).
 
 ### Changes to this Policy 
 
