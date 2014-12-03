@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628024119id_/https%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203030654id_/https%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Udemy
 
@@ -14,7 +14,7 @@ You can generally visit the Site without revealing any personally identifiable i
 
 If you request to receive company or product information, or request information about specific Services, or provide comments about Services, you will be asked to provide contact information so that we can complete your request. We use this Site Information to fulfill your request. We may also use this Site Information to send you additional information about our Services or Courses on the Site that you may be interested in.
 
-Some of the Services require that you become a registered user and create a user account. This will require that you provide certain personally identifiable information, that may include (but not be limited to) your (and if you are enrolling as part of our Udemy for Organizations program) your company’s name, e-mail address, as well as telephone and address information.
+Some of the Services require that you become a registered user and create a user account. This will require that you provide certain personally identifiable information, that may include (but not be limited to) your (and if you are enrolling as part of our Udemy for Business program) your company’s name, e-mail address, as well as telephone and address information.
 
 You allow us to use this personally identifiable Site Information to register you to use the Services, enroll in Courses, and otherwise provide you with the Services; verify your authority to enter the Site and access the Courses and Services; notify you of updates; improve the content and general administration of the Site and the Services; provide you with notices regarding the Services and other services that you have purchased or may wish to purchase in the future. 
 
@@ -32,7 +32,7 @@ We recognize the privacy interests of children and we encourage parents and guar
 
 **Disclosure of Information.**
 
-We will share your personally identifiable Site Information with third parties only in the ways that are described in this privacy policy. These include, but are not limited to, sharing Site Information with service providers to allow them to fulfill your requests, to Instructors (in which case this will become Course Information), and to your employer if you are enrolled through the Udemy for Organizations program as an employee. We do not sell your personal information to third parties. Please refer to the sections above on personally identifiable and other Course Information for how Course Information may be used.
+We will share your personally identifiable Site Information with third parties only in the ways that are described in this privacy policy. These include, but are not limited to, sharing Site Information with service providers to allow them to fulfill your requests, to Instructors (in which case this will become Course Information), and to your employer if you are enrolled through the Udemy for Business program as an employee. We do not sell your personal information to third parties. Please refer to the sections above on personally identifiable and other Course Information for how Course Information may be used.
 
 We may also disclose your personally identifiable information: (a) if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority, (b) to enforce these Terms of Use, or (c) to protect the safety of Users of our Site and our Services and Courses. In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization. 
 
@@ -47,7 +47,7 @@ If you believe that Udemy has incorrect Site Information or Course Information t
 By mail:   
 Udemy, Inc.   
 Attn: Privacy Policy   
-640 2nd Street , 2nd Floor 
+360 3rd St. Suite 400 
 
 San Francisco, CA 94107 
 
@@ -71,6 +71,6 @@ We welcome your comments or questions concerning our Privacy Policy. If you woul
 
 Udemy, Inc.   
 Attn: Privacy Policy   
-640 2nd Street , 2nd Floor 
+360 3rd St. Suite 400 
 
 San Francisco, CA 94107 
