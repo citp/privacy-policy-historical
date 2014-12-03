@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063411id_/http%3A//www.spe.org/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203205416id_/http%3A//www.spe.org/about/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,7 +119,7 @@ For links to the websites of individual SPE sections or student chapters, please
 
 The following description of SPE and its purpose may be useful to organizations seeking to include a description with a link to SPE. Use of this description is not required for linking to SPE.org
 
-The Society of Petroleum Engineers (SPE) is a not-for-profit professional association whose members are engaged in energy resources development and production. SPE serves more than 110,000 members in 141 countries worldwide. SPE is a key resource for technical knowledge related to the oil and gas exploration and production industry and provides services through its publications, events, training courses, and online resources at [www.spe.org](http://www.spe.org/index.php).
+The Society of Petroleum Engineers (SPE) is a not-for-profit professional association whose members are engaged in energy resources development and production. SPE serves more than 110,000 members in 141 countries worldwide. SPE is a key resource for technical knowledge related to the oil and gas exploration and production industry and provides services through its publications, events, training courses, and online resources at [www.spe.org](https://web.archive.org/).
 
 _Links to Non-SPE Websites From SPE.org_
 
