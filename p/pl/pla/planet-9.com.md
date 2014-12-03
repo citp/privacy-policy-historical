@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet-9.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105524id_/http%3A//www.planet-9.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-9.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203185145id_/http%3A//www.planet-9.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Planet-9 Porsche Forum - Privacy Policy
 
