@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215025751id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203091318id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: Markertek Video Supply
 
 Tower Products Privacy Notice Effective 06/22/2012
-
-  
-
 
 * * *
 
@@ -15,7 +12,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the Markertek website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the Markertek website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
   * Name
   * Address
@@ -40,17 +37,15 @@ On some pages, you can submit information about other people. For example, if yo
 
 To access your account information upon order placement, it is necessary to have cookies enabled on your web browser. Cookies also allow your shopping cart to remain active for thirty days after placing items in the cart. We do not store or distribute information collected by cookies for any reason.
 
-**The Way We Use Information:**
+**The Way We Use Information:** We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.  
-****  
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses 
 
 **Our Commitment To Data Security**
 
@@ -64,21 +59,21 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 You can access all your personally identifiable information that we collect online and maintain by contacting us at 800-522-2025. We use this procedure to better safeguard your information.
 
-****You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please call us at 800-522-2025 or send us an [email](mailto:info@markertek.com).
 
-**Third Party Vendors**  
-
+**Third Party Vendors**
 
 Third party vendors, including Google, use cookies to serve the badge on this website and to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/ "Google Opt-Out"). In addition, you may view third party vendor's use of cookies by visiting the [Network Advertising Initiative Opt-Out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Back to Top
 
-|  | Markertek is a division of  
-Tower Products Incorporated  
----|---
+## 
+
+Markertek is a division of  
+Tower Products Incorporated
