@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullshido.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073346id_/http%3A//www.bullshido.net/forums/showthread.php%3Ft%3D88078) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullshido.net privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203044826id_/http%3A//www.bullshido.net/forums/showthread.php%3Ft%3D88078) for the most accurate reproduction.*
 
 # Privacy Policy for Bullshido.net
 
