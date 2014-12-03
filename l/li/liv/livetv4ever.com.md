@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091323id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203164347id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever - the No.1 website for Live Sport Streams in High Quality | World Cup 2014 : USA vs Germany | Portugal vs Ghana | South Korea vs Belgium | Algeria vs Russia
+# LiveTv4Ever.com - Watch High Quality Sports Streaming | Leicester vs Liverpool | Man Utd vs Stoke | Real Madrid vs Cornella | WWE Main Event
 
 **General**
 
