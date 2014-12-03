@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the zavvi.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331075022id_/http%3A//www.zavvi.com/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zavvi.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071119id_/http%3A//www.zavvi.com/articles/privacy-policy.list) for the most accurate reproduction.*
 
 # Privacy Policy | Zavvi.com
-
-**This is a Secure Website**
-
-This site uses a VeriSign SSL123 Certificate to offer secure communications by encrypting all data to and from the site. VeriSign has checked and verified the site's registered domain name. 
 
 We are committed to protecting our customer’s privacy. We are entirely open about our information gathering practices. Please take the time to review this notice which states our privacy policy.
 
@@ -24,7 +20,7 @@ This website employs VeriSign industry-standard SSL to provide secure credit car
 
 It is important for you to protect against unauthorised access to your password and to your computer. Ensure that you log out when you finish using a shared computer.
 
-In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the "Act"). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people.
+In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the 'Act'). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people.
 
 We take the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, we make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by us and such transactions will be reported to the relevant authorities.
 
