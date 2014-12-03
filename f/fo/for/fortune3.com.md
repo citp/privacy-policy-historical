@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortune3.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630111353id_/http%3A//www.fortune3.com/en/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortune3.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203073725id_/http%3A//www.fortune3.com/en/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Fortune3 Privacy Policy
 
