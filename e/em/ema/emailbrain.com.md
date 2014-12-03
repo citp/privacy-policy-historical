@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emailbrain.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102456id_/http%3A//emailbrain.com/about-us/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailbrain.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203121514id_/http%3A//emailbrain.com/about-us/policy) for the most accurate reproduction.*
 
-# EmailBrain Privacy Policy
+# Emailbrain Privacy Policy
 
 Dotster Inc., doing business as EmailBrain, is committed to protect your privacy, and rigorous procedures have been implemented to ensure this. The following Privacy Policy provides information on how your personally identifiable information is collected and used on our website: [www.emailbrain.com](http://%20www.emailbrain.com/). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information
 
