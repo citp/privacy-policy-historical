@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squirtingorgasmmastery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080233id_/http%3A//squirtingmastery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squirtingorgasmmastery.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203091549id_/http%3A//squirtingmastery.com/privacy.html) for the most accurate reproduction.*
 
 # Squirting Mastery Privacy Policy
 
