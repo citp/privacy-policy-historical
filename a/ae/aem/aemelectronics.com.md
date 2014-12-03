@@ -1,19 +1,13 @@
-> *The following text is extracted and transformed from the aemelectronics.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044122id_/http%3A//www.aemelectronics.com/viewpage/privacy-policy-6%3FCDpath%3D0%26osCsid%3Dj4cl23nba5sl1nfgtgcf4agll1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aemelectronics.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203122644id_/http%3A//www.aemelectronics.com/privacy-policy) for the most accurate reproduction.*
 
-# Wideband O2 UEGO, Water/Methanol, Stand Alone Engine Management, Piggyback F/IC, Tru Boost Controller, Gauges, Automotive Performance Electronics - AEM Electronics Privacy Policy - AEM Electronics Privacy Policy
+# Privacy Policy | AEM
 
-AEM respects the privacy of our customers. Any and all information captured on this web site is for internal use by AEM only. AEM does not sell mailing lists, email lists, or give out any of your personal information in any way.
+AEM Performance Electronics respects the privacy of our customers. Any and all personal information captured on this web site is for internal use by AEM only. AEM Performance Electronics does not sell mailing lists, email lists, or give out any of your personal information in any way. You can be confident that the information you provide to AEM Performance Electronics will be kept internally and in strict confidentiality. 
 
-You can be confident that the information you provide AEM will be kept internally and in strict confidentiality.
+On occasion, AEM Performance Electronics may send emails with product information. We only send these emails to site users who elect to sign up for these notifications. 
 
-On occasion, AEM may send you emails to give you advanced notice of special offers and discounts. AEM will only send email to site users who elect to sign up for AEM's Email Alerts. By signing up for AEM's Email Alerts, you hereby give permission to AEM to send emails to your email address.
+**Authorized Third Parties**  
+A third party monitors pages of our website for the purpose of reporting website traffic and other statistics. This third party may use cookies and/or other monitoring technologies to provide anonymous statistics to us about our website visitors. No personally identifiable information is transferred to this third party. 
 
-**What information does AEM collect?**
-
-AEM collects just enough information to process your request, and contacts you if there are any problems. AEM uses your email address as your personal identifier so we can send you information regarding the status of your group/organization and any updates, if you so request.
-
-**Does AEM use Cookies? If so, how?**
-
-Cookies are small amounts of information that are stored on your hard drive from your browser. Also, cookies are used to let us know that you are logged into the system. We do not use them to extract marketing information from existing cookies. Cookies are widely used for this purpose on many sites, including Yahoo!, Dell, and Amazon.com.
-
-At AEM, we use cookies to track whether or not you're logged in and are a registered member of AEM's Electronics Forum.
+**Consent**  
+By using this website, you consent to the collection and use of information by AEM Performance Electronics. Changes to our privacy policy will be posted on this page. If you have any questions or comments regarding this policy, please contact us.
