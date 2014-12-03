@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607020751id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203212042id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page | Career FAQs
 
@@ -80,3 +80,140 @@ Please contact us to ask for access to your information or if you have a complai
 If you require more information about Australia's Privacy Laws and the National Privacy Principles, you can access the Federal Privacy Commissioner's website at [www.privacy.gov.au.](http://www.privacy.gov.au/)
 
 This Privacy Statement is current as at February 2014. Career FAQs may change or update the policy from time to time.
+
+2014-15 Career FAQs Scholarship Terms & Conditions
+
+Value: $2,000  
+Application: Opens 1 November 2014, closes 15 April 2015
+
+**Eligibility criteria**  
+Applicants must meet the following criteria to be eligible for this scholarship:
+
+  * You must be an Australian resident and/or citizen
+  * You must not be currently enrolled in a course, but be planning to study in Australia in 2015
+  * You must correctly complete the application form
+
+
+
+**1\. Introduction**  
+Before you apply for the 2014-15 Scholarship, please read all of the following Terms and Conditions. If you are awarded and accept the Career FAQs Scholarship, it means you accept these Terms and Conditions and agree to their requirements and conditions. 
+
+**2\. Accepting your scholarship**  
+Your provisional scholarship offer explains how to accept or reject your scholarship. You cannot defer a scholarship to a later semester or year. 
+
+**3\. Communication**  
+It is up to you to keep your contact details up to date. We will send any correspondence regarding a successful or unsuccessful application to the address you put on your scholarship application. After you have accepted your scholarship offer, any further correspondence will be via your nominated email account. Please check this email account at least weekly and ensure that there is space to receive emails. 
+
+Please note that if you do not respond to a request for information by the requested dates, your scholarship may be terminated or placed on hold. 
+
+**4\. Conditions and criteria of scholarship**  
+To receive the Career FAQs Scholarship you must meet the eligibility requirements outlined on the Scholarship web page: www.careerfaqs.com.au/scholarships 
+
+**4.2 Enrolment**  
+To apply for this scholarship, you must not already be enrolled in a program of study, but have the intention to begin studying by 30 June 2015. Career FAQs will confirm your enrolment with your chosen course provider.
+
+**Changes to your enrolment**  
+If you need to change your enrolment, you must follow the correct procedures. You must maintain an active (‘enrolled’) enrolment status at all times to maintain eligibility for your scholarship.
+
+You must tell us of any changes to your enrolment. These changes include:
+
+  * Taking a leave of absence or deferring study
+  * Transferring to part-time study
+
+
+
+Note: if you make a change to your enrolment, it may affect your eligibility to receive a scholarship.
+
+**4.4 Duration of scholarship**  
+The Career FAQs Scholarship is a one-off payment of $2000. 
+
+**4.5 Transfer**  
+If you do want to change your course, you should discuss this with Career FAQs, and your nominated course provider, to confirm that you will still be eligible to receive your scholarship. 
+
+**4.6 Discontinuation of study**  
+If you withdraw from your program, your scholarship may be terminated. Please contact us if you wish to discontinue your program. 
+
+**4.7 Survey**  
+Periodically, scholarship recipients may be requested to complete an online survey regarding your scholarship. Please complete the survey if requested.
+
+**4.8 Reporting requirements**  
+If you choose to accept this scholarship, you will be required to correspond with Career FAQs at various points throughout your study, including details on:
+
+  * Your experiences with study and your course
+  * Your perception of the effect of the scholarship in assisting you to achieve your academic objectives for the year
+
+
+
+**4.9 Media conditions**  
+If you are a scholarship recipient, you irrevocably:  
+a) Consent to Career FAQs, its employees or agents:
+
+  * Photographing/videoing you and using any image of you in relation to the scholarship
+  * Using any written material that you have produced on your experiences with online study in relation to the scholarship
+  * To be involved, if requested, in any scholarship related publicity 
+
+
+
+As Career FAQs thinks fit in its absolute discretion to promote Career FAQs, study or any of Career FAQs’s activities. 
+
+b) Acknowledge that all right, title and interest in or relating to any scholarship written material you have produced or image of you taken by or on behalf of Career FAQs belongs to Career FAQs for its own use   
+c) Release Career FAQs from any claim by you or on your behalf, arising out of Career FAQs’s use of any scholarship written material you produce, photograph or video of you   
+d) If requested, you make be asked to participate in activities to promote your scholarship, including public speaking, media interviews and photographs 
+
+**5\. Scholarship value and payments  
+5.1 Value**  
+The value of your scholarship is outlined in your provisional scholarship offer letter. 
+
+**5.2 Scholarship payments**  
+Your provisional scholarship offer letter will detail information about payment of your scholarship. To be eligible to receive payment you must:
+
+  * Accept your provisional scholarship offer
+  * Maintain ongoing eligibility for your scholarship
+  * Comply with any requests for information by the due date as instructed in your provisional scholarship offer letter
+
+
+
+**Payment method**  
+Payment is made via direct deposit or cheque.
+
+**5.3 Taxation and Centrelink**  
+Please seek your own independent advice from the relevant authorities on the effect, if any, that the scholarship may have on eligibility for Austudy, Abstudy, Youth Allowance or any taxation implications. 
+
+**6.1 Retaining your scholarship**  
+To retain your scholarship, you must:
+
+  * Advise Career FAQs of any change to your enrolment such as (but not limited to) leave of absence, cancellation of enrolment, change of citizenship, change of program, change of provider
+  * Maintain enrolment in a program
+  * Update Career FAQs on your experiences and perceptions, as requested
+  * Adhere to the course provider’s academic and administrative policies
+  * Adhere to the terms and conditions within this document
+
+
+
+You must also meet any additional criteria as on the scholarship web page: www.careerfaqs.com.au/scholarships
+
+**6.2 Termination of the scholarship  
+6.2.1 Grounds for termination**  
+Career FAQs may terminate your scholarship if you have:
+
+  * Discontinued your program or are not enrolled in a program
+  * Failed to meet the eligibility criteria and terms and conditions of your scholarship
+  * Provided false or misleading information when you apply for a scholarship, or once you receive a scholarship
+  * Been suspended or excluded for misconduct by your course provider
+  * Breached your course provider’s policies and procedures, rules and/or regulations or State or Commonwealth laws 
+
+
+
+**7.2.2 Consequence of termination**  
+Your scholarship will be cancelled. In most cases, Career FAQs will request the repayment of scholarship monies.
+
+**7.2.3 Provision of false or misleading information**  
+The offer and tenure of your scholarship is based on the information that you provide to Career FAQs. Your scholarship may be withdrawn at any stage if you provide incorrect information or withhold relevant information.
+
+If you provide false or misleading information in an application or supporting documentation or once you have received a scholarship, this is grounds for disciplinary and/or legal action. 
+
+**8\. Privacy and confidentiality**  
+The information supplied to Career FAQs by applicants is collected for the primary purpose of assessing your eligibility to receive a scholarship. Other purposes of collection include dealing with administrative matters in relation to your application, corresponding with you, and the compilation of statistics. Your confidentiality will be respected at all stages of the process.
+
+**8.1 Republishing your information**  
+We will gain your permission to republish any information you provide Career FAQs in your application. 
