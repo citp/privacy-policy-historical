@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510073102id_/http%3A//www.especiallyyours.com/display.do%3FruleID%3D100188%26itemID%3D5%26itemType%3DLANDING%26Privacy%3DPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203102131id_/http%3A//www.especiallyyours.com/display.do%3FruleID%3D100188%26itemID%3D5%26itemType%3DLANDING%26Privacy%3DPolicy) for the most accurate reproduction.*
 
 # Wigs and Hairpieces - www.EspeciallyYours.com
 
-HTML Online Editor Sample
+**ESPECIALLY YOURS PRIVACY POLICY**
 
-**EY PRIVACY POLICY**
-
-Last Updated 8/23/13
+Last Updated June 2014
 
 At Especially Yours your privacy is as important to us as it is to you. Our Privacy Policy defines how Especially Yours protects your privacy. This Privacy Policy describes:
 
-  *   * What personal information we collect and when it is collected
+  * What personal information we collect and when it is collected
   * How your information is used and protected
   * When and with whom your information is shared
   * What to do if you feel your personal information has been compromised
@@ -22,9 +20,9 @@ This Privacy Policy applies to all of the services and websites offered by Speci
 If you have any questions about this Privacy Policy, please feel free to contact us through our Website or write to us at:  
 [CustomerService@EspeciallyYours.com](mailto:CustomerService@EspeciallyYours.com)   
 OR  
-_Privacy and Compliance  
-Especially Yours  
-P.O. Box 105_  
+_Privacy and Compliance_  
+__Especially Yours_  
+_P.O. Box 105__  
 _South Easton, MA 02375_  
 _1-800-748-6910_
 
@@ -55,7 +53,8 @@ In order to provide our full range of services, we may collect Personal Informat
   * Email address
   * Transaction information
   * Credit card, debit card, or checking account information
-  * Age/Date of Birth (in conjunction with promotions, for credit card applications and credit checks)
+  * Age/Date of Birth (in conjunction with promotions, for credit card applications and credit checks)  
+ 
 
 
 
@@ -82,11 +81,19 @@ At Especially Yours, we always want to provide you with the easiest and best pos
   * Administer billing and payment for your purchases
   * Administer promotions, contests and sweepstakes
   * Comply with applicable law, legal procedures, requirements, regulations and statutes
-  * Especially Yours does offer some of our services in connection with affiliated companies as well as other third parties. Third party websites may have different privacy practices than described in this Privacy Policy. We strongly encourage you to read the privacy policies associated with third party websites as this Privacy Policy applies only to the Especially Yours Website, Especially Yours' services, and Especially Yours' handling of Personal Information.
+  * Especially Yours does offer some of our services in connection with affiliated companies as well as other third parties. Third party websites may have different privacy practices than described in this Privacy Policy. We strongly encourage you to read the privacy policies associated with third party websites as this Privacy Policy applies only to the Especially Yours Website, Especially Yours' services, and Especially Yours' handling of Personal Information.  
+ 
 
 
 
-Personal Information that you provide to third party websites may be sent to Especially Yours in order to deliver the services you have requested. You can be assured that we will process Personal Information that we receive from these websites in accordance with this Privacy Policy. 
+Personal Information that you provide to third party websites may be sent to Especially Yours in order to deliver the services you have requested. You can be assured that we will process Personal Information that we receive from these websites in accordance with this Privacy Policy.
+
+**ATTENTION CANADIAN CUSTOMERS**  
+Effective July 1, 2014, Canada’s new anti-spam legislation goes into effect. To abide by this law, we will only send emails to Canadian customers with whom we have a business relationship. When you subscribed to our email distribution list or purchased from us prior to 07/01/14, we assumed a business relationship with you.
+
+If you no longer wish to continue this relationship, please unsubscribe using the link we provide at the bottom of our promotional emails.
+
+If you have not consented to be on our distribution list, but wish to do so now, please click [here](http://www.especiallyyours.com/ancillary/emailsignup.do).
 
 **Safe, Secure Ordering**    
 We respect your right to privacy, and ensure that your personal information is kept completely safe and secure at all times, whether ordering by phone or online. We occasionally share our customer list with reputable, carefully screened companies whose products we feel may be of interest to you. If you prefer that we do not share your name, please let us know at 1-800-748-6910 
@@ -99,18 +106,19 @@ Most browsers are initially set up to accept cookies. You may decide to reset yo
 **Choices for Receiving Promotional Material**    
 You may also decide to opt out of receiving promotional mail and/or email from Especially Yours. Simply notify us of this decision by one of these methods:
 
-  * Follow the unsubscribe link on any promotional email received from Especially Yours or by clicking [here](http://click.scdemail.com/profile_center.aspx?s=fe271c787262027c741770&mid=fe6815707660057a7711&j=fe6117757764027c7d11&l=fe8d15717c630c7876&jb=ffcf14&ju=fe241778746d067f761c77&extcmp=EML:EY_18_C_PO_30_I_FP_EY_CORE&utm_source=email&utm_medium=marketingemail&utm_term=CORE&utm_content=C&utm_campaign=18&r=0)
+  * Follow the unsubscribe link on any promotional email received from Especially Yours. 
   * Send an email to us at [CustomerService@EspeciallyYours.com](mailto:CustomerService@EspeciallyYours.com)
   * Call us toll free at 1-800-952-5926
   * Fax us toll free at 1-508-238-1965
-  * Write to us at:
+  * Write to us at:  
+ 
 
 
 
-_Especially Yours  
-P.O. Box 105_  
-_South Easton, MA 02375  
-_  
+_Especially Yours_  
+__P.O. Box 105__  
+_South Easton, MA 02375_
+
 Please note that any opt-out request sent via postal mail may take at least sixty (60) days to become effective. You may still receive email or postal mail from other affiliated companies and third parties if they have received your email or postal address from sources other than Especially Yours or as a result of their own transactions or experiences with you. You will also continue to receive email or postal mail if you request to hear from us again at a later date.
 
 **Ownership of Customer Information  **  
@@ -118,7 +126,8 @@ As a direct marketing company, Especially Yours places a significant value on th
 
   * In any business transaction involving the purchase or sale of assets by Especially Yours or its affiliated business entities, this customer information may be purchased or sold just as any other piece of company-owned property. By registering, requesting a catalog or making a purchase on our web site, you give us your consent to the purchase or sale of this information should such a business transaction take place
   * We may provide you with links to other companies or organizations which we feel provide useful information, services or products related to the Especially Yours web site. While we believe these organizations to be reputable and committed to consumer privacy, we cannot be responsible for the policies or practices of those who have sites linked to ours.
-  * We may disclose and/or transfer Personal Information to a third party in connection with a merger, acquisition, or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving Especially Yours or its affiliated companies or as part of a corporate reorganization, asset sale, or other change in corporate control.
+  * We may disclose and/or transfer Personal Information to a third party in connection with a merger, acquisition, or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving Especially Yours or its affiliated companies or as part of a corporate reorganization, asset sale, or other change in corporate control.  
+ 
 
 
 
@@ -132,14 +141,15 @@ Especially Yours takes reasonable steps to verify that the Personal Information 
 
   * Follow the unsubscribe link on any promotional email received from Especially Yours
   * Send an email to us at [CustomerService@EspeciallyYours.com](mailto:CustomerService@EspeciallyYours.com)
-  * Call us tollfree at 1-800-952-5926
-  * Fax us tollfree at 1-508-238-1965
-  * Write to us at
+  * Call us toll free at 1-800-952-5926
+  * Fax us toll free at 1-508-238-1965
+  * Write to us at:  
+ 
 
 
 
-_Especially Yours  
-P.O. Box 105_  
+_Especially Yours_  
+__P.O. Box 105__  
 _South Easton, MA 02375_
 
 Unless otherwise required by law or for legitimate business purposes, we will make good faith efforts to correct or delete such data at your request when you notify us of an error or change in your Personal Information. To prevent unauthorized changes to someone's Personal Information, we ask individual customers to positively identify themselves before processing such requests.
