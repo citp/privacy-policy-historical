@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044740id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203105420id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Wowcher | Privacy Policy
 
