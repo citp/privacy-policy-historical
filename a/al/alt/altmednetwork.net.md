@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altmednetwork.net privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605192828id_/http%3A//www.altmednetwork.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altmednetwork.net privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203121753id_/http%3A//altmednetwork.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Security and Privacy
 
