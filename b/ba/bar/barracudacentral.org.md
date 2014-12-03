@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barracudacentral.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095542id_/https%3A//www.barracuda.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barracudacentral.org privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204004111id_/https%3A//www.barracuda.com/legal/privacy) for the most accurate reproduction.*
 
-# Barracuda Networks - Barracuda Policies
+# Barracuda Networks - Barracuda-Richtlinien
 
 ## Barracuda Networks Privacy Policy
 
