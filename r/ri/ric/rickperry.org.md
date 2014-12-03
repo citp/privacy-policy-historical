@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104042637id_/http%3A//www.rickperry.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203032525id_/http%3A//www.rickperry.org/privacy) for the most accurate reproduction.*
 
 # RickPerry.org Privacy Policy | Texans for Rick Perry
 
