@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyderco.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328101321id_/http%3A//www.spyderco.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyderco.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203235722id_/http%3A//www.spyderco.com/about/privacy.php) for the most accurate reproduction.*
 
 # :: Spyderco Privacy, Security and Return Policy ::
 
