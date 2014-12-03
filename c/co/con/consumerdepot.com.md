@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2014-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140113031054id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203052355id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
 
 # Consumer Depot Electronics & Computer Liquidator
 
@@ -39,10 +39,10 @@ By using our Web site, you consent to the collection and use of this information
 
 © Copyright 1997 - 2013 Consumer Depot, LLC. All rights reserved.
 
-[](https://web.archive.org/web/20140113031054id_/http%3A//www.consumerdepot.com/pg_category.asp?id=GA6)
+[](https://web.archive.org/web/20141203052355id_/http%3A//www.consumerdepot.com/pg_category.asp?id=GA6)
 
 ## FEATURED PRODUCTS
 
-[](https://web.archive.org/web/20140113031054id_/http%3A//www.consumerdepot.com/pg_protection_plan.asp)
+[](https://web.archive.org/web/20141203052355id_/http%3A//www.consumerdepot.com/pg_protection_plan.asp)
 
 ## CERTIFICATIONS
