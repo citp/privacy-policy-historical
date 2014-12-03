@@ -1,26 +1,23 @@
-> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142521id_/http%3A//www.ukofficedirect.co.uk/helpsection.aspx%3Fsection%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203194444id_/http%3A//www.ukofficedirect.co.uk/help/topic/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy and Cookies
+# What is UK Office Direct's privacy policy?
 
-Visiting the UK Office Direct website with your browser settings adjusted to accept cookies tells us that you want to use our products and services and that you consent to our use of cookies and other technologies as described below.
+####  Who we are
 
- **What we do with your information**  
-Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:
+In this privacy policy references to "we", "us" and "our" are to UK Office Direct Ltd. References to "our Website" or "the Website" are to [www.ukofficedirect.co.uk](https://web.archive.org/web/20141203194444id_/http%3A//www.ukofficedirect.co.uk/help/topic/www.ukofficedirect.co.uk).
 
-> 1\. To process your order, to provide after sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);
-> 
-> 2\. In certain cases we may use your email address to send you information on our other products and services. In such a case you will be offered the option to opt in/out before completing your purchase.
+####  What information we collect and how
 
-We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.
+The information we collect via the Website may include:
 
- **Your Rights**  
-You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including full postal address, to the following address:
+1\. Any personal details you knowingly provide us with through forms and our email, such as name, address, telephone number etc.
 
-UK Office Direct Ltd  
-Dome House  
-48 Artillery Lane  
-London  
-E1 7LS
+2\. In order to effectively process credit or debit card transactions it may be necessary for the bank or card processing agency to verify your personal details for authorisation outside the European Economic Area (EEA). Such information will not be transferred out of the EEA for any other purpose.
 
- **Other Websites**  
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
+Under no circumstances will we hold sensitive payment details such as your card number, expiry date and security code. All transactions are handled through our accredited payment bureau, SagePay (Formerly Protx). For more information on SagePay please refer to their website - [http://www.sagepay.com](http://www.sagepay.com/)
+
+3\. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
+
+4\. Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website.
+
+5\. Data recorded by the Website which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on your computer through the use of cookies. Cookies are small pieces of information which are sent by a website to your web browser and remain on your computer until they are deleted. They help us to improve our site and to deliver a better and more personalised service. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility. Please note that by refusing the use of cookies you may not be able to use the full functionality of this website.
