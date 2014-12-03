@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the visocap.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607210421id_/http%3A//www.visocap.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visocap.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203235329id_/http%3A//www.visocap.com/privacy.html) for the most accurate reproduction.*
 
 # Visocap Privacy Policy
 
-This Privacy Statement applies to our website www.visocap.com (our site) and governs data collection and usage. By using our site, you consent to the data practices described in this statement. Use of our site is subject to the [terms](https://web.archive.org/web/20140607210421id_/http%3A//www.visocap.com/terms.html) of website use.
+This Privacy Statement applies to our website www.visocap.com (our site) and governs data collection and usage. By using our site, you consent to the data practices described in this statement. Use of our site is subject to the [terms](https://web.archive.org/web/20141203235329id_/http%3A//www.visocap.com/terms.html) of website use.
 
 ##### Collection of your Personal Information
 
