@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsto.re privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209023955id_/http%3A//upstore.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsto.re privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071550id_/http%3A//upstore.net/privacy) for the most accurate reproduction.*
 
 # Privacy policy — Upload, store & share your files on Upstore
 
