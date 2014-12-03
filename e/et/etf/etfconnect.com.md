@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etfconnect.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116080149id_/http%3A//www.cefconnect.com/Footer/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etfconnect.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203235649id_/http%3A//www.cefconnect.com/Footer/Privacy.aspx) for the most accurate reproduction.*
 
 # CEFConnect - Brought to you by Nuveen Closed-End Funds
 
