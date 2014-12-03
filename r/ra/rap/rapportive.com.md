@@ -1,141 +1,99 @@
-> *The following text is extracted and transformed from the rapportive.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209093653id_/http%3A//rapportive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapportive.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203010417id_/https%3A//www.linkedin.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Rapportive | Pledge of Privacy
+# Privacy Policy | LinkedIn
 
-### Our founding principles
+##  2\. How we use your personal information 
 
-Rapportive integrates with your email, and we understand that this carries a great responsibility. We respect the fact that your email may contain very personal or sensitive information, and we will do everything we can to make sure that it is safe.
+You agree that information you provide on your profile can be seen by others and used by us as described in this Privacy Policy and our User Agreement.
 
-That's why we don't just have a privacy policy; we have a **pledge of privacy**. It's our promise that we will always respect your privacy. We've tried to make it absolutely clear, open and readable, but if you have any questions or concerns at all, please [drop us an email](mailto:supportive@rapportive.com).
+The personal information that you provide to us may reveal or allow others to identify aspects of your life that are not expressly stated on your profile (for example, your picture or your name may reveal your gender). By providing personal information to us when you create or update your account and profile, **you are expressly and voluntarily accepting the terms and conditions of our User Agreement and freely accepting and agreeing to our processing of your personal information in ways set out by this Privacy Policy.** Supplying to us any information deemed “sensitive” by applicable law is entirely voluntary on your part. **You can withdraw or modify your consent to our collection and processing of the information you provide at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing your account settings or your profile on[LinkedIn](https://web.archive.org/settings/) or SlideShare, or by closing your [LinkedIn](https://web.archive.org/secure/settings?closemyaccountstart=), [SlideShare](http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fhelp%2Eslideshare%2Ecom%2Fentries%2F57912-How-do-I-delete-my-SlideShare-account-&urlhash=jAaY) and [Pulse](https://help.linkedin.com/app/answers/detail/a_id/49959/loc/na/trk/NoPageKey/) accounts.**
 
-Please note that this document may change from time to time, to clarify wording or to reflect new features in Rapportive. However, the following principles will not change:
+We communicate with you using LinkedIn messaging, email, and other ways available to us. We may send you messages relating to the availability of the Services, security, or other service-related issues. We also may send promotional InMail messages to your LinkedIn inbox. You can change your email settings at any time.
 
-  * Your trust is the most precious thing we have, and we will never betray you.
-  * We want you to be in control of your own information.
-  * Your private information remains absolutely confidential.
-  * We will be very transparent and explain clearly what we do with your information.
-  * We will never spam you, and never allow others to spam you.
+We communicate with you through email, notices posted on the LinkedIn websites or apps, messages to your LinkedIn inbox, and other means available through the Services, including mobile text messages and push notifications. Examples of these communications include: (1) welcome and engagement communications - informing you about how to best use our Services, new features, updates about other Members you are connected to and their actions, etc.; (2) service communications - these will cover service availability, security, and other issues about the functioning of our Services; (3) promotional communications - these include both email and InMail messages (InMail messages are only delivered to your LinkedIn InBox), and may contain promotional information directly or on behalf of our partners, including job opportunities and information from companies that are hiring. These messages will be sent to you based on your profile information and messaging preferences. We track the open rate of your InMails to provide your InMail acceptance score. You may change your email and contact preferences at any time by signing into your account and changing your [LinkedIn](https://web.archive.org/settings/?tab=email) or [SlideShare](http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fhelp%2Eslideshare%2Ecom%2Fentries%2F60190--How-do-I-manage-my-email-notifications-&urlhash=NILD) email settings. You can also opt out of promotional messages by sending a request to LinkedIn [Help Center](https://help.linkedin.com/app/home/loc/na/trk/NoPageKey/).
 
+Please be aware that you cannot opt out of receiving service messages from us.
 
+With certain communications you send on our Services, the recipient can see your name, email address, and some network information.
 
-### Where we get data from
+Many communications that you initiate through our Services (for example, an invitation sent to a non-Member) will list your name and primary email address in the header of the message. Messages you initiate may also provide the recipient with aggregate information about your network (for example, how many people are in your network). Other communications that you initiate through the Services, like a request for an introduction, will list your name as the initiator but will not include your personal email address contact information. Once you have connected with an individual, regardless of who sent the invitation, your contact information will be shared with that individual.
 
-#### Where does Rapportive get its data from?
+We use automatic scanning technology to help protect you and other Members. Such technology checks links and other content in your InMails, network updates and Group contributions to help us identify and block malicious links and malware, reduce spam and optimize the delivery of our Services.
 
-We combine information from several sources; at the moment, these are [Academia.edu](http://academia.edu/), [AngelList](http://angel.co/), [Bitbucket](https://bitbucket.org/), [CrunchBase](http://www.crunchbase.com/), [Econsultancy](http://econsultancy.com/), [Facebook](http://www.facebook.com/), [Flickr](http://www.flickr.com/), [GitHub](https://github.com/), [Google Profiles](http://www.google.com/profiles), [Gravatar](http://gravatar.com/), [LinkedIn](http://www.linkedin.com/), [Plancast](http://plancast.com/), [Posterous](http://posterous.com/), [Stack Overflow](http://www.stackoverflow.com/), [Tungle.me](http://www.tungle.me/), [Twitter](http://twitter.com/) and [Vimeo](http://vimeo.com/), as well as thousands of organisations' public websites. We also allow you to add more services to Rapportive; please see the section on other services for details.
+We use the information and content you provide to us to conduct research and development and to customize your experience and try to make it relevant and useful to you.
 
-We make a clear distinction between:
+We use information and content that you and other Members provide to us to conduct [research](http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fengineering%2Elinkedin%2Ecom%2Fab-testing%2Fxlnt-platform-driving-ab-testing-linkedin&urlhash=0Cup) and development for the improvement of our Services in order to provide you and other Members and Visitors with a better, more intuitive experience and drive membership growth and engagement on our Services and to help connect professionals to economic opportunity.
 
-  * **Public data** , which is information that users have chosen to make public on the internet, and which anyone could find on one of the major search engines. We aggregate public data, take into account corrections and feedback, and show this information to everyone who uses Rapportive.
-  * **Private data** , which is privileged information to which only you have access. In order to provide the Rapportive service, we may need to process this data behind the scenes; however, private data will never be shown or disclosed to any other Rapportive user or any third party (unless you explicitly ask us to share it).
+We also customize your experience and the experiences of others on our Services. For example, when you sign in to your account, we may display the names and photos of new Members who have recently joined your network or recent updates from your connections and companies you follow. We try to show you content, such as news and presentations, that is relevant to you, your industry, or your profession. We also use Members information and content for invitations and communications promoting our Services that are tailored to the recipient.
 
+We share your information across our different Services, among companies in the LinkedIn family. 
 
+We may share your personal information with our affiliates (meaning entities controlled by, controlling or under common control with LinkedIn) outside of the LinkedIn entity that is your data controller (for example, LinkedIn Corporation may share your information with LinkedIn Ireland, or other LinkedIn operating entities) as reasonably necessary to provide the Services. You are consenting to this sharing.
 
-#### What if Rapportive shows incorrect or inappropriate information?
+We combine information internally across different Services. For example, SlideShare may recommend better content to you based on your LinkedIn content preferences and the articles you read on Pulse, and LinkedIn could present you a better tailored network update stream based on your SlideShare activity, whether or not you tied your SlideShare, Pulse and/or LinkedIn accounts (e.g. by signing in SlideShare or Pulse with your LinkedIn account), as we may be able to identify you across different Services using cookies or similar technologies.
 
-We make an effort to show you information which is up-to-date and accurate, but we're not perfect and cannot guarantee accuracy. Someone might have deliberately entered false information on a website from which we source data, or we might have simply got our processing wrong.
+Any information you put on your profile and any content you post on LinkedIn may be seen by others.
 
-If you see data which is inaccurate, abusive or otherwise objectionable, we want you to be able to correct it. You can edit much of your information directly from within Rapportive. For other changes, please [send us corrections by email](mailto:supportive@rapportive.com) and we will deal with them promptly.
+We don’t provide any of your non-public information (like your email address) to third parties without your consent, unless required by law, or as described in Sections 2.6 and 2.14 of this Policy.
 
-If you are making important decisions about people, such as job or loan applications, please do not rely on Rapportive without convincing yourself via independent sources that the information is accurate and relevant.
+Other people may find your LinkedIn profile information through search engines (you can choose which parts of your public profile are accessible to public search engines in your settings), or use services like Twitter in conjunction with your LinkedIn account.
 
-### What we do with data
+We offer a “public profile” feature that allows you as a Member to publish portions of your professional profile to the public Internet. This public profile will be indexed and displayed through public search engines when someone searches for your name. You may choose the parts of your profile that search engines index or completely opt out of this feature in your LinkedIn account [settings](https://web.archive.org/profile/public-profile-settings), or limit the publicly visible information in your SlideShare profile. However, third-party search engines may not automatically update their caches, which may contain old public profile information. Unless you delete them, your profiles on LinkedIn.com and our corresponding app or on SlideShare.net are always viewable on the respective Services.
 
-#### What does Rapportive do with the data I enter?
+The visibility of your professional profile to other Members depends on your degree of connection with the viewing Member, the subscriptions they may have, their usage of the Services, access channels and search types (e.g. by name or by keyword). For example, first degree connections can see your full profile and contact information. Others have more limited access, as detailed in our [Help Center](https://help.linkedin.com/app/answers/detail/a_id/77/loc/na/trk/NoPageKey/). Please note that recruiters and other such professional subscribers can see your full profile even if you did not approve their InMail.
 
-What we do with your information depends on the type of information:
+We do not rent or sell personal information that you have not posted on our Services, except as described in this Privacy Policy. We will not disclose personal information that is not published to your profile or generated through engagement with our other services, such as Groups and Company Pages, except to carry out your instructions (for example, to process payment information) or unlesss we have your separate consent unless we have a good faith belief that disclosure is permitted by law or is reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) enforce this Privacy Policy or our User Agreement; (3) respond to claims of a violation of the rights of third parties; (4) respond to Member service inquiries; or (5) protect the rights, property, or safety of LinkedIn, our Services, our Members, Visitors, or the public. See Section 2.14 for additional details about our compliance with legal requests for information.
 
-  * Data which is **private to you** (e.g. notes about a contact) is stored securely on our servers. It may be processed by us as part of the routine operations of Rapportive, but it is never shared with any third party (unless you explicitly ask us to).
-  * If you edit **your own public profile** , we will make sure that everybody who views your profile on Rapportive is shown your updated profile. This enables you to take control of your own information.
-  * If you edit **someone else's public profile** , your changes are kept private to you, and you have the option of informing the owner of the profile about your changes. Edits only become public if approved by the owner of the profile.
+We support middleware providers that offer archiving solutions to firms subject to legal and regulatory archiving requirements, which, with your permission, facilitate the archiving of your communications and other activity by a third party for compliance purposes. Content distributed through our sharing features and third-party integrations may result in displaying some of your personal information outside of our Services. For example, when you post content to a Group that is open for public discussion, your content, including your name as the contributor, may be displayed in search engine results.
 
+Also, if you have opted to bind any of your Service accounts to your Twitter, Facebook or other similar account, you can easily share content from our Services to these third party services, in accordance with your account settings (which you may change at any time) and respective policies of these third parties. Further, we allow third parties to look-up profile information (subject to your privacy settings) using your email address or first and last name information through its profile API (see Section 2.7. below).
 
+Third parties (for example, your email provider) may give you the option to upload certain information in your contacts stored with us onto their own service. If you choose to share your contacts in this way, you will be granting your third party provider the right to store, access, disclose and use your these contacts in the ways described in such third party's terms and privacy policy.
 
-Whenever you enter data, we will make clear what type it is. Independently of the types of data, there are certain things we will **never** do:
+We work with developers to build Platform Applications using our developer tools. Whether you use Platform Applications is up to you.
 
-  * We will never use your data to contact anybody without explicit instructions from you.
-  * We will never disclose, sell or give away contact details to anybody who might use them to contact people without your permission.
+If you have given a Platform Application access to your LinkedIn account, you can revoke that permission anytime. Also, you can opt out of providing information to developers through your connections.
 
+We collaborate with and allow third parties to use our developer platform to offer services and functionality in conjunction with our Services. These third-party developers have either negotiated an agreement to use our platform technology or have agreed to our self-service API and Plugin terms in order to build applications (“Platform Applications”). Both the negotiated agreements and our API and Plugin terms contain restrictions on how third parties may access, store, and use the personal information you provide to us.
 
+If you choose to use a Platform Application, you will be asked to confirm acceptance of the privacy policy and user agreement of the third-party developer. To revoke permission granted to a Platform Application, please visit your [settings](https://web.archive.org/settings/). Note, however, that even if you revoke the permission granted to a Platform Application, your connections may still be using the Platform Application, so the Platform Application may still have access to certain information about you, just as your connections do. You may opt out of providing information to third-party developers through your connections by accessing the “[Turn on/off data sharing with third-party applications](https://web.archive.org/settings/?tab=groups&modal=nsettings-data-sharing)” control in the “Groups, Companies, and Applications” tab under [settings](https://web.archive.org/settings/?tab=groups).
 
-### Sharing with third parties
+We conduct our own surveys and polls and also help third parties do this type of research. Your participation in surveys or polls is up to you. You may also opt out of getting invitations to participate in surveys.
 
-#### Does Rapportive disclose information to anyone else?
+Polls and Surveys may be conducted by us, Members, or third parties. Some third parties may target advertisements to you on the results page based on your answers in the poll. We or third parties may follow up with you via InMail regarding your participation unless you have opted out of receiving InMail messages. We may use third parties to deliver incentives to you to participate in surveys or polls. If the delivery of incentives requires your contact information, you may be asked to provide personal information to the third party fulfilling the incentive offer, which will be used only for the purpose of delivering incentives and verifying your contact information. It is up to you whether you provide this information, or whether you desire to take advantage of an incentive. Your consent to use any personal information for the purposes set forth in the poll or survey will be explicitly requested by the party conducting it. We are a member of the Council of American Survey Research Organizations (“CASRO”) and abides by CASRO guidelines for market research. You may opt out of participating in surveys by changing your [settings](https://web.archive.org/settings/?tab=email&modal=nsettings-research-invitations) to stop receiving these inquiries and requests.
 
-We will never sell, rent or give away private data about you or your contacts. Our business is in making your inbox more powerful, not in selling databases.
+Our Services help you search for other professionals, companies, groups, professional content, and jobs.
 
-In order to search for details about a contact, we need to send pieces of contact information (e.g. an email address) to our servers; in order to search for public information about that person on the internet, we may need to pass that information on to third-party services (data providers). We vet their privacy policies to ensure they meet the same high standards as ours.
+You can search for Members, employment opportunities, information about companies, and community content from Groups on our Services. For example, you can find Members with particular expertise or experience, or Members that you may know from your industry or profession. You can also find employment opportunities and information about companies. You can also find content from Groups, SlideShare and Pulse. We use personal information from our Services, including Member profiles, Groups content, and Company Pages, to inform and refine our search service.
 
-We may use the data about your contacts to check whether our publicly available information is accurate, and correct it if necessary. For example, if we got someone's name wrong, we may use the name under which they send emails as a reference. We will not pass this information on to our data providers.
+You are responsible for any information you post on our Services, and this content will be accessible to others.
 
-In addition to the above, we promise that we will never share any of the following, unless you explicitly choose to do so:
+If you participate in Groups, share content on your network update stream, or import a blog or other content, you should be aware that any information you choose to disclose using these services can be read, collected, and used by other Members in these forums, developers, and other third parties, including advertisers. We are not responsible for the information you choose to submit in these forums. Your Groups contributions are typically searchable on our Services and some content in Groups may be public and searchable on the Internet if the group owner has not closed the group for public discussions. You can identify closed groups by the padlock icon next to the group name. You can remove your Groups posts at any time. However, others may have copied and used the information that you shared.
 
-  * your notes;
-  * the subject and contents of your emails;
-  * who you are communicating with.
+### 2.11. Testimonials and Advertisements Placed through LinkedIn Ads
 
+If you provide any testimonials about our goods or services or place advertisements through the LinkedIn Ads, we may post those testimonials and examples of advertisements you place in connection with our promotion of these services to third parties. Testimonials and advertisements may include your name and other personal information that you have provided. For more information about LinkedIn Ads, please see the [LinkedIn Ads Terms of Use](http://www.linkedin.com/legal/pop/pop-sas-terms).
 
+We offer a premium service to recruiters and others, which can be used to search for, organize, and communicate with potential candidates or offer business opportunities. In some cases we allow the export of public profile information. You can control how your information is exported by changing which parts of your public profile are accessible to search engines.
 
-Just one exception to the above: like all trustworthy companies, we will disclose information if required by law or court order.
+We offer customized people-search functionality along with organizational and communications tools (including activity alerts) as part of our talent recruiting, marketing and sales solutions. These services allow subscribers - generally, enterprises and professional organizations - to export limited information from Members’ public profiles, such as name, headline, current company, current title, and location (for example, San Francisco Bay Area), in order to effectively manage candidate sourcing. You may limit or prevent such subscribers from exporting your profile information by configuring your [public profile visibility settings](http://www.linkedin.com/profile/public-profile-settings) to restrict access to these fields. We do not provide email or other contact information to these subscribers. However, if you post that information as part of your profile it will be available to them and others. A recruiter or other such subscriber may also manage and store information it has independently obtained about you outside of our Services, such as a resume, in connection with our platform. Any personal information obtained independently of our Services will not be added by us to your profile and is not under our control but is subject to the policies of our recruiting, marketing or sales solution subscriber. We store such information on behalf of such subscriber who can remove it at any time. We do not further process such information.
 
-### Confidentiality
+Companies and other entities can create pages on our Services. If you follow one of these pages, non-identifiable information about you will be provided to the page’s administrators.
 
-#### Will Rapportive read my email?
+Certain pages on the Services are public (e.g., company and college pages), and any communications or information shared through them will be accessible by the entity that created them. If you follow a person or organization, you will be listed among its followers, which can be viewed by others including the page owner. We use aggregate information about followers and viewers to provide data about such pages’ performance (for example, visits and updates).
 
-Rapportive will never read your email without your explicit permission.
+We may disclose your personal information if compelled by law, subpoena, or other legal process, or if necessary to enforce our User Agreement.
 
-If you do give us that permission, we will only use it to identify information in your email that is useful to you. The contents of your email will not be sent to our servers, and we will never store it anywhere.
+It is possible that we may need to disclose personal information, profile information, or information about your activities as a Member or Visitor when required by law, subpoena, or other legal process, whether in the United States, Ireland, or other jurisdictions, or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent, or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce the User Agreement, investigate and defend ourselves against any third-party claims or allegations, or protect the security or integrity of our Service; or (3) exercise or protect the rights, property, or safety of LinkedIn, our Members, personnel, or others. We attempt to notify Members about legal demands for their personal information when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. In light of our principles, we may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but do not commit to challenge every demand. To find out more about how we engage with government requests for data see our [Law Enforcement Data Request Guidelines](https://help.linkedin.com/app/answers/detail/a_id/16880/loc/na/trk/NoPageKey/).
 
-We never see your Gmail password, so there is no risk of your sensitive communications being compromised.
+If there is a change in control or sale of all or part of LinkedIn, we may share your information with a third party, who will have the right to use that information in line with this Privacy Policy.
 
-#### Services requiring additional access
+We may also disclose your personal information to a third party as part of a sale of the assets of LinkedIn Corporation, a subsidiary, or division, or as the result of a change in control of the company or one of its affiliates, or in preparation for any of these events. Any third party to which we transfers or sells our assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in this Privacy Policy.
 
-Some of our services need to access more of your data than others. These services will be opt-in. Before you opt-in to a service which requires additional access, we will explain in clear words what we will do with your information, and you will have a clear choice whether you want to allow it.
+We may employ third parties to help us with the Services
 
-### Authorizing access to other services
+We may employ third party companies and individuals to facilitate our Services (e.g. maintenance, analysis, audit, marketing and development). These third parties have limited access to your information only to perform these tasks on our behalf and are obligated to LinkedIn not to disclose or use it for other purposes.
 
-#### Authorizations managed by Rapportive
+We may process your information outside the country where you live.
 
-Rapportive offers you the option to connect your accounts on other services (for example, Facebook or LinkedIn) to your Rapportive account. We will use your authorization to search for information about people you look up, and present this information to you in Rapportive. This gives you better information quality and coverage than publicly available information alone. 
-
-If your authorization gives Rapportive access to sensitive information that is not otherwise publicly available, we promise to treat that information with the same care as all your other private information. We will not make it available to anyone else, unless you explicitly ask us to.
-
-Some authorizations enable you to take actions directly within Rapportive (e.g. sending an invitation to a contact). You are in full control of any such actions, and you can edit any text they contain.
-
-We will not take any action on your behalf without your permission. For example, we will not post any messages from your account, nor will we change any of your profile information on other services.
-
-#### Third-party Raplets
-
-Rapportive also allows you to add third-party components, called "Raplets", to your account. Raplets may be used to fetch information from external systems, such as your CRM software, and may also be used to update information in those systems.
-
-Raplets may execute JavaScript code within Rapportive. This allows them to provide rich interaction, but also requires a high degree of trust. We therefore ask you to take care, and only add Raplets from services you trust. Rapportive displays a warning and asks for your confirmation before activating any third-party Raplet.
-
-Raplets that are advertised by us have been reviewed and are safe to the best of our knowledge. However, because Raplets are developed by third parties and hosted outside of Rapportive, we can't make any guarantees.
-
-When you remove a Raplet from Rapportive it ceases to have access to your account.
-
-### Cookies & tracking
-
-#### Does Rapportive use cookies?
-
-Like almost all websites today, Rapportive uses cookies to determine whether you are logged in on your computer. Because of the nature of Rapportive's service, this cookie identifies you personally; without this identification, we would not be able to provide the Rapportive service.
-
-Rapportive keeps your cookies strictly confidential. In order to prevent your private information from leaking to other websites, we do not set any cookies outside of the `rapportive.com` domain. In particular, we do not participate in any schemes related to personalized advertising.
-
-#### Does Rapportive track what I do?
-
-We never see anything else you do on the web outside of your email.
-
-We do track the data you see in Rapportive and how you interact with it. We never disclose tracking data about individuals, but we use it in an anonymised and aggregated form to inform us about how Rapportive is being used, and what we could do to make it better.
-
-### Security
-
-#### How secure are Rapportive's systems?
-
-Our founders have, between them, over 12 years of experience with software security. We take security into account at all times, both in building our software and in our operating procedures.
-
-Rapportive is hosted by our friends at [Heroku](http://heroku.com/), who ensure that our servers are always kept up-to-date with security updates. The servers are provided by [Amazon Web Services](http://aws.amazon.com/), who employ [in-depth security measures](http://aws.amazon.com/security/) — they even keep the location of the data-centres secret.
-
-Rapportive employees use private keys and other secure methods to access our servers, and are bound by strict contractual obligations to safeguard our users' data at all times and to comply with this pledge of privacy.
-
-Please note that, because we never see your Gmail password, the contents of your email would remain secure even in the unlikely event that our servers were compromised. However, we do take every precaution to safeguard any sensitive private data that we do store.
+We may transfer your information and process it outside your country of residence, wherever LinkedIn, its affiliates and service providers operate.
