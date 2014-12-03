@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the talentqgroup.com privacy policy that was archived on 2011-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110929181641id_/http%3A//www1.talentqgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentqgroup.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203092016id_/https%3A//www.talentqgroup.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy « Talent Q
+# Privacy policy | Legal | Talent Q
 
-Talent Q is committed to ensuring that your privacy is protected. This privacy policy explains what information is collected about you, how we use this information, how you can instruct us if you prefer to limit the use of the information, and the procedures that we have in place to safeguard your privacy.
+This privacy policy explains what information is collected about you, how we use this information, how you can instruct us if you prefer to limit the use of the information, and the procedures that we have in place to safeguard your privacy.
 
 ## The information we collect and how we use it
 
@@ -12,10 +12,8 @@ In addition to any personal data you might supply to us, we collect aggregate in
 
 ## Cookies
 
-“Cookies” are small pieces of information between a web server and a web browser, which enable the server to collect information from the browser. Talent Q uses cookies to enable us to provide the mechanisms for online browsing and to monitor traffic. These cookies do not contain any personally identifiable information.
+'Cookies' are small pieces of information between a web server and a web browser, which enable the server to collect information from the browser. We use cookies to enable us to provide the mechanisms for online browsing and to monitor traffic. These cookies do not contain any personally identifiable information. Read our [Cookie Policy](https://web.archive.org/legal/cookie-policy/ "Cookie policy") to find out more about how and why we use cookies on the website.
 
 ## How we protect your information
 
-The Internet is not a secure medium. However, we have put in place various security procedures to help ensure that your information is as secure as is possible.
-
-We also keep your information confidential. Our internal procedures cover the storage, access and disclosure of your information.
+The Internet is not a secure medium. However, we have put in place various security procedures to help ensure that your information is as secure as is possible. We also keep your information confidential. Our internal procedures cover the storage, access and disclosure of your information.
