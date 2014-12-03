@@ -1,89 +1,130 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629172719id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203161317id_/http%3A//www.immi.gov.au/About/foi/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-On this page
+The _Privacy Act 1988_ (Privacy Act) is concerned with your personal information. The rules governing how we deal with your personal information are contained in a set of Australian Privacy Principles (APPs). Below is a summary of our practices and procedures regarding access to and correction of personal information. Additional information can be found in our [privacy policy](https://web.archive.org/pub-res/Pages/policy/privacy-policy.aspx).
 
-  * Privacy statement 
-  * Security of information
-  * Site visit data
-  * Cookies
-  * Further information 
+The Privacy Act also requires the department to notify an individual of certain matters when we collect personal information about them. [Form 1442i ](https://web.archive.org/allforms/pdf/1442i.pdf)is the notification of those matters.
 
-  
+### Access to your personal information
 
+You can seek access to information about yourself in departmental documents (other than exempt documents) under the Privacy Act or the _Freedom of Information Act 1982_ (FOI Act).
 
-##  Privacy statement
+The best way for you to access your personal information depends on the circumstances:
 
-The _Privacy Act 1988_ defines personal information as 'information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion'.
+_Immediate access_  
+You can seek to obtain original documents or copies of personal information by approaching us. Where the information is immediately available through our systems or on an electronic file, access will be allowed, unless we consider that is a reason under the Privacy Act, FOI Act or other relevant law to withhold the information.
 
-This website is managed by the Department of Immigration and Border Protection (DIBP). We take seriously our obligation to protect your privacy.
+_Where the information is not immediately available or might be exempt_  
+You will be requested to complete [Form 424A](https://web.archive.org/allforms/pdf/424a.pdf) _Request for access to documents or information_. This will allow us to track and monitor each request to ensure that we meet our legislative obligations under the FOI Act or Privacy Act.
 
-The _Privacy Act 1988_ is the key law designed to protect your rights and prevent misuse of personal information collected by government agencies such as this department. 
+### Correcting your personal information
 
-Also, information received by us is protected from unauthorised use and disclosure by virtue of specific provisions in the _Migration Act 1958_ , _Crimes Act 1914_ , _Public Service Act 1999_ and the _Public Service Regulations 1999_.
+You can ask us to change the personal information we hold about you if you think that the information: 
 
-A breach of these laws may make an officer liable to criminal and/or civil penalty.
-
-We do not collect personal information about you when you visit this site. You can generally visit this site without telling us who you are, unless you choose to provide such information.
-
-Our website contains links to other sites. We are not responsible for the content and the privacy practices of other websites and we encourage you to read each site's privacy policy.
-
-##  Security of information
-
-The _Privacy Act 1988_ has specific provisions that prohibit any officer of this department (or any other government department) from collecting, using or disclosing anyone's personal information except in performing their duties and in specific situations permitted by law. 
-
-Your personal information will not be disclosed unless the law permits it or your permission is given.
-
-While we provide a secure environment, you should be aware there are inherent risks associated with the transmission of information via the Internet.  
- **See:** [Online Security](https://web.archive.org/e_visa/online-security.htm)
-
-##  Site visit data
-
-We operate this web site with outsourced technical assistance. 
-
-When visiting this site, a record of your visit is logged. Information is recorded for statistical purposes and is used by us to monitor the use of the site, discover what information is most and least used and to make the site more useful to visitors.
-
-The information we log when you access this web site includes:
-
-  * your IP or server's address
-  * the date and time of your visit to the site
-  * the pages accessed
-  * your operating system  
- **Example:** Windows 8, Mac OS X etc.
-  * your web browser version and type   
-**Example:** Mozilla Firefox, Internet Explorer, Google Chrome etc.
-  * the time taken to transmit information to you
-  * the previous internet address from which you came directly to this website.
+  * is incomplete, incorrect, out of date or misleading, and
+  * has been, is being, or is available to be used for an administrative purpose, and
+  * does not give rise to any questions of the person's identity.
 
 
 
-This information is analysed to show broken links in our website, bottlenecks, and other site problems. We use this information to maintain our site for your efficient use.
+How we amend or annotate a record depends on a number of circumstances.
 
-No attempt is made to identify you through your browsing activities except in the event of an investigation into the improper use of our internet facility, or where a law enforcement agency exercises a warrant to inspect the Internet Service Provider's logs.
+#### Australian citizens
 
-##  Cookies
+If you are an [Australian citizen seeking to change your personal information on your evidence of Australian citizenship, such as your name or date of birth details](http://www.citizenship.gov.au/current/change_details/), you must submit [Form 119](https://web.archive.org/allforms/pdf/119.pdf) with the required documents and fee with the Evidence Processing Unit in Parramatta. You application will be assessed under the provisions of the _Australian Citizenship Act 2007_.
 
-We use ‘cookies’ for maintaining contact with a user through a website session. A cookie is a small file supplied by us, and stored by the web browser software on your computer when you access our site. (An explanation of what cookies are and how they work can be found at the site of the [Privacy Commissioner](http://www.privacy.gov.au/internet/internet_privacy/#2.1). Cookies allow us to recognise you as an individual web user, as you browse our website.
+If you seek amendment under the FOI Act to information which would cause your Evidence of Australian Citizenship to be different to your records, your request will be referred to Citizenship.
 
-Two cookie types may be used by this website:
+#### Non-Australian citizens
 
-### Session cookies
+If you are not an Australian citizen but you have adequate documentation in support of an amendment to your personal information, such as an Australian government issued marriage certificate, counter staff can action the change without a formal request under the Privacy Act.
 
-These exist only for the duration of a web browser session with a particular website/host. All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you.
+If you are not an Australian citizen and you do not have adequate documentation, you will be required to complete a request using [Form 424C](https://web.archive.org/allforms/pdf/424c.pdf). You do not have to pay a fee for this request. Your request must be in writing and:
 
-### Persistent cookies
+  * give details of the document and the information you believe is incomplete, incorrect, out of date or misleading, and
+  * give reasons why you are asking for amendments, and
+  * provide an address (physical or electronic) for us to reply to.
 
-These exist for a defined period of time (usually beyond the termination of the current session) before expiring.
 
-No personally identifiable information is stored within cookies used by this website. No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.
 
-##  Further information
+The Form 424C will be forwarded to the FOI section for assessment under either the Privacy or FOI Act.
 
-You can find more information from the Privacy Commissioner's website.  
- **See:** [Privacy Commissioner](http://www.privacy.gov.au/)
+Where our records about you are clearly wrong, they might be amended under the Privacy Act without the need for you to make a request for amendment under the FOI Act. Contact your nearest departmental office if you think there is an obvious error in your records.
 
-If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact the Privacy Officer through the online form.  
- **See:** [Privacy Officer Enquiry Form](https://web.archive.org/contacts/forms/email/eform-privacy-contact.htm?65)
+If we decide we will not change your information, you can ask us to add a note setting out:
 
-Please note the Privacy Officer will only respond to queries on privacy matters. Enquiries about other matters will not be answered.
+  * what information you are concerned about
+  * whether you think the information is incomplete, incorrect, out of date or misleading
+  * your reasons for the claim
+  * any other information you think will correct this.
+
+
+
+As long as your note is not considered to be irrelevant, defamatory or unnecessarily long, we will add it to our information about you. You can also apply directly for us to add to, rather than change, our information about you. There is no fee for this service.
+
+#### Illegal Maritime Arrivals on Bridging Visa E
+
+In respect of illegal maritime arrivals (IMAs), requests to us to change biographic details (name or date of birth) should be made officially in writing ([Form 1022](https://web.archive.org/allforms/pdf/1022.pdf) or [Form 1023](https://web.archive.org/allforms/pdf/1023.pdf)). The form should be sent to our nearest office together with high-resolution scans (600dpi) of the original, genuine and verifiable documentary evidence to support the identity change.
+
+We do not amend an IMA’s claimed identity (principal details) until the person has been granted a substantive visa or undergone an identity assessment. We will instead place an associated statement onto the file (create an alias based on the identity information provided). The person will be advised in writing of the refusal to amend principal details under the Privacy Act within 30 days from the date of the request. If the person is granted a substantive visa they may apply for a new ImmiCard. The new card will have the previous ImmiCard details printed on the back.
+
+IMAs who present original and genuine travel documents, such as passports, as evidence of a biodata error can have their personal information changed at a Compliance counter at their nearest office. A new ImmiCard will be issued with the corrected identity and the previous ImmiCard details printed on the back.
+
+IMAs who apply with Form 424C will be forwarded to the FOI section for assessment under either the Privacy or FOI Act.
+
+#### ImmiCard holders and changes under FOI Act and Privacy
+
+ImmiCards are underpinned by robust policies to effectively manage the claimed identities of undocumented arrivals and any subsequent changes to their biodata. ImmiCards are point-in-time documents representative of the card holder’s claimed identity at the time of their visa grant. If the card holder is granted a substantive visa and a change to their bio details has taken place during the visa process, a new ImmiCard is issued in the new identity with the previous recorded details printed on the back.
+
+Changes under the FOI or Privacy Acts might not result in the reissue of an ImmiCard. ImmiCard holders will need to present their FOI letter or Change of Name/Marriage Certificates in conjunction with the ImmiCard as evidence of the identity change.
+
+### Privacy complaints and enquiries
+
+#### Making a complaint to us
+
+If you believe we have wrongly collected or handled your information, you can:
+
+  * telephone our Global Feedback Unit on 133 177 during business hours
+  * complete an [online feedback form](https://web.archive.org/about/charters/client-services-charter/feedback.htm)
+  * write to:
+
+
+
+> The Manager   
+> Global Feedback Unit  
+> GPO Box 241  
+> Melbourne Vic. 3001  
+> AUSTRALIA
+
+  * contact us directly through any of our offices.
+
+
+
+We are committed to the quick and fair resolution of complaints. Every complaint will be investigated and complainants will be advised of the outcome.
+
+#### Making a complaint to the Office of the Australian Information Commissioner (OAIC)
+
+If you are unsatisfied with our response, you can write to the OAIC. The OAIC can investigate privacy complaints about the protection of personal information, order compensation to be paid where warranted and direct departments to change the way they handle personal information. If you need help lodging a compliant with the OAIC, you can call the OAIC Enquiries Line on 1300 363 992. If calling from outside Australia, you can call: +61 2 9284 9749.
+
+The OAIC can receive privacy complaints through:
+
+  * the online Privacy Complaint form (please refer to the [OAIC’s website](http://www.oaic.gov.au/))
+  * by mail (if a person has concerns about postal security, they might want to consider sending their complaint by registered mail)
+  * by fax
+  * by email (email that is not encrypted can be copied or tracked).
+
+
+
+Contact details for the OAIC are:
+
+> **Email**  
+> [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)   
+> **Fax**  
+>  +61 2 9284 9666  
+>  **Post**  
+>  Sydney Office  
+> GPO Box 5218   
+> Sydney NSW 2001
+
+You can make a complaint directly to the OAIC rather than to us. However, it is likely that the OAIC would recommend that you try to resolve the complaint directly with us in the first instance.
