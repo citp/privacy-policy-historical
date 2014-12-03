@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627211935id_/http%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203214629id_/http%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RedFlagDeals.com
 
@@ -115,7 +115,7 @@ We reserve the right to change and update this Policy, including as may be requi
 The Companies would be pleased to answer any questions you may have about our collection, use and disclosure of your personal information. If you would like more information about our policy, or if you would like to access your personal information file, or if you wish to register a complaint, please contact: 
 
 **Privacy Officer**  
-**Yellow Pages Group**  
+**Yellow Pages**  
 16 Place du Commerce  
 Ile des Coeurs  
 Verdun, Quebec H3E 2A5   
@@ -231,7 +231,7 @@ P.O. Box 2000
 Charlottetown, Prince Edward Island C1A 7N8  
 Telephone: (902) 368-4099  
 Email: [mlsmith@gov.pe.ca](mailto:mlsmith@gov.pe.ca)  
-Website: [www.oipc.pe.ca](https://web.archive.org/web/20140627211935id_/http%3A//www.redflagdeals.com/info/www.oipc.pe.ca)
+Website: [www.oipc.pe.ca](https://web.archive.org/web/20141203214629id_/http%3A//www.redflagdeals.com/info/www.oipc.pe.ca)
 
  **Québec**
 
