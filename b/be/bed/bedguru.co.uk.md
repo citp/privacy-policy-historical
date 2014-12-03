@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bedguru.co.uk privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530222325id_/http%3A//www.bedguru.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedguru.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203031102id_/http%3A//www.bedguru.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy - The Bed Guru, Specialising in a Good Night's Sleep for Over 27 Years. The Bed Guru, Leeds.
 
-The Bed Guru take the privacy of our website users very seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy Statement explains the data processing practices of www.bedguru.co.uk If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by [e-mail](https://web.archive.org/web/20140530222325id_/http%3A//www.bedguru.co.uk/contact-us.php).
+The Bed Guru take the privacy of our website users very seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy Statement explains the data processing practices of www.bedguru.co.uk If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by [e-mail](https://web.archive.org/web/20141203031102id_/http%3A//www.bedguru.co.uk/contact-us.php).
 
 ## Use of Cookies
 
