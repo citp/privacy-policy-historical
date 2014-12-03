@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the boilerroom.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081126id_/https%3A//boilerroom.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boilerroom.tv privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203223403id_/http%3A//boilerroom.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BOILER ROOM
+
+Cookie Policy: By continuing to use our website you agree to our terms of use and cookie policy. 
+
+## Privacy Policy
 
 Boiler Room (UK) Limited (“We”) are committed to protecting and respecting your privacy.
 
@@ -19,6 +23,8 @@ We may collect and process the following data about you:
   * **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide for instance nay information collected about you from third party sites will be governed by their privacy policies and you should read their terms carefully before accessing this content. Boiler Room has no influence over the data provided to it by third parties. All third party sourced data is statistical and does not identify you individually. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
 
+
+Collected data from October 3rd 10pm BST to October 4th 10pm BST is going to be handed over to Flying Lotus.
 
 **Cookies**
 
