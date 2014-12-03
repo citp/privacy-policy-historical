@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mature-qualitysingles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090743id_/http%3A//www.mature-qualitysingles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mature-qualitysingles.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203042125id_/http%3A//www.mature-qualitysingles.com/privacy.php) for the most accurate reproduction.*
 
 # MatureQualitySingles - Privacy Policy
 
