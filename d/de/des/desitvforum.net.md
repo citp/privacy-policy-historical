@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desitvforum.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627180214id_/http%3A//desitvforum.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitvforum.net privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203182136id_/http%3A//desitvforum.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesiTvForum – No.1 Indian Television & Bollywood Portal
 
