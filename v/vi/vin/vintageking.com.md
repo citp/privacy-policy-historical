@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209024623id_/http%3A//vintageking.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203054816id_/http%3A//vintageking.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy Policy - Vintage King Audio
 
