@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214011547id_/http%3A//www.yesstyle.com/en/help/section.html/hsi.754) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203124954id_/http%3A//www.yesstyle.com/en/help/section.html/hsi.754) for the most accurate reproduction.*
 
 # YESSTYLE: Customer Support - Privacy & Security
 
-YesStyle.com is committed to protecting your privacy. We hope that you will take the time to read this privacy policy, which explains what information we collect from you and how we use that information. By using our website (including its subdomains) or by purchasing products or services from us, you agree to be bound by this privacy policy. Please check back frequently, as this privacy policy may change from time to time. 
+YesStyle is committed to protecting your privacy. We hope that you will take the time to read this privacy policy, which explains what information we collect from you and how we use that information. By using our website (including its subdomains) or by purchasing products or services from us, you agree to be bound by this privacy policy. Please check back frequently, as this privacy policy may change from time to time. 
 
 **How We Protect Your Information**
 
@@ -10,40 +10,40 @@ To protect against the loss, misuse, and alteration of the information under our
 
 When you place orders or access your account information, a secure server is employed. All information you input is encrypted by the secure server layer (SSL) before it is sent to us and all the customer data we collect is similarly protected against unauthorised access. 
 
-YesStyle.com cannot be and is not responsible for unauthorised access to information by hackers or others who have obtained such access through illegal measures.
+YesStyle cannot be and is not responsible for unauthorised access to information by hackers or others who have obtained such access through illegal measures.
 
-“Phishing” is a scam designed to steal your personal information. If you receive an e-mail that looks like it might be from YesStyle.com asking for your personal information, do not respond. YesStyle.com would not request your password, user name, credit card information, or other personal information through e-mail.
+“Phishing” is a scam designed to steal your personal information. If you receive an e-mail that looks like it might be from YesStyle asking for your personal information, do not respond. YesStyle would not request your password, user name, credit card information, or other personal information through e-mail.
 
 **How We Share Your Information**
 
-Except as described in this privacy policy, YesStyle.com will not share your personal information with third parties unless you have consented to the disclosure or under the following limited circumstances.
+Except as described in this privacy policy, YesStyle will not share your personal information with third parties unless you have consented to the disclosure or under the following limited circumstances.
 
 _Within Our Corporate Group_
 
-YesStyle.com may share your personal information with other companies in our corporate group. 
+YesStyle may share your personal information with other companies in our corporate group.
 
 _Legal Requirements and Protection of Our Company and Others_
 
-YesStyle.com may also share your personal information for the following limited purposes: 
+YesStyle may also share your personal information for the following limited purposes:
 
-_Business Transfers_
+ _Business Transfers_
 
-If YesStyle.com is acquired by or merges with another company, YesStyle.com may transfer personal information to that company (including transfers made as part of insolvency or bankruptcy proceedings). In such an event, YesStyle.com will notify you before your personal data is transferred if this information would become subject to a materially different privacy policy. 
+If YesStyle is acquired by or merges with another company, YesStyle may transfer personal information to that company (including transfers made as part of insolvency or bankruptcy proceedings). In such an event, YesStyle will notify you before your personal data is transferred if this information would become subject to a materially different privacy policy.
 
 _Service Providers_
 
-YesStyle.com may from time to time share the information we collect from and about you with other third-parties that provide support services to us, or that help us market our products and services. Examples are shipping vendors, billing and refund vendors, payment card processors, promoters and administrators of sweepstakes, contests, giveaways and promotions, and companies that help us improve our product and service offerings and our websites. These companies may need information about you in order to perform their functions. These companies are not authorised to use the information we share with them for any other purpose. In some cases YesStyle.com and third-party service providers may share tracking information, including your IP address, and YesStyle.com may provide information about your order to the website that has referred you to YesStyle.com (and the referral network utilised by such website), to facilitate calculation of any commissions payable by YesStyle.com. 
+YesStyle may from time to time share the information we collect from and about you with other third-parties that provide support services to us, or that help us market our products and services. Examples are shipping vendors, billing and refund vendors, payment card processors, promoters and administrators of sweepstakes, contests, giveaways and promotions, and companies that help us improve our product and service offerings and our websites. These companies may need information about you in order to perform their functions. These companies are not authorised to use the information we share with them for any other purpose. In some cases YesStyle and third-party service providers may share tracking information, including your IP address, and YesStyle may provide information about your order to the website that has referred you to YesStyle (and the referral network utilised by such website), to facilitate calculation of any commissions payable by YesStyle.
 
-YesStyle.com may provide aggregate statistics about our customers, sales, traffic patterns, and related website information to third parties, but these statistics will not include any personally identifying information. A website traffic and user behavior auditing system operated by Google Analytics is being used on this website. Please see the [Google Analytics website](http://www.google.com/analytics) for information about Google Analytics, the Google Analytics auditing system, and the Google Analytics' [privacy policy](http://www.google.com/intl/en_ALL/privacy.html). 
+YesStyle may provide aggregate statistics about our customers, sales, traffic patterns, and related website information to third parties, but these statistics will not include any personally identifying information. A website traffic and user behavior auditing system operated by Google Analytics is being used on this website. Please see the [Google Analytics website](http://www.google.com/analytics) for information about Google Analytics, the Google Analytics auditing system, and the Google Analytics' [privacy policy](http://www.google.com/intl/en_ALL/privacy.html).
 
 The “Settings,” “Privacy” or other features on most browsers will enable you to prevent your browser from accepting new cookies, to have the browser notify you when you receive a new cookie and to disable cookies altogether. If you have set your browser to reject cookies, you can still use our site, although you may need to re-enter information that would normally be obtained from the cookie.  
 
 
 _Third-Party Cookies  
 _  
-YesStyle.com allows third parties that provide support services to us, or that help us market our products and services, to collect certain anonymous technical information (such as clickstream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, MAC address, cookie and session ID, and IP address) when you visit our website and to use that information to serve ads for YesStyle.com when you visit certain other websites. These third parties typically use a cookie to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, visit the [National Advertising Initiative](http://www.networkadvertising.org/choices/) or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/).
+YesStyle allows third parties that provide support services to us, or that help us market our products and services, to collect certain anonymous technical information (such as clickstream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, MAC address, cookie and session ID, and IP address) when you visit our website and to use that information to serve ads for YesStyle when you visit certain other websites. These third parties typically use a cookie to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, visit the [National Advertising Initiative](http://www.networkadvertising.org/choices/) or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/).
 
-Though YesStyle.com encourages anyone who uses cookies to follow appropriate privacy standards and policies, it is not responsible for cookies placed by third parties. 
+Though YesStyle encourages anyone who uses cookies to follow appropriate privacy standards and policies, it is not responsible for cookies placed by third parties.
 
 **Links to Other Websites**
 
@@ -51,7 +51,7 @@ The YesStyle.com website may have buttons, plugins and log-in interfaces from si
 
 If you click on or input information through certain Links on our website, we may have access to information related to your account with third–party site. This may include your profile information and privacy settings for that site.
 
-While YesStyle.com encourages third parties with Links on our site to follow appropriate privacy standards and policies, we are not responsible for the actions of those parties, the content of their websites or any products or services they may offer.
+While YesStyle encourages third parties with Links on our site to follow appropriate privacy standards and policies, we are not responsible for the actions of those parties, the content of their websites or any products or services they may offer.
 
 **Comments, Reviews, and Other Information**
 
@@ -59,25 +59,25 @@ When using our website you may have opportunities to post or submit comments, re
 
 **Making Changes to Your Information**
 
-You may change your account information on file with YesStyle.com at any time. To do this, simply visit the “Account Management” section of “My Account.” From here, choose “Personal Information,” “Address Book,” and/or “Credit Card Profiles.” Enter the changes to the information as desired, and then click the appropriate button. 
+You may change your account information on file with YesStyle at any time. To do this, simply visit the “Account Management” section of “My Account.” From here, choose “Personal Information,” “Address Book,” and/or “Credit Card Profiles.” Enter the changes to the information as desired, and then click the appropriate button.
 
-You may also change your billing information on file with YesStyle.com at any time. To do this, simply visit the “Account Management” section of “My Account.” From here, choose “Address Book,” and/or “Credit Card Profiles.” Enter the changes to the information as desired, and then click the appropriate button. 
+You may also change your billing information on file with YesStyle at any time. To do this, simply visit the “Account Management” section of “My Account.” From here, choose “Address Book,” and/or “Credit Card Profiles.” Enter the changes to the information as desired, and then click the appropriate button.
 
 **Marketing Preferences**
 
-We may use your information to occasionally notify you about important changes to our website, new YesStyle.com features, special YesStyle.com offers that you may find useful, or offers from companies with whom we have business relationships. We may also contact you if you have entered one of our contests or sweepstakes, or responded to one of our surveys. Choosing not to receive email newsletters or email notifications from us when you enter a contest or sweepstakes will not affect your chances of winning. 
+We may use your information to occasionally notify you about important changes to our website, new YesStyle features, special YesStyle offers that you may find useful, or offers from companies with whom we have business relationships. We may also contact you if you have entered one of our contests or sweepstakes, or responded to one of our surveys. Choosing not to receive email newsletters or email notifications from us when you enter a contest or sweepstakes will not affect your chances of winning.
 
-If you would prefer not to receive email newsletters or email notifications from us (other than email notifications relating to order processing), simply visit the “Site Preferences” section of “My Account.” From here, select “Email Preferences” and indicate which newsletters or email notifications you wish to unsubscribe from, and then click the “Update” button. 
+If you would prefer not to receive email newsletters or email notifications from us (other than email notifications relating to order processing), simply visit the “Site Preferences” section of “My Account.” From here, select “Email Preferences” and indicate which newsletters or email notifications you wish to unsubscribe from, and then click the “Update” button.
 
 **Children's Privacy Online**
 
-At YesStyle.com, we believe that the privacy and safety of children is important. 
+At YesStyle, we believe that the privacy and safety of children is important.
 
 Our website is a general audience site and is not targeted to or intended for use by children. We do not knowingly collect personally identifiable information from children under the age of 13. If we discover that we have inadvertently collected personal identifiable information from children under the age of 13, we will take all reasonable measures to erase such information from our systems and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 13, please contact us at [privacy@yesstyle.com](mailto:privacy@yesstyle.com).
 
 **California Privacy Rights**
 
-If you are a California resident and have an “established business relationship” with YesStyle.com (within the meaning of California law), you are entitled to request certain information regarding our disclosure of specified “personal information” (as defined in California Civil Code Section 1798.83) to third parties for their direct marketing purposes. 
+If you are a California resident and have an “established business relationship” with YesStyle.com (within the meaning of California law), you are entitled to request certain information regarding our disclosure of specified “personal information” (as defined in California Civil Code Section 1798.83) to third parties for their direct marketing purposes.
 
 To request a copy of the information disclosure provided by YesStyle.com pursuant to Section 1798.83 of the California Civil Code, please contact us at [privacy@yesstyle.com](mailto:privacy@yesstyle.com) and enter the following in the subject line of the e-mail:”California Privacy Rights.” Please allow 30 days for a response.
 
@@ -89,11 +89,7 @@ _**If you do not consent to the transfer of your data outside the EU or EEA, you
 _  
 **Changes to this Privacy Policy**
 
-Please check back frequently, as this Privacy Policy may change from time to time. The date of the most recent update to the Privacy Policy will be indicated at the top of this page. In the event of a material change to the Privacy Policy, for a reasonable time after such change we will add “Updated,” “New,” or a similar term near the link to the Privacy Policy on the home page of YesStyle.com and elsewhere, as applicable, throughout our website. 
-
-**English Version Prevails**
-
-If there is any inconsistency or ambiguity between the English version and the Chinese version of this privacy policy, the English version shall prevail. 
+Please check back frequently, as this Privacy Policy may change from time to time. The date of the most recent update to the Privacy Policy will be indicated at the top of this page. In the event of a material change to the Privacy Policy, for a reasonable time after such change we will add “Updated,” “New,” or a similar term near the link to the Privacy Policy on the home page of YesStyle.com and elsewhere, as applicable, throughout our website.
 
 **How to Contact Us**
 
