@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627174411id_/http%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203155241id_/http%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Redbubble
 
@@ -28,4 +28,4 @@ If you require help with using the Redbubble service, our support team may ask y
 
 ## Contact Redbubble
 
-If you have any comments or queries about our privacy policy or the way we collect and use your personal information please [just ask](http://support.redbubble.com/).
+If you have any comments or queries about our privacy policy or the way we collect and use your personal information please [just ask](https://help.redbubble.com/).
