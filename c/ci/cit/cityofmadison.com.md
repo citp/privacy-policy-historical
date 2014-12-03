@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofmadison.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208084516id_/http%3A//www.cityofmadison.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofmadison.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203153004id_/http%3A//www.cityofmadison.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | City of Madison, Wisconsin
 
@@ -19,10 +19,10 @@ As you browse through the City of Madison website, certain statistical informati
 
 
 
-We use this information to help us make the site more useful to our visitors -- to learn about the number of visitors and the types of technology our visitors use. We do not track and record information about individuals and their visits.
+We use this information to help us make the site more useful to our visitors - to learn about the number of visitors and the types of technology our visitors use. We do not track and record information about individuals and their visits.
 
 **Personal Information You Provide**  
-If you choose to provide us with personal information -- such as in email or by completing other forms which you submit through our website - we use this information only to respond to your questions or process the forms to complete the requested transactions. There is no legal requirement that a person provide a name. Providing a name gives some measure of credibility to the information submitted and also gives the City a point of contact if more information is needed. No information is shared with other agencies unless it is required we do so by law. The City of Madison does not collect information for commercial marketing, nor do we sell your information to private companies.
+If you choose to provide us with personal information - such as in email or by completing other forms which you submit through our website - we use this information only to respond to your questions or process the forms to complete the requested transactions. There is no legal requirement that a person provide a name. Providing a name gives some measure of credibility to the information submitted and also gives the City a point of contact if more information is needed. No information is shared with other agencies unless it is required we do so by law. The City of Madison does not collect information for commercial marketing, nor do we sell your information to private companies.
 
 **Protection of Minors**  
-The City of Madison is concerned about protecting the privacy of children. We encourage parents to be involved in their children's Internet explorations. We specifically ask that children get their parents permission before providing any information online -- to this or any other site. Most importantly, when children do provide information through the City of Madison web site, it is only used to enable us to respond to the writer.
+The City of Madison is concerned about protecting the privacy of children. We encourage parents to be involved in their children's Internet explorations. We specifically ask that children get their parents permission before providing any information online - to this or any other site. Most importantly, when children do provide information through the City of Madison web site, it is only used to enable us to respond to the writer.
