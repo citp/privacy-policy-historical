@@ -1,17 +1,22 @@
-<!--The following is the downloaded HTML source of the disruptorbeam.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630062040id_/http%3A//www.disruptorbeam.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the disruptorbeam.com privacy policy that was archived on 2014-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203141350id_/http%3A//www.disruptorbeam.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#"><head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=1100">
   <meta description="Play free online, strategy, roleplaying and MMORPG games like Game of Thrones Ascent.">
   <meta name="google-site-verification" content="KOSlvqPyvi8AvO5Ko_gU8LsgDHcWcsny7U1_G7ghtOQ">
   <meta name="alexaVerifyID" content="gtA8WOgeI4PG_TNpg1FrCVCtffQ">
+
+<!--meta property="og:title" content="About Disruptor Beam" /-->
+<meta property="og:type" content="website">
+<!--meta property="og:image" content="http://www.disruptorbeam.com/assets/uploaded/main/sharelogo.jpg" /-->
+
   
   <title>Privacy Policy | Disruptor Beam</title>
-  <link rel="stylesheet" type="text/css" href="http://www.disruptorbeam.com/?css=global/style.v.1396969621">
+  <link rel="stylesheet" type="text/css" href="https://disruptorbeam.com/?css=global/style.v.1417397896">
   <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="canonical" href="http://www.disruptorbeam.com/privacy">
+  <link rel="canonical" href="https://disruptorbeam.com/privacy">
   <!--[if lt IE 9]><script src="/assets/javascripts/vendor/html5shiv.js"></script><![endif]-->
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="/assets/javascripts/vendor/jquery-1.8.0.min.js"></script>
   <script src="/assets/javascripts/vendor/jquery.cycle.all.js"></script>
@@ -30,9 +35,9 @@
           
             <li><a href="/about">About Us</a></li>
           
-            <li><a href="/news">News</a></li>
+            <li><a href="/news">Blog</a></li>
           
-            <li><a href="/gallery">Gallery</a></li>
+            <li><a href="http://shop.disruptorbeam.com/">Shop</a></li>
           
             <li><a href="/forums">Forums</a></li>
           
@@ -41,6 +46,7 @@
             <li><a href="/games/star-trek-timelines">Star Trek Timelines</a></li>
         
         </ul>
+        <div id="loginbar_dbid"></div>
       </div>
     </header>
 
@@ -198,13 +204,24 @@
             <li><a href="http://support.disruptorbeam.com/">Support</a></li>
         
         </ul>
-        <p>Games built with <a href="/about">Thorium™</a> © 2014 Disruptor Beam Inc.</p>
+        <p>Games built with <a href="/about">Thorium™</a> © 2014 Disruptor Beam Inc.<span class="footersocial"> Follow us: <a id="footerfblink" href="https://www.facebook.com/DisruptorBeam">facebook</a> <a id="footertwitlink" href="https://twitter.com/DisruptorBeam">twitter</a><span></span></span></p>
       </footer>
 
     </div>
 
   </div><!-- /btmcracks -->
 </div><!-- /btmgrad-->
+
+<script type="text/javascript">
+$.ajax({
+   url: 'https://games.disruptorbeam.com/loginbar',
+   dataType: 'html',
+   xhrFields: {
+      withCredentials: true
+   },
+   success: function(result) {$("#loginbar_dbid").html(result);} 
+});
+</script>
 
 <!-- Google Code for Remarketing Tag -->
 <script type="text/javascript">
