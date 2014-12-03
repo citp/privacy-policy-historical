@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardboardconnection.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603114306id_/http%3A//www.cardboardconnection.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardboardconnection.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071044id_/http%3A//www.cardboardconnection.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cardboard Connection
+# Privacy Policy
 
 **What information do we collect?**
 
