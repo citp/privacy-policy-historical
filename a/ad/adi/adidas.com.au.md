@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.com.au privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621073642id_/http%3A//www.adidas.com.au/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.com.au privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203205450id_/http%3A//www.adidas.com.au/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -137,11 +137,11 @@ We take appropriate technical and organisational measures to protect personal in
 
 ## 7\. Protection of children’s personal information
 
-The protection of children’s personal information is extremely important. adidas feels that it has a responsibility to protect the privacy of children and has no intention of collecting the personal information of children under the age of 14. We also encourage parents and other guardians to surf the Internet together with their children and participate with their children in the multitude of activities offered by the wide range of websites on the World Wide Web (www).
+The protection of children’s personal information is extremely important. adidas feels that it has a responsibility to protect the privacy of children and has no intention of collecting the personal information of children under the age of 15. We also encourage parents and other guardians to surf the Internet together with their children and participate with their children in the multitude of activities offered by the wide range of websites on the World Wide Web (www).
 
-If a child under the age of 14 attempts to register himself or herself, he or she is initially asked to provide the information as described in the above section entitled “What personal information is collected”. In addition, the data submitted by and collected about the child during the course of his or her visit (e.g. via cookies) may be used as described above.
+If a child under the age of 15 attempts to register himself or herself, he or she is initially asked to provide the information as described in the above section entitled “What personal information is collected”. In addition, the data submitted by and collected about the child during the course of his or her visit (e.g. via cookies) may be used as described above.
 
-If a child under the age of 14 attempts to submit a registration application, this will be rejected with the notification that applications from children under the age of 14 are not accepted. For that reason, we ask parents and other guardians to check on and monitor their children’s Internet usage in order to protect them.
+If a child under the age of 15 attempts to submit a registration application, this will be rejected with the notification that applications from children under the age of 15 are not accepted. For that reason, we ask parents and other guardians to check on and monitor their children’s Internet usage in order to protect them.
 
 ## 8\. Social Networks
 
@@ -209,7 +209,7 @@ If you have any questions about your privacy or our privacy policy you are welco
 
 **Australia**
 
-E-Mail: [click here](http://adidas-group-au.custhelp.com/)
+E-Mail: [click here](https://adidas-group-au.custhelp.com/app/au/ask)
 
 Call: Customer Service **1800 801 891 (freephone)**
 
