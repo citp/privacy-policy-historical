@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the axisrooms.com privacy policy that was archived on 2014-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140514024955id_/http%3A//www.axisrooms.com/common/privacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the axisrooms.com privacy policy that was archived on 2014-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203142044id_/http%3A//www.axisrooms.com/public/privacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 		<meta charset="utf-8">	
@@ -9,7 +9,7 @@
 		<meta content="" name="author">
 		
 		<!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="/static/hexassets/plugins/jquery-1.10.2.min.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/static/hexassets/plugins/jquery-1.10.2.min.js" type="text/javascript"></script>
 <script src="/static/hexassets/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
 
 <!-- BEGIN CORE PLUGINS -->
@@ -36,10 +36,10 @@
 <!-- END GLOBAL MANDATORY STYLES -->
 
 <link type="text/css" rel="stylesheet" href="/static/style.css">
+<link type="text/css" rel="stylesheet" href="/static/styleicons2.css">
+<link href="/static/styles/fonticons1.css" rel="stylesheet" type="text/css">
 <link href="/static/styles/hotel-fonts.css" rel="stylesheet" type="text/css">
 
-<meta name="Keywords" content="Booking engine | Hotel Booking engine | Hotel Distribution Management | Hotel Channel Management | Channel Manager | Channel Manager Hotel | Hotel Channel Manager | Hotel Channel Manager India | Hotel website with content management | B2B Hotel India | SME &amp; Corporate Employee Hotel Ticketing and Reporting | SME &amp; Corporate Hotel Booking Platform |">
-<meta name="Description" content="AxisRooms channel manager is a integrated technology platform offering two way connectivity to OTA and booking engine platform with great user experience.">
 
 		
 		<script type="text/javascript" src="/static/javascript/validation/jquery.validate.js"></script>
@@ -64,10 +64,13 @@
 
 
 
+
 <script src="/static/javascript/headerSlider/slider.js"></script>
 
 <link rel="stylesheet" type="text/css" href="/static/styles/slider_unlock.css">
+<script type="text/javascript" src="/static/javascript/validation/jquery.validate.js"></script>
 <script type="text/javascript" src="/static/javascript/slider_unlock.js"></script>
+<script src="/static/javascript/bootstrap-dialog.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 function lettersOnly(evt) {
     evt = (evt) ? evt : event;
@@ -85,42 +88,7 @@ function lettersOnly(evt) {
 </script>
 <script type="text/javascript">
 	$(document).ready(function() {
-		$("#interestForm").validate({
-			rules: {
-				custName: {
-					required: true,
-					minlength: 2
-					
-				},
-				custEmail: {
-					required: true,
-					email: true
-				},
-				custMobile: {
-					required: true,
-					minlength: 2,
-					number: true
-				},
-			},
-			messages: {
-				custName: {
-					required: "Please enter Hotel/Chain name",
-					minlength: "Hotel/Chain name must be atleast 2 characters long."
-				},
-				custEmail: {
-					required: "Please enter email ID",
-					minlength: "name must be atleast 2 characters long."
-				},
-				custMobile: {
-					required: "Please enter Mobile Number",
-					minlength: "name must be atleast 2 characters long.",
-					number: "Please enter only numbers"
-				},
-			},
-			submitHandler: function(){
-				document.signUpForm.submit();
-			}
-		});
+		
 	});
 	</script>
 
@@ -151,256 +119,13 @@ function lettersOnly(evt) {
 
 
 		<style type="text/css">
-			#mainHeader {
-				background: url("/static/images/home/background6.jpg") repeat-x scroll center top #FAFAFA !important;
-				height: 86px;
-			}
-			
-			.headerLogo {
-				float: left;
-				font-size: 30px;
-				font-weight: bold;
-				margin-left: 6%;
-				padding: 5px;
-			}
-		
-			.uiButton{
-				background-color:#5FA048 !important;
-				background-image:none !important;
-				font-weight:bold !important;
-				color:#fff;
-			}
-			.headerLinks{
-				font-size:18px;
-				font-weight:bold;
-				font-family:mySecond;
-			}
-			.headerLinks a:hover{
-				text-decoration:none !important;
-			}
-			#mainContent {
-				margin-top: 52px !important;
-				padding: 0px !important;
-				position: relative !important;
-				background-color: #FFFFFF !important;
-				width: 100% !important;
-				font-family: 'PT Sans','Helvetica Nueue',Helvetica,Arial;
-			}
-			#subMenuDiv{
-				width: 150px;
-				color: #E4E4E4;
-				position: absolute;
-				top: 35px;
-			}
-			#subMenuContentDiv{
-			    border-radius: 6px 6px 6px 6px;
-			    font-weight: normal;
-			    padding: 10px;
-			    background: none repeat scroll 0 0 #E4E4E4;
-			    color: #333333;
-			    line-height: 2em;
-			    font-size: 13px;
-			}
-			#subMenuContentDiv a,a:hover,a:focus{
-				color: #333333;
-				text-decoration: none;
-			}
-			#subMenuContentDiv ul {
-				list-style: none;
-				padding: 0;
-				margin: 0;
-			}
-			a.hasSubMenu{
-				cursor: default;
-			}
-			a.hasSubMenu:hover {
-				cursor: default;
-			}
-			a.hasSubMenu:visited {
-				cursor: default;
-			}
-			.track {
-			-moz-user-select: none;
-			-webkit-user-select: none;
-			height: 35px;
-			background-color: #000;
-			border-radius: 10px;
-			}
-			.track-left {
-			float: left;
-			height: 35px;
-			width: 10px;
-			}
-			.track-right {
-			width: 10px;
-			height: 35px;
-			float: right;
-			}
-			.track-center {
-			height: 35px;
-			margin: 0px 10px;
-			}
-			.track-message {
-			color: white;
-			font-size: 16px;
-			padding: 5px 18px;
-			text-align: right;
-			}
-			#getInTouchFormDiv .handle {
-			line-height: 9px;
-			display: block;
-			}
-			.handle {
-			border-radius: 8px 8px 8px 8px;
-			bottom: 45px;
-			cursor: pointer;
-			height: 31px;
-			margin: 12px 2px 3px;
-			padding: 10px;
-			position: relative;
-			width: 60px;
-			}
-			.modal-footer {
-			padding: 19px 20px 20px;
-			margin-top: 15px;
-			text-align: right;
-			border-top: 1px solid #e5e5e5;
-			}
-			
-			#subMenuDiv {
-				width: 150px;
-				color: #E4E4E4;
-				position: absolute;
-				top: 35px;
-			}
-			
-			#subMenuContentDiv {
-				border-radius: 6px 6px 6px 6px;
-				font-weight: normal;
-				padding: 10px;
-				background: none repeat scroll 0 0 #E4E4E4;
-				color: #333333;
-				line-height: 2em;
-				font-size: 13px;
-			}
-			
-			
-			#subMenuContentDiv a,a:hover,a:focus {
-				color: #333333;
-				text-decoration: none;
-			}
-			
-			#subMenuContentDiv a:hover {
-				
-			}
-			
-			#subMenuContentDiv ul{
-				list-style: none;
-				padding: 0;
-				margin: 0;
-			}
-			
-			a.hasSubMenu {
-				cursor: default;
-			}
-			
-			a.hasSubMenu:hover {
-				cursor: default;
-			}
-			
-			a.hasSubMenu:visited {
-				cursor: default;
-			}
-			
-			.track {
-				-moz-user-select: none;
-				-webkit-user-select: none;
-				height: 35px;
-				background-color: #000;
-				border-radius: 10px;
-			}
-			
-			.track-left {
-				float: left;
-				height: 35px;
-				width: 10px;
-			}
-			
-			.track-right {
-				width: 10px;
-				height: 35px;
-				float: right;
-			}
-			
-			.track-center {
-				height: 35px;
-				margin: 0px 10px;
-			}
-			
-			.track-message {
-				color: white;
-				font-size: 16px;
-				padding: 5px 18px;
-				text-align: right;
-			}
-			
-			#getInTouchFormDiv .handle {
-				line-height: 9px;
-				display: block;
-			}
-			
-			.handle {
-				border-radius: 8px 8px 8px 8px;
-				bottom: 45px;
-				cursor: pointer;
-				height: 31px;
-				margin: 12px 2px 3px;
-				padding: 10px;
-				position: relative;
-				width: 60px;
-			}
-			
-			.modal-footer {
-				padding: 19px 20px 20px;
-				margin-top: 15px;
-				text-align: right;
-				border-top: 1px solid #e5e5e5;
-			}
-			
-			#getInTouchFormDiv .modal-body {
-				padding-bottom: 0px;
-			}
-			
-			#getInTouchFormDiv .form-group:last-child,#logInFormDiv .form-group:last-child {
-				margin-bottom: 0;
-			}
-			
-			.modal-header-warning {
-			    background-color: #F4E7CB;
-			    border-bottom: 1px solid #E5E5E5;
-			    border-radius: 4px 4px 0 0;
-			}
-			
-			.modal-header-messages {
-			    background-color: #CBDAF2;
-			    border-bottom: 1px solid #E5E5E5;
-			    border-radius: 4px 4px 0 0;
-			}
-			
-			#errorMessagesList{
-				color: #BF9603;			
-			}
-			
-			#infoMessagesList {
-			    color: #0045AD;
-			}
 			
 		</style>
 		<script type="text/javascript">
 			$(function(){
 			   var s = new Slider('slider1', {
-				message: "Slide to Submit",
-				handler: function(){
+					message: "Slide to Submit",
+					handler: function(){
 						submitInterestForm();
 					}
 			   });
@@ -446,69 +171,7 @@ function lettersOnly(evt) {
 					$('#uiMessages').modal('show');
 				}
 			});
-			function showLogInForm(){
-				//$.colorbox({width:"40%", inline:true, href:"#logInFormDiv"});
-			}
 			
-			function showEnquiryForm(){
-				//$.colorbox({width:"40%", inline:true, href:"#getInTouchFormDiv"});
-			}
-
-			function submitInterestForm(){
-				var custNameVal = $("form#interestForm input[name="+"custName"+"]").val();
-				if(custNameVal.length==0){
-					$('form#interestForm input[name="custName"]').parent().addClass('has-error');
-					$.msgbox('Please enter your name.', {type: "error"});
-					return false;
-				} else{
-					$('form#interestForm input[name="custName"]').parent().removeClass('has-error');
-				}
-				var custEmailVal = $("form#interestForm input[name="+"custEmail"+"]").val();
-				var atpos=custEmailVal.indexOf("@");
-				var dotpos=custEmailVal.lastIndexOf(".");
-				if (atpos<1 || dotpos<atpos+2 || dotpos+2>=custEmailVal.length ||custEmailVal.length == 0)
-				  {
-					$('form#interestForm input[name="custEmail"]').parent().addClass('has-error');
-					$.msgbox('Please enter valid email.', {type: "error"});
-				  return false;
-				  }
-				 else{
-						$('form#interestForm input[name="custEmail"]').parent().removeClass('has-error');
-					}
-				if(custEmailVal.length == 0){
-					$('form#interestForm input[name="custEmail"]').parent().addClass('has-error');
-					$.msgbox('Please enter your email.', {type: "error"});
-					return false;
-				}
-				var custMobileVal = $("form#interestForm input[name="+"custMobile"+"]").val();
-				if(custMobileVal.length == 0){
-					$('form#interestForm input[name="custMobile"]').parent().addClass('has-error');
-					$.msgbox('Please enter your mobile.', {type: "error"});
-					return false;
-				}
-				 else{
-						$('form#interestForm input[name="custMobile"]').parent().removeClass('has-error');
-					}
-				var commentVal = $("form#interestForm input[name="+"comment"+"]").val();
-				var isArc = $("form#interestForm input[name="+"prod_arc"+"]").is(':checked')? "true":"false";
-				var isArb = $("form#interestForm input[name="+"prod_arb"+"]").is(':checked')? "true":"false";
-				$.ajax({
-					url : 'http://www.axisrooms.com/public/submitInterest.html',
-					data: {custName: custNameVal, custEmail: custEmailVal, custMobile: custMobileVal,comment:commentVal, prod_arc: isArc, prod_arb: isArb},
-					dataType : 'json',
-					success : function(data) {
-						$('#getInTouchFormDiv .modal-header .close').trigger('click');
-						$('.has-error').addClass('has-error');
-						$.msgbox('Your message has been sent. We will reach you asap. Working hours: 9:00 AM IST - 6:00 PM IST', {type: "info"});
-					},
-					error: function(xhr,desc,err){
-						console.log(xhr);
-						console.log("Desc: "+desc+"\nErr:"+err);
-					}
-				});
-				
-				
-			}
 			function showName(){
 				if(document.loginForm.user_type.value==7){
 					document.getElementById('nameTR').style.display='';
@@ -528,25 +191,25 @@ function lettersOnly(evt) {
 					<span class="icon-bar"></span>
 				</button>
 				
-				<a class="navbar-brand" href="http://www.axisrooms.com/public/home.html"></a>
+				<a class="navbar-brand" href="/"></a>
 				
 			</div>
 			
 			<div class="collapse navbar-collapse">
 			
 			
-				<ul class="nav navbar-nav pull-right">
+				<ul class="nav navbar-nav navbar-right">
 					<li><a href="http://www.axisrooms.com/public/home.html">Home</a></li>
-					<li><a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown">Products  <i class="fa fa-angle-down"></i></a>
+					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products  <i class="fa fa-angle-down"></i></a>
 						<ul class="dropdown-menu pr-list-menu">
-							<li><a href="#cm-row">Channel Manager</a></li>
-							<li><a href="#be-row">Booking Engine</a></li>
-							<li><a href="#private-row">Private</a></li>
+							<li><a href="http://www.axisrooms.com/public/hotel-channel-manager.html">Hotel Channel Manager</a></li>
+							<li><a href="http://www.axisrooms.com/public/hotel-booking-engine.html">Hotel Booking Engine</a></li>
+							<li><a href="http://www.axisrooms.com/public/private-distribution.html">Private Distribution</a></li>
 						</ul>
-					</li>
-					<li><a href="/public/pricing.html">Pricing</a></li>
+					</li><li><a href="/public/pricing.html">Pricing</a></li>
 					<li><a href="http://axisroomsblog.wordpress.com/" target="blank">Blog</a></li>
 					<li><a href="javascript:;" data-target="#logInFormDiv" data-toggle="modal">Sign In</a></li>
+					<li style="display:none;"><a href="javascript:;" data-target="#getInTouchFormDiv" data-toggle="modal">Enquire Now</a></li>
 				</ul>
 				<div id="subMenuDiv" style="display: none;">
 					<div style="font-size: 30px; line-height: 20px; text-align: center; text-shadow: 0 0px 0px rgba(0, 0, 0, 0.6);">
@@ -640,55 +303,51 @@ function lettersOnly(evt) {
 		</div>
 		<!-- /.modal -->
 
+		<span class="enquire-now-button" data-toggle="modal" data-target="#getInTouchFormDiv"><i class="fa fa-phone enq-ico"></i> <span class="enq-txt">Enquire Now</span></span>
+
 		<div class="modal fade" id="getInTouchFormDiv" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-						<h4 class="modal-title" id="myModalLabel">Get In Touch</h4>
+						<h4 class="modal-title" id="myModalLabel">Enquire Now</h4>
 					</div>
-					<div class="modal-body">
-						<form class="labelFix form-horizontal" id="interestForm" name="interestForm" action="http://www.axisrooms.com/public/submitInterest.html">
+					<div class="modal-body">					 
+						<form class="labelFix form-horizontal" id="interestForm" name="interestForm" method="post">
 							<div class="form-group">
 								<label class="col-sm-4 control-label">Name</label>
 								<div class="col-sm-6">
-									<input class="form-control" type="text" name="custName" onkeypress="return lettersOnly(event)" value="">
+									<input class="form-control input-sm" type="text" name="custName" onkeypress="return lettersOnly(event)" value="" required="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="col-sm-4 control-label">Company Name / Hotel Name</label>
+								<div class="col-sm-6">
+									<input class="form-control input-sm" type="text" name="hotel_name" onkeypress="return lettersOnly(event)" value="" required="">
 								</div>
 							</div>
 							<div class="form-group">
 								<label class="col-sm-4 control-label">Email</label>
 								<div class="col-sm-6">
-									<input class="form-control" type="text" name="custEmail" value="">
+									<input class="form-control input-sm" type="text" name="custEmail" value="" required="">
 								</div>
 							</div>
 							<div class="form-group">
 								<label class="col-sm-4 control-label">Mobile</label>
 								<div class="col-sm-6">
-									<input class="form-control" type="text" name="custMobile" value="">
+									<input class="form-control input-sm" type="text" name="custMobile" value="" required="">
 								</div>
 							</div>
+							
 							<div class="form-group">
-								<label class="col-sm-4 control-label">Products</label>
+								<label class="col-sm-4 control-label">Message</label>
 								<div class="col-sm-6">
-									<div class="checkbox">
-										<label> <input type="checkbox" name="prod_arb">
-											ARBook
-										</label>
-									</div>
-									<div class="checkbox">
-										<label> <input type="checkbox" name="prod_arc">
-											ARConnect
-										</label>
-									</div>
-									<div class="checkbox">
-										<label> <input type="checkbox" name="prod_arc">
-											Corporate and SME Tools
-										</label>
-									</div>
+									<textarea class="form-control input-sm" name="comment" placeholder="Write something more about you." required=""></textarea>
 								</div>
 							</div>
-							<div class="modal-footer">
-								<div id="slider1" class="slider"><div class="track"><div class="track-left"></div><div class="track-right"></div><div class="track-center"><div class="track-message">Slide to Submit</div></div><div class="handle btn btn-primary icon-arrow-right" style="background-position: 0px 0px;"></div></div></div>
+							<div class="modal-footer tac">
+<!-- 								 <div id="slider1" class="slider col-md-6 col-md-offset-3"><div class="track"><div class="track-left"></div><div class="track-right"></div><div class="track-center"><div class="track-message">Slide to Submit</div></div><div class="handle btn btn-primary icon-arrow-right" style="background-position: 0px 0px;"></div></div></div> -->
+								<button type="submit" class="btn btn-success enq-submit">Submit</button>
 							</div>
 						</form>
 					</div>
@@ -698,6 +357,119 @@ function lettersOnly(evt) {
 		
 		
 
+<script>
+
+	$.validator.setDefaults({
+	    submitHandler: function() {		     
+	    	enquieryForm();
+	    }
+	});
+
+	function enquieryForm() {
+			var custNameVal = $("form#interestForm input[name="+"custName"+"]").val();
+			var hotelNameVal = $("form#interestForm input[name="+"hotel_name"+"]").val();
+            var custEmailVal = $("form#interestForm input[name="+"custEmail"+"]").val();
+            var custMobileVal = $("form#interestForm input[name="+"custMobile"+"]").val();			 
+			var isArc =  $('#arConnect').val();
+			var isArb = $('#arBook').val();
+			var isSme = $('#arSme').val();
+            var isHex = $('#hex_prod_enq').val();
+    		var hexProductTypeVal = $('#hexprodenq_type').val();			  
+			var commentVal = $("form#interestForm textarea[name="+"comment"+"]").val();			 
+			$.ajax({		
+				url : 'http://www.axisrooms.com/public/submitInterest.html',
+				data: {custName: custNameVal,hotel_name: hotelNameVal, custEmail: custEmailVal, custMobile: custMobileVal,comment:commentVal, prod_arc: isArc, prod_arb: isArb, prod_hex: isHex, prod_sme:isSme,prod_hex_enquiry_type:hexProductTypeVal},  
+				dataType : 'json',
+				success : function(data) {
+					$('#getInTouchFormDiv .modal-header .close').trigger('click');
+					$('.has-error').addClass('has-error');					 
+					BootstrapDialog.alert('Thank You for your enquiry. Our representative will get in touch with you shortly.');
+					$('#interestForm input, #interestForm textarea').val('');
+					$('#interestForm input[type="checkbox"]').attr('checked', false);
+					$('#interestForm .hex_prod_enq_type').hide();
+				},
+				error: function(xhr,desc,err){
+					console.log(xhr);
+					console.log("Desc: "+desc+"\nErr:"+err);
+				}
+			});
+		}
+	
+	$().ready(function() {
+		// validate the comment form when it is submitted
+		$("#interestForm").validate({
+			rules: {
+				custName: {
+					required: true,
+					minlength: 3
+				},
+				hotelorCompanyName: {
+					required: true,
+					minlength: 2
+				},
+				custEmail: {
+					required: true,
+					email: true
+				},
+				custMobile: {
+					required: true,
+					number: true,
+					minlength: 10,
+					maxlength: 12
+				},
+				prod_name: {
+					required: true,
+					minlength: 1
+				},
+				hex_prod_enq_type: {
+					required: "#hex_prod_enq:checked",
+				},
+				custMessage: {
+					required: true,
+					minlength: 50
+				}
+			},
+			messages: {
+				custName: {
+					required: "Please enter Contact Name",
+					minlength: "Contact Name must consist of at least 3 characters"
+				},
+				hotelorCompanyName: {
+					required: "Please enter Hotel / Company Name",
+					minlength: "Hotel / Company Name must consist of at least 2 characters"
+				},
+				custEmail: "Please enter a valid email address",
+				prod_name: "Please select a product.",
+				password: {
+					required: "Please provide a password",
+					minlength: "Your password must be at least 5 characters long"
+				},
+				confirm_password: {
+					required: "Please provide a password",
+					minlength: "Your password must be at least 5 characters long",
+					equalTo: "Please enter the same password as above"
+				}
+			},
+			errorPlacement: function (error, element) { // render error placement for each input type
+				if (element.parents('.prod_enq_type').size() > 0) {
+                    error.appendTo(element.parents('.prod_enq_type').attr("data-error-container"));
+				} else {
+                    error.insertAfter(element); // for other inputs, just perform default behavior
+                }
+			 }
+		});
+	});
+
+	$(function(){
+		$('#hex_prod_enq').on('click', function(){
+			if($('#hex_prod_enq').is(':checked')){
+				$(this).closest('.prod_enq_type').next('.hex_prod_enq_type').slideDown('fast');
+			} else{
+				$(this).closest('.prod_enq_type').next('.hex_prod_enq_type').slideUp('fast');
+			}
+		});
+	});
+</script>
 
 		<div class="privacypolicy-page-header">
 			<div class="container">
@@ -940,9 +712,9 @@ function lettersOnly(evt) {
 			<div style="float: left;width: 11%;">
 				<h3>Products</h3>
 				<ul>
-					<li><a href="http://www.axisrooms.com/public/channelManager.html">AR Connect</a></li>
-					<li><a href="http://www.axisrooms.com/public/bookingEngine.html">AR Book</a></li>
-					<li><a href="http://www.axisrooms.com/public/corporateSME.html">AR Corp</a></li>
+					<li><a href="http://www.axisrooms.com/public/hotel-channel-manager.html">AR Connect</a></li>
+					<li><a href="http://www.axisrooms.com/public/hotel-booking-engine.html">AR Book</a></li>
+					<li><a href="http://www.axisrooms.com/public/private-distribution.html">AR Corp</a></li>
 				</ul>
 			</div>
 			<div style="float: left;width: 20%;">
@@ -962,7 +734,7 @@ function lettersOnly(evt) {
 				<h3>Worldwide Contacts</h3>
 				<p style="line-height: 17px;">	India<br>
 					<a href="mailto:sales@axisrooms.com">sales@axisrooms.com</a><br>
-					<a href="#">P: +91 80 22444501</a><br>
+					<a href="#">P: +91 80 22444501/02</a><br>
 					UK<br>
 					<a href="mailto:sales@axisrooms.co.uk"> sales@axisrooms.co.uk</a>
 					<br><a href="#">P: +44 23 8000 0485</a><br>
@@ -997,6 +769,7 @@ function lettersOnly(evt) {
 		</div>
 	</div>
 
+<a href="https://plus.google.com/+AxisroomsDistribution/" class="gplus-review" target="_blank"></a>
 
 
 		
@@ -1008,63 +781,75 @@ function lettersOnly(evt) {
 <div class="support-sales-wrapper">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4">
+			<div class="col-md-4 spslrow">
 				<div class="row">
-					<div class="col-md-3">
-						<i class="icon-support ss-icons"></i>
+					<div class="col-md-3 col-xs-3">
+						<img src="/static/images/Support.png" class="img-responsive">
 					</div>
-					<div class="col-md-9">
+					<div class="col-md-9 col-xs-9">
 						<h4>Support</h4>
 						<i class="fa fa-envelope-o"></i> <a href="mailto:support@axisrooms.com">support@axisrooms.com</a>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-4 spslrow">
 				<div class="row">
-					<div class="col-md-3">
-						<i class="icon-console ss-icons"></i>
+					<div class="col-md-3 col-xs-3">
+						<img src="/static/images/Technical.png" class="img-responsive">
 					</div>
-					<div class="col-md-9">
+					<div class="col-md-9 col-xs-9">
 						<h4>Integration &amp; Technical</h4>
 						<i class="fa fa-envelope-o"></i> <a href="mailto:core@axisrooms.com">core@axisrooms.com</a>
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="row" style="padding-top:20px;">
 			<div class="col-md-4">
 				<div class="row">
-					<div class="col-md-3">
-						<i class="icon-stats ss-icons"></i>
+					<div class="col-md-3 col-xs-3">
+						<img src="/static/images/Sales.png" class="img-responsive">
 					</div>
-					<div class="col-md-9">
+					<div class="col-md-9 col-xs-9">
 						<h4>India Sales</h4>
-						<i class="fa fa-envelope-o"></i> <a href="mailto:sales@axisrooms.com">support@axisrooms.com</a>
-						<br><i class="fa fa-phone"></i> +91 80 22444501
+						<i class="fa fa-envelope-o"></i> <a href="mailto:sales@axisrooms.com">sales@axisrooms.com</a>
+						<br><i class="fa fa-phone"></i> +91 80 22444501/02
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+		</div>
+		<div class="row nxt-spslrow">
+			<div class="col-md-4 spslrow">
 				<div class="row">
-					<div class="col-md-3">
-						<i class="icon-stats ss-icons"></i>
+					<div class="col-md-3 col-xs-3">
+						<img src="/static/images/Sales.png" class="img-responsive">
 					</div>
-					<div class="col-md-9">
+					<div class="col-md-9 col-xs-9">
 						<h4>UK Sales</h4>
 						<i class="fa fa-envelope-o"></i> <a href="mailto:sales@axisrooms.co.uk">sales@axisrooms.co.uk</a>
 						<br><i class="fa fa-phone"></i> +44 23 8000 0485
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-4 spslrow">
 				<div class="row">
-					<div class="col-md-3">
-						<i class="icon-stats ss-icons"></i>
+					<div class="col-md-3 col-xs-3">
+						<img src="/static/images/Sales.png" class="img-responsive">
 					</div>
-					<div class="col-md-9">
+					<div class="col-md-9 col-xs-9">
 						<h4>Thailand Sales</h4>
 						<i class="fa fa-envelope-o"></i> <a href="mailto:sales@axisrooms.asia">sales@axisrooms.asia</a>
 						<br><i class="fa fa-phone"></i> +66-920-75-4094
+					</div>
+				</div>
+			</div>
+						<div class="col-md-4 spslrow">
+				<div class="row">
+					<div class="col-md-3 col-xs-3">
+						<img src="/static/images/Sales.png" class="img-responsive">
+					</div>
+					<div class="col-md-9 col-xs-9">
+						<h4>Distribution Partner - Middle East</h4>
+						<i class="fa fa-envelope-o"></i> <a href="mailto:core@axisrooms.com">shyam@axistech.me</a>
+						<br><i class="fa fa-phone"></i> +971 50 1866702
 					</div>
 				</div>
 			</div>
@@ -1077,36 +862,50 @@ function lettersOnly(evt) {
 		<div class="row">
 			<div class="col-md-4">
 				<ul class="footer-links-main">
-					<li><a href="/public/aboutUs.html">About</a></li>
-					<li><a href="/public/careers.html">Careers</a></li>
-					<li><a href="/public/contactUs.html">Contact Us</a></li>
-					<li><a href="/public/termsOfUse.html">Terms of Use</a></li>
-					<li><a href="/public/privacyPolicy.html">Privacy Policy</a></li>
-				</ul>
-				<h4>KEEP IN TOUCH</h4>
-				<ul class="keep-in-touch">
-					<li><a href="https://www.facebook.com/pages/AxisRooms/114079821985287"><i class="fa fa-facebook-square fb"></i></a></li>
-					<li><a href="https://twitter.com/AxisRooms"><i class="fa fa-twitter-square tw"></i></a></li>
-					<li><a href="https://plus.google.com/110457199737676450485/about"><i class="fa fa-google-plus-square gp"></i></a></li>
-					<li><a href="http://www.youtube.com/axisrooms"><i class="fa fa-youtube-square yt"></i></a></li>
+					<li><a href="http://www.axisrooms.com/public/TripConnect-Hotel-Reservation-System.html">Hotel Reservation System</a></li>
+					<li><a href="http://www.axisrooms.com/public/Private-Distribution-for-hotels.html">Private Distribution for Hotels </a></li>
+					<li><a href="http://www.axisrooms.com/public/online-hotel-reservation-software.html">Online Hotel Reservation Software</a></li>
+					<li><a href="http://www.axisrooms.com/public/inventory-Management-for-hotels.html">Inventory management for hotels </a></li>
+					<li><a href="http://www.axisrooms.com/public/hexMobile.html">HEX Android App</a></li>
+					<li><a href="http://www.axisrooms.com/common/supplierRegister.html">Register Supplier</a></li>
 				</ul>
 				
 				© 2014 Axisrooms
 				
 			</div>
 			<div class="col-md-4">
-				<div class="twitter-box-ar">
-					<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/AxisRooms" data-widget-id="451274667039272960">Tweets by @AxisRooms</a>
-					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-				</div>
+				<h4>KEEP IN TOUCH</h4>
+				<ul class="keep-in-touch">
+					<li><a target="blank" href="https://www.facebook.com/pages/AxisRooms/114079821985287"><i class="icon-facebook-3 fb"></i></a></li>
+					<li><a target="blank" href="https://twitter.com/AxisRooms"><i class="icon-twitter-3 tw"></i></a></li>
+					<li><a target="blank" href="https://plus.google.com/108460885723096206516/about"><i class="icon-google-plus gp"></i></a></li>
+					<li><a target="blank" href="http://www.youtube.com/axisrooms"><i class="icon-youtube yt"></i></a></li>
+				</ul>
 			</div>
 			<div class="col-md-4">
-				<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FAxisRooms%2F114079821985287&amp;width&amp;height=300&amp;colorscheme=dark&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:300px;" allowtransparency="true"></iframe>
+				<ul class="footer-links-main">
+					<li><a href="http://www.axisrooms.com/public/ourPartners.html">Our Partners</a></li>
+					<li><a href="http://www.axisrooms.com/public/aboutUs.html">About</a></li>
+					<li><a href="http://www.axisrooms.com/public/careers.html">Careers</a></li>
+					<li><a href="http://www.axisrooms.com/public/contactUs.html">Contact Us</a></li>
+					<li><a href="http://www.axisrooms.com/public/termsOfUse.html">Terms of Use</a></li>
+					<li><a href="http://www.axisrooms.com/public/privacyPolicy.html">Privacy Policy</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>
 </footer>
 <!-- END FOOTER -->
+
+<div class="small-text-footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<p>AxisRooms is a world leader in distribution Management system, offering the best all-round distribution solutions to hotels to increase their occupancy rate. AxisRooms product line includes Online Hotel Reservation Software (Hotel Booking Engine), Hotel Online Distribution System (Hotel Channel Manager) and Private Distribution Solutions. AxisRooms hotel reservation system, inventory management system for hotels and private distribution helps hotels to raise their bar of their property's occupancy rate. With the help of bespoke technology, the system is made such that inventory distribution for hotels was never this easy. AxisRooms has been eminent in making tedious hotel distribution much more competent for the hoteliers by continuously delivering impeccable technology solutions. AxisRooms partners list include some of the top names like TripAdvisor, Google Hotel Finder, HolidayIQ etc. and the distribution partners list ranging from global to regional players like Expedia, Booking.com, Agoda, HRS, Makemytrip.com, Clear Trip, Goibibo, Travelguru, Yatra.com to name a few. For a better reach &amp; accessibility, AxisRooms launched world's first mobile app for distribution called HEX, HEX will serve hoteliers to manage online &amp; offline distribution on the go. AxisRooms offers the best distribution products with a first-rate support in a very competitive price across the industry vertical.</p>
+			</div>
+		</div>
+	</div>
+</div>
 
 
 
