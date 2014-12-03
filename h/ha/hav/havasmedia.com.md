@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the havasmedia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626032325id_/http%3A//www.havasmedia.com/utilites/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the havasmedia.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203172345id_/http%3A//www.havasmedia.com/utilites/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Havas Media
 
-##  26 June 2014
+##  03 December 2014
 
 ## PRIVACY AND PERSONAL DATA  
 
