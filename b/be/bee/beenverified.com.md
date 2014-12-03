@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213211108id_/http%3A//www.beenverified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203215305id_/https%3A//www.beenverified.com/privacy) for the most accurate reproduction.*
 
-# BeenVerified
+# Privacy | BeenVerified.com
 
-####  This Privacy Policy was last updated on 3/28/2013 
+####  This Privacy Policy was last updated on 10/27/2014 
 
 ###  Privacy Policy 
 
-[](https://privacy.truste.com/privacy-seal/Been-Verified,-Inc-/validation?rid=cd4abbe4-6034-49f7-ac34-a07fd97eb5ca "TRUSTe online privacy certification")
+[](http://privacy.truste.com/privacy-seal/Been-Verified,-Inc-/validation?rid=cd4abbe4-6034-49f7-ac34-a07fd97eb5ca "TRUSTe online privacy certification")
 
-Been Verified Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe certification covers information collected on the site [www.beenverified.com](http://www.beenverified.com/) and not through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@beenverified.com](mailto:privacy@beenverified.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through other websites or mobile applications that may be owned and controlled by us. 
+BeenVerified Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe certification covers information collected on the site [www.beenverified.com](http://www.beenverified.com/) and not through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@beenverified.com](mailto:privacy@beenverified.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through other websites or mobile applications that may be owned and controlled by us. 
 
 Thank you for visiting the website located at [www.beenverified.com](http://www.beenverified.com/), for downloading the BeenVerified Background Check App, or for visiting another BeenVerified website or downloading another BeenVerified mobile application that links to and utilizes this Privacy Policy (all platforms collectively referred to as the "Site"). The Site is a web-based property of BeenVerified, Inc. ("BeenVerified," "we," “our,” or "us") that enables end-user visitors to the Site (“Visitors”) to conduct searches of our databases of publicly available sources of information about individuals. This Privacy Policy describes the ways in which BeenVerified collects, uses, and discloses information about you when you access the Site. By accessing, viewing, downloading, or otherwise using the Site, you consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy, now and as amended or modified by us. 
 
@@ -30,7 +30,13 @@ When you visit the Site, we or our third-party service providers may use a "Cook
 
 If you do not want the Site to collect this information through Cookies, you may set your web browser to reject Cookies from the Site, or to inform you when a Cookie has been sent to your computer and provide you with the opportunity to refuse that Cookie. Each web browser is different, so please check your browser’s “Help” menu to learn how to change your Cookie preferences. Please be advised that where you disable or reject Cookies, you may not be able to use the Member Services or experience the full functionality of the Site. 
 
+Technologies such as: cookies, beacons, tags and scripts are used by BeenVerified and our partners (such as marketing partners, data partners, analytics, financial, testing, optimization, and others), affiliates, or analytics or service providers (such as data providers, customer support, marketing, analytics, business development, affiliate, and other). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+
 When you download and use the BeenVerified Background Check App, we also may collect your mobile device’s unique identification number. We will not collect any precise geolocation information from you or your mobile device unless you expressly consent to such collection. 
+
+### Behavioral Targeting / Re-Targeting 
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 ###  Information About Search Subjects 
 
@@ -88,7 +94,7 @@ We will retain the information that we have collected about you until you have r
 
 ###  Changes to Our Privacy Policy 
 
-BeenVerified may amend or modify this Privacy Policy, in whole or in part, from time to time in its sole discretion, effective immediately upon prominently posting a link to those changes on our Site's homepage or directly communicating them to you. If we make material changes to this Privacy Policy, we will notify you here, at the e-mail address associated with your Member or BeenVerified Opt-Out account, or by means of a notice on our home page. Your continued use of or access to the Site or any Member Services after any posted amendment or modification to this Privacy Policy or receipt of a Privacy Policy change notification e-mail constitutes an affirmative acknowledgment and acceptance by you of the amended or modified Privacy Policy. 
+BeenVerified may amend or modify this Privacy Policy, in whole or in part, from time to time in its sole discretion, effective immediately upon prominently posting a link to those changes on our Site's homepage or directly communicating them to you. If we make material changes to this Privacy Policy, we will notify you here, at the e-mail address associated with your Member or BeenVerified Opt-Out account, or by means of a notice on our home page prior to the change becoming effective. Your continued use of or access to the Site or any Member Services after any posted amendment or modification to this Privacy Policy or receipt of a Privacy Policy change notification e-mail constitutes an affirmative acknowledgment and acceptance by you of the amended or modified Privacy Policy. 
 
 ###  Security 
 
@@ -110,9 +116,13 @@ The Site contains links to other websites on the Internet that are owned and ope
 
 Our Site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. In order to post comments within the blog area of our Site you must be a member of our service provider’s site. Our service provider will then allow us to view the comments before they are posted. To request removal of your personal information from our blog, contact us at [privacy@beenverified.com](mailto:privacy@beenverified.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
+### Social Media Widgets 
+
+Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
 ###  Children's Privacy 
 
-BeenVerified is very sensitive to the issue of children's privacy. The Site, as well as its products and services, are not developed for or directed at children. Visitors under eighteen (18) years of age are not eligible to use the Site and we do not knowingly solicit or collect personal information from any Visitor that we actually know is under the age of eighteen (18). BeenVerified encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. If you believe that your child has provided BeenVerified with any personally identifiable information without your consent, please e-mail us at [privacy@beenverified.com](mailto:privacy@beenverified.com). 
+BeenVerified is very sensitive to the issue of children's privacy. The Site, as well as its products and services, are not developed for or directed at children. Visitors under eighteen (18) years of age are not eligible to use the Site and we do not knowingly solicit or collect personal information from any Visitor that we actually know is under the age of eighteen (18). BeenVerified encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. If you believe that your child has provided BeenVerified with any personal information without your consent, please e-mail us at [privacy@beenverified.com](mailto:privacy@beenverified.com). 
 
 ###  Contacting the Site 
 
@@ -122,3 +132,5 @@ BeenVerified.com
 307 5th Avenue - 16th Floor  
 New York, NY 10016  
 
+
+All communications with us or our authorized agents may be monitored or recorded.
