@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathonbet.co.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621035632id_/http%3A//help.marathonbet.co.uk/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathonbet.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203121656id_/http%3A//help.marathonbet.co.uk/en/privacy_policy) for the most accurate reproduction.*
 
 # MARATHON. Help - Privacy Policy
 
@@ -67,4 +67,4 @@ From the UK: Freephone 0800 9757882
 
 Outside the UK: +44 1273 964705
 
-_Last Modified Date: 04/09/2013_
+Last Modified Date: 30/06/14
