@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflowerexpert.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630193014id_/http%3A//www.theflowerexpert.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflowerexpert.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203204938id_/http%3A//www.theflowerexpert.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Flower Expert - Flowers Encyclopedia
 
