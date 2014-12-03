@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fittodo.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219001435id_/http%3A//www.fittodo.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fittodo.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203203911id_/http%3A//www.fittodo.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FitToDo : Privacy Policy
 
@@ -72,5 +72,5 @@ Melbourne Beach, FL 32951
 
 [Information@Fittodo.com](mailto:Information@Fittodo.com)
 
-|   
+|  [](http://stores.pearlevision.com/21060155/paramus-nj-paramus "Click to go to paramus store location")  
 ---|---
