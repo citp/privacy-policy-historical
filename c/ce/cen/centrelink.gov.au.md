@@ -1,79 +1,108 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120091327id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203235109id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Your right to privacy
 
-[](http://app.readspeaker.com/cgi-bin/rsent?customerid=4672&lang=en_uk&output=template&readid=docBody&url=http://www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm "Listen to selected text \(will open a new window\)")
+You have a right to have your personal information kept private.
 
-Centrelink places great emphasis on maintaining and enhancing the privacy and security of our mutual customer's personal information. With a number of strong security measures in place and the continued development of our Internet services, our main focus is on improving existing measures as well as keeping you informed about the latest developments.
+## About privacy
 
-_On this page_
+We are bound by strict confidentiality and secrecy provisions in social security, families, health, child support and disability services law. These provisions limit how we use your information and when and to whom it can be released. We also have obligations under the _Privacy Act 1988._
 
-  
+### What is privacy
 
+The Privacy Act contains 13 Australian Privacy Principles which regulate the way we collect, store, provide access to, use and disclose personal information. The new Principles came into effect on 12 March 2014, and apply to public and private sector entities.
 
-## Protection of information statement
+Read more about our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1] and how we apply the Principles.
 
-### Collection of information by Centrelink
+The Privacy Act provides you with rights, including:
 
-The screens you have accessed and the information contained within is electronically captured and retained to ensure compliance with the Electronic Transactions Act 1999 and Commonwealth record keeping requirements. Centrelink will keep a record of your access to this service.
-
-Centrelink collects a range of information about visits to the Centrelink website. The following information is stored for 12 months:
-
-  * entry and exit pages
-  * how often the site was used
-  * the time of day the site was accessed
-  * the length of time spent on the site
-  * how much information was downloaded
-  * if the visit is from a company or an individual
-  * if you are browsing from Australia or outside Australia
-  * the general area you visited from
-  * what browser types are being used
-  * your screen resolution, java and flash versions, colour depth and language settings.
+  * being told generally what kind of information we are collecting and how we collect it
+  * being told generally why your personal information is being collected
+  * your personal information can only be collected for a lawful purpose
+  * finding out what information we hold about you and have it corrected if it is incorrect, out of date or incomplete, the _Freedom of Information Act 1982_ also supports this
+  * providing that your personal information must be stored securely and protected from interference or misuse
+  * finding out how your personal information will be used by reading our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1]
 
 
 
-These information are collected for statistical analysis only.
+You can make a complaint to us about the way your personal information has been handled.
 
-### Use and disclosure of information
+## Tax File Numbers
 
-If you provide your organisation or personal details to Centrelink when you send us a message these will only be used for the purpose for which you have provided them. Your details will not be added to a general mailing list. Unless authorised or required by law, Centrelink will not disclose this information without your consent.
+If you give us your Tax File Number (TFN), we have an obligation to keep that information secure. Due to the sensitivity we place on TFNs and the legal restraints on their use and disclosure, if you lose your TFN we will not be able to provide it to you. You will have to ask the Australian Taxation Office for a copy of it. We can only provide TFNs under strict conditions as authorised or required by law. In limited circumstances, the Australian Taxation Commissioner can be required by law to provide your TFN to us.
 
-In the unlikely event of an investigation, a law enforcement agency or other government agency may exercise its legal authority to inspect our Internet service provider's logs.
+### Data matching use of Tax File Numbers
 
-### Cookies
+We are authorised to use TFN to facilitate the administration of social security, student assistance, youth allowance, child support and data matching law. This can include using data to check the entitlements of people applying for services and payments. The _Data-matching Program (Assistance and Tax) Act 1990_ authorises certain agencies to compare the personal information they hold, including the TFNs of an individual, to ensure that tax, pensions and other payments are being paid correctly.
 
-Cookies are pieces of information a website can transfer to an individual's computer hard drive.
+## Collection and use of information
 
-  * Most Internet browsers are preset to accept cookies, but you can choose if and how a cookie will be accepted by configuring the preferences and options in your browser.
-  * Centrelink tracks some demographic information about website usage which may include the items listed above under collection of information.
-  * When you access our secure Business online services we may also use cookies to: 
-    * determine whether your computer has support for cookies turned on (this allows us to advise that you need to enable cookies to use a particular service)
-    * help identify you during your secure session
-    * time your session so you will be logged off if you are not using the service for a specified time period
-    * maintain an audit trail of your secure session
+### Collection of information
 
+When we collect your personal information it must be reasonably necessary for, or directly related to, 1 or more of our functions or activities.
 
+The authority provided by the legislation we administer also allows us to collect your personal information.
 
-[ return to top ]
+In addition to requesting information from you, we may also obtain information about you and your family from other government agencies and third parties.
 
-## Security statement
+Any personal information we receive from a third party is treated the same as if you provided it.
 
-While Centrelink endeavours to provide a secure Internet environment, users should note that there are inherent risks associated with transmission of information via the Internet. Centrelink encrypts all messages between the browser running on your computer and Centrelink's business online site.
+The collection of your personal information is detailed in our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1].
 
-The encryption process used by Centrelink is Secure Socket Layer (SSL).
+### Use of information
 
-[ return to top ]
+Your personal information will be used in accordance with the Privacy Act. It will not be used for any purpose other than why it was collected. We may use your personal information if:
 
-## More information
-
-If you have any privacy or security concerns:
-
-  * view the [private i - your ultimate privacy survival guide](http://www.privacyawarenessweek.org/topics/youth/index.html)
-  * visit your nearest [Centrelink Customer Service Centre](http://centrelink.findnearest.com.au/) for advice.
-
-  
+  * it is authorised or required by law
+  * you have consented to the use
+  * the use meets one of the other exceptions in the Australian Privacy Principles
 
 
-Did you find what you were looking for? You can also try the [A to Z list](https://web.archive.org/internet/internet.nsf/site_help/az.htm), [quick links](https://web.archive.org/internet/internet.nsf/site_help/quicklinks.htm), [search](https://web.archive.org/internet/internet.nsf/search/index.htm), [site help](https://web.archive.org/internet/internet.nsf/site_help/index.htm), [we speak your language](https://web.archive.org/internet/internet.nsf/languages/index.htm) or send us [feedback](https://secure.centrelink.gov.au/sims/sims_main.cfm) on how to make this a better website.
 
-Return to Top
+When your personal information is collected, you will usually be advised of its intended use at the point of collection. Your information may also be used by our other services, as authorised or required by law.
+
+## Disclosure of information
+
+Your personal information will not be disclosed to any other person, body or agency unless:
+
+  * you give us permission
+  * it is authorised or required by law
+  * it meets one of the other exceptions in the Australian Privacy Principles
+
+
+
+From time to time it may be necessary to disclose your personal information to third parties. The circumstances surrounding why, who and when your information may be disclosed are outlined in our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1].
+
+## Privacy notice for our applications
+
+The privacy notices outline how we will manage your personal information in connection with the:
+
+  * [Express Plus Medicare mobile app](https://web.archive.org/customer/information/privacy-notice-for-express-plus-medicare-mobile-app)[2]
+  * [Express Plus Jobseekers, Students, Families and Seniors mobile apps](https://web.archive.org/customer/information/privacy-notice-for-express-plus-mobile-apps)[3]
+  * [Centrelink online accounts - Privacy and security](https://web.archive.org/customer/services/centrelink/centrelink-online-accounts#a5)[4]
+  * [Medicare online account](https://www2.medicareaustralia.gov.au/pext/coin/termsAndConditions.do)[5]
+  * [Child Support online accounts terms and conditions - Your privacy](https://web.archive.org/customer/enablers/child-support/child-support-online-accounts/child-support-online-accounts-terms-and-conditions#a12)[6]
+  * [Healthcare Identifiers Service](https://web.archive.org/customer/services/medicare/healthcare-identifiers-service)[7]
+
+
+
+## If you have privacy concerns
+
+If you are concerned about how we have collected or managed your personal information, you can read our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1] to familiarise yourself with our approach to privacy. You can also call Customer Relations on **1800 132 468** or the TTY phone on **1800  000 567**.
+
+Read more about general privacy, on the [Office of the Australian Information Commissioner’s (OAIC)](http://www.oaic.gov.au/)[8] website.
+
+If you are not satisfied with how we have handled your privacy concerns you can also contact the OAIC directly. The OAIC is independent to us and has the power to investigate complaints about possible interferences with your privacy. It is usually best to contact us first. While it is possible for the first contact to be with the OAIC, they will generally ask us to conduct our own inquiry first and pass any findings on to the OAIC.
+
+## Link references
+
+  1. https:/ / web.archive.org/ corporate/ publications-and-resources/ privacypolicy
+  2. https:/ / web.archive.org/ customer/ information/ privacy-notice-for-express-plus-medicare-mobile-app
+  3. https:/ / web.archive.org/ customer/ information/ privacy-notice-for-express-plus-mobile-apps
+  4. https:/ / web.archive.org/ customer/ services/ centrelink/ centrelink-online-accounts#a5
+  5. https:/ / www2.medicareaustralia.gov.au/ pext/ coin/ termsAndConditions.do
+  6. https:/ / web.archive.org/ customer/ enablers/ child-support/ child-support-online-accounts/ child-support-online-accounts-terms-and-conditions#a12
+  7. https:/ / web.archive.org/ customer/ services/ medicare/ healthcare-identifiers-service
+  8. http:/ / www.oaic.gov.au/
+
+
