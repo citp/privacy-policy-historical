@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the centerparcs.co.uk privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626145104id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centerparcs.co.uk privacy policy that was archived on 2014-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203034442id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
     <title>Information | Privacy &amp; Cookie Policy | Center Parcs</title>
@@ -11,14 +11,14 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="content-language" content="en">
-    <meta name="keywords" content="Privacy and Cookie Statement">
-    <meta name="description" content="Privacy and Cookie Statement">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
     <meta name="copyright" content="Center Parcs">
     <meta name="distribution" content="global">
     <meta name="robots" content="all">
     <meta name="rating" content="general">
     
-    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/9099.js?439588" async="" type="text/javascript"></script><script type="text/javascript" src="//nexus.ensighten.com/centerparcs/Bootstrap.js">
+    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/9099.js?438998" async="" type="text/javascript"></script><script type="text/javascript" src="//nexus.ensighten.com/centerparcs/Bootstrap.js">
     </script>
 
     
@@ -33,15 +33,23 @@
 
 
 
+	
+	
+	
     
+    
+	    
     
 
     
     
+	    
+    
 
     
     
-
+	    
+    
 
 
 
@@ -77,8 +85,47 @@
     <![endif]-->
     <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/screen.css">
     <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/screen_table.css">
+    
+
+
+
+
+    
+    
+    <!-- CP Redesign -->
+    <!-- insert stylesheets needed for the new home page -->
+    <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/cr_home_page.css">
+    <!--[if IE 8]>
+    <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/cr_home_page_ie8.css">
+    <![endif]-->
+    <!-- bxSlider CSS file -->
+    <link href="/system/modules/centerparcs.template.main/resources/css/jquery.bxslider.css" rel="stylesheet">
+    <link href="/system/modules/centerparcs.template.main/resources/css/jquery-ui.css" rel="stylesheet">
+    <!-- CP Redesign -->
+    
+    
+
+
+
+<!--List scripts-->
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/jquery.min.js"></script>
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/jquery-ui.js"></script>
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/bookingMagnet.js"></script>
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/cpTopMenu.js"></script>
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/jquery.floorplan.js"></script>
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/placeholders.min.js"></script>
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/cpMain.js"></script>
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/cpOffers.js"></script>
+<!-- bxSlider Javascript file -->
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/bxslider/plugins/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/bxslider/plugins/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cr/bxslider/jquery.bxslider.min.js"></script>
+
+
+
+
     <!--script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/mootools.js"--><!--/script-->
-    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/jquery.js"></script>
+    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/html5gallery/html5gallery.js"></script>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/mbe.js"></script>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/mapWidget.js"></script>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/left_navigation_effect.js"></script>
@@ -105,326 +152,9 @@
     
     
 
-    <script type="text/javascript">
-	var selectedColor = "#DEE2B0";
-	var selectedOption = -1;
-	var prevOption = -1;
-	var prevColor;
 
-	var timer = 0;
-	var timerSpeed;
-	var ifTimerStarted = false;
 
-	var media;
-	var picture;
-	var picture_description;
-	var picture_news;
-	var picture_btn_gr;
-	var options;
 
-	var tabsCount;
-	var selectedTab = 0;
-	var imagesList;
-	var imagesTooltipList;
-	var descriptionList;	
-	var hrefList;	
-	var imageTypeListContent;
-		
-	function initTimer()
-	{
-	
-		var test = document.getElementById("titleCount");
-		if (test != null) {
-		tabsCount = document.getElementById("titleCount").innerHTML;
-		timerSpeed = document.getElementById("timerVal").innerHTML;
-		var imageListContent = document.getElementById("imageListContent").innerHTML;
-		imagesList = imageListContent.split(';');
-		var imageTooltipListContent = document.getElementById("imageTooltipListContent").innerHTML;
-		imagesTooltipList = imageTooltipListContent.split(';');
-		var descriptionListContent = document.getElementById("descriptionListContent").innerHTML;
-		descriptionList = descriptionListContent.split(';');
-		var hrefListContent = document.getElementById("hrefListContent").innerHTML;
-		hrefList = hrefListContent.split(';');
-		var imageTypeListContent = document.getElementById("imageTypeListContent").innerHTML;
-		imagesTypeList = imageTypeListContent.split(';');
-		
-		startTimer();
-		/*timer = setInterval("onTimer()", 1000);*/
-		}
-	}
-
-	function clearTimer()
-	{
-		if (timer)
-		{
-			clearInterval(timer);
-		}
-	}
-
-	function onTimer()
-	{
-		if (options != null) {
-			var i = selectedOption;
-			i++;
-			if (i >= options.length)
-				i = 0;
-
-			select(options[i]);
-		}
-	}
-
-	function onTabsTimer()
-	{
-		selectedTab = selectedTab + 1;
-		if(selectedTab >= tabsCount) {
-			selectedTab = 0;
-		}
-		
-//		picture.src = imagesList[selectedTab];
-//		picture.alt = imagesTooltipList[selectedTab];
-
-		showMedia(imagesTypeList[selectedTab], imagesList[selectedTab], imagesTooltipList[selectedTab], hrefList[selectedTab]);
-		picture_description.style.background = "url(" + descriptionList[selectedTab] + ") no-repeat #EEE";
-		
-		showClickPoints();
-	}
-
-	function showSelected(imageSrc, imageAlt)
-	{
-		if (options != null) {
-			if (prevOption >= 0)
-			{
-				options[prevOption].bgColor = prevColor;
-			}
-
-			if (selectedOption >= 0)
-			{
-				prevColor = options[selectedOption].bgColor;
-
-				for(i = 0; i < options.length; i++) {
-					options[i].bgColor = "#FFFFFF";
-				}
-
-				options[selectedOption].bgColor = selectedColor;
-	
-				if(imageSrc != null) {
-
-				picture_news.src = imageSrc;
-				picture_news.alt = imageAlt;
-				/*picture_news.alt = imageSrc;*/
-				}
-			}
-		}
-	}
-
-	function select(element, imageSrc)
-	{
-		prevOption = selectedOption;
-		selectedOption = element.rowIndex;
-
-	/*	showSelected(imageSrc);*/
-	}
-
-	function selectWithMouse(element, imageSrc, imageAlt)
-	{
-		prevOption = selectedOption;
-		selectedOption = element.rowIndex;
-
-		showSelected(imageSrc, imageAlt);
-	}
-
-	function initialize()
-	{
-		if (media == null)
-		{
-			media = document.getElementById("mediaContainer");
-		}
-		
-		if (picture == null)
-		{
-			picture = document.getElementById("picture");
-		}
-
-		if (picture_description == null)
-		{
-			picture_description = document.getElementById("picture_description");
-		}
-
-		if (picture_news == null)
-		{
-			picture_news = document.getElementById("picture_news");
-		}
-
-		if (picture_btn_gr == null)
-		{
-			picture_btn_gr = document.getElementById("picture_btn_gr");
-		}
-
-		if (options == null)
-		{
-                        if(document.getElementById("options") != null)  
-				options = document.getElementById("options").rows;
-		}
-
-		if (options != null) {
-			select(options[0], null);
-		}
-
-		initTimer();
-		
-	}
-
-	function showClickPoints()
-	{
-		for (var i=0; i<tabsCount; i++) {
-			var test = document.getElementById("ClickPointsContainer_" + i);
-			if (test != null) {
-				if (i == selectedTab) {
-					test.style.visibility = 'visible';
-				}
-				else {
-					test.style.visibility = 'hidden';
-				}
-			}
-		}
-	}
-
-	function cleanMedia() 
-	{
-	  if (media != null) {
-		  var children = media.childNodes;
-		  while(media.childNodes.length > 0) {
-		    media.removeChild(children[0]); 
-		  }
-		  media.innerHTML= "";
-	  }
-	}
-
-	function showMedia(type, url, alt, href)
-	{
-	  cleanMedia();
-
-	  if((type == 'youtube') || (type == 'flash')) {
-            media.innerHTML= '<object style="width:100%; height:100%;"><embed style="width:100%; height:100%;" src="'+ url + '?version=3&amp;rel=0&amp;autoplay=1&amp;showinfo=0' + '" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" wmode="transparent"></embed><param name="wmode" value="transparent"></object>'
-	  }
-	  else if(type == 'brightcove') {
-            media.innerHTML  = 
-					'<!-- Start of Brightcove Player -->' +
-					'<object wmode="transparent" id="myExperience' + url + '" class="BrightcoveExperience">' +
-					'  <param name="bgcolor" value="#FFFFFF" />' +
-					'  <param name="wmode" value="transparent" />' +
-					'  <param name="playerID" value="701933632001" />' +
-					'  <param name="playerKey" value="AQ~~,AAAADcYDruk~,DXsIcQBciLmRX-djLFmWdzTAS5FBpsWT" />' +
-					'  <param name="isVid" value="true" />' +
-					'  <param name="dynamicStreaming" value="true" />' +
-					'  <param name="autoStart" value="true" />' +
-					'  <param name="@videoPlayer" value="' + url + '" />' +
-					'</object>' +
-					'<!-- End of Brightcove Player -->';
-	    brightcove.createExperiences();
-	  }
-	  else if(type == 'flash') {
-	  }
-	  else if(type == 'image') {
-            media.innerHTML  = 
-		'<a href="' + href + '" id="hrefLink"><img style="font-size: 0px; border: 0px none;" alt="' + alt + '" src="' + url + '" id="picture"></a>'
-	  }
-	}
-	
-	function showNextImage()
-	{
-	
-		if(selectedTab + 1 == tabsCount)
-		{
-			selectedTab = 0;
-		}
-		else
-		{
-			selectedTab = selectedTab + 1;
-		}
-		
-//		picture.src = imagesList[selectedTab];
-//		picture.alt = imagesTooltipList[selectedTab];
-		
-		showMedia(imagesTypeList[selectedTab], imagesList[selectedTab], imagesTooltipList[selectedTab], hrefList[selectedTab]);
-		
-		picture_description.style.background = "url(" + descriptionList[selectedTab] + ") no-repeat #EEE";
-		
-		showClickPoints();
-		
-		pauseStartSlideshow(true);
-	}
-
-	function showPreviousImage()
-	{
-		if(selectedTab <= 0)
-		{
-			selectedTab = tabsCount - 1;
-		}
-		else
-		{
-			selectedTab = selectedTab - 1;
-		}
-		
-//		picture.src = imagesList[selectedTab];
-//		picture.alt = imagesTooltipList[selectedTab];
-
-		showMedia(imagesTypeList[selectedTab], imagesList[selectedTab], imagesTooltipList[selectedTab], hrefList[selectedTab]);
-		
-		picture_description.style.background = "url(" + descriptionList[selectedTab] + ") no-repeat #EEE";
-		showClickPoints();
-		
-		pauseStartSlideshow(true);
-	}
-
-	function pauseStartSlideshow(ifAlwaysStop)
-	{
-		if(ifTimerStarted)
-		{
-			stopTimer();
-		}
-		else if(!ifAlwaysStop)
-		{
-			startTimer();
-		}
-	}
-
-	function stopTimer()
-	{
-		clearInterval(timer);
-		ifTimerStarted = false;
-		picture_btn_gr.src = "/system/modules/centerparcs.template.main/resources/images/play_btn.gif";
-		picture_btn_gr.alt = "Play";
-		picture_btn_gr.title = "Play";
-		picture_btn_gr.onmouseover = function() {
-			pauseBtnRollover("/system/modules/centerparcs.template.main/resources/images/play_btn_gr.gif");
-		}
-		picture_btn_gr.onmouseout = function() {
-			pauseBtnRollover("/system/modules/centerparcs.template.main/resources/images/play_btn.gif");
-		}
-	}
-
-	function startTimer()
-	{
-		timer = setInterval("onTabsTimer()", timerSpeed);
-		ifTimerStarted = true;
-		picture_btn_gr.src = "/system/modules/centerparcs.template.main/resources/images/pause_btn.gif";
-		picture_btn_gr.alt = "Pause";
-		picture_btn_gr.title = "Pause";
-		picture_btn_gr.onmouseover = function() {
-			pauseBtnRollover("/system/modules/centerparcs.template.main/resources/images/pause_btn_gr.gif");
-		}
-		picture_btn_gr.onmouseout = function() {
-			pauseBtnRollover("/system/modules/centerparcs.template.main/resources/images/pause_btn.gif");
-		}
-	}
-
-	function pauseBtnRollover(image)
-	{
-		picture_btn_gr.src = image;
-	}
-
-    </script>
 
     <!-- Survey Script-->
     <!-- Begin -->
@@ -440,7 +170,6 @@
 
 
     
-    
  
 
 
@@ -449,6 +178,11 @@
 
 
    
+
+
+
+
+
     </head>
    
 
@@ -469,7 +203,8 @@
     
     
     
-	<body onload="initialize()" style="background-color: #a0ab40">
+        
+	<body style="background-color: #daddc4">
     
     
 
@@ -481,18 +216,9 @@
 
     
 
-    <a name="bodytop" id="bodytop"></a>
-
- 
-    <!-- Head navigation -->
-    
 
 
-
-<div class="header_outer" style="background-color: #6b7425">
-
-  <img src="/config/new_header_bg.png" style="position: absolute; left: 50%; margin: 0 0 0 -899px">
-  
+<!-- HEADER -->
     
     
 	
@@ -501,6 +227,16 @@
 
 
 
+ 
+
+
+
+
+
+
+
+
+
 
     
     
@@ -517,10 +253,76 @@
 
     
 	
-	
-		<div class="head-free-html-block">
-		<!--free HTML block-->
-		<div class="header_links"><a id="mobile_site" style="display: none; left: -680px; position: absolute; top: -10px" href="http://m.centerparcs.co.uk?view=mobile">Return to Mobile Site</a></div>
+<div class="b-header-outer">
+    <div class="b-head">
+        <h1 class="b-logos" style="background-image: url(/images/CR-homepage/header_logo.png)">
+            <a href="/index.jsp" title="Center Parcs"><b>Center Parcs</b></a>
+        </h1>
+
+        <div class="b-head-inner">
+            <div class="b-head-top-links">
+		
+		    
+		    
+		    
+		    
+			
+			
+                <a href="http://events.centerparcs.co.uk/home/index.html" class="link">Conferences &amp; Events</a>
+			
+			
+		    
+		
+		    
+		    
+		    
+		    
+			
+			
+                <a href="http://www.centerparcscareers.co.uk/" class="link">Careers</a>
+			
+			
+		    
+		
+		    
+		    
+		    
+		    
+			
+                <a href="/company/about_us.jsp" class="link">About Us</a>
+			
+			
+			
+		    
+		
+		    
+		    
+		    
+		    
+			
+                <a href="/thingstodo/aqua_sana.jsp" class="link">Aqua Sana Spa</a>
+			
+			
+			
+		    
+		
+		    
+		    
+		    
+		    
+			
+                <a href="/contact_us.jsp" class="link">Contact Us</a>
+			
+			
+			
+		    
+		
+            </div>
+
+            <div class="b-head-social">
+	        
+	           
+		<div><a href="http://m.centerparcs.co.uk?view=mobile" style="font-size: 12px; font-weight: bold; display: none; position: absolute; top: 32px" id="mobile_site">Return to Mobile Site</a></div>
 <script type="text/javascript">
 
     var mobile = (/android|iphone|ipod|googlebot-mobile/i.test(navigator.userAgent.toLowerCase()));  
@@ -532,1250 +334,3157 @@
     }
 
 </script>
-<p><style type="text/css">
-table.free img {
+<p>Talk To Us 03448 267 723</p>
+<ul class="b-head-social_list">
+    <li><a href="http://www.youtube.com/user/CenterParcsUK?ob=0&amp;feature=results_main" target="_blank">                             <img src="/images/cr_home_page/youtube_header.png" alt="Watch us on YouTube">                         </a></li>
+    <li><a href="http://www.facebook.com/pages/Center-Parcs-UK/150505034974246" target="_blank">                             <img src="/images/cr_home_page/fb_header.png" alt="Follow us on facebook">                         </a></li>
+    <li><a href="http://twitter.com/#!/CenterParcsUK" target="_blank">                             <img src="/images/cr_home_page/twitter_header.png" alt="Follow us on Twitter">                         </a></li>
+    <li><a href="http://blog.centerparcs.co.uk/" target="_blank">                             <img src="/images/cr_home_page/blog_header.png" alt="Read our blog">                         </a></li>
+</ul>
+		   
+	           
+	        
+
+	    
+            </div>
+
+            <div id="b-head-menu">
+                <ul class="b-head-menu-list">
+
+                        
+			
+				
+                                        
+
+                                        
+					
+                                        
+					
+
+	                                
+	                                <li class="b-head-menu-item">
+					
+					
+					
+						      <a title="Book Now" data-val="#7c73af" class="b-head-menu_link_1" id="top1">Book Now</a>
+					
+					
+					</li>
+			        
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+                                        
+
+                                        
+					
+
+	                                
+	                                <li class="b-head-menu-item">
+					
+					
+					
+						      <a title="My Booking" data-val="#3c74a0" class="b-head-menu_link_2" id="top2">My Booking</a>
+					
+					
+					</li>
+			        
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+                                        
+
+                                        
+					
+                                        
+					
+
+	                                
+	                                <li class="b-head-menu-item">
+					
+					
+					
+						      <a title="Locations" data-val="#996633" class="b-head-menu_link_1" id="top3">Locations</a>
+					
+					
+					</li>
+			        
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+                                        
+
+                                        
+					
+
+	                                
+	                                <li class="b-head-menu-item">
+					
+					
+					
+						      <a title="Things To Do" data-val="#da9351" class="b-head-menu_link_2" id="top4">Things To Do</a>
+					
+					
+					</li>
+			        
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+                                        
+
+                                        
+					
+
+	                                
+	                                <li class="b-head-menu-item">
+					
+					
+					
+						      <a title="Accommodation" data-val="#a33b37" class="b-head-menu_link_3" id="top5">Accommodation</a>
+					
+					
+					</li>
+			        
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+                                        
+
+                                        
+					
+                                        
+					
+
+	                                
+	                                <li class="b-head-menu-item">
+					
+					
+						
+						
+						      <a href="/makeabooking/specialoffers/index.jsp" title="Offers" data-val="clickable" class="b-head-menu_link_1" id="top6">Offers</a>
+						
+						
+						
+					
+					
+					
+					</li>
+			        
+			
+
+                </ul>
+            </div>
+
+        </div>
+    </div>
+	
+    <div class="b-head-submenu">
+	
+		
+			
+			
+              
+			
+				
+			
+				
+				
+					
+				        <div class="b-dropdown-menu_item" id="subtop1">
+				            <div class="b-dropdown-menu_item_details">
+				                <div class="b-dropdown-menu_item_arrow">
+				                    <img src="/system/modules/centerparcs.template.main/resources/images/cr_home_page/arrow_topmenu.png" class="b-dropdown-menu_img_arrow" alt="">
+				                </div>
+				                <div class="b-dropdown-menu_item_details_wrap">
+				                    <ul class="b-dropdown-menu_item_details_list">
+				
+				
+					<li><a title="Book Your Short Break" data-id="subtop12" href="http://reservations.centerparcs.co.uk/">Book Your Short Break</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="School Holiday Breaks" data-id="subtop13" href="/makeabooking/specialoffers/school_holiday_breaks.jsp">School Holiday Breaks</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Late Availability" data-id="subtop14" href="/makeabooking/late_availability/">Late Availability</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Seasonal Breaks" data-id="subtop15" href="/seasonal-breaks.jsp">Seasonal Breaks</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Breaks We Offer" data-id="subtop16" href="/short-break-types">Breaks We Offer</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Terms and Conditions" data-id="subtop17" href="/makeabooking/terms/index.jsp">Terms and Conditions</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			
+			      </ul>
+			                    <ul class="b-dropdown-menu_list_details_img">
+			                        <li title="Book Now"><img src="/images/cr_home_page/top_menu/Book-Now.jpg" alt="Book Now"></li>
+						
+							
+						
+							
+			                        <li title="Book Your Short Break"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Book-your-short-break.jpg" data-id="subtop12" alt="Book Your Short Break"></li>
+					        	
+						
+							
+			                        <li title="School Holiday Breaks"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/School-Holiday-Breaks.jpg" data-id="subtop13" alt="School Holiday Breaks"></li>
+					        	
+						
+							
+			                        <li title="Late Availability"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Late-Availability.jpg" data-id="subtop14" alt="Late Availability"></li>
+					        	
+						
+							
+			                        <li title="Seasonal Breaks"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Seasonal-Breaks.jpg" data-id="subtop15" alt="Seasonal Breaks"></li>
+					        	
+						
+							
+			                        <li title="Breaks We Offer"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Break-Types.jpg" data-id="subtop16" alt="Breaks We Offer"></li>
+					        	
+						
+							
+			                        <li title="Terms and Conditions"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/TxCs.jpg" data-id="subtop17" alt="Terms and Conditions"></li>
+					        	
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+			                    </ul>
+			                </div>
+			            </div>
+			        </div>
+			
+              
+	        
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
+              
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+					
+				        <div class="b-dropdown-menu_item" id="subtop2">
+				            <div class="b-dropdown-menu_item_details">
+				                <div class="b-dropdown-menu_item_arrow">
+				                    <img src="/system/modules/centerparcs.template.main/resources/images/cr_home_page/arrow_topmenu.png" class="b-dropdown-menu_img_arrow" alt="">
+				                </div>
+				                <div class="b-dropdown-menu_item_details_wrap">
+				                    <ul class="b-dropdown-menu_item_details_list">
+				
+				
+					<li><a title="My Booking Overview" data-id="subtop29" href="/mybooking/index.jsp">My Booking Overview</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Book Activities" data-id="subtop210" href="http://activities.centerparcs.co.uk/faces/jsp/PlanBreak.jsp#currentPos">Book Activities</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Pre-registration" data-id="subtop211" href="http://reservations.centerparcs.co.uk/prereg">Pre-registration</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Pay Outstanding Balance" data-id="subtop212" href="http://reservations.centerparcs.co.uk/prereg">Pay Outstanding Balance</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="What To Do On Arrival" data-id="subtop213" href="/mybooking/arrival/index.jsp">What To Do On Arrival</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Directions" data-id="subtop214">Directions<b class="b-head-submenu-arrow">▼</b></a>
+								<ul class="b-dropdown-menu_item_inner_list">
+							
+							
+								
+								
+									<li><a href="/mybooking/directions/whinfell_redir.jsp" title="Whinfell Forest" data-id="subtop214">Whinfell Forest</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+								
+									<li><a href="/mybooking/directions/sherwood_redir.jsp" title="Sherwood Forest" data-id="subtop214">Sherwood Forest</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+								
+									<li><a href="/mybooking/directions/elveden_redir.jsp" title="Elveden Forest" data-id="subtop214">Elveden Forest</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+								
+									<li><a href="/mybooking/directions/woburn_redir.jsp" title="Woburn Forest" data-id="subtop214">Woburn Forest</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+								
+									<li><a href="/mybooking/directions/longleat_redir.jsp" title="Longleat Forest" data-id="subtop214">Longleat Forest</a></li>
+								
+							
+				        	
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+						</ul>
+					
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+				
+					<li><a title="Holiday Tips" data-id="subtop220" href="/mybooking/your_break/index.jsp">Holiday Tips</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			
+			      </ul>
+			                    <ul class="b-dropdown-menu_list_details_img">
+			                        <li title="My Booking"><img src="/images/cr_home_page/top_menu/My-Booking.jpg" alt="My Booking"></li>
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+			                        <li title="My Booking Overview"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/My-Booking.jpg" data-id="subtop29" alt="My Booking Overview"></li>
+					        	
+						
+							
+			                        <li title="Book Activities"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Book-Activities.jpg" data-id="subtop210" alt="Book Activities"></li>
+					        	
+						
+							
+			                        <li title="Pre-registration"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Online-check-in.jpg" data-id="subtop211" alt="Pre-registration"></li>
+					        	
+						
+							
+			                        <li title="Pay Outstanding Balance"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Outstanding-Balance.jpg" data-id="subtop212" alt="Pay Outstanding Balance"></li>
+					        	
+						
+							
+			                        <li title="What To Do On Arrival"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/On-arrival.jpg" data-id="subtop213" alt="What To Do On Arrival"></li>
+					        	
+						
+							
+			                        <li title="Directions"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Directions.jpg" data-id="subtop214" alt="Directions"></li>
+					        	
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+			                        <li title="Holiday Tips"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Holiday-Tips.jpg" data-id="subtop220" alt="Holiday Tips"></li>
+					        	
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+			                    </ul>
+			                </div>
+			            </div>
+			        </div>
+			
+              
+	        
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
+              
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+					
+				        <div class="b-dropdown-menu_item" id="subtop3">
+				            <div class="b-dropdown-menu_item_details">
+				                <div class="b-dropdown-menu_item_arrow">
+				                    <img src="/system/modules/centerparcs.template.main/resources/images/cr_home_page/arrow_topmenu.png" class="b-dropdown-menu_img_arrow" alt="">
+				                </div>
+				                <div class="b-dropdown-menu_item_details_wrap">
+				                    <ul class="b-dropdown-menu_item_details_list">
+				
+				
+					<li><a title="Overview" data-id="subtop322" href="/villages/index.jsp">Overview</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Whinfell Forest" data-id="subtop323">Whinfell Forest<b class="b-head-submenu-arrow">▼</b></a>
+								<ul class="b-dropdown-menu_item_inner_list">
+							
+							
+								
+								
+									<li><a href="/villages/whinfell/index.jsp" title="Overview" data-id="subtop323">Overview</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/whinfell/map/index.jsp" title="Village Map" data-id="subtop323">Village Map</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/whinfell/directions/index.jsp" title="Directions" data-id="subtop323">Directions</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/whinfell/photogallery/index.jsp" title="Photo gallery" data-id="subtop323">Photo gallery</a></li>
+								
+								
+							
+				        	
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+						</ul>
+					
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+				
+					<li><a title="Sherwood Forest" data-id="subtop328">Sherwood Forest<b class="b-head-submenu-arrow">▼</b></a>
+								<ul class="b-dropdown-menu_item_inner_list">
+							
+							
+								
+								
+									<li><a href="/villages/sherwood/index.jsp" title="Overview" data-id="subtop328">Overview</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/sherwood/map/index.jsp" title="Village Map" data-id="subtop328">Village Map</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/sherwood/directions/index.jsp" title="Directions" data-id="subtop328">Directions</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/sherwood/photogallery/index.jsp" title="Photo gallery" data-id="subtop328">Photo gallery</a></li>
+								
+								
+							
+				        	
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+						</ul>
+					
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+				
+					<li><a title="Elveden Forest" data-id="subtop333">Elveden Forest<b class="b-head-submenu-arrow">▼</b></a>
+								<ul class="b-dropdown-menu_item_inner_list">
+							
+							
+								
+								
+									<li><a href="/villages/elveden/index.jsp" title="Overview" data-id="subtop333">Overview</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/elveden/map/index.jsp" title="Village Map" data-id="subtop333">Village Map</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/elveden/directions/index.jsp" title="Directions" data-id="subtop333">Directions</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/elveden/photogallery/index.jsp" title="Photo gallery" data-id="subtop333">Photo gallery</a></li>
+								
+								
+							
+				        	
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+						</ul>
+					
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+				
+					<li><a title="Woburn Forest" data-id="subtop338">Woburn Forest<b class="b-head-submenu-arrow">▼</b></a>
+								<ul class="b-dropdown-menu_item_inner_list">
+							
+							
+								
+								
+									<li><a href="/villages/woburn/index.jsp" title="Overview" data-id="subtop338">Overview</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/woburn/map/index.jsp" title="Village Map" data-id="subtop338">Village Map</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/woburn/directions/index.jsp" title="Directions" data-id="subtop338">Directions</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+								
+									<li><a href="/villages/woburn/photogallery/index.jsp" title="Photo gallery" data-id="subtop338">Photo gallery</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/woburn/woburn_story/index.jsp" title="The Woburn Journey" data-id="subtop338">The Woburn Journey</a></li>
+								
+								
+							
+				        	
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+						</ul>
+					
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+				
+					<li><a title="Longleat Forest" data-id="subtop344">Longleat Forest<b class="b-head-submenu-arrow">▼</b></a>
+								<ul class="b-dropdown-menu_item_inner_list">
+							
+							
+								
+								
+									<li><a href="/villages/longleat/index.jsp" title="Overview" data-id="subtop344">Overview</a></li>
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/longleat/map/index.jsp" title="Village Map" data-id="subtop344">Village Map</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/longleat/directions/index.jsp" title="Directions" data-id="subtop344">Directions</a></li>
+								
+								
+							
+				        	
+					
+						
+							
+							
+								
+									<li><a href="/villages/longleat/photogallery/index.jsp" title="Photo gallery" data-id="subtop344">Photo gallery</a></li>
+								
+								
+							
+				        	
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+						</ul>
+					
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			
+			      </ul>
+			                    <ul class="b-dropdown-menu_list_details_img">
+			                        <li title="Locations"><img src="/images/cr_home_page/top_menu/map_empty.jpg" alt="Locations"></li>
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+			                        <li title="Overview"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/map_empty.jpg" data-id="subtop322" alt="Overview"></li>
+					        	
+						
+							
+			                        <li title="Whinfell Forest"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/map_whinfell.jpg" data-id="subtop323" alt="Whinfell Forest"></li>
+					        	
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+			                        <li title="Sherwood Forest"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/map_sherwood.jpg" data-id="subtop328" alt="Sherwood Forest"></li>
+					        	
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+			                        <li title="Elveden Forest"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/map_elveden.jpg" data-id="subtop333" alt="Elveden Forest"></li>
+					        	
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+			                        <li title="Woburn Forest"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/map_woburn.jpg" data-id="subtop338" alt="Woburn Forest"></li>
+					        	
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+			                        <li title="Longleat Forest"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/map_longleat.jpg" data-id="subtop344" alt="Longleat Forest"></li>
+					        	
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+			                    </ul>
+			                </div>
+			            </div>
+			        </div>
+			
+              
+	        
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
+              
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+					
+				        <div class="b-dropdown-menu_item" id="subtop4">
+				            <div class="b-dropdown-menu_item_details">
+				                <div class="b-dropdown-menu_item_arrow">
+				                    <img src="/system/modules/centerparcs.template.main/resources/images/cr_home_page/arrow_topmenu.png" class="b-dropdown-menu_img_arrow" alt="">
+				                </div>
+				                <div class="b-dropdown-menu_item_details_wrap">
+				                    <ul class="b-dropdown-menu_item_details_list">
+				
+				
+					<li><a title="Overview" data-id="subtop450" href="/thingstodo/index.jsp">Overview</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Activities" data-id="subtop451" href="/thingstodo/index.jsp">Activities</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Restaurants" data-id="subtop452" href="/thingstodo/restaurants.jsp">Restaurants</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Shopping" data-id="subtop453" href="/thingstodo/index.jsp?group=shopping&amp;activity=aquatique">Shopping</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="What's Included?" data-id="subtop454" href="/thingstodo/index.jsp?group=whatsincluded&amp;activity=adventureplayground">What's Included?</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Aqua Sana Spa" data-id="subtop455" href="/thingstodo/aqua_sana.jsp">Aqua Sana Spa</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			
+			      </ul>
+			                    <ul class="b-dropdown-menu_list_details_img">
+			                        <li title="Things To Do"><img src="/images/cr_home_page/top_menu/Things-to-do.jpg" alt="Things To Do"></li>
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+			                        <li title="Overview"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Things-to-do.jpg" data-id="subtop450" alt="Overview"></li>
+					        	
+						
+							
+			                        <li title="Activities"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Activities.jpg" data-id="subtop451" alt="Activities"></li>
+					        	
+						
+							
+			                        <li title="Restaurants"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Restaurants.jpg" data-id="subtop452" alt="Restaurants"></li>
+					        	
+						
+							
+			                        <li title="Shopping"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Shopping.jpg" data-id="subtop453" alt="Shopping"></li>
+					        	
+						
+							
+			                        <li title="What's Included?"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Whatxs-Included.jpg" data-id="subtop454" alt="What's Included?"></li>
+					        	
+						
+							
+			                        <li title="Aqua Sana Spa"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Aqua-Sana.jpg" data-id="subtop455" alt="Aqua Sana Spa"></li>
+					        	
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+			                    </ul>
+			                </div>
+			            </div>
+			        </div>
+			
+              
+	        
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
+              
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+					
+				        <div class="b-dropdown-menu_item" id="subtop5">
+				            <div class="b-dropdown-menu_item_details">
+				                <div class="b-dropdown-menu_item_arrow">
+				                    <img src="/system/modules/centerparcs.template.main/resources/images/cr_home_page/arrow_topmenu.png" class="b-dropdown-menu_img_arrow" alt="">
+				                </div>
+				                <div class="b-dropdown-menu_item_details_wrap">
+				                    <ul class="b-dropdown-menu_item_details_list">
+				
+				
+					<li><a title="Overview" data-id="subtop557" href="/accommodation/index.jsp">Overview</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Treehouse" data-id="subtop558" href="/accommodation/index.jsp?acctype=treehouse">Treehouse</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Exclusives" data-id="subtop559" href="/accommodation/index.jsp?acctype=newStyleExclusiveLodge">Exclusives</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Executives" data-id="subtop560" href="/accommodation/index.jsp?acctype=newStyleExecutiveLodge">Executives</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Woodland" data-id="subtop561" href="/accommodation/index.jsp?acctype=newStyleWoodlandLodge">Woodland</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Comfort" data-id="subtop562" href="/accommodation/index.jsp?acctype=ComfortPlus">Comfort</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Hotels and Apartments" data-id="subtop563" href="/accommodation/index.jsp?acctype=Hotelsandapartments">Hotels and Apartments</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Spa Suites" data-id="subtop564" href="/accommodation/index.jsp?acctype=spasuites">Spa Suites</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+				
+				
+					<li><a title="Adapted" data-id="subtop565" href="/accommodation/index.jsp?acctype=adapted">Adapted</a>
+					
+					
+		        		</li>
+		        	
+			
+				
+			
+			
+			      </ul>
+			                    <ul class="b-dropdown-menu_list_details_img">
+			                        <li title="Accommodation"><img src="/images/cr_home_page/top_menu/Accommodation.jpg" alt="Accommodation"></li>
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+			                        <li title="Overview"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Accommodation.jpg" data-id="subtop557" alt="Overview"></li>
+					        	
+						
+							
+			                        <li title="Treehouse"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Treehouse.jpg" data-id="subtop558" alt="Treehouse"></li>
+					        	
+						
+							
+			                        <li title="Exclusives"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Exclusive.jpg" data-id="subtop559" alt="Exclusives"></li>
+					        	
+						
+							
+			                        <li title="Executives"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Executive.jpg" data-id="subtop560" alt="Executives"></li>
+					        	
+						
+							
+			                        <li title="Woodland"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Woodland-Lodge.jpg" data-id="subtop561" alt="Woodland"></li>
+					        	
+						
+							
+			                        <li title="Comfort"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Comfort.jpg" data-id="subtop562" alt="Comfort"></li>
+					        	
+						
+							
+			                        <li title="Hotels and Apartments"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Hotel.jpg" data-id="subtop563" alt="Hotels and Apartments"></li>
+					        	
+						
+							
+			                        <li title="Spa Suites"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Spa-Suite.jpg" data-id="subtop564" alt="Spa Suites"></li>
+					        	
+						
+							
+			                        <li title="Adapted"><img class="b-dropdown-menu_item_img" src="/images/cr_home_page/top_menu/Adapted.jpg" data-id="subtop565" alt="Adapted"></li>
+					        	
+						
+							
+						
+			                    </ul>
+			                </div>
+			            </div>
+			        </div>
+			
+              
+	        
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
+              
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			
+              
+	        
+	
+    </div>
+</div>
+	
+	
+    
+    
+
+	
+    
+<!-- HEADER -->
+
+    <a name="bodytop" id="bodytop"></a>
+
+
+
+	
+	
+
+    
+	
+	
+	
+	
+	    
+	    
+	
+    
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		
+		
+		
+		    
+                        
+
+
+
+
+
+
+
+
+    
+    <p><style type="text/css">
+.container {
+margin: 0 auto;
+width: 950px;
+padding-top:12px;
+padding-bottom:22px;
+}
+
+.header_text {
+font-family: verdana;
+font-size: 24px;
+color: #000000;
+
+}
+
+.main_text {
+font-family: verdana;
+font-size: 14px;
+color: #000000;
+margin-bottom: 20px;
+line-height: initial;
+}
+
+.box_left_top {
+position: relative;
+float: left;
+width: 461px;
+height: 300px;
+margin-right: 7px;
+}
+
+.box_right_top {
 float: right;
-margin: 0px;
-}</style></p>
-<div align="right">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<table class="free" width="595" border="0">
+position: relative;
+width: 461px;
+height: 300px;
+
+
+}
+
+.box_left {
+margin-top:30px;
+position: relative;
+float: left;
+width: 461px;
+height: 300px;
+
+}
+
+.box_right {
+margin-top:30px;
+float: right;
+position: relative;
+width: 461px;
+height: 300px;
+}
+
+.textbox {
+position: absolute;
+left: 0px;
+top: 250px;
+height: 50px;
+width: 461px;
+background: #000000;
+opacity: 0.9;
+
+}
+
+.boxtext {
+family: verdana;
+font-size: 14px;
+color: #ffffff;
+margin-top:18px;
+margin-left:20px;
+}
+
+.link_button {
+position: absolute;
+width: 140px;
+height:26px;
+left: 295px;
+top: 264px;
+z-index: +20;
+}
+
+.button_container {
+position: relative;
+}
+
+.linker {
+position: absolute: 
+float: right;
+top: 0px;
+margin-right: -5px;"
+}
+
+
+</style></p>
+<div class="container">
+<div class="header_text">
+<table style="width: 100%;">
     <tbody>
-        <tr valign="middle">
-            <td align="right" width="595">
-            <table class="free" width="350" border="0">
-                <tbody>
-                    <tr>
-                        <td valign="middle"><font face="verdana" color="#ffffff" size="2"><b>Contact Centre 03448 267 723</b></font>&nbsp;&nbsp;&nbsp;</td>
-                        <td align="left" width="28"><a target="_blank" href="http://www.youtube.com/user/CenterParcsUK?ob=0&amp;feature=results_main"><img alt="Watch us on YouTube" src="/images/logos/youtube_header.gif"></a></td>
-                        <td align="left" width="28"><a target="_blank" href="http://www.facebook.com/pages/Center-Parcs-UK/150505034974246"><img alt="Follow us on facebook" src="/images/logos/fb_header.gif"></a></td>
-                        <td align="left" width="26"><a target="_blank" href="http://twitter.com/#!/CenterParcsUK"><img alt="Follow us on Twitter" border="0" src="/images/logos/twitter_header.gif"></a></td>
-                        <td width="26" align="left"><a target="_blank" href="http://blog.centerparcs.co.uk/"><img border="0" alt="Read our blog" src="/images/icons/blog_icon_23px.png"></a></td>
-                    </tr>
-                </tbody>
-            </table>
+        <tr>
+            <td>
+            <div class="header_text">
+            <p>Privacy and cookie policy</p>
+            </div>
             </td>
-            <td width="35">&nbsp;</td>
+            <!--<td class="button_container">
+            <div class="linker"><a href="/makeabooking/terms/index.jsp" class="b-more-link">Booking Ts &amp; Cs</a></div>
+            </td>-->
         </tr>
     </tbody>
 </table>
-</div>
-		</div>
-	
-	
-	
-	<div class="head head_logo" style="background-image: url(/images/CR-homepage/header_logo.png)">
-	    <div class="hidden1">
-		<a href="/index.jsp" title="Center Parcs"><b>Center Parcs</b></a>
-	    </div>
-	    
-	    
-	    
-	    
-	    
-	    <div class="header_links">
-	    <div class="header_links_inner">
-		
-		    
-		    
-		    
-		    
-			
-			
-			    <a href="http://events.centerparcs.co.uk" class="link">Conferences &amp; Events</a>
-			
-			
-		    
-		
-		    
-		    
-		    
-		    
-			
-			
-			    <a href="http://www.centerparcscareers.co.uk/" class="link">Careers</a>
-			
-			
-		    
-		
-		    
-		    
-		    
-		    
-			
-			    <a href="/company/about_us.jsp" class="link">Company Information</a>
-			
-			
-			
-		    
-		
-		    
-		    
-		    
-		    
-			
-			    <a href="/contact_us.jsp" class="link">Need Help?&nbsp;&nbsp;&nbsp;</a>
-			
-			
-			
-		    
-		
-		
-		
-	    </div>
-	    </div>
-	</div>
-
-	
-	
-    
-    
-
-
-	
-    
-</div>
-
-<style type="text/css">
-.body_outer {
-    background: url("/config/new-main-top-bg.png") no-repeat scroll 50% 0 transparent;
-}
-</style>
-
-<div class="body_outer">
-
-
-
-
-	
-	
-
-    
-	
-	
-	
-	
-	    
-	    
-	
-    
-
-
-<div id="body_fg_div_id" class="body_fg_div" style="background-color: #FFFFFF;">
-    <div style="background: url(/images/main_left_top.jpg) no-repeat;" class="main_corner_left_top"></div>
-    <div style="background: url(/images/main_right_top.jpg) no-repeat;" class="main_corner_right_top"></div>
-    <div style="clear: both;"></div>
-    <div class="upper_dist_div"></div>
-
-
-<div class="left_nav_block">
-<!-- Left navigation -->
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-<style type="text/css">
-.left_nav_su_link_text {
-    color: #000000;
-}
-li.left_nav_sub2_first a {
-    color: #000000;
-}
-
-li.left_nav_sub2 a {
-    color: #000000;
-}
-</style>
-
-<div class="left_menu">
-        <ul class="left_nav_ul">
-                
-                
-                
-                
-                                        
-		
-                
-                        
-
-                        
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-                           
-                        
-
-                        
-                        
-                            
-                            
-                                
-                            
-                        
-
-                        
-                                
-                                                
-                                        
-                                                         
-
-		                        
-
-                                        <li id="id1" class="left_nav_li rounded_6px">
-					    <a class="rounded_6px" id="id1_a" href="/index.jsp" style="background-color: #9cb08c ">
-						<img src="/images/left_nav/home.png" alt="Home">
-						<span>Home</span>
-					    </a>
-					</li>                   
-                                
-
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-                
-                        
-
-                        
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-
-                        
-                        
-                            
-                            
-                                
-                            
-                        
-
-                        
-                                
-                                                
-                                        
-                                                         
-
-		                        
-
-                                        <li id="id2" class="left_nav_li rounded_6px">
-					    <a class="rounded_6px" id="id2_a" href="/discover/index.jsp" style="background-color: #4d663c ">
-						<img src="/images/left_nav/discover.png" alt="Discover Center Parcs">
-						<span>Discover Center Parcs</span>
-					    </a>
-					</li>                   
-                                
-
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-                
-                        
-
-                        
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-
-                        
-                        
-                            
-                            
-                                
-                            
-                        
-
-                        
-                                
-                                                
-                                        
-                                                         
-
-		                        
-
-                                        <li id="id3" class="left_nav_li rounded_6px">
-					    <a class="rounded_6px" id="id3_a" href="/villages/index.jsp" style="background-color: #896532 ">
-						<img src="/images/left_nav/locations.png" alt="Our Villages">
-						<span>Our Villages</span>
-					    </a>
-					</li>                   
-                                
-
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-                
-                        
-
-                        
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-
-                        
-                        
-                            
-                            
-                                
-                            
-                        
-
-                        
-                                
-                                                
-                                        
-                                                         
-
-		                        
-
-                                        <li id="id4" class="left_nav_li rounded_6px">
-					    <a class="rounded_6px" id="id4_a" href="/woburn/index.jsp" style="background-color: #c0aba3 ">
-						<img src="/images/left_nav/todo.png" alt="Discover Woburn Forest">
-						<span>Discover Woburn Forest</span>
-					    </a>
-					</li>                   
-                                
-
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-                
-                        
-
-                        
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-
-                        
-                        
-                            
-                            
-                                
-                            
-                        
-
-                        
-                                
-                                                
-                                        
-                                                         
-
-		                        
-
-                                        <li id="id5" class="left_nav_li rounded_6px">
-					    <a class="rounded_6px" id="id5_a" href="/thingstodo.jsp" style="background-color: #ce7019 ">
-						<img src="/images/left_nav/accommodation.png" alt="Things To Do">
-						<span>Things To Do</span>
-					    </a>
-					</li>                   
-                                
-
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-                
-                        
-
-                        
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-
-                        
-                        
-                            
-                            
-                                
-                            
-                        
-
-                        
-                                
-                                                
-                                        
-                                                         
-
-		                        
-
-                                        <li id="id6" class="left_nav_li rounded_6px">
-					    <a class="rounded_6px" id="id6_a" href="/accommodation/index.jsp" style="background-color: #801c18 ">
-						<img src="/images/left_nav/make_booking.png" alt="Accommodation">
-						<span>Accommodation</span>
-					    </a>
-					</li>                   
-                                
-
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-                
-                        
-
-                        
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-
-                        
-                        
-                            
-                            
-                                
-                            
-                        
-
-                        
-                                
-                                                
-                                        
-                                                         
-
-		                        
-
-                                        <li id="id7" class="left_nav_li rounded_6px">
-					    <a class="rounded_6px" id="id7_a" href="/makeabooking.jsp" style="background-color: #575081 ">
-						<img src="/images/left_nav/my_booking.png" alt="Book Now">
-						<span>Book Now</span>
-					    </a>
-					</li>                   
-                                
-
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-                
-                        
-
-                        
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-
-                        
-                        
-                            
-                            
-                                
-                            
-                        
-
-                        
-                                
-                                                
-                                        
-                                                         
-
-		                        
-
-                                        <li id="id8" class="left_nav_li rounded_6px">
-					    <a class="rounded_6px" id="id8_a" href="/mybooking.jsp" style="background-color: #6087a6 ">
-						<img src="/images/left_nav/overlay_8.png" alt="My Booking">
-						<span>My Booking</span>
-					    </a>
-					</li>                   
-                                
-
-                                
-                                
-                                
-                                
-                                
-                                
-                        
-
-                        
-                        
-                
-                
-                
-        </ul>
-</div>
-
-    
-    
-	
-    
-
-
-    
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-	
-    
-    
-    
-    
-    
-	
-    
-
-    
-    
-	
-    
-    
-    
-    
-	
-    
-
-</div>
-
-
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-<link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/promobox_tcm6-712.css">
-
-<link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/style.css">
-<link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/home_page.css">
-
-
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/new_accom_menu_tcm6-9261.js?v=1"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/date.js?v=1"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/DDB.js?v=1"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/dynamicText.js?v=1"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/LSCBooking.js?v=1"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/override.js?v=1"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/radioset.js?v=1"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/cookies_tcm6-6269.js?v=1"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/header_menu.js"></script>
-
-<script type="text/javascript">
-<!--//
-var active ='init';
-//-->
-</script>
-
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/bgImageSafeDetect_tcm6-697.js?v=1"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/questions_tcm6-706.js"></script>
-<script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/jquery.js"></script>
-
-<script language="JavaScript">
-
-function validateForm(urlStep3, urlStep1, urlStep2) {
-    
-  var form = document.FSSform;
-  
-  grabArrDate();
-  
-  var ddVillage = document.getElementById("Select3");
-  var ddBreak = document.getElementById("Select7");
-  var ddChildren16 = document.getElementById("Select23");
-  var offerCode = document.getElementById("offerCode");
-  var additionalReq = document.getElementById('Select15').value; 
-  var stayWithUS = document.getElementById('stayWithUs'); 
-
-/*
-  var offer_code_reg = /[a-z]/;
-  if(offerCode != null) {
-    var offer_code_result = offer_code_reg.test(offerCode.value);
-    if(offer_code_result != 0) {
-      if (additionalReq.indexOf("No") == 0) {
-         alert("Please provide offer code in uppercase letters");
-         return false;
-      }
-    }
-  }
-*/
-
-// CR7863
-//  offerCode.value = offerCode.value.toUpperCase();
-  if (stayWithUS.parentElement.className.indexOf('checked') != -1) {
-	  stayWithUS.checked = true;
-	  offerCode.value = "CBSOON";
-  }
-  else {
-	  stayWithUS.checked = false;
-	  offerCode.value = "";
-  }
-  
-  form.durationSelect.value = ddBreak.options[ddBreak.selectedIndex].value;
-  if (ddBreak.options[ddBreak.selectedIndex].value == "Select") {
-    if (additionalReq.indexOf("No") == 0) {
-      alert("Please select how long you would like to stay from the drop-down list.");
-      return false;
-    }
-    else {
-      form.durationSelect.value = "";
-    }
-  }
-  
-  form.accCode.value = ddVillage.options[ddVillage.selectedIndex].value;
-  if (ddVillage.options[ddVillage.selectedIndex].value == "Select") {
-    if (additionalReq.indexOf("No") == 0) {
-      alert("Please select a village from the drop-down list.");
-      return false;
-    }
-    else {
-      form.accCode.value = "";
-    }
-  }
-
-  var hiddenVals = findElement("childAges");
-  if (hiddenVals != null) {
-    removeChildren(hiddenVals);
-  }
-
-  for (var i = 0 ; i < parseInt(form.numberToddlers1.value); i++) {
-     hiddenVals.appendChild(createHidden("ageToddlers1", 5));
-  }
-
-  for (i = 0 ; i < parseInt(form.numberChildren1.value); i++) {
-     hiddenVals.appendChild(createHidden("ageChildren1", 16));
-  }
-  
-  form.duration.value = getDropDownValue(form.durationSelect_);
-  if (isNaN(parseInt(form.duration.value))) {
-    var bp = overrideDates.findBookPattern(form.duration.value, getDropDownText(form.dayinmonth));
-
-    if (bp != null) {
-      form.duration.value = bp.duration;
-      var msg = bp.validator(form);
-      if (msg != "") {
-        if (additionalReq.indexOf("No") == 0) {
-          alert(msg);
-          return false;
-        }
-      }    
-    }
-  }
- 
-  var code = document.getElementById('Select7').value; 
-  if (code.indexOf("XMAS") == 0 || code.indexOf("NY") ==0 || code.indexOf("PRNY") ==0 || code.indexOf("PRXM") ==0 || code.indexOf("PONY") ==0 || code == "Select") {
-    form.arrDate.value = code; 
-    form.duration.value = "";
-  }
-
-  if (parseInt(form.numberAdults1.value) + parseInt(form.numberInfants1.value) + parseInt(form.numberToddlers1.value) + parseInt(form.numberChildren1.value) < 1) {
-    if (additionalReq.indexOf("No") == 0) {
-      alert("You must specify at least one guest\n"); 
-      return false;
-    }
-  }
- 
-  var numberPeople = parseInt(form.numberAdults1.value) + parseInt(form.numberToddlers1.value) + parseInt(form.numberChildren1.value);    
-  if (numberPeople > 8) {
-    if (additionalReq.indexOf("No") == 0) {
-      alert("One lodge fits up to 8 people.\nPlease select 'Yes' in the 'Any additional requirements' fields to choose 2+ lodges.\n"); 
-      return false;
-    }
-  }
-
-  if (form.numberAdults1.value == 0) {
-    if (additionalReq.indexOf("No") == 0) {
-      alert("Your party must include at least one adult.\n");
-      return false;
-    }
-  }
-  
-  var requiredBedrooms = Math.ceil(numberPeople / 2);
-  if (requiredBedrooms <= 4)
-  {
-     form.numberBedrooms1.value = requiredBedrooms;
-  }
-  else
-  {
-    form.numberBedrooms1.value = 4;
-  }
-
-
-  if (offerCode.value.indexOf("CB") == 0 || offerCode.value.indexOf("WH") ==0 || additionalReq.indexOf("Yes") == 0) {
-// CR7863
-//  if ((offerCode.checked == true) || (additionalReq.indexOf("Yes") == 0)) {
-
-  // hidden value for Step2
-    hiddenVals = findElement("step2");
-    if (hiddenVals != null) {
-      removeChildren(hiddenVals);
-    }
-
-    hiddenVals.appendChild(createHidden("startPoint", "index.jsp"));
-    hiddenVals.appendChild(createHidden("searchIndex", 1));
-    hiddenVals.appendChild(createHidden("essentialFacility", ""));
-    hiddenVals.appendChild(createHidden("essentialFacility", "11"));
-    if (form.arrDate.value.indexOf("XMAS") == 0 || form.arrDate.value.indexOf("NY") ==0 || form.arrDate.value.indexOf("PRNY") ==0 || form.arrDate.value.indexOf("PRXM") ==0 || form.arrDate.value.indexOf("PONY") ==0 || form.arrDate.value == "Select") 
-      hiddenVals.appendChild(createHidden("sbCode", form.arrDate.value));
-   
-    hiddenVals.appendChild(createHidden("numBeds", form.numberBedrooms1.value));
-    
-    if (parseInt(form.numberAdults1.value) > 0) {
-      hiddenVals.appendChild(createHidden("ptcCode", "ADT"));
-      hiddenVals.appendChild(createHidden("ptcQty", form.numberAdults1.value));
-    }
-  
-    if (parseInt(form.numberInfants1.value) > 0) {
-      hiddenVals.appendChild(createHidden("ptcCode", "INF"));
-      hiddenVals.appendChild(createHidden("ptcQty", form.numberInfants1.value));
-    }
-  
-    if (parseInt(form.numberChildren1.value) > 0) {
-      hiddenVals.appendChild(createHidden("ptcCode", "CH"));
-      hiddenVals.appendChild(createHidden("ptcQty", form.numberChildren1.value));
-    }
-  
-    if (parseInt(form.numberToddlers1.value) > 0) {
-      hiddenVals.appendChild(createHidden("ptcCode", "PS"));
-      hiddenVals.appendChild(createHidden("ptcQty", form.numberToddlers1.value));
-    }
-
-    form.step.value= "fragment_search";
-    form.action = urlStep2;
-  }
-  else {
-    form.step.value= "newSearch2";
-    form.action = urlStep3;
-  }
-
-  if (additionalReq.indexOf("Yes") == 0) {
-//    if (offerCode.value.indexOf("CB") == 0 || offerCode.value.indexOf("WH") ==0) {
-// CR7863    
-//    if (offerCode.checked == true) {
-//      form.action = urlStep2;
-//      form.step.value= "searchPt2";
-      
-//	if (form.duration.value == "") { // special break selected
-//	   hiddenVals.appendChild(createHidden("specialEvents_dd", form.arrDate.value));
-//	   hiddenVals.appendChild(createHidden("lengthStay", "specialEvent"));
-//	}
-//	else {
-//	   hiddenVals.appendChild(createHidden("specialEvents_dd", "-"));
-//	   if (form.duration.value == "3") {
-//		   hiddenVals.appendChild(createHidden("lengthStay", "weekend"));
-//	   } else if (form.duration.value == "4") { 
-//		   hiddenVals.appendChild(createHidden("lengthStay", "midweek"));
-//	   } else if (form.duration.value == "7") { 
-//		   hiddenVals.appendChild(createHidden("lengthStay", "1week"));
-//	   } else {
-//		   hiddenVals.appendChild(createHidden("lengthStay", "-"));
-//	   }
-//	}      
-      
-      
-//      hiddenVals.appendChild(createHidden("dd_selectMonth", form.arrDate.value.substring(2,4) + " 20" + form.arrDate.value.substring(0,2)));
-//      hiddenVals.appendChild(createHidden("dd_selectDate", form.arrDate.value.substring(4,6)));
-      
-//    }
-//    else {
-//      if (form.accCode.value != "" && form.durationSelect.value != "") {
-//        form.action = urlStep2;
-//      }
-//      else {
-        form.action = urlStep1;
-//      }  
-//    }
-  }  
-  else {
-    if (offerCode.value.indexOf("CB") == 0 || offerCode.value.indexOf("WH") ==0) {
-// CR7863    
-//    if (offerCode.checked == true) {
-      form.action = urlStep1 + "wrapper.jsp";
-      form.step.value= "newSearch2";
-      hiddenVals = findElement("step2");
-      hiddenVals.appendChild(createHidden("_pageName", "comeBackSoon"));
-    }
-  }
-
-
-// CR7863  
-//  if (offerCode.checked == true) {
-//	  offerCode.value = "CBSOON";
-//  }
-//  else {
-//	  offerCode.value = "";
-//  }
-  
-  var dateCookie = new Cookie(document,"dateCookie");
-  dateCookie.monyr = getDropDownValue(form.monthyear);
-  dateCookie.day = getDropDownValue(form.dayinmonth);
-  dateCookie.store();
-  
-  return true;
-}
-		
-function formSubmit(urlStep3, urlStep1, urlStep2, urlType) {
-  if (validateForm(urlStep3, urlStep1, urlStep2)) {
-    var form = document.FSSform;
-    if (urlType == "new_window") {
-	    form.setAttribute("target", "_blank");
-    }
-    else {
-	    form.setAttribute("target", "_top");
-    }
-    form.submit();
-  }  
-}
-
-function toggleCodeInput() {
-/*
-  if ((trim(getDropDownValue(document.FSSform.accomCategory)) != "") || (trim(getDropDownValue(document.FSSform.numBeds)) != "")) {
-    document.FSSform.accRef.value = "";
-    document.FSSform.accRef.disabled = true;   
-    document.FSSform.accRef.style.backgroundColor="#DEF1D1";
-  } else {
-    document.FSSform.accRef.disabled = false;      
-    document.FSSform.accRef.style.backgroundColor="white";
-  }
-*/
-}
-
-function pageInit() {
-  changeboxes();
-
-  var form = document.FSSform;
-  
-  for (var period in overrideDates) {
-    if (typeof overrideDates[period] == "object") {
-      if (overrideDates[period].getDate("end", "FSS") >= form.dateRangeStart.value) {
-        form.durationSelect_.options[form.durationSelect_.options.length] = new Option(overrideDates[period].name, period);
-      } else if (overrideDates[period].getDate("start", "FSS") < form.dateRangeStart.value) {
-        overrideDates[period].closeOutStart = createDate(form.dateRangeStart.value);
-      }
-    }
-  }
-
-  var code = document.getElementById('Select7').value; 
-  var dateCookie = new Cookie(document,"dateCookie");
-  if (dateCookie.load()) {
-  if (code.indexOf("XMAS") == 0 || code.indexOf("NY") ==0 || code.indexOf("PRNY") ==0 || code.indexOf("PRXM") ==0 || code.indexOf("PONY") ==0 || code == "Select") 
-	{
-	hideCalendar()
-	return;
-	}
-    setDropDown(document.FSSform.monthyear, dateCookie.monyr);
-    document.FSSform.monthyear.onchange();
-    setDropDown(document.FSSform.dayinmonth, dateCookie.day);
-  }
-  
-  if (code.indexOf("XMAS") == 0 || code.indexOf("NY") ==0 || code.indexOf("PRNY") ==0 || code.indexOf("PRXM") ==0 || code.indexOf("PONY") ==0 || code == "Select") 
-	{
-	hideCalendar()
-	return;
-	}
-
-  changedates(true);
-
-  modifyCalendar(document.FSSform.durationSelect_);
-  toggleCodeInput();
-
-  if (document.FSSform.arrDate.value) {
-      //    setDropDown(document.FSSform.dayinmonth, document.FSSform.arrDate.value.substr(4));
-      var arrDate = document.FSSform.arrDate.value.substr(4);
-      if(arrDate.charAt(0) == '0')
-      {
-            arrDate = arrDate.substr(1);
-      }
-      setDropDown(document.FSSform.dayinmonth, arrDate);
-  }
-
-}
-
-function villageChange() { 
-  var form = document.FSSform;
-  
-  grabArrDate();
-  
-  var monyr = getDropDownValue(form.monthyear);
-  var day = getDropDownValue(form.dayinmonth);
-  var duration = getDropDownValue(form.durationSelect_);
-
-  changeboxes();
-
-  setDropDown(document.FSSform.durationSelect_, duration);
-  document.FSSform.durationSelect_.onchange();
-  setDropDown(document.FSSform.monthyear, monyr);
-  document.FSSform.monthyear.onchange();
-  setDropDown(document.FSSform.dayinmonth, day);
-  
-  modifyCalendar(document.FSSform.durationSelect_);
-}
-
-function durationChange() { 
-  var code = document.getElementById('Select7').value; 
-  if (code.indexOf("XMAS") == 0 || code.indexOf("NY") ==0 || code.indexOf("PRNY") ==0 || code.indexOf("PRXM") ==0 || code.indexOf("PONY") ==0 || code == "Select") {
-    hideCalendar();
-  } 
-  else {
-    showCalendar();
-    changedates();
-    modifyCalendar(document.FSSform.durationSelect_);
-  }
-}
-
-function dayChange() { 
-  var form = document.FSSform;
-  var bp = overrideDates.findBookPattern(getDropDownValue(form.durationSelect_), getDropDownText(form.dayinmonth));
-  if (bp != null) { 
-    form.duration.value = bp.duration;
-    bp.onSelect(form);        
-  }   
-}
-
-</script>
-
-<script language="JavaScript">
-<!-- hide from scriptless browsers
-
-function openpopup(){
-	//***		USER SETTINGS		***//
-
-	var surveyName = "http://sol1.surveyshop.com/surveylogin.asp?k=119305824867";	//Can be a full URL or a reference name
-	var topLeftX = 0;
-	var topLeftY = 0;
-	var delaySeconds = 30; //Number of seconds delay before opening popup. DOES NOT WORK IF CALLED FROM onUnLoad
-	var pickRandom = false;
-	var ratioAsked = 1;	//Ratio of people visiting against those being shown questionnaire
-	var optionList = '';
-	//optionList += ',fullscreen=yes';	//Full-screen mode (IE 4 onwards only)
-	//optionList += ',scrollbars=yes';	//Scrollbars
-	//optionList += ',menubar=yes';	//Menu bar (File, Edit, View etc.)
-	//optionList += ',location=yes';	//Location field to enter  URL
-	//optionList += ',resizable=yes';	//Allow user to resize window.
-
-	//***		END OF USER SETTINGS		***//
-
-	if ((parseInt(Math.random() * ratioAsked)) == 1 || pickRandom == false)
-	{
-		var width = 800;
-		var pageSize = "";
-		var leftAndTop = "";
-		if (parseFloat(navigator.appVersion) >= 4)
-			width = screen.width;
-		if (width < 700)
-			pageSize = 'width=400,height=420';	//Screen resolution < 800x600
-		else
-			pageSize = 'width=780,height=550';	//Screen resolution 800x600 or above
-		if (navigator.appName == "Netscape")
-			leftAndTop = ",screenX=" + topLeftX + ",screenY=" + topLeftY;
-		else
-			leftAndTop = ",left=" + topLeftX + ",top=" + topLeftY;
-		if (delaySeconds > 0)
-			window.setTimeout("window.open('" + surveyName + "','','" + pageSize + leftAndTop + optionList + "');", delaySeconds * 1000);
-		else
-			window.open(surveyName,'',pageSize + leftAndTop + optionList);
-		return true;
-	}
-}
-
-
-function get_cookie(Name) {
-	var search = Name + "="
-	var returnvalue = "";
-	if (document.cookie.length > 0) {
-		offset = document.cookie.indexOf(search)
-	    if (offset != -1) { // if cookie exists
-			offset += search.length
-			// set index of beginning of value
-			end = document.cookie.indexOf(";", offset);
-			// set index of end of cookie value
-			if (end == -1)
-				end = document.cookie.length;
-		returnvalue=unescape(document.cookie.substring(offset, end))
-		}
-	}
-	return returnvalue;
-}
-
-
-function loadpopup(){
-	//***		USER SETTINGS		***//
-	dropCookie = true;
-	//***		END OF USER SETTINGS		***//
-    
-	if (get_cookie('popped')=='')
-	{
-		if (openpopup() && dropCookie) {
-			var expireDate = new Date();
-			expireDate.setFullYear(expireDate.getFullYear()+1);
-			document.cookie="popped=yes;expires=" + expireDate.toGMTString();
-			
-		}
-	}
-}
-
-
-function hideCalendar() {
-	var calTitle_1 = document.getElementById('arrivalDate');
-	if (calTitle_1 != null)
-	  calTitle_1.style.visibility = "hidden";
-}
-
-function showCalendar() {
-	var calTitle_1 = document.getElementById('arrivalDate');
-	if (calTitle_1 != null)
-	  calTitle_1.style.visibility = "visible";
-}
-// end hiding-->   
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-		<div class="content" id="content_id" style="float: left; margin-top: 5px; width: 583px;">
-	
-
-
-
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-	
-	
-	    
-	    
-	
-	
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-<div class="left_" style="float: right;">
-
-	
-
-	
-
-    <div class="promobox" style="float: none;">
-
-    
-	<div class="visualLinks">
-	    
-
-	    
-	</div>
-
-	
-
-	<div class="relatedContent">
-	    
-
-	</div>
-    </div>
-
-</div>
-
-
-    
-    
-    
-    
-    
-
-
-    <div class="copy">
-	
-
-	
-	    
-	    
-		<div class="copy">
-<h1>Privacy and Cookie&nbsp;Policy</h1>
-</div>
-	    
-	
-
-	<p align="left"><b><u>PRIVACY STATEMENT</u></b></p>
-<p><b>GENERAL</b><br>
+<p>&nbsp;</p>
+<div class="main_text">
+<p align="left"><b><u>Privacy statement<br>
+</u></b></p>
+<br>
+<p><b>General</b><br>
 This privacy statement sets out how Center Parcs Limited complies with European Union data protection requirements. It applies to the entire web site and you can access it via our homepage and from the bottom of every page by clicking on the appropriate link. We may change this privacy statement from time to time by updating this page therefore, you should continue to check this page to ensure you are happy with any changes.<br>
 <br>
 Center Parcs Limited and its parent, subsidiary and associated companies are committed to respecting your privacy. We have structured our web site so that, in general, you can visit the Center Parcs web site without identifying yourself or revealing any personal information. Once you choose to provide us with any information by which you can be identified, then you can be assured that it will only be used in accordance with this privacy statement.<br>
 For your protection, we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.</p>
-<p><b>WHAT WE COLLECT</b><br>
+<br>
+<p><b>What we collect</b><br>
 We may collect the following information:<br>
 •&nbsp;Where you can order holidays, breaks, products or other services, we will collect your name, contact (telephone, fax, mail and e-mail addresses) and billing information, transaction and credit card information.&nbsp;<br>
 •&nbsp;We may also ask you to provide us with information regarding your personal or professional interests, demographics, experiences with our holidays, breaks, products or other services and contact preferences in order to provide you with further correspondence about our holidays, breaks, products or other services.&nbsp;<br>
 Brochure requests<br>
 •&nbsp;Some pages use cookies and web beacons, a data analysis technique. In order to learn more about cookies, please refer to the section at the end of this Privacy Statement.&nbsp;&nbsp;</p>
-<p><b>WHAT DO WE DO WITH THE INFORMATION WE GATHER?</b><br>
+<br>
+<p><b>What do we do with the information we gather?</b><br>
 We require this information to understand your needs and provide you with a better service and in particular for the following reasons:<br>
 • Internal record keeping.<br>
 • To improve our products and services.<br>
@@ -1784,13 +3493,16 @@ We require this information to understand your needs and provide you with a bett
 • To send promotional e-mails about new products, special offers or other information that we think you may find interesting using a valid e-mail address if you have provided one and have not opted-out of receiving email communications from Center Parcs. To opt out of these promotional email communications, please <a target="_blank" href="http://emailalerts.centerparcs.co.uk/public/unsubscribe.jsp">click this link</a>.</p>
 <p>We may occasionally use third party companies to manage collation, processing and storage of your personal information and sensitive personal information on our behalf. These companies may be located outside the European Economic Area, however they are carefully selected and screened to ensure suitable protection of your security and privacy and are permitted to use the information only in accordance with our instructions.</p>
 <p>You may change your mind about the permission you have given us to use your personal information at any time by emailing us at <a href="mailto:data.protection@centerparcs.co.uk">data.protection@centerparcs.co.uk</a> or writing to:</p>
+<br>
 <p>Data Protection Compliance Officer<br>
 Center Parcs Limited<br>
 Head Office<br>
 One Edison Rise<br>
 Nottinghamshire, NG22 9DP</p>
-<p><b>WHAT IF YOU THINK WE HAVE INCORRECT INFORMATION OR YOU WOULD LIKE A COPY OF THE INFORMATION WE HOLD ABOUT YOU?</b><br>
+<br>
+<p><b>What if you think we have incorrect information or you would like a copy of the information we hold about you?</b><br>
 You may request details of personal information that we hold about you under the Data Protection Act 1998. A small fee will be payable. This fee will not exceed £10 per data subject. If you would like a copy of the information held on you please write to:</p>
+<br>
 <p>Data Protection Compliance Officer<br>
 Center Parcs Limited<br>
 One Edison Rise<br>
@@ -1798,142 +3510,48 @@ New Ollerton<br>
 Newark<br>
 Nottinghamshire NG22 9DP<br>
 Email: <a href="mailto:data.protection@centerparcs.co.uk">data.protection@centerparcs.co.uk</a></p>
+<br>
 <p>If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.</p>
-<p><b>SECURITY</b><br>
+<br>
+<p><b>Security</b><br>
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and organisational controls to safeguard the information we collect online.</p>
-<p><b>OTHER WEB SITES</b><br>
+<br>
+<p><b>Other web sites</b><br>
 Our web site may contain links to enable you to visit other web sites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the web site in question.</p>
 <p>&nbsp;</p>
-<p align="left"><b><u>COOKIE STATEMENT</u></b></p>
+<p align="left"><b><u>Cookie statement<br>
+</u></b></p>
+<br>
 <p>A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an online store, a cookie allows your basket content to be remember as your browse from page to page. The cookie file is placed on your hard drive and keeps track of your basket, and can be used to analyse your journey through the website to improve the website in the future.</p>
+<br>
 <p>We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes the pages visited, a booking and value of the booking. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking here: <a href="http://centerparcs.112.2o7.net/optout.html">http://centerparcs.112.2o7.net/optout.html</a></p>
+<br>
 <p>Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile.</p>
+<br>
 <p>You can set most web browsers to notify you of cookie placement requests or decline cookies completely by configuring your browser to suit your personal preference in relation to cookie management.</p>
-
-<script>
-// moock fpi [f.lash p.layer i.nspector]
-// version: 1.3.4
-// written by colin moock
-// modified by James Costerton
-// code maintained at: http://www.moock.org/webdesign/flash/detection/moockfpi/
-// unrestricted use permission granted for:
-// artists, educational institutions and non-profit organizations. 
-// restricted use permission granted for commercial purposes under linkware agreement terms set out
-// at the above url...
-// system globals
-var flash2Installed = false;
-var flash3Installed = false;
-var flash4Installed = false;
-var flash5Installed = false;
-var flash6Installed = false;
-var flash7Installed = false;
-var flash8Installed = false;
-var flash9Installed = false;
-var flash10Installed = false;
-var maxVersion = 10;
-var actualVersion = 0;
-var hasRightVersion = false;
-var jsVersion = 1.0;
-
-var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
-var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false;
-
-// this is a js1.1 code block, so make note that js1.1 is supported.
-jsVersion = 1.1;
-
-// write vbscript detection if we're not on mac.
-if(isIE && isWin){ // don't write vbscript tags on anything but ie win
-	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
-	document.write('on error resume next \n');
-	document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
-	document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
-	document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-	document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');	
-	document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');
-	document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');	
-	document.write('flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) \n');	
-	document.write('flash9Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.9"))) \n');	
-	document.write('flash10Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.10"))) \n');	
-	document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
-}
-
-function detectFlash(){
-	if (navigator.plugins){
-		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-			var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-			var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-		var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
-			flash2Installed = flashVersion == 2;		
-			flash3Installed = flashVersion == 3;
-			flash4Installed = flashVersion == 4;
-			flash5Installed = flashVersion == 5;
-			flash6Installed = flashVersion == 6;
-			flash7Installed = flashVersion == 7;
-			flash8Installed = flashVersion == 8;
-			flash9Installed = flashVersion == 9;
-			flash10Installed = flashVersion == 10;
-		}
-	}
-	for (var i = 2; i <= maxVersion; i++) {	
-		if (eval("flash" + i + "Installed") == true) actualVersion = i;
-	}
-	if(navigator.userAgent.indexOf("WebTV") != -1) actualVersion = 2;	
-}
-
-function chkFlash( majorVersion ){
-	return actualVersion>=majorVersion;
-}
-
-detectFlash();
-//alert("flash9Installed= " + flash9Installed + " actualVersion= " + actualVersion);
-
-// THIS SHOULD BE IN AN INCLUDE FILE TOO
-var requiredVersion = 7;
-
-function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVars,altImg,altImgAltText)
-{	if(actualVersion>=versionNo)
-	{
-	
-    createFlashEmbed2(id, strSrc, strBgColor, strWidth, strHeight, strFVars);
-    	} else {
-	document.write("<img src=\""+altImg+"\" alt=\"" + altImgAltText + "\" />");
-	}
-}
-
-</script>
-
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-	
-	<div class="">
-	    <ul>
-		
-	    </ul>
-	</div>
-
-	
-	
-	<div class="questionLayers">
-	    <div id="init" style="display: none;"></div>
-	    
-	</div>
-    </div>
-
-    
-
-    
-    
 </div>
+</div>
+</div>
+
+                    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		
+	
 
 
 
@@ -1982,21 +3600,42 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 	
     
 
+
+
+
     
-    <div style="background: url(/images/main_left_bottom.jpg) no-repeat;" class="main_corner_left_bottom"></div>
-    <div style="background: url(/images/main_right_bottom.jpg) no-repeat;" class="main_corner_right_bottom"></div>
-    <!--CR<div style="clear: both;"></div> -->
 
-    </div>
-    <div style="clear: both;"></div>
-    </div>
+    
 
 
+
+
+
+     
+    
+
+
+
+
+<!-- FOOTER -->
 
     
     
 	
+		
+		 
+
 	    
+
+
+
+
+ 
+
+
+
+
+
 
 
 
@@ -2035,34 +3674,19 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 		
 	    
 
-	    <!--<div class="footer_grey_outer" style="background-color: #a0ab40;">-->
-	    <div class="footer_grey_outer">
-	    		
-		<!--<div class="footer_grey footer_grey_height_unique" style="background-color: #425B31;">-->
-		<div class="footer_grey footer_grey_height_unique">
-		
-		
-		
-		<div class="footer_corners top">
-			<i class="footer-l-c"></i>
-			<i class="footer-r-c"></i>
-			<i class="footer-c"></i>
-		</div>
-		<div class="footer_corners bottom">
-			<i class="footer-l-c"></i>
-			<i class="footer-r-c"></i>
-			<i class="footer-c"></i>
-		</div>
-		<div class="footer_logo_column">
-		    <img src="/images/CR-homepage/footer_logo.png" class="footer_logo">
-		    <p id="footer_copyright_text" class="footer_copyright_text">© Center Parcs 2012</p>
-		</div>
-		<div class="footer_text_column">
+
+	
+	
+
+
+<div class="b-footer">
+    <div class="b-footer-inner">
+        <div class="b-footer-txt-column">
+        <!--    <p class="p-txt"> -->
 		    
 			<h2><style type="text/css">div.footer_text_column h1 {font-size: 11px;font-weight: bold;line-height: 0px;margin: 0px;padding: 0px;</style></h2>
 		    
-		    <p>UK holidays, weekend breaks and short breaks from Center Parcs, we operate five Holiday Villages in the UK; each is set in a forest environment, providing high quality holiday accommodation in fully equipped villas, apartments and holiday lodges. Each Village offers an extensive range of sports and leisure activities plus numerous restaurants, bars and retail outlets and superb Aqua Sana Spa facilities. Whether you are looking for a family holiday, activity holiday, short break, weekend break or even a spa break, Center Parcs has all the essential elements to make the perfect UK holiday.</p>
-<script type="text/javascript">
+		    <script type="text/javascript">
 
 setTimeout(function(){var a=document.createElement("script");
 
@@ -2073,61 +3697,51 @@ a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 </script>
-		</div>
-		<div class="footer_link_column_unique" style="margin-left:0px;">		
-		  
-	          <ul style="list-style: none;">
+        <!--    </p> -->
+            <img class="b-footer-logo" src="/images/cr_home_page/CP-Footer-Logo.jpg" alt="">
+	    <p class="b-footer_copyright_text">© Center Parcs 2014</p>
+        </div>
+        <div class="b-footer_link_column">
+            <ul class="b-footer-link-list">
 		    
 		        
 		        
 		        
 		        
 			    
-			        <li><p><a href="/late_holiday_deals.jsp" class="footer_link">Late Holidays</a></p></li>
 			    
 			    
+                <li><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></li>
 			    
 		        
+		    
+            </ul>
+        </div>
+        <div class="b-footer_link_column">
+            <ul class="b-footer-link-list">
 		    
 		        
 		        
 		        
 		        
 			    
-			        <li><p><a href="/forest_holidays.jsp" class="footer_link">Forest Holidays</a></p></li>
 			    
 			    
+                <li><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></li>
 			    
 		        
+		    
+            </ul>
+        </div>
+        <div class="b-footer_link_column last-column">
+            <ul class="b-footer-link-list">
 		    
 		        
 		        
 		        
 		        
 			    
-			        <li><p><a href="/summer_holidays.jsp" class="footer_link">Summer Holidays</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/bank_holiday.jsp" class="footer_link">Bank Holidays</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/christmas_holiday.jsp" class="footer_link">Christmas Holidays</a></p></li>
+                <li><p><a href="/sitemap.jsp" class="footer_link">Sitemap</a></p></li>
 			    
 			    
 			    
@@ -2138,7 +3752,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		        
 		        
 			    
-			        <li><p><a href="/winter_holidays.jsp" class="footer_link">Winter Holidays</a></p></li>
+                <li><p><a href="/information/privacy/index.jsp" class="footer_link">Privacy/Cookie Policy</a></p></li>
 			    
 			    
 			    
@@ -2149,7 +3763,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		        
 		        
 			    
-			        <li><p><a href="/holidays_england.jsp" class="footer_link">England Holidays</a></p></li>
+                <li><p><a href="/information/terms/index.jsp" class="footer_link">Terms &amp; Conditions</a></p></li>
 			    
 			    
 			    
@@ -2160,232 +3774,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		        
 		        
 			    
-			        <li><p><a href="/lake_district.jsp" class="footer_link">Lake District Holidays</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/activity_holidays.jsp" class="footer_link">Activity Holidays</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/school_holiday.jsp" class="footer_link">School Holidays</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/family_breaks.jsp" class="footer_link">Family breaks</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/short_breaks.jsp" class="footer_link">Short Breaks</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		</ul>
-	       </div>
-
-		
-		<div class="footer_link_column_unique" style="margin-left:15px;">
-		  
-		  <ul style="list-style: none;">
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/holiday_cottages.jsp" class="footer_link">Holiday Cottages</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/holiday_park.jsp" class="footer_link">Holiday Parks</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/weekend_breaks.jsp" class="footer_link">Weekend Breaks</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/spa_breaks.jsp" class="footer_link">Spa Breaks</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/spa_days.jsp" class="footer_link">Spa Days</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/midweek_breaks.jsp" class="footer_link">Midweek Breaks</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/new_year.jsp" class="footer_link">New Year Breaks</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/half_term.jsp" class="footer_link">Half Term Breaks</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/holiday_lodges.jsp" class="footer_link">Lodge Holidays</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/self_catering_holidays.jsp" class="footer_link">Self Catering Holidays</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/giftvouchers.jsp" class="footer_link">Gift Vouchers</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		</ul>
-	     </div>
-
-		
-		<div class="footer_link_column_unique" style="margin-left:15px;">
-		  
-		  <ul style="list-style: none;">
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/sitemap.jsp" class="footer_link">Sitemap</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/information/privacy/index.jsp" class="footer_link">Privacy/Cookie Policy</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/information/terms/index.jsp" class="footer_link">Terms &amp; Conditions</a></p></li>
-			    
-			    
-			    
-		        
-		    
-		        
-		        
-		        
-		        
-			    
-			        <li><p><a href="/information/accessibility/index.jsp" class="footer_link">Accessibility</a></p></li>
+                <li><p><a href="/information/accessibility/index.jsp" class="footer_link">Accessibility</a></p></li>
 			    
 			    
 			    
@@ -2397,7 +3786,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		        
 			    
 			    
-			        <li><p><a href="http://www.press.centerparcs.co.uk/" class="footer_link">Press Office</a></p></li>
+                <li><p><a href="http://www.centerparcs.co.uk/press" class="footer_link">Press Office</a></p></li>
 			    
 			    
 		        
@@ -2407,23 +3796,761 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		        
 		        
 			    
-			        <li><p><a href="/contact_us.jsp" class="footer_link">Need Help?</a></p></li>
+                <li><p><a href="/contact_us.jsp" class="footer_link">Need Help?</a></p></li>
 			    
 			    
 			    
 		        
 		    
-		</ul>
-	     </div>
-	    </div>
-	    </div>
-	
-    
-    
-
+		        
+		        
+		        
+		        
+			    
+                <li><p><a href="/giftvouchers.jsp" class="footer_link">Gift Vouchers</a></p></li>
+			    
+			    
+			    
+		        
+		    
+            </ul>
+        </div>
+    </div>
+</div>
 
 	
     
+    
+
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOOKING MAGNET -->
+<!--[if lte IE 9]><style> select.b-bookingMagnet_input{width: 60px;}</style><![endif]-->
+<div id="CR_bookingMagnet" class="b-footer-bookingMagnetNode ">
+<div class="b-bookingMagnet-btn_node">
+    <a href="#" class="b-bookingMagnet-btn_break">Book Your Break</a>
+    <a href="#" class="b-bookingMagnet-btn_activities">Book Activities</a>
+</div>
+<div class="b-footer-bookingMagnet-section">
+<div class="b-footer-bookingMagnet-content">
+<div class="b-footer-bookingMagnet-break_content">
+<form id="CR_bookingBreakForm" class="bookingMagnetForm" method="post" action="" data-step1="http://reservations.centerparcs.co.uk/prep_search2.jsp" data-step2="http://reservations.centerparcs.co.uk/" data-step3="http://reservations.centerparcs.co.uk/WebResServlet" name="CR_bookingBreakForm">
+<div class="b-footer-bookingMagnet-break-lineNode">
+    <div class="b-footer-bookingMagnet-break-line1 b-searchLine">
+        <div class="b-searchLine-item">
+            <i class="selectNode b-bookingMagnet_selectNode b-width-160">
+                <select id="CR_bookingReferenceLocation" class="b-bookingMagnet_select" name="CR_accCode_">
+                    <option value="Select" selected="selected">Location</option>
+                    <option value="OF">Whinfell Forest</option>
+                    <option value="SF">Sherwood Forest</option>
+                    <option value="EF">Elveden Forest</option>
+                    <option value="WO">Woburn Forest</option>
+                    <option value="LF">Longleat Forest</option>
+                </select>
+                <label for="CR_bookingReferenceLocation" class="b-bookingMagnet-select_btn"></label>
+            </i>
+        </div>
+    </div>
+    <div class="b-footer-bookingMagnet-break-line2 b-searchLine">
+        <div class="b-searchLine-item">
+            <i class="selectNode b-bookingMagnet_selectNode b-width-160">
+                <select class="b-bookingMagnet_select" name="CR_specialBreaks">
+                    <option value="Select" selected="selected">Break Length</option>
+                    <option value="4">Midweek (4 nights)</option>
+                    <option value="3">Weekend (3 nights)</option>
+                    <option value="7">Week (7 nights)</option>
+                    
+                        
+                        
+                        <option value="APXM14">Pre Christmas 2014</option>
+                    
+                        
+                        
+                        <option value="BXM14">Christmas 2014</option>
+                    
+                        
+                        
+                        <option value="CPNY14">Pre New Year 2014</option>
+                    
+                        
+                        
+                        <option value="DN1415">New Year 2014/2015</option>
+                    
+                        
+                        
+                        <option value="EPXM15">Pre Christmas 2015</option>
+                    
+                        
+                        
+                        <option value="FXM15">Christmas 2015</option>
+                    
+                        
+                        
+                        <option value="GPNY15">Pre New Year 2015</option>
+                    
+                        
+                        
+                        <option value="HN1516">New Year 2015/2016</option>
+                    
+                </select>
+                <select id="CR_bookingReferenceBreakLength" class="b-bookingMagnet_select" name="CR_durationSelect_">
+                    <option value="Select" selected="selected">Break Length</option>
+                    <option value="4">Midweek (4 nights)</option>
+                    <option value="3">Weekend (3 nights)</option>
+                    <option value="7">Week (7 nights)</option>
+                    
+                        
+                        
+                        <option value="APXM14">Pre Christmas 2014</option>
+                    
+                        
+                        
+                        <option value="BXM14">Christmas 2014</option>
+                    
+                        
+                        
+                        <option value="CPNY14">Pre New Year 2014</option>
+                    
+                        
+                        
+                        <option value="DN1415">New Year 2014/2015</option>
+                    
+                        
+                        
+                        <option value="EPXM15">Pre Christmas 2015</option>
+                    
+                        
+                        
+                        <option value="FXM15">Christmas 2015</option>
+                    
+                        
+                        
+                        <option value="GPNY15">Pre New Year 2015</option>
+                    
+                        
+                        
+                        <option value="HN1516">New Year 2015/2016</option>
+                    
+                </select>
+                <select id="CR_bookingReferenceBreakLengthWO" name="CR_specialBreaksWO" class="b-bookingMagnet_select" style="display: none;">
+                    <option value="Select" selected="selected">Break Length</option>
+                    <option value="4">Midweek (4 nights)</option>
+                    <option value="3">Weekend (3 nights)</option>
+                    <option value="7">Week (7 nights)</option>
+                    
+                        
+                        
+
+                        
+                            
+                            
+                            <option value="APXM14">Pre Christmas 2014</option>
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+                            <option value="BXM14">Christmas 2014</option>
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+                            <option value="CPNY14">Pre New Year 2014</option>
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+                            <option value="DN1415">New Year 2014/2015</option>
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+                            <option value="EPXM15">Pre Christmas 2015</option>
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+                            <option value="FXM15">Christmas 2015</option>
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+                            <option value="GPNY15">Pre New Year 2015</option>
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+                            <option value="HN1516">New Year 2015/2016</option>
+                        
+                    
+                </select>
+                <label for="CR_bookingReferenceBreakLength" class="b-bookingMagnet-select_btn"></label>
+            </i>
+        </div>
+    </div>
+</div>
+<div class="b-footer-bookingMagnet-break-lineNode">
+    <div class="b-footer-bookingMagnet-break-line1 b-searchLine">
+        <div class="b-searchLine-item">
+            <i class="selectNode b-bookingMagnet_selectNode b-width-125">
+                <select name="CR_monthyear" id="CR_bookingReferenceBreakMonth" class="b-bookingMagnet_select selectArrMonthYear" data-title="Select Month" disabled=""></select>
+                <label for="CR_bookingReferenceBreakMonth" class="b-bookingMagnet-select_btn"></label>
+            </i>
+        </div>
+    </div>
+    <div class="b-footer-bookingMagnet-break-line2 b-searchLine">
+        <div class="b-searchLine-item">
+            <i class="selectNode b-bookingMagnet_selectNode b-width-125">
+                <select name="CR_dayinmonth" id="CR_bookingReferenceBreakDay" class="b-bookingMagnet_select selectArrDay" data-title="Arrival Date" disabled=""></select>
+                <label for="CR_bookingReferenceBreakDay" class="b-bookingMagnet-select_btn"></label>
+            </i>
+        </div>
+    </div>
+</div>
+<div class="b-footer-bookingMagnet-break-lineNode">
+    <div class="b-footer-bookingMagnet-break-line1 b-searchLine">
+        <div class="b-searchLine-item">
+            <div class="b-searchLine-item_labelTop">Adults</div>
+            <div class="b-bookingMagnet_input_wrap">
+                <select name="CR_numberAdults1" class="b-bookingMagnet_input b-width-30 b-bookingMagnet_input_number" id="CR_bookingReferenceBreakAdults">
+                    <option value="0">0</option>
+                    <option value="1">1</option>
+                    <!-- Non-infant category -->
+                    <option value="2" selected="selected">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                </select>
+            </div>
+        </div>
+        <div class="b-searchLine-item">
+            <div class="b-searchLine-item_labelTop">Children</div>
+            <label class="b-searchLine-item_number">
+                <div class="b-bookingMagnet_input_wrap">
+                    <select name="CR_numberInfants1" class="b-bookingMagnet_input b-width-30 b-bookingMagnet_input_number" id="CR_bookingReferenceBreakChildrenUnder2">
+                        <option value="0" selected="selected">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                    </select>
+                </div>
+                <span class="b-searchLine-item_labelBottom">under 2</span>
+            </label>
+            <label class="b-searchLine-item_number">
+                <div class="b-bookingMagnet_input_wrap">
+                    <select name="CR_numberToddlers1" class="b-bookingMagnet_input b-width-30 b-bookingMagnet_input_number" id="CR_bookingReferenceBreakChildren2to5">
+                        <option value="0" selected="selected">0</option>
+                        <option value="1">1</option>
+                        <!-- Non-infant category -->
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                    </select>
+                </div>
+                <span class="b-searchLine-item_labelBottom">2-5yrs</span>
+            </label>
+            <label class="b-searchLine-item_number">
+                <div class="b-bookingMagnet_input_wrap">
+                    <select name="CR_numberChildren1" class="b-bookingMagnet_input b-width-30 b-bookingMagnet_input_number" id="CR_bookingReferenceBreakChildren6to16">
+                        <option value="0" selected="selected">0</option>
+                        <option value="1">1</option>
+                        <!-- Non-infant category -->
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                    </select>
+                </div>
+                <span class="b-searchLine-item_labelBottom">6-16yrs</span>
+            </label>
+        </div>
+    </div>
+    <div class="b-footer-bookingMagnet-break-line2 b-searchLine">
+        <div class="b-searchLine-item">
+            <div class="b-bookingMagnet_input_wrap">
+                <select name="CR_numberBedrooms1" class="b-bookingMagnet_input b-width-30 b-bookingMagnet_input_number" id="CR_bookingReferenceNumberOfBedrooms">
+                    <option value="1" selected="selected">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                </select>
+            </div>
+        </div>
+        <div class="b-searchLine-item">
+            <label for="CR_bookingReferenceNumberOfBedrooms" class="b-searchLine-item_caption">Number of bedrooms</label>
+        </div>
+    </div>
+</div>
+<div class="b-footer-bookingMagnet-break-lineNode">
+    <div class="b-footer-bookingMagnet-break-line1 b-searchLine">
+        <div class="b-searchLine-item">
+            <span class="b-bookingMagnet_checkbox">
+                <input name="CR_offerCodeCheck" type="checkbox" class="b-bookingMagnet_input b-width-30 b-bookingMagnet_input_checkbox" id="CR_bookingReferenceOfferCode">
+            </span>
+        </div>
+        <div class="b-searchLine-item">
+            <label for="CR_bookingReferenceOfferCode" class="b-searchLine-item_caption">Stayed in the last 28 days? Use our <a href="http://www.centerparcs.co.uk/cbsoon"> Come Back Soon</a> offer.</label>
+        </div>
+    </div>
+    <div class="b-footer-bookingMagnet-break-line2 b-searchLine">
+        <div class="b-searchLine-item">
+                                <span class="b-bookingMagnet_checkbox">
+                                    <input name="CR_multipleLodges" type="checkbox" class="b-bookingMagnet_input b-width-30 b-bookingMagnet_input_checkbox" id="CR_bookingReferenceNumberOfMultiple">
+                                </span>
+        </div>
+        <div class="b-searchLine-item">
+            <label for="CR_bookingReferenceNumberOfMultiple" class="b-searchLine-item_caption">Multiple lodges?</label>
+        </div>
+        <div class="b-searchLine-item">
+                                <span class="b-bookingMagnet_checkbox">
+                                    <input name="CR_accessibleAccommodation" type="checkbox" class="b-bookingMagnet_input b-width-30 b-bookingMagnet_input_checkbox" id="CR_bookingReferenceNumberOfAccessible">
+                                </span>
+        </div>
+        <div class="b-searchLine-item">
+            <label for="CR_bookingReferenceNumberOfAccessible" class="b-searchLine-item_caption">Adapted Lodge</label>
+        </div>
+    </div>
+</div>
+<div class="b-footer-bookingMagnet-break-lineNode">
+    <div class="b-footer-bookingMagnet-break-line1 b-searchLine">
+        <div class="b-searchLine-item">
+            <div class="b-bookingMagnet_input_wrap">
+                <select name="CR_numberOfPets" class="b-bookingMagnet_input b-width-30 b-bookingMagnet_input_number" id="CR_bookingReferenceNumberOfDogs">
+                    <option value="0" selected="selected">0</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                </select>
+            </div>
+        </div>
+        <div class="b-searchLine-item">
+            <label for="CR_bookingReferenceNumberOfDogs" class="b-searchLine-item_caption">Number of dogs?</label>
+        </div>
+    </div>
+    <div class="b-footer-bookingMagnet-break-line2 b-searchLine">
+        <a href="#" id="CR_bookingBreakSubmit" class="b-bookingMagnet-btn_link">Book Now</a>
+    </div>
+</div>
+
+
+
+
+
+    
+
+
+    
+
+<input type="hidden" id="CR_startD" value="1321004160000">
+<input type="hidden" id="CR_endD" value="1461236580000">
+
+
+
+
+
+
+
+
+
+<select name="CR_specialBreaks" id="CR_specialBreaks" class="c3" style="display: none;">
+    <option value="Select" selected="selected">Select break length</option>
+    <option value="4">Midweek (4 nights)</option>
+    <option value="3">Weekend (3 nights)</option>
+    <option value="7">Week (7 nights)</option>
+
+    
+        
+        
+        <option value="APXM14">Pre Christmas 2014</option>
+    
+        
+        
+        <option value="BXM14">Christmas 2014</option>
+    
+        
+        
+        <option value="CPNY14">Pre New Year 2014</option>
+    
+        
+        
+        <option value="DN1415">New Year 2014/2015</option>
+    
+        
+        
+        <option value="EPXM15">Pre Christmas 2015</option>
+    
+        
+        
+        <option value="FXM15">Christmas 2015</option>
+    
+        
+        
+        <option value="GPNY15">Pre New Year 2015</option>
+    
+        
+        
+        <option value="HN1516">New Year 2015/2016</option>
+    
+</select>
+
+<select name="CR_specialBreaksWO" id="CR_specialBreaksWO" class="c3" style="display: none;">
+    <option value="Select" selected="selected">Select break length</option>
+    <option value="4">Midweek (4 nights)</option>
+    <option value="3">Weekend (3 nights)</option>
+    <option value="7">Week (7 nights)</option>
+
+    
+        
+        
+
+        
+            
+            
+            <option value="APXM14">Pre Christmas 2014</option>
+        
+    
+        
+        
+
+        
+            
+            
+            <option value="BXM14">Christmas 2014</option>
+        
+    
+        
+        
+
+        
+            
+            
+            <option value="CPNY14">Pre New Year 2014</option>
+        
+    
+        
+        
+
+        
+            
+            
+            <option value="DN1415">New Year 2014/2015</option>
+        
+    
+        
+        
+
+        
+            
+            
+            <option value="EPXM15">Pre Christmas 2015</option>
+        
+    
+        
+        
+
+        
+            
+            
+            <option value="FXM15">Christmas 2015</option>
+        
+    
+        
+        
+
+        
+            
+            
+            <option value="GPNY15">Pre New Year 2015</option>
+        
+    
+        
+        
+
+        
+            
+            
+            <option value="HN1516">New Year 2015/2016</option>
+        
+    
+</select>
+
+<select name="CR_excludedDates1" id="CR_excludedDates1" class="c3" style="display: none;">
+    
+        
+            
+                
+                    
+                    <option value="1356347640000">12/24/2012</option>
+                
+
+            
+                
+                    
+                    <option value="1356952500000">12/31/2012</option>
+                
+
+            
+                
+                    
+                    <option value="1451304600000">12/28/2015</option>
+                
+
+            
+        
+    
+</select>
+
+
+<select type="hidden" name="CR_excludedDates2" id="CR_excludedDates2" class="c3" style="display: none;">
+    
+        
+            
+                
+                    
+                    <option value="1359196500000">01/26/2013</option>
+                
+            
+                
+                    
+                    <option value="1461323400000">04/22/2016</option>
+                
+            
+                
+                    
+                    <option value="1419611820000">12/26/2014</option>
+                
+            
+                
+                    
+                    <option value="1451045400000">12/25/2015</option>
+                
+            
+                
+                    
+                    <option value="1356086580000">12/21/2012</option>
+                
+            
+        
+    
+</select>
+
+
+<select type="hidden" name="CR_excludedDates3" id="CR_excludedDates3" class="c3" style="display: none;">
+    
+        
+            
+                
+                    
+                    <option value="1430149080000">04/27/2015</option>
+                
+            
+                
+                    
+                    <option value="1419585240000">12/26/2014</option>
+                
+            
+                
+                    
+                    <option value="1450440660000">12/18/2015</option>
+                
+            
+                
+                    
+                    <option value="1460986740000">04/18/2016</option>
+                
+            
+                
+                    
+                    <option value="1450699860000">12/21/2015</option>
+                
+            
+                
+                    
+                    <option value="1451045460000">12/25/2015</option>
+                
+            
+                
+                    
+                    <option value="1451304720000">12/28/2015</option>
+                
+            
+                
+                    
+                    <option value="1460977920000">04/18/2016</option>
+                
+            
+                
+                    
+                    <option value="1461323520000">04/22/2016</option>
+                
+            
+        
+    
+</select>
+
+
+
+<div id="CR_childAges" class="hiddenDiv"></div>
+<div id="CR_step2" class="hiddenDiv"></div>
+<div id="CR_step3" class="hiddenDiv"></div>
+<input name="CR_accCode" value="" id="CR_Hidden50" type="hidden">
+<input name="CR_step" value="" id="CR_Hidden9" type="hidden">
+<input name="CR_duration" id="CR_Hidden6" type="hidden">
+<input name="CR_durationSelect" value="" id="CR_Hidden51" type="hidden">
+<input name="CR_stayWithUs" value="" id="CR_stayWithUs" type="hidden">
+<input name="CR_offerCode" value="" id="CR_offerCode" type="hidden">
+<input name="CR_childrenUnder16" value="" id="CR_Hidden52" type="hidden">
+<input name="CR_baseName" value="live" id="CR_Hidden1" type="hidden">
+<input name="CR_searchType" value="WB" id="CR_Hidden2" type="hidden">
+<input name="CR_numberVillas" value="1" id="CR_Hidden22" type="hidden">
+<input name="CR_dateRangeStart" value="" type="hidden">
+<input name="CR_dateRangeEnd" value="" type="hidden">
+<input name="CR_additionalReq" value="" id="CR_additionalReq" type="hidden">
+<input name="CR_adaptedAccommodation1" value="" type="hidden">
+<input name="CR_dogsAllowed1" value="" type="hidden">
+<input name="CR_numberDogs1" value="" type="hidden">
+
+<input type="hidden" class="inpBrArrDate" name="CR_arrDate" value="">
+</form>
+</div>
+<div class="b-footer-bookingMagnet-activities_content">
+    <p>If you’ve already booked your break, now’s the time to start planning your activities. Just enter your booking reference and arrival date below to search and book.</p>
+    <div class="b-searchLine">
+        <form id="CR_bookingActivityForm" class="bookingMagnetForm" action="http://activities.centerparcs.co.uk/faces/jsp/PlanBreak.jsp" method="post">
+            <div class="b-searchLine-item"><label for="CR_bookingReference">Booking Reference</label></div>
+            <div class="b-searchLine-item"><input type="text" name="CR_bookRefNo" class="b-bookingMagnet_input b-width-170 b-bookingMagnet_input_number" id="CR_bookingReference"></div>
+            <div class="b-searchLine-item">Arrival Date</div>
+            <div class="b-searchLine-item">
+                <i class="selectNode b-bookingMagnet_selectNode b-width-125">
+                    <select id="CR_bookingReferenceActivityMonth" class="b-bookingMagnet_select selectArrMonthYear" name="CR_monthYear"></select>
+                    <label for="CR_bookingReferenceActivityMonth" class="b-bookingMagnet-select_btn"></label>
+                </i>
+            </div>
+            <div class="b-searchLine-item">
+                <i class="selectNode b-bookingMagnet_selectNode b-width-125">
+                    <select id="CR_bookingReferenceActivityDay" class="b-bookingMagnet_select selectArrDay" name="CR_dateDay"></select>
+                    <label for="CR_bookingReferenceActivityDay" class="b-bookingMagnet-select_btn"></label>
+                </i>
+            </div>
+            <div id="CR_step2_activity" class="hiddenDiv"></div>
+            <input name="CR_SRC" type="hidden" value="ANITE">
+            <input type="hidden" name="CR_activity_daysInFuture" id="CR_activity_daysInFuture" value="189">
+            <div class="b-searchLine-item"><input type="hidden" id="CR_inpActArrDate" class="inpActArrDate" name="CR_arrDate" value=""></div>
+            <div class="b-searchLine-item"><a href="#" class="b-bookingMagnet-btn_link" id="CR_bookingActivitySend" target="_blank">Search Activities</a></div>
+        </form>
+    </div>
+</div>
+</div>
+</div>
+</div>
+
+<!-- BOOKING MAGNET -->
+
+
+
+
+	
+    
+
+
+<!-- FOOTER -->
     
     
 <style type="text/css">
@@ -2432,7 +4559,6 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 }    
 </style>
 
-<div class="body-bottom-bg"></div>
 
 <!-- Survey -->
 <!-- Begin -->
@@ -2489,7 +4615,11 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 
 
-    
-    
 
+
+
+
+
+    
+    
 </body></html>
