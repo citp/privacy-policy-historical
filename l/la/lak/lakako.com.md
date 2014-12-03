@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lakako.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417131552id_/http%3A//www.lakako.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakako.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203111839id_/http%3A//www.lakako.com/privacypolicy) for the most accurate reproduction.*
 
-# Lakako - Privacy Policy
+# Privacy Policy
 
 **Privacy and Cookie Policy**
 
