@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622163137id_/https%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203220503id_/https%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : IDN Domain : Cheapest Domain Name Registration : Dynadot.com
 
