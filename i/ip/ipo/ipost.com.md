@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100435id_/http%3A//www.ipost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203204812id_/http%3A//www.ipost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Direct Email Marketing Services | Email Marketing Solution | iPost
+# Privacy Policy |
 
 The personal privacy of Internet users is extremely important to iPost and we recognize and support the protection of clients’ and consumers’ privacy rights as a fundamental principle of our business.
 
