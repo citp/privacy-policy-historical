@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chat4support.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140831id_/http%3A//chat4support.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat4support.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203055054id_/http%3A//chat4support.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Chat4Support -- Privacy Policy
 
