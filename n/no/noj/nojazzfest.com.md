@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nojazzfest.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512231924id_/https%3A//www.aeglive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nojazzfest.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203053912id_/https%3A//www.aeglive.com/privacy) for the most accurate reproduction.*
 
 # AEG Live | Privacy
 
