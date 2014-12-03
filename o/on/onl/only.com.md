@@ -1,28 +1,38 @@
-> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130146id_/http%3A//only.com/customer-service/privacy-policy/on-cs-privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071026id_/http%3A//only.com/customer-service/privacy-policy/cs-privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy policy - read about privacy policy for ONLY
+# Privacy policy - read about privacy policy for BESTSELLER
+
+Want your delivery before Christmas? Order no later than:
+
+**Ireland:  ** **Monday 15 December 2014**
+
+**UK, Spain, Italy, Finland:  ** **Tuesday 16 December 2014**
+
+**Austria, Belgium:  ** **Wednesday 17 December 2014**
+
+**France:  ** **Monday 15 December (Kiala) and Wednesday 17 December 2014 (UPS)**
 
 ###### Collection of personal data
 
-At BESTSELLER HANDELS AG we take privacy and security concerns seriously. At the same time, we would like to give you the best possible experience when visiting our websites. Therefore, we collect some information that we use when you are shopping on the BESTSELLER online shop. This could for example be information on which pages you go to and which features you click on.
+At BESTSELLER HANDELS B.V. we take privacy and security concerns seriously. At the same time, we would like to give you the best possible experience when visiting our websites. Therefore, we collect some information that we use when you are shopping on the BESTSELLER online shop. This could for example be information on which pages you go to and which features you click on.
 
 You will be notified before any personal data about you is collected. The personal data we collect includes your name, email address, private address, shopping information and payment details.
 
-BESTSELLER HANDELS AG collects and processes personal data in accordance with applicable data protection law.
+BESTSELLER HANDELS B.V. collects and processes personal data in accordance with applicable data protection law.
 
-###### What does BESTSELLER HANDELS AG use the data for?
+###### What does BESTSELLER HANDELS b.V. use the data for?
 
-BESTSELLER HANDELS AG collects the personal data to be used for the BESTSELLER online shop, for executing orders, for signing you up for requested features etc. and to send marketing and other information regarding our products and activities.
+BESTSELLER HANDELS B.V. collects the personal data to be used for the BESTSELLER online shop, for executing orders, for signing you up for requested features etc. and to send marketing and other information regarding our products and activities.
 
-If you are a member of BESTSELLER’s customer club, BESTSELLER HANDELS AG may pass on and receive customer and membership information and information on purchased goods to and from BESTSELLER A/S in Denmark with the purpose of improving the shopping experience for BESTSELLER’s customers.
+If you are a member of BESTSELLER’s customer club, BESTSELLER HANDELS B.V. may pass on and receive customer and membership information and information on purchased goods to and from BESTSELLER A/S in Denmark with the purpose of improving the shopping experience for BESTSELLER’s customers.
 
-BESTSELLER HANDELS AG will process your personal data for marketing purposes subject to applicable laws, including legislation on obtaining consent for electronic marketing.
+BESTSELLER HANDELS B.V. will process your personal data for marketing purposes subject to applicable laws, including legislation on obtaining consent for electronic marketing.
 
 ###### Cookies
 
 BESTSELLER* uses cookies to give you the best possible experience when you visit our website. A cookie is a small text file which is attached to your computer's hard disk, smartphone or other IT equipment. It enables your computer/IP address to be recognised and information to be collected regarding the pages and functions you visit.
 
-The first time you visit our website, you will see a banner at the top with the statement that we use cookies. If you click on the link "No thanks to cookies", we will not apply more cookies than those required to implement the choices you make, e.g. cookies to make a purchase from our online shop. If you don't want us to use cookies at all, you must deactivate cookies in your browser. However, you should be aware that in this case there may be services and functions which you cannot use as they require cookies to remember the choices you are making. You can follow the link below if you would like instructions on how to delete cookies from your browser.
+The first time you visit our website, you will see a banner at the top with the statement that we use cookies. If you do not want us to use cookies at all, you must deactivate cookies in your browser. However, you should be aware that in this case there may be services and functions which you cannot use as they require cookies to remember the choices you are making. You can follow the link below if you would like instructions on how to delete cookies from your browser.
 
 BESTSELLER uses cookies to give you a better user experience on our website, to remember the choices you are making when you use our website, for example choice of country, and for ongoing improvement of the content and functions you experience on our website. We also use cookies to target our marketing so that it matches your requirements, and to generate statistics regarding the use of our website.
 
@@ -42,15 +52,15 @@ If you use a link from BESTSELLER's websites to a third-party's website, you sho
 
 Links to remove cookies via browser settings: 
 
-*: BESTSELLER comprises BESTSELLER A/S, VILA A/S and BESTSELLER HANDELS AG
+*: BESTSELLER comprises BESTSELLER A/S, VILA A/S and BESTSELLER HANDELS B.V.
 
 ###### Security
 
-BESTSELLER HANDELS AG has implemented a number of security measures to ensure that our internal procedures comply with the security standards required in accordance with applicable data protection law. BESTSELLER HANDELS AG always strives to protect your personal data in the best possible way.
+BESTSELLER HANDELS B.V. has implemented a number of security measures to ensure that our internal procedures comply with the security standards required in accordance with applicable data protection law. BESTSELLER HANDELS B.V. always strives to protect your personal data in the best possible way.
 
 ###### Your rights
 
-You are entitled to access data about you which is processed by BESTSELLER HANDELS AG, however, subject to certain statutory exemptions. You are also entitled to object to the collection and further processing of your personal data. In addition, you are always entitled to have potentially incorrect personal data corrected.
+You are entitled to access data about you which is processed by BESTSELLER HANDELS B.V., however, subject to certain statutory exemptions. You are also entitled to object to the collection and further processing of your personal data. In addition, you are always entitled to have potentially incorrect personal data corrected.
 
 ###### Change of information or deregistration, etc.
 
@@ -60,14 +70,14 @@ If you want us to update, change or delete personal data which we have registere
 
 Your personal data may be transferred to BESTSELLER's warehouses in Germany and Denmark for packing and sending your items as well as to BESTSELLER A/S in Denmark for marketing and customer services such as handling returns or complaints.
 
-We would like to point out that legislation and regulations relating to the safeguarding, processing and transmission of personal data may be different in other countries from the related provisions in Switzerland. By providing your personal data, you agree to your data being transmitted abroad in accordance with this provision.
+We would like to point out that legislation and regulations relating to the safeguarding, processing and transmission of personal data may be different in other countries from the related provisions in the Netherlands. By providing your personal data, you agree to your data being transmitted abroad in accordance with this provision.
 
 ###### Deletion
 
-BESTSELLER HANDELS AG will process and store your personal data for as long as it is necessary and permitted under applicable data protection law.
+BESTSELLER HANDELS B.V. will process and store your personal data for as long as it is necessary and permitted under applicable data protection law.
 
 ###### Disputes
 
-Swiss legislation regulates any circumstances or any disputes, which may occur in connection with usage of the website.
+Dutch legislation regulates any circumstances or any disputes, which may occur in connection with usage of the website.
 
 Back to top
