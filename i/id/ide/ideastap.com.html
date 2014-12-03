@@ -1,11 +1,8 @@
-<!--The following is the downloaded HTML source of the ideastap.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625113620id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideastap.com privacy policy that was archived on 2014-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203104932id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head id="ctl00_h">
-    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/N2/Resources/Js/jquery-1.7.2.min.js" type="text/javascript"></script><script src="/N2/Resources/Js/plugins.ashx?v=1.7.2" type="text/javascript"></script><script src="/N2/Resources/Js/parts.js" type="text/javascript"></script><link href="/N2/Resources/Css/Parts.css" type="text/css" media="all" rel="stylesheet"><script type="text/javascript">//<![CDATA[
-jQuery(document).ready(function(){n2SlidingCurtain.init('#ctl00_sc',false);});
-
-//]]></script><meta http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7"><meta charset="utf-8"><meta content="no" http-equiv="imagetoolbar"><title>
+    <meta http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7"><meta charset="utf-8"><meta content="no" http-equiv="imagetoolbar"><title>
 	Privacy policy
 </title><meta name="keywords" content=""><meta name="description" content="">
     <!--[if lt IE 9]>
@@ -14,15 +11,32 @@ jQuery(document).ready(function(){n2SlidingCurtain.init('#ctl00_sc',false);});
     
 <meta name="og:image" content="http://www.ideastap.com/assets/images/logos/ideastap.gif">
 
-<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/screen-minified.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/screen-minified2.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/forms.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/screen-minified.css?v=1.0">
+<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/screen-minified2.css?v=1.1">
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script>    !window.jQuery && document.write('<script src="/assets/js/libraries/jquery-1.4.2.min.js"><\/script>')</script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script>    !window.jQuery && document.write('<script src="/assets/js/libraries/jquery-1.4.2.min.js"><\/script>')</script><script src="/assets/js/libraries/jquery-1.4.2.min.js"></script>
 <script src="/assets/js/ideastap-minified.js?=v2"></script>
 <script type="text/javascript">
- 
+         
+        var srcField;
+        function fileBrowserImageUploadCallBack(field_name, url, destinationType, win) {
+	        srcField = win.document.forms[0].elements[field_name];
+	        tinymce.activeEditor.windowManager.open({
+		    file: "/WebForms/UserControls/TinyMCEUploadImageDialogAdv.aspx",
+		    height: 500,
+		    width: 400,
+		    close_previous: false,
+		    inline: true,
+		    scrollbars: true,
+		    resizable: true,
+		    maximizable: true
+	    });      
+        }
+    function onFileAdvImageUploaded(selectedUrl) {
+	    srcField.value = selectedUrl;
+    }          
+   
 </script>
 
         <!--[if gte IE 7]>
@@ -34,6 +48,7 @@ jQuery(document).ready(function(){n2SlidingCurtain.init('#ctl00_sc',false);});
     <link rel="stylesheet" href='/assets/css/ie6.css' type="text/css"/>
   <![endif]-->
     
+    
 <!--PLACE IMMEDIATELY ABOVE CLOSING </HEAD> TAG AND REVIEW OFTEN FOR CHANGES BY GOOGLE -->
 <script type="text/javascript">
     var _gaurlbase = '/PrivacyPolicy';
@@ -44,10 +59,12 @@ jQuery(document).ready(function(){n2SlidingCurtain.init('#ctl00_sc',false);});
     _gaq.push(['_setAccount', 'UA-6449846-1']);
     _gaq.push(['_setCustomVar', 1, 'Logins vs lurkers - sessions', 'Visitor', 2]);
     _gaq.push(['_setCustomVar', 2, 'User UID', '00000000-0000-0000-0000-000000000000', 2]);
-    _gaq.push(['_setCustomVar', 3, 'User Host', '207.241.237.228', 2]);
+    _gaq.push(['_setCustomVar', 3, 'User Host', '174.129.237.157', 2]);
     _gaq.push(['_setCustomVar', 5, 'Logins vs lurkers - visitors', 'Visitor', 1]);
+    _gaq.push(['_setDomainName', 'ideastap.com']);
+    _gaq.push(['_setAllowLinker', true]);
     _gaq.push(['_trackPageview']);
-    _gaq.push(['_trackEvent', 'Page View', '/PrivacyPolicy', '', '', true]);
+    _gaq.push(['_trackEvent', 'Page View', '/PrivacyPolicy', '', 0, true]);
 
     (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -56,23 +73,46 @@ jQuery(document).ready(function(){n2SlidingCurtain.init('#ctl00_sc',false);});
     })();
 
 </script>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-56293516-1', 'auto', {
+        'allowLinker': true
+    });
+    ga('require', 'linker');
+    ga('linker:autoLink', [/ideastap\.com$/]);
+
+    ga('set', 'dimension1', 'Visitor');
+    ga('set', 'dimension2', '00000000-0000-0000-0000-000000000000');
+    ga('set', 'dimension3', '174.129.237.157');
+    ga('set', 'dimension4', 'Visitor');
+    ga('send', 'pageview');
+
+</script>
 <meta name="viewport" content="width=321, user-scalable=yes"></head>
-<body class="desktop  previewSelected">
+<body class="desktop ">
     
-<script type="text/javascript" src="/assets/js/jquery.modalpopup.min.js"></script>
 <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 <div id="bpopup" style="background-color: #fff; display: none;">
     <span class="button b-close" id="lpCloseBtn" style="cursor: pointer; display: none;" onclick="$('#bpopup').bPopup().close();return false;"><span>X</span></span>
-    <div class="tabset ">
+    <div class="tabset">
         <ul class="tabs ui-tabs-nav ">
+            
             <li class="first-child ui-state-default"><a href="#ui-tabs-1" class="logintab"><span>
                 Log in</span></a></li>
             <li class="ui-state-default ui-corner-top calo"><a href="#ui-tabs-2" class="signtab">
                 <span>Create a profile</span></a></li>
-            <li style="float: right; margin-right: 10px;"><a href="/register/fbauth?returnUrl=http://ideastap.com/PrivacyPolicy" style="background: #fff none;">
+            <li style="float: right; margin-right: 10px;"><a href="/register/fbauth?returnUrl=http://www.ideastap.com/PrivacyPolicy" style="background: #fff none;">
                 <img src="/assets/images/buttons/fbsignup.png" width="160"></a>
             </li>
+            
         </ul>
+        
         <div id="ui-tabs-1" class="ui-tabs-panel ui-widget-content " style="clear: both;
             border-style: none; display: none;">
             <h1 style="height: auto; clear: both; position: static; padding-top: 14px; line-height: 42px;">
@@ -98,7 +138,7 @@ jQuery(document).ready(function(){n2SlidingCurtain.init('#ctl00_sc',false);});
             </div>
             <div class="row row-submit row-left" style="width: 100%;">
                 <p>
-                    <a href="/register/fbauth?returnUrl=http://ideastap.com/PrivacyPolicy" style="float: left;">
+                    <a href="/register/fbauth?returnUrl=http://www.ideastap.com/PrivacyPolicy" style="float: left;">
                         <img src="/assets/images/buttons/fblogin.png" width="160"></a>
                     <a id="Login2" class="arrow button" href="#" rel="save">Log in <span class="bg1"></span>
                         <span class="bg2"></span></a>
@@ -111,10 +151,13 @@ jQuery(document).ready(function(){n2SlidingCurtain.init('#ctl00_sc',false);});
                     Sign up for IdeasTap →</a>
             </div>
         </div>
+        
         <div id="ui-tabs-2" class="ui-tabs-panel ui-widget-content " style="clear: both;
-            border-style: none; display: none; overflow: auto;">
+            border-style: none; overflow: auto; display: none;">
             <h1 style="height: auto; clear: both; position: static; padding-top: 14px; line-height: 42px;">
+                
                 Sign up: It's free and anyone can join.
+                
             </h1>
             <div id="singn" style="width: 585px;">
             </div>
@@ -188,7 +231,7 @@ var eventItemId = null;
             if (li.hasClass('calo')) $('.recaptcha_input_area').css('position', 'static');
             return false;
         });
-        $.post('/Register/IndexView?returnUrl=http://ideastap.com/PrivacyPolicy', function (data) {
+        $.post('/Register/IndexView?returnUrl=http://www.ideastap.com/PrivacyPolicy', function (data) {
             $('#singn').html(data);
             $('#ui-tabs-2').scrollTop(0);
             Recaptcha.create('6LcdGboSAAAAAGUVSMDXZmb5hB69uYKeqsEhafcx', "recaptcha", { theme: "blackglass" });
@@ -198,8 +241,6 @@ var eventItemId = null;
                 "validate": false,
                 "callbackFunction": function (data) {
                     if (data.value == true) {
-                        $('#bpopup').html($('#verify-info').html());
-
                         var from = '';
                         var itemId = '';
 
@@ -211,7 +252,9 @@ var eventItemId = null;
 
                         if(eventFrom!=null) if(!(typeof _gat === "undefined")) _gat._getTrackerByName()._trackEvent('User Actions', 'Registered from '+eventFrom,eventItemId);
                         else if(!(typeof _gat === "undefined")) _gat._getTrackerByName()._trackEvent('User Actions', 'Registered from other place','');
-                        
+                     
+                         if (typeof (data.dictionary.gourl) != 'undefined') setTimeout(function () { window.location = data.dictionary.url; }, 500);
+                         else $('#bpopup').html($('#verify-info').html());
                     }
                     else { Recaptcha.reload(); }
                 }
@@ -271,33 +314,52 @@ var eventItemId = null;
 
     
     <form name="aspnetForm" method="post" action="/PrivacyPolicy" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTIxMzY2ODczMGRk">
-</div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcwNTQxMjA5OWRk">
 
-    <div id="ctl00_sc" class="sc" style="top: 30px; left: 20px;"><div class="scContent">
-        <script type="text/javascript">//<!--
-if(window.n2ctx){
-n2ctx.select('preview');
-
-jQuery(document).ready(function(){
-    if(window.n2ctx){
-		n2ctx.refresh({ path: '/privacypolicy/', navigationUrl: '/N2/Content/Navigation/Tree.aspx?selected=%2fprivacypolicy%2f', permission: 'Read', force:false });
-		if(n2ctx.hasTop()) jQuery('.cpAdminister').hide();
-		else jQuery('.cpView').hide();
-	}
-	if(window.n2SlidingCurtain) n2SlidingCurtain.recalculate();
-});
-}
-//--></script><div class="controlPanel"></div>
-    <a href="javascript:void(0);" class="close" title="Close">«</a><a href="javascript:void(0);" class="open" title="Open">»</a></div></div> 
+     
     <div id="page" class="section-legal">
     
-        <header id="page-header">
+        <header id="page-header">    
+          
+        
         
         <!-- start top-slide -->
-        <div id="top-slide">
-            <div id="login">
+        <style type="text/css">
+            .top-slide-triggers .inner-top-slide a
+            {
+                text-decoration: none;
+                color: #FF53B9;
+                padding-left: 0px;
+                padding-right: 0px;
+                position: static;
+                display: inline;
+                float: none;
+                font-weight: bold;
+                margin-left: 0px;
+                padding-top: 0px;
+                padding-bottom: 0px;
+            }
+            .top-slide-triggers .inner-top-slide .search-box
+            {
+                float: left !important;
+                margin: 0 !important;
+                width: auto !important;
+                clear: none !important;
+            }
+            .top-slide-triggers .inner-top-slide .search-box div.inner
+            {
+                background: none;
+                width: auto;
+            }
+            .top-slide-triggers .inner-top-slide .search-box div.inner input
+            {
+                width: 240px;
+                background-position: 95% 50%;
+                padding-right: 40px;
+            }
+        </style>
+        <div id="top-slide" style="height: 0px; padding: 0px;">
+            <div id="login" style="opacity: 0;">
                 <a class="close" href="#"><span>Close </span></a>
                 <h2>
                     Log in to your account
@@ -314,7 +376,7 @@ jQuery(document).ready(function(){
                             Email:</label>
                         <input id="Username" name="Username" type="text" value="">
                         <div style="display: none;">
-                            <input type="hidden" name="ReturnUrl" value="">
+                            <input type="hidden" name="ReturnUrl" value="/PrivacyPolicy">
                         </div>
                     </div>
                     <div class="row row-text row-left">
@@ -331,7 +393,7 @@ jQuery(document).ready(function(){
                     </div>
                     <div class="row row-submit row-right" style="width: 100%;">
                         <p>
-                            <a href="/register/fbauth?returnUrl=" style="float: left;">
+                            <a href="/register/fbauth?returnUrl=/PrivacyPolicy" style="float: left;">
                                 <img src="/assets/images/buttons/fblogin.png" width="160"></a>
                             <a id="Login" class="arrow button" href="#" rel="save">Log in <span class="bg1"></span>
                                 <span class="bg2"></span></a>
@@ -360,55 +422,667 @@ jQuery(document).ready(function(){
         </div>
         <!-- end top-slide -->
         <div class="top-slide-triggers">
-            <span class="login-trigger-div" style="display: block; float: right; padding-right: 20px;
-                -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px;
-                border-bottom-right-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px;
-                border-bottom-left-radius: 10px; width: 220px;"><a target="_blank" href="https://uk.virginmoneygiving.com/fundraiser-web/donate/makeDonationForCharityDisplay.action?charityId=1002772&amp;frequencyType=S" style="margin-top: -4px;">
-                    <img src="/assets/images/buttons/donate.png" alt="Donate Now">
-                </a><a class="login-trigger" href="#">Login </a></span><a class="safety-trigger" href="/about-us">About Us</a> <a class="safety-trigger" href="/Safety">Safety</a>
-            
-            <a class="signup-trigger" href="/Register?ReturnUrl=%2fPrivacyPolicy">Get involved
-                with
-                IdeasTap
-                <strong>Create a profile</strong></a>
+            <div class="inner-top-slide itbn">
+                <div style="float: left">
+                    <p class="l">
+                        <a href="/Register?ReturnUrl=%2fPrivacyPolicy" class="signup-trigger">Join now</a>
+                        or <a href="#" class="login-trigger">log in</a> for competitions, funding &amp; jobs</p>
+                </div>
+                <div style="float: left" class="search-box">
+                    <div class="inner" style="position: relative;">
+                        <input type="text" id="match" class="global-search-terms-js ac_input" placeholder="Search IdeasTap" autocomplete="off">
+                        <a href="#" class="global-search-js">
+                            <img src="/assets/images/icons/search.jpg" class="goSearch" alt="Search"></a>
+                    </div>
+                </div>
+                <div style="clear: both;">
+                </div>
+            </div>
         </div>
+        
     
-
-        <a class="logo" href="/">
-          <img alt="ideastap logo" class="ideastap" height="141" width="138" src="/assets/images/logos/ideastap.gif">
-        </a>
-        
-          <div class="header-ad" style="background-image:none;"><a href="/IdeasMag/the-knowledge/ideastap-podcast-may"><img name="" src="/upload/CmsMedia/Banners/podcast-banner.png" width="467" height="58" alt="IdeasTap Podcast May"></a></div>
-        
-        <div class="search-box">
-          <div class="inner">
-            <label for="match" class="ax">
-              Search
-            </label>
-            <input type="text" id="match" class="global-search-terms-js">
-            <a href="#" class="global-search-js">
-              Search
-            </a>
-          </div>
-        </div>
-        <nav id="page-nav" class="page-navs">
-          <ul id="ctl00_tm_tm">
-	<li id="menu_SignUp" class=""><a href="/Register">Sign up</a><span></span></li><li id="menu_home" class="parent c0 first-child"><ul class=" child"><li id="menu_signup" class="first-child"><a href="/register">Sign up</a><span></span></li><li id="menu_actinghome"><a href="/Acting">Acting</a><span></span></li><li id="menu_artdesignhome"><a href="/art-design">Art &amp; Design</a><span></span></li><li id="menu_filmhome"><a href="/Film">Film</a><span></span></li><li id="menu_performingartshome"><a href="/performing-arts">Performing Arts</a><span></span></li><li id="menu_photographyhome"><a href="/photography">Photography</a><span></span></li><li id="menu_writingpublishinghome"><a href="/Writing-Publishing">Writing &amp; Publishing</a><span></span></li><li id="menu_aboutusredirect"><a href="/about-us">About Us</a><span></span></li></ul><a href="/">Home<aside></aside></a><span></span></li><li id="menu_Networks" class=" parent c1"><ul class=" child"><li id="menu_peopleredirect" class="first-child"><a href="/Networks">People</a><span></span></li><li id="menu_partnersred"><a href="/Partnerships">Partners</a><span></span></li><li id="menu_groupsredirect"><a href="/Groups">Groups</a><span></span></li><li id="menu_eventsRedirect"><a href="/LiveEvents">Events</a><span></span></li><li id="menu_forumsredirect"><a href="/Forum">Forums</a><span></span></li><li id="menu_blogsredirect"><a href="/IdeasMag/Blogs">Blogs</a><span></span></li></ul><a href="/Networks">Networking<aside></aside></a><span></span></li><li id="menu_jobsredirect" class=" parent c2"><ul class=" child"><li id="menu_alljobsred" class="first-child"><a href="/opportunities/jobs">All Jobs</a><span></span></li><li id="menu_ourservicered"><a href="/Opportunities/Jobs/arts-jobs">Our Service</a><span></span></li><li id="menu_uploadajobred"><a href="/Opportunities/UploadJob">Upload a job</a><span></span></li></ul><a href="/opportunities/jobs">Jobs<aside></aside></a><span></span></li><li id="menu_careerdevelopmentredirect" class=" parent c3"><ul class=" child"><li id="menu_theideastapspared" class="first-child"><a href="/opportunities/spa">The IdeasTap Spa</a><span></span></li><li id="menu_creativespacered"><a href="/Opportunities/creative-space">Creative Space</a><span></span></li><li id="menu_car"><a href="/Opportunities/spa/career-guides">Career guides</a><span></span></li></ul><a href="/opportunities/spa">Career Development<aside></aside></a><span></span></li><li id="menu_fundingopportunitiesred" class=" parent c4"><ul class=" child"><li id="menu_briefsred" class="first-child"><a href="/opportunities/briefs">Briefs</a><span></span></li><li id="menu_fundingred"><a href="/Funding">Funding</a><span></span></li><li id="menu_creativespacered"><a href="/Opportunities/creative-space">Creative Space</a><span></span></li><li id="menu_discountsoffersred"><a href="/Opportunities/discounts">Discounts &amp; Offers</a><span></span></li><li id="menu_alumni"><a href="/about-us/alumni">Alumni</a><span></span></li></ul><a href="/opportunities/briefs">Funding &amp; Opportunities<aside></aside></a><span></span></li><li id="menu_IdeasMag" class=" parent c5"><ul class=" child"><li id="menu_ideasmagredirect" class="first-child"><a href="/IdeasMag">IdeasMag</a><span></span></li><li id="menu_allarticlesnew"><a href="/IdeasMag/all-articles-new">All articles</a><span></span></li><li id="menu_interviews"><a href="http://www.ideastap.com/Search#types=1,magazine&amp;tags=Interest,Interviews&amp;terms=&amp;layoutType=1&amp;order=2">Interviews</a><span></span></li><li id="menu_howtos"><a href="http://www.ideastap.com/Search#types=1,magazine&amp;tags=Interest,How%2Btos&amp;terms=&amp;order=2&amp;layoutType=1">How tos</a><span></span></li><li id="menu_commonmistakes"><a href="http://www.ideastap.com/Search#types=1,magazine&amp;tags=Interest,Common%2Bmistakes&amp;terms=&amp;order=2&amp;layoutType=1">Common mistakes</a><span></span></li><li id="menu_jotwnew"><a href="/IdeasMag/jotw-new">Job of the week</a><span></span></li><li id="menu_videosnew"><a href="/IdeasMag/videos-new">Videos</a><span></span></li></ul><a href="/IdeasMag">IdeasMag<aside></aside></a><span></span></li><li id="menu_supportusredirect" class=" parent c6"><ul class=" child"><li id="menu_donatered" class="first-child"><a href="/support-us">Donate</a><span></span></li><li id="menu_aboutusred"><a href="/about-us">About Us</a><span></span></li><li id="menu_donatered"><a href="/about-us/history">Our History</a><span></span></li><li id="menu_ideastaptalentred"><a href="/support-us/talent">IdeasTap Talent</a><span></span></li><li id="menu_oursupportersred"><a href="/support-us/supporters">Our Supporters</a><span></span></li><li id="menu_trustsfoundationsred"><a href="/support-us/trusts-foundations">Trusts &amp; Foundations</a><span></span></li><li id="menu_companiesred"><a href="/support-us/companies">Companies</a><span></span></li><li id="menu_legaciesred"><a href="/support-us/legacies">Legacies</a><span></span></li></ul><a href="/support-us">Support Us<aside></aside></a><span></span></li>
-</ul>
-<div class="languageMenu">
-  
+<div class="logo_container">
+    <a class="logo" href="/">
+        <img alt="ideastap logo" class="ideastap ideastapnew " width="115" src="/assets/images/logos/ideastap.gif">
+    </a>
 </div>
 
-        </nav>
-        <div id="page-nav-sub" class="page-navs">
+
+         
+          
+        <nav id="page-nav" class="page-navs">
+          
+<div class="top-header-main">
+    <div class="main-category-container">
+        
+        <div class="menu-lvl1 main-cat4  ">
+            <a href="/opportunities/spa#itemstatus=1">
+                Training &amp; events</a>
+        </div>
+        
+        <div class="menu-lvl1 main-cat3  ">
+            <a href="/opportunities/jobs">
+                Jobs</a>
+        </div>
+        
+        <div class="menu-lvl1 main-cat2  ">
+            <a href="/opportunities/briefs">
+                Creative competitions</a>
+        </div>
+        
+        <div class="menu-lvl1 main-cat1  ">
+            <a href="/Funding">
+                Funding</a>
+        </div>
+        
+    </div>
+</div>
+<div class="cl">
+</div>
+
+<div class="sub-category amenubox" style="background-color: #39A321; display: none;">
+    
+    <div class="sub-category-inner  " id="main-cat1" style="display:none;">
+        
+        <div class="element ">
+            <a href="/crowdfunding">
+                Crowdfunding</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Funding/our-funding">
+                Our funding</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Funding/multi-discipline">
+                External funding</a>
+        </div>
+        
+    </div>
+    
+    <div class="sub-category-inner  " id="main-cat2" style="display:none;">
+        
+        <div class="element ">
+            <a href="/opportunities/briefs-latest">
+                Latest</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/opportunities/briefs-most-popular">
+                Most popular</a>
+        </div>
+        
+    </div>
+    
+    <div class="sub-category-inner  " id="main-cat3" style="display:none;">
+        
+        <div class="element ">
+            <a href="/Opportunities/UploadJob">
+                Upload job</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Opportunities/Jobs/arts-jobs">
+                Our service</a>
+        </div>
+        
+    </div>
+    
+    <div class="sub-category-inner  " id="main-cat4" style="display:none;">
+        
+        <div class="element ">
+            <a href="/LiveEvents">
+                Member events</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Opportunities/spa/career-guides">
+                Career guides</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/education">
+                Education</a>
+        </div>
+        
+    </div>
+    
+</div>
+<div class="cl">
+</div>
+
+<div class="secondary_header_menu">
+    <div style="float: left" class="secondary_category_menu">
+        
+        <div class="menu-lvl2 item1  ">
+            <a href="/your-home">
+                Filter by interest</a>
+        </div>
+        
+        <div class="menu-lvl2 item2  nochilds">
+            <a href="/crowdfunding">
+                Crowdfunding</a>
+        </div>
+        
+        <div class="menu-lvl2 item3  ">
+            <a href="/IdeasMag">
+                Magazine</a>
+        </div>
+        
+        <div class="menu-lvl2 item4  ">
+            <a href="/Networks">
+                Our community</a>
+        </div>
+        
+        <div class="menu-lvl2 item5  ">
+            <a href="/about-us">
+                About us</a>
+        </div>
+        
+    </div>
+    <div style="float: right; width: 260px;" class="secondary_custom_menu">
+        
+        <div class="menu-lvl3 custom_all">
+            <a href="#">
+                <img alt="" src="/assets/images/icons/main_menu_top_icon.png" style="display: inline; padding-right: 10px; vertical-align: middle">
+                All
+            </a>
+        </div>
+        
+        <div class="menu-lvl3 custom1 ">
+            <a href="/inspires">
+                Inspires
+            </a>
+        </div>
+        
+        <div class="menu-lvl3 custom2 ">
+            <a href="/Opportunities/Brief/14e194fa-534b-4471-83e7-a3e900d57a0a#Overview">
+                Sky Academy
+            </a>
+        </div>
+        
+    </div>
+</div>
+<div class="cl">
+</div>
+
+<div class="secondary_header_menu_submenu amenubox" style="background-color: #DF0064;
+    display: none;">
+    
+    <div class="sub-category-inner  " id="menu_item1" style="display:none">
+        
+        <div class="element ">
+            <a href="/Acting">
+                Acting</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/art-design">
+                Art &amp; design</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Film">
+                Film</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/performing-arts">
+                Performing arts</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/photography">
+                Photography</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Writing-Publishing">
+                Writing &amp; publishing</a>
+        </div>
+        
+    </div>
+    
+    <div class="sub-category-inner nochilds " id="menu_item2" style="display:none">
+        
+    </div>
+    
+    <div class="sub-category-inner  " id="menu_item3" style="display:none">
+        
+        <div class="element ">
+            <a href="/IdeasMag/all-articles-new#types=1,magazine&amp;layoutType=1&amp;lastpgidx=0">
+                All articles</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/IdeasMag/interviews">
+                Interviews</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/IdeasMag/jotw-new#types=1,magazine&amp;types=3,ideastapjoboftheweekpage&amp;layoutType=1&amp;lastpgidx=0">
+                Jobs of the week</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/IdeasMag/how-tos-new#types=1,magazine&amp;tags=Interest,How%2Btos&amp;terms=&amp;layoutType=1&amp;lastpgidx=0">
+                How tos</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/IdeasMag/common-mistakes-new#types=1,magazine&amp;tags=Interest,Common%2Bmistakes&amp;terms=&amp;layoutType=1&amp;lastpgidx=0">
+                Common mistakes</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/IdeasMag/videos-new#types=1,magazine&amp;types=2,video&amp;terms=&amp;layoutType=1&amp;lastpgidx=0">
+                Videos</a>
+        </div>
+        
+    </div>
+    
+    <div class="sub-category-inner  " id="menu_item4" style="display:none">
+        
+        <div class="element ">
+            <a href="/Partnerships">
+                Partnerships</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Groups">
+                Groups</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Forum">
+                Forum</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/about-us/alumni">
+                Alumni</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Opportunities/creative-space">
+                Creative space</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/Opportunities/discounts">
+                Discounts and offers</a>
+        </div>
+        
+    </div>
+    
+    <div class="sub-category-inner  " id="menu_item5" style="display:none">
+        
+        <div class="element ">
+            <a href="/support-us">
+                Support us</a>
+        </div>
+        
+        <div class="element ">
+            <a href="/support-us/supporters">
+                Our supporters</a>
+        </div>
+        
+    </div>
+    
+</div>
+<div class="custom_menu_container" style="display: none;">
+    <div class="custom_all_container_menu" style="display: none">
+        <div class="left-part" style="float: left; margin-left: 30px; margin-bottom: 30px;">
+            
+            <div class="all_menu_cat_container item item1 mfunding">
+                <div class="category-title">
+                    <span><a href="/Funding">
+                        Funding </a></span>
+                </div>
+                <div class="cl">
+                </div>
+                
+                <div style="border-left: none;" class="menu-list">
+                    <ul>
+                        
+                        <li class="first-child"><a href="/crowdfunding">
+                            Crowdfunding</a> </li>
+                        
+                        <li><a href="/Funding/our-funding">
+                            Our funding</a> </li>
+                        
+                        <li><a href="/Funding/multi-discipline">
+                            External funding</a> </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <div class="all_menu_cat_container item item2 mbriefs">
+                <div class="category-title">
+                    <span><a href="/opportunities/briefs">
+                        Creative Competitions</a></span>
+                </div>
+                <div class="cl">
+                </div>
+                
+                <div style="border-left: none;" class="menu-list">
+                    <ul>
+                        
+                        <li class="first-child"><a href="/opportunities/briefs-latest">
+                            Latest</a> </li>
+                        
+                        <li><a href="/opportunities/briefs-most-popular">
+                            Most popular</a> </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <div class="all_menu_cat_container item item3 mjobs">
+                <div class="category-title">
+                    <span><a href="/opportunities/jobs">
+                        Jobs</a></span>
+                </div>
+                <div class="cl">
+                </div>
+                
+                <div style="border-left: none;" class="menu-list">
+                    <ul>
+                        
+                        <li class="first-child"><a href="/Opportunities/UploadJob">
+                            Upload a job</a> </li>
+                        
+                        <li><a href="/Opportunities/Jobs/arts-jobs">
+                            Our service</a> </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <div class="all_menu_cat_container item item4 mspa">
+                <div class="category-title">
+                    <span><a href="/opportunities/spa#itemstatus=1">
+                        Training &amp; Events</a></span>
+                </div>
+                <div class="cl">
+                </div>
+                
+                <div style="border-left: none;" class="menu-list">
+                    <ul>
+                        
+                        <li class="first-child"><a href="/LiveEvents">
+                            Member events</a> </li>
+                        
+                        <li><a href="/Opportunities/spa/career-guides">
+                            Career guides</a> </li>
+                        
+                        <li><a href="/education">
+                            Education</a> </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <!-- second row -->
+            <div class="cl">
+            </div>
+            
+            <div class="all_menu_cat_container item item11 mmagazine">
+                <div class="category-title">
+                    <span><a href="/IdeasMag">
+                        Magazine</a></span>
+                </div>
+                <div class="cl">
+                </div>
+                
+                <div style="border-left: none;" class="menu-list">
+                    <ul>
+                        
+                        <li class="first-child"><a href="/IdeasMag/all-articles-new">
+                            All articles</a> </li>
+                        
+                        <li><a href="/Search#types=1,magazine&amp;tags=Interest,Interviews&amp;terms=&amp;layoutType=1&amp;order=2">
+                            Interviews</a> </li>
+                        
+                        <li><a href="/Search#types=1,magazine&amp;tags=Interest,How%2Btos&amp;terms=&amp;order=2&amp;layoutType=1">
+                            How tos</a> </li>
+                        
+                        <li><a href="/Search#types=1,magazine&amp;tags=Interest,Common%2Bmistakes&amp;terms=&amp;order=2&amp;layoutType=1">
+                            Common mistakes</a> </li>
+                        
+                        <li><a href="/IdeasMag/jotw-new">
+                            Job of the week</a> </li>
+                        
+                        <li><a href="/IdeasMag/videos-new">
+                            Videos</a> </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <div class="all_menu_cat_container item item12 mcommunity">
+                <div class="category-title">
+                    <span><a href="/Networks">
+                        Our community</a></span>
+                </div>
+                <div class="cl">
+                </div>
+                
+                <div style="border-left: none;" class="menu-list">
+                    <ul>
+                        
+                        <li class="first-child"><a href="/Groups">
+                            Groups</a> </li>
+                        
+                        <li><a href="/Forum">
+                            Forums</a> </li>
+                        
+                        <li><a href="/about-us/alumni">
+                            Alumni</a> </li>
+                        
+                        <li><a href="/Opportunities/creative-space">
+                            Creative space</a> </li>
+                        
+                        <li><a href="/Opportunities/discounts">
+                            Discounts and Offers</a> </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <div class="all_menu_cat_container item item13 mabout">
+                <div class="category-title">
+                    <span><a href="/about-us">
+                        About us</a></span>
+                </div>
+                <div class="cl">
+                </div>
+                
+                <div style="border-left: none;" class="menu-list">
+                    <ul>
+                        
+                        <li class="first-child"><a href="/support-us">
+                            Support us</a> </li>
+                        
+                        <li><a href="/support-us/supporters">
+                            Our supporters</a> </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <div class="all_menu_cat_container item item14 minterests">
+                <div class="category-title">
+                    <span><a href="/your-home">
+                        Filter by interest</a></span>
+                </div>
+                <div class="cl">
+                </div>
+                
+                <div style="border-left: none;" class="menu-list">
+                    <ul>
+                        
+                        <li class="first-child"><a href="/Acting">
+                            Acting</a> </li>
+                        
+                        <li><a href="/art-design">
+                            Art &amp; Design</a> </li>
+                        
+                        <li><a href="/Film">
+                            Film</a> </li>
+                        
+                        <li><a href="/performing-arts">
+                            Performing Arts</a> </li>
+                        
+                        <li><a href="/Photography">
+                            Photography</a> </li>
+                        
+                        <li><a href="/Writing-Publishing">
+                            Writing &amp; Publishing</a> </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+            
+        </div>
+        <div class="right-part" style="float: right; margin-right: 30px">
+            
+            <div class="all_menu_cat_container item item21 mother">
+                <div class="category-title">
+                    <span><a href="/">
+                        Other</a></span>
+                </div>
+                <div class="cl">
+                </div>
+                
+                <div style="border-left: none;" class="menu-list">
+                    <ul>
+                        
+                        <li class="first-child"><a href="/Register">
+                            Sign up</a> </li>
+                        
+                        <li><a href="/ContactUs">
+                            Contact Us</a> </li>
+                        
+                        <li><a href="/TermsConditions">
+                            Terms &amp; Conditions</a> </li>
+                        
+                        <li><a href="/help-centre">
+                            Help Centre</a> </li>
+                        
+                        <li><a href="/PrivacyPolicy">
+                            Privacy Policy</a> </li>
+                        
+                        <li><a href="/Accessibility">
+                            Accessibility</a> </li>
+                        
+                        <li><a href="/Safety">
+                            Safety</a> </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+    $(function () {
+        $('.element.active').each(function (idx, obj) {
+            var act = $('.secondary_header_menu .active');
+            $('#page-header .secondary_header_menu_submenu').css('background-color', act.css('background-color'));
+            $(obj).closest('.amenubox').show();
+        });
+
+        $('.amenuboxactive').not('.nochilds').each(function (idx, obj) {
+            var act = $('.main-category-container .active');
+            $('#page-header .sub-category').css('background-color', act.css('background-color'));
+            var act2 = $('.secondary_header_menu .active');
+            $('#page-header .secondary_header_menu_submenu').css('background-color', act2.css('background-color'));
+            if ($('.secondary_category_menu .active').size() > 0) $('.secondary_header_menu').addClass('isActive');
+            $(obj).closest('.amenubox').show();
+        });
+
+        $('.secondary_header_menu .secondary_category_menu div,.main-category-container div').hover(function () {
+            $('#page-header .custom_menu_container div.custom_all_container_menu').hide();
+            $('.secondary_header_menu .secondary_custom_menu div').removeClass('active');
+        });
+        $('html').click(function () {
+            $('#page-header .custom_menu_container div.custom_all_container_menu').hide();
+            $('.secondary_header_menu .secondary_custom_menu div').removeClass('active');
+        });
+        $('.custom_all_container_menu').click(function (event) {
+            event.stopPropagation();
+        });
+        $('.secondary_header_menu .secondary_custom_menu div').click(function () {
+            if ($(this).hasClass('custom_all')) {
+                if ($(this).hasClass("active")) {
+                    $('#page-header .custom_menu_container div.custom_all_container_menu').hide();
+                    $('.secondary_header_menu .secondary_custom_menu div').removeClass('active');
+                    return false;
+                }
+                if (!$(this).hasClass("active")) {
+                    var oldActivElem = $('#page-header .secondary_custom_menu div.active');
+                    oldActivElem.removeClass('active');
+                    var oldClass = oldActivElem.attr('class');
+                    $('#page-header .custom_menu_container .' + oldClass + '_container_menu').hide();
+                    var cl = $(this).attr('class');
+                    $(this).addClass("active");
+                    if (!$(this).hasClass("nochilds")) $('#page-header .custom_menu_container .' + cl + '_container_menu').show();
+                    if ($(this).hasClass('custom_all')) { $('#page-header .custom_menu_container').show(); $('#page-header .custom_menu_container .custom_all_container_menu').show(); }
+                }
+                return false;
+            }
+        });
+    });
+
+    function clearActive() {
+        var firstRow = $('.main-category-container div.active');
+        firstRow.removeClass('active');
+        var secondRow = $('.secondary_header_menu .secondary_category_menu div.active');
+        secondRow.removeClass('active');
+        $('#menu_' + secondRow.attr('class')).hide();
+        $('#' + firstRow.attr('class')).hide();
+        $('.secondary_header_menu_submenu').hide();
+        $('.sub-category').hide();
+        $('#page-header .custom_menu_container div.custom1_container_menu').hide();
+        $('#page-header .custom_menu_container div.custom2_container_menu').hide();
+        $('#page-header .custom_menu_container div.custom_all_container_menu').hide();
+    }
+
+</script>
+<style type="text/css">
+    #page-header .secondary_custom_menu div:hover
+    {
+        background-color: #E5E5E5;
+    }
+</style>
+
+        </nav><div id="underlay" style="display: none;"></div>
+        
+      
         <span class="l"></span>
         <ul id="page-nav-sub-ul"></ul>
         <span class="r"></span>
-        </div> 
-      </header>
+        </header></div> 
+      
         
         <header id="page-header">
+         
          <div class="breadcrumb"><ul><li class="first first-child"><a href="/">Home</a></li><li class="last"><a href="/privacypolicy">Privacy policy</a></li></ul></div>
+         
          
         </header>
         <div id="page-torso">
@@ -420,46 +1094,92 @@ jQuery(document).ready(function(){
                 Privacy policy
             </h1>
             <div>
-                <h2>1.1 General Information</h2>
-<p>IdeasTap Ltd own and are responsible for the IdeasTap website, <a>www.ideastap.com</a>.</p>
-<h2>1.2 IdeasTap Ltd Privacy Statement</h2>
-<p>IdeasTap Ltd will use any personal information collected from the website in accordance with all laws and regulations relating to the protection of personal data including the Data Protection Act 1998 (the "Data Protection Act"). Further details on the Data Protection Act can be found on the Information Commissioner's website (<a href="http://www.informationcommissioner.gov.uk">www.informationcommissioner.gov.uk</a>).</p>
-<h2>1.3 What information do we collect and why?</h2>
-<p>The information collected on the website includes:</p>
-<p><strong>1.3.1</strong> Users' Internet Protocol (IP) addresses, which is automatically logged by our web server. IP addresses are used to observe users' interest in this website (number of visits, etc).</p>
-<p><strong>1.3.2</strong> Cookies are very small text files saved to your computer used to track user navigation around a website. Session cookies are also used to store information on which content, including advertisements, have been seen by a user. Some areas of the IdeasTap website also use persistent cookies which are permanently stored on the users' computer. The IdeasTap website will use such cookies to identify unique users to our website.</p>
-<p>We use website analytics to help us measure the effectiveness of our site and how visitors use our site. The type of information we collect includes content viewed, pages, site sections and videos. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors and what kinds of offers our customers like to see.</p>
-<p>You can <a href="/cookies">read our cookie policy here</a>, including a list of the cookies our site uses.&nbsp;</p>
-<p>Disabling/Enabling Cookies - users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies however may mean that some functionality may be affected. For further directions on how to disable cookies please visit: <a href="http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html">www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html</a>.</p>
-<p><strong>1.3.3</strong> E-mail addresses, contact details and/or other details which users voluntarily provide in order to:</p>
-<ul>
-<li class="first-child">provide goods and services to you;</li>
-<li>basic profiling purposes;</li>
-<li>let you know about other members, groups and services in which you may be interested;</li>
-<li>inform you about changes and improvements to the website;</li>
-<li>register for competitions and other premium content;</li>
-<li>participate in discussion forums (see below);</li>
-<li>provide content to IdeasTap (see below); and</li>
-<li>copy IdeasTap notifications and personal messages to your inbox.</li>
+                <ul>
+<li class="first-child"><a href="#General-Information"><strong>General information</strong></a><strong></strong></li>
+<li><strong><a href="#Privacy-statement">Privacy statement</a></strong></li>
+<li><strong><a href="#What-information">What information do we collect and why?</a></strong></li>
+<li><strong><a href="#Cookies">Cookies</a></strong></li>
+<li><strong><a href="#Children-under-13">Children under 13</a></strong></li>
+<li><strong><a href="#Your-rights">Your rights</a></strong></li>
+<li><strong><a href="#Information-sharing">Information sharing</a></strong></li>
+<li><strong><a href="#Forums">Forums, comments, profiles and user generated content</a></strong></li>
+<li><strong><a href="#Payment-processing">Payment processing</a></strong></li>
+<li><strong><a href="#information-secure">Steps we take to keep your information secure</a></strong></li>
+<li><strong><a href="#Risks">Risks inherent in sharing information</a></strong></li>
+<li><a href="#Storage"><strong>Storage of your information</strong></a></li>
+<li><strong><a href="#Links">Links to other websites</a></strong></li>
+<li><strong><a href="#Contacting-us">Contacting us </a></strong></li>
 </ul>
-<p>The majority of IdeasTap Ltd communications are handled by the new internal messaging system. Users can send each other private messages and group and event owners can send messages to the members of their groups and attendees of their events. Notification messages will also be sent for certain system activities, such as when someone comments on an item in your portfolio or your blog. Users can use the “Preferences” section of their “Profile” to select whether they would like to have these messages copied to their personal email or not.</p>
-<p>IdeasTap Ltd will not disclose voluntarily provided details to third parties or use the information in any other way without your prior consent. On all pages where personal data is collected, specific details on the use of this information will be provided.</p>
-<h2>1.4 Children under 13</h2>
-<p>If you are under the age of 13, please do not attempt to register with IdeasTap or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will delete that information as quickly as reasonably possible. If you believe that we might have any information from a child under the age of 13, please contact us at <a href="mailto:info@ideastap.com">info@ideastap.com</a>.</p>
-<p>We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices. For more information please read our safety page.</p>
-<h2>1.5 Your rights</h2>
-<p>You have the right to access your information held by IdeasTap Ltd and, where necessary, to have it amended. For more details, please contact: IdeasTap Ltd, Woolyard, 54 Bermondsey Street, London SE1 3UD or e-mail at <a href="mailto:info@ideastap.com">info@ideastap.com</a>.</p>
-<h2><strong>1.6 Forums, Comments, Profiles and User Generated Content</strong></h2>
-<p>Users are reminded that forums and areas of the website that allow you to submit content or set up a profile on the website are for public viewing and discussion. Any personal information supplied by users here is widely accessible. IdeasTap Ltd is not responsible for the content posted by users of these services.</p>
-<h2><strong>1.7 Steps we take to keep your information secure</strong></h2>
-<p>We keep your account information on a secured server behind a firewall.</p>
-<h2><strong>1.8 Risks inherent in sharing information</strong></h2>
+<h2 id="General-Information">General Information</h2>
+<p>This is the privacy policy for <a href="http://www.ideastap.com/"><strong>www.ideastap.com</strong></a> (website). The website is operated by IdeasTap Ltd (we, us and our). For the purposes of the Data Protection Act 1998, we are the data controller.</p>
+<p>By using the website, you consent to the collection and use of information in accordance with this privacy policy.</p>
+<p>We reserve the right to change this privacy policy from time to time by changing it on the website. This privacy policy was last updated on 19/11/14.</p>
+<h2 id="Privacy-statement">Privacy statement</h2>
+<p>We are committed to protecting your privacy online. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and this privacy policy explains how we collect information and what we do with it.</p>
+<p>We will use any personal information collected from the website in accordance with all laws and regulations relating to the protection of personal data including the Data Protection Act 1998 (Data Protection Act). Further details on the Data Protection Act can be found on the Information Commissioner's website (<a href="http://ico.org.uk/"><strong>www.informationcommissioner.gov.uk</strong></a>).</p>
+<h2 id="What-information">What information do we collect and why?</h2>
+<p>We may collect and process the following information about you via the website:</p>
+<ul>
+<li class="first-child">information (such as your name, e-mail address, postal address and telephone number) and other details which you provide voluntarily in order to:
+<ul>
+<li class="first-child">register as a user of the website or any part of the website;</li>
+<li>subscribe to any part of the website;</li>
+<li>receive goods and services;</li>
+<li>receive newsletters and other communications about IdeasTap, the website and its services, and other members, groups and services in which you may be interested;</li>
+<li>enter into competitions or promotions via the website;</li>
+<li>register for premium content;</li>
+<li>participate in discussion forums and other community forums on the website; o provide content to IdeasTap; and</li>
+<li>receive information about changes and improvements to the website and services offered via the website;</li>
+</ul>
+</li>
+<li>in connection with an account sign-in facility, your log-in and password details;</li>
+<li>in connection with registration for use of Accelerator as a Project Creator, your name and details of the status of (as applicable): (a) your PayPal account (i.e. to confirm that it is a verified business account) and creation date of your PayPal account; or (b) your Stripe account (ie to confirm that it has been approved by Stripe) and the creation date of your Stripe account. </li>
+<li>in connection with your use of Accelerator as a Project Creator, the personal details (such as your name, age and location) that you choose to make publicly available via your Project Listing on Accelerator to display, publish, promote and/or showcase your Project on our website, in related marketing materials and at events that we hold;</li>
+<li>in connection with a charitable donation with Gift Aid to IdeasTap, your name and home address;</li>
+<li>communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the website, its content or any service offered through the website;</li>
+<li>messages or other communications you post on the website for other users (for example, to communicate with Project Creators or Project Backers on Accelerator); and</li>
+<li>information from surveys that we may, from time to time, run on the website for research purposes, if you choose to respond to or participate in them.</li>
+</ul>
+<p>You are under no obligation to provide any of the information set out above. However, if you choose to withhold requested information, we may not be able to provide you with certain services.</p>
+<p>When you visit the website, we may automatically collect and analyse additional information about you, such as the type of internet browser you use, any website from which you have come to the website and your Internet Protocol (IP) address (the unique address which identifies your computer on the internet), which is automatically recognised by our web server. We may also analyse the data submitted by individuals in order to register as IdeasTap members. This information is only used to assist us in providing an effective service on the website and to collect broad demographic information for aggregate use (for example, to measure the number of visits to our website and the way in which users use our website and services).</p>
+<p>Most of our communications are handled by our internal messaging system. Users can send each other private messages, and group and event owners can send messages to the members of their groups and attendees of their events. Accelerator's internal messaging system allows Project Creators and their Project Backers to send messages to each other.</p>
+<p>Notification messages will also be sent for certain system activities, such as when someone comments on an item in your portfolio, your blog or Project Listing. Users can use the “Preferences” section of their “Profile” to select whether they would like to have these messages copied to their personal email or not. We will not disclose your details to third parties or use the information in a way other than as set out in this privacy policy without your prior consent. On all pages where personal data is collected, specific details on the use of this information will be provided.</p>
+<h2 id="Cookies">Cookies</h2>
+<p>We use cookies to store certain information about our users. Cookies are very small text files saved to your computer which are used to track user navigation around a website. Although cookies do identify a user's computer, they do not personally identify users.</p>
+<p>Session cookies are used to store information about which content, including advertisements, have been seen by users. Some areas of our website also use persistent cookies, which are permanently stored on a user's computer. Our website will use such cookies to identify unique users to our website.</p>
+<p>We use cookies and other website analytics to help us measure the effectiveness of our website and services and how visitors use our website. The type of information we collect includes content viewed, pages, site sections and videos. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors and what kinds of services our members like to see.</p>
+<p>You can <a href="/cookies"><strong>read our cookie policy here</strong></a>, including a list of the cookies our website uses.</p>
+<p>You can accept or disable cookies by modifying the settings in your browser. Disabling cookies may, however, mean that some functionality may be affected. For further directions on how to disable cookies please visit: <a href="http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html"><strong>www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html</strong></a>.</p>
+<h2 id="Children-under-13">Children under 13</h2>
+<p>If you are under the age of 13, please do not attempt to register with IdeasTap or send us any personal information about yourself. If we learn that we have collected personal information from a child under the age of 13, we will delete that information as quickly as reasonably possible. If you believe that we might have any information from a child under the age of 13, please contact us at <a href="mailto:info@ideastap.com"><strong>info@ideastap.com</strong></a>.</p>
+<p>We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet, and we encourage parents to teach their children about safe internet use practices. For more information please read our <a href="/Safety"><strong>safety page</strong></a>.</p>
+<p>In addition to the age restriction set out above, other age restrictions may apply to other areas of the website such as Accelerator (see the <a href="/crowdfunding/accelerator-terms-of-use"><strong>Accelerator Terms</strong></a>).</p>
+<h2 id="Your-rights">Your rights</h2>
+<p>You can tell us not to contact you with information regarding our services either at the point such information is collected on the website (as directed) or, where you do not wish us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you. You can also exercise this right at any time by contacting us using our details set out below.</p>
+<p>You have the right to access your information that we hold and to request that errors in that information are corrected. On request, we will provide you with a copy of your information. For more details, please contact us at: IdeasTap Ltd, Woolyard, 54 Bermondsey Street, London SE1 3UD or e-mail us at <a href="mailto:info@ideastap.com"><strong>info@ideastap.com</strong></a>.</p>
+<h2 id="Information-sharing">Information sharing</h2>
+<p>We may disclose your personal information to any of our agents or third party service providers who assist us in providing the services we offer through the website. For example, if you are a Project Creator we may provide the name of your Project to the payment service provider you select (i.e. PayPal or Stripe) to enable them to process funds pledged made via Accelerator. Our agents and contractors will only use your information to the extent necessary to perform their functions.</p>
+<p>If you make a charitable donation to IdeasTap via the website, you can choose to provide your name and home address so that we can obtain the benefit of Gift Aid. We may need to pass this information to HMRC, if requested, for the purpose of verifying the amount of the Gift Aid claimed by us.</p>
+<p>We may disclose aggregate statistics about visitors to our website in order to describe our services to prospective partners, sponsors and other reputable third parties and for other lawful purposes, but these statistics will not include any personally identifiable information.</p>
+<p>We may disclose your personal information if required to do so by law or if we believe that such action is necessary to prevent fraud or cyber-crime, or to protect the website or the rights, property or personal safety of any person.</p>
+<h2 id="Forums">Forums, comments, profiles and user generated content</h2>
+<p>Forums, message boards and other areas of the website that allow you to submit content or set up a profile on the website are for public viewing and discussion. Similarly, any Project Listing on Accelerator (and any video, images and other content contained in the Project Listing) may be viewed by the public. Any personal information disclosed in these areas (including your name) becomes public information and you should exercise caution when using these. We do not monitor and are not responsible for the content posted by users of these services.</p>
+<p>If you use Accelerator, you can adjust the privacy settings to make some of your personal details private (such as your name and age). If you choose to make your personal details private, they will not be publicly available via Accelerator.</p>
+<p>If we approve a Project that you submit for inclusion on Accelerator, your Project Listing may remain on the website, even if you subsequently delete your account with us. Successful projects may be promoted on our website and in related promotional materials.</p>
+<h2 id="Payment-processing">Payment processing</h2>
+<p>Payments made by users backing projects on Accelerator and/or making charitable donations to IdeasTap are (at the election of the Project Creator) made through one of two payment solutions providers, i.e. PayPal or Stripe. If you make a pledge and/or charitable donation via Accelerator, you will be providing personal details including credit card or debit card information directly to PayPal or Stripe (as applicable), both of which operate a secure server to process payment details and payments. If you are a Project Creator, we will provide PayPal or Stripe (as applicable) with the name of your Project but no other personal details. Information you supply to PayPal and/or Stripe is not within our control and is subject, as applicable, to PayPal's privacy policy and/or Stripe's Privacy Policy.</p>
+<h2 id="information-secure">Steps we take to keep your <span id="information-secure">information secure </span></h2>
+<p>We place great importance on the security of all personally identifiable information associated with our users. We have security measures in place to attempt to protect against loss, misuse and alteration of personal information under our control. We cannot ensure or guarantee that loss, misuse or alteration of information will never occur, but we use all reasonable efforts to prevent it.</p>
+<p>You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via the website while it is in transit over the internet and any such submission is at your own risk.</p>
+<p>It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal information if you use a shared computer or a computer in a public place.</p>
+<h2 id="Risks">Risks inherent in sharing information</h2>
 <p>Although we allow you to set privacy options that limit access to your information, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your information.</p>
-<h2><strong>1.9 Links to other websites</strong></h2>
-<p>This website contains links to other sites that are completely unrelated to IdeasTap Ltd. This privacy statement does not apply to these sites nor are we responsible for the content and practices of these websites.</p>
-<h2><strong>1.10 Changes to our privacy statement</strong></h2>
-<p>This privacy statement may change at any time, so you may wish to check it each time you visit our website. Last updated 1<sup>st</sup> February 2010.</p>
-<p>&nbsp;</p>
+<h2 id="Storage">Storage of your information</h2>
+<p>Information that you submit via the website is sent to and stored on secure servers located in the United Kingdom. This is necessary in order to process the information. Information submitted by you may be transferred by us to the third parties mentioned above (see <a href="#Information-sharing"><strong>information sharing</strong></a>), which may be situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. The countries concerned may not have similar data protection laws to the EEA. Where we transfer your information we will take all reasonable steps to ensure that your information continues to be protected. By submitting information to the website, you agree to this storing, processing and/or transfer.</p>
+<h2 id="Links">Links to other websites</h2>
+<p>This website contains links to external websites. This privacy policy does not apply to those websites and we are not responsible for the content or practices of those websites.</p>
+<h2 id="Contacting-us">Contacting us</h2>
+<p>Please submit any questions about this privacy policy or any requests concerning your personal data by email to <a href="mailto:info@ideastap.com"><strong>info@ideastap.com </strong></a>or write to us at: IdeasTap Ltd, Woolyard, 54 Bermondsey Street, London SE1 3UD.</p>
             </div>
             
         </div>
@@ -494,6 +1214,7 @@ jQuery(document).ready(function(){
 <li class="facebook first-child tooltip-active"><a href="http://www.facebook.com/pages/IdeasTap/86669067350"><span>Facebook</span></a></li>
 <li class="twitter tooltip-active"><a href="http://twitter.com/ideastap"><span>Twitter</span></a></li>
 <li class="linkedin tooltip-active" style="background: url('/upload/CmsMedia/icons/linked-in.gif') no-repeat 0 0; padding-left: 30px;"><a href="http://www.linkedin.com/company/ideastap"><span>Linked In</span></a></li>
+<li class="instagram tooltip-active"><a href="http://instagram.com/ideastap"><span>Instagram</span></a></li>
 </ul>
 </div>
         </div>
@@ -520,7 +1241,7 @@ jQuery(document).ready(function(){
 <li style="padding: 0 26px 31px 0;"><a href="/Partners/bush"><img src="/Upload/CmsMedia/Footer-new/footer__22.jpg" alt="Bush Theatre "></a></li>
 <li style="padding: 0 26px 31px 0;"><a href="/Partners/mardibooks"> <img src="/Upload/CmsMedia/Footer-new/footer__21.jpg" alt="Mardibooks "></a></li>
 <li style="padding: 0 26px 31px 0;"><a href="/partners/ikon-gallery"><img src="/Upload/CmsMedia/Footer-new/ikon1.png" alt="IKON"></a></li>
-<li style="padding: 0 26px 31px 0;"><a href="/Partners/skyarts"> <img src="/Upload/CmsMedia/Footer-new/skyacademy4.png" alt="The Heritage Arts Company" height="54" width="118"></a></li>
+<li style="padding: 0 26px 31px 0;"><a href="/Partners/skyacademy"> <img src="/Upload/CmsMedia/Footer-new/skyacademy4.png" alt="The Heritage Arts Company" height="54" width="118"></a></li>
 </ul>
 </div>
         </div>
@@ -541,10 +1262,10 @@ jQuery(document).ready(function(){
           
         </footer>
         </div>
-    </div>
+    
     <div id="page-sub-footer" class="2014checkReturnOk">
         <p class="it-logo">Registered charity number 1132623</p>
-<p class="follow">Follow us on: <a class="flickr" title="Flickr" href="http://www.flickr.com/photos/ideastap/"><span>Flickr</span></a> <span>or </span> <a class="youtube" title="YouTube" href="http://www.youtube.com/ideastap"><span>YouTube</span></a> <span>or </span> <a class="twitter" title="Twitter" href="http://twitter.com/ideastap"><span>Twitter</span></a> <span>or </span> <a class="facebook" title="Facebook" href="http://www.facebook.com/pages/IdeasTap/86669067350"><span>Facebook</span></a></p>
+<p class="follow">Follow us on: <a class="flickr" title="Flickr" href="http://www.flickr.com/photos/ideastap/"><span>Flickr</span></a> <span>or </span> <a class="youtube" title="YouTube" href="http://www.youtube.com/ideastap"><span>YouTube</span></a> <span>or </span> <a class="twitter tooltip-active" href="http://twitter.com/ideastap"><span>Twitter</span></a> <span>or </span> <a class="facebook tooltip-active" href="http://www.facebook.com/pages/IdeasTap/86669067350"><span>Facebook</span></a></p>
 <ul class="legal">
 <li class="first-child"><a href="/ContactUs">Contact Us </a></li>
 <li><a href="/TermsConditions">Terms &amp; Conditions</a></li>
@@ -560,7 +1281,6 @@ jQuery(document).ready(function(){
     </div>
     </form>
      
-    <script src="/assets/js/auto-enlarge-textarea.js"></script>
     
     <script type="text/javascript">
     $(document).ready(function(){
@@ -598,6 +1318,7 @@ jQuery(document).ready(function(){
         </div>
     </div>
     
+     
     <script type="text/javascript">
         function WHCreateCookie(name, value, days) {
             var date = new Date();
@@ -616,6 +1337,8 @@ jQuery(document).ready(function(){
         function WHCloseCookiesWindow() { WHCreateCookie('ideastap_cookies', 'T', 365); $('#cookie-notify').remove(); }
         WHCheckCookies();
     </script>
+    <a href="https://plus.google.com/110809419223946057873" rel="publisher"></a>
 
 
-</body></html>
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div><div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
