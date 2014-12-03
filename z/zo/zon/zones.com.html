@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zones.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508080827id_/http%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zones.com privacy policy that was archived on 2014-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203120121id_/http%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -15,7 +15,9 @@
 <title>
 Privacy Policy
 </title>
-<link rel="stylesheet" type="text/css" href="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/css/global_v2.css">
+<link rel="stylesheet" type="text/css" href="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/css/global_v4.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css"> 
+<!--<link rel="stylesheet" type="text/css" href="http://216.172.187.92/canada/fonts.css" /> -->
 <!--[if IE 6]>
 	<link rel="stylesheet" type="text/css" href="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/scripts/ie6_new.css"/>
 	<script src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/scripts/libs/dd_belatedpng.js"></script>
@@ -31,9 +33,12 @@ Privacy Policy
 <!--[if IE 9]>
 <link rel="stylesheet" type="text/css" href="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/scripts/ie9_new.css"/>
 <![endif]-->
+<!--[if IE 10]>
+<link rel="stylesheet" type="text/css" href="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/scripts/ie10_new.css"/>
+<![endif]-->
 <script src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/scripts/libs/jquery-v1.7.2.js"></script>
 <script src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/scripts/libs/modernizr.min_76f186e89c0fb7aea21b6651c289f239.js"></script>
-
+<script src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/scripts/google_api_placeholder_0d7c029e9856fb6479f459a5d5e.js"></script>
 <script src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/scripts/libs/jQuery.equalHeights_b9ae619e939270265358831099f04c.js"></script>
 <script type="text/javascript">
 function equalHeight(group) {
@@ -77,25 +82,34 @@ $(document).ready(function() {
 	jkmegamenu.definemenu("powerMenu", "power", "mouseover");
 	jkmegamenu.definemenu("accessoriesMenu", "accessories", "mouseover");
 	jkmegamenu.definemenu("electronicsMenu", "electronics", "mouseover");
-	jkmegamenu.definemenu("softwareMenu", "software", "mouseover");
-	jkmegamenu.definemenu("servicesMenu", "services", "mouseover");
 	jkmegamenu.definemenu("solutionsMenu", "solutions", "mouseover");
+	jkmegamenu.definemenu("zonesglobalMenu", "zonesglobal", "mouseover");
 </script>
 <script type="text/javascript">
 	$(document).ready(function() {
-		$(".myTable tr:even").addClass("alt");
-		$(".content div:odd").addClass("alt");
-	});
+	$(".myTable tr:even").addClass("alt");
+	$(".content div:odd").addClass("alt");
+	$(".rowBG div:odd").addClass("altBG");
+});
 </script>
+
 <!--Nav Expand-->
 <script type="text/javascript" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/scripts/expand_44556dd5c680de3480363125fc98392c.js"></script>
 <script type="text/javascript">
 animatedcollapse.addDiv('navDrop', 'fade=0,speed=100,')
+animatedcollapse.addDiv('needHelp', 'fade=10,speed=300,')
 animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
 	//$: Access to jQuery
 	//divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
 	//state: "block" or "none", depending on state
 	jkmegamenu.render($);
+		var helpBox = $(".needHelpBox");
+if(helpBox.hasClass('shadow')){
+    helpBox.removeClass('shadow');
+} else {
+    helpBox.addClass('shadow');
+}
+	
 }
 animatedcollapse.init()
 </script>
@@ -130,9 +144,9 @@ function clearCard(){
 	if (num.substring(0,2)=='**') document.frm_payment.txt_card_number.value='';
 }
 function getPopupWin(p_url) {
-	var winl = (screen.width-514)/2;
-	var wint = (screen.height-300)/2;
-	var settings='height=300,width=514,top='+wint+',left='+winl+',scrollbars=yes,toolbar=no,location=no,status=no,menubar=no,resizable=yes,dependent=no';
+	var winl = (screen.width-960)/2;
+	var wint = (screen.height-700)/2;
+	var settings='height=700,width=960,top='+wint+',left='+winl+',scrollbars=yes,toolbar=no,location=no,status=no,menubar=no,resizable=yes,dependent=no';
 	win = window.open(p_url,'', settings);
 }
 function NewWindow(mypage, myname, w, h, scroll, resize) {
@@ -208,8 +222,24 @@ function setHiddenCM() {
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script>
 
+$( window ).unload(function() {
+	document.cookie = "ZBS_Zone=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.zones.internal";
+	document.cookie = "ZBS_Zone=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.zones.com";
+});
+  
+</script>
+<style>
+.checkout-zac-quote .btnModify img {
+    margin-top: 80px !important;
+}
+
+.checkout-zac-quote .checkout-zac-quote .z-con-submit, .checkout-zac-quote .z-con-submit {
+    position: relative;
+    top: -120px;
+    margin-top: 0;
+}
+</style>
 
 </head>	
 <body onload="setHiddenCM()">
@@ -217,464 +247,428 @@ function setHiddenCM() {
 <div class="body_box">  
   <div class="main_container">
   <div class="headerWidth">
-	     <!--<div class="ticker_bar">
-      <strong>Due to Hurricane Sandy,</strong> our carriers are experiencing shipping and delivery delays. <a href="http://www.zones.com/site/statics/static_page.html?name=zones/hurricane-sandy" style="color:#BC8217 !important;"><strong>Read More...</strong></a>
-    </div>-->
-<header class="clear">
-<style>
-.placeholder { color: #aaa; }
-@namespace url("http://www.w3.org/1999/xhtml");
-input:focus::-webkit-input-placeholder {color:transparent;}
-:focus:-moz-placeholder {
-
-color: transparent !important;
-
-text-shadow: none !important;
-
-}
-/* #p { background: lime; } */
-</style>
-
-<div class="center clear">
-<a href="http://www.zones.com/site/home/index.html?zone=business"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/logo_zones.gif" alt="Zones - Connecting Businesses &amp; Technology" id="zonesLogo"></a>
-  <div id="cart" class="right">
- <div><a href="http://www.zones.com/site/cart/index.html" title="View/Edit Cart"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/icon-cart.gif" alt="View/Edit Cart"></a><p class="left"><a href="http://www.zones.com/site/cart/index.html" title="View/Edit Cart" class="shopping">Shopping Cart</a></p><span><a href="http://www.zones.com/site/cart/index.html" title="View/Edit Cart">edit</a></span></div>
-<input type="button" name="checkoutBtn" id="checkoutBtn" onclick="location.href='http://www.zones.com/site/cart/index.html';" value="Checkout" class="right btn-green">
-<ul class="left">
-<li>0 <a href="http://www.zones.com/site/cart/index.html" title="View cart">Items</a></li>
-<li class="cartTotal">$0.00</li>
-</ul>
- </div>
- 
- 
-   
-  <div class="searchLeft">
-    <div class="clear">
-      <div id="topNav" class="right">
-        <div class="left"><a href="https://www.zones.com/site/login/index.html" class="noBorder">Login </a>
+	     <div id="header-main">
+  <div id="header-inner">
+    <div id="utility">
+      <div class="inner">
+        <ul>
+          <li><a href="https://www.zones.com/site/login/index.html" class="noBorder">Login </a>
 
 
 
- <a href="https://www.zones.com/site/orderreport/open_orders.html" title="Order Status">Order Status</a> <a href="https://www.zones.com/site/standard_page/index.html" title="My Account">My Account</a></div>
-        <span><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/contact-us">800-408-9663</a></span></div>
+</li>
+          <li><a href="http://www.zones.com/site/orderreport/open_orders.html">Order Status</a></li>
+          <li><a href="http://survey.az1.qualtrics.com/SE/?SID=SV_brcSgSmUYnOHlgp" target="_blank">Feedback</a></li>
+          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/contact-us">800.408.9663</a></li>
+        </ul>
+        <div class="login" style="display:none;">
+          <input type="hidden" name="box" value="true">
+          <form name="ZB_LoginForm" action="https://www.zones.com/site/login/login.html" method="post">
+            <span class="label">Login:</span>
+            <input id="login-btn" class="button btn-blue" type="submit" value="Login »" name="">
+            <input id="username" type="text" placeholder="Username" value="" name="username">
+            <input id="password" type="password" placeholder="Password" value="" name="password">
+            <input type="submit" style="height:0;overflow:auto;position:absolute;left:-9999px;" value="">
+          </form>
+        </div>
+        <div class="welcome" style="float:right;display:none;">Welcome to <a href="http://www.zones.com/site/standard_page/index.html">ZonesConnect</a></div>
+      </div>
     </div>
-    <div></div>
-    <div id="search">
-      <form name="search" action="http://www.zones.com/site/locate/search.html">
-        <input type="text" class="mainSearch left" name="txt_search" placeholder="Search Products" autocomplete="off">
-        <input type="hidden" id="suggestions_url" value="/site/search_suggestions/index.html?search_str=">
-        <input type="hidden" id="search_url" value="http://www.zones.com/site/locate/search.html?txt_search=">
-        <input type="image" name="txt_search2" class="left btnSearch" id="txt_search2" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/btn_search_magnify.png" value="Go" alt="Go">
-        <input type="hidden" name="non_partner_search" value="no_partner_id">
-      </form>
+    <div id="header-middle" class="inner"><a id="logo" href="http://www.zones.com/site/home/index.html?zone=business"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/css/logo_20140430.png"></a>
+      <div class="search">
+        <form name="search" action="http://www.zones.com/site/locate/search.html">
+          <input id="mainsearch" type="text" autocomplete="off" placeholder="Search Products" name="txt_search">
+          <input type="hidden" id="suggestions_url" value="/site/search_suggestions/index.html?search_str=">
+          <input type="hidden" id="search_url" value="http://www.zones.com/site/locate/search.html?txt_search=">
+          <input type="image" name="txt_search2" id="btn-search" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/css/icon-search_20140530.png" value="Go" alt="Go">
+          <input type="hidden" name="non_partner_search" value="no_partner_id">
+          <div id="z-loading-icon"></div>
+        </form>
+      </div>
+      <div class="clear"></div>
+      <!--     <div class="search">
+        <input id="mainsearch" type="text" autocomplete="off" placeholder="Search Products" name="txt_search">
+        <input id="btn-search" type="image" alt="Go" value="Go" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/btn_search_magnify.png" name="txt_search2">
+      </div>
+      <div class="clear"></div> -->
+    </div>
+    <div id="header-nav" class="inner">
+      <div id="shopping-cart" style="position:relative">
+<div style="height:22px; width:25px; position:absolute; left:0; cursor:pointer" onclick="location.href='http://www.zones.com/site/cart/index.html';"></div>
+	<input id="checkoutBtn" class="right btn-green" type="button" value="View Cart »" onclick="location.href='http://www.zones.com/site/cart/index.html';" name="checkoutBtn">
+	<span class="quantity">0</span>&nbsp;&nbsp;<span class="total">$0.00</span>
+</div>
+      <nav>
+        <div class="center">
+          <a href="#" rel="toggle[navDrop]">
+          <div id="shop-zones" alt="Shop Zones">Shop Zones</div>
+          </a>
+          <div id="navDrop" style="display:none;">
+            <ul id="navMain">
+              <li class="fly sub" id="desktopsMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22827">Desktops &amp; Workstations</a>
+                <!--                 <div id="desktops" class="megamenu">
+                  <div class="column">
+                    <ul>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22329'>Desktops</a></li>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22330'>All-in-One</a></li>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22332'>POS Systems</a></li> -->
+                      <!-- <li><a href='http://www.zones.com/site/locate/search.html?N=22333'>Thin Clients</a></li> -->
+                      <!--  <li><a href='http://www.zones.com/site/locate/search.html?N=22334'>Workstations</a></li>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22836'>Desktop Accessories</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="notebooksMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22826">Notebooks &amp; Tablets</a>
+                <!--   <div id="notebooks" class="megamenu">
+                  <div class="column">
+                    <ul>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22492'>Notebooks</a></li>
+                      <li><a href='http://www.zones.com/site/locate/refine.html?Ne=0&N=22499&preserve=true'>Tablets</a></li>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22493'>Netbooks</a></li>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22822'>Notebook &amp; Tablet Accessories</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="serversMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22545">Servers</a>
+                <!-- <div id="servers" class="megamenu">
+                  <div class="column">
+                    <ul> -->
+                      <!-- <li><a href='http://www.zones.com/site/locate/search.html?N=22553'>x86 Servers</a></li>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22547'>Apple Servers</a></li> -->
+                      <!-- <li><a href='http://www.zones.com/site/locate/search.html?N=22548'>Blade Servers</a></li>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22549'>Rack Servers</a></li>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22552'>Tower Servers</a></li>
+                      <li><a href='http://www.zones.com/site/locate/search.html?N=22550'>Accessories</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="swMenu"><a href="http://www.zones.com/site/statics/static_page.html?name=software/index">Software</a>
+                <!-- <div id="sw" class="megamenu">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/business-application-software">Business Applications Software</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/data-protection-security-software">Data Protection Security Software</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/data-protection-backup-recovery-software">Data Protection Backup/Recovery Software</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/mobile-device-management">Mobile Device Management Software</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/server-virtualization-software">Server Virtualization Software</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/creative-publishing-software">Creative Publishing Software</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/asset-management">Software Management</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/features">Software Features</a></li> -->
+                      <!--<li><a href="http://www.zones.com/site/statics/static_page.html?name=software/zones-advantage">The Zones Advantage</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/cloud-solutions">Cloud Solutions</a></li> -->
+                      <!-- <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/licensing-programs">Software Licensing Programs</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="printersMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22508">Printers, Scanners &amp; Supplies</a>
+                <!--  <div id="printers" class="megamenu">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22808">Laser Printers</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22510">Inkjet Printers</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22512">Multifunction Printers</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22511">Large Format Printers</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22540">Specialty Printers</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22509">Dot Matrix Printers</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22535">Scanners &amp; Accessories</a></li>
+                    </ul>
+                  </div>
+                  <div class="column">
+                    <ul>
+                      <li> <a href="http://www.zones.com/site/locate/search.html?N=22527">Printer Supplies</a>
+                        <ul>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22528">Ink Cartridges</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22534">Toner Cartridges</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22533">Solid Ink</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22532">Print Ribbons</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22531">Paper &amp; Labels</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22529">Maintenance &amp; Fuser Kits</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22530">Other Printer Supplies</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="column">
+                    <ul>
+                      <li> <a href="http://www.zones.com/site/locate/search.html?N=22518">Printer Accessories</a>
+                        <ul>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22526">Trays</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22520">Feeders</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22519">Duplexers</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22524">Printer Memory</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22522">Printer Cables</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22521">Other Printer Accessories</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="monitorsMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22397">Monitors &amp; Projectors</a>
+                <!-- <div id="monitors" class="megamenu">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22401">Monitors</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22398">Digital Signage</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22418">Touchscreen</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22399">Medical Displays</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22400">Monitor Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22417">Televisions</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22410">Projectors</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22405">Projector Accessories</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="networkingMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22420">Networking</a>
+                <!-- <div id="networking" class="megamenu">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22468">Network Security</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22483">Wireless</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22457">Network Optimization</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22430">KVM Solutions</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22421">Hubs &amp; Switches</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22472">Routers</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22471">Physical Security</a></li>
+                    </ul>
+                  </div>
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22473">Telephony</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22482">Video Conferencing</a></li> -->
+                      <!--<li><a href="http://www.zones.com/site/locate/search.html?N=22437">Modems</a></li> -->
+                      <!-- <li><a href="http://www.zones.com/site/locate/search.html?N=22445">Network Interface Adapters</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22469">Networking Accessories</a></li> -->
+                      <!--<li><a href="http://www.zones.com/site/locate/search.html?N=22470">Networking Software</a></li> -->
+                    <!-- </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="storageMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22650">Storage &amp; Backup</a>
+                <!-- <div id="storage" class="megamenu">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22651">CD, DVD &amp; Blu-ray Drives</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22655">Disk Arrays</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22664">Hard Drives</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22669">Interfaces &amp; Controllers</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22676">Network &amp; Server</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22679">Network Attached Storage (NAS)</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22680">Removable Drives</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22681">Solid State Drives</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22682">Storage Area Networking (SAN)</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22683">Storage Media &amp; Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22688">Tape Automation &amp; Drives</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="memoryMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22387">Memory</a>
+                <!-- <div id="memory" class="megamenu">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22388">Desktop Memory</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22392">Notebook Memory</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22395">Server Memory</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22394">Printer Memory</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22389">Flash Memory</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22396">USB Flash Drives</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22393">Other Memory</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="cablesMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22309">Cables</a>
+                <!--  <div id="cables" class="megamenu">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22310">Audio/Video Cables</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22312">FireWire Cables</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22313">Monitor Cables</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22314">Networking Cables</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22321">Phone/Modem Cables</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22322">Printer Cables</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22323">Storage Cables</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22327">USB Cables &amp; Hubs</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22328">Miscellaneous Cables</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22311">Cable Accessories</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="powerMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22500">Power Protection</a>
+                <!-- <div id="power" class="megamenu menuBtm">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22503">UPS/Battery Backup</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22507">Surge Protection</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22502">Power Distribution Unit (PDU)</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22501">Power Accessories</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="accessoriesMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22283">Accessories</a>
+                <!--  <div id="accessories" class="megamenu menuBtm">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22285">Computer Components</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22305">Printer &amp; Scanner Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22306">Server &amp; Networking Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22307">Storage &amp; Backup Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22298">Monitor &amp; Projector Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22494">Notebook & Tablet Accessories</a></li>
+                    </ul>
+                  </div>
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22293">Mice &amp; Keyboards</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22299">Notebook Carrying Cases</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22308">Webcams</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22284">Batteries &amp; Chargers</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22500">Power Protection</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22304">Office Products</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22297">Miscellaneous</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly sub" id="electronicsMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22335">Electronics</a>
+                <!-- <div id="electronics" class="megamenu menuBtm">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22351">Digital Cameras &amp; Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22339">Camcorders &amp; Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22364">GPS Devices &amp; Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22385">Televisions</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22380">Telephones &amp; Accessories</a>
+                        <ul>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22382">Cell Phones</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22383">Speakerphones</a></li>
+                          <li><a href="http://www.zones.com/site/locate/search.html?N=22381">Answering Machines</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22362">Digital Voice Recorders</a></li>
+                    </ul>
+                  </div>
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22363">DVD/Blu-ray Players</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22361">Digital Frames</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22336">Audio/Stereo Equipment</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22373">Speakers &amp; Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22386">Two-Way Radios</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22367">Handhelds &amp; Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22368">Headphones &amp; Accessories</a></li>
+                      <li><a href="http://www.zones.com/site/locate/search.html?N=22372">MP3 Players &amp; Accessories</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <div class="last"></div>
+              
+              <li class="fly bgcolor" id="brandsMenu"><a href="http://www.zones.com/site/statics/static_page.html?name=partner/showcase/index">Shop by Brand</a>
+                <!-- <div id="brands" class="megamenu menuBtm">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3163">Adobe</a></li>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3282">APC</a></li>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3342">Apple</a></li>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3343">Belkin</a></li>
+                      <li><a href="http://www.zones.com/site/locate/refine.html?Ne=0&N=4294966673&preserve=true">Cisco</a></li>
+                    </ul>
+                  </div>
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3365">Dell</a></li>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3366">HP</a></li>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3367">IBM</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=partner/intel/syndicated/overview">Intel</a></li>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3370">Kingston</a></li>
+                    </ul>
+                  </div>
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3371">Lenovo</a></li>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3374">Microsoft</a></li>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3375">NEC</a></li> -->
+                      <!--<li><a href="http://www.zones.com/site/promotions/index.html?page_id=3271">Sony</a></li>-->
+                      <!--  <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3263">Symantec</a></li>
+                      <li><a href="http://www.zones.com/site/promotions/index.html?page_id=4582">More Brands</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              <li class="fly bgcolor" id="solutionsMenu"> <a href="http://www.zones.com/site/statics/static_page.html?name=solutions/solutions">Solutions &amp; Services</a>
+                <!-- <div id="solutions" class="megamenu menuBtm">
+                  <div class="column">
+                    <ul>
+                      
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/solutions">Zones Solutions &amp; Services</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/virtualization-and-cloud">Virtualization &amp; Cloud</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/storage-data-protection">Storage &amp; Data Protection</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/network-infrastructure-solutions">Network Infrastructure</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/uc-collaboration">UC &amp; Collaboration</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/mobility-euc-management">Mobility &amp; EUC Management</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=healthcare/micro/zones-healthcare">Healthcare</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=zones/retail-solutions">Retail</a></li>
+                      
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+              
+              <!--Global Zone-->
+              <li class="fly bgcolor" id="zonesglobalMenu"> <a href="http://www.zones.com/site/statics/static_page.html?name=global/index">Zones Global</a>
+                <!-- <div id="zonesglobal" class="megamenu menuBtm">
+                  <div class="column">
+                    <ul>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=global/index" >Zones Global</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=global/canada/index&zone=global" target="_blank">Zones Canada</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=global/europe/index&zone=global" target="_blank">Zones Europe</a></li>
+                      <li><a href="http://www.zones.com/site/statics/static_page.html?name=global/india/index&zone=global" target="_blank">Zones India</a></li>
+                    </ul>
+                  </div>
+                </div> -->
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <ul id="main-sections">
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/solutions">Solutions &amp; Services</a></li>
+        <li><a class="active" href="https://www.zones.com/site/statics/static_page.html?name=products">Products</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=global/index">Global</a></li>
+        <li class="last"><a href="http://www.zones.com/site/standard_page/index.html">My Account</a></li>
+      </ul>
+      <div class="clear"></div>
     </div>
   </div>
 </div>
-</header>
-<nav class="clear">
-  <div class="center"> <a href="#" rel="toggle[navDrop]" data-openimage="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/btn_shopZones_home_new.png" data-closedimage="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/btn_shopZones_home_new.png"> <img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/btn_shopZones_home_new.png" alt="Shop Zones" id="shopZones"></a>
-    <div id="navDrop" style="display:none;">
-      <ul id="navMain">
-        <li class="fly sub" id="desktopsMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22827">Desktops &amp; Workstations</a>
-          <div id="desktops" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22329">Desktops</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22330">All-in-One</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22332">POS Systems</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22333">Thin Clients</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22334">Workstations</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22836">Desktop Accessories</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="notebooksMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22826">Notebooks &amp; Tablets</a>
-          <div id="notebooks" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22492">Notebooks</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22499">Tablet PCs</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22493">Netbooks</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22822">Notebook &amp; Tablet Accessories</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="serversMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22545">Servers</a>
-          <div id="servers" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22552">Tower Servers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22553">x86 Servers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22547">Apple Servers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22548">Blade Servers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22549">Rack Servers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22550">Server Accessories</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="swMenu"><a href="http://www.zones.com/site/locate/search.html?N=22554">Software</a>
-          <div id="sw" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22555">Antivirus &amp; Security</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22567">Business</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22580">Database &amp; Business Intelligence Software</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22585">Desktop/Web Publishing Software</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22600">Education &amp; Reference Software</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22613">Management Software</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22618">Network Software</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22631">Operating Systems</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22639">Personal Software</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22640">Utility Software</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22649">Virtualization Software</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="printersMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22508">Printers, Scanners &amp; Supplies</a>
-          <div id="printers" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22808">Laser Printers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22510">Inkjet Printers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22512">Multifunction Printers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22511">Large Format Printers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22540">Specialty Printers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22509">Dot Matrix Printers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22535">Scanners &amp; Accessories</a></li>
-              </ul>
-            </div>
-            <div class="column">
-              <ul>
-                <li> <a href="http://www.zones.com/site/locate/search.html?N=22527">Printer Supplies</a>
-                  <ul>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22528">Ink Cartridges</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22534">Toner Cartridges</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22533">Solid Ink</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22532">Print Ribbons</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22531">Paper &amp; Labels</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22529">Maintenance &amp; Fuser Kits</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22530">Other Printer Supplies</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-            <div class="column">
-              <ul>
-                <li> <a href="http://www.zones.com/site/locate/search.html?N=22518">Printer Accessories</a>
-                  <ul>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22526">Trays</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22520">Feeders</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22519">Duplexers</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22524">Printer Memory</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22522">Printer Cables</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22521">Other Printer Accessories</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="monitorsMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22397">Monitors &amp; Projectors</a>
-          <div id="monitors" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22401">Monitors</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22398">Digital Signage</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22418">Touchscreen</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22399">Medical Displays</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22400">Monitor Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22417">Televisions</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22410">Projectors</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22405">Projector Accessories</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="networkingMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22420">Networking</a>
-          <div id="networking" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22468">Network Security</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22483">Wireless</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22457">Network Optimization</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22430">KVM Solutions</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22421">Hubs &amp; Switches</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22472">Routers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22471">Physical Security</a></li>
-              </ul>
-            </div>
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22473">Telephony</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22482">Video Conferencing</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22437">Modems</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22445">Network Interface Adapters</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22469">Networking Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22470">Networking Software</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="storageMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22650">Storage &amp; Backup</a>
-          <div id="storage" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22651">CD, DVD &amp; Blu-ray Drives</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22655">Disk Arrays</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22664">Hard Drives</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22669">Interfaces &amp; Controllers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22676">Network &amp; Server</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22679">Network Attached Storage (NAS)</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22680">Removable Drives</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22681">Solid State Drives</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22682">Storage Area Networking (SAN)</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22683">Storage Media &amp; Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22688">Tape Automation &amp; Drives</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="memoryMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22387">Memory</a>
-          <div id="memory" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22388">Desktop Memory</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22392">Notebook Memory</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22395">Server Memory</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22394">Printer Memory</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22389">Flash Memory</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22396">USB Flash Drives</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22393">Other Memory</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="cablesMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22309">Cables</a>
-          <div id="cables" class="megamenu">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22310">Audio/Video Cables</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22312">FireWire Cables</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22313">Monitor Cables</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22314">Networking Cables</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22321">Phone/Modem Cables</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22322">Printer Cables</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22323">Storage Cables</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22327">USB Cables &amp; Hubs</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22328">Miscellaneous Cables</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22311">Cable Accessories</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="powerMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22500">Power Protection</a>
-          <div id="power" class="megamenu menuBtm">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22503">UPS/Battery Backup</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22507">Surge Protection</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22502">Power Distribution Unit (PDU)</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22501">Power Accessories</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="accessoriesMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22283">Accessories</a>
-          <div id="accessories" class="megamenu menuBtm">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22285">Computer Components</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22305">Printer &amp; Scanner Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22306">Server &amp; Networking Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22307">Storage &amp; Backup Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22298">Monitor &amp; Projector Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22494">Notebook &amp; Tablet Accessories</a></li>
-              </ul>
-            </div>
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22293">Mice &amp; Keyboards</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22299">Notebook Carrying Cases</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22308">Webcams</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22284">Batteries &amp; Chargers</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22500">Power Protection</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22304">Office Products</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22297">Miscellaneous</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly sub" id="electronicsMenu"> <a href="http://www.zones.com/site/locate/search.html?N=22335">Electronics</a>
-          <div id="electronics" class="megamenu menuBtm">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22351">Digital Cameras &amp; Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22339">Camcorders &amp; Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22364">GPS Devices &amp; Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22385">Televisions</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22380">Telephones &amp; Accessories</a>
-                  <ul>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22382">Cell Phones</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22383">Speakerphones</a></li>
-                    <li><a href="http://www.zones.com/site/locate/search.html?N=22381">Answering Machines</a></li>
-                  </ul>
-                </li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22362">Digital Voice Recorders</a></li>
-              </ul>
-            </div>
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22363">DVD/Blu-ray Players</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22361">Digital Frames</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22336">Audio/Stereo Equipment</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22373">Speakers &amp; Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22386">Two-Way Radios</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22367">Handhelds &amp; Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22368">Headphones &amp; Accessories</a></li>
-                <li><a href="http://www.zones.com/site/locate/search.html?N=22372">MP3 Players &amp; Accessories</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <div class="last"></div>
-        <li class="fly bgcolor" id="softwareMenu"><a href="http://www.zones.com/site/statics/static_page.html?name=software/overview">Software Licensing</a>
-          <div id="software" class="megamenu menuBtm">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/overview">Software Licensing</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/software-implementation">Software Implementation</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/software-licensing-management-solutions">Software Licensing Management Solutions</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/specials">Software Specials</a></li>
-              </ul>
-            </div>
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/overview">Program Overview</a>
-                  <ul>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/adobe">Adobe</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/apple">Apple</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/business-objects">Business Objects</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/ca">CA</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/emc-retrospect">EMC  Retrospect</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/eset">ESET</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/filemaker">FileMaker</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/ibm">IBM Software</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/mcafee">McAfee</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-            <div class="column">
-              <ul>
-                <li class="noBgA">&nbsp;
-                  <ul>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/microsoft">Microsoft</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/quark">Quark</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/red-hat">Red Hat</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/rsa-security">RSA Security</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/sage">Sage Software</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/sophos">Sophos</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/symantec">Symantec</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/trend-micro">Trend Micro</a></li>
-                    <li><a href="http://www.zones.com/site/statics/static_page.html?name=software/vmware">VMware</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly bgcolor" id="servicesMenu"> <a href="http://www.zones.com/site/statics/static_page.html?name=services/overview">Services</a>
-          <div id="services" class="megamenu menuBtm">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=services/overview">Zones Services</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=services/cisco-gold-certified-partner">Cisco Gold Certified Partner</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=services/zones-professional-services-technical-certifications">Zones Professional Services Technical  Certifications</a></li>
-                <!--              <li><a href="http://www.zones.com/site/">E-Waste Disposal Services</a></li>-->
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=services/microsoft-exchange-deployment-services">Microsoft Exchange Deployment Services</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=services/microsoft-sharepoint-implementation">Microsoft SharePoint Implementation</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=services/technology-assessment-services">Technology Assessment Services</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=services/information-technology-asset-disposition">Information Technology Asset Disposition</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="fly bgcolor" id="solutionsMenu"> <a href="http://www.zones.com/site/statics/static_page.html?name=solutions/overview">Solutions</a>
-          <div id="solutions" class="megamenu menuBtm">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/overview">Zones Solutions</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/network-infrastructure-solutions">Network Infrastructure Solutions</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/network-security-solutions">Network Security Solutions</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/storage-solutions">Storage Solutions</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/virtualization-solutions">Virtualization Solutions</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/wireless-infrastructure-mobility-solutions">Wireless Infrastructure &amp; Mobility Solutions</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/unified-communications">Unified Communications</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="bgcolor"><a href="https://www.zones.com/site/statics/static_page.html?name=zones/retail-solutions">Retail Solutions</a></li>
-        <li class="fly bgcolor" id="brandsMenu"><a href="http://www.zones.com/site/promotions/index.html?page_id=2902">Shop by Brand</a>
-          <div id="brands" class="megamenu menuBtm">
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3163">Adobe</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3282">APC</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3342">Apple</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3343">Belkin</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3883">Cisco</a></li>
-              </ul>
-            </div>
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3365">Dell</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3366">HP</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3367">IBM</a></li>
-                <li><a href="http://www.zones.com/site/statics/static_page.html?name=partner/intel/syndicated/overview">Intel</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3370">Kingston</a></li>
-              </ul>
-            </div>
-            <div class="column">
-              <ul>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3371">Lenovo</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3374">Microsoft</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3375">NEC</a></li>
-                <!--<li><a href="http://www.zones.com/site/promotions/index.html?page_id=3271">Sony</a></li>-->
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=3263">Symantec</a></li>
-                <li><a href="http://www.zones.com/site/promotions/index.html?page_id=2902">More Brands</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="bgcolor"><a href="http://www.zones.com/site/promotions/index.html?page_id=2942">New Products</a></li>
-        <li class="bgcolor"><a href="https://www.zones.com/site/rebate/index.html" target="_blank">Rebates</a></li>
-        <li class="bgcolor"><a href="http://www.zones.com/site/promotions/index.html?page_id=2944">Best Sellers</a></li>
-        <li class="bgcolor"><a href="http://www.zones.com/site/statics/static_page.html?name=zones/email/landing-page">Email Signup</a></li>
-		
-		
-        <!--<img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/left-nav-round.gif" alt="" />-->
-      </ul>
-    </div>
-    <ul id="zonesNav">
-      <li id="enterpriseNav"><a href="http://www.zones.com/site/home/index.html?zone=enterprise">Enterprise</a></li>
-       <li id="navOn" class="navOn_business"><a href="http://www.zones.com/site/home/index.html?zone=business" class="activeNav">Business</a></li>
-      <li id="healthcareNav"><a href="http://www.zones.com/site/home/index.html?zone=healthcare">Healthcare</a></li>
-      <li id="publicNav"><a href="http://www.zones.com/site/home/index.html?zone=public">Public Sector</a></li>
-      <li id="macNav"><a href="http://www.zones.com/site/home/index.html?zone=maczone">Mac Zone</a></li>
-    </ul>
-  </div>
-  <div id="navMessage" class="businessStrip">
-    <div>
-      <!--A <a href="http://www.zones.com/site/statics/static_page.html?name=corporate/ceo-message">message</a> from Firoz Lalji, our CEO-->
-    </div>
-  </div>
-</nav>
+<div class="clear"></div>
+<script>
+$(document).ready(function(){
 
+    if ($(".inner li").first().text().indexOf("Logout") == -1){
+      $(".login").show();
+    } else {
+      $(".welcome").show();
+    }
+
+    if (window.location.href.indexOf("solution") != -1 || window.location.href.indexOf("healthcare/micro") != -1){
+      $("#header-nav #main-sections li a")
+        .removeClass("active")
+        .filter("[href*='name=solutions']")
+        .addClass("active");
+    }
+
+});
+</script>
   </div>
     <div class="body_container clear" id="body">
       <!--Left Part Starts-->
@@ -685,161 +679,90 @@ text-shadow: none !important;
       <!--Body Part Starts-->
       <div>
 		
-<div id="body" class="clear"> 
-  <div id="innerLeftBox"> 
-    <div class="titleHeader"> 
-      <div class="topTitleHD"> 
-        <div class="ImgL"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/static/spacer.gif" alt="icon" width="1" height="27" align="absmiddle">
-		<img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/static/PrivacyPolicy_icon.png" align="absmiddle"></div> 
-        <p>Privacy Policy</p> 
-      </div> 
-      <div class="blueBotLine"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/static/spacer.gif" width="1" height="7" alt="Spacer"></div> 
-      <div class="clr"></div>
-      <div class="containerInnerLeft"> 
-        <div class="containerInnerBox"> 
-          <div class="prodDetailContent noBorder"> 
-		  <!--  Enter content Here -->
-		  	
-				<p>Zones, Inc. is committed to client privacy. We regularly review our privacy policies to ensure we remain current with legal and ethical 
-				practices, as well as ensuring the goodwill of our clients. Any subsequent updates or changes to our Privacy Policy will be disclosed here.</p>
+ <div id="text-style">
+  <div class="twocol-right-sidebar overflowHidden" id="content">
+    <div class="overflowHidden">
+      <div class="inner-right inner-rightWide" style="font-size:13px !important">
+        <ul>
+          
+          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/policies" class="rightNavSL">Policies</a></li>
+          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/legal-disclaimer" class="rightNavSL">Legal Disclaimer</a></li>
+          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/privacy-policy" class="rightNavSL"><strong>Privacy Policy</strong></a></li>
+          <li style="border-bottom: 1px solid #E5E5E5;"><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/terms-of-purchase" class="rightNavSL">Terms of Purchase</a></li>
+        </ul>
+      </div>
+      <!-- /inner-right -->
+      <div class="inner-left inner-leftWide">
+        <h1 id="page-title" class="noPadLeft">Terms &amp; Conditions - Privacy Policy</h1>
 
-                        <span class="defaulttextBold">Personal Information that Zones may collect</span>
-                        <p>Zones collects personal client information such as name, address, billing information, shipping addresses, phone number, email 
-						address, and credit card and other financial information when provided to us via secure registration and order forms.</p>
-                        <p>Zones may also collect personal information such as name and email address resulting from email subscriptions, surveys, 
-						requested quotes, or other registration activities when provided to us.</p>
+		<p>Zones, Inc. is committed to client privacy. We regularly review our privacy policies to ensure we remain current with legal and ethical practices, as well as ensuring the goodwill of our clients. Any subsequent updates or changes to our Privacy Policy will be disclosed here.</p>
 
-                        <span class="defaulttextBold">How we use that information</span>
-                       <p> Zones may use personal information to complete and satisfy orders placed and/or contact clients about their orders or registration when necessary.</p>
-                       <p> Zones may also use this provided personal information to deliver promotional offers through email and postal mail and may occasionally share client 
-						names and postal addresses-not email addresses-with reputable third parties that offer products and services related to a client's interests; this 
-						activity can be cancelled at any time via the opt-out instructions near the bottom of this page.</p>
-                        <p>Zones uses opt-in email registration to deliver promotional offers through email. We use provided profile information to tailor offers of potential 
-						interest to clients. This profile data is held on a secure server and is not distributed to third parties for marketing purposes.</p>
-                        <p>If a client volunteers to participate in a Zones survey, the information provided will be held on a secure server. Use of this information is 
-						analyzed at an aggregate level and used to help Zones improve its business practices in order to serve clients better.</p>
-                        <p>In extreme cases, where and when required by law, Zones may be forced to release client information to legal authorities in the event of credit 
-						card fraud, illegal internet use, or unauthorized use or acts committed in connection with this site.</p>
+		<h4 class="h2_blue">Personal Information that Zones may collect:</h4>
+		<p>Zones collects personal client information such as name, address, billing information, shipping addresses, phone number, email address, and credit card and other financial information when provided to us via secure registration and order forms.</p>
+		<p>Zones may also collect personal information such as name and email address resulting from email subscriptions, surveys, requested quotes, or other registration activities when provided to us.</p>
 
-                        <span class="defaulttextBold">Cookies and Web Logs</span>
-                        <p>Zones uses cookies, IP address and web log data to collect aggregate data about web site visitors to help us understand how to best serve clients. 
-						We may also use these methods in conjunction with a client's shopping cart and/or registration to make appropriate product, service and solution recommendations.</p>
+		<h4 class="h2_blue">How we use that information:</h4>
+		<p>Zones may use personal information to complete and satisfy orders placed and/or contact clients about their orders or registration when necessary.</p>
+		<p>Zones may also use this provided personal information to deliver promotional offers through email and postal mail and may occasionally share client names and postal addresses-not email addresses-with reputable third parties that offer products and services related to a client's interests; this activity can be cancelled at any time via the opt-out instructions near the bottom of this page.</p>
+		<p>Zones uses opt-in email registration to deliver promotional offers through email. We use provided profile information to tailor offers of potential interest to clients. This profile data is held on a secure server and is not distributed to third parties for marketing purposes.</p>
+		<p>If a client volunteers to participate in a Zones survey, the information provided will be held on a secure server. Use of this information is analyzed at an aggregate level and used to help Zones improve its business practices in order to serve clients better.</p>
+		<p>In extreme cases, where and when required by law, Zones may be forced to release client information to legal authorities in the event of credit card fraud, illegal internet use, or unauthorized use or acts committed in connection with this site.</p>
 
-                        <span class="defaulttextBold">Third Party Tracking Software</span>
-                        <p>Zones may use third party tracking software to gather information about where users are coming from and how they are using our site. This data is collected 
-						and used in an aggregated form to evaluate Zones web site performance and marketing programs.</p>
-                        <p>In some cases, Zones may provide contract service providers with a client's personal and transactional information in order to administer services to 
-						that specific client. Our contracts with these companies require them to maintain the confidentiality and security of all personal and transactional information 
-						and to use it only for the purpose of delivering the products or services for which they were contracted.</p>
-                        <p>Zones web sites may contain links to other sites. While Zones proactively seeks to promote sound privacy polices with all its partners, we are not responsible
-						 for the privacy practices of those partners or the content of their Web sites. Zones suggests that clients review our partners' privacy policies before providing
-						  any personal information to them.</p>
+		<h4 class="h2_blue">Cookies and Web Logs:</h4>
+		<p>Zones uses cookies, IP address and web log data to collect aggregate data about web site visitors to help us understand how to best serve clients. We may also use these methods in conjunction with a client's shopping cart and/or registration to make appropriate product, service and solution recommendations.</p>
 
-                        <span class="defaulttextBold">Affiliates and Rebate Programs</span>
-                        <p>Zones' affiliate program uses tracking links from affiliate sites to Zones sites. We use a third-party company to track and identify any purchases made 
-						through these links back to the originating site. This tracking is limited to non-identifying information and Zones does not share personal information with
-						 the affiliate partner unless our customers grant us permission to do so.</p>
+		<h4 class="h2_blue">Third Party Tracking Software:</h4>
+		<p>Zones may use third party tracking software to gather information about where users are coming from and how they are using our site. This data is collected and used in an aggregated form to evaluate Zones web site performance and marketing programs.</p>
+		<p>In some cases, Zones may provide contract service providers with a client's personal and transactional information in order to administer services to that specific client. Our contracts with these companies require them to maintain the confidentiality and security of all personal and transactional information and to use it only for the purpose of delivering the products or services for which they were contracted.</p>
+		<p>Zones web sites may contain links to other sites. While Zones proactively seeks to promote sound privacy polices with all its partners, we are not responsible for the privacy practices of those partners or the content of their Web sites. Zones suggests that clients review our partners' privacy policies before providing any personal information to them.</p>
 
-                        <span class="defaulttextBold">Security and Protection</span>
-                       <p> Zones utilizes commercially reasonable efforts to store and protect personal information against loss, illegal access, misuse, and destruction. We employ 
-					   SSL-protected Web pages and 128-bit encryption technology on all pages that require personal information. This means that customer information transmitted 
-					   online receives the highest degree of security currently available. Additionally, we store all client information on a secure server and limit access to this 
-					   information to authorized personnel.</p>
-                       <p> Zones is a Verisign certified web site. Security of Zones web sites may be checked by accessing our Verisign certificate through the Verisign image on Zones 
-					   web sites' home pages. We suggest that clients use the latest version of today's most popular browsers, Microsoft Internet Explorer and Netscape Communicator, 
-					   to ensure the highest level of Internet protection.</p>
+		<h4 class="h2_blue">Affiliates and Rebate Programs:</h4>
+		<p>Zones' affiliate program uses tracking links from affiliate sites to Zones sites. We use a third-party company to track and identify any purchases made through these links back to the originating site. This tracking is limited to non-identifying information and Zones does not share personal information with the affiliate partner unless our customers grant us permission to do so.</p>
 
-                        <span class="defaulttextBold">Opt-Out</span>
-                        <p>Zones may use client information to contact, mail, or email clients about new products and services, special promotions, exclusive offers, or upcoming events. 
-						We offer the option to opt-out of these communications at any time. Zones may also share a client's name and postal address-but not an email address-to reputable 
-						companies offering products or services that we feel may be of interest to that client. Clients that do not want us to share this information with these companies 
-						should let us know using the contact information provided below.</p>
-                        <p>To be removed from a Zones marketing mailing and emailing list, clients may contact our customer service department with their first name, last name, 
-						address or email address, and zip code (for confirmation purposes only) and the client's name will be removed promptly.</p>
-					
-						<p><span class="defaulttextBold">Customer Service Information</span><br>
-							<span class="defaulttextBold">Phone:</span>  1-800-248-9948<br>
-							<span class="defaulttextBold">Email:</span> <a href="mailto:customerservice@zones.com">customerservice@zones.com</a><br>
-							<span class="defaulttextBold">Hours:</span> M-F: 6 a.m. to 5 p.m. PST</p>
+		<h4 class="h2_blue">Security and Protection:</h4>
+		<p>Zones utilizes commercially reasonable efforts to store and protect personal information against loss, illegal access, misuse, and destruction. We employ SSL-protected Web pages and 128-bit encryption technology on all pages that require personal information. This means that customer information transmitted online receives the highest degree of security currently available. Additionally, we store all client information on a secure server and limit access to this information to authorized personnel.</p>
+		<p>Zones is a Verisign certified web site. Security of Zones web sites may be checked by accessing our Verisign certificate through the Verisign image on Zones web sites' home pages. We suggest that clients use the latest version of today's most popular browsers, Microsoft Internet Explorer and Netscape Communicator, to ensure the highest level of Internet protection.</p>
 
-                        <span class="defaulttextBold">Children</span>
-                        <p>Zones web sites are not intended or designed for use by children under the age of 13. To comply with the Children's Online Privacy Protection Act, 
-						children under 13 should not provide us with any personal information online. We strongly urge parents to supervise their children's online activity.</p>
+		<h4 class="h2_blue">Opt-Out:</h4>
+		<p>Zones may use client information to contact, mail, or email clients about new products and services, special promotions, exclusive offers, or upcoming events. We offer the option to opt-out of these communications at any time. Zones may also share a client's name and postal address-but not an email address-to reputable companies offering products or services that we feel may be of interest to that client. Clients that do not want us to share this information with these companies should let us know using the contact information provided below.</p>
+		<p>To be removed from a Zones marketing mailing and emailing list, clients may contact our customer service department with their first name, last name, address or email address, and zip code (for confirmation purposes only) and the client's name will be removed promptly.</p>
 
-                        <span class="defaulttextBold">Changes to Privacy Policy</span>
-                        <p>Zones reserves the right to amend and update its privacy policy at any time. Any updates or amendments will be posted on this page for review.</p>
 
-                        <span class="defaulttextBold">Access to Customer Information</span>
-                        <p>Clients have online access to their personal information with Zones at any time. Additional access to personal information is available during 
-						Zones business hours. Clients may contact Zones via the information below to review, update, or inquire about their personal information.</p>
-						
-						<p><span class="defaulttextBold">How to Contact Us</span><br>
-							 Zones, Inc.<br>
-                        1102 15th St SW, Ste 102<br>
-                        Auburn, WA 98001<br>
-                        Tel: 253-205-3000</p>
+		<div style="color:#F57C37; margin-bottom:10px"><strong>Customer Service Information:</strong></div>
+		<strong>Phone:</strong> 1-800-248-9948<br>
+		<strong>Email:</strong> <a href="mailto:customerservice@zones.com">customerservice@zones.com</a><br>
+		<strong>Hours:</strong> M-F: 6 a.m. to 5 p.m. PST
+		
+        <p></p>
+        
+		<h4 class="h2_blue">Children:</h4>
+		<p>Zones web sites are not intended or designed for use by children under the age of 13. To comply with the Children's Online Privacy Protection Act, children under 13 should not provide us with any personal information online. We strongly urge parents to supervise their children's online activity.</p>
 
-                        <p><span class="defaulttextBold">Customer Service Information</span><br>
-                        Phone: 1-800-248-9948<br>
-                        Email: <a href="mailto:customerservice@zones.com" class="mediumclrlk">customerservice@zones.com</a><br>
-                        Hours: M-F: 6 a.m. to 5 p.m. PST<br><br>
-                        Or please review our complete <a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/contact-us">Contact List</a></p>
-		  
-		  <!--  END content -->
-          </div> 
-        </div> 
-      </div> 
-    </div> 
-  </div> 
- <!-- Start innerRightSide -->
+		<h4 class="h2_blue">Changes to Privacy Policy:</h4>
+		<p>Zones reserves the right to amend and update its privacy policy at any time. Any updates or amendments will be posted on this page for review.</p>
 
-<div id="innerRightSide"> 
-    <div class="relatedHD"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/static/icon_man.gif" alt="Terms and Conditions">Terms &amp; Conditions</div> 
-    <div class="clr"></div>
-                <div class="nav_right_box">
-                     <ul>
-						<li>
-                        <div class="iconImg iconSingleline">
-                        <img alt="Contact Us" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/static/Policies_icon.png">
-                        </div>
-						<div class="iconText">
-                        <a title="Contact Us" href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/policies">Policies</a>
-                        </div>
-                        </li>
-                        
-                        <li>
-                        <div class="iconImg iconSingleline">
-                        <img alt="Contact Us" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/static/LegalDisclaimer_icon.png">
-                        </div>
-						<div class="iconText">
-                        <a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/legal-disclaimer" title="Leadership">Legal Disclaimer</a>
-                        </div>
-                        </li>
-                        
-                                                                    
-                        <li class="rightnavBotBorder">
-                        <div class="iconImg iconSingleline">
-                        <img alt="Contact Us" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/static/PrivacyPolicy_icon.png">
-                        </div>
-						<div class="iconText">
-                       <a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/privacy-policy" title="Annual Reports">Privacy Policy</a>
-                        </div>
-                        </li>
-  
-						
-						
-		</ul>
-                </div>
+		<h4 class="h2_blue">Access to Customer Information:</h4>
+		<p>Clients have online access to their personal information with Zones at any time. Additional access to personal information is available during Zones business hours. Clients may contact Zones via the information below to review, update, or inquire about their personal information.</p>
+		
+		<div style="color:#F57C37; margin-bottom:10px"><strong>How to Contact Us:</strong></div>
+		Zones, Inc.<br>
+		1102 15th St SW, Ste 102<br>
+		Auburn, WA 98001<br>
+		<strong>Phone:</strong> 253-205-3000
+        
+        <p></p>
+		
+		<p>Or please review our complete <a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/contact-us">Contact List</a></p>
+                
+        </div>
+        <!-- /inner-left -->
+      </div>
+      <!-- /inner -->
+    </div>
+    <!-- /twocol-right-sidebar, id=content -->
   </div>
-<!-- End nav_right_box -->  
-<!--
-<div class="rightBox"><a href="http://www.zones.com/site/promotions/index.html?page_id=2902" title=""><img border="0" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/enterprise/vmware-img.gif" alt="" /></a></div>
-		<div class="rightBox"><a href="http://www.zones.com/site/statics/static_page.html?name=services/cisco-gold-certified-partner" class="centerTile" title="">
-		<img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/enterprise/badge_cisco_gold_bw.png" border="0" alt="" /></a></div>
--->
-</div> <!-- End innerRightSide -->
-
-
+ 
+ 
       </div>
       <!--Body Part Ends-->
       <!--Right Part Starts-->
@@ -852,142 +775,136 @@ text-shadow: none !important;
  </div>
       <!--Footer Part Starts-->
       <div class="footer footerWidth">
-       <footer class="clear">
-  <div class="center">
-    <div class="footerCol300 left">
-      <div class="footerSearch">
-        <div id="footerSearch">
-          <form name="search" action="http://www.zones.com/site/locate/search.html">
-            <input type="text" class="mainSearch mainSearch1 mainSearchBot" name="txt_search" placeholder="Search Products" autocomplete="off">
-            <input type="hidden" id="suggestions_url" value="/site/search_suggestions/index.html?search_str=">
-            <input type="hidden" id="search_url" value="http://www.zones.com/site/locate/search.html?txt_search=">
-            <input type="image" name="txt_search2" class="left btnSearch" id="txt_search2" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/btn_search_magnify.png" value="Go" alt="Go">
-            &nbsp;&nbsp;
-            <input type="hidden" name="non_partner_search" value="no_partner_id">
-          </form>
-        </div>
-      </div>
-      <div class="footerCol300">
-        <div class="footerContact left">
-          <h3><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/contact-us">Contact Us</a></h3>
-          <p>800.408.9663
-            <a href="mailto:customerservice@zones.com">customerservice@zones.com</a>
-            <!--<a href="#">Locations</a>--></p>        </div>
-        <div class="footerLogin left"><p><a href="https://www.zones.com/site/login/index.html" class="noBorder">Login </a>
+       <style>
+
+.youtube {
+  background-image: url('../../images/css/icon-youtube.png');
+}
+
+#footer-main .social {
+  width: 280px;
+}
+
+#footer-main #mainsearch {
+  width: 400px;
+}
+
+#footer-main .footer-search {
+  width: 420px;
+}
+
+</style>
+<!--[if lte IE 8]>
+
+<style>
+.youtube {
+  background-image: url('../../images/css/icon-youtube-ie2.png');
+}
+</style>
 
 
-
- »</p>
-        <p><a href="http://www.zones.com/site/orderreport/open_orders.html">Order Status »</a></p> </div>
-        <div class="clr"></div>
-      </div>
-    </div>
-    <div class="left margLeftright">
-      <div class="footerNewsletter">
-        <h3>Zones Product Spotlight emails</h3>
-        <p>Our weekly selection of partner offerings in hardware, software and accessories. </p>
-        <div id="footerSubscribe">
-       <form method="post" action="http://www.pages05.net/zones/Zonessubscribe/HomepageSubscribe/" pageid="5245683" siteid="244992" parentpageid="5245682">
-            <input type="text" name="Email" id="control_EMAIL" label="Email" class="footerEmail" placeholder="Email Address">
-            <input type="submit" value="" style="height:0;overflow:auto;position:absolute;left:-9999px;"><!--DO NOT REMOVE THIS INPUT. THIS IS THE FIX FOR IE7-->
-            <input type="submit" name="button" class="btn-orange subscribePad subscribePad1" id="txt_search2" value="Subscribe »">
-             <input type="hidden" name="formSourceName" value="StandardForm">
-    <!-- DO NOT REMOVE HIDDEN FIELD sp_exp -->
-    <input type="hidden" name="sp_exp" value="yes">
-            </form>
-          <div class="updateEmail"> <a href="http://www.zones.com/site/statics/static_page.html?name=zones/email/update-preferences-login">Update email preferences »</a></div>
-        </div>
-      </div>
-    </div>
-    <div class="footerCol300 left">
-      <div class="footerSearch">
-        <div class="footerConnect">
-          <div class="footerConnect1 left">
-            <h3>Connect with us</h3>
-          </div>
-          <div class="footerConnect2 left"> <a href="http://www.facebook.com/ZonesInc" onclick="javascript:_gaq.push(['_trackEvent','Facebook','http://www.facebook.com/ZonesInc']);" title="Facebook" target="_blank"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/facebook_icon.png" alt="Facebook" style="border:0"></a><a href="http://www.linkedin.com/company/zones" onclick="javascript:_gaq.push(['_trackEvent','LinkedIn','http://www.linkedin.com/zones']);" title="LinkedIn" target="_blank"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/in_icon.png" alt="LinkedIn" style="border:0"></a><a href="http://twitter.com/Zones" onclick="javascript:_gaq.push(['_trackEvent','twitter','http://www.twitter.com/zones']);" title="Twitter" target="_blank"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/twitter_icon.png" alt="Twitter" style="border:0"></a><a href="https://plus.google.com/110556396199414970266?prsrc=3" style="text-decoration:none;" target="_blank"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/google_icon.png" alt="Google+" style="border:0"></a></div>
-          <div class="clr"></div>
-        </div>
-      </div>
-      <div class="footerCol300">
-       <!-- <div class="footerSparrow left"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/twitter_sparrow.gif" /></div>
-        <div class="footerConversation left"><div id="twitter_div"><ul id="twitter_update_list"><li> </li></ul></div>
-        <div class="clr widthAuto"><a href="https://twitter.com/Zones" target="_blank" class="jointheconversation">Join the conversation &raquo;</a> </div></div>--><div class="zonesSol nopadmarg"><a href="http://blog.zones.com/" target="_blank"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/homepage-blogpromo-tile.jpg"></a></div>
-            
-        <!--<div class="zonesSol"><p class="solBig">Zones Solutions</p>
-        	<p class="solSmall">The Zones difference is your advantage</p>
-            <a href="http://www.zones.com/site/statics/static_page.html?name=solutions/overview">Read solutions stories &raquo;</a></div>-->
-        <div class="clr"></div>
-      </div>
-    </div>
-    <div class="clr">
-    <div class="footerSecondrow">
-      <div class="footerCol noBorder">
-        <h1><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/corporate-info-main" title="About Us">About Us</a></h1>
-        <ul>
-         <!-- <li><a href="#" title="Contact Us">Our History</a></li> 
-          <li><a href="#" title="Leadership">Our Values &amp; Vision</a></li>
-		  <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/annual-reports" title="Annual Reports">Annual Reports &amp; SEC Filings</a></li>
-		  -->
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/corporate-info-leadership" title="Management Team">Management Team</a></li>
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=services/zones-professional-services-technical-certifications" title="Zones Certification">Zones Certifications</a></li>
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/mbe-certification" title="MBE Certification">MBE Certification</a></li>
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/awards-accolades" title="Awards &amp; Accolades">Awards &amp; Accolades</a></li>
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/press-releases" title="Newsroom">Newsroom</a></li>
-          
-		   <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/zones-partner-program" title="Partner with Zones">Partner with Zones</a></li>
-		 
-        </ul>
-      </div>
-      <div class="footerCol noBorder">
-        <h1>Zones Community</h1>
-        <ul>
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/sustainability/community" title="Community Involvement">Community Involvement</a></li>
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/sustainability/sustainability" title="Zones Sustainability">Sustainability</a></li>
-          <!-- <li><a href="http://www.zones.com/site/rebate/index.html" title="Rebates">Rebates</a></li>
-        <li><a href="http://www.zones.com/site/statics/static_page.html?name=misc/webinars" title="Webinars">Webinars</a></li>
-        <li><a href="http://www.zones.com/site/statics/static_page.html?name=misc/technology-briefs" title="Technology Briefs">Technology Briefs</a></li>-->
-        </ul>
-      </div>
-      <div class="footerCol noBorder">
-        <h1><a href="http://www.zones.com/corporate/careers/careers-and-jobs.html" title="Careers">Zones Careers</a></h1>
-        <ul>
-          <li><a href="http://www.zones.com/corporate/careers/company-profile-value-and-visions.html" title="Why Zones">Why Zones</a></li>
-          <li><a href="http://www.zones.com/corporate/careers/WhoWeWorkWith.html" title="Who We Work With">Who We Work With</a></li>
-          <li><a href="http://www.zones.com/corporate/careers/current-career-job-openings-apply-now.html" title="Current Openings">Current Openings</a></li>
-          <li><a href="http://www.zones.com/corporate/careers/campus-connections-and-college-recruitment.html" title="Campus Connection">Campus Connection</a></li>
-          <li><a href="http://www.zones.com/corporate/careers/benefits-compensation-health-training.html" title="Benefits">Benefits</a></li>
-        </ul>
-      </div>
-      <div class="footerCol noBorder">
-        <h1>Zones Knowledge Center</h1>
-        <ul>
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=zones/online-magazine/landing" title="Online Publications">Online Publications</a></li>
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=knowledge-center/case-studies" title="Case Studies">Case Studies</a></li>
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=knowledge-center/technology-briefs" title="Technology Briefs">Technology Briefs</a></li>
-
-          <li><a href="http://www.zones.com/site/statics/static_page.html?name=misc/webinars" title="Webinars">Webinars</a></li>
-        </ul>
-      </div>
-      <div class="footerCol nopadmarg">
-        <div id="copyright">
-          <div class="footerLogoimg"><a href="http://www.zones.com/site/home/index.html?zone=business"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/global/spacer.gif" width="104" height="24"></a></div>
-          <h1>Copyright © 1996 - 2013 Zones, Inc.</h1>
-          <br>
-          <ul>
-            <!-- <li><a href="#" title="Why Zones">Terms &amp; Conditions</a></li> -->
-            <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/policies" title="General Policies">General Policies</a></li>
-            <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/legal-disclaimer" title="Legal Disclaimer">Legal Disclaimer</a></li>
-            <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/privacy-policy" title="Privacy Policy">Privacy Policies</a></li>
-          </ul>
-        </div>
+<![endif]-->
+<div id="footer-main">
+  <div class="inner">
+    <div class="footer-top"> <div class="banner-careers"><a class="banner-careers" href="http://careers.zones.com" target="_blank"></a></div>
+    <ul class="social">
+      <li class="facebook"><a class="facebook" target="_blank" href="https://www.facebook.com/ZonesInc"></a> </li>
+      <li class="linkedin"><a class="linkedin" target="_blank" href="https://www.linkedin.com/company/zones"></a></li>
+      <li class="twitter"><a class="twitter" target="_blank" href="https://twitter.com/Zones"></a></li>
+      <li class="google"><a class="google" target="_blank" href="https://plus.google.com/+zones/posts"></a></li>
+      <li class="youtube"><a class="youtube" target="_blank" href="https://www.youtube.com/channel/UCbAC-zmnR2xBmD7C152X5gw"></a></li>
+      <li class="blog"><a class="blog" target="_blank" href="http://blog.zones.com/"></a></li>
+    </ul>
+    <div class="footer-search">
+      <div class="search">
+        <form name="search" action="http://www.zones.com/site/locate/search.html">
+          <input type="hidden" id="suggestions_url" value="/site/search_suggestions/index.html?search_str=">
+          <input type="hidden" id="search_url" value="http://www.zones.com/site/locate/search.html?txt_search=">
+          <input id="mainsearch" type="text" autocomplete="off" placeholder="Search Products" name="txt_search">
+          <input type="image" name="txt_search2" id="btn-search" src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/css/icon-search_20140530.png" value="Go" alt="Go">
+          <input type="hidden" name="non_partner_search" value="no_partner_id">
+          <div id="z-loading-icon-footer"></div>
+        </form>
       </div>
     </div>
   </div>
-  <!--<script src="http://twitter.com/javascripts/blogger.js" type="text/javascript"></script>
-<script src="http://api.twitter.com/1/statuses/user_timeline/zones.json?callback=twitterCallback2&count=1" type="text/javascript"></script>-->
-</div></footer>
-
+  <div class="footer-middle">
+    <div class="sitemap-col sitemap-col1"> <a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/corporate-info-main">About Us</a>
+      <ul>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/contact-us">Contact Us</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/corporate-info-leadership">Management Team</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/mbe-certification">MBE Certification</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/awards-accolades">Awards</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=services/zones-professional-services-technical-certifications">Certifications</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/press-releases">Newsroom</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/sustainability/sustainability">Sustainability</a></li>
+        <li><a href="http://careers.zones.com/" target="_blank">Zones Careers</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/expertise">Expertise</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/financing-and-leasing">Financing</a></li>
+      </ul>
+    </div>
+    <div class="sitemap-col sitemap-col2"> <a href="http://www.zones.com/site/statics/static_page.html?name=solutions/solutions">Solutions &amp; Services</a>
+      <ul>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/virtualization-and-cloud">Virtualization &amp; Cloud</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/storage-data-protection">Storage &amp; Data Protection</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/network-infrastructure-solutions">Network Infrastructure</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/uc-collaboration">UC &amp; Collaboration</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/mobility-euc-management">Mobility &amp; EUC Management</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/security">Security</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/data-center">Data Center</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/software">Software</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/telecoms-connectivity-services">Telecom Connectivity Services</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/managed-print-solutions">Managed Print Solutions</a></li>
+        <!--<li><a href="http://www.zones.com/site/statics/static_page.html?name=solutions/microsoft">Microsoft</a></li>-->
+      </ul>
+    </div>
+    <div class="sitemap-col sitemap-col3"> <a href="http://www.zones.com/site/statics/static_page.html?name=products">Products</a>
+      <ul>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=products/healthcare">Healthcare</a></li>
+        <li><a href="http://www.zones.com/site/home/index.html?zone=public">Public Sector</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=products/retail">Retail</a></li>
+      </ul>
+    </div>
+    <div class="sitemap-col sitemap-col4"> <a href="http://www.zones.com/site/statics/static_page.html?name=partner/showcase/index"> Brand Partners</a>
+      <ul>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=partner/showcase/index">Featured Partners</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/zones-partner-program">Partner with Zones</a></li>
+      </ul>
+    </div>
+    <div class="sitemap-col sitemap-col5"> <a href="http://www.zones.com/site/statics/static_page.html?name=global/index">Global</a>
+      <ul>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=global/canada/index&amp;zone=global" target="_blank">Canada</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=global/europe/index&amp;zone=global" target="_blank">Europe</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=global/india/index&amp;zone=global" target="_blank">India</a></li>
+      </ul>
+    </div>
+    <div class="sitemap-col sitemap-col6">Knowledge Center
+      <ul>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=zones/online-magazine/landing">Online Publications</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=knowledge-center/case-studies">Case Studies</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=knowledge-center/technology-briefs">Technology Briefs</a></li>
+        <li><a href="http://www.zones.com/site/statics/static_page.html?name=knowledge-center/webinars">Webinars</a></li>
+        <li><a href="http://blog.zones.com/" target="_blank">Zones Blog</a></li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div class="footer-bottom">
+    <div class="copy"><a href="http://www.zones.com/site/home/index.html?zone=business"><img src="http://a248.e.akamai.net/f/248/3214/1d/www.zones.com/images/css/logo_20140430.png"></a>Copyright © 1996 - <span class="footer-year">2014</span> Zones, Inc.</div>
+    <div class="contact"> <a href="http://www.zones.com/site/statics/static_page.html?name=corporate/about-us/contact-us" class="phone">800.408.9663</a> <br>
+      <a href="mailto:customerservice@zones.com" class="email">customerservice@zones.com</a><br>
+    <a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/policies">General Policies</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/legal-disclaimer">Legal Disclaimer</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/privacy-policy">Privacy Policies</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="http://www.zones.com/site/statics/static_page.html?name=corporate/terms-and-conditions/terms-of-purchase">Terms of Purchase</a></div>
+    <div class="clear"></div>
+  </div>
+</div>
+</div>
+<!--[if !IE]><!-->
+<script language="JavaScript" src="http://sb.sellpoint.net/smart_button/zones.js"></script>
+<script language="JavaScript">
+vsr_sku=$.trim($("#item_no_id").text().trim());
+window.show_vsr_button ? show_vsr_button() : '';
+</script>
+<!--<![endif]-->
       </div>
       <!--Footer Part Ends-->
     <!-- start coremetrics -->
