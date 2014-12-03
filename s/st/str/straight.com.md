@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straight.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090934id_/http%3A//www.straight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straight.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203085100id_/http%3A//www.straight.com/privacy-policy) for the most accurate reproduction.*
 
 # Georgia Straight Privacy Policy | Georgia Straight, Vancouver's News & Entertainment Weekly
 
