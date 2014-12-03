@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emgn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104044id_/http%3A//emgn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emgn.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204003851id_/http%3A//emgn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EMGN
+# Privacy Policy -
 
 **What information do we collect?**
 
