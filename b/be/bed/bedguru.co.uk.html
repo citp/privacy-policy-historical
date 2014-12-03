@@ -1,23 +1,212 @@
-<!--The following is the downloaded HTML source of the bedguru.co.uk privacy policy that was archived on 2014-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140530222325id_/http%3A//www.bedguru.co.uk/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bedguru.co.uk privacy policy that was archived on 2014-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203031102id_/http%3A//www.bedguru.co.uk/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script async="" charset="utf-8" src="//v2.zopim.com/?1VBywV57mNuBbnFI4bkOlZ2Zup2dkVti" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://www.bedguru.co.uk/js/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+
+	var deviceIphone = "iphone";
+	var deviceIpod = "ipod";
+	var deviceIpad = "ipad";
+	var devicePalm = "palm";
+	var deviceS60 = "series60";
+	var deviceSymbian = "symbian";
+	var engineWebKit = "webkit";
+	var deviceAndroid = "android";
+	var deviceWinMob = "windows ce";
+	var deviceWinPhone = "windows phone";
+	var deviceBB = "blackberry";
+ 
+	//Initialize our user agent string to lower case.
+	var uagent = navigator.userAgent.toLowerCase();
+ 
+	//**************************
+	// Detects if the current device is an iPhone.
+	function DetectIphone()
+	{
+		
+	   if (uagent.search(deviceIphone) > -1)
+		  return true;
+	   else
+		  return false;
+	}
+ 
+ // Detects if the current device is an iPad Touch.
+ 	function DetectIpad()
+	{
+	   if (uagent.search(deviceIpad) > -1)
+		  return true;
+	   else
+		  return false;
+	}
+	
+	//**************************
+	// Detects if the current device is an iPod Touch.
+	function DetectIpod()
+	{
+	   if (uagent.search(deviceIpod) > -1)
+		  return true;
+	   else
+		  return false;
+	}
+ 
+	//**************************
+	// Detects if the current device is an iPhone or iPod Touch.
+	function DetectIphoneOrIpod()
+	{
+		if (DetectIphone()){
+			window.location.href='http://www.bedguru.co.uk/m';
+		   return true;
+		}
+                /* 
+		else if (DetectIpad()){
+			window.location.href='http://www.bedguru.co.uk/';
+		   return true;
+		}
+		
+		else if (DetectIpod()){
+			window.location.href='http://www.bedguru.co.uk/';
+		   return true;
+		}*/
+		else{
+			
+		   return false;
+		}
+	}	
+ 
+	//**************************
+	// Detects if the current browser is the S60 Open Source Browser.
+	// Screen out older devices and the old WML browser.
+	function DetectS60OssBrowser()
+	{
+	   if (uagent.search(engineWebKit) > -1)
+	   {
+		 if ((uagent.search(deviceS60) > -1 || 
+			  uagent.search(deviceSymbian) > -1))
+			return true;
+		 else
+			return false;
+	   }
+	   else
+		  return false;
+	}
+ 
+ 
+ 
+	//**************************
+	// Detects if the current device is an Android OS-based device.
+	function DetectAndroid()
+	{
+	   if (uagent.search(deviceAndroid) > -1){
+		   window.location.href='http://www.bedguru.co.uk/m';
+		  return true;
+	   }
+	   else
+		  return false;
+	}
+ 
+ 
+	//**************************
+	// Detects if the current device is an Android OS-based device and
+	//   the browser is based on WebKit.
+	function DetectAndroidWebKit()
+	{
+	   if (DetectAndroid())
+	   {
+		 if (DetectWebkit()){
+			 window.location.href='http://www.bedguru.co.uk/m';
+			return true;
+		 }
+		 else
+			return false;
+	   }
+	   else
+		  return false;
+	}
+ 
+ 
+	//**************************
+	// Detects if the current browser is a Windows Mobile device.
+	function DetectWindowsMobile()
+	{
+	   if (uagent.search(deviceWinMob) > -1)
+		  return true;
+	   else
+		  return false;
+	}
+ 
+	//**************************
+	// Detects if the current browser is a Windows Phone OS 7+ Mobile device.
+	function DetectWindowsPhone()
+	{
+	   if (uagent.search(deviceWinPhone) > -1)
+		  return true;
+	   else
+		  return false;
+	}
+ 
+	//**************************
+	// Detects if the current browser is a BlackBerry of some sort.
+	function DetectBlackBerry()
+	{
+	   if (uagent.search(deviceBB) > -1)
+		  return true;
+	   else
+		  return false;
+	}
+ 
+	//**************************
+	// Detects if the current browser is on a PalmOS device.
+	function DetectPalmOS()
+	{
+
+	   if (uagent.search(devicePalm) > -1)
+		  return true;
+	   else
+		  return false;
+	}
+ 
+	function DetectMobileOS()
+	{
+		if (DetectIphoneOrIpod() || DetectAndroid() || DetectAndroidWebKit())
+		{			
+		} else {
+			return false;
+		}
+		
+	}
+ 
+// $('#clicklink').click(function(e){
+//		 DetectMobileOS();
+  
+ window.onload = DetectMobileOS();		 
+		 
+//});
+/*	if (DetectMobileOS())
+	{
+		//do stuff
+			
+	}*/
+});
+</script>
+
+
 		
 	    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="content-language" content="en-gb">
     <meta http-equiv="imagetoolbar" content="false">
 	
 	<meta name="revisit-after" content="7 days">
-	<meta name="author" content="PVAPPS">
-	<meta name="copyright" content="Copyright© 2014 The Bed Guru">
-	<meta name="robots" content="noodp">
+        <meta name="designer" content="http://www.pvapps.co.uk">
+		<meta name="copyright" content="Copyright© 2014 The Bed Guru">
+	
 	
 	<title>
 		Privacy - The Bed Guru, Specialising in a Good Night's Sleep for Over 27 Years. The Bed Guru, Leeds.	</title>
 					<meta name="description" content="Online Beds and mattress specialist. Shop for Divan Beds, Headboards, Bunk Beds, Single Mattress, Double Mattress, Pine Furniture, Childrens Bedroom Furniture or Browse our wide variety of products now">
 				<meta name="keywords" content="Bunk Beds, Single Mattress, Double Mattress, Pine Furniture, Childrens Bedroom Furniture">
-				<meta name="robots" content="all">
-	<meta name="googlebot" content="index, follow">
+				
 	
 	<link rel="shortcut icon" href="http://www.bedguru.co.uk//favicon.ico">
 	
@@ -29,7 +218,7 @@
 	<!--[if IE 8]><link href="http://www.bedguru.co.uk/css/ie8.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->  
 	<!--[if IE 9]><link href="http://www.bedguru.co.uk/css/ie9.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 	
-		<script async="" charset="utf-8" src="//v2.zopim.com/?1VBywV57mNuBbnFI4bkOlZ2Zup2dkVti" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://www.bedguru.co.uk/js/jquery.min.js"></script>
+		<script language="javascript" type="text/javascript" src="http://www.bedguru.co.uk/js/jquery.min.js"></script>
 	<script language="javascript" type="text/javascript" src="http://www.bedguru.co.uk/js/jquery.tabs.js"></script>
 	
 		
@@ -157,12 +346,12 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </ul><!--/Nav-->
 
 <ul id="categories" class="clearfix">
-	<li><a href="http://www.bedguru.co.uk/category/mattress-single-mattress-double-mattress-memory-foam-mattress" title="Mattresses" onclick="clearsearch();">Mattresses</a></li>
-	<li><a href="http://www.bedguru.co.uk/category/bed-frames-metal-bed-frames-wooden-bed-frames-faux-leather-leather-bed-frames" title="Bed Frames" onclick="clearsearch();">Bed Frames</a></li>
-	<li><a href="http://www.bedguru.co.uk/category/divan-beds-double-divan-beds-single-divan-beds" title="Divan Beds" onclick="clearsearch();">Divan Beds</a></li>
-	<li><a href="http://www.bedguru.co.uk/category/headboards-metal-headboards-wooden-headboards-padded-headboards" title="Headboards" onclick="clearsearch();">Headboards</a></li>
+	<li><a href="http://www.bedguru.co.uk/category/mattresses" title="Mattresses" onclick="clearsearch();">Mattresses</a></li>
+	<li><a href="http://www.bedguru.co.uk/category/bed-frames-bedsteads" title="Bed Frames" onclick="clearsearch();">Bed Frames</a></li>
+	<li><a href="http://www.bedguru.co.uk/category/divan-beds" title="Divan Beds" onclick="clearsearch();">Divan Beds</a></li>
+	<li><a href="http://www.bedguru.co.uk/category/headboards" title="Headboards" onclick="clearsearch();">Headboards</a></li>
 	<li><a href="http://www.bedguru.co.uk/category/mattress-protectors-pillows-duvets" title="Pillows &amp; Duvets" onclick="clearsearch();">Pillows &amp; Duvets</a></li>
-	<li><a href="http://www.bedguru.co.uk/category/white-bedroom-furniture-pine-furniture-wenge-bedroom-furniture" title="Bedroom Furniture" onclick="clearsearch();">Bedroom Furniture</a></li>
+	<li><a href="http://www.bedguru.co.uk/category/bedroom-furniture" title="Bedroom Furniture" onclick="clearsearch();">Bedroom Furniture</a></li>
 	<!--<li><a href="http://www.bedguru.co.uk/category/children039s-beds-bunk-beds-guest-beds-adjustable-beds-day-beds/1" title="Guest Beds">Guest Beds</a></li>-->
    	<li><a href="http://www.bedguru.co.uk/category/children039s-beds-bunk-beds-guest-beds-adjustable-beds-day-beds/guest-beds-children039s-beds" title="Guest Beds" onclick="clearsearch();">Guest Beds</a></li>
 	<li><a href="http://www.bedguru.co.uk/category/children039s-beds-bunk-beds-guest-beds-adjustable-beds-day-beds" title="Bunk Beds &amp; More" onclick="clearsearch();">Bunk Beds &amp; More</a></li>
