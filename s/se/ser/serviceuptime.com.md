@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the serviceuptime.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141618id_/http%3A//www.serviceuptime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serviceuptime.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203134231id_/http%3A//www.serviceuptime.com/privacy.php) for the most accurate reproduction.*
 
 # Service Uptime - Privacy Policy
-
-PRIVACY POLICY (Version 1.2; Revised January 21, 2008)
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site.
 
