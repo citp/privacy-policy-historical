@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529063644id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203212405id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Privacy | City of Edinburgh Council
+# Privacy Notice | Privacy | The City of Edinburgh Council
 
 ## Privacy Notice
 
 We gather and process information about you so that the services you request can be delivered effectively and efficiently.  This Privacy Notice informs you what to expect when we collect information about you.
 
-The Data Protection Act, 1998, and other legislation, regulates how we use the personal information you provide.  Personal information is details about you such as your name and address, your bank details and any information about your circumstances that are necessary for the Council to deliver services to you.
+The Data Protection Act, 1998, and other legislation, regulates how we use the personal information you provide.  Personal information are details about you such as your name and address, your bank details and any information about your circumstances that are necessary for the Council to deliver services to you.
 
 When you provide your personal information you are giving your consent to us to use your information for the provision of services.  This Privacy Notice also describes situations when we will use your personal information when your consent is not required.
 
@@ -20,7 +20,7 @@ To allow the Council to provide a high quality of service to you we may also ask
 
 ### Data matching
 
-We are required to ensure that we protect the money available for the provision of Council services.  The Council will use the personal information about you to help us to do this.  Data Matching involves cross checking the personal information you provide to various Council service departments for accuracy.  
+We are required to ensure that we protect the money available for the provision of Council services.  We will use the personal information about you to help us to do this.  Data matching involves cross checking the personal information you provide to various Council service departments for accuracy.  
 
 Examples of this are the payment of benefits and application for school enrolment.
 
