@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skymall.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215000443id_/http%3A//www.skymall.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymall.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203105535id_/http%3A//www.skymall.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # SkyMall Privacy Policy and California Privacy Policy
 
@@ -8,7 +8,7 @@ At SkyMall, we value and respect your privacy. This privacy policy describes wha
 
 It also describes the choices you can make about how we collect and use your information
 
-We will ask you to provide us with the personal information we need to complete your transaction, to enable us to provide you with customer service, or so that you can register for special offers, benefit programs, email updates, or other services, contest, sweepstakes, or opportunities.
+We will ask you to provide us with the personal information we need to complete your transaction, to enable us to provide you with customer service, or so that you can register for special offers, benefit programs, email updates, or other services, contest, sweepstakes, or opportunities. If signing up for SMS messages, standard message and data rates may apply.
 
 We require your name, address, telephone number, and email address to fulfill and confirm your order and to contact you regarding your purchases and shipments. We may also ask for optional interest or demographic information which will help us and our partners gain a better understanding of who we're serving, and therefore, improve our service to you. Your name, address, telephone number, and in some cases, email address, will be shared with the merchant partners who will fulfill your merchandise orders.
 
