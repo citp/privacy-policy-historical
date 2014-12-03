@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230620id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203223735id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
 # Software Advice Privacy Policy
 
-We've helped **209,313** companies choose the right software  
-by sharing our extensive research on over 1,328 systems.
+We've helped **249,288** companies choose the right software  
+by sharing our extensive research on over 1,429 systems.
 
 You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by Software Advice™, Inc. (“Software Advice”) or (b) includes content, including but not limited to registration and other forms, owned by Software Advice or drawn from a website owned and operated by Software Advice. Software Advice is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Software Advice. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
 
