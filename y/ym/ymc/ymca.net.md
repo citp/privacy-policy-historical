@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303060131id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203152627id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.*
 
 # the Y: Privacy Policy
 
@@ -8,13 +8,13 @@ This privacy policy will advise you about our guidelines concerning the use of y
 
 We keep your private information private by:
 
-  * **Not selling your information** —You've entrusted us with your personal information, and we're committed to using it wisely. YMCA of the USA will not sell your personal information to anyone, for any reason, at any time.
-  * **Using firewalls and encryption** —We use firewalls and encryption technology to protect personal information on our computer systems.
-  * **Restricting who has access to your information** —We take precautions to ensure that your internet account and personal information are accessible only by employees who are authorized to have access to your personal information.
+  *  **Not selling your information** —You've entrusted us with your personal information, and we're committed to using it wisely. YMCA of the USA will not sell your personal information to anyone, for any reason, at any time.
+  *  **Using firewalls and encryption** —We use firewalls and encryption technology to protect personal information on our computer systems.
+  *  **Restricting who has access to your information** —We take precautions to ensure that your internet account and personal information are accessible only by employees who are authorized to have access to your personal information.
 
 
 
-If you have any questions or concerns about our privacy policy, please contact us at: 
+If you have any questions or concerns about our privacy policy, please contact us at:
 
 Legal Department  
 YMCA of the USA  
@@ -37,9 +37,9 @@ YMCA of the USA does not rent or sell personal identification information, inclu
 
 We collect non-personal identification information without limitation, through the use of the following types of methodology:
 
-  * **"Cookie" technology:** A "cookie" is an element of data that a website can send to your browser, which may then store it on your system.
-  * **"IP address tracking":** An IP address is a number that is assigned to your computer when you are on the Internet. When you request pages from our Sites, our servers log your IP address.
-  * **"Web beacons":** A Web beacon, or "clear gif," is a small graphic image on a webpage or web-based document that a website can use to determine information about a user.
+  *  **"Cookie" technology:** A "cookie" is an element of data that a website can send to your browser, which may then store it on your system.
+  *  **"IP address tracking":** An IP address is a number that is assigned to your computer when you are on the Internet. When you request pages from our Sites, our servers log your IP address.
+  *  **"Web beacons":** A Web beacon, or "clear gif," is a small graphic image on a webpage or web-based document that a website can use to determine information about a user.
 
 
 
@@ -50,6 +50,10 @@ We use such information for our business purposes, and, in particular, primarily
 ## Privacy of Children
 
 We are mindful that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We strongly urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
+
+## Community Guidelines
+
+Guidelines for participants in our social media, blogs, and forums are available at <http://www.ymca.net/guidelines>.
 
 ## Donations
 
