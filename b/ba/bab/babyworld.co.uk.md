@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630161518id_/http%3A//babyworld.co.uk/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071129id_/http%3A//babyworld.co.uk/private-policy) for the most accurate reproduction.*
 
-# Privacy Policy - babyworld | babyworld
+# Privacy Policy | babyworld
 
 Glam Media Ltd (trading as “babyworld”), takes your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and  match your needs with relevant products, and process any orders that you may make through our website.
 
@@ -50,5 +50,5 @@ We welcome your questions and comments about privacy issues. Should you have an
 
 See also our [Terms of Use](https://web.archive.org/bbs/discussion_rules.asp), [Copyright](http://babyworld.co.uk/copyright-and-limited-reproduction-notices/) and [Disclaimer](http://babyworld.co.uk/disclaimer-of-liability-visitors-and-members-contributions-to-the-website/) information and [Community rules](http://babyworld.co.uk/using-babyworlds-community/).
 
-**Last revised 04 April 2012  
+ **Last revised 04 April 2012  
 **
