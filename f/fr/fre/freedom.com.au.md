@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618021643id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203120359id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Freedom Furniture and Homewares
 
   
 
-
-## Freedom Privacy Policy
 
 Steinhoff Asia Pacific Limited trading as Freedom and its Related Bodies Corporate (as defined in the Corporations Act 2001 (Cth)) (collectively “Freedom”), recognises the importance of protecting the privacy and rights of individuals in relation to their personal information. This is our privacy policy and it tells you how we collect and manage your personal information. 
 
@@ -121,7 +119,7 @@ _
 Please contact our Privacy Officer at:_  
 Privacy Officer   
 Steinhoff Asia Pacific Limited trading as Freedom  
-3 Apollo Place  
-Lane Cove NSW 2066  
+1 Epping Road  
+North Ryde NSW 2113  
 Phone: 1300 135 588  
 Email: privacy@steinhoff.com.au
