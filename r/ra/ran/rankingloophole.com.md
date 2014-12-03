@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankingloophole.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082615id_/http%3A//rankingloophole.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankingloophole.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203090524id_/http%3A//www.rankingloophole.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
