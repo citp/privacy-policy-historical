@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funmin.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612141731id_/http%3A//www.funmin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmin.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204172509id_/http%3A//www.funmin.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
