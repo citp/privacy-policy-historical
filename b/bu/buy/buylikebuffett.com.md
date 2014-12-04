@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the buylikebuffett.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107065809id_/http%3A//buylikebuffett.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buylikebuffett.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204154556id_/http%3A//buylikebuffett.com/about-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Buy Like Buffett
+# BUY LIKE BUFFETT Privacy - Buy Like Buffett
+
+## Privacy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -17,3 +19,5 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Buy Like Buffett then you may contact us using the secure contact form.
 
 Last updated Sat, 30 Oct 2010 22:18
+
+Comments are closed.
