@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalterroralert.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525142509id_/http%3A//www.nationalterroralert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalterroralert.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204174058id_/http%3A//www.nationalterroralert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Homeland Security News
 
