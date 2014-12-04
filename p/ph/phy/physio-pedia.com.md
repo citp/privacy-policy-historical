@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the physio-pedia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626121031id_/http%3A//www.physio-pedia.com/Physiopedia%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physio-pedia.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204030618id_/http%3A//www.physio-pedia.com/Physiopedia%3APrivacy_Policy) for the most accurate reproduction.*
 
 # Physiopedia:Privacy Policy - Physiopedia, universal access to physiotherapy knowledge.
-
-### From Physiopedia
 
 ##  Physiopedia Privacy Policy  
 
@@ -204,14 +202,8 @@ Physiopedia complies with the same laws and processes that all lawful companies 
 
 Physiopedia does not provide medical advice, diagnosis or treatment. 
 
-## Achilles Tendinopathy
+## The Movement System
 
-In this month's Members topic we are exploring the foot and ankle with a focus on achilles tendinopathy. This month we have exclusive access to:
+Learn about the movement system with Shirley Sarhmann & Mark Comerford in this month's members learn topic.
 
-  1. 2 FREE chapters from text books **Maitland's Peripheral Manipulation** by Hengeveld & Banks 2014 and **A Practical Approach to Orthopaedic Medicine** by Atkins, Kerr and Goodlad. 2010
-  2. 4 FREE journal articles from **The Foot**
-  3. An interview with Maitland expert Elly Hengeveld
-
-
-
-[Join and learn...](http://bit.ly/1lk5jHE)
+[Become a member](http://bit.ly/1lk5jHE)
