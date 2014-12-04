@@ -1,94 +1,94 @@
-> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809232644id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204125517id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Check out how your interact with us
 
-COMMITMENT TO YOUR PRIVACY  
-Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.  
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+We do our best to protect your privacy. This site is primarily composed of articles written by the authors, user-submitted reviews and comments, and advertisements. When this policy was first written a while back, the internet was a simpler place and there wasn’t much of your information out there to collect. The world has changed, and although the goal of this site is to limit the information we collect, it looks like there are a few ways that your presence here is noted due to the various widgets and gadgets on the site.
 
-INFORMATION WE GATHER AND TRACK  
-We gather two types of information about users:
+The following uses screenshots from a typical page on this site to describes to the best of our knowledge what goes on in terms of information that is created or collected during your visit. 
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys
-  * Information we gather through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because this site derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances do we divulge any information about an individual user to a third party. 
+## FB Like Button  
 
 
+At the top of the page is the familiar [Facebook Like button](https://developers.facebook.com/docs/reference/plugins/like/). This widget counts the number of people who have clicked to indicate they like this page. If you are logged into Facebook, this widget uses Facebook’s API (programmer’s interface) to tell you if you any of your friends have liked this page. However others only see the number of people who’ve like the page, and which one of their friends have like the page. In general, we have no idea who has clicked the Like button or shared the page via the Send button.
 
-We Gather User Information In The Following Processes:
+There’s a another set of buttons at the bottom of most pages that allows you to give your opinion and share it on Facebook:  
 
-Optional Voluntary Information
 
-We offer the following free services, which require some type of voluntary submission of personal information by users:
+We only know what button has been clicked and how many times. We don’t know who has clicked them, nor do we know the user says in the share message.  
 
-1\. Electronic newsletters policy (Dispatches)
 
-We may offer a free electronic newsletter to users. We may gather the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management. 
+## Google Search Box  
 
-2\. Message boards/forums policy
 
-We may offer forums in the future. Users of the site's Forums must register for these services in order to post messages, although they needn't register to visit the site. 
+Using the [search button](https://www.google.com/cse/) on the site takes you to a search results page which contains advertisements followed by search results from pages on my site. While we don’t know who has performed the searches, we can see some of the search terms that were used:  
 
-3\. "E-mail this to a friend" policy
 
-We may offer our site users the option to choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
+This helps us determine what information should be added to the site, such as which phones to review next.  
 
-4\. Polling
 
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. We may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
+## User Submissions  
 
-5\. Surveys
 
-We may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
+Many of the pages have a facility for visitors to submit their own reviews and questions:  
 
-Children
 
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
+Visitors can enter their name and email if they wish to receive updates on further comments left by other visitors. The email addresses are not exposed to other visitors. In addition, we will not send additional promotional material such as offers to emails associated with these forms unless the same email is also used to sign up for an electronic newsletter or contest.  
 
-Usage tracking
 
-We may track user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. We may break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).  
-We sometimes track and catalog the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
+## Giveaways
 
-Cookies
+Occasionally the site has a [giveaway](http://www.best-prepaid-cell-phone-plans.com/giveaways.html):  
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.  
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you may need cookies to participate actively in any message boards, forums, polling or surveys offered.
 
-## _Privacy Policy Use_
+Entries require an email address for notifying the winner. We may send notifications of further contests and other offers to these emails. There will be an opt-out link on all these emails.  
 
-USE OF INFORMATION
 
-We use any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+## Surveys and Polls
 
-  
-As stated above, we may use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We may send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. We never share newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
+We may conduct user surveys or polls to find out what visitors want. No information about specific individuals will be shared.  
 
-  
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We may track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
 
-  
-We create aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. We don't track the usage patterns of individual users.
+## Children
 
-  
-Some advertisements may be affiliate links. In this case, a cookie is set identifying the affiliate network and this website’s account with that network. Then if the user clicks or makes a purchase after clicking on a link from this website, the affiliate network is able to credit us with a commission.
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.  
 
-  
-We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-SHARING OF THE INFORMATION
+## Usage Tracking  
 
-We use the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-OPT-OUT POLICY
+We use [Google Analytics](http://www.google.com/analytics/) and other software to track traffic to this website. We do not receive data about individually identifiable users. 
 
-We give users options wherever necessary and practical. Such choices include:
+We use this information to determine to try and improve the site.   
 
-  *  **Opting not to give feedback or to register to receive any electronic newsletters we may offer.**  
 
-  * **Opting not to participate in certain interactive areas we may offer, which completely alleviates the need to gather any personally identifiable information from our users**
+### Cookies
 
+The various items mentioned above may place "cookies" in your web browser to perform their function. You can refuse cookies by turning them off in your browser. 
+
+One common use of cookies is for [advertisements](http://www.best-prepaid-cell-phone-plans.com/ad-affiliate-disclosure.html).
+
+Some areas (Europe) have some regulations regarding cookies. By using this site, you consent to the use of these cookies. The user can choose to block cookies from this site. In that case, it is possible that some features of the site may not work, but most of the information should still be accessible.  
+
+
+## Use of Information  
+
+
+We don’t share any personal information that we collect with third parties.
+
+We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
+
+If the site is sold, the email subscriber list will probably be included in the sale, but only to continue to deliver the information that the user agreed to receive.  
+
+
+## Opt-Out Policy  
+
+
+Users can opt-out of any email notifications they sign up to receive from the site.  
 
 
 YOUR CONSENT
 
-By using this site, you consent to the collection and use of this information by us. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+By using this site, you consent to the collection and use of this information as described above by us. 
+
+Changes to the privacy policy will be noted on this page.  
+
