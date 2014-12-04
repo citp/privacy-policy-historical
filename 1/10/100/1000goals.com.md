@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326132744id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204012234id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | Football - 1000 Goals
 
 **27 February 2008** at 01:51 GMT
+
+[](http://banners.paydot.com/go.php?id=1180&w=115297&s=1048)
 
 Third Party Advertising:  
 We serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -16,24 +18,26 @@ This Web site does allow user to enter their email address at their own will for
 External Links  
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.
 
+[](http://banners.paydot.com/go.php?id=1180&w=115297&s=1048)
+
 ### Latest Football News
 
-[ ](http://www.1000goals.com/news/enjoying-fast-sports-results-with-flashscore-app)
+[ ](http://www.1000goals.com/news/klopp-determined-to-revive-borussia-dortmund)
 
-The advancement of technology has brought many positive impact in every areas, including in the sporting field as this days sports fans can acquire many things with all the latest applications or gadgets. One of the most needed information for fans is match results, whether it's in the form of live scoring or final outcome,…
+Sitting bottom in the current German Bundesliga standings, Borussia Dortmund's head coach, Jurgen Klopp, is reportedly under fire, but he refused to give up easily and determined in reviving his team as soon as possible. Klopp acknowledge that things are current difficult for Dortmund, but he also ensured that everyone at the club doesn't suddenly…
 
-[ ](http://www.1000goals.com/news/david-moyes-takes-responsibility-over-man-united-decline)
+[ ](http://www.1000goals.com/news/blanc-slams-psg-critics)
 
-Suffering a disappointing 3-0 defeat over their rival, Manchester City at Old Trafford on Tuesday, really put Manchester United back into reality after their previous two positive results that temporarily lifted their spirit. That defeat makes it harder for them to compete for that fourth place seat chase by the end of season as they're…
+Paris Saint Germain are still closely challenging for French Ligue 1 title, doing well in Champions League and are yet to taste any defeat so far this season in all competition, but criticism isn't something that they can shake off apparently. This situation triggered PSG's head coach, Laurent Blanc to shut down all of those…
 
-[ ](http://www.1000goals.com/news/swiss-boss-ottmar-hitzfeld-wary-over-france-strength)
+[ ](http://www.1000goals.com/news/wenger-believes-henry-will-return-to-arsenal-someday)
 
-Arriving in the World Cup 2014 finals comfortably didn't make Switzerland national side getting over their head as their head coach, Ottmar Hitzfeld, believes that his team are not the favorites to win their upcoming group. Being placed in group E along with France, Honduras and also Ecuador, the ex-Bayern Munich tactician stated that Les…
+Thierry Henry's future becomes an interesting item after departing from New York Red Bulls recently with Arsenal being considered as a side that could take him when January transfer window opens. However, Gunners' head coach, Arsene Wenger, Sort of shut down that opportunity, as the tactician is not sure that Henry will return to play…
 
-[ ](http://www.1000goals.com/news/brendan-rodgers-enjoying-liverpools-excellent-form)
+[ ](http://www.1000goals.com/news/zlatan-ibrahimovic-welcomes-swedish-royalties-to-visit-psg)
 
-Not being considered as potential English Premier League title challenger earlier in the season, Liverpool showcasing their strength in the later part of current league campaign as they're pushing themselves into the top three seat of current standings. This situation brought nothing but joy for The Reds' manager, Brendan Rodgers, who  revealed that he is…
+In the mix of hectic schedule, Paris Saint Germain received a special guest as Sweden's King, Karl XIV Gustaf along with his wife, Queen, Silvia Sommerlath were visiting Parc Des Princess on Tuesday. Those two royalties were off course being guide by PSG's star striker, Zlatan Ibrahimovic, showing them the social project that Paris' are…
 
-[ ](http://www.1000goals.com/news/david-beckham-ready-to-build-a-new-stadium-in-miami)
+[ ](http://www.1000goals.com/news/ronaldo-happy-with-real-madrid)
 
-Already retiring from playing football doesn't seem to stop former England national team captain, David Beckham, from making his contribution to the sport that has turned him into such popular figure  as his currently busy preparing to build his football stadium in Miami. Having the option to purchase a MLS football club franchise, Beckham already…
+Real Madrid are in an excellent for at the moment and there's definitely plenty joy being felt by their players, including their star man, Cristiano Ronaldo, who praises his teammates along with their technical team. Speaking in a recent interview, Ronaldo revealed that his never been happy with how things are going in the changing…
