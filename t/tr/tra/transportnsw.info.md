@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transportnsw.info privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605180451id_/http%3A//www.transportnsw.info/en/about/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transportnsw.info privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204030438id_/http%3A//www.transportnsw.info/en/about/privacy.page) for the most accurate reproduction.*
 
 # Privacy statement - about | transportnsw.info
 
@@ -103,3 +103,6 @@ Transport for NSW captures this information on its own computers and those of it
 ## Updates to this policy
 
 Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to the transportnsw.info site and will operate from the time it is posted.
+
+
+
