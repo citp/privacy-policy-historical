@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smallworldfs.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529090846id_/http%3A//www.smallworldfs.com/small-world/generic/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallworldfs.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205001728id_/http%3A//www.smallworldfs.com/small-world/generic/en-gb/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Small World Financial Services
+# Small World's privacy policy ensures security and confidentiality
 
 Effective Date: 01/03/2014 This privacy policy applies to[ www.smallworldfs.com](http://www.smallworldfs.com/) owned and operated by Small World Financial Services Group Limited (“SWFS”, “We”, “Us”, “Our”). This privacy policy describes how Small World Financial Services Group Limited collects and uses the personal data you provide on our website: [www.smallworldfs.com](http://www.smallworldfs.com/). It also describes the choices available to you regarding our use of your personal data and how you can access and update this data.
 
@@ -80,5 +80,3 @@ Small World Financial Services Group Limited Units 3 & 4 Sycamore Court Royal Oa
 England
 
 Email Address: [info@smallworldfs.com](mailto:info@smallworldfs.com) 
-
-Píe para PRINT... 
