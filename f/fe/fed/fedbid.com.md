@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628125137id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204105128id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FedBid
 
@@ -20,7 +20,7 @@ We may disclose user Information in special cases when we have reason to believe
 
 ##  **Control of Passwords**
 
-You are required to control your password as described in the Terms of Use. If you have forgotten your password, please contact us at [ClientServices@FedBid.com](mailto:clientservices@fedbid.com "Link: mailto:clientservices@fedbid.com"). Your password will be emailed to you shortly thereafter.  ** _Note that FedBid will never ask for your password in an unsolicited phone call or email._**
+You are required to control your password as described in the Terms of Use. If you have forgotten your password, please contact us at [ClientServices@FedBid.com](http://fedbid.custhelp.com/app/ask "Link: mailto:clientservices@fedbid.com"). Your password will be emailed to you shortly thereafter.  ** _Note that FedBid will never ask for your password in an unsolicited phone call or email._**
 
 ##  **Security**
 
@@ -32,7 +32,7 @@ By using our Web site, you consent to the collection and use of the above-descri
 
 ##  **Other**
 
-This Web Site may contain links to other web sites. FedBid is not responsible for the privacy practices or the content of such sites. You have the option to change or modify certain previously provided Information by revising your user profile online or by contacting FedBid via email at [ClientServices@FedBid.com](mailto:clientservices@fedbid.com).
+This Web Site may contain links to other web sites. FedBid is not responsible for the privacy practices or the content of such sites. You have the option to change or modify certain previously provided Information by revising your user profile online or by contacting FedBid via email at [ClientServices@FedBid.com](http://fedbid.custhelp.com/app/ask "Link: mailto:clientservices@fedbid.com").
 
 ##  **Copyright**
 
@@ -46,4 +46,4 @@ The business method and technology implemented on the Web Site is covered by an 
 
 FedBid’s graphics, logos and service names are the exclusive servicemarks of FedBid, Inc. FedBid’s servicemarks shall not be used in any manner that disparages or discredits FedBid or in connection with any product or service that is not FedBid’s and which use is likely to cause confusion among customers as to the source or quality of the product or service. All other trademarks, servicemarks and logos used on the Web Site are the trademarks, servicemarks and logos of their respective owners.
 
-Do you have a question or comment about this privacy statement or the practices of this site? We welcome your feedback at [ClientServices@FedBid.com](mailto:clientservices@fedbid.com).
+Do you have a question or comment about this privacy statement or the practices of this site? We welcome your feedback at [ClientServices@FedBid.com](http://fedbid.custhelp.com/app/ask "Link: mailto:clientservices@fedbid.com").
