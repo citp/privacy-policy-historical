@@ -1,155 +1,181 @@
-> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024410id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204081512id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Denver Broncos | Privacy Policy
 
-Denver Broncos Web Site Privacy Policy
-
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=b7497162-cd29-4fd7-a8ee-2e544c107e30 "TRUSTe online privacy certification")
 
-_Revised January 10, 2014  
-_
+_Revised: 10/09/2014_
 
-This privacy policy applies to the Denver Broncos Football Club web site located at [http://www.denverbroncos.com](http://www.denverbroncos.com/) and [www.broncoscountry.com](http://www.broncoscountry.com/)  (the "Web site"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+By using the Website, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this privacy policy.
 
-Denver Broncos Football Club has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+The Denver Broncos Football Club ("we," "our," "us") respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy. Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
-** ** If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+Denver Broncos Football Club has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at  [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request).
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through our mobile applications  or mobile Web sites.  
+  1. **Information Collection**
+  2. **Use of Information**
+  3. **Sharing of Information**
+  4. **Social Networking Services**
+  5. **Links To Other Web Sites**
+  6. **Security**
+  7. **Children's Privacy**
+  8. **Changes To This Privacy Policy**
+  9. **Access and Choice**
+  10. **Your California Privacy Rights**
+  11. **International Users**
+  12. **Contact Us**
 
-When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
-Please read the information below to learn more about our data collection policies and practices.
+  * **Information Collection**
 
-  1. Types Of Information That May Be Collected
-  2. How Information May Be Collected
-  3. How We Use The Information Collected
-  4. With Whom The Information May Be Shared
-  5. Security
-  6. Chat Rooms, Forums, And Message Boards
-  7. Links To Other Websites
-  8. A Special Note For Parents Concerning Privacy
-  9. Notification Of Changes And Your Acceptance Of The Privacy Policy
-  10. Correcting/Updating Personal Information
-  11. Your California Privacy Rights
-  12. Questions About This Privacy Policy
 
 
+You generally are not required to provide information about yourself when you visit the Services. However, we may ask you for some or all of the following types of information when you register with our Services, sign up for contests or sweepstakes, use a send-to-a-friend feature, participate in surveys, access various content or features, submit comments or content, or directly contact us with questions or feedback:
 
-Types of Information that May be Collected
+  * Contact information, such as name, e-mail address, postal address, and telephone number;
+  * Unique identifiers, such as a user name or password;
+  * Demographic information, such as gender;
+  * Financial information, such as credit card or other payment information;
+  * Geolocation information;
+  * Communications preferences;
+  * Search queries;
+  * Comments and other information posted in our interactive online forums;
+  * Correspondence and other information that you send to us; and
+  * Additional information as otherwise described to you at the point of collection or pursuant to your consent.
 
-The following are the types of information we may collect:
 
-Information You Provide Us: In the course of using the Site,we may collect personal information that you provide to us, such as your user ID and password, name, email address, telephone number, physical address, birth date, gender or zip code or other information.
 
-Site Usage Information: We may receive and store certain types of information whenever you visit the Site. For example, we may collect click-stream data and your IP address.
+We also may collect certain information automatically when you visit the Services, including:
 
-E-mail Communications: When you open e-mails from the Site, we may receive a confirmation noting you opened an e-mail from us, if your computer supports such capabilities. We also may keep track of what e-mails we send you and what e-mails you may be receiving from us and our subsidiaries and affiliates. Additionally, we keep a record of what types of e-mails you have opted to and not to receive.
+  * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
+  * Other unique identifiers, including mobile device identification numbers;
+  * Your browser type and operating system;
+  * Sites you visited before and after visiting the Services;
+  * Pages you view and links you click on within the Services;
+  * Information collected through cookies, web beacons, local shared objects, and other technologies;
+  * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were received, opened, or forwarded; and
+  * Standard Server Log Information.
 
-Tell-A-Friend: If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and e-mail address. We will automatically send your friend a one-time email inviting him or her to visit the site. Denver Broncos Football Club does not store this information.
 
-We will receive permission to post testimonials to the site prior to posting.
 
-Information from Other Sources: We may receive information about you from other sources and add it to your personal information.
+We may use cookies, pixel tags, Local Shared Objects (sometimes referred to as "Flash Cookies"), and similar technologies to automatically collect this information.  Cookies are small bits of code that are stored by your computer's web browser and that may automatically identify your browser to the Services whenever your computer is used to visit the Services. Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs," that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. Local Shared Objects (sometimes referred to as "Flash Cookies") are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player. Please note that you may need to take additional steps beyond changing your browser settings to refuse or disable Local Shared Objects and similar technologies. For example, Local Shared Objects can be controlled through the instructions on [**Adobe's Setting Manager page**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). By using the Services, you consent to our use of cookies and similar technologies. You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser. However, if you choose to reject cookies and similar technologies, you may not be able to use certain online products, services or features on the Services.
 
-How Information May be Collected
+  * **Use of Information**
 
-We may collect information from you in several different areas on the Site, including but not limited to those described below:
 
-Registration: You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums, Fantasy or other subscription-based services. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Site.
 
-Newsletters and Web site E-mails: We may offer free newsletters to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free e-mail subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or e-mails. We may also send account related emails or service related emails that are transactional by nature. You may not opt-out of these transactional emails. In addition, if you choose to use to Email a Page to a friend or Invite a Friend to the Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. We store this information for the sole purpose of sending this one-time email and for tracking the success of our referral programs.
+We may use information that we collect through the Services for a variety of purposes, including to:
 
-Contests or Sweepstakes: We periodically operate contests and sweepstakes through the Site that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Web site. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Web site, such as on a winner's page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
+  * Provide you with the products, promotions, services, newsletters, and information you request and respond to correspondence that we receive from you;
+  * Contact you via email and otherwise about your account, products, services, contests, and events that we think might be of interest to you;
+  * Send you promotional material or special offers on our behalf or on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
+  * Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer;
+  * Publish stories, comments, photos, and other information posted in our interactive online features;
+  * Customize and personalize your use of the Services; and
+  * As otherwise described to you at the point of collection or pursuant to your consent.
 
-Surveys or Voting: From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Web site.
 
-Games: When you register to play games on our Web site, you may be asked to provide personally identifiable information.
+  * **Sharing of Information**
 
-Social Media Widgets : Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. [ER1] 
 
-Cookies: As with many Web sites, our Web site uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Web site whenever your computer is used to visit the Web site. Cookies also let us know how many people visit our web site and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the web site. For registered users, cookies can make using the Web site easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Web site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Web site. Cookies may also allow the Web site to present to you advertising which may be of interest to you. For these reasons, cookies are tied to your personally identifiable information. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Web site, however, may not provide you with a personalized experience if you have disabled the use of cookies. Some of our business partners (i.e. tracking utility company) may set cookies on our site. We have no access or control of these third party cookies. We use a third party tracking utility company that uses cookies to track personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics to improve our Web site.
 
-IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Web site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Web site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-Web Beacons and Other Tracking Technology: The Site uses a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We also use these technical methods to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails and/or clicked on links in those e-mails.
+  * **Service Providers:** We may share your information with service providers that perform certain functions or services on our behalf (such as to host the Services, fulfill orders, provide products and services, manage databases; perform analyses, process credit card payments, provide customer service, or send communications for us).
 
-Transaction Information: If you conduct a financial transaction with our Web site, such as buy our products, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means.
 
-How we use the Information Collected
+  * **Subsidiaries and Affiliates:** We may share your information with all members of the NFL Family, including, without limitation, NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.
 
-As applicable, the information you provide to us may be used to:
 
-  * contact you about the Web site;
-  * contact you relating to your membership status;
-  * confirm or fulfill an order you have made;
-  * inform you of a prize you have won;
-  * monitor or improve the use of the Web site;
-  * customize the advertising and content you see;
-  * monitor compliance with our terms and conditions of use of the Website; and
-  * send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
+  * **Select Business Partners:** With your permission, we may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, you may be presented with an opportunity to have certain information shared with our third party business partners when you enter a contest or sweepstakes or elect to receive marketing offers or other information. If you do not elect to have your information shared, it will not be shared with such third parties. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them. However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes.
 
 
+  * **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users' online activities over time and across different websites. To manage your preferences you may opt out here [http://preferences-mgr.truste.com/.](http://preferences-mgr.truste.com/)
 
-With Whom the Information May be Shared
 
-At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
+  * **Business Transfer:** If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction.
 
-Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Web site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products. These include [https://oss.ticketmaster.com/html/home.htmI?team=broncos&l=EN&STAGE=1](https://oss.ticketmaster.com/html/home.htmI?team=broncos&l=EN&STAGE=1) and [http://shop.denverbroncos.com](http://shop.denverbroncos.com/). When visiting these sites, you are submitting your information directly to this third party even though the pages have the look and the feel of the team site. Ticketmaster and GSI Commerce privacy policies appear on these sites, respectively.
 
-Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
+  * **Administrative or Legal Process:** We may disclose your information to third parties in order to protect the legal rights, safety, and security of our organization, our corporate affiliates, subsidiaries, business partners, and the users of our Services; enforce our Terms of Use; respond to and resolve claims or complaints; prevent fraud or for risk management purposes; and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
 
-Other Promotional Offers: We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may use the opt-out method detailed in the e-mail or change your preferences by logging into your account.
 
-Business Transfers: In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. See "Your Acceptance of the Privacy Policy and Notification of Changes to the Policy" section below.
+  * **Interactive Features** : We may share information with third parties when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool. If you post to these interactive features, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure that parties who have access to such information will respect your privacy. Please exercise caution when using these features.
 
-Administrative or Legal Process: Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website.
 
-Chat, Rooms, Blogs, Forums, and Message Boards
+  * **Other Parties With Your Express or Implied Consent:** We may share information with third parties when you consent to such sharing.  For example, if you win a contest or sweepstakes, we may ask your permission to publicly post certain information on the Services identifying you as the winner.
 
-The Web site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
 
-Links to Other Web Sites
+  * **Aggregate Information:** We may share aggregate information, such as demographic and usage statistics, with advertisers, sponsors or other organizations.
 
-You should be aware that when you are on the Web site you could be directed to other Web sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Web site onto a different Web site. This includes links from advertisers, sponsors and marketing partners that may use the Web site's logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Web site that is linked to our Web site, you should consult that Web site's privacy policy before providing any personal information.
 
-Security
 
-This Web site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).
+In addition, we may allow third parties to place and read their own cookies, web beacons, Local Shared Objects, and similar technologies to collect information through the Services.  For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics.
 
-Data Retention: We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account  or request that we no longer use your information to provide you services contact us at  broncos.website@broncos.nfl.net.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  [ER2] 
+  * **Social Networking Services**
 
-A Special Note for Parents Concerning Privacy
 
-The Web site is a general audience Web site. We do not currently collect any personal information from children under the age of 13 on the Web site.. If we discover we have collected information from anyone under the age of 13 we will delete it.
 
-The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the [Direct Marketing Association's Web site](http://www.the-dma.org/index.php) and explore the Get CyberSavvy! Program as well as the [GetNetWise Web site](http://www.getnetwise.org/) to learn more about parental control tools.
+We have worked with certain third-party social media providers to offer you their social networking services through our Services.  For example, you can use third-party social networking services, including but not limited to Facebook, Google+, and others to share information about your experience on our Services with your friends and followers on those social networking services.  These social networking services may be able to collect information about you, including your activity on our Services.  These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies.  If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services.
 
-Your Acceptance of the Privacy Policy and Notification of Changes to the Policy
+You also may be able to link an account from a social networking service (e.g., Facebook, Google+, Yahoo!) to an account through our Services.  This may allow you to use your credentials from the other site or service to sign in to certain features on our Services.  If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this Privacy Policy.
 
-By using this Web site, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our web site and / or send an e-mail to users who have provided an e-mail address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Web site thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current e-mail address.
+  * **Links To Other Web Sites**
 
-Correcting/Updating Personal Information
 
-If your personally identifiable information changes (such as your e-mail address or zip code), or if you no longer desire to access our Web site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt-out option in an e-mail, or by e-mailing us at [broncos.website@broncos.nfl.net](mailto:broncos.website@broncos.nfl.net). We will respond to your request within 30 days.
 
-Your California Privacy Rights
+The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under the control of or maintained by us.  Such links do not constitute an endorsement by us of those other websites, the content displayed therein, or the persons or entities associated therewith.  This Privacy Policy does not apply to this third-party content.  We encourage you to review the privacy policies of these third-party websites or services.
 
-A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
+  * **Security**
 
-As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above.
 
-Because this web site has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
 
-If you are a California resident and have questions about our compliance with this law, please send an e-mail to [broncos.website@broncos.nfl.net](mailto:broncos.website@broncos.nfl.net) or write to us at CA Privacy Rights, c/o Denver Broncos Marketing, 1701 Bryant Street, Suite 900, Denver, CO 80204.
+We have adopted security procedures to help protect against loss, misuse, and unauthorized access to the information you provide to us.  For example, if we collect financial information, we will use encryption software to help protect this information when it is in transit. Please note, however, that no data transmission or storage can be guaranteed to be 100% secure.  As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to the Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
 
-Questions About this Privacy Policy
+  * **Children's Privacy**
 
-If you have any questions about this privacy policy or the privacy practices of this Web site, contact [broncos.website@broncos.nfl.net](mailto:broncos.website@broncos.nfl.net).
 
-Questions regarding this statement should be directed to:
 
-Denver Broncos Marketing  
+The Services do not knowingly collect, use, or disclose personal information from children under the age of 13. If we are made aware we have collected personal information from a child under 13 years old in a manner that is inconsistent with the Children's Online Privacy Protection Act ("COPPA"), we will delete this information as soon as possible.
+
+  * **Changes To This Privacy Policy**
+
+
+
+We may amend this Privacy Policy at any time. Your continued use of the Services after any modification to the Privacy Policy will constitute your acceptance of the new terms.If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Services prior to the change becoming effective.  We encourage you to periodically review this page for the latest information on our privacy practices.
+
+  * **Access/Choice/Retention**
+
+
+
+You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or "unsubscribe" link included in the commercial e-mails you receive.  Please note that opt-out requests may take some time to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
+
+If your information changes, or if you no longer desire to use the Services, you may request that we [update or remove] certain information by signing into your account and making the required changes, by emailing our Customer Support at [**broncos.website@broncos.nfl.net**](mailto:broncos.website@broncos.nfl.net), or by contacting us by telephone or postal mail at the contact information listed below.  We will try to respond to your request within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+  * **Your California Privacy Rights**
+
+
+
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [**broncos.website@broncos.nfl.net**](mailto:broncos.website@broncos.nfl.net)or write us at CA Privacy Rights, c/o Denver Broncos Marketing, 1701 Bryant Street, Suite 900, Denver, CO 80204.
+
+In some cases, third parties may be able to collect information about a user’s online activities over time and across different websites when he or she uses our Services.
+
+Some web browsers may transmit "do-not-track" signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+
+  * **International Users**
+
+
+
+Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
+
+  * **Contact Us**
+
+
+
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [**broncos.website@broncos.nfl.net**](mailto:broncos.website@broncos.nfl.net) or by regular mail at
+
+Denver Broncos Digital Media  
 1701 Bryant Street  
 Suite 900  
 Denver, CO 80204  
