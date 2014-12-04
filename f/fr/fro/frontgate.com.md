@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontgate.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630001510id_/http%3A//www.frontgate.com/PrivacyView%3FstoreId%3D10053%26catalogId%3D10053%26langId%3D-1%26contentKey%3DWCM_PRIVACY_RIGHTS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontgate.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204105827id_/http%3A//www.frontgate.com/PrivacyView%3FstoreId%3D10053%26catalogId%3D10053%26langId%3D-1%26contentKey%3DWCM_PRIVACY_RIGHTS) for the most accurate reproduction.*
 
 # Privacy & Security - Frontgate
 
