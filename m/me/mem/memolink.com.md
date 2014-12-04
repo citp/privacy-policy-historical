@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616145903id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204090949id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Cash Back Sites, Coupons, Rewards & Surveys | Memolink
 
