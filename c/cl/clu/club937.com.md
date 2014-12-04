@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220105046id_/http%3A//club937.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204133848id_/http%3A//club937.com/privacy) for the most accurate reproduction.*
 
-# Today's Hottest Jamz
+# Club 93.7 – Today's Hottest Jams – Flint Pop Radio
 
 ### About CLUB937.COM
 
