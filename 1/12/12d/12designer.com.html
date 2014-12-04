@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 12designer.com privacy policy that was archived on 2014-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140529150701id_/http%3A//www.12designer.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 12designer.com privacy policy that was archived on 2014-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204055208id_/https%3A//www.12designer.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" slick-uniqueid="1"><head>
 <meta http-equiv="language" content="en">
@@ -13,16 +13,21 @@
 <meta name="keywords" content="12designer, privacy policy, creative portal, online.market, design platform, designer, design, task">
 <meta name="robots" content="index, follow">
 
+
 <title>Privacy policy - 12designer</title>
 
 
-<link rel="shortcut icon" href="/favicon.ico">
-<link rel="image_src" href="http://www.12designer.com/images/en/_12d_facebook.png">
 
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="image_src" href="https://www.12designer.com/images/en/_12d_facebook.png">
+	
+<link rel="alternate" href="https://www.12designer.com/en/privacy-policy/" hreflang="en">
 <link rel="stylesheet" type="text/css" media="all" href="/css/dev.css?1373977843">
 <!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/devie.css?1355920064" /><![endif]-->
 <link rel="stylesheet" type="text/css" media="print" href="/css/printstyle.css?1255526912">
 <link rel="stylesheet" type="text/css" media="all" href="/css/notimoo.css?1345632628">
+<link rel="stylesheet" type="text/css" media="all" href="/css/shutdown_main.css?1409846660">
 <link rel="stylesheet" type="text/css" media="all" href="/css/standard.css?1241517260">
 <!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="all" href="/css/standardie.css?1232025059" /><![endif]-->
 
@@ -55,19 +60,19 @@
 		  	  			if(responseText.success) {
 							// reload current page - prevents POST reload
 							url = addParameterToURL(window.location.href, 'fb', 'true');
-							url = addParameterToURL(url, 'noCache', '1401376021');
+							url = addParameterToURL(url, 'noCache', '1417672329');
 		  	  				window.location.href = url;
 		  	  			} else {
 			  	  			if(responseText.retry) {
 				  	  			// retry - reload current page
-								url = addParameterToURL(window.location.href, 'noCache', '1401376021');
+								url = addParameterToURL(window.location.href, 'noCache', '1417672329');
 		  	  					window.location.href = url;
 			  	  			} else {
 								// redirect to facebook register page
-		  	  					window.location.href = 'http://www.12designer.com/en/register/?fb=true';
+		  	  					window.location.href = 'https://www.12designer.com/en/register/?fb=true';
 			  	  			}
 		  	  			}
-				    }}).post({'time': '1401376021', 'accessToken': accessToken });
+				    }}).post({'time': '1417672329', 'accessToken': accessToken });
 		    	  }
 	      
 	  window.fbAsyncInit = function() {
@@ -127,67 +132,6 @@
 
 
 
-<div style="margin: 0px; position: static; overflow: hidden; height: 27px;"><div id="recommend_box" style="background-color: rgb(0, 0, 0); display: block; margin: 0px; overflow: hidden;">
-	<div style="color: #FFFFFF;width:940px;margin: 0 auto;text-align: right;padding: 4px 0px 4px 0px;font-weight: bold;">
-	
-	
-		<div style="float:right;margin-left:15px;">
-			<a href="#" id="recommend_box_slideout" rel="nofollow"><img src="/images/_12d_b_close.png" alt="recommend close" style="cursor:pointer;background-color: #FFD136;padding:2px;"></a>
-		</div>
-		
-		
-		<div style="float:right;margin-top:1px;text-align:left;">
-			<a href="https://en.99designs.de/go/12designer-banner" style="color: rgb(255, 255, 255); text-decoration: none;margin:0;" rel="nofollow" target="_blank">
-			Have you checked out our partner 99designs yet? They have more than 2000 open contests
-			</a>
-		</div>
-		
-		<div style="clear:right;"></div>
-	</div>
-</div></div>
-
-<script type="text/javascript">
-<!--
-
-
-window.addEvent('domready', function() {
-
-	var recommendSlide = new Fx.Slide('recommend_box', {duration:700}).hide();
-	$('recommend_box').setStyle('display', 'block');
-	
-
-	recommendSlide.slideIn();
-
-	$('recommend_box_slideout').addEvent('click', function(event){
-	    event.stop();
-	    recommendSlide.slideOut();
-	    removeRecommendTeaser();
-	  });
-	
-});
-
-function removeRecommendTeaser(){
-	var jsonRequest = new Request.JSON({
-		url: "/en/user/removeRecommendTeaser/", 
-		method: 'post',
-		onSuccess: function(){
-		}
-	}).send();
-}
-
-
-
-
-
-
-
-
-
-
-//-->
-</script>
-
-
 
 <div id="container">
 
@@ -202,9 +146,7 @@ function removeRecommendTeaser(){
 
 	    
 	    <div style="float: left; padding: 4px;">
-		    <a href="/en/register/" rel="nofollow">Register</a>
-		    <span class="delimiter">|</span> 
-		    <a href="/en/login/" rel="nofollow">Log in</a>
+	    		    <a href="/en/login/" rel="nofollow">Log in</a>
 		</div>
 		
         <div style="float: left; padding: 4px;">
@@ -237,12 +179,12 @@ function removeRecommendTeaser(){
     <div id="firstlevelnavi">
       
       <div style="position: relative;height:44px;">
+
     <ul class="linklist">
-    	      	<li class="yellow"><a title="New project" href="/en/project/new/">New project</a></li>
-    
-      	<li><a title="44 Projects" href="/en/project/">Browse projects</a></li>
+    	    
+      	<li><a title="0 Projects" href="/en/project/">Browse projects</a></li>
       
-      	<li><a title="30867 Creatives" href="/en/community/">Creatives</a></li>
+      	<li><a title="31507 Creatives" href="/en/community/">Creatives</a></li>
       
       
 
@@ -375,7 +317,8 @@ function removeRecommendTeaser(){
       <ul id="firstlevelfoot">
             	<li><a href="/en/about.html" title="About 12designer logo, banner, webdesign">About 12designer</a></li>
         
-        		
+        
+		
 
         <li><a href="/en/press.html" title="Press">Press</a></li>
         <li><a href="/en/contact.html" title="Contact">Contact</a></li>
@@ -384,25 +327,16 @@ function removeRecommendTeaser(){
         </ul>
 
       <!-- clear footer -->
-      
-	      <ul class="secondlevelfoot">
-	      	<li><a href="/en/logo-design/" title="Logo design">Logo design</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/flyer-design/" title="Flyer design">Flyer design</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/website-design/" title="Website design">Website design</a><span class="delimiter">|</span></li>
-	      		      	<li><a href="/en/corporate-design/" title="Corporate design">Corporate design</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/letter-paper/" title="Letter paper">Letter paper</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/stationery/" title="Stationery">Stationery</a><span class="delimiter">|</span></li>
-	      		      	<li><a href="/en/banner-design/" title="Banner design">Banner design</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/naming/" title="Naming">Naming</a></li>
-	      </ul>
-	      <ul class="secondlevelfoot" style="margin: 10px 0px 0px 0px;">
+      	      <ul class="secondlevelfoot" style="margin: 10px 0px 0px 0px;">
 	        <li><a href="/en/imprint.html" title="">Imprint</a><span class="delimiter">|</span></li>
 	        <li><a href="/en/terms.html" title="">Terms and conditions</a><span class="delimiter">|</span></li>
 	        <li><a href="/en/privacy-policy/" title="">Privacy policy</a><span class="delimiter">|</span></li>
 	        <li><a href="/en/fees.html" title="">Fees</a><span class="delimiter">|</span></li>
-	        <li>© <a href="http://www.12designer.com/en/">12designer</a></li>
+	        <li>© <a href="https://www.12designer.com/en/">12designer</a></li>
 	      </ul>
 	  </div>
+
+
 
 
 
@@ -440,7 +374,7 @@ function removeRecommendTeaser(){
 
 
 
-    <!-- r14262 -->
+    <!-- r14453 -->
 
     <!-- clear footer -->
     <div style="clear:both"></div>
