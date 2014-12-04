@@ -1,30 +1,25 @@
-<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2014-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140616145903id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2014-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204090949id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="stylish-select"><head>
-			
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
 			<meta charset="utf-8">
-			
 			<title>Cash Back Sites, Coupons, Rewards &amp; Surveys | Memolink</title>
 
 			<meta name="description" content="Visit Memolink today and earn cash back and coupons for all your favorite retailers, and take surveys for rewards. Earn $5 just for signing up.">
 			<link rel="canonical" href="/index.cfm/privacy-policy">
 
-			
-				<meta http-equiv="cache-control" content="no-cache">
-				<meta http-equiv="Pragma" content="no-cache">
+			<meta http-equiv="cache-control" content="no-cache">
+			<meta http-equiv="Pragma" content="no-cache">
 			<meta name="google-site-verification" content="DbKfSnd-SPMxq9KgKqpf4KzskhnCtYxt_l-xYDdsKo0">
+			<meta name="google-site-verification" content="W0qnfsNagr8iOTdiCpnz8DhzO0xXOvbxjxL8ISQ_yNU">
 			
 
-			
 			<link rel="shortcut icon" href="/assets/images/memolinkFavicon.ico">
 
-
-			
 			<link rel="stylesheet" href="/assets/css/reset.css" type="text/css" media="screen, projection">
 			<link rel="stylesheet" href="/assets/css/jquery.autocomplete.css" type="text/css" media="screen, projection">
-			<link rel="stylesheet" href="/assets/css/style2.css?v=11" type="text/css" media="screen, projection">
+			<link rel="stylesheet" href="/assets/css/style2.css?v=12.1" type="text/css" media="screen, projection">
 			<link rel="stylesheet" href="/assets/css/slider.css" type="text/css" media="screen, projection">
 
 			
@@ -35,14 +30,15 @@
 				<link rel="stylesheet" href="/assets/css/jquery.autocomplete.css" type="text/css" media="screen, projection">
 			
 
-			
 			<script type="text/javascript" async="" src="//cdnjs.cloudflare.com/ajax/libs/gas/1.10.1/gas.min.js"></script><script src="/assets/js/jquery/jquery1.4.2.js"></script>
 			<script src="/assets/js/jquery/jquery-ui-1.8.5.min.js"></script>
-
 			<script src="/assets/js/jquery/jquery.autocomplete.js"></script>
 			<script src="/assets/js/getSatisfaction.js"></script><script src="https://web.archive.org/web/20120504031156/https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
 			<script src="/assets/js/header.js"></script>
 			
+				<link rel="stylesheet" href="/assets/css/jquery/fancybox/jquery.fancybox-1.3.1.css" type="text/css" media="screen, projection">
+				<script src="/assets/js/jquery/jquery.fancybox-1.3.1.pack.js"></script>
+				<script src="/assets/js/loggedIn.js"></script>
 			
 				<script src="/assets/js/jquery/plugins/stylish-select.js"></script>
 			
@@ -51,6 +47,8 @@
 				<script src="/assets/js/loggedout.autocomplete.js"></script>
 			
 				<script src="/assets/js/jquery/jquery.autocomplete.js"></script>
+			
+				<script src="/assets/js/jquery/jquery.tablesorter.min.js"></script>
 			
 
 			<script type="text/javascript">
@@ -92,52 +90,35 @@
 					$('.styledSelect').sSelect();
 				});
 
-				<!--
-				function onABCommComplete() {
-				  // OPTIONAL: do something here after the new data has been populated in your text area
-				}
-				//-->
-
-				function checkOnFocus(formField, stringToCheck)
-				{
-					if(stringToCheck == null)
-					{
+				function checkOnFocus(formField, stringToCheck) {
+					if (stringToCheck == null) {
 						stringToCheck = 'Search Products or Stores'
 					};
 
-					if(formField.value == stringToCheck)
-					{
+					if (formField.value == stringToCheck) {
 						formField.value = '';
-					}
-					else if (formField.value == '')
-					{
+					} else if (formField.value == '') {
 						formField.value = stringToCheck;
 					};
 				};
 
-				function validateSearch(form)
-				{
-					if(form.merchant.value == '' || form.merchant.value == 'Search & Save')
-					{
+				function validateSearch(form) {
+					if(form.merchant.value == '' || form.merchant.value == 'Search & Save') {
 						return false;
-					}else{
+					} else {
 						return true;
 					};
 				};
 
-				function validateSearch(form)
-				{
-					if(form.myStoreMerchant.value == '' || form.myStoreMerchant.value == 'Search & Save')
-					{
+				function validateSearch(form) {
+					if (form.myStoreMerchant.value == '' || form.myStoreMerchant.value == 'Search & Save') {
 						return false;
-					}else{
+					} else {
 						return true;
 					};
 				};
 
-
-				$(document).ready(function()
-				{
+				$(document).ready(function() {
 					var heightIncrease = 5;
 					var widthIncrease = 10;
 
@@ -151,17 +132,16 @@
 						var currentItem = $(this).find('img');
 							currentItem.attr('width',currentItem.attr('width') + widthIncrease).attr('height',currentItem.attr('height') + heightIncrease);
 					},
-			        function() {
-			        	var currentItem = $(this).find('img');
+					function() {
+						var currentItem = $(this).find('img');
 						currentItem.attr('width',currentItem.attr('width') - widthIncrease).attr('height',currentItem.attr('height') - heightIncrease)
 
-			        })
+					})
 				});
 
-				function merchantSelectForm(originTracking){
+				function merchantSelectForm(originTracking) {
 					var merchant = $('#merchants').val();
-					if (merchant.length > 1 )
-					{
+					if (merchant.length > 1 ) {
 						document.location.href='/index.cfm/shop.store/'+ merchant + originTracking;
 					}
 				};
@@ -170,64 +150,54 @@
 					var formAction = $('#formActions').val();
 
 					if (formAction == 'stores') {
-						 $('#storeSearch').show();
-						 $('#storeSearch').css({'display':'inline'})
-						 $('#storeSearch').css({'visibility':'visible'})
+						$('#storeSearch').show();
+						$('#storeSearch').css({'display':'inline'})
+						$('#storeSearch').css({'visibility':'visible'})
 
-						 $('#productSearch').hide();
-						 $('#productSearch').css({'display':'none'})
-						 $('#productSearch').css({'visibility':'hidden'})
+						$('#productSearch').hide();
+						$('#productSearch').css({'display':'none'})
+						$('#productSearch').css({'visibility':'hidden'})
 
-						 $('#couponSearch').hide();
-						 $('#couponSearch').css({'display':'none'})
-						 $('#couponSearch').css({'visibility':'hidden'})
-					}
-					else if (formAction == 'coupons') {
-						 $('#storeSearch').hide();
-						 $('#storeSearch').css({'display':'none'})
-						 $('#storeSearch').css({'visibility':'hidden'})
+						$('#couponSearch').hide();
+						$('#couponSearch').css({'display':'none'})
+						$('#couponSearch').css({'visibility':'hidden'})
+					} else if (formAction == 'coupons') {
+						$('#storeSearch').hide();
+						$('#storeSearch').css({'display':'none'})
+						$('#storeSearch').css({'visibility':'hidden'})
 
-						 $('#productSearch').hide();
-						 $('#productSearch').css({'display':'none'})
-						 $('#productSearch').css({'visibility':'hidden'})
+						$('#productSearch').hide();
+						$('#productSearch').css({'display':'none'})
+						$('#productSearch').css({'visibility':'hidden'})
 
-						 $('#couponSearch').show();
-						 $('#couponSearch').css({'display':'inline'})
-						 $('#couponSearch').css({'visibility':'visible'})
-					}
-					else {
-						 $('#storeSearch').hide();
-						 $('#storeSearch').css({'display':'none'})
-						 $('#storeSearch').css({'visibility':'hidden'})
+						$('#couponSearch').show();
+						$('#couponSearch').css({'display':'inline'})
+						$('#couponSearch').css({'visibility':'visible'})
+					} else {
+						$('#storeSearch').hide();
+						$('#storeSearch').css({'display':'none'})
+						$('#storeSearch').css({'visibility':'hidden'})
 
-						 $('#productSearch').show();
-						 $('#productSearch').css({'display':'inline'})
-						 $('#productSearch').css({'visibility':'visible'})
+						$('#productSearch').show();
+						$('#productSearch').css({'display':'inline'})
+						$('#productSearch').css({'visibility':'visible'})
 
-						 $('#couponSearch').hide();
-						 $('#couponSearch').css({'display':'none'})
-						 $('#couponSearch').css({'visibility':'hidden'})
+						$('#couponSearch').hide();
+						$('#couponSearch').css({'display':'none'})
+						$('#couponSearch').css({'visibility':'hidden'})
 					};
-					//if (merchant.length > 1 )
-					//{
-					//	document.location.href='/index.cfm/shop.store/'+ merchant + originTracking;
-					//}
 				};
 
 				
-				
 
-					function freecauseSearch()
-		             {
-		                alert("here");
-		                window.open;
-		                document.freecauseSearch.submit();
-		             };
+				function freecauseSearch() {
+					// alert("here");
+					window.open;
+					document.freecauseSearch.submit();
+				};
 
 
 			</script>
-			
-			
 			<script type="text/javascript" src="http://s3toolbar.freecause.com/OneClickInstaller/Memolink/config.js"></script>
 			<script type="text/javascript" src="http://s3toolbar.freecause.com/OneClickInstaller/Memolink/eula.js"></script>
 			<script type="text/javascript" src="http://s3toolbar.freecause.com/OneClickInstaller/Memolink/oci_html.js"></script>
@@ -242,6 +212,16 @@
 
 			<script type="text/javascript">
 			$(document).ready(function() {
+				$("#checklist-livingsocial").click (function() {
+					var date = new Date();
+					var value = "true";
+					var name = "checklist-livingsocial";
+					var midnight = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);
+					var expires = "; expires=" + midnight.toGMTString();
+					document.cookie = name+"="+value+expires+"; path=/";
+					document.getElementById("checklist-livingsocial").className = "checklist-checked";
+				});
+
 				$("#checklist-site").click (function() {
 					var date = new Date();
 					var value = "true";
@@ -322,40 +302,26 @@
 					document.getElementById("checklist-info").className = "checklist-checked";
 				});
 
-			});
-</script>
+				$(document).ready(function() {
+					$.tablesorter.defaults.widgets = ['zebra'];
+					$("table").tablesorter({
+						// Turn off sorting for Name and "" columns (0-based array index)
+						headers : { 3 : { sorter: false }, 8 : { sorter: false }}
+					});
+				});
 
+			});
+			</script>
 
 		</head>
 
 		<body>
 			
-			
-			
-			<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-			<!-- FB Connect Code, recommended to be placed just after the opening body tag -->
-			<script>
-				window.fbAsyncInit = function() {
-					FB.init({appId: '174904815928290', cookie:true, oauth:true, status: true, xfbml: true});
-				};
-
-				(
-					function() 
-					{
-						var e = document.createElement('script'); e.async = true;
-						e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-						document.getElementById('fb-root').appendChild(e);
-					}()
-				);
-			</script>
-		
-       <!-- --- normal browser ----->
-      
-
 			<div id="wrap">
-				<div id="header" style="padding-bottom:0px;">
+				<div id="header" style="padding-bottom:2px;">
 					<div id="logo">
 						<a href="/" class="noLinkUnderline">
+
 							
 										<img src="/assets/images/memolinkLogoTrademark.png" height="55" width="176" alt="Memolink" title="Memolink">
 									
@@ -367,21 +333,20 @@
 							
 								<div id="userNoLine">
 									<span class="username">guest</span><br>
-									<a class="loginBoxButton cursor" style="padding-left:13px;">login</a>
+									
+									<a id="regLightBox8" href="/xhr/gLogin.cfm?campID=19">login</a>
 								</div>
 							
 						</div>
 						<div class="clear"></div>
 					</div>
 					<div class="clear"></div>
- 
+					
 	<div id="navBar3">
 		<ul>
 			
-			
 			<li>
-				
-				<img src="/assets/images/shopIcon.png" title="shop" alt="shop" width="81" height="50">
+				<a href="/index.cfm/shop.allstores" class="noLinkUnderline"><img src="/assets/images/shopIcon.png" title="shop" alt="shop" width="81" height="50"></a>
 				<ul>
 					<li>
 						<a href="#">Shop Categories</a>
@@ -409,6 +374,16 @@
 									<li><a href="/index.cfm/shop.category/7/?originDetail=LNS">All Books &amp; Media Stores</a></li>
 									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=7&amp;guideSearchType=2&amp;guide=books%20and%20media">All Books &amp; Media Coupons</a></li>
 									
+											<li class="liBorderTop">
+												
+
+					<a target="_5490" href="/index.cfm/track.click/merchant/3220/offer/25724735/?originID=1&amp;originDetail=LNS"><span class="aHover">Barnes &amp; Noble</span>, up to   48 points/$</a>
+					<br>
+					<a href="/index.cfm/shop.store/Barnes&amp;Noble/?originID=1&amp;originDetail=LNS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see all <span class="aHover">Barnes &amp; Noble coupons</span></a>
+
+				
+											</li>
+										
 								</ul>
 							</li>
 							<li>
@@ -438,6 +413,20 @@
 							</li>
 							<li>
 								<a href="/index.cfm/shop.category/62/?originDetail=LNS">Daily Deals</a>
+								
+									<ul>
+									
+											<li>
+										
+
+					<a target="_4448" href="/index.cfm/track.click/merchant/3024/offer/23062345/?originID=1&amp;originDetail=LNS"><span class="aHover">LivingSocial</span>, up to  134 points/$</a>
+					<br>
+					<a href="/index.cfm/shop.store/LivingSocial/?originID=1&amp;originDetail=LNS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see all <span class="aHover">LivingSocial coupons</span></a>
+
+				
+										</li>
+									
+									</ul>
 								
 							</li>
 							<li>
@@ -517,6 +506,7 @@
 									
 									<li><a href="/index.cfm/shop.category/15/?originDetail=LNS">All Travel &amp; Vacation Stores</a></li>
 
+									<li><a href="/index.cfm/shop.category/117/?originDetail=LNS">Luggage &amp; Accessories</a></li>
 									<li><a href="/index.cfm/shop.category/54/?originDetail=LNS">Hotels</a></li>
 									<li><a href="/index.cfm/shop.category/74/?originDetail=LNS">Car Rentals</a></li>
 									<li><a href="/index.cfm/shop.category/53/?originDetail=LNS">Airfare</a></li>
@@ -536,7 +526,7 @@
 					</li>
 					<li><a href="/index.cfm/shop.allstores/?originID=6&amp;originDetail=TN-3"><span>Shop All Stores</span></a></li>
 					<li>
-						<a href="/index.cfm/shop.category/75/?&amp;originDetail=LNS">Shop Featured Stores</a>
+						<a href="/index.cfm/shop.category/75/?originDetail=LNS">Shop Featured Stores</a>
 
 							
 					</li>
@@ -544,15 +534,11 @@
 					<li><a href="#">Shop Gift Guides</a>
 					<ul>
 											
-						<li><a href="/index.cfm/shopping_baby">Baby Shopping Guide</a></li>
+						<li><a href="/index.cfm/shop.TeamSports">Sports Shopping Guide</a></li>
 											
 						<li><a href="/index.cfm/wedding-registries">Wedding Shopping Guide</a></li>
 											
-						<li><a href="/index.cfm/shop.TeamSports">Sports Shopping Guide</a></li>
-											
-						<li><a href="/index.cfm/shop.SpringCleaning">Spring Cleaning </a></li>
-											
-						<li><a href="/index.cfm/shop.GraduationGiftsUnder25">Graduation Gift Guide</a></li>
+						<li><a href="/index.cfm/shopping_baby">Baby Shopping Guide</a></li>
 					
 					</ul>
 					</li>
@@ -698,9 +684,13 @@
 
 						</ul>
 					</li>
-					<li><a href="/index.cfm/search.guides/?guidecategory=5&amp;guideSearchType=1&amp;guide=PointPalooza%20Coupons">Search Coupons</a></li>
+					<li><a href="/index.cfm/search.guides/?guidecategory=5&amp;guideSearchType=1&amp;guide=Stores with Point Increases">Search Coupons</a></li>
 					<li><a href="/index.cfm/search.guides/?guidecategory=4&amp;guideSearchType=1&amp;guide=Free%20Shipping">Free Shipping Coupons</a></li>
-					<li><a href="/index.cfm/shop.morePoints">Stores with Point Increases</a></li>
+					
+
+					
+					<li><a href="/index.cfm/shop.twelvedaysofsaving">See All Point Increases</a></li>
+
 					<li><a href="/index.cfm/shop.WhatsNew">What's New</a></li>
 				</ul>
 			</li>
@@ -708,13 +698,10 @@
 			
 			
 			<li>
-				<img src="/assets/images/surveysIcon.png" title="surveys" alt="surveys" width="102" height="50">
+				<a href="/index.cfm/survey.list/"><img src="/assets/images/surveysIcon.png" title="surveys" alt="surveys" width="102" height="50"></a>
 				<ul>
-					<li><a href="/index.cfm/earn.surveys">My Survey List</a></li>
-					
-        
-				<li><a href="http://surveys.memolink.com/index.cfm?fuseaction=start.survey&amp;survey_id=3081&amp;user=0&amp;survey_key=774CCB2F28BA425305354ECA50AB3C86&amp;site_id=1&amp;refresh=23695042&amp;user_key=50A2706E4CDF2DFDC6E44ED95071D0D6" title="Complete Search for Information for 5 free points every day" target="_blank">Search for Information</a></li>
-					
+					<li><a href="/index.cfm/survey.list/">My Survey List</a></li>
+					<li><a href="/index.cfm/earn.link/ct/9olnn7d28/userid/0" title="Complete Search for Information for 5 free points every day" target="_blank">Search for Information</a></li>
 					<li class="liPanel">
 						<a href="#">Panels</a>
 						<ul>
@@ -727,7 +714,7 @@
 			</li>
 			
 			<li>
-				<img src="/assets/images/easyPointsIcon.png" title="easy points" alt="easy points">
+				<a href="/index.cfm/earn.easyPoints"><img src="/assets/images/easyPointsIcon.png" title="easy points" alt="easy points"></a>
 				<ul>
 					<li><a href="/index.cfm/shop.category/76/?originDetail=LNS">Memolink's' Easiest Offers</a></li>
 					<li><a href="/index.cfm/track.click/merchant/247/offer/248?originDetail=LNS">Peanut Labs</a></li>
@@ -739,7 +726,7 @@
 					
 
 					<li><a href="/index.cfm/shop.category/85?originDetail=LNS">Grocery Coupons</a></li>
-					<li><a target="_7650" href="/index.cfm/track.click/merchant/340/offer/340?originDetail=LNS">Become A Facebook Fan</a></li>
+					<li><a target="_7119" href="/index.cfm/track.click/merchant/340/offer/340?originDetail=LNS">Become A Facebook Fan</a></li>
 					<li><a href="/index.cfm/about-memogold?originDetail=LNS">Become MemolinkGOLD</a></li>
 					<li><a href="/index.cfm/earn.easyPoints?originDetail=LNS">See all Easy Points</a></li>
 
@@ -787,120 +774,38 @@
 </div> 
 
 				<div class="clear"></div>
-
 				
-					<div id="joinBar">
-						<div id="joinBarBackgroundOuter">
-							<div id="joinBarBackgroundInner">
-								<div id="register">
-									<div style="display:inline-block;">
-										<span class="titleText" style="float:left;padding-right:29px;">
-											Get $5 Free When You Join Memolink
-										</span>
-										<span style="float:right;font-size:9px;color:#585858">
-											By joining Memolink, you agree<br> to our <a href="/index.cfm/terms-conditions" target="_blank"> <span style="text-decoration:underline;">terms</span></a> and <a href="/index.cfm/privacy-policy" target="_blank"> <span style="text-decoration:underline;">privacy</span></a> policy.
-										</span>
-									</div>
-
-									<div class="registrationFormFields">
-										<form name="registration" id="registration" action="/index.cfm/">
-											
-											<input type="hidden" name="ocampID" id="ocampID" value="0">
-											<div style="float:left; margin-right:5px;margin-top:1px;">
-												<input type="text" id="registrationEmailAddress" name="registrationEmailAddress" onfocus="checkOnFocusFormFields(this);" onblur="checkOnFocusFormFields(this);" value="Enter your email address">
-											</div>
-											<div style="float:left; margin-right:5px; margin-top:1px;">
-												<input style="width:160px;" type="text" id="registrationPassword_fake" name="registrationPassword_fake" onfocus="checkPasswordFocus(this, 'registrationPassword')" value="Create a password">
-												<input style="width:160px; display:none;" type="password" id="registrationPassword" name="registrationPassword" onblur="checkPasswordBlur(this);" usesubmitbehavior="true">
-											</div>
-											<div style="width:145px; float:left; margin-top:2px;">
-												<div class="greenButtonWithArrowOuter_small" onclick="document.registration.submit();">
-													<span class="greenButtonWithArrowInner_small">Join Now, it's FREE!</span>
-												</div>
-											</div>
-											<div style="clear:both;"></div>
-										</form>
-									</div>
-								</div>
-								<div id="orText">or</div>
-								<div id="facebookLogin">
-									<div class="titleText_small">
-										Have a Facebook account?
-									</div>
-									<div class="sevenTop">
-										<a href="#" class="link" title="Join Using Facebook" alt="Join Using Facebook">
-												
-						<script>
-							function popFBConnect(shownFrom)
-							{
-								var left = (screen.width/2)-(630/2);
-								var top = (screen.height/2)-(300/2);
-								fbURL = 'https://www.facebook.com/dialog/oauth?'
-										+ 'client_id=174904815928290'
-										+ '&redirect_uri=http://www.memolink.com/index.cfm/loggedOut.fbConnectLogin'
-										+ '&scope=email,user_birthday'
-										+ '&response_type=code'
-										+ '&state=1E9C5DB074502C9B3A5E606BC28ABECA'
-										+ '&display=popup';
-								fbConnectWindow = window.open(fbURL, 'fbConnectWindow', 'height=300, width=630,top='+top+',left='+left+'');
-								
-							}
-						</script>
-					
-				<div style="background:url('/assets/images/joinBar/connectUsingFacebook.png'); width:170px;height:20px;cursor:pointer;" onclick="popFBConnect()">&nbsp;</div>
-			
-										</a>
-									</div>
-								</div>
-								<div id="login">
-									<div class="titleText" style="font-size:16px;">
-										Already a Member?
-									</div>
-
-									<div id="loginButtonContainer">
-										<div class="greenButtonWithArrowOuter_small">
-											<span class="greenButtonWithArrowInner_small loginBoxButton">Login Here</span>
-										</div>
-									</div>
-								</div>
-								<div style="clear:both;"></div>
-							</div>
+					<div id="socialBlueJoinBar">
+						<div id="blueJoinPrivacy">
+							By joining Memolink, you agree to our <a href="/index.cfm/terms-conditions" target="_blank"> <span style="text-decoration:underline; color:white;">terms</span></a> and <a href="/index.cfm/privacy-policy" target="_blank"> <span style="text-decoration:underline;color:white;">privacy</span></a> policy.
 						</div>
 
-						<div id="loginBox">
-							<img src="/assets/images/close-icon.png" width="15" height="15" id="closeButton">
-
-							<form name="login" id="login" action="/index.cfm/loggedOut.login">
-								<input type="text" name="username" id="username" value="Enter your email" onfocus="checkOnFocusFormFields(this);" onblur="checkOnFocusFormFields(this);"><br>
-								<input type="text" name="password_fake" id="password_fake" value="Enter your password" onfocus="checkPasswordFocus(this, 'password')">
-								<input type="password" name="password" id="password" style="display:none;" onblur="checkPasswordBlur(this);" onkeypress="handleEnterKey('login',event)">
-								<input type="hidden" name="currentLocation" id="currentLocation" value="/privacy-policy">
-								<br>
-
-								<div style="margin-top:-3px;">
-									<div class="leftFloat" style="margin-top:2px;">
-										<a href="/index.cfm/loggedOut.forgotPassword" alt="Forgot your password?" title="Forgot your password?">Forgot your password?</a>
-									</div>
-									<div class="rightFloat" style="width:63px;">
-										<div class="greenButtonWithArrowOuter_small" onclick="document.login.submit();">
-											<span class="greenButtonWithArrowInner_small">Login</span>
-										</div>
-									</div>
-									<div class="clearFloat"></div>
-								</div>
-							</form>
+						<div>
+							<a id="regLightBox5" href="/xhr/gRegistration.cfm?campID=19"><img src="/assets/images/joinBar/socialJoinLoginBar.png" style="position:absolute; z-index:11;margin:15px 0px 0px 335px;cursor:pointer;"></a>
 						</div>
+
+						<div>
+							<a id="regLightBox6" href="/xhr/gRegistration.cfm?campID=19"><img src="/assets/images/joinBar/socialJoinBarPreview.jpg" style="position:absolute; z-index:11;margin:0px 0px 0px 500px;cursor:pointer;"></a>
+						</div>
+
+						<div>
+							<a id="regLightBox7" href="/xhr/gLogin.cfm?campID=19"><img src="/assets/images/joinBar/socialLoginJoinBar.png" style="position:absolute; z-index:11;margin:28px 0px 0px 765px;cursor:pointer;"></a>
+						</div>
+
+						<div style="clear:both;"></div>
+
+						<div id="loginBox"></div>
 					</div>
+
 				
 
 				<div id="joinErrors" style="padding-bottom:0px;">
 					
 				</div>
 				<div class="clear"></div>
-					<div id="contentWrap">
-						<div id="content">
-
-
+				
+				<div id="contentWrap"> 
+					<div id="content"> 
 
 <!--Privacy Statement 1.5.2012 rm-->
 
@@ -1105,7 +1010,7 @@ review this statement to be informed of how Memolink.com is protecting your  inf
   Denver, CO 80222<br>
  
 </div> 
-<!--Pixel for Automatic Survey Login--->
+<!--Pixel for Automatic Survey Login-->
 
 						<div class="clear"></div>
 					</font-size:14px;></div>
@@ -1122,33 +1027,7 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 				</script>
 				<div class="clear"></div>
 
-				<div id="joinBar">
-					<div id="joinBarBackgroundOuter">
-						<div id="joinBarBackgroundInner">
-
-							<div class="registrationFormFields">
-								<form name="freecauseSearch" id="freecauseSearch">
-									<input type="hidden" id="keywords" value="document.freecauseSearch.search.value">
-									<div style="float:left; margin-right:5px; margin-top:15px;padding-left:300px;">
-										<input style="width:300px; " type="text" id="search" name="search" onkeypress="{if (event.keyCode==13)fSubmit()}">
-									</div>
-									
-									<div style="width:110px; float:left; margin-top:15px;">
-										<div class="greenButtonWithArrowOuter_small" onclick="fSubmit()">
-											<span class="greenButtonWithArrowInner_small">Search &amp; Win</span>
-										</div>
-									</div>
-									<div style="clear:both;"></div>
-								</form>
-							</div>
-							<div>
-								 <a href="/index.cfm/searchandwinfaq" class="noLinkUnderline" style="padding-left:300px;font-size:10px;text-decoration:none;font-weight:bold;">How does search and win work?</a>
-							</div>
-
-						</div>
-					</div>
-				</div>
-				<div class="clear"></div>
+				
 
 
 				<div class="footer2 footerContent2">
@@ -1172,7 +1051,7 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 						<div class="footerContent4of5">
 							<ul>
 								<li>
-									<a href="/index.cfm/earn.memolinkVideo" style="color:white;">how it works</a>
+									<a href="/index.cfm/onlinedealsites " style="color:white;">how it works</a>
 								</li>
 								<li>
 									<a href="http://www.adperio.com/memolinkpublisherRegistration.cfm" style="color:white;">become an affiliate</a>
@@ -1204,14 +1083,14 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 						<div class="footerContent5of5">
 							<ul>
 								<li>
-									<span style="color:#a1c53a">Need some help?</span>
+									<a href="https://memolink.zendesk.com/hc/en-us" style="color:#a1c53a">Need some help?</a>
 								</li>
 								<li>
-									<span style="color:white;">If you have any questions or comments, our member support is here to help.
-								</span></li>
+									<span style="color:white;">If you have any questions or comments, our member support is here to help.</span>
+								</li>
 								
 								<li>
-									Contact Us using the SUPPORT button in the left navigation-it's at the top of the colorful Gift Guide buttons.
+									<a href="https://memolink.zendesk.com/hc/en-us" style="color:#a1c53a">Contact us</a> with any questions or concerns.
 								</li>
 							</ul>
 							<br>
@@ -1238,9 +1117,8 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 			
 
 			<input type="hidden" id="userID" name="userID" value="0">
-			<input type="hidden" id="userKey" name="userKey" value="50A2706E4CDF2DFDC6E44ED95071D0D6">
-
 			
+				<input type="hidden" id="userKey" name="userKey" value="50A2706E4CDF2DFDC6E44ED95071D0D6">
 			
 			<!-- google_rm -->
 			<script type="text/javascript">
@@ -1260,4 +1138,4 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 			</noscript>
 		
 	
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
