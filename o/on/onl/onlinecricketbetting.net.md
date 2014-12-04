@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinecricketbetting.net privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606012317id_/http%3A//www.onlinecricketbetting.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecricketbetting.net privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204201135id_/http%3A//www.onlinecricketbetting.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OnlineCricketBetting.net
+# Privacy Policy - Online Cricket Betting
 
 Any personal information that you may share with OnlineCricketBetting.net is kept absolutely private. Neither your name nor anything about you is sold or shared with any other company or agency. We will not contact you unless you signup for our newsletter. We do respect your right to privacy and will not send notices if you contact us and ask us not to.
 
