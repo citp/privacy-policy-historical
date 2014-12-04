@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocktrendinvesting.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406073155id_/http%3A//www.stocktrendinvesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktrendinvesting.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204212428id_/http%3A//www.stocktrendinvesting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stock Trend Investing Guide
 
