@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405213423id_/http%3A//techatlast.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204110015id_/http%3A//techatlast.com/about/privacy-policy) for the most accurate reproduction.*
 
-# TechAtLast Privacy Policy for Content Readers & Advertisers | TechAtLast
+# TechAtLast Privacy Policy for Content Readers & Advertisers
 
 If you require any more information or have any questions about our **privacy policy** , please feel free to contact us by email at coolcash4live @ gmail.com.
 
@@ -36,11 +36,8 @@ If you wish to disable cookies, you may do so through your personal browser opti
 
 ### **Online Payment & Refund Policy**
 
-On this technology blog, we make use of Alertpay and [the other service mentioned here](http://techatlast.com/pay/) for collection of donations or payment for some of our services which includes advertisements and paid reviews. And if you come across any suspicious link on this blog, do contact us before taking next step. We accept payment from advertisers and readers who are willing to give to the course of continued functionality of this blog. But, _we do not offer refund_ of any payment made. That is why you it is a must for the payee to think twice before making payment or ordering our advertisement packages.
+On this technology blog, we make use of Alertpay and [the other service mentioned here](http://techatlast.com/pay/ "How to Pay") for collection of donations or payment for some of our services which includes advertisements and paid reviews. And if you come across any suspicious link on this blog, do contact us before taking next step. We accept payment from advertisers and readers who are willing to give to the course of continued functionality of this blog. But, _we do not offer refund_ of any payment made. That is why you it is a must for the payee to think twice before making payment or ordering our advertisement packages.
 
 We make use of some security plugins to make sure that our payment page is intact and secure every time. And since you all know that our payment processor, AlertPay offer the best payment processing feature, you are very secured doing business with us.
 
 Olawale Daniel ( _Founder_ )
-
-  
-
