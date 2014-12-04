@@ -1,86 +1,59 @@
-> *The following text is extracted and transformed from the yourtvseri.es privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611235934id_/http%3A//www.yourtvsho.ws/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtvseri.es privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204013400id_/http%3A//www.tvify.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - yourtvsho.ws
+# TVify - All things Movie and TV
 
-At YourTVSeri.es we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by YourTVSeri.es or its subsidiaries or affiliated companies (collectively, YourTVSeri.es’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information.
+**What information do we collect?**
 
-YourTVSeri.es adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
+We collect information from you when you register on our site.
 
-If you have any questions about this Policy, please feel free to [contact us](mailto:privacy@yourtvsho.ws "Privacy Policy").
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-###  **Information we collect and how we use it:**
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as YourTVSeri.es Search. In order to provide our full range of services, we may collect the following types of information:
+**What do we use your information for?**
 
- **Information you provide**  \- When you sign up for a YourTVSeri.es Account or other YourTVSeri.es service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other YourTVSeri.es services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+Any of the information we collect from you may be used in one of the following ways:
 
- **YourTVSeri.es cookies**  \- When you visit YourTVSeri.es, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some YourTVSeri.es features and services may not function properly if your cookies are disabled.
+To personalize your experience (your information helps us to better respond to your individual needs)
 
- **Log information**  \- When you use YourTVSeri.es services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
- **User communications**  \- When you send email or other communication to YourTVSeri.es, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+**How do we protect your information?**
 
- **Affiliated sites**  \- We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to YourTVSeri.es in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
- **Links**  \- YourTVSeri.es may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our technology, customized content and advertising.
+**Do we use cookies?**
 
- **Other sites**  \- This Privacy Policy applies to web sites and services that are owned and operated by YourTVSeri.es. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-YourTVSeri.es only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
+We use cookies to understand and save your preferences for future visits.
 
-  1. Providing our products and services to users, including the display of customized content and advertising;
-  2. Auditing, research and analysis in order to maintain, protect and improve our services;
-  3. Ensuring the technical functioning of our network; and
-  4. Developing new services.
+**Do we disclose any information to outside parties?**
 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+**Third party links**
 
-You can find more information about how we process personal information by referring to the privacy notices for particular services.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-YourTVSeri.es processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+**California Online Privacy Protection Act Compliance**
 
-### Choices for personal information
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their profile and going to the 'Edit My Information' page.
 
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
+**Childrens Online Privacy Protection Act Compliance**
 
-You can decline to submit personal information to any of our services, in which case YourTVSeri.es may not be able to provide those services to you.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-### Information sharing
+**Online Privacy Policy Only**
 
-YourTVSeri.es only shares personal information with other companies or individuals outside of YourTVSeri.es in the following limited circumstances:
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-  1. We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  2. We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-  3. We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) detect, prevent, or otherwise address fraud, security or technical issues, or (c) protect against imminent harm to the rights, property or safety of YourTVSeri.es, its users or the public as required or permitted by law.
+**Your Consent**
 
+By using our site, you consent to our web site privacy policy.
 
+**Changes to our Privacy Policy**
 
-If YourTVSeri.es becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
-
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
-
-Please contact us at [here](mailto:privacy@yourtvsho.ws) for any additional questions about the management or use of personal data.
-
-### Information security
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-
-We restrict access to personal information to YourTVSeri.es employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-
-### Data integrity
-
-YourTVSeri.es processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
-
-### Accessing and updating personal information
-
-When you use YourTVSeri.es services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
-
-### Enforcement
-
-YourTVSeri.es regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or YourTVSeri.es’s treatment of personal information by [contacting us](mailto:privacy@yourtvsho.ws). We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between YourTVSeri.es and an individual.
-
-### Changes to this policy
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
+If we decide to change our privacy policy, we will post those changes on this page.
