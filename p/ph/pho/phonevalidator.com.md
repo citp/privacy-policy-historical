@@ -1,21 +1,74 @@
-> *The following text is extracted and transformed from the phonevalidator.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615153123id_/http%3A//www.phonevalidator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonevalidator.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204193447id_/http%3A//www.phonevalidator.com/privacy.html) for the most accurate reproduction.*
 
-# Phone Number Batch Processing | PhoneValidator.com
+# Phone Validator - Is it a Cell or is it a Landline?
 
-We do not store the phone numbers run at this website.
+PRIVACY
 
-We do not use cookies to track visitors to our site. However, we use third party traffic tracking services that use cookies to identify system usage. Information returned from the tracking service may include publicly available information about the I.P. address but it does not include personally identifiable information. 
+Privacy Policy Statement 
 
-We may store the I.P. address of website users to identify system abuse.
+Effective Date: July 30, 2014 
 
-We do not collect personal information of users of this website. The only exception to this are customer service inquiries where the customer service email request is stored indefinitely. This information is not reviewable or editable once submitted and cannot be deleted by the sender. In this case, the consumers name and email address are stored as part of a received email. We do not spam, trade or sell email addresses used in correspondence to us.
+1\. INTRODUCTION 
 
-Any changes to our privacy policy will be seen on this page -- please check back often. The effective date of the notice can be seen below.
+1.1. PURPOSE OF POLICY. PhoneValidator.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of users of http://www.phonevalidator.com (the “Site”). We created this Privacy Policy (this “Policy”) so you can understand what information we collect, how it is used, how you can change it and what we do with it via third parties. 
 
-Any questions or notices related to privacy must be directed via email using the contact page [here](http://www.crimetime.com/contact.aspx). 
+1.2. NOTICE CONCERNING CHILDREN. This Site is not targeted towards children under the age of 13 nor intended to be used by them in any manner whatsoever. 
 
-Version date: 10-2-2012
+2\. INFORMATION COLLECTION PRACTICES 
 
-[RETURN HOME](https://web.archive.org/web/20140615153123id_/http%3A//www.phonevalidator.com/default.aspx)  
-  
-(C) 2012 Crime Time Publishing Co., Inc. All rights reserved.
+2.1. WHAT PERSONALLY IDENTIFIABLE INFORMATION DOES THE COMPANY COLLECT? 
+
+A. Categories of Personally Identifiable Information. We do not collect personally identifiable information for visitors to the Site. You may, however, contact us by email with an inquiry. When you do, we collect the following information so that we may respond to your inquiry: 
+
+• First Name  
+• Last Name  
+• Email Address  
+• IP address 
+
+B. Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please contact us using the Contact link on the menu in the footer of the Site. 
+
+C. Privacy Policy Modifications and Updates. If we modify or update this privacy policy, we will notify you as much by posting a notice on the Site for 30 days. 
+
+D. Effective Date: The effective date of this Policy shall be July 30, 2014. 
+
+E. Browser Do Not Track Signals: California law requires that we disclose whether we acknowledge do not track signals issued by browsers should you designate such a choice with said browsers. We do not do so. 
+
+F. Third Party Cumulative Tracking: California law requires us to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google, Facebook, Yahoo and Twitter can track you through this Site as we use their services for social media and internal tracking purposes. Google participates in the NIA opt out program. You can visit this [link](http://www.networkadvertising.org/choices/#completed) to view all companies including Google that track you and choose to no longer be tracked. You can visit the Facebook privacy page [here](https://www.facebook.com/about/privacy/), the privacy policy for Yahoo [here](https://info.yahoo.com/privacy/us/yahoo/details.html) and Twitter privacy page [here](https://twitter.com/privacy) to learn more about how these companies track you and use your information. To block parties from tracking you, try services such as the [Privacy Badger](https://www.eff.org/privacybadger) offered by the Electronic Frontier Foundation. 
+
+G. California Eraser Law. We do not allow for the posting of user generated content on the Site. As such, the California "eraser law" does not apply to this Site. 
+
+2.2 WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT? 
+
+A. AUTOMATIC COLLECTION. Our servers automatically recognize your IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process because we do not collect any other identifying information unless you contact us. We do, however, track how long you are on the Site, which pages you visit, the keywords you use to find the Site and other information detailing your use of the Site. If you do a search on the Site, we also track your IP to make sure you are not scraping our Site. The Site may also gather anonymous aggregate data for all visitors that does not personally identify you, but that may be helpful for marketing purposes or for improving the goods services we offer. 
+
+B. COOKIES. We may use the standard cookies or web beacons that allow us to store a small piece of data on your computer detailing your visit to our Site. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Site may be diminished and some features may not work as they were intended. You can use programs such as DoNotTrackMe.com to terminate tracking as well. 
+
+C. FINANCIAL INFORMATION. You may purchase certain products offered through the Site. In making such a purchase, you will be sent to third party sites. The terms and privacy policies of those sites apply, so please review those documents and contact those parties if you have any questions. We do not collect financial information from you on Site. 
+
+3\. USE AND SHARING OF INFORMATION 
+
+3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION? 
+
+A. PERSONAL INFORMATION. We do not share your personal information with third parties with the exception of third party services that we use to run, maintain and analyze the Site such as our hosting company. These parties do not market to you. 
+
+B. ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our Site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis. 
+
+C. DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site. 
+
+D. SALE OF INFORMATION. Should we decide to sell all or part of the Company at some point in the future, your personal information will be included as an asset in the transfer. 
+
+4\. SECURITY 
+
+4.1. SITE SECURITY. The Site has reasonable security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. If hackers can penetrate government security measures, they can penetrate ours. 
+
+5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL 
+
+5.1. THIRD PARTY WEBSITES. The Site contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before providing personal information to said sites. 
+
+6\. CONTACT INFORMATION 
+
+6.1. CONTACTING US. If you have any questions about this Policy or our practices related to this Site please contact us by accessing the “Contact Us” link at the bottom of each Site page. 
+
+[RETURN HOME](https://web.archive.org/web/20141204193447id_/http%3A//www.phonevalidator.com/default.aspx)
+
+© Copyright 2020 Crime Time Publishing Co., Inc. All rights reserved. Use of this website is at your own risk. We make no guarantees, expressed or implied, as to the accuracy of this data or service. Your use of this website indicates your acknowledgement and acceptance of these warnings and conditions. [Contact us here. ](http://www.crimetime.com/contact.aspx)You may use this link to view our [PRIVACY STATEMENT](https://web.archive.org/web/20141204193447id_/http%3A//www.phonevalidator.com/privacy.html). Your use of this website indicates your acceptance of our [terms and conditions](https://web.archive.org/web/20141204193447id_/http%3A//www.phonevalidator.com/terms.html). 
