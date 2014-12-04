@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sandiegoreader.com privacy policy that was archived on 2014-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140606005804id_/http%3A//www.sandiegoreader.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sandiegoreader.com privacy policy that was archived on 2014-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204110054id_/http%3A//www.sandiegoreader.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -15,44 +15,77 @@
   <!--[if IE 7]><link rel="stylesheet" href="http://media.sdreader.com/static/ellington_defaults/2.3.0/stylesheets/ie7.css" type="text/css" media="screen"><![endif]-->
 
   <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="http://media.sdreader.com/static/sdreader/stylesheets/styles.css?v=2014052102" type="text/css" media="screen">
+  <link rel="stylesheet" href="http://media.sdreader.com/static/sdreader/stylesheets/styles.css?v=2014111307" type="text/css" media="screen">
   <!--[if IE 7]><link rel="stylesheet" href="http://media.sdreader.com/static/sdreader/stylesheets/styles-ie7.css" type="text/css" media="screen" /><![endif]-->
 
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
   <link type="application/opensearchdescription+xml" rel="search" href="/opensearch.xml">
   <link rel="canonical" href="http://www.sandiegoreader.com/privacy/">
 
   <style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
   </style>
 
   
 
   
-    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">
       var STATIC_MEDIA_URL = 'http://media.sdreader.com/static/';
     </script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?&amp;sensor=false"></script>
     <script type="text/javascript" src="http://media.sdreader.com/static/ellington_defaults/2.3.0/min.js"></script>
     
 
-    <script type="text/javascript" src="http://media.sdreader.com/static/sdreader/javascript/jquery.reveal.min.js"></script>
-    <script type="text/javascript" src="http://media.sdreader.com/static/sdreader/javascript/jquery.cookie.min.js"></script>
-    <script type="text/javascript" src="http://media.sdreader.com/static/sdreader/javascript/jquery.functions.js?v=2014052103"></script>
+    <script type="text/javascript" src="http://media.sdreader.com/static/sdreader/javascript/core.js?v=2014111401"></script>
 
+    
+      <script type="text/javascript" src="http://media.sdreader.com/static/ellington_defaults/2.2.0/javascript/lib/mobile_detect.js"></script>
+      <script type="text/javascript">
+        if (typeof $.cookie('template_preference') === "undefined") {
+          if (Ellington.MobileDetect()) {
+            $.cookie('template_preference', 'mobile', { expires: 60, path: '/' });
+            window.location.reload(true);
+          }
+        }
+        else if ($.cookie('template_preference') === 'mobile') {
+          if (window.location.host == "www.sandiegoreader.com") {
+            window.location.reload(true);
+          }
+        }
+      </script>
     
 
     
     <script type="text/javascript">
       $(document).ready(function() {
         if (!SDReader.inIframe()) {
-          if ($.cookie('modal_shown') == null) {
-            $.cookie('modal_shown', 'yes', { expires: 3650, path: '/' });
+          if ($.cookie('newsletter_modal_shown') == null) {
+            $.cookie('newsletter_modal_shown', 'yes', { expires: 30, path: '/' });
             $('#newsletter-modal').reveal({ animation: 'fade', animationspeed: 400 })
           }
         }
       });
     </script>
+    
+
+    
+      <script>
+        (function() {
+          var _fbq = window._fbq || (window._fbq = []);
+          if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+          }
+          _fbq.push(['addPixelId', '728966273829404']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+      </script>
     
   
 
@@ -155,27 +188,28 @@
   <div id="nav">
     
       <div class="main">
-        <ul>
+        <ul id="main-nav">
           <li><a href="/news/politics/">News &amp; Politics</a></li>
           <li><a href="/news/">Stories</a></li>
           <li><a href="/events/bestbets/">Events</a></li>
           <li><a href="/music/">Music</a></li>
           <li><a href="/movies/">Movies</a></li>
-          <li><a href="/restaurants/">Food &amp; Drink</a></li>
+          <li><a href="/restaurants/">Food</a></li>
+          <li><a href="/news/san-diego-beer-news/">Beer</a></li>
           <li><a href="/san-diego-neighborhoods/">Neighborhoods</a></li>
-          <li class="last-child"><a href="/news/deals-discounts/">Deals &amp; Discounts</a></li>
+          <li><a href="/news/waterfront/">Waterfront</a></li>
+          <li><a href="/news/deals-discounts/">Deals</a></li>
+          <li class="last-child"><a href="/search/" class="search-button">Search <img src="http://media.sdreader.com/static/sdreader/images/search-icon.png" alt=""></a></li>
         </ul>
       </div>
       <div class="sub">
         <ul>
-          <li><a href="http://sandiego.strangertickets.com/">Tickets</a></li>
+          <li><a href="/submit/something/">Submit something</a></li>
           <li><a href="/classifieds/">Classifieds</a></li>
-          <li><a href="http://www.readerjobs.com/" target="_blank">Jobs</a></li>
-          <li><a href="/photos/galleries/">Photos</a></li>
-          <li><a href="/place-pages/">Places</a></li>
           <li><a href="/news/travel/">Travel</a></li>
+          <li><a href="/place-pages/">Places</a></li>
+          <li><a href="/photos/galleries/">Photos</a></li>
           <li><a href="/contests/">Contests</a></li>
-          <li><a href="/news/special-issues">Best of</a></li>
           <li><a href="/archives/">Archives</a></li>
           
             <li><a href="/accounts/login/">Log in or sign up</a></li>
@@ -187,6 +221,53 @@
           <li class="icon"><a href="http://instagram.com/sandiegoreader" target="_blank"><span class="icon16 icon16-instagram">Instagram</span></a></li>
           <li class="icon"><a href="http://pinterest.com/sandiegoreader" target="_blank"><span class="icon16 icon16-pinterest">Pinterest</span></a></li>
         </ul>
+      </div>
+      <div id="top-search">
+        <a href="#" id="close-search">Close</a>
+        <form action="/search/" method="get">
+          <div id="search-container">
+            <a href="#" id="search-by-category">Search by Category</a>
+            <input type="text" name="q" title="Search San Diego Reader" placeholder="Search the Reader" value="">
+            <input type="submit" value="">
+          </div>
+          <fieldset>
+            <ul id="search-categories-container">
+              <li id="search-site-container">
+                <input type="checkbox" id="search-site">
+                <label for="search-site">Search entire site</label>
+              </li>
+              <li>
+                <input type="checkbox" name="models" value="staff.staffmember" id="search-authors">
+                <label for="search-authors">Authors</label>
+              </li>
+              <li>
+                <input type="checkbox" name="models" value="music.band" id="search-bands">
+                <label for="search-bands">Bands</label>
+              </li>
+              
+              <li>
+                <input type="checkbox" name="models" value="events.event" id="search-events">
+                <label for="search-events">Events</label>
+              </li>
+              <li>
+                <input type="checkbox" name="models" value="movies.movie" id="search-movies">
+                <label for="search-movies">Movies</label>
+              </li>
+              <li>
+                <input type="checkbox" name="models" value="media.photo" id="search-photos">
+                <label for="search-photos">Photos</label>
+              </li>
+              <li>
+                <input type="checkbox" name="models" value="places.place" id="search-places">
+                <label for="search-places">Places</label>
+              </li>
+              <li>
+                <input type="checkbox" name="models" value="news.story" id="search-stories">
+                <label for="search-stories">News &amp; Stories</label>
+              </li>
+            </ul>
+          </fieldset>
+        </form>
       </div>
     
   </div>
@@ -256,52 +337,6 @@
       <div id="sidebar" class="sidebar">
         
           
-            <div id="top-search">
-              <form action="/search/" method="get">
-                <div id="search-container">
-                  <a href="#" id="search-by-category">Search by Category</a>
-                  <input type="text" name="q" title="Search San Diego Reader" placeholder="Search the Reader" value="">
-                  <input type="submit" value="">
-                </div>
-                <fieldset>
-                  <ul id="search-categories-container">
-                    <li id="search-site-container">
-                      <input type="checkbox" id="search-site">
-                      <label for="search-site">Search entire site</label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="models" value="staff.staffmember" id="search-authors">
-                      <label for="search-authors">Authors</label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="models" value="music.band" id="search-bands">
-                      <label for="search-bands">Bands</label>
-                    </li>
-                    
-                    <li>
-                      <input type="checkbox" name="models" value="events.event" id="search-events">
-                      <label for="search-events">Events</label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="models" value="movies.movie" id="search-movies">
-                      <label for="search-movies">Movies</label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="models" value="media.photo" id="search-photos">
-                      <label for="search-photos">Photos</label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="models" value="places.place" id="search-places">
-                      <label for="search-places">Places</label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="models" value="news.story" id="search-stories">
-                      <label for="search-stories">News &amp; Stories</label>
-                    </li>
-                  </ul>
-                </fieldset>
-              </form>
-            </div>
           
 
           
@@ -320,37 +355,28 @@
     
       <div class="post">
   
-  <ul class="categories"><li><a href="/news/news-ticker/">News Ticker</a></li></ul>
+  <ul class="categories"><li><a href="/news/india/">India</a></li><li><a href="/news/literary-spiritual-excerpts/">Literary and Spiritual Excerpts</a></li></ul>
   
-  <h3><a href="/news/2014/jun/05/ticker-scandal-raising-questions-emu-t-san-diegoem/">Scandal-raising questions at <em>U-T San Diego</em></a></h3>
-  <p class="date"><a href="/staff/matt-potter/">Matt Potter</a> 2:30 p.m., June 5</p>
+  <h3><a href="/news/2014/dec/03/excerpts-rammohun-roy/">From <em>The English Works of Raja Rammohun Roy</em></a></h3>
+  <p class="date">Rammohun Roy 10 p.m., Dec. 3</p>
 </div>
 
     
       <div class="post">
   
-  <ul class="categories"><li><a href="/news/downtown-san-diego/">Downtown San Diego</a></li><li><a href="/news/east-village/">East Village</a></li><li><a href="/news/rolando/">Rolando</a></li><li><a href="/news/theater-reviews/">Theater Reviews</a></li></ul>
+  <ul class="categories"><li><a href="/news/movies-home/">Movies@Home</a></li></ul>
   
-  <h3><a href="/news/2014/jun/05/theater-last-call-book-mormon-happy-days-mud-blue/">Last Call: <em>Book of Mormon</em>, <em>Happy Days</em>, <em>Mud Blue Sky</em></a></h3>
-  <p class="date"><a href="/staff/jeff-smith/">Jeff Smith</a> 2 p.m., June 5</p>
+  <h3><a href="/news/2014/dec/03/dvd/">Laugh, cry, hate yourself</a></h3>
+  <p class="date">Bill Perrine 9 p.m., Dec. 3</p>
 </div>
 
     
       <div class="post">
   
-  <ul class="categories"><li><a href="/news/imperial-beach/">Imperial Beach</a></li><li><a href="/news/neighborhood-news/">Neighborhood News</a></li></ul>
+  <ul class="categories"><li><a href="/news/blurt/">Blurt Music News</a></li></ul>
   
-  <h3><a href="/news/2014/jun/05/stringers-poop-pipe-redo/">Poop-pipe redo</a></h3>
-  <p class="date"><a href="/staff/marty-graham/">Marty Graham</a> 1:30 p.m., June 5</p>
-</div>
-
-    
-      <div class="post">
-  
-  <ul class="categories"><li><a href="/news/downtown-san-diego/">Downtown San Diego</a></li><li><a href="/news/feast/">Feast!</a></li></ul>
-  
-  <h3><a href="/news/2014/jun/05/feast-don-draper-don-ho/">From Don Draper to Don Ho</a></h3>
-  <p class="date"><a href="/staff/patrick-henderson/">Patrick Henderson</a> noon, June 5</p>
+  <h3><a href="/news/2014/dec/03/blurt-bad-publicity/">Bad publicity</a></h3>
+  <p class="date"><a href="/staff/ken-leighton/">Ken Leighton</a> 8 p.m., Dec. 3</p>
 </div>
 
     
@@ -358,26 +384,35 @@
   
   <ul class="categories"><li><a href="/news/news-ticker/">News Ticker</a></li></ul>
   
-  <h3><a href="/news/2014/jun/05/ticker-talking-bout-new-generation/">Talkin' 'bout new generation</a></h3>
-  <p class="date"><a href="/staff/dave-rice/">Dave Rice</a> 11:30 a.m., June 5</p>
+  <h3><a href="/news/2014/dec/03/ticker-california-bar-publicizes-lawyer-dui/">You try being a lawyer</a></h3>
+  <p class="date"><a href="/staff/don-bauder/">Don Bauder</a> 7:30 p.m., Dec. 3</p>
 </div>
 
     
       <div class="post">
   
-  <ul class="categories"><li><a href="/news/poetry/">Poetry</a></li><li><a href="/news/sdqt/">SD on the QT: Almost Factual News</a></li></ul>
+  <ul class="categories"><li><a href="/news/clairemont/">Clairemont</a></li><li><a href="/news/news-ticker/">News Ticker</a></li></ul>
   
-  <h3><a href="/news/2014/jun/05/sdqt-apologies-william-blake/">With apologies to William Blake</a></h3>
-  <p class="date"><a href="/staff/walter-mencken/">Walter Mencken</a> 11 a.m., June 5</p>
+  <h3><a href="/news/2014/dec/03/ticker-costumed-man-rapes-woman-big-lots/">Barbie dog</a></h3>
+  <p class="date"><a href="/staff/dave-rice/">Dave Rice</a> 6:30 p.m., Dec. 3</p>
 </div>
 
     
       <div class="post">
   
-  <ul class="categories"><li><a href="/news/big-screen/">Big Screen</a></li></ul>
+  <ul class="categories"><li><a href="/news/of-note/">Of Note</a></li></ul>
   
-  <h3><a href="/news/2014/jun/05/screen-youth-media-tech-camps-media-arts-center/">Summer Youth Media &amp; Tech Camps at Media Arts Center</a></h3>
-  <p class="date"><a href="/staff/scott-marks/">Scott Marks</a> 11 a.m., June 5</p>
+  <h3><a href="/news/2014/dec/03/note-bebel-gilberto-bossa-nova-popular-america/">Bebel Gilberto made bossa nova popular in America</a></h3>
+  <p class="date"><a href="/staff/dave-good/">Dave Good</a> 6 p.m., Dec. 3</p>
+</div>
+
+    
+      <div class="post">
+  
+  <ul class="categories"><li><a href="/news/news-ticker/">News Ticker</a></li></ul>
+  
+  <h3><a href="/news/2014/dec/03/ticker-detective-county-sued-mistaken-identity/">The detective can’t detect</a></h3>
+  <p class="date"><a href="/staff/dorian-hargrove/">Dorian Hargrove</a> 5:30 p.m., Dec. 3</p>
 </div>
 
     
@@ -451,7 +486,7 @@
             <div id="social-network-buttons">
               <a href="https://twitter.com/sdreader" class="twitter-follow-button" data-show-count="true" data-width="215px">Follow @sdreader</a>
               <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-              <iframe class="facebook-like-button" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fsdreader&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=275871012472791" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
+              <iframe class="facebook-like-button" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fsdreader&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=275871012472791" scrolling="no" frameborder="0" style="border:0; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
             </div>
           
 
@@ -465,15 +500,15 @@
                 <div>
                   <ul>
                     
-                      <li><a href="/news/2014/jun/03/stringers-south-bay-politiscape-election-day/">South Bay politiscape on election day</a></li>
+                      <li><a href="/news/2014/nov/26/unforgettable-keno-3/">Young Keno: The marshal gets his man </a></li>
                     
-                      <li><a href="/news/2014/jun/02/beer-summer-target-fall-brewing/">Summer target for Fall Brewing</a></li>
+                      <li><a href="/events/2014/dec/11/an-artists-story-e543f4fc-f2fd855e/?et=127095"></a></li>
                     
-                      <li><a href="/news/2014/may/31/feast-san-diego-county-fair-food-advance-peek/">San Diego County Fair Food Advance Peek</a></li>
+                      <li><a href="/news/2014/dec/03/citylights1-what-about-those-cayman-islands-assets/">What about those Cayman Islands assets?</a></li>
                     
-                      <li><a href="/weblogs/news-ticker/2013/jan/29/oceanside-man-charged-with-shooting-death-of-neigh/"></a></li>
+                      <li><a href="/news/2013/oct/30/cover-top-ten-san-diego-breweries/">San Diego's Top 10 Breweries</a></li>
                     
-                      <li><a href="/news/2012/jan/11/cd-review-eraures-emtomorrows-worldem/">Erasure's <em>Tomorrow's World</em></a></li>
+                      <li><a href="/news/2014/apr/09/citylights1-why-more-people-leave-enter-san-diego/">Why more people leave than enter San Diego</a></li>
                     
                   </ul>
                 </div>
@@ -483,17 +518,17 @@
                 <div>
                   <ul>
                     
-                      <li><a href="/news/2014/jun/04/ticker-6-million-glass-home-sale/">$6 million glass home for sale</a></li>
+                      <li><a href="/news/2014/nov/24/ticker-tamara-green-bill-cosby-accuser/">Which Tamara Green we talking about?</a></li>
                     
-                      <li><a href="/news/2014/jun/05/feast-don-draper-don-ho/">From Don Draper to Don Ho</a></li>
+                      <li><a href="/news/2014/nov/25/stringers-it-would-have-been-prudent/">It would have been prudent...</a></li>
                     
-                      <li><a href="/news/2014/jun/04/ticker-corey-briggs-environmental-ambulance-chaser/">Cory Briggs, environmental ambulance-chaser?</a></li>
+                      <li><a href="/news/2014/dec/03/citylights1-what-about-those-cayman-islands-assets/">What about those Cayman Islands assets?</a></li>
                     
-                      <li><a href="/news/2014/jun/04/ticker-nfl-seeks-larger-court-audience/">NFL seeks larger (court) audience</a></li>
+                      <li><a href="/news/2014/nov/30/stringers-walmart-protest-bark-wrong-tree/">Walmart protest a call to unionize </a></li>
                     
-                      <li><a href="/news/2014/jun/05/ticker-scandal-raising-questions-emu-t-san-diegoem/">Scandal-raising questions at <em>U-T San Diego</em></a></li>
+                      <li><a href="/news/2014/nov/30/ticker-rancho-santa-water-use-five-times-average/">Gulp! Rancho Santa Fe is how thirsty?</a></li>
                     
-                      <li><a href="/news/2014/jun/03/stringers-south-bay-politiscape-election-day/">South Bay politiscape on election day</a></li>
+                      <li><a href="/news/2014/nov/19/stringers-sweetwater-deal-stunk-over-year-ago/">Ed's gone, but this Sweetwater shenanigan isn't</a></li>
                     
                   </ul>
                 </div>
@@ -505,6 +540,7 @@
                   <li>Earn up to $100 for <a href="/submit/concert_review/">concert reviews</a>.</li><li>
                   </li><li>Earn up to $25 for <a href="/submit_cd_review/">album reviews</a>.</li>
                   <li>Earn up to $50 for <a href="/travel/stories/">travel stories</a>.</li>
+                  <li>Earn up to $50 for <a href="/waterfront/submit/">water stories</a>.</li>
                 </ul>
               </div>
             </div>
@@ -553,7 +589,6 @@
               <li><a href="/news/latest">Most recent</a></li>
               <li><a href="/stringers">Neighborhood News</a></li>
               <li><a href="/news/news-ticker">News Ticker</a></li>
-
             </ul>
             <ul>
               <li><h5><a href="/events/bestbets/">HAPPENINGS</a></h5></li>
@@ -586,9 +621,11 @@
               </li><li><a href="/newsletters/">Newsletters</a></li>
               <li><a href="/rss/">RSS feeds</a></li>
               <li><a href="/feedback/">Site feedback</a></li>
+              <li><a href="/submit/something/">Submit something</a></li>
             </ul>
             <ul>
               <li><h5>READER</h5></li>
+              <li><a href="/news/special-issues/">Best of</a></li>
               <li><a href="/crime-map/">Crime map</a></li>
               <li><a href="/books/">Reader Books</a></li>
               <li><a href="http://readercity.com/" target="_blank">Reader City</a></li>
