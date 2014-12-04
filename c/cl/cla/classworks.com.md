@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classworks.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608022016id_/http%3A//www.classworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classworks.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204081556id_/http%3A//www.classworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Classworks
 
@@ -8,7 +8,7 @@ Curriculum Advantage, Inc. knows that you care about how your personal informati
 
 This Privacy Policy covers Curriculum Advantage, Inc.'s treatment of personal information that Curriculum Advantage, Inc. gathers when you are on the Curriculum Advantage, Inc. website and when you use Curriculum Advantage, Inc. services. This policy does not apply to the practices of third parties that Curriculum Advantage, Inc. does not own or control, or to individuals that Curriculum Advantage, Inc. does not employ or manage.
 
-## Information Collected by Curriculum Advantage, Inc.
+## Information Collected by Curriculum Advantage, Inc.
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Curriculum Advantage, Inc. users:
 
@@ -58,6 +58,12 @@ Curriculum Advantage, Inc. allows for the RSS syndication of all of its public c
 
 Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
+### Enabling Third-Party Integrations
+
+If you enable a third-party integration service to work with Classworks, such as an LMS, that third-party may collect information on its own through the use of its integration with Classworks. Collection and use of information in this way is governed by the privacy policies of the third-party and is beyond our control.
+
+Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Curriculum Advantage, Inc. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit the third-party website, you should read that site's privacy statement before providing any personally identifiable information or enabling the Classworks integration.
+
 ## Keeping Information Secure
 
 Your Curriculum Advantage, Inc. account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
@@ -68,14 +74,22 @@ As stated previously, you can always opt not to disclose information, but then y
 
 As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our features.
 
+### The Children’s Internet Protection Act
+
+The Children’s Internet Protection Act (CIPA) is a federal law enacted by Congress in December 2000 to address concerns about access to offensive content over the Internet on school and library computers. CIPA imposes certain types of requirements on any school or library that receives funding support for Internet access or internal connections from the “E-rate” program — a program that makes certain technology more affordable for eligible schools and libraries. Our Programs do not provide links to external resources or chat rooms, and do not contain any offensive or inappropriate material. If you would like more information about CIPA, please go to http://www.fcc.gov/cgb/consumerfacts/cipa.html.
+
+### The Family Educational Rights and Privacy Act
+
+The Family Educational Rights and Privacy Act (FERPA) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. If you would like more information about FERPA, please go to http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html.
+
 ## Changes to this Privacy Policy
 
-Curriculum Advantage, Inc. may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Curriculum Advantage, Inc. website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+Curriculum Advantage, Inc. may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on http://status.classworks.com so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. We recommend subscribing to updates by clicking on the Subscribe to Updates button and you will receive notice of any updates in your email.
 
 ### Conditions of Use
 
-If you decide to visit Curriculum Advantage, Inc. website, your visit and any possible dispute over privacy is subject to this Privacy Policy, including limitations on damages, arbitration of disputes, and application of Georgia state law.
+If you decide to visit the Classworks or any Curriculum Advantage, Inc. website, your visit and any possible dispute over privacy is subject to this Privacy Policy, including limitations on damages, arbitration of disputes, and the application of Georgia state law.
 
 ### Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of September 25, 2008.
+This Privacy Policy is effective as of October 16, 2014.
