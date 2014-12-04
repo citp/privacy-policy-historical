@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404170856id_/http%3A//www.leaprate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204135302id_/http%3A//leaprate.com/about/privacy-policy) for the most accurate reproduction.*
 
-# LeapRate | Forex News | Regulated Brokers - Privacy Policy
+# Privacy Policy | LeapRate
 
-##  Privacy Policy 
+LeapRate is committed to protecting your privacy. This Privacy Policy describes how we collect, store and use information on individuals that use this website. We strive to ensure that our personnel and those acting on our behalf obtain, use and disclose personal information lawfully and correctly.
 
-LeapRate is committed to protecting your privacy. This Privacy Policy describes how we collect, store and use information on individuals that use this website.
-
-We strive to ensure that our personnel and those acting on our behalf obtain, use and disclose personal information lawfully and correctly.
-
-LeapRate hereby informs you that the by voluntarily sending us your personal data, such as your name, email address(es), telephone number(s), mailing address and/or other contact information you hereby provide your consent to us to send you commercial information on products or services in which you may be interested. In addition, LeapRate may provide or sell such information to third parties; however, any payment related information such as a credit card number of bank account number will not under be transferred to any third parties under any circumstances, except as required of us by law. LeapRate may store these data as long as it is reasonably necessary to attain the mentioned purposes and in accordance with any applicable legal or ethical requirement. In addition, you are committed to supplying true, complete and accurate information and to keeping it up to date.
+LeapRate hereby informs you that the by voluntarily sending us your personal data, such as your name, email address(es), telephone number(s), mailing address and/or other contact information you hereby provide your consent to us to send you commercial information on products or services in which you may be interested. In addition, LeapRate may provide or sell such information to third parties; however, any payment related information such as a credit card number of bank account number will not be transferred to any third parties under any circumstances except as specifically allowed by the provider, and except as required of us by law. LeapRate may store these data as long as it is reasonably necessary to attain the mentioned purposes and in accordance with any applicable legal or ethical requirement. In addition, you are committed to supplying true, complete and accurate information and to keeping it up to date.
 
 In order to use some of our services, users may be asked to fill in a form, which requires providing certain personal information to LeapRate. Unless otherwise provided in those fields expressly marked with an asterisk (*), answers to our questions on personal data are not mandatory. Not supplying the information required in such optional fields shall not represent any decrease of the services and information that we may provide. However, failure to complete those compulsory fields or providing incorrect personal data shall prevent us from providing the requested information or services.
 
 LeapRate informs you of the possibility of exercising your rights to access, rectify, cancel and object to the processing of your personal data or transfer of such data to any third parties, by making an email request to LeapRate at [access@leaprate.com](mailto:access@leaprate.com).
 
-This website does not use "cookies" to gather personal information such as a person's name or email address. A cookie is a small text file placed on your computer's hard drive or browser by a webpage server.
+We do not send “spam”. Spamming is defined as sending unsolicited e-mails, usually of a commercial nature, in large numbers and in a repeated manner, to individuals with whom the sender has had no previous contact or who have declined to receive such communications. If you receive emails from LeapRate and no longer wish to do so, please email us from the appropriate address to [unsubscribe@leaprate.com](mailto:unsubscribe@leaprate.com).
 
-We do not send "spam". Spamming is defined as sending unsolicited e-mails, usually of a commercial nature, in large numbers and in a repeated manner, to individuals with whom the sender has had no previous contact or who have declined to receive such communications.
+LeapRate places Google remarketing code on certain of our web pages to collect anonymous data, used for conversion tracking and audience retargeting of advertising campaigns. Information about how you can opt out of Google’s use of cookies is available by visiting Google’s Ads Settings. 
 
 This Privacy Policy applies only to this website, and excludes all third party websites, as we may provide links to other websites which we believe may be of interest to our visitors. We aim at ensuring that such websites are of the highest standard. However, due to the nature of the World Wide Web, we cannot guarantee the standards of every linked website or be responsible for their content.
 
