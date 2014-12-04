@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toledonewsnow.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209224706id_/http%3A//www.toledonewsnow.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toledonewsnow.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204143055id_/http%3A//www.toledonewsnow.com/story/8774923/p) for the most accurate reproduction.*
 
 # Privacy Policy - Toledo News Now, Breaking News, Weather, Sports, Toledo
 
