@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the logofury.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626162110id_/http%3A//logofury.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the logofury.com privacy policy that was archived on 2014-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204214913id_/http%3A//logofury.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,7 +21,19 @@
         var rs = this.readyState;
         if (rs && rs != 'complete' && rs != 'loaded') return;
         var site_id = '0152268f35a0932d32c3560b62017683';
-        var page_config = {};
+        var page_config = {"apps":{"share_buttons":{"get_share_counts":  function(url, services, cb) {
+    Shareaholic.Utils.ajax({
+      cache: true,
+      cache_ttl: '1 minute',
+      url: 'http://logofury.com/wp-admin/admin-ajax.php',
+      data: { action: 'shareaholic_share_counts_api', url: url, services: services },
+      success: function(res) {
+        if(res && res.data) {
+          cb(res.data, true);
+        }
+      }
+    })
+  }}}};
         try { Shareaholic.init(site_id, page_config); } catch (e) {}
       };
       var s = document.getElementsByTagName('script')[0];
@@ -35,27 +47,27 @@
 <meta name="shareaholic:language" content="en-US">
 <meta name="shareaholic:url" content="http://logofury.com/privacy-policy">
 <meta name="shareaholic:article_published_time" content="2012-04-19T19:58:25+00:00">
-<meta name="shareaholic:article_modified_time" content="2014-06-22T17:34:37+00:00">
+<meta name="shareaholic:article_modified_time" content="2014-12-04T19:59:23+00:00">
+<meta name="shareaholic:shareable_page" content="true">
 <meta name="shareaholic:article_author_name" content="the Editor">
 <meta name="shareaholic:site_id" content="0152268f35a0932d32c3560b62017683">
-<meta name="shareaholic:wp_version" content="7.2.1.0">
+<meta name="shareaholic:wp_version" content="7.6.0.4">
 
 <!-- Shareaholic Content Tags End -->
-<link rel="stylesheet" id="contact-form-7-css" href="http://logofury.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="se-link-styles-css" href="http://logofury.com/wp-content/plugins/search-everything/static/css/se-styles.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-postratings-css" href="http://logofury.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.63" type="text/css" media="all">
-<link rel="stylesheet" id="wpt-twitter-feed-css" href="http://logofury.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-paginate-css" href="http://logofury.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.4" type="text/css" media="screen">
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<link rel="stylesheet" id="contact-form-7-css" href="http://logofury.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="se-link-styles-css" href="http://logofury.com/wp-content/plugins/search-everything/static/css/se-styles.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-postratings-css" href="http://logofury.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.79" type="text/css" media="all">
+<link rel="stylesheet" id="wpt-twitter-feed-css" href="http://logofury.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-paginate-css" href="http://logofury.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.5" type="text/css" media="screen">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript">try{jQuery.noConflict();}catch(e){};</script>
 <script type="text/javascript" src="http://logofury.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://logofury.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://logofury.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Top Rated" href="http://logofury.com/top-rated">
-<meta name="generator" content="WordPress 3.9.1">
+<meta name="generator" content="WordPress 4.0.1">
 <link rel="shortlink" href="http://logofury.com/?p=10525">
 
-<!-- Bad Behavior 2.2.15 run time: 8.634 ms -->
+<!-- Bad Behavior 2.2.16 run time: 5.851 ms -->
 <script type="text/javascript">
 <!--
 function bb2_addLoadEvent(func) {
@@ -76,7 +88,7 @@ bb2_addLoadEvent(function() {
 			var myElement = document.createElement('input');
 			myElement.setAttribute('type', 'hidden');
 			myElement.name = 'bb2_screener_';
-			myElement.value = '1403799670 207.241.237.231';
+			myElement.value = '1417729752 174.129.237.157';
 			document.forms[i].appendChild(myElement);
 		}
 	}
@@ -152,7 +164,7 @@ bb2_addLoadEvent(function() {
    <script type="text/javascript">
 	window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
 	window._wp_rp_wp_ajax_url = "http://logofury.com/wp-admin/admin-ajax.php";
-	window._wp_rp_plugin_version = '3.5';
+	window._wp_rp_plugin_version = '3.5.2';
 	window._wp_rp_post_id = '10525';
 	window._wp_rp_num_rel_posts = '3';
 	window._wp_rp_thumbnails = true;
@@ -160,8 +172,8 @@ bb2_addLoadEvent(function() {
 	window._wp_rp_post_tags = [];
 	window._wp_rp_promoted_content = true;
 </script>
-<script type="text/javascript" src="https://wprp.zemanta.com/static/js/loader.js?version=3.5" async=""></script>
-<link rel="stylesheet" href="http://logofury.com/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical-s.css?version=3.5">
+<script type="text/javascript" src="https://wprp.zemanta.com/static/js/loader.js?version=3.5.2" async=""></script>
+<link rel="stylesheet" href="http://logofury.com/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical-s.css?version=3.5.2">
 <style type="text/css">
 .related_post_title {
 }
@@ -174,7 +186,7 @@ ul.related_post li a {
 ul.related_post li img {
 }</style>
 
-<!-- All in One SEO Pack 2.1.7 by Michael Torbert of Semper Fi Web Design[421,494] -->
+<!-- All in One SEO Pack 2.2.3.1 by Michael Torbert of Semper Fi Web Design[421,494] -->
 <meta name="description" content="We recognize that privacy of your personal information is important. Here is information on what personal information we receive and collect when you visit us.">
 
 <link rel="canonical" href="http://logofury.com/privacy-policy">
@@ -219,7 +231,7 @@ ul.related_post li img {
 		<h1><a href="http://logofury.com/" id="logo" title="A premier logo design gallery, inspiring logo ideas for designers!">Logo Gallery - Logo Design Gallery | LogoFury.com</a></h1>
 
 <div id="stats">
-<b>5057</b> logos to inspire you, <i>0 added today.</i> Your daily dose of Logo Inspiration.
+<b>5094</b> logos to inspire you, <i>3 added today.</i> Your daily dose of Logo Inspiration.
 </div>
 </div>
 
@@ -229,13 +241,12 @@ ul.related_post li img {
 <ul>
 
 	<li><a href="/" title="Browse All Logo Designs" onclick="javascript:window.open('https://web.archive.org/'); return false;">Home</a></li>
-<li><a href="http://cssfury.com" onclick="javascript:window.open('http://cssfury.com/'); return false;">CSS Gallery</a></li>
-<li><a href="http://buysellads.com/buy/detail/824" alt="Advertise on Logo Fury" onclick="javascript:window.open('http://buysellads.com/buy/detail/824'); return false;">Advertise</a></li>
 <li><a href="/logos/news" alt="News" onclick="javascript:window.open('https://web.archive.org/logos/news'); return false;">News</a></li>
 <li><a href="http://logofury.com/contact/">Contact</a></li>
 		<li><a href="http://logofury.com/top-rated">Top Rated</a></li>
 <li><a href="http://logofury.com/submit">Submit</a></li>
 <li><a class="current" href="http://logofury.com/privacy-policy">Privacy</a></li>
+<li><a href="http://logofury.com/advertise">Advertise on LogoFury.com</a></li>
 <li><a href="http://logofury.com/search-logos">Search</a></li>
 <li><a href="http://logofury.com/about">About</a></li>
 	</ul>	
@@ -250,7 +261,7 @@ ul.related_post li img {
 <a href="http://feeds.feedburner.com/Logofurycom" onclick="javascript:window.open('http://feeds.feedburner.com/Logofurycom'); return false;"><img src="http://logofury.com/wp-content/themes/cssfuel/images/rss-img.png" border="0"></a>
 </div>
 <div id="subscribe-text">
-Follow: <a href="http://feeds.feedburner.com/Logofurycom" rel="nofollow" onclick="javascript:window.open('http://feeds.feedburner.com/Logofurycom'); return false;">RSS</a> <a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2390779&amp;loc=en_US" onclick="javascript:window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2390779&amp;loc=en_US'); return false;">Email</a> <a href="https://www.facebook.com/pages/Logo-Fury/360226207446654" rel="nofollow" onclick="javascript:window.open('https://www.facebook.com/pages/Logo-Fury/360226207446654'); return false;">facebook</a> <a href="http://www.twitter.com/logofury" rel="nofollow" onclick="javascript:window.open('http://www.twitter.com/logofury'); return false;">Twitter</a>
+Follow: <a href="http://feeds.feedburner.com/Logofurycom" rel="nofollow" onclick="javascript:window.open('http://feeds.feedburner.com/Logofurycom'); return false;">RSS</a> <a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2390779&amp;loc=en_US" onclick="javascript:window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2390779&amp;loc=en_US'); return false;">Email</a> <a href="https://www.facebook.com/logofury" rel="nofollow" onclick="javascript:window.open('https://www.facebook.com/logofury'); return false;">facebook</a> <a href="http://www.twitter.com/logofury" rel="nofollow" onclick="javascript:window.open('http://www.twitter.com/logofury'); return false;">Twitter</a>
 </div>
 </div>
 
@@ -281,6 +292,17 @@ Follow: <a href="http://feeds.feedburner.com/Logofurycom" rel="nofollow" onclick
 
 
 
+<a href="http://www.dpbolvw.net/hq105ar-xrzEIJLGFKGEGGHKHFMI?cm_mmc=CJ-_-1769869-_-3461051-_-Graphic%20Design%20250x250" onmouseover="window.status='http://www.99designs.com';return true;" onmouseout="window.status=' ';return true;" onclick="javascript:window.open('http://www.dpbolvw.net/hq105ar-xrzEIJLGFKGEGGHKHFMI?cm_mmc=CJ-_-1769869-_-3461051-_-Graphic%20Design%20250x250'); return false;">
+<img src="http://www.lduhtrp.net/ff108xjnbhf04572162022363184" alt="" border="0"></a>
+
+<br><br>
+
+<a href="http://www.anrdoezrs.net/5m98iqzwqyDHIKFEJFDFENEJHMH" onmouseover="window.status='http://www.crowdspring.com';return true;" onmouseout="window.status=' ';return true;" onclick="javascript:window.open('http://www.anrdoezrs.net/5m98iqzwqyDHIKFEJFDFENEJHMH'); return false;">
+<img src="http://www.ftjcfx.com/9s118snrflj489B65A6465E5A8D8" alt="Need a logo? Try crowdSPRING!   " border="0"></a>
+
+
+<br><br>
+
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-8468810635763201";
 /* logofury.com */
@@ -302,14 +324,10 @@ google_ad_height = 250;
 <img src="http://www.lduhtrp.net/sl72c37w1-LPQSNMRNLNMTVPPNP" alt="" border="0"></a>
 
 <br><br>
+<a href="http://www.anrdoezrs.net/p298dlurlt8CDFA9EA8A9FEBDGD" onmouseover="window.status='http://www.crowdspring.com';return true;" onmouseout="window.status=' ';return true;" onclick="javascript:window.open('http://www.anrdoezrs.net/p298dlurlt8CDFA9EA8A9FEBDGD'); return false;">
+<img src="http://www.tqlkg.com/lq118z15u-yJNOQLKPLJLKQPMORO" alt="Need a logo? Try crowdSPRING!" border="0"></a>
 
-<a href="http://www.dpbolvw.net/hq105ar-xrzEIJLGFKGEGGHKHFMI?cm_mmc=CJ-_-1769869-_-3461051-_-Graphic%20Design%20250x250" onmouseover="window.status='http://www.99designs.com';return true;" onmouseout="window.status=' ';return true;" onclick="javascript:window.open('http://www.dpbolvw.net/hq105ar-xrzEIJLGFKGEGGHKHFMI?cm_mmc=CJ-_-1769869-_-3461051-_-Graphic%20Design%20250x250'); return false;">
-<img src="http://www.lduhtrp.net/ff108xjnbhf04572162022363184" alt="" border="0"></a>
 
-<br><br>
-
-<a href="http://www.anrdoezrs.net/5m98iqzwqyDHIKFEJFDFENEJHMH" onmouseover="window.status='http://www.crowdspring.com';return true;" onmouseout="window.status=' ';return true;" onclick="javascript:window.open('http://www.anrdoezrs.net/5m98iqzwqyDHIKFEJFDFENEJHMH'); return false;">
-<img src="http://www.ftjcfx.com/9s118snrflj489B65A6465E5A8D8" alt="Need a logo? Try crowdSPRING!   " border="0"></a>
 </div>	
 <div style="clear:both;"></div>		
 	
@@ -385,28 +403,28 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 <div class="list1 list1-border">
 <h2>Most Rated</h2>
    <ul>
-      <li><a href="http://logofury.com/logo/wiesinger-music.html" title="Wiesinger Music">Wiesinger Music</a> - 309 votes</li>
-<li><a href="http://logofury.com/logo/checklist.html" title="checklist">checklist</a> - 226 votes</li>
-<li><a href="http://logofury.com/logo/mr-cutts.html" title="Mr. Cutts">Mr. Cutts</a> - 218 votes</li>
+      <li><a href="http://logofury.com/logo/wiesinger-music.html" title="Wiesinger Music">Wiesinger Music</a> - 310 votes</li>
+<li><a href="http://logofury.com/logo/checklist.html" title="checklist">checklist</a> - 229 votes</li>
+<li><a href="http://logofury.com/logo/mr-cutts.html" title="Mr. Cutts">Mr. Cutts</a> - 219 votes</li>
 <li><a href="http://logofury.com/logo/imaginary-friend-pictures.html" title="Imaginary Friend Pictures">Imaginary Friend Pictures</a> - 217 votes</li>
+<li><a href="http://logofury.com/logo/say-cheese-photography.html" title="Say Cheese Photography">Say Cheese Photography</a> - 194 votes</li>
 <li><a href="http://logofury.com/logo/unpugged.html" title="UNPUGGED">UNPUGGED</a> - 192 votes</li>
-<li><a href="http://logofury.com/logo/say-cheese-photography.html" title="Say Cheese Photography">Say Cheese Photography</a> - 190 votes</li>
-<li><a href="http://logofury.com/logo/mammoth-pub.html" title="Mammoth Pub">Mammoth Pub</a> - 183 votes</li>
-<li><a href="http://logofury.com/logo/coffee-night.html" title="Coffee Night">Coffee Night</a> - 171 votes</li>
+<li><a href="http://logofury.com/logo/mammoth-pub.html" title="Mammoth Pub">Mammoth Pub</a> - 188 votes</li>
+<li><a href="http://logofury.com/logo/coffee-night.html" title="Coffee Night">Coffee Night</a> - 175 votes</li>
    </ul>
 	
 </div>
 <div class="list1 list1-border" "="">
 <h2>Highest Rated</h2>
    <ul>
-      <li><a href="http://logofury.com/logo/stand.html" title="STAND">STAND</a> (4.50)</li>
-<li><a href="http://logofury.com/logo/hard-drives.html" title="Hard Drives">Hard Drives</a> (4.50)</li>
-<li><a href="http://logofury.com/logo/drowned.html" title="Drowned">Drowned</a> (4.43)</li>
-<li><a href="http://logofury.com/logo/creative-fire.html" title="Creative Fire">Creative Fire</a> (4.40)</li>
-<li><a href="http://logofury.com/logo/hummingbird.html" title="Hummingbird">Hummingbird</a> (4.40)</li>
-<li><a href="http://logofury.com/logo/firefish.html" title="Firefish">Firefish</a> (4.39)</li>
-<li><a href="http://logofury.com/logo/mammoth-pub.html" title="Mammoth Pub">Mammoth Pub</a> (4.38)</li>
-<li><a href="http://logofury.com/logo/urbanoiz.html" title="Urbanoiz">Urbanoiz</a> (4.38)</li>
+      <li><a href="http://logofury.com/logo/sweet.html" title="Sweet">Sweet</a> (4.42)</li>
+<li><a href="http://logofury.com/logo/mammoth-pub.html" title="Mammoth Pub">Mammoth Pub</a> (4.35)</li>
+<li><a href="http://logofury.com/logo/bird.html" title="Bird">Bird</a> (4.35)</li>
+<li><a href="http://logofury.com/logo/wiesinger-music.html" title="Wiesinger Music">Wiesinger Music</a> (4.34)</li>
+<li><a href="http://logofury.com/logo/checklist.html" title="checklist">checklist</a> (4.34)</li>
+<li><a href="http://logofury.com/logo/say-cheese-photography.html" title="Say Cheese Photography">Say Cheese Photography</a> (4.34)</li>
+<li><a href="http://logofury.com/logo/wineforest.html" title="Wineforest">Wineforest</a> (4.33)</li>
+<li><a href="http://logofury.com/logo/pipeline.html" title="Pipeline">Pipeline</a> (4.33)</li>
    </ul>
 	
 </div>
@@ -442,22 +460,23 @@ document.write(curr_year);
 </script>2020,  Logo Design Gallery | LogoFury.com - A premier logo design gallery, inspiring logo ideas for designers!		</p>
 	</div>
 </div></div>
-
+<!-- BuySellAds On-Site Shopping Cart -->
+<script src="//s3.buysellads.com/ac/sitecart.js" id="bsasitecart" data-site="824"></script>
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" async="" data-pin-hover="true" data-pin-height="32" data-pin-shape="round"></script>
-<script type="text/javascript" src="http://logofury.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
+<script type="text/javascript" src="http://logofury.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/logofury.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://logofury.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1"></script>
+<script type="text/javascript" src="http://logofury.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ratingsL10n = {"plugin_url":"http:\/\/logofury.com\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/logofury.com\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 post at a time.","image":"stars_crystal","image_ext":"gif","max":"5","show_loading":"0","show_fading":"1","custom":"0"};
 var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_over."+ratingsL10n.image_ext;;
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://logofury.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.63"></script>
+<script type="text/javascript" src="http://logofury.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.79"></script>
 
 <!-- Start Of Script Generated By cforms v14.6 [Oliver Seidel | www.deliciousdays.com] -->
 <!-- End Of Script Generated By cforms -->
