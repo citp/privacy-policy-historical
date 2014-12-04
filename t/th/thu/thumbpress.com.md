@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumbpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063817id_/http%3A//thumbpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbpress.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204211915id_/http%3A//thumbpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ThumbPress
 
