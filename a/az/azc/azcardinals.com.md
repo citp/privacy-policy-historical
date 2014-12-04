@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506182342id_/http%3A//www.azcardinals.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204084908id_/http%3A//www.azcardinals.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # azcardinals.com | Privacy Policy
 
@@ -13,8 +13,6 @@ This privacy policy applies to the Arizona Cardinal’s website located at azcar
 The Website is operated by the Arizona Cardinals. 
 
 The Arizona Cardinals Football Club has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)  including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.azcardinals.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at (602) 379-0101.  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).  ****
-
- The Arizona Cardinals Football Club complies with the U.S. – E.U.  Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries.  The Arizona Cardinals Football Club has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view The Arizona Cardinals Football Club’s certification, please visit <http://www.export.gov/safeharbor/>[[ER5]](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#_msocom_5) 
 
 The Arizona Cardinals Football Club is located at 8701 South Hardy Drive, Tempe, AZ 85284. All written correspondence should be sent to P.O. Box 888, Phoenix, AZ 85001-0888.
 
