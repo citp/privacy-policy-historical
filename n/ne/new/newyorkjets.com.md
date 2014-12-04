@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkjets.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209130822id_/http%3A//www.newyorkjets.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjets.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204075410id_/http%3A//www.newyorkjets.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # New York Jets | Privacy Policy
 
@@ -12,7 +12,7 @@ This privacy policy applies to the New York Jets' websites located at [newyorkje
 
 New York Jets LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. TRUSTe's certification covers the NY Jets site that link to this privacy policy. If you have questions or complaints regarding our privacy policy or practices, please contact us at [webmaster@newyorkjets.com](mailto:webmaster@newyorkjets.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-New York Jets LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. New York Jets LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the New York Jets LLC's certification, please visit <http://www.export.gov/safeharbor/>
+[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=2455c057-e5be-4ea9-8b25-bf229cbc7666 "TRUSTe European Safe Harbor certification")
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -137,5 +137,3 @@ New York Jets LLC
 1 Jets Drive  
 Florham Park, NJ 07932  
 Attn: Website Privacy Policy
-
-[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=2455c057-e5be-4ea9-8b25-bf229cbc7666 "TRUSTe European Safe Harbor certification")
