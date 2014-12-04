@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127233851id_/http%3A//www.ireland.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204020243id_/http%3A//www.ireland.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Ireland.com
 
@@ -49,7 +49,7 @@ If you decide that you no longer wish to receive promotional information, you ca
 
 ### Access to the information we hold on you
 
-If you wish to query the information we hold on you or inform us about how we should treat that data or request the deletion of that information, [contact us](https://web.archive.org/web/20131127233851id_/http%3A//www.ireland.com/legal-information/~/error.aspx?item=web%3a%7b52F9D976-46BA-479F-BAF2-34439E6E113E%7d%40en-EN) in writing at: 
+If you wish to query the information we hold on you or inform us about how we should treat that data or request the deletion of that information, [contact us](https://web.archive.org/Home/core/contact-us-form) in writing at: 
 
 Data Protection Officer,  
 Tourism Ireland,   
@@ -78,7 +78,7 @@ Tourism Ireland complies with the highest standards when collecting and using pe
 
 ## Security
 
-Tourism Ireland takes appropriate measures to ensure the security, integrity and privacy of personal information submitted to our sites, and periodically updates its security measures in light of current technologies. You need to be aware, however, of inherent risks associated with the transmission of information via the Internet. Tourism Ireland cannot guarantee or warrant the security of any personal information you submit to our sites. If you have concerns in this regard, Tourism Ireland has other ways of obtaining and providing information such as post or telephone. [Contact us](https://web.archive.org/web/20131127233851id_/http%3A//www.ireland.com/legal-information/~/error.aspx?item=web%3a%7b52F9D976-46BA-479F-BAF2-34439E6E113E%7d%40en-EN) for more information.
+Tourism Ireland takes appropriate measures to ensure the security, integrity and privacy of personal information submitted to our sites, and periodically updates its security measures in light of current technologies. You need to be aware, however, of inherent risks associated with the transmission of information via the Internet. Tourism Ireland cannot guarantee or warrant the security of any personal information you submit to our sites. If you have concerns in this regard, Tourism Ireland has other ways of obtaining and providing information such as post or telephone. [Contact us](https://web.archive.org/Home/core/contact-us-form) for more information.
 
 Tourism Ireland sites may also be linked to websites operated by third parties. These links are meant for your convenience only. Links to third party sites do not constitute endorsement on the part of Tourism Ireland of those sites and we are not responsible for the privacy practices of the owners and operators of those sites. We encourage you to review the privacy policies and practices on each site which asks you to submit personal information. 
 
@@ -96,7 +96,7 @@ We keep this Privacy Statement under regular review.
 
 ## Queries
 
-If you have any queries regarding this Privacy Statement, you can [contact us](https://web.archive.org/web/20131127233851id_/http%3A//www.ireland.com/legal-information/~/error.aspx?item=web%3a%7b52F9D976-46BA-479F-BAF2-34439E6E113E%7d%40en-EN) via email
+If you have any queries regarding this Privacy Statement, you can [contact us](https://web.archive.org/Home/core/contact-us-form) via email
 
 ## Jurisdiction
 
