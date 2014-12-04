@@ -1,40 +1,38 @@
-<!--The following is the downloaded HTML source of the bruwink.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624034749id_/http%3A//www.bruwink.com/support/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bruwink.com privacy policy that was archived on 2014-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204141940id_/http%3A//www.bruwink.com/support/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEUVZUGwEIV1BUDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 	
 	<meta name="keywords" content="">
 	<meta name="description" content="">
+        <link rel="canonical" href="http://www.bruwink.com/">
     
-	<title>Privacy Policy</title>    
+	<title>Privacy Policy</title>   
+
+        <link rel="alternate" href="http://example.com/" hreflang="x-default">
+        <link rel="”publisher”" href="”https://plus.google.com/+Bruwink“/"> 
     
 	<link rel="icon" href="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=favicon.ico&amp;t=1355404042" type="image/x-icon">
 	<link rel="shortcut icon" href="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=favicon.ico&amp;t=1355404042" type="image/x-icon">
 	
-        <link rel="stylesheet" type="text/css" href="/ui/resellerdata/390000_419999/401312/supersite2/supersite/themes/MinimalGreen-ClassicBlue/css/common/style.css?v=1403364174">
-        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/common/style3.css?v=1399386131">
-        <link rel="stylesheet" type="text/css" href="/ui/resellerdata/390000_419999/401312/supersite2/supersite/themes/MinimalGreen-ClassicBlue/css/common/stylev1.css?v=1403370057">
-        <link rel="stylesheet" type="text/css" href="/ui/resellerdata/390000_419999/401312/supersite2/supersite/themes/MinimalGreen-ClassicBlue/css/common/stylev2.css?v=1390471397">
-        <link rel="stylesheet" type="text/css" href="/ui/resellerdata/390000_419999/401312/supersite2/supersite/themes/MinimalGreen-ClassicBlue/css/common/stylev4.css?v=1403543764">
-        <link rel="stylesheet" type="text/css" href="/ui/resellerdata/390000_419999/401312/supersite2/supersite/themes/MinimalGreen-ClassicBlue/css/common/stylev5.css?v=1402929569">
-        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/common/stylev6.css?v=1403532043">
-        <link rel="stylesheet" type="text/css" href="/ui/resellerdata/390000_419999/401312/supersite2/supersite/themes/MinimalGreen-ClassicBlue/css/common/superdupersite.css?v=1403545221">
+        <link rel="stylesheet" type="text/css" href="/ui/resellerdata/390000_419999/401312/supersite2/supersite/themes/MinimalGreen-ClassicBlue/css/production/production.css?v=1417624522">
 	<link href="http://fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
 
 	
 	<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/jquery.js?t=1378478505"></script>
-	<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/commonScripts.js?t=1403532043"></script>
-	<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/cart.js?t=1389014535"></script>
+	<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/commonScripts.js?t=1411569754"></script>
+	<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/cart.js?t=1389014527"></script>
 <meta name="msvalidate.01" content="0F8CCF66F92FFC293AB4D3AD0537013F">
 
-   
-<meta name="alexaVerifyID" content="EXzqnJUbhU9M-FpfDxRQy3Hxe04">
+<meta name="alexaVerifyID" content="nmkCrc2GWQVCYkBPjwDB9ZF7IpQ">
 
-<meta name="google-site-verification" content="6SZo_0Tlsaq9uVfrsK8BWIk72m2fZql8il9LQw_u5Sw">
+<meta name="robots" content="noodp">
 
+<meta name="google-site-verification" content="ZcTaRFESIvR3PnjS5xNAjD4iIVcLgkNd8K2q7f65XnQ">
 
+<link href="https://plus.google.com/+bruwink/" rel="publisher">
     
     <!--[if IE]>   
     <script type="text/javascript">
@@ -53,42 +51,28 @@
     <![endif]-->
       
      <!--[if IE 7]>     
-      	<link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie7.css?1403532043">
+      	<link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie7.css?1411480244">
       <![endif]-->
       
        <!--[if IE 8]>   
-       <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie8.css?1403532043">
+       <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie8.css?1411480244">
       <![endif]-->
       
       <!--[if IE 9]>    
-        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie9.css?1400768134">
+        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie9.css?1411480244">
      <![endif]--> 
      
       <!--[if lt IE 9]>
         <script type="text/javascript" src="//cdnassets.com//ui/supersite/themes/MinimalGreen/images/iefix/PIE.js?t=1378478507"></script>
-        <script type="text/javascript" src="//cdnassets.com//ui/supersite/themes/MinimalGreen/images/iefix/iefix.js?t=1389960289"></script>
+        <script type="text/javascript" src="//cdnassets.com//ui/supersite/themes/MinimalGreen/images/iefix/iefix.js?t=1389959861"></script>
     <![endif]-->
  
 
 
 
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36624132-1']);
-  _gaq.push(['_setDomainName', 'bruwink.in']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-    
-<script type="text/javascript">objl10n = {"common_hello":"Hello!","common_logout":"Logout","common_notyou":"Not You","common_checkoutaftershopping":"Click here to checkout after you have finished shopping","common_shoppingcartempty":"Your shopping cart is empty.","common_processing":"Processing","common_noconnection":"No Connection","common_usethis":"Use This","common_mo":"mo","common_yr":"yr","common_from":"from"};</script></head>
+</head>
 <body class=" home-bg">
 
 
@@ -129,6 +113,7 @@
 }
 </style>
 
+
 <div id="special-offer-div"><a href="http://livechat.bruwink.in/client.php?locale=en&amp;style=silver" target="_blank" onclick="if(navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('http://livechat.bruwink.in/client.php?locale=en&amp;style=silver&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'webim', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;return false;"></a>
 </div>
 
@@ -136,15 +121,25 @@
 	<div id="header-wrapper">
 		
 <!-- ### Template common/header/header.html starts here ### -->
-<script type="text/javascript" src="//cdnassets.com/ui/supersite/en/js/jquery.innerfade.js?t=1378478505"></script>
-<script type="text/javascript" src="//cdnassets.com/ui/supersite/en/js/jquery.scrollTo.js?t=1378478505"></script>
+<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/jquery.innerfade.js?t=1378478505"></script>
+<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/jquery.scrollTo.js?t=1378478505"></script>
 
+
+<p id="branding">
+    <span class="logo-cont">
+          <a href="/index.php"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=logo.gif&amp;t=1407296859" alt="Register Domain Name : Bruwink"></a>
+    </span>
+</p>
+
+<!-- ### Template common/header/includes/header_dashboard.html starts here ### -->
 <div id="top-header">
     <div class="top-header">    
     
+        
+
         <ul class="top-nav">
             
-                <li><a href="/login.php"><span class="ic-top-set ic-top-user"></span>Login / Sign up</a></li>
+                <li class="myaccount"><a href="/login.php"><span class="ic-top-set ic-top-user"></span>My Account</a></li>
             
 
             
@@ -170,7 +165,7 @@
                     </ul>
                 </li>
             
-            <li class="shp-cart"><a href="/checkout.php"><span class="ic-top-set ic-shp-cart"></span><span class="shp-cart-no" id="dashboard-cartItemCount"></span></a></li>
+            <li class="shp-cart"><a href="/checkout.php">Cart<span class="shp-cart-no" id="dashboard-cartItemCount"></span></a></li>
         </ul>
         
         <div class="clear"></div>
@@ -179,119 +174,248 @@
 </div>
 <input type="hidden" id="signout1" value="Are you sure you want to signout?">
 <input type="hidden" id="signout2" value="You have some item(s) in your shopping cart. All these items will be emptied and you will have to start all over again. Are you sure?">
+<!-- ### Template common/header/includes/header_dashboard.html ends here ### -->
+
+
 <div class="clear"></div>
-
-<div class="primary">
-<div class="wrp" style="overflow:visible;">
-<div class="logo lfloat"><a href="/">Bruwink</a></div>
-<div class="nav rfloat" role="navigation">
-<ul class="navigation">
-<li class="" id="domain-list">
-<a href="/domain-registration/index.php" id="menu-domainsection">
-Find Your<div class="subnavmenu"> Domain</div>
-</a>
-<div class="sub domains-block" id="subn-1">
-                    	
+<div id="primary-nav">
+	<div class="nav">
+			<ul class="navigation">
+				<li class="">
+					<a href="/" id="">
+						<span class="menu-left"></span>
+						<span class="menu-mid">Home</span>
+						<span class="menu-right"></span>
+					</a>
+				</li>
+				<li class="" id="domain-list">
+					<a href="/domain-registration" id="menu-domainsection">
+						<span class="menu-left"></span>
+						<span class="menu-mid">Domains</span>
+						<span class="menu-right"></span>
+					</a>
+					<div class="sub domains-block" id="subn-1">
+					<div class="nav-heading">
+					    <div class="title d-ic-1"><span class="menu-ic dreg"></span>Registration</div>
+					    <div class="title d-ic-2"><span class="menu-ic tran"></span>Transfer</div>
+					    <div class="title d-ic-3"><span class="menu-ic addo"></span>Addons</div>
+					    <div class="title d-ic-3"><span class="menu-ic addo"></span><span style="font-weight: bold;">What's Hot</span></div>
+					    <div class="clear"></div>
+					</div>
 						<ul>
-						     <li class=""><a href="/domain-registration/index.php"><span class="menu-ic dreg"></span>Register a Domain<span class="nav-note">Book your domain here</span></a></li>       
-                            <li class=""><a href="/domain-registration/bulk-domain-registration.php"><span class="menu-ic dbulk"></span>Bulk Domain Registration<span class="nav-note">Bulk Registrations at Lower Rates</span></a></li>
-                            
-                            
-                            <li class=""><a href="/new-domain-extensions"><span class="menu-ic dnew"></span>Upcoming TLDs <span class="tag-new">New <span></span></span><span class="nav-note">Find the name that best suits your needs!</span></a></li>
-                            
-                            
-                            <li class=""><a href="/domain-registration/premium-domain.php"><span class="menu-ic dprem"></span>Premium Domains<span class="nav-note">Register catchy, popular Domain Names</span></a></li>
-                            
-                            <li class=""><a href="/domain-registration/index.php?idn"><span class="menu-ic didn"></span>IDN Domain Registration<span class="nav-note">Book your internationalized domains here</span></a></li>
-                            <li class=""><a href="/domain-registration/domain-registration-price.php"><span class="menu-ic dpric"></span>View Domain Pricing<span class="nav-note">Compare pricing across 50+ extensions</span></a></li>
-                          </ul>
-                          <ul>  
-                            <li><a href="/domain-registration/transfer/index.php"> <span class="menu-ic tran"></span>Transfer your Domain<span class="nav-note">Get 15% off and a 1 year FREE Extension</span></a></li>
-							<li><a href="/domain-registration/transfer/bulk-domain-transfer.php"><span class="menu-ic dbulk"></span>Bulk Domain Transfer<span class="nav-note">Save by moving domains in bulk</span></a></li>                           
-                            </ul>
-                            <ul>
-                            <li></li>
-                            <li><a href="/domain-registration/domain-name-suggestion-tool.php"><span class="menu-ic nmsg"></span>Name Suggestion Tool <span class="nav-note">Get help in picking a domain</span></a></li>  
-							<li><a href="/domain-registration/domain-whois-lookup.php"><span class="menu-ic whoi"></span>Whois Lookup<span class="nav-note">Perform a Whois Lookup</span></a></li>
-	</ul>
-<div class="btm-bg"></div>
-</div>
-</li>
-<li class="box-2" id="hosting-list">
-<a href="/web-hosting/index.php" id="menu-hostingsection">
-Get Website<div class="subnavmenu">Hosting</div>
-</a>
-<div class="sub" id="subn-2">
-<ul>
- 
-                                <li class="nav-ic-1"><a href="/web-hosting/linux-php-hosting.php"><span class="menu-ic lnx"></span>Linux Hosting <span class="nav-note">cPanel, PHP, Apache and more</span></a></li>
-                            
-                            
-                                <li class="nav-ic-2"><a href="/web-hosting/windows-hosting.php"><span class="menu-ic win"></span>Windows Hosting <span class="nav-note">Plesk, ASP, IIS and more</span></a></li>
-                            
-                            
-                                <li class="nav-ic-5"><a href="/reseller-hosting.php"><span class="menu-ic rh"></span>Linux Reseller Hosting<span class="nav-note">Start your Hosting Business here</span></a></li>
-                            
-                            
-                                <li class="nav-ic-2"><a href="/windows-reseller-hosting.php"><span class="menu-ic rhw"></span>Windows Reseller Hosting<span class="nav-note">Start your Windows Hosting Business here</span></a></li>
-                            
+						    <li><a href="/domain-registration" class="dom-reg">Register a Domain</a></li>       
+						    <li><a href="/domain-registration/bulk-domain-registration.php" class="dom-bulk">Register Bulk Domains</a></li>
+						    <li><a href="/new-domain-extensions" class="dom-new">Upcoming TLDs </a></li>
+						    
+						    <li><a href="/premium-domain" class="dom-prem">Premium Domains</a></li>
+						    
+						    <li><a href="/domain-registration/index.php?idn" class="dom-idn">International Domains</a></li>
+						    <li><a href="/domain-registration/domain-registration-price.php" class="dom-pric">View Domain Pricing</a></li>
 						</ul>
-<div class="btm-bg"></div>
-</div>
-</li>
-<li class="box-2" id="email-hosting-list">
-<a href="/vps-hosting.php" id="menu-emailsection">
-Get <div class="subnavmenu">Servers</div>
-</a>
-<div class="sub" id="subn-2">
-<ul>
-<li class="nav-ic-2"><a href="/vps-hosting.php"><span class="menu-ic e-vps"></span>VPS<span class="nav-note">Cutting edge VPS Hosting with Virtuozzo, NetApp &amp; more</span></a></li>
-<li class="nav-ic-1"><a href="/dedicated-servers.php"><span class="menu-ic e-ds"></span>Dedicated Servers<span class="tag-new">New <span></span></span><span class="nav-note">Dell Rack Servers | 99.99% Uptime</span></a></li>
-</ul>
-<div class="btm-bg"></div>
-</div>
-</li>
-<li class="">
-<a href="/website-design/do-it-yourself-website-builder.php" id="menu-sitebuilder">
-Build Your<div class="subnavmenu">Website</div>
-</a>
-</li>
-<li class="box-2" id="email-hosting-list">
-<a href="/web-hosting/email-hosting.php" id="menu-emailsection">
-Use Business<div class="subnavmenu">Email</div>
-</a>
-<div class="sub" id="subn-2">
-<ul>
-<li class="nav-ic-2"><a href="/web-hosting/email-hosting.php"><span class="menu-ic e-email"></span>Business Email<span class="nav-note">Simple and Powerful Webmail</span></a></li>
-<li class="nav-ic-1"><a href="/web-hosting/enterprise-email-hosting.php"><span class="menu-ic ee-email"></span>Enterprise Email <span class="nav-note">Advanced Corporate-Class Email</span></a></li>
-</ul>
-<div class="btm-bg"></div>
-</div>
-</li>
+						
+						<ul>  
+						    <li><a href="/domain-transfer" class="dom-trans">Transfer your Domain</a></li>	
+						    <li><a href="/domain-registration/transfer/bulk-domain-transfer.php" class="dom-bulk">Bulk Domain Transfer</a></li>					
+						</ul>
+						
+						<ul>
+						    <li><a href="/domain-registration/free-with-domain-registration.php" class="dom-free">Free with Every Domain</a></li>
+						    <li><a href="/domain-registration/domain-name-suggestion-tool.php" class="dom-name">Name Suggestion Tool</a></li>  
+						
+						</ul>
+						
+						<a href="/domain-registration?coupon=COMPROMO" style="margin: 0; float: none;"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/compromo.jpg&amp;t=1413912255" alt="Buy Domain name" style="float: right; padding-right: 20px;"></a>
+						
+						<div class="btm-bg"></div>
+					</div>
+				</li>
+                
+				<li class="box-2" id="domain-list">
+					<a href="/buy-hosting" id="menu-hostingsection">
+						<span class="menu-left"></span>
+						<span class="menu-mid">Web Hosting</span>
+						<span class="menu-right"></span>
+					</a>
+					<div class="sub domains-block" id="subn-1">
+					<div class="nav-heading">
+					    <div class="title d-ic-1"><span class="menu-ic dreg"></span>Secure Tools</div>
+					    <div class="title d-ic-2"><span class="menu-ic tran"></span>Reseller Hosting</div>
+					    <div class="title d-ic-3"><span class="menu-ic tran"></span>Shared Hosting</div>
+					    <div class="title d-ic-3"><span class="menu-ic addo"></span><span style="font-weight: bold;">What's Hot</span></div>
+					    
+					    <div class="clear"></div>
+					</div>
+						<ul>
+						    
+										<li class="nav-ic-2">
+											<a href="/buy-ssl" class="mail-per">SSL</a>
+										</li>
+										
+										
+										<li class="nav-ic-1">
+										    <a href="/sitelock.php" class="mail-per">SiteLock</a>
+										</li>
+										
+										
+										<li>
+											<a href="/codeguard.php" class="mail-per">Codeguard Backup</a>
+										</li>
+										
+						
+						</ul>
+						
+						<ul>
+						    
+						    <li class="nav-ic-5"><a href="/reseller-hosting" class="hos-res-lin">Linux Reseller Hosting</a></li>
+						    
+						    
+						    <li class="nav-ic-2"><a href="/buy-windows-reseller-hosting" class="hos-res-win">Windows Reseller Hosting</a></li>
+						    
+						</ul>
 
-<li class="box-2">
-<a href="/digital-ssl-certificate/index.php" id="menu-digicertsection">
-Secure your<div class="subnavmenu">Website</div>
-</a>
-<div class="sublast" id="subn-2">
-<ul>
+	
+						<ul>
+						    
+						    <li class="nav-ic-1"><a href="/buy-hosting" class="hos-lin">Linux Hosting </a></li>
+						    
+						    
+						    <li class="nav-ic-2"><a href="/buy-windows-hosting" class="hos-win">Windows Hosting </a></li>
+						    
+						    
+						</ul>
+						
+						<a href="/dedicated-servers?coupon=BRWHOST30" style="margin: 0; float: none;"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/sdhpromo.jpg&amp;t=1413985373" alt="Buy Web Hosting" style="float: right; padding-right: 20px;"></a>
+												
+						<div class="btm-bg"></div>
+					</div>
+				</li>
 
-<li class="nav-ic-2"><a href="/digital-ssl-certificate/index.php"><span class="menu-ic ssl-menu-icon"></span>SSL<span class="nav-note">Powerful encryption for your data</span></a></li>
-                        
-                        
-</ul>
-<div class="btm-bg"></div>
-</div></li>
-</ul>
+
+				<li class=" box-3" id="domain-list">
+					<a href="/dedicated-servers" id="menu-serversection">
+						<span class="menu-left"></span>
+						<span class="menu-mid">Servers</span>
+						<span class="menu-right"></span>
+					</a>
+					<div class="sub domains-block" id="subn-1">
+					<div class="nav-heading">
+					    <div class="title d-ic-1"><span class="menu-ic dreg"></span>VPS</div>
+					    <div class="title d-ic-2"><span class="menu-ic tran"></span>Managed Servers</div>
+					    <div class="title d-ic-3"><span class="menu-ic tran"></span>Dedicated Servers</div>
+					    <div class="title d-ic-3"><span class="menu-ic addo"></span><span style="font-weight: bold;">What's Hot</span></div>
+					    
+					    <div class="clear"></div>
+					</div>
+						<ul>
+                        	
+							 <li class="nav-ic-5"><a href="/vps-hosting" id="menu-vpssection" class="server-vps">Linux VPS</a></li>
+                                                        
+						</ul>
+						
+						<ul>
+   
+						    <li class="nav-ic-5"><a href="/managed-servers.php" class="hos-res-lin">Linux Managed Servers </a></li>
+   
+						</ul>
+
+	
+						<ul>
+  
+						    <li class="nav-ic-1"><a href="/dedicated-servers" id="menu-dedicatedserverssection" class="server-dedi">Linux Dedicated Servers</a>
+
+						</li></ul>
+						
+						<a href="/dedicated-servers?coupon=SERVER50" style="margin: 0; float: none;"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/serverpromo.jpg&amp;t=1417438346" alt="Buy Servers" style="float: right; padding-right: 20px;"></a>
+												
+						<div class="btm-bg"></div>
+					</div>
+				</li>
+
+                
+		
+		<li class=" box-4" id="domain-list">
+					<a href="#" id="">
+						<span class="menu-left"></span>
+						<span class="menu-mid">Addons</span>
+						<span class="menu-right"></span>
+					</a>
+					<div class="sub domains-block" id="subn-1">
+					<div class="nav-heading">
+					    <div class="title d-ic-1"><span class="menu-ic addo"></span>Others</div>
+					    <div class="title d-ic-2"><span class="menu-ic dreg"></span>Security</div>
+					    <div class="title d-ic-3"><span class="menu-ic tran"></span>Email</div>
+					    <div class="title d-ic-3"><span class="menu-ic addo"></span><span style="font-weight: bold;">What's Hot</span></div>
+					    <div class="clear"></div>
+					</div>
+						<ul>
+										<li class="nav-ic-2">
+										<a href="/website-builder" class="mail-per">Website Builder</a>
+										</li>
+										
+										
+						</ul>
+						
+						<ul>
+										
+										<li class="nav-ic-2">
+											<a href="/buy-ssl" class="mail-per">SSL</a>
+										</li>
+										
+										
+										<li class="nav-ic-1">
+										    <a href="/sitelock.php" class="mail-per">SiteLock</a>
+										</li>
+										
+										
+										<li>
+											<a href="/codeguard.php" class="mail-per">Codeguard Backup</a>
+										</li>
+										
+						</ul>
+						
+						<ul>  
+										
+										<li class="nav-ic-2">
+										    <a href="/web-hosting/email-hosting.php" class="mail-per">Business Email</a>
+										</li>
+										
+										
+										    <li class="nav-ic-1">
+											<a href="/business-email" class="mail-ent">Enterprise Email</a>
+										    </li>
+										                          
+						</ul>
+						
+
+						<a href="/web-hosting/email-hosting.php?coupon=BRWMAIL" style="margin: 0; float: none;"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/emailpromo.jpg&amp;t=1413912252" alt="Buy Email Hosting" style="float: right; padding-right: 20px;"></a>
+						
+						<div class="btm-bg"></div>
+					</div>
+				</li>
+		
+		
+                
+                
+                
+				<li class="active">
+					<a href="/support/contact-us.php">
+						<span class="menu-left"></span>
+						<span class="menu-mid">Support</span>
+						<span class="menu-right"></span>
+					</a>
+				</li>
+
+                              <li class="active first">
+					<a href="/offers">
+						<span class="menu-left"></span>
+						<span class="menu-mid">OFFERS ZONE</span>
+						<span class="menu-right"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
 </div>
-</div>
-</div>
-
-
-
-
 <script type="text/javascript">
-
 $(".navigation li").hover(
   function () {
     $(this).addClass("nav-hover");	
@@ -454,49 +578,53 @@ $(".navigation li").hover(
 <!-- ### Template common/footer/footer.html starts here ### -->
 <div class="footer-cols">
 	<div class="col one">
-    	<h4>Domains</h4>
+    	<h4>Our Products</h4>
 		<ul class="secondary-links">
-			<li><a href="/domain-registration/index.php">Register a Domain Name</a></li>
-			<li><a href="/domain-registration/transfer/index.php">Domain Name Transfer</a></li>
+			<ul class="secondary-links">
+<li><a href="/domain-registration">Domain Registration</a></li>
+
+	<li><a href="/domain-registration/domain-registration-price.php">View Domain Pricing</a></li>
 			<li><a href="/domain-registration/bulk-domain-registration.php">Bulk Domain Register</a></li>
 			<li><a href="/domain-registration/transfer/bulk-domain-transfer.php">Bulk Domain Transfer</a></li>
-			<li><a href="/domain-registration/domain-whois-lookup.php">Domain WHOIS Lookup</a></li>
+			<li><a href="/domain-registration/domain-whois-lookup.php">Whois Lookup</a></li>
 			<li><a href="/domain-registration/domain-name-suggestion-tool.php">Name Suggestion Tool</a></li>
 			<li><a href="/domain-registration/free-with-domain-registration.php">Free with Every Domain</a></li>
-			<li><a href="/domain-registration/domain-registration-price.php">Domain Name Pricing</a></li>
-        </ul>
-    </div>    
+			<li><a href="/offers" class="greytext">View Promos</a></li>
+           </ul>
+    
+    </ul></div>    
 	<div class="col two">
-    	<h4>Products</h4>
+	<h4>Hosting &amp; Products</h4>
 		<ul class="secondary-links">
             
-			    <li><a href="/web-hosting/linux-php-hosting.php">Linux Web Hosting</a></li>
+			    <li><a href="/buy-hosting">Linux Web Hosting</a></li>
             
             
-			    <li><a href="/web-hosting/windows-hosting.php">Windows Web Hosting</a></li>
+			    <li><a href="/buy-windows-hosting">Windows Web Hosting</a></li>
             
             
-			    <li><a href="/web-hosting/index.php">WordPress Hosting</a></li>
+			    <li><a href="/buy-hosting">WordPress Hosting</a></li>
             
             
-			    <li><a href="/web-hosting/index.php">CMS Hosting</a></li>
+			    <li><a href="/buy-hosting">CMS Hosting</a></li>
             
-			    <li><a href="/web-hosting/vps-hosting.php">VPS Hosting</a></li>
+			    <li><a href="/vps-hosting">VPS Hosting</a></li>
             
-			    <li><a href="/web-hosting/email-hosting.php">Email Hosting</a></li>
+			    <li><a href="/dedicated-servers">Dedicated Servers</a></li>
+                             <li><a href="/managed-servers.php">Managed Servers</a></li>
+                             <li><a href="/web-hosting/email-hosting.php">Email Hosting</a></li>
+			    <li><a href="/website-builder">Web Builder</a></li>
+                             <li><a href="/sitelock.php">Sitelock</a></li>
+                             <li><a href="/codeguard.php">Code Guard</a></li>
             
+			    <li><a href="/buy-ssl">SSL Certificates</a></li>
             
-			    <li><a href="/website-design/do-it-yourself-website-builder.php">Web Builder</a></li>
-            
-            
-			    <li><a href="/digital-ssl-certificate/index.php">SSL Certificates</a></li>
-            
-        </ul>
-    </div>
-    
-    
+        </ul>    	
+
+ </div>
 	<div class="col three">
-    	<h4>About Us</h4>
+      
+<h4>About Us</h4>
 		<ul class="secondary-links">
             <li><a href="/about-us">About Bruwink</a></li>
             <li><a href="/web-hosting/datacenter-network.php">Datacenter Details</a></li>
@@ -504,10 +632,8 @@ $(".navigation li").hover(
             <li><a href="/web-hosting/server-monitoring.php">24 x 7 Servers Monitoring</a></li>
             <li><a href="/web-hosting/data-protection-recovery.php">Backup and Recovery</a></li>
        </ul>
-    </div>
-    
-	<div class="col four">
-        <h4>Manage Account</h4>
+
+<h4>Manage Account</h4>
         <ul class="secondary-links">
 			<li><a href="http://manage.bruwink.in/customer">My Account</a></li>
 			<li><a href="/login.php">My Renewals</a></li>
@@ -515,32 +641,57 @@ $(".navigation li").hover(
 			<li><a href="/login.php">Account Infromation</a></li>
 			<li><a href="/login.php">Create Account</a></li>
         </ul>                    
-    </div>   
-	<div class="col misc">
-    	<h4>Need Help ?</h4>
+    
+    </div>
+	<div class="col four">
+	<h4>Help &amp; Contact</h4>
 		<ul class="secondary-links">
 			<li><a href="/support/contact-us.php">Contact Support</a></li>
 			<li><a target="_blank" href="http://manage.bruwink.in/kb">Knowledge Base</a></li>
 			<li><a href="http://support.bruwink.in" target="_blank">Submit Support Ticket</a></li>
 			<li><a href="/support/report-false-whois.php">False WHOIS Complaints</a></li>
 			<li><a href="/support/report-spam.php">Report Spam Complaints</a></li>
+                         <li><a href="/support/privacy.php">Privacy Policy</a></li>
+                         <li><a href="/legal">Legal Agreement</a></li>
+                         <li><a href="/terms-and-conditions"> Terms &amp; Condition</a></li>
+                          <li><a href="/refund-and-cancellation"> Refunds &amp; Cancellation</a></li>
+                           <li><a href="/sitemap.xml">Sitemap</a></li>
         </ul>                
-    	
-<!-- ### Template common/header/includes/change_language.html starts here ### -->
-
-<!-- ### Template common/header/includes/change_language.html ends here ### -->
-
-
     </div>
+	
+<div class="col misc">
+        
+<!--start icons-->
+<h4><a href="/payment">Payment Options</a></h4>
+<a href="/payment"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/paymenticonsin.png&amp;t=1415966494" alt="Bruwink Payment Option" border="0"></a> 
 
-<h1 id="footerpayimg">
-	<span class="">
-    <span></span>
-	<a href="/content.php?action=mypages&amp;page=Payment.html"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/paymenticonsin.png&amp;t=1376772977" alt="" border="0"></a>
-    </span>
-</h1>
+<br><br>
+
+<h4>Follow Us</h4>
+		<div class="icons" align="left">
+	
+<a href="http://www.facebook.com/bruwink" target="_blank" rel="me"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/facebook.png&amp;t=1416347414" alt="Follow Bruwink at Facebook"></a>
+									
+<a href="http://www.twitter.com/bruwink" target="_blank" rel="me"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/twitter.png&amp;t=1416347414" alt="Follow Bruwink at Twitter"></a>
+									
+<a href="http://plus.google.com/+bruwink" target="_blank" rel="me"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/googleplus.png&amp;t=1416347414" alt="Follow Bruwink at Google+"></a>
+																	<a href="http://www.linkedin.com/company/bruwink" target="_blank" rel="me"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/linkedin.png&amp;t=1416347414" alt="Follow Bruwink at LinkedIn"></a>
+
+<a href="http://blog.bruwink.com" target="_blank" rel="me"><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/blog.png&amp;t=1416347423" alt="Get update on Domain and Web hosting"></a>
 </div>
 
+<br><br>
+<h4>We Are Accredited</h4>
+<!-- Begin MailChimp Signup Form -->
+<!--End mc_embed_signup-->
+<ul>       
+                        <li><img src="//cdnassets.com/getImage.php?url=www.bruwink.com&amp;src=myUploadedImages/inregistrar.png&amp;t=1416251592" alt="Bruwink .in Registrar" border="0"></li>
+     
+   </ul>    													
+<!--end icons-->
+
+    </div>
+</div>
 <style type="text/css">
 /*----------Text Styles----------*/
 .ws6 {font-size: 8px;}
@@ -610,40 +761,76 @@ body {text-align:left;margin:0}
 
 <div id="wb_Text1" style="position:absolute;left:0px;top:0px;width:966px;height:360px;text-align:justify;z-index:0;">
 <br><br>
-<span style="color:#555555;font-family:Arial;font-size:11px;">
-<strong><a href="/domain-registration/index.php">Domain Name Registration :</a></strong> Bruwink  Sells Domains at the most competitive rates in the industry (upto 80% lesser than other Registrars). You can register cheap domains by looking out for our Domains on Sale. Every Domain Name registered comes with a Free 2 Email Accounts, Free Domain Forwarding, Free Domain Theft Protection, Free Domain Privacy Protection and Free DNS Management.<br><br>
+<span style="color:#edeeef;font-family:Arial;font-size:11px;">
+<strong><a href="/domain-registration">Domain Name Registration :</a></strong> Bruwink  Sells Domain Names at the most competitive rates in the industry (upto 80% lesser than other Registrars). You can register cheap domains by looking out for our Domains on Sale. We help to achieve your business objectives without spending a large amount of money, which separates us from others.<br><br>
 
-<strong><a href="/domain-registration/transfer/index.php">Domain Name Transfer :</a></strong> Transfer Domain name from the management under one registrar to another registrar. As a registrar is only responsible for the management of your domain records, this transfer should in no way affect your website, relevant email or DNS. In order to put your domain name transfer into effect, you need to apply for a transfer to the registrar that you intend to move your domain over to. Once you select this option, the registrar (that you are transferring your domain to) will have to contact - usually via email - the administrator of your Domain.<br><br>
+<strong><a href="/domain-transfer">Domain Name Transfer :</a></strong> Transfer Domain name from the management under one registrar to another registrar. As a registrar is only responsible for the management of your domain records, this transfer should in no way affect your website, relevant email or DNS. In order to put your domain name transfer into effect, you need to apply for a transfer to the registrar that you intend to move your domain over to. Once you select this option, the registrar (that you are transferring your domain to) will have to contact - usually via email - the administrator of your Domain.<br><br>
 
-<strong><a href="/web-hosting/index.php">Web Hosting Services :</a></strong> We offer Affordable Web Hosting for Personal Websites, Business Hosting for Small Business Websites, and Professional Hosting for large enterprises. Our Hosting plan gives you Unlimited Disk-Space, Unlimited Bandwidth and Unlimited Email Accounts. Our Web Hosting Plan comes with a free cPanel with Fantastico Control Panel and gives you access to over 50 Free applications such as Wordpress Blogs, Photo albums, Shopping Carts, Chat, Social Networking and more. 99.9% Uptime Guarantee and 24/7 Technical Support.<br><br>
+<strong><a href="/buy-hosting">Web Hosting Services :</a></strong> We offer Affordable Web Hosting for Personal Websites, Business Hosting for Small Business Websites, and Professional Hosting for large enterprises. Our Hosting plan gives you Unlimited Disk-Space, Unlimited Bandwidth and Unlimited Email Accounts. Bruwink provides high performance shared hosting solutions with unlimited bandwidth. Get shared hosting plans to fit any need. 99.9% Uptime Guarantee and 24/7 Technical Support.<br><br>
 
-<strong><a href="web-hosting/email-hosting.php">Email Hosting Solutions :</a></strong> Using an official email address a professional and well established business. We offer a Business Email Hosting for small business owners, and a Enterprise Email Hosting with Unlimited Email Addresses for corporate's. Our Email Hosting plan comes with Unlimited Email Accounts with 2 GB space each. All our email accounts come with anti-virus and anti-spam protection. We also provide free Web-Based Email and Mobile Email Solutions with your Email Hosting Package. Each Email Hosting Package.<br><br>
+<strong><a href="web-hosting/email-hosting.php">Email Hosting Solutions :</a></strong> Using an official email address a professional and well established business. We offer a Business Email Hosting for small business owners, and a Enterprise Email Hosting with Unlimited Email Addresses for corporate's. Our Email Hosting plan comes with Unlimited Email Accounts with 2 GB space each. All our email accounts come with anti-virus and anti-spam protection. <br><br>
 
-<strong>Copyright © Bruwink. All rights reserved<p></p>
-<span><a href="/support/privacy.php" target="_blank">Privacy Policy</a></span> | <span><a href="/support/legal.php" target="_blank">Legal Agreement</a></span> | <span><a href="terms-and-conditions" target="_blank"> Terms &amp; Condition </a></span> | <span><a href="/refund-and-cancellation" target="_blank"> Refunds &amp; Cancellation</a></span> 
+<p id="fineprint">
+</p>
+<div align="center" style="font-weight: bold;font-size: 19px;">Copyright © Bruwink. All rights reserved.</div>
+<p></p>
+
+<script type="text/javascript"><!--
+document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + 
+"affiliates.bruwink.in/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
+</script><script id="pap_x2s6df8d" src="https://affiliates.bruwink.in/scripts/trackjs.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+PostAffTracker.setAccountId('default1');
+try {
+PostAffTracker.track();
+} catch (err) { }
+//-->
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('.tab-nav li a').click(function(e){
+		$('.tab-nav li').removeClass('active');
+        $(this).parent('li').addClass('active');
+		var tagdiv = $(this).attr('href');
+		$('.tab-wrapper .tab-cont').fadeOut();
+		$(tagdiv).fadeIn();
+		e.preventDefault();
+    });    
+});	
+</script>
+
 
 <script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/loading_animation.js?t=1378478505"></script>
 <script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/footerScripts.js?t=1378478505">
 </script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-32559218-1', 'bruwink.com');
-  ga('send', 'pageview');
-
-</script>
 <!-- ### Template common/footer/footer.html ends here ### -->
 
-	</strong></span></div><strong>
-</strong></div><strong>
+	</span></div>
+</div>
+
+<script>
+var sticky = document.querySelector('.page-header');
+var origOffsetY = sticky.offsetTop;
+
+function onScroll(e) {
+  window.scrollY >= origOffsetY ? sticky.classList.add('fixed') :
+                                  sticky.classList.remove('fixed');
+}
+
+document.addEventListener('scroll', onScroll);
+</script>
+
+<script type="text/javascript">objl10n = {"common_hello":"Hello!","common_logout":"Logout","common_notyou":"Not You","common_checkoutaftershopping":"Click here to checkout after you have finished shopping","common_shoppingcartempty":"Your shopping cart is empty.","common_processing":"Processing","common_noconnection":"No Connection","common_usethis":"Use This","common_mo":"mo","common_yr":"yr","common_from":"from"};</script>
+
+<script>
+ga('create', 'UA-55029902-1', 'auto', {'name': 'newTracker'}); // New tracker
+ga('newTracker.require', 'linkid', 'linkid.js');
+ga('newTracker.require', 'displayfeatures');
+ga('newTracker.send', 'pageview'); // Send page view for new tracker
+</script>
 
 
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"8ce0a4af47","applicationID":"2831685","transactionName":"Y1RTMhNTC0dRBRFaWloeZBQIHRZBQBYKQUEaQVkW","queueTime":0,"applicationTime":233,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
 <!-- ### Template root.html ends here ### -->
-</strong></div></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</div></div></body></html>
