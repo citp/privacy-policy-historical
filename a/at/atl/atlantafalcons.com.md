@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526225417id_/http%3A//www.atlantafalcons.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204084202id_/http%3A//www.atlantafalcons.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Atlanta Falcons | Privacy Policy
 
-#### Revised: January 9, 2014
+#### Revised: July 28, 2014
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=14390212-c2c8-48c6-97a5-e4115aceaa6e "TRUSTe online privacy certification")
 
-This privacy policy applies to the Atlanta Falcons Football Club website located at [AtlantaFalcons.com](http://www.atlantafalcons.com/) and [OfficialFalconsGear.com](https://web.archive.org/web/20140526225417id_/http%3A//www.atlantafalcons.com/footer/OfficialFalconsGear.com) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+This privacy policy applies to the Atlanta Falcons Football Club website located at [AtlantaFalcons.com](http://www.atlantafalcons.com/) and [OfficialFalconsGear.com](https://web.archive.org/web/20141204084202id_/http%3A//www.atlantafalcons.com/footer/OfficialFalconsGear.com) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by The Atlanta Falcons Football Club, LLC.
 
@@ -120,6 +120,8 @@ If your personally identifiable information changes (such as your email address 
 **DATA RETENTION**
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at: [fans@falcons.nfl.com](mailto:fans@falcons.nfl.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+By using the Website, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
