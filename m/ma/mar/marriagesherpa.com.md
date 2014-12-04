@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriagesherpa.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214022202id_/http%3A//www.marriagesherpa.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriagesherpa.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204033149id_/http%3A//www.marriagesherpa.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | MarriageSherpa
 
