@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623153309id_/http%3A//www.waters.com/waters/en_US/Global-Privacy-Policy/nav.htm%3Flocale%3Den_US%26cid%3D1000241) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204221322id_/http%3A//www.waters.com/waters/en_US/Global-Privacy-Policy/nav.htm%3Flocale%3Den_US%26cid%3D1000241) for the most accurate reproduction.*
 
 # Global Privacy Policy : Waters
 
