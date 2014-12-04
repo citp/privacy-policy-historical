@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortmilltimes.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328010410id_/http%3A//www.fortmilltimes.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortmilltimes.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204013514id_/http%3A//www.fortmilltimes.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Fort Mill Times Fort Mill, SC
 
@@ -239,7 +239,7 @@ We reserve the right to update this Privacy Policy from time to time by posting 
 
 If you have any questions or comments about our privacy practices, we may be reached at   
 Fort Mill Times,   
-124 Main Street, Fort Mill, SC 29715,   
+422 Hwy. 21 Bypass, Fort Mill, SC 29715,   
 803-547-2353   
 or at [mharrison@fortmilltimes.com](mailto:mharrison@fortmilltimes.com).
 
