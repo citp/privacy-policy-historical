@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allpics4u.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626213423id_/http%3A//www.allpics4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpics4u.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204122347id_/http%3A//www.allpics4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -Allpics4u
+# Privacy Policy
 
 You are here: [Home](http://www.allpics4u.com/) / Privacy Policy
 
-**Allpics4u** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
+**Allpics4u.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
 **Third Party Advertising**  
 We use Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
