@@ -1,29 +1,25 @@
-> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064141id_/http%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204140230id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
 
-# - Privacy Policy
+# Privacy Policy
 
 Usersnap has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this site.
 
-## What information do we collect?
+## What information do we collect from website visitors?
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.When ordering or registering on our site, as appropriate, you may be asked to enter your name or email address. You may, however, visit our site anonymously.
+If you are one of our website visitors, we may collect non-personally-identifying information such as the browser type you are using, referring site and date and time of each visit. We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or email address.
 
 ## What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways:
+Any of the information we collect from you (either personally-identifying) or non-personally-identifying) may be used in one of the following ways:
 
   * To personalize your experience: your information helps us to better respond to your individual needs
   * To improve our website: we continually strive to improve our website offerings based on the information and feedback we receive from you
   * To improve customer service: your information helps us to more effectively respond to your customer service requests and support needs
-  * To process transactions 
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
-
+  * To process transactions
+  * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
   * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails 
-
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. Please note, that using certain Usersnap-services necessarily requires you to receive emails. 
-
+  * To send periodic emails
+  * The email addresses you provide, will only be used to send you information and updates pertaining to your order. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. Please note, that using certain Usersnap-services necessarily requires you to receive emails.
 
 
 
@@ -57,17 +53,19 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 ## Remarketing
 
-We are using Google, Inc. ("Google") remarketing features to display ads on the Google Display Network (GDN). That is, Google may deliver our ads on sites across the web which are related to a former visit of you to our site. This is done by creating visitors lists based on stored cookies in your browser. In no case we will link personal information to these ads. If you would like to opt out of Google's use of cookies you might want to visit the [Ads Preferences Manager](https://www.google.com/ads/preferences/). Alternatively we would like to point you to opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp)
+We are using Google, Inc. ("Google") remarketing features to display ads on the Google Display Network (GDN). That is, Google may deliver our ads on sites across the web which are related to a former visit of you to our site. This is done by creating visitors lists based on stored cookies in your browser. In no case we will link personal information to these ads. If you would like to opt out of Google's use of cookies you might want to visit the [Ads Preferences Manager](https://www.google.com/ads/preferences/). Alternatively we would like to point you to opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp&sa=D&sntz=1&usg=AFQjCNGLrN7Q3yfX4kPIuQhtUNKfQMyCNg).
 
 ## Your Consent
 
 By using our site, you consent to our [websites privacy policy](https://web.archive.org/privacy-policy).
 
+In case you want your personal data removed permanently, please contact us: [help@usersnap.com](mailto:help@usersnap.com).
+
 ## Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on March 14, 2013
+This policy was last modified on August 27, 2014
 
 ## Contacting Us
 
