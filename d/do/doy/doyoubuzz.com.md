@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyoubuzz.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122154247id_/http%3A//www.doyoubuzz.com/us/content/charter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyoubuzz.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204023129id_/http%3A//www.doyoubuzz.com/us/p/charter) for the most accurate reproduction.*
 
 # DoYouBuzz : Privacy Policy
 
@@ -97,5 +97,3 @@ Your continued use of any portion of our website following posting of the update
 #### 11\. Effective Date
 
 This privacy statement was last revised on June 23, 2010.
-
-front.charter.charterContent 
