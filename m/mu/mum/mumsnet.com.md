@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624082926id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204232303id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Mumsnet
 
@@ -38,6 +38,8 @@ We only use the information you give us to understand your needs and provide you
 
 
 
+Any personal data that you give us will be retained by us for as long as it's needed to perform its function. There's no one-size-fits-all time limit, but to give some examples: data provided by members of our Insight panel for that specific purpose is retained for as long as the user remains a member of the panel. Information provided in respect of competitions is held for three months. We regularly review the data held by different teams and delete information that is no longer needed. All data we hold is stored securely and only accessible by authorised members of MNHQ.
+
   
 Security
 
@@ -45,7 +47,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 Passive Information Collection
 
-As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies*, clicktags, beacons and other navigational data collection (such as server logs). Your internet browser automatically transmits to this site some of this anonymous information, such as the url of the website you just came from and the IP address and the browser version your computer is currently using.
+As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies*, clicktags, beacons and other navigational data collection (such as server logs). Your internet browser automatically transmits to this site some of this anonymous information, such as the url of the website you just came from and the IP address and the browser version your computer is currently using.  Via the IP address we may also determine your rough geographical location, such as town or city.
 
 This helps us analyse data about our site traffic, so we can improve Mumsnet and tailor it more to our members' needs. All information is anonymous and only used for operational purposes.
 
