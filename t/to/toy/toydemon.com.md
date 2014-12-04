@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toydemon.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602033213id_/http%3A//www.toydemon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toydemon.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204081834id_/http%3A//www.toydemon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ToyDemon
 
@@ -81,6 +81,15 @@ ToyDemon.com will not sell, distribute or lease your personal information to thi
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will apply. If you would like a copy of the information held on you please contact ToyDemon.com.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+  
+
+
+* * *
+
+## Social Logins
+
+Social Login are processed through each respective websites's API and is for use to facilitate the log in process only. ToyDemon does not record nor have access your respective social media accounts or passwords.
 
   
 
