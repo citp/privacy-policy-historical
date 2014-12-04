@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327055512id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204221146id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
 
-# dealchecker.co.uk - Privacy Policy
+# Privacy
 
-DMC Digital Ltd is a UK registered company that wholly owns and operates the website dealchecker.co.uk. DMC Digital Ltd is part of the Easyvoyage Group. This privacy policy refers to your use of the dealchecker website and the information that we may collect from you as you do so. 
+### Privacy and Cookies
 
-## Information we may collect from you
+DMC Digital Ltd is a UK registered company that wholly owns and operates the website dealchecker.co.uk. DMC Digital Ltd is part of the Easyvoyage Group. This privacy policy refers to your use of the dealchecker website and the information that we may collect from you as you do so.
+
+  
+
+
+### Information we may collect from you
 
 As you use our website we may ask you to provide contact information such as an email address in certain circumstances. You are free to choose whether or not you provide this information, however, some services may not be accessible to you if you do not. 
 
@@ -12,9 +17,12 @@ We ask you to submit your email address and post code when you subscribe to our 
 
 In addition to personal information that you choose to give us we may also collect information about your computer, this may include you IP address, operating system, web browser software, screen resolution and referring web site. 
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service.](http://www.clicktale.com/privacy_service.aspx)
+We use Google Analytics to collect data on the demographics of our users. This data is anonymised and not personally identifiable. It helps us understand our audience and how it breaks down by age, gender and interests. You can opt out of this kind of data collection through Google's ad settings. 
 
-## How we use this information
+  
+
+
+### How we use this information
 
 Any personal information such as email address or postcode is held by us for the sole purpose of communicating with you as you have requested. 
 
@@ -26,13 +34,17 @@ We will not share this information with any third parties unless specifically st
 
 The information that may be collected from your computer is not linked by us in any way to any personal information that you may have submitted to us. This information is used solely for the purpose of helping us to understand how we can improve our website for our customers. 
 
-We are using the information collected by the ClickTale service to improve the usefulness of and user experience on our website. 
+  
 
-## Third Party Companies
+
+### Third Party Companies
 
 dealchecker will not rent or sell your personal information to third parties. We may share your details with other members of the Easyvoyage Group. We may also contact you with offers from third party companies that we think may be of interest to you, where we have permission to do so. 
 
-## Access and removal of Information
+  
+
+
+### Access and removal of Information
 
 You have the right to access, change and delete personal data that you provide dealchecker part of your subscription. 
 
@@ -41,9 +53,10 @@ Following the links in dealchecker mailings to our preference centre Emailing us
 
 Where you request changes to your dealchecker subscription it can take up to five days for changes to take effect. 
 
-You can choose to disable the ClickTale Service at [http://www.clicktale.net/disable.html.](http://www.clicktale.net/disable.html)
+  
 
-## Cookies
+
+### Cookies
 
 dealchecker aims to be open and clear about the use of cookies on our website. 
 
@@ -55,15 +68,21 @@ dealchecker also uses cookies to analyse our users’ behaviour on our site so t
 
 Some cookies are permanently stored by your browser, whilst others are deleted as soon as you leave the site.
 
-If you’d like to learn more [click here to see our Cookie Policy](https://web.archive.org/web/20140327055512id_/http%3A//www.dealchecker.co.uk/site/cookies.html) which includes a complete list of all the cookies dealchecker uses. 
+If you’d like to learn more [click here to see our Cookie Policy](https://web.archive.org/web/20141204221146id_/http%3A//www.dealchecker.co.uk/site/cookies.html) which includes a complete list of all the cookies dealchecker uses. 
 
-If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - [click here](https://web.archive.org/web/20140327055512id_/http%3A//www.dealchecker.co.uk/site/cookies.html#DeliciousCookies) to learn how.
+If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - [click here](https://web.archive.org/web/20141204221146id_/http%3A//www.dealchecker.co.uk/site/cookies.html#clearing) to learn how.
 
-## Banner Advertising
+  
+
+
+### Banner Advertising
 
 Our advertising is served for us by a variety of third party companies. They may also use cookie data to help serve more relevant advertising to you and to ensure that you do not see ads too repetitively. No personal data is collected by these companies. 
 
-## Validity
+  
+
+
+### Validity
 
 DMC Digital Ltd has the right to alter this privacy policy for any reason without prior notice. 
 
@@ -73,7 +92,10 @@ If you have any questions about this privacy policy please write to us at:DMC Di
 
 Or email us at [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk)
 
-## Spam
+  
+
+
+### Spam
 
 dealchecker is against spam mailings. We will only send mailings to email addresses who have requested we do so directly or through our partner organisations. We will not send unsolicited mailings.   
 If you have received a mailing which you did not request please contact us on [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk). 
