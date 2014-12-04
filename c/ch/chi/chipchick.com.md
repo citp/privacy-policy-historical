@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002856id_/http%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204042142id_/http%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chip Chick
 
@@ -126,7 +126,7 @@ We control and operate the Web Site from our offices in the [COUNTRY OF HOSTING]
 
 **(ii) Your Access Rights**
 
-You may review the Personal Information that is stored in your user account on this Web Site by visiting the ["Member Profile"] or equivalent area of your account on this Web Site or by e-mailing info@chipchick.com.
+You may review the Personal Information that is stored in your user account on this Web Site by visiting the [“Member Profile”] or equivalent area of your account on this Web Site or by e-mailing info@chipchick.com.
 
 **(iii) Changes to this Privacy Policy**
 
