@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041522id_/http%3A//www.roomsketcher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204050350id_/http%3A//www.roomsketcher.com/privacy) for the most accurate reproduction.*
 
-# RoomSketcher » privacy
-
-## Privacy policy for RoomSketcher
+# Privacy policy for RoomSketcher | RoomSketcher
 
 Revised as per May 8 2013
 
@@ -91,4 +89,4 @@ In order to provide service to you, we will send you communications related to y
 
 We allow you to change, update, or delete the information you may provide in your optional registration form. If you would like to change, update, or delete your personal information, please send an email containing your request to customer service.
 
-[To the top](https://web.archive.org/web/20140626041522id_/http://www.roomsketcher.com/privacy/)
+[To the top](https://web.archive.org/web/20141204050350id_/http://www.roomsketcher.com/privacy/)
