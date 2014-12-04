@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203143446id_/http%3A//ga.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205001726id_/http%3A//www.ga.gov.au/privacy) for the most accurate reproduction.*
 
-# Privacy - Geoscience Australia
+# Privacy and Security Policy - Geoscience Australia
 
 ## General
 
-This statement applies to user interactions with Geoscience Australia Website at: [http://www.ga.gov.au](https://web.archive.org/web/20111203143446id_/http%3A//ga.gov.au/index-2.html)
+This statement applies to user interactions with the [Geoscience Australia Website](https://web.archive.org/web/20141205001726id_/http%3A//www.ga.gov.au/?a=7503).
 
 ## Data Collection and Click-Stream Data
 
@@ -38,11 +38,11 @@ Any personal details submitted via the Geoscience Australia website will only be
 
 Information given during the course of online purchases and product orders may be used to determine your liability to Australian GST on the items purchased or ordered.
 
-If you have concerns about sending information over the web, please [contact us](https://web.archive.org/web/20111203143446id_/http%3A//ga.gov.au/about-us/contact-us.html) for alternative methods of submitting information (mail, fax etc).
+If you have concerns about sending information over the web, please [contact us](https://web.archive.org/web/20141205001726id_/http%3A//www.ga.gov.au/?a=3448) for alternative methods of submitting information (mail, fax etc).
 
 ## User Feedback
 
-We seek feedback from our users in order to improve the service offered by our site. [Your feedback is welcome](mailto:feedback@ga.gov.au).
+We seek feedback from our users in order to improve the service offered by our site. [Your feedback is welcome](mailto:clientservices@ga.gov.au).
 
 ## Accountability
 
@@ -71,4 +71,4 @@ Information you send us is stored behind our firewall.
 
 Any of your information, (apart from usage logs), that is on our server outside the firewall is always **encrypted** , and moved inside the firewall at the earliest opportunity.
 
-If you have concerns about sending information over the web, please [contact us](https://web.archive.org/web/20111203143446id_/http%3A//ga.gov.au/about-us/contact-us.html) for alternative methods of submitting information (mail, fax etc).
+If you have concerns about sending information over the web, please [contact us](https://web.archive.org/web/20141205001726id_/http%3A//www.ga.gov.au/?a=3448) for alternative methods of submitting information (mail, fax etc).
