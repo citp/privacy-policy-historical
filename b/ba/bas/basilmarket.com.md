@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111430id_/http%3A//www.basilmarket.com/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204234931id_/http%3A//www.basilmarket.com/show/privacy) for the most accurate reproduction.*
 
 # MapleStory Guides, Quests, Skills, Items, Monsters, Classes, Forum
+
+Privacy Policy
 
 Your privacy is important to us. The following policy outlines what data we collect and how we use it. 
 
