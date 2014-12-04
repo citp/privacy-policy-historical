@@ -1,143 +1,170 @@
-> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627192732id_/http%3A//www.philadelphiaeagles.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204083103id_/http%3A//www.philadelphiaeagles.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Philadelphia Eagles | Privacy Policy
 
 **Web Site Privacy Policy**
 
-Last Updated: December 5, 2013
+Effective Date: 11/05/2014
 
-This is the Privacy Policy for PhiladelphiaEagles.com, LincolnFinancialField.com and FlyEaglesFly.com, as well as Philadelphia Eagles’ various social networking profiles, operated by Philadelphia Eagles LLC (collectively, the "Website").  Please visit the Kids Club Privacy Policy [here](http://www.philadelphiaeagles.com/fanzone/kids-club/join/privacy-policy.html) for further information as to how the Privacy Policy relates to children under 13. 
+Philadelphia Eagles, LLC  ( “Philadephia Eagles”, “we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites [**www.philadephiaeagles.com**](http://www.philadephiaeagles.com/), [**www.lincolnfinancialfield.com,www.flyeaglesfly.com**](http://www.lincolnfinancialfield.com%2Cwww.flyeaglesfly.com/) and online services such as our Eagles Offical Mobile and Philadephia Eagles for iPad mobile applications that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the National Football League (“NFL”) or the other member clubs (the "Member Clubs").
 
-We know your privacy is important to you, and we want you to know that it is important to us, too.  This Policy describes the kinds of information we may collect, how we may collect it, with whom we may share it, and the choices you have regarding our collection, use, and disclosure of this information.  By visiting our Website, you agree to the terms of this Policy as they may be amended from time to time.
+Philadelphia Eagles LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected through our sites [**www.philadelphiaeagles.com**](http://www.philadelphiaeagles.com/), www,linconfinancialfield.com, [**www.flyeaglesfly.com**](http://www.flyeaglesfly.com/) and our mobile applications Eagles Official mobile and Eagles for iPad. If you have questions or concerns about our privacy policy or practices please contact us at webteam@philadelphiaeagles.com. **** If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request).
 
-Here are a few general principles to keep in mind as you read through this Policy:
-
-  * This Policy may change as our business evolves, so check back to this page periodically to make sure you understand how your information will be treated.
-  * This Policy is incorporated into, and part of, our [Terms of Use](http://www.philadelphiaeagles.com/footer/terms-and-conditions.html), which govern your use of the Website as a whole.
-  * This Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Website, such as at our stadiums and live events.
-  * This Website complies with EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
-  * **With your consent on a one-time basis, we may share your Personal Information with third parties for their marketing purposes.   **
-  * **If you are located outside of the United States, you should know that the information you provide to us is being transmitted to us and processed in the United States and will be protected subject to this privacy policy and United States laws, which may not be as protective as the laws in your country.   Also, this Site places cookies on your computer or device which are further described below.  By using the Site, you agree to this.**
-
-
-
-Philadelphia Eagles, LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.  TRUSTe's certification covers urls identified on TRUSTe's validation page.  TRUSTe's certification does not cover our mobile applications at this time. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+Philadelphia Eagles, LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Philadelphia Eagles adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Philadelphia Eagles’ certification, please visit [**http://www.export.gov/safeharbor/**](http://www.export.gov/safeharbor/)
 
 Philadelphia Eagles, LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  Philadelphia Eagles, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Philadelphia Eagles, LLC's certification, please visit [here](http://www.export.gov/safeharbor/).
 
 Please click on any of the section headers listed below to learn more about our data collection policies and practices.
 
-1.     Information We Collect on the Website
+1.     Information Collection
 
-2.     How We Use the Information We Collect
+2.     Use of Information
 
-3.     Our Sharing of Your Information
+3.     Sharing of Information
 
-4.     Opt Out
+4.     Social Networking Services
 
 5.     Links to Other Websites
 
 6.     Security
 
-7.     A Special Note for Parents Concerning Privacy
+7.     Children's Privacy
 
-8.     Accessing, Updating, and Removing Your Personal Information
+8.     Changes To This Privacy Policy
 
-9.     Changes to this Policy
+9.     Access/Choice/Retention
 
-10.     Questions about this Policy
+10.     Your California Privacy Rights
 
-_User Provided Information_
-
-“Personal Information” is information that can be used to identify you as an individual or allow someone to contact you.  When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for purposes of this Policy.  We collect Personal Information such as your full name, telephone number, street address, email address, unique identifiers (like your Message Board User ID and password), demographic information (like your date of birth, age, gender, ticket holder status, game attendance, marital status, or number of children), and financial information (like your credit or debit card number) in various ways and for various reasons.  For example, we collect Personal Information when you sign up for our newsletters, register for an account on our Website, create account recovery credentials, register to play games on the Website, make online purchases, enter sweepstakes and contests, complete surveys or voting polls, contribute to a social forum on the Website, or submit a comment or question to us using a “contact us” or similar feature on the Website.
-
-The “Tell-A-Friend” tool provided on the Website and/or in our e-mails allows you to send information about us to your friends and family members.  When you use this tool, we will ask you for your friend's or family member’s name and email address.  We will then use this information to automatically send your friend or family member a one time email inviting him or her to visit the Website.
-
-_Website Usage Information_
-
-As is the case with many Websites, our servers automatically collect your IP address when you visit the Website.  We may also capture certain “clickstream data” pertaining to your Website usage.  Clickstream data includes, for example, information about your Web browser and operating system and their settings, the referring page that linked you to the Website, the pages or ads you see or click on during your visit and when and for how long you do so, the next Website you visit when you leave the Website, and any search terms you have entered on the Website or a referral site. 
-
-In addition, we and our third party partners may deploy various tracking technologies on the Website to collect additional information about your Website visits.  For example:
-
-  * Cookies are small data files stored on your computer or device at the request of a Website.  A cookie may enable us to relate your use of the Website to other information about you.  Cookies may also be used to enhance your experience on the Website (for example, by storing your MemberID and/or password for the online store) or to collect general usage and aggregated statistical information.  Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, inhibit or preclude your use of the Website or its features.  To learn more about the use of cookies, including how to manage or delete them, click here.
-  * HTML5 (the language some Websites are coded in) may be used to store information on your computer or device about your site usage activities.  This information can be retrieved by us to determine how our Website is being used by our visitors, how it can be improved, and to customize it for our users.
-  * A pixel tag (also known as a “clear GIF” or “web beacon”) is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our emails or seen one of our Web pages.
-  * Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
+11.     International Users  
 
 
+12.     Contact Us  
 
-These tracking technologies may be deployed by us and/or by our partners on our behalf. These technologies may enable us to relate your Website Usage Information to other information about you, including your Personal Information.
 
-**By using our Website, you agree to our use of tracking technologies through our Website.**
+You generally are not required to provide information about yourself when you visit the Services.  However, we may ask you for some or all of the following types of information when you register with our Services, sign up for contests or sweepstakes, use a send-to-a-friend feature, participate in surveys, access various content or features, submit comments or content, or directly contact us with questions or feedback:
 
-_Social Networking_
-
-We maintain presence on several social networking platforms, such as Facebook and Twitter, and we also incorporate some of their features onto our Website, such as Facebook’s “Like It”.  Through these platforms and features, we receive some Personal Information and some usage information about you, and this Privacy Policy applies to that information as well.  In addition, third party social networking platforms have their own privacy policies which explain how the third parties that provide them will use and protect your information.
-
-_Information Obtained from Third Parties_
-
-We may supplement the Personal Information we collect from you with information that we obtain from third parties, such as our partners in sponsored content sections, our affiliates with whom you have previously done business, and data aggregators.  The information we obtain from third parties may include, but is not limited to, things like your contact information, preferences, and demographic information.
-
-As applicable, we or one of our trusted partners may use the information we collect from and about you to:
-
-  * contact you about the Website or your membership status;
-  * respond to your requests, questions, and concerns;
-  * confirm or fulfill an order you have made;
-  * inform you of a prize you have won and deliver it to you;
-  * monitor or improve the use of the Website;
-  * develop new features and offerings on the Website;
-  * customize the advertising and content you see;
-  * monitor compliance with our terms and conditions of use of the Website;
-  * assess the level of interest in, and use of, the Website, our e-mails, and our other messaging campaigns both on an individual basis and in the aggregate; and
-  * send you our promotional material and special offers and those of third parties.
+  * Contact information, such as name, e-mail address, postal address, and mobilenumber;
+  * Unique identifiers, such as a user name or password;
+  * Demographic information, such as gender, date of birth or age;
+  * Financial information, such as credit card or other payment information;
+  * Device Information, such as Operating system version and type and device carrier;
+  * Geolocation information;
+  * Communications preferences;
+  * Search queries;
+  * Comments and other information posted in our interactive online forums and chat rooms;
+  * Correspondence and other information that you send to us; and
+  * Additional information as otherwise described to you at the point of collection or pursuant to your consent.
 
 
 
-To perform the above functions, we may match information collected from you through different means or at different times, including both Personal Information and Website Usage Information, and use such information along with information obtained from other sources (including third parties) such as demographic information and updated contact information. 
+We also may collect certain information automatically when you visit the Services, including:
 
-We may share your personal information with others for various purposes. In addition to the kinds of information sharing you might expect, such as sharing with third parties who need your information in order to provide services to us (or on our behalf) and sharing what you voluntarily post to public areas on the Website with other Website users, we may share your information:
-
-  * with the public if you win a contest or sweepstakes, but subject to the terms and conditions of such contest or sweepstakes, and not without your consent unless the law requires us to;
-  * subject to your consent on a one-time basis, with third parties for their own marketing purposes;
-  * subject to your consent, with our sponsor(s) if we obtain your information in connection with a contest, sweepstakes or other promotional activity that is offered by a third party or jointly offered by us and any third parties;
-  * when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request; and
-  * in connection with a corporate change including a merger, acquisition, reorganization, consolidation, dissolution, liquidation, bankruptcy or sale of assets.
-
-
-
-In addition, we may share Website Usage Information and other non-personally identifiable information about our users and user behavior with our marketing partners, affiliates, and other third parties.
-
-If you do not want us to send you our marketing emails, you may let us know by clicking on the appropriate link within the email you receive, changing your preferences at the preference center of our Website [here](http://www.philadelphiaeagles.com/register.html), or by sending an email to [webteam@philadelphiaeagles.com](mailto:webteam@philadelphiaeagles.com) with the word UNSUBSCRIBE in the subject line.  To opt out of our SMS messages, please text STOP to 82565.
-
-Please understand the following with respect to your request to opt out of having your information shared or receiving further promotional communications:
-
-  * it may take us a few days to process your request
-  * to stop receiving communications from a third party with whom we have already shared your Personal Information, you must contact that third party directly
-  * even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us
+  * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
+  * Other unique identifiers, including mobile device identification numbers;
+  * Your browser type and operating system;
+  * Sites you visited before and after visiting the Services;
+  * Pages you view and links you click on within the Services;
+  * Information collected through cookies, web beacons, local shared objects, and other technologies;
+  * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were received, opened, or forwarded; and
+  * Standard Server Log Information.
 
 
 
-You should be aware that when you are on the Website you could be directed to other Websites that are beyond our control, including through links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement.  For example, if you click on a banner advertisement, your click may take you to a third party’s Website.  These other Websites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies.  If you visit a Website that is linked to our Website, you should become comfortable with that Website's privacy policies and practices before providing any Personal Information.
+Technologies such as: cookies, beacons, tags and scripts are used by us  and our partners such as  sponsors, advertisers, affiliates,  and other service providers (such as e-commerce, analytics and customer service support). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the Personal Information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration.  Your sensitive personally identifiable information is transferred to our computers utilizing encryption software.  However, do not send us sensitive Personal Information by email or a “contact us” feature on our Website since these transmissions may not be secure.  Only those employees who need access to your sensitive information in order to do their jobs are allowed access.  Our security policies are reviewed periodically and revised as required.
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
-If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development.  If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances.  If we have your e-mail address, we may notify you by e-mail.  **You consent to our use of e-mail as a means of such notification.**   **If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at** **[webteam@philadelphiaeagles.com](mailto:webteam@philadelphiaeagles.com)**. **.**
+We use local storage objects (LSOs) such as Flash or HTML 5 to store content information and preferences  
+Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
 
-The Website is intended for a general audience.  We do not knowingly collect any personal information from children under the age of thirteen (13) on the Website.  For information about the privacy practices for our affiliated children's Web site, such as "[PhiladelphiaEagles.com/Kids](http://www.philadelphiaeagles.com/fanzone/kids-club/join-kids-club.html)", please visit our [Kids Club Privacy Policy](http://www.philadelphiaeagles.com/fanzone/kids-club/join/privacy-policy.html).
+  Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-You may review, update or modify certain of the Personal Information that is stored in your user account on the Website (such as your email address or zip code) by logging in to the “My Account” area of the Website or by sending an email to [webteam@philadelphiaeagles.com](mailto:webteam@philadelphiaeagles.com).  If you send us requests via email, we may ask you to verify your identity and to provide other details before we are able to provide you with any information or correct any inaccuracies.  In any event, we will respond to your request within 20 business days. 
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-You may also be able to delete some of your Personal Information or deactivate your profile using the means described above.  Please note, however, that your right to delete your information is subject to our records retention practices through which we keep your information for as long as we need it to provide services to you and as necessary to comply with applicable legal requirements, resolve disputes, and enforce our agreements.
+We may use information that we collect through the Services for a variety of purposes, including to:
 
-You may request removal of your Personal Information from our publicly accessible blogs or community forums by sending an email to [webteam@philadelphiaeagles.com](mailto:webteam@philadelphiaeagles.com).  But please be aware that in some cases we may not be able to remove your Personal Information despite your request.
+  * Provide you with the products, promotions, services, newsletters, and information you request and respond to correspondence that we receive from you;
+  * Contact you via email and otherwise about your account, products, services, contests, and events that we think might be of interest to you;
+  * Send you promotional material or special offers on our behalf or on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
+  * Contact you via push notifications based on location with Philadelphia Eagles news, news regarding the application or updates to features of the application. You may opt-out of push notifications  by visiting your application settings.
+  * Send you text alerts on team news and promotions if you opt-in to receive this communication.  You may opt-out of text alerts by replying “STOP” to cancel this service.,
 
-We may change this Policy from time to time.  When we do, we will let you know by posting the changed Policy on this page with a new “Last Updated” date.  In some cases (for example, if we make a material change to the way in which we collect, use, and/or share your Personal Information), we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you, and we may ask for your consent to the change.  Please note that you should always update your personal information to provide us with a current email address.
 
-If you have any questions about this privacy policy or the privacy practices of this Website, contact: [webteam@philadelphiaeagles.com](mailto:webteam@philadelphiaeagles.com).
+  * Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer;
+  * We collect your location based information for the purpose of providing you info based on where you are located.
+  * Publish stories, comments, photos, and other information posted in our interactive online features;
+  * Customize and personalize your use of the Services; and
+  * As otherwise described to you at the point of collection or pursuant to your consent.
+  * If you choose to use our referral service to tell a friend about our site or services, we will ask for your friend’s name and emal address, to send your friend a one-time email inviting him or her to visit the site.
 
-Questions regarding this statement should be directed to:
+
+
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
+
+  * **Service Providers:** We may share your information with service providers that perform certain functions or services on our behalf (such as to host the Services, fulfill orders, provide products and services, manage databases; perform analyses, process credit card payments, provide customer service, or send communications for us).
+
+
+  * **Subsidiaries and Affiliates:** We may share your information with all members of the NFL Family, including, without limitation, NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.
+
+
+  * **Select Business Partners:**   With your permission, we may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, you may be presented with an opportunity to have certain information shared with our third party business partners when you enter a contest or sweepstakes or elect to receive marketing offers or other information.  If you do not elect to have your information shared, it will not be shared with such third parties.  We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them.  However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. 
+
+
+  * **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/.
+
+
+  * **Business Transfer:** If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction.
+
+
+  * **Administrative or Legal Process:** We may disclose your information to third parties in order to protect the legal rights, safety, and security of our organization, our corporate affiliates, subsidiaries, business partners, and the users of our Services; enforce our Terms of Use; respond to and resolve claims or complaints; prevent fraud or for risk management purposes; and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
+
+
+  * **Interactive Features** : We may share information with third parties when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool. If you post to these interactive features, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure that parties who have access to such information will respect your privacy.  Please exercise caution when using these features.
+
+
+  * **Other Parties With Your Express or Implied Consent:** We may share information with third parties when you consent to such sharing.  For example, if you win a contest or sweepstakes, we may ask your permission to publicly post certain information on the Services identifying you as the winner.
+
+
+  * **Aggregate Information:** We may share aggregate information, such as demographic and usage statistics, with advertisers, sponsors or other organizations.
+
+
+
+In addition, we may allow third parties to place and read their own cookies, web beacons, Local Shared Objects, and similar technologies to collect information through the Services.  For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics.
+
+We have worked with certain third-party social media providers to offer you their social networking services through our Services.  For example, you can use third-party social networking services, including but not limited to Facebook, Google+, and others to share information about your experience on our Services with your friends and followers on those social networking services.  These social networking services may be able to collect information about you, including your activity on our Services.  These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies.  If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services.
+
+You also may be able to link an account from a social networking service (e.g., Facebook, Google+, Yahoo!) to an account through our Services.  This may allow you to use your credentials from the other site or service to sign in to certain features on our Services.  If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this Privacy Policy.
+
+You should be aware that any information you provide within our online forums and chat rooms may be read, collected, and used by others who access them.
+
+The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under the control of or maintained by us.  Such links do not constitute an endorsement by us of those other websites, the content displayed therein, or the persons or entities associated therewith.  This Privacy Policy does not apply to this third-party content.  We encourage you to review the privacy policies of these third-party websites or services.
+
+We have adopted security procedures to help protect against loss, misuse, and unauthorized access to the information you provide to us.  For example, if we collect financial information, we will use encryption software to help protect this information when it is in transit. Please note, however, that no data transmission or storage can be guaranteed to be 100% secure.  As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to the Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
+
+The Services do not knowingly collect, use, or disclose personal information from children under the age of 13.   If we are made aware we have collected personal information from a child under 13 years old in a manner that is inconsistent with the Children’s Online Privacy Protection Act (“COPPA”), we will delete this information as soon as possible.
+
+We may amend this Privacy Policy at any time. Your continued use of the Services after any modification to the Privacy Policy will constitute your acceptance of the new terms. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Services prior to the change becoming effective.  We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive. You may opt-out from text alert, by replying to the alert with “STOP” or by emailing us at the email address listed below. You may opt-out from receiving push notifications by turning them off at the device level. Please note that opt-out requests may take some time to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
+
+If your information changes, or if you no longer desire to use the Services, you may request that we update delete inaccuracies, or remove certain information by signing into your account and making the required changes, by emailing our Customer Support at webteam@philadelphiaeagles.com, or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request within 20 business days.
+
+You may opt-out of location based services at any time by editing the setting at the device level.)
+
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+You may request removal of your Personal Information from our publicly accessible blogs or community forums by sending an email to [ **webteam@philadelphiaeagles.com**](mailto:webteam@philadelphiaeagles.com).  But please be aware that in some cases we may not be able to remove your Personal Information despite your request.
+
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to webteam@philadelphiaeagles.com or write us at Philadelphia Eagles LLC, NovaCare Complex, One NovaCare Way, Philadelphia, PA 19145. 
+
+In some cases, third parties may be able to collect information about a user’s online activities over time and across different websites when he or she uses our Services.
+
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not take action in response to these signals.  If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+
+Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
+
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at webmail@philadelphiaeagles.com or by regular mail at
 
 Philadelphia Eagles LLC  
 NovaCare Complex  
