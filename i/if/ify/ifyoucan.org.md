@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ifyoucan.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627025251id_/http%3A//www.ifyoucan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifyoucan.org privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204161046id_/http%3A//www.ifyoucan.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | If You Can
+# Privacy Policy | If You Can
 
-* * *
+### IF... The Emotional IQ Game | Play. Learn. Grow. | Succeed at School, with Friends, in Life!
 
 **Last Updated: 26th November 2013**
 
-This Policy explains how personal information is collected, used, and disclosed by If You Can Company and its subsidiaries and affiliated companies (“If You Can” or “We”). This privacy policy (“Policy”) applies to the websites of If You Can, including [www.ifyoucan.org, and If You Can’s mobile applications (collectively, “Services”). This Policy does not apply to websites, applications or services that display or link to different privacy statements.
+This Policy explains how personal information is collected, used, and disclosed by If You Can Company and its subsidiaries and affiliated companies (“If You Can” or “We”). This privacy policy (“Policy”) applies to the websites of If You Can, including [ifyoucan.org, and If You Can’s mobile applications (collectively, “Services”). This Policy does not apply to websites, applications or services that display or link to different privacy statements.
 
 #### INFORMATION WE COLLECT
 
@@ -59,7 +59,7 @@ If You Can takes reasonable steps to help protect your personal information in a
 
 #### YOUR INFORMATION CHOICES AND CHANGES
 
-You may opt out of receiving promotional emails from If You Can by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your contact preferences, changes to your information including requests to opt-out of sharing your personal information with third parties by emailing helpme@ifyoucan.org. 
+You may opt out of receiving promotional emails from If You Can by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your contact preferences, changes to your information including requests to opt-out of sharing your personal information with third parties by emailing helpme@ifyoucan.org.
 
 Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site.
 
