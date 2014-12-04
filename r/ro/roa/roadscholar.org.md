@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527055926id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204105528id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Road Scholar : Privacy Policy
 
@@ -52,6 +52,11 @@ You can also fax us toll-free at
 |  |    
 
 
+[](http://www.roadscholar.org/n/40years?cm_sp=Plug-_-Boomer-_-40thprograms)
+
+  
+
+
 **I WANT TO LEARN ABOUT ...**   
   
 **in**   
@@ -64,13 +69,12 @@ Add price, activity level and more.
   
 
 
-[](http://www.roadscholar.org//lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog#Read_Tom_s_Blog)[](http://www.roadscholar.org//lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog#Read_Tom_s_Blog)
-
 [ ](http://www.roadscholar.org/programs/enewslanding.asp?ecode=AWP&layout=PL&cm_sp=Plug-_-Boomer-_-TopRatedB611)
 
 [ ](http://www.roadscholar.org/programs/special_offers.asp?cm_sp=Plug-_-Boomer-_-SpecialOffers)
 
-Tell a friend about Road Scholar and this month you could win a [**$2,000 gift certificate!**](http://www.roadscholar.org//n/forms/referafriend_form.aspx?src=DEE&cm_sp=Plug-_-Boomer-_-RAF1211B)   
-**Congratulations to our latest winner, Robert & Christina K.**
+Tell a friend about Road Scholar and this month you could win a [**$1,000 gift certificate!**](http://www.roadscholar.org//n/forms/referafriend_form.aspx?src=DEE&cm_sp=Plug-_-Boomer-_-RAF1211B)   
+**Congratulations to our latest winner, Sharon D.**
 
-[ ](http://www.roadscholar.org/about/gift_certificate.asp?cm_sp=Plug-_-gift-_-cert)
+Two Great Gift Ideas  
+for the Holidays! 
