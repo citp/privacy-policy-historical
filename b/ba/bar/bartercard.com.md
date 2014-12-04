@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bartercard.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628174418id_/http%3A//www.bartercard.com.au/About/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bartercard.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204043509id_/http%3A//www.bartercard.com.au/About/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Bartercard Australia
 
 **1.  About this Policy**
 
-Bartercard Australia Pty Ltd (ABN 96 050 542 544) ('we', 'us', 'our') understands the importance of, and is committed to, protecting your personal information. We comply with the Privacy Act 1988 (Privacy Act). We are bound by the Australian Privacy Principles (APPs) which regulate how we may collect, use, disclose and store personal information, and how you may access and correct personal information held about you.
+Bartercard Operations Aus Pty Ltd (ABN 44 168 816 135) ('we', 'us', 'our') understands the importance of, and is committed to, protecting your personal information. We comply with the Privacy Act 1988 (Privacy Act). We are bound by the Australian Privacy Principles (APPs) which regulate how we may collect, use, disclose and store personal information, and how you may access and correct personal information held about you.
 
 _**Purpose**_  
 The purpose of this privacy policy is to:
