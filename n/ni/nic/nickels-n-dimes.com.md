@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nickels-n-dimes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080600id_/http%3A//nickels-n-dimes.com/about-2/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickels-n-dimes.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204222550id_/http%3A//nickels-n-dimes.com/about-2/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure / Privacy Policy Nickels-n-Dimes Nickels-n-Dimes | Save Money | Free Kindle Books | Coupons | Magazine Deals | Grocery Store Deals | Free Christian Fiction Books
 
 ### DISCLOSURE POLICY
 
-This blog is a personal blog written and edited by me. For questions about this blog, please contact  [Lisa Thompson of Nickels-n-Dimes](mailto:lisa\(@\)nickels-n-dimes\(.\)com).
+This blog is a personal blog written and edited by me. For questions about this blog, please contact  [Lexi West of Nickels-n-Dimes](mailto:alexa\(@\)nickels-n-dimes\(.\)com).
 
 My goal at at Nickels-n-Dimes.com is to help you save your hard earned nickels-n-dimes.  I regularly share great coupons, great deals I find, products I like, and I also share some of our journey of getting out of debt.
 
@@ -24,9 +24,7 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 
 This blog does not contain any content which might present a conflict of interest.
 
-To get your own policy, go to [http://www.disclosurepolicy.org](http://www.disclosurepolicy.org/) -  This policy is valid from 25 October 2009
-
-### 
+To get your own policy, go to [http://www.disclosurepolicy.org](http://www.disclosurepolicy.org/) -  This policy is valid from 25 October 2009  
 
 ### PRIVACY POLICY
 
