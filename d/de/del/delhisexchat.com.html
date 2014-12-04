@@ -1,22 +1,16 @@
-<!--The following is the downloaded HTML source of the delhisexchat.com privacy policy that was archived on 2014-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620104632id_/http%3A//www.delhisexchat.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the delhisexchat.com privacy policy that was archived on 2014-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204200514id_/http%3A//www.delhisexchat.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-		<meta name="wp_lang" content="">
-		<meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KSMTD2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGU19WGwABV1lRDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-		<title>Privacy Policy - Delhi Sex Chat</title>
-
-<link rel="stylesheet" href="http://www.delhisexchat.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.0.1" type="text/css" media="all">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="geo.country" content="in">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-
-						<script type="text/javascript">
-					var bhittani_plugin_kksr_js = {"nonce":"2de730f0f8","grs":true,"ajaxurl":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php","func":"kksr_ajax","msg":"","fuelspeed":400,"thankyou":"","error_msg":"","tooltip":"0","tooltips":[{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"}]};
-				</script>
-				
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="wp_lang" content="">
+<meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KSMTD2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGU19WGwABV1lRDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<title>Privacy Policy - Delhi Sex Chat</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="geo.country" content="in">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<script type="text/javascript">var bhittani_plugin_kksr_js={"nonce":"426d5e1ac3","grs":true,"ajaxurl":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php","func":"kksr_ajax","msg":"","fuelspeed":400,"thankyou":"","error_msg":"","tooltip":"0","tooltips":[{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"}]};</script>
+ 
 <meta name="description" content="It is advisable that you read our privacy policy before you become the member of DelhiSexChat. Please go through on all these information.">
 <link rel="canonical" href="http://www.delhisexchat.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
@@ -25,161 +19,80 @@
 <meta property="og:description" content="It is advisable that you read our privacy policy before you become the member of DelhiSexChat. Please go through on all these information.">
 <meta property="og:url" content="http://www.delhisexchat.com/privacy-policy/">
 <meta property="og:site_name" content="Delhi Sex Chat">
-<!-- / Yoast WordPress SEO plugin. -->
-
-<link rel="stylesheet" id="bhittani_plugin_kksr-css" href="http://www.delhisexchat.com/wp-content/plugins/kk-star-ratings/css.css?ver=2.4" type="text/css" media="all">
-<link rel="stylesheet" id="lc_app_front-css" href="http://www.delhisexchat.com/wp-content/plugins/livechat/assets/css/livechat.app.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="bootstrap-css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css?ver=3.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="mmenu-css" href="http://www.delhisexchat.com/wp-content/themes/livechat/assets/plugins/mmenu/src/css/jquery.mmenu.all.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="app-css" href="http://www.delhisexchat.com/wp-content/themes/livechat/assets/css/style.css?ver=1.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="custom-css" href="http://www.delhisexchat.com/wp-content/themes/livechat/assets/css/custom.css?ver=1.0.4" type="text/css" media="all">
-<script type="text/javascript" src="http://www.delhisexchat.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
-<script type="text/javascript" src="http://www.delhisexchat.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/plugins/kk-star-ratings/js.min.js?ver=2.4"></script>
-<meta name="generator" content="WordPress 3.9.1">
-<style>.kk-star-ratings { width:100px; }.kk-star-ratings .kksr-stars a { width:20px; }.kk-star-ratings .kksr-stars, .kk-star-ratings .kksr-stars .kksr-fuel, .kk-star-ratings .kksr-stars a { height:20px; }.kk-star-ratings .kksr-star.gray { background-image: url(http://www.delhisexchat.com/wp-content/uploads/2013/11/gray.png); }.kk-star-ratings .kksr-star.yellow { background-image: url(http://www.delhisexchat.com/wp-content/uploads/2013/11/yellow.png); }.kk-star-ratings .kksr-star.orange { background-image: url(http://www.delhisexchat.com/wp-content/uploads/2013/11/orange.png); }</style><meta name="generator" content="WPML ver:3.0.1 stt:1,21;0">
-<link rel="alternate" hreflang="en-US" href="http://www.delhisexchat.com/privacy-policy/">
-<link rel="alternate" hreflang="hi_IN" href="http://www.delhisexchat.com/hi/%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%a8%e0%a5%80%e0%a4%af%e0%a4%a4%e0%a4%be-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf/">
-
-<style type="text/css">                            
-</style>		
-		<script type="text/javascript">
-
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-19705846-1']);
-		  _gaq.push(['_trackPageview']);
-
-		  (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
-
-		</script>
-	</head>
-	
-	<body class="page page-id-55 page-template-default">
-
-        <!-- Google Tag Manager -->
-        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KSMTD2"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KSMTD2');</script>
-        <!-- End Google Tag Manager -->
-
-		<input type="hidden" name="user_id" id="user_id" value="0">
-		<input type="hidden" name="page_id" id="page_id" value="55">
-        
-		<div class="container">
-            
-            <header class="mobile visible-sm visible-xs">
-                
-                <a class="menu-opener" href="#top-navigation-mobile"></a>
-                
-                <a class="brand" href="http://www.delhisexchat.com/">
-                    <img class="logo" src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/images/logo.png" alt="Delhi Sex Chat">
-                </a> 
-                
-                <div class="lang-bar clearfix">
-                    <a href="#myModal" id="login" data-toggle="modal">Login</a>                </div>
-                
-
-                    <nav id="top-navigation-mobile" class="menu-top-guest-container"><ul id="menu-top-guest" class="topnav-mobile"><li id="menu-item-5563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5563"><a href="http://www.delhisexchat.com/">Home</a></li>
-<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="http://www.delhisexchat.com/buy-credit/">Buy Credits</a></li>
-<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="http://www.delhisexchat.com/how-does-it-work/">How does it work?</a></li>
-<li id="menu-item-18555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18555"><a href="http://www.delhisexchat.com/blog/">Blog</a></li>
-<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="http://www.delhisexchat.com/faq/">FAQ</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#myModal" id="login" data-toggle="modal">Login</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-lang visible-xs visible-sm"><a href="http://www.delhisexchat.com/hi/%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%a8%e0%a5%80%e0%a4%af%e0%a4%a4%e0%a4%be-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf/">Switch To Hindi</a></li></ul></nav>     
-                
-            </header>
-			
-			<header class="main visible-md visible-lg">
-				
-                <div class="modal fade" id="modalAndroid" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
-					<div class="modal-dialog">
-						<div class="modal-content">
-							<div class="modal-header">
-								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-								<h4 class="modal-title">Hello Sexy Android User!</h4>
-							</div>
-							
-							<div class="modal-body">
-								<p>To Chat with our lovely girls using your Android device, Please install our FREE App.</p>
-								<p align="center">
-									<a href="https://play.google.com/store/apps/details?id=com.delhilivechat">
-										<img alt="Delhi Sex Chat app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png">
-									</a>
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="row">
-
-					<div class="col-md-3">
-												<a class="brand" href="http://www.delhisexchat.com/">
-                            <img class="logo" src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/images/logo.png" alt="Delhi Sex Chat">
-                        </a>   
-						<div class="lang-bar visible-xs clearfix">
-							<a href="http://www.delhisexchat.com/hi/%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%a8%e0%a5%80%e0%a4%af%e0%a4%a4%e0%a4%be-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf/">Hindi</a>						</div>
-											</div>
-
-					<div class="col-md-7">
-
-						<nav class="top-navigation">
-
-							<div class="menu-top-guest-container"><ul id="menu-top-guest-1" class="topnav nav nav-pills pull-right"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5563"><a href="http://www.delhisexchat.com/">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="http://www.delhisexchat.com/buy-credit/">Buy Credits</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="http://www.delhisexchat.com/how-does-it-work/">How does it work?</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18555"><a href="http://www.delhisexchat.com/blog/">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="http://www.delhisexchat.com/faq/">FAQ</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#myModal" id="login" data-toggle="modal">Login</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-lang visible-xs visible-sm"><a href="http://www.delhisexchat.com/hi/%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%a8%e0%a5%80%e0%a4%af%e0%a4%a4%e0%a4%be-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf/">Switch To Hindi</a></li></ul></div>
-						</nav>
-
-					</div>	
-
-					<div class="col-md-2 hidden-xs">
-						<div style="margin-top: 18px;">
-							<div id="lang_sel">
-    <ul>
-        <li><a href="#" class="lang_sel_sel icl-en">
-            <span class="icl_lang_sel_current">English</span></a>                                    
-            <ul>
-                                                <li class="icl-hi">          
-                    <a href="http://www.delhisexchat.com/hi/%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%a8%e0%a5%80%e0%a4%af%e0%a4%a4%e0%a4%be-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf/">
-                                        <span class="icl_lang_sel_native">हिन्दी</span> <span class="icl_lang_sel_translated"><span class="icl_lang_sel_native">(</span>Hindi<span class="icl_lang_sel_native">)</span></span>                    </a>
-                </li>
-                            </ul>            
-             
-                    </li>
-    </ul>    
-</div>
-						</div>
-					</div>
-
-				</div>
-
-		</header>
-            
-        <section id="content">
-
-
-
-
+ 
+<script pagespeed_no_defer="">(function(){var d=window,e=document,f="getItem",n="localStorage",q="indexOf",t="length",u="prototype",v="substring",w=function(b){var a=d;if(a.addEventListener)a.addEventListener("load",b,!1);else if(a.attachEvent)a.attachEvent("onload",b);else{var c=a.onload;a.onload=function(){b.call(this);c&&c.call(this)}}};d.pagespeed=d.pagespeed||{};var x=d.pagespeed,y=function(){this.a=!0};y[u].c=function(b){b=parseInt(b[v](0,b[q](" ")),10);return!isNaN(b)&&b<=Date.now()};y[u].hasExpired=y[u].c;y[u].b=function(b){return b[v](b[q](" ",b[q](" ")+1)+1)};y[u].getData=y[u].b;y[u].d=function(b){var a=e.getElementsByTagName("script"),a=a[a[t]-1];a.parentNode.replaceChild(b,a)};y[u].replaceLastScript=y[u].d;
+y[u].e=function(b){var a=d[n][f]("pagespeed_lsc_url:"+b),c=e.createElement(a?"style":"link");a&&!this.c(a)?(c.type="text/css",c.appendChild(e.createTextNode(this.b(a)))):(c.rel="stylesheet",c.href=b,this.a=!0);this.d(c)};y[u].inlineCss=y[u].e;
+y[u].f=function(b,a){var c=d[n][f]("pagespeed_lsc_url:"+b+" pagespeed_lsc_hash:"+a),h=e.createElement("img");c&&!this.c(c)?h.src=this.b(c):(h.src=b,this.a=!0);for(var c=2,m=arguments[t];c<m;++c){var k=arguments[c][q]("=");h.setAttribute(arguments[c][v](0,k),arguments[c][v](k+1))}this.d(h)};y[u].inlineImg=y[u].f;
+var z=function(b,a,c,h){a=e.getElementsByTagName(a);for(var m=0,k=a[t];m<k;++m){var g=a[m],r=g.getAttribute("pagespeed_lsc_hash"),l=g.getAttribute("pagespeed_lsc_url");if(r&&l){l="pagespeed_lsc_url:"+l;c&&(l+=" pagespeed_lsc_hash:"+r);var p=g.getAttribute("pagespeed_lsc_expiry"),p=p?(new Date(p)).getTime():"",g=h(g);if(!g){var s=d[n][f](l);s&&(g=b.b(s))}g&&(d[n].setItem(l,p+" "+r+" "+g),b.a=!0)}}},A=function(b){z(b,"img",!0,function(a){return a.src});z(b,"style",!1,function(a){return a.firstChild?
+a.firstChild.nodeValue:null})};
+x.g=function(){if(d[n]){var b=new y;x.localStorageCache=b;w(function(){A(b)});w(function(){if(b.a){for(var a=[],c=[],h=0,m=Date.now(),k=0,g=d[n][t];k<g;++k){var r=d[n].key(k);if(!r[q]("pagespeed_lsc_url:")){var l=d[n][f](r),p=l[q](" "),s=parseInt(l[v](0,p),10);if(!isNaN(s))if(s<=m){a.push(r);continue}else if(s<h||0==h)h=s;c.push(l[v](p+1,l[q](" ",p+1)))}}m="";h&&(m="; expires="+(new Date(h)).toUTCString());e.cookie="_GPSLSC="+c.join("!")+m;k=0;for(g=a[t];k<g;++k)d[n].removeItem(a[k]);b.a=!1}})}};
+x.localStorageCacheInit=x.g;})();
+pagespeed.localStorageCacheInit();</script><style id="bhittani_plugin_kksr-css" media="all" pagespeed_lsc_url="http://www.delhisexchat.com/wp-content/plugins/kk-star-ratings/css.css?ver=2.4" pagespeed_lsc_hash="rr61gh3G-g" pagespeed_lsc_expiry="Fri, 04 Dec 2015 13:28:51 GMT">.kk-star-ratings{width:120px}.kk-star-ratings.top-left,.kk-star-ratings.top-right{margin-top:3px}.kk-star-ratings.lft{float:left;margin-right:10px}.kk-star-ratings.rgt{float:right;margin-left:10px}.kk-star-ratings .kksr-stars{height:24px;position:relative}.kk-star-ratings .kksr-star{background-position:0px 0px}.kk-star-ratings .kksr-star.gray{background-image:url(/wp-content/plugins/kk-star-ratings/xgray.png.pagespeed.ic.EtqJMpVjQD.png)}.kk-star-ratings .kksr-star.yellow{background-image:url(/wp-content/plugins/kk-star-ratings/xyellow.png.pagespeed.ic.BLgtpQBrLF.png)}.kk-star-ratings .kksr-star.orange{background-image:url(/wp-content/plugins/kk-star-ratings/xorange.png.pagespeed.ic.06bnAelgjW.png)}.kk-star-ratings .kksr-stars .kksr-fuel{height:24px;position:absolute;top:0px;left:0px;z-index:0}.kk-star-ratings .kksr-stars a{width:24px;height:24px;float:left;position:relative;z-index:1}.kk-star-ratings .kksr-legend{font-size:12px;color:#999;text-align:center;line-height:18px;padding:3px;font-family:Arial,Helvetica,sans-serif}.kk-star-ratings .kksr-legend .kksr-title{display:none}</style>
+<style id="lc_app_front-css" media="all" pagespeed_lsc_url="http://www.delhisexchat.com/wp-content/plugins/livechat/assets/css/livechat.app.css?ver=1.1.0" pagespeed_lsc_hash="uy8MNqCLjQ" pagespeed_lsc_expiry="Fri, 04 Dec 2015 13:28:50 GMT"></style>
+<link rel="stylesheet" id="bootstrap-css" href="/wp-content/themes/livechat/assets/css/A.bootstrap.min.css,qver=3.2.0.pagespeed.cf.AaoxDNRwWD.css" type="text/css" media="all">
+<link rel="stylesheet" id="mmenu-css" href="/wp-content/themes/livechat/assets/plugins/mmenu/src/css/A.jquery.mmenu.all.css,qver=1.0.0.pagespeed.cf.Rf2Phc4GX9.css" type="text/css" media="all">
+<link rel="stylesheet" id="app-css" href="/wp-content/themes/livechat/assets/css/A.style.css,qver=1.0.9.pagespeed.cf.Vf7ShoTIE-.css" type="text/css" media="all">
+<link rel="stylesheet" id="custom-css" href="/wp-content/themes/livechat/assets/css/A.custom.css,qver=1.0.14.pagespeed.cf.8fmMafHOH8.css" type="text/css" media="all">
+<link rel="stylesheet" id="zendesk-css" href="//assets.zendesk.com/external/zenbox/v2.6/zenbox.css?ver=2.6" type="text/css" media="all">
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js,qver=1.11.1.pagespeed.jm.z9hb-Gxqf6.js"></script>
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.js,qver=1.2.1.pagespeed.jm.pE1rtGPryg.js"></script>
+<script type="text/javascript" src="/wp-content/plugins/kk-star-ratings/js.min.js,qver=2.4.pagespeed.jm.fUAwPXCLmh.js"></script>
+<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js?ver=2.6" async="async"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js,qver=1.0.2,23pubid=ra-51fe24226e691039.pagespeed.jm.uwJY30dXi9.js" async="async"></script>
+<meta name="generator" content="WordPress 4.0">
+<style>.kk-star-ratings{width:100px}.kk-star-ratings .kksr-stars a{width:20px}.kk-star-ratings .kksr-stars,.kk-star-ratings .kksr-stars .kksr-fuel,.kk-star-ratings .kksr-stars a{height:20px}.kk-star-ratings .kksr-star.gray{background-image:url(/wp-content/uploads/2013/11/xgray.png.pagespeed.ic._9h6fFG_1Z.png)}.kk-star-ratings .kksr-star.yellow{background-image:url(/wp-content/uploads/2013/11/xyellow.png.pagespeed.ic.tgzLZUCyY4.png)}.kk-star-ratings .kksr-star.orange{background-image:url(/wp-content/uploads/2013/11/xorange.png.pagespeed.ic.r23407y2zn.png)}</style>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-19705846-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+</head>
+<body class="page page-id-55 page-template-default" data-env="">
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KSMTD2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KSMTD2');</script>
+ 
+<input type="hidden" name="user_id" id="user_id" value="0">
+<input type="hidden" name="page_id" id="page_id" value="55">
+<div class="container">
+<header class="mobile visible-sm visible-xs">
+<a class="menu-opener" href="#top-navigation-mobile"></a>
+<a class="brand" href="/">
+<img class="logo" src="/wp-content/themes/livechat/assets/images/xlogo.png.pagespeed.ic.7z8PQXuA5r.png" alt="Delhi Sex Chat" width="297" height="50">
+</a>
+<div class="lang-bar clearfix">
+<a href="#myModal" id="login" data-toggle="modal">Login</a> </div>
+<nav id="top-navigation-mobile" class="menu-top-guest-container"><ul id="menu-top-guest" class="topnav-mobile"><li id="menu-item-5563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5563"><a href="/">Home</a></li>
+<li id="menu-item-475" class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="/buy-credit/">Get Minutes</a></li>
+<li id="menu-item-179818" class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-179818"><a href="/vip/">VIP Zone (new)</a></li>
+<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="/how-does-it-work/">How does it work?</a></li>
+<li id="menu-item-18555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18555"><a href="/blog/">Blog</a></li>
+<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#myModal" id="login" data-toggle="modal">Login</a></li></ul></nav>
+</header>
+<header class="main visible-md visible-lg">
 <div class="row">
-
-    <div class="col-md-12">
-
-        
-        <header>
-            <h1>Privacy Policy</h1>
-        </header>
-
-        <h1></h1>
+<div class="col-md-3">
+<a class="brand" href="/">
+<img class="logo" src="/wp-content/themes/livechat/assets/images/xlogo.png.pagespeed.ic.7z8PQXuA5r.png" alt="Delhi Sex Chat" width="297" height="50">
+</a>
+</div>
+<div class="col-md-9">
+<nav class="top-navigation">
+<div class="menu-top-guest-container"><ul id="menu-top-guest-1" class="topnav nav nav-pills pull-right"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5563"><a href="/">Home</a></li>
+<li class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="/buy-credit/">Get Minutes</a></li>
+<li class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-179818"><a href="/vip/">VIP Zone (new)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="/how-does-it-work/">How does it work?</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18555"><a href="/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#myModal" id="login" data-toggle="modal">Login</a></li></ul></div>
+</nav>
+</div>
+</div>
+</header>
+<section id="content">
+<div class="row">
+<div class="col-md-12">
+<header>
+<h1>Privacy Policy</h1>
+</header>
+<h1></h1>
 <p>Please read this privacy policy statement carefully. By your subscription to and use of this site you will be expressly signifying that you agree with the policies and practices set forth in the present privacy policy statement and that you assent to the use of any personal information that you supply or that is collected about you as detailed in this privacy policy statement.</p>
 <p>If you do not expressly agree with all of the terms of this privacy policy statement you should not subscribe to or use this site.</p>
 <p>The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber (“you”) and members of DelhiSexChat.com network (“our”, “we”, “us” the “site”) websites including but not limited to, DelhiSexChat.com and IndianPhoneSex.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.</p>
@@ -213,134 +126,101 @@
 <h3>TERMS AND CONDITIONS OF MEMBERSHIP</h3>
 <p>Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.</p>
 <p>Third-Party Analytics: We use third-party analytics from Google to help analyze where visitors go and what they do while visiting our website. Google may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google,&nbsp;<a href="https://tools.google.com/dlpage/gaoptout">click here</a></p>
-
-        
-    </div>
-
 </div>
-
-
-
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<footer>
-					
-							<div class="menu-footer-container"><ul id="menu-footer" class="nav nav-pills"><li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="http://www.delhisexchat.com/contact/">Contact Customer Support</a></li>
+</div>
+<div class="row">
+<div class="col-md-12">
+<footer>
+<div class="menu-footer-container"><ul id="menu-footer" class="nav nav-pills"><li id="menu-item-179820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179820"><a href="/vip/">VIP Zone (new)</a></li>
+<li id="menu-item-374" class="zendesk_pop menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="/contact/">Contact Customer Support</a></li>
 <li id="menu-item-1404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1404"><a href="http://www.indianphonesex.com/English/">No Credit Card?</a></li>
-<li id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380"><a href="http://www.delhisexchat.com/terms-of-use/">Terms of Use</a></li>
-<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-55 current_page_item menu-item-375"><a href="http://www.delhisexchat.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="http://www.delhisexchat.com/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%ae-%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf/">Anti Spam Policy</a></li>
-<li id="menu-item-77225" class="red menu-item menu-item-type-post_type menu-item-object-page menu-item-77225"><a href="http://www.delhisexchat.com/hiring/">We are hiring girls</a></li>
-<li id="menu-item-47247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47247"><a href="http://www.delhisexchat.com/how-to-use-android-app/">How to use Android App</a></li>
+<li id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380"><a href="/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-55 current_page_item menu-item-375"><a href="/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%ae-%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf/">Anti Spam Policy</a></li>
+<li id="menu-item-77225" class="red menu-item menu-item-type-post_type menu-item-object-page menu-item-77225"><a href="/hiring/">We are hiring girls</a></li>
 <li id="menu-item-74605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74605"><a href="http://www.ipecash.com/?affID=DSC">Adult affiliates program – Webmasters make money</a></li>
-</ul></div>					</footer>
+<li id="menu-item-93081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93081"><a href="/how-to-use-android-app/">How to use Android App</a></li>
+</ul></div>
+</footer>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="bottom-footer">
+<a href="#"><img src="/wp-content/themes/livechat/assets/images/xfooter-rta.png.pagespeed.ic._pNYzG1QK5.jpg" alt="" width="106" height="52"></a>
+<a href="#"><img src="/wp-content/themes/livechat/assets/images/xfooter-asacp.png.pagespeed.ic.msVvj1HljE.jpg" alt="" width="106" height="52"></a><br>
+<a href="https://epoch.com/billingsupport">Billing Support</a> |
+<a href="https://epoch.com/">Please visit Epoch.com – our authorized sales agent</a> |
+<a href="/2257-2/">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a><br>
+<p>This website is strictly for adults only! This website contains sexually explicit content. You must be at least 18 years of age to enter this website. <br>© 2013 DelhiSexChat.com All Rights Reserved</p>
+</div>
+</div>
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h4 class="modal-title">Login to Your Account</h4>
+</div>
+<div class="modal-body">
+<form class="form-horizontal" role="form" id="lc_login" action="" method="post">
+<input type="hidden" name="user-cookie" value="1">
+<input type="hidden" id="security" name="security" value="9b2a988995"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">
+<div class="error alert alert-danger" style="display:none">
+<p></p>
+</div>
+<div class="form-group">
+<label for="user_login" class="col-lg-2 control-label">Username</label>
+<div class="col-lg-10">
+<input type="text" class="form-control" name="log" id="log" value="">
+</div>
+</div>
+<div class="form-group">
+<label for="user_pass" class="col-lg-2 control-label">Password</label>
+<div class="col-lg-10">
+<input type="password" class="form-control" name="pwd" id="pwd" value="">
+</div>
+</div>
+<div class="form-group">
+<div class="col-lg-offset-2 col-lg-10 clearfix">
+<div class="pull-left checkbox">
+<label for="rememberme">
+<input type="checkbox" name="rememberme" value="forever" checked="checked" id="rememberme"> Remember me </label>
+</div>
+<p class="pull-right" style="padding-top:7px">
+<a href="/wp-login.php?action=lostpassword&amp;redirect_to=http://www.delhisexchat.com" title="Forgot Your Password?">Forgot Your Password?</a>
+</p>
+</div>
+</div>
+<div class="form-group hidden">
+</div>
+<div class="form-group">
+<div class="col-lg-offset-2 col-lg-10">
+<input type="submit" class="btn btn-primary" value="Login">
+</div>
+</div>
+</form> </div>
+</div>
+</div>
+</div>
+</section></div>
+<script type="text/javascript">var livechat={"ajaxurl":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php"};</script>
+<script type="text/javascript" src="/wp-content/plugins/livechat/assets/js/livechat.js,qver=1.1.0.pagespeed.jm.MrTE4gyFEW.js" async="async"></script>
+<script type="text/javascript" src="/wp-content/themes/livechat/assets/js/bootstrap.min.js,qver=3.2.0.pagespeed.jm.0Id1t9M31f.js" async="async"></script>
+<script type="text/javascript" async="async">(function(factory){if(typeof define==='function'&&define.amd){define(['jquery'],factory);}else{factory(jQuery);}}(function($){var pluses=/\+/g;function raw(s){return s;}
+function decoded(s){return decodeURIComponent(s.replace(pluses,' '));}
+function converted(s){if(s.indexOf('"')===0){s=s.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,'\\');}
+try{return config.json?JSON.parse(s):s;}catch(er){}}
+var config=$.cookie=function(key,value,options){if(value!==undefined){options=$.extend({},config.defaults,options);if(typeof options.expires==='number'){var days=options.expires,t=options.expires=new Date();t.setDate(t.getDate()+days);}
+value=config.json?JSON.stringify(value):String(value);return(document.cookie=[config.raw?key:encodeURIComponent(key),'=',config.raw?value:encodeURIComponent(value),options.expires?'; expires='+options.expires.toUTCString():'',options.path?'; path='+options.path:'',options.domain?'; domain='+options.domain:'',options.secure?'; secure':''].join(''));}
+var decode=config.raw?raw:decoded;var cookies=document.cookie.split('; ');var result=key?undefined:{};for(var i=0,l=cookies.length;i<l;i++){var parts=cookies[i].split('=');var name=decode(parts.shift());var cookie=decode(parts.join('='));if(key&&key===name){result=converted(cookie);break;}
+if(!key){result[name]=converted(cookie);}}
+return result;};config.defaults={};$.removeCookie=function(key,options){if($.cookie(key)!==undefined){$.cookie(key,'',$.extend(options,{expires:-1}));return true;}
+return false;};}));</script>
+<script type="text/javascript" src="/wp-content/themes/livechat/assets/plugins/mmenu/src/js/jquery.mmenu.min.all.js,qver=1.0.0.pagespeed.jm.aNoc2hB7hS.js" async="async"></script>
+<script type="text/javascript">var app_object={"show_more_photos":"Show More Images","hide_extra_photos":"Hide Extra Images","menu_header":"Main Menu","ajax_url":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php"};</script>
+<script type="text/javascript" src="/wp-content/themes/livechat/assets/js/app.js,qver=1.0.10.pagespeed.jm.ACe_sTpZHK.js" async="async"></script>
 
-				</div>
-
-			</div>
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<div class="bottom-footer">
-												<a href="#"><img src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/images/footer-rta.png" alt=""></a>
-						<a href="#"><img src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/images/footer-asacp.png" alt=""></a><br>
-												
-						<a href="https://epoch.com/billingsupport">Billing Support</a>  |  
-						<a href="https://epoch.com/">Please visit Epoch.com –  our authorized sales agent</a>  |  
-						<a href="http://www.delhisexchat.com/2257-2/">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a><br>
-						
-						<p>This website is strictly for adults only! This website contains sexually explicit content. You must be at least 18 years of age to enter this website. <br>© 2013 DelhiSexChat.com All Rights Reserved</p>
-
-					</div>
-
-				</div>
-
-			</div>
-
-                        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                            <h4 class="modal-title">Login to Your Account</h4>
-                        </div>
-
-                        <div class="modal-body">
-                            <form class="form-horizontal" role="form" id="lc_login" action="" method="post">
-	<input type="hidden" name="user-cookie" value="1">
-    <input type="hidden" id="security" name="security" value="0b4739978c"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">	
-    <div class="error alert alert-danger" style="display: none;">
-		<p></p>
-	</div>
-	
-	<div class="form-group">
-		<label for="user_login" class="col-lg-2 control-label">Username</label>
-		<div class="col-lg-10">
-			<input type="text" class="form-control" name="log" id="log" value="">
-		</div>
-	</div>
-	
-	<div class="form-group">
-		<label for="user_pass" class="col-lg-2 control-label">Password</label>
-		<div class="col-lg-10">
-			<input type="password" class="form-control" name="pwd" id="pwd" value="">
-		</div>
-	</div>
-	
-	<div class="form-group">
-		<div class="col-lg-offset-2 col-lg-10 clearfix">
-			<div class="pull-left checkbox">
-				<label for="rememberme">
-					<input type="checkbox" name="rememberme" value="forever" checked="checked" id="rememberme"> Remember me				</label>
-			</div>
-            <p class="pull-right" style="padding-top: 7px;">
-                <a href="http://www.delhisexchat.com/wp-login.php?action=lostpassword&amp;redirect_to=http://www.delhisexchat.com" title="Forgot Your Password?">Forgot Your Password?</a>
-            </p>
-		</div>
-	</div>	
-	<div class="form-group hidden">
-		    </div>
-	
-	<div class="form-group">
-		<div class="col-lg-offset-2 col-lg-10">
-            <input type="submit" class="btn btn-primary" value="Login">
-		</div>
-	</div>
-
-</form>                        </div>
-                    </div>
-                </div>
-            </div>
-            
-		</section></div>
-
-        <script type="text/javascript">
-/* <![CDATA[ */
-var livechat = {"ajaxurl":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/plugins/livechat/assets/js/livechat.js?ver=1.0.1"></script>
-<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/js/jquery.cookie.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/plugins/mmenu/src/js/jquery.mmenu.min.all.js?ver=1.0.0"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var app_object = {"show_more_photos":"Show More Images","hide_extra_photos":"Hide Extra Images","menu_header":"Main Menu","ajax_url":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/js/app.js?ver=1.0.15"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js?ver=1.0.0#pubid=ra-51fe24226e691039"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.delhisexchat.com\/"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=3.9.1"></script>
-        
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"8f5b1a9f4e","applicationID":"3138396","transactionName":"b1ADYRNZX0pUUhFRV1YaIFYVUV5XGkEEX10=","queueTime":0,"applicationTime":171,"ttGuid":"","agentToken":"","atts":"QxcAF1tDTEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"8f5b1a9f4e","applicationID":"3138396","transactionName":"b1ADYRNZX0pUUhFRV1YaIFYVUV5XGkEEX10=","queueTime":0,"applicationTime":193,"ttGuid":"","agentToken":"","atts":"QxcAF1tDTEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
