@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehackersparadise.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809011632id_/http%3A//www.thehackersparadise.com/%3Fpage_id%3D7894) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehackersparadise.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204170459id_/http%3A//www.thehackersparadise.com/general-privacy-policy) for the most accurate reproduction.*
 
-# General Privacy Policy : The Hackers Paradise
+# General Privacy Policy - The Hackers Paradise : The Hackers Paradise
 
 The Hackers Paradise and its subsidiary (thehackersparadise.com) and affiliates are sensitive to privacy issues concerning the use of information provided over the Internet, and we understand the importance of protecting any personal information you may provide to us through the use of this website and the sub-sites for The Hackers Paradise various business units (collectively, “this website”).
 
