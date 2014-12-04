@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotmyspot.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611235811id_/http%3A//www.dotmyspot.com/top10antivirus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmyspot.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204034731id_/http%3A//www.dotmyspot.com/top10antivirus/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 2014 Top Quality Reviews, Trustworthy Reviews From Trusted Sources, User Testimonials
 
