@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hishop.my privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325104645id_/http%3A//www.hishop.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hishop.my privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204045042id_/http%3A//www.hishop.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
