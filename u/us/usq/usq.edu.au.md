@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usq.edu.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064718id_/http%3A//www.usq.edu.au/about-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usq.edu.au privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204020954id_/http%3A//usq.edu.au/about-site/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - University of Southern Queensland
+
+[ ](https://web.archive.org/)
 
 ## Collection 
 
