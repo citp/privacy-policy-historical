@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the mowersdirect.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602002803id_/http%3A//www.mowersdirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mowersdirect.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205004855id_/http%3A//www.mowersdirect.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ Mowers Direct.com - Your Online Mower Superstore
 
-  
-**Privacy Policy - Power Equipment Direct, Inc.**
+[](http://www.bbb.org/chicago/business-reviews/industrial-equipment-and-supplies/power-equipment-direct-in-bolingbrook-il-57001088) **Privacy Policy - Power Equipment Direct, Inc.**
 
 **1) General**   
 Power Equipment Direct, Inc. respects the privacy of every individual who visits our websites or responds to our guestbooks, contests, or interactive advertisements. This Privacy statement outlines the information Power Equipment Direct will collect and how we will use that information. This Statement will inform you what to do if you do not want your personal information to be shared or divulged when you visit a Power Equipment Direct website or respond to our advertising. Power Equipment Direct reserves the right to change this policy at any time by posting a new privacy policy at this location, and your continued use of our website indicates your acceptance of such changed terms. 
@@ -13,11 +12,12 @@ Power Equipment Direct will not collect any personally-identifiable information 
 
 If you do not want your personally - identifiable information collected do not submit it to us. If you do submit personally identifiable information, we will use it in the following ways, unless stated otherwise: 
 
-· We may store and process that information to better understand your needs and how we can improve our product offerings and services.   
-· We may use that information to contact you.   
-· We will not give or sell your individual information to any outside company for its use in marketing or solicitation   
-· Will maintain the confidentiality of your personal information, and it will only be used to support your relationship with Power Equipment Direct and its Web sites. 
+  * We may store and process that information to better understand your needs and how we can improve our product offerings and services.
+  * We may use that information to contact you.
+  * We will not give or sell your individual information to any outside company for its use in marketing or solicitation.
+  * Will maintain the confidentiality of your personal information, and it will only be used to support your relationship with Power Equipment Direct and its Web sites.
 
+  
 Unfortunately, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy statement. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. 
 
 We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. Therefore, although we will protect your privacy as described in this Privacy Policy, we do not promise, and you should not expect, that all your personally identifiable information or private communications will remain private. 
@@ -39,12 +39,30 @@ Mowers Direct, Inc. may send you communications regarding its services, its webs
 At any time, you can view, update and/or remove your account information. Upon your request, we will also remove any other personally identifying information we may retain from our databases. To make any such changes or requests, please email us at [service@mowersdirect.com](mailto:service@mowersdirect.com). Additional residual information may remain in our archives and records, but this information will not be used for any commercial purpose. We reserve the right to maintain information on users who have violated our Terms of Use or who have had their access to our website blocked. 
 
 **7) Security:**   
-All information provided to Power Equipment Direct is transmitted using Thawte certified encryption. Thawte is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect your information by placing it on a secure portion of our website that is only accessible by certain qualified employees of Power Equipment Direct. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
+All information provided to Power Equipment Direct is transmitted using GeoTrust certified encryption. GeoTrust is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect your information by placing it on a secure portion of our website that is only accessible by certain qualified employees of Power Equipment Direct. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
 
 **8) Other Web Sites:**   
 Power Equipment Direct, Inc. websites contains links to other websites. Please note that when you click on one of these links, you are entering another website for which Power Equipment Direct has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours. Also, you may have entered this website from an unrelated third party website. Likewise, Power Equipment Direct has no responsibility for such third party websites and you should review their privacy statements. 
 
-**9) Contacting Power Equipment Direct:**   
+**9) Interest-Based Advertising:**   
+Data about your activities online is being collected on our Site for use in providing advertising tailored to your individual interests. You may choose whether or not to have your information collected for that purpose. This section of the Privacy Policy provides details and explains how to exercise that choice.   
+We sometimes work with online advertising vendors to provide you with relevant and useful ads.  This may include ads served on other companies’ websites. These ads may also be based on your activities on our websites or on third party websites.  
+
+
+To opt out of having your online behavior collected for advertising purposes, [click here](http://www.aboutads.info/choices/).
+
+**10) Your California Privacy Rights:**   
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information.  You can make a request one time each year.
+
+To exercise your rights, you can email us or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
+
+**11) Changes to this Privacy and Security Statement:**
+
+**Effective Date:**  January 1, 2003  
+**Last Revision Date:**  May 27, 2014  
+From time to time we may change our privacy policies. We will notify you of any material changes to our Privacy Statement by posting an updated copy on our website. Please check our website periodically for updates.
+
+**12) Contacting Power Equipment Direct:**   
 If you have any questions about this Privacy statement, the practices of this website, or your dealings with this website, you can contact: 
 
 Power Equipment Direct, Inc.   
