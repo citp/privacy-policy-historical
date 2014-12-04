@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubcarlson.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418221521id_/http%3A//www.clubcarlson.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcarlson.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204143611id_/http%3A//www.clubcarlson.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
 
 # Carlson Hotels Guest Privacy Policy
 
