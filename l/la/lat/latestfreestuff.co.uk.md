@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestfreestuff.co.uk privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605192837id_/http%3A//www.latestfreestuff.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestfreestuff.co.uk privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204142803id_/http%3A//www.latestfreestuff.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LatestFreeStuff.co.uk
 
@@ -12,17 +12,17 @@ LatestFreeStuff.co.uk may change this policy from time to time by updating this 
 
 We may collect the following information:
 
-\- contact information including email address  
-\- demographic information such as preferences and interests  
+– contact information including email address  
+– demographic information such as preferences and interests  
 other information relevant to customer surveys and/or offers
 
 What we do with the information we gather:
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-\- Internal record keeping.  
-\- We may use the information to improve our products and services.  
-\- We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+– Internal record keeping.  
+– We may use the information to improve our products and services.  
+– We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
 **Security**
 
@@ -46,8 +46,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-\- whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for marketing purposes  
-\- if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us through the contact us form.
+– whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for marketing purposes  
+– if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us through the contact us form.
 
 We will NOT sell, distribute or lease your personal information to third parties. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
@@ -57,6 +57,9 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 **Contact Details**
 
-Address: Foxton Media Limited, Rainmaking Loft, International House, 1 St Katharines Way, London, E1W 1 UN
-
-Telephone: 0203 701 2210
+Foxton Media Limited,  
+Rainmaking Loft,  
+International House,  
+1 St Katherines Way,  
+London,  
+E1W 1UN
