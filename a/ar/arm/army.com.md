@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the army.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120019id_/http%3A//army.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204212235id_/http%3A//army.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Army.com
 
@@ -49,6 +49,8 @@ FanMail.com does not rent, sale or share information about you with other people
 We will share aggregated demographic information with our partners and advertisers. This demographic information is not linked to any personal information that can identify any individual person.
 
 Registration information may be shared with the owner of the Web site ("Affiliate") through which you may have registered for your account with us. Please refer to the Affiliate's Web site or contact the Affiliate to determine the privacy policy, if any, that applies to the Affiliate's use of such information.
+
+Using Google Analytics Advertising Features and DoubleClick cookies, FanMail.com can see the collected information from those services to discern the demographics of those visiting our sites. Visitors can opt-out of the Google Analytics Advertising Features being used, through Ads Settings, Ad Settings for mobile apps, or any other available means.
 
 **Legal Disclaimer**  
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process, or to establish or exercise our legal rights or defend against legal claims.
