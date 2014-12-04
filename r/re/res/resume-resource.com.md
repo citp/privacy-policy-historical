@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327014953id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204214955id_/http%3A//www.resume-resource.com/legal-privacy-policy) for the most accurate reproduction.*
 
 # Resume-Resource.com Privacy Policy
 
@@ -90,4 +90,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## How To Contact Resume-Resource.com
 
-Should you have other questions or concerns about these privacy policies, please Send us an email send an email to webinfo@resume-resource.com. If you have an urgent message you can call us at 877-417-1273 during normal U.S. business hours.
+Visit our [Contact Us ](http://www.resume-resource.com/us-contact-us/) page for information on how to reach us.
