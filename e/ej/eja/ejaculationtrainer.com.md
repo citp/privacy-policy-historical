@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054649id_/http%3A//www.ejaculationtrainer.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204050408id_/http%3A//www.ejaculationtrainer.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,12 +64,12 @@ You may also mail your concerns to us at the following address:
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to contact[at]ejaculationtrainer.com or write us at the following address:
+If you are a California resident and our customer, Cal. Civ. Code � 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to contact[at]ejaculationtrainer.com or write us at the following address:
 
 This privacy policy was last updated on 03-12-2010.
 
-Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at www.ejaculationtrainer.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright � 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at www.ejaculationtrainer.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
 **Copyright © EjaculationTrainer.com All rights Reserved**
 
-**[Contact](https://web.archive.org/web/20140625054649id_/http%3A//www.ejaculationtrainer.com/contact.html)      [Terms Of Use](https://web.archive.org/web/20140625054649id_/http%3A//www.ejaculationtrainer.com/termsofuse.html)     [Privacy Policy](https://web.archive.org/web/20140625054649id_/http%3A//www.ejaculationtrainer.com/privacypolicy.html)     [Testimonials ](https://web.archive.org/web/20140625054649id_/http%3A//www.ejaculationtrainer.com/testimonials.html)    [Affiliates](https://web.archive.org/web/20140625054649id_/http%3A//www.ejaculationtrainer.com/affiliates.html)**
+**[Contact](https://web.archive.org/web/20141204050408id_/http%3A//www.ejaculationtrainer.com/contact.html)      [Terms Of Use](https://web.archive.org/web/20141204050408id_/http%3A//www.ejaculationtrainer.com/termsofuse.html)     [Privacy Policy](https://web.archive.org/web/20141204050408id_/http%3A//www.ejaculationtrainer.com/privacypolicy.html)     [Testimonials ](https://web.archive.org/web/20141204050408id_/http%3A//www.ejaculationtrainer.com/testimonials.html)    [Affiliates](https://web.archive.org/web/20141204050408id_/http%3A//www.ejaculationtrainer.com/affiliates.html)**
