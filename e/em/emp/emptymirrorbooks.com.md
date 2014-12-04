@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062331id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204090643id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
 
 # FTC Disclosure & Privacy Policy
 
@@ -98,5 +98,3 @@ This policy was last modified on 2/4/12
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.emptymirrorbooks.com/
-
-[](http://www.hupso.com/share/)
