@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanumed.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528004236id_/http%3A//www.sanumed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanumed.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204045729id_/http%3A//www.sanumed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | San Sue The Ultimate Updates
 
