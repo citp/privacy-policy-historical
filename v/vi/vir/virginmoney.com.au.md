@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061114id_/http%3A//virginmoney.com.au/money/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204142914id_/http%3A//virginmoney.com.au/money/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and security | Virgin Money
 
