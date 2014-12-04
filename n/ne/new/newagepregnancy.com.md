@@ -1,78 +1,46 @@
-> *The following text is extracted and transformed from the newagepregnancy.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525042127id_/http%3A//www.newagepregnancy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newagepregnancy.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204170640id_/http%3A//www.newagepregnancy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New Age Pregnancy
+# Privacy Policy | About Pregnancy Motherhood Breastfeeding Confinement in Singapore
 
-**What information do we collect?**
+This is the Privacy Policy of **New Age Consulting Pte Ltd** and/or our related entities, affiliates and subsidiaries for our websites [New Age Parents](http://thenewageparents.com/) and [New Age Pregnancy](http://newagepregnancy.com/).
 
-We collect information from you when you register on our site or fill out a form.
+We are committed to protecting your privacy. We have developed this Privacy Policy to describe to you our practices regarding the information we collect from users of our services when you visit our websites, when you give us information or send us communications.
 
-When ordering or registring on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
+We have taken care to abide by the Singapore Personal Data Protection Act to collect, store and use your personal data fairly and lawfully and with due respect to the individual whose personal data is being processed.
 
-**What do we use your information for?**
+**What information do we collect from you?**  
+Depending on your usage of our websites and services, the information we typically collect may include your identification number, gender, date of birth, mailing address, email address, telephone and mobile numbers, country of residence, IP address, your preferences as well as any information about you that is associated with, or linked to, any other data that helps us to provide you with a more personal and relevant experience.
 
-Any of the information we collect from you may be used in one of the following ways:
+**How do we collect your information?**  
+We may collect your personal information when you visit our websites, when you choose to use the various services we provide or when you provide information voluntarily. These include signing up for alerts or newsletters, contacting us with a question or requesting for assistance, participating in our forums, participating in contests or lucky draws and/or responding to surveys, questionnaires or offers.
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
+**How will we use the information you give us?**  
+Information provided by you may be used and disclosed by us and our affiliates, business partners for the following purposes:
 
+(a) to provide you with the products and services you have requested and to communicate with you about those products and services;
 
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+(b) to respond to your requests and queries;
 
+(c) to deliver the daily operation of the content, services and products provided to you;
 
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+(d) to verify and process your personal particulars and payments;
 
+(e) to design services or products for customers’ use;
 
-  * To process transactions
+(f) to organise promotional events;
 
+(g) to inform you (with your consent) about any products or services which may be of interest to you;
 
+(h) to comply with legal requirements, the requests of law enforcement and regulatory officials, or orders of court;
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer
+(i) to invite you to share your opinions and comments; and
 
-  * To send periodic emails
+(j) to conduct surveys and/or market research.
 
+In addition, please note that if you participate in contests or other promotional programs on our websites sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our websites, your information may be disclosed to and used by such third parties.
 
+**Do we share your information with other companies?**  
+Unless otherwise stated in this Privacy Policy, we do not share your information with third parties for marketing purposes without your consent.
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information etc
-
-  * To administer a contest, promotion, survey or other site feature
-
-
-
-**How do we protect your information?**
-
- We implement a variety of security measures to maintain the safety of your personal information when you assess your personal information.
-
-**Do we use cookies?**
-
-We do not use cookies
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or other rights, property, or safety. However, non-personally identifiable visitor information may be provide to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Online Privacy Policy Only**
-
-This online privacy applies only to information to collect through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.newagepregnancy.com
-
-**Your Consent**
-
-By using our site, you consent to our **privacy policy**.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-**Contact Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below:
-
-Email: mailbox@newagepreganancy.com
-
-Contact Number: 6272 4625
+**Changes to this Privacy Policy**  
+We may amend this Privacy Policy from time to time. Please check back regularly for updated information on the handling of your personal data.
