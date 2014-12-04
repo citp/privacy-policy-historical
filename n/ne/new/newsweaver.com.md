@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsweaver.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604161435id_/http%3A//www.newsweaver.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsweaver.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204143730id_/http%3A//www.newsweaver.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Software that Drives Engagement | Newsweaver
 
@@ -75,7 +75,7 @@ When you begin to use a trial account, you may upload data to the Newsweaver app
 
 If you wish to become a paying client of Newsweaver, we will request sufficient additional contact and other information such as billing details from you to allow us provide a contract-based service to you. This information will be used solely to enable the provision of our email newsletter publishing service to you.
 
-When you use the Newsweaver system, we record a log of all significant actions taken by you while logged in, together with related information such as browser and OS type, and IP address. We use this information to estimate system load, and to plan for system expansion and browser support. The information would also be used to allow us investigate incidents such as those involving compromised login credentials.
+When you use the Newsweaver system, we record a log of all significant actions taken by you while logged in, together with related information such as browser and OS type, and IP address. We use this information to estimate system load, and to plan for system and product enhancements. The information would also be used to allow us investigate incidents such as those involving compromised login credentials.
 
 ### Data Storage, Sharing & Security
 
