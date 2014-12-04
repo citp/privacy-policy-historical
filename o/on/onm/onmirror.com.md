@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onmirror.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122407id_/http%3A//onmirror.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmirror.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204081223id_/http%3A//onmirror.com/privacy) for the most accurate reproduction.*
 
 # OnMirror.com - Mirror your files in one click
 
