@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605154629id_/http%3A//www.cloud-iq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204044155id_/http%3A//www.cloud-iq.com/privacy) for the most accurate reproduction.*
 
 # Privacy - cloud.IQ
 
