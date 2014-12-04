@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drinkaware.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628001142id_/http%3A//www.drinkaware.co.uk/info-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinkaware.co.uk privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204151402id_/http%3A//www.drinkaware.co.uk/info-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,13 +48,15 @@ vi. to conduct promotions or prize draws that you have entered; 
 
 vii. where you have consented we may contact you with information about our products or services that we feel may be of interest to you (you can let us know at any time if you no longer wish to receive these communications by contacting [contact@drinkaware.co.uk](mailto:contact@drinkaware.co.uk) or following the instructions contained in the communication).
 
+viii. to inform website research projects, in which it may be shared with research partners.
+
 ### 5) Will my personal information be provided to third parties?
 
 In limited circumstances we may pass your Information to other third party organisations:
 
 i. we may supply your personal information to third parties (such as our internet service providers) who help us administer the Website (such third parties must at all times provide the same levels of security for your personal information as we do and, where required, are bound by a legal agreement to keep your personal information private, secure and to process it only on our specific instructions);
 
-ii. if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements or protect the rights, property, or safety of our users, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.
+ii. if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements or protect the rights, property, or safety of our users, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Routinely collected data will also be used for the purpose of research and may be shared with research partners.
 
 ### 6) Your consent
 
@@ -74,4 +76,4 @@ You may request access to all your personal information that we collect online a
 
 We maintain the highest standards of security, however the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect your Information, we cannot ensure the security of your data during transit to our Website. Any information you submit is sent at your own risk. Once we have received your Information we will use strict procedures and security features to prevent unauthorised access.
 
-Page updated: October 2013
+Page updated: October 2014
