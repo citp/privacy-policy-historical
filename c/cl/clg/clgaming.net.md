@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clgaming.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104659id_/http%3A//clgaming.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clgaming.net privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204232232id_/http%3A//clgaming.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CLGaming.net
 
