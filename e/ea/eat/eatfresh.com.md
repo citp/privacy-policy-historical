@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatfresh.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604162318id_/http%3A//www.liveinfitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatfresh.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204112221id_/http%3A//www.liveinfitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Live In Fitness Camp – Weight Loss Boot Camp – Fat Camp by Live In Fitness, Enterprise
 
@@ -47,68 +47,3 @@ THE LIVE IN FITNESS  
 WAY OF LIFE
 
 THE DIFFERENCE IS IN THE DETAILS
-
-| 
-
-[  
-](http://www.liveinfitness.com/come-to-our-island-and-get-off-yours/)
-
-Come to Our Island and Get Off Yours
-
-  
-
-
-You Can’t Be Yourself Here
-
-  
-
-
-We Are Total Geeks
-
-  
-
-
-You Will Have to Take a Lot of Tests
-
-  
-
-
-You Will Be Less of a Person When You Leave
-
-  
-
-
-You Can’t Eat Whatever You Want
-
-  
-
-
-We Have Failed a Lot
-
-  
-
-
-We Are Not a Luxury Resort
-
-  
-
-
-People Will Bug You
-
-  
-
-
-You Can Run, but You Can’t Hide
-
-  
-
-
-It’s Gonna Cost You
-
-  
-
-
-We Care Too Much
-
-|   
----|---|---
