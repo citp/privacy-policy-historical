@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ipaidabribenaija.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502114906id_/http%3A//ipaidabribenaija.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaidabribenaija.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204154323id_/http%3A//www.ipaidabribenaija.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-##  [ Privacy Policy](http://www.ipaidabribenaija.com/privacy)
+##  [ Privacy Policy](http://ipaidabribenaija.com/privacy)
 
 JACOM_CONTENT_ARTICLE_INFO
      Last Updated on 10 December 2013 
-     Hits: 10543
+     Hits: 18223
 
 I Paid A Bribe Naija may collect information from our users at several different points on the site. I Paid A Bribe Naija is the sole owner of the information collected on ipaidabribenaija.com
 
