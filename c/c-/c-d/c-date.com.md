@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-date.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627172123id_/http%3A//www.c-date.com/info/data-protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-date.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204230415id_/http%3A//www.c-date.com/info/data-protection.html) for the most accurate reproduction.*
 
 # Privacy Policy | C-date
 
