@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpacalculator.net privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130212557id_/http%3A//gpacalculator.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpacalculator.net privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204055112id_/http%3A//gpacalculator.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
