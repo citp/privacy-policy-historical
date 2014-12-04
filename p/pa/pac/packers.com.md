@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301075415id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204083746id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Packers.com | Privacy Policy
 
