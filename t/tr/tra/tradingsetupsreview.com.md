@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingsetupsreview.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509040738id_/http%3A//www.tradingsetupsreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingsetupsreview.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204045511id_/http%3A//www.tradingsetupsreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trading Setups Review
 
@@ -14,7 +14,7 @@ Like many other Web sites, www.tradingsetupsreview.com makes use of log files. T
 
 www.tradingsetupsreview.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**DoubleClick Cookie**
+ **DoubleClick Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on www.tradingsetupsreview.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.tradingsetupsreview.com and other sites on the Internet.
