@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209150638id_/http%3A//www.stlouisrams.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204085117id_/http%3A//www.stlouisrams.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # St. Louis Rams | Privacy Policy
 
