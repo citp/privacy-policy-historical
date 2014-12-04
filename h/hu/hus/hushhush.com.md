@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hushhush.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603070417id_/http%3A//www.hushhush.com/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushhush.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204142810id_/http%3A//www.hushhush.com/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
-# Hush Hush Daily Deals
+# Privacy Policy - Hush Hush Daily Deals
 
 This privacy policy discloses the privacy practices for Markco Media Limited, a company incorporated in England & Wales with company number 06327961 and having its registered office at Craven House, Station Approach, Godalming, GU7 1EX ("we", "us", "our"). Our website is www.HushHush.com (the "Site").
 
