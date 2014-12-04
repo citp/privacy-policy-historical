@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkreleases.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605161424id_/http%3A//www.apkreleases.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkreleases.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204200835id_/http%3A//www.apkreleases.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - APK Releases
 
@@ -42,7 +42,7 @@ APKReleases.com has no access to or control over these cookies that are used by 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. APKReleases.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you [wish](http://www.apkreleases.com/tag/wish/ "wish") to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 **Note:** APKReleases.com also uses **Kontera, InfoLinks, PulsePoint, TribalFusion** as other alternative ad networks. In the past, The Site has used **Technorati Media, BuySellAds** and several other publisher ad networks.
 
