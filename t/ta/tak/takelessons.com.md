@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075425id_/http%3A//takelessons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204214008id_/http%3A//takelessons.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TakeLessons
 
@@ -105,7 +105,7 @@ San Diego, CA 92101
 
 #### Terms of Use, Arbitration and Governing Law
 
-If you choose to visit our Website or use our Services, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms), including limitations on damages, resolution of disputes through arbitration, and application of the law of the state of California. If you have any concern about privacy at our Website or from our Services, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and the [Terms of Use](https://web.archive.org/terms) will change also. We may e-mail periodic reminders of our notices, terms and conditions, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
+If you choose to visit our Website or use our Services, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms), including limitations on damages, resolution of disputes through arbitration, and application of the law of the state of California. If you have any concern about privacy at our Website or from our Services, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and the [Terms of Use](https://web.archive.org/terms) will change also. We may email periodic reminders of our notices, terms and conditions, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
 
 **USE OF THIS WEBSITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
