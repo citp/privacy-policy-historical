@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209012559id_/http%3A//support.littlebits.cc/entries/22220088-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204110104id_/http%3A//support.littlebits.cc/entries/22220088-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : littleBits customer service
+# Privacy Policy – littleBits customer service
 
 In short (and plain English), we are good people. We will never use your private information in a harmful way, never sell it, and never spam you without your consent. We also hate sites and companies that do that, and we respect your privacy, and clean inboxes!
 
-Below is the detailed privacy policy that our legal counsel said we had to include (sorry for the occasional caps, we promise we are not yelling  . For any questions, please [email us](mailto:info@littlebits.cc?subject=).
+Below is the detailed privacy policy that our legal counsel said we had to include (sorry for the occasional caps, we promise we are not yelling :) For any questions, please [**email us**](https://support.littlebits.cc/anonymous_requests/new).
 
-Cheers!  
-The littleTeam
+**Privacy Policy**
 
 **Who We Are**
 
 littleBits Electronics, Inc. (“littleBits”, “we” or “us”) has created this Privacy Policy in order to demonstrate our firm commitment to protecting your personal information.
 
-The following discloses our information gathering and dissemination practices relating to the website located at [http://www.littleBits.cc](http://www.littlebits.cc/) and other services that we may make available from time to time to users (together, the “Services”). We will not share your personal information with anyone except as described in this Privacy Policy. By using the Services or otherwise interacting with littleBits, you consent to the collection and use by us of any personal and other information you provide while using the Services in accordance our Privacy Policy (this “Privacy Policy”). If you do not agree to the Privacy Policy, please do not use the Services.
+The following discloses our information gathering and dissemination practices relating to the website located at [**http://www.littleBits.cc**](http://www.littlebits.cc/) and other services that we may make available from time to time to users (together, the “Services”). We will not share your personal information with anyone except as described in this Privacy Policy. By using the Services or otherwise interacting with littleBits, you consent to the collection and use by us of any personal and other information you provide while using the Services in accordance our Privacy Policy (this “Privacy Policy”). If you do not agree to the Privacy Policy, please do not use the Services.
 
 If you have any questions about how we collect, store and use your personal information and data please contact us as follows or in order to access or correct your personal information:
 
@@ -27,7 +26,7 @@ littleBits Electronics
 60 East 11th St, 5th floor  
 New York NY 10003
 
-This Privacy Policy is supplemental to our [Terms of Use](http://littlebits.cc/terms-of-use).  
+This Privacy Policy is supplemental to our [**Terms of Use**](http://littlebits.cc/terms-of-use).  
  
 
 **Using Our Services**  
@@ -62,7 +61,7 @@ Location-Based Information
 
 We may collect information relating to your general location based on (1) information you manually provide, (2) the IP address of your computer. We may also be able to detect when your personal communication device is activated as well as when and how you are using it. littleBits may collect data to verify the information you provide manually and to provide you with location-based content. We may associate personally identifiable information with location-based information for our internal use and to improve your experience with the Services.
 
-Site Visitorship Data 
+Site Visitorship Data
 
 Site visitorship data is information about the way a website is used that is not associated with an individual’s identity. We use anonymous data regarding online behavior to better understand how people use our Services. To that end, we may use aggregated, anonymous online traffic behavior along with information from third parties to track usage trends and thereby improve the Services. We may also use this aggregated, anonymous information to develop reports that we may share with third party marketing partners and affiliates. The kind of information we may collect includes:
 
@@ -95,7 +94,7 @@ littleBits uses industry-standard security techniques to help protect the person
  
 
 **Communications and Opt-Out Rights**  
-From time to time, littleBits and its affiliates may invite you to be on our mailing lists in order to communicate with you regarding your account, special offers, invitations to events, offers for services, product testing opportunities and updates to the Services, press releases and announcements concerning the services we provide, contests and sweepstakes, as well as important changes in our [Terms of Use](http://littlebits.cc/terms-of-use) and this Privacy Policy. By accepting to be on our mailing lists, you consent to receiving such communications. If at any time you decide for any reason that you no longer wish to receive such communications, you may “opt out” of receiving them by selecting the “opt out” or “unsubscribe” link, or follow the opt-out instructions that may be included in such communication.
+From time to time, littleBits and its affiliates may invite you to be on our mailing lists in order to communicate with you regarding your account, special offers, invitations to events, offers for services, product testing opportunities and updates to the Services, press releases and announcements concerning the services we provide, contests and sweepstakes, as well as important changes in our [**Terms of Use**](http://littlebits.cc/terms-of-use) and this Privacy Policy. By accepting to be on our mailing lists, you consent to receiving such communications. If at any time you decide for any reason that you no longer wish to receive such communications, you may “opt out” of receiving them by selecting the “opt out” or “unsubscribe” link, or follow the opt-out instructions that may be included in such communication.
 
 Please be aware that when you opt out of receiving communications, it may affect the services you have chosen to receive from us where accepting the communications is a condition of receiving such services. By registering as a user or purchasing products, you consent to receiving administration and transaction related communications.  
  
@@ -107,7 +106,7 @@ Other websites accessible through the Services (through hyperlinks, advertisemen
 **littleBits Children’s Privacy Policy**  
 We do not knowingly collect or distribute personally identifiable information from children under the age of 13 without prior verifiable parental consent. As one measure to ensure that we do not gather personally identifiable information from children under 13, we require that all individuals provide a valid credit card number before completing a purchase. If you are the parent or guardian of a child under the age of 13 and believe that we have collected personally identifiable information contrary to this policy or, in the US, the Children’s Online Privacy Protection Act (COPPA), please contact us by e-mailso that we may delete such information. You can learn more about COPPA at the United States Federal Trade Commission website:
 
-<http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>  
+[**http://www.ftc.gov/privacy/privacyinitiatives/childrens.html**](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)  
  
 
 **Safe Harbor Data Privacy Notice**  
@@ -123,4 +122,5 @@ This Privacy Policy is effective as of February 20th, 2012. We reserve the righ
  
 
 **Contact Us**  
-It is important for us to know what visitors have to say about our Services. To contact us with your questions or comments please email us at [info[AT]littleBits.cc](mailto:info@littlebits.cc?subject=%22Online%20Privacy%22)
+It is important for us to know what visitors have to say about our Services. To contact us with your questions or comments please [**email us**](https://support.littlebits.cc/anonymous_requests/new).[  
+](mailto:info@littlebits.cc?subject=%22Online%20Privacy%22)
