@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilkings.net privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604010751id_/http%3A//tamilkings.net/topic/184-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilkings.net privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204142131id_/http%3A//tamilkings.net/topic/184-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - News & Announcement - TamilKings.net - Download Latest Tamil Movies & MP3
 
@@ -15,7 +15,7 @@ Mission Impossible
   * [ ](http://tamilkings.net/user/2-buzz%E2%84%A2/ "View Profile: Buzz™")
   *   * **Posts: 1,871**
 **Topics: 1654**
-  * 478 thanks 
+  * 479 thanks 
 
 
 
