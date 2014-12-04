@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliedbank.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080820id_/http%3A//appliedbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedbank.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204034638id_/http%3A//www.appliedbank.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Applied Bank
 
@@ -61,11 +61,11 @@ If you opt-out, you may still receive offers for products and services provided 
 
 ## Vermont Residents Only
 
-We will not disclose information about you to other companies for the purpose of providing you with their products and services unless you authorize us to do so (“opt-in”). You may opt-in by writing to the Bank c/o 17125, Wilmington, DE 19850-7125 or by contacting our Customer Service Department at 561-982-9111.
+We will not disclose information about you to other companies for the purpose of providing you with their products and services unless you authorize us to do so (“opt-in”). You may opt-in by writing to the Bank c/o 17125, Wilmington, DE 19850-7125 or by contacting our Customer Service Department at 484-840-2705.
 
 Even if you do not opt-in, you may still receive offers for products and services provided by affiliated or non-affiliated companies when we communicate with you about your account. These offers, however, will be developed without disclosing information about you to the other companies.
 
-If you elect to opt-in and subsequently decide to revoke the opt-in direction you have given to us, you can write to the Bank c/o P.O. Box 17125, Wilmington, DE 19850-7125 or contact our Customer Service Department at 561-982-9111.
+If you elect to opt-in and subsequently decide to revoke the opt-in direction you have given to us, you can write to the Bank c/o P.O. Box 17125, Wilmington, DE 19850-7125 or contact our Customer Service Department at 484-840-2705.
 
 ## Protecting Our Children
 
