@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstontexans.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328095324id_/http%3A//www.houstontexans.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstontexans.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204080506id_/http%3A//www.houstontexans.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy-policy
 
@@ -151,7 +151,7 @@ As explained in this privacy policy, whenever you agree to let us collect person
 
 Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
 
-If you are a California resident and you would like to make such a request, please send an email to CAPrivacyRights@houstontexans.com or write to us at CA Privacy Rights, Houston Texans, 2 Reliant Park, Houston, TX 77054
+If you are a California resident and you would like to make such a request, please send an email to CAPrivacyRights@houstontexans.com or write to us at CA Privacy Rights, Houston Texans, Two NRG Park, Houston, TX 77054
 
 **QUESTIONS ABOUT THIS PRIVACY POLICY**
 
@@ -161,7 +161,7 @@ Questions regarding this statement should be directed to:
 
 Houston Texans
 
-2 Reliant Park
+Two NRG Park
 
 Houston TX 77054
 
