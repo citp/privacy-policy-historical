@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenworldinvestor.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602202011id_/http%3A//www.greenworldinvestor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenworldinvestor.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204062809id_/http%3A//www.greenworldinvestor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Green World Investor
 
