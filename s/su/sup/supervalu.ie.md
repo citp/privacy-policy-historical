@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supervalu.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131507id_/http%3A//supervalu.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supervalu.ie privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204162921id_/http%3A//supervalu.ie/privacy-statement) for the most accurate reproduction.*
 
 # SuperValu | Privacy Statement |
 
