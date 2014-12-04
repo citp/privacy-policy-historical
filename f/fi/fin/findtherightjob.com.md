@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604005730id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204034808id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## FindTheRightJob Privacy Policy
 
-FindTheRightJob is committed to your privacy. This Privacy Policy describes the types of information we collect from and about you when you visit our website www.findtherightjob.com (the "Site"). This Privacy Policy also explains how Employment Network may use and disclose such information, as well as your ability to control certain uses of it.
+FindTheRightJob is committed to your privacy. This Privacy Policy describes the types of information we collect from and about you when you visit our website www.findtherightjob.com or any other website or online service owned or operated by The Employment Network that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how The Employment Network may use and disclose such information, as well as your ability to control certain uses of it.
 
 [ ](https://privacy.truste.com/privacy-seal/CollegeBound-Network-/validation?rid=b9596d5f-e903-4434-a695-95d1ec117c6d "TRUSTe online privacy certification")
 
-Last Updated: 01/09/14
+Last Updated: 06/25/14
 
 This Site has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. To view a list of sites that are certified by TRUSTe, please click on the seal located at the top of the Privacy Policy.
 
@@ -17,14 +17,10 @@ TRUSTe's mission, as an independent third party, is to accelerate online trust a
 ### INFORMATION COLLECTION
 
 **Personal Information**  
-FindTheRightJob, or a third party service provider acting on our behalf ("Service Provider"), collects personal information from you when you choose to share it with us to use our matching services, create an online account with us, order products or services from us, request information from us, sign up for newsletters or our email list, participate in a survey, or otherwise contact us. The personal information we collect may include your name, address, telephone number, email address, date of birth, education level and year of graduation, information you include on your resume, and, if you are a CollegeBound Network customer, credit/debit card number. We may combine your personal information with additional personal information and non-personal information we collect or receive about you from other online and offline sources.
+FindTheRightJob, or a third party service provider acting on our behalf ("Service Provider"), collects personal information from you when you choose to share it with us to use our matching services, create an online account with us, order products or services from us, request information from us, sign up for newsletters or our email list, participate in a survey, or otherwise contact us. The personal information we collect may include your name, address, telephone number, email address, date of birth, education level and year of graduation, information you include on your resume, and, if you are an Employment Network customer, credit/debit card number. We may combine your personal information with additional personal information and non-personal information we collect or receive about you from other online and offline sources.
 
 **Information Automatically Collected**  
 We, or our Service Providers, may use cookies, web beacons, pixel tags, log files, local shared objects (Flash cookies), or other technologies to collect certain information about visitors to our Site, use of our online services, and interactions with our emails and online advertisements. For example, we or our Service Providers may automatically collect certain non-personal information from you, including but not limited to your browser type, operating system, Internet Protocol ("IP") address and the domain name from which you accessed the Site. In addition, we or our Service Providers may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site, other click-stream or site usage data, emails that you open, forward or click-through to our Site.
-
-We may also use third party advertisements to support our Site. Some of these advertisers may use technology such as cookies, web beacons, pixel tags, log files, or local shared objects when they advertise on our Site, which may send these advertisers information including your non-personal information.
-
-You are free to set your Internet browser to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the "Help" menu of your browser to learn how to change your cookie preferences. To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices about not having this information used by certain Service Providers, please click [here](http://www.networkadvertising.org/choices/) and [here](http://www.google.com/analytics/learn/privacy.html). To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 **Information Collected From Other Sources**  
 We may obtain information about you from other sources, including commercially available sources such as data aggregators and public databases. This information may include name, demographic information, updated contact information, interests, and publicly-observed data, such as from social media and online activity. We may combine this information with the information we collect from and about you to help us tailor our communications to you and to improve our services and products.
@@ -63,9 +59,33 @@ FindTheRightJob may share aggregate or anonymous non-personal information with t
 
 Also, FindTheRightJob may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Policy.
 
-### YOUR CALIFORNIA PRIVACY RIGHTS
+### YOUR CALIFORNIA PRIVACY RIGHTS: MARKETING AND "DO NOT TRACK"
 
 If you are a California resident, you may opt-out of our disclosure of personal information to third parties for their direct marketing purposes. To opt out, please contact us at [CAprivacy@employmentnetwork.net](mailto:CAprivacy@employmentnetwork.net).
+
+California residents may choose to opt-out of the sharing of their personal information with third parties for direct marketing purposes at any time by submitting a request in writing to The Employment Network, Compliance Department, 1200 South Ave., Staten Island, NY 10314 or by e-mailing us the request at: [CAprivacy@employmentnetwork.net](mailto:CAprivacy@employmentnetwork.net). We honor all such opt-out requests and it is our policy not to share personal information with third parties for direct marketing purposes where you have submitted such a request. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
+
+California law requires that we disclose how our site responds to "Do Not Track" (DNT) signals from browsers and other mechanism that express the user's preference not to be tracked. Currently, there is not an industry-wide accepted definition of what is a DNT signal. For this reason, we currently do not respond to such signals.
+
+### COOKIES AND DATA COLLECTION TECHNOLOGIES
+
+We may use third party advertisements to support our Site. Some of these advertisers may use technology such as cookies, web beacons, pixel tags, log files, or local shared objects (collectively, "Data Collection Technologies") when they advertise on our Site, which may send these advertisers information including your non-personal information.
+
+You are free to set your Internet browser to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the "Help" menu of your browser to learn how to change your cookie preferences.
+
+Our Site also uses Data Collection Technologies to help manage our online advertising program. These Data Collection Technologies are provided by our ad management partners and other third parties.
+
+In addition, we and our ad management partners may use these Data Collection Technologies to track the actions of users of the Site, to improve our products and services, to measure statistics of our marketing efforts, and to deliver advertisements on our Site or on other websites across the Internet that may be more relevant to individual consumers.
+
+We support the Digital Advertising Alliance's Self-Regulatory Principles for Interest-Based Advertising ("Principles"). This means that we allow you to exercise choice regarding the collection of information about your online activities over time and across third-party websites for online interest-based advertising purposes. More information about these Principles can be found at [www.aboutads.info/](http://www.aboutads.info/).
+
+### OPTING OUT OF INTEREST-BASED ADVERTISEMENTS
+
+If you want to "opt out" of receiving online interest-based advertisements, please follow the instructions at [www.aboutads.info/choices](http://www.aboutads.info/choices), or [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) and an "opt-out" cookie will be placed on your device indicating that you do not want to receive interest-based advertisements. If you delete cookies on your device generally, you will need to opt-out again.
+
+Please note that when you "opt-out" of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on the Site. It means that the online ads that you do see will not be based on your particular interests. In addition, when you "opt-out" of receiving interest-based advertisements through one of the links above, certain Data Collection Technologies on our Site may still collect information about your use of the Site, including for analytics and fraud prevention as well as any other purpose permitted under the Principles. When we use the term "Data Collection Technologies" we are referring to any technology that collects information about your use of the Site and potentially about your activities when you leave the Site and visit other sites on the Internet.
+
+To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 ### PUBLIC FORUMS
 
@@ -95,7 +115,7 @@ When you enter sensitive information (such as credit card information) on our fo
 
 ### ACCESS TO YOUR PERSONAL INFORMATION
 
-To update your information stored by CollegeBound Network, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.employmentnetwork.net/opt-out/) page. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+To update your information stored by The Employment Network, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.employmentnetwork.net/opt-out/) page. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### IF YOU HAVE QUESTIONS
 
