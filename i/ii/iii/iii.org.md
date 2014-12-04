@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the iii.org privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228132345id_/http%3A//www.iii.org/media/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.org privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204035515id_/http%3A//www.iii.org/privacy-policy) for the most accurate reproduction.*
 
-# III - Privacy Policy
-
-**_The Insurance Information Institute Web Site_**
-
-**_PRIVACY POLICY_**
+# Privacy Policy | III
 
 **Effective Date 07/24/2007**
 
@@ -20,7 +16,7 @@ If you choose to contact us, or if you request further information or periodic u
 
 **Information Collected through Forms on the Site:**
 
-If you fill out a form that will generate and automatically send us an email through the Site, we will ask for your email address, and we may also ask for other information, including your name, company name, phone number and, in some cases, your city and state of residence. Such information may be used to contact you in response to your submission or to send you information and updates about the Insurance Information Institute and our services. If you wish to be removed at any time from our email update list, please send an email to [info@iii.org](mailto:info@iii.org?subject=REMOVE) with the word "remove" in the subject field. 
+If you fill out a form that will generate and automatically send us an email through the Site, we will ask for your email address, and we may also ask for other information, including your name, company name, phone number and, in some cases, your city and state of residence. Such information may be used to contact you in response to your submission or to send you information and updates about the Insurance Information Institute and our services. If you wish to be removed at any time from our email update list, please send an email to [_info@iii.org_](mailto:info@iii.org?subject=REMOVE) with the word "remove" in the subject field.
 
 **Information Collected by Yahoo! Shopping:**
 
@@ -32,17 +28,17 @@ We also collect aggregate tracking information derived mainly from tallying page
 
 **_PROTECTION OF INFORMATION_**
 
-We make reasonable efforts to protect personal information received from Site users against unauthorized use or disclosure. 
+We make reasonable efforts to protect personal information received from Site users against unauthorized use or disclosure.
 
 **_USE OF INFORMATION_**
 
-Email addresses and other information provided by users of the Site will be used to respond to your requests and to provide requested information and updates about the Insurance Information Institute and its services. If you wish to be removed at any time from our email update list, please send an email to [info@iii.org](mailto:info@iii.org?subject=REMOVE) with the word "remove" in the subject field. Site-tracking and usage information we collect is used to improve the Site and the Insurance Information Institute services. 
+Email addresses and other information provided by users of the Site will be used to respond to your requests and to provide requested information and updates about the Insurance Information Institute and its services. If you wish to be removed at any time from our email update list, please send an email to [_info@iii.org_](mailto:info@iii.org?subject=REMOVE) with the word "remove" in the subject field. Site-tracking and usage information we collect is used to improve the Site and the Insurance Information Institute services.
 
 **_DISCLOSURE OF INFORMATION_**
 
 **Sharing with Affiliated Organizations and Vendors:**
 
-Organizations other than the Insurance Information Institute may be engaged by the Insurance Information Institute to perform a variety of functions, including providing technical and hosting services for the Site. These organizations may have access to information you provide if necessary to perform such functions; however, they may only use such personal information for the purpose of performing that function and may not use it for any other purpose. 
+Organizations other than the Insurance Information Institute may be engaged by the Insurance Information Institute to perform a variety of functions, including providing technical and hosting services for the Site. These organizations may have access to information you provide if necessary to perform such functions; however, they may only use such personal information for the purpose of performing that function and may not use it for any other purpose.
 
 **Sharing with Third Parties:**
 
@@ -56,8 +52,8 @@ We will notify users of the Site of modifications to our Privacy Policy by chang
 
 **Contact the Insurance Information Institute:**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with the Site, you can contact us at: [info@iii.org](mailto:info@iii.org?subject=PRIVACY%20POLICY%20REQUEST) or by writing to us at the address below. We are always glad to hear from you.
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with the Site, you can contact us at: [_info@iii.org_](mailto:info@iii.org?subject=PRIVACY%20POLICY%20REQUEST) or by writing to us at the address below. We are always glad to hear from you.
 
-Insurance Information Institute   
+Insurance Information Institute  
 110 William Street  
 New York, NY 10038
