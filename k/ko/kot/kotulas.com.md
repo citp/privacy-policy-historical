@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508161928id_/http%3A//www.kotulas.com/deals/PrivacyView%3FcatalogId%3D10602%26langId%3D-1%26storeId%3D10152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204055052id_/http%3A//www.kotulas.com/deals/PrivacyView%3FcatalogId%3D10602%26langId%3D-1%26storeId%3D10152) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,9 @@ Burnsville, MN 55306-6936
 
 ## Opting Out of Third-party Services
 
-To learn more about Google Analytics, their privacy policies or how to opt-out of their services, please see their [privacy overview](http://www.google.com/intl/en_uk/analytics/privacyoverview.html).
+To learn more about Google Analytics, their privacy policies or how to opt-out of their services, please see their [privacy overview](http://www.google.com/policies/privacy/partners/).
+
+To learn more about Criteo, their privacy policies or how to opt-out of their services, please see their [privacy overview](http://www.criteo.com/en/privacy-policy).
 
 ## Will Kotulas.com sell my email address?
 
