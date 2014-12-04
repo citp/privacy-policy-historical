@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518213133id_/http%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204061531id_/https%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -29,6 +29,8 @@ The security of your Personal Information is important to us, but remember that 
 ## Links To Other Sites
 
 Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. 
+
+We may on occasion display affiliate links to other websites. Should you click on these links, and subsequently purchase the product (for instance a broadband package), StreetCheck will receive a payment from that website for referring you. We will only create these links where we believe that the product is truly one that our customers would want, and we use this money to run the website. 
 
 Wired Software Ltd has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services. 
 
