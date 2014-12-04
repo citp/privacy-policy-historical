@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611123656id_/http%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204083913id_/http%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy) for the most accurate reproduction.*
 
-# HealthyPlace.com Privacy Statement - HealthyPlace
+# HealthyPlace.com Privacy Statement
 
 [](http://www.addthis.com/bookmark.php?v=300&pubid=healthyplace)
 
