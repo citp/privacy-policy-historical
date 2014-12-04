@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lifecare.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045515id_/http%3A//www.lifecare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecare.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204171100id_/http%3A//www.lifecare.com/privacy-policy) for the most accurate reproduction.*
 
-# LifeCare Privacy Policy | LifeCare
+# LifeCare Privacy Policy - LifeCare
 
-This privacy policy will advise you about how we protect your personal information. Please read this policy carefully. This policy applies to your use of all of the sites and services owned or operated by LifeCare and any other site that we may own or operate currently or in the future (collectively, the "LifeCare Sites"). Unless we say otherwise, all references to the LifeCare Sites in this policy include all such sites. This policy does not apply to any sites other than the LifeCare Sites.
+This privacy policy will advise you about how we protect your personal information. Please read this policy carefully. This policy applies to your use of all of the sites and services owned or operated by LifeCare and any other site that we may own or operate currently or in the future (collectively, the “LifeCare Sites”). Unless we say otherwise, all references to the LifeCare Sites in this policy include all such sites. This policy does not apply to any sites other than the LifeCare Sites.
 
 We may need to change this policy from time to time, so you should refer back to this policy regularly. Your use of the system after changes have been made shall be deemed to be your acceptance of any changes. If you do not accept any changes that are made to this policy, do not use this site.
 
-Protecting your privacy and your information is a top priority. We have taken careful measures to secure your information. Our secure server software encrypts information, ensuring that all Internet transactions from your PC to our servers remain private (unless sent by an unsecured means, such as e-mail). Use of this encryption is facilitated automatically. To protect the integrity and confidentiality of your personal information, our web servers reside behind firewalls. In addition to these security measures, only our employees who need access to your personal information to carry out their duties have access to that information. Our employees must abide by our company's privacy policy, and are subject to disciplinary action for any violation of that policy.
+Protecting your privacy and your information is a top priority. We have taken careful measures to secure your information. Our secure server software encrypts information, ensuring that all Internet transactions from your PC to our servers remain private (unless sent by an unsecured means, such as e-mail). Use of this encryption is facilitated automatically. To protect the integrity and confidentiality of your personal information, our web servers reside behind firewalls. In addition to these security measures, only our employees who need access to your personal information to carry out their duties have access to that information. Our employees must abide by our company’s privacy policy, and are subject to disciplinary action for any violation of that policy.
 
 The confidentiality of any information you submit is protected by the Privacy Act of 1974, 5 U.S.C. 552a, and its implementing regulations, including 45 C.F.R. Part 5b; see also 67 Fed. Reg. 4965 (2002) (Employee Assistance Program System of Records Notice) to the extent applicable. Information collected from Federal employees is covered under the Privacy Act of 1974.
 
@@ -34,7 +34,7 @@ In addition, we will release specific information about you to comply with any v
 
 **PRIVACY OF CHILDREN**
 
-LifeCare realizes that children under the age of 13 may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices made available. We urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online. Therefore, LifeCare will not allow users under the age of 13 to use the site without the consent of their parent or guardian.
+LifeCare realizes that children under the age of 13 may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices made available. We urge all parents to participate in their children’s exploration of the Internet and any online services, and to teach their children about protecting their personal information while online. Therefore, LifeCare will not allow users under the age of 13 to use the site without the consent of their parent or guardian.
 
 **THIRD PARTY CONTENT PROVIDERS/LINKS**
 
@@ -42,7 +42,7 @@ Users will find contents and products of other companies or organizations on our
 
 **USES OF COOKIES**
 
-LifeCare provides you with the opportunity to volunteer personal information while interacting with the many features of our site. In addition, visitor information may be collected automatically as you navigate through our sites. Personal and/or visitor information can be anything that identifies you or your accounts. These "cookies" of information may be used by us to help us manage the site and provide functionality to you, but we do not use this information for direct marketing or solicitation of business and do not provide this information to third parties except as required by law. LifeCare leverages session cookies only. These are not permanent cookies and are removed from when your browser closes or your computer is powered off.
+LifeCare provides you with the opportunity to volunteer personal information while interacting with the many features of our site. In addition, visitor information may be collected automatically as you navigate through our sites. Personal and/or visitor information can be anything that identifies you or your accounts. These “cookies” of information may be used by us to help us manage the site and provide functionality to you, but we do not use this information for direct marketing or solicitation of business and do not provide this information to third parties except as required by law. LifeCare leverages session cookies only. These are not permanent cookies and are removed from when your browser closes or your computer is powered off.
 
 **CORRECTING AND REMOVING YOUR INFORMATION**
 
