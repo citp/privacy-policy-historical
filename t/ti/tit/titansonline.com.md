@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214173507id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204081312id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
 
 # Tennessee Titans | Terms of Use and Privacy Policy
 
 ###### Titans Website Privacy Policy
 
-This privacy policy applies to the Tennessee Titans' website located at www.titansonline.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+This privacy policy applies to the Tennessee Titans' Website located at www.titansonline.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+
+By using the Website, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this privacy policy.
 
 If you have questions or concerns regarding this statement, you should first contact the internet department of the Tennessee Titans at 615-565-4000 (Tennessee Titans, Saint Thomas Sports Park, 460 Great Circle Rd., Nashville, TN, 37228).
 
@@ -31,7 +33,7 @@ Types of Information That May Be Collected
 
 The following are the types of information we may collect:
 
-**Information You Provide Us:** In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, unique identifiers, such as your user ID, user password, demographic information, such as your date of birth, age or gender.
+**Information You Provide Us:** In the course of using the Website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, unique identifiers, such as your user ID, user password, demographic information, such as your date of birth, age or gender.
 
 **Site Usage Information:** We may receive and store certain types of internet usage information whenever you visit the Website, such as your IP address."
 
@@ -81,7 +83,7 @@ At times, we may share your personal information with others for various purpose
 
 **Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
 
-Users that sign up for information on third-party web sites are submitting their information directly to a third-party, even though the pages may have the same look and feel as the Titans' official team web site. Please play close attention to each third party's respective privacy policy, which pertains only to its unique site.
+Users that sign up for information on third-party Websites are submitting their information directly to a third-party, even though the pages may have the same look and feel as the Titans' official team web site. Please play close attention to each third party's respective privacy policy, which pertains only to its unique site.
 
 **Aggregate Information:** We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
