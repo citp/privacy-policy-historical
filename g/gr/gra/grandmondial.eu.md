@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandmondial.eu privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501083250id_/http%3A//www.grandmondial.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandmondial.eu privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205055504id_/http%3A//www.grandmondial.eu/privacy) for the most accurate reproduction.*
 
 # Security : Grand Mondial Casino Privacy Policy
 
