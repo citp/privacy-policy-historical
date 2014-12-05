@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523065605id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205032521id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
 
 # Privacy Policy
 
