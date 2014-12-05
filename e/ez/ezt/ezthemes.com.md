@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411234608id_/http%3A//www.ezthemes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205221042id_/http%3A//www.ezthemes.com/privacy.php) for the most accurate reproduction.*
 
 # EZthemes: Desktop Themes and more.... Privacy Page.
-
- Windows 8 Stuff
 
  Categories
 
