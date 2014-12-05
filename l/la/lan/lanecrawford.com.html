@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lanecrawford.com privacy policy that was archived on 2014-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140606013327id_/http%3A//www.lanecrawford.com/about/content.jsp%3Fid%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lanecrawford.com privacy policy that was archived on 2014-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141205090530id_/http%3A//www.lanecrawford.com/about/content.jsp%3Fid%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 		<meta charset="utf-8">
@@ -8,13 +8,21 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta http-equiv="Cache-Control" content="no-store">
 		<meta http-equiv="imagetoolbar" content="no">
+		<link rel="shortcut icon" type="image/x-icon" href="http://media.lanecrawford.com/images/favicon.ico">
 		<meta name="viewport" content="width=995"> 
 		<meta name="keywords" content="Lane, Crawford, Shop, Designer, Brands, Online">
-		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-LQRD&amp;l=LCDataLayer"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+		<script id="scarab-js-api" async="" src="https://recommender.scarabresearch.com/js/1931DEE81F006F26/scarab-v2.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-LQRD&amp;l=LCDataLayer"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+	                                                  
+	                        var ScarabQueue = ScarabQueue || [];
+	                </script>
+        
+        <script type="text/javascript">
 	if (typeof console == "undefined") { this.console = {log: function() {} }; }
 
 	
 var Lang = {
+	"title.lc" : "Lane Crawford",
+
 	"day" : "Day",
 
 	"day.1" : "Monday",
@@ -54,12 +62,27 @@ var Lang = {
 	"today" : "today,",
 	"tomorrow" : "tomorrow,",
 	
+	"site.msg.gigya.unsupport.android" : "To protect your privacy, social login is disabled on the Android browser. To continue, please <a href='#' class='forgot-password'>create a password</a>.",
+	
 	
 	
 	"pdpV2.product.available.delivery.tips" : "Click to see other destinations",
 	"pdpV2.product.available.collect.at.store" : "Collect At Store:",
 	"pdpV2.product.available.collect.at.store.tips" : "Click to see more stores",
 	"pdpV2.product.available.collect.at.store.details" : "Details",
+	
+	"product.listing.productItem.onlineExclusive.text": "Online Exclusive",
+	"product.listing.productItem.lcExclusive.text": "Lane Crawford Exclusive",
+	"product.listing.productItem.soldOut.text": "Sold Out",
+	"product.listing.productItem.notInStock.text": "Unavailable",
+	"product.listing.productItem.unavailable.text": "Unavailable",
+	"product.listing.productItem.limitedSizes.text": "Limited Sizes",
+	"product.listing.productItem.onlineOnly.text": "Online Only",
+	"product.listing.productItem.inStoreOnly.text": "In Store Only",
+	"product.listing.productItem.preOrder.text": "Pre-Order",
+	"product.listing.productItem.comingSoon.text": "Coming Soon",
+	"product.listing.productItem.runway.text": "Runway",
+	"product.listing.productItem.newSeason.text": "New Season",
 	
 	"deliveryPromise.deliveryDatePromiseCutOffTime" : "Order before 1 pm for delivery {0}",
 	"deliveryPromise.dduMsg" : "Estimated despatch on {0}<br/>(actual delivery date is subject to local customs clearance)",
@@ -72,12 +95,25 @@ var Lang = {
 	
 	"deliveryPromise.text.today" : "Today",
 	"deliveryPromise.text.tomorrow" : "Tomorrow",
-	"deliveryPromise.text.to" : "to"
+	"deliveryPromise.text.to" : "to&nbsp;",
+	
+	"deliveryPromise.default.hk" : "Central - 中环",
+	"deliveryPromise.default.cn" : "北京市",
+	
+	"giftlist.title" : "My Wish List",
+	"giftlist.lc.wish.list": "Lane Crawford Wish List"
+	
 };
 
 	
-	window.lc = {config: { settings: []  }};
-	window.lc.config.settings.push({
+	window.lcInfo = {
+		delayAction: [],
+		delayTracking: [],
+		config: {
+			settings: []
+		}
+	};
+	window.lcInfo.config.settings.push({
 		"sns":{
 			"isEnabled": true,
 			"appIds":{
@@ -92,13 +128,40 @@ var Lang = {
 		"site":{
 			"siteID": "en_US",
 			"siteUrl": "www.lanecrawford.com",
+			"customerCareEmail": "Lane Crawford<customercare@lanecrawford.com>",
 			"nonSecureUrlToContextRoot": "http://www.lanecrawford.com",
-			"secureUrlToContextRoot": "https://secure.lanecrawford.com"
+			"secureUrlToContextRoot": "https://secure.lanecrawford.com",
+			"log": false
+		},
+		"tracking":{
+			"performMarketingTracking":{
+				"switch":"true"
+			},
+			"httpool":{
+				"switch":"true"
+			},
+			"mediaV":{
+				"switch":"true"
+			},
+			"chineseAn":{
+				"switch":"false"
+			}
+		},
+		"page":{
+			"dataLayerId":""
 		},
 		"profile": {
+			"vipNumber": "",
+			"giftlist": "gl195889954",
 			"isStaffUser": false,
 			"implyGender": "N",
-			"countryCode": "US"
+			"countryCode": "US",
+			"isLogin": (false || false),
+			"isUserSoftLoggedIn": false,
+			"isUserHardLoggedIn": false
+		},
+		"inventory": {
+			"limitedLevel": 3
 		}
 	});
 	
@@ -177,8 +240,6 @@ var Lang = {
 	siteStatus["isHttpsEnabled"] = true;
 	siteStatus["nonSecureUrlToContextRoot"] = "http://www.lanecrawford.com";
 	siteStatus["secureUrlToContextRoot"] = "https://secure.lanecrawford.com";
-
-	
 	
 	siteStatus["siteId"] = "en_US";
 	siteStatus["isUserSoftLoggedIn"] = false;
@@ -218,36 +279,29 @@ var Lang = {
 </script><script>
 window.LCDataLayer = window.LCDataLayer || [];
 </script>
-<link rel="shortcut icon" type="image/x-icon" href="http://media.lanecrawford.com/images/favicon.ico">
-		
-		<link rel="stylesheet" href="http://media.lanecrawford.com/css/screen_blueprint.css?v=201406060638" type="text/css" charset="utf-8">
+<link rel="stylesheet" href="http://media.lanecrawford.com/css/screen_blueprint.css?v=201411281920" type="text/css" charset="utf-8">
 		<!--[if lt IE 8]>
-		<link rel="stylesheet" href="http://media.lanecrawford.com/css/ie_blueprint.css?v=201406060638" type="text/css" charset="utf-8" />
+		<link rel="stylesheet" href="http://media.lanecrawford.com/css/ie_blueprint.css?v=201411281920" type="text/css" charset="utf-8" />
 		<![endif]-->
-		<link rel="stylesheet" href="http://media.lanecrawford.com/css/print_blueprint.css?v=201406060638" type="text/css" charset="utf-8" media="print">
+		<link rel="stylesheet" href="http://media.lanecrawford.com/css/print_blueprint.css?v=201411281920" type="text/css" charset="utf-8" media="print">
 		
-		<link type="text/css" href="http://media.lanecrawford.com/css/jquery-ui.css?v=201406060638" rel="stylesheet">
-		<link type="text/css" href="http://media.lanecrawford.com/css/master.css?v=201406060638" rel="stylesheet">
-		<link type="text/css" href="http://media.lanecrawford.com/css/language_en_US.css?v=201406060638" rel="stylesheet" charset="utf-8">
+		<link type="text/css" href="http://media.lanecrawford.com/css/jquery-ui.css?v=201411281920" rel="stylesheet">
+		<link type="text/css" href="http://media.lanecrawford.com/css/master.css?v=201411281920" rel="stylesheet">
+		<link type="text/css" href="http://media.lanecrawford.com/css/language_en_US.css?v=201411281920" rel="stylesheet" charset="utf-8">
 		
-		<link rel="stylesheet" href="http://media.lanecrawford.com/css/info.css?v=201406060638" type="text/css" charset="utf-8">
-			<link rel="stylesheet" href="http://media.lanecrawford.com/css/postcss.css?v=201406060638" type="text/css" charset="utf-8">
+		<link rel="stylesheet" href="http://media.lanecrawford.com/css/info.css?v=201411281920" type="text/css" charset="utf-8">
+			<link rel="stylesheet" href="http://media.lanecrawford.com/css/postcss.css?v=201411281920" type="text/css" charset="utf-8">
 		
 		<!-- Targeter:CSSTargeter - start -->
-		<link rel="stylesheet" href="http://media.lanecrawford.com/feature/css/sale-13-top-nav-0.0.7.css?v=201406060638" type="text/css" charset="utf-8">
-				<link rel="stylesheet" href="http://media.lanecrawford.com/feature/css/aw13-scale-sale-flash-popup-v5.css?v=201406060638" type="text/css" charset="utf-8">
-				<link rel="stylesheet" href="http://media.lanecrawford.com/feature/css/special-offers-top-nav-0.0.8.css?v=201406060638" type="text/css" charset="utf-8">
-				<link rel="stylesheet" href="http://media.lanecrawford.com/css/v2/campaigns/aw13-sale-extension.css?v=201406060638" type="text/css" charset="utf-8">
+		<link rel="stylesheet" href="http://media.lanecrawford.com/feature/css/allStylesForCssTageter-v3.css?v=201411281920" type="text/css" charset="utf-8">
 				<!-- Targeter:CSSTargeter - end -->
 
 		<!--[if IE 6]>
-			<link rel="stylesheet" href="http://media.lanecrawford.com/css/ie6.css?v=201406060638" type="text/css" charset="utf-8" />
+			<link rel="stylesheet" href="http://media.lanecrawford.com/css/ie6.css?v=201411281920" type="text/css" charset="utf-8" />
 		<![endif]-->
-		<link rel="stylesheet" href="http://media.lanecrawford.com/feature/css/black-bar-v3.css" type="text/css" charset="utf-8">
-			<link rel="stylesheet" href="http://media.lanecrawford.com/feature/css/bbPopupV1.css" type="text/css" charset="utf-8">
-			<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script type="text/javascript" src="http://media.lanecrawford.com/js/jquery-pack.js?v=201406060638"></script>
-        		<script type="text/javascript" src="http://media.lanecrawford.com/js/js-class.js?v=201406060638"></script>
-        		<script type="text/javascript" src="http://media.lanecrawford.com/js/common.js?v=201406060638"></script>
+		<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script type="text/javascript" src="http://media.lanecrawford.com/js/jquery-pack.js?v=201411281920"></script>
+        		<script type="text/javascript" src="http://media.lanecrawford.com/js/js-class.js?v=201411281920"></script>
+        		<script type="text/javascript" src="http://media.lanecrawford.com/js/common.js?v=201411281920"></script>
         	<!--[if lte IE 7]><script src="http://media.lanecrawford.com/js/icon-lte-ie7.js"></script><![endif]-->
 
 		<!--[if IE]>
@@ -269,6 +323,10 @@ window.LCDataLayer = window.LCDataLayer || [];
 	
 	ga('create', 'UA-39826309-1', 'lanecrawford.com');
 	
+	ga('set', 'dimension7', 'lanecrawford');	// atg module war info
+	
+	//google custom dimension
+	
 	
 	var _gaq = _gaq || [];
 	var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
@@ -283,6 +341,7 @@ window.LCDataLayer = window.LCDataLayer || [];
 	//trace partner promotion id and vanity url
 	
 			GATracking.fnc.trackPageView({pageName:''});
+			var trackingPageName = '';
 		
 	
 	(function(d,s) {
@@ -294,9 +353,9 @@ window.LCDataLayer = window.LCDataLayer || [];
 	}(document,'script'));
 
 	</script>
-</head>
+<script src="//insights-dc.hotjar.com/static/client/insights.js"></script></head>
 
-	<body class="en_US locale-en_US POST_SALE  noSaleIdentity" data-reqlocale="en_US" data-server="hks4amberapp8.ecomm.com:8080" id="" data-rendermobilemode="false" data-ts="1402018406126">
+	<body data-datalayerid="" class="en_US locale-en_US POST_SALE  " data-reqlocale="en_US" data-server="hkestore3.ecomm.com:8080" id="" data-rendermobilemode="false" data-ts="1417770331218" data-war="lanecrawford">
 	
 	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','LCDataLayer','GTM-LQRD');</script>
@@ -311,7 +370,7 @@ window.LCDataLayer = window.LCDataLayer || [];
 		<span id="previousSiteId" class="none">en_US</span>
 		<span id="previousCountryCode" class="none">US</span>
 		
-		<form id="countrySelecterForm" action="/;jsessionid=82A3CC1B3D188E44634269EBAEF5E584.hk-oracle-estore-slave-1?_DARGS=/common/header.jsp.countrySelecterForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5686859359320674076" type="hidden"> </div><input name="countryCode" value="" type="hidden"><input name="_D:countryCode" value=" " type="hidden"><input name="state" value="" type="hidden"><input name="_D:state" value=" " type="hidden"><input name="city" value="" type="hidden"><input name="_D:city" value=" " type="hidden"><input name="district" value="" type="hidden"><input name="_D:district" value=" " type="hidden"><input name="previousSiteId" value="en_US" type="hidden"><input name="_D:previousSiteId" value=" " type="hidden"><input name="previousCountryCode" value="US" type="hidden"><input name="_D:previousCountryCode" value=" " type="hidden"><input name="shippingEmail" value="" type="hidden"><input name="_D:shippingEmail" value=" " type="hidden"><input name="addressPrefix" value="" type="hidden"><input name="_D:addressPrefix" value=" " type="hidden"><input name="addressFirstName" value="" type="hidden"><input name="_D:addressFirstName" value=" " type="hidden"><input name="addressLastName" value="" type="hidden"><input name="_D:addressLastName" value=" " type="hidden"><input name="addressCompanyName" value="" type="hidden"><input name="_D:addressCompanyName" value=" " type="hidden"><input name="addressAddress1" value="" type="hidden"><input name="_D:addressAddress1" value=" " type="hidden"><input name="addressAddress2" value="" type="hidden"><input name="_D:addressAddress2" value=" " type="hidden"><input name="addressAddress3" value="" type="hidden"><input name="_D:addressAddress3" value=" " type="hidden"><input name="addressDistrict" value="" type="hidden"><input name="_D:addressDistrict" value=" " type="hidden"><input name="addressCity" value="" type="hidden"><input name="_D:addressCity" value=" " type="hidden"><input name="addressState" value="" type="hidden"><input name="_D:addressState" value=" " type="hidden"><input name="addressCountry" value="" type="hidden"><input name="_D:addressCountry" value=" " type="hidden"><input name="addressPostalCode" value="" type="hidden"><input name="_D:addressPostalCode" value=" " type="hidden"><input name="addressPhonePrefix" value="" type="hidden"><input name="_D:addressPhonePrefix" value=" " type="hidden"><input name="addressPhoneNumber" value="" type="hidden"><input name="_D:addressPhoneNumber" value=" " type="hidden"><input name="addressPhoneExt" value="" type="hidden"><input name="_D:addressPhoneExt" value=" " type="hidden"><input id="locationSuccessURL" name="/atg/userprofiling/ProfileFormHandler.updateLocationSuccessURL" value="" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocationSuccessURL" value=" " type="hidden"><input id="locationErrorURL" name="/atg/userprofiling/ProfileFormHandler.updateLocationErrorURL" value="" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocationErrorURL" value=" " type="hidden"><input id="locationRedirectURL" name="/atg/userprofiling/ProfileFormHandler.updateLocationRedirectURL" value="" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocationRedirectURL" value=" " type="hidden"><input id="locationRedirectLocale" name="/atg/userprofiling/ProfileFormHandler.updateLocationRedirectLocale" value="" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocationRedirectLocale" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.updateLocation" value="Set as destination" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocation" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/header.jsp.countrySelecterForm" type="hidden"> </div></form><form id="globalMoveToCheckoutForm" name="globalMoveToCheckoutForm" action="/common/form/;jsessionid=82A3CC1B3D188E44634269EBAEF5E584.hk-oracle-estore-slave-1?_DARGS=/common/form/globalMoveToCheckoutForm.jsp.globalMoveToCheckoutForm#" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5686859359320674076" type="hidden"> </div><input name="/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckoutSuccessURL" value="/checkout/checkoutLogin.jsp" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckoutSuccessURL" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckoutErrorURL" value="/checkout/checkoutLogin.jsp" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckoutErrorURL" value=" " type="hidden"><input name="shippingMethod" value="0" type="hidden"><input name="_D:shippingMethod" value=" " type="hidden"><input name="isShipping" value="" type="hidden"><input name="_D:isShipping" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckout" value="submit" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckout" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/form/globalMoveToCheckoutForm.jsp.globalMoveToCheckoutForm" type="hidden"> </div></form><form id="globalAddItemForm" action="/;jsessionid=82A3CC1B3D188E44634269EBAEF5E584.hk-oracle-estore-slave-1?_DARGS=/common/header.jsp.globalAddItemForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input value="5686859359320674076" type="hidden"> </div><input id="globalAddItemFormAddItemCount" name="/atg/commerce/order/purchase/CartModifierFormHandler.addItemCount" value="1" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.addItemCount" value=" " type="hidden"><input id="globalAddItemFormProductId" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].productId" value="" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].productId" value=" " type="hidden"><input id="globalAddItemFormCatalogRefId" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].catalogRefId" value="" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].catalogRefId" value=" " type="hidden"><input id="globalAddItemFormQuantity" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].quantity" value="1" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].quantity" value=" " type="hidden"><input id="isGiftCardProduct" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].giftCardProduct" value="" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].giftCardProduct" value=" " type="hidden"><input id="giftCardAmount" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].customizedPrice" value="" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].customizedPrice" value=" " type="hidden"><input id="globalAddItemFormSuccessURL" name="/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrderSuccessURL" value="/common/form/globalAddItemAjaxResponse.jsp?successType=addItemToOrder" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrderSuccessURL" value=" " type="hidden"><input id="globalAddItemFormErrorURL" name="/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrderErrorURL" value="/common/form/globalAddItemAjaxResponse.jsp?errorType=addItemToOrder" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrderErrorURL" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrder" value="Add Item" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrder" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/header.jsp.globalAddItemForm" type="hidden"> </div></form><div id="wrapperContainer">
+		<form id="countrySelecterForm" action="/;jsessionid=7D5AD0E183406954785A2E2DBB880D6B.hk-oracle-estore-slave-3?_DARGS=/common/header.jsp.countrySelecterForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-2020483762145406252" type="hidden"> </div><input name="countryCode" value="" type="hidden"><input name="_D:countryCode" value=" " type="hidden"><input name="state" value="" type="hidden"><input name="_D:state" value=" " type="hidden"><input name="city" value="" type="hidden"><input name="_D:city" value=" " type="hidden"><input name="district" value="" type="hidden"><input name="_D:district" value=" " type="hidden"><input name="previousSiteId" value="en_US" type="hidden"><input name="_D:previousSiteId" value=" " type="hidden"><input name="previousCountryCode" value="US" type="hidden"><input name="_D:previousCountryCode" value=" " type="hidden"><input name="shippingEmail" value="" type="hidden"><input name="_D:shippingEmail" value=" " type="hidden"><input name="addressPrefix" value="" type="hidden"><input name="_D:addressPrefix" value=" " type="hidden"><input name="addressFirstName" value="" type="hidden"><input name="_D:addressFirstName" value=" " type="hidden"><input name="addressLastName" value="" type="hidden"><input name="_D:addressLastName" value=" " type="hidden"><input name="addressCompanyName" value="" type="hidden"><input name="_D:addressCompanyName" value=" " type="hidden"><input name="addressAddress1" value="" type="hidden"><input name="_D:addressAddress1" value=" " type="hidden"><input name="addressAddress2" value="" type="hidden"><input name="_D:addressAddress2" value=" " type="hidden"><input name="addressAddress3" value="" type="hidden"><input name="_D:addressAddress3" value=" " type="hidden"><input name="addressDistrict" value="" type="hidden"><input name="_D:addressDistrict" value=" " type="hidden"><input name="addressCity" value="" type="hidden"><input name="_D:addressCity" value=" " type="hidden"><input name="addressState" value="" type="hidden"><input name="_D:addressState" value=" " type="hidden"><input name="addressCountry" value="" type="hidden"><input name="_D:addressCountry" value=" " type="hidden"><input name="addressPostalCode" value="" type="hidden"><input name="_D:addressPostalCode" value=" " type="hidden"><input name="addressPhonePrefix" value="" type="hidden"><input name="_D:addressPhonePrefix" value=" " type="hidden"><input name="addressPhoneNumber" value="" type="hidden"><input name="_D:addressPhoneNumber" value=" " type="hidden"><input name="addressPhoneExt" value="" type="hidden"><input name="_D:addressPhoneExt" value=" " type="hidden"><input id="locationSuccessURL" name="/atg/userprofiling/ProfileFormHandler.updateLocationSuccessURL" value="" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocationSuccessURL" value=" " type="hidden"><input id="locationErrorURL" name="/atg/userprofiling/ProfileFormHandler.updateLocationErrorURL" value="" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocationErrorURL" value=" " type="hidden"><input id="locationRedirectURL" name="/atg/userprofiling/ProfileFormHandler.updateLocationRedirectURL" value="" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocationRedirectURL" value=" " type="hidden"><input id="locationRedirectLocale" name="/atg/userprofiling/ProfileFormHandler.updateLocationRedirectLocale" value="" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocationRedirectLocale" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.updateLocation" value="Set as destination" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocation" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/header.jsp.countrySelecterForm" type="hidden"> </div></form><form id="globalMoveToCheckoutForm" name="globalMoveToCheckoutForm" action="/common/form/;jsessionid=7D5AD0E183406954785A2E2DBB880D6B.hk-oracle-estore-slave-3?_DARGS=/common/form/globalMoveToCheckoutForm.jsp.globalMoveToCheckoutForm#" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-2020483762145406252" type="hidden"> </div><input name="/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckoutSuccessURL" value="/checkout/checkoutLogin.jsp" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckoutSuccessURL" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckoutErrorURL" value="/checkout/checkoutLogin.jsp" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckoutErrorURL" value=" " type="hidden"><input name="shippingMethod" value="0" type="hidden"><input name="_D:shippingMethod" value=" " type="hidden"><input name="isShipping" value="" type="hidden"><input name="_D:isShipping" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckout" value="submit" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.moveToCheckout" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/form/globalMoveToCheckoutForm.jsp.globalMoveToCheckoutForm" type="hidden"> </div></form><form id="globalAddItemForm" action="/;jsessionid=7D5AD0E183406954785A2E2DBB880D6B.hk-oracle-estore-slave-3?_DARGS=/common/header.jsp.globalAddItemForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input value="-2020483762145406252" type="hidden"> </div><input id="globalAddItemFormAddItemCount" name="/atg/commerce/order/purchase/CartModifierFormHandler.addItemCount" value="1" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.addItemCount" value=" " type="hidden"><input id="globalAddItemFormProductId" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].productId" value="" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].productId" value=" " type="hidden"><input id="globalAddItemFormCatalogRefId" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].catalogRefId" value="" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].catalogRefId" value=" " type="hidden"><input id="globalAddItemFormQuantity" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].quantity" value="1" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].quantity" value=" " type="hidden"><input id="isGiftCardProduct" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].giftCardProduct" value="" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].giftCardProduct" value=" " type="hidden"><input id="giftCardAmount" name="/atg/commerce/order/purchase/CartModifierFormHandler.items[0].customizedPrice" value="" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.items[0].customizedPrice" value=" " type="hidden"><input id="globalAddItemFormSuccessURL" name="/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrderSuccessURL" value="/common/form/globalAddItemAjaxResponse.jsp?successType=addItemToOrder" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrderSuccessURL" value=" " type="hidden"><input id="globalAddItemFormErrorURL" name="/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrderErrorURL" value="/common/form/globalAddItemAjaxResponse.jsp?errorType=addItemToOrder" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrderErrorURL" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrder" value="Add Item" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.addItemToOrder" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/header.jsp.globalAddItemForm" type="hidden"> </div></form><div id="wrapperContainer">
 <div class="wrapper site-locale-en_US  " id="genericContent_privacy">
 			<header id="header">
 	<div class="left-tools">
@@ -350,7 +409,7 @@ window.LCDataLayer = window.LCDataLayer || [];
 											<div class="lineGroup-text">OR</div>
 										</div>
 
-										<form id="headerSignInForm" name="headerSignInForm" action="https://secure.lanecrawford.com/common/form/headerSignInFormAjaxResponse.jsp" class="noCustom" method="get"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input value="5686859359320674076" type="hidden"> </div><input name="/atg/userprofiling/ProfileFormHandler.autoLogin" value="true" class="autoLogin" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.autoLogin" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.loginSuccessURL" value="https://secure.lanecrawford.com/common/form/headerSignInFormAjaxResponse.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.loginSuccessURL" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.loginErrorURL" value="https://secure.lanecrawford.com/common/form/headerSignInFormAjaxResponse.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.loginErrorURL" value=" " type="hidden"><fieldset class="newStyle">
+										<form id="headerSignInForm" name="headerSignInForm" action="https://secure.lanecrawford.com/common/form/headerSignInFormAjaxResponse.jsp" class="noCustom" method="get"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input value="-2020483762145406252" type="hidden"> </div><input name="/atg/userprofiling/ProfileFormHandler.autoLogin" value="true" class="autoLogin" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.autoLogin" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.loginSuccessURL" value="https://secure.lanecrawford.com/common/form/headerSignInFormAjaxResponse.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.loginSuccessURL" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.loginErrorURL" value="https://secure.lanecrawford.com/common/form/headerSignInFormAjaxResponse.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.loginErrorURL" value=" " type="hidden"><fieldset class="newStyle">
 												<div id="headerSignInOutputMsgContainer">
 													<p class="styled fieldset_label">
 														<span class="fieldset_highlight_desc login password" copymsg="true" nohyphen="true"></span>
@@ -376,7 +435,7 @@ window.LCDataLayer = window.LCDataLayer || [];
 												//initSignIn();
 											</script>
 											<p class="text-center">
-												<a href="#null" class="help dialog-fotgot-pw-s" id="header-signin-forgotten-pw"><u>Forgot your password?</u></a>
+												<a href="#null" class="help dialog-fotgot-pw-s" id="header-signin-forgotten-pw"><u>Forgotten password?</u></a>
 											</p>
 											<input name="/atg/userprofiling/ProfileFormHandler.login" value="login" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.login" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/header.jsp.headerSignInForm" type="hidden"> </div></form></div>
 								</div>
@@ -389,7 +448,7 @@ window.LCDataLayer = window.LCDataLayer || [];
 		</div>
 		<div id="language">
 				<ul>
-					<form id="localeForm" style="display:none;" action="/;jsessionid=82A3CC1B3D188E44634269EBAEF5E584.hk-oracle-estore-slave-1?_DARGS=/common/header.jsp.localeForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5686859359320674076" type="hidden"> </div><input name="locale" value="" type="hidden"><input name="_D:locale" value=" " type="hidden"><input id="localeSuccessURL" name="/atg/userprofiling/ProfileFormHandler.updateLocaleErrorURL" value="http://www.lanecrawford.com/about/content.jsp?id=privacy" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocaleErrorURL" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.updateLocaleSuccessURL" value="http://www.lanecrawford.com/about/content.jsp?id=privacy" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocaleSuccessURL" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.updateLocale" value="change" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocale" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/header.jsp.localeForm" type="hidden"> </div></form><li><span>English</span></li>
+					<form id="localeForm" style="display:none;" action="/;jsessionid=7D5AD0E183406954785A2E2DBB880D6B.hk-oracle-estore-slave-3?_DARGS=/common/header.jsp.localeForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-2020483762145406252" type="hidden"> </div><input name="locale" value="" type="hidden"><input name="_D:locale" value=" " type="hidden"><input id="localeSuccessURL" name="/atg/userprofiling/ProfileFormHandler.updateLocaleErrorURL" value="http://www.lanecrawford.com/about/content.jsp?id=privacy" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocaleErrorURL" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.updateLocaleSuccessURL" value="http://www.lanecrawford.com/about/content.jsp?id=privacy" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocaleSuccessURL" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.updateLocale" value="change" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.updateLocale" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/header.jsp.localeForm" type="hidden"> </div></form><li><span>English</span></li>
 							<li class="line">|</li>
 							<li class="chinese"><a href="#" class="zh_CN change-country  ">中文</a></li>
 								</ul>
@@ -409,7 +468,7 @@ window.LCDataLayer = window.LCDataLayer || [];
 			<li>
 				<address id="helpline"><span>
 				
-					Tel 1-855-214-7782</span></address>
+					Tel +852 2118 2288</span></address>
 			</li>
 		</ul>
 		</div>
@@ -419,19 +478,24 @@ window.LCDataLayer = window.LCDataLayer || [];
 		<a id="header-logo-link" href="/?_country=US" title="Lane Crawford"><span>Lane Crawford</span></a>
 	</div>
 	<div class="right-tools">
-			<div id="cartArea">
-				<input name="_t" type="hidden" value="Thu Jan 01 08:00:00 HKT 1970">
+		
+			<ul class="right-tool-grid">
+				<li class="header-wishlist-area">
+					<a href="/wishlist/?clickFromHeader=true" class="icon header-icon-wishlist" data-icon="">&nbsp;Wish List</a>
+				</li>
+				<li id="cartArea" class="relative">
+					<input name="_t" type="hidden" value="Thu Jan 01 08:00:00 HKT 1970">
 
 	<a name="minicart" id="cart-item">
         0&nbsp;items<i class="icon icon-arrow-down" data-icon=""></i>
 	</a>
-	<a id="header-bag-link" class="bag" href="/cart/summary.jsp"><span class="icon icon-bag" data-icon="">Your Shopping Bag&nbsp;-&nbsp;</span></a>
+	<a id="header-bag-link" class="bag" href="/cart/summary.jsp"><span class="icon icon-bag" data-icon="">&nbsp;</span></a>
     
 	<div class="clear"></div>
 
 	<div id="mini_cart">
 		<!-- Do not move the form out of the minicart, since the form must be reloaded after each delete all no longer available items operation would alter the form, it must be reloaded with each operation -->
-		<form id="globalRemoveItemForm" style="display:none;" name="globalRemoveItemForm" action="/;jsessionid=82A3CC1B3D188E44634269EBAEF5E584.hk-oracle-estore-slave-1?_DARGS=/common/minicart.jsp.globalRemoveItemForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5686859359320674076" type="hidden"> </div><input name="/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrderSuccessURL" value="/common/form/globalRemoveItemAjaxResponse.jsp?successType=removeItem" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrderSuccessURL" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrderErrorURL" value="/common/form/globalRemoveItemAjaxResponse.jsp?errorType=removeItem" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrderErrorURL" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.removalCommerceIds" value="" class="globalRemoveItemFormRemovalCommerceIds" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.removalCommerceIds" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrder" value="submit" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrder" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/minicart.jsp.globalRemoveItemForm" type="hidden"> </div></form><div class="inner_container">
+		<form id="globalRemoveItemForm" style="display:none;" name="globalRemoveItemForm" action="/;jsessionid=7D5AD0E183406954785A2E2DBB880D6B.hk-oracle-estore-slave-3?_DARGS=/common/minicart.jsp.globalRemoveItemForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-2020483762145406252" type="hidden"> </div><input name="/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrderSuccessURL" value="/common/form/globalRemoveItemAjaxResponse.jsp?successType=removeItem" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrderSuccessURL" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrderErrorURL" value="/common/form/globalRemoveItemAjaxResponse.jsp?errorType=removeItem" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrderErrorURL" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.removalCommerceIds" value="" class="globalRemoveItemFormRemovalCommerceIds" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.removalCommerceIds" value=" " type="hidden"><input name="/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrder" value="submit" type="hidden"><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrder" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/minicart.jsp.globalRemoveItemForm" type="hidden"> </div></form><div class="inner_container">
 			<div class="top_container">
 				<span>
 					0&nbsp;items</span>
@@ -470,13 +534,15 @@ window.LCDataLayer = window.LCDataLayer || [];
 	</div>
 	
 	<div id="minicartForGa"></div>
-</div>	<!-- div#cartArea -->
-			<div id="searchArea" class="relative searchFieldWrapper" data-mode="3" data-minchar="3" data-delay="0.5">
+</li>
+			</ul>
+		
+			<div id="searchArea" class="relative searchFieldWrapper" data-mode="2" data-minchar="3" data-delay="0.1">
 
 		<div id="womenGenderTrailString" style="display:none">6002:Women</div>
 		<div id="menGenderTrailString" style="display:none">6002:Men</div>
 		<div id="lifestyleGenderTrailString" style="display:none">6002:Lifestyle</div>
-		<form id="headerSearchForm" action="/;jsessionid=82A3CC1B3D188E44634269EBAEF5E584.hk-oracle-estore-slave-1?_DARGS=/common/include/headerSearchField.jsp.headerSearchForm" class="predictiveSearchForm clearfix" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5686859359320674076" type="hidden"> </div><input name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSort" value="strprop" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSort" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortOrder" value="ascending" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortOrder" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortProp" value="stockAvailabilityStatus" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortProp" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.searchMode" value="siteSearch" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.searchMode" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.successURL" value="/search/result.jsp" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.successURL" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.errorURL" value="/search/result.jsp" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.errorURL" value=" " type="hidden"><input name="question" value="" type="hidden"><input name="_D:question" value=" " type="hidden"><input name="/atg/search/repository/FacetSearchTools.refineConfig" value="GLOBAL" type="hidden"><input name="_D:/atg/search/repository/FacetSearchTools.refineConfig" value=" " type="hidden"><input id="impliedGender" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.impliedGender" value="" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.impliedGender" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.search" value="Search" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.search" value=" " type="hidden"><input id="header-search-field" placeholder="Enter Search Here..." name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.question" tabindex="1000" value="" class="searchField" autocomplete="off" type="text"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.question" value=" " type="hidden"><div id="predictive-search-clear" class="predictive-search-fnc-icon icon none" data-icon=""></div>
+		<form id="headerSearchForm" action="/;jsessionid=7D5AD0E183406954785A2E2DBB880D6B.hk-oracle-estore-slave-3?_DARGS=/common/include/headerSearchField.jsp.headerSearchForm" class="predictiveSearchForm clearfix" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-2020483762145406252" type="hidden"> </div><input name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSort" value="strprop" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSort" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortOrder" value="ascending" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortOrder" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortProp" value="stockAvailabilityStatus" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortProp" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.searchMode" value="siteSearch" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.searchMode" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.successURL" value="/search/result.jsp" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.successURL" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.errorURL" value="/search/result.jsp" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.errorURL" value=" " type="hidden"><input name="question" value="" type="hidden"><input name="_D:question" value=" " type="hidden"><input name="/atg/search/repository/FacetSearchTools.refineConfig" value="GLOBAL" type="hidden"><input name="_D:/atg/search/repository/FacetSearchTools.refineConfig" value=" " type="hidden"><input id="impliedGender" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.impliedGender" value="" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.impliedGender" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.search" value="Search" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.search" value=" " type="hidden"><input id="header-search-field" placeholder="Enter Search Here..." name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.question" tabindex="1000" value="" class="searchField" autocomplete="off" type="text"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.question" value=" " type="hidden"><div id="predictive-search-clear" class="predictive-search-fnc-icon icon none" data-icon=""></div>
 			<div id="predictive-search-magnifier" class="predictive-search-fnc-icon icon" data-icon=""></div>
 			<div id="predictive-search-loader" class="predictive-search-fnc-icon none"><img src="http://media.lanecrawford.com/images/ajax-loader.gif" class="predictive-search-loader" alt=""></div>
 			<input type="submit" id="search-field-submit" class="none">
@@ -522,278 +588,613 @@ window.LCDataLayer = window.LCDataLayer || [];
 </div> <!-- div.right-tools -->
 	<div class="clear"></div>
 </header><nav id="menu" class="nav-main " data-current-item="">
-				<!-- MainTopNav-SR-en_US -->
-<!-- INT -->
-<style>
+				<!-- MainTopNav-SR-en_US --> <!-- INT -->
+
+<p><style type="text/css">
+
 .nav-main-inner {
-	z-index: 150 !important;
+
+    z-index: 150 !important;
+
 }
-</style>
+
+</style>  <style type="text/css">
+
+
+
+#menu > ul > li.nav-root.nav-fantasia .nav-major-title
+
+{
+
+    color: #c60115 !important;
+
+}
+
+
+
+.nav-root-menu .col .in_text
+
+{
+
+    display: block;
+
+    font-size: 15px;
+
+    text-transform: uppercase;
+
+    font-family: "Engravers Gothic", Arial, Helvetica, sans-serif;
+
+    letter-spacing: 0.1em;
+
+}
+
+
+
+.nav-root-menu .col .text_space
+
+{
+
+    height: 0px;
+
+}
+
+.nav-root-menu .col .text_space2
+
+{
+
+    height: 6px;
+
+}
+
+
+
+</style></p>
+
 
 <ul class="nav-main-inner clearfix">
-	<li class="nav-root nav-women" data-label="women">
-		<a class="nav-item-title nav-major-title has-menu" href="/landing/women.jsp?catId=cat210001">Women</a>
-		<ul class="nav-root-menu nav-women-root-menu">
-			<li class="col col-small">
-				<a class="nav-item-hero nav-item-title" href="/new/_/m_newInWW/newlist.lc?clickFromTopNav=true">NEW IN</a>
-			</li>
-			<li class="col">
-				
-				<a class="nav-item-title" href="/product/designersListing.jsp?categoryId=cat210001">Brands</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/3-1-phillip-lim/women/plp">3.1 Phillip Lim</a></li>
-					<li><a href="/alexander-mcqueen/women/plp">Alexander McQueen</a></li>
-					<li><a href="/alexander-wang/women/plp">Alexander Wang</a></li>
-					<li><a href="/ash/women/plp">Ash</a></li>
-					<li><a href="/chloe/women/plp">Chloé</a></li>
-					<li><a href="/givenchy/women/plp">Givenchy</a></li>
-					<li><a href="/jimmy-choo/women/plp">Jimmy Choo</a></li>
-					<li><a href="/lanvin/women/plp">Lanvin</a></li>
-					<!-- <li><a href="/helmut-lang/women/plp">Helmut Lang</a></li> -->
-					<!-- <li><a href="/toms/women/plp">Toms</a></li> -->
-					<li><a href="/stella-mccartney/women/plp">Stella McCartney</a></li>
-					<li><a href="/valentino/women/plp">Valentino</a></li>
-					<li class="nav-all"><a href="/product/designersListing.jsp?categoryId=cat210001">See all brands</a></li>
-				</ul>
-			</li>
-			<li class="col">
-				<a class="nav-item-title" href="/product/category_subCategory.jsp?catId=catd000129&amp;clickFromTopNav=true">CLOTHING</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/product/category_subCategory.jsp?catId=catd000128&amp;clickFromTopNav=true">Dresses</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000120&amp;clickFromTopNav=true">Skirts</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000116&amp;clickFromTopNav=true">Tops</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000110&amp;clickFromTopNav=true">Jackets</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000104&amp;clickFromTopNav=true">Knitwear</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000098&amp;clickFromTopNav=true">Pants</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000090&amp;clickFromTopNav=true">Jeans</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000082&amp;clickFromTopNav=true">Coats</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd010010&amp;clickFromTopNav=true">Swimwear</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd010020&amp;clickFromTopNav=true">Undergarments</a></li>
-					<li class="nav-all"><a href="/product/category_subCategory.jsp?catId=catd000129&amp;clickFromTopNav=true">See all clothing</a></li>
-				</ul>
-			</li>
-			<li class="col col-small">
-				<a class="nav-item-title" href="/product/category_subCategory.jsp?catId=catd000075&amp;clickFromTopNav=true">SHOES</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/product/category_subCategory.jsp?catId=catd000074&amp;clickFromTopNav=true">Flats</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd010030&amp;clickFromTopNav=true">Low heel</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd010040&amp;clickFromTopNav=true">Mid heel</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd010050&amp;clickFromTopNav=true">High heel</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000053&amp;clickFromTopNav=true">Boots</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000072&amp;clickFromTopNav=true">Sandals</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000070&amp;clickFromTopNav=true">Sneakers</a></li>
-					<li class="nav-all"><a href="/product/category_subCategory.jsp?catId=catd000075&amp;clickFromTopNav=true">See all shoes</a></li>
-				</ul>
-			</li>
-			<li class="col col-small">
-				<a class="nav-item-title" href="/product/category_subCategory.jsp?catId=catd000042&amp;clickFromTopNav=true">BAGS</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/product/category_subCategory.jsp?catId=catd000041&amp;clickFromTopNav=true">Shoulder bags</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000037&amp;clickFromTopNav=true">Top handles</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000033&amp;clickFromTopNav=true">Totes</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000029&amp;clickFromTopNav=true">Clutches</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000025&amp;clickFromTopNav=true">Exotics</a></li>
-					<!-- <li><a href="/product/category_subCategory.jsp?catId=catd010080&clickFromTopNav=true">Luggage</a></li> -->
-					<li class="nav-all"><a href="/product/category_subCategory.jsp?catId=catd000042&amp;clickFromTopNav=true">See all bags</a></li>
-				</ul>
-			</li>
-			<li class="col">
-				<a class="nav-item-title" href="/product/category_subCategory.jsp?catId=catd000018&amp;clickFromTopNav=true">ACCESSORIES</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/product/category_subCategory.jsp?catId=catd000005&amp;clickFromTopNav=true">Fashion jewellery</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000009&amp;clickFromTopNav=true">Scarves</a></li>
-					<!-- <li><a href="/product/category_subCategory.jsp?catId=catd000012&clickFromTopNav=true">Fur</a></li> -->
-					<!-- <li><a href="/product/category_subCategory.jsp?catId=catd000015&clickFromTopNav=true">Gloves</a></li> -->
-					<li><a href="/product/category_subCategory.jsp?catId=catd010060&amp;clickFromTopNav=true">Eyewear</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd270003&amp;clickFromTopNav=true">Belts</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd000021&amp;clickFromTopNav=true">Small leather goods</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd270004&amp;clickFromTopNav=true">Watches</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=WomenSocks&amp;clickFromTopNav=true">Socks</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=catd010070&amp;clickFromTopNav=true">Other</a></li>
-					<li class="nav-all"><a href="/product/category_subCategory.jsp?catId=catd000018&amp;clickFromTopNav=true">See all accessories</a></li>
-				</ul>
-			</li>
-		</ul>
-	</li>
-	<li class="nav-root nav-men" data-label="men"><a class="nav-item-title nav-major-title has-menu" href="/landing/men.jsp">Men</a>
-		<ul class="nav-root-menu nav-men-root-menu">
-			<li class="col col-small">
-				<a class="nav-item-hero nav-item-title" href="/new/_/m_newInMW/newlist.lc?clickFromTopNav=true">NEW IN</a>
-			</li>
-			<li class="col">
-				<a class="nav-item-title" href="/product/designersListing.jsp?categoryId=cat50016">Brands</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/alexander-mcqueen/men/plp">Alexander McQueen</a></li>
-					<li><a href="/giorgio-armani/men/plp">Giorgio Armani</a></li>
-					<li><a href="/givenchy/men/plp">Givenchy</a></li>
-					<li><a href="/lanvin/men/plp">Lanvin</a></li>
-					<li><a href="/magnanni/men/plp">Magnanni</a></li>
-					<li><a href="/neil-barrett/men/plp">Neil Barrett</a></li>
-					<li><a href="/paul-smith/men/plp">Paul Smith</a></li>
-					<li><a href="/sacai/men/plp">sacai</a></li>
-					<li><a href="/scotch-soda/men/plp">Scotch &amp; Soda</a></li>
-					<li><a href="/valentino/men/plp">Valentino</a></li>
-					<li class="nav-all"><a href="/product/designersListing.jsp?categoryId=cat50016">See all brands</a></li>
-				</ul>
-			</li>
-			<li class="col">
-				<a class="nav-item-title" href="/product/category_subCategory.jsp?catId=MenClothing&amp;clickFromTopNav=true">CLOTHING</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/product/category_subCategory.jsp?catId=MenBlazers&amp;clickFromTopNav=true">Blazers</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenCoats&amp;clickFromTopNav=true">Coats</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenJackets&amp;clickFromTopNav=true">Jackets</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenJeans&amp;clickFromTopNav=true">Jeans</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenKnitwear&amp;clickFromTopNav=true">Knitwear</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenPantsAndShorts&amp;clickFromTopNav=true">Pants &amp; Shorts</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenPolos&amp;clickFromTopNav=true">Polos</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenPulloversAndHoodies&amp;clickFromTopNav=true">Pullovers &amp; Hoodies</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenShirts&amp;clickFromTopNav=true">Shirts</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenSuits&amp;clickFromTopNav=true">Suits</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenSwimwear&amp;clickFromTopNav=true">Swimwear</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenTShirts&amp;clickFromTopNav=true">T-shirts</a></li>
-					<li class="nav-all"><a href="/product/category_subCategory.jsp?catId=MenClothing&amp;clickFromTopNav=true">See all clothing</a></li>
-				</ul>
-			</li>
-			<li class="col col-small">
-				<a class="nav-item-title" href="/product/category_subCategory.jsp?catId=MenShoes&amp;clickFromTopNav=true">SHOES</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/product/category_subCategory.jsp?catId=MenBoots&amp;clickFromTopNav=true">Boots</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenLaceUps&amp;clickFromTopNav=true">Lace ups</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenLoafers&amp;clickFromTopNav=true">Loafers</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenSandals&amp;clickFromTopNav=true">Sandals</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenSlipOns&amp;clickFromTopNav=true">Slip-ons</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenSneakers&amp;clickFromTopNav=true">Sneakers</a></li>
-					<li class="nav-all"><a href="/product/category_subCategory.jsp?catId=MenShoes&amp;clickFromTopNav=true">See all shoes</a></li>
-				</ul>
-			</li>
-			<li class="col col-small">
-				<a class="nav-item-title" href="/product/category_subCategory.jsp?catId=MenBags&amp;clickFromTopNav=true">BAGS</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/product/category_subCategory.jsp?catId=MenBriefcases&amp;clickFromTopNav=true">Briefcases</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenBackpacks&amp;clickFromTopNav=true">Backpacks</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenMessengerBags&amp;clickFromTopNav=true">Messenger bags</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenPouches&amp;clickFromTopNav=true">Pouches</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenToteBags&amp;clickFromTopNav=true">Tote bags</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenLuggage&amp;clickFromTopNav=true">Luggage</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenWeekendBags&amp;clickFromTopNav=true">Weekend Bags</a></li>
-					<li class="nav-all"><a href="/product/category_subCategory.jsp?catId=MenBags&amp;clickFromTopNav=true">See all bags</a></li>
-				</ul>
-			</li>
-			<li class="col">
-				<a class="nav-item-title" href="/product/category_subCategory.jsp?catId=MenAccessories&amp;clickFromTopNav=true">ACCESSORIES</a>
-				<ul class="nav-sub-menu">
-					<li><a href="/product/category_subCategory.jsp?catId=MenBelts&amp;clickFromTopNav=true">Belts</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenCufflinksAndJewelleries&amp;clickFromTopNav=true">Cufflinks &amp; Jewellery</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenEyewear&amp;clickFromTopNav=true">Eyewear</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenScarves&amp;clickFromTopNav=true">Scarves</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenSmallLeatherGoods&amp;clickFromTopNav=true">Small leather goods</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenSocks&amp;clickFromTopNav=true">Socks</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenTechnologyCases&amp;clickFromTopNav=true">Technology cases</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenTies&amp;clickFromTopNav=true">Ties</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=MenOthers&amp;clickFromTopNav=true">Others</a></li>
-					<li class="nav-all"><a href="/product/category_subCategory.jsp?catId=MenAccessories&amp;clickFromTopNav=true">See all accessories</a></li>
-				</ul>
-			</li>
-		</ul>
-	</li>
-	
-	<li class="nav-root nav-lifestyle" data-label="LIFESTYLE"><a class="nav-item-title nav-major-title has-menu" href="/landing/homeAndGift.jsp">LIFESTYLE</a>
-        <ul class="nav-root-menu nav-lifestyle-root-menu">
-            <li class="col col-small">
-                <a class="nav-item-hero nav-item-title" href="/new/_/m_newInHL/newlist.lc?clickFromTopNav=true">NEW IN</a>
-            </li>
-            <li class="col col-small">
-                <a class="nav-item-title" href="/product/designersListing.jsp?categoryId=cat50019">Brands</a>
-                <ul class="nav-sub-menu">
-                    <li><a href="/abyss/lifestyle/plp">Abyss</a></li>
-                    <li><a href="/christian-lacroix/lifestyle/plp">Christian Lacroix</a></li>
-                    <li><a href="/fornasetti/lifestyle/plp">Fornasetti</a></li>
-                    <li><a href="/izola/lifestyle/plp">Izola</a></li>
-                    <li><a href="/lane-crawford/lifestyle/plp">Lane Crawford</a></li>
-                    <li><a href="/logitech/lifestyle/plp">Logitech</a></li>
-                    <li><a href="/mark-s-tokyo-edge/lifestyle/plp">Mark’s Tokyo Edge</a></li>
-                    <li><a href="/marshall/lifestyle/plp">Marshall</a></li>
-                    <li><a href="/native-union/lifestyle/plp">Native Union</a></li>
-                    <li><a href="/zuny/lifestyle/plp">Zuny</a></li>
-                    <li class="nav-all"><a href="/product/designersListing.jsp?categoryId=cat50019">See all brands</a></li>
-                </ul>
-            </li>
-            <li class="col col-small">
-            	<span class="nav-item-title">CATEGORIES</span>
-                <!-- <a class="nav-item-title" href="/product/category_subCategory.jsp?catId=ByCategory&clickFromTopNav=true">CATEGORIES</a> -->
-                <ul class="nav-sub-menu">
-                    <li><a href="/product/category_subCategory.jsp?catId=CatLuxuryAccessories&amp;clickFromTopNav=true">Luxury Accessories</a></li>
-                    <!-- <li><a href="/product/category_subCategory.jsp?catId=CatTravel&clickFromTopNav=true">Travel</a></li> -->
-                    <li><a href="/product/category_subCategory.jsp?catId=CatStationeryAndBooks&amp;clickFromTopNav=true">Stationery</a></li>
-                    <li><a href="/product/category_subCategory.jsp?catId=CatTechnology&amp;clickFromTopNav=true">Technology</a></li>
-                    <li><a href="/product/category_subCategory.jsp?catId=CatGamesAndToys&amp;clickFromTopNav=true">Games &amp; Toys</a></li>
-                    <li><a href="/product/category_subCategory.jsp?catId=CatChildrensAccessories&amp;clickFromTopNav=true">Children's Accessories</a></li>
-                    <li><a href="/product/category_subCategory.jsp?catId=CatSportsEquipment&amp;clickFromTopNav=true">Sports Equipment</a></li>
-                    <li><a href="/product/category_subCategory.jsp?catId=CatHomeDecorAndAccents&amp;clickFromTopNav=true">Home Décor &amp; Accents</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=CatFurniture&amp;clickFromTopNav=true">Furniture</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=CatBath&amp;clickFromTopNav=true">Bath</a></li>
-					<li><a href="/product/category_subCategory.jsp?catId=CatKitchenAndTabletop&amp;clickFromTopNav=true">Kitchen &amp; Tabletop</a></li>
 
-               </ul>
-            </li>
-            <li class="col col-small">
-            	<span class="nav-item-title">ROOMS</span>
-                <!-- <a class="nav-item-title" href="/product/category_subCategory.jsp?catId=ByRoom&clickFromTopNav=true">ROOMS</a> -->
-                <ul class="nav-sub-menu">
-                    <li><a href="/product/category_subCategory.jsp?catId=RoomLivingRoom&amp;clickFromTopNav=true">Living Room</a></li>
-                    <li><a href="/product/category_subCategory.jsp?catId=RoomBathroom&amp;clickFromTopNav=true">Bathroom</a></li>
-                    <li><a href="/product/category_subCategory.jsp?catId=RoomDiningRoom&amp;clickFromTopNav=true">Dining Room</a></li>
-                </ul>
-            </li>
-            
+    <li class="nav-root nav-women" data-label="women"><a class="nav-item-title nav-major-title has-menu" href="/landing/women.jsp?catId=cat210001&amp;clickFromTopNav=true">Women</a>
+
+    <ul class="nav-root-menu nav-discover-menu nav-women-root-menu">
+
+        <li class="col col-small"><a class="nav-item-hero nav-item-title" href="/new/_/m_newInWW/newlist.lc?clickFromTopNav=true">NEW IN</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/new/_/m_newInWW/newlist.lc?clickFromTopNav=true">Latest Arrivals</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=45000021&amp;p=shop&amp;clickFromTopNav=true">Gifts for Her</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=46300001&amp;p=shop&amp;clickFromTopNav=true">Exclusives</a></li>
+
         </ul>
+
+        </li>
+
+        <li class="col"><a class="nav-item-title" href="/product/designersListing.jsp?categoryId=cat210001&amp;clickFromTopNav=true">Brands</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/3-1-phillip-lim/women/plp?clickFromTopNav=true">3.1 Phillip Lim</a></li>
+
+            <li><a href="/alexander-mcqueen/women/plp?clickFromTopNav=true">Alexander McQueen</a></li>
+
+            <li><a href="/alexander-wang/women/plp?clickFromTopNav=true">Alexander Wang</a></li>
+
+            <li><a href="/ash/women/plp?clickFromTopNav=true">Ash</a></li>
+
+            <li><a href="/chloe/women/plp?clickFromTopNav=true">Chloé</a></li>
+
+            <li><a href="/givenchy/women/plp?clickFromTopNav=true">Givenchy</a></li>
+
+            <li><a href="/jimmy-choo/women/plp?clickFromTopNav=true">Jimmy Choo</a></li>
+
+            <li><a href="/lanvin/women/plp?clickFromTopNav=true">Lanvin</a></li>            
+
+            <!-- <li><a href="/helmut-lang/women/plp?clickFromTopNav=true">Helmut Lang</a></li> -->                     <!-- <li><a href="/toms/women/plp?clickFromTopNav=true">Toms</a></li> -->
+
+            <li><a href="/stella-mccartney/women/plp?clickFromTopNav=true">Stella McCartney</a></li>
+
+            <li><a href="/valentino/women/plp?clickFromTopNav=true">Valentino</a></li>
+
+            <li class="nav-all"><a href="/product/designersListing.jsp?categoryId=cat210001&amp;clickFromTopNav=true">See all brands</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col"><a class="nav-item-title" href="/product/category_subCategory.jsp?catId=catd000129&amp;clickFromTopNav=true">CLOTHING</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000128&amp;clickFromTopNav=true">Dresses</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000120&amp;clickFromTopNav=true">Skirts</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000116&amp;clickFromTopNav=true">Tops</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000110&amp;clickFromTopNav=true">Jackets</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000104&amp;clickFromTopNav=true">Knitwear</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000098&amp;clickFromTopNav=true">Pants</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000090&amp;clickFromTopNav=true">Jeans</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000082&amp;clickFromTopNav=true">Coats</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd010010&amp;clickFromTopNav=true">Swimwear</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd010020&amp;clickFromTopNav=true">Undergarments</a></li>
+
+            <li class="nav-all"><a href="/product/category_subCategory.jsp?catId=catd000129&amp;clickFromTopNav=true">See all clothing</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col col-small"><a class="nav-item-title" href="/product/category_subCategory.jsp?catId=catd000075&amp;clickFromTopNav=true">SHOES</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000074&amp;clickFromTopNav=true">Flats</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd010030&amp;clickFromTopNav=true">Low heel</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd010040&amp;clickFromTopNav=true">Mid heel</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd010050&amp;clickFromTopNav=true">High heel</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000053&amp;clickFromTopNav=true">Boots</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000072&amp;clickFromTopNav=true">Sandals</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000070&amp;clickFromTopNav=true">Sneakers</a></li>
+
+            <li class="nav-all"><a href="/product/category_subCategory.jsp?catId=catd000075&amp;clickFromTopNav=true">See all shoes</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col col-small"><a class="nav-item-title" href="/product/category_subCategory.jsp?catId=catd000042&amp;clickFromTopNav=true">BAGS</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000041&amp;clickFromTopNav=true">Shoulder bags</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=Backpacks&amp;clickFromTopNav=true">Backpacks</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000037&amp;clickFromTopNav=true">Top handles</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000033&amp;clickFromTopNav=true">Totes</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000029&amp;clickFromTopNav=true">Clutches</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000025&amp;clickFromTopNav=true">Exotics</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd010080&amp;clickFromTopNav=true">Luggage</a></li>
+
+            <li class="nav-all"><a href="/product/category_subCategory.jsp?catId=catd000042&amp;clickFromTopNav=true">See all bags</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col"><a class="nav-item-title" href="/product/category_subCategory.jsp?catId=catd000018&amp;clickFromTopNav=true">ACCESSORIES</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000005&amp;clickFromTopNav=true">Fashion jewellery</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=fineJewellery&amp;clickFromTopNav=true ">Fine jewellery</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000009&amp;clickFromTopNav=true">Scarves &amp; Wraps</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=WomenHats&amp;clickFromTopNav=true">Hats</a></li>
+
+            <!-- <li><a href="/product/category_subCategory.jsp?catId=catd000012&clickFromTopNav=true">Fur</a></li> -->
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000015&amp;clickFromTopNav=true">Gloves</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd010060&amp;clickFromTopNav=true">Eyewear</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd270003&amp;clickFromTopNav=true">Belts</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd000021&amp;clickFromTopNav=true">Small leather goods</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd270004&amp;clickFromTopNav=true">Watches</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=WomenSocks&amp;clickFromTopNav=true">Socks</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=catd010070&amp;clickFromTopNav=true">Other</a></li>
+
+            <li class="nav-all"><a href="/product/category_subCategory.jsp?catId=catd000018&amp;clickFromTopNav=true">See all accessories</a></li>
+
+        </ul>
+
+        </li>
+
+    </ul>
+
     </li>
 
-	<li class="nav-root nav-discover" data-label="discover"><a class="nav-item-title nav-major-title" href="/landing/discover.jsp">Discover</a></li>
-	
-</ul></nav>
+    <li class="nav-root nav-men" data-label="men"><a class="nav-item-title nav-major-title has-menu" href="/landing/men.jsp?clickFromTopNav=true">Men</a>
+
+    <ul class="nav-root-menu nav-men-root-menu">
+
+        <li class="col col-small"><a class="nav-item-hero nav-item-title" href="/new/_/m_newInMW/newlist.lc?clickFromTopNav=true">NEW IN</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/new/_/m_newInMW/newlist.lc?clickFromTopNav=true">Latest Arrivals</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=45000022&amp;p=shop&amp;clickFromTopNav=true">Gifts for Him</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=46300002&amp;p=shop&amp;clickFromTopNav=true">Exclusives</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col"><a class="nav-item-title" href="/product/designersListing.jsp?categoryId=cat50016&amp;clickFromTopNav=true">Brands</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/alexander-mcqueen/men/plp?clickFromTopNav=true">Alexander McQueen</a></li>
+
+           <!-- <li><a href="/landing/featureArticle.jsp?article=44000001&amp;p=shop">Apple</a></li> -->
+
+            <li><a href="/givenchy/men/plp?clickFromTopNav=true">Givenchy</a></li>
+
+            <li><a href="/lanvin/men/plp?clickFromTopNav=true">Lanvin</a></li>
+
+            <li><a href="/magnanni/men/plp?clickFromTopNav=true">Magnanni</a></li>
+
+            <li><a href="/neil-barrett/men/plp?clickFromTopNav=true">Neil Barrett</a></li>
+
+            <li><a href="/paul-smith/men/plp?clickFromTopNav=true">Paul Smith</a></li>
+
+            <li><a href="/sacai/men/plp?clickFromTopNav=true">sacai</a></li>
+
+            <li><a href="/scotch-soda/men/plp?clickFromTopNav=true">Scotch &amp; Soda</a></li>
+
+            <li><a href="/valentino/men/plp?clickFromTopNav=true">Valentino</a></li>
+
+            <li class="nav-all"><a href="/product/designersListing.jsp?categoryId=cat50016&amp;clickFromTopNav=true">See all brands</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col"><a class="nav-item-title" href="/product/category_subCategory.jsp?catId=MenClothing&amp;clickFromTopNav=true">CLOTHING</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenBlazers&amp;clickFromTopNav=true">Blazers</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenCoats&amp;clickFromTopNav=true">Coats</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenJackets&amp;clickFromTopNav=true">Jackets</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenJeans&amp;clickFromTopNav=true">Jeans</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenKnitwear&amp;clickFromTopNav=true">Knitwear</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenPantsAndShorts&amp;clickFromTopNav=true">Pants &amp; Shorts</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenPolos&amp;clickFromTopNav=true">Polos</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenPulloversAndHoodies&amp;clickFromTopNav=true">Pullovers &amp; Hoodies</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenShirts&amp;clickFromTopNav=true">Shirts</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenSuits&amp;clickFromTopNav=true">Suits</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenSwimwear&amp;clickFromTopNav=true">Swimwear</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenTShirts&amp;clickFromTopNav=true">T-shirts</a></li>
+
+            <li class="nav-all"><a href="/product/category_subCategory.jsp?catId=MenClothing&amp;clickFromTopNav=true">See all clothing</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col col-small"><a class="nav-item-title" href="/product/category_subCategory.jsp?catId=MenShoes&amp;clickFromTopNav=true">SHOES</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenBoots&amp;clickFromTopNav=true">Boots</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenLaceUps&amp;clickFromTopNav=true">Lace ups</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenLoafers&amp;clickFromTopNav=true">Loafers</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenSandals&amp;clickFromTopNav=true">Sandals</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenSlipOns&amp;clickFromTopNav=true">Slip-ons</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenSneakers&amp;clickFromTopNav=true">Sneakers</a></li>
+
+            <li class="nav-all"><a href="/product/category_subCategory.jsp?catId=MenShoes&amp;clickFromTopNav=true">See all shoes</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col col-small"><a class="nav-item-title" href="/product/category_subCategory.jsp?catId=MenBags&amp;clickFromTopNav=true">BAGS</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenBriefcases&amp;clickFromTopNav=true">Briefcases</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenBackpacks&amp;clickFromTopNav=true">Backpacks</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenMessengerBags&amp;clickFromTopNav=true">Messenger bags</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenPouches&amp;clickFromTopNav=true">Pouches</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenToteBags&amp;clickFromTopNav=true">Tote bags</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenLuggage&amp;clickFromTopNav=true">Luggage</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenWeekendBags&amp;clickFromTopNav=true">Weekend Bags</a></li>
+
+            <li class="nav-all"><a href="/product/category_subCategory.jsp?catId=MenBags&amp;clickFromTopNav=true">See all bags</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col"><a class="nav-item-title" href="/product/category_subCategory.jsp?catId=MenAccessories&amp;clickFromTopNav=true">ACCESSORIES</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenBelts&amp;clickFromTopNav=true">Belts</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenCufflinksAndJewelleries&amp;clickFromTopNav=true">Cufflinks &amp; Jewellery</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenWatches&amp;clickFromTopNav=true">Watches</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenEyewear&amp;clickFromTopNav=true">Eyewear</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=Grooming&amp;clickFromTopNav=true">Grooming</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenScarves&amp;clickFromTopNav=true">Scarves</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenSmallLeatherGoods&amp;clickFromTopNav=true">Small leather goods</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenSocks&amp;clickFromTopNav=true">Socks</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenTechnologyCases&amp;clickFromTopNav=true">Technology cases</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenTies&amp;clickFromTopNav=true">Ties</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=MenOthers&amp;clickFromTopNav=true">Others</a></li>
+
+            <li class="nav-all"><a href="/product/category_subCategory.jsp?catId=MenAccessories&amp;clickFromTopNav=true">See all accessories</a></li>
+
+        </ul>
+
+        </li>
+
+    </ul>
+
+    </li>
+
+    <li class="nav-root nav-lifestyle" data-label="lifestyle"><a class="nav-item-title nav-major-title has-menu" href="/landing/homeAndGift.jsp?clickFromTopNav=true">Lifestyle &amp; Gifts</a>
+
+    <ul class="nav-root-menu nav-lifestyle-root-menu">
+
+        <li class="col col-small"><a class="nav-item-hero nav-item-title" href="/new/_/m_newInHL/newlist.lc?clickFromTopNav=true">NEW IN</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/new/_/m_newInHL/newlist.lc?clickFromTopNav=true">Latest Arrivals</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=45000026&amp;p=shop&amp;clickFromTopNav=true">Gifts for the Home</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=46300003&amp;p=shop&amp;clickFromTopNav=true">Exclusives</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col col-small"><a class="nav-item-title" href="/product/designersListing.jsp?categoryId=cat50019&amp;clickFromTopNav=true">Brands</a>
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/bosa/lifestyle/plp?clickFromTopNav=true">Bosa</a></li>
+
+            <li><a href="/eliot-raffit/lifestyle/plp?clickFromTopNav=true">Eliot Raffit</a></li>
+
+            <li><a href="/fornasetti/lifestyle/plp?clickFromTopNav=true">Fornasetti</a></li>
+
+            <li><a href="/jonathan-adler/lifestyle/plp?clickFromTopNav=true">Jonathan Adler</a></li>
+
+            <li><a href="/lane-crawford/lifestyle/plp?clickFromTopNav=true">Lane Crawford</a></li>
+
+            <li><a href="/native-union/lifestyle/plp?clickFromTopNav=true">Native Union</a></li>
+
+            <li><a href="/skogsberg-smart/lifestyle/plp?clickFromTopNav=true">Skogsberg &amp; Smart</a></li>
+
+            <li><a href="/waterford/lifestyle/plp?clickFromTopNav=true">Waterford</a></li>
+
+            <li><a href="/wedgwood/lifestyle/plp?clickFromTopNav=true">Wedgewood</a></li>
+
+            <li><a href="/zuny/lifestyle/plp?clickFromTopNav=true">Zuny</a></li>
+
+            <li class="nav-all"><a href="/product/designersListing.jsp?categoryId=cat50019&amp;clickFromTopNav=true">See all brands</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col col-small"><span class="nav-item-title">LIFESTYLE</span>                 <!-- <a class="nav-item-title" href="/product/category_subCategory.jsp?catId=ByCategory&clickFromTopNav=true">CATEGORIES</a> -->
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatLuxuryAccessories&amp;clickFromTopNav=true">Luxury Accessories</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatTravel&amp;clickFromTopNav=true">Travel</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatTechnology&amp;clickFromTopNav=true">Technology</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatStationeryAndBooks&amp;clickFromTopNav=true">Stationery &amp; Books</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatSportsEquipment&amp;clickFromTopNav=true">Sport Equipment</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatGamesAndToys&amp;clickFromTopNav=true">Games &amp; Toys</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatChildrensAccessories&amp;clickFromTopNav=true">Children's Accessories</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col col-small"><span class="nav-item-title">FOR THE HOME</span>                 <!-- <a class="nav-item-title" href="/product/category_subCategory.jsp?catId=ByRoom&clickFromTopNav=true">ROOMS</a> -->
+
+        <ul class="nav-sub-menu">
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatHomeFurnishingAndDecor&amp;clickFromTopNav=true">Home Furnishing &amp; Décor</a></li>
+
+            <li><a href="/home-fragrance/_/CatHomeFragrance/list.lc">Home Fragrance</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatBath&amp;clickFromTopNav=true">Bath</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatKitchenAndTabletop&amp;clickFromTopNav=true">Kitchen &amp; Tabletop</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatFurniture&amp;clickFromTopNav=true">Furniture</a></li>
+
+            <li><a href="/product/category_subCategory.jsp?catId=CatLighting&amp;clickFromTopNav=true">Lighting</a></li>
+
+        </ul>
+
+        </li>
+
+        <li class="col"><a class="nav-item-title">GIFTS</a>
+
+        <ul class="nav-sub-menu">                                          <!-- <li><a href="/landing/featureArticle.jsp?article=33600034&p=shop&clickFromTopNav=true">Contemporary And Cool</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=33600037&p=shop&clickFromTopNav=true">Luxurious And Refined</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=33600042&p=shop&clickFromTopNav=true">Undeniably Chic</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=33600045&p=shop&clickFromTopNav=true">Unforgettable Style</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=33600048&p=shop&clickFromTopNav=true">Keep It Cool</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=33600051&p=shop&clickFromTopNav=true">The Well-Appointed Gentleman</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=33600054&p=shop&clickFromTopNav=true">Let’s Get Cosy</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=33600057&p=shop&clickFromTopNav=true">The Cashmere Club</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=33600060&p=shop&clickFromTopNav=true">Spread The Festive Spirit</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=33600063&p=shop&clickFromTopNav=true">Give The Gift of Beauty</a></li> -->
+
+            <li><a href="/page/giftadvice-INT?clickFromTopNav=true">Gift Advice</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=45000021&amp;p=shop&amp;clickFromTopNav=true">For Her</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=45000022&amp;p=shop&amp;clickFromTopNav=true">For Him</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=45000024&amp;p=shop&amp;clickFromTopNav=true">For Girls</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=45000025&amp;p=shop&amp;clickFromTopNav=true">For Boys</a></li>
+
+            <li><a href="/landing/featureArticle.jsp?article=45000026&amp;p=shop&amp;clickFromTopNav=true">For the Home</a></li>
+
+            <!-- <li><a href="/landing/featureArticle.jsp?article=23100011&amp;p=shop&amp;clickFromTopNav=true">Gift Cards</a></li> -->
+
+
+            <!-- <li><a href="/product/category_subCategory.jsp?catId=CatFoodAndBeverage&clickFromTopNav=true">Food &amp; Beverage</a></li> -->                     <!-- <li><a href="/landing/featureArticle.jsp?article=34400015&p=shop&clickFromTopNav=true">Hampers</a></li> -->                 </ul>
+
+            </li>
+
+        </ul>
+
+        </li>
+
+        <li class="nav-root nav-discover" data-label="discover"><a class="nav-item-title nav-major-title" href="/landing/discover.jsp?clickFromTopNav=true">Discover</a></li>
+
+        <li class="nav-root nav-fantasia" data-label="fantasia"><a class="nav-item-title nav-major-title has-menu" href="/page/fantasia-INT?clickFromTopNav=true">Fantasia</a>
+
+        <ul class="nav-root-menu nav-fantasia-root-menu">
+
+            <li class="col"><a class="nav-item-title" href="/page/fantasia-INT?clickFromTopNav=true#giftsForHer">For Her</a>
+
+            <ul class="nav-sub-menu">
+
+                <li><a href="/landing/featureArticle.jsp?article=45000021&amp;p=shop&amp;clickFromTopNav=true">Gifts for Her</a></li>
+
+
+
+                <li><a href="/landing/featureArticle.jsp?article=45800001&amp;clickFromTopNav=true">Gift for The Sophisticate</a></li>
+
+                <li><a href="/landing/featureArticle.jsp?article=46100013&amp;clickFromTopNav=true">Gifts for the Contemporary Chic</a></li>
+
+
+            </ul>
+
+            </li>
+
+            <li class="col col-small"><a class="nav-item-title" href="/page/fantasia-INT?clickFromTopNav=true#giftsForHim">For Him</a>
+
+            <ul class="nav-sub-menu">
+
+                <li><a href="/landing/featureArticle.jsp?article=45000022&amp;p=shop&amp;clickFromTopNav=true">Gifts For Him</a></li>
+
+                <li><a href="/landing/featureArticle.jsp?article=45800006&amp;clickFromTopNav=true">Gifts for The Modern Gentleman</a></li>
+
+                <li><a href="/landing/featureArticle.jsp?article=46100010&amp;clickFromTopNav=true">Gifts for The Sleek Urbanite</a></li>
+
+            </ul>
+
+            </li>
+
+            <li class="col"><a class="nav-item-title" href="/page/fantasia-INT?clickFromTopNav=true#giftsForLittleOnes">For Little Ones</a>
+
+            <ul class="nav-sub-menu">
+
+                <li><a href="/landing/featureArticle.jsp?article=45000025&amp;p=shop&amp;clickFromTopNav=true">Gifts for Boys</a></li>
+
+                <li><a href="/landing/featureArticle.jsp?article=45000024&amp;p=shop&amp;clickFromTopNav=true">Gifts for Girls</a></li>
+
+                <li><a href="/landing/featureArticle.jsp?article=45700001&amp;p=shop&amp;clickFromTopNav=true">Markus Lupfer Exclusives</a></li>
+
+                <li><a href="/landing/featureArticle.jsp?article=45300003&amp;p=shop&amp;clickFromTopNav=true">Perigot Exclusives</a></li>
+
+                <li><a href="/landing/featureArticle.jsp?article=44400021&amp;p=shop&amp;clickFromTopNav=true">Kate Barnett Exclusives</a></li>
+
+
+            </ul>
+
+            </li>
+
+            <li class="col col-small"><a class="nav-item-title" href="/page/fantasia-INT?clickFromTopNav=true#giftsForTheHome">For the Home</a>
+
+            <ul class="nav-sub-menu">
+
+                <li><a href="/landing/featureArticle.jsp?article=45000026&amp;p=shop&amp;clickFromTopNav=true">Gifts for the Home</a></li>
+
+                <li><a href="/landing/featureArticle.jsp?article=46100009&amp;p=shop&amp;clickFromTopNav=true">Fornasetti</a></li>
+                
+            </ul>
+
+            </li>
+
+            <li class="col col-small"><a class="nav-item-title" href="/page/fantasia-INT?clickFromTopNav=true#giftingServices">Services</a>
+
+            <ul class="nav-sub-menu">
+
+               <li><a href="/page/giftadvice-INT?clickFromTopNav=true">Gift Advice</a></li>
+
+                <li><a href="/page/fantasia-INT?clickFromTopNav=true#giftWrappingService">Gift Wrapping Services</a></li>
+
+                <!-- <li><a href="/page/fantasia-INT?clickFromTopNav=true#giftCards">Gift Cards</a></li> -->
+
+                <li><a href="/page/fantasia-INT?clickFromTopNav=true#festiveDelivery">Festive Delivery Services</a></li>
+
+
+            </ul>
+
+            </li>
+
+        </ul>
+
+        </li>
+
+         </ul></nav>
 			<div id="page">
 				<div class="top-promotion-banner">
-						<a href="/new/_/m_newInWW/newlist.lc?clickFromTopNav=true" id="topPromotionBannerLink" class="" data-hide-only="" data-show-only="" data-home-url="/new/_/m_newInWW/newlist.lc?clickFromTopNav=true" data-home-txt="ENJOY FREE DELIVERY ON ALL ORDERS" data-women-url="/new/_/m_newInWW/newlist.lc?clickFromTopNav=true" data-women-txt="ENJOY FREE DELIVERY ON ALL ORDERS" data-men-url="/new/_/m_newInMW/newlist.lc?clickFromTopNav=true" data-men-txt="ENJOY FREE DELIVERY ON ALL ORDERS" data-beauty-url="/new/_/m_newInBeauty/newlist.lc?clickFromTopNav=true" data-beauty-txt="ENJOY FREE DELIVERY ON ALL ORDERS" data-life-url="/new/_/m_newInHL/newlist.lc?clickFromTopNav=true" data-life-txt="ENJOY FREE DELIVERY ON ALL ORDERS">Enjoy Free Delivery On All Orders</a>
-<a href="#tandc" class="invisible smallLink js-showPopup" data-lcbox-content="#tandc" data-lcbox-wrapper-class="blackBarTcPopup" data-lcbox-hash="shoppingtc">T&amp;C</a>
-<script id="tandc" type="text/lcbox-template">
-    <div class="lcboxContent">
-        <p class="title">Terms & Conditions</p>
-        <ol>
-            <li>This promotion is valid from May 16 to 18, 2014 (both dates inclusive) (the “Promotion Period”) in  respect of purchases at <a href="/info/store.jsp?storeId=001">Lane Crawford ifc mall</a>, <a href="/info/store.jsp?storeId=002">Lane Crawford Canton Road</a>, <a href="/info/store.jsp?storeId=005">Lane Crawford Times Square</a>, <a href="/info/store.jsp?storeId=004">Lane Crawford Pacific Place Home Store</a>, <a href="/info/store.jsp?storeId=008">One Island South Home Store and Showroom</a> and <a href="http://lanecrawford.com">lanecrawford.com</a> (the “Specified Lane Crawford Stores”).</li>
-            <li>During the Promotion Period, any single net transaction of HK$3,500 or above  at any of the Specified Lane Crawford Stores (the “Eligible Transaction”) will entitle the customer to receive 20%  discount on their next purchase at the Specified Lane Crawford Stores, and the right to enjoy the 20% off discount for the next purchase is valid until May 31, 2014 (the “Shopping Weekend Discount”), or to receive double bonus points on their next transaction if made on May 24 or 25 in the Jewellery department in store at the Specified Lane Crawford Stores.</li>
-            <li>The offers are mutually exclusive and customer may opt to take up only one of the offers: either 20 % discount on next purchase in store or online; or double bonus points on next purchase in store on May 24 or 25. The offers are exclusive to the Jewellery department and available in respect of only one Eligible Transaction during the Promotion Period. </li>
-            <li>For Platinum and Diamond Tier Card members,  the purchase amount net of the Privilege Programme Discount will be accounted for the purpose of determining an Eligible Transaction.</li>
-            <li>The Shopping Weekend Discount cannot be used in conjunction with the Lane Crawford Privilege Card Programme Discount, any other promotional offers or discounts and cannot be exchanged for cash or other products. </li>
-            <li>The Shopping Weekend Discount in store is only available upon presentation of the original receipt for the Eligible Transaction. </li>
-            
-            <li>The Shopping Weekend Discount is not applicable to selected brands (including Apple products) , special offer, cosmetics, concession, new collections and Lane Crawford Gift Cards.  </li>
-            <li>The Shopping Weekend Discount is not applicable to the following selected brands:  
-                <ul>
-                    <li>Apple, Vertu.</li>
-                    <li>Shoes, handbags & Accessories: Stuart Weitzman, Celine, Givenchy, Valentino, Manolo Blahnik, Saint Laurent Paris, Balenciaga, Dolce & Gabbana, Christian Louboutin, Delvaux, Nike, Project X, Nixon, Uniform Wares, Galtiscopio, Philip Stein, Marco Mavilla, Carat, What Goes Around Comes Around, Maia, Christopher DeNave collection, Vintage DB, 10 Past Ten, ALL (Vintage) , Alexander McQueen, Church’s, Cole Haan</li>
-                    <li>Womenswear & Menswear: Balenciaga, Saint Laurent Paris, Celine, Givenchy, Dolce & Gabbana, Valentino, MONCLER, MONCLER CAPSULE, Moncler Gamme</li>
-                    <li>Jewellery: Pomellato,Fred, Aishwarya, Bamford, MCL, Tasaki</li>
-                </ul>
-            </li>
-            <li>Lane Crawford Privilege Programme bonus points are rewarded at a HK$1 for 1 point during the Promotion Period against the net value of the transaction. </li>
-            <li>For Eligible Transactions made online, customer will receive a 20% discount online shopping voucher (the “Voucher”) sent via email on May 19, 2014. The Voucher is only applicable to online purchases and only one Voucher can be redeemed per transaction.</li>
-            <li>For online purchases, the Online Terms & Conditions and Privacy Policy also apply.  Please visit lanecrawford.com for full details.</li>
-            <li>Same day delivery is available for orders placed in Hong Kong before 1pm, except Sunday and public holidays. Certain restrictions apply. Please visit <a href="/info/shipping.jsp">http://www.lanecrawford.com/info/shipping.jsp</a> for full details.</li>
-            <li>Customers can shop online and collect the orders from any of the Specified Lane Crawford Stores, please visit <a href="http://l-c.hk/storecollection">l-c.hk/storecollection</a> for full details. This service is limited to deliveries within Hong Kong only.</li>
-            <li>Lane Crawford is not liable for lost, stolen, defaced, or damaged receipts for the Eligible Transaction.</li>
-            <li>Lane Crawford will not accept a photocopy or any form of copy of the receipts for the Eligible Transaction. A receipt for anEligible Transaction can only be used once.</li>
-            <li>Any returns or exchanges of items purchased will be subject to Lane Crawford’s Return Policy. Please visit lanecrawford.com/returns for full details. </li>
-            <li>Offer may only be used for personal purchases and cannot be used for any commercial or promotional purposes or any other purposes whatsoever unless authorized by Lane Crawford in writing. </li>
-            <li>Lane Crawford reserves the right to change these Terms & Conditions at any time without prior notice. </li>
-            <li>Should any dispute arise, the decision of Lane Crawford shall be final and binding.</li>
-            <li>These Terms & Conditions are governed by the laws of Hong Kong SAR and any dispute shall be referred to the Courts of Hong Kong.</li>
-        </ol>
-        <p>Contact Member Services at +852 2118 2288 or email <a href="mailto:memberservice@lanecrawford.com">memberservice@lanecrawford.com</a> for any assistance.</p>
-    </div>
-</script></div><div class="lc-page container">
-				<div id="popupCountrySelectContainer" class="popupCountrySelectModal"></div>
-<div class="genericContent">
+						 <a href="/new/_/m_newInWW/newlist.lc?clickFromTopNav=true" id="topPromotionBannerLink" class="" data-hide-only="" data-show-only="" data-women-url="/new/_/m_newInWW/newlist.lc?clickFromTopNav=true" data-women-txt="Enjoy free international delivery on all orders" data-men-url="/new/_/m_newInMW/newlist.lc?clickFromTopNav=true" data-men-txt="Enjoy free international delivery on all orders" data-beauty-url="/new/_/m_newInBeauty/newlist.lc?clickFromTopNav=true" data-beauty-txt="Enjoy free international delivery on all orders" data-life-url="/new/_/m_newInHL/newlist.lc?clickFromTopNav=true" data-life-txt="Enjoy free international delivery on all orders">Enjoy free international delivery on all orders</a>
+</div><div class="lc-page container">
+				<div class="genericContent">
 				<h1><a id="top" name="top">Privacy Policy</a></h1>
 <hr>
 <table cellspacing="0" cellpadding="0" border="0" style=" width: 649px;">
@@ -936,10 +1337,12 @@ Tel: +852 2118 2288</p>
 				</div><footer id="footer" class="clearfix">
 			<div class="left-tools">
 					<ul id="outter-link">
-						<li><a href="http://twitter.com/lanecrawford" target="_blank" data-icon="" class="icon icon-twitter"><span class="visuallyhidden">Twitter</span></a></li>
-						<li><a href="http://www.facebook.com/pages/Lane-Crawford/145422015497422" target="_blank" data-icon="" class="icon icon-facebook"><span class="visuallyhidden">Facebook</span></a></li>
-						<li><a href="http://weibo.com/lanecrawfordofficial" target="_blank" data-icon="" class="icon icon-weibo"><span class="visuallyhidden">Weibo</span></a></li>
-					</ul>
+					<li><a href="https://www.facebook.com/pages/Lane-Crawford/145422015497422" target="_blank" data-icon="" class="icon icon-facebook"><span class="visuallyhidden">Facebook</span></a></li>
+							<li><a href="http://instagram.com/lanecrawford" target="_blank" data-icon="" class="icon icon-instagram"><span class="visuallyhidden">Instagram</span></a></li>
+							<li><a href="https://twitter.com/lanecrawford" target="_blank" data-icon="" class="icon icon-twitter"><span class="visuallyhidden">Twitter</span></a></li>
+							<li><a href="https://www.youtube.com/user/lanecrawford" target="_blank" data-icon="" class="icon icon-youtube"><span class="visuallyhidden">Youtube</span></a></li>
+						 	<li><a href="http://weibo.com/lanecrawfordofficial" target="_blank" data-icon="" class="icon icon-weibo"><span class="visuallyhidden">Weibo</span></a></li>
+						</ul>
 				</div>
 			<div class="min-tools">
 				<!-- Targeter: /Lanecrawford/SiteWide/FooterMidContentTargeter - start -->
@@ -967,6 +1370,7 @@ Tel: +852 2118 2288</p>
 			<div class="right-tools" id="newslettersArea">		
 					<div class="input">
 						<input id="field-newslettersEmail" class="newsletters defaultText" name="" type="text" deftxt="Sign Up for Weekly Newsletters...">
+						<input type="hidden" class="userkey" value="">
 						<a class="icon icon-arrow-right" data-icon="" href="#" id="submit-newsletters">&nbsp;</a>
 					</div>
 				</div>
@@ -977,7 +1381,7 @@ Tel: +852 2118 2288</p>
 	
 </div><!-- #wrapperContainer -->
 <div id="footer_dialog" class="dialog"></div>
-	<form id="contactUsForm" action="/;jsessionid=82A3CC1B3D188E44634269EBAEF5E584.hk-oracle-estore-slave-1?_DARGS=/common/footer.jsp.contactUsForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5686859359320674076" type="hidden"> </div><input id="sendMeCopy" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.sendMeCopy" value="false" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.sendMeCopy" value=" " type="hidden"><input name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.locale" value="en_US" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.locale" value=" " type="hidden"><input id="sendUsEmailType" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.sendUsEmailType" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.sendUsEmailType" value=" " type="hidden"><input id="productId" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.productId" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.productId" value=" " type="hidden"><input id="receiverEmail" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.receiverEmail" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.receiverEmail" value=" " type="hidden"><input id="senderEmail" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderEmail" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderEmail" value=" " type="hidden"><input id="senderFirstName" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderFirstName" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderFirstName" value=" " type="hidden"><input id="senderLastName" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderLastName" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderLastName" value=" " type="hidden"><input id="messageSubject" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.messageSubject" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.messageSubject" value=" " type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.message" value=" " type="hidden"><textarea id="contactUsMsg" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.message" class="none"></textarea><input name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsSuccessUrl" value="/common/form/sendUsMsgAjaxResponse.jsp?successType=success" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsSuccessUrl" value=" " type="hidden"><input name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsErrorUrl" value="/common/form/sendUsMsgAjaxResponse.jsp?errorType=fail" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsErrorUrl" value=" " type="hidden"><input name="/lc/emailformhandler/LCContactUsEmailFormHandler.sendContactUsEmail" value="submit" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.sendContactUsEmail" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/footer.jsp.contactUsForm" type="hidden"> </div></form><!-- footer js -->
+	<form id="contactUsForm" action="/;jsessionid=7D5AD0E183406954785A2E2DBB880D6B.hk-oracle-estore-slave-3?_DARGS=/common/footer.jsp.contactUsForm" method="post"><div style="display:none"><input name="_dyncharset" value="utf-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-2020483762145406252" type="hidden"> </div><input id="sendMeCopy" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.sendMeCopy" value="false" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.sendMeCopy" value=" " type="hidden"><input name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.locale" value="en_US" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.locale" value=" " type="hidden"><input id="sendUsEmailType" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.sendUsEmailType" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.sendUsEmailType" value=" " type="hidden"><input id="productId" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.productId" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.productId" value=" " type="hidden"><input id="receiverEmail" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.receiverEmail" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.receiverEmail" value=" " type="hidden"><input id="senderEmail" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderEmail" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderEmail" value=" " type="hidden"><input id="senderFirstName" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderFirstName" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderFirstName" value=" " type="hidden"><input id="senderLastName" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderLastName" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.senderLastName" value=" " type="hidden"><input id="messageSubject" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.messageSubject" value="" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.messageSubject" value=" " type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.message" value=" " type="hidden"><textarea id="contactUsMsg" name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsEmailInfo.message" class="none"></textarea><input name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsSuccessUrl" value="/common/form/sendUsMsgAjaxResponse.jsp?successType=success" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsSuccessUrl" value=" " type="hidden"><input name="/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsErrorUrl" value="/common/form/sendUsMsgAjaxResponse.jsp?errorType=fail" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.contactUsErrorUrl" value=" " type="hidden"><input name="/lc/emailformhandler/LCContactUsEmailFormHandler.sendContactUsEmail" value="submit" type="hidden"><input name="_D:/lc/emailformhandler/LCContactUsEmailFormHandler.sendContactUsEmail" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/common/footer.jsp.contactUsForm" type="hidden"> </div></form><!-- footer js -->
 	<!-- footer js - end -->
 	
 	<!-- Targeter:JSTargeter - start -->
@@ -985,26 +1389,24 @@ Tel: +852 2118 2288</p>
 	
 	<script type="text/javascript">
 		/* <![CDATA[ */
-		var google_conversion_id = 1014219737;
-		var google_conversion_language = "en";
-		var google_conversion_format = "3";
-		var google_conversion_color = "ffffff";
-		var google_conversion_label = "kmnUCMeL5AIQ2YfP4wM";
-		var google_conversion_value = 0;
+		var google_conversion_id = 977153500;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
 		/* ]]> */
 	</script>
 	
 	<noscript>
 		<div style="display:inline;">
-			<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1014219737/?label=kmnUCMeL5AIQ2YfP4wM&amp;guid=ON&amp;script=0"/>
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/977153500/?value=0&amp;guid=ON&amp;script=0"/>
 		</div>
 	</noscript>
 	
 	<script>
-			var oldDocWrite = document.write; // save old doc write
-			document.write = function(node){ // change doc write to be friendlier, temporary
-				$("body").append(node)
-			}
+		var oldDocWrite = document.write; // save old doc write
+		document.write = function(node){ // change doc write to be friendlier, temporary
+			$("body").append(node)
+		}
+		if(typeof $.getScript !== 'undefined'){
 			$(function(){
 				$.getScript("//www.googleadservices.com/pagead/conversion.js", function() {
 					setTimeout(function() { // let the above script run, then replace doc.write
@@ -1012,16 +1414,48 @@ Tel: +852 2118 2288</p>
 					}, 100)
 				});
 			});
+		}
+	</script>
+<script type="text/javascript">
+		    
+		    	var ScarabQueue = ScarabQueue || [];
+		    	
+		    	(function(subdomain, id) {
+		    		if (document.getElementById(id)) return;
+		    		var js = document.createElement('script'); js.id = id; js.async=true;
+		    		js.src = subdomain + '.scarabresearch.com/js/1931DEE81F006F26/scarab-v2.js';
+		    		var fs = document.getElementsByTagName('script')[0];
+		    		fs.parentNode.insertBefore(js, fs);
+		    	})('https:' == document.location.protocol ? 'https://recommender' : 'http://asia.cdn', 'scarab-js-api');
+		    	
+		    	</script>
+		<script>
+		    (function(w,d) {
+		        w.hj = w.hj || function() { (w.hj.q=w.hj.q||[]).push(arguments); };
+		        w._hjSettings = { hjid: 105 };
+		        var s = d.createElement('script');
+		        s.src = '//insights-dc.hotjar.com/static/client/insights.js';
+		        d.getElementsByTagName('head')[0].appendChild(s);
+		    }(window,document));
 		</script>
-		<div class="placeholder-customer-acquisition"></div>
+		<script>
+			lcInfo.delayTracking = lcInfo.delayTracking || [];
+			lcInfo.delayTracking.push({
+				action: 'trackPageView',
+				data: {}
+			});
+		</script>
+		
+		<script type="text/javascript" src="http://media.lanecrawford.com/js/tracking.js" async="true"></script>
+	<div class="placeholder-customer-acquisition"></div>
 	
-	<script type="text/javascript" src="http://media.lanecrawford.com/feature/js/black-bar-20140512.js?v=201406060638"></script>
+	<script type="text/javascript" src="http://media.lanecrawford.com/feature/js/black-bar-20140708.js?v=201411281920"></script>
 		<div id="modal-general" class="modal-body hide">
 	</div>
 	
 	<!-- Targeter: /Lanecrawford/AdditionalFooterJS/PromoPopupJS - start -->
-	<script type="text/javascript" src="http://media.lanecrawford.com/feature/js/popup/popup-CustomerSurveyMonthly.js?v=201406060638"></script>
+	<script type="text/javascript" src="http://media.lanecrawford.com/feature/js/popup/popup-CustomerSurveyMonthly.js?v=201411281920"></script>
 			<!-- Targeter: /Lanecrawford/AdditionalFooterJS/PromoPopupJS - end -->
 	
-	<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","2c77fe24f1","231114","YwRRZxYEWUIEVxFRW1pOeWA0SlZTCkERF1dbD0dWChEZWxZE",0,284,new Date().getTime(),"","","","",""]);</script>
+	<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","2c77fe24f1","231114","YwRRZxYEWUIEVxFRW1pOeWA0SlZTCkERF1dbD0dWChEZWxZE",0,109,new Date().getTime(),"","","","",""]);</script>
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
