@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615033059id_/http%3A//fwi.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206002617id_/http%3A//www.fwi.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Farmers Weekly
+# Cookies & Privacy - Farmers Weekly
 
 ### PRIVACY STATEMENT
 
@@ -20,11 +20,11 @@ Any information provided by you in connection with any transaction regarding you
 
 We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.
 
-Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by [clicking here.](https://web.archive.org/disable/login/mainlogin/)
+Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by [clicking here.](https://web.archive.org/RbiWebCms/SiteEntities/EPiServerTemplates/MasterNoLayout.aspx?id=1223)
 
-We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by [registering your preference here.](https://web.archive.org/disable/login/mainlogin/)
+We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by [registering your preference here.](https://web.archive.org/RbiWebCms/SiteEntities/EPiServerTemplates/MasterNoLayout.aspx?id=1223)
 
-If you wish to alter any of your registration details [please click here.](https://web.archive.org/disable/login/mainlogin/)
+If you wish to alter any of your registration details [please click here.](https://web.archive.org/RbiWebCms/SiteEntities/EPiServerTemplates/MasterNoLayout.aspx?id=1223)
 
 #### Voluntary Information
 
@@ -56,48 +56,43 @@ Further information about the cookies used by Farmers Weekly is provided below.
 
 The following Cookie categories are based on the classification presented in The International Chambers of Commerce (ICC) Cookie Guide.
 
-#### Category 1 - Strictly necessary cookies
+#### Category 1 – Strictly necessary cookies
 
 These cookies are strictly necessary to provide services that you have requested. Category 1 Cookies used by Farmers Weekly:
 
-  * Login status: To Identify you as being logged in to our website.
-  * Load Balancing: Cookies may be used to distribute load across our web servers - to ensure our websites perform well and give you the best possible experience.
-  * User Subscription Data: Subscription cookies allow us to ensure that you can access resources which you have registered or paid for. 
+* Login status: To Identify you as being logged in to our website.
+* Load Balancing: Cookies may be used to distribute load across our web servers – to ensure our websites perform well and give you the best possible experience.
+* User Subscription Data: Subscription cookies allow us to ensure that you can access resources which you have registered or paid for. 
 
-
-
-#### Category 2 - Performance cookies
+#### Category 2 – Performance cookies
 
 These cookies collect information about how visitors use our website, for instance which pages visitors go to most often. The information collected by these cookies is aggregated, so these cookies don’t collect information that identifies a visitor. The information collected is anonymous and is only used to improve the way our website works. Category 2 Cookies used by Farmers Weekly:
 
-  * Web analytics: Google Web Analytics and Site Catalyst cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited. 
+* Web analytics: Google Web Analytics and Site Catalyst cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited. 
 
 [Click on this link to opt out of Google Web Analytics.](https://tools.google.com/dlpage/gaoptout)   
 [Click on this link to opt out of Site Catalyst HBX Analytics.](https://documents.hitbox.com/optout.html)
 
-  * Embedded Videos: Most videos on Farmers Weekly are hosted on [Brightcove](http://www.brightcove.com/en/privacy) and [YouTube](http://www.google.com/policies/privacy/ads/). These sites use cookies to collect video statistics and improve site experience. 
+[ ](https://documents.hitbox.com/optout.html)
+* Embedded Videos: Most videos on Farmers Weekly are hosted on [Brightcove](http://www.brightcove.com/en/privacy) and [YouTube](http://www.google.com/policies/privacy/ads/). These sites use cookies to collect video statistics and improve site experience. 
 
-
-
-#### Category 3 - Functionality cookies
+#### Category 3 – Functionality cookies
 
 These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more relevant features.
 
-#### Category 3 - Cookies used by Farmers Weekly:
+#### Category 3 – Cookies used by Farmers Weekly:
 
-  * User Preferences: Preference cookies remember settings you’ve applied to this site such as Layout, Default views, Search filters, Number of Search results per page, Video bandwidth etc... 
-  * Optimizing User Experience: Remembering recently viewed pages. Remembering your last search term. 
-  * Login Information: Login cookies may be used to communicate your login details across pages of this website. This data is encrypted and not shared with third parties. 
+* User Preferences: Preference cookies remember settings you’ve applied to this site such as Layout, Default views, Search filters, Number of Search results per page, Video bandwidth etc… 
+* Optimizing User Experience: Remembering recently viewed pages. Remembering your last search term. 
+* Login Information: Login cookies may be used to communicate your login details across pages of this website. This data is encrypted and not shared with third parties. 
 
-
-
-#### Category 4 - Targeting or Advertising cookies
+#### Category 4 – Targeting or Advertising cookies
 
 These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers
 
-#### Category 4 - Cookies used by Farmers Weekly:
+#### Category 4 – Cookies used by Farmers Weekly:
 
-  * Targeted Advertising: Advertising cookies are used by third parties to gather and send information to other websites so that they can present you with adverts you may be interested in. 
+* Targeted Advertising: Advertising cookies are used by third parties to gather and send information to other websites so that they can present you with adverts you may be interested in. 
 
 These cookies can be linked to clicks on ‘Like’ or ‘Share’ buttons which may be used on this site. 
 
@@ -120,7 +115,7 @@ In addition, third party advertisers run adverts on Farmers Weekly and use their
 
 If you would like to block cookies being set by third party networks you may do so through the preference settings on your browser. 
 
-  * Campaign Tracking: Campaign Tracking cookies are used to monitor how effective adverts, promotions and e-newsletters are. Farmers Weekly traffics its own campaigns through: 
+* Campaign Tracking: Campaign Tracking cookies are used to monitor how effective adverts, promotions and e-newsletters are. Farmers Weekly traffics its own campaigns through: 
 
 Doubleclick (Google) Adtech  
 Site Catalyst 
@@ -134,8 +129,5 @@ You may choose to decline these cookies by visiting the following sites:
 In addition, third party advertisers run campaigns on Farmers Weekly.
 
 If you would like to block cookies being set by third party networks you may do so through the preference settings on your browser. 
-
-
-
 
 To contact us about cookies on this site, please email [eucookies@rbi.co.uk](mailto:eucookies@rbi.co.uk)
