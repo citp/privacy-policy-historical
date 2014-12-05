@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bakersroyale.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606125031id_/http%3A//www.bakersroyale.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersroyale.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206005556id_/http%3A//www.bakersroyale.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bakers Royale
+# Bakers Royale » Privacy Policy
 
-The Privacy Policy covers all of Bakers Royale (“BR Site”) and any associated content, including, but not limited to, email and RSS feeds Your use of Bakers Royale indicates you have read and understood this privacy policy and indicates your agreement to abide by the Terms of Use in effect.
+The Privacy Policy covers all of Bakers Royale (“BR Site”) and any associated content, including, but not limited to, email and RSS feeds. Your use of Bakers Royale indicates you have read and understood this privacy policy and indicates your agreement to abide by the Terms of Use in effect.
 
 **1\. Information Collection** – Bakers Royale is the sole owner of the information collected on the site. Bakers Royale may collect information from users at several different points on the site.
 
@@ -26,6 +26,6 @@ The Privacy Policy covers all of Bakers Royale (“BR Site”) and any associate
 
 If you become aware of a security issue, please email us at legal info@bakersroyale.com. We will work with you to address any problems.
 
-**5\. Notification of Changes** – Whenever Bakes Royale changes its privacy policy, we will post those changes to this **Privacy Policy page** , and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**5\. Notification of Changes** – Whenever Bakers Royale changes its privacy policy, we will post those changes to this **Privacy Policy page** , and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 **6\. Effective Date** – This Privacy Policy is effective May 2, 2013.
