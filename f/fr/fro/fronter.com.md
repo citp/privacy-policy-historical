@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fronter.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523210212id_/http%3A//com.fronter.info/virtual-learning-environment-lms/privacy-and-legal-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fronter.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205040821id_/http%3A//com.fronter.info/virtual-learning-environment-lms/privacy-and-legal-statement) for the most accurate reproduction.*
 
 # privacy and legal statement - Fronter Global
 
