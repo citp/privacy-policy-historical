@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostinghub.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301021637id_/http%3A//www.webhostinghub.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostinghub.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205163529id_/http%3A//www.webhostinghub.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Web Hosting Hub - Privacy Policy
 
@@ -26,7 +26,8 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
   16. **Where to Direct Questions About WHH's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: Customer Service at support@webhostinghub.com.
   17. **Exceptions.** As stated previously in this policy, we will never give out your information without your permission. The only exceptions to this are, when we are required by law, in the good-faith belief that such action is necessary in order to conform to the law, or we must comply with a legal process served on our web site. We may also need to give out your information if one of our partners requires it, but these situations are rare and we will always ask for your explicit permission first.
   18. **Revisions to This Policy.** The Company reserves the right to revise, amend, or modify this policy, our Internet Service Agreement and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Internet Service Agreement.
+  19. **ClickTale Analytics.** This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [ Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to increase the usability and accessibility of our website. You can choose to disable the Service at [ http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html).
 
 
 
-_Revised: March 22, 2013_
+_Revised: June 18, 2014_
