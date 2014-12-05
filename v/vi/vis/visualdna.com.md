@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627025731id_/http%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205043448id_/http%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VisualDNA
 
