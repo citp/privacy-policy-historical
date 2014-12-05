@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the hotel-discount.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529095944id_/http%3A//www.hotel-discount.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel-discount.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205155705id_/http%3A//www.hotel-discount.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Hotels Discounts
+# Privacy – Hotels Discounts
 
 **Available only in English  
  **
 
-At [hotel](http://compare-rates.hotel-discount.com/) disscount, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [hotel](http://www.hotel-discount.com/do-you-know-of-any-discount-hotel-websites/) [discount](http://www.hotel-discount.com/do-you-know-of-any-discount-hotel-websites/) and how it is used.
+At [hotel](http://compare-rates.hotel-discount.com/) disscount, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [hotel](http://compare-rates.hotel-discount.com/) [discount](http://www.hotel-discount.com/making-online-hotel-booking-easier/) and how it is used.
 
 **Log Files**
 
   
-Like many other Web sites, hotel discount makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, [hotel](http://www.hotel-discount.com/how-to-find-cheap-hotels/) [discount](http://www.hotel-discount.com/making-online-hotel-booking-easier/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**
 
-hotel discount does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+[hotel](http://www.hotel-discount.com/how-to-find-cheap-hotels/) discount does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
   **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on hotel discount.  
 .:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to hotel-discount.com  and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners may include Google Adsense.
 
