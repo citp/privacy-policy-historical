@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelifehappy.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606011025id_/http%3A//www.livelifehappy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelifehappy.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205090916id_/http%3A//www.livelifehappy.com/privacy-policy) for the most accurate reproduction.*
 
 # Live Life Happy Privacy Policy
 
@@ -50,9 +50,7 @@ Third parties may be placing or reading “cookies” on your web browser. Cooki
 
 **Collection of Information by Third Parties.**  This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or “serve”) the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
-If you have any questions about our privacy policy, **please send an email to livelifehappy.com@gmail.com**
+If you have any questions about our privacy policy, **please send an email to robert@livelifehappy.com**
 
 [](http://creativecommons.org/licenses/by-nc-nd/3.0/)  
 Quotable Posters by [Robert Tew](http://www.livelifehappy.com/) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).
-
-[](http://www.hupso.com/share/)
