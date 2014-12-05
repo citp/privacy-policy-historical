@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solarpowerworldonline.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628150641id_/http%3A//www.wtwhmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarpowerworldonline.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205121627id_/http%3A//www.wtwhmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WTWH Media LLC
+# Privacy Policy - WTWH Media LLC
 
 WTWH Media LLC (“WTWH”, “we”, or “us”) is committed to ensuring the privacy of our users. The following is our privacy policy and we hope it clarifies how WTWH processes and uses certain information collected via our network of websites. A listing of WTWH online properties can be found at wtwhmedia.com. By using our Sites, you consent to the terms of this Policy.
 
@@ -8,7 +8,7 @@ WTWH Media LLC (“WTWH”, “we”, or “us”) is committed to ensuring the 
 
 Some information is automatically collected, such as your computer’s Internet Protocol (IP) address, operating system and browser type and the time and date of your visit. This information is collected through the use of “cookies.” Cookies are small files that are stored on your computer by a Web site to give you a unique identification.
 
-We also use cookies on our Site to keep track of services you have used, to record registration information regarding your login name and password, to ensure you do not repeatedly see advertisements, to record your user preferences and to keep you logged into the sites.
+We also use cookies on our Sites to keep track of services you have used, to record registration information regarding your login name and password, to ensure you do not repeatedly see advertisements, to record your user preferences and to keep you logged into the sites.
 
 Additionally, we use, and allow third parties to use, various Web technologies on the sites to monitor the effectiveness of advertising or for other legitimate purposes.
 
@@ -21,7 +21,7 @@ We use personal information to process your requests or transactions, provide yo
   * contact you for administrative purposes or provide you with customer service
   * complete transactions requested by you
   * respond to any questions, problems or complaints, or request feedback
-  * organize the Site and its various services and activities to better serve you and customize or develop our products and services
+  * organize Sites and various services and activities to better serve you and customize or develop our products and services
   * send you emails or other communications containing information about products and services that you have requested
 
 
@@ -40,12 +40,9 @@ In addition, information about our users, including personally identifiable info
 
 Our sites contain links to other Web sites. Links from our sites to other sites or content are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of such third parties or other sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. In the case of a link to a WTWH Media site, this privacy policy is applicable.
 
-### How to Contact Us
-
-If you have any questions or concerns about the WTWH online policy for the Design World website or its implementation you may contact us at webmaster@wtwhmedia.com.
-
 ### Updates & Effective
 
 Date From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-The Privacy Notice posted on this site was updated on or about April 10, 2013
+The Privacy Notice posted on this site was updated on or about October 29, 2014  
+
