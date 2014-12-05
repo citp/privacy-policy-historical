@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626132806id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205192906id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
 
 # Legal Statement and Privacy Policy at Casinomeister
 
@@ -17,6 +17,7 @@
     * [Casino Reviews](http://www.casinomeister.com/forums/list.php?r=category/91-Meister-Reviews)
     * [The Reservation](http://www.casinomeister.com/reservation.php)
     * [Best Casinos of the Year](http://www.casinomeister.com/forums/list.php?r=category/20-Best-Casino-of-the-Year)
+    * [UK Licensed](http://www.casinomeister.com/forums/list.php?r=category/49-UK-Gambling-Commission)
     * [US Facing](http://www.casinomeister.com/forums/list.php?r=category/5-Accepts-US)
     * [IGT Casino list](http://www.casinomeister.com/wagerworks.php)
     * [Microgaming Casinos](http://www.casinomeister.com/microgaming.php)
@@ -54,8 +55,8 @@
 
 | 
 
-  * [What's Happening](http://www.casinomeister.com/join.php)
-    * [News](http://www.casinomeister.com/news/)
+  * [Meaningful News](http://www.casinomeister.com/join.php)
+    * [Online Casino News](http://www.casinomeister.com/news/)
     * [Webcast](http://www.youtube.com/user/casinomeister?gl=GB&hl=en-GB)
     * [Newsletter for Players](http://www.casinomeister.com/newsletter.php)
     * [Latest Issue](http://www.casinomeister.com/newsletter.php#skip)
@@ -103,7 +104,7 @@
 ---|---|---|---|---|---|---|---|---  
 |  | 
 
-[home](https://web.archive.org/web/20140626132806id_/http%3A//www.casinomeister.com/index.php) >> This page  
+[home](https://web.archive.org/web/20141205192906id_/http%3A//www.casinomeister.com/index.php) >> This page  
 
 
 | Statement  
@@ -160,30 +161,32 @@ Top of page | [Home](http://www.casinomeister.com/) | [News](http://www.casinome
 
 |   
 ---  
-[Rogue Announcement](http://www.casinomeister.com/rogue/not_recommended/playtech_progressives.php)  
+[Rogue Announcement](http://www.casinomeister.com/rogue/cyber-bets.php)  
   
-40 Playtech Casinos!   
+Cyber-bets.com - Treacherous Rogue!   
 
 
-They are in the Not Recommended section.  
-Read about it [here](http://www.casinomeister.com/rogue/not_recommended/playtech_progressives.php).  
+Fake KGC certificate.
+
+Read about it [here](http://www.casinomeister.com/rogue/cyber-bets.php).  
+  
 [Rogue section here...](http://www.casinomeister.com/rogue/)  
 ---  
 [Casinomeister News](http://www.casinomeister.com/news/)  
-[BOVADA EXITS NEW JERSEY MARKET](http://www.casinomeister.com/news/june2014/online_casino_news1/BOVADA-EXITS-NEW-JERSEY-MARKET.php)
+[IS YOUTUBE CENSORING SLOT VIDS?](http://www.casinomeister.com/news/november2014/online_casino_news4/IS-YOUTUBE-CENSORING-SLOT-VIDS.php)
 
-No explanation, but speculation is that state AG's warning to affiliates may have triggered decision  
+Reports that channels featuring slots are being closed. Read about it [here](http://www.casinomeister.com/news/november2014/online_casino_news4/IS-YOUTUBE-CENSORING-SLOT-VIDS.php).   
   
 Casinomeister's Webcast!
 
-**Casinomeister Awards and Player Fraud Alert!**  
+My Vegas trip - The Amazing Protecto's Player Warning  
   
   
-[DIGIMEDIA NOW OPERATING TOP ONLINE CASINOS](http://www.casinomeister.com/news/june2014/online_casino_news1/DIGIMEDIA-NOW-OPERATING-TOP-ONLINE-CASINOS.php)
+[ONLINE GAMBLING INTERVIEW MAKES FOR TRULY TERRIBLE TELEVISION](http://www.casinomeister.com/news/november2014/online_casino_news4/ONLINE-GAMBLING-INTERVIEW-MAKES-FOR-TRULY-TERRIBLE-TELEVISION.php)
 
-Malta-based company announces that it has taken on Red Flush, Casino LaVida and Major Tom online casinos 
+Two former Arkansas politicians in a biased and misinformation-riddled exchange of opinions 
 
-Check it out [**here**](http://www.casinomeister.com/news/june2014/online_casino_news1/DIGIMEDIA-NOW-OPERATING-TOP-ONLINE-CASINOS.php)  
+Check it out [**here**](http://www.casinomeister.com/news/november2014/online_casino_news4/ONLINE-GAMBLING-INTERVIEW-MAKES-FOR-TRULY-TERRIBLE-TELEVISION.php)  
   
 [More news here...](http://www.casinomeister.com/news/)  
     
