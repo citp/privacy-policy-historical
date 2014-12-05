@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allenai.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092120id_/http%3A//www.allenai.org/TemplateGeneric.aspx%3FcontentId%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allenai.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205083150id_/http%3A//www.allenai.org/TemplateGeneric.aspx%3FcontentId%3D7) for the most accurate reproduction.*
 
 # AI2 : Privacy Policy
 
