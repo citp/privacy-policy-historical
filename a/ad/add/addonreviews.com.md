@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the addonreviews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104629id_/http%3A//addonreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addonreviews.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205015346id_/http%3A//www.addonreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AddOnReviews.com
 
 ## Overview of Our Privacy Policy
+
+Tightrope Interactive 425 Bush Street, Suite 500 San Francisco, CA 94108 888.724.4867
 
 We supply free entertainment and utility software including video playing software, password managers, file zipping software and games. Our Products include Toolbars. Our Toolbars add search functionality to your browser. They also allow one click access to news and our offers. (We refer to our software and Products throughout this agreement as our “Services”).
 
