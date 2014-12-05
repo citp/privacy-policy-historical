@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutorindia.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626232111id_/http%3A//tutorindia.net/info-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorindia.net privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205175750id_/http%3A//tutorindia.net/info-privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | TutorIndia
+# Tutorindia Privacy Policy
 
 **Privacy Policy for tutorindia.net**    
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@tutorindia.net.   
