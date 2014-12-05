@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keithurban.net privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215025019id_/http%3A//www.keithurban.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keithurban.net privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205112031id_/http%3A//www.keithurban.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
