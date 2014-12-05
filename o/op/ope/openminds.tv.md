@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openminds.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625154427id_/http%3A//www.openminds.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openminds.tv privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205124908id_/http%3A//www.openminds.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Company Mailing Practices | OpenMinds.tv
 
@@ -84,8 +84,8 @@ This policy was last modified on February 17, 2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below:  
 [www.openminds.tv](http://www.openminds.tv/)  
-3116 South Mill Ave. #153  
-Tempe, Arizona 85282  
+5801 S. McClintock Dr. Suite 107  
+Tempe, Arizona 85283  
 USA  
 [contact@openminds.tv](mailto:contact@openminds.tv)  
 1-877-836-0110
