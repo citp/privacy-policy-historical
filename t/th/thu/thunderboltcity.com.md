@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thunderboltcity.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505014107id_/http%3A//dating.thunderboltcity.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thunderboltcity.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205115047id_/http%3A//dating.thunderboltcity.com/s/help/privacy.php) for the most accurate reproduction.*
 
 # Thunderbolt City Dating - Privacy Policy
 
 ### Privacy Policy
+
+Last Modified: 30 September 2013
 
 For us, privacy is what it's all about. Sure we've got great technology, technically superior software and so on, but what really counts is our ability to provide our members with a safe, secure and private environment.
 
@@ -61,7 +63,7 @@ Our technical team do their utmost to ensure the security of our systems. Intern
 
 #### 13\. Signing up with Social Network Accounts
 
-We provide a quick and easy method for members to join or log in with a social network accounts, e.g. Facebook. This is for the sole purpose of speeding up the join process and no references to or content about Thunderbolt City Dating will be posted to your social network account or timeline. Refer to the 'Social Network Sharing' section for occasions where you may give permission to post updates on your social network account or timeline.
+We provide a quick and easy method for members to join or log in with a social network account, e.g. Facebook. This is for the sole purpose of speeding up the join process and no references to or content about Thunderbolt City Dating will be posted to your social network account or timeline. Refer to the 'Social Network Sharing' section for occasions where you may give permission to post updates on your social network account or timeline.
 
 #### 14\. Changes to This Policy
 
