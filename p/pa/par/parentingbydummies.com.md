@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentingbydummies.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824054112id_/http%3A//bit.ly/kGmqCw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentingbydummies.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206002358id_/http%3A//bit.ly/kGmqCw) for the most accurate reproduction.*
 
 # pBd privacy policy
 
@@ -10,7 +10,7 @@ As pBd continues to grow and obtain advertisers this policy does not change as i
 
 Here is what you need to know about Burst Media:
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="<http://www.networkadvertising.org/managing/opt_out.asp>">click here</a>.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="[http://www.networkadvertising.org/managing/opt_out.asp](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp&sa=D&sntz=1&usg=AFQjCNGLrN7Q3yfX4kPIuQhtUNKfQMyCNg)">click here</a>.
 
 Thank you for visiting parenting BY dummies.
 
