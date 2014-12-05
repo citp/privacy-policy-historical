@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jollychic.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301121916id_/http%3A//www.jollychic.com/privacy-policy-a11.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jollychic.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205014322id_/http%3A//www.jollychic.com/privacy-policy-a11.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+_►_ Privacy Policy
 
 Privacy policy
 
@@ -63,7 +65,8 @@ While we use industry-standard precautions to safeguard your personal informatio
 OPT OUT/CORRECTIONS  
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account.You can make these requests at the customer information section, or by telephoning, or emailing your request to Jollychic's Customer Support department at service@Jollychic.com . Please do not email your credit card number or other sensitive information.
 
-OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION As you might expect from Jollychic.com the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example,we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION  
+As you might expect from Jollychic.com the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example,we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
 UPDATES TO THIS POLICY
 
