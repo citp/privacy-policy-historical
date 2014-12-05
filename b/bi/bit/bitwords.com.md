@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bitwords.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923222241id_/http%3A//www.bitwords.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitwords.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205162132id_/http%3A//bitwords.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Bitwords Media NYC
 
-  * 1\. Our Commitment To Privacy
-  * 2\. The Information We Collect
-  * 3\. How We Use Information
-  * 4\. Our Commitment To Data Security
-  * 5\. Our Commitment To Children's Privacy
-  * 6\. How To Access Or Correct Your Information
-  * 7\. How To Contact Us
+  * 1\.  Our Commitment To Privacy
+  * 2\.  The Information We Collect
+  * 3\.  How We Use Information
+  * 4\.  Our Commitment To Data Security
+  * 5\.  Our Commitment To Children's Privacy
+  * 6\.  How To Access Or Correct Your Information
+  * 7\.  How To Contact Us
 
 
 
