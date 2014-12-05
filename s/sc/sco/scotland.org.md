@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotland.org privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606051950id_/http%3A//www.scotland.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205095609id_/http%3A//www.scotland.org/privacy) for the most accurate reproduction.*
 
 # Privacy — The Official Gateway to Scotland
 
