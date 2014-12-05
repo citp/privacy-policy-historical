@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetiegames.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605070954id_/http%3A//www.sweetiegames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiegames.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205135304id_/http%3A//www.sweetiegames.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - sweetiegames.com
 
