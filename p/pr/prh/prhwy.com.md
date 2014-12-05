@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prhwy.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011013316id_/http%3A//www.prhwy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prhwy.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205120028id_/http%3A//www.prhwy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # prHWY Privacy Policy
 
@@ -11,11 +11,11 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 We are the sole owner of the information collected on the Site unless specifically stated otherwise. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy. 
 
-prHWY.com collects personally identifiable information during the registration process; email address, chosen screen name, password, and gender. These are required for users to participate and create wish lists on the web site. Other identifiable information is collected if a user decides to add to their profile page. Adding to a profile is completely optional, and should be noted that any information submitted through the profile page will be displayed throughout the web site unless otherwise stated. 
+prHWY.com collects personally identifiable information during the registration process; email address, chosen screen name, password, etc. These are required for users to participate and create press releases on the web site. 
 
 **EMAIL**
 
-Email addresses will not be provided to a third party without explicit permission. prHWY.com may send out emails concerning related web site news, offers, surveys, or system update notices. Registered members may also receive notification emails from prHWY.com, which informs them of actions (e.g. member messages, friend invites, group invites, etc.) that have been performed on the web site. 
+Email addresses will not be provided to a third party without explicit permission. prHWY.com may send out emails concerning related web site news, offers, surveys, or system update notices. Registered members may also receive notification emails from prHWY.com, which informs them of actions (e.g. messages, press release postings, etc.) that have been performed on the web site. 
 
 **COOKIES**
 
