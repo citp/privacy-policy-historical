@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326155723id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205034824id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security
+
+| 
+
+**Join our email list!**  
+Be the first to know about new products, sales & exclusive offers!  [Sign Up](https://web.archive.org/signup.aspx)  
+  
+---  
+   
+    
+  
+|  | 
+
+**Keepsake Quilting's Privacy & Security Commitment**
 
 **PRIVACY POLICY**
 
@@ -59,4 +72,8 @@ When you make a purchase, request a catalog or create an account on our Web site
 
 **CHANGES TO THIS POLICY**   
   From time to time, we may use your information for new, unanticipated uses not previously disclosed in this Privacy Policy. If our information practices change at some time in the future, we will post the policy changes here.  
-  If you believe that this site is not following its stated information policy, you may contact us at the above address and state or local chapters of the Better Business Bureau.
+  If you believe that this site is not following its stated information policy, you may contact us at the above address and state or local chapters of the Better Business Bureau.  
+  
+---  
+  
+© 2014 [F+W](http://www.fwmedia.com/) All Rights Reserved.
