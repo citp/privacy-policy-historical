@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163514id_/http%3A//www.techsoup.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205111429id_/http%3A//www.techsoup.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 TechSoup Global Privacy Policy and Your California Privacy Rights
 
-This privacy policy (the "Privacy Policy") is intended to inform you of the policies and procedures of TechSoup Global ("TechSoup Global", "we" or "us") and its affiliates. We have have prepared this Privacy Policy to describe to you our practices regarding the information we collect from users of our websites, including http://www.techsoup.org/ (collectively, the “Web Sites”) and online services (the “Services”).
+This privacy policy (the "Privacy Policy") is intended to inform you of the policies and procedures of TechSoup Global ("TechSoup Global", "we" or "us") and its affiliates. We have have prepared this Privacy Policy to describe to you our practices regarding the information we collect from users of our websites, including http://www.techsoup.org/ (collectively, the "Web Sites") and online services (the "Services").
 
 ## Definitions
 
@@ -20,7 +20,7 @@ This privacy policy (the "Privacy Policy") is intended to inform you of the poli
 
 ## General Security
 
-TechSoup Global takes commercially reasonable physical, electronic, and managerial precautions to prevent the loss and misuse of Personal Information under our control. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while TechSoup Global uses reasonable efforts to protect your Personal Information, we cannot guarantee its absolute security. (Please see our Terms of Use for more information.)
+TechSoup Global takes commercially reasonable physical, electronic, and managerial precautions to prevent the loss and misuse of Personal Information under our control. However, no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. Therefore, while TechSoup Global uses reasonable efforts to protect your Personal Information, we cannot guarantee its absolute security. (Please see our Terms of Use for more information.)
 
 ## Personal Information We Collect
 
@@ -40,21 +40,21 @@ From time to time, TechSoup Global receives Personal Information about you via o
 
 ## Data You Submit About Third Parties
 
-If you choose to use the "Tell a Friend" function on the Web Sites, or if you choose to refer a nonprofit entity to us, we may collect the information you provide about such third party, such as the third party’s name and email address. We may retain and use the information you provide about such third party in accordance with this Privacy Policy.
+If you choose to use the "Tell a Friend" function on the Web Sites, or if you choose to refer a nonprofit entity to us, we may collect the information you provide about such third party, such as the third party's name and email address. We may retain and use the information you provide about such third party in accordance with this Privacy Policy.
 
 ## Information We Collect via Technology
 
-As is true of most websites, our Web server software automatically logs information provided by your network connection and Web browser software, including the Internet Protocol (IP) address of your network connection and the type of Web browser and operating system that you are using. Our Web server may also log the URL of the file that you are requesting, the current date and time, and the URL of the last Web page requested by your Web browser. We use this information to analyze trends, administer the Web Sites, track users’ movements around the Web Sites, and better tailor our Web Sites to our users’ needs.
+As is true of most websites, our Web server software automatically logs information provided by your network connection and Web browser software, including the Internet Protocol (IP) address of your network connection and the type of Web browser and operating system that you are using. Our Web server may also log the URL of the file that you are requesting, the current date and time, and the URL of the last Web page requested by your Web browser. We use this information to analyze trends, administer the Web Sites, track users' movements around the Web Sites, and better tailor our Web Sites to our users' needs.
 
-Like many online services, we use cookies to collect information. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). This type of information is collected to make the Web Sites more useful to and to tailor the experience with us to meet your special interest and needs.
+Like many online services, we use cookies to collect information. "Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing the website. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). This type of information is collected to make the Web Sites more useful to and to tailor the experience with us to meet your special interest and needs.
 
-We may utilize Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies and page tags to gather information relating to the usage of our Web Sites, such as how often users visit the Web Sites, what pages they visit and other sites they used prior to coming to the Web Sites. The information generated by cookies (including IP addresses) and page tags is transmitted to and stored on Google servers. This information may then be analyzed and compiled into reports on Web Site activity. The use and disclosure of information stored on Google servers is governed by Google’s privacy policy available at: <https://www.google.com/intl/en/policies/privacy/>, not ours.
+We may utilize Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies and page tags to gather information relating to the usage of our Web Sites, such as how often users visit the Web Sites, what pages they visit and other sites they used prior to coming to the Web Sites. The information generated by cookies (including IP addresses) and page tags is transmitted to and stored on Google servers. This information may then be analyzed and compiled into reports on Web Site activity. The use and disclosure of information stored on Google servers is governed by Google's privacy policy available at: <https://www.google.com/intl/en/policies/privacy/>, not ours.
 
-You have the option of disabling or not accepting cookies by changing the preferences in your Web browser. Consult your Web browser’s technical information for details on how to disable cookies. If you opt to disable cookies, you will still be able to access our Web Sites. However, you will not be able to use certain features of the Web Sites, including, but not limited to, the My TechSoup functionality, posting to the TechSoup Global message boards (Community Discussion Forums), and placing requests for Products through the Web Sites.
+You have the option of disabling or not accepting cookies by changing the preferences in your Web browser. Consult your Web browser's technical information for details on how to disable cookies. If you opt to disable cookies, you will still be able to access our Web Sites. However, you will not be able to use certain features of the Web Sites, including, but not limited to, the My TechSoup functionality, posting to the TechSoup Global message boards (Community Discussion Forums), and placing requests for Products through the Web Sites.
 
 ## Donation Requests Made Through Our Site
 
-Online selection and fulfillment services for Products may be conducted either by us, the donor, or by one of our third party partners. You acknowledge and agree that, in some cases, you may be required to leave our Web Sites to select Products and place your Product request. Our third party partners will make available to you their website policies governing their collection of Personal Information from you. Any Personal Information you provide to such third parties will be subject to the third party’s privacy policy and website terms of use, and not to this Privacy Policy or the TechSoup Terms of Use.
+Online selection and fulfillment services for Products may be conducted either by us, the donor, or by one of our third party partners. You acknowledge and agree that, in some cases, you may be required to leave our Web Sites to select Products and place your Product request. Our third party partners will make available to you their website policies governing their collection of Personal Information from you. Any Personal Information you provide to such third parties will be subject to the third party's privacy policy and website terms of use, and not to this Privacy Policy or the TechSoup Terms of Use.
 
 ## Use of Information We Collect
 
@@ -76,13 +76,15 @@ We may share some or all of your Personal Information in connection with or duri
 
 We may (and you authorize us to) disclose Personal Information we collect from you if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us, (b) enforce any agreement we may have entered into with you and to enforce the Privacy Policy, or (c) protect and defend the rights or property of TechSoup Global, other users of the Web Sites, or third parties.
 
-TechSoup Global may enter into agreements with third parties to provide certain donations to our TechSoup Clients or companies that offer their products and/or services on our website (“Third Party Companies”). A Third Party Company may want access to Personal Data that we collect from its customers. 
+TechSoup Global may enter into agreements with third parties to provide certain donations to our TechSoup Clients or companies that offer their products and/or services on our website ("Third Party Companies"). A Third Party Company may want access to Personal Data that we collect from its customers. 
 
 **AS A RESULT, WE MAY PROVIDE YOUR PERSONAL DATA TO THIRD PARTY COMPANIES. BECAUSE WE DO NOT CONTROL THE PRIVACY PRACTICES OF THESE THIRD PARTY COMPANIES, YOU SHOULD READ AND UNDERSTAND THEIR PRIVACY POLICIES.**
 
-**NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS** **(AS PROVIDED BY CALIFORNIA CIVIL CODE SECTION 1798.83)**
+**NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/SHE HAS ESTABLISHED A BUSINESS RELATIONSHIP FOR PERSONAL, FAMILY, OR HOUSEHOLD PURPOSES (A “CALIFORNIA CUSTOMER”) MAY REQUEST INFORMATION ABOUT WHETHER THE BUSINESS HAS DISCLOSED PERSONAL INFORMATION TO ANY THIRD PARTIES FOR THE THIRD PARTIES’ DIRECT MARKETING PURPOSES. IN GENERAL, IF THE BUSINESS HAS MADE SUCH A DISCLOSURE OF PERSONAL DATA, UPON RECEIPT OF A REQUEST BY A CALIFORNIA CUSTOMER, THE BUSINESS IS REQUIRED TO PROVIDE A LIST OF ALL THIRD PARTIES TO WHOM PERSONAL DATA WAS DISCLOSED IN THE PRECEDING CALENDAR YEAR, AS WELL AS A LIST OF THE CATEGORIES OF PERSONAL DATA THAT WERE DISCLOSED. CALIFORNIA CUSTOMERS MAY REQUEST FURTHER INFORMATION ABOUT OUR COMPLIANCE WITH THIS LAW BY E-MAILING[privacy@techsoup.org](mailto:privacy@techsoup.org). PLEASE NOTE THAT WE ARE REQUIRED TO RESPOND TO ONE REQUEST PER CALIFORNIA CUSTOMER EACH YEAR AND WE ARE NOT REQUIRED TO RESPOND TO REQUESTS MADE BY MEANS OTHER THAN THROUGH THIS E-MAIL ADDRESS.**
+**(AS PROVIDED BY CALIFORNIA CIVIL CODE SECTION 1798.83)**
+
+**A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/SHE HAS ESTABLISHED A BUSINESS RELATIONSHIP FOR PERSONAL, FAMILY, OR HOUSEHOLD PURPOSES (A "CALIFORNIA CUSTOMER") MAY REQUEST INFORMATION ABOUT WHETHER THE BUSINESS HAS DISCLOSED PERSONAL INFORMATION TO ANY THIRD PARTIES FOR THE THIRD PARTIES' DIRECT MARKETING PURPOSES. IN GENERAL, IF THE BUSINESS HAS MADE SUCH A DISCLOSURE OF PERSONAL DATA, UPON RECEIPT OF A REQUEST BY A CALIFORNIA CUSTOMER, THE BUSINESS IS REQUIRED TO PROVIDE A LIST OF ALL THIRD PARTIES TO WHOM PERSONAL DATA WAS DISCLOSED IN THE PRECEDING CALENDAR YEAR, AS WELL AS A LIST OF THE CATEGORIES OF PERSONAL DATA THAT WERE DISCLOSED. CALIFORNIA CUSTOMERS MAY REQUEST FURTHER INFORMATION ABOUT OUR COMPLIANCE WITH THIS LAW BY E-MAILING[privacy@techsoup.org](mailto:privacy@techsoup.org). PLEASE NOTE THAT WE ARE REQUIRED TO RESPOND TO ONE REQUEST PER CALIFORNIA CUSTOMER EACH YEAR AND WE ARE NOT REQUIRED TO RESPOND TO REQUESTS MADE BY MEANS OTHER THAN THROUGH THIS E-MAIL ADDRESS.**
 
 ## Your Choices Regarding Your Personal Information
 
@@ -92,7 +94,7 @@ Despite your indicated e-mail preferences, we may send you service related commu
 
 When we delete information that we have collected from or about you, it will be deleted from our active databases but may remain in our archives.
 
-If you would prefer not to receive postal mailings from us, please send an email to [privacy@techsoup.org](mailto:privacy@techsoup.org) with the subject line "Print Catalog — Opt Out." Please make sure to include your name and organization's name in the body of your message. 
+If you would prefer not to receive postal mailings from us, please send an email to [privacy@techsoup.org](mailto:privacy@techsoup.org?subject=Print%20Catalog%20%E2%80%94%20Opt%20Out) with the subject line "Print Catalog — Opt Out." Please make sure to include your name and organization's name in the body of your message. 
 
 You may also occasionally receive administrative site and service announcement updates via email (such as, but not limited to, notice that we have changed the Services, Terms of Use, or the Privacy Policy) when we believe it necessary to do so. You may not opt out from these announcements, which are not promotional in nature, as they contain important information about changes to our Services, Terms of Use, or the Privacy Policy. However, if you do not wish to receive these announcements, you have the option to cancel your Account(s). You understand that any such termination of your Account information may involve deletion of your Personal Information from our live databases. We will not have any liability whatsoever to you for any termination of your Account or related deletion of your information. Note that in some cases, you may request that we delete your Personal Information, but we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your request only after we have fulfilled such requirements).
 
@@ -106,7 +108,7 @@ If you would like to change any of the information contained in an organization 
 
 ## Surveys and Case Studies
 
-Occasionally, TechSoup Global or one of our donating partners may ask TechSoup Clients who will receive or have received product donations to participate in a case study, provide a testimonial, or complete a survey. If a donating partner requires the client’s willingness to participate in any such study as a prerequisite for receiving a donation, this will be explicitly stated in the guidelines for that donation program. 
+Occasionally, TechSoup Global or one of our donating partners may ask TechSoup Clients who will receive or have received product donations to participate in a case study, provide a testimonial, or complete a survey. If a donating partner requires the client's willingness to participate in any such study as a prerequisite for receiving a donation, this will be explicitly stated in the guidelines for that donation program. 
 
 ## Links to Outside Web Sites
 
@@ -114,7 +116,7 @@ This privacy statement applies solely to information collected through the Web S
 
 ## Shared Areas of the Services
 
-Please be aware that if you enter any Personal Information into shared sections of the Services, such as in message boards, that Personal Information will be displayed to anyone who has access to these sections of the Service. TechSoup Global has no control over, and will have no liability to you regarding other users’ use or disclosure of such Personal Information.
+Please be aware that if you enter any Personal Information into shared sections of the Services, such as in message boards, that Personal Information will be displayed to anyone who has access to these sections of the Service. TechSoup Global has no control over, and will have no liability to you regarding other users' use or disclosure of such Personal Information.
 
 ## Questions and Comments
 
