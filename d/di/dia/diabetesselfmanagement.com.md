@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104510id_/http%3A//www.diabetesselfmanagement.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205090210id_/http%3A//www.diabetesselfmanagement.com/Privacy) for the most accurate reproduction.*
 
 # Diabetes Self-Management Web Site Privacy Policy :: Diabetes Self-Management
 
@@ -18,7 +18,7 @@ If you desire to opt-out of our sharing of your Personal Information with third 
 
 **Personally Identifiable Information**
 
-This Site may request and collect certain personally identifiable information (”Personal Information”) from our users. “Personal Information” includes, for example, your name, mailing address, e-mail address, telephone, wireless and/or fax number, other wireless device address, credit/debit card and other payment information, and other contact information and medical information through various means such as Site registration, magazine subscriptions, subscription renewals and account maintenance, e-newsletter subscriptions, product orders, medicine tracking tools, sweepstakes and contest entries (if any), surveys and other online forms, questions, comments and communications to the Site, including but not limited to a “contact us” or similar feature on our Site, as well as through our blog(s), and through contributions to a chat room, bulletin board, or other open forum area of the Site. We may also obtain Personal Information about you form other sources, such as third parties. 
+This Site may request and collect certain personally identifiable information (”Personal Information”) from our users. “Personal Information” includes, for example, your name, mailing address, e-mail address, telephone, wireless and/or fax number, other wireless device address, credit/debit card and other payment information, and other contact information and medical information through various means such as Site registration, magazine subscriptions, subscription renewals and account maintenance, e-newsletter subscriptions, product orders, medicine tracking tools, sweepstakes and contest entries (if any), surveys and other online forms, questions, comments and communications to the Site, including but not limited to a “contact us” or similar feature on our Site, as well as through our blog(s), and through contributions to a chat room, bulletin board, or other open forum area of the Site. We may also obtain Personal Information about you from other sources, such as third parties. 
 
 **Non-Personally Identifiable Information**
 
