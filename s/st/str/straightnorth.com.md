@@ -1,51 +1,31 @@
-> *The following text is extracted and transformed from the straightnorth.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214075831id_/http%3A//www.straightnorth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straightnorth.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205205821id_/http%3A//www.straightnorth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is important to us. When you provide information to us via our website, we protect it according to this policy. If you have any questions, please don’t hesitate to let us know.
+Straight North recognizes that users may have concerns about privacy issues as they navigate the Internet. Straight North is committed to providing users with a safe, secure environment in which to secure information. Straight North will use reasonable efforts to ensure that the information you provide remains private, and is used only for the purposes stated below.
 
-**Who Is a Typical User of the Straight North website?**
+### Collected Information
 
-Straight North operates primarily as a provider of business-to-business services. Unlike many companies and websites, we do not focus on consumer users or the collection of consumer data. To the extent we collect information online, our purpose is to better serve our business clients and their employees.
+We collect information about the users of our site. This information helps us determine which parts of the site visitors find most valuable as well as how we can continually improve the services we provide. User identities remain anonymous unless the User provides this information as a part of registration. We use your IP address to help diagnose problems with our servers and to administer our Website.
 
-**What Information Do We Collect Online?**
+Users may use http://www.straightnorth.com without registering, but registration must occur in order to use any of the personalized services. Our site's registration form requires specific contact information: name, e-mail address, etc. We use the customer contact information to learn more about our visitors. The contact information is also used to contact users when necessary.
 
-Unless otherwise stated in another, more specific policy on the Web pages you are viewing, we collect the following types of information when you browse [www.straightnorth.com](http://www.straightnorth.com/ "www.straightnorth.com") or any other Straight North website:
+Unique identifiers (such as IDs and passwords) are collected to verify the visitor's identity and for use as account numbers in our record system.
 
-    * Information you provide directly, such as your name or ordering information when you register or make an online order, or any chat room postings or e-mail messages you send us;
+### Links to Other Sites
 
-    * The Web pages your Internet browser visits;
+http://www.straightnorth.com may contain links to third-party Websites. These links are provided solely as a convenience to users and not as an endorsement by Straight North of the contents on such third-party Websites. Straight North is not responsible for the content of linked third-party sites and does not make any representations regarding the content or accuracy of materials on such third-party Websites. Links to third-party Websites are performed at your own risk.
 
-    * Aggregate data, such as the number of hits per week, per Web page.
+Straight North does not represent or guarantee the truthfulness, accuracy, or reliability of communications posted by users or endorse any opinions expressed by users. User acknowledges that any reliance on material posted by other users will be at the User's risk.
 
-**How Do We Use This Information?**
+At http://www.straightnorth.com, we use a feature on your Internet browser called a "cookie". A cookie is a small file that your Web browser places on your computer's hard drive to identify you as a user. http://www.straightnorth.com does not use cookies to collect any personal information about users, nor do we sell or make them available to other organizations.
 
-Straight North does not rent or sell customer lists to other companies. Instead, we use information collected via the website in the following ways:
+You may disable the cookie function on your browser or erase the contents in your cookies file. To do this, consult the help features in your browser and program manager. However, please bear in mind that doing this prevents the Website from recognizing you as a previous user of the Website.
 
-    * For information you provide directly, such as ordering information or e-mail messages, we use the information to respond to your orders and requests.
+### Feedback
 
-    * For some registration and use data, we may direct you to particular Web pages, customize the Web pages you see, or otherwise increase the relevance of the information you access through the website.
+http://www.straightnorth.com encourages visitors to submit feedback. Any feedback that is submitted becomes the property of http://www.straightnorth.com and we may use this feedback for marketing purposes, or to contact visitors for more information.
 
-    * For information about Web pages visited, page hits per week, and the like, we use this information internally to improve the design of our Web pages.
+### Privacy Policy Updates
 
-    * Straight North may use third-party storage or service-provider companies to perform some functions including the processing of data.
-
-Straight North may disclose information to protect our rights or property, to enforce our terms of use and legal notices, as required or permitted by law, or at the request of government regulators or other law enforcement officials and the courts (including the issuance of a valid subpoena). We shall have no duty to notify you of such compliance with the law.
-
-**E-Mail Lists**
-
-Straight North maintains e-mail lists to keep interested parties informed about our company, events, products, support, and more. We do not sell the addresses on our list, but we may make information available to specific business partners, sponsors, or service providers.
-
-Users may voluntarily request to join our mailing lists by signing up or opting in through a form on our website. To be removed from a Straight North mailing list, simply contact us now.
-
-**Notification of Data Processing in the United States of America**
-
-When you choose to submit information through the website, Straight North and its affiliates may transfer, process and store the information in countries in which Straight North and its affiliates maintain offices, including the United States. The United States does not regulate data protection in the same manner as other countries, including the Member States of the European Union. Accordingly, the data that you submit to Straight North may be transferred to, processed, or stored in countries where the data protection laws are different than those of your country of residence.
-
-**Information Storage and Updates**
-
-You can update your contact information by contacting us at any time. We may keep all information in an off-line form, for archival purposes or as otherwise required by law.
-
-**Website Revisions**
-
-We constantly update the features of our website to better serve you and all our customers, so this policy may also be revised from time to time. Straight North may modify this policy without advance notice and any modifications are effective when they are posted here. By using our website, you indicate your understanding and acceptance of the terms of the policy posted at the time of your use. If you have any questions, please contact us at your convenience.
+Any changes to our privacy policy will be posted here so that visitors will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about http://www.straightnorth.com's privacy statement, the practices of this site, or your dealings with this Website, contact us at: [](mailto:info@straightnorth.com).
