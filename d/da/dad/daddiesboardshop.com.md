@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325032728id_/http%3A//www.daddiesboardshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205201431id_/http%3A//www.daddiesboardshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
