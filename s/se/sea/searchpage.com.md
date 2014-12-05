@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the searchpage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070328id_/http%3A//www.searchpage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchpage.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205090113id_/http%3A//www.searchpage.com/privacy.php) for the most accurate reproduction.*
 
 # SearchPage
 
 Effective Date: 27 August, 2012  
+
+
+SearchPage Tab is certified as a Trusted Download Program by TRUSTe signifying that SearchPage Tab has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding SearchPage Tab, please contact us at SearchPage, 4115 St-Laurent Suite 300, Montreal, Quebec, H2W 1Y7, Canada or by email at [feedback@searchpage.com](mailto:feedback@searchpage.com) or by phone at 514-788-4710. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
 This privacy policy (the "Privacy Policy") explains the privacy practices of SearchPage™, a product of SearchPage, a Canadian-based company ("SearchPage", "we", "us" or "our") that apply to (i) the access and use of the [http://www.searchpage.com](http://www.searchpage.com/) website, and any related sub-domains, which are operated by SearchPage (the "Website"), (ii) download and use of our proprietary application (the "SearchPage Tab Application") and (iii) the provision by SearchPage of services through the Website and the SearchPage Tab Application (the "Services").
 
 SearchPage is committed to maintaining your privacy please read all the terms of this privacy policy so that you understand what type of personal information we collect and how we collect it, how we use it and to whom we disclose it.
@@ -71,7 +75,7 @@ A SPECIAL NOTE FOR PARENTS AND LEGAL GUARDIANS: SearchPage respects the U.S Chil
     * We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you with a prompt message the next time you open SearchPage Tab and will also post a prominent notice on our website pages prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
   11. ### Limitation of Liability.
 
-    * YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS [THE TERMS OF SERVICE](https://web.archive.org/web/20140625234756id_/http://www.searchpage.com/terms.php) FOR THE WEBSITE AND THE SEARCHPAGE TAB APPLICATION (INCLUDING THE LIMITATION OF LIABILITY PROVISIONS).
+    * YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS [THE TERMS OF SERVICE](https://web.archive.org/web/20141205090113id_/http://www.searchpage.com/terms.php) FOR THE WEBSITE AND THE SEARCHPAGE TAB APPLICATION (INCLUDING THE LIMITATION OF LIABILITY PROVISIONS).
   12. ### Language.
 
     * The parties hereto acknowledge having expressly required that this Privacy Policy is to be drawn up in the English language. Les parties aux présentes reconnaissent avoir expressément exigé que la présente Politique relative à la protection des renseignements personnels soit rédigée en anglais.
