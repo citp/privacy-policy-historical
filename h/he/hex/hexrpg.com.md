@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619202322id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205114610id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
 
 # Hogwarts Extreme - The Interactive Harry Potter Experience
 
@@ -19,11 +19,12 @@ We collect the following :
 \- Date of Birth   
 \- Location (can be just country)   
 \- Gender   
-\- IP Address 
+\- IP Address   
+\- Ad Blocking Status 
 
 #### How We Use the Information
 
-Your email address is not displayed to any users, but simply used for verification in the event a password is forgotten. Occasional emails will also be sent out to all users to give everyone a general site update/status. In order to protect a child under the age of 13, we collect everyone's date of birth so we may prevent a child by means of PHP coding from accessing parts of the site that might be inappropriate to them. The age of every user on the website is displayed on the user info page, and forum posts for general informational purposes for other users. First names and locations are displayed in user infos, and also are a tool for us to see where our users are coming from. IP addresses are logged to protect everyone on the site. In the event a user is causing a large problem, the IP of the user will be reported to the appropriate authorities to keep the users of Hogwarts Extreme safe. 
+Your email address is not displayed to any users, but simply used for verification in the event a password is forgotten. Occasional emails will also be sent out to all users to give everyone a general site update/status. In order to protect a child under the age of 13, we collect everyone's date of birth so we may prevent a child by means of PHP coding from accessing parts of the site that might be inappropriate to them. The age of every user on the website is displayed on the user info page, and forum posts for general informational purposes for other users. First names and locations are displayed in user infos, and also are a tool for us to see where our users are coming from. IP addresses are logged to protect everyone on the site. In the event a user is causing a large problem, the IP of the user will be reported to the appropriate authorities to keep the users of Hogwarts Extreme safe. Your ad blocking status is simply noted and kept on file. This status is taken into consideration when looking at people for potential promotions, as well as to gauge one's commitment to the site as a whole. 
 
 #### How You Can Control Your Personal Information
 
@@ -39,7 +40,7 @@ Links to other websites exist on Hogwarts Extreme and can mostly be found under 
 
 #### Parents
 
-Please view our [COPPA Policy](https://web.archive.org/web/20140619202322id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
+Please view our [COPPA Policy](https://web.archive.org/web/20141205114610id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
 
 #### Updating of this Policy
 
