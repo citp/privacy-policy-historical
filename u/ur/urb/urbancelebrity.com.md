@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbancelebrity.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605201136id_/http%3A//www.urbancelebrity.com/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbancelebrity.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205135842id_/http%3A//www.urbancelebrity.com/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
   1. **Introduction**
 
-For the purposes of the Data Protection Act 1998 the ‘Data Controller’ for this website is Urban Celebrity Clothing Ltd ("Urban Celebrity"). The privacy and security of our customers is important to us. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information, and the procedures that we have in place to safeguard your privacy.
+For the purposes of the Data Protection Act 1998 the ‘Data Controller’ for this website is UC Clothing Ltd ("Urban Celebrity"). The privacy and security of our customers is important to us. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information, and the procedures that we have in place to safeguard your privacy.
 
   2. **The information we collect and how we use it**
 
@@ -50,7 +50,7 @@ Owing to the global nature of the internet’s infrastructure the information yo
 
 Occasionally it is necessary for us to change this Privacy Policy, so please remember to check back from time to time.
 
-If you have any questions concerning this Privacy Policy, please contact us at [help@urbancelebrity.com](mailto:help@crbancelebrity.co.uk).
+If you have any questions concerning this Privacy Policy, please contact us at info[@urbancelebrity.com](mailto:help@crbancelebrity.co.uk).
 
 
 
