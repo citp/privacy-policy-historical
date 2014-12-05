@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121736id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205212544id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Skinny Ms.
 
 This is the web site of SkinnyMs., LLC.
 
