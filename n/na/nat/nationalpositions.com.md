@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalpositions.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605235757id_/http%3A//www.nationalpositions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalpositions.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205191108id_/http%3A//www.nationalpositions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Positions
 
