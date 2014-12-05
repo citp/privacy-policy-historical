@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110712id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205172435id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
 
 # Fisher Investments | Privacy & Security
 
