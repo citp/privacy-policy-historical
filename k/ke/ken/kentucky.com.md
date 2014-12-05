@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kentucky.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410224032id_/http%3A//www.kentucky.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentucky.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205143257id_/http%3A//www.kentucky.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Kentucky.com Lexington, KY
 
