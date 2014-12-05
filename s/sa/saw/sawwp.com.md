@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sawwp.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611024235id_/http%3A//www.sawwp.com/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawwp.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205172808id_/http%3A//www.sawwp.com/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# 
+# Claim Your Abundance » Privacy and Cookies Policy
 
 SAWWP.com & Simple Fast Cash (“we”, “us” or “our”) is committed to protecting and respecting your privacy. We own and operate the Website.
 
@@ -32,7 +32,7 @@ The Website uses cookies. Cookies are tiny text files which identify your comput
 
 We only use cookies for your convenience in using the Website and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Website.
 
-If you want to find out more information about cookies, go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or to find out about removing them from your browser, go to <http://www.allaboutcookies.org/manage-cookies/index.html>.
+If you want to find out more information about cookies, go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or to find out about removing them from your browser, go to [http://www.allaboutcookies.org/manage-cookies/index.html](http://www.allaboutcookies.org/manage-cookies/index.html).
 
 Please note that we collect data from the Website about use of the Website using a web analysis tool which uses cookies that are (able to be) used to generate pseudonyms for a user’s profile. This means that use cookies (which may be stored on your computer after you leave the Website) can store information about your visit.
 
@@ -40,20 +40,20 @@ Please also note that our suppliers and partners may also use cookies, over whic
 
 The Website uses the following cookies:
 
-Name | Expiration Date | Purpose  
+Name| Expiration Date| Purpose  
 ---|---|---  
-PHPSESSID | Up to 2 years from setup/update | This cookie is used to track important logical information for the smooth operation of the site.  
-pagelimit | Up to 2 years from setup/update | This cookie is used for the “Results Per Page” functionality of the client area, if you choose to use the option.  
-WHMCSAffiliateID | Up to 2 years from setup/update | This cookie is used to track if you were referred to the site by an affiliate and lets us track the effectiveness of such referrals.  
-WHMCSLinkID | Up to 2 years from setup/update | This cookie is used to track how you entered the site and shows us the effectiveness of our marketing campaigns.  
+PHPSESSID| Up to 2 years from setup/update| This cookie is used to track important logical information for the smooth operation of the site.  
+pagelimit| Up to 2 years from setup/update| This cookie is used for the “Results Per Page” functionality of the client area, if you choose to use the option.  
+WHMCSAffiliateID| Up to 2 years from setup/update| This cookie is used to track if you were referred to the site by an affiliate and lets us track the effectiveness of such referrals.  
+WHMCSLinkID| Up to 2 years from setup/update| This cookie is used to track how you entered the site and shows us the effectiveness of our marketing campaigns.  
 WHMCSUID  
-WHMCSPW | Up to 2 years from setup/update | These cookies is used for the “Remember Me” functionality of the client area, if you choose to tick the option.  
+WHMCSPW| Up to 2 years from setup/update| These cookies is used for the “Remember Me” functionality of the client area, if you choose to tick the option.  
 __utma  
 __utmb  
 __utmc  
 __utmz  
 __utmv  
-_ga | Up to 2 years from setup/update | Google Analytics cookies. These cookies are used to collect information about how visitors use the Website. We use the information to compile reports and to help us improve the Website. The cookies collect information in an anonymous form, including the number of visitors to the Website, from where visitors have come to the Website and the pages they visited once at the Website.  
+_ga| Up to 2 years from setup/update| Google Analytics cookies. These cookies are used to collect information about how visitors use the Website. We use the information to compile reports and to help us improve the Website. The cookies collect information in an anonymous form, including the number of visitors to the Website, from where visitors have come to the Website and the pages they visited once at the Website.  
   
 ### Where we store your personal data
 
@@ -69,7 +69,7 @@ When you make any payment to us through the Website, you must make that payment 
 
 ### Uses made of the information
 
-We use information held about you in the following ways:
+We use information held about you in the following ways and by registering you agree to these uses:
 
   * To ensure that content from the Website is presented in the most effective manner for you and for your computer.
   * To provide you with billing information in relation to the services that we may provide to you.
@@ -78,6 +78,10 @@ We use information held about you in the following ways:
   * To notify you about changes to our services.
   * To allow you to register for an account on the Website, which may include sending an email to you to confirm your details.
   * To give you a new password if you have forgotten it.
+  * To keep you updated regarding information relating to your account
+  * To allow your upline and/or downline to contact you
+  * To allow you to contact your downline
+  * To allow you to contact your sponsor
 
 
 
