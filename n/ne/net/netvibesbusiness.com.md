@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netvibesbusiness.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194137id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netvibesbusiness.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205021341id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
 
 # Netvibes
 
@@ -70,6 +70,6 @@ We undertake not to share your personal information with or transfer it to third
 
 ### VII. Right to Access, Modify, and Delete Your Personal Information
 
-Pursuant to French statute of January 6, 1978 titled “Informatique et Libertés”, we inform you that you have the right to access, modify, object to the processing of, and request the deletion of the personal information collected or processed by Netvibes (excepted the ones stated at the section IV.). You can exercise this right by writing at **Netvibes, Legal affairs, 114 rue Cardinet, 75017 Paris (France)** or sending an e-mail at **security@netvibes.com**. You may modify your password by clicking on the "option" button on the main web page. You may also modify your data by sending us an [email](http://netvibes.com/static.php?show=feedback). 
+Pursuant to French statute of January 6, 1978 titled “Informatique et Libertés”, we inform you that you have the right to access, modify, object to the processing of, and request the deletion of the personal information collected or processed by Netvibes (excepted the ones stated at the section IV.). You can exercise this right by writing at **NETVIBES, Legal, 10 place de la Madeleine, 75008 Paris (France)** or sending an e-mail at **security@netvibes.com**. You may modify your password by clicking on the "option" button on the main web page. You may also modify your data by sending us an [email](http://netvibes.com/static.php?show=feedback). 
 
 Versioning July 2012
