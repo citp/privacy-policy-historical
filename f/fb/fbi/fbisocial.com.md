@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbisocial.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093949id_/http%3A//fbiradio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbisocial.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205130828id_/http%3A//fbiradio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
