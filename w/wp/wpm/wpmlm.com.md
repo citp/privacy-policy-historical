@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044145id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205030249id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WP-MLMWP-MLM
+# Privacy Policy | WP-MLM
+
+  * [Home](http://wpmlm.com/ "WP-MLM")
+  * Privacy Policy
+
+
+
+The World's Only Forced Matrix Recruiting System For Reps!
 
 ## Privacy Policy
 
@@ -36,10 +43,12 @@ Click here to view our [Terms of Service](https://web.archive.org/tos)
 
 ## Contact
 
-Email: support@wpmlm.com
+Email: [support@wpmlm.com](mailto:support@wpmlm.com)
 
 **Mail:**
 
 WP-MLM  
 2719 SE Sunflower Ct  
 Hillsboro, OR 97123
+
+[](http://freeteambuilder.com/?ftbaff=2)
