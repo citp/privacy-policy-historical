@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportspost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130720id_/http%3A//www.thesportspost.com/pages/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportspost.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205045918id_/http%3A//thesportspost.com/pages/view/privacy-policy) for the most accurate reproduction.*
 
 # Home - The Sports Post
 
