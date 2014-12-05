@@ -1,61 +1,75 @@
-> *The following text is extracted and transformed from the arcelormittal.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328145746id_/http%3A//corporate.arcelormittal.com/site-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcelormittal.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205234725id_/http%3A//corporate.arcelormittal.com/site-services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – ArcelorMittal
 
-### 1\. Personal data 
+Protecting your privacy and personal data is important to us. ArcelorMittal has adopted a data protection procedure (“Binding Corporate Rules”). This procedure provides a global and simplified legal basis for all databases and applications sharing personal data within the group. The ArcelorMittal data protection procedure is a group-wide procedure ensuring a minimum standard of protection for personal data shared at global level, similar to the protection offered under EU rules.
 
-Non-personal and aggregated information collected automatically
+This Privacy Policy explains how we collect and use personal data obtained through this Web Site ([corporate.arcelormittal.com](http://corporate.arcelormittal.com/)). Some online forms may have a specific Policy or Privacy Statement that differs from this Privacy Policy. Please review the Policy or Privacy Statement for any information that applies specifically to that particular form.
 
-When you visit our Site, non-personal information is recorded by the standard operation of ArcelorMittal’s Internet servers, in order to monitor and enhance your online experience. Such recorded information may include (without being limited to) your IP address, the name of your internet service provider, the operating system and the type of browser you used, the date and duration of your visit, the name(s) of the visited page(s), the amount of transferred data.
+### 1\. Personal data
+
+In general, you are not required to disclose your personal data as a condition of using this Web Site. No personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Web Site.
 
 Personal information that you choose to submit
 
-As a general policy, you are not required to disclose your personal data as a condition of using this Web Site. No personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Web Site.
-
 However, ArcelorMittal Web Site’s various registration forms and surveys may request that you give us contact information (such as your name, mailing and/or e-mail address) and profile data (such as your preferences). In many cases, you choose the amount of information you supply (e.g. when sending us information through the Site, you may choose to include only an e-mail address for replies). There may be cases, however, where some of the information requested is identified as mandatory and some as voluntary. In such cases, if you do not provide mandatory personal information with respect to a particular activity, you will not be able to engage in that activity.
 
-If you request information through this Web Site and supply ArcelorMittal with your e-mail address or your name and postal address, you accept that this data will be used for the purpose of providing the requested information and that ArcelorMittal may use this data in the future to provide other information about ArcelorMittal that might be of interest to you.
+If you request information through this Web Site and supply ArcelorMittal with your e-mail address or your name and postal address, you accept that this data will be used for the purpose of providing the requested information and that ArcelorMittal may use this data in the future to provide other information about ArcelorMittal that might be of interest to you. Please note that in order to process your query, your personal data may be shared by various ArcelorMittal subsidiaries around the world.
 
 You have the right to consult your personal data, to correct your personal data, if necessary, and to withdraw your consent to the use of your personal data. For this purpose you may contact ArcelorMittal at the following address:
 
 ArcelorMittal  
-19 avenue de la Liberté  
-L-2930 Luxembourg  
+24-26, Boulevard d’Avranches  
+L-1160 Luxembourg  
 [contact@arcelormittal.com](mailto:contact@arcelormittal.com)
 
-Personally identifiable information is never sold or leased to any third parties outside of ArcelorMittal group. ArcelorMittal may disclose user information in special cases when we have reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with ArcelorMittal’s rights or property, other users of the Web Site, or anyone else who could be harmed by such activities.
+ArcelorMittal may disclose user information in special cases when we have reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with ArcelorMittal’s rights or property, other users of the Web Site, or anyone else who could be harmed by such activities.
+
+Personally identifiable information is never sold or leased to any third parties outside of ArcelorMittal group. We may share information provided by you with service providers we have retained to perform services on our behalf. In this case, the service provider is committed to use your data only for ArcelorMittal purposes.
 
 ### 2\. Careers
 
-If you apply for jobs through the Web Site, you accept that the application will be processed either by ArcelorMittal or by the relevant subsidiary within the ArcelorMittal group. ArcelorMittal or the relevant subsidiary will use the personal data supplied by the applicants for the purpose of processing the application. Applicants have the right to consult their personal data, to correct the personal data, if necessary, and to withdraw their consent to the use of their personal data. For this purpose applicants may contact the recipient of the application at the e-mail address to which they have sent the application or to [jobs@arcelormittal.com](mailto:jobs@arcelormittal.com) if the application was made via the “Job opportunities for managers” website.
+If you apply for jobs through the Web Site, you accept that the application will be processed either by ArcelorMittal or by the relevant subsidiary within the ArcelorMittal group. ArcelorMittal or the relevant subsidiary will use the personal data supplied by the applicants for the purpose of processing the application. Applicants have the right to consult their personal data, to correct the personal data, if necessary, and to withdraw their consent to the use of their personal data. For this purpose applicants may contact the recipient of the application at the e-mail address to which they have sent the application.
 
 ### 3\. Use of cookies
 
-Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record-keeping purposes. Cookies make using our Sites easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on our Sites, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of ArcelorMittal Web Sites will not function properly or may be considerably slower.
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
-### 4\. Use of IP addresses
+The table below explains the cookies we use and why.
 
-An IP address is a number that’s automatically assigned to your computer by your Internet provider whenever you’re surfing the Web. When you request pages from ArcelorMittal’s Web Site, our servers log your IP address. ArcelorMittal collects IP addresses for the purposes of system administration, to audit the use of our Site. We do not link IP addresses to anything personally identifiable, which means that your session will be logged, but you are anonymous to us. We may exceptionally use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use or to protect our service, Sites, customers, or others.
+**Google Analytics** |  _utma  
+_utmb  
+_utmc  
+_utmz  | 
 
-### 5\. Security
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited.  
+[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")[](http://support.microsoft.com/kb/899918 "External link")  
+  
+---|---|---  
+**YouTube cookies** |  PREF  
+VISITOR_INFO1_LIVE  
+YSC  
+Demographics  
+dkv  | 
 
-Security for all personally identifiable information is extremely important to us. Once we receive your transmission, we make our best efforts to ensure its security on our systems. Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, ArcelorMittal cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
+We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. Read more at [YouTube’s embedding videos information page](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").   
+  
+### 4\. Security
+
+Security for all personally identifiable information is extremely important to us. Once we receive your transmission, we make our best efforts to ensure its security on our systems. Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, ArcelorMittal cannot ensure or warrant the security of any information you transmit to us.
+
+**Changes to this Privacy Policy**
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our online information practices. When changes are made to this Policy it will be posted to the website and the "last updated" date at the top of this policy will be revised. We also encourage users to periodically check this Policy to understand how ArcelorMittal protects and uses your information.
 
 ### Contact:
 
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can contact: ArcelorMittal [contact@arcelormittal.com](mailto:contact@arcelormittal.com).
+If you have any questions about this privacy policy, the practices of our Sites, or your dealings with our Sites, you can contact: ArcelorMittal [contact@arcelormittal.com](mailto:contact@arcelormittal.com).
 
 Information provided by you via general e-mail inquiries to ArcelorMittal such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
-
-### General:
-
-You may not assign these Terms of Use or any of your interests, rights or obligations under these Terms of Use. If any provision of these Terms of Use is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Use, which shall remain in full force and effect. No waiver of any of these Terms of Use shall be deemed a further or continuing waiver of such term or condition or any other term or condition.
 
 ### Jurisdiction
 
 TO THE FULLEST EXTENT PERMITTED BY LAW, YOU HEREBY EXPRESSLY AGREE THAT ANY PROCEEDINGS ARISING OUT OF OR RELATING TO YOUR USE OF THE WEB SITE, ITS INFORMATION, SERVICES AND CONTENT SHALL BE SUBJECT TO THE LAWS OF LUXEMBOURG. THE COURTS IN LUXEMBOURG SHALL HAVE EXCLUSIVE JURISDICTION.
 
-D. Mansur  
-Laurentiu Iordache
-
-Read the [terms of use](https://web.archive.org/site-services/terms-of-use)
+_Last updated: Oct 1 st 2014_
