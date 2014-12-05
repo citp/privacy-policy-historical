@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061453id_/https%3A//www.taxbrain.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205165832id_/http%3A//www.taxbrain.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Taxbrain®
 
   
-[](http://www.truste.org/ivalidate.php?url=www.taxbrain.com&sealid=101) Privacy Policy Effective Date: June 23, 2005
+[](http://www.truste.org/ivalidate.php?url=www.taxbrain.com&sealid=101) Privacy Policy 
 
-**Petz Enterprises, Incorporated (PEI) takes privacy seriously.** We process millions of financial transactions each year and have implemented a variety of technologies and policies to protect privacy. Please read the following to learn more about our privacy policy.
+**Liberty Tax Service takes privacy seriously.** We process millions of financial transactions each year and have implemented a variety of technologies and policies to protect privacy. Please read the following to learn more about our privacy policy.
 
 As an Authorized IRS e-file provider our company adheres to Federal and state regulations designed to ensure the security and confidentiality of personal information shared with our company. Taxbrain exceeds the federal requirements and meets or exceeds our industry standards for security and privacy. 
 
-Petz Enterprises, Inc. has created a web-based tax product designed to quickly and easily fulfill tax compliance requirements in the United States. We have developed this application using the most sophisticated encryption technology on the market. Security is our top priority and protecting privacy is what you should expect from PEI.
+Liberty Tax Service has created a web-based tax product designed to quickly and easily fulfill tax compliance requirements in the United States. We have developed this application using the most sophisticated encryption technology on the market. Security is our top priority and protecting privacy is what you should expect from Liberty Tax Service.
 
-Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we do not knowingly attempt to solicit or receive any information from children. Petz Enterprises, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.taxbrain.com/ (Taxbrain, Taxbrain.com). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we do not knowingly attempt to solicit or receive any information from children. Liberty Tax Service is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.taxbrain.com/ (Taxbrain, Taxbrain.com). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 Questions regarding the Taxbrain Web sites' privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites should be directed to us at [support@Taxbrain.com](mailto:support@Taxbrain.com) . If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
@@ -33,7 +33,7 @@ Information Collection and Use
   
 **Information Collection**
 
-Petz Enterprises, Inc. is the sole owner of the information collected on Taxbrain.com. Taxbrain collects information from our users at several different points on our Web site. 
+Liberty Tax Service is the sole owner of the information collected on Taxbrain.com. Taxbrain collects information from our users at several different points on our Web site. 
 
 **Registration**
 
@@ -45,7 +45,7 @@ We request information from users on our order form. A user must provide contact
 
 **Tax Related Information**
 
-When a tax return is prepared on Taxbrain the information contained in the tax return will be treated with extreme care and confidence. To prepare a tax return on our site you will have to enter the personal information, which is required to file. In addition to your own personally identifying information you will have to enter the information for anyone else listed on the return, such as your spouse or dependents. As a method for detecting fraud in tax information transmitted via the Internet, the Internal Revenue Service (IRS) requires Petz Enterprises to provide to the IRS, in connection with the electronic filing of tax returns, the Internet Protocol (IP) address of the computer from which the return originated. We are also required to notify the IRS whether the e-mail address of the person electronically filing the return has been collected. 
+When a tax return is prepared on Taxbrain the information contained in the tax return will be treated with extreme care and confidence. To prepare a tax return on our site you will have to enter the personal information, which is required to file. In addition to your own personally identifying information you will have to enter the information for anyone else listed on the return, such as your spouse or dependents. As a method for detecting fraud in tax information transmitted via the Internet, the Internal Revenue Service (IRS) requires Liberty Tax Service to provide to the IRS, in connection with the electronic filing of tax returns, the Internet Protocol (IP) address of the computer from which the return originated. We are also required to notify the IRS whether the e-mail address of the person electronically filing the return has been collected. 
 
 **Identifying and Contact Information**
 
@@ -89,7 +89,7 @@ In the event Taxbrain goes through a business transition, such as a merger, bein
 
 **Links**
 
-This Web site contains links to other sites. Please be aware that we, Petz Enterprises Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This Web site contains links to other sites. Please be aware that we, Liberty Tax Service, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 Back to Top   
   
@@ -112,7 +112,7 @@ Customer Service **
 
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the your wishes.
 
-Our site does link to other sites in order to provide all of the tax and financial services users might need. PEI has partnered with these sites for content use and may share user information disclosed on our site with them on an aggregate basis for advertisement tracking only. We will not disclose personally identifying information without prior consent. Taxbrain provides services in conjunction with third party companies. With your permission, you will have the ability upload information to your Taxbrain account, from accounts you hold with third party partners. This upload of information to Taxbrain.com is done to fulfill the full service of our site and no other purpose. For example, we can upload W-2s from employers and other content for forms from our partner organizations. These are the instances in which we will share users' personal information.
+Our site does link to other sites in order to provide all of the tax and financial services users might need. Liberty Tax Service has partnered with these sites for content use and may share user information disclosed on our site with them on an aggregate basis for advertisement tracking only. We will not disclose personally identifying information without prior consent. Taxbrain provides services in conjunction with third party companies. With your permission, you will have the ability upload information to your Taxbrain account, from accounts you hold with third party partners. This upload of information to Taxbrain.com is done to fulfill the full service of our site and no other purpose. For example, we can upload W-2s from employers and other content for forms from our partner organizations. These are the instances in which we will share users' personal information.
 
 Back to Top  
   
@@ -121,7 +121,7 @@ Back to Top
 Security Information  
   
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.   
-Taxbrain account information is password-protected so that only the registered owner of an account will have access to their personal information. Account information may be updated by entering a user name and password to gain access to the account. We strongly recommend that users do not share their user name and password with anyone. PEI will never ask a user for their user name or password via unsolicited phone call or e-mail. Security is of utmost importance to Petz Enterprises and we use the latest SSL technology to protect confidential information.   
+Taxbrain account information is password-protected so that only the registered owner of an account will have access to their personal information. Account information may be updated by entering a user name and password to gain access to the account. We strongly recommend that users do not share their user name and password with anyone. Liberty Tax Service will never ask a user for their user name or password via unsolicited phone call or e-mail. Security is of utmost importance to Liberty Tax Service and we use the latest SSL technology to protect confidential information.   
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected computers. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked door in a locked facility. If users have any questions about the security at our Web site, users can send an email to [support@taxbrain.com](mailto:support@taxbrain.com) . 
 
 **  
@@ -150,17 +150,15 @@ If users have any questions or suggestions regarding our privacy policy,
 please contact us at:
 
 _Mailing Address:_  
-PEI, Taxbrain  
-PO Box 611  
-Tracy, CA 95378
+Liberty Tax Service, Taxbrain  
+1716 Corporate Landing Pkwy  
+Virginia Beach, VA 23453 
 
 _Shipping Address:_  
-PEI, Taxbrain  
-7575 West Linne Road  
-Tracy, CA 95304
+Liberty Tax Service, Taxbrain  
+1716 Corporate Landing Pkwy  
+Virginia Beach, VA 23453
 
-Phone: 866.829.2724  
-Fax: 209.835.7227  
 Email: [support@taxbrain.com](mailto:support@taxbrain.com)
 
 Web site URL: [http://www.taxbrain.com](https://web.archive.org/)
