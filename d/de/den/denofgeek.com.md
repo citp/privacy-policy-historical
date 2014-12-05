@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denofgeek.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110147id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denofgeek.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205093105id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
 # Dennis Publishing - Privacy Notice
 
@@ -35,6 +35,8 @@ Hearst UK trading as Hachette Filipacchi
 To provide you with the best possible customer experience we may ask you to submit personal information such as your name, postcode, email address and mobile phone number. Providing this personal information helps us to provide you with a better experience e.g. not having to login to websites each time you visit and showing you content that really interests you.   
 Additionally we use web technologies e.g. cookies and web beacons, to automatically track and log limited personal data and link this with information you or other suppliers have provided. For detailed information on Cookies and how you can choose to allow or prevent sites accessing cookies, see [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
 Anonymous data will be recorded for the purpose of reporting web traffic statistics, advertisement 'click-throughs', and/or other activities on our sites.
+
+Dennis Publishing may sometimes use cookie technology to help improve its digital marketing campaigns and improve user experience across its products. This technology allows Dennis Publishing to target relevant adverts to you across a number of other websites that share the same advertising technology platforms. Third party vendors including partners like Google serve advertising across the Internet based on cookies which are left on your device when you visit a website. These cookies help target relevant advertising to our users based on previous visits and behaviour. You can opt out of Google’s use of cookies by visiting [Google’s Ads Settings](http://www.google.com/settings/ads) or you can opt out of additional third-party vendor cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
 
 Furthermore we work with our partners Audience Science, to carry out Online Behavioural Advertising on our websites. Online Behavioural Advertising aims to provide you with more carefully targeted advertising. If you wish to know more about Online Behavioural Advertising or you wish to opt out of Online Behavioural Advertising by Audience Science please go to  [ www.youronlinechoices.com/uk  ](http://www.youronlinechoices.com/uk) .
 
