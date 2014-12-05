@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candb.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230103029id_/http%3A//www.candb.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candb.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205181314id_/http%3A//www.candb.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - candb.com
 
@@ -66,4 +66,4 @@ Cook & Becker takes reasonable precautions to protect our Users’ information. 
 
 The processing of personal data by Cook & Becker is notified to the Netherlands Data Protection Authority under number […].
 
-This version (1.0), August 2011.
+This version (1.0), August 2011. 
