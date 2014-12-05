@@ -1,101 +1,72 @@
-> *The following text is extracted and transformed from the amobee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071826id_/http%3A//amobee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amobee.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205193239id_/http%3A//www.amobee.com/privacy) for the most accurate reproduction.*
 
 # Amobee Privacy Statement - [a•mo•bee]
 
-Amobee Privacy Statement 
+**[a•mo•bee] Privacy Policy for  
+Business Partners**
 
-Effective Date: 05/25/2012 
+**Effective September 15, 2014**  
+We at [a•mo•bee] offer digital advertising solutions to the largest publishers, advertisers and agencies and mobile operators. In offering these solutions we collect and use certain information about our business partners like you. This Privacy Policy describes how we collect and use this information, and tells how you can protect your privacy.
 
-This privacy statement applies to [www.amobee.com](http://www.amobee.com/) owned and operated by Amobee, Inc. (“Amobee”). This privacy statement describes how Amobee collects and uses the personal information you provide on our web site: www.amobee.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy explains:
 
-Amobee has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or other services provided by Amobee. The TRUSTe program covers only information that is collected through this web site, [www.amobee.com](http://www.amobee.com/).
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at the contact information listed below. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
-
-Amobee complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Amobee has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Amobee’s certification, please visit <http://www.export.gov/safeharbor/>  
-
-
-**1\. Information Collection and Use**
-
-We collect the following personal information from you: 
-
-  * Contact information such as full name, email address, mailing address, phone number, & business name (collectively, “Personal Information”).
+  * What information we collect and how we collect it.
+  * How we use and share that information.
+  * The choices we offer you to control the collection, use and sharing of information.
+  * How to contact us if you have questions or complaints.
 
 
 
-We use this information to: 
+**Information we collect**  
+We collect information in order to provide excellent service to our business partners. We may collect this information in the following ways:
 
-  * Respond to your request on our web site.
-
-
-
-**2\. Information Sharing**
-
-We will share your Personal Information with third parties only in the ways that are described in this privacy statement.  We do not sell your Personal Information to third parties.
-
-**Service Providers**  
-We may provide your Personal Information to companies that provide services to help us with our business activities such as our CRM service provider & marketing automation provider. These companies are authorized to use your Personal Information only as necessary to provide these services to us.
-
-**Legal Disclaimer**  
-We may also disclose your Personal Information:
-
-  * as required by law, such as to comply with a subpoena, or similar legal process, 
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * to any other third party with your prior consent to do so, 
-  * If Amobee is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information, or 
-  * to any other third party with your prior consent to do so. 
+  * **Information you give us.** We will collect your personal information if you voluntarily provide it to us. For example, you might fill out a survey, execute an insertion order or purchase order, or provide your contact information to us in person, over the phone or by e-mail. This personal information could include your name, e-mail address, mailing address, tax identification number, credit card information, bank account information or telephone number.
+  * **Information we get from your use of our website.** We may collect information about visitors to our website. This information includes:
+  * **Cookies.** We may send cookies to your browser to help us determine which content on our website appeals the most to you and what content you may have viewed on past visits. Cookies can enable us to customize the content according to your preferences or to save your password for ease of access. Our cookies may contain personal information, but only if you provide it to us. We also allow third parties to use cookies on our website, and these companies' use of cookies is subject to their own privacy policy, not ours.
+  * **Google Analytics.** One third party which uses cookies on our website is Google Inc. ("Google"). Our website uses Google Analytics, a web analyzing service of Google. We have added the code "gat._anonymizeIp();" to ensure an anonymous collection of IP addresses (known as "IP masking"). Google Analytics is based on cookies. The cookie-generated information about your use of this website is transmitted to and stored by Google's servers in the US. Due to IP masking, the IP address is only transferred in shortened and hence anonymous format. Google will use this information on our behalf to evaluate your use of the website, compiling reports on website activities and further use of the website and Internet related services. The shortened IP address provided by your browser will not be merged with other data from Google. You may refuse the storage of cookies by selecting the appropriate settings on your browser. We would point out though, that in case you might not be able to use all features of this site completely. You can also prevent the detection of data generated by the cookie and to your use of the website related data (including any part of your IP address) to Google and the processing of these data by Google, by using the following link (<https://tools.google.com/dlpage/gaoptout?hl=en-GB>) to download and install the provided browser plug-in. Further information about Google Analytics and data protection is available here: <https://tools.google.com/dlpage/gaoptout?hl=en-GB> or under: <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>.
+  * **Browser information.** We may collect information sent by your browser to better understand our customers. For example, we may collect information regarding your IP address, referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement.
 
 
 
-**3.  User Access and Choice**
+**How we use information we collect**  
+We use the information we collect as reasonably necessary for our corporate functions. This includes carrying out our contractual obligations, if you are a supplier or customer.  
+We may also solicit future business with you, unless you have requested otherwise. By providing your personal information to us, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.), as amended from time to time and other telemarketing laws or rules. Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, we reserve the right to contact you via telemarketing in accordance with the Amended Telemarketing Sales Rule.
 
-If your Personal Information changes, or if you no longer desire our service, you may correct, update or delete this information by contacting us as described below. We will respond to your request to make the change within 30 days.
+We do not have business partners age 12 or under, therefore we will never knowingly collect any personal information about children age 12 or under. If we obtain actual knowledge that we have collected personal information about a child age 12 or under, that information will be immediately deleted from our database.   
+We process personal information on our servers in many countries around the world, including the United States. We may transfer your personal information to the United States.
 
-We will retain your information for as long as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**Transparency and choice**  
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used.
 
-**4\. Tracking Technologies / Cookies**
+As a visitor to our website, you can disable cookies by changing the settings in your browser, but if you do so, you will not be able to use all the features and functionality of our website.
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes.  We use cookies on this site. We do not link the information we store in cookies to any Personal Information you submit while on our site.
+We may send e-mails to our business partners from time to time. You can opt out of these e-mails by sending a message to [corporateunsubscribe@amobee.com](mailto:corporateunsubscribe@amobee.com) .
 
-We use session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
+**Information we share**  
+We do not share personal information with companies, organizations and individuals outside of [a•mo•bee] unless one of the following circumstances applies:
 
-**Web Beacons / Gifs**  
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ Personal Information.  
-
-    * **Analytics / Log Files** \- As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.    
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
-
-We do not link this automatically-collected data to Personal Information.
-
-    * **3rd Party Tracking** \- The use of cookies by our tracking utility is not covered by our privacy statement.  We do not have access or control over these cookies.  Our tracking utility uses session ID cookies to make it easier for you to navigate our site. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our customers’ or users’ Personal Information.
-
-
-
-**5\. Security**
-
-The security of your Personal Information is important to us.  We follow generally accepted security standards to protect the Personal Information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security, and Amobee shall have no liability of any type or nature for any breach of security by a third party.
-
-**6\. Additional Information**
-
-  * Links to 3rd Party Sites - Our site includes links to other web sites whose privacy practices may differ from those of Amobee. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any web site you visit.
-
-
-  * Testimonials - Amobee posts testimonials from our customers along with their names.  These testimonials are always pre-approved prior to posting. If you wish to update or delete your testimonial, you can contact us at the contact information listed below. 
-
-
-  * Social Media Widgets - Our web site includes Social Media Features, such as the Facebook Like button and Widgets, the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy statement of the company providing it. 
-
-
-  * International Transfer of Information - Personal Information collected by Amobee on its own behalf or on behalf of Amobee clients may be stored and processed in the United States or any other country in which Amobee or its affiliates, subsidiaries, agents or customers maintain facilities.  You acknowledge and agree that Personal Information you provide to us may be transferred outside of the country in which you reside.  Providing such information will constitute your consent to any such transfer.
-
-
-  * Changes To This Policy - We may update this privacy statement to reflect changes to our information security and related practices. If we make any material changes, we will notify you by means of a notice on this site prior to the change becoming effective. All such changes will be effective on the date of the publication of the update and binding on the users of the site.  We encourage you to periodically review this page for the latest information on our privacy practices.
+  * **For external processing**. We may disclose your personal information to third party service providers and vendors in order to effect or carry out any transaction that you have requested from us or as necessary to complete our contractual obligations with you. This includes e-mail service providers, providers of direct marketing services and applications, including lookup and reference, and data enhancement, suppression and validation services. Adconion contractually prohibits the sale or transfer of personal information by such service providers and vendors.
+  * **For legal reasons.** We will share personal information with companies, organizations or individuals outside of [a•mo•bee] if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+    * meet any applicable law, regulation, legal process or enforceable governmental request;
+    * detect, prevent, or otherwise address fraud, security or technical issues; or
+    * protect against harm to the rights, reputation, property or safety of [a•mo•bee], our clients, our consumers or the public as required or permitted by law.
+  * **In connection with a merger or sale.** If we enter into discussions to sell, merge or otherwise reorganize our business, we reserve the right to transfer and disclose all data (including personal and anonymous user information) to prospective and/or actual purchasers or investors. We will require that such purchasers/investors treat the transferred data as described in the Privacy Policy that exists prior to the change unless and until you consent to a new Privacy Policy.
 
 
 
-**7.  Contact Us**
+**Accessing and updating your personal information**  
+If your personal information is wrong, we strive to allow you to update it quickly or to delete it, unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.  
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
 
-Amobee, Inc.  
-100 Marine Parkway, Suite 575  
-Redwood City, CA 94065  
-+1 (650) 802 8871
+Where we can provide information access and correction, we will do so for free, except where it wouldrequire a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+
+If you are a California resident you have the right to request information regarding the manner in which we share certain categories of your personal information with third parties. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Please contact [businesspartnerprivacy@amobee.com](mailto:businesspartnerprivacy@amobee.com)  for these requests.
+
+**Information security**  
+We have security measures in place to protect against the loss, misuse, and alteration of personal information under our control. Please be advised that, although we take reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot and do not warrant that your information will be absolutely secure. Any transmission of data at or through our website is at your own risk.
+
+**Changes**  
+We reserve the right to change our Privacy Policy at any time without notice. However, these changes will not reduce your privacy on a retrospective basis. We will post any Privacy Policy changes on this page.
+
+**Contact  
+**If you have questions or complaints relating to this Privacy Policy, please contact us at [amobeeprivacy@amobee.com](mailto:amobeeprivacy@amobee.com) . 
