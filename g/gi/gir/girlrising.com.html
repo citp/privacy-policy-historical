@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the girlrising.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626160039id_/http%3A//girlrising.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the girlrising.com privacy policy that was archived on 2014-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141205185954id_/http%3A//girlrising.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="UTF-8">
@@ -9,11 +9,11 @@
   <title>Girl Rising</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="stylesheet" href="/assets/css/idangerous.swiper.css">
+  <!--<link rel="stylesheet" href="/assets/css/idangerous.swiper.css">-->
   <script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/gwj0ywa6rx/analytics.min.js"></script><script type="text/javascript" src="//use.typekit.net/yrc7xqz.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <link href="//cdn.symbolset.com/8b84968f01b0afee4dabc5003702665ad5005884/symbolset.css" rel="stylesheet">
-<script src="//cdn.optimizely.com/js/569680247.js"></script>
+<!--<script src="//cdn.optimizely.com/js/569680247.js"></script>-->
 <script type="text/javascript">
 window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8",
 window.analytics.load("gwj0ywa6rx");
@@ -36,38 +36,77 @@ window.analytics.page();
   }
 
   var wufooQuery = function(variable,fieldName) {
-    var query = query(variable);
-    if (query) {
-      return fieldName + "=" + query[1];
+    var q = query(variable);
+    if (q) {
+      return fieldName + "=" + q[1];
     } else {
       return fieldName + "=\"\""
     }
   }
 
-  var trackingFromQuery = function(){
-    var tracking = {};
-    var trackingVars = ["Source", "Medium"]
-    for (var i = 0; i < trackingVars.length; i++) {
-      tracking[trackingVars[i]] = query(trackingVars[i])[1]
-    }
-    return tracking;
+  var cap = function(string){
+    return string.charAt(0).toUpperCase() + string.slice(1);
   }
 
-  var trackLink = function(id,name) {
-    var link = document.getElementById(id);
-    analytics.trackLink(link,name,trackingFromQuery());
-  };
+  var handleToVar = function(input){
+    var handle = input.split("-");
+    var name = []
+    for (var i = 0; i < handle.length; i++){
+      if (i == 0){
+        name[i] = handle[i];
+      } else {
+        name[i] = cap(handle[i]);
+      }
+    }
+    return name.join('')
+  }
 
-  var trackForm = function(id,name) {
-    var form = document.getElementById(id);
-    analytics.trackLink(form,name,trackingFromQuery());
-  };
-  
+  var handleToName = function(input){
+    var handle = input.split("-");
+    var name = []
+    for (var i = 0; i < handle.length; i++){
+      switch(handle[i]) {
+        case 'the':
+          name[i] = handle[i];
+          break;
+        case 'and':
+          name[i] = handle[i];
+          break;
+        default:
+          name[i] = cap(handle[i]);
+      }
+    }
+    return name.join(' ')
+  }
+
+  var generateTracking = function() {
+    var links = document.getElementsByTagName('a');
+    var tracking = [];
+    for(var i = 0; i < links.length; i++){
+      var variableName = handleToVar(links[i].id);
+      var name = handleToName(links[i].id)
+      if(links[i].id){
+        tracking.push("var " + variableName + " = document.getElementById('" + links[i].id + "');\nanalytics.trackLink(" + variableName + ", '" + name + "');");
+      }
+    }
+    tracking.push("console.log('loaded')");
+    return tracking.join("\n");
+  }
+
+  var tracking = function() {
+    var loader = document.createElement('script');
+    loader.text = generateTracking();
+    document.getElementsByTagName('head')[0].appendChild(loader);
+    console.log(loader);
+    console.log(document.getElementsByTagName('head')[0]);
+  }
+
   </script>
-</head>
+<script>console.log('loaded')</script></head>
 
-<body class="page  ">
-  <header class="site-header">
+<body onload="tracking()" class="page  ">
+  
+    <header class="site-header">
   <div class="wrapper">
     <a href="/" class="header-logo">
       <img src="/assets/img/logo.svg" alt="Girl Rising">
@@ -75,6 +114,9 @@ window.analytics.page();
 
     <div id="header-nav-trigger"></div>
     <ul class="header-nav closed" id="header-nav-target">
+    
+      
+      
     
       
       
@@ -105,7 +147,7 @@ window.analytics.page();
                 </li>
               
                 <li>
-                  <a href="/about-us/index.html#country-partnerships">The Country Partnership</a>
+                  <a href="/about-us/index.html#engage">Country Partnerships</a>
                 </li>
               
                 <li>
@@ -114,6 +156,10 @@ window.analytics.page();
               
                 <li>
                   <a href="/about-us/index.html#team-partners">Partners and Team</a>
+                </li>
+              
+                <li>
+                  <a href="/about-us/index.html#press">Press</a>
                 </li>
               
                 <li>
@@ -169,6 +215,10 @@ window.analytics.page();
                 </li>
               
                 <li>
+                  <a href="/grow-the-movement/index.html#our-current-campaign">Bring Girl Rising to school</a>
+                </li>
+              
+                <li>
                   <a href="/grow-the-movement/index.html#join-us">Join the Community</a>
                 </li>
               
@@ -202,6 +252,10 @@ window.analytics.page();
               
                 <li>
                   <a href="/for-educators/index.html#a-teaching-opportunity">A Teaching Opportunity</a>
+                </li>
+              
+                <li>
+                  <a href="/for-educators/index.html#limited-time-free-preview">Limited time free preview</a>
                 </li>
               
                 <li>
@@ -356,18 +410,38 @@ window.analytics.page();
       
       
     
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
     </ul>
   </div>
 </header>
 
-
+  
   
 
+  
+  
   <main class="wrapper ">
     
   
     
-     <div class="content">
+     <div class="content ">
   <article class="article privacy-policy">
     
       <header class="article-header">
@@ -523,7 +597,6 @@ Licensee shall not sell or otherwise encumber the DVD (and/or any element(s) the
 
 <p>IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first hereinabove stated.</p>
 
-
   
 </section>
         
@@ -542,7 +615,7 @@ Licensee shall not sell or otherwise encumber the DVD (and/or any element(s) the
 
   </main>
 
-  <footer class="site-footer">
+  <footer class="site-footer ">
   <div class="wrapper">
     <div class="footer-column">
       <p>© 2014, Ten Times Ten LLC and Vulcan Productions, Inc.</p>
@@ -551,6 +624,9 @@ Licensee shall not sell or otherwise encumber the DVD (and/or any element(s) the
 
     <div class="footer-column">
       <ul class="footer-nav">
+      
+        
+        
       
         
         
@@ -619,7 +695,7 @@ Licensee shall not sell or otherwise encumber the DVD (and/or any element(s) the
       
         
         
-          <li><a href="/country-partnerships">Girl Rising Country Partnerships</a></li>
+          <li><a href="/engage">Country Partnerships</a></li>
         
       
         
@@ -640,6 +716,24 @@ Licensee shall not sell or otherwise encumber the DVD (and/or any element(s) the
         
         
           <li><a href="/shop">Shop</a></li>
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
         
       
         
@@ -727,15 +821,16 @@ Licensee shall not sell or otherwise encumber the DVD (and/or any element(s) the
   <script src="/assets/js/lib/imagesloaded.pkgd.min.js"></script>
   <script src="/assets/js/lib/underscore.min.js"></script>
   <script src="/assets/js/lib/socialite.min.js"></script>
+  <!--<script src="/assets/js/vendor.js"></script>-->
   <script src="/assets/js/main.js"></script>
-  <script>
+  <!--<script>
   resrc = {
     options: {
       server: "app.resrc.it"
     }
   };
   </script>
-  <script async="" src="//use.resrc.it"></script>
+  <script async src="//use.resrc.it"></script>-->
   
 
 
