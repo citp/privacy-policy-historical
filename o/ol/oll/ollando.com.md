@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ollando.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063318id_/http%3A//ollando.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ollando.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205151359id_/http%3A//ollando.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ollando
 
