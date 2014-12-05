@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223034658id_/http%3A//www.mysmallbiz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205140850id_/http%3A//www.mysmallbiz.com/privacy) for the most accurate reproduction.*
 
-# MySmallBiz.com Privacy Policy
+# MySmallBiz.com Privacy Policy | Small Business Ideas - MySmallBiz.com
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use MySmallBiz.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
