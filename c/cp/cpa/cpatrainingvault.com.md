@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpatrainingvault.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515144632id_/http%3A//www.cpatrainingvault.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpatrainingvault.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205185830id_/http%3A//www.cpatrainingvault.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
