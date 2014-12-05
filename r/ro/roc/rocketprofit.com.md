@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketprofit.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208043600id_/http%3A//rocketprofit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketprofit.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205182627id_/http%3A//www.rocketprofit.com/privacy.php) for the most accurate reproduction.*
 
 # RocketProfit
 
