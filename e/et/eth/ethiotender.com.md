@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethiotender.com privacy policy that was archived on 2014-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140130080936id_/http%3A//www.ethiotender.com/copyright.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiotender.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205195739id_/http%3A//ethiotender.com/copyright.php) for the most accurate reproduction.*
 
 # E-Tender Copyright and Privacy Policy
 
