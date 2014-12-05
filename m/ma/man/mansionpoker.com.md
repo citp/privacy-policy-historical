@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mansionpoker.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307122100id_/http%3A//www.mansionpoker.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansionpoker.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205082045id_/http%3A//www.mansionpoker.com/security-and-privacy) for the most accurate reproduction.*
 
 # Online Poker - Security & Privacy | Play Poker Online at MansionPoker.com – Online Poker
 
 ####  Legal Quick Links
 
-  * [Terms and Conditions](https://web.archive.org/web/20140307122100id_/http%3A//www.mansionpoker.com/terms-and-conditions)
-  * [Privacy Policy](https://web.archive.org/web/20140307122100id_/http%3A//www.mansionpoker.com/security-and-privacy)
-  * [Withdrawal Policy](https://web.archive.org/web/20140307122100id_/http%3A//www.mansionpoker.com/withdrawal-policy)
-  * [Disclaimer](https://web.archive.org/web/20140307122100id_/http%3A//www.mansionpoker.com/disclaimer)
+  * [Terms and Conditions](https://web.archive.org/web/20141205082045id_/http%3A//www.mansionpoker.com/terms-and-conditions)
+  * [Privacy Policy](https://web.archive.org/web/20141205082045id_/http%3A//www.mansionpoker.com/security-and-privacy)
+  * [Withdrawal Policy](https://web.archive.org/web/20141205082045id_/http%3A//www.mansionpoker.com/withdrawal-policy)
+  * [Disclaimer](https://web.archive.org/web/20141205082045id_/http%3A//www.mansionpoker.com/disclaimer)
 
 
 
@@ -74,8 +74,8 @@ ACCESS
 
 You may request details of your personal information kept by us by following the contact information set out below. Once we receive such a request we will ask you to verify your identity by providing relevant information or documentation. We will then request pre-payment of an administration fee of US$15 per request and upon receipt of this process your request within 40 days.
 
-If you have any enquiry about our data protection and privacy policy or practices, or wish to decline receiving e-mail offers from us or from any other companies within the Group please contact MansionPoker.com Member Service on +632-756-7873 or by email to [support@mansionpoker.com](mailto:support%40mansionpoker.com) or write to MansionPoker.com, Suite 901, Europort, Gibraltar.
+If you have any enquiry about our data protection and privacy policy or practices, or wish to decline receiving e-mail offers from us or from any other companies within the Group please contact MansionPoker.com Member Service on +632-756-7873 or by email to support [at] mansionpoker [dot] com or write to MansionPoker.com, Suite 901, Europort, Gibraltar.
 
 This privacy policy was last revised on the 30th April 2010.
 
-24/7 SUPPORT » Canada: 1 877 426 4640 UK: 448003277217 
+24/7 SUPPORT » Canada: 1 877 426 4640
