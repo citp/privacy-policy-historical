@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equitytradingalert.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226093904id_/http%3A//equitytradingalert.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equitytradingalert.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205045431id_/http%3A//www.equitytradingalert.com/privacy.html) for the most accurate reproduction.*
 
 # Equity Trading Alert – Delivers Explosive Penny Stock Picks
 
