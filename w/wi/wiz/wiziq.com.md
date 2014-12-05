@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629105225id_/http%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205120916id_/https%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy is our top concern
 
@@ -110,7 +110,7 @@ C-133, Second Floor
 Industrial Area, Phase – VIII   
 Mohali, Punjab – 160071   
 India   
-Phone: +91-801-957-0158  
+Phone: +91-970-120-5262  
 1-800-3000-1771 (Toll Free)  
 Tel/Fax: +91.172.501.3134-35  
 
