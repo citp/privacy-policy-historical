@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themesawesome.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511053203id_/http%3A//www.themesawesome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesawesome.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205011201id_/http%3A//www.themesawesome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Themes Awesome
 
