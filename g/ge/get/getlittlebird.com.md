@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getlittlebird.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082658id_/http%3A//getlittlebird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlittlebird.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205135935id_/http%3A//www.getlittlebird.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Little Bird
+# Privacy
 
 _Effective Date: 6 November 2012_
 
