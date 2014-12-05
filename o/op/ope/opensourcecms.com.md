@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensourcecms.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615102235id_/http%3A//www.opensourcecms.com/general/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcecms.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205213820id_/http%3A//www.opensourcecms.com/general/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - OpenSourceCMS
 
@@ -35,3 +35,6 @@ A cookie is a piece of data stored on your hard drive containing information abo
 ## Governing Law
 
 The internal laws of the State of Mississippi, without reference to any choice of law provisions, shall govern any claims relating to the materials on our web sites. 
+
+  
+
