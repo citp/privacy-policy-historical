@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629213033id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205015940id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Trailspace.com
 
@@ -22,7 +22,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 ## Cookies
 
-Trailspace may use cookies on a limited basis in order to track your visit to our website or for other purposes. Trailspace does not use cookies to track or store personally identifiable information.
+Trailspace may use cookies on a limited basis in order to track your visit to our website or for other purposes. Trailspace does not use cookies to store personally identifiable information.
 
 Some of our business partners (for example, advertisers) may also use cookies on our site. This privacy statement covers the use of cookies by Trailspace only and does not cover the use of cookies by any advertisers.
 
