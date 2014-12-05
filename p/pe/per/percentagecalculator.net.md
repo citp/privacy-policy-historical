@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the percentagecalculator.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004234id_/http%3A//www.percentagecalculator.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the percentagecalculator.net privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205221607id_/http%3A//www.percentagecalculator.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Percentage Calculator
 
