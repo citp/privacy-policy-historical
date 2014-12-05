@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075135id_/http%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205034506id_/http%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Financial Mentor
+
+**0** Flares **0** Flares ×
 
 FinancialMentor.com, a CreateCorp Business Solutions Incorporated web site, created this privacy statement in order to disclose our information collections practices. This statement will explain the choices you can make about the way your information is collected and used at this site so that you can protect your privacy.
 
@@ -28,7 +30,7 @@ FinancialMentor.com may include icons, buttons, or text in it’s site or throug
 
 When you visit this website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, [click this link](http://www.google.com/policies/technologies/ads/ "Google double click dart"). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
-## Purchasing Products Or Services:
+## Purchasing Products or Services:
 
 If you place an order for purchase through FinancialMentor.Com certain personal information including your credit card number, shipping information and telephone number will be collected and encrypted over a secure server. If you prefer not to order online, you may also fax or mail your order along with a check or money order made payable to CreateCorp Business Solutions, Inc.. All information will be used only to fulfill your order and for billing purposes. Some products or services may be fulfilled by third party vendors and are subject to the related disclosure under that topic heading.
 
@@ -38,7 +40,7 @@ Personal information will only be disclosed to the extent necessary to fulfill y
 
 Cookies are small data files containing bits of information that web sites transfer to your computers hard drive for record keeping purposes. Cookies can make the web more useful by storing information about your preferences on a particular site. Cookies used by FinancialMentor.com do not contain any personally identifying information.
 
-We may use cookie technology to track the site’s aggregate page views or specific pages visited so that you don’t see the same promotion more than once. This also enables us to determine which features our users are most or least interested in. We do not track your individual usage patterns through cookies, nor do we use them to track your financial holdings or other personal preferences in any individualized way.
+We may use cookie technology to track the site’s aggregate page views or specific pages visited so that you don’t see the same promotion more than once. This also enables us to determine which features our users are most or least interested in. We do not track your individual usage patterns through cookies, nor do we use them to track your financial holdings or other personal preferences in any individualized way
 
 When shopping on FinancialMentor.Com cookies may be used to keep track of your shopping cart and process your orders.
 
