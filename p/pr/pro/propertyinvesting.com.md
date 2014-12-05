@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507075036id_/http%3A//www.propertyinvesting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205030435id_/http%3A//www.propertyinvesting.com/privacy) for the most accurate reproduction.*
 
 # PropertyInvesting.com Privacy Policy - PropertyInvesting.com
 
