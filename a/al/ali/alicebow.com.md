@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alicebow.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503052520id_/http%3A//www.alicebow.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alicebow.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205055941id_/http%3A//www.alicebow.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Alice Bow
+# PRIVACY POLICY – Alice Bow
 
 **Section 1 - What do we do with your information?**
 
@@ -40,7 +40,7 @@ Our store is hosted on Shopify Inc. They provide us with the online e-commerce p
 
 Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-_Payment_
+Payment
 
 If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
@@ -64,7 +64,7 @@ As an example, if you are located in England and your transaction is processed b
 
 Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
 
-_Links_
+Links
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
