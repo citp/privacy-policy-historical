@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the victory100.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215021id_/http%3A//victory100.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victory100.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205043335id_/http%3A//www.victory100.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Victory100
 
-PRIVACY POLICY 
-
-Effective Date: January 1, 2013 
+#### Effective Date: January 1, 2013
 
 To review material modifications and their effective dates scroll to the bottom of the page. 
 
 Victory100 Partners, LP ("Victory100") owns and operates this victory100.com website business. All references to "we", "us", this "website" or this "site" shall be construed to mean Victory100. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Protected Information (defined below), that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy. 
 
-HOW WE MODIFY THIS PRIVACY POLICY 
+#### HOW WE MODIFY THIS PRIVACY POLICY
 
 We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy. 
 
@@ -18,13 +16,13 @@ You should check the Privacy Policy through this link periodically for modificat
 
 Regarding Protected Information (defined below), if any modifications are materially less restrictive on our use or disclosure of the Protected Information previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information. 
 
-THE TYPES OF INFORMATION WE COLLECT 
+#### THE TYPES OF INFORMATION WE COLLECT
 
 Protected Information. We collect information from you that is protected for purposes of privacy and data security (“Protected Information”). Protected Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, credit card information including credit card number, expiration date, and billing address, and location data. 
 
 Non-Personal Information. We reserve the right to collect anonymous information such as your browser type, the URL of the previous website you visited, your computer’s operating system and Internet protocol (IP) Address, Internet domain and host name, your Internet Service provider, your clickstream data, and the dates and times that you may access this site and specific pages ("Non-Personal Information”). Non-Personal Information is essentially anonymous when collected; however, it’s possible that Non-Personal Information could be used to identify you. 
 
-HOW AND WHEN WE COLLECT INFORMATION 
+#### HOW AND WHEN WE COLLECT INFORMATION
 
 Protected Information. We collect Protected Information at the time you provide it to us. We collect Protected Information through sign-up forms and as part of your registration for an account, product, or service from this website. Protected Information that we collect may vary with the each sign-up or registration. 
 
@@ -32,7 +30,7 @@ Your Communications With Us. We collect Protected Information that we receive fr
 
 Passive and Analytical Information. We reserve the right to monitor your use of this site. As you navigate through this site, Non-Personal Information may be passively collected (that is, gathered without your actively providing the information) using various analytics and reporting technologies, such as cookies and web beacons. 
 
-HOW WE USE YOUR INFORMATION 
+#### HOW WE USE YOUR INFORMATION
 
 We use your Protected Information for the performance of the services or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site. 
 
@@ -42,7 +40,7 @@ We reserve the right to tie or link your Protected Information to Non-Personal I
 
 We reserve the right to make full use of Non-Personal Information. For example, we may use Non-Personal Information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use. 
 
-HOW WE DISCLOSE YOUR INFORMATION 
+####  HOW WE DISCLOSE YOUR INFORMATION 
 
 General Disclosure Policy. We reserve the right to disclose your Personal-Covered Information as described below. We reserve the right to disclose Non-Personal Information without restriction. 
 
@@ -60,7 +58,7 @@ Disclosure When We Act as an Affiliate or Reseller for Others. We may act as an 
 
 Disclosure to Third Parties For Direct Marketing Without Restriction; Your California Privacy Rights. We reserve the right to share your Protected Information with third parties for direct marketing purposes without restriction. California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of their Personal Information to third parties for purposes of direct marketing. You may request further information about our compliance with California Civil Code Section 1798.83 at the following email address: compliance.officer-at-victory100.com. Please note that we are only required to respond to one request per registrant each year, and we are not required to respond to requests made by means other than through this the address provided above. 
 
-SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS 
+####  SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS 
 
 3rd Party Cookies for Web Analytics and Reporting. We reserve the right to use web analytics services provided by 3rd parties. These services use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. 
 
@@ -72,7 +70,7 @@ Participation in Google’s Adsense Network. We reserve the right to participate
 
 Web Beacons. A web beacon is an electronic image placed in the code of a web page. We reserve the right to use web beacons to monitor the traffic patterns of users from one of our pages to another and to improve our site’s performance. 
 
-DATA SECURITY 
+####  DATA SECURITY 
 
 We will implement reasonable and appropriate security procedures consistent with prevailing industry standards to protect data from unauthorized access by physical and electronic intrusion. Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your Protected Information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site. 
 
@@ -80,15 +78,15 @@ When you transmit Protected Information through our registration process or if y
 
 After the secure transfer of your Protected Information, the information is maintained and stored with 128-bit encryption. 
 
-ONWARD TRANSFER OUTSIDE YOUR COUNTRY OF RESIDENCE 
+####  ONWARD TRANSFER OUTSIDE YOUR COUNTRY OF RESIDENCE 
 
 Any Protected Information which we may collect on this site will be stored and processed in our servers located only in the United States. By using this site, if you reside outside the United States, you consent to the transfer of Protected Information outside your country of residence to the United States. 
 
-UPDATING PROTECTED INFORMATION 
+####  UPDATING PROTECTED INFORMATION 
 
 Upon request, we will permit you to request or make changes or updates to your Protected Information for legitimate purposes. We request identification prior to approving such requests. We reserve the right to decline any requests that are unreasonably repetitive or systematic, require unreasonable time or effort of our technical or administrative personnel, or undermine the privacy rights of others. We reserve the right to permit you to access your Protected Information in any account you establish with this site for purposes of making your own changes or updates, and in such case, instructions for making such changes or updates will be provided where necessary. 
 
-EMAIL AND PRE-RECORDED PHONE MESSAGES; OPT-OUT 
+####  EMAIL AND PRE-RECORDED PHONE MESSAGES; OPT-OUT 
 
 This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA"). The ECPA permits this site's limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime. This site is not considered a "secure communications medium" under the ECPA. 
 
@@ -96,15 +94,15 @@ If you supply us with your e-mail address you may receive periodic messages from
 
 If you supply us with your phone number you may receive periodic pre-recorded messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events or offers from us. If you prefer not to receive periodic pre-recorded messages, you may opt-out by following the instructions in the message. 
 
-LINKS TO OTHER SITES; ONLINE ADS 
+####  LINKS TO OTHER SITES; ONLINE ADS 
 
 This site may contain links to other websites with whom we have a business relationship. These links may include online advertisements that we deem to be appropriate. If you do click on any of the links to their websites or accept any of their promotional offers, your click-through information and any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them. 
 
-CHILDREN’S ONLINE POLICY 
+####  CHILDREN’S ONLINE POLICY 
 
 We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please contact our site as provided below under "Contact Us", and be sure to include in your message the same login information that your child submitted. 
 
-CONTACT US 
+####  CONTACT US 
 
 If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at: 
 
@@ -113,7 +111,7 @@ Victory100 Partners, LP Attn: Privacy Policy Officer 6029 N Mcdonald St Melissa,
 \--  
 Material Modifications Since January 1, 2013: none. 
 
-[](https://web.archive.org/holdingvictory/hangout)
+[](https://web.archive.org/vsocial100/hangout)
 
 Connect with Victory100 
 
