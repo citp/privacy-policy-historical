@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the baby-shower-decoration-ideas.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413045316id_/http%3A//baby-shower-decoration-ideas.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baby-shower-decoration-ideas.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205211157id_/http%3A//printmybabyshower.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies « Baby Shower Decoration IdeasBaby Shower Decoration Ideas
+# Privacy Policies
 
 ### Privacy Policy:
 
-BSDI LLC (" **BSDI** ") operates baby-shower-decoration-ideas.com and may operate other websites. It is BSDI's policy to respect your privacy regarding any information we may collect while operating our websites.
+BSDI LLC (" **BSDI** ") operates printmybabyshower.com and may operate other websites. It is BSDI's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
 Like most website operators, BSDI collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. BSDI's purpose in collecting non-personally identifying information is to better understand how BSDI's visitors use its website. From time to time, BSDI may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-BSDI also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on baby-shower-decoration-ideas.com blogs/sites. BSDI only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+BSDI also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on printmybabyshower.com blogs/sites. BSDI only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to BSDI's websites choose to interact with BSDI in ways that require BSDI to gather personally-identifying information. The amount and type of information that BSDI gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [baby-shower-decoration-ideas.com](http://baby-shower-decoration-ideas.com/) to provide a username and email address. Those who engage in transactions with BSDI are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, BSDI collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with BSDI. BSDI does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to BSDI's websites choose to interact with BSDI in ways that require BSDI to gather personally-identifying information. The amount and type of information that BSDI gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [printmybabyshower.com](http://printmybabyshower.com/) to provide a username and email address. Those who engage in transactions with BSDI are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, BSDI collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with BSDI. BSDI does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -38,6 +38,4 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, BSDI may change its Privacy Policy from time to time, and in BSDI's sole discretion. BSDI encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a baby-shower-decoration-ideas.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-Share This Free Content!
+Although most changes are likely to be minor, BSDI may change its Privacy Policy from time to time, and in BSDI's sole discretion. BSDI encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a printmybabyshower.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
