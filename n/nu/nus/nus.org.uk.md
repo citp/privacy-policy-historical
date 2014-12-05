@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090247id_/http%3A//www.nus.org.uk/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205030726id_/http%3A//www.nus.org.uk/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: www.nus.org.uk
 
@@ -10,9 +10,9 @@
 
 1.1.2.1 We use cookies for recognition purposes at logon through the use of a persistent cookie placed on your hard drive. We also use standard cookies to track activity around the site. This cookie is deleted at the end of each session/visit. We may also use cookies to track any click through from promotional emails sent by NUS/NUS Services Ltd and/or selected partners.
 
-1.1.2.2 Cookie Policy - to reiterate NUS.org.uk does not use cookies to obtain personally identifiable information from yourself. The cookies used by NUS.org are required for site functionality. You are able to block or restrict the cookies set by NUS.org from within your browser settings, however doing so may affect the site functionality.
+1.1.2.2 Cookie Policy - to reiterate NUS.org.uk does not use cookies to obtain personally identifiable information from yourself. The cookies used by NUS.org.uk are required for site functionality. You are able to block or restrict the cookies set by NUS.org.uk from within your browser settings, however doing so may affect the site functionality.
 
-Visit out [Cookie ](https://web.archive.org/en/cookie/ "Cookie")page to find out more about the Cookies used on NUS.org.uk;
+Visit out [Cookie](https://web.archive.org/en/cookie/ "Cookie") page to find out more about the Cookies used on NUS.org.uk;
 
 If you wish to find out further information about cookies you can obtain additional details from www.aboutcookies.org. This site offers a comprehensive guide on cookies and how to remove them from your computer.
 
