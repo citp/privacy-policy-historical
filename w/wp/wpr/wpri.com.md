@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpri.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073929id_/http%3A//wpri.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpri.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205181009id_/http%3A//wpri.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | wpri.com
+# Privacy Policy
 
 The following Privacy Policy governs the online information collection practices of WPRI.com (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the WPRI.com web site (the “Site”) and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
