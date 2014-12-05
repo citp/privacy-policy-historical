@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classyclutter.net privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314161906id_/http%3A//www.classyclutter.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classyclutter.net privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205022019id_/http%3A//www.classyclutter.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Classy Clutter
 
 This Privacy Policy governs the manner in which Classy Clutter collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.classyclutter.net](http://www.classyclutter.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Classy Clutter.
 
@@ -58,6 +58,12 @@ Classy Clutter has the discretion to update this privacy policy at any time. Whe
 **Your acceptance of these terms**
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Opt Out**
+
+For information about opting out of the Blogger Network and ad serving partners please visit <http://www.thebloggernetwork.com/privacy-policy/>
+
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
 **Contacting us**
 
