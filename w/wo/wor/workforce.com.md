@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the workforce.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627092251id_/http%3A//www.workforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workforce.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206004711id_/http%3A//www.workforce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ](https://web.archive.org/)
 
 Mediatec Publishing Inc. understands the importance of protecting the privacy of Workforce.com users. The information collected is used to market and improve the services we offer, to improve the Workforce.com Web site content, and to contact you with updates to the Web site, provide you with subscribed deliverables, or for other marketing purposes.
 
