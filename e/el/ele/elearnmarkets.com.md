@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the elearnmarkets.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320075758id_/http%3A//www.elearnmarkets.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearnmarkets.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205190649id_/http%3A//elearnmarkets.com/Privacy) for the most accurate reproduction.*
 
-# Elearnmarkets :: learn stock market online
-
-## Privacy
+# Privacy
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and will only apply to activities and information on a going forward, but not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any of the personal information you provide will be used. 
 
@@ -16,7 +14,3 @@ Your personal information is kept secure. Only authorized employees, agents and 
 
  **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:  
-
-  
-**By e-mail:[info@elearmarkets.com](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1pxvtfa3uo81z#to%253Dinfo%252540elearmarkets.com%2526cmid%253D4)**  
- **By Phone:** 033 4000 2452
