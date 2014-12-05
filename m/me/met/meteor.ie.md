@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055346id_/http%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205192220id_/http%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
 
-# Meteor - Privacy Policy
+# Meteor.ie
 
 Meteor Mobile Communications Limited (hereinafter referred to as "Meteor", "us", "we", or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. The objective of this policy is to inform you how we handle your personal data.
 
