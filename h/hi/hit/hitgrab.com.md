@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hitgrab.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530044529id_/http%3A//www.hitgrab.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitgrab.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205135236id_/http%3A//www.hitgrab.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Play Online Social Games | Privacy Policy | HitGrab Inc.
+# 
 
 ## Privacy Policy
 
@@ -72,4 +72,4 @@ Hitgrab takes care to ensure our users' security of information. We keep account
 
 ## Additional Questions
 
-If you have any questions about Hitgrab, or the use of your information, after reading this policy, please contact us. 
+If you have any questions about Hitgrab, or the use of your information, after reading this policy, please [contact us](mailto:support@hitgrab.com). 
