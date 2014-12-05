@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nurse.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626015649id_/http%3A//www.nurse.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nurse.com privacy policy that was archived on 2014-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141206004328id_/http%3A//www.nurse.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -41,7 +41,7 @@ return true;
  	            googletag.cmd.push(function() {
  	                googletag.defineSlot('/7103/nurse-usa-S1117/728x90_1/health/news', [728, 90], 'div-gpt-ad-1375818516152-0').addService(googletag.pubads()).setTargeting("kw", "<%:Model.addKeyword%>");
  	                googletag.pubads().enableSingleRequest();
-                googletag.enableServices(); 
+ 	                googletag.enableServices();
  	            });
                 document.write('<div id=\'div-gpt-ad-1375818516152-0\'><scr' + 'ipt type=\'text/javascript\'>googletag.display(\'div-gpt-ad-1375818516152-0\');</scr' + 'ipt></div>');
                 break;
@@ -49,7 +49,7 @@ return true;
  	            googletag.cmd.push(function() {
  	                googletag.defineSlot('/7103/nurse-usa-S1117/300x250_1/health/news', [300, 250], 'div-gpt-ad-1375819082926-0').addService(googletag.pubads()).setTargeting("kw", "<%:Model.addKeyword%>");
  	                googletag.pubads().enableSingleRequest();
-                googletag.enableServices(); 
+ 	                googletag.enableServices();
  	            });
                 document.write('<div id=\'div-gpt-ad-1375819082926-0\'><scr' + 'ipt type=\'text/javascript\'>googletag.display(\'div-gpt-ad-1375819082926-0\');</scr' + 'ipt></div>');
                 break;
@@ -57,7 +57,7 @@ return true;
  	            googletag.cmd.push(function() {
  	                googletag.defineSlot('/7103/nurse-usa-S1117/x01/health/news', [1, 1], 'div-gpt-ad-1375819123089-0').addService(googletag.pubads()).setTargeting("kw", "<%:Model.addKeyword%>");
  	                googletag.pubads().enableSingleRequest();
-                googletag.enableServices(); 
+ 	                googletag.enableServices();
  	            });
                 document.write('<div id=\'div-gpt-ad-1375819123089-0\'><scr' + 'ipt type=\'text/javascript\'>googletag.display(\'div-gpt-ad-1375819123089-0\');</scr' + 'ipt></div>');
                 break;
@@ -65,7 +65,7 @@ return true;
  	            googletag.cmd.push(function() {
  	                googletag.defineSlot('/7103/nurse-usa-S1117/x04/health/news', [1, 1], 'div-gpt-ad-1375818985208-0').addService(googletag.pubads()).setTargeting("kw", "<%:Model.addKeyword%>");
  	                googletag.pubads().enableSingleRequest();
-                googletag.enableServices(); 
+ 	                googletag.enableServices();
  	            });
                 document.write('<div id=\'div-gpt-ad-1375818985208-0\'><scr' + 'ipt type=\'text/javascript\'>googletag.display(\'div-gpt-ad-1375818985208-0\');</scr' + 'ipt></div>');
                 break;
@@ -292,15 +292,15 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
             </li>
             <li>
               <a href="http://ce.nurse.com">Education</a>
-            </li>
-            <li>
-              <a href="http://scrubs.nurse.com">Store</a>
-            </li>
+            </li>            
             <li>
               <a href="http://www.nurse.com/news">News</a>
             </li>
             <li>
               <a href="http://www.nurse.com/events">Events</a>
+            </li>
+            <li>
+              <a href="http://topics.nurse.com/rnx">Awards</a>
             </li>
           </ul>
         </div>
@@ -389,10 +389,9 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
     </div>
 
     <div id="header-search-space">
-      <form action="http://search.nurse.com/" method="post" name="stdForm" id="stdForm" onsubmit="return fixMiniSearchVars();">
+      <form action="http://ce.nurse.com/RCourseSearch.aspx" method="post" name="stdForm" id="stdForm" onsubmit="return fixMiniSearchVars();">
         <span>
           <select name="site" id="minidemo-htmlselect">
-            <option value="all">All</option>
             <option value="education" selected="selected">Education</option>
             <option value="jobs">Jobs</option>
             <option value="news">News</option>
@@ -410,9 +409,13 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
           window.location = 'http://ce.nurse.com/RCourseSearch.aspx?SearchT=' + document.getElementById("search-keywords").value;
           return false;
           }
-          Else
-          return true;
+          else if (document.getElementById("stdForm").action == 'https://www.google.com/') {
+          window.location = 'https://www.google.com/?q=site:news.nurse.com+' + document.getElementById("search-keywords").value.replace(" ", "+") + '&gws_rd=ssl#q=site:news.nurse.com+' + document.getElementById("search-keywords").value.replace(" ", "+");
+          return false;
           }
+          else
+          return true;
+          };
 
           $('#minidemo-htmlselect').ddslick({
           onSelected: function (data) {
@@ -425,10 +428,10 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
           document.getElementById("stdForm").action = 'http://www.nurse.com/jobs/search-result/all-jobs';
           break;
           case 'News':
-          document.getElementById("stdForm").action = 'http://search.nurse.com/news/';
+          document.getElementById("stdForm").action = 'https://www.google.com/';
           break;
           default:
-          document.getElementById("stdForm").action = 'http://search.nurse.com';
+
           break;
           }
           }
@@ -487,35 +490,38 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
           <div class="clear"></div>
           <div class="lighter">
             <img src="//www.nurse.com/images/mag-left.gif" class="mag-left">
-            <form action="http://search.nurse.com/" method="post" name="stdForm2" id="stdForm2" onsubmit="return fixSearchVars();">
+            <form action="http://ce.nurse.com/RCourseSearch.aspx" method="post" name="stdForm2" id="stdForm2" onsubmit="return fixSearchVars();">
 
               <select name="site" id="demo-htmlselect">
-                <option value="all">All</option>
                 <option value="education" selected="selected">Education</option>
                 <option value="jobs">Jobs</option>
                 <option value="news">News</option>
               </select>
+              <input type="hidden" id="inputTextSearchHead" name="inputTextSearch">
               <input name="keywords" id="search-keywords2" class="search square" type="text">
               <input type="submit" value="GO">
 
-              <input type="hidden" id="inputTextSearch" name="inputTextSearch">
               <script type="text/javascript">
                 //fix search term for jobs and CE search, CE search uses get instead of post
                 function fixSearchVars() {
-                document.getElementById("inputTextSearch").value = document.getElementById("search-keywords2").value;
+                document.getElementById("inputTextSearchHead").value = document.getElementById("search-keywords2").value;
                 if (document.getElementById("stdForm2").action == 'http://ce.nurse.com/RCourseSearch.aspx') {
                 window.location = 'http://ce.nurse.com/RCourseSearch.aspx?SearchT=' + document.getElementById("search-keywords2").value;
                 return false;
                 }
-                Else
-                return true;
+                else if (document.getElementById("stdForm2").action == 'https://www.google.com/') {
+                window.location = 'https://www.google.com/?q=site:news.nurse.com+' + document.getElementById("search-keywords2").value.replace(" ", "+") + '&gws_rd=ssl#q=site:news.nurse.com+' + document.getElementById("search-keywords2").value.replace(" ", "+");
+                return false;
                 }
+                else
+                return true;
+                };
 
                 $('#demo-htmlselect').ddslick({
                 showSelectedHTML: false,
                 onSelected: function (data) {
                 var str = data.selectedData.text;
-                switch(str){
+                switch (str) {
                 case 'Education':
                 document.getElementById("stdForm2").action = 'http://ce.nurse.com/RCourseSearch.aspx';
                 break;
@@ -523,10 +529,10 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
                 document.getElementById("stdForm2").action = 'http://www.nurse.com/jobs/search-result/all-jobs';
                 break;
                 case 'News':
-                document.getElementById("stdForm2").action = 'http://search.nurse.com/news/';
+                document.getElementById("stdForm2").action = 'https://www.google.com/';
                 break;
                 default:
-                document.getElementById("stdForm2").action = 'http://search.nurse.com';
+
                 break;
                 }
                 }
@@ -556,15 +562,15 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
             </li>
             <li>
               <a href="http://ce.nurse.com">EDUCATION</a>
-            </li>
-            <li>
-              <a href="http://scrubs.nurse.com">STORE</a>
-            </li>
+            </li>            
             <li>
               <a href="http://www.nurse.com/news">NEWS</a>
             </li>
             <li>
               <a href="http://www.nurse.com/events">EVENTS</a>
+            </li>
+            <li>
+              <a href="http://topics.nurse.com/rnx">AWARDS</a>
             </li>
 
           </ul>
@@ -825,7 +831,7 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
           <a href="http://ce.nurse.com/">CE course catalog</a>
         </li>
         <li>
-          <a href="http://www.nurse.com/unlimitedCE/">
+          <a href="http://ce.nurse.com/unlimitedCE/">
             Unlimited CE
           </a>
         </li>
