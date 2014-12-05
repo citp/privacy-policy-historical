@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the coleparmer.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625161621id_/http%3A//www.coleparmer.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coleparmer.com privacy policy that was archived on 2014-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141205154536id_/http%3A//www.coleparmer.com/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><link href="/bundles/JqueryUICSS?v=bBEeeuMUyX22RBv5lResuKFNt9hyv0opca0kfTv0Jyk1" rel="stylesheet" type="text/css">
-<link href="/bundles/CSS?v=Rk8J2de7rMVnLMqNrfnDN55oaqFxK3IGjuv4VcjsgLQ1" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/u57s1aa8l0.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MJCL8J"></script><script type="text/javascript" src="/bundles/jquery?v=flPvElCXcUsFidXFBCP1RMYpP_k9oZPgKN6Ra0nL6jo1"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><link href="/bundles/JqueryUICSS?v=tvNkTcX2qHLR-lNZVACYw5T6PiH9M_PmENBiK6ctanI1" rel="stylesheet" type="text/css">
+<link href="/bundles/CSS?v=8j-yGQ9vwC_0h59vUjla476tbVfuUO6FFopwRQ4pDiM1" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/3454673712453819773/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/u57s1aa8l0.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MJCL8J"></script><script type="text/javascript" src="/bundles/jquery?v=flPvElCXcUsFidXFBCP1RMYpP_k9oZPgKN6Ra0nL6jo1"></script>
 <script type="text/javascript" src="/bundles/jqueryui?v=06a_8KzvBRdObcjwmGE97P8rBEqnlOiZcuhi8IXnNCA1"></script>
 <link rel="stylesheet" type="text/css" media="print" href="/includes/buttons.css"><link rel="stylesheet" type="text/css" media="print" href="/includes/ColeParmer_Print.css">
+            <script type="text/javascript" src="//cdn.optimizely.com/js/661000348.js"></script>
+        
          
+        
 
     <script type="text/javascript">
         var $buoop = {};
@@ -23,70 +26,70 @@
 
  <script type="text/javascript">
     <!--
-        function clearText(id, defaultText, password) {
-            var elem = document.getElementById(id);
-            elem.className = "";
-            if (elem.value == defaultText) {
-                elem.value = "";
+    function clearText(id, defaultText, password) {
+        var elem = document.getElementById(id);
+        elem.className = "";
+        if (elem.value == defaultText) {
+            elem.value = "";
+        }
+        if (password) {
+            elem.type = "password";
+        }
+    }
+
+    function resetText(id, defaultText) {
+        var elem = document.getElementById(id);
+        if (elem.value == "") {
+            elem.type = "text";
+            elem.value = defaultText;
+            elem.className = "emptyText";
+        }
+    }
+    function restoreBox(inputid, promptid) {
+        var inputElem = document.getElementById(inputid);
+        var promptElem = document.getElementById(promptid);
+
+        if (inputElem.value == "") {
+            inputElem.className = "RealHidden";
+            promptElem.className = "Prompt";
+        }
+    }
+    function focusBox(inputid, promptid) {
+        var inputElem = document.getElementById(inputid);
+        var promptElem = document.getElementById(promptid);
+        promptElem.className = "PromptHidden";
+        inputElem.className = "Real";
+        inputElem.focus();
+    }
+    function toggleMoreBox(imgid, trid) {
+        var imgElem = document.getElementById(imgid);
+        var trElem = document.getElementById(trid);
+        if (trElem.style.display == "none") {
+            trElem.style.display = "";
+            imgElem.src = "/images/arrow-griffinblue_down.png";
+        } else {
+            trElem.style.display = "none";
+            imgElem.src = "/images/arrow-griffinblue_left.png";
+        }
+    }
+    var menuRendered = false;
+
+    function toggleShopAllProducts(imgid, trid) {
+        var imgElem = document.getElementById(imgid);
+        var trElem = document.getElementById(trid);
+        if (trElem.style.display == "none") {
+            trElem.style.display = "";
+            if (!menuRendered) {
+                jkmegamenu.render($);
+                menuRendered = true;
             }
-            if (password) {
-                elem.type = "password";
-            }
+            imgElem.src = "/images/arrow-blu-box-DOWN.png";
         }
-        
-        function resetText(id, defaultText) {
-            var elem = document.getElementById(id);
-            if (elem.value == "") {
-                elem.type = "text";
-                elem.value = defaultText;
-                elem.className = "emptyText";
-            }         
+        else {
+            trElem.style.display = "none";
+            imgElem.src = "/images/arrow-blu-box-RIGHT.png";
         }
-        function restoreBox(inputid, promptid) {
-            var inputElem = document.getElementById(inputid);
-            var promptElem = document.getElementById(promptid);
-            
-            if (inputElem.value == "") {
-                inputElem.className = "RealHidden";
-                promptElem.className = "Prompt";
-            }         
-        }
-        function focusBox(inputid, promptid) {
-            var inputElem = document.getElementById(inputid);
-            var promptElem = document.getElementById(promptid);
-            promptElem.className = "PromptHidden";
-            inputElem.className = "Real";
-            inputElem.focus();
-        }
-        function toggleMoreBox(imgid,trid) {
-            var imgElem = document.getElementById(imgid);
-            var trElem = document.getElementById(trid);
-            if (trElem.style.display == "none") {
-                trElem.style.display = "";
-                imgElem.src = "/images/arrow-griffinblue_down.png";
-            } else {
-                trElem.style.display = "none";
-                imgElem.src = "/images/arrow-griffinblue_left.png";
-            }
-        }
-        var menuRendered = false;
-        
-        function toggleShopAllProducts(imgid,trid) {
-            var imgElem = document.getElementById(imgid);
-            var trElem = document.getElementById(trid);
-            if (trElem.style.display == "none") {
-                trElem.style.display = "";
-                if (!menuRendered) {
-                    jkmegamenu.render($);
-                    menuRendered = true;
-                }
-                imgElem.src = "/images/arrow-blu-box-DOWN.png";
-            } 
-            else {
-                trElem.style.display = "none";
-                imgElem.src = "/images/arrow-blu-box-RIGHT.png";
-            }
-        }
+    }
     // -->
     </script>
     
@@ -103,12 +106,13 @@
 var google_tag_params = {
 siteid: '1004',
 dealerid: '19',
-countryid: '999'
+countryid: '999',
+ecomm_pagetype: 'other'
 }
 </script>
 <script>
 dataLayer = [{
-google_tag_params : window.google_tag_params()
+google_tag_params : window.google_tag_params
 }];
 </script>
 
@@ -125,7 +129,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     
 
-  <form name="aspnetForm" method="post" action="Privacy" id="aspnetForm">
+  <form name="aspnetForm" method="post" action="Privacy" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
@@ -150,14 +154,24 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=xEuRy6zFIXFgFAmkZkq_V4Ink0rvsWYu9Fn29pcLoABhdvpVqLS49wpi1Px8Ct4shVKYTeGTusxdnWZGkrPySEGV8Is1&amp;t=635311681180975236" type="text/javascript"></script>
+<script src="/WebResource.axd?d=xEuRy6zFIXFgFAmkZkq_V4Ink0rvsWYu9Fn29pcLoABhdvpVqLS49wpi1Px8Ct4shVKYTeGTusxdnWZGkrPySEGV8Is1&amp;t=635468970912166080" type="text/javascript"></script>
 
 
-<script src="/ScriptResource.axd?d=zdBagm_HTrJs39edPrYa1O62O-uFmatG0uElPxY1tc7WFzKjH6q_LBhpeCh9j20AzM0C4XpOMDnkQAPSnNYo54hc7E9ObyeOLpfPE2LpuE4XbANh8tTXXJu4d99SIwwZa9gckCqv5aq2Z98u2x1OG_2Hi1FL56Ay5WJgAjp8pZswlloH0&amp;t=ffffffff94f72c4c" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=4LweabFsPjKcCETTIZfPros5BQrHwqUOuwfF7JjgXzD_XkIzNaojW7yX08PdM5iMz1Ke9n0raB1qORPKhC0frD9j_82WPv7xGJHqZs-WcPGrHI5_1siezA4rsuXsJY35mSToi1PbYRLWECPRnh64u-bP0tsuM8yFNbDOnHdydLKiF1Z40&amp;t=ffffffff94f72c4c" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=zdBagm_HTrJs39edPrYa1O62O-uFmatG0uElPxY1tc7WFzKjH6q_LBhpeCh9j20AzM0C4XpOMDnkQAPSnNYo54hc7E9ObyeOLpfPE2LpuE4XbANh8tTXXJu4d99SIwwZa9gckCqv5aq2Z98u2x1OG_2Hi1FL56Ay5WJgAjp8pZswlloH0&amp;t=1c6ae475" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=4LweabFsPjKcCETTIZfPros5BQrHwqUOuwfF7JjgXzD_XkIzNaojW7yX08PdM5iMz1Ke9n0raB1qORPKhC0frD9j_82WPv7xGJHqZs-WcPGrHI5_1siezA4rsuXsJY35mSToi1PbYRLWECPRnh64u-bP0tsuM8yFNbDOnHdydLKiF1Z40&amp;t=1c6ae475" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;
+return true;
+}
+//]]>
+</script>
+
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKgveP+AgKIu/K7CQL8mLX/AgLa75CODAKw++CKBQLxjoagC0fp02aPjPNt12OhrI/nTyW3U9CN">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwKgveP+AgKIu/K7CQL8mLX/AgLzyLDmBgLa75CODAKw++CKBQKusZ6UCO5xxF7je0v3TsWmBoXsrCLzeamE">
 </div>
 
 
@@ -165,10 +179,10 @@ function __doPostBack(eventTarget, eventArgument) {
 
 <script type="text/javascript">
     //global variable
-    var cartId = "fe245780-e1dd-4765-b870-14d643b121c6";
+    var cartId = "1e01ef20-6ad8-4aa3-a5bf-5a641c7ee520";
 
     //Do not remove next 2 lines, are used in CartPopUp.js
-    var ThisSessionID = 'nbviuj1qza';
+    var ThisSessionID = 'sy1xyg1wzv';
     var CartItems = '0';
     var ConditionMet = 'False';
     
@@ -214,30 +228,30 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspne
             });
             var inputId = '#' + 'ctl00_ctl00_txtMasterSearch';
             var a = $(inputId).autocomplete({
-                source: function(request, response) {
+                source: function (request, response) {
                     $.ajax({
                         url: '/api/Search/GetSuggestions',
                         type: 'POST',
                         cache: false,
-                        data: { '': $(inputId).val()},
+                        data: { '': $(inputId).val() },
                         dataType: 'json',
-                        success: function(json) {
+                        success: function (json) {
                             // call autocomplete callback method with results
-                            response($.map(json, function(data) {
+                            response($.map(json, function (data) {
                                 return {
                                     label: data,
                                     value: data
                                 };
                             }));
                         },
-                        error: function(XMLHttpRequest, textStatus, errorThrown) {
+                        error: function (XMLHttpRequest, textStatus, errorThrown) {
                             //alert('error - ' + textStatus);
                             console.log('error', textStatus, errorThrown);
                         }
                     });
                 },
                 minLength: 1,
-                select: function(event, ui) {
+                select: function (event, ui) {
                     //alert('you have selected ' + ui.item.label + ' ID: ' + ui.item.value);
                     $(inputId).val(ui.item.label);
                     CallSearch();
@@ -245,24 +259,22 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspne
                 }
             });
         });
-        
+
         function CallSearch(source, eventArgs) {
-        var btn = document.getElementById('ctl00_ctl00_btnMasterSearch');
-        btn.click();
+            var btn = document.getElementById('ctl00_ctl00_btnMasterSearch');
+            btn.click();
         }
-        
-        function SetButtonStatus(sender, target)
-        {
+
+        function SetButtonStatus(sender, target) {
             var lnkBtn = document.getElementById(target);
-            var trimmedSearchTerm = sender.value.replace(/^\s+|\s+$/g, '') ;
-            if ( trimmedSearchTerm.length >= 1)          
+            var trimmedSearchTerm = sender.value.replace(/^\s+|\s+$/g, '');
+            if (trimmedSearchTerm.length >= 1)
                 lnkBtn.onclick = ""; //enable
             else
-                lnkBtn.onclick = function() { return false; }//disable;
+                lnkBtn.onclick = function () { return false; }//disable;
         }
-        
-        function OnSearchTextBoxChange(sender)
-        {
+
+        function OnSearchTextBoxChange(sender) {
             var target = 'ctl00_ctl00_btnMasterSearch';
             SetButtonStatus(sender, target);
         }
@@ -272,11 +284,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspne
                 url: "/api/Website/GetSubTopmenus/" + m,
                 contentType: "application/json; charset=utf-8",
                 dataType: "json",
-                success: function(response) {
+                success: function (response) {
                     $('#menu' + m).empty();
                     $('#menu' + m).append(response);
                 },
-                failure: function(msg) {
+                failure: function (msg) {
                     //$('#menu' + m).append(msg);
                 }
             });
@@ -285,7 +297,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspne
 
    <div>
      <div class="noprint" id="master_header">
-        <div class="DivTopLink">
+        <div id="ctl00_ctl00_Div1" class="DivTopLink">
         
         </div>
         
@@ -313,6 +325,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspne
                 <a id="ctl00_ctl00_MasterViewCart" class="Cart CSSButton" href="javascript:__doPostBack('ctl00$ctl00$MasterViewCart','')"><span>View Cart</span></a>
             </div> 
         </div>
+
         <div id="logo">
             <a id="ctl00_ctl00_HyperLinkHomePage" href="./"><img id="ctl00_ctl00_WebSiteLogo" src="/images/CPlogo-200-46.gif" alt="Cole-Parmer" style="border-width:0px;"></a>
         </div>
@@ -323,7 +336,39 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspne
             </div>
         </div>
         <div id="live_chat" class="cpblue">
-        <a id="ctl00_ctl00_LiveChatLink" href="javascript:window.open('http://livechat.boldchat.com/aid/3454673712453819773/bc.chat?cwdid=1466460158077267709&amp;amp;wdid=2765939554117390189&amp;amp;rdid=&amp;amp;vr=&amp;amp;vn=&amp;amp;vi=&amp;amp;ve=&amp;amp;vp=&amp;amp;iq=&amp;amp;curl=&amp;amp;url=' + escape(document.location.href), 'Chat2146538690159803629', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');void(0);">Live Chat</a>
+            
+
+    <!-- BoldChat Live Chat Button HTML v5.00 (Type=HTML,ChatWindow=Apps and CS Chat,Department=Customer Facing (Customer Service or Apps),Website=www.coleparmer.com) -->
+
+    <div style="display: inline-block; white-space: nowrap; text-wrap:none;">
+    <script type="text/javascript">
+
+        var vNotAvaliable = "";
+        var vAvaliable = "";
+    
+                vNotAvaliable = "E-Mail Us";
+                vAvaliable = "Live Chat";
+            
+
+    var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+    window._bcvma = window._bcvma || [];
+    _bcvma.push(["setAccountID", "3454673712453819773"]);
+    _bcvma.push(["setParameter", "WebsiteID", "3480086117925049250"])
+    _bcvma.push(["addText", { type: "chat", department: "1397282695360970116", window: "1466460158077267709", available: vAvaliable, unavailable: vNotAvaliable, id: bccbId }]);
+    var bcLoad = function(){
+        if(window.bcLoaded) return; window.bcLoaded = true;
+        var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+        vms.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + "vmss.boldchat.com/aid/3454673712453819773/bc.vms4/vms.js";
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+    };
+    if(window.pageViewer && pageViewer.load) pageViewer.load();
+    else if(document.readyState=="complete") bcLoad();
+    else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+    else window.attachEvent('onload', bcLoad);
+</script><div id="0.2776280768702273"></div>
+</div>
+<!-- /BoldChat Live Chat Button HTML v5.00 -->
+
         </div>
         <div id="login_register">
              <span id="ctl00_ctl00_LblWelcome" class="basic_text_bold"><strong>Welcome,</strong></span>
@@ -339,8 +384,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspne
                    <div id="ctl00_ctl00_SearchPanel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_btnMasterSearch')">
 	
                        <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input name="ctl00$ctl00$txtMasterSearch" type="text" id="ctl00_ctl00_txtMasterSearch" class="ui-autocomplete-input" autocomplete="off">
+
+                        <input type="hidden" name="ctl00$ctl00$TextBoxWatermarkExtenderSearch_ClientState" id="ctl00_ctl00_TextBoxWatermarkExtenderSearch_ClientState">
+
                        <div id="autocompleteResults"></div>
-                    <a id="ctl00_ctl00_btnMasterSearch" class="Search CSSButton" href="javascript:__doPostBack('ctl00$ctl00$btnMasterSearch','')"><span>Search</span></a>
+                    <a id="ctl00_ctl00_btnMasterSearch" class="flat_button flat_button-pill flat_button-caution" href="javascript:__doPostBack('ctl00$ctl00$btnMasterSearch','')" style="margin:2px 0 0 -20px;"><span>Search</span></a>
                    
 </div>
                  </div>
@@ -357,343 +405,399 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspne
                     
 
 <script type="text/javascript" language="javascript">
-    function displayJSONHTML(m) {
+    function displayJSONHTML(m, suffix) {
+        suffix = typeof suffix !== 'undefined' ? suffix : '';
         $.ajax({
             url: '/api/Products/GetProductClassSubmenu/' + m,
             contentType: "application/json; charset=utf-8",
             dataType: "json",
-            success: function(response) {
-                $('#' + m).empty();
-                $('#' + m).append(response);
+            success: function (response) {
+                $('#' + m + suffix).empty();
+                $('#' + m + suffix).append(response);
             },
-            failure: function(msg) {
+            failure: function (msg) {
                 //$('#output').text(msg);
             }
         });
     }
 </script>
 <div id="ctl00_ctl00_productmenu_menu_shopAllProducts_sidebar" class="leftmegamenu" style="display:none">
-
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Balances_Scales/75" id="Anchor75">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('75')">
-                        Balances &amp; Scales 
-                    </div>
-                </a>
+    <div id="ctl00_ctl00_productmenu_PopularCategories" class="popular_categories">
+        <div id="popular_categories_header" class="left_menu_header">
+            <h2>Popular Categories</h2>
         </div>
-        <div id="75" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Baths_and_Circulators/213" id="Anchor213">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('213')">
-                        Baths and Circulators 
-                    </div>
-                </a>
+        
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Tubing_and_Hose/59366" id="Anchor59366Popular">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59366', 'Popular')">
+                            Tubing and Hose 
+                        </div>
+                    </a>
+                </div>
+                <div id="59366Popular" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Pumps/59361" id="Anchor59361Popular">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59361', 'Popular')">
+                            Pumps 
+                        </div>
+                    </a>
+                </div>
+                <div id="59361Popular" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Fittings/1445" id="Anchor1445Popular">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('1445', 'Popular')">
+                            Fittings 
+                        </div>
+                    </a>
+                </div>
+                <div id="1445Popular" class="megamenu">
+                </div>
+            
+        <div id="left_menu_borders" class="no_arrow">
+            <a href="/store/masterflex" id="MasterflexPopular">
+                <div id="left_menu_links">
+                    Masterflex
+                </div>
+            </a>
         </div>
-        <div id="213" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Calibration/59342" id="Anchor59342">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59342')">
-                        Calibration 
-                    </div>
-                </a>
+        <div id="left_menu_borders" class="no_arrow">
+            <a href="/bestsellers" id="BestSellersPopular">
+                <div id="left_menu_links">
+                    Best Sellers 
+                </div>
+            </a>
         </div>
-        <div id="59342" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Chemicals_Reagents_Lubricants/17460" id="Anchor17460">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('17460')">
-                        Chemicals, Reagents, &amp; Lubricants 
-                    </div>
-                </a>
+    </div>
+    <div id="MainClasses">
+        <div id="main_classes_header" class="left_menu_header">
+            <h2>All Categories</h2>
         </div>
-        <div id="17460" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Clean_Room/677" id="Anchor677">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('677')">
-                        Clean Room 
-                    </div>
-                </a>
-        </div>
-        <div id="677" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Cooling_Equipment/61164" id="Anchor61164">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('61164')">
-                        Cooling Equipment 
-                    </div>
-                </a>
-        </div>
-        <div id="61164" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Fittings/1445" id="Anchor1445">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('1445')">
-                        Fittings 
-                    </div>
-                </a>
-        </div>
-        <div id="1445" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Flow_Level_Valves/59347" id="Anchor59347">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59347')">
-                        Flow, Level &amp; Valves 
-                    </div>
-                </a>
-        </div>
-        <div id="59347" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Fluid_Liquid_Handling/59354" id="Anchor59354">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59354')">
-                        Fluid &amp; Liquid Handling 
-                    </div>
-                </a>
-        </div>
-        <div id="59354" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Furniture_Fume_Hoods/59349" id="Anchor59349">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59349')">
-                        Furniture &amp; Fume Hoods 
-                    </div>
-                </a>
-        </div>
-        <div id="59349" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Heating_Equipment/59345" id="Anchor59345">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59345')">
-                        Heating Equipment 
-                    </div>
-                </a>
-        </div>
-        <div id="59345" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Industrial_Equipment/59068" id="Anchor59068">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59068')">
-                        Industrial Equipment 
-                    </div>
-                </a>
-        </div>
-        <div id="59068" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Laboratory_Cleaning_Supplies/502" id="Anchor502">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('502')">
-                        Laboratory Cleaning Supplies 
-                    </div>
-                </a>
-        </div>
-        <div id="502" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Laboratory_Equipment/15006" id="Anchor15006">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('15006')">
-                        Laboratory Equipment 
-                    </div>
-                </a>
-        </div>
-        <div id="15006" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Laboratory_Supplies_Consumables/59352" id="Anchor59352">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59352')">
-                        Laboratory Supplies &amp; Consumables 
-                    </div>
-                </a>
-        </div>
-        <div id="59352" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Life_Science/56868" id="Anchor56868">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('56868')">
-                        Life Science 
-                    </div>
-                </a>
-        </div>
-        <div id="56868" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Masterflex_Peristaltic_Pumps/4436" id="Anchor4436">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('4436')">
-                        Masterflex Peristaltic Pumps 
-                    </div>
-                </a>
-        </div>
-        <div id="4436" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Masterflex_Pump_Tubing/25742" id="Anchor25742">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('25742')">
-                        Masterflex Pump Tubing 
-                    </div>
-                </a>
-        </div>
-        <div id="25742" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Material_Handling_and_Storage/2721" id="Anchor2721">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('2721')">
-                        Material Handling and Storage 
-                    </div>
-                </a>
-        </div>
-        <div id="2721" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Material_Testing_Physical_Testing/59351" id="Anchor59351">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59351')">
-                        Material Testing &amp; Physical Testing 
-                    </div>
-                </a>
-        </div>
-        <div id="59351" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Mixers_and_Blenders/3129" id="Anchor3129">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('3129')">
-                        Mixers and Blenders 
-                    </div>
-                </a>
-        </div>
-        <div id="3129" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/pH_Meters_and_Water_Quality_Products/59358" id="Anchor59358">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59358')">
-                        pH Meters and Water Quality Products 
-                    </div>
-                </a>
-        </div>
-        <div id="59358" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Pressure_Vacuum_Instruments/4201" id="Anchor4201">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('4201')">
-                        Pressure &amp; Vacuum Instruments 
-                    </div>
-                </a>
-        </div>
-        <div id="4201" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Process_Equipment_Instrumentation/59360" id="Anchor59360">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59360')">
-                        Process Equipment &amp; Instrumentation 
-                    </div>
-                </a>
-        </div>
-        <div id="59360" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Pumps/59361" id="Anchor59361">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59361')">
-                        Pumps 
-                    </div>
-                </a>
-        </div>
-        <div id="59361" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Recorders_Data_Acquisition/5006" id="Anchor5006">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('5006')">
-                        Recorders &amp; Data Acquisition 
-                    </div>
-                </a>
-        </div>
-        <div id="5006" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Safety_Products/7505" id="Anchor7505">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('7505')">
-                        Safety Products 
-                    </div>
-                </a>
-        </div>
-        <div id="7505" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Shop_by_Industry/60460" id="Anchor60460">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('60460')">
-                        Shop by Industry 
-                    </div>
-                </a>
-        </div>
-        <div id="60460" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Spectroscopy_and_Spectrophotometers/5460" id="Anchor5460">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('5460')">
-                        Spectroscopy and Spectrophotometers 
-                    </div>
-                </a>
-        </div>
-        <div id="5460" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Temperature_Humidity_Moisture_and_Weather_Products/6207" id="Anchor6207">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('6207')">
-                        Temperature, Humidity, Moisture and Weather Products 
-                    </div>
-                </a>
-        </div>
-        <div id="6207" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Test_and_Measurement_Equipment/61816" id="Anchor61816">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('61816')">
-                        Test and Measurement Equipment 
-                    </div>
-                </a>
-        </div>
-        <div id="61816" class="megamenu">
-     </div>
-    
-        <div id="left_menu_borders">
-                <a href="http://www.coleparmer.com/Category/Tubing_and_Hose/59366" id="Anchor59366">
-                    <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59366')">
-                        Tubing and Hose 
-                    </div>
-                </a>
-        </div>
-        <div id="59366" class="megamenu">
-     </div>
-    
+        
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Balances_Scales/75" id="Anchor75">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('75')">
+                            Balances &amp; Scales 
+                        </div>
+                    </a>
+                </div>
+                <div id="75" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Baths_and_Circulators/213" id="Anchor213">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('213')">
+                            Baths and Circulators 
+                        </div>
+                    </a>
+                </div>
+                <div id="213" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Calibration/59342" id="Anchor59342">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59342')">
+                            Calibration 
+                        </div>
+                    </a>
+                </div>
+                <div id="59342" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Chemicals_Reagents_Lubricants/17460" id="Anchor17460">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('17460')">
+                            Chemicals, Reagents &amp; Lubricants 
+                        </div>
+                    </a>
+                </div>
+                <div id="17460" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Clean_Room/677" id="Anchor677">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('677')">
+                            Clean Room 
+                        </div>
+                    </a>
+                </div>
+                <div id="677" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Cooling_Equipment/61164" id="Anchor61164">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('61164')">
+                            Cooling Equipment 
+                        </div>
+                    </a>
+                </div>
+                <div id="61164" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Fittings/1445" id="Anchor1445">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('1445')">
+                            Fittings 
+                        </div>
+                    </a>
+                </div>
+                <div id="1445" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Flow_Level_Valves/59347" id="Anchor59347">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59347')">
+                            Flow, Level &amp; Valves 
+                        </div>
+                    </a>
+                </div>
+                <div id="59347" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Fluid_Liquid_Handling/59354" id="Anchor59354">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59354')">
+                            Fluid &amp; Liquid Handling 
+                        </div>
+                    </a>
+                </div>
+                <div id="59354" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Furniture_Fume_Hoods/59349" id="Anchor59349">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59349')">
+                            Furniture &amp; Fume Hoods 
+                        </div>
+                    </a>
+                </div>
+                <div id="59349" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Heating_Equipment/59345" id="Anchor59345">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59345')">
+                            Heating Equipment 
+                        </div>
+                    </a>
+                </div>
+                <div id="59345" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Industrial_Equipment/59068" id="Anchor59068">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59068')">
+                            Industrial Equipment 
+                        </div>
+                    </a>
+                </div>
+                <div id="59068" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Laboratory_Cleaning_Supplies/502" id="Anchor502">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('502')">
+                            Laboratory Cleaning Supplies 
+                        </div>
+                    </a>
+                </div>
+                <div id="502" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Laboratory_Equipment/15006" id="Anchor15006">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('15006')">
+                            Laboratory Equipment 
+                        </div>
+                    </a>
+                </div>
+                <div id="15006" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Laboratory_Supplies_Consumables/59352" id="Anchor59352">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59352')">
+                            Laboratory Supplies &amp; Consumables 
+                        </div>
+                    </a>
+                </div>
+                <div id="59352" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Life_Science/56868" id="Anchor56868">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('56868')">
+                            Life Science 
+                        </div>
+                    </a>
+                </div>
+                <div id="56868" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Masterflex_Peristaltic_Pumps/4436" id="Anchor4436">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('4436')">
+                            Masterflex Peristaltic Pumps 
+                        </div>
+                    </a>
+                </div>
+                <div id="4436" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Masterflex_Pump_Tubing/25742" id="Anchor25742">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('25742')">
+                            Masterflex Pump Tubing 
+                        </div>
+                    </a>
+                </div>
+                <div id="25742" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Material_Handling_and_Storage/2721" id="Anchor2721">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('2721')">
+                            Material Handling and Storage 
+                        </div>
+                    </a>
+                </div>
+                <div id="2721" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Material_Testing_Physical_Testing/59351" id="Anchor59351">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59351')">
+                            Material Testing &amp; Physical Testing 
+                        </div>
+                    </a>
+                </div>
+                <div id="59351" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Mixers_and_Blenders/3129" id="Anchor3129">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('3129')">
+                            Mixers and Blenders 
+                        </div>
+                    </a>
+                </div>
+                <div id="3129" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/pH_Meters_and_Water_Quality_Products/59358" id="Anchor59358">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59358')">
+                            pH Meters and Water Quality Products 
+                        </div>
+                    </a>
+                </div>
+                <div id="59358" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Pressure_Vacuum_Instruments/4201" id="Anchor4201">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('4201')">
+                            Pressure &amp; Vacuum Instruments 
+                        </div>
+                    </a>
+                </div>
+                <div id="4201" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Process_Equipment_Instrumentation/59360" id="Anchor59360">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59360')">
+                            Process Equipment &amp; Instrumentation 
+                        </div>
+                    </a>
+                </div>
+                <div id="59360" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Pumps/59361" id="Anchor59361">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59361')">
+                            Pumps 
+                        </div>
+                    </a>
+                </div>
+                <div id="59361" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Recorders_Data_Acquisition/5006" id="Anchor5006">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('5006')">
+                            Recorders &amp; Data Acquisition 
+                        </div>
+                    </a>
+                </div>
+                <div id="5006" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Safety_Products/7505" id="Anchor7505">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('7505')">
+                            Safety Products 
+                        </div>
+                    </a>
+                </div>
+                <div id="7505" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Shop_by_Industry/60460" id="Anchor60460">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('60460')">
+                            Shop by Industry 
+                        </div>
+                    </a>
+                </div>
+                <div id="60460" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Spectroscopy_and_Spectrophotometers/5460" id="Anchor5460">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('5460')">
+                            Spectroscopy and Spectrophotometers 
+                        </div>
+                    </a>
+                </div>
+                <div id="5460" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Temperature_Humidity_Moisture_and_Weather_Products/6207" id="Anchor6207">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('6207')">
+                            Temperature, Humidity, Moisture and Weather Products 
+                        </div>
+                    </a>
+                </div>
+                <div id="6207" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Test_and_Measurement_Equipment/61816" id="Anchor61816">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('61816')">
+                            Test and Measurement Equipment 
+                        </div>
+                    </a>
+                </div>
+                <div id="61816" class="megamenu">
+                </div>
+            
+                <div id="left_menu_borders">
+                    <a href="http://www.coleparmer.com/Category/Tubing_and_Hose/59366" id="Anchor59366">
+                        <div id="left_menu_links" onmouseover="javascript:displayJSONHTML('59366')">
+                            Tubing and Hose 
+                        </div>
+                    </a>
+                </div>
+                <div id="59366" class="megamenu">
+                </div>
+            
+    </div>
 </div>
 
 
@@ -702,27 +806,28 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspne
                 <div id="menu_container">
               
                      
-                        <div class="menu_item"><a href="/Catalog/" id="Anc1" onmouseover="javascript:displayMENUHTML('1')" _megamenupos="0pos"><span id="ctl00_ctl00_RptAnchorMenus_ctl01_labelMenuDesc">Shop by</span></a></div>
-                        
+                        <div class="menu_item"><a href="/Catalog/" id="Anc1" onmouseover="javascript:displayMENUHTML('1')"><span id="ctl00_ctl00_RptAnchorMenus_ctl01_labelMenuDesc">Shop by</span></a></div>
+                        <div id="menu1" class="megatopmenu"></div>
                      
                         <div class="menu_pipe">|</div>
                      
-                        <div class="menu_item"><a href="/Service-Support" id="Anc2" onmouseover="javascript:displayMENUHTML('2')" _megamenupos="1pos"><span id="ctl00_ctl00_RptAnchorMenus_ctl03_labelMenuDesc">Service &amp; Support</span></a></div>
-                        
+                        <div class="menu_item"><a href="/Service-Support" id="Anc2" onmouseover="javascript:displayMENUHTML('2')"><span id="ctl00_ctl00_RptAnchorMenus_ctl03_labelMenuDesc">Service &amp; Support</span></a></div>
+                        <div id="menu2" class="megatopmenu"></div>
                      
                         <div class="menu_pipe">|</div>
                      
-                        <div class="menu_item"><a href="/TechLibrary/empty" id="Anc3" onmouseover="javascript:displayMENUHTML('3')" _megamenupos="2pos"><span id="ctl00_ctl00_RptAnchorMenus_ctl05_labelMenuDesc">Technical Resources</span></a></div>
-                        
+                        <div class="menu_item"><a href="/TechLibrary/empty" id="Anc3" onmouseover="javascript:displayMENUHTML('3')"><span id="ctl00_ctl00_RptAnchorMenus_ctl05_labelMenuDesc">Technical Resources</span></a></div>
+                        <div id="menu3" class="megatopmenu"></div>
                      
                         <div class="menu_pipe">|</div>
                      
-                        <div class="menu_item"><a href="/Account-Profile" id="Anc4" onmouseover="javascript:displayMENUHTML('4')" _megamenupos="3pos"><span id="ctl00_ctl00_RptAnchorMenus_ctl07_labelMenuDesc">My Account</span></a></div>
-                        
+                        <div class="menu_item"><a href="/Account-Profile" id="Anc4" onmouseover="javascript:displayMENUHTML('4')"><span id="ctl00_ctl00_RptAnchorMenus_ctl07_labelMenuDesc">My Account</span></a></div>
+                        <div id="menu4" class="megatopmenu"></div>
                      
                 </div>
-                <div id="ctl00_ctl00_dvCheckkOrderStatus" class="menu_btn"><a id="ctl00_ctl00_btnMasterOrderStatus" class="CSSButton" href="javascript:__doPostBack('ctl00$ctl00$btnMasterOrderStatus','')"><span>Check order status</span></a></div>    
+                <div id="ctl00_ctl00_dvCheckkOrderStatus" class="flat_button_thin flat_button-pill_thin flat_button-primary"><a id="ctl00_ctl00_btnMasterOrderStatus" class="text_white" href="javascript:__doPostBack('ctl00$ctl00$btnMasterOrderStatus','')"><span>Check order status</span></a></div>    
            </div>
+
      </div>
     
 
@@ -783,7 +888,7 @@ Cole-Parmer uses certain Google Analytics features for Display Advertising (e.g.
 
     <p>
         <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderMainContent_Label5" class="basic_text_bold">How do I Unsubscribe?</span><br>
-        <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderMainContent_Label20">Visitors to our Web site can opt-out from receiving e-mail updates and advertisements by unchecking the box next to any or all e-mail types listed on our <a href="/CommunicationPreferences/empty">E-mail Preferences</a> page. Please be sure to enter the e-mail address(s) used to sign-up or when requesting other information from us. If you decide you no longer want to receive any e-mails regarding special offers, product, service and technical information; you can unsubscribe from the footer of the e-mail itself.</span> 
+        <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderMainContent_Label20">Visitors to our Web site can opt-out from receiving e-mail updates and advertisements by unchecking the box next to any or all e-mail types listed on our <a href="/CommunicationPreferences/empty">E-mail Preferences</a> page. Please be sure to enter the e-mail address(s) used to sign-up or when requesting other information from us. If you decide you no longer want to receive any e-mails regarding special offers, product, service and technical information; you can unsubscribe from the footer of the e-mail itself or visit our <a href="/unsubscribe">unsubscribe</a> page. </span> 
     </p>
     <p>
         <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderMainContent_Label21">If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services, or upcoming events. If you do not wish to receive such mailings, please let us know by e-mail at</span> 
@@ -822,85 +927,85 @@ Cole-Parmer uses certain Google Analytics features for Display Advertising (e.g.
     <div id="master_footer" class="noprint" style="float:none;">
         <div id="site_map">
             <div id="customer_service_person">
-                <img id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_ImgCustService" src="/images/CP_CSassociate-Footer4.png" align="bottom" style="border-width:0px;">
+                <img id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_ImgCustService" src="/images/CP_CSassociate-Footer2.png" align="bottom" style="border-width:0px;">
             </div>
             <div class="footer_column">
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblhelp" class="text11 basic_text_bold">Customer Service</span><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HypHelp1" class="text11" href="/support">Technical Support</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HypHelp2" class="text11" href="/Returns">Returns</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HypHelp3" class="text11" href="/repairs">Repairs</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hyphelp4" class="text11" href="/Calibration-Service">Calibrations</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hyphelp5" class="text11" href="/ship-policy">Shipping Policy</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hyphelp6" class="text11" href="/Terms">Terms of Sale</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hyphelp7" class="text11" href="/Site-Support">Site Support</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hyphelp8" class="text11" href="/Forgot-Password">Forgot Password</a><br>
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblhelp" class="text11 basic_text_bold">Customer Service</span><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HypHelp1" class="text11" href="/support">Technical Support</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HypHelp2" class="text11" href="/Returns">Returns</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HypHelp3" class="text11" href="/repairs">Repairs</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hyphelp4" class="text11" href="/Calibration-Service">Calibrations</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hyphelp5" class="text11" href="/ship-policy">Shipping Policy</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hyphelp6" class="text11" href="/Terms">Terms of Sale</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hyphelp7" class="text11" href="/Site-Support">Site Support</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hyphelp8" class="text11" href="/Forgot-Password">Forgot Password</a><br>
                 <div id="let_us_help_column_faqs">
-                    <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hyphelp9" class="text11" href="/Service-FAQs">FAQs</a>
+                    <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hyphelp9" class="text11" href="/Service-FAQs">FAQs</a>
                 </div>
             </div>
             <div class="footer_column" id="contact_us_column">
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblcontact" class="text11 basic_text_bold">Contact Us</span><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcontact1" class="text11" href="/Contact">How to Reach Us</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcontact2" class="text11" href="/Contact">Feedback</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcontact3" class="text11" href="/Dealers">Authorized Dealers</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcontact4" class="text11" href="/CatalogRequest/empty">Free Catalog Request</a><br><br>
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_lbllookup" class="text11 basic_text_bold">Look Up My...</span><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hyplook1" class="text11" href="/Transactions">Order</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hyplook3" class="text11" href="/Transactions">Quote</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hyplook4" class="text11" href="/Transactions">Invoice</a>
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblcontact" class="text11 basic_text_bold">Contact Us</span><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcontact1" class="text11" href="/Contact">How to Reach Us</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcontact2" class="text11" href="/Contact">Feedback</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcontact3" class="text11" href="/Dealers">Authorized Dealers</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcontact4" class="text11" href="/CatalogRequest/empty">Free Catalog Request</a><br><br>
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_lbllookup" class="text11 basic_text_bold">Look Up My...</span><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hyplook1" class="text11" href="/Transactions">Order</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hyplook3" class="text11" href="/Transactions">Quote</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hyplook4" class="text11" href="/Transactions">Invoice</a>
             </div>
             <div class="footer_column">
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_LblCoInfo" class="text11 basic_text_bold">Company Info</span><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcoinfo1" class="text11" href="/About">About Us</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcoinfo2" class="text11" href="https://careers.thermofisher.com/joblist.html" target="_blank">Careers</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcoinfo3" class="text11" href="/Press-Release-List">Press Releases</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcoinfo4" class="text11" href="/Green">A "Greener" Business</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcoinfo5" class="text11" href="/Events">Event Calendar</a><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcoinfo6" class="text11" href="/archives">eNewsletter Archives</a><br><br>
-                <!-- <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcoinfo8" class="text11"><b>Purchased from Cole-Parmer before?</b></a><br />
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypcoinfo9" class="text11">Idea Torrent</a><br /><br /> -->
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_LblCoInfo" class="text11 basic_text_bold">Company Info</span><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcoinfo1" class="text11" href="/About">About Us</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcoinfo2" class="text11" href="/Careers" target="_blank">Careers</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcoinfo3" class="text11" href="/Press-Release-List">Press Releases</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcoinfo4" class="text11" href="/Green">A "Greener" Business</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcoinfo5" class="text11" href="/Events">Event Calendar</a><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcoinfo6" class="text11" href="/archives">eNewsletter Archives</a><br><br>
+                <!-- <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcoinfo8" class="text11"><b>Purchased from Cole-Parmer before?</b></a><br />
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypcoinfo9" class="text11">Idea Torrent</a><br /><br /> -->
             </div>
             <div id="stay_informed_column">
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblstayinfo" class="text11 basic_text_bold"><b>Stay Informed</b></span><br>
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblstayinfotext" class="text11">of the latest news, products,<br>special offers and more</span>
-                <a onclick="location.href='/CommunicationPreferences/empty'; return false;" id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Subscribe" title="Subscribe Today" class="Subscribe CSSButton" href="javascript:__doPostBack('ctl00$ctl00$ContentPlaceHolderMain$ContentPlaceHolderFooter$_15a28bf$Subscribe','')" style="display:inline-block;height:50px;width:158px;"><span>Subscribe Today</span></a>
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblstayinfo" class="text11 basic_text_bold"><b>Stay Informed</b></span><br>
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblstayinfotext" class="text11">of the latest news, products,<br>special offers and more</span>
+                <a onclick="location.href='/CommunicationPreferences/empty'; return false;" id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Subscribe" title="Subscribe Today" class="Subscribe CSSButton" href="javascript:__doPostBack('ctl00$ctl00$ContentPlaceHolderMain$ContentPlaceHolderFooter$_38c8eea$Subscribe','')" style="display:inline-block;height:50px;width:158px;"><span>Subscribe Today</span></a>
                 <!--<img src="/images/btn-subscribe-today-envel_155-47.gif" alt="Subscribe Today" />--><br>
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_follow_us" class="follow_us_footertitle text11 basic_text_bold">Follow Us</span><br>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_hlFacebook" href="http://www.facebook.com/coleparmer" target="_blank">
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_follow_us" class="follow_us_footertitle text11 basic_text_bold">Follow Us</span><br>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_hlFacebook" href="http://www.facebook.com/coleparmer" target="_blank">
                      <img src="/images/sm_facebook.jpeg" border="0" alt="Facebook" title="Facebook">
                 </a>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_hlGooglePlus" href="https://plus.google.com/107290561863484354255?prsrc=3" target="_blank">
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_hlGooglePlus" href="https://plus.google.com/107290561863484354255?prsrc=3" target="_blank">
                     <img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:20px;height:20px;">
                 </a>    
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_hlLinkedin" href="http://www.linkedin.com/groups?home=&amp;gid=166468&amp;trk=anet_ug_hm" target="_blank">
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_hlLinkedin" href="http://www.linkedin.com/groups?home=&amp;gid=166468&amp;trk=anet_ug_hm" target="_blank">
                     <img src="/images/sm_linkedin.jpeg" border="0" alt="Linked In" title="LinkedIn">
                 </a>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_hlTwitter" href="http://twitter.com/cole_parmer" target="_blank">
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_hlTwitter" href="http://twitter.com/cole_parmer" target="_blank">
                     <img src="/images/sm_twitter.jpeg" border="0" alt="Twitter" title="Twitter">
                 </a> 
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_hlYoutube" href="http://www.youtube.com/coleparmerinstrument" target="_blank">
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_hlYoutube" href="http://www.youtube.com/coleparmerinstrument" target="_blank">
                     <img src="/images/sm_youtube.jpeg" border="0" alt="You Tube">
                 </a> 
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_hlBlog" href="http://blog.coleparmer.com" target="_blank">
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_hlBlog" href="http://blog.coleparmer.com" target="_blank">
                     <img src="/images/sm_CPblog.jpeg" width="40px" height="20px" border="0" alt="Blog" title="Blog">
                 </a> 
             </div>
         </div>
         <div id="privacy_container">
             <div id="privacy_site_map_copyright">
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypfoot1" class="text11" href="/Privacy">Privacy Policy</a>
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblfoot1" class="linkgrey">|</span>
-                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Hypfoot2" class="text11" href="/Site-Map">Site Map</a>
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblfoot2" class="linkgrey">|</span>
-                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblfoot3" class="linkgrey">© 2014 Cole-Parmer All Rights Reserved.</span>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypfoot1" class="text11" href="/Privacy">Privacy Policy</a>
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblfoot1" class="linkgrey">|</span>
+                <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Hypfoot2" class="text11" href="/Site-Map">Site Map</a>
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblfoot2" class="linkgrey">|</span>
+                <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblfoot3" class="linkgrey">© 2014 Cole-Parmer All Rights Reserved.</span>
             </div>
         </div>
         <div style="float:right; width:auto;">
-            <div id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_security_logos" style="float:none;" class="SecuritySeals">
+            <div id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_security_logos" style="float:none;" class="SecuritySeals">
                 <div id="mcafee_logo">
-                    <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HypMcAfee" href="https://www.mcafeesecure.com/RatingVerify?ref=www.coleparmer.com" target="_blank"><img id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_ImgMcAfee" border="0" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" src="http://images.scanalert.com/meter/survey/www.coleparmer.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" style="height:32px;width:115px;border-width:0px;"></a>
+                    <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HypMcAfee" href="https://www.mcafeesecure.com/RatingVerify?ref=www.coleparmer.com" target="_blank"><img id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_ImgMcAfee" border="0" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" src="http://images.scanalert.com/meter/survey/www.coleparmer.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" style="height:32px;width:115px;border-width:0px;"></a>
                 </div>
-                <div id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_verisign_logo">
+                <div id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_verisign_logo">
                          <span title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
 			        <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.coleparmer.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
 			    <a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></span>
@@ -912,43 +1017,43 @@ Cole-Parmer uses certain Google Analytics features for Display Advertising (e.g.
         <div class="clear_left"></div>
         <div style="float:left">
             <div id="contact_info" style="float:none;">
-              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_LblPrefDealer" class="linkgrey">Cole-Parmer</span><br>
-              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lbldealeraddress" class="linkgrey">625 East Bunker Court Vernon Hills, IL 60061 USA  </span><br>
-              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lbltel" class="linkgrey">Phone</span>: 
-              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lbltelno" class="linkgrey">1-800-323-4340</span>&nbsp;&nbsp;&nbsp;
-              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblfax" class="linkgrey">Fax</span>:
-              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblfaxno" class="linkgrey">1-847-247-2929</span>&nbsp;&nbsp;&nbsp;
-              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblemail" class="linkgrey">E-Mail</span>:
-              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Lblemailtext" class="linkgrey">sales@coleparmer.com</span><br>
+              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_LblPrefDealer" class="linkgrey">Cole-Parmer</span><br>
+              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lbldealeraddress" class="linkgrey">625 East Bunker Court Vernon Hills, IL 60061 USA  </span><br>
+              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lbltel" class="linkgrey">Phone</span>: 
+              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lbltelno" class="linkgrey">1-800-323-4340</span>&nbsp;&nbsp;&nbsp;
+              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblfax" class="linkgrey">Fax</span>:
+              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblfaxno" class="linkgrey">1-847-247-2929</span>&nbsp;&nbsp;&nbsp;
+              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblemail" class="linkgrey">E-Mail</span>:
+              <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Lblemailtext" class="linkgrey">sales@coleparmer.com</span><br>
             </div>
         </div>
         <div class="clear_left"></div>
         <div id="websites">
         <!--
-            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_LblCpwebsite" class="linkgrey">Cole-Parmer Web Sites</span>:
-            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HypUS" class="footerlinkgrey" href="http://www.coleparmer.com/">United States</a>
-            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Label2" class="text11">|</span>
-            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HypCanada" class="footerlinkgrey" href="http://www.coleparmer.ca/">Canada</a>
-            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Label3" class="text11">|</span>
-            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HyperChina" class="footerlinkgrey" href="http://www.coleparmer.com.cn/">China</a>
-            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Label5" class="text11">|</span>
-            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HyperUK" class="footerlinkgrey special" href="http://www.coleparmer.co.uk/">United Kingdom</a>
-            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Label4" class="text11">|</span>
-            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HyperIndia" class="footerlinkgrey" href="http://www.coleparmer.in/">India</a>
+            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_LblCpwebsite" class="linkgrey">Cole-Parmer Web Sites</span>:
+            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HypUS" class="footerlinkgrey" href="http://www.coleparmer.com/">United States</a>
+            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Label2" class="text11">|</span>
+            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HypCanada" class="footerlinkgrey" href="http://www.coleparmer.ca/">Canada</a>
+            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Label3" class="text11">|</span>
+            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HyperChina" class="footerlinkgrey" href="http://www.coleparmer.com.cn/">China</a>
+            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Label5" class="text11">|</span>
+            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HyperUK" class="footerlinkgrey special" href="http://www.coleparmer.co.uk/">United Kingdom</a>
+            <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Label4" class="text11">|</span>
+            <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HyperIndia" class="footerlinkgrey" href="http://www.coleparmer.in/">India</a>
         -->
         </div>
         <!--<div id="websites2">
                 <div id="column1" class="text11">
-                    <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_HypMasterflex" class="text11" href="http://www.masterflex.com">Masterflex.com</a><br />
-                    <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Label9" class="linkgrey">Exclusive Peristaltic Pumps</span>
+                    <a id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_HypMasterflex" class="text11" href="http://www.masterflex.com">Masterflex.com</a><br />
+                    <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Label9" class="linkgrey">Exclusive Peristaltic Pumps</span>
                 </div>
                 <div id="column2" class="text11">
                     <a href="http://www.FoodTechSource.com" target="_blank" class="text11">FoodTechSource.com</a><br />
-                    <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Label10" class="linkgrey">Food Quality Site</span>
+                    <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Label10" class="linkgrey">Food Quality Site</span>
                 </div>
                 <div id="column3" class="text11">
                     <a href="http://www.InnocalSolutions.com" target="_blank" class="text11">InnoCalSolutions.com</a><br />
-                    <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Label11" class="linkgrey">Calibration and Certification</span>
+                    <span id="ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Label11" class="linkgrey">Calibration and Certification</span>
                 </div>
             </div>-->
             <div class="clear_left"></div>
@@ -962,11 +1067,18 @@ Cole-Parmer uses certain Google Analytics features for Display Advertising (e.g.
      
      
 
-   </div> 
+        <script>
+            $(".cp-accordion").accordion({
+                heightStyle: "content",
+                collapsible: true,
+                active: false
+            });
+        </script>
 
     
+
   
-<script type="text/javascript" src="/bundles/Scripts?v=gzPd1JX3qYdO2toPYQ0dBTZVI_lP4RKg2RK1ujzs9VQ1"></script>
+<script type="text/javascript" src="/bundles/Scripts?v=rMlK00GK7LanUmjMwFEaaiKvsiNw7ZQ7FqcBRL9VGT81"></script>
 <!-- BEGIN: Marin Software Tracking Script --> 
 <script type="text/javascript">
 var _mTrack = _mTrack || [];
@@ -996,24 +1108,6 @@ ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'st
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1067963941;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style='display:inline;'>
-<img height='1' width='1' style='border-style:none;' alt='' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067963941/?value=0&amp;guid=ON&amp;script=0'/>
-</div>
-</noscript>
 <!-- BEGIN: Eloqua Software Tracking Script --> 
 <script type="text/javascript">
 var _elqQ = _elqQ || [];
@@ -1036,11 +1130,14 @@ function elqVisitorTrackingOptOut() { _elqQ.push(['elqOptOut']); }
 
 <script type="text/javascript">
 //<![CDATA[
-  function addClickFunction(id) {{ var b = document.getElementById(id); if (b && typeof(b.click) == 'undefined') b.click = function() {{     var result = true; if (b.onclick) result = b.onclick();     if (typeof(result) == 'undefined' || result) {{ eval(b.getAttribute('href')); }} }}}};addClickFunction('ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__15a28bf_Subscribe');jkmegatopmenu.definemenu("Anc1","menu1","mouseover");
+  function addClickFunction(id) {{ var b = document.getElementById(id); if (b && typeof(b.click) == 'undefined') b.click = function() {{     var result = true; if (b.onclick) result = b.onclick();     if (typeof(result) == 'undefined' || result) {{ eval(b.getAttribute('href')); }} }}}};addClickFunction('ctl00_ctl00_ContentPlaceHolderMain_ContentPlaceHolderFooter__38c8eea_Subscribe');jkmegatopmenu.definemenu("Anc1","menu1","mouseover");
 jkmegatopmenu.definemenu("Anc2","menu2","mouseover");
 jkmegatopmenu.definemenu("Anc3","menu3","mouseover");
 jkmegatopmenu.definemenu("Anc4","menu4","mouseover");
 (function() {var fn = function() {$get('ctl00_ctl00_ScriptManager1_HiddenField').value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();addClickFunction('ctl00_ctl00_MasterViewCart');addClickFunction('ctl00_ctl00_btnMasterSearch');
+jkmegamenu.definemenu("Anchor59366Popular","59366Popular","mouseover");
+jkmegamenu.definemenu("Anchor59361Popular","59361Popular","mouseover");
+jkmegamenu.definemenu("Anchor1445Popular","1445Popular","mouseover");
 jkmegamenu.definemenu("Anchor75","75","mouseover");
 jkmegamenu.definemenu("Anchor213","213","mouseover");
 jkmegamenu.definemenu("Anchor59342","59342","mouseover");
@@ -1076,8 +1173,17 @@ jkmegamenu.definemenu("Anchor59366","59366","mouseover");
 addClickFunction('ctl00_ctl00_btnMasterOrderStatus');//]]>
 </script>
 
+<script src="/Privacy?_TSM_HiddenField_=ctl00_ctl00_ScriptManager1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.0.30930.28736%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3ab0eefc76-0092-471b-ab62-f3ddc8240d71%3a865923e8%3a91bd373d%3aff62b0be" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_TextBoxWatermarkExtenderSearch_ClientState","WatermarkCssClass":"watermarked","WatermarkText":"Search by Keywords, Item #, or Part #","id":"ctl00_ctl00_TextBoxWatermarkExtenderSearch"}, null, null, $get("ctl00_ctl00_txtMasterSearch"));
+});
+//]]>
+</script>
+
   
 
 
 
-</div></form><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><div id="menu1" class="megatopmenu" _megamenupos="0pos" style="z-index: 1001; display: none;"></div><div id="menu2" class="megatopmenu" _megamenupos="1pos" style="z-index: 1002; display: none;"></div><div id="menu3" class="megatopmenu" _megamenupos="2pos" style="z-index: 1003; display: none;"></div><div id="menu4" class="megatopmenu" _megamenupos="3pos" style="z-index: 1004; display: none;"></div><iframe id="outlineiframeshim" style="display:none; left:0; top:0; z-index:999; position:absolute; filter:progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)" frameborder="0" scrolling="no"></iframe><iframe id="outlineiframeshim" style="display:none; left:0; top:0; z-index:999; position:absolute; filter:progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)" frameborder="0" scrolling="no"></iframe><script type="text/javascript" src="/scripts/browser_update.min.js"></script></body></html>
+</div></div></form><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><script type="text/javascript" src="/scripts/browser_update.min.js"></script></body></html>
