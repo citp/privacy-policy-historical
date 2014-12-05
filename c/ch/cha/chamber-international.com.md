@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamber-international.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603112805id_/http%3A//www.chamber-international.com/export-trade-and-import-trading-expertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamber-international.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205044606id_/http%3A//www.chamber-international.com/export-trade-and-import-trading-expertise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
