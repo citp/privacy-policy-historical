@@ -1,149 +1,70 @@
-> *The following text is extracted and transformed from the animaker.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaker.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205195858id_/http%3A//www.animaker.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Animaker - Privacy Policy
 
-#### Find Answers To Your Questions:
+Your privacy is very important to us. Animaker want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use Animaker's vast array of information, tools, and opportunities with complete confidence.
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+We have created this Privacy Policy to demonstrate Animaker firm commitment to privacy and security. This Privacy Policy describes how Animaker collects information from all end users of Animaker's services (the "Services") - those who access some of Animaker Services but do not have accounts ("Visitors") as well as those who pay subscription fee to subscribe to the Service ("Members") - what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. Animaker requests that you read this Privacy Policy carefully.
 
-### Privacy Policy
+### Introduction
 
-**Why A Privacy Policy?**  
+You may visit the Animaker website without a need to disclose any personal information or any information of such sort. Animaker collects information in different ways from Visitors and Members who access various parts of Animaker's Services and the network of Web sites accessible through Animaker's Service. We use this information primarily to provide a customized experience as you use Animaker Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below. Animaker always strive to provide the best user experience and of high quality and to allow Animaker to provide the same, Animaker collects aggregate information about the use of the Services, including information about users accessing the site or viewing animations or using our Services on other sites.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+### Registration
 
- **This Privacy Policy protects your privacy by:**
+Members are asked to provide certain personal information when they sign up for Animaker Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. However, in instances where Animaker and a partner jointly promote the Services, Animaker may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing Animaker and the partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose. Animaker may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names of Members). As explained in more detail below, Animaker may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
 
- **Informing you about:**
+### Online Advertisements
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+Animaker displays Animaker online advertisements. Animaker share aggregated and non-identifying information about Animaker Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. Additionally, in some instances, Animaker use this aggregated and non-identifying information to deliver tailored advertisements. Animaker does not share personal information about its Visitors or Members with these advertisers.
 
+### Contests And Promotions
 
+Animaker may organize contests, giveaways, sweepstakes or other similar promotions from time to time and do promotions on this Site. Participation in such contests organized by Animaker is voluntary and you may require sharing your personal information with us or third parties sponsoring the contest, giveaway, or promotion, if you are participating and we will use such personal information in accordance with the rules for such contest, giveaway, sweepstakes or other promotion. You are to check the rules and regulations to determine how your information will be used and shared with others. If a third party administers the contest, your participation may be subject to additional terms and conditions and that third party's privacy policy. Animaker is not responsible for such third parties. You should carefully review these third parties' terms and conditions.
 
-**Empowering you to choose:**
+### Responses To Email Inquiries
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+When Visitors or Members send email inquiries to Animaker, the return email address is used to answer the email inquiry that Animaker receives. Animaker does not use the return email address for any other purpose and does not share the return email address with any third party.
 
+### Voluntary Customer Surveys
 
+Animaker may periodically conduct both business and individual customer surveys. Animaker encourage its customers to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in Animaker customer surveys is voluntary.
 
-**Assuring you that Network Solutions:**
+We take the information we receive from individuals responding to Animaker Customer Surveys and combine (or aggregate) it with the responses of other Animaker customers to create broader, generic responses to the survey questions. Animaker then use the aggregated information to improve the quality of Animaker services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+### Special Cases
 
+It is Animaker's policy not to use or share the personal information about Visitors or Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, Animaker may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through Animaker Services, for any reason if, in Animaker sole discretion, it is believed that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Animaker Acceptable Use Policy or other user policies; to operate the Services properly; or to protect Animaker and Animaker Members.
 
+### Cookies
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Animaker may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage Animaker networks. If you are a Member and have created your own Personal Start Page, we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-Animaker Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
 
-  
-**Third Party Advertising and Cookies**
+### Animaker's Commitment To Children's Privacy
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+Protecting children's privacy is especially important to us. It is Animaker policy to comply with the Children's Online Privacy Protection Act of 1998 of USA and all other applicable laws. These services are not intended for children who have not attained the age of Majority on the day of signing up. Animaker does not knowingly collect any information from children of under the age of Majority. Finally, Animaker recommends that children ask a parent for permission before sending personal information to Animaker, or to anyone else online.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+### Public Forums
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+Please remember that any information you may disclose in Animaker Member Directory, or other public areas of Animaker Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+### ANIMAKER'S COMMITMENT TO DATA SECURITY
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under Animaker control. While we make every effort to ensure the integrity and security of Animaker network and systems, we cannot guarantee that Animaker security measures will prevent third-party "hackers" from illegally obtaining this information.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+### How To Access Or Modify Your Information
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+Animaker offers Members the opportunity to access or modify information provided during registration. To access or modify such information, visit www.animaker.com or contact Animaker Customer Service Department at Email and Contact no.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+### Revisions And Updates To This Policy
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+In order to catch up with the technology and internet's rapidly evolving nature, Animaker may need to update its Privacy Policy from time to time. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be deemed to have accepted the change. Animaker reserves the right to revise, amend, or modify this policy and other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on Animaker's website and may send registered users and email in accordance with the Agreement so that to make you aware as to what information Animaker may collect.
 
- **Getting to Know Our Customers**
+If you have any questions about this Privacy Policy or the practices described herein, you may contact:
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+187 E. Warm Springs Rd,  
+Suite B192, Las Vegas,   
+ NV, 89119 USA.  
+[info@animaker.com](mailto:info@animaker.com)
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
-
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+Last Modified: May 22, 2014.
