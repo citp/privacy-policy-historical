@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627004322id_/http%3A//www.hrc.org/the-hrc-story/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205232435id_/http%3A//www.hrc.org/the-hrc-story/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Rights Campaign
 
@@ -46,7 +46,7 @@ You will only receive email newsletters from us if you have a) expressly signed 
 
 
 
-HRC never shares email addresses and telephone numbers gathered from subscribers with other organizations or parties. HRC may share mailing addresses with organizations or parties it considers to be supportive of its broader mission.
+HRC never shares email addresses and telephone numbers gathered from subscribers with other organizations or parties. HRC may share mailing addresses with organizations or parties it considers to be supportive of its broader mission. HRC may also share information with trusted third-party vendors who contact you on behalf of HRC.
 
 HRC follows the Association of Fundraising Professional's (AFP) Ethical Guidelines to the Code of Ethical Principles and Standards of Professional Practice. Occasionally, HRC does exchange or rent mail lists to like-minded organizations through bonded third-party vendors. From time to time, HRC may partner with for-profit companies to provide you with special offers available to members, such as our HRC affinity credit card or special offers on insurance.  These organizations are never given direct access to HRC’s membership database. HRC itself screens each mailing before we allow it to be sent to our membership. Information pertaining to current HRC board members, major donors, Federal Club members, Partners, and/or $250+ donors is never — under any circumstance — released to external entities for the purpose of list rentals or exchanges.
 
