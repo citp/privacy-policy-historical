@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerschool.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050840id_/http%3A//powerschool.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerschool.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205023911id_/http%3A//powerschool.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Pearson - Privacy Policy
 
