@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointhebreed.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529211107id_/http%3A//jointhebreed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhebreed.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205145347id_/http%3A//jointhebreed.com/privacy-policy) for the most accurate reproduction.*
 
 # The Breed Privacy Policy
 
