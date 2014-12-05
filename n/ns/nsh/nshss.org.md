@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508174836id_/http%3A//www.nshss.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205192938id_/http%3A//www.nshss.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - National Society of High School Scholars
-
-## Privacy Policy
+# Privacy Policy National Society of High School Scholars
 
 This is the web site of **The National Society of High School Scholars**.
 
 Our postal address is:  
-**National Headquarters  
+ **International Headquarters  
 1936 North Druid Hills Road   
 Atlanta, Georgia  30319**
 
-We can be reached via e-mail at support@nshss.org or you can reach us by telephone at 404-235-5500.
+We can be reached via e-mail at support@nshss.org or you can reach us by telephone at 404-235-5500 or 1-866-343-1800.
 
 The National Society of High School Scholars (“NSHSS”) takes your privacy seriously. Please read the following to learn more about our privacy policy (the “Privacy Policy”).
 
@@ -21,13 +19,13 @@ In general, NSHSS does not share your personally identifying information with th
 
 _What does this Privacy Policy cover?_  
 
-This Privacy Policy applies to the collection, use, storage, and disclosure of your information by NSHSS. By using our website, you consent to the collection and use of information as outlined in this Privacy Policy. We will clearly disclose any exceptions to the Privacy Policy prior to collecting any information from our users. 
+This Privacy Policy applies to the collection, use, storage, and disclosure of your information by NSHSS. By using our website, you consent to the collection and use of information as outlined in this Privacy Policy. We will clearly disclose any exceptions to the Privacy Policy prior to collecting any information from our users.
 
 NSHSS may decide to modify or amend this Privacy Policy from time to time. When we do, we will post any changes or new language here.
 
 _What information does NSHSS collect?_
 
-NSHSS may collect contact information including your name, address, e-mail address, and other personally identifying information.  We collect this information when you become a member of NSHSS; place orders for products; register for seminars or other events; request information from us; or submit information through our website. 
+NSHSS may collect contact information including your name, address, e-mail address, and other personally identifying information.  We collect this information when you become a member of NSHSS; place orders for products; register for seminars or other events; request information from us; or submit information through our website.
 
 _What does NSHSS do with the information it collects?_
 
@@ -42,12 +40,9 @@ _How do I find out more about NSHSS's information practices?_
 If you have any questions about anything in this Privacy Policy, or about our collection of personally identifiable information, or information generally, please contact NSHSS as follows:
 
 NSHSS   
-National Headquarters  
+International Headquarters  
 1936 North Druid Hills Rd.   
 Atlanta, GA 30319  
 E-mail: support@nshss.org
 
-This Privacy Policy was last revised on March 15, 2012.
-
-  
-
+This Privacy Policy was last revised on June 2, 2014.
