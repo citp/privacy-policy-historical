@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratzillacosme.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617231013id_/http%3A//www.ratzillacosme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratzillacosme.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205085905id_/http%3A//www.ratzillacosme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,8 +26,6 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 [ebay](http://rover.ebay.com/rover/1/706-53473-19255-0/1?icep_ff3=1&pub=5575007827&toolid=10001&campid=5337069668&customid=&ipn=psmain&icep_vectorid=229529&kwid=902099&mtid=824&kw=lg)
-
-[](http://www.hupso.com/share/)
 
   * **Skin Type(s):**
   * **Beauty SOS:**
