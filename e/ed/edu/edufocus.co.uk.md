@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edufocus.co.uk privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530194857id_/http%3A//edufocus.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edufocus.co.uk privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205062154id_/http%3A//edufocus.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # eduFOCUS
 
