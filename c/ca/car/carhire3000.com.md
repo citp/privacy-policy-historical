@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604144137id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206111943id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Great Prices on Car Hire Worldwide
 
@@ -62,12 +62,18 @@ In accordance with UK and European data protection laws, we observe reasonable p
 
 We use appropriate business systems and procedures to protect and safeguard the personal information you give us. We also use security procedures and technical and physical restrictions for accessing and using the personal information on our servers. Only authorised personnel are permitted to access personal information in the course of their work.
 
+## Marketing Emails
+
+**How can you control marketing emails?**
+
+Upon completion of a quote or rental car booking we provide options to opt out of marketing and sales emails, if you have remained opted in, we hope you enjoy receiving our emails, but if you would prefer not to be kept up-to-date with our special offers, you can opt out, or unsubscribe, from marketing communications at any time using the ‘Unsubscribe’ link in each newsletter. 
+
 ## Contact
 
 **How can you control the personal information you have given to rentalcars.com?**
 
-You always have the right to review the personal data you have stored with us. You can request your personal data, to the extent we have retained such information, by emailing us at marketing@rentalcars.com. Please state ‘Request personal information’ in the subject line of your email.
+You always have the right to review the personal data you have stored with us. You can request your personal data, to the extent we have retained such information, by emailing us at dataprotectionofficer@rentalcars.com. Please state ‘Request personal information’ in the subject line of your email.
 
 If your personal information is incorrect, we will change it upon your request. You can also ask us to remove your personal information from our database by sending us an email to the email address set out above.
 
-Should you have any questions, concerns or comments about our practices or this Privacy Policy, please email us at marketing@rentalcars.com. Please state ‘Privacy’ in the subject line of your email. rentalcars.com has its offices at Sunlight House, Quay Street, Manchester, M3 3JZ, United Kingdom.
+Should you have any questions, concerns or comments about our practices or this Privacy Policy, please email us at dataprotectionofficer@rentalcars.com. Please state ‘Privacy’ in the subject line of your email. rentalcars.com has its offices at Sunlight House, Quay Street, Manchester, M3 3JZ, United Kingdom.
