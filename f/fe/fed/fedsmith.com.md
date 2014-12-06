@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606011039id_/http%3A//www.fedsmith.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206085008id_/http%3A//www.fedsmith.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FedSmith.com
+# Privacy Policy : FedSmith.com
 
 FedSmith Inc. is committed to our users’ privacy. We handle information submitted to us from our users with care. By visiting and using the FedSmith Inc. Web site, you agree to the terms stated in this privacy policy.
 
@@ -23,25 +23,3 @@ FedSmith Inc. collects information about our site visitors whenever they view ou
 “Cookies” are data sent to your web browser from a web server (such as Google) that can uniquely identify your computer and store information about user preferences. Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a “Privacy” setting in your browser setup.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
-
-#### Free Email Updates
-
-[Unsubscribe or Update Email](https://web.archive.org/email-lists/)
-
-#### Daily TSP Rates
-
-June 5, 2014
-
-Fund | Last | Change | YTD  
----|---|---|---  
-L Income | 17.1612 | +0.0245 | +2.05%  
-L 2020 | 22.5274 | +0.0766 | +3.36%  
-L 2030 | 24.3808 | +0.1081 | +3.93%  
-L 2040 | 25.9019 | +0.1350 | +4.30%  
-L 2050 | 14.7163 | +0.0853 | +4.64%  
-G Fund | 14.4318 | +0.0009 | +1.01%  
-F Fund | 16.3303 | +0.0208 | +3.74%  
-C Fund | 25.3001 | +0.1657 | +5.97%  
-S Fund | 34.8179 | +0.4375 | +3.41%  
-I Fund | 26.6774 | +0.0684 | +4.35%  
-[More TSP Rates](https://www.tspdatacenter.com/daily_rates) | [Track Your Investments](http://www.tspdatacenter.com/)
