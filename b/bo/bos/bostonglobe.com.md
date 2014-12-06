@@ -1,205 +1,167 @@
-> *The following text is extracted and transformed from the bostonglobe.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628042007id_/http%3A//www.bostonglobe.com/tools/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonglobe.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206162836id_/http%3A//www.bostonglobe.com/tools/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Help - The Boston Globe
 
-This policy was last updated on **February 27, 2014**.
+This policy was last updated on **July 29, 2014**.
 
-This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, BetaBoston.com, BDCwire.com, and our mobile messaging services, and smartphone applications (collectively, the “Services”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Boston Globe” include Boston.com, BDCwire.com, BetaBoston.com, BostonGlobe.com (the “Web Sites”) as well as The Boston Globe newspaper and Boston Globe Services.
+This policy describes the privacy practices of The Boston Globe (a subsidiary of Boston Globe Media Partners, LLC) (the “Boston Globe,” “our,” or “we”). It explains how we collect, use, and store information we collect about our readers. This policy covers our privacy practices in connection with The Boston Globe newspaper and the Boston Globe’s digital properties (including Boston.com, BostonGlobe.com, betaboston.com, bdcwire.com, and cruxnow.com), and mobile applications (including Boston Globe ePaper and Boston.com News).
 
-[](https://privacy.truste.com/privacy-seal/Boston-Globe/validation?rid=aaadf9ff-1034-4258-97ea-609e826af356 "TRUSTe online privacy certification")
+In this privacy policy, you will find the answers to the following questions:
 
-The Boston Globe has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected on [www.boston.com](http://www.boston.com/), [www.bostonglobe.com](http://www.bostonglobe.com/) and [www.bostonglobe.com/services](http://www.bostonglobe.com/services). If you have questions or complaints regarding our privacy policy or practices, please contact us at [feedback@boston.com](mailto:feedback@boston.com). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+1\. What information do we gather about you?
 
-The TRUSTe program covers only information that is collected through the aforementioned Web Sites, and does not cover information that may be collected through software downloaded from this site or through our mobile applications. 
+2\. How do we gather information?
 
-This policy is subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
+3\. What do we do with the information we gather? 
 
-In this Privacy Policy, you will find the answers to the following questions: 
+4\. With whom do we share the information we gather?
 
-• What information do we gather about you? 
+5\. How do you change, update, or delete your personal information?
 
-• What do we do with the information we gather? 
+6\. What else should you know about the Boston Globe’s privacy practices?
 
-• With whom do we share the information that we gather? 
+7\. How can you find out about changes to this privacy policy?
 
-• How do I change or update my personal information? 
+8\. Who should you contact if you have questions?
 
-• Other information: Compliance with Legal Process
+**___________________________________________________**
 
-For further information, you can view our [Terms of Service](http://www.bostonglobe.com/tools/help/terms-service) and read our [Frequently Asked Questions about Cookies](http://www.boston.com/help/cookie_faq/).
+**1\. WHAT INFORMATION DO WE GATHER ABOUT YOU?**
 
-Third party sites that offer services on our websites are governed by their own privacy policies. We are not responsible for the content or the privacy policies of websites to which the Services may link.
+_The information we gather falls into two categories:_
 
-These sites include:
+**Personal information** is information that identifies you. We collect this information only when you choose to provide it to us. For example, we collect personal information when you subscribe to The Boston Globe or email newsletters, place an order, complete a survey, register for one of our websites, or sign in to a website or mobile application through a third party tool such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
-Boston.com/Monster: <http://hiring.boston.monster.com/privacy/privacy.aspx>[](http://www.cars.com/go/about/privacy.jsp?aff=boston)
+**Non-personal information** is information that our technology collects in aggregate, without identifying you. Non-personal information includes your Internet connection, the device you use to access our digital properties, and tracking data relating to your use of our digital properties. 
 
-ProQuest Archiver: <http://pqasb.pqarchiver.com/boston/about.html>
+_We gather the following types of information:_
 
-Zvents: <http://calendar.boston.com/support/privacy>
+**Contact & Demographic Information:** When you subscribe to The Boston Globe or register on a Boston Globe website or application, you will need to provide us with personal information such as your name, address, and email. You may also need to provide some basic demographic information, such as your postal code, birth year, and gender. For registration for promotions, special events, and consumer panels or surveys, we sometimes require additional information, such as your household income, professional industry, and job title. 
 
-**WHAT INFORMATION DO WE GATHER ABOUT YOU?**
+**Billing Information:** In order to subscribe, post a classified advertisement, or make a purchase, you must provide your credit card number or other billing information. 
 
-The information gathered by the Services falls into two categories: (1) Personal information, which includes personal information you supply when you subscribe, order, complete a survey, register for one of our sites, enter a contest or provide your e-mail address and (2) Non-personal information collected through technology, which includes tracking information collected as you use the Services.
+**Location Information** : If you use our mobile applications, you may choose to provide us with access to your specific geolocation information so that we can deliver customized content to you based on your current location. 
 
-_**Personal Information That You Give Us**_
+**Public Information:** You may create a public profile with us to comment on articles or share content on our forums or discussion groups (“Public Profile”). You can learn about customizing, editing, deleting, and using your public profile [here](http://www.boston.com/help/public_profile_faq/). Please be careful when posting personal information, as this information may be read, collected, and used by others. Third party companies offer services through which you can share information about your activities on our digital properties. 
 
-**Registration Information** : There is a free registration process required to access the full range of information and services offered across Boston Globe Web sites.
+**Usage Information:** We may log certain non-personal information about your use of the Boston Globe digital properties. In addition, if you contact the Boston Globe, we may log information about the means through which you contacted us and our interaction with you.
 
-**Boston.com and BostonGlobe.com** require that you supply a unique e-mail address, your first and last name, and basic demographic information (zip code, birth year, and gender) in order to register. In addition, we may ask you to supply optional information on household income, job industry, and job title. In addition, BostonGlobe.com requires that you supply your credit card number or other billing information, address, and phone number. You must also agree to our [Terms of Service](http://www.bostonglobe.com/tools/help/terms-service) as part of the registration process.
+**Device Information:** We may collect non-personal information about the computer, mobile device, or other device you use to access the Boston Globe digital properties. This information may include your IP address, basic geolocation information, unique device identifiers, browser type, browser language, and other transactional information. 
 
-**Boston Globe newspaper subscriber information** : We generally obtain your name, address, telephone number, credit card number or other billing information in order to process your newspaper subscription request. As a subscriber, we request that you also provide us with your e-mail address. If you use the Boston Globe Services Web site to manage your home delivery service, your newspaper subscriber information will be used to process online customer service requests relating to issues such as missing or late deliveries, and vacation stops and restarts.
+**Third Party Information:** Our sharing tools are an easy way for users of the Boston Globe digital properties to send links to articles, photos and other content. The e-mail address(es) that you supply will only be used to send the requested content. We do not store this information.
 
-**Registration for our Web sites via Third-Party Tools** : To help facilitate Boston.com registration, you can log in to our sites using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on our Web Sites to your profile page to share with others within your network. 
+**Contests, Sweepstakes, and Special Offers:** On occasion, we collect personal information from users or subscribers in connection with optional sweepstakes, contests, or special offers. We will not share this information with a third party unless we notify you otherwise at the time of collection. If you do not want us to share any information we collect in connection with such a promotion, you may decline to participate.
 
-**Premium Products and Services** : We collect and store billing and credit card information where required for certain purchase transactions (such as paying for a subscription or classified advertisement). This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments.
+**Online Customer Panels:** We occasionally offer users the opportunity to participate in online research panels. Participants agree to respond to periodic surveys about their usage of Boston Globe products, their household/personal characteristics and their purchase behavior. Participants are contacted primarily via email, but may also occasionally be contacted by telephone or postal mail (if participants provide that information). All survey data is used in aggregate form only, and no personal information is made public or shared with third-parties. We require that participants provide their email address only; name, home address and telephone number are optional.
 
-**User Generated Content (Including comments, profiles, and photo uploads)** : 
+**2\. HOW DO WE GATHER INFORMATION?**
 
-We offer opportunities for you to engage in public activities on our Web Sites, including submitting comments and photos in a number of areas throughout the Services. Any information you disclose in your submissions, along with your screen name or ID, or any image or photo, becomes public and may be used by The Boston Globe for online and offline promotional or commercial uses in any and all media.
+**You voluntarily provide information to us**. You may choose to provide us with contact, demographic, billing, or other personal information to order Boston Globe products or take advantage of our services. For example, you may enable location-based mobile features to provide us with access to your location information so that we can deliver customized content through Boston Globe mobile applications. (Your location information will be stored on your mobile device, unless you elect to have it saved to your search history and stored on Boston Globe servers.) If you contact the Boston Globe, we may collect information about our interaction with you.
 
-“Public activities” are actions you take on our Web Sites that are designed to be visible to other users, including but not limited to comments on articles or blogs, participation in forums or discussion groups, and photo uploads. This feature may be disabled on the “edit profile” page. We may also feature, either through automation or by editor selection, specific user profiles or public activities to be promoted anywhere on the Services. If you choose to engage in public activities, we will track and aggregate these public activities on your profile page.
+**We use technology to gather non-personal information.** We may use cookies, web beacons, clear gifs, and other technologies to log non-personal information about your use of Boston Globe digital properties. You will not be able to access certain areas of Boston Globe websites if your computer does not accept cookies from us. For more information about our use of cookies, see [Frequently Asked Questions about Cookies.](http://www.boston.com/help/cookie_faq/)
 
-If you choose to engage in public activities, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages. We are not responsible for this information. For more information, see the [Posting Policy](http://www.boston.com/help/message_board_rules/) and read the User Generated Content section of the [Terms of Service](http://www.boston.com/help/memberagreement/#three). To request removal of any personal information you submitted through engaging in public activities such as forums, contact us at [feedback@boston.com](mailto:feedback@boston.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+**Log files.** As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
 
-When you share or recommend (with or without adding your own comments) any articles or content from the Services to your Facebook profile, that action is governed by the Facebook Privacy Policy. We do not track or store a record of those comments or actions. 
+**We allow third parties to gather information.** Some of the services and advertisements on Boston Globe digital properties are operated by third party companies, including service providers, analytics providers, and marketing partners, which may track certain non-personal information about our website users through cookies, web beacons, or other methods. These third-parties are gathering this information for the purpose of understanding how users are using our sites, and making improvements to our site.
 
-Social Media Features and Widgets: Our Web Sites includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+\- For example, social media features, such as the Facebook “like” button, are operated by third parties. These features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the features to function properly. Actions taken through Facebook or other third party services are governed by the privacy policies of the third parties.
 
-**Contests, Sweepstakes, and Special Offers** : On occasion, The Boston Globe collects personal information from users or subscribers in connection with optional sweepstakes, contests, or special offers. If this information is to be shared with a third party other than The Boston Globe we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest, or special offer.
+\- A third party may also collect information about you when you interact with us via your mobile phone. For instance, your wireless carrier enables text messaging and other services, and collects data about your mobile phone usage. 
 
-**Special Events and Promotions** : We often receive contact information regarding customers who attend Special Events and Promotions. Such information will be used as indicated at the time of collection.
+\- Some sections of our websites are operated by third parties. For example, if you are searching for a job, you will be redirected to monster.com, which is framed within the boston.com website. 
 
-**Online Customer Panels** : We occasionally offer readers and customers the opportunity to participate in online research panels. These customers agree to participate in periodic surveys about their usage of products produced by The Boston Globe, their household/personal characteristics and their purchase behavior. Panel members are primarily contacted via e-mail, but may occasionally be contacted by telephone or postal mail. All survey data is reported/used in aggregate form only, and no personally identifiable information is released. As a panel member, we require that you supply us with your e-mail address only; name, home address and telephone number are optional. 
+Third parties collect, use, and store information according to their own privacy policies. We do not have control over third party privacy practices. You may contact a third party directly to opt-out of future messages from them. Please [click here](http://www.boston.com/help/privacyinformation1/) to see a list of third parties that may use cookies to serve advertising on our digital properties. For example, Google is one of the companies that serves advertisements on Boston Globe digital properties. It uses the DART cookie and other technologies to serve ads based on your visit to Boston Globe digital properties and other websites. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy. ](http://www.google.com/ads/preferences)
 
-**Market Research and User Surveys** : Reader surveys and market research are valuable tools that help us better respond to consumer needs and opinions and help shape our product offerings. We may collect additional personal information from members in connection with optional reader surveys and market research activities. Information that you provide to answer optional survey or market research questions may be shared, in aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
+If you would like more information about advertisers’ use of cookies, and about your option not to accept these cookies, please[ click here](http://www.networkadvertising.org/consumer/opt_out.asp). If you would like to opt-out of having interest-based information collected during your visits to this or other sites,[ click here](http://www.aboutads.info/choices/). Your access to Boston Globe digital properties should not be affected if you do not accept cookies served by third parties.
 
-**Jobs, Cars, and Real Estate:** While you are visiting certain sections of our Web Sites, please be aware that these areas are run by third parties. For instance if you are searching for a job you will be directed to use the monster.com Web site, which is framed within the Boston.com jobs section. All information collected in these areas is covered by the privacy policies of such third parties. Boston.com has no access or control over the information collected.
+**3\. WHAT DO WE DO WITH THE INFORMATION WE GATHER?**
 
-_**Non-Personal Information Collected Using Technology**_
+**Our approach to sharing information with third parties**. We do not sell, license, rent, or swap your personal information without your permission, except as set out in this policy or as required by law. We do share non-personal information with third parties.
 
-**Device Information** : We may collect non-personal information about the computer, mobile device, or other device you use to access the Services, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
+**Specific ways in which we use personal information**. We use personal information for the following purposes:
 
-**Cookies** : In providing the Services, we use “cookies,” Web beacons and other similar technologies to recognize you and provide personalization, as well as to help us understand where our visitors are going and how much time they spend there. You will not be able to access certain areas of our Web sites if your computer does not accept cookies from us. For more detailed information about our use of cookies, see [Frequently Asked Questions about Cookies](http://www.boston.com/help/cookie_faq/) in our Help section.
+\- To provide the products and services you request and communicate with you about those products and services.
 
-We use a commercial advertising server to display ads on our sites and we use cookies to manage the display and frequency of advertisements that we sell and/or serve. 
+\- To provide you with updates about major changes to Boston Globe properties or to discuss your account or renew your subscription.
 
-We also reserve the right to place a cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular webpage.
+\- To email you information about products and services that may be of interest to you. These product and services may be provided by the Boston Globe, or our advertisers, partners, or other third parties. You may opt-out at any time from any primarily commercial messages and user surveys by following the opt-out instructions in the email.
 
-We use clear gifs in our HTML-based e-mails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+\- To improve our services and personalize your experience with us. 
 
-**Usage Data** : 
+\- To disclose your opt-out information to third parties so they can suppress your name from future solicitations. 
 
-We currently have a contract with Adobe, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers on our Web Sites. We use this information to track the traffic, usability, performance, and effectiveness of our Web Sites. 
+We will not use your phone number to initiate a call or text message exchange with you without your express prior consent.
 
-All data collected by Adobe on behalf of our Web Sites is owned and used by The Boston Globe. We reserve the right to publish non-personally identifiable, summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate. Adobe uses cookies to help track visitor behavior and sets cookies on behalf of our Web Sites. For more information about Adobe’s privacy policy, including how to opt out, go to <http://adobe.com/privacy/analytics.html>.
+**Specific ways in which we use non-personal information.** We use non-personal information for the following purposes:
 
-We use Localytics and Flurry to track usage and browsing patterns on some of our mobile applications. For more information about Localytics and its privacy policy, please go to <http://www.localytics.com/privacy-policy>. For more information about Flurry and its privacy policy, please go to <http://www.flurry.com/about-us/legal/privacy.html>. Flurry and Localytics may independently record the type of device and operating system you are using, general location information, as well as events that occur within our apps, such as how often you use our apps. We do not receive that information.
+\- To analyze statistical, demographic, and marketing information for product development purposes and to understand usage and traffic trends and improve our relationship with you.
 
-The Boston Globe currently uses Google Analytics, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our Boston.com Finds users. We use this information to track the traffic, usability, performance, and effectiveness of our programs. We reserve the right to publish non-personally identifiable, summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate.
+\- To inform advertisers about the nature of our subscriber base and the number of unique visitors that have viewed a particular ad or visited a particular webpage. We may publish summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers.
 
-We reserve the right to change the vendors who provide us with usage data. If such a change takes place, updated information will be posted here in this Privacy Policy.
+\- To allow advertisers to customize content. This means users see advertising that is most likely to interest them, and advertisers display their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser in order to collect information about your visits to our websites and other websites. This information could be used to show you ads based on your interests on other websites. 
 
-**IP Addresses** : Our websites log Internet Protocol (IP) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use this information in an aggregate fashion to track access to our Web sites and mobile applications. 
+\- To customize your experience on our digital properties, so that you do not see the same ad repeatedly and to provide you with an enhanced experienced based on the type of device you are using.
 
-**Log Files, Web Beacons, and Your Reading History** : We automatically log certain usage information about your use of the Services. This information includes a reading history of the pages you view. We use this information in the aggregate to analyze usage of our Web Sites and mobile applications.
+\- To gauge the effectiveness of our communications and marketing campaigns.
 
-**Location Information** : 
+**4\. WITH WHOM DO WE SHARE THE INFORMATION WE GATHER?**
 
-Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store location information.
+**Boston Globe entities.** Your personal information will be shared among Boston Globe entities. This allows you to use the same login and password on each Boston Globe digital property.
 
-Ads may be displayed within our apps. The ads you see are not targeted to you based on your current GPS location, but they may be targeted to you based on your device’s IP address or ZIP code.
+**Service Providers.** We contract with service providers to help us with credit card and bill processing, shipping, email distribution, list processing, analytics and promotions management, and ad serving. We provide service providers only with the information they need to perform their services. We prohibit them from sharing, reselling, or using our data for their own marketing purposes.
 
-**Mobile Messaging Service** : We use the information collected from your interaction with The Boston Globe by Text Messaging Service (”SMS Service”) solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed to Third Parties, except as required by law, nor will we use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage, and their practices are governed by their own privacy policies. We collect the mobile phone number you use to send us a text message and the content of the messages sent between you and The Boston Globe. When you send a text message to The Boston Globe or via The Boston Globe, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. We use this data to analyze the message traffic in order to operate, develop and improve our SMS Service.
+\- For example, if you are a print subscriber or registered member of _The Boston Globe_ , we may share your email address with a service provider that sends emails on our behalf. That service provider may not share your email address or personal information with other companies, and may only send you emails on behalf of the Boston Globe. 
 
-**Information Collected by Third Parties using Technology** : Some of the services and advertisements on the Services are delivered or served by third-party companies that may place or recognize cookies or Web Beacon to track certain non-personally identifiable information about our website users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser, in order to collect certain non-personally identifiable information about your visits to our websites and other websites. In many cases, this information could be used to show you ads based on your interests on other websites.
+\- Another example is that we may also engage service providers to track and analyze information about readers’ use of our websites. These service providers may only use this information to track the traffic, usability, performance, and effectiveness of our websites and they may only disclose their findings to the Boston Globe. 
 
-We do not have access to, nor control over, advertisers’ or service providers’ cookies or how they may be used.
+**Advertisers.** We share non-personal information with our advertisers. For example, we may share statistical, demographic and marketing analyses of readers and their browsing and purchasing patterns to inform advertisers about the nature of our reader base. We will not share personal information with advertisers without your permission. 
 
-Please [click here](http://www.boston.com/help/privacyinformation1/) to see a list of third parties that may be using cookies to serve advertising on the Services. For example, Google is one of the companies that serves advertisements onto the Services. It uses the DART cookie to serve ads based on your visit to the Services and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/ads/preferences).
+**Partners.** We may buy, sell to, or merge or partner with another company. We may share personal and non-personal information with other companies in the course of such transactions. 
 
-## You have choices about the collection of information by third parties on our websites: 
+**Others, as required.** We may disclose personal and non-personal information if we have a good faith belief that disclosure is necessary to comply with the law or with legal process, such as to comply with a subpoena, protect and defend our rights and property, to protect against misuse or unauthorized use of our websites, or to protect the personal safety or property of our users or the public. 
 
-1.) If you would like more information about advertisers’ use of cookies, and about your option not to accept these cookies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+\- For example, we may release personal information to comply with a court order or subpoena. 
 
-2.) If you would like to opt-out of having interest-based information collected during your visits to this or other sites, [click here](http://www.aboutads.info/choices/).
+\- If you provide false information or attempt to pose as someone else, we may release personal information as part of any investigation into your actions.
 
-Your access to our Web sites should not be affected if you do not accept cookies served by third parties.
+**5\. HOW DO YOU CHANGE, UPDATE, OR DELETE YOUR PERSONAL INFORMATION?**
 
-**WHAT DO WE DO WITH THE INFORMATION WE GATHER?**
+**Changes to Personal Information** : You may review and update your membership or account information and access your transactions history in our [Member Center](https://www.bostonglobe.com/eom/SysConfig/WebPortal/BostonGlobe/Framework/regi/mc-manage.jsp), a centralized area where you can manage your relationship with the Boston Globe. At the Member Center, you can update and correct your personal information, subscribe to and unsubscribe from email newsletters, and manage your delivery options. 
 
-**Providing the Services You Request** : We use the information we gather about you to enable your use of the Services, fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in and renew paid services, polls, contests, and forums.
+**Opting Out** : If you wish to discontinue receiving any specific email sent by our marketing partners or us, simply follow the unsubscribe options at the bottom of the email. If you wish to opt out of receiving any direct mail or telephone solicitations from the Boston Globe, you may notify us by calling 617-929-2233 or emailing [csadvocate@globe.com](mailto:csadvocate@globe.com).
 
-**Site Login** : Your e-mail address acts as your member login, and together with the password that you create during the registration process your e-mail address allows you to access many of the features and services available on our Web sites.
+**Data Retention:** We will retain your information for as long as we provide you with services. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services, contact [support@bostonglobe.com](mailto:support@bostonglobe.com). 
 
-Your e-mail address, password, and demographic information will be shared between the Services. This sharing will allow you to use the same login and password on each of the sites.
+**6\. WHAT ELSE SHOULD YOU KNOW ABOUT BOSTON GLOBE’S PRIVACY PRACTICES?**
 
-**Statistical Analysis:** We perform statistical, demographic and marketing analyses of users of the Services, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. We use this information for analysis purposes, including analysis to improve customer relationships. 
+[](https://privacy.truste.com/privacy-seal/Boston-Globe/validation?rid=88b2fa8a-5dd5-4b2f-9fbb-4d3a51e71c06 "TRUSTe online privacy certification")
 
-Customizing Your Experience: We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most pertinent. We also use this information to customize certain features of the Services to provide you with an enhanced experienced based on the type of device you are using to access the Services, and in certain cases, provide you with requested services.
+**We are certified by TRUSTe**. We have received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected on [www.boston.com](http://www.boston.com/), [www.bostonglobe.com](http://www.bostonglobe.com/) and [www.bostonglobe.com/services](http://www.bostonglobe.com/services). If you have questions or complaints regarding our privacy policy or practices, please contact us at [feedback@boston.com](mailto:feedback@boston.com). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through the aforementioned websites, and does not cover information that may be collected through software downloaded from this site or through our mobile applications.
 
-******Relevant Advertising:** We may use demographic and preference information to allow advertising on the Services to be targeted to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads. We disclose information to third parties only in aggregate or de-identified form.
+**Data Security**. We use commercially reasonable physical, technical, and managerial controls to protect personal information from our readers. We cannot, however, guarantee that the information will remain permanently secure. It’s possible that technical problems could cause your information to be lost, or that the information could be stolen from our databases. We are not responsible for any such loss, theft, or other security breach.
 
-**E-Mail Newsletters** : During the registration process, you will have the opportunity to subscribe to periodic e-mail newsletters. You may also sign up to receive e-mails at any time by accessing your profile in the [Member Center](http://members.boston.com/reg/login.do?dispatch=mcenter). We send both editorial e-mail newsletters and messages about services offered by The Boston Globe and its partners and advertisers.
+**Children’s Online Privacy Protection.** In accordance with the Children’s Online Privacy Protection Act, the Boston Globe does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. If you are under 13, please do not provide us with your name, email address, phone number, or other personally identifying information.
 
-If you would like to opt out of these e-mails, you may manage your subscriptions and preferences in the Member Center. If you experience difficulty with the unsubscribe process, feel free to contact us at [feedback@boston.com](mailto:feedback@boston.com) and provide all possible e-mail addresses along with the name of the newsletter from which you would like to unsubscribe. If your personally identifiable information or e-mail address changes, or if you no longer desire our service, you may update it at the [Member Center.](http://members.boston.com/reg/login.do?dispatch=mcenter)
+**California Privacy Rights.**
 
-If we decide to make changes in our e-mail practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If you are a California resident, you have the right, under California Civil Code Section 1798.83, to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed personal information for their direct marketing purposes in the prior calendar year. Please email requests for such information to [feedback@boston.com](mailto:feedback@boston.com).
 
-**Other Communications from The Boston Globe** : The Boston Globe may use the e-mail address provided by you at registration to contact you regarding (1) account status (including confirmation of registration or newspaper subscription), (2) major changes to the Services and or to the [Terms of Service](http://www.bostonglobe.com/tools/help/terms-service) and Privacy Policy, and (3) participation in user surveys, asking for feedback about the Web sites and existing or prospective products and services, as well as information to better understand our users and (4) information regarding Boston Globe products and services that may be of interest (including subscriptions, online archives, newsletters and other premium products). You may opt out at any time from any primarily commercial messages and user surveys by following the opt-out instructions in the e-mail.
+**7\. HOW CAN YOU FIND OUT ABOUT CHANGES TO THIS POLICY?**
 
-**E-mail to a friend** : The “e-mail to a friend” feature is an easy way for users of the Services to send links to articles, photos, or other content through e-mail. The e-mail address(es) that you supply to use this service will only be used to send the requested content or feature. We do not store this information for any purpose.
+We may make changes to this Privacy Policy. If we do so, we will post the changes to this webpage. If any of those changes are significant and deal with our use of personal information, we will post those changes to this webpage at least 30 days before they take effect. 
 
-**WITH WHOM DO WE SHARE THE INFORMATION WE GATHER?**
+**8\. WHO SHOULD YOU CONTACT IF YOU HAVE QUESTIONS?**
 
-If you have registered to use the Services, we will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.
+**General contact information.** If you have any questions or comments regarding our information or security practices, you may contact us using the information below:
 
-We may perform statistical, demographic and marketing analyses of customers and their buying and purchasing patterns for product development purposes and to generally inform advertisers about the nature of our customer base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is the most pertinent. Personal information about you as an individual will not be disclosed without your consent.
+Email: [feedback@boston.com](mailto:feedback@boston.com) or [support@bostonglobe.com](mailto:support@bostonglobe.com).
 
-From time to time, we may offer you the opportunity to receive information and offers about products or services from our advertisers, partners or other third parties. You will have the opportunity to opt out of each primarily commercial e-mail that we send. If you sign up to receive information directly from an advertiser, partner or third party you may contact that advertiser, partner or third party directly in order to opt out of future messages from them.
+Phone: 617-929-7900 (between 9:00am and 5:30pm EST)
 
-If you are a print subscriber to The Boston Globe, or have registered on any our Web Sites, then we may opt to share your e-mail address and other personally identifiable information with a third party service provider that sends e-mail on behalf of the newspaper. Any third party service provider will not share your e-mail address or personally identifiable information with other companies and will only send you e-mail on behalf of the newspaper. Promotional e-mails sent by an e-mail service provider will contain instructions on how to unsubscribe from future promotional e-mails sent on behalf of The Boston Globe.
+Fax: 617-929-7975, Attention Privacy Manager
 
-The Boston Globe also reserves the right to contact you to discuss your account or to renew your subscription, in accordance with applicable laws.
+Mail: 135 Morrissey Blvd., Boston, MA 02125, Attention Privacy Manager
 
-We also share information about our audience in aggregate or de-identified form. Nothing in this Privacy Policy is intended to restrict our use of aggregated or de-identified information in any way.
+**Unsubscribe Requests.** If you would like to contact us about unsubscribing from our email lists, please email [feedback@boston.com](mailto:feedback@boston.com) and provide all of your email addresses that could appear on our email lists, as well as the name of the newsletter from which you would like to unsubscribe. 
 
-In the future, we may sell, buy, merge or partner with other companies or businesses. In such transactions, we may include your information among the transferred assets. 
-
-Service Providers: We contract with other companies to provide services on our behalf, including credit card and billing processing, shipping, e-mail distribution, list processing, and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for the Services, and they may not share, resell, or use this data for their own direct marketing purposes. 
-
-We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the [Compliance with legal process](http://www.boston.com/help/privacy_policy/#other) section of this policy.) 
-
-**HOW DO I CHANGE OR UPDATE MY PERSONAL INFORMATION?**
-
-**Member Center** : You may review and update your membership or account information and access your transactions history in the [Member Center](http://members.boston.com/reg/login.do?dispatch=editpage). The Member Center is a centralized area where you can manage your relationship with The Boston Globe. There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can gain secure access to update the information you provided during the registration process. The E-mail Preferences tab is the place to go to sign up for e-mail newsletters and manage your delivery options. In order to gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, you can [reset your password here](https://www.bostonglobe.com/eom/SysConfig/WebPortal/BostonGlobe/Framework/regi/mc-forgot-password-step1.jsp). If you need further assistance, please [contact Customer Support](mailto:support@bostonglobe.com).
-
-**Data Retention** : We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us [support@bostonglobe.com](mailto:support@bostonglobe.com). We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-How do I opt out from receiving promotional offers? If, at any time you wish to discontinue receiving any specific e-mail sent by our marketing partners or us, simply follow the unsubscribe options at the bottom of the e-mail.
-
-If, at any time, you wish to opt out of receiving any direct mail and/or telephone solicitations from The Boston Globe, you may notify us by calling 617-929-2233 or e-mailing [csadvocate@globe.com](mailto:csadvocate@globe.com).
-
-**OTHER INFORMATION**
-
-**Compliance With Legal Process:** We may disclose personal information if we are required to do so by law or we have a good faith belief that such action is necessary to: (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Services; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
-
-**COPPA Compliance:** In accordance with the Children’s Online Privacy Protection Act (COPPA), The Boston Globe does not knowingly collect or store any personal information, even in the aggregate, about children under the age of 13.
-
-**Data Security:** To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place commercially reasonable physical, technical, and administrative controls to protect the information. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure. 
-
-**How To Contact Us:**
-
-For any questions or comments regarding our information or security practices, you may contact us:
-
-By E-mail: [feedback@boston.com](mailto:feedback@boston.com) or [support@bostonglobe.com](mailto:support@bostonglobe.com).
-
-By Phone: 617-929-7900 (between 9:00am and 5:30pm EST.)
-
-By Fax: 617-929-7975, Attention Privacy Manager 
-
-By Mail: 135 Morrissey Blvd., Boston, MA 02125, Attention Privacy Manager 
-
-**CHANGES TO THIS POLICY**
-
-This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this site thirty (30) days prior to taking effect and registered users will be notified via e-mail.
+**Updates to Personal Information.** If you would like to update the personal information that we have about you, or if you no longer desire our services, you can update your preferences at the [Member Center.](https://www.bostonglobe.com/eom/SysConfig/WebPortal/BostonGlobe/Framework/regi/mc-manage.jsp)
