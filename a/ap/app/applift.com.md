@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the applift.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214540id_/http%3A//www.applift.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applift.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206072149id_/http%3A//www.applift.com/privacy-policy.html) for the most accurate reproduction.*
 
-# AppLift Privacy policy | AppLift
+# Privacy policy - AppLift
+
+## **AppLift Privacy policy**
 
 ####  Effective Date: 07/24/2012
 
@@ -20,7 +22,7 @@ We may collect certain non-personally identifiable information about youwhen you
 
 #### Cookies and Web Beacons
 
-To enhance your experience with the Site, we use “cookies.” You cannot register to the Subscription or log-in to the Affiliate Network without agreeing to accept the cookies that we use with the Site. For more specific information on the cookies we use, please see Exhibit A, below. Cookies are small packets of data stored on your computer. Cookies are used by your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. We use cookies to understand Site usage and to improve the content and offerings on the Site. You may set your browser to warn you that cookies are in use, or to block the use of cookies. Most browsers are set to accept cookies. If your browser is not set to accept cookies, certain uses of the Site may require you to go to your browser user preferences to enable cookies. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. If you change computers, operating systems or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser. To find out more about cookies, please visit [ www.cookiecentral.com ](http://www.cookiecentral.com./)   
+To enhance your experience with the Site, we use “cookies.” You cannot register to the Subscription or log-in to the Affiliate Network without agreeing to accept the cookies that we use with the Site. For more specific information on the cookies we use, please see Exhibit A, below. Cookies are small packets of data stored on your computer. Cookies are used by your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. We use cookies to understand Site usage and to improve the content and offerings on the Site. You may set your browser to warn you that cookies are in use, or to block the use of cookies. Most browsers are set to accept cookies. If your browser is not set to accept cookies, certain uses of the Site may require you to go to your browser user preferences to enable cookies. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. If you change computers, operating systems or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser. To find out more about cookies, please visit [ www.cookiecentral.com ](http://website-cdn.applift.com/wp-content/uploads/2013/09/www.cookiecentral.com)   
 We may additionally collect information using Web beacons, which are commonly referred to in the industry as web bugs, pixel tags or Clear GIFs. Web beacons are electronic images that may be used on the Site, in your Account, or in our emails to deliver cookies, count visits and determine if an email has been opened and acted upon. 
 
 #### End User Information
@@ -64,12 +66,12 @@ You acknowledge that you provide your personally identifiable information to us 
 
 #### Deleting and Updating Your Information
 
-If you would like to delete or update the personally identifiable information that we have collected from you, simply email us at: support@applift.com.   
+If you would like to delete or update the personally identifiable information that we have collected from you, simply email us at: support@staging3.applift.com.   
 We will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 #### Opting Out of Receiving E-mail
 
-You may at any time choose to stop receiving emails containing general information regarding AppLift by following the instructions at the end of each such email or by contacting us at support@applift.com. Should you be contacted by our Third Party Agent through email, you can follow the instructions at the end of each such email to stop receiving such emails. There may be a short delay of up to several business days while your request is being verified, deployed and processed across our servers. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your Account, as well as to respond to any inquiry or request made by you.
+You may at any time choose to stop receiving emails containing general information regarding AppLift by following the instructions at the end of each such email or by contacting us at support@staging3.applift.com. Should you be contacted by our Third Party Agent through email, you can follow the instructions at the end of each such email to stop receiving such emails. There may be a short delay of up to several business days while your request is being verified, deployed and processed across our servers. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your Account, as well as to respond to any inquiry or request made by you.
 
 #### Notification of Changes
 
@@ -77,7 +79,7 @@ We reserve the right to change or update this Privacy Policy at any time by post
 
 #### Contact Us
 
-If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: [support@applift.com](mailto:support@applift.com).
+If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: [support@staging3.applift.com](mailto:support@staging3.applift.com).
 
 #### Exhibit A
 
@@ -207,8 +209,7 @@ In some cases, some of these cookies are managed for us by third parties, but we
 
 
 
-Some of these cookies are managed for us by third parties – where this is the case we don’t allow the third party to use the cookies for any purpose other than those listed above.  
-
+Some of these cookies are managed for us by third parties – where this is the case we don’t allow the third party to use the cookies for any purpose other than those listed above. 
 
 #### You can control whether or not these cookies are used, but preventing them may mean we can’t offer you some services, and will reduce the support we can offer you. It’s also possible that preventing these cookie stops us remembering that you didn’t want a specific service. 
 
@@ -263,9 +264,9 @@ __lc.serverchat1c
 
 **Useful information about cookies can be found at:**
 
-  * **All about cookies** :[ http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
-  * **Internet Advertising Bureau** – A guide to behavioral advertising and online privacy has been produced by the internet advertising industry which can be found at:[http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * **International Chamber of Commerce United Kingdom** – Information on the icc (uk) uk cookie guide can be found on the icc website section:[ http://www.international-chamber.co.uk/our-expertise/digitaleconomy](http://www.international-chamber.co.uk/our-expertise/digitaleconomy)
+  * **All about cookies** :[ http://www.allaboutcookies.org](http://website-cdn.applift.com/wp-content/uploads/2013/09/www.allaboutcookies.org)
+  * **Internet Advertising Bureau** – A guide to behavioral advertising and online privacy has been produced by the internet advertising industry which can be found at:[http://www.youronlinechoices.eu](http://website-cdn.applift.com/wp-content/uploads/2013/09/www.youronlinechoices.eu)
+  * **International Chamber of Commerce United Kingdom** – Information on the icc (uk) uk cookie guide can be found on the icc website section:[ http://www.international-chamber.co.uk/our-expertise/digitaleconomy](http://website-cdn.applift.com/wp-content/uploads/2013/09/digitaleconomy)
 
 
 
