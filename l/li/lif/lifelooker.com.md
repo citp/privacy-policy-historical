@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lifelooker.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518002745id_/http%3A//www.lifelooker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelooker.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206050534id_/http%3A//www.lifelooker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact@lifelooker.com](mailto:contact@lifelooker.com "contact@lifelooker.com").
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [LifeLookerInfo@gmail.com](mailto:LifeLookerInfo@gmail.com "contact@lifelooker.com").
 
 At [lifelooker.com](http://www.lifelooker.com/ "lifelooker.com"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by lifelooker.com and how it is used.
 
