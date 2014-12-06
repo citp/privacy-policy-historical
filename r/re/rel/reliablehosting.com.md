@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035948id_/http%3A//www.reliablehosting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206224833id_/http%3A//reliablehosting.com/privacy.htm) for the most accurate reproduction.*
 
 # Reliable Hosting.com
 
@@ -28,10 +28,12 @@ Reliablehosting.com, complies with the U.S.-EU Safe Harbor Framework and the U.S
 
 In compliance with the US-EU Safe Harbor Principles, Reliablehosting.com commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Reliablehosting.com at: [privacy@reliablehosting.com](mailto:privacy@reliablehosting.com)
 
-Black Oak Computers, Inc.  
-DBA: Reliablehosting.com  
-P.O. Box 19719  
-S. Lake Tahoe CA. 96151 
+Doug Haden  
+973 Iron Mountain Circle  
+S. Lake Tahoe ,CA 96150  
+877 402 9532  
+866-889-3661 (fax)  
+Email: [abuse@Reliablehosting.com](mailto:abuse@reliablehosting.com)
 
 Reliablehosting.com has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Reliablehosting.com, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
