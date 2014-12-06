@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindfithypnosis.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331015504id_/http%3A//www.mindfithypnosis.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfithypnosis.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206024544id_/http%3A//www.mindfithypnosis.com/private-policy) for the most accurate reproduction.*
 
 # Private Policy - Mindfit Hypnosis and Subliminal Message MP3 Downloads
 
@@ -6,7 +6,7 @@
 
 #### To Our Individual Clients:
 
-Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. A recent law change requires us (along with banks, brokerage houses, and other financial institutions) to disclose our Privacy Policy to you – which we are more than happy to do. We hope that by taking a few minutes to read it, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure.
+Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicithations. A recent law change requires us (along with banks, brokerage houses, and other financial institutions) to disclose our Privacy Policy to you – which we are more than happy to do. We hope that by taking a few minutes to read it, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure.
 
 ##### A. Types of Information We Collect
 
