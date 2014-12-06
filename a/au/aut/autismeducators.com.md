@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autismeducators.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820072703id_/http%3A//autismeducators.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autismeducators.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206230951id_/http%3A//autismeducators.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
