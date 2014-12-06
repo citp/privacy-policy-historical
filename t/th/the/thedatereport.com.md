@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedatereport.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627225635id_/http%3A//www.howaboutwe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedatereport.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206051806id_/http%3A//www.howaboutwe.com/privacy-policy) for the most accurate reproduction.*
 
 # | HowAboutWe
 
@@ -6,7 +6,7 @@
 
 _Last Updated: October 24, 2013_
 
-howaboutwe.com and its affiliated websites, including but not limited to its Couples website and its dating blogs (the "Site"), operated solely by This Life, Inc. ("we" or "us"), respects the privacy of our users and has developed this privacy policy (the "Privacy Policy") to articulate our commitment to protecting your privacy. 
+howaboutwe.com and its affiliated websites, including but not limited to its Couples website and its dating blogs (the "Site"), operated solely by HowAboutWe, LLC ("we" or "us"), respects the privacy of our users and has developed this privacy policy (the "Privacy Policy") to articulate our commitment to protecting your privacy. 
 
 The Privacy Policy is intended to describe for you, as an individual who is a user of the Site or of the services offered on the Site (collectively with the Site, the "Services"), the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
 
@@ -159,6 +159,6 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail at [ theteam@howaboutwe.com ](mailto:theteam@howaboutwe.com) or postal mail as follows: 
 
 Privacy Officer   
-This Life, Inc.  
-20 Jay Street Suite 932  
-Brooklyn, NY 11201 
+HowAboutWe, LLC  
+555 W 18th St  
+New York, NY 10011 
