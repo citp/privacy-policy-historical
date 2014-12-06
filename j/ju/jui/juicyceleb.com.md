@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicyceleb.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141556id_/https%3A//juicyceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicyceleb.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206074314id_/http%3A//juicyceleb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Juicy Celeb – Celebrity Gossip, Rumors & Entertainment News
 
@@ -77,6 +77,8 @@ We have taken every reasonable step to safeguard and to help prevent the loss, m
 **Opt-out**
 
 To opt-out from any of our direct promotions, please email [unsubscribe@juicyceleb.com](mailto:unsubscribe@juicyceleb.com)
+
+Juicy Celeb uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by [clicking here.](http://www.networkadvertising.org/choices/)
 
 **Changes to Policy**
 
