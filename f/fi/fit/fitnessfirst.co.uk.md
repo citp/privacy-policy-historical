@@ -1,47 +1,67 @@
-> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325222453id_/http%3A//www.fitnessfirst.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206065504id_/http%3A//www.fitnessfirst.co.uk/about-us--terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-The following sets out our policy on the privacy of the individual. Fitness First takes your privacy seriously and information will be used in accordance with the Data Protection Act 1998.
+### Information collected and how it is used
 
-#### 1.0 - Your consent
+We collect information from visitors to this website www.fitnessfirst.co.uk through the use of:
 
-Your use of this website signifies your consent to us collecting and using personal data about you as specified below in accordance with this policy statement. Should we choose to change these terms for any reason, the changes will be posted here so that you are always kept informed about the collection and use of your personal information, and when we disclose it.
+•    You may provide personal information when communicating with us.
 
-#### 2.0 - How do we collect personal information about you and how is it used?
+•    You may use our services and give your name and e-mail address to make a comment about our services or website.
 
-2.1 You may provide personal information when communicating with us.
+•    If you enter a competition or promotion we will ask your name, address and email address.
 
-2.2 You may use our services and give your name and e-mail address to make a comment about our services or website.
+•    We will collect information about your tastes and preferences, both when you tell us and by analysis of customer traffic, including using "cookies".
 
-2.3 If you enter a competition or promotion we will ask your name, address and email address.
+•    It may be that some of the personal information you give us (for example, about your health and age) is sensitive personal data within the meaning of the Data Protection Act 1998. Such information ("sensitive information") will only be disclosed with your express consent.
 
-2.4 We will collect information about your tastes and preferences, both when you tell us and by analysis of customer traffic, including using "cookies".
+•    It may be that you provide us details of credit or debit cards or bank accounts in making payment to us. Any such information (confidential financial information) will be disclosed only in accordance with the disclosure policy below.
 
-2.5 It may be that some of the personal information you give us (for example, about your health and age) is sensitive personal data within the meaning of the Data Protection Act 1998. Such information ("sensitive information") will only be disclosed with your express consent.
+•    We may use personal information collected about you to help us develop the layout of our website to ensure that our site is as useful and enjoyable as possible.
 
-2.6 It may be that you provide us details of credit or debit cards or bank accounts in making payment to us. Any such information (confidential financial information) will be disclosed only in accordance with the disclosure policy below.
+•    We may use personal information collected about you to let you know about functions on our website or changes to our terms and conditions of use.
 
-2.7 We may use personal information collected about you to help us develop the layout of our website to ensure that our site is as useful and enjoyable as possible.
-
-2.8 We may use personal information collected about you to let you know about functions on our website or changes to our terms and conditions of use.
-
-#### 3.0 - Traffic data
-
-We may provide aggregate statistics about sales, customers, traffic patterns and information to third parties, but these statistics will not include any information that identifies you.
-
-#### 4.0 - Disclosure policy
-
-We reserve the right to access and disclose individually identifiable information to enable us to comply with applicable laws and lawful government requests to operate its systems and to protect itself or its users.
-
-#### 5.0 - How do we protect your information?
+### Data Capture Information
 
 We have strict security procedures covering the storage of your information in order to prevent unauthorised access and to comply with the terms of the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity or for other personal information before we can process your call or enquiry further.
 
-#### 6.0 - What are cookies and how do we deal with them?
+### Marketing
 
-A cookie is a piece of information that is stored on your computer's hard drive. It is normally sent by a web server to you and enables the server to collect information back from your site visit. See our [Cookie Policy](https://web.archive.org/about-us/cookie-policy/) for more information.
+Please note that your information may be used to send you details of those products or services that we offer that we have identified as likely to be of interest to you.  This will be in accordance with the preferences that you indicated when you completed complimentary pass form.
 
-#### 7.0 - How to contact us
+If at any point you would like to opt-out of receiving communications from us, or would like to change the channels (such as email or post) that we use to contact you, please contact us at membershipservices@fitnessfirst.com or call us on 08445 713 400.  Alternatively you can also write to us at Data Compliance Officer, Fitness First, 58 Fleets Lane, Poole, Dorset, BH15 3BT. 
 
-If you have any questions or concerns about this policy, call us on 01202 845 000, email [membershipservices@fitnessfirst.com ](mailto:membershipservices@fitnessfirst.com "Email us") or contact our Support Centre: 58 Fleets Lane, Poole, Dorset BH15 3BT
+### Disclosures
+
+We will not share your data with third parties unless we are obliged to disclose personal data by law, or the disclosure is ‘necessary’ for purposes of national security, taxation and criminal investigation, or we have your consent.
+
+We may provide aggregate statistics about sales, customers, traffic patterns and information to third parties, but these statistics will not include any information that identifies you.
+
+### Other websites
+
+Our website may contain links to other websites that are outside our control and are not covered by this Privacy Policy.  If you access other sites using the links provided, the operators of these sites may collect information from you that will be used by them in accordance with their privacy policy, which may differ from ours.
+
+### Subject access requests
+
+You have the right to see what personal data we hold about you.  To obtain a copy of the personal information we hold about you, please write to us at Data Compliance Officer, Fitness First, 58 Fleets Lane, Poole, Dorset, BH15 3BT. Please note that we reserve the right to charge a fee of up to £10 for any such request.
+
+### Internet-based transfers
+
+Given that the Internet is a global environment, using it to collect and process personal data necessarily involves the transmission of data on an international basis.  This means for instance that data you pass to us may be processed outside the European Economic Area, although the data will always be held securely and in line with the requirements of UK data protection legislation.  By communicating electronically with us, you acknowledge and agree to our processing of personal data in this way. 
+
+### Use of cookies 
+
+A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser.  Find out more about cookies on www.allaboutcookies.org.   
+
+We use cookies to identify you when you visit this website and to keep track of your browsing patterns and build up a demographic profile.
+
+Our use of cookies also allows registered users to be presented with a personalised version of the site, carry out transactions and have access to information about their account.
+
+Most browsers will allow you to turn off cookies.  If you want to know how to do this please look at the menu on your browser, or look at the instruction on www.allaboutcookies.org.  Please note however that turning off cookies will restrict your use of our website.
+
+By continuing to use this site you are agreeing to the use of cookies as detailed above.
+
+### Amendments
+
+Please note that this privacy policy is subject to change from time to time.  It was last reviewed in March 2014.
