@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405233029id_/http%3A//www.enjoythepics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206011439id_/http%3A//www.enjoythepics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Enjoy The Pics
 
