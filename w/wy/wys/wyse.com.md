@@ -1,24 +1,14 @@
-> *The following text is extracted and transformed from the wyse.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072234id_/http%3A//wyse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyse.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206091909id_/http%3A//www.wyse.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Dell Wyse
 
-**Updated April 25, 2012**
-
-[](https://privacy.truste.com/privacy-seal/Wyse-Technology-Inc/validation?rid=e6be1a1e-29ed-4f15-a0b0-f5bf2a30cba8 "TRUSTe European Safe Harbor certification")
+**Updated  July 8, 2014**
 
 When you visit wyse.com, you are not required to provide personal information. While we may ask you to register and provide information that personally identifies you (for example, when downloading free firmware or requesting further information from Wyse), you can enjoy your experience on the majority of wyse.com without personally identifying yourself. 
 
 For each visitor to wyse.com, our web server automatically recognizes only the visitor's domain name, but not the email address (where possible). We collect only the domain name, but not the email address of visitors to wyse.com. 
 
-The information we collect is used to improve the content of wyse.com, to notify visitors about updates, and by us to contact visitors for marketing purposes. We will never sell this information without permission. 
-
-Wyse Technology Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, you should first send an email to [privacy@wyse.com](mailto:privacy@wyse.com) . If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here").
-
-### Dispute Resolution
-
-Wyse Technology Inc. complies with the U.S. – E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Wyse Technology Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Wyse Technology Inc. certification, please visit <http://www.export.gov/safeharbor>
-
-As part of our participation in the Safe Harbor program, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Frameworks. If you have any complaints regarding our compliance with the Safe Harbor Frameworks you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/consumer-privacy/truste-privacy-programs/ "here") or request this information from TRUSTe at any of the addresses listed above.
+The information we collect is used to improve the content of wyse.com, to notify visitors about updates, and by us to contact visitors for marketing purposes. We will never sell this information without permission. 
 
 ### Collection and Use of Personal Information
 
@@ -81,7 +71,7 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Wyse Technology Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * if Wyse Technology LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
@@ -114,9 +104,9 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If you have any questions concerning the privacy policies of wyse.com which are not addressed in this statement, please feel free to contact us at [privacy@wyse.com](mailto:privacy@wyse.com). 
 
-Wyse Technology Inc.  
-3471 N First Street  
-San Jose, CA 95134   
+Wyse Technology LLC  
+5455 Great America Parkway  
+Santa Clara, CA 95054  
 [privacy@Wyse.com](mailto:privacy@Wyse.com)  
 (408) 473-1200  
 (800) 438-9973
