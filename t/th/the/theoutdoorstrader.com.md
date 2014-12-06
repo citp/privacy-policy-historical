@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoutdoorstrader.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607234118id_/http%3A//www.theoutdoorstrader.com/faq.php%3Ffaq%3Dprivacy%23faq_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoutdoorstrader.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206223155id_/http%3A//www.theoutdoorstrader.com/faq.php%3Ffaq%3Dprivacy%23faq_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
