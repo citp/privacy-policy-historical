@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mv-voice.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061830id_/http%3A//www.mv-voice.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mv-voice.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206105522id_/http%3A//mv-voice.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mountain View Online |
 
