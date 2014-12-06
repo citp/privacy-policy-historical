@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affec.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060508id_/http%3A//affectv.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affec.tv privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206051015id_/http%3A//affectv.co.uk/privacy) for the most accurate reproduction.*
 
 # Affectv - Find, Understand and Connect with Relevant Audiences
 
@@ -42,7 +42,7 @@ The security of your information is important to us. We have implemented reasona
 
 We may share Non-PII collected via our technology with affiliated third parties, including behavioural patterns, interaction data collected as above described and general statistics. For example, we may disclose that our online advertisements offering "sports car" test drives receive more clicks than those offering "Mini Van" test drives. This information is only used in an aggregated form and cannot be used to contact or identify any person individually. We encourage our media partners and our clients to comply fully with the EU regulations and recommendations on cookies use and online privacy issued by the relevant online advertisement organisations and institutions, but we do not undertake any responsibility with regards to their policies. We strongly recommend you to read the respective Privacy Policies of any website you visit.
 
-If you have any questions or comments about our security policies, please send us an email at [privacy@affectv.co.uk](mailto:privacy@affectv.co.uk) or write to us at: Affectv, 4th Floor, 33-34 Alfred Place, London WC1E 7DP United Kingdom
+If you have any questions or comments about our security policies, please send us an email at [privacy@affectv.co.uk](mailto:privacy@affectv.co.uk) or write to us at: Affectv, 1st Floor, 77 Oxford Street, London W1D 2ES United Kingdom
 
 Regards,
 
