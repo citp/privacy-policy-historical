@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e4s.co.uk privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216184054id_/http%3A//www.e4s.co.uk/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e4s.co.uk privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206185145id_/http%3A//www.e4s.co.uk/docs/privacy.htm) for the most accurate reproduction.*
 
 # E4S Privacy Policy
 
@@ -63,11 +63,11 @@
   
 **9.** Problem Resolution 
 
-If problems arise, users may contact Employment4students.co.uk Ltd writing to Employment4student.co.uk Ltd, 109 High Street, Thame, Oxfordshire, OX9 3DZ or calling 0845 838 0595. We are committed to resolving any problems or disputes as hastily as possible, and do so by committing ourselves to the highest standards of customer service and constantly looking to improve both the service we provide and our relationship with clients. 
+If problems arise, users may contact Employment4students.co.uk Ltd writing to Employment4student.co.uk Ltd, 2D Station Yard, Thame, Oxfordshire, OX9 3UH or calling 0845 838 0595. We are committed to resolving any problems or disputes as hastily as possible, and do so by committing ourselves to the highest standards of customer service and constantly looking to improve both the service we provide and our relationship with clients. 
 
 **10.** Changes to this Policy 
 
   * **10.1** This policy may be changed for any reason, at anytime and at our sole discretion. However, no new use will be made of any individual identifiable information without first providing notification and the option to opt-out or otherwise prevent its use. Any amendment to this policy will be posted on this page to ensure that all users remain informed about the data we collect, how it is used and how it is protected. 
-  * **10.2** If you have any questions or comments about this privacy policy, or the use of your personal information please call us on 0845 838 0595 or write to: Employment4student.co.uk Ltd, 109 High Street, Thame, Oxfordshire, OX9 3DZ
+  * **10.2** If you have any questions or comments about this privacy policy, or the use of your personal information please call us on 0845 838 0595 or write to: Employment4student.co.uk Ltd, 2D Station Yard, Thame, Oxfordshire, OX9 3UH
 
 
