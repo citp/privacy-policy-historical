@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenweddingshoes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051644id_/http%3A//greenweddingshoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenweddingshoes.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206054159id_/http%3A//greenweddingshoes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Green Wedding Shoes Wedding Blog | Wedding Trends for Stylish + Creative Brides
 
@@ -28,7 +28,7 @@ By accessing our services and voluntarily providing us with the requested person
 ****How We Use Collected Information  
 ****We use the collected information to improve GWS, ensure you enjoy our content and plan new site features.
 
-  * Provided Personal Information allows us to better understand the GWS audience and plan editorial content to better satisfy their expecations of GWS
+  * Provided Personal Information allows us to better understand the GWS audience and plan editorial content to better satisfy their expectations of GWS
   * Log Data allow us to analyze trends, administer the site, track users movement and gather broad demographic information for internal use
   * Cookies allow us to personalize your experience on GWS
   * Device Information allows us to optimize GWS content for consumption on the devices most popular with our readers
@@ -36,15 +36,19 @@ By accessing our services and voluntarily providing us with the requested person
 
 
 **Third Party ad servers or ad networks  
-**We feature advertisements, promotions and offers from third party advertisers and work with third advertising services that may serve ads on GWS on our behalf. These companies may use third Party ad servers or ad networks that may also use cookies to track users activities on this website to measure advertisement effectiveness and for reasons that will be provided in their own privacy policies. Green Wedding Shoes has no access or control over these cookies that may be used by third party advertisers.  **Third party advertisers have no access to any of your personal information shared with GWS unless you choose to share it with them directly.**
+**We feature advertisements, promotions and offers from third party advertisers and work with third advertising services that may serve ads on GWS on our behalf. These companies may use third Party ad servers or ad networks that may also use cookies, web beacons and similar technologies collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads activities on this website to measure advertisement effectiveness. Green Wedding Shoes does not have access to or control over these cookies that may be used by third party advertisers.  **Third party advertisers have no access to any of your personal information shared with GWS unless you choose to share it with them directly.**
 
 Some of the advertisements that appear on Green Wedding Shoes are delivered to you by the third party ad networks. These third parties may utilize technologies to collect anonymous information about your visit to our site, including information about the banner ads displayed, cookies placed on your computer and/or your IP address.
 
 **Your options for sharing/not sharing your information  
 **If you do not consent to the collection, use or disclosure of your personal information, as this Privacy Policy outlines, please do not provide us any personal information. Providing personal information to us means that you agree to our Privacy Policy and Terms of Use.
 
-If you wish to opt out of information collection by  third parties ad networks, please visit:  
-<http://www.evidon.com/consumers-privacy/opt-out>
+If you wish to opt out of information collection by  third parties ad networks, please visit:
+
+  * <http://www.evidon.com/consumers-privacy/opt-out>
+  * [http://www.aboutads.info/choices](http://www.aboutads.info/choices)
+
+
 
 **Information Sharing and Disclosure  
 **We may share some of your personal information to third party partners if this is needed in order to provide you services or products requested by you. We share personal information only if third party’s Privacy Policies are consistent with ours or if they agree to abide by our policies with respect to personal information.
