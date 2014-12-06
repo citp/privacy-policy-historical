@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.eu privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606095207id_/http%3A//www.marksandspencer.eu/Privacy-and-Security/privacy-policy%2Cen_DE%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.eu privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206120132id_/http%3A//www.marksandspencer.eu/Privacy-and-Security/privacy-policy%2Cen_DE%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
