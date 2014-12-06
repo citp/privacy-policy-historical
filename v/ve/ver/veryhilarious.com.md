@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veryhilarious.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065358id_/http%3A//veryhilarious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veryhilarious.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206101726id_/http%3A//veryhilarious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VeryHilarious.com
 
