@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the telepisodes.ch privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234624id_/http%3A//www.telepisodes.ch/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telepisodes.ch privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206010758id_/http%3A//www.telepisodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Today - Telepisodes
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us via [this form.](http://www.telepisodes.c/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us via [this form.](http://www.telepisodes.com/contact-us/).
 
-At [Telepisodes](http://www.telepisodes.ch/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.telepisodes.ch and how it is used.
+At [Telepisodes](http://www.telepisodes.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.telepisodes.com and how it is used.
 
 We collect information from you when you register on our site or fill out a form.
 
@@ -54,7 +54,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.telepisodes.ch/terms-of-services/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.telepisodes.com/terms-of-services/>
 
 **Your Consent**
 
@@ -64,6 +64,6 @@ By using our site, you consent to our web site privacy policy.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.telepisodes.ch
+http://www.telepisodes.com
 
 privacy@telepisodes.net
