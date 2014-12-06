@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theinternetadstore.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628202804id_/http%3A//theinternetadstore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternetadstore.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206133529id_/http%3A//theinternetadstore.com/privacy.php) for the most accurate reproduction.*
 
 # Free Viral List Builder
 
-[](http://theinternetadstore.com/bannerclick.php?id=18358)  
+[](http://theinternetadstore.com/bannerclick.php?id=7175)  
 
 
 The-Internet-Ad-Store Privacy Policy
