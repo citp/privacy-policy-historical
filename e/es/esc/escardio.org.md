@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326082906id_/http%3A//www.escardio.org/about/how/policies/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206204417id_/http%3A//www.escardio.org/about/how/policies/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # ESC | About the ESC | How we work | ESC Policies | ESC Privacy and Data Security Policy
 
@@ -246,3 +246,5 @@ Additionally, you can manage whether or not you wish to be kept informed by emai
 To better guarantee the respect of individual’s rights and of the European and French data protection law relating to computers, files and freedoms, the ESC has appointed a Data Protection Officer: **Christophe CHAMPOUSSIN of   ANAXIA CONSEIL**.  This appointment is strongly recommended by the French data protection agency (the “CNIL”).
 
 If you any further questions, or if at any time you believe that the ESC has not adhered to the principles stated in this Policy, please contact the ESC’s Data Protection Officer at: **cil@escardio.org**
+
+Last updated : 30 Mar 2009
