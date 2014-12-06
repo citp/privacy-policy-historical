@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the royallepage.ca privacy policy that was archived on 2014-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140616101736id_/http%3A//www.royallepage.ca/realestate/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royallepage.ca privacy policy that was archived on 2014-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141206065639id_/http%3A//www.royallepage.ca/realestate/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="UTF-8">
@@ -14,11 +14,10 @@
 <link rel="stylesheet" type="text/css" href="http://www-d.royallepage.ca/media/main/css/trunc.css">
 	<link rel="shortcut icon" href="http://www.royallepage.ca/favicon.ico" type="image/x-icon">
 	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="http://www-d.royallepage.ca/media/main/js/gas.min.js"></script><script type="text/javascript">
-	var mlsFormat='((MLS|mls|Mls)[^A-Za-z0-9]*)?([A-Za-z0-9]*[0-9]{4}[0-9]*)$';
+	var mlsFormat='((MLS|mls|Mls)[^A-Za-z0-9]*)?([A-Za-z0-9]*[0-9]{4}[0-9]* *)$';
 	var siteUrl="http://www.royallepage.ca/";
 	var dataUrl="http://www-d.royallepage.ca/";
 	var contentUrl="http://www-c.royallepage.ca/";
-	var calculatorUrl="http://royallepage.mls.ca/Calculators/";
 	var mobileWebUrl="http://m.rlp.ca/mobile";
 	</script>
 	
@@ -50,14 +49,18 @@
 <script type="text/javascript" src="http://www-d.royallepage.ca/media/main/js/search_filters.js" media="all"></script>
 <script type="text/javascript" src="http://www-d.royallepage.ca/media/main/js/trunk8.js" media="all"></script>
 <script type="text/javascript" src="http://www-d.royallepage.ca/media/main/js/trunc.js" media="all"></script>
+<script type="text/javascript" src="http://www-d.royallepage.ca/media/main/js/ua.js" media="all"></script>
+<script type="text/javascript" src="http://www-d.royallepage.ca/media/main/js/fb.js" media="all"></script>
+<script type="text/javascript" src="http://www-d.royallepage.ca/media/main/js/google_plus.js" media="all"></script>
+<script type="text/javascript" src="http://www-d.royallepage.ca/media/main/js/hlib.js" media="all"></script>
 	<!--[if lt IE 9]>
 		<script type='text/javascript' src='http://www-d.royallepage.ca/media/main/js/html5shiv.js'  media='all'></script>
 		<link rel='stylesheet' type='text/css' href='http://www-d.royallepage.ca/media/main/css/ie.css' />
 	<![endif]-->
 	<script type="text/javascript">	
 	var _gas = _gas || [];
-	_gas.push(['_setAccount', "UA-29610302-1"]); // REPLACE WITH YOUR GA NUMBER
-	_gas.push(['_setDomainName', '.royallepage.ca']); // REPLACE WITH YOUR DOMAIN
+	_gas.push(['_setAccount', "UA-29610302-1"]); 
+	_gas.push(['_setDomainName', '.royallepage.ca']); 
 	_gas.push(['_trackPageview']);
 	_gas.push(['_gasTrackForms']);
 	_gas.push(['_gasTrackOutboundLinks']);
@@ -87,14 +90,21 @@
 	    el.parentNode.insertBefore(s, el);
 	  })();
 	</script>
-	<noscript>
-	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005685&cv=2.0&cj=1" />
-	</noscript>
 	<!-- End comScore Tag -->
+	<script>
+		jQuery(document).ready(function() {
+		if (typeof UA != 'undefined') {
+				UserAccountTriggers ();
+				UA.init();
+			}
+		});
+	</script>
+	
 	</head>
 		
 	<body class="page-template-default en-ca " data-domain="http://www-c.royallepage.ca/">
 	 
+
 <header class="top-bar">
 	<div class="bar-c">
 		<strong class="logo"><a href="http://www.royallepage.ca/">Royal LePage</a></strong>
@@ -140,10 +150,32 @@
 					</div>
 			
 		<div class="frame">
-			<ul id="menu-top-menu" class="en"><li id="menu-item-2202" class="luxury-homes menu-item menu-item-type-custom menu-item-object-custom menu-item-2202"><a href="http://www.royallepage.ca/search/carriage-trade/?lang=en-ca">LUXURY HOMES</a></li>
+			<ul id="menu-top-menu" class="en"><li id="menu-item-2202" class="luxury-homes menu-item menu-item-type-custom menu-item-object-custom menu-item-2202"><a href="http://www.royallepage.ca/search/carriage-trade/?lang=en-ca">LUXURY PROPERTIES</a></li>
 <li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="http://www.royallepage.ca/realestate/about-us/media-room/">Media Room</a></li>
 <li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://www.royallepage.ca/realestate/about-us/contact-us/">Contact Us</a></li>
-</ul>			<div class="language-box"><span class="active">English<em><strong></strong></em></span><a href="http://www.royallepage.ca/realestate/fr/privacy-policy/">Français<em><strong></strong></em></a></div>		</div>
+</ul>			<div class="language-box"><span class="active">English<em><strong></strong></em></span><a href="http://www.royallepage.ca/realestate/fr/privacy-policy/">Français<em><strong></strong></em></a></div>			<div id="login-cont">
+				<div id="login">
+					<div id="login-txt">Log In</div>
+				</div>
+				<div id="user-toggle">
+					<div id="user-text"></div>
+				</div>
+			</div>
+		</div>
+		<div id="user-menu" class="flyout">
+			<div id="arrow" class="pointer-top"></div>
+			<ul>
+				<li><a href="http://www.royallepage.ca/profile/saved-listings/">Saved Listings</a></li>
+				<li><a href="http://www.royallepage.ca/profile/recently-viewed/">Recently Viewed</a></li>
+				<li><a href="http://www.royallepage.ca/profile/saved-searches/">Saved Searches</a></li>
+				<li><a href="http://www.royallepage.ca/profile/recent-searches/">Recent Searches</a></li>
+			</ul>
+			<div class="separator"></div>
+			<ul>
+				<li><a href="http://www.royallepage.ca/profile/my-profile/">My Profile</a></li>
+				<li><a id="user-logout" href="#" onclick="UA.logout(event)">Log Out</a></li>
+			</ul>
+		</div>
 	</div>
 </header><!-- ..... -->
 				<form id="property-search-form" action="http://www.royallepage.ca/search/" class="filter-section" method="get">
@@ -284,9 +316,12 @@ Bizcom: No. 1-888-228-0715<br>
 </ul>            <p>© 2014 BROOKFIELD REAL ESTATE SERVICES MANAGER LIMITED</p>
         </div>
         <p><a href="http://www.royallepage.ca/find-a-home?lang=en-ca">Find a home in</a>
-            <a href="http://www.royallepage.ca/en/on/citylist">Ontario</a> | <a href="http://www.royallepage.ca/en/qc/citylist">Quebec</a> | <a href="http://www.royallepage.ca/en/ab/citylist">Alberta</a> | <a href="http://www.royallepage.ca/en/bc/citylist">British Columbia</a> | <a href="http://www.royallepage.ca/en/mb/citylist">Manitoba</a> | <a href="http://www.royallepage.ca/en/sk/citylist">Saskatchewan</a> | <a href="http://www.royallepage.ca/en/nb/citylist">New Brunswick</a> | <a href="http://www.royallepage.ca/en/nl/citylist">Newfoundland and Labrador</a> | <a href="http://www.royallepage.ca/en/nt/citylist">Northwest Territories</a> | <a href="http://www.royallepage.ca/en/ns/citylist">Nova Scotia</a> | <a href="http://www.royallepage.ca/en/pe/citylist">Prince Edward Island</a> | <a href="http://www.royallepage.ca/en/yt/citylist">Yukon</a> | <a href="http://www.royallepage.ca/en/nu/citylist">Nunavut</a>. 
-            Browse agents in            <a href="http://www.royallepage.ca/en/offices/on/">Ontario</a> | <a href="http://www.royallepage.ca/en/offices/qc/">Quebec</a> | <a href="http://www.royallepage.ca/en/offices/ab/">Alberta</a> | <a href="http://www.royallepage.ca/en/offices/bc/">British Columbia</a> | <a href="http://www.royallepage.ca/en/offices/mb/">Manitoba</a> | <a href="http://www.royallepage.ca/en/offices/sk/">Saskatchewan</a> | <a href="http://www.royallepage.ca/en/offices/nb/">New Brunswick</a> | <a href="http://www.royallepage.ca/en/offices/nl/">Newfoundland and Labrador</a> | <a href="http://www.royallepage.ca/en/offices/nt/">Northwest Territories</a> | <a href="http://www.royallepage.ca/en/offices/ns/">Nova Scotia</a> | <a href="http://www.royallepage.ca/en/offices/pe/">Prince Edward Island</a> | <a href="http://www.royallepage.ca/en/offices/yt/">Yukon</a> | <a href="http://www.royallepage.ca/en/offices/nu/">Nunavut</a>
-        </p><p>The property information on this website is derived from Royal LePage listings and the Canadian Real Estate Association's Data Distribution Facility (DDF). DDF references real estate listings held by brokerage firms other than Royal LePage and its franchisees. The accuracy of information is not guaranteed and should be independently verified.         </p><p>*All offices are independently owned and operated, except those offices identified as "Royal LePage Real Estate Services Ltd."        </p><p>The trademarks REALTOR®, REALTORS® and the REALTOR® logo are controlled by The Canadian Real Estate Association (CREA) and identify real estate professionals who are members of CREA. The trademarks MLS®, Multiple Listing Service® and the associated logos are owned by CREA and identify the quality of services provided by real estate professionals who are members of CREA.    </p></div>
+            <a href="http://www.royallepage.ca/en/on/citylist">Ontario</a> | <a href="http://www.royallepage.ca/en/qc/citylist">Quebec</a> | <a href="http://www.royallepage.ca/en/ab/citylist">Alberta</a> | <a href="http://www.royallepage.ca/en/bc/citylist">British Columbia</a> | <a href="http://www.royallepage.ca/en/mb/citylist">Manitoba</a> | <a href="http://www.royallepage.ca/en/sk/citylist">Saskatchewan</a> | <a href="http://www.royallepage.ca/en/nb/citylist">New Brunswick</a> | <a href="http://www.royallepage.ca/en/nl/citylist">Newfoundland and Labrador</a> | <a href="http://www.royallepage.ca/en/nt/citylist">Northwest Territories</a> | <a href="http://www.royallepage.ca/en/ns/citylist">Nova Scotia</a> | <a href="http://www.royallepage.ca/en/pe/citylist">Prince Edward Island</a> | <a href="http://www.royallepage.ca/en/yt/citylist">Yukon</a> | <a href="http://www.royallepage.ca/en/nu/citylist">Nunavut</a>.</p> 
+        <p>   Browse agents in            <a href="http://www.royallepage.ca/en/offices/on/">Ontario</a> | <a href="http://www.royallepage.ca/en/offices/qc/">Quebec</a> | <a href="http://www.royallepage.ca/en/offices/ab/">Alberta</a> | <a href="http://www.royallepage.ca/en/offices/bc/">British Columbia</a> | <a href="http://www.royallepage.ca/en/offices/mb/">Manitoba</a> | <a href="http://www.royallepage.ca/en/offices/sk/">Saskatchewan</a> | <a href="http://www.royallepage.ca/en/offices/nb/">New Brunswick</a> | <a href="http://www.royallepage.ca/en/offices/nl/">Newfoundland and Labrador</a> | <a href="http://www.royallepage.ca/en/offices/nt/">Northwest Territories</a> | <a href="http://www.royallepage.ca/en/offices/ns/">Nova Scotia</a> | <a href="http://www.royallepage.ca/en/offices/pe/">Prince Edward Island</a> | <a href="http://www.royallepage.ca/en/offices/yt/">Yukon</a> | <a href="http://www.royallepage.ca/en/offices/nu/">Nunavut</a></p>
+		<p>The property information on this website is derived from Royal LePage listings and the Canadian Real Estate Association's Data Distribution Facility (DDF). DDF references real estate listings held by brokerage firms other than Royal LePage and its franchisees. The accuracy of information is not guaranteed and should be independently verified. </p>
+        <p>*All offices are independently owned and operated, except those offices identified as "Royal LePage Real Estate Services Ltd."</p>
+        <p>The trademarks REALTOR®, REALTORS® and the REALTOR® logo are controlled by The Canadian Real Estate Association (CREA) and identify real estate professionals who are members of CREA. The trademarks MLS®, Multiple Listing Service® and the associated logos are owned by CREA and identify the quality of services provided by real estate professionals who are members of CREA.</p>
+    </div>
 </footer>
 <script type="text/javascript" src="http://www-c.royallepage.ca/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.18"></script>
 <script type="text/javascript">
@@ -295,6 +330,10 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www-c.royallepage.ca\/wp-content\/plugins\/c
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www-c.royallepage.ca/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.3.1"></script>
-	
+<!-- comScore Noscript Tag -->
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=3005685&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Noscript Tag -->	
 
 </body></html>
