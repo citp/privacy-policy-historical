@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325183814id_/https%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206130902id_/https%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
 
 # GetUp! - Privacy policy
 
@@ -67,4 +67,4 @@ If you consider a breach of the Australian Privacy laws or your rights in relati
 
 **For more information**
 
-If you would like more information on privacy, [contact us](https://web.archive.org/about/contact-us). 
+If you would like more information on privacy, contact us at [info@getup.org.au](mailto:info@getup.org.au). 
