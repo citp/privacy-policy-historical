@@ -1,59 +1,63 @@
-> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808025709id_/http%3A//www.americanhomeguides.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206081625id_/http%3A//www.newhomeguide.com/privacy_policy) for the most accurate reproduction.*
 
-# New Homes and Properties Search | American Home Guides
+# Privacy Policy
 
-## What information we collect
+RentPath, Inc., operator of NewHomeGuide.com, is committed to making your search for a new home as pleasant and successful as possible. Maintaining your privacy is a large part of our commitment. We will never disclose your personally identifiable information to any third party without your consent, except in limited circumstances to our business partners with whom we have established agreements that protect your privacy.
 
-You may browse the Americanhomeguides.com site without providing any personally identifiable information but if you choose to use any of our products or services, you will be asked to register and provide certain personal information such as: contact information (like your full name and address), unique identifiers (such as your email address and phone number), and demographic information (like your zip code).
+[Click here](https://web.archive.org/do-not-track/) to learn more about how we handle do-not-track signals and user tracking.
 
-When using certain tools on our site, you may be asked to provide additional information. This information becomes part of your profile and allows us to make the tools more beneficial to you.
+ **Here's how we collect and use information from you in our efforts to provide the highest quality user experience:**
 
-In addition to the personal information that you voluntarily provide directly to us, your "Internet Protocol" or IP address, browser type, domain name, access times and referring web site address are also recorded. This information is collected both during registration on a site or in response to specific requests. This data helps us serve you by allowing us to understand how visitors use our services.
+#### IP Address
 
-Some of the services available on our site are provided by third parties and sometimes we will give you the opportunity to opt in to offers from third parties not affiliated with us. If you decide to use these services or accept these offers, we may provide, with your consent, your information to the third party. However, you should note that this privacy policy does not apply to information you consent to give to third parties (or voluntarily provide to third parties) not affiliated with us. Any information you give to another party is governed by the rules of that party's privacy policy, which may differ from this privacy policy. We are not responsible for information given to or collected by other parties. Please review their privacy policies prior to providing any information to third parties.
+Your IP or Internet Protocol address and other site usage data is used to gather broad demographic information. This data helps us serve you by allowing us to understand how visitors use our services.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+#### Cookies
 
-## What we do with collected information
+Our site uses a technology called "cookies," small files stored by your browser to help keep track of your user profile. We use temporary cookies to remember your personal profile for your convenience, to deliver content specific to your needs and interests, and to ensure you don't see the same ad repeatedly. We also use cookies to track user trends and improve areas of our sites that our users find valuable. We do not share cookie information with anyone without your permission.
 
-When you register on our site, we use the information you provide to us to track what kind of activities you conduct on our site, including, for example, the types and locations of homes that you have viewed, to create a particular profile for you.
+We work with third-party data analytics and online targeting companies. Some of these companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you. To learn more about this practice or about your choice to opt-out of this practice please click[ here.](http://www.networkadvertising.org/consumer/opt_out.asp)
 
-To provide you the best products and services, we often team with business partners. When you indicate that you want to receive a product or service, or contact a person or organization, we share the data needed for you to receive what you have indicated. We take great care to require that these business partners agree by contract not to disclose any personal information they may receive. We may contract with third parties to administer our mailing lists or provide retail services. In such event, your personal information may be shared with such third party for the purpose of administering the products, services and programs you have selected.
+#### Ads
 
-We use your email as a unique identifier in our record system, to verify communications from you, and to send you newsletters, promotion offerings or other email that you ask to receive. You will have the option to stop these communications at any time by unsubscribing according to the instructions in the newsletter, promotion or email. We will also use your information to contact you when necessary for administrative purposes related to your account and to communicate with you about changes to the site, our services or this privacy policy.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click[ here](http://www.doubleclick.com/privacy/index.aspx) and[ here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-We may, at times, produce reports for advertisers containing aggregate information about our users such as demographic, age and online usage information. This allows us to work more closely with advertisers to provide content and offers that are most relevant to our users. We will never include any personal information of our users in these reports.
+#### Registration
 
-We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation (including our Terms of Use) or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation.
+NewHomeGuide.com allows users to access enhanced features by registering on the site. Our registration forms require users to give us contact information (like your name), unique identifiers (such as your email address), and also ask for demographic information (like your ZIP code or age). Customer contact information is maintained to make requesting more information from site resources as easy as possible. Your contact information may also be used to contact you when necessary for administrative purposes related to your account. We use your email as a unique identifier in our record system, to verify communications from you, and we may send you newsletters, promotion offerings or email that you ask to receive or to tell you about changes to the site.
 
-In developing our business, we might sell certain assets or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, your user information, whether personally identifiable or otherwise, may be one of the transferred assets.
+#### Email Services
 
-## Use of Cookies
+If you take advantage of any email features on our sites, you and/or the person you email to may receive email updates as described in the service. All email recipients are afforded the opportunity to opt-out of receiving communications from us and our partners.
 
-Our site uses a technology called "cookies," which are small files that are placed on your computer by our servers stored by your browser to help keep track of your user profile. We use temporary cookies to remember your personal profile for your convenience, to deliver content specific to your needs and interests, and to ensure you don't see the same advertisement repeatedly. We also use cookies to track user trends and improve areas of our sites that our users find valuable. We do not share cookie information with anyone without your permission.
+#### Order Forms
 
-Americanhomeguides.com may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+Our sites use forms for you to request information, products and services and more information from us. Some contact information and unique identifiers are required to process your request. We may also request additional information that we use to improve areas of our site. Guide Book orders are conducted through a secure site managed by a business partner. This partner is audited by a third party Certification Authority.
 
-Some advertisers or third party ad servers may also use their own cookies. We do not have access to this information collected by third parties.
+#### Your Security
 
-You have the ability to accept or decline cookies by modifying your browser and our web sites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features of our site, as well as other web sites, will not be available to you.
+RentPath, Inc. has taken the following important measures to protect against loss, misuse or alteration of your personal information. First, we store no financial information or social security information on our site. The personal data we do store on our system is protected by firewall and password. Our network firewall is a combination of hardware and software designed to keep unauthorized users from accessing our network. The password you select, along with your unique email address, prevents others from accessing your information. We suggest that you do not disclose your password to anyone.
 
-## Third-Party Sites
+#### Third Party Service Providers
 
-Our site contains links to other sites. Please note that we are not responsible for the privacy practices or the content of web sites that you can link to through our site.
+Some of the services available are provided by third parties that have their own privacy policies that may be different than ours. You should review the privacy policy of third parties before providing your personal information to them.
 
-## Changing your personal information
+#### Outside links
 
-You may, at any time, change, correct or modify any personal information you may have provided to us by visiting the Account section of the Site and following the instructions.
+While on NewHomeGuide.com, you may be led to other web sites. Be aware that other sites may collect data and personal information and operate according to their own privacy practices. Please remember that, once outside of our family of sites, any information you submit is outside of our control.
 
-Americanhomeguides.com provides you the opportunity to opt out of receiving communications from our partners and us. To remove your personal information, you can unsubscribe in accordance with the instructions in any communication sent to you.
+#### Disclosure
 
-## Security of your personal information
+To provide you the best products and services, we team with business partners. When you indicate that you want to receive a product or service, or contact a person or organization, we share the data needed for you to receive what you have indicated. Occasionally, we hire consultants that may need access to our member database to perform their services for us. We take great care to require that these business partners agree by contract not to use any member information that they may receive access to. RentPath, Inc. may contract with outside companies to administer our mailing lists or provide retail services. Your personal information may be shared with an outside company for the sole purpose of administering the products, services and programs you have selected.
 
-All HPCi employees are made aware of its privacy practices through periodic communications and training. We limit access to private and confidential data only to those employees with a specific need to retrieve this information. To maintain the highest level of security, we store no financial information or social security information on our site. The personal data we do store on our system is protected by firewall and password. Our network firewall is a combination of hardware and software designed to keep unauthorized users from accessing our network. The password you select, along with your unique email address, prevents others from accessing your information. In order to protect your information, we suggest that you do not disclose your password to anyone.
+#### Choice/Opt-out
 
-You should also be aware that if you voluntarily disclose information online (whether through our services or any other service available online), personal or otherwise, that information can be collected and used by others. For example, if you use chat, forums, bulletin boards, your e-mail or if you post personal information online, you may receive unsolicited messages from others. We have no control over this use of your personal information.
+RentPath, Inc. provides you the opportunity to opt out of receiving communications from our partners and us. To remove your personal information, users can send a request via the "Comments" feature and by typing "unsubscribe" in the "Additional Comments" section, or unsubscribe via the 'Opt-Out' link that is included at the bottom of every RentPath, Inc. email you receive.
 
-## Changes To Our Privacy Policy
+#### Correct or Update
 
-We will occasionally update this Privacy Policy as necessary to maintain the highest protection for our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change.
+You can change or update your personal information for a particular tool by going to your "Edit Profile" section of the site and following instructions to update your information.
+
+#### Contacting Us
+
+If you have questions or concerns about our privacy policy or if at any time you feel that RentPath, Inc. has not adhered to this policy, send a message through the "Comments" feature of NewHomeGuide.com and we'll do our best to determine any problem and quickly respond.This privacy policy does not extend to any information that is inherent in the operation of the Internet, and therefore beyond the control of RentPath, Inc., and is not to be applied in any manner contrary to applicable law or governmental regulation. We reserve the right at our discretion to make changes to this policy at any time.RentPath, Inc. and its affiliates may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on RentPath, Inc. or its affiliates; (2) protect and defend the property or rights of RentPath, Inc., and its affiliates or users.
