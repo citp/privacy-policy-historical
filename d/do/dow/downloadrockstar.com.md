@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadrockstar.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616162803id_/http%3A//downloadrockstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadrockstar.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206125236id_/http%3A//downloadrockstar.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
