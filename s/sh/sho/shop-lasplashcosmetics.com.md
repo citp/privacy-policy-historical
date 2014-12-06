@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the shop-lasplashcosmetics.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511012734id_/http%3A//shop-lasplashcosmetics.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop-lasplashcosmetics.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206065121id_/http%3A//shop-lasplashcosmetics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy
 
-We at LASplash Cosmetics respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and our Terms and Conditions. 
+We at LASplash Cosmetics respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and our Terms and Conditions.
 
-This Privacy Policy describes the types of personal information we collect at the LASplash Cosmetics website, currently located at www.lasplashcosmetics.com (the "Site}. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services. 
+This Privacy Policy describes the types of personal information we collect at the LASplash Cosmetics website, currently located at www.lasplashcosmetics.com (the "Site}. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.
 
-Please note that this Privacy Policy governs only information provided to LASplash Cosmetics. It does not govern any other information or communications that may reference LASplash Cosmetics, e.g., communications from LASplash Cosmetics retailer stores. If you visit one of our other regional websites, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy. 
+Please note that this Privacy Policy governs only information provided to LASplash Cosmetics. It does not govern any other information or communications that may reference LASplash Cosmetics, e.g., communications from LASplash Cosmetics retailer stores. If you visit one of our other regional websites, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy.
 
-This privacy policy sets out how LA Splash Cosmetics uses and protects any information that you give LA Splash Cosmetics when you use this website. LA Splash Cosmetics is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. LA Splash Cosmetics may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+This privacy policy sets out how LA Splash Cosmetics uses and protects any information that you give LA Splash Cosmetics when you use this website. LA Splash Cosmetics is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. LA Splash Cosmetics may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 ### UPDATES TO OUR PRIVACY POLICY
 
@@ -18,7 +18,7 @@ We may update our Privacy Policy at anytime. All updates will be posted here, we
 
 ### COLLECTIONS AND USE OF INFORMATION
 
-You may opt to provide us with personal information when you visit our site. Specifically, if you decide to complete a user registration form, you may be asked to supply certain information such as your contact information (name, email address, mailing address and/or telephone number) and possible optional information. We utilize this information to provide the service you requested. In order to help protect your personal information, users registering at the website must also enter a username/email address and password.
+You may opt to provide us with personal information when you visit our site in a number of ways. Specifically, if you participate in an offer, registration, or promotion, including our Share Your Look (photo share),   you may be asked to supply certain information such as your contact information (name, email address, mailing address and/or telephone number) and possible optional information. We utilize this information to provide the service you requested. In order to help protect your personal information, users registering at the website must also enter a username/email address and password.  On certain programs, you may be asked to supply photos to us.  Any photos that are supplied to us through these promotional programs may be used for marketing purposes.
 
 ### MANAGEMENT OF INFORMATION
 
@@ -50,11 +50,11 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 ### Links to other websites
 
