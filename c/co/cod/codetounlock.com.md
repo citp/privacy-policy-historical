@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codetounlock.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529150626id_/http%3A//www.codetounlock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codetounlock.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206142625id_/http%3A//www.codetounlock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CodeToUnlock
 
@@ -60,4 +60,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-**admin@CodetoUnlock.com**
+**admin@codetounlock.com or st236087@gmail.com**
