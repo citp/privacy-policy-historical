@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the centercode.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619003343id_/http%3A//www.centercode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centercode.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207182007id_/http%3A//www.centercode.com/privacy) for the most accurate reproduction.*
 
 # Centercode Privacy Policy | Centercode
 
-We take the privacy of our visitors, testers, and customers very seriously. Below are the details of our web site's privacy policy. Please email [security@centercode.com](mailto:security@centercode.com) with any questions.
+We take the privacy of our visitors, testers, and customers very seriously. Below are the details of our privacy policy. Please email [security@centercode.com](mailto:security@centercode.com) with any questions.
 
-Centercode respects the privacy of anyone who uses the Centercode Web site (www.centercode.com) and Centercode Connect™ online application. Centercode gathers important information from our visitors and customers. We publish this Privacy Policy to communicate how we gather and use information about you, how we protect it, and how you can participate in its protection.
+Centercode respects the privacy of anyone who uses the Centercode Web site (www.centercode.com) and Centercode online application. Centercode gathers important information from our visitors and customers. We published this Privacy Policy to communicate how we gather and use information about you, how we protect it, and how you can participate in its protection.
 
 Centercode provides its service to you subject to the Centercode Terms of Service and this Privacy Policy, which shall be deemed part of the Terms of Service. We reserve the right to change this Privacy Policy. If we change it, we will provide notification of the change at least thirty (30) business days before the change takes effect and include directions for how you can respond to the change. 
 
@@ -16,7 +16,7 @@ Centercode has certified that it adheres to the Safe Harbor Privacy Principles o
 
 ### Information Collected
 
-We require people who register to use the Centercode online applications (the "Services") to give us contact information. Depending on the services chosen, we ask for contact and account information, such as name, company name, address, phone number, e-mail address, password, and the number of users in the organization who will be using the Services, in addition to financial and billing information, such as billing name, address and credit card number. When you express interest in additional information, when you register for the Services, or after you become a user, we may ask for additional personal information, such as title, department name, fax number, number of employees, or industry. You can opt out of providing additional information by not entering it when asked. Centercode does not distribute or share customer e-mail addresses, except as noted in its Terms of Service, or as may be required by law. 
+We require people who register to use the Centercode online applications (the "Services") to give us contact information. Depending on the services chosen, we ask for contact and account information, such as name, company name, address, phone number, e-mail address, password, and the number of users in the organization who will be using the Services, in addition to financial and billing information, such as billing name, address, and credit card number. When you express interest in additional information, when you register for the Services, or after you become a user, we may ask for additional personal information, such as title, department name, fax number, number of employees, or industry. You can opt out of providing additional information by not entering it when asked. Centercode does not distribute or share customer e-mail addresses, except as noted in its Terms of Service, or as may be required by law. 
 
 Centercode uses the information we collect to set up the Services for individuals and their organizations. We may also use the information to contact customers and prospects to further discuss their interest in our company, the Services we provide and ways we can improve them, and to send information such as announcements of promotions and events regarding our company or partners. We may also e-mail a customer newsletter and updates about the Services or the company. You can opt out of receiving these communications by replying to them at the time they are distributed or at any time by e-mailing [security@centercode.com](mailto:security@centercode.com).
 
@@ -38,7 +38,7 @@ Centercode has security measures in place for Centercode Services to help protec
 
 ### Third Party Sites
 
-The Centercode Services and Web site contain links to other Web sites. Centercode is not responsible for the privacy practices or the content of these other Web sites. Customers and visitors must check the policy statement of these others Web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is your responsibility to keep such information private and confidential
+The Centercode Services and Web site contain links to other Web sites. Centercode is not responsible for the privacy practices or the content of these other Web sites. Customers and visitors must check the policy statement of these other Web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is your responsibility to keep such information private and confidential
 
 ### Cookies
 
@@ -60,4 +60,4 @@ Centercode is also subject to the jurisdiction of the U.S. Federal Trade Commiss
 
 ### Correcting & Updating Your Information
 
-To update or change account information, Centercode Connect customers can log on to [your account](https://account.centercode.com/). Services customers can e-mail [support@centercode.com](mailto:support@centercode.com). Questions regarding this Privacy Policy or our security practices should be directed to Centercode's Security Administrator by e-mailing [security@centercode.com](mailto:security@centercode.com). 
+To update or change account information, Centercode software customers can log on to [your account](https://account.centercode.com/). Services customers can e-mail [support@centercode.com](mailto:support@centercode.com). Questions regarding this Privacy Policy or our security practices should be directed to Centercode's Security Administrator by e-mailing [security@centercode.com](mailto:security@centercode.com). 
