@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quinnipiac.edu privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511210107id_/http%3A//www.quinnipiac.edu/website-security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quinnipiac.edu privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207060316id_/http%3A//www.quinnipiac.edu/website-security-and-privacy-policy) for the most accurate reproduction.*
 
 # Website Security and Privacy Policy | Quinnipiac University Connecticut
 
@@ -33,6 +33,6 @@ You can control whether or not your web browser accepts cookies by altering the 
 
 **6\. Changes to Policy** \- We will update this Policy to reflect any changes in the manner in which we treat the information collected on this website. When we post changes to this Policy, we will revise the "last updated" date at the top of this Policy. We encourage you to periodically review this Policy to be informed of how we are protecting your information.
 
-If you have any questions about this Policy, the practices of this website, or your dealings with the University, you can find full contact information [here](http://www.quinnipiac.edu/about-the-web-site).
+If you have any questions about this Policy, the practices of this website, or your dealings with the University, you can find full contact information [here](http://www.quinnipiac.edu/about-the-website).
 
 [Back to top](http://www.quinnipiac.edu/#top)
