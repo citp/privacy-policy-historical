@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netmediablog.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517165954id_/http%3A//www.netmediablog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmediablog.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207105904id_/http%3A//www.netmediablog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NetMediaBlog.com
+# Privacy Policy - NetMediaBlog
 
-This Privacy Policy governs the manner in which NetMediaBlog collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.netmediablog.com](http://www.netmediablog.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by NetMediaBlog.
+This Privacy Policy governs the manner in which NetMediaBlog collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.netmediablog.com](http://netmediablog.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by NetMediaBlog.
 
 **Personal identification information**
 
@@ -55,17 +55,15 @@ NetMediaBlog has the discretion to update this privacy policy at any time. When 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.netmediablog.com/privacy-policy). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://netmediablog.com/privacy-policy/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[NetMediaBlog](http://www.netmediablog.com/)  
-[http://www.netmediablog.com](http://www.netmediablog.com/)  
+[NetMediaBlog](http://netmediablog.com/)  
+[http://www.netmediablog.com](http://netmediablog.com/)  
 2 School road, Oyigbo,Rivers State,Nigeria  
 2348037829267  
 admin@netmediablog.com
 
 This document was last updated on January 19, 2012
-
-[](http://vivociti.com/component/option,com_remository/Itemid,40/func,select/id,16/ "Get Google +1 \(Google Plus One\) Recommend Button For WordPress Plugin")
