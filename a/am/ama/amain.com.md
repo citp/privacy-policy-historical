@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the amain.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504034106id_/http%3A//www.amain.com/information.php/info_id/2/n/Web-site-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amain.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207122025id_/http%3A//www.amain.com/Privacy-Policy/i2) for the most accurate reproduction.*
 
-# Web site Privacy Policy - A Main Hobbies
+# Privacy Notice
 
 **EFFECTIVE DATE: JULY 13, 2010**   
 
 
-**1.   INTRODUCTION. **Good Time Hobbies, Inc., doing business as A Main Hobbies (“us,” “we,” “Company,” or “A Main Hobbies”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (“the Site”) at http://www.AMain.com and the services provided through the Site (the “Services”).  We created this Website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy.  This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+**1.   INTRODUCTION. **AMain.com, Inc., doing business as AMain.com (“us,” “we,” “Company,” or “AMain.com”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (“the Site”) at http://www.AMain.com and the services provided through the Site (the “Services”).  We created this Website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy.  This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
 BY USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY.  IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE SITE.
 
@@ -21,7 +21,7 @@ BY USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY.  
 > 
 >  **(2.3) POSTING.   **We store and may publicly display the information that you submit or post to the Site for public display, such as product reviews.
 > 
->  **(2.4) CONTACTING A MAIN HOBBIES.   **If you contact us to provide feedback, register a complaint, or ask a question, we will record any Personal Information and other content that you provide in your communication so that we can effectively respond to your communication.  Any such contact with A Main Hobbies should be made pursuant to Section 9, below.
+>  **(2.4) CONTACTING AMAIN.COM.   **If you contact us to provide feedback, register a complaint, or ask a question, we will record any Personal Information and other content that you provide in your communication so that we can effectively respond to your communication.  Any such contact with AMain.com should be made pursuant to Section 9, below.
 > 
 >  **(2.5) ENFORCEMENT.   **We may use the information we collect in connection with your use of the Site or Services in order to investigate, enforce, and apply our Terms of Use and Privacy Policy.
 
@@ -31,11 +31,11 @@ BY USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY.  
 > 
 >  **(3.2) SHARING OF PERSONAL INFORMATION.   **We share certain categories of information we collect from you in the ways described in this Privacy Policy.  We share Contact Data with other companies who may want to send you information about their products or services, unless you have specifically requested that we not share Contact Data with such companies.  We also share Contact Data and Financial Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Site.  Those business partners have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to Company.
 > 
-> If you do not want us to share your Contact Data with third parties unrelated to the performance of our core services and Site operation, please email us at privacy@amainhobbies.com, uncheck the box at the time of setting up your account on the [“My Account” web page ](https://www.amain.com/account.php "My Account")indicating that your Contact Data will be shared with such third parties, or review and request changes to your Personal Information via the [“My Account” web page ](https://www.amain.com/account.php "My Account")on the Site as described in Section 5, below.
+> If you do not want us to share your Contact Data with third parties unrelated to the performance of our core services and Site operation, please email us at privacy@amain.com, uncheck the box at the time of setting up your account on the [“My Account” web page ](https://www.amain.com/account.php "My Account")indicating that your Contact Data will be shared with such third parties, or review and request changes to your Personal Information via the [“My Account” web page ](https://www.amain.com/account.php "My Account")on the Site as described in Section 5, below.
 
  **4\. CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION.   **Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Use.  Your Personal Information is stored on secure servers that are not accessible by third parties.  We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
 
-Furthermore, your account is password protected.  We limit the access to your Personal Information to those employees and contractors who need access to perform their job function.  If you have any questions about the security on the Site, please contact us at privacy@amainhobbies.com.  Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your Personal Information will never be disclosed in a manner that is inconsistent with this Privacy Policy.  YOU HEREBY ACKNOWLEDGE THAT A MAIN HOBBIES IS NOT RESPONSIBLE FOR ANY SUCH INADVERTENT DISCLOSURES OR ANY INTERCEPTED INFORMATION SENT VIA THE INTERNET, AND YOU HEREBY RELEASE US FROM ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THE USE OF INTERCEPTED INFORMATION IN ANY UNAUTHORIZED MANNER.
+Furthermore, your account is password protected.  We limit the access to your Personal Information to those employees and contractors who need access to perform their job function.  If you have any questions about the security on the Site, please contact us at privacy@amainhobbies.com.  Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your Personal Information will never be disclosed in a manner that is inconsistent with this Privacy Policy.  YOU HEREBY ACKNOWLEDGE THAT AMAIN.COM IS NOT RESPONSIBLE FOR ANY SUCH INADVERTENT DISCLOSURES OR ANY INTERCEPTED INFORMATION SENT VIA THE INTERNET, AND YOU HEREBY RELEASE US FROM ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THE USE OF INTERCEPTED INFORMATION IN ANY UNAUTHORIZED MANNER.
 
  **5\. USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION.   **We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date.  At any time, you may visit your account information at the [“My Account” web page ](https://www.amain.com/account.php "My Account")on the Site.  Through your [“My Account” web page ](https://www.amain.com/account.php "My Account")you may: (a) review and update your Personal Information that we have already collected; (b) choose whether or not you wish us to send you information about our company, or promotional material from third parties.
 
@@ -45,11 +45,11 @@ Furthermore, your account is password protected.  We limit the access to your P
 
  **8\. PUBLIC INFORMATION.   **The Site contains links to other websites.  We are not responsible for the privacy practices or the content of such websites.  We also may make chat rooms, forums, message boards, product review boards, and news groups available to you.  Please understand that any information that is disclosed in these areas becomes public information.  We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
 
- **9\. METHOD OF CONTACT.   **If you have a question or concern regarding this Privacy Policy, believe that this Privacy Policy has been violated, you may e-mail A Main Hobbies at privacy@amainhobbies.com or write to the A Main Hobbies at the following address:
+ **9\. METHOD OF CONTACT.   **If you have a question or concern regarding this Privacy Policy, believe that this Privacy Policy has been violated, you may e-mail AMain.com at privacy@amainhobbies.com or write to the AMain.com at the following address:
 
 Privacy Policy Agent  
-A Main Hobbies  
-424 Otterson Drive, Suite 160  
+AMain.com  
+424 Otterson Drive  
 Chico, CA 95928  
 
 
@@ -58,6 +58,3 @@ In your correspondence, please describe your question, concern, or complaint in 
  **10\. LINKS.   **The Site may contain links to third party websites with which we have no affiliation.  Except as set forth above, we do not share your Personal Information with those third parties, and are not responsible for their privacy practices.  We suggest you read the privacy policies on all such third party websites.
 
  **11\. UPDATES AND CHANGES TO PRIVACY POLICY.   **We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you.  Any such change, update, or modification will be effective immediately upon posting on the Site.
-
-  
-
