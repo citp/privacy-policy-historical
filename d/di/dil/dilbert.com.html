@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dilbert.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628041245id_/http%3A//www.dilbert.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dilbert.com privacy policy that was archived on 2014-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141207105914id_/http%3A//www.dilbert.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:meebo="http://www.meebo.com/"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<title>The official Dilbert website privacy policy.</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta property="og:site_name" content="www.Dilbert.com">
@@ -16,7 +16,7 @@
 			var PATH	= { Public: '', IMG: '/img/v1' };
 			var VPI		= {
 					IsLoggedIn:		false,
-					ServerTime:		'2014-06-27 23:12:45',
+					ServerTime:		'2014-12-07 04:59:14',
 					FirstStripDate:	new Date( 1994, 0, 23 )
 			};
 		</script>
@@ -65,59 +65,35 @@ googletag.defineOutOfPageSlot('/19196947/dilbert.com/explore', 'div-gpt-ad-13455
 googletag.pubads().enableSyncRendering();
 googletag.enableServices();
 </script>
-		<!-- Google Analytics -->
+    <!-- Google Universal Analytics Start -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      
-      ga('create', 'UA-87784-12', 'auto', {'allowLinker': true});
-      ga('require', 'linker');
-      ga('linker:autoLink', ['mobile.dilbert.com'] );
-      ga('require', 'linkid', 'linkid.js');
-      ga('require', 'displayfeatures');
-      ga('send', 'pageview');
+
+      /* 07.31.2014 - The reason for two trackers is because this analytics property is in an incorrect network and needs to be tracked in the correct network with the exact same data for a few months before we shut it off in the old network. */
+
+      // AMP Tracking Object  
+      ga('create', 'UA-87784-12', 'auto', {'name': 'tracker12'});
+      ga('tracker12.require', 'displayfeatures');
+      ga('tracker12.require', 'linkid');
+      //ga('tracker12.set', 'dimension1', "Dilbert");
+      //ga('tracker12.set', 'dimension2', "Dilbert");
+      ga('tracker12.send', 'pageview');
+
+      // UU Tracking Object
+      ga('create', 'UA-273330-47', 'auto', {'name': 'tracker47'}); 
+      ga('tracker47.require', 'displayfeatures');
+      ga('tracker47.require', 'linkid');
+      //ga('tracker47.set', 'dimension1', "Dilbert");
+      //ga('tracker47.set', 'dimension2', "Dilbert");
+      ga('tracker47.send', 'pageview');
     </script>
-    <!-- Google Analytics -->
+    <!-- Google Universal Analytics End -->
 
 	</head>
-	<body><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe"></iframe></m></div>
-		<script type="text/javascript">
-		window.Meebo||function(c){function p(){return["<",i,' onload="var d=',g,";d.getElementsByTagName('head')[0].",
-		j,"(d.",h,"('script')).",k,"='//cim.meebo.com/cim?iv=",a.v,"&",q,"=",c[q],c[l]?
-		"&"+l+"="+c[l]:"",c[e]?"&"+e+"="+c[e]:"","'\"></",i,">"].join("")}var f=window,
-		a=f.Meebo=f.Meebo||function(){(a._=a._||[]).push(arguments)},d=document,i="body",
-		m=d[i],r;if(!m){r=arguments.callee;return setTimeout(function(){r(c)},100)}a.$=
-		{0:+new Date};a.T=function(u){a.$[u]=new Date-a.$[0]};a.v=4;var j="appendChild",
-		h="createElement",k="src",l="lang",q="network",e="domain",n=d[h]("div"),v=n[j](d[h]("m")),
-		b=d[h]("iframe"),g="document",o,s=function(){a.T("load");a("load")};f.addEventListener?
-		f.addEventListener("load",s,false):f.attachEvent("onload",s);n.style.display="none";
-		m.insertBefore(n,m.firstChild).id="meebo";b.frameBorder="0";b.id="meebo-iframe";
-		b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=
-		d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=
-		b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,
-		'\\"')+'");d.close();'}a.T(1)}({network:"dilbert"});
-		Meebo('setDefaultThumbnail',{thumbnail:'http://dilbert.com/img/v1/fb_image.jpg', thumbnailWidth:90, thumbnailHeight:90});
-		</script>
-		
-		<!-- START OF MEEBO CUSTOM BUTTONS -->
-
-		<script type="text/javascript">
-			Meebo('addButton', {
-				id: "fb-share-button",
-				type: "action",
-				isIcon: true,
-				icon: "http://images.gocomics.com/images/meebo/d_fb_share.png",
-				onClick: function(){
-					share_url = encodeURIComponent(document.location.href);
-					share_title = encodeURIComponent(document.title);
-					window.open ("http://www.facebook.com/sharer.php?u=" + share_url + "&t=" + share_title, "Share on Facebook","height=400,width=500");
-				}
-			});
-		</script>		
-		<!-- END OF MEEBO CUSTOM BUTTONS -->
-		
+	<body>		
 		<div class="SiteWrapper">
 			<div class="Header">
 				<div class="Ad_Banner"><div id="leader" style="width: 728px; height: 90px" class="ad">
@@ -392,8 +368,5 @@ qacct:"p-5bhew76JBcfq6"
 		<![endif]-->
 
 		<iframe name="PrintFrame" id="PrintFrame" src="/blank.html" width="0" height="0" frameborder="0"></iframe>
-		<script type="text/javascript">
-		    Meebo('domReady');
-		</script>
 	
 <div id="zoom" style="display:none; z-index:9000">                   <table id="zoom_table" style="border-collapse:collapse; width:100%; height:100%;">                     <tbody>                       <tr>                         <td class="tl" style="background:url(/img/v1/fancy_zoom/tl.png) 0 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="tm" style="background:url(/img/v1/fancy_zoom/tm.png) 0 0 repeat-x; height:20px; overflow:hidden;"></td>                         <td class="tr" style="background:url(/img/v1/fancy_zoom/tr.png) 100% 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="ml" style="background:url(/img/v1/fancy_zoom/ml.png) 0 0 repeat-y; width:20px; overflow:hidden;"></td>                         <td class="mm" style="background:#fff; vertical-align:top; padding:10px;">                           <div id="zoom_content">                           </div>                         </td>                         <td class="mr" style="background:url(/img/v1/fancy_zoom/mr.png) 100% 0 repeat-y;  width:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="bl" style="background:url(/img/v1/fancy_zoom/bl.png) 0 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="bm" style="background:url(/img/v1/fancy_zoom/bm.png) 0 100% repeat-x; height:20px; overflow:hidden;"></td>                         <td class="br" style="background:url(/img/v1/fancy_zoom/br.png) 100% 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                     </tbody>                   </table>                   <a href="#" title="Close" id="zoom_close" style="position:absolute; top:0; left:0;">                     <img src="/img/v1/fancy_zoom/closebox.png" alt="Close" style="border:none; margin:0; padding:0;">                   </a>                 </div></body></html>
