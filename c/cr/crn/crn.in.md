@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crn.in privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206174022id_/http%3A//www.crn.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crn.in privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207044856id_/http%3A//www.crn.in/static/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# CRN India Privacy Policy
 
 **Use of Information**
 
@@ -28,7 +28,7 @@ Examples of such information are:
 
 
 **‘Cookies’  
-**   
+**    
 We use cookies on this site when users first enter the site. This ensures that on subsequent visits, if the cookie has not been deleted, users will not be asked to re-register. Cookies are small pieces of information that are stored on your computer by the server maintaining and operating the site. They do not compromise your privacy or security as they store a randomly generated identifying tag on your computer.  
 The cookie information does not include personal data such as name, age, phone number, email address or mailing address. In addition, we do not link cookies to personal data such as name, age, phone number, email address or mailing address. Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to stop cookies being placed on your terminal equipment – please refer to your specific Internet browser for instructions.
 
