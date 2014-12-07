@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201000301id_/http%3A//www.optimalprint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207181927id_/http%3A//www.optimalprint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,6 +70,8 @@ Optimalprint Web sites use "cookies" to enable you to sign in to our services, h
 If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits. Please understand that if cookies are turned off, you may not be able to view certain parts of this site that may enhance your visit. 
 
 Some of our business partners whose content is linked to or from this site may also use cookies. However, we have no access to or control over these cookies. 
+
+Third parties we partner with may place anonymous cookies on your browser and may send their own cookies to your cookie file. 
 
 ## Spam
 
