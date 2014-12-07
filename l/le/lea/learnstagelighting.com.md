@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnstagelighting.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521130151id_/http%3A//www.learnstagelighting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnstagelighting.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208000845id_/http%3A//www.learnstagelighting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Learn Stage Lighting .comLearn Stage Lighting .com
+# Privacy Policy - Learn Stage Lighting .com
 
 **Privacy Policy for www.learnstagelighting.com**
 
