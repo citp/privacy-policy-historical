@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingyoushouldknow.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523070407id_/http%3A//everythingyoushouldknow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingyoushouldknow.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207113054id_/http%3A//everythingyoushouldknow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Everything You Should Know by Arielle Ford
 
