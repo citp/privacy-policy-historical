@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the myscore.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214113746id_/https%3A//www.myscore.com/ms_info_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myscore.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207154624id_/https%3A//www.myscore.com/ms_info_privacy.asp) for the most accurate reproduction.*
 
 # MyScore - Privacy Policy
 
-[](https://web.archive.org/web/20140214113746id_/https%3A//www.myscore.com/ms_index.asp)
+[](https://web.archive.org/web/20141207154624id_/https%3A//www.myscore.com/ms_index.asp)
 
-[](https://web.archive.org/web/20140214113746id_/https%3A//www.myscore.com/ms_login.asp)
+[](https://web.archive.org/web/20141207154624id_/https%3A//www.myscore.com/ms_login.asp)
+
+7-Day Free Trial  
+**Ends Dec. 14, 2014**
+
+Monthly Membership of **$29.95**  
+automatically charged after free trial
+
+To Cancel, Just Call  
+**1-855-331-9531**
 
 ##### We Are Committed to Safeguarding Customer Information 
 
@@ -27,7 +36,7 @@ collect include:
 
 ##### Changes to Information 
 
-If you want to update or correct information you have provided to MyScore.com, you can do so by sending us a letter to 2385 NW Executive Center Drive Suite 100 Boca Raton, FL 33431. If you want to correct information in a consumer report we provide on you that you believe is incorrect, you can do so through the dispute resolution process provided under the Fair Credit Reporting Act or other applicable laws.   
+If you want to update or correct information you have provided to MyScore.com, you can do so by sending us a letter to 111 Durkee Road NE #120 Cleveland, TN 37323. If you want to correct information in a consumer report we provide on you that you believe is incorrect, you can do so through the dispute resolution process provided under the Fair Credit Reporting Act or other applicable laws.   
 Use of Information 
 
 We request information from you or obtain information about you for our own legitimate business purposes and not for the benefit of any third party. Therefore, we will not release your information to any party, whether affiliated with us or not, except: (1) as necessary for us to provide the product or service you have requested; or (2) as permitted by law. We may, however, store such information, including during the period after which any customer relationship has ceased. Such information may be used for any internal purpose, such as quality control efforts or customer analysis.
@@ -76,8 +85,8 @@ Any material changes to our Privacy Practices or security procedures will be pos
 
 Should you have any questions about Privacy, please contact:
 
-Promeritum, LLC
+MyScore.com
 
-2385 NW Executive Center Drive Suite 100 Boca Raton, FL 33431
+111 Durkee Road NE #120 Cleveland, TN 37323
 
 _Last updated on January 11, 2014_
