@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615072158id_/http%3A//reproductiverights.org/en/node/59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207211439id_/http%3A//www.reproductiverights.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Center for Reproductive Rights Disclaimer and Privacy Statement | Center for Reproductive Rights
 
@@ -10,7 +10,7 @@ Center for Reproductive Rights ("The Center" or "we", "us", "our") does not guar
 
 ### Privacy Policy
 
-**Last Revised: January 15, 2009**
+**Last Revised: October 1, 2014**
 
 The Center shares your concern about the protection of your personal information online. This is our policy regarding maintaining the privacy of personal information we collect online in connection with the reprorights.org or reproductiverights.org website (the "Site").
 
@@ -111,6 +111,8 @@ We reserve the right to disclose any information including personal information 
 ### Security
 
 We use reasonable security methods to protect the data that resides on our servers. However, because no security system is impenetrable, we cannot guarantee the security of your data on our servers. In addition, because internet communication is unsecure, it is also possible that information you supply to us will be intercepted during transmission. We, therefore, do not guarantee the security of any transmission between you and the Site.
+
+Whenever you give The Center sensitive or confidential information (for example, credit card numbers for donations), The Center will take reasonable steps to protect the information by establishing a secure connection with your Web browser. The Center employs a security technology known as a secure-socket-layer (“SSL”) to protect the transmission of payment information to the site. Unless otherwise specified herein or on the site where you make a donation, credit card numbers are used only to fulfill your request and are not retained for marketing purposes.
 
 ### Contact Information
 
