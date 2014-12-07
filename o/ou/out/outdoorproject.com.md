@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorproject.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508182719id_/http%3A//www.outdoorproject.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorproject.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207124913id_/http%3A//www.outdoorproject.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
