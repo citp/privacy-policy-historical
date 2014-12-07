@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628105753id_/http%3A//www.hclibrary.org/index.php%3Fpage%3D464) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207224832id_/http%3A//www.hclibrary.org/index.php%3Fpage%3D550) for the most accurate reproduction.*
 
-# Howard County Library - Privacy Statement
+# Howard County Library System - Privacy Statement
 
 Privacy Statement
 
@@ -70,7 +70,7 @@ Contacting HCL:
 
 If you have any questions about this privacy statement, the practices of HCL, or your dealings with our web sites, please contact: 
 
-[Rita Hamlet](https://web.archive.org/webservices/email.php?page=464&staffid=62 "Send an Email")  
+[Rita Hamlet](https://web.archive.org/webservices/email.php?page=550&staffid=62 "Send an Email")  
 Howard County Library System  
 6600 Cradlerock Way  
 Columbia, MD 21045
