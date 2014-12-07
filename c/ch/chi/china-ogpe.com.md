@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the china-ogpe.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329180026id_/http%3A//www.china-ogpe.com/html/company/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the china-ogpe.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207043806id_/http%3A//www.china-ogpe.com/html/company/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - China-ogpe.com
 
