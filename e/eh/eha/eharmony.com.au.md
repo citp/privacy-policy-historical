@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327133329id_/http%3A//www.eharmony.com.au/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207211204id_/http%3A//www.eharmony.com.au/privacy/statement) for the most accurate reproduction.*
 
-# eHarmony - Privacy Policy
+# Privacy Policy Statement | eHarmony Australia Dating Site
 
 **General Information**
 
@@ -80,19 +80,21 @@ We generally retain your PII only for so long as is necessary for the purpose fo
   1. Click on the “unsubscribe” link on the bottom of the e-mail;
   2. Send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:
 eHarmony, Inc.  
-P.O. Box 3640, Santa Monica, CA 90408 USA
+P.O. Box 3640  
+Santa Monica, CA 90408 USA
   3. For the eHarmony Singles service, select our [Help link](https://web.archive.org/singles/servlet/support/help) from your account home page and search our [FAQ’s](http://help-singles.eharmony.com.au/cgi-bin/eharmony_singlesau.cfg/php/enduser/guided_alp.php) to find the answer you are looking for, or [send us an e-mail](https://web.archive.org/singles/servlet/rightnow/landing?) and our Customer Care agents will be happy to assist you; or
-  4. For any services that allow you to control which e-mails you receive, go to the e-mail settings page from your account home page, and un-check the undesired promotions.
+  4. For any services that allow you to control which e-mails you receive, access the e-mail settings page from your account home page and check your settings as needed.
 
 
 
-**Correct/Update/Delete**
+**Correct/Update/Delete Personal Information**
 
-eHarmony provides users the following options for correcting, modifying or requesting deletion of information previously submitted.
+eHarmony provides members with the opportunity to correct, update, or delete personal information that has been provided to us by using the methods below.
 
-  1. For the eHarmony Singles service, select our [Help link](https://web.archive.org/singles/servlet/support/help) from your account home page and search our [FAQ’s](http://help-singles.eharmony.com.au/cgi-bin/eharmony_singlesau.cfg/php/enduser/guided_alp.php) to find the answer you are looking for, or [send us an e-mail](https://web.archive.org/singles/servlet/rightnow/landing?) and our Customer Care agents will be happy to assist you; or
-  2. For any services where you have an account page, you may change your credit card (if applicable), e-mail address, password and other information from the account settings or preferences page; or
-  3. You can send mail to the postal address listed above, providing us with your account information and letting us know which information you wish to update. We will respond to all access requests within 30 days.
+  1. Certain information (such as match settings, credit card, and email address updates) may be updated by logging in to your account and accessing your Account Settings page.
+  2. eHarmony requires that some personal information updates (such as date of birth changes) be processed by our Customer Care group for verification purposes and to protect other members. In order make such personal information updates, please find our Customer Care contact information at the [Help link](http://www.eharmony.com.au/singles/servlet/support/help "Help link") for further assistance.
+  3. To request deletion of your personal account information, please access  our [FAQ’s](http://help-singles.eharmony.com.au/cgi-bin/eharmony_singlesau.cfg/php/enduser/guided_alp.php "FAQ") and follow the process under the relevant account deletion FAQ. Requests for personal information deletion are processed within 10 working days.
+  4. You may also request an account information update by sending a detailed letter to the postal address listed above. 
 
 
 
@@ -104,7 +106,7 @@ Site Administrator
 eHarmony, Inc.  
 P.O. Box 3640, Santa Monica, CA 90408 USA  
 [privacy@eharmony.com.au](mailto:privacy@eharmony.com.au)  
-1-800-833-293 
+1-800-633-293 
 
 **Acceptance of Privacy Policy**
 
@@ -114,4 +116,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Effective Date**
 
-This privacy policy was last revised on May 2, 2013.
+This privacy policy was last revised on April 29, 2014.
