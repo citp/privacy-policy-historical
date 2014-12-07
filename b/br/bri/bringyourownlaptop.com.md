@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bringyourownlaptop.com privacy policy that was archived on 2014-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140104113903id_/http%3A//www.bringyourownlaptop.co.nz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringyourownlaptop.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207234001id_/http%3A//www.bringyourownlaptop.co.nz/privacy-policy.html) for the most accurate reproduction.*
 
 # BYOL Privacy Policy
 
