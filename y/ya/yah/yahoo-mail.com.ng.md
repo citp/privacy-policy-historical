@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the yahoo-mail.com.ng privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110003id_/http%3A//www.yahoo-mail.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoo-mail.com.ng privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207083106id_/http%3A//www.yahoo-mail.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.freshgist.com.ng/n225000-naira-1500-internet-month-nigeria-working-home/)
+
+  
+
 
 Privacy Policy Statement for Yahoo-Mail.com.ng
 
