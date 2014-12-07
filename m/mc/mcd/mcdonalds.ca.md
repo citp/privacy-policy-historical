@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcdonalds.ca privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328225909id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.ca privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208000156id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: McDonalds.ca
+# Privacy Policy | McDonalds.ca
 
 At McDonald'sÂ®, we strongly believe in protecting the privacy of the personal information that we obtain for business purposes about our customers. To that end, we have established our Privacy Policy.   In addition, we have developed Privacy Principles to guide us in the interpretation and application of our Privacy Policy. We also have Website Privacy Guidelines to protect the privacy of visitors to our website â mcdonalds.ca.
 
