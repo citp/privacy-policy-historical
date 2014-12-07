@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulsmith.co.uk privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522211033id_/http%3A//www.paulsmith.co.uk/us-en/shop/information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulsmith.co.uk privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207233235id_/http%3A//www.paulsmith.co.uk/uk-en/shop/information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ When becoming a new customer you agree to our terms and conditions and privacy p
 
 \- helping Paul Smith Ltd through analysis and assessment to better understand and develop our business, including new and innovative products and services.
 
-Paul Smith may also pass your information to credit reference and fraud prevention agencies, which may keep a record of that information.
+Paul Smith may also pass your information to credit reference and fraud prevention agencies for the purpose of verifying your identity; these agencies may keep a record of that information.
 
 We may share your information with selected third parties including:
 
