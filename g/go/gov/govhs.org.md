@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the govhs.org privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501191608id_/http%3A//thevhscollaborative.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govhs.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207071611id_/http%3A//thevhscollaborative.org/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | The VHS Collaborative
+# Privacy Statement | The Virtual High School
 
-## April 5, 2011
-
-The VHS Collaborative established this privacy policy to let you know how we collect, use, share and protect information that we may gather from our web site. This policy does not apply to information that we may collect from you outside of our web site, such as by phone, FAX, or through postal mail. This policy does not apply to information about you collected by third party websites and offerings linked to or otherwise accessible from VHS. The information collected or received by third parties is subject to their own privacy policies.
+VHS established this privacy policy to let you know how we collect, use, share and protect information that we may gather from our web site. This policy does not apply to information that we may collect from you outside of our web site, such as by phone, FAX, or through postal mail. This policy does not apply to information about you collected by third party websites and offerings linked to or otherwise accessible from VHS. The information collected or received by third parties is subject to their own privacy policies.
 
 ### Security of Your Information
 
@@ -12,13 +10,17 @@ Our site has security measures to protect against loss, misuse, and unauthorized
 
 ### Personal Information Provided by Parents About Children
 
-We understand that our student users who are under 13 years of age need special safeguards and privacy protection, and it is our intent to fully comply with the Children's Online Privacy Protection Act (COPPA). VHS does not collect personal information from children online at any point. You can review certain personal information that VHS has regarding your child by making such a request in writing to [privacy@TheVHSCollaborative.org](mailto:privacy@thevhscollaborative.org?subject=&cc=&bcc=&body=). Please be aware that some personal information relating to your children’s educational records may not be able to be disclosed by VHS due to state and/or federal law.
+We understand that our student users who are under 13 years of age need special safeguards and privacy protection, and it is our intent to fully comply with the Children's Online Privacy Protection Act (COPPA). VHS does not collect personal information from children online at any point. You can review certain personal information that VHS has regarding your child by making such a request in writing to privacy@TheVHS.org. Please be aware that some personal information relating to your children’s educational records may not be able to be disclosed by VHS due to state and/or federal law.
 
-You can request that your children’s personal information not be used by VHS, and any affiliates and/or vendors acting on behalf of VHS, by making a request in writing to VHS.  
-For information on COPPA and the use of children’s personal information, please contact:  The VHS Collaborative 4 Clock Tower Place Suite 510   
-Maynard, MA 01754   
-1.978.897.1900   
-[privacy@TheVHSCollaborative.org](mailto:privacy@thevhscollaborative.org?subject=&cc=&bcc=&body=)  
+_You can request that your children’s personal information not be used by VHS, and any affiliates and/or vendors acting on behalf of VHS, by making a request in writing to VHS._
+
+For information on COPPA and the use of children’s personal information, please contact:
+
+VHS Inc.  
+4 Clock Tower Place Suite 510  
+Maynard, MA 01754  
+1.978.897.1900  
+[privacy@TheVHS.org](mailto:privacy@thevhscollaborative.org)
 
 ### Information We Collect
 
@@ -42,7 +44,7 @@ You may choose not to receive marketing or promotional emails from VHS, by click
 
 Our work, including our web statistics, is not automatically available to the government or to the public, and any information we choose to share will be on an aggregated, non-identifying basis.
 
-We will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on VHS, Inc. or the site; (b) protect and defend the rights or property of VHS; and, (c) act under exigent circumstances to protect the personal safety of users of VHS services, or the public.
+We will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on VHS Inc. or the site; (b) protect and defend the rights or property of VHS; and, (c) act under exigent circumstances to protect the personal safety of users of VHS services, or the public.
 
 ### Our Commitment to Data Security
 
@@ -54,4 +56,10 @@ We will occasionally amend this Privacy Policy to reflect company and customer f
 
 ### Question and Contact Information
 
-### If you have questions about this policy, contact us at VHS, 4 Clock Tower Place, Suite 510, Maynard, MA 01754, USA, or at 978.897.1900 or [privacy@TheVHSCollaborative.org](mailto:privacy@thevhscollaborative.org?subject=&cc=&bcc=&body=).
+If you have any questions about this policy, contact us at:
+
+VHS Inc.  
+4 Clock Tower Place Suite 510  
+Maynard, MA 01754  
+1.978.897.1900  
+[privacy@TheVHS.org](mailto:privacy@thevhscollaborative.org)
