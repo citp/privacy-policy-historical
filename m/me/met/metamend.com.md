@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metamend.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055708id_/http%3A//www.metamend.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metamend.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207102725id_/http%3A//www.metamend.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Metamend Search Engine Marketing
 
