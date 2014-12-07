@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hahaha.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124015236id_/http%3A//www.hahaha.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hahaha.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207051855id_/http%3A//www.hahaha.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Just For Laughs
 
