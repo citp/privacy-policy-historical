@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the sparkinfosys.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603213433id_/http%3A//www.sparkinfosys.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkinfosys.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207230010id_/http%3A//www.sparkinfosys.com/privacy-policy.html) for the most accurate reproduction.*
 
-# :: Spark Infosys - Privacy Policy ::web development company,web designers,web developers,Bulk sms,Bulk Email,Send Free sms,joomla,drupal,PHP Developer,web hosting,freelance website designer,graphic designer,logo designer,UI Designer,PHP programmer,website hosting, website developers, user interface designers,Flash designer, developer web, web parts,flash developer, flex development,web application development,graphic designer,logo designers,corporate website,corporate logo designers, hyderabad, vizag,India web designer,india web developer,india php developer,web programming, software developer,brochure designer, PHP web development, animator, CMS developer, India website hosting, webspace, hosting, domain names, hyderabad web designers, hyderabad web developers, hyderabad PHP programmer, hyderabad website designers, hyderabad web hosting, Search Engine Optmization,presentations,content writer,mobile applications, SEO consultant,email services,3D,2D,XHTML,HTML,Java Script, AJAX, CSS,XML,XSLT,Wordpress, Theme designer, template designer, blog developer,e-commernce website designer,web development, website development, developers, designers
+# Spark Infosys - Privacy Policy | Web Designing and Web Development
 
-Privacy Policy
+## Privacy Policy
 
 By using our website you agree to use of your information by us in accordance with this Privacy Policy.
 
-Changes to the Privacy Policy
+## Changes to the Privacy Policy
 
 We reserve the right to change terms of this Privacy Policy at any time without any prior notice. Any changes will be inserted on this page and visitors to the web site should check this page often. Your continued use of the site following any changes to this Privacy Policy will constitute your acceptance of such changes.
 
-Information Collected Automatically
+## Information Collected Automatically
 
 In some cases, we may collect technical information when you connect to our site that is not personal information. For example, operating system used, browser used, URL of referred site from which you accessed our site etc Furthermore, when you view our site, some information may be stored on your computer. This information will be in the form of a cookie or similar file and can help us in many ways. For example, cookies allow us to tailor the site to better match your interests and preferences. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
 
-Privacy Information
+## Privacy Information
 
 We will not collect any personally identifiable information about you (e.g., your name, address, telephone number or email address) through our site unless you have provided it to us voluntarily. We will ask you when we need information that personally identifies you.
 
