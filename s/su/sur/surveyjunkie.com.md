@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyjunkie.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626125605id_/http%3A//www.surveyjunkie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyjunkie.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207161344id_/http%3A//www.surveyjunkie.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Survey Junkie
 
@@ -100,4 +100,4 @@ We reserve the right to disclose your personally identifiable information as req
 
 SURVEY JUNKIE reserves the right to change this privacy policy at any time, so please review this policy frequently.
 
-This Privacy Policy was last revised on March 20, 2014.
+This Privacy Policy was last revised on October 15, 2014.
