@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607230103id_/http%3A//www.melbourne.vic.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207105835id_/http%3A//www.melbourne.vic.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Website privacy statement - City of Melbourne
 
@@ -36,11 +36,11 @@ Email addresses and any other contact details you provide will not be added to m
 
 City of Melbourne will take all necessary measures to prevent unauthorised access to, or disclosure of, your personal information. 
 
-External organisations to which personal information is disclosed include City of Melbourne’s contracted Service Providers who perform various services for and on behalf of City of Melbourne. These contractors have agreed to be bound by the provisions of the Victorian Information Privacy Act 2000. Information provided to these contractors is limited to contact details provided by you whilst contacting us.
+External organisations to which personal information is disclosed include City of Melbourne’s contracted Service Providers who perform various services for and on behalf of City of Melbourne. These contractors have agreed to be bound by the provisions of the Privacy and Data Protection Act 2014 (VIC). Information provided to these contractors is limited to contact details provided by you whilst contacting us.
 
 We will also ensure that your personal information is not disclosed to other individuals, institutions and authorities outside Council except if required or authorised by law or explicitly permitted by you. For example, in the event of an investigation into suspected unlawful or improper activity, a law enforcement agency or government agency may exercise its legal authority to inspect the web server's records (e.g. in relation to hacking or abusive messages).
 
-Agencies and businesses that we may (with your consent) need to forward your contact details to include:
+Agencies and businesses that we may need to forward your contact details to include but are not limited to:
 
   * Port Phillip City Council 
   * Yarra City Council 
