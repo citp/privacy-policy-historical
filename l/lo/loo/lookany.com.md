@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookany.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302203251id_/http%3A//about.lookany.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookany.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207034233id_/http%3A//about.lookany.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LookAny
 
