@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blorge.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113222id_/http%3A//tech.blorge.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blorge.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207173804id_/http%3A//tech.blorge.com/privacy-statement) for the most accurate reproduction.*
 
 # TECH.BLORGE.com - Privacy statement
 
