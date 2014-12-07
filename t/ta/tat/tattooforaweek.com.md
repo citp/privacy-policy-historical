@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tattooforaweek.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220531id_/http%3A//www.tattooforaweek.com/en/info/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattooforaweek.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207160120id_/http%3A//www.tattooforaweek.com/en/info/Privacy%2B%25252526%2BCookies.html) for the most accurate reproduction.*
 
-# Privacy Fake Tattoos and Temporary Tattoos (Temporary tattoo) - TattooForAWeek, The Largest Online Temporary Tattoo Shop
+# Privacy & Cookies Fake Tattoos and Temporary Tattoos (Temporary tattoo) - TattooForAWeek, The Largest Online Temporary Tattoo Shop
 
 **Privacy Policy**
 
@@ -15,3 +15,5 @@ WebManiac can collect anonymous or aggregated data of non-personal nature, such 
  **The use of cookies**.
 
 During a visit to the site, cookies may be added on the hard drive of your computer and this only to make the site more responsive to the needs of returning visitors. These small files or cookies are not used to monitor surfing habits to other Web sites. Your Internet browser allows you to prevent the use of cookies, to receive a warning when a cookie is installed or to remove the cookies from your hard disk. Please consult the help function of your browser
+
+Click [here](http://www.tattooforaweek.com/en/info/Cookies.html) for more information on cookies at TattooForAWeek.com.
