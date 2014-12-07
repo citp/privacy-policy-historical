@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513002435id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207200535id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - NewBiz Advertising Blog
 
