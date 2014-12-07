@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lendkey.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523020712id_/http%3A//www.lendkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendkey.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208001454id_/http%3A//www.lendkey.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LendKey – Cloud-Based Lending Technology
+# Privacy Policy - LendKey - Cloud-Based Lending Technology - LendKey – Cloud-Based Lending Technology
 
 ## Facts
 
@@ -30,9 +30,9 @@ All financial companies need to share customers’ personal information to run t
 such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
 **For our marketing purposes—**  
 to offer our products and services to you | Yes | No  
-**For joint marketing with other financial companies** | Yes | No  
+**For joint marketing with other financial companies** | No | No  
 **For our affiliates’ everyday business purposes—**  
-information about your transactions and experiences | Yes | No  
+information about your transactions and experiences | No | We don’t share  
 **For our affiliates’ everyday business purposes—**  
 information about your creditworthiness | No | We don’t share  
 **For our affiliates to market to you** | No | We don’t share  
@@ -40,7 +40,7 @@ information about your creditworthiness | No | We don’t share
   
 **Questions?**
 
-Call toll-free (888) 549-9050
+Call toll-free (888) 966-8947
 
 **Who we are**  
 ---  
@@ -71,8 +71,10 @@ State laws and individual companies may give you additional rights to limit shar
 **Definitions**  
 ---  
 Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies.  
-_Our affiliates include nonfinancial companies._  
+_LendKey Technologies, Inc. does not share with our affiliates._  
 Nonaffiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
-_LendKey Technologies, Inc. does not share with nonaffiliates so they can market to you._  
+_LendKey Technologies, Inc. does not share with nonaffiliates._  
 Joint marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
-_LendKey Technologies, Inc. doesn’t jointly market._
+**Other important information**  
+---  
+**California Residents:**   We do not share any personal information about you with any affiliated or nonaffiliated company to the extent that the information sharing would be subject to an opt-out or opt-in right under California law.  We do not share any personal information with anyone for their direct marketing purposes.  We do share personally identifiable information about you with credit bureaus and service providers who assist us with identity verification and locating; loan servicing, certification, and insurance; and document signing.  You may review and request changes to the personally identifiable information about you that is collected through our Website.  You may review your information by visiting your profile in the password-protected My Account section of this site.  As a registered user, you can update a password, email address, physical address, phone number, and financial account information at any time.  To request changes to any information, please contact us at customer.care@lendkey.com.  We will notify you of any material changes to this privacy notice by posting a revised privacy notice on this Website or a similar website that replaces this Website. | 
