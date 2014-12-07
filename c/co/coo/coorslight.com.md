@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coorslight.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072705id_/http%3A//pages.coorslight.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coorslight.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207111949id_/http%3A//pages.coorslight.com/legal/privacy) for the most accurate reproduction.*
 
 # Coors Light - Privacy Policy
 
@@ -46,7 +46,7 @@ This Privacy Policy applies to personal information we obtain from individuals i
 
 **_Access Restricted to People of Legal Drinking Age_**
 
-**COORS BREWING COMPANY'S SITES, INCLUDING ACCESS TO ALL ADVERTISING AND MARKETING INFORMATION ON THE SITES, ARE INTENDED ONLY FOR PERSONS OF LEGAL DRINKING AGE. DATE OF BIRTH VERIFICATION IS REQUIRED AT THE ENTRANCE OF THE SITE AND AGE VERIFICATION PROMPTS MAY ALSO BE LOCATED WITHIN THE SITES. IF YOU BELIEVE SOMEONE UNDER THE LEGAL DRINKING AGE HAS PROVIDED US WITH PERSONAL INFORMATION BY OBTAINING ACCESS IN VIOLATION OF THE SITES' ACCESS RESTRICTIONS, PLEASE[ _CONTACT US_](http://www.millercoors.com/Contact-Us.aspx) IMMEDIATELY AND THIS INFORMATION WILL BE REMOVED.**
+**COORS BREWING COMPANY'S SITES, INCLUDING ACCESS TO ALL ADVERTISING AND MARKETING INFORMATION ON THE SITES, ARE INTENDED ONLY FOR PERSONS OF LEGAL DRINKING AGE. DATE OF BIRTH VERIFICATION IS REQUIRED AT THE ENTRANCE OF THE SITE AND AGE VERIFICATION PROMPTS MAY ALSO BE LOCATED WITHIN THE SITES. IF YOU BELIEVE SOMEONE UNDER THE LEGAL DRINKING AGE HAS PROVIDED US WITH PERSONAL INFORMATION BY OBTAINING ACCESS IN VIOLATION OF THE SITES' ACCESS RESTRICTIONS, PLEASE[ _CONTACT US_](https://web.archive.org/Contact) IMMEDIATELY AND THIS INFORMATION WILL BE REMOVED.**
 
 **_Types of Information We Collect_**
 
@@ -155,11 +155,11 @@ Coors Brewing Company may share the information it collects about you in the fol
 
 
 
-On certain of our Sites we may enable you to access online communities for sharing information such as messages, photos, and videos. You may only share this information with persons of legal drinking age. Please note that we cannot control the actions of others with whom you may choose to share your pages and information. We may also enable you to post content from some of our Sites to your profile on other social networks. For example, you may be able to access our Sites using Facebook Connect. Please be aware that the privacy policy of the social networking site will apply to any content you provide them in these instances. To request removal of your personal information from our online communities, please [_contact  us_](http://www.millercoors.com/Contact-Us.aspx). if we are unable to remove your personal information, we will respond to your request with the applicable reasons.
+On certain of our Sites we may enable you to access online communities for sharing information such as messages, photos, and videos. You may only share this information with persons of legal drinking age. Please note that we cannot control the actions of others with whom you may choose to share your pages and information. We may also enable you to post content from some of our Sites to your profile on other social networks. For example, you may be able to access our Sites using Facebook Connect. Please be aware that the privacy policy of the social networking site will apply to any content you provide them in these instances. To request removal of your personal information from our online communities, please [_contact  us_](https://web.archive.org/Contact). if we are unable to remove your personal information, we will respond to your request with the applicable reasons.
 
 **_Choice/Opt-Out_**
 
-If you have already submitted personal information to us and would like us to remove it from our records, please [_contact  us_](http://www.millercoors.com/Contact-Us.aspx) and request removal of the information from our records. Once we receive your request, we will remove the personal information you provided to Coors Brewing Company from our files.
+If you have already submitted personal information to us and would like us to remove it from our records, please [_contact  us_](https://web.archive.org/Contact) and request removal of the information from our records. Once we receive your request, we will remove the personal information you provided to Coors Brewing Company from our files.
 
 If you wish to have an e-mail address removed from our records, please send an email from that address to us at [_coorslightunsubscribe@millercoorsonline.com_](mailto:coorslightunsubscribe@millercoorsonline.com?Subject=unsubscribe) with the word "unsubscribe" in the subject line of your email. You may also choose to stop receiving updates or marketing emails by following the unsubscribe instructions included in emails you receive from us.
 
@@ -181,7 +181,7 @@ Our Sites may include interactive programs that provide specific services from a
 
 **_Your California Privacy Rights_**
 
-If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please [_contact  us_](http://www.millercoors.com/Contact-Us.aspx).
+If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please [_contact  us_](https://web.archive.org/Contact).
 
 **_Changes to this Privacy Policy_**
 
@@ -191,7 +191,7 @@ Last Modified and Effective Date: December 2013
 
 **_Privacy Inquiries and Correcting Your Information_**
 
-If you have any questions or comments regarding this Privacy Policy, or wish to update, correct, or remove your personal information, please [_contact  us_](http://www.millercoors.com/Contact-Us.aspx) or write to us at:
+If you have any questions or comments regarding this Privacy Policy, or wish to update, correct, or remove your personal information, please [_contact  us_](https://web.archive.org/Contact) or write to us at:
 
 Coors Brewing Company  
 Attn: Legal Department  
