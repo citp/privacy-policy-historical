@@ -1,38 +1,37 @@
-> *The following text is extracted and transformed from the yourarticlelibrary.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414033329id_/http%3A//www.yourarticlelibrary.com/content-quality-guideline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourarticlelibrary.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207165340id_/http%3A//www.yourarticlelibrary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YourArticleLibrary.com: The Next Generation Library
 
-YourArticleLibrary.com respects the privacy of its users. This Privacy Policy is created to secure the personal information. This Privacy Policy is developed to clarify to its users how YourArticleLibrary.com distributes the personal information it collects from authors. The settlement of disputes arising from the use of the website will be under the jurisdiction and laws of India.
+**Last Updated: 02, May 2014**
 
-**User Approval:**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our contact us form.
 
-Whenever a user accesses the website established or assigned to the URL denominated as www.yourarticlelibrary.com or when a user accesses any other domain name that is distributed by www.yourarticlelibrary.com, the user gives permission to the collection of any information that might be acquired by the website. This information shall be used in accordance with Privacy Policy of the website.
+At www.yourarticlelibrary.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www. yourarticlelibrary.com and how it is used.
 
-[](http://www.yourarticlelibrary.com/wp-content/uploads/2013/12/1014.jpg)
+#### **Log Files**
 
-Image Courtesy : mocricket.org/images/guidelines1.jpg
+Like many other Web sites, www. yourarticlelibrary.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
 
-YourArticleLibrary.com has the right to change the policy at any time without prior notice to its users and by posting a new Privacy Notice at the Privacy Page. Personal information collected, used and disclosed by YourArticleLibrary.com will be governed by the Privacy Policy which is in effect at that specific time. Users are expected and encouraged to check the Privacy Policy Page from time to time to be informed of possible changes. Please contact us if you have concerns regarding our Privacy Policy.
+#### **Cookies and Web Beacons**
 
-**Collection of Information:**
+www.yourarticlelibrary.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-To access certain pages in YourArticleLibrary.com or to register as a user, the site will require will certain material information pertinent to the user. The website would require a user to provide certain personal information which is not limited to names and contact information, including email address, before it can start using certain features of the website.
+#### **Double-click DART Cookie**
 
-Users of linked external accounts of authorized partners or third parties of YourArticleLibrary.com shall also adhere to the privacy policies of these third-party websites.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following UR:
 
-During the accessing of the website, the IP addresses of visitors may also be collected. The collection of the IP address information is for the purpose of administering the website, improving connections with servers, and to gather broad and general demographic information.
+[http://www.google.com/privacy_ads.html](http://www.google.com/intl/en/policies/privacy/)
 
-**The Use of Information Collected:**
+<http://www.google.com/intl/en/policies/privacy/>
 
-Any information that the website collects from its users may be used in any of the following ways:
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
-  * To improve user experience and to improve the service and performance of the website.
-  * To improve our website’s services through feedback.
-  * To contact the user in order to provide additional information and updates about the website and its operations, whether internal or external, as well as to inform the user about recent changes in the website or any of its policies.
-  * To process transactions more efficiently.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.yourarticlelibrary.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
+www.yourarticlelibrary.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.yourarticlelibrary.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**Security of Information:**
+#### Citations
 
-The information gathered from users of the website will be kept confidential and will not be sold, transferred or provided to third parties for any reason without the approval of the concerned users. However, the information may be shared with authorized parties who may act on our behalf. All these information will be likewise kept confidential by the authorized parties. All information gathered from users of the websites will, however, be released when it is required by the law, to enforce the website’s policies, or to protect public order and public safety.
+http://www.google.com/intl/en/policies/privacy/
