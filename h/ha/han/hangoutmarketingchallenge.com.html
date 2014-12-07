@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hangoutmarketingchallenge.com privacy policy that was archived on 2014-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140523235935id_/http%3A//www.hangoutmarketingchallenge.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hangoutmarketingchallenge.com privacy policy that was archived on 2014-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141207173227id_/http%3A//www.hangoutmarketingchallenge.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -15,7 +15,7 @@
 <link rel="alternate" type="application/rss+xml" title="Hangout Marketing Challenge » Comments Feed" href="http://www.hangoutmarketingchallenge.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Hangout Marketing Challenge » Privacy Policy Comments Feed" href="http://www.hangoutmarketingchallenge.com/privacy/feed/">
 <!-- This site is powered by Shareaholic - https://shareaholic.com -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=139470342892339"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script type="text/javascript" data-cfasync="false">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=139470342892339&amp;version=v2.0"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script type="text/javascript" data-cfasync="false">
   //<![CDATA[
     (function() {
       var shr = document.createElement('script');
@@ -26,7 +26,19 @@
         var rs = this.readyState;
         if (rs && rs != 'complete' && rs != 'loaded') return;
         var site_id = 'ec0170a58e8f94a37c2bf70878106969';
-        var page_config = {};
+        var page_config = {"apps":{"share_buttons":{"get_share_counts":  function(url, services, cb) {
+    Shareaholic.Utils.ajax({
+      cache: true,
+      cache_ttl: '1 minute',
+      url: 'http://www.hangoutmarketingchallenge.com/wp-admin/admin-ajax.php',
+      data: { action: 'shareaholic_share_counts_api', url: url, services: services },
+      success: function(res) {
+        if(res && res.data) {
+          cb(res.data, true);
+        }
+      }
+    })
+  }}}};
         try { Shareaholic.init(site_id, page_config); } catch (e) {}
       };
       var s = document.getElementsByTagName('script')[0];
@@ -40,43 +52,33 @@
 <meta name="shareaholic:language" content="en-US">
 <meta name="shareaholic:url" content="http://www.hangoutmarketingchallenge.com/privacy/">
 <meta name="shareaholic:article_published_time" content="2013-09-19T18:06:39+00:00">
-<meta name="shareaholic:article_modified_time" content="2014-05-22T21:00:40+00:00">
+<meta name="shareaholic:article_modified_time" content="2014-12-05T23:11:46+00:00">
+<meta name="shareaholic:shareable_page" content="true">
 <meta name="shareaholic:article_author_name" content="hmcadmin">
 <meta name="shareaholic:site_id" content="ec0170a58e8f94a37c2bf70878106969">
-<meta name="shareaholic:wp_version" content="7.2.0.0">
+<meta name="shareaholic:wp_version" content="7.4.0.6">
 
 <!-- Shareaholic Content Tags End -->
-<link rel="stylesheet" id="ccf-jquery-ui-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/css/jquery-ui.css?ver=3.8.3" type="text/css" media="all">
-<link rel="stylesheet" id="CCFStandardsCSS-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/css/custom-contact-forms-standards.css?ver=3.8.3" type="text/css" media="all">
-<link rel="stylesheet" id="CCFFormsCSS-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/css/custom-contact-forms.css?ver=3.8.3" type="text/css" media="all">
+<link rel="stylesheet" id="easy-modal-site-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/easy-modal/assets/styles/easy-modal-site.css?ver=0.1" type="text/css" media="all">
+<link rel="stylesheet" id="ccf-jquery-ui-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/css/jquery-ui.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="CCFStandardsCSS-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/css/custom-contact-forms-standards.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="CCFFormsCSS-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/css/custom-contact-forms.css?ver=4.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="instabuilder-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/css/instabuilder.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="colorbox-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/colorbox/colorbox.css?ver=3.8.3" type="text/css" media="all">
-<link rel="stylesheet" id="easy-modal-styles-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/easy-modal/inc/css/easy-modal.min.css?ver=0.1" type="text/css" media="all">
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
+<link rel="stylesheet" id="colorbox-css" href="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/colorbox/colorbox.css?ver=4.0.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
 <script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/jquery.cookie.js?ver=3.8.3"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/instabuilder.js?ver=3.8.3"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/colorbox/jquery.colorbox-min.js?ver=3.8.3"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/countdown/jquery.lwtCountdown-1.0.js?ver=3.8.3"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/jquery-t-countdown-widget/js/jquery.t-countdown.js?ver=1.5"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/comment-reply.min.js?ver=3.8.3"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/js/custom-contact-forms-datepicker.js?ver=3.8.3"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/js/jquery.tools.min.js?ver=3.8.3"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/js/custom-contact-forms.js?ver=3.8.3"></script>
-<script type="text/javascript" src="http://p.jwpcdn.com/6/8/jwplayer.js?ver=3.8.3"></script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/easy-modal/inc/js/jquery.animate-colors-min.js?ver=3.8.3"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var easymodal = [];
-easymodal = {"modals":[],"themes":{"1":{"name":"Black","overlayColor":"#000000","overlayOpacity":"75","containerBgColor":"#000000","containerPadding":"10","containerBorderColor":"#ffffff","containerBorderStyle":"solid","containerBorderWidth":"3","containerBorderRadius":"20","closeLocation":"inside","closeBgColor":"#000000","closeFontColor":"#ffffff","closeFontSize":"15","closeBorderRadius":"10","closeSize":"20","closeText":"&#215;","closePosition":"topright","contentTitleFontColor":"#ffffff","contentTitleFontSize":"32","contentTitleFontFamily":"Tahoma","contentFontColor":"#ffffff"}}};;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/easy-modal/inc/js/easy-modal.min.js?ver=3.8.3"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/jquery.cookie.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/instabuilder.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/colorbox/jquery.colorbox-min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/InstaBuilder/js/countdown/jquery.lwtCountdown-1.0.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/jquery-t-countdown-widget/js/jquery.t-countdown.js?ver=1.5.1"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/js/custom-contact-forms-datepicker.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/js/jquery.tools.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/custom-contact-forms/js/custom-contact-forms.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://p.jwpcdn.com/6/10/jwplayer.js?ver=4.0.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.hangoutmarketingchallenge.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.hangoutmarketingchallenge.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Chiropractor" href="http://www.hangoutmarketingchallenge.com/chiropractor/">
-<link rel="next" title="Terms of Use" href="http://www.hangoutmarketingchallenge.com/terms/">
 
 <link rel="canonical" href="http://www.hangoutmarketingchallenge.com/privacy/">
 <link rel="shortlink" href="http://www.hangoutmarketingchallenge.com/?p=1630">
@@ -146,7 +148,7 @@ easymodal = {"modals":[],"themes":{"1":{"name":"Black","overlayColor":"#000000",
             }
             </script>
 
-            <!-- Running WishList Member v2.80.2027 -->
+            <!-- Running WishList Member v2.80.2119 -->
 <style type="text/css">
 /* The Main Widget Enclosure */
 .WishListMember_Widget{ }
@@ -155,16 +157,23 @@ easymodal = {"modals":[],"themes":{"1":{"name":"Black","overlayColor":"#000000",
 /* The Main Login Merge Code Enclosure */
 .WishListMember_LoginMergeCode{ }
 </style>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<script type="text/javascript">
-(function(url){
-if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-var wfscr = document.createElement('script');
-wfscr.type = 'text/javascript';
-wfscr.async = true;
-wfscr.src = url + '&r=' + Math.random();
-(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-})('//www.hangoutmarketingchallenge.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=0EE5C6D67022745FE42B4376342E7418'); 
-</script><script type="text/javascript" async="" src="//www.hangoutmarketingchallenge.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&amp;hid=0EE5C6D67022745FE42B4376342E7418&amp;r=0.2250895931723027"></script></head>
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1516459288570859']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1516459288570859&amp;ev=PixelInitialized&quot; /></noscript>
+</head>
 
 <body class="page page-id-1630 page-template page-template-challenge-page-php singular two-column right-sidebar">
 <div id="page" class="hfeed">
@@ -322,7 +331,7 @@ wfscr.src = url + '&r=' + Math.random();
 	
 			
 </div><!-- #comments -->
-			</div><!-- #content -->
+				<div class="shareaholic-canvas" data-app-id="4688730" data-app="share_buttons" data-title="Privacy Policy" data-link="http://www.hangoutmarketingchallenge.com/privacy/" data-summary=""></div>	</div><!-- #content -->
 </div><!-- #primary -->
 </div><!-- #main -->
 	<footer id="colophon" role="contentinfo">
@@ -354,14 +363,24 @@ jQuery(document).ready(function(){
 		});
 	});
 </script>
-<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.3"></script>
-<!-- Facebook Comments for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/comment-reply.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/easy-modal/assets/scripts/jquery.transit.min.js?ver=0.9.11"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var emodal_themes = [];
+emodal_themes = {"1":{"id":"1","theme_id":"1","overlay":{"background":{"color":"#220E10","opacity":85}},"container":{"padding":10,"background":{"color":"#F7F5E7","opacity":100},"border":{"style":"solid","color":"#f0532b","width":1,"radius":8},"boxshadow":{"inset":"no","horizontal":3,"vertical":3,"blur":2,"spread":0,"color":"#000","opacity":0.4}},"close":{"text":"&#215;","location":"topright","position":{"top":0,"left":0,"bottom":0,"right":0},"padding":2,"background":{"color":"#000","opacity":100},"font":{"color":"#f0532b","size":16,"family":"Times New Roman"},"border":{"style":"solid","color":"#fff","width":1,"radius":10},"boxshadow":{"inset":"no","horizontal":0,"vertical":0,"blur":0,"spread":0,"color":"#000","opacity":0},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#000","opacity":0}},"title":{"font":{"color":"#f0532b","size":32,"family":"Tahoma"},"text":{"align":"center"},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#000","opacity":0}},"content":{"font":{"color":"#f0532b","family":"Times New Roman"}}},"2":{"id":"2","theme_id":"2","overlay":{"background":{"color":"#000000","opacity":"75"}},"container":{"padding":"10","background":{"color":"#000000","opacity":100},"border":{"style":"solid","color":"#ffffff","width":"3","radius":"20"},"boxshadow":{"inset":"no","horizontal":3,"vertical":3,"blur":2,"spread":0,"color":"#000","opacity":0.4}},"close":{"text":"&#215;","location":"topright","position":{"top":0,"left":0,"bottom":0,"right":0},"padding":2.5,"background":{"color":"#000000","opacity":100},"font":{"color":"#ffffff","size":"15","family":"Times New Roman"},"border":{"style":"solid","color":"#fff","width":1,"radius":"10"},"boxshadow":{"inset":"no","horizontal":0,"vertical":0,"blur":0,"spread":0,"color":"#000","opacity":0},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#000","opacity":0}},"title":{"font":{"color":"#ffffff","size":"32","family":"Tahoma"},"text":{"align":"center"},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#000","opacity":0}},"content":{"font":{"color":"#ffffff","family":"Times New Roman"}}}};;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-content/plugins/easy-modal/assets/scripts/easy-modal-site.js?ver=2"></script>
+<script type="text/javascript" src="http://www.hangoutmarketingchallenge.com/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4"></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=139470342892339";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=139470342892339&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -412,8 +431,8 @@ ga('create', 'UA-41518581-1', 'hangoutmarketingsecrets.com');
 ga('send', 'pageview');
 
 </script>
-<div id="loginTab"><a href="http://www.hangoutmarketingchallenge.com/login/" target="_blank"><img src="/images/login_button.png"></a></div>
-<div id="reunionTab"><a href="http://www.hangoutmarketingreunion.com" target="_blank"><img src="/images/reunion_button.png"></a></div>
-<div id="hangoutTab"><a href="http://live.marketingonline.com" target="_blank"><img src="/images/hangout_button.png"></a></div>
+<div id="eventsTab" class="tabNav"><a href="http://www.marketingonlinehangout.com/" target="_blank"><img src="/images/events_button.png"></a></div>
+<div id="quizTab" class="tabNav"><a href="http://www.funnelmarketingblueprint.com/" target="_blank"><img src="/images/quiz_button.png"></a></div>
+<div id="toolsTab" class="tabNav"><a href="http://www.marketingonline.com/hangout-millionaire" target="_blank"><img src="/images/tools_button.png"></a></div>
 
 </body></html>
