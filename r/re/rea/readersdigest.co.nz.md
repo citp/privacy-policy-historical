@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512221640id_/http%3A//www.readersdigest.co.nz/privacy-policy%253Ficm%253Dfooter%252526icn%253DPrivacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207191536id_/http%3A//www.readersdigest.co.nz/privacy-policy%253Ficm%253Dfooter%252526icn%253DPrivacy%252BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
@@ -31,7 +31,7 @@ Without this information, RD would not be able to do any of this, so if you do n
 
 In addition, RD occasionally, through proper contractual arrangements with reputable companies, acquires information regarding New Zealand consumers (who have so consented). The only purpose for such arrangements is to afford us the opportunity to provide these consumers promotional offers and prize draw opportunities that we believe will be of interest.
 
-Furthermore, RD will occasionally, through proper contractual agreements, share personal information from its customer lists, (who have so consented) with reliable third party companies to allow these latter to provide products/service offers that we believe may be of interest.
+Furthermore, RD will occasionally, through proper contractual agreements, share personal information from its customer lists, with reliable third party companies to allow these latter to provide products/service offers that we believe may be of interest.
 
 RD also has contracts with independent suppliers who provide services related to our prize draws, payment processing and fraud screening, prize delivery etc., and these suppliers may occasionally have limited access to your personal information, in the course of providing their services. These suppliers are required to protect the personal information of all RD customers.
 
