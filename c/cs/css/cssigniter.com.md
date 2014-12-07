@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssigniter.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620155236id_/http%3A//www.cssigniter.com/ignite/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssigniter.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207215821id_/http%3A//www.cssigniter.com/ignite/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - cssigniter.com
 
