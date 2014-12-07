@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091241id_/http%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207103645id_/http%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Gadget Flow
 
@@ -12,7 +12,7 @@ It is always up to you whether to disclose personally identifiable information t
 
 your name, company, email address, phone number, billing address, and shipping address your Company Name user ID and password credit card information any account-preference information you provide us your computer’s domain name and IP address, indicating where your computer is located on the Internet session data for your login session, so that our computer can ‘talk’ to yours while you are logged in. If you do provide personally identifiable information to us, either directly or through a reseller or other business partner, we will:
 
-not sell or rent it to a third party without your permission — although unless you opt out (see below), we may use your contact information to provide you with information we believe you need to know or may find useful, such as (for example) news about our services and products and modifications to the Terms of Service; take commercially reasonable precautions to protect the information from loss, misuse and unauthorized access, disclosure, alteration and destruction; not use or disclose the information except:as necessary to provide services or products you have ordered, such as (for example) by providing it to a carrier to deliver products you have ordered; in other ways described in this privacy policy or to which you have otherwise consented; in the aggregate with other information in such a way so that your identity cannot reasonably be determined (for example, statistical compilations); as required by law, for example, in response to a subpoena or search warrant; to outside auditors who have agreed to keep the information confidential; as necessary to enforce the Terms of Service; as necessary to protect the rights, safety, or property of The Gadget Flow, its users, or others; this may include (for example) exchanging information with other organisations for fraud protection and/or risk reduction.
+not sell or rent it to a third party without your permission — although unless you opt out (see below), we may use your contact information to provide you with information we believe you need to know or may find useful, such as (for example) news about our services and products and modifications to the Terms of Service; take commercially reasonable precautions to protect the information from loss, misuse and unauthorized access, disclosure, alteration and destruction; not use or disclose the information except:as necessary to provide services or products you have ordered, such as (for example) by providing it to a carrier to deliver products you have ordered; in other ways described in this privacy policy or to which you have otherwise consented; in the aggregate with other information in such a way so that your identity cannot reasonably be determined (for example, statistical compilations); as required by law, for example, in response to a subpoena or search warrant; to outside auditors who have agreed to keep the information confidential; as necessary to enforce the Terms of Service; as necessary to protect the rights, safety, or property of The Gadget Flow, its users, or others; this may include (for example) exchanging information with other organizations for fraud protection and/or risk reduction.
 
 **Other information we collect**
 
@@ -20,7 +20,13 @@ We may collect other information that cannot be readily used to identify you, su
 
 **Cookies**
 
-The Gadget Flow uses “cookies” to store personal data on your computer. We may also link information stored on your computer in cookies with personal data about specific individuals stored on our servers. If you set up your Web browser (for example, Internet Explorer or Firefox) so that cookies are not allowed, you might not be able to use some or all of the features of our Web site(s).
+Cookies are small pieces of data that are stored on your computer, mobile phone or other device. Pixels are small blocks of code on webpages that do things like allow another server to measure viewing of a webpage and often are used in connection with cookies.
+
+We use technologies like cookies, pixels, and local storage (like on your browser or device, which is similar to a cookie but holds more information) to provide and understand a range of products and services.
+
+The Gadget Flow uses “cookies” to store personal data on your computer. We may also link information stored on your computer in cookies with personal data about specific individuals stored on our servers. If you set up your Web browser (for example, Internet Explorer or Firefox) so that cookies are not allowed, you might not be able to use some or all of the features of the platform.
+
+Refer to your browser or device’s help material to learn what controls you can often use to remove or block cookies or other similar technologies or block or remove other data stored on your computer or device (such as by using the various settings in your browser).
 
 **External data storage sites**
 
@@ -38,9 +44,9 @@ The Gadget Flow‘s operations are located primarily in the United States. If yo
 
 You must be at least 13 years old to use The Gadget Flow‘s Web site(s) and service(s). The Gadget Flow does not knowingly collect information from children under 13. (See the U.S. Children’s Online Privacy Protection Act.)
 
-**Theme Copyrights**
+**Design & Functionalities**
 
-The theme that The Gadget Flow uses is registered under many organizations that makes it unique. It was designed and developed by the founders and employees of Cloudie Co which means that no other website, service nor individual can copy any of its aspects, philosophy and functions all together (Subject to using separate functions with different designs). The 3 Navigational menus the fixed height above the navigation, the responsive boxes with hover effect, the specified logo area, the 3 widgets below cannot be used together in any other theme. You can although use any of this theme’s aspects and functions separately without any license as long as it doesn’t remind our current theme. The colors with the combination of the functions, widths heights and content cannot be used by any company, website, service nor individual in any case. Whoever violates the copyrights above, along with the organizations that the theme and design registered will meet the consequences of a possible dispute. Using this theme or combined its CSS, HTML & Javascript to any of your designed without a written agreement will result a dispute that may go up to $90,000.00. If you are interested on purchasing a licensee or a copy of this theme please contact us.
+The Features of this platform were specifically made for The Gadget Flow and cannot be copied all together except in parts for different projects and by requesting permission. It is prohibited to copy the design aspects of this platform along with the colors, shapes and graphics in general for any kinds of platforms, websites or projects. Any attempt of copying or mirroring this platform’s functionalities or design will result a $700,000.00 Fine.
 
 **Changes to this privacy policy**
 
