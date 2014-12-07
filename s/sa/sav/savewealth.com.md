@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savewealth.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521022030id_/http%3A//www.savewealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savewealth.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207191106id_/http%3A//www.savewealth.com/privacy) for the most accurate reproduction.*
 
 # SaveWealth.com Privacy Policy
 
