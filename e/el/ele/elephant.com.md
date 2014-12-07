@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608001055id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207050415id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
 
 # Elephant Auto Insurance | Privacy & Security
 
