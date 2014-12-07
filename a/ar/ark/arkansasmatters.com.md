@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518014853id_/http%3A//www.arkansasmatters.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207171835id_/http%3A//www.arkansasmatters.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Local News, Weather, Sports, and Community for Central Arkansas
+# Privacy Policy - Arkansas Matters
 
 **PRIVACY POLICY Updated November 2013**
 
