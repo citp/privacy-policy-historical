@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629160110id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207132816id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GuerillaStockTrading
+# Privacy Policy
 
-At http://www.guerillastocktrading.com we recognize that privacy is important. 
+  
+**At http://www.guerillastocktrading.com we recognize that privacy is important. We will never ever share your information with any third party, ever. We respect your privacy.**
 
 http://www.guerillastocktrading.com adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, and Access and Enforcement. 
 
@@ -23,6 +24,18 @@ Other sites – This Privacy Policy applies to http://www.guerillastocktrading.c
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
+
+**Web Analytics**
+
+Like every other site on the web we use google analytics to collect traffic data, this contains no user identifiable information.
+
+**Subscribing to and Unsubscribing from Email**
+
+GuerillaStockTrading.com operates a policy of double opt-in when you subscribe. This protects you and GuerillaStockTrading.com from spammers. Visitors may choose to subscribe to (opt-in) or unsubscribe (opt-out) from any or all of these email communications at will. We have a one click unsubscribe policy and if used you will never be contacted again. Your records will then be deleted.
+
+**Google Adwords Conversion Tracking**
+
+We use Google Adwords Conversion tracker which uses cookies to help us determine how many people who clicked on our Google Ads end up contacting us through the website. This tracking cookie is set on your browser only when you click on a Google Ad and these cookies help us increase the website’s effectiveness for our visitors. These cookies expire within 30 days and do not contain information that can identify you personally. Please refer to the Google Advertising Privacy Notice for more information about Google Conversion Tracking and the ability to opt out.
 
 **Personal Information**
 
