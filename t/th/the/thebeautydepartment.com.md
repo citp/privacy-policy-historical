@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebeautydepartment.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044336id_/http%3A//thebeautydepartment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebeautydepartment.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207063448id_/http%3A//thebeautydepartment.com/privacy-policy) for the most accurate reproduction.*
 
 # The Beauty Department: Your Daily Dose of Pretty. - privacy policy
 
