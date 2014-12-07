@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the musicnfilms.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518041241id_/http%3A//www.musicnfilms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicnfilms.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207022606id_/http%3A//musicnfilms.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — 2015 New Songs List
 
 **Privacy Policy for[www.musicnfilms..com](http://www.musicnfilms.com/)**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at djmukesh0007@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel Watch to contact us by email at djmukesh0007@gmail.com.
 
 At www.musicnfilms..com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.musicnfilms..com and how it is used.
 
