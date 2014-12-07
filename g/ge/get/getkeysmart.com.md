@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the getkeysmart.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081609id_/http%3A//getkeysmart.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getkeysmart.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207221508id_/http%3A//getkeysmart.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KeySmart, for premium key holders, pocket organizers, & key ring solutions.
 
-**PRIVACY POLICY**
-
 We value your privacy and are committed to protecting your personal information. Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
-If you have questions about our Privacy Policy, please send them to us by email to Orders@MyKeySmart.com or write to us at the following address: KeySmart Attn: Privacy Policy, 300 West central road, Suite 837 mount prospect, IL 60056
+If you have questions about our Privacy Policy, please send them to us by email to [Orders@MyKeySmart.com](mailto:Orders@MyKeySmart.com) or write to us at the following address:
+
+KeySmart   
+Attn: Privacy Policy  
+300 West central road, Suite 837   
+mount prospect, IL 60056
 
 **TYPES OF INFORMATION**
 
@@ -18,11 +21,26 @@ Broadly speaking, we use personal information for purposes of administering and 
 
 Any personal information that you provide us on our website is stored in our secure web server and our other internal systems. When you purchase or register on our website, we collect your personal information. This may include, but is not limited to, your name, billing and shipping address, phone number, email address, and credit card information. We may use your information in the following ways:
 
-· To process and fulfill your order (e.g. sending you emails to apprise you of your order and shipment status) To send you an email to you confirming the registration of your customer account · To communicate with you about our products, services and promotions unless you have previously specified that you do not wish to receive this information · To help us learn more about your shopping needs and preferences · To enhance your shopping experience · To analyze customer trends and maintain statistics · To contact you if necessary
+  * To process and fulfill your order (e.g. sending you emails to apprise you of your order and shipment status)
+  * To send you an email to you confirming the registration of your customer account
+  * To communicate with you about our products, services and promotions unless you have previously specified that you do not wish to receive this information
+  * To help us learn more about your shopping needs and preferences
+  * To enhance your shopping experience
+  * To analyze customer trends and maintain statistics
+  * To contact you if necessary
+
+
 
 **VIEWING, UPDATING, OR MODIFYING PERSONAL INFORMATION**
 
-We will provide you with access to the personal information you provided to KeySmart by allowing you to view, update or correct your online registration information. In order to protect your privacy, KeySmart takes steps to verify your identity before granting you access to the private information or enabling you to make corrections. We will accomplish this through the use of passwords and personal data. If we cannot provide access within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so. To request access to your personally identifying information, please login to your online account or contact us by email at Orders@MykeySmart.com or by writing us at the following address: KeySmart Attn: Privacy Policy, 300 West central road, Suite 837 mount prospect, IL 60056
+We will provide you with access to the personal information you provided to KeySmart by allowing you to view, update or correct your online registration information. In order to protect your privacy, KeySmart takes steps to verify your identity before granting you access to the private information or enabling you to make corrections. We will accomplish this through the use of passwords and personal data. If we cannot provide access within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so.
+
+To request access to your personally identifying information, please login to your online account or contact us by email at [Orders@MykeySmart.com](mailto:Orders@MyKeySmart.com) or by writing us at the following address:
+
+KeySmart   
+Attn: Privacy Policy  
+300 West central road, Suite 837   
+mount prospect, IL 60056
 
 **MAILING LIST**
 
@@ -38,7 +56,11 @@ A "cookie" is a small text file that a Web site can place on your computer's har
 
 Cookies allow you to place an order on our website and allow us to enhance and personalize your online surfing and shopping experience. For example, we use cookies to:
 
-· Remember the items in your shopping basket · Recognize you when you return to our website · Analyze visitor behavior
+  * Remember the items in your shopping basket
+  * Recognize you when you return to our website
+  * Analyze visitor behavior
+
+
 
 **WEB SITE ANALYTICS**
 
@@ -56,7 +78,13 @@ We may also enter into alliances, partnerships or other business arrangements wi
 
 **CERTAIN DISCLOSURES**
 
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
+We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to
+
+  1. conform to the law or comply with legal process served on us or affiliated parties;
+  2. protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties;
+  3. act under circumstances to protect the safety of users of our site, us, or third parties.
+
+
 
 **LINKED WEBSITES**
 
