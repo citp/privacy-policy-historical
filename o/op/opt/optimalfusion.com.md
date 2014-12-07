@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025164017id_/http%3A//www.optimalfusion.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207060018id_/http%3A//optimalfusion.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - OptimalFusion - Direct Response Marketing Specialists with over 25 years experience.
+# Privacy | Optimal Fusion - Advertisers + Consumers
 
-**Privacy Policy - Your Privacy Rights**
+**Privacy Policy – Your Privacy Rights**
 
 _Effective Date: May 10, 2012_
 
@@ -12,7 +12,11 @@ This Privacy Policy describes the information practices of the OptimalFusion™ 
 
 In addition, some sections of our website allow you to provide information directly to third parties whose websites are framed within our website, as described below in the section on “Third party links and co-brand relationships.”
 
-When you visit our website, we may also collect information that does not identify you personally, such as the IP address of the computer making the request, information about your computer and browser, and information about your use of our website.
+We may collect data for our own use from your computer or device when you are visiting an OptimalFusion™ web site or on a third party’s behalf when we serve advertisements on our network of web sites. We may also collect data on third-party web sites for our own use. This data may include information such as your IP address, web pages which have been viewed by you, date and time, domain type, and your responses to an advertisement delivered by us or a third party advertising technology vendor. This is information which does not immediately reveal your identity. Nor will we use this information to attempt to discern your identity
+
+We may use different types of technologies, such as cookies, pixels, and other technologies to collect this data. We do not collect the following information that identifies you: your name, address, email address, and telephone number (“Personally Identifiable Information” or “PII”) unless you choose to provide it to us. We do not combine the data we collect with this PII.
+
+We do not ask for PII other than as outlined below for business purposes. We don’t collect PII via our corporate web site, www.optimalfusion.com unless you choose to provide it to us – for example, by sending us your PII in an email. Some of our partner websites may ask people to register and provide PII. None of this PII is combined by Optimal Fusion with other data and/or used by Optimal Fusion for our ad serving.
 
 We use the information we collect to provide you with product promotions, support and any information you request, and otherwise to operate our business and this website.
 
@@ -20,7 +24,7 @@ We use the information we collect to provide you with product promotions, suppor
 
 OptimalFusion™ uses reasonable security measures to help protect the information that we collect.
 
-**Does OptimalFusion™ use "cookies"?**
+**Does OptimalFusion™ use “cookies”?**
 
 We use cookies so that we can help provide our customers with a better and more efficient experience on our website. A “cookie” is a piece of information a web site sends to your computer while you are viewing the web site to remember who you are without personally identifying you. Even without accepting a cookie, you can still access all of the features on our website.
 
@@ -32,13 +36,18 @@ OptimalFusion™ may share your information with our affiliates or with service 
 
 **What are my choices?**
 
-If you would like OptimalFusion™ to stop providing your information to these third parties, please send a "do not share" request to OptimalFusion™ by emailing us at [privacy@optimalfusion.com](mailto:privacy@optimalfusion.com), or by contacting us as directed below under "Additional Information."
+If you would like OptimalFusion™ to stop providing your information to these third parties, please send a “do not share” request to OptimalFusion™ by emailing us at [privacy@optimalfusion.com](mailto:privacy@optimalfusion.com), or by contacting us as directed below under “Additional Information.”
 
-**OptimalFusion™'s special note to parents**
+Here are some additional resources that can help you manage your experiences with the various advertisers that you may come in contact with on Optimal Fusion’s websites:
+
+Opt-out mechanism(s) at the Network Advertising Initiative : [http://www.networkadvertising.org](http://www.networkadvertising.org/)  
+Self regulatory Program for Behavioral Advertising Consumer Choice Page opt out page : <http://www.aboutads.info/>
+
+**OptimalFusion™’s special note to parents**
 
 OptimalFusion™ does not knowingly collect personal information from children under the age of 13.
 
-**Third party links and co-brand relationships**
+**Third party websites, data collection, links and co-brand relationships**
 
 In order to provide increased value to our visitors, OptimalFusion™ may choose various third party websites to link to and from, and frame within, its own website. OptimalFusion™ may also participate in co-branding and other relationships to offer information, programs and other services and features to its users. A “framed” website is a page from a third party’s website that appears within our website. Framing allows you to interact with a third party website without navigating away from our website.
 
@@ -51,3 +60,5 @@ By using our website, you consent to the collection and use of information by Op
 **Additional information**
 
 This notice details the privacy policies of OptimalFusion™ for all of its users of its website with regard to information collected through this website. If you have questions regarding this policy or the practices of OptimalFusion™, contact us at OptimalFusion™, Privacy Division, located at 7162 Beverly Blvd, #580, Los Angeles, CA 90036.
+
+Copyright © 2014 Optimal Fusion - All Rights Reserved
