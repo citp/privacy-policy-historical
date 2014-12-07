@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpostman.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519031142id_/http%3A//www.getpostman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpostman.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207105448id_/http%3A//www.getpostman.com/privacy) for the most accurate reproduction.*
 
 # Postman | Privacy policy
 
@@ -12,11 +12,11 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To process transactions
+To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To send periodic emails
+To send periodic emails
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
@@ -61,10 +61,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 https://www.getpostman.com  
-102, Royal Castle Apartment #229  
+Abhinav Asthana, 1006, Pawan Enclave  
+16th B Main, Kodihalli  
 Bangalore, Karnataka 560008  
 India  
-abhinav@rickreation.com  
-917760650203
-
-This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
+Phone: 917760650203
