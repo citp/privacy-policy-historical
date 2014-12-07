@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330224945id_/http%3A//www1.vbuzzer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207083936id_/http%3A//www1.vbuzzer.com/privacy) for the most accurate reproduction.*
 
 # Privacy | VBuzzer - VOIP Services - Internet Fax - SMS
 
