@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044456id_/http%3A//netcracker.com/en/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208005823id_/http%3A//www.netcracker.com/en/footer-link/privacy-statement.html) for the most accurate reproduction.*
 
-# NetCracker. Privacy Statement
-
-[](https://web.archive.org/web/20140625044456id_/http://netcracker.com/en/legal/printable.php?print=1)
+# Privacy Statement | NetCracker
 
 This website is maintained by NetCracker Technology Corporation (“NetCracker”). NetCracker respects your right to confidentiality and is committed to protecting your privacy. This Privacy Statement informs you of NetCracker’s privacy practices and how NetCracker collects and uses your personal information. By using this NetCracker website, you consent to these privacy practices and the collection and use of your personal information in accordance with this Privacy Statement.
 
@@ -14,7 +12,7 @@ This Privacy Statement applies only to the collection and use of personal inform
 
 The NetCracker website may provide links to third-party websites maintained by others. If you access those links, you will leave the NetCracker website, so NetCracker encourages you to be aware when leaving the NetCracker website. NetCracker does not review or control those sites or their privacy practices, which may differ from NetCracker's practices. We do not endorse or make any representations about third-party websites, but rather provide these links to you as a convenience. The personal information you choose to provide to or that is collected by these third parties is not covered by the NetCracker Privacy Statement nor does NetCracker accept any responsibility for the collection and use of your personal information by non-NetCracker websites. We encourage you to review the privacy policy of any company whose website you choose to access before submitting your personal information.
 
-#### 3\. Collection of Personal Information 
+#### 3\. Collection of Personal Information
 
 NetCracker may collect and use your personal information to understand how you use this website, as well as to better understand your needs and interests. NetCracker may use the personal information of its website’s users in aggregated form to measure the website’s performance as well as to improve the design and functionality of the website. By doing so, NetCracker’s intention is to serve you better by providing the best products, services, and experiences that we are able to provide.
 
@@ -43,4 +41,4 @@ NetCracker reserves the right to change this Privacy Statement at any time. Any 
 
 #### 9\. Contacting Us
 
-If you have comments or questions about our Privacy Statement, please contact the NetCracker Webmaster at [Webmaster@NetCracker.com](mailto:Webmaster@NetCracker.com).
+If you have comments or questions about our Privacy Statement, please contact the NetCracker Webmaster at [Webmaster@NetCracker.com](mailto:Webmaster@NetCracker.com).
