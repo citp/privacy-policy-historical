@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdir4u.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330175752id_/http%3A//www.linkdir4u.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdir4u.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207143337id_/http%3A//www.linkdir4u.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Linkdir4u.com - Privacy Policy
 
