@@ -1,10 +1,14 @@
-<!--The following is the downloaded HTML source of the polycom.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627014250id_/http%3A//www.polycom.com/company/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the polycom.com privacy policy that was archived on 2014-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141207063434id_/http%3A//www.polycom.com/company/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="linux chrome chrome6 webkit webkit5"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
     
+            <!--[if ((!IE)| (IEMobile))| (gte IE 9)]><!--> 
+                <meta name="viewport" content="width=device-width,initial-scale=1.0">
+            <!--[endif]---->                    
+        
     <meta http-equiv="keywords" content="Polycom Privacy Policy ">
     <meta http-equiv="description" content="Polycom Privacy Policy ">
       
@@ -60,7 +64,7 @@ CQURLInfo = {
     Polycom_Video.bpId = "";
     Polycom_Video.bpKey = "";
     </script>                           
-    <script type="text/javascript" src="/etc/polycom/www/global.js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=40768241"></script></head><body><img src="https://web.archive.org/web/20130325153031/http://admin.instantservice.com/resources/smartbutton/6295/52375/available.gif?8104" style="width:0;height:0;visiblity:hidden;position:absolute;" onload="voicedept = 1;" onerror="voicedept = 0;"><img src="https://web.archive.org/web/20130325153031/http://admin.instantservice.com/resources/smartbutton/6295/25236/available.gif?8075" style="width:0;height:0;visiblity:hidden;position:absolute;" onload="ukdept = 1;" onerror="ukdept = 0;"><img src="https://web.archive.org/web/20130325153031/http://admin.instantservice.com/resources/smartbutton/6295/25982/available.gif?5784" style="width:0;height:0;visiblity:hidden;position:absolute;" onload="audept = 1;" onerror="audept = 0;">
+    <script type="text/javascript" src="/etc/polycom/www/global.js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=40768241"></script></head><body><img src="https://web.archive.org/web/20130325153031/http://admin.instantservice.com/resources/smartbutton/6295/52375/available.gif?5454" style="width:0;height:0;visiblity:hidden;position:absolute;" onload="voicedept = 1;" onerror="voicedept = 0;"><img src="https://web.archive.org/web/20130325153031/http://admin.instantservice.com/resources/smartbutton/6295/25236/available.gif?8975" style="width:0;height:0;visiblity:hidden;position:absolute;" onload="ukdept = 1;" onerror="ukdept = 0;"><img src="https://web.archive.org/web/20130325153031/http://admin.instantservice.com/resources/smartbutton/6295/25982/available.gif?9083" style="width:0;height:0;visiblity:hidden;position:absolute;" onload="audept = 1;" onerror="audept = 0;">
     <script type="text/javascript" src="/etc/polycom/www/global/js/polycom/google_us.js"></script>
     <script type="text/javascript" src="/etc/polycom/www/global/js/polycom/mtagconfig.js"></script>
     
@@ -93,6 +97,13 @@ CQURLInfo = {
         var currentUrl = window.location.href;        
         var hostName = window.location.hostname;
         var showbar = "false";
+		var cn= "";
+        var cnid = "";
+        if(chatvars['cnid'])
+            cnid = chatvars['cnid'];
+        if(chatvars['cn'])
+            cn = chatvars['cn'];
+			
         var lpMTagConfig = lpMTagConfig || {}; lpMTagConfig.vars = lpMTagConfig.vars || [];    
         var lang = "English";
         var region = "NA";
@@ -103,6 +114,8 @@ CQURLInfo = {
         lpMTagConfig.vars.push(["session","language",lang]);
         lpMTagConfig.vars.push(["page","Region",region]); //"Currently Global, EMEA, NA, ANZ, IN or APGC"
         lpMTagConfig.vars.push(["page","PageName",currentUrl]);
+		lpMTagConfig.vars.push(["page","cnid",cnid]);
+        lpMTagConfig.vars.push(["page","cn",cn]);
         }       
          if ( hostName == "www.polycom.com") {
             $('<script src ="/etc/polycom/www/global/js/polycom/mbox.js" type="text/javascript"/>').appendTo('head');              
@@ -114,7 +127,12 @@ CQURLInfo = {
     <script type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js"></script>
     <script type="text/javascript" src="/etc/polycom/www/global/js/thirdparty/bc-mapi.js"></script> 
     
-            <link href="/etc/polycom/www/global/css/polycom-nonresponsive.css" rel="stylesheet" type="text/css">
+            <!--[if ((!IE)| (IEMobile))| (gte IE 9)]><!--> 
+                <link href="/etc/polycom/www/global/css/polycom-responsive.css" rel="stylesheet" type="text/css">
+            <!--[endif]---->
+            <!--[if lt IE 9]>
+                <link href="/etc/polycom/www/global/css/polycom-nonresponsive.css" rel="stylesheet" type="text/css" />
+            <![endif]-->        
         
 
 
@@ -125,7 +143,7 @@ CQURLInfo = {
 
    
 
-	
+     	
 	<!--Omniture Code -->
   <script type="text/javascript">//<![CDATA[
 var val = "";
@@ -193,7 +211,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/
 
       
       
-          <a class="header-toolbar" href="/company/how-to-buy.html" target="" title="How To Buy"><b>How To Buy</b></a>
+          <a class="header-toolbar" href="http://support.polycom.com/" target="_blank" title="Support"><b>Support</b></a>
       
       <span class="header-toolbar">|</span>
 </div>
@@ -208,7 +226,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/
 
       
       
-          <a class="header-toolbar" href="http://portal.polycom.com/PolycomSSO/registration/index.htm" target="_blank" title="Register"><b>Register</b></a>
+          <a class="header-toolbar" href="/company/how-to-buy.html" target="" title="How to Buy"><b>How to Buy</b></a>
       
       <span class="header-toolbar">|</span>
 </div>
@@ -319,7 +337,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/
                            
                             <li lcode="http://www.polycom.com.mx/index.html"><a href="http://www.polycom.com.mx/index.html" onclick="return false;" target="_blank"><b>México</b><span class="gray-txt">Español</span></a></li>
                            
-                            <li lcode="http://www.polycomnederland.nl/index.html"><a href="http://www.polycomnederland.nl/index.html" onclick="return false;" target="_blank"><b>Nederland</b><span class="gray-txt">Nederlands</span></a></li>
+                            <li lcode="http://www.polycom.nl/index.html"><a href="http://www.polycom.nl/index.html" onclick="return false;" target="_blank"><b>Nederland</b><span class="gray-txt">Nederlands</span></a></li>
                            
                             <li lcode="http://www.polycom.no/index.html"><a href="http://www.polycom.no/index.html" onclick="return false;" target="_blank"><b>Norge</b><span class="gray-txt">Norsk</span></a></li>
                            
@@ -488,7 +506,7 @@ $(document).ready(function(){
 
                 <li class="navLevel-1">
                     
-                        <a class="tab-anchor" href="/video-collaboration.html">Video Collaboration</a>
+                        <a class="tab-anchor" href="/video-collaboration.html">Collaboration</a>
                     
                     <ul class="second-level-ul">
                     <li class="list-container">
@@ -511,15 +529,15 @@ $(document).ready(function(){
                    
                 <div class="column-box column-box-3col" style="height: 155px;">
                                         
-                            <a class="link-list-title" href="http://www.polycom.com/defydistance/eguide.html" target="_blank">Thought Leadership Reports</a>
+                            <a class="link-list-title" href="/collaboration/thought-leadership.html">Thought Leadership Reports</a>
                         
                                                                                      
-                                            <a class="link" href="/defydistance/eguide.html">Guide to Collaborating Across Borders</a>
+                                            <a class="link" href="/forms/marketscope-for-group-video-systems.html">Gartner MarketScope for Group Video Systems</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/forms/marketscope-for-group-video-systems.html">Gartner MarketScope for Group Video Systems</a>
+                                            <a class="link" href="/defydistance/eguide.html">Guide to Collaborating Across Borders</a>
                                   
                                       
                                        
@@ -534,12 +552,12 @@ $(document).ready(function(){
                                       
                                        
                                                                                      
-                                            <a class="link" href="/defydistance/video-conferencing-drivers.html">Aragon Research: Video Conferencing</a>
+                                            <a class="link" href="/video-collaboration/benefits.html">Global Survey: The Real Benefits of Video</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/video-collaboration/benefits.html">Global Survey: The Real Benefits of Video</a>
+                                            <a class="link" href="/defydistance/video-conferencing-drivers.html">Wainhouse: Video Conferencing</a>
                                   
                                       
                                        
@@ -577,7 +595,7 @@ $(document).ready(function(){
                     <ul class="second-level-ul">
                     <li class="list-container">
                   
-                <div class="column-box column-box-5col" style="height: 275px;">
+                <div class="column-box column-box-3col" style="height: 215px;">
                                         
                             <a class="link-list-title" href="/solutions/solutions-by-industry.html">By Industry</a>
                         
@@ -612,32 +630,17 @@ $(document).ready(function(){
                                       
                                        
                                                                                      
-                                            <a class="link" href="/solutions/solutions-by-industry/energy.html">Oil, Gas, &amp; Energy</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/solutions/solutions-by-industry/retail.html">Retail</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/solutions/solutions-by-industry/hospitality.html">Hospitality</a>
-                                  
-                                      
-                                       
-                                                                                     
                                             <a class="link" href="/solutions/solutions-by-industry/entertainment.html">Entertainment</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/solutions/solutions-by-industry/pharmaceutical.html">Pharmaceutical</a>
+                                            <a class="link" href="/solutions/solutions-by-industry/retail.html">Retail &amp; Wholesale</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/solutions/solutions-by-industry/business-services.html">Business Services</a>
+                                            <a class="link" href="/solutions/solutions-by-industry.html">View all</a>
                                   
                                       
                                        
@@ -645,7 +648,7 @@ $(document).ready(function(){
                               
                  </div>
                    
-                <div class="column-box column-box-5col" style="height: 275px;">
+                <div class="column-box column-box-3col" style="height: 215px;">
                                         
                             <a class="link-list-title" href="/solutions/solutions-by-job-function.html">By Business Function</a>
                         
@@ -698,93 +701,35 @@ $(document).ready(function(){
                               
                  </div>
                    
-                <div class="column-box column-box-5col" style="height: 275px;">
+                <div class="column-box column-box-3col column-box-last" style="height: 215px;">
                                         
-                            <a class="link-list-title" href="/solutions/solutions-by-business-uc-environment.html">By Business UC Environment</a>
+                            <a class="link-list-title" href="/products-services/products-by-environment/on-the-go.html">By Environment</a>
                         
                                                                                      
-                                            <a class="link" href="/solutions/solutions-by-business-uc-environment/solutions-for-microsoft.html">Microsoft</a>
+                                            <a class="link" href="/products-services/products-by-environment/on-the-go.html">Mobile</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/solutions/solutions-by-business-uc-environment/solutions-for-ibm.html">IBM</a>
+                                            <a class="link" href="/products-services/products-by-environment/home-office.html">Home</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/solutions/solutions-by-business-uc-environment/solutions-for-broadsoft.html">BroadSoft</a>
+                                            <a class="link" href="/products-services/products-by-environment/work-office.html">Work</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/solutions/solutions-by-business-uc-environment/solutions-for-hp.html">HP</a>
+                                            <a class="link" href="/products-services/products-by-environment/conference-room.html">Conference Room</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/solutions/solutions-by-business-uc-environment/solutions-for-juniper.html">Juniper Networks</a>
+                                            <a class="link" href="/products-services/products-by-environment/immersive-theater.html">Immersive Theater</a>
                                   
                                       
                                        
-                                                                                     
-                                            <a class="link" href="/solutions/solutions-by-business-uc-environment/solutions-for-unify.html">Unify</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/solutions/solutions-by-business-uc-environment/solutions-for-avaya.html">Avaya</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/solutions/solutions-by-business-uc-environment/solutions-for-cisco.html">Cisco</a>
-                                  
-                                      
-                                       
-                           
-                              
-                 </div>
-                   
-                <div class="column-box column-box-5col" style="height: 275px;">
-                                        
-                            <a class="link-list-title" href="/solutions/solutions-by-business-profile.html">By Business Profile</a>
-                        
-                                                                                     
-                                            <a class="link" href="/solutions/solutions-by-business-profile/small-and-medium-business.html">Small &amp; Medium Business</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/solutions/solutions-by-business-profile/service-providers.html">Service Providers</a>
-                                  
-                                      
-                                       
-                           
-                              
-                 </div>
-                   
-                <div class="column-box column-box-5col column-box-last" style="height: 275px;">
-                                        
-                            <a class="link-list-title" href="/solutions/customer-stories.html">Customer Stories</a>
-                        
-                                                                                     
-                                            <a class="link" href="/solutions/customer-stories.html">Search Our Stories</a>
-                                  
-                                      
-                                       
-                           
-                           
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                           
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
                            
                               
                  </div>
@@ -801,130 +746,32 @@ $(document).ready(function(){
                     <ul class="second-level-ul">
                     <li class="list-container">
                   
-                <div class="column-box column-box-6col" style="height: 265px;">
+                <div class="column-box column-box-5col" style="height: 175px;">
                                         
-                            <a class="link-list-title" href="/products-services/products-by-environment/on-the-go.html">By Environment</a>
+                            <a class="link-list-title" href="/products-services/hd-telepresence-video-conferencing.html">Video Collaboration</a>
                         
                                                                                      
-                                            <a class="link" href="/products-services/products-by-environment/on-the-go.html">On the Go</a>
+                                            <a class="link" href="/products-services/hd-telepresence-video-conferencing/realpresence-mobile.html">Mobile</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/products-services/products-by-environment/home-office.html">Home Office</a>
+                                            <a class="link" href="/products-services/hd-telepresence-video-conferencing/realpresence-desktop.html">Desktop</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/products-services/products-by-environment/work-office.html">Work Office</a>
+                                            <a class="link" href="/products-services/hd-telepresence-video-conferencing/realpresence-room.html">Room</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/products-services/products-by-environment/conference-room.html">Conference Room</a>
+                                            <a class="link" href="/products-services/hd-telepresence-video-conferencing/realpresence-immersive.html">Immersive Theater</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/products-services/products-by-environment/immersive-theater.html">Immersive Theater</a>
-                                  
-                                      
-                                       
-                           
-                                                   
-                            <a class="link-list-title" href="/products-services/products-for-microsoft.html">Products for Microsoft</a>
-                        
-                                                                                     
-                                            <a class="link" href="/products-services/products-for-microsoft/conference-phones-microsoft-lync.html">Lync Phones and Conference Phones</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/products-for-microsoft/video-solutions-microsoft-lync.html">Lync Video Solutions</a>
-                                  
-                                      
-                                       
-                           
-                              
-                 </div>
-                   
-                <div class="column-box column-box-6col" style="height: 265px;">
-                                        
-                            <a class="link-list-title" href="/products-services/realpresence-platform.html">UC Infrastructure</a>
-                        
-                                                                                     
-                                            <a class="link" href="/products-services/realpresence-one.html">RealPresence One</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/realpresence-platform/realpresence-cloud-vaas.html">RealPresence Cloud</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/realpresence-platform.html">RealPresence Platform</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/realpresence-platform/realpresence-collaboration-servers.html">Collaboration Servers</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/realpresence-platform/management-applications.html">Management Applications</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/realpresence-platform/universal-access-security.html">Firewall Traversal &amp; Security</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/realpresence-platform/video-content-management.html">Video Content Management</a>
-                                  
-                                      
-                                       
-                           
-                           
-                                <a class="link-list-title" href="/products-services/realpresence-platform/cloudaxis.html" target="" title="RealPresence CloudAXIS Suite">RealPresence CloudAXIS Suite</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                              
-                 </div>
-                   
-                <div class="column-box column-box-6col" style="height: 265px;">
-                                        
-                            <a class="link-list-title" href="/products-services/hd-telepresence-video-conferencing.html">HD Telepresence &amp; Video</a>
-                        
-                                                                                     
-                                            <a class="link" href="/products-services/hd-telepresence-video-conferencing/realpresence-immersive.html">RealPresence Immersive</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/hd-telepresence-video-conferencing/realpresence-room.html">RealPresence Room</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/hd-telepresence-video-conferencing/realpresence-packaged-solutions.html">RealPresence Packaged Solutions</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/hd-telepresence-video-conferencing/realpresence-desktop.html">RealPresence Desktop</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/hd-telepresence-video-conferencing/realpresence-mobile.html">RealPresence Mobile</a>
+                                            <a class="link" href="/products-services/realpresence-platform.html">Platform - UC Infrastructure</a>
                                   
                                       
                                        
@@ -933,31 +780,26 @@ $(document).ready(function(){
                                   
                                       
                                        
+                                                                                     
+                                            <a class="link" href="/products-services/products-for-microsoft/video-solutions-microsoft-lync.html">Microsoft Lync Solutions</a>
+                                  
+                                      
+                                       
                            
                               
                  </div>
                    
-                <div class="column-box column-box-6col" style="height: 265px;">
+                <div class="column-box column-box-5col" style="height: 175px;">
                                         
-                            <a class="link-list-title" href="/products-services/voice.html">Voice</a>
+                            <a class="link-list-title" href="/products-services/voice.html">Voice Conferencing</a>
                         
                                                                                      
-                                            <a class="link" href="/products-services/voice/conferencing-solutions.html">Conferencing Solutions</a>
+                                            <a class="link" href="/products-services/voice/conferencing-solutions.html">Conference Phones</a>
                                   
                                       
                                        
                                                                                      
-                                            <a class="link" href="/products-services/voice/desktop-solutions.html">Desktop Solutions</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/voice/uc-software.html">UC Software</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/voice/applications.html">Applications</a>
+                                            <a class="link" href="/products-services/voice/desktop-solutions.html">Desktop Phones</a>
                                   
                                       
                                        
@@ -966,11 +808,39 @@ $(document).ready(function(){
                                   
                                       
                                        
+                                                                                     
+                                            <a class="link" href="/products-services/products-for-microsoft/conference-phones-microsoft-lync.html">Microsoft Lync Solutions</a>
+                                  
+                                      
+                                       
                            
                               
                  </div>
                    
-                <div class="column-box column-box-6col" style="height: 265px;">
+                <div class="column-box column-box-5col" style="height: 175px;">
+                                        
+                            <a class="link-list-title" href="/products-services/realpresence-platform/video-content-management.html">Content Solutions</a>
+                        
+                                                                                     
+                                            <a class="link" href="/products-services/products-for-microsoft/lync-interoperable/content-sharing-suite.html">Content Sharing</a>
+                                  
+                                      
+                                       
+                                                                                     
+                                            <a class="link" href="/products-services/realpresence-platform/video-content-management.html">Video Content Management</a>
+                                  
+                                      
+                                       
+                                                                                     
+                                            <a class="link" href="/products-services/realpresence-platform/video-content-management/realpresence-capture-series.html">Recording &amp; Streaming</a>
+                                  
+                                      
+                                       
+                           
+                              
+                 </div>
+                   
+                <div class="column-box column-box-5col" style="height: 175px;">
                                         
                             <a class="link-list-title" href="/products-services/services.html">Services</a>
                         
@@ -980,7 +850,7 @@ $(document).ready(function(){
                                       
                                        
                                                                                      
-                                            <a class="link" href="/products-services/services/customer-care-services.html">Customer Care Services</a>
+                                            <a class="link" href="/products-services/services/customer-care-services.html">Customer Support</a>
                                   
                                       
                                        
@@ -994,44 +864,11 @@ $(document).ready(function(){
                                   
                                       
                                        
-                                                                                     
-                                            <a class="link" href="/products-services/services/services-a-z.html">Services A-Z</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/services/services-terms-and-conditions.html">Terms &amp; Conditions </a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/services/polycom-capital-financing-leasing.html">Polycom Capital</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/services/grant-assistance.html">Grant Assistance</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/services/e-rate-program.html">E-rate Assistance</a>
-                                  
-                                      
-                                       
-                           
-                           
-                                <a class="link-list-title" href="/products-services/polycom-university.html" target="" title="Polycom University">Polycom University</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
                            
                               
                  </div>
                    
-                <div class="column-box column-box-6col column-box-last" style="height: 265px;">
+                <div class="column-box column-box-5col column-box-last" style="height: 175px;">
                                         
                             <a class="link-list-title" href="/products-services/resources.html">Resources</a>
                         
@@ -1041,38 +878,10 @@ $(document).ready(function(){
                                       
                                        
                                                                                      
-                                            <a class="link" href="/products-services/resources/using-video-and-telepresence.html">Using Video and Telepresence</a>
+                                            <a class="link" href="/products-services/polycom-university.html">Training</a>
                                   
                                       
                                        
-                                                                                     
-                                            <a class="link" href="/products-services/resources/visio-stencils.html">Visio Stencils</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/resources/telepresence-video-education-center.html">Telepresence &amp; Video Education Center</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/resources/product-accessibility.html">Product Accessibility (VPAT)</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/products-services/resources/white-paper.html">White Papers</a>
-                                  
-                                      
-                                       
-                           
-                           
-                                <a class="link-list-title" href="/products-services/promotions.html" target="" title="Promotions">Promotions</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
                            
                               
                  </div>
@@ -1115,7 +924,7 @@ $(document).ready(function(){
                                       
                                        
                                                                                      
-                                            <a class="link" href="/partners/find-a-partner/service-provider-locator.html">Polycom Partner Locator </a>
+                                            <a class="link" href="/partners/find-a-partner/service-provider-locator.html">Cloud Partner Locator</a>
                                   
                                       
                                        
@@ -1199,144 +1008,17 @@ $(document).ready(function(){
      
                 <li class="navLevel-1">
                     
-                        <a class="tab-anchor" href="http://support.polycom.com" target="_blank">Support</a>
-                    
-                    <ul class="second-level-ul">
-                    <li class="list-container">
-                  
-                <div class="column-box column-box-5col" style="height: 150px;">
-                                        
-                            <a class="link-list-title" href="http://support.polycom.com/PolycomService/support/us/support/video/index.html" target="_blank">Documents and Downloads</a>
-                        
-                                                                                     
-                                            <a class="link" href="http://support.polycom.com/PolycomService/support/us/support/video/index.html" target="_blank">Telepresence and Video</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="http://support.polycom.com/PolycomService/support/us/support/voice/index.html" target="_blank">Voice</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="http://support.polycom.com/PolycomService/support/us/support/network/index.html" target="_blank">UC Infrastructure</a>
-                                  
-                                      
-                                       
-                           
-                              
-                 </div>
-                   
-                <div class="column-box column-box-5col" style="height: 150px;">
-                
-                                <a class="link-list-title" href="http://support.polycom.com/PolycomService/support/us/support/strategic_partner_solutions/index.html" target="_blank" title="Strategic Partner Solutions">Strategic Partner Solutions</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                           
-                                <a class="link-list-title" href="/company/about-us/the-environment.html" target="" title="Polycom Takeback and Recycle Program">Polycom Takeback and Recycle Program</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                              
-                 </div>
-                   
-                <div class="column-box column-box-5col" style="height: 150px;">
-                
-                                <a class="link-list-title" href="http://support.polycom.com/PolycomService/productregistration/index.htm" target="_blank" title="Product Registration">Product Registration</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                           
-                                <a class="link-list-title" href="http://support.polycom.com/PolycomService/licenserequest/overview.htm" target="_blank" title="License Activation">License Activation</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                              
-                 </div>
-                   
-                <div class="column-box column-box-5col" style="height: 150px;">
-                
-                                <a class="link-list-title" href="http://support.polycom.com/PolycomService/servicerequest/index.htm" target="_blank" title="Service Requests">Service Requests</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                           
-                                <a class="link-list-title" href="http://support.polycom.com/PolycomService/support/us/support/service_policies.html" target="_blank" title="Service Policies">Service Policies</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                           
-                                <a class="link-list-title" href="http://support.polycom.com/PolycomService/rma/index.htm" target="_blank" title="RMA">RMA</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                              
-                 </div>
-                   
-                <div class="column-box column-box-5col column-box-last" style="height: 150px;">
-                
-                                <a class="link-list-title" href="http://support.polycom.com/PolycomService/knowledgebase/redirectToConsonaApp.htm" target="_blank" title="Knowledge Base">Knowledge Base</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                            </p><br>
-                            
-                           
-                           
-                                <a class="link-list-title" href="http://community.polycom.com/polycom/?category.id=Support_Community" target="_blank" title="Support Forums">Support Forums</a>
-                             
-                            <p class="nav-multiple-paragraph">
-                                
-                                    Post questions and get answers about Polycom products.
-                                
-                            </p><br>
-                                                                                    
-                            <a class="orange-link" title="Log in" href="http://community.polycom.com/polycom/?category.id=Support_Community" target="_blank">Log in</a><br>
-                           
-                           
-                              
-                 </div>
-                
-              </li>
-              </ul>
-              </li> 
-           
-     
-                <li class="navLevel-1">
-                    
                         <a class="tab-anchor" href="/company.html">Company</a>
                     
                     <ul class="second-level-ul">
                     <li class="list-container">
                   
-                <div class="column-box column-box-4col" style="height: 215px;">
+                <div class="column-box column-box-4col" style="height: 155px;">
                                         
                             <a class="link-list-title" href="/company/about-us.html">About Us</a>
                         
                                                                                      
-                                            <a class="link" href="/company/about-us/history-of-innovation.html">Company History: 20 Years of Innovation</a>
+                                            <a class="link" href="/company/about-us/history-of-innovation.html">Company History: 24 Years of Innovation</a>
                                   
                                       
                                        
@@ -1356,22 +1038,7 @@ $(document).ready(function(){
                                       
                                        
                                                                                      
-                                            <a class="link" href="/company/about-us/industry-affiliations.html">Industry Affiliations</a>
-                                  
-                                      
-                                       
-                                                                                     
                                             <a class="link" href="/company/about-us/executive-experience-center.html">Executive Experience Centers</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/company/about-us/contact-us.html">Contact Us</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/company/about-us/technology.html">Technology License</a>
                                   
                                       
                                        
@@ -1384,7 +1051,7 @@ $(document).ready(function(){
                               
                  </div>
                    
-                <div class="column-box column-box-4col" style="height: 215px;">
+                <div class="column-box column-box-4col" style="height: 155px;">
                                         
                             <a class="link-list-title" href="/company/news.html">News Room</a>
                         
@@ -1399,38 +1066,19 @@ $(document).ready(function(){
                                       
                                        
                                                                                      
-                                            <a class="link" href="/company/news/press-kits.html">Press Kits</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="/company/news/media-contacts.html">Media Contacts</a>
-                                  
-                                      
-                                       
-                                                                                     
                                             <a class="link" href="/company/news/social-media.html">Social Media</a>
                                   
                                       
                                        
                            
                                                    
-                            <a class="link-list-title" href="/company/analyst-relations.html">Analyst Relations</a>
+                            <a class="link-list-title" href="/company/eventslandingpage.html">Events &amp; Webinars</a>
                         
-                           
-                                                   
-                            <a class="link-list-title" href="/company/eventslandingpage.html">Events</a>
-                        
-                                                                                     
-                                            <a class="link" href="/company/eventslandingpage.html">Search for live and on-demand events</a>
-                                  
-                                      
-                                       
                            
                               
                  </div>
                    
-                <div class="column-box column-box-4col" style="height: 215px;">
+                <div class="column-box column-box-4col" style="height: 155px;">
                                         
                             <a class="link-list-title" href="http://careers.polycom.com/?utm_campaign=fwd" target="_blank">Careers</a>
                         
@@ -1450,25 +1098,21 @@ $(document).ready(function(){
                                       
                                        
                            
+                           
+                            <p class="nav-multiple-paragraph">
+                                
+                            </p><br>
+                            
+                           
                               
                  </div>
                    
-                <div class="column-box column-box-4col column-box-last" style="height: 215px;">
+                <div class="column-box column-box-4col column-box-last" style="height: 155px;">
                                         
                             <a class="link-list-title" href="http://investor.polycom.com/company/investor-relations/default.aspx" target="_blank">Investor Relations</a>
                         
                                                                                      
                                             <a class="link" href="http://investor.polycom.com/company/investor-relations/corporate-governance/default.aspx?" target="_blank">Corporate Governance</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="http://investor.polycom.com/company/investor-relations/news/default.aspx?" target="_blank">News</a>
-                                  
-                                      
-                                       
-                                                                                     
-                                            <a class="link" href="http://investor.polycom.com/company/investor-relations/events-and-webcasts/default.aspx?" target="_blank">Events &amp; Webcasts</a>
                                   
                                       
                                        
@@ -1506,9 +1150,39 @@ $(document).ready(function(){
               </li> 
            
      
+                <li class="navLevel-1">
+                    
+                        <a class="tab-anchor" href="/solutions/customer-stories.html">Customers</a>
+                    
+                    <ul class="second-level-ul">
+                    <li class="list-container">
+                  
+                <div class="column-box column-box-last" style="height: 94px;">
+                
+                    <div class="link-col1-type-paragraph">
+                                                      
+                            <h3 class="navigation-paragraph-intro">Over 415,000 customers including the Fortune 100</h3>
+                        
+                        <p class="nav-single-paragraph">
+                            
+                                Rely on Polycom to unleash the power of human collaboration.
+                            
+                        </p>
+                        
+                            <a href="/solutions/customer-stories.html" class="only-para-link">Learn More</a>
+                        
+                    </div>
+                      
+                 </div>
+                
+              </li>
+              </ul>
+              </li> 
+           
+     
 </ul>
 </div>
-</div></div>
+</div><nav id="plcm-mnav" class="overthrow"><ul id="plcm-mnav-level1"><li><a href="/video-collaboration.html">Collaboration</a><button class="treenav-in" title="Open Submenu"><span></span></button><ul><li><span><a href="http://www.polycom.com/content/dam/polycom/www/defydistance/index.html" target="_blank">Looking for ways to collaborate and help your organization defy distance?</a></span></li><li><span><a href="/collaboration/thought-leadership.html">Thought Leadership Reports</a></span></li><li><span><a href="/video-collaboration/why-polycom.html">Why Polycom?</a></span></li></ul></li><li><a href="/solutions.html">Solutions</a><button class="treenav-in" title="Open Submenu"><span></span></button><ul><li><span><a href="/solutions/solutions-by-industry.html">By Industry</a></span></li><li><span><a href="/solutions/solutions-by-job-function.html">By Business Function</a></span></li><li><span><a href="/products-services/products-by-environment/on-the-go.html">By Environment</a></span></li></ul></li><li><a href="/products-services.html">Products &amp; Services</a><button class="treenav-in" title="Open Submenu"><span></span></button><ul><li><span><a href="/products-services/hd-telepresence-video-conferencing.html">Video Collaboration</a></span></li><li><span><a href="/products-services/voice.html">Voice Conferencing</a></span></li><li><span><a href="/products-services/realpresence-platform/video-content-management.html">Content Solutions</a></span></li><li><span><a href="/products-services/services.html">Services</a></span></li><li><span><a href="/products-services/resources.html">Resources</a></span></li></ul></li><li><a href="/partners.html">Partners</a><button class="treenav-in" title="Open Submenu"><span></span></button><ul><li><span><a href="http://connect.polycom.com/content/polycom/ppn/login.html" target="_blank">Polycom PartnerConnect</a></span></li><li><span><a href="/partners/find-a-partner.html">Find a Partner</a></span></li><li><span><a href="/partners/become-a-partner.html">Become a Partner</a></span></li><li><span><a href="http://community.polycom.com/t5/Developer-Community/ct-p/Developer_Community/" target="_blank">Polycom Developer Community</a></span></li></ul></li><li><a href="/company.html">Company</a><button class="treenav-in" title="Open Submenu"><span></span></button><ul><li><span><a href="/company/about-us.html">About Us</a></span></li><li><span><a href="/company/news.html">News RoomEvents &amp; Webinars</a></span></li><li><span><a href="http://careers.polycom.com/?utm_campaign=fwd" target="_blank">Careers</a></span></li><li><span><a href="http://investor.polycom.com/company/investor-relations/default.aspx" target="_blank">Investor Relations</a></span></li></ul></li><li><a href="/solutions/customer-stories.html">Customers</a><button class="treenav-in" title="Open Submenu"><span></span></button><ul><li><span><a href="undefined"></a></span></li></ul></li><li><a href="http://support.polycom.com/" target="_blank">Support</a></li><li><a href="/company/how-to-buy.html" target="">How to Buy</a></li><li><a href="/online-account-login.html" target="">Login</a></li><li><a href="javascript:void(0);" class="ss-mlink">United States</a><button class="treenav-in" title="Open Submenu" value="Open Submenu" id="plcm_msiteselector"><span></span></button></li><li><a href="javascript:void(0);" class="contact-mlink">Contact Us</a><button class="treenav-in" title="Open Submenu" value="Open Submenu" id="plcm_mcontactus"><span></span></button></li></ul></nav></div>
 
              </div>
              <script type="text/javascript">
@@ -1763,7 +1437,7 @@ $(document).ready(function(){
     
         <div class="col">
         
-                <h4>Video Collaboration</h4>
+                <h4>Collaboration</h4>
         
          
         
@@ -1794,7 +1468,7 @@ $(document).ready(function(){
                            
                                
                                
-                                   <a href="/video-collaboration.html" target="_self">Why Video Conferencing?</a>
+                                   <a href="/video-collaboration/why-polycom.html" target="_self">Why Video Conferencing?</a>
                                
                            
                        
@@ -1832,7 +1506,7 @@ $(document).ready(function(){
                            
                                
                                
-                                   <a href="/products-services/products-by-environment/on-the-go.html" target="_self">On the Go</a>
+                                   <a href="/defydistance/eguide.html" target="_self">Defy Distance Collaboration Guide</a>
                                
                            
                        
@@ -1870,7 +1544,7 @@ $(document).ready(function(){
                            
                                
                                
-                                   <a href="/products-services/products-by-environment/home-office.html" target="_self">Home Office</a>
+                                   <a href="/forms/marketscope-for-group-video-systems.html" target="_self">Gartner, MarketScope for Group Video Systems </a>
                                
                            
                        
@@ -1908,7 +1582,7 @@ $(document).ready(function(){
                            
                                
                                
-                                   <a href="/products-services/products-by-environment/work-office.html" target="_self">Work Office</a>
+                                   <a href="/defydistance/perfect-storm-in-enterprise-video.html" target="_self">Aragon, Enterprise Video</a>
                                
                            
                        
@@ -1946,45 +1620,7 @@ $(document).ready(function(){
                            
                                
                                
-                                   <a href="/products-services/products-by-environment/conference-room.html" target="_self">Conferencing Room</a>
-                               
-                           
-                       
-                    
-                    
-                    
-                    
-
-                    
-                
-
-                    
-                    
-                    
-                    
-                    
-                    
-                    <!-- Logic to append .html for internal links, not social links -->
-                    
-                         
-                             
-                         
-                                                
-                     
-                     
-                     
-                                       
-                                  
-                    
-                       
-                    
-                        
-                           
-                       
-                           
-                               
-                               
-                                   <a href="/products-services/products-by-environment/immersive-theater.html" target="_self">Immersive Theater</a>
+                                   <a href="/forms/polycom-voice-solutions-for-microsoft-lync.html" target="_self">Voice Solutions for Microsoft Lync</a>
                                
                            
                        
@@ -2602,44 +2238,6 @@ $(document).ready(function(){
                     <!-- Logic to append .html for internal links, not social links -->
                     
                          
-                             
-                         
-                                                
-                     
-                     
-                     
-                                       
-                                  
-                    
-                       
-                    
-                        
-                           
-                       
-                           
-                               
-                               
-                                   <a href="/company/news/press-releases.html" target="_self">Press Release</a>
-                               
-                           
-                       
-                    
-                    
-                    
-                    
-
-                    
-                
-
-                    
-                    
-                    
-                    
-                    
-                    
-                    <!-- Logic to append .html for internal links, not social links -->
-                    
-                         
                         
                             
                                                 
@@ -2657,7 +2255,7 @@ $(document).ready(function(){
                            
                                
                                
-                                   <a href="http://investor.polycom.com" target="_blank">Investor Relations</a>
+                                   <a href="http://www.polycom.com/company/about-us/the-environment.html#stab2" target="_blank">Takeback &amp; Recycle</a>
                                
                            
                        
@@ -2772,6 +2370,44 @@ $(document).ready(function(){
                                
                                
                                    <a href="/company/eventslandingpage.html" target="_self">Events</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/company/about-us/executive-experience-center.html" target="_self">Visit an Experience Center</a>
                                
                            
                        
@@ -2976,44 +2612,6 @@ $(document).ready(function(){
                                
                                
                                    <a href="/products-services/services/polycom-capital-financing-leasing.html" target="_self">Polycom Capital</a>
-                               
-                           
-                       
-                    
-                    
-                    
-                    
-
-                    
-                
-
-                    
-                    
-                    
-                    
-                    
-                    
-                    <!-- Logic to append .html for internal links, not social links -->
-                    
-                         
-                             
-                         
-                                                
-                     
-                     
-                     
-                                       
-                                  
-                    
-                       
-                    
-                        
-                           
-                       
-                           
-                               
-                               
-                                   <a href="/company/about-us/executive-experience-center.html" target="_self">Visit an Experience Center</a>
                                
                            
                        
@@ -3377,7 +2975,1533 @@ $(document).ready(function(){
         
 
 
-</div>
+<div class="plcm-mftraccordion"><dl><dt stus=""><button>Collaboration<span></span><span></span></button></dt><dd style="display: none;">
+        
+                
+        
+         
+        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/video-collaboration/why-polycom.html" target="_self">Why Video Conferencing?</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/defydistance/eguide.html" target="_self">Defy Distance Collaboration Guide</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/forms/marketscope-for-group-video-systems.html" target="_self">Gartner, MarketScope for Group Video Systems </a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/defydistance/perfect-storm-in-enterprise-video.html" target="_self">Aragon, Enterprise Video</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/forms/polycom-voice-solutions-for-microsoft-lync.html" target="_self">Voice Solutions for Microsoft Lync</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                 
+        
+          </dd><dt stus=""><button>Solutions<span></span><span></span></button></dt><dd style="display: none;">
+        
+                
+        
+         
+        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/solutions/customer-stories.html" target="_self">Customer Success Stories</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/solutions/solutions-by-industry/collaborative-government.html" target="_self">Government</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/solutions/solutions-by-industry/us-federal-government.html" target="_self">U.S. Federal Government</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/solutions/solutions-by-industry/education.html" target="_self">Education</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/solutions/solutions-by-industry/healthcare.html" target="_self">Healthcare</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/solutions/solutions-by-industry/manufacturing.html" target="_self">Manufacturing</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                 
+        
+          </dd><dt stus=""><button>Products &amp; Services<span></span><span></span></button></dt><dd style="display: none;">
+        
+                
+        
+         
+        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/products-services/realpresence-platform.html" target="_self">UC Infrastructure</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/products-services/hd-telepresence-video-conferencing.html" target="_self">HD Telepresence &amp; Video</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/products-services/voice.html" target="_self">Voice</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/products-services/products-for-microsoft.html" target="_self">Products for Microsoft</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/products-services/products-by-environment.html" target="_self">Products by Environment</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/products-services/resources/products-services-a-z.html" target="_self">Products A to Z</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/products-services/services.html" target="_self">Professional Services</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                 
+        
+          </dd><dt stus=""><button>Company<span></span><span></span></button></dt><dd style="display: none;">
+        
+                
+        
+         
+        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/company/about-us.html" target="_self">About Us</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/company/news.html" target="_self">News Room</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                        
+                            
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="http://www.polycom.com/company/about-us/the-environment.html#stab2" target="_blank">Takeback &amp; Recycle</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/company/investor-relations/governance.html" target="_self">Corporate Governance</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/company/careers.html" target="_self">Careers</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/company/eventslandingpage.html" target="_self">Events</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/company/about-us/executive-experience-center.html" target="_self">Visit an Experience Center</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                 
+        
+          </dd><dt stus=""><button>How to Buy<span></span><span></span></button></dt><dd style="display: none;">
+        
+                
+        
+         
+        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                        
+                            
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                                   
+                                       
+                                       
+                                           <div id="lpChatButton3"></div>
+                                       
+                                   
+                                
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/forms/partner-locator-contactme.html" target="_self">Schedule a Sales Call</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/forms/request-demo.html" target="_self">Request a Demo</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/partners/find-a-partner.html" target="_self">Find a Partner</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/products-services/services/polycom-capital-financing-leasing.html" target="_self">Polycom Capital</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                        
+                            
+                                                
+                     
+                     
+                                                              
+                         
+                          
+                          
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                               +1-800-POLYCOM
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                 
+        
+          </dd></dl></div><div class="clr"></div><div class="follow-col">
+        
+                <h4>Follow Polycom</h4>
+        
+         
+        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                        
+                            
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                           
+                                                       
+                               
+                               
+                                   <div class="media-icons">
+                                       <a href="https://twitter.com/Polycom" target="_blank">
+                                         <img src="/content/dam/polycom/www/images/icons-and-buttons/social-media/Soc-Icon_Twitter.png" alt="twitter">
+                                       </a>
+                                   </div>
+                               
+                                                    
+                      
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                        
+                            
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                           
+                                                       
+                               
+                               
+                                   <div class="media-icons">
+                                       <a href="http://www.facebook.com/Polycom?ref=ts" target="_blank">
+                                         <img src="/content/dam/polycom/www/images/icons-and-buttons/social-media/Soc-Icon_Facebook.png" alt="facebook">
+                                       </a>
+                                   </div>
+                               
+                                                    
+                      
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                        
+                            
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                           
+                                                       
+                               
+                               
+                                   <div class="media-icons">
+                                       <a href="http://www.youtube.com/user/PolycomVideos" target="_blank">
+                                         <img src="/content/dam/polycom/www/images/icons-and-buttons/social-media/Soc-Icon_Youtube.png" alt="Youtube">
+                                       </a>
+                                   </div>
+                               
+                                                    
+                      
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                        
+                            
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                           
+                                                       
+                               
+                               
+                                   <div class="media-icons">
+                                       <a href="http://www.linkedin.com/groups/Polycom-1953916?mostPopular=&amp;gid=1953916" target="_blank">
+                                         <img src="/content/dam/polycom/www/images/icons-and-buttons/social-media/Soc-Icon_LinkedIn.png" alt="Linkedin">
+                                       </a>
+                                   </div>
+                               
+                                                    
+                      
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                        
+                            
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                           
+                                                       
+                               
+                               
+                                   <div class="media-icons">
+                                       <a href="https://plus.google.com/108454386926202783783/posts" target="_blank">
+                                         <img src="/content/dam/polycom/www/images/icons-and-buttons/social-media/Soc-Icon_Google.png" alt="Google +">
+                                       </a>
+                                   </div><div></div>
+                               
+                                                    
+                      
+                    
+                    
+
+                    
+                 
+        <div class="clr"></div>
+         
+        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                        
+                            
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="http://community.polycom.com/" target="_blank">Communities</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/forms/subscription-management.html" target="_self">Keep Me Informed</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    <!-- Logic to append .html for internal links, not social links -->
+                    
+                         
+                             
+                         
+                                                
+                     
+                     
+                     
+                                       
+                                  
+                    
+                       
+                    
+                        
+                           
+                       
+                           
+                               
+                               
+                                   <a href="/company/about-us/contact-us.html.html" target="_self">Polycom Locations</a>
+                               
+                           
+                       
+                    
+                    
+                    
+                    
+
+                    
+                 
+        
+          </div></div>
 
             <div class="extendedfooter">
 
@@ -3452,6 +4576,10 @@ $(document).ready(function(){
 </div>
 <!-- Footer Ends Here -->
 
+        <!--[if ((!IE)| (IEMobile))|(gte IE 9)]><!-->
+            <script type="text/javascript" src="/etc/polycom/www/global/js/polycom/polycom-responsive.js"></script>
+        <!--[endif]---->
+    
 
 
 <!-- begin doubleclick tag - add for Erika Johnson WCR 11674 Feb 14 2011 -->
@@ -3460,7 +4588,7 @@ $(document).ready(function(){
 ord=Math.random()*10000000000000000;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/idgt.data.polycom/retargeting_pixel;sz=1x1;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/idgt.data.polycom/retargeting_pixel;sz=1x1;ord=4954109523197132?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/idgt.data.polycom/retargeting_pixel;sz=1x1;ord=980848021241895.8?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/idgt.data.polycom/retargeting_pixel;sz=1x1;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/idgt.data.polycom/retargeting_pixel;sz=1x1;ord=123456789?" border="0" alt=""/></a></noscript>
 <!-- end doubleclick tag -->
  
@@ -3470,10 +4598,10 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
  
 <script type="text/javascript" src="http://forms.polycom.com/www/tools/wp-gateway/eloqua/polycom_eloqua.js"></script> 
 
-<script language="javascript" src="/etc/polycom/www/global/js/thirdparty/googleservices_remarketing.js" type="text/javascript"></script><script src="https://web.archive.org/web/20140420010812/http://www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script><iframe name="google_conversion_frame" title="Google conversion frame" width="300" height="13" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1003301660/?random=1580523308809&amp;cv=7&amp;fst=1580523308809&amp;num=1&amp;fmt=1&amp;guid=ON&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=3&amp;u_tz=0&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;frm=0&amp;url=https%3A//web.archive.org/web/20140627014250id_/http%253A//www.polycom.com/company/privacy-policy.html" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"><img height="1" width="1" border="0" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1003301660/?frame=0&random=1580523308809&cv=7&fst=1580523308809&num=1&fmt=1&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A//web.archive.org/web/20140627014250id_/http%253A//www.polycom.com/company/privacy-policy.html" /></iframe>
+<script language="javascript" src="/etc/polycom/www/global/js/thirdparty/googleservices_remarketing.js" type="text/javascript"></script><script src="https://web.archive.org/web/20140420010812/http://www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script><iframe name="google_conversion_frame" title="Google conversion frame" width="300" height="13" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1003301660/?random=1580523309151&amp;cv=7&amp;fst=1580523309151&amp;num=1&amp;fmt=1&amp;guid=ON&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=3&amp;u_tz=0&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;frm=0&amp;url=https%3A//web.archive.org/web/20141207063434id_/http%253A//www.polycom.com/company/privacy-policy.html" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"><img height="1" width="1" border="0" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1003301660/?frame=0&random=1580523309151&cv=7&fst=1580523309151&num=1&fmt=1&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A//web.archive.org/web/20141207063434id_/http%253A//www.polycom.com/company/privacy-policy.html" /></iframe>
 <noscript>
 	<div style="display:inline;">
-		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1003301660/?value=0&amp;guid=ON&amp;script=0"/>
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1050099853/?value=0&amp;guid=ON&amp;script=0"/>  
 	</div>
 </noscript>
 
@@ -3482,7 +4610,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 	</div>
 </div>
 
-
+ 
 
 
 
