@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629193658id_/http%3A//www.anchorfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207105436id_/http%3A//www.anchorfree.com/privacy.php) for the most accurate reproduction.*
 
 # AnchorFree Hotspot Shield Privacy & Security Policy - Get behind the Shield
 
