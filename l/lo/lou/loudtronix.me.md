@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudtronix.me privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628085050id_/http%3A//www.loudtronix.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudtronix.me privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208000223id_/http%3A//www.loudtronix.me/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
