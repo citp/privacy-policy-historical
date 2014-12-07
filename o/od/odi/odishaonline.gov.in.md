@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odishaonline.gov.in privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222195443id_/http%3A//www.odishaonline.gov.in/site/Content/General/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odishaonline.gov.in privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207140220id_/http%3A//odishaonline.gov.in/site/Content/General/policy.html) for the most accurate reproduction.*
 
 # ::The Official Website of the Govt. of Odisha
 
