@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatrivermilling.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625031913id_/http%3A//www.greatrivermilling.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatrivermilling.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207051609id_/http%3A//www.greatrivermilling.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Organic agriculture, sustainable agriculture, stone-ground flour. Kosher approved grains. | Fountain, City, WI
 
