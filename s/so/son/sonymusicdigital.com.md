@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonymusicdigital.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331064127id_/http%3A//www.myplay.com/direct/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonymusicdigital.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207040557id_/http%3A//www.myplay.com/direct/privacy-policy) for the most accurate reproduction.*
 
 # MyPlay Direct Privacy Policy | MyPlay Direct
 
