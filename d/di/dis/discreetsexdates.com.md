@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discreetsexdates.com privacy policy that was archived on 2014-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140109182859id_/http%3A//www.discreetsexdates.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discreetsexdates.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207113318id_/http%3A//www.discreetsexdates.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Discreet Sex Dates: Join Right Now for FREE. Be Discreet and Search through thousands of LOCAL PROFILES on DiscreetSexDates.com
+# DiscreetSexDates: Join for FREE. Discreet Sex Group Chat, Search tons of LOCAL PROFILES Date Chat.
 
 **Privacy Statement for SexDateNetwork**
 
