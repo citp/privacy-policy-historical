@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepacks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103814id_/http%3A//www.gamepacks.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepacks.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207074124id_/http%3A//www.gamepacks.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # GamePacks– Free Games, Download And Play.
 
@@ -100,3 +100,6 @@ Perion regularly reviews its compliance with this Privacy Policy. When we receiv
 If you have any questions or concerns about this Privacy Policy, please feel free to contact us by email to: [privacy@perion.com](mailto:privacy@perion.com).
 
 Last Updated: March 2014
+
+  
+
