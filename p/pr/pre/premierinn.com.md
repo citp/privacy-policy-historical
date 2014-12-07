@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierinn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112113id_/http%3A//www.premierinn.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierinn.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207085824id_/http%3A//www.premierinn.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We may collect the following information about you:
 
 • Transaction information, including payment and reservation details;
 
-• Your membership of Whitbread group company (see further information) rewards programmes and Premier Inn Business Account membership and participation details (including birthdays and special dates where you provide this information to us and preferred restaurant locations);
+• Your membership of Whitbread group company (see [further information](http://www.premierinn.com/en/privacy.html#parNum67657)) rewards programmes and Premier Inn Business Account membership and participation details (including birthdays and special dates where you provide this information to us and preferred restaurant locations);
 
 • Purchase history, including the hotels that you have stayed in, activities on site (e.g. food purchases and Wi-Fi use) and the date(s) of your stay;
 
@@ -39,7 +39,7 @@ restaurant bookings and our hotels and restaurants;
 
 • Administration and management of our competitions, promotions and prize draws – you should check the applicable terms and conditions of the competition, promotion or prize draw for further information;
 
-• Sending you communications about our products and services that we think may be of interest to you. We may also send you service information communications (e.g. reservation confirmation). With your permission, we and other companies in the Whitbread group (see further information) will keep you informed of news and offers from other Whitbread group companies; 
+• Sending you communications about our products and services that we think may be of interest to you. We may also send you service information communications (e.g. reservation confirmation). With your permission, we and other companies in the Whitbread group (see [further information](http://www.premierinn.com/en/privacy.html#parNum67657)) will keep you informed of news and offers from other Whitbread group companies; 
 
 • Business, website and consumer analysis and reporting; and
 
