@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatssotrue.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209153122id_/http%3A//www.thatssotrue.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatssotrue.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207162423id_/http%3A//www.thatssotrue.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Gif Stories - That's So True
 
