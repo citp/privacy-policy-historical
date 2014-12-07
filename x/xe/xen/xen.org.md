@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xen.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627161045id_/http%3A//www.xenproject.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xen.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207091201id_/http%3A//www.xenproject.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
