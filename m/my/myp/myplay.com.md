@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the myplay.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205212846id_/http%3A//www.myplaydirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplay.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207040557id_/http%3A//www.myplay.com/direct/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MyPlay Direct
+# MyPlay Direct Privacy Policy | MyPlay Direct
 
-Effective Date: April 9, 2013
+_Effective Date: April 9, 2013_
 
 This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, and mobile applications ("Site" or "Sites"). MyPlay Direct, Inc. (operated by Sony DADC US Inc.) Information collected on the Sites. may be used in the manner described below by MyPlay Direct, our agents, subsidiaries, trusted partners and affiliates acting on our behalf (collectively, "MyPlay Direct"). When used herein, the terms "we", "us" and "our" refer to MyPlay Direct. This policy also covers data we process on behalf of our clients as a data processor. Notwithstanding the foregoing, all information and data submitted through any third party website will also be subject to such third party's privacy policy.
 
 MyPlayDirect has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.myplaydirect.com/customer-service/contact/new). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-The TRUSTe program covers the collection, use and disclosure of information we collect through our website, www.myplaydirect.com and the MyPlayDirect platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged MyPlayDirect.
+The TRUSTe program covers the collection, use and disclosure of information we collect through our website, [www.myplaydirect.com](http://www.myplaydirect.com/) and the MyPlayDirect platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged MyPlayDirect.
 
 MyPlayDirect complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. MyPlayDirect has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view MyPlayDirect's certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -49,7 +49,6 @@ We or one of our trusted partners may use this information to:
 
 
 
-  
 We also automatically collect information about your computer as you browse our Sites. Please see the Tracking Technologies section of this Privacy Policy. We will retain your information for as long as your account is active and as needed to provide you services. We will use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
 **Social Networks/Online Communities**
@@ -75,7 +74,6 @@ We may also share your personal information:
 
 
 
-  
 **Choice/Opt-Out**
 
 You may choose to stop receiving newsletters, updates or marketing emails by following the unsubscribe instructions included in these emails. Some Sites also allow you to change your email preferences within your online profile.
