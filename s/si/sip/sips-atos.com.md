@@ -1,28 +1,51 @@
-> *The following text is extracted and transformed from the sips-atos.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313035832id_/http%3A//worldline.com/en/129/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sips-atos.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207194545id_/http%3A//sips.worldline.com/en-us/privacy.html) for the most accurate reproduction.*
 
-# Worldline - Privacy
+# Privacy
 
-Worldline has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
+You are currently visiting the Worldline website.
 
-We use your IP address to help diagnose problems with our server, and to administer our website. 
+  You can decide to share Personal Data with Worldline, when subscribing to our newsletter or when registering for Worldline’ Premium Services. The Personal Data we may collect as a result of such subscription will be processed only by Worldline for the sole purpose of ensuring you are delivered with the appropriate services. None of these data will be shared with third parties.
 
-Our site may use cookies to make sure you don't see the same content repeatedly. We may use cookies to deliver content specific to your interests. In specific circumstances, you may be asked to register to be able to receive additional information. Our site's registration form requires users to give us contact information (like their name and e-mail address). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Because data protection and security matters, the Worldline website is hosted in the European Union in order to guarantee an appropriate level of protection to all data that are collected and processed. Application support may be made from Worldline India. The transfers resulting from such support would be framed with the EU model clauses to ensure that the Personal data transferred to India benefit from the same level of protection as if they had stayed in the EU.
 
-This site may contain links to other sites, such as those of our alliance partners. Worldline is not responsible for the privacy practices or the content of those other websites. 
+  Of course, you have the right to request access, amendment or erasure of your Personal Data. To exercise this right, you can contact the Group Data Protection Office at [dpo-global@atos.net](mailto:dpo-global@Worldline.net).
 
-## Security 
+This Privacy Notice was published on 3 July 2014 and may be amended from time to time. We invite you to consult this page regularly.
 
-This site has stringent security measures in place to protect the loss, misuse and/or alteration of the information under our control. 
+### Cookies
 
-## Recruitment Applications 
+Worldline takes users’ privacy very seriously and is committed to comply with the EU Directive on privacy in the electronic communications. For this purpose we have developed the following notice which intends to give you all the keys to manage the cookies we collect while you visit our website.  
+****
 
-We have a global privacy statement for recruitment purposes. Before submitting your personal details, you will be asked to accept our global privacy statement when applying via our website. In case you have questions about this topic, please contact us. 
+**What is a cookie?**  
+Cookies are small files which are downloaded on to a device when the user accesses to certain websites. Cookies allow a website to recognize users, to understand the users’ navigation on different websites.
 
-## Choice/Opt-Out 
+In practice, the website you visit sends information to the browser which then creates a text file. Every time the user goes back to the same website, the browser retrieves and sends this file to the website's server.
 
-At various times, our site may provide users with the opportunity to opt-out of receiving communications from us at the point where we request information about the user. To remove user information from our database so that you do not receive future communications you should send an e-mail to [infoWL@worldline.com](mailto:infoWL@worldline.com "infoWL@worldline.com"). 
+**Worldline Cookies**  
+Worldline intends to ensure that you enjoy your experience on our website. For this reason, when visiting our Worldline website, cookies are installed on the computer.
 
-## Contacting the website 
+When surfing on Worldline website(s), data logs of your surfing activity may be collected with the purpose of understanding aggregate usage of features and pages. For this very purpose we use Google Analytics and Eloqua.  
+Google Analytics enables Worldline to view how you interact with website content. Please note that in order to avoid the collection of your Personal Data by Google, we have set up the tool in a manner which prevents the collection of IP addresses. Neither Worldline nor Google are able to identify you and your online activity. Worldline also uses 3rd party persistent cookies from Eloqua to collect surfing activity seamlessly without effecting the visitors' experience.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can email [infoWL@worldline.com](mailto:infoWL@worldline.com "infoWL@worldline.com").   
- 
+**How long does Worldline keep the cookies?**  
+Cookies remain on your computer for no longer than 24 months and you can decide to delete all cookies anytime when going into your browser settings.
+
+**Cookies settings**  
+If you don’t agree with the use of such cookies, you can set up your browser to limit or exclude their use. Your browser may provide you with information and control over cookies. You can set your browser to alert you when a cookie is being used, and accept or reject the cookie. You can also set your browser to refuse all cookies or accept only cookies returned to the originating servers. You can generally disable the cookie feature on your browser without affecting their ability to use the Worldline website(s).
+
+To make sure you find out your way on how to change the settings, here are a few links that may be useful to configure appropriately the different browser you may be using.  
+
+
+  * [Cookie settings in Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)
+  * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
+  * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Cookie settings in Safari](http://support.apple.com/kb/HT1677)  
+
+
+
+
+**Purpose of the cookies**  
+Please note that these settings are only valid for the pages created and owned by Worldline. When we embody link to external websites and that you click on these links you leave our website and therefore the settings and policy applying to our website no longer applies. You should consider the new website cookies policy and settings.
+
+Of course, you have the right to request access, amendment or erasure of your Personal Data. To exercise this right, you can contact : [infoWL@worldline.com](mailto:infoWL@worldline.com).
