@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071251id_/http%3A//scorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorm.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207051923id_/http%3A//scorm.com/privacy-policy) for the most accurate reproduction.*
 
 # SCORM - Privacy Policy » SCORM -
 
@@ -62,11 +62,4 @@ In compliance with the Safe Harbor Privacy Principles, Rustici Software commits 
 Suite 300  
 Franklin, TN 37067
 
-Rustici Software has further committed to refer unresolved privacy complaints under the Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if Rustici Software does not satisfactorily address your complaint, you may contact:
-
-Council of Better Business Bureaus, Inc. BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.bbb.org/us](http://www.bbb.org/us)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+Rustici Software has further committed to refer unresolved privacy complaints under the Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if Rustici Software does not satisfactorily address your complaint, you may contact the Council of Better Business Bureaus, INC. BBB EU Safe Harbor by clicking [here](http://www.bbb.org/us/safe-harbor-complaints).
