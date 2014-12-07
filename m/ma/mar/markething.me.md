@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markething.me privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608075717id_/http%3A//www.markething.me/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markething.me privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207044825id_/http%3A//www.markething.me/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Markething.Me
 
