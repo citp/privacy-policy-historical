@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fourerr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135706id_/http%3A//fourerr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourerr.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207141629id_/http%3A//fourerr.com/privacy-policy) for the most accurate reproduction.*
 
-# Fourerr's Privacy Policy - Buy and Sell Online Services from $4 - Fourerr
+# Fourerr's Privacy Policy
 
 ### We keep it simple ... we keep your personal data secure and we don't share it!
 
