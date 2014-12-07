@@ -1,77 +1,87 @@
-> *The following text is extracted and transformed from the vinomofo.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511120520id_/https%3A//vinomofo.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinomofo.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207152221id_/http%3A//vinomofo.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Vinomofo
 
-**1.1** Wine Cru Pty Ltd t/a Vinomofo ( **Vinomofo** ) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the National Privacy Principles in the _Privacy Act 1988_ (Cth).
+Welcome to the _Mega Menu._ Not dissimilar to the non-mega menu you just clicked from, it’s true. For now. But soon, it will grow truly mega, and the world will know why this is called the **Mega Menu.** Be afraid. 
 
-**1.2** Personal information is defined in the _Privacy Act 1988_ (Cth) and means information or an opinion about an individual whose identity is apparent or can be reasonably ascertained from that information or opinion.
+Note from the founders:
 
-**1.3** Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit.
+> We'd just like to apologise for the formal and legal tone of our privacy policy, but it's required with stricter new privacy laws, which is good for everyone, really. Just know that basically, we're a members-only site, we look after our members, and that means we respect your privacy, we don't share your information with other parties, and we don't spam people. We try to do good. But here's the formal stuff that you might like to know...
+> 
+> Cheers, Andre Eikmeier + Justin Dry, co-founders
 
-**2.1** Vinomofo only collects personal information for the purposes of conducting our business as an online retailer of goods and services. The personal information we collect from you will include information you give us when you:
-
-**(a)** register or subscribe to our Website;
-
-**(b)** complete a transaction with us; and
-
-**(c)** contact us.
-
-**2.2** The personal information that we collect on individuals may include, but is not limited to:
-
-**(a)** your name;
-
-**(b)** your contact details;
-
-**(c)** your payment details; and
-
-**(d)** other personal information that we collect in the course of a transaction.
-
-**2.3** We may collect personal information from individuals who are not customers of our business but whose personal information is given to us by those individuals via our Website or in the course of a transaction.
-
-**2.4** Where reasonably practicable, we attempt to collect information directly from individuals. When we collect information, we will generally explain to the individual why we are collecting it, who we give it to and how we will use or disclose it or, alternatively, those matters will be obvious from the circumstances.
-
-**2.5** If we collect information about an individual from someone else, we will take reasonable steps to ensure that the individual is made aware of the matters listed in clause 2.4.
-
-**2.6** We will collect personal information from you by lawful and fair means and not in an unreasonably intrusive way.
-
-**2.7** When you visit our Website, for the purpose of managing our Website and improving our business, we may also collect the following information:
-
-**(a)** your computer's operating system;
-
-**(b)** your computer's browser type and capabilities;
-
-**(c)** your computer's Internet Protocol (IP) address and geolocation;
-
-**(d)** web pages visited, including how you were referred to each web page; and
-
-**(e)** web page usage statistics, including the time spent on each web page.
-
-**2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our [Terms and Conditions of Use and Sale](https://web.archive.org/pages/terms).
-
-**3.1** We will generally use or disclose your personal information only for the primary purpose for which it was collected; or for a related secondary purpose where you would reasonably expect us to use or disclose the personal information for that secondary purpose. We may otherwise use and disclose your personal information if you have given us consent for the use or disclosure or it is required or authorised by law.
-
-**3.2** Generally, we use and disclose your personal information for the purpose of providing you with the goods or services that you have requested, or otherwise to enable us to carry out our business as an online retailer of goods and services.
-
-**3.3** If those purposes for which we have collected the information involve providing personal information about an individual to any third party, we will take appropriate and reasonable steps to ensure any personal information is protected.
-
-**3.4** We will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use and you are given the opportunity to opt out of receiving any further direct marketing communications. Our electronic marketing activities will comply with the requirements of the _Spam Act 2003_ (Cth).
-
-**3.5** We may share your information with other members of the [CatchOfTheDay.com.au](http://catchoftheday.com.au/) Group, including members that are located outside of Australia. Our Group is comprised of **CatchOfTheDay.com.au Pty Ltd** , **Scoopon Pty Ltd** , **Wine Cru Pty Ltd** , **Ladybub Pty Ltd** , and their Related Bodies Corporate, as defined in the _Corporations Act 2001 (Cth)._.
-
-**3.6** We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia, we will do so in accordance with National Privacy Principle 9.
-
-We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted.
-
-**5.1** Under the _Privacy Act 1988_ (Cth), you have certain rights to access the personal information we collect and hold about you.
-
-**5.2** Generally, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested.  
-You may make a request by sending us an email using our [Help Centre](mailto:team@vinomofo.com?subject=Privacy+Policy) or by writing to us at:  
-Office of the Chief Information Officer  
+  1. Our commitment to open and transparent management of your personal information 
+    1. At Vinomofo we are committed to the open and transparent management of your personal information in line with our obligations under the privacy laws and to you as our valued customers.
+    2. To offer the goods and services we provide in our business as an online retailer, we will need to collect personal information.
+    3. Personal information is defined as information that can identify you in some way.
+    4. This policy sets out how we collect and use personal information including: 
+      1. how we collect and protect your information;
+      2. how we use your information;
+      3. disclosure of information;
+      4. our compliance with direct marketing and spam laws;
+      5. offshore disclosure of information; and
+      6. how you can correct information or complain about our use of your personal information.
+    5. The 13 Australian Privacy Principles can be found here:  
+<http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles>
+    6. We will only collect information in accordance with the law, the Australian Privacy Principles and through fair means.
+  2. Collecting and looking after your information 
+    1. We only collect personal information with your consent, and which is necessary for our business.
+    2. We collect this information so we can deliver our goods and services to you, carry on our business and provide you with anything else you might require.
+    3. On signing up, and placing an order, we will collect from you; 
+      1. your name,
+      2. email contact,
+      3. phone number
+      4. address,
+      5. date of birth;
+      6. and your credit card details if you select that payment method (we do not store credit card details, only payment tokens via our secure payment gateway eWay)
+    4. When you visit our website we may automatically collect information about: 
+      1. your computer's operating system;
+      2. your computer's browser type and capability
+      3. your computers Internet Protocol (IP) Address and geolocation;
+      4. web pages visited, including how you were referred to each web page; and
+      5. web page usage statistics, including the time spent on each web page.
+    5. We may record phone calls for customer service training purposes.
+    6. We will not identify users or their browsing activities except where we are compelled to by law or in accordance with our website Terms and Conditions.
+    7. We store this information on secure cloud servers. These servers are protected by best practice cloud security measures which are in place to protect your personal information from loss, unauthorised access, unauthorised use, modification, disclosure or any other misuse.
+  3. Use of your personal information 
+    1. We use your personal information for the purpose of carrying on our business as an online retailer, including securing payment for and delivering your orders and any other related activities that you may expect from us.
+    2. We also use that information, or for a related secondary purpose where you would reasonably expect us to use the information or where permitted by law.
+    3. We use the sort of information collected from your computer (mentioned in 2.5) for the purposes of managing our website, improving our business and ultimately delivering better results for our customers.
+    4. Use of your information will only be made in accordance with Australian Privacy Principle 6.
+  4. Disclosure of your personal Information 
+    1. If we do disclose your personal information it will only be for the primary purpose for which it was collected or for a related secondary purpose where you would reasonably expect us disclose the information.
+    2. We may disclose your personal information in any other way that is required or authorised by you or the law.
+    3. We may disclose your personal information, with consent, for the purpose of carrying on our business as an online retailer and any other related activities that you may expect from us.
+    4. Typical situations where your consent will be implied include, but are not limited to disclosure to third parties that provide services such as our payment gateway, marketing, logistic and technology support which are required to fulfil a transaction.
+    5. In addition, disclosure of your information will only be made in accordance with Australian Privacy Principle 6.
+  5. Direct Marking and Spam 
+    1. We will only use your information for direct marking (advertising, special offers, updates etc) if you have given express or implied consent to receive it.
+    2. We will only ever send you direct marking communications that are consistent with our obligations under Australian Privacy Principle 7 and the Spam Act 2003 (Cth).
+    3. We will always make it clear and simple to opt out of these communications and will respond to an opt out request within 5 business days.
+    4. There are lots of links that will allow you to opt-out of direct marketing communications on the communications themselves but if they aren't showing up, for whatever reason, please email [team@vinomofo.com](mailto:team@vinomofo.com) to request an opt-out.
+  6. Offshore disclosure 
+    1. As part of our business, disclosure of your personal information may be made. Sometimes this disclosure will need to be made to offshore entities for the purpose of storing and processing our data.
+    2. When disclosing your information to a foreign entity it is still our responsibility to ensure your personal information is protected. We ensure, amongst other things, that: 
+      1. the current privacy policy of the foreign entity complies with Australian requirements and in line with Vinomofo's privacy obligations;
+      2. if necessary, we will seek further agreements or consents from the foreign entity; and
+      3. we will mitigate any risk of a breach of this privacy policy even when the disclosure is to a foreign entity.
+    3. The countries where these entities reside are varied due to the nature of wireless networks and cloud computing it is not practical for us to notify you of which country your personal information may be located but we know that disclosure may be made to the following countries: 
+      1. United States
+    4. Where an offshore disclosure is made it is always in accordance with the Australian Privacy Principle, particularly Australian Privacy Principle 1 and 8.
+  7. Your rights to correct or complain 
+    1. We are only allowed to, and only want to, keep your personal information if it is correct.
+    2. At any time you can contact us and seek access to or correction of the personal information we hold about you.
+    3. We are contactable by email at [team@vinomofo.com](mailto:team@vinomofo.com) or write to us at:  
 Wine Cru Pty Ltd t/a Vinomofo  
-15b Richard Street  
-Hindmarsh, South Australia 5007  
+Level 1/176 Bridge Road  
+Richmond VIC 3121  
 Australia
+    4. If you wish to complain about a breach of your rights under the Privacy Act 1988 (Cth) please contact us on the email and postal addresses above providing details of your complaint in writing.
+    5. We will respond to any complaint within 30 days. If you aren't happy with our response you can complain directly to the Office of the Australian Information Commissioner by following this link:  
+<http://www.oaic.gov.au/privacy/making-a-privacy-complaint>
 
-**5.3** Additional information regarding privacy may be obtained from the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
 
-Privacy Policy last updated on 1 June 2012.
+
+If you have any questions about privacy, your personal information, direct marketing, spam or our obligations or this policy please contact us at [team@vinomofo.com](mailto:team@vinomofo.com).
+
+**This Privacy Policy was last updated on 12 March 2014**
