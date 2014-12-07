@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630115255id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207103800id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -6,9 +6,9 @@ Partners
 
 Testimonials
 
-**Chris Passion:** "I tried 3 different programs before yours and none would be so handy and helpful. PostgreSQL Maestro works great and couldn't be easier to install".
+**Craig Cordell:** "The simplicity of your code generator is fantastic. We've evaluated dozens of others over the past few years but have yet to find one that is as easy to use as yours".
 
-**Andrew Rassel:** "I just wanted to let you know how satisfied I am with your administrative tools. I have been consistently receiving your support. I think you have wonderful products and I am highly satisfied with the results that I am getting".
+**Charles Phillips:** "I very much like the program and all of its functionality! Would be happy to give you an endorsement or recommend it to others - saves me a ton of time".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -71,24 +71,24 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-May 22, 2014
+Nov 24, 2014
 
-New version introduces PostgreSQL 9.4 compatibility, support of materialized views, range types and some other latest PostgreSQL features, dramatically improved Function Editor, enhanced Data Import abilities, data export to JSON, and other new features.
+New version introduces SQL Anywhere 16 compatibility, enhanced Data Import abilities, nullable column checker, data export to JSON, and other new features.
 
-Apr 10, 2014
+Oct 24, 2014
 
-Support for SQL Server Native Clients, nullable column checker, updated Data Import and SQL Dump tools, data export to JSON and some other enhancements.
+Long-awaited major version introduces new and updated controls, powerful JavaScript API, enhanced customization features, user-defined authorization, new application level events, multi-group menus and lots of other useful things.
 
-Mar 12, 2014
+Sep 1, 2014
 
-Features enhanced constraint management, support for various data storage modes and WITHOUT ROWID tables, updated Data Import and SQL Dump tools, nullable column checker, some performance and usability improvements, and a lot of other useful things.
+A new data reporting tool, lots of new features in SQL editors and viewers, nullable column checker, updated Data Import and SQL Dump tools, data export to JSON, and many other useful things.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/firebird/codefactory/screenshots/getting_started/diagram_viewer/)
+[](http://www.sqlmaestro.com/products/postgresql/phpgenerator/screenshots/common/master_detail_presentation/)
 
-Firebird Code Factory allows you to represent numeric data from a query result as a diagram with a possibility of customizing its appearance and export the diagram to the following formats: BMP, Windows metafile, PDF, JPEG, PNG and more.
+PHP Generator supports master-detail presentations used to display a list of detail records related to a selected record on the page. 
 
-[](http://www.sqlmaestro.com/products/postgresql/datawizard/help/02_03_00_agent/)
+[](http://www.sqlmaestro.com/products/mysql/codefactory/screenshots/getting_started/blob_viewer/)
 
-Tray agent can execute tasks scheduled in PostgreSQL Data Wizard, but does not require Data Wizard to be running at the current time.
+Using MySQL Code Factory you can view or edit BLOB data in the following ways: hexadecimal dump, plain text, graphical image or HTML page. 
