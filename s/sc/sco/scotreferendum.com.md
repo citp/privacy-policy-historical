@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotreferendum.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223318id_/http%3A//scotreferendum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotreferendum.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208003036id_/https%3A//www.scotreferendum.com/privacy-policy) for the most accurate reproduction.*
 
 # Scotland's Referendum 2014 | Privacy Policy
 
@@ -21,7 +21,7 @@ All comments submitted are moderated in advance of being made public. There may 
 
 **Information Collection**
 
-The Scottish Government is the sole owner of the information collected on [scotreferendum.com](http://scotreferendum.com/). The Scottish Government processes personal data for the purposes of aiding its work with the Scottish Ministers to improve the well-being of Scotland and its people.
+The Scottish Government is the sole owner of the information collected on [scotreferendum.com](http://referendum.scot/). The Scottish Government processes personal data for the purposes of aiding its work with the Scottish Ministers to improve the well-being of Scotland and its people.
 
 **Registration**
 
