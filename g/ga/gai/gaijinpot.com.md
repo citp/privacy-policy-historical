@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210050546id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en%3Futm_source%3Dgaijinpot_homepage%26utm_medium%3Dfooter%26utm_campaign%3Dgp_section_nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207055805id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en) for the most accurate reproduction.*
 
 # Privacy Policy ‹ GaijinPot Jobs
 
@@ -105,16 +105,7 @@ Users’ personal information is never disclosed to third parties except in the 
 
 ### 7\. Information Protection Measures
 
-GPlus’ s internal privacy and security policies are reviewed on a regular basis. GPlus staff receive training on information protection measures.  
-Furthermore, in order to protect the information from unauthorized use, system crash or viruses, GPlus has implemented the following measures:
-
-  * Data is stored in a data center requiring a biometric authentication and ID cards
-  * Access is restricted to authorized personnel
-  * Firewall
-  * Linux environment
-  * SSL Certificate
-
-
+GPlus’ s internal privacy and security policies are reviewed on a regular basis. GPlus staff receive training on information protection measures.
 
 Internally, only authorized personal are allowed to consult personal information for specific purposes.
 
