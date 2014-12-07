@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flapmmo.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529221618id_/http%3A//flapmmo.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flapmmo.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207155442id_/http%3A//flapmmo.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
