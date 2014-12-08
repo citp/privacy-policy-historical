@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072118id_/http%3A//worldsoccertalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208113001id_/http%3A//worldsoccertalk.com/privacy) for the most accurate reproduction.*
 
 # Privacy | World Soccer Talk
 
