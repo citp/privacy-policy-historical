@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628033530id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208150349id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
 
 # MoMA | Privacy & Security
 
