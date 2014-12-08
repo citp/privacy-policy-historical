@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evilbeetgossip.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022452id_/http%3A//www.evilbeetgossip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilbeetgossip.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208183051id_/http%3A//www.evilbeetgossip.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Today's Celebrity Gossip from Evil Beet Gossip
+# Privacy PolicyToday's Evil Beet Gossip – Today's Celebrity Gossip from Evil Beet Gossip
 
 **Evil Beet Gossip AACG, LLC Privacy Policy**  
 _This document was last updated December 31, 2010._
