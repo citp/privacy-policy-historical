@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the batteriesplus.com privacy policy that was archived on 2014-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140411013415id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the batteriesplus.com privacy policy that was archived on 2014-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208165001id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy for BatteriesPlus.com</title>
@@ -39,21 +39,38 @@
           
 <script type="text/javascript">
     $(function () {
+
+        pageInit();       
+
+        var storeCode = $("#YourStore_customerStoreCode").text();
+        var isMobile = $("#YourStore_isMobile").text();
+
+        LoadStoreInfoWindow(storeCode);
+        if (storeCode == '0'&&isMobile == "True") {
+            getLocation();
+        }
+    })
+
+    function pageInit()
+    {
         var storeCode = $("#YourStore_customerStoreCode").text();
         var isShow = $("#YourStore_isShow").text();
+        var isMobile = $("#YourStore_isMobile").text();
         var lblCityState = $("#YourStore_lblCityState").text();
 
-        var msgIsYourStore = "Is Your Store:";
+        var msgIsYourStore = "Is Your Closest Store:";
         var msgYourStore = "Your Store:";
 
         if (storeCode == '0') {
             $("#CustomerStore").hide();
+            $('#BlankStore_top').show();
             $("#ChangeCustomerStore").hide();
             hideDivYourStore();
         }
         else {
             $("#YourStore_customerStoreCode").hide();
             $("#CustomerStore").show();
+            $('#BlankStore_top').hide();
             $("#ChangeCustomerStore").show();
 
             if (isShow == "True") {
@@ -76,7 +93,34 @@
                 $("#ChangeCustomerStore").hide();
             }
         }
-    })
+    }
+
+    function getLocation() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(sendPositionToServer);
+        }
+        //If the navigator doesn't support the geolocation, do nothing.
+    }
+
+    function sendPositionToServer(position) {
+        var lat = position.coords.latitude;
+        var long = position.coords.longitude;
+        $.getJSON('/GetMobileStore.aspx', { lat: lat, long: long },
+              function (data) {
+                if (data != "")
+                {
+                    var store = data;
+                    $("#YourStore_customerStoreCode").text(store.store[0].storeCode);
+                    $("#YourStore_lblCityState").text(store.store[0].cityState);
+                    $("#YourStore_lblAddress").text(store.store[0].address);
+                    $("#YourStore_lblPhone").text(store.store[0].phone);
+                    $("#YourStore_isShow").text(store.store[0].isShowMsg);
+                    pageInit();
+                    LoadStoreInfoWindow(store.store[0].storeCode);
+                }
+            }
+        );
+    }
 
     function hideDivYourStore() {
         $("#divYourStore").hide();
@@ -97,11 +141,11 @@
     function checkIsMainPage() {
         var url = window.location.href.toLowerCase();
         var newUrl = url.split('/')[3];
-        if (newUrl == '' || newUrl.indexOf('default.aspx') > 0 || newUrl.indexOf('checkout1.aspx') > 0 || newUrl.indexOf('checkoutreview.aspx') > 0) {           
-            return true;           
+        if (newUrl == '' || newUrl.indexOf('default.aspx') > 0 || newUrl.indexOf('checkout1.aspx') > 0 || newUrl.indexOf('checkoutreview.aspx') > 0) {
+            return true;
         }
-        else {            
-            return false;           
+        else {
+            return false;
         }
     }
 </script>
@@ -110,63 +154,67 @@
         visibility: hidden;
     }
 </style>
-<div id="topStoreInfo">
-    <div id="CustomerStore" style="float: left; width: 400px; min-height: 1px; text-align: left; display: none;">
+<div id="BlankStore_top" style="float:left;  margin-top: 38px; margin-left: 2px; font-size: 13px; padding-left:37px; display: none;">Find a Store for Local Pricing and Availability<img src="images/geolocation/StoreDownArrow.png"></div>
+<div style="float: left; width: 290px; text-align: left;padding-left:10px;">   
+    <div id="CustomerStore" style="display: none;">
         <span class="dialog-inside-bold" id="topYourStore"></span>
         <br>
         <span id="YourStore_lblCityState" class="lblCityState">Ashburn, VA</span>
         <br>
         <span id="YourStore_lblAddress" class="lblAddress">44110 Ashburn Shopping Plaza</span>
-    </div>
-    <div id="ChangeCustomerStore" style="float: left; min-height: 1px; display: none;">
         <br>
-        <span id="YourStore_customerStoreCode" class="hiddenLabel">1107</span>
-        <span id="YourStore_isShow" class="hiddenLabel">True</span>
-        <br>
-        <span id="storeInfo">Store Info<img src="images/geolocation/StoreDownArrow.png"></span><span class="div-marginright">|</span>
-        <span id="changeStore">Change Store<img src="images/geolocation/StoreDownArrow.png"></span>
+        <span id="YourStore_lblPhone" class="lblAddress">571.291.2916  </span>
     </div>
 </div>
+<div id="ChangeCustomerStore" style="float: left; display: none;">
+    <br>
+    <span id="YourStore_customerStoreCode" class="hiddenLabel">1107</span>
+    <span id="YourStore_isShow" class="hiddenLabel">True</span>
+    <span id="YourStore_isMobile" class="hiddenLabel">False</span>
+    <br>
+    <span id="storeInfo_top">Store Info<img src="images/geolocation/StoreDownArrow.png"></span><span class="div-marginright">|</span>
+    <span id="changeStore">Change Store<img src="images/geolocation/StoreDownArrow.png"></span><span class="div-marginright">|</span>
+    <span id="FindAStore_top">Find a Store<img src="images/geolocation/StoreDownArrow.png"></span>
+</div>
             
-            <div style="float: right; width: 325px; font-weight: bold;">
+            <div style="float: right; width: 300px; font-weight: bold;">
                 <div style="margin-bottom: 15px; margin-top: 4px;"><span id="userName"></span>&nbsp;</div>
                 <span id="loginText"><a href="signin.aspx" rel="nofollow">Log In</a>
-                    <span class="top-marginright">|</span><a href="t-service.aspx">Help</a></span>
+                    <span class="top-marginright">|</span><a href="t-service.aspx">Customer Service</a></span>
                 <span class="top-marginright">|</span><a href="Shoppingcart.aspx" rel="nofollow">View Cart (0)</a>
             </div>
             
 
 <!--Store window -->
-<div id="StoreInfo" class="navigation-window" style="width: 880px; height: 170px; position: absolute; top: 64px; left: 30px; display: none;">
+<div id="StoreInfo" class="navigation-window" style="width: 880px; min-height: 110px; position: absolute; top: 64px; left: 30px; display: none;">
     <img src="images/geolocation/Arrow.png" alt="" class="store-arrow-icon">
     <div class="window-dialog window-store">
         <div class="dialog-close">
             <img src="images/geolocation/close.png" alt="close"></div>
-        <div class="dialog-content">
+        <div class="dialog-content" style="height:100%;">
             <div class="dialog-inside">
                 <div class="dialog-inside-bold">
-                    <span id="TopStoreInfo1_lblStoreName">Ashburn, Virginia</span>                    
-                    <span id="TopStoreInfo1_lblStoreCodeInfo" class="lblStoreCodeInfo" style="display:none;">680</span>
+                    <span class="StoreInfo_lblStoreName"></span>                    
+                    <span class="lblStoreCodeInfo" style="display:none;"></span> 
                 </div>
                 <div>
-                    <span id="TopStoreInfo1_lbladdress"><span itemprop="streetAddress">44110 Ashburn Shopping Plaza</span><br><span itemprop="addressLocality">Ashburn</span>, <span itemprop="addressRegion">VA</span> <span itemprop="postalCode">20147</span></span></div>
+                    <span class="StoreInfo_lbladdress"></span></div>
                 <div class="dialog-inside-bold">Phone:
-                    <span id="TopStoreInfo1_lblphone"><span itemprop="telephone">571.291.2916  </span></span>
+                    <span class="StoreInfo_lblphone"></span>                    
                     | Fax:
-                    <span id="TopStoreInfo1_lblfax"><span itemprop="faxNumber"> 571.291.9602  </span></span></div>
+                    <span class="StoreInfo_lblfax"></span></div>
                 <div class="dialog-inside-bold">Hours:
-                    <span id="TopStoreInfo1_lblhour"><meta itemprop="openingHours" content=" Mo-Th:8:00 am -20:00 pm">Mon–Thurs: 8:00 am - 8:00 pm,<meta itemprop="openingHours" content="Fr 8:00 am -20:00 pm"> Fri: 8:00 am - 8:00 pm,<meta itemprop="openingHours" content="Sa 8:00 am -19:00 pm"> Sat: 8:00 am - 7:00 pm,<meta itemprop="openingHours" content="Su 10:00 am -17:00 pm"> Sun: 10:00 am - 5:00 pm</span></div>
-               
+                    <span class="StoreInfo_lblhour"></span></div>               
                 <div class="dialog-inside-bold">
-                    <span id="TopStoreInfo1_lblStoreCoupons"><a href="store_details/680.aspx#Coupons">Store Coupons <img src="images/geolocation/delta.gif" width="4" height="7" alt=">>"></a></span></div>
-                <div class="dialog-inside-bold"><a href="store_locator/drive/Ashburn-680.aspx" id="TopStoreInfo1_GetDirections">Get Directions
+                    <span class="StoreInfo_lblStoreCoupons"></span></div>
+                <div class="dialog-inside-bold"><a id="TopStoreInfo1_GetDirections" class="StoreInfo_GetDirections">Get Directions
                     <img src="images/geolocation/delta.gif" width="4" height="7" alt=">>"></a></div>
             </div>
         </div>
     </div>
 </div>
 
-<div id="StoreList" class="navigation-window" style="width: 460px; height: 458px; position: absolute; top: 64px; left: 140px; display: none">
+<div id="StoreList" class="navigation-window" style="width: 460px; height: 458px; position: absolute; top: 64px; left: 300px; display: none">
     <img src="images/geolocation/Arrow.png" alt="" class="store-arrow-icon">
     <div class="window-dialog window-storelist">
         <div class="dialog-close">
@@ -174,7 +222,7 @@
         <div class="dialog-content">
 
             <div class="zip-search">
-                <div class="dialog-inside-bold">Please enter an street address, city and state, or ZIP code.</div>
+                <div class="dialog-inside-bold">Please enter a street address, city and state, or ZIP code.</div>
                 <div class="search-input" style="position: relative;">
                     <input id="search-input-left" class="search-input-left" onkeydown="if(((window.event) ? event.keyCode : e.which)==13){return false;}">
                     <span class="search-input-icon">
@@ -245,7 +293,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="dialog-inside-bold" style="margin-top: 2px; margin-left: 5px;">
+            <div class="dialog-inside-bold findmorestores" style="margin-top: 4px; margin-left: 5px;">
                 <a href="t-storeloc.aspx">Find More Stores
                     <img src="images/geolocation/delta.gif" width="4" height="7" alt=">>"></a>
             </div>
@@ -268,12 +316,12 @@
             <div id="SEARCH">
                 <label>
                     Search:</label>
-                <input type="text" value="Keyword" id="SearchTerm" name="SearchTerm" class="search" onfocus="clearText(this)" onblur="clearText(this)" onkeydown="doSearch(event);" size="200">
+                <input type="text" value="Keyword" id="SearchTerm" name="SearchTerm" class="search" onfocus="clearText(this)" onblur="clearText(this)" onkeydown="doSearch(event);">
                 &nbsp;<input id="searchButton" type="submit" value="Go!" onclick="Search(this.id);" class="goBtn">
             </div>
             
 
-            <!-- READ FROM DB --><div id="HELP">Call: <span class="help">800-677-8278</span></div><div id="NAV"><div style="float:left;display:inline;width:620px; height:45px;margin-top:5px;"><a href="t-promodetails.aspx"><img src="media/nav-specials.png" alt="Specials" width="90" height="45" border="0"></a><a href="t-batteries-plus-recycles.aspx"><img src="media/nav-recycling.png" alt="Recycling" width="70" height="45" border="0"></a><a href="t-tech-center.aspx"><img src="media/nav-tech.png" alt="Tech Center" width="74" height="45" border="0"></a><img src="media/nav4.png" width="32" height="45"><a href="http://www.batteriesplus.com/franchising?navbar" target="_blank"><img src="media/nav-franchise.png" alt="Own A Franchise" width="312" height="45" border="0"></a><img src="media/nav6.png" width="42" height="45"></div></div><!-- END OF DB -->
+            <!-- READ FROM DB --><div id="HELP"></div><div id="NAV"><div style="float:left;display:inline;width:620px; height:45px;margin-top:5px;"><a href="t-promodetails.aspx"><img src="media/nav-specials.png" alt="Specials" width="90" height="45" border="0"></a><a href="t-batteries-plus-recycles.aspx"><img src="media/nav-recycling.png" alt="Recycling" width="70" height="45" border="0"></a><a href="t-we-fix-it.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/navbar3.png" alt="Repair" width="74" height="45" border="0"></a><img src="media/nav4.png" width="32" height="45"><a href="http://www.batteriesplus.com/franchising?navbar" target="_blank"><img src="media/nav-franchise.png" alt="Own A Franchise" width="312" height="45" border="0"></a><img src="media/nav6.png" width="42" height="45"></div></div><!-- END OF DB -->
 
 
 
@@ -281,7 +329,7 @@
                 <strong>You are here: </strong><a href="/">BatteriesPlus.com Home</a>&nbsp;→&nbsp; Privacy Policy
             </div>
             <div id="divYourStore">
-                <div style="float: left; width: 275px; text-align: left; line-height: 30px;">
+                <div style="float: left; width: 290px; text-align: left; line-height: 30px;">
                     <span id="yellowYourStore"></span>
                     <span id="lblStateCity" class="dialog-inside-bold" style="letter-spacing:-0.02em;"></span>
                 </div>
@@ -302,13 +350,13 @@
         </div>
 
         <form name="form1" method="post" action="driver.aspx?Topic=privacy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDkxNzQzNTIPZBYCAgIPZBYGAgEPZBYIZg8PFgIeBFRleHQFC0FzaGJ1cm4sIFZBZGQCAQ8PFgIfAAUcNDQxMTAgQXNoYnVybiBTaG9wcGluZyBQbGF6YWRkAgIPDxYCHwAFBDExMDdkZAIDDw8WAh8ABQRUcnVlZGQCAw9kFhACAQ8PFgIfAAURQXNoYnVybiwgVmlyZ2luaWFkZAIDDw8WAh8ABQM2ODBkZAIFDw8WAh8ABcgBPHNwYW4gaXRlbXByb3A9InN0cmVldEFkZHJlc3MiPjQ0MTEwIEFzaGJ1cm4gU2hvcHBpbmcgUGxhemE8L3NwYW4+PEJSPjxzcGFuIGl0ZW1wcm9wPSJhZGRyZXNzTG9jYWxpdHkiPkFzaGJ1cm48L3NwYW4+LCA8c3BhbiBpdGVtcHJvcD0iYWRkcmVzc1JlZ2lvbiI+VkE8L3NwYW4+IDxzcGFuIGl0ZW1wcm9wPSJwb3N0YWxDb2RlIj4yMDE0Nzwvc3Bhbj5kZAIHDw8WAh8ABTA8c3BhbiBpdGVtcHJvcD0idGVsZXBob25lIj41NzEuMjkxLjI5MTYgIDwvc3Bhbj5kZAIJDw8WAh8ABTE8c3BhbiBpdGVtcHJvcD0iZmF4TnVtYmVyIj4gNTcxLjI5MS45NjAyICA8L3NwYW4+ZGQCCw8PFgIfAAXkAjxtZXRhIGl0ZW1wcm9wPSJvcGVuaW5nSG91cnMiIGNvbnRlbnQ9IiBNby1UaDo4OjAwIGFtIC0yMDowMCBwbSI+TW9uJiM4MjExO1RodXJzOiA4OjAwIGFtIC0gODowMCBwbSw8bWV0YSBpdGVtcHJvcD0ib3BlbmluZ0hvdXJzIiBjb250ZW50PSJGciA4OjAwIGFtIC0yMDowMCBwbSI+IEZyaTogODowMCBhbSAtIDg6MDAgcG0sPG1ldGEgaXRlbXByb3A9Im9wZW5pbmdIb3VycyIgY29udGVudD0iU2EgODowMCBhbSAtMTk6MDAgcG0iPiBTYXQ6IDg6MDAgYW0gLSA3OjAwIHBtLDxtZXRhIGl0ZW1wcm9wPSJvcGVuaW5nSG91cnMiIGNvbnRlbnQ9IlN1IDEwOjAwIGFtIC0xNzowMCBwbSI+IFN1bjogMTA6MDAgYW0gLSA1OjAwIHBtZGQCDQ8PFgIfAAWDATxhIGhyZWY9J3N0b3JlX2RldGFpbHMvNjgwLmFzcHgjQ291cG9ucyc+U3RvcmUgQ291cG9ucyA8aW1nIHNyYz0naW1hZ2VzL2dlb2xvY2F0aW9uL2RlbHRhLmdpZicgd2lkdGg9JzQnIGhlaWdodD0nNycgYWx0PSc+PicgLz48L2E+ZGQCDw8WAh4EaHJlZgUkc3RvcmVfbG9jYXRvci9kcml2ZS9Bc2hidXJuLTY4MC5hc3B4ZAIHD2QWAmYPZBYCAgEPZBYKAgMPEGQQFQEAFQEAFCsDAWdkZAIHDxBkEBUBABUBABQrAwFnZGQCCw8QZBAVAQAVAQAUKwMBZ2RkAhEPFgIfAAXZDjxkaXYgc3R5bGU9Im1hcmdpbi10b3A6IDI1cHg7IHdpZHRoOiAyNjVweDsgaGVpZ2h0OiA1NTBweDsiPjx0YWJsZSBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgd2lkdGg9IjI2NSI+PHRib2R5Pjx0cj48dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vQmF0dGVyaWVzUGx1cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wMS1mYWNlYm9vay5naWYiIGFsdD0iRmFjZWJvb2sgJmd0OyIgYm9yZGVyPSIwIiBoZWlnaHQ9IjU3IiB3aWR0aD0iNDciPjwvYT48YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vYmF0dGVyaWVzcGx1cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wMi10d2l0dGVyLmdpZiIgYWx0PSJUd2l0dGVyICZndDsiIGJvcmRlcj0iMCIgaGVpZ2h0PSI1NyIgd2lkdGg9IjQ2Ij48L2E+PGEgaHJlZj0iaHR0cHM6Ly9wbHVzLmdvb2dsZS5jb20vdS8wLzExMzQ1NzEyMDY1Njk0NTU4MDAzMi9wb3N0cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wMy1nb29nbGVwbHVzLmpwZyIgYWx0PSJHb29nbGUrICZndDsiIGJvcmRlcj0iMCIgaGVpZ2h0PSI1NyIgd2lkdGg9IjQyIj48L2E+PGEgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9iYXR0ZXJpZXNwbHVzIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNzEzXzA0LXlvdXR1YmUuZ2lmIiBhbHQ9IllvdVR1YmUgJmd0OyIgYm9yZGVyPSIwIiBoZWlnaHQ9IjU3IiB3aWR0aD0iODUiPjwvYT48YSBocmVmPSJodHRwOi8vcGludGVyZXN0LmNvbS9iYXR0ZXJpZXNwbHVzLyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wNS1waW50ZXJlc3QuZ2lmIiBhbHQ9IlBpbnRlcmVzdCAmZ3Q7IiBib3JkZXI9IjAiIGhlaWdodD0iNTciIHdpZHRoPSI0NSI+PC9hPjwvdGQ+PC90cj48dHI+DQogIDx0ZCBzdHlsZT0iYm9yZGVyLWJvdHRvbTo4cHggc29saWQgI2ZmODIwMDsiPjxhIGhyZWY9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNzEzXzA2LWJsb2cuanBnIiBhbHQ9IkJlIFBvc2l0aXZlIC0gYSBCbG9nIHBvd2VyZWQgYnkgQmF0dGVyaWVzIFBsdXMiIHdpZHRoPSIxMzIiIGhlaWdodD0iNjMiIGJvcmRlcj0iMCI+PC9hPjxhIGhyZWY9InQtcHNpZGVfc2lnbnVwLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wNy1uZXdzbGV0dGVyLmdpZiIgYWx0PSJOZXdzbGV0dGVyIFNpZ251cCIgd2lkdGg9IjEzMyIgaGVpZ2h0PSI2MyIgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjx0cj4NCiAgICA8dGQgc3R5bGU9InBhZGRpbmctdG9wOjRweDsiPjxhIGhyZWY9InQtQnVzaW5lc3MtQ29udGFjdC1Gb3JtLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvQjJCLXByaWNpbmcyLmdpZiIgYWx0PSJDb21tZXJjaWFsIFByaWNpbmcgUmVxdWVzdCBGb3JtIiAgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT4NCg0KIDwvZGl2PmQCEw8WAh8AZWRkY+Wdgb7n/U/iKgF9BK22UN2tAxA=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDkxNzQzNTIPZBYCAgIPZBYEAgEPZBYMZg8PFgIeBFRleHQFC0FzaGJ1cm4sIFZBZGQCAQ8PFgIfAAUcNDQxMTAgQXNoYnVybiBTaG9wcGluZyBQbGF6YWRkAgIPDxYCHwAFDjU3MS4yOTEuMjkxNiAgZGQCAw8PFgIfAAUEMTEwN2RkAgQPDxYCHwAFBFRydWVkZAIFDw8WAh8ABQVGYWxzZWRkAgcPZBYCZg9kFgICAQ9kFgoCAw8QZBAVAQAVAQAUKwMBZ2RkAgcPEGQQFQEAFQEAFCsDAWdkZAILDxBkEBUBABUBABQrAwFnZGQCEQ8WAh8ABZ8SPGRpdiBhbGlnbj0iY2VudGVyIiBzdHlsZT0ibWFyZ2luLXRvcDogMjVweDt3aWR0aDoyNjVweCI+DQo8ZGl2IHN0eWxlPSJjb2xvcjp3aGl0ZTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxLjVlbTt0ZXh0LWFsaWduOmNlbnRlcjtiYWNrZ3JvdW5kLWNvbG9yOiM0M2IwMmE7Ym9yZGVyLXJhZGl1czoxNXB4Oy1tb3otYm9yZGVyLXJhZGl1czoxNXB4O3BhZGRpbmc6MTBweDsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6LjhlbTsiPkl0IGRvZXNuJ3QgbWF0dGVyIHdobyBicm9rZSBpdC48L3NwYW4+IDxicj4NCiAgV2UgZml4IGl0LjwvZGl2Pg0KDQoNCjxkaXYgYWxpZ249ImNlbnRlciI+PGEgaHJlZj0idC13ZS1maXgtaXQuYXNweCI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy9icm9rZW4tc2NyZWVucy1maXgtaXQyLnBuZyIgYm9yZGVyPSIwIj48L2E+PC9kaXY+DQo8ZGl2IHN0eWxlPSJib3JkZXItYm90dG9tOjhweCBzb2xpZCAjZmY4MjAwO3BhZGRpbmc6MTBweCAwcHg7Zm9udC1zaXplOjEuMWVtO3RleHQtYWxpZ246Y2VudGVyOyI+V2Ugd2lsbCBnZXQgeW91ciBtb2JpbGUgZGV2aWNlIGJhY2sgdXAgYW5kIHJ1bm5pbmcgYXMgcXVpY2tseSBhcyBwb3NzaWJsZSE8L2Rpdj4NCjwvZGl2Pg0KDQoNCjxkaXYgaWQ9InN3ZWVwcy1idXR0b24iIHN0eWxlPSJtYXJnaW4tdG9wOjEwcHg7IG1hcmdpbi1ib3R0b206MTBweDsiPiANCjxhIGhyZWY9Ii90LXN3ZWVwc3Rha2VzLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvRnJlZUJhdHRlcmllc0J1dHRvbi5wbmciIGJvZGVyPSIwIj48L2E+DQo8L2Rpdj4NCg0KDQo8ZGl2IHN0eWxlPSIgd2lkdGg6IDI2NXB4OyBoZWlnaHQ6IDU1MHB4OyI+DQo8dGFibGUgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHdpZHRoPSIyNjUiPjx0Ym9keT48dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vQmF0dGVyaWVzUGx1cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDFmYWNlYm9vay5naWYiIGFsdD0iRmFjZWJvb2sgJmd0OyIgYm9yZGVyPSIwIj48L2E+PGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL2JhdHRlcmllc3BsdXMiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL2Jsb2cuYmF0dGVyaWVzcGx1cy5jb20vd3AtY29udGVudC91cGxvYWRzLzAydHdpdHRlci5naWYiIGFsdD0iVHdpdHRlciAmZ3Q7IiBib3JkZXI9IjAiPjwvYT48YSBocmVmPSJodHRwczovL3BsdXMuZ29vZ2xlLmNvbS91LzAvMTEzNDU3MTIwNjU2OTQ1NTgwMDMyL3Bvc3RzIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wM2dvb2dsZXBsdXMuZ2lmIiBhbHQ9Ikdvb2dsZSsgJmd0OyIgYm9yZGVyPSIwIj48L2E+PGEgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9iYXR0ZXJpZXNwbHVzIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNHlvdXR1YmUuZ2lmIiBhbHQ9IllvdVR1YmUgJmd0OyIgYm9yZGVyPSIwIj48L2E+PGEgaHJlZj0iaHR0cDovL3BpbnRlcmVzdC5jb20vYmF0dGVyaWVzcGx1cy8iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL2Jsb2cuYmF0dGVyaWVzcGx1cy5jb20vd3AtY29udGVudC91cGxvYWRzLzA1cGludGVyZXN0LmdpZiIgYWx0PSJQaW50ZXJlc3QgJmd0OyIgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjx0cj4NCiAgPHRkPjxhIGhyZWY9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNmJsb2cuZ2lmIiBhbHQ9IkJlIFBvc2l0aXZlIC0gYSBCbG9nIHBvd2VyZWQgYnkgQmF0dGVyaWVzIFBsdXMgQnVsYnMiIHdpZHRoPSIxMzIiIGhlaWdodD0iNjMiIGJvcmRlcj0iMCI+PC9hPjxhIGhyZWY9InQtcHNpZGVfc2lnbnVwLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wNy1uZXdzbGV0dGVyLmdpZiIgYWx0PSJOZXdzbGV0dGVyIFNpZ251cCIgd2lkdGg9IjEzMyIgaGVpZ2h0PSI2MyIgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT4NCg0KIDwvZGl2PmQCEw8WAh8AZWRkvE0k67a94Wqa6Z4mIT6gjGe7cSw=">
 
 
 <script src="/ScriptResource.axd?d=OgKFM2vxcWlyg3e5mmeFnZ5rwWuD8YAW1fYyc9fTQZd6UeC9I9NfAlCCHpAt4Y_koqpPGeUdgLxutexGsYBGgiaUH2mShZHJ81bDzDqpjx9VD2AmuLS6BWmLHi-w-ea7JqmjW_2EnI4hIAx0JlyyRvB34irKP4u83BlWzlbPyPKybG040&amp;t=7d33bd9f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=7X3WJCKDNEGWHnubAMlzk66AflRwE0jMdSgp3Nh9AZmyfdt_F1N5JuFocbd595eSwyGnXoRJKjanKx0YjdspGCUt0PktT-LDB_jcTulBg34T-6ZqgZ5V-yNK7uKInr8NF-lTEMOR4TJCJlVy-aEO6Br8_u41&amp;t=7e966d99" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=yZpeuv5MQ_4FVVo43HAtzoU7ROA3wLl7lnyQD_GQhK1fYiDraTNLlr4qT1-7z5vWy09wkqcqqt-X0BOWf9NctyQ5EuYX5vjdcC9BqQ7LB0PhpvS_qcZVYlbpHBwSFGNnLJ7ew_muTnoLFzViuLMbwLIZyI_9w8vaOCuX9_ZKQVGYwFBr0&amp;t=7e966d99" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=mT0wFsLMpMBF9KA5Q2ASKkQKf5Q_Ojq-vTxWa4vCDnORum0SNg-TOGP8rrg0exZX1zBExQcTIPzWM1VdNfStwAAG-4XsE76FtT9yqD7P4f0pBPuYuZTj3-mC0kWTs9rRbQcxSmpQTdOdIXUFlR9VAanWYRsJq1VlooS_Ayf6ayL-zGfwmCkbaYIxT-kPi0R--mjN4w2&amp;t=7e966d99" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=7X3WJCKDNEGWHnubAMlzk66AflRwE0jMdSgp3Nh9AZmyfdt_F1N5JuFocbd595eSwyGnXoRJKjanKx0YjdspGCUt0PktT-LDB_jcTulBg34T-6ZqgZ5V-yNK7uKInr8NF-lTEMOR4TJCJlVy-aEO6Br8_u41&amp;t=2e0287c4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yZpeuv5MQ_4FVVo43HAtzoU7ROA3wLl7lnyQD_GQhK1fYiDraTNLlr4qT1-7z5vWy09wkqcqqt-X0BOWf9NctyQ5EuYX5vjdcC9BqQ7LB0PhpvS_qcZVYlbpHBwSFGNnLJ7ew_muTnoLFzViuLMbwLIZyI_9w8vaOCuX9_ZKQVGYwFBr0&amp;t=2e0287c4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mT0wFsLMpMBF9KA5Q2ASKkQKf5Q_Ojq-vTxWa4vCDnORum0SNg-TOGP8rrg0exZX1zBExQcTIPzWM1VdNfStwAAG-4XsE76FtT9yqD7P4f0pBPuYuZTj3-mC0kWTs9rRbQcxSmpQTdOdIXUFlR9VAanWYRsJq1VlooS_Ayf6ayL-zGfwmCkbaYIxT-kPi0R--mjN4w2&amp;t=2e0287c4" type="text/javascript"></script>
     
 
 <div id="TOPRIGHT">
@@ -350,9 +398,24 @@
  
     <div id="INFO">
      
-        <div style="margin-top: 25px; width: 265px; height: 550px;"><table border="0" cellpadding="0" cellspacing="0" width="265"><tbody><tr><td><a href="http://www.facebook.com/BatteriesPlus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_01-facebook.gif" alt="Facebook >" border="0" height="57" width="47"></a><a href="http://twitter.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_02-twitter.gif" alt="Twitter >" border="0" height="57" width="46"></a><a href="https://plus.google.com/u/0/113457120656945580032/posts" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_03-googleplus.jpg" alt="Google+ >" border="0" height="57" width="42"></a><a href="http://www.youtube.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_04-youtube.gif" alt="YouTube >" border="0" height="57" width="85"></a><a href="http://pinterest.com/batteriesplus/" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_05-pinterest.gif" alt="Pinterest >" border="0" height="57" width="45"></a></td></tr><tr>
-  <td style="border-bottom:8px solid #ff8200;"><a href="http://blog.batteriesplus.com" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_06-blog.jpg" alt="Be Positive - a Blog powered by Batteries Plus" width="132" height="63" border="0"></a><a href="t-pside_signup.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_07-newsletter.gif" alt="Newsletter Signup" width="133" height="63" border="0"></a></td></tr><tr>
-    <td style="padding-top:4px;"><a href="t-Business-Contact-Form.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/B2B-pricing2.gif" alt="Commercial Pricing Request Form" border="0"></a></td></tr></tbody></table>
+        <div align="center" style="margin-top: 25px;width:265px">
+<div style="color:white;font-weight:bold;font-size:1.5em;text-align:center;background-color:#43b02a;border-radius:15px;-moz-border-radius:15px;padding:10px;"><span style="font-size:.8em;">It doesn't matter who broke it.</span> <br>
+  We fix it.</div>
+
+
+<div align="center"><a href="t-we-fix-it.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/broken-screens-fix-it2.png" border="0"></a></div>
+<div style="border-bottom:8px solid #ff8200;padding:10px 0px;font-size:1.1em;text-align:center;">We will get your mobile device back up and running as quickly as possible!</div>
+</div>
+
+
+<div id="sweeps-button" style="margin-top:10px; margin-bottom:10px;"> 
+<a href="/t-sweepstakes.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/FreeBatteriesButton.png" boder="0"></a>
+</div>
+
+
+<div style=" width: 265px; height: 550px;">
+<table border="0" cellpadding="0" cellspacing="0" width="265"><tbody><tr><td><a href="http://www.facebook.com/BatteriesPlus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/01facebook.gif" alt="Facebook >" border="0"></a><a href="http://twitter.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/02twitter.gif" alt="Twitter >" border="0"></a><a href="https://plus.google.com/u/0/113457120656945580032/posts" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/03googleplus.gif" alt="Google+ >" border="0"></a><a href="http://www.youtube.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/04youtube.gif" alt="YouTube >" border="0"></a><a href="http://pinterest.com/batteriesplus/" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/05pinterest.gif" alt="Pinterest >" border="0"></a></td></tr><tr>
+  <td><a href="http://blog.batteriesplus.com" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/06blog.gif" alt="Be Positive - a Blog powered by Batteries Plus Bulbs" width="132" height="63" border="0"></a><a href="t-pside_signup.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_07-newsletter.gif" alt="Newsletter Signup" width="133" height="63" border="0"></a></td></tr></tbody></table>
 
  </div>
      </div>
@@ -407,7 +470,7 @@ Batteries Plus LLC ("BPLUS" or Batteries Plus Bulbs) is committed to protecting 
   <p> <strong>How can I give you feedback or contact you?</strong>
     <br>
     You may contact us through the <a href="t-contact.aspx">Contact Us</a> section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate: </p>
-  <p>Batteries Plus
+  <p>Batteries Plus Bulbs
     <br>
     1325 Walnut Ridge Drive
     <br>
@@ -419,7 +482,7 @@ Batteries Plus LLC ("BPLUS" or Batteries Plus Bulbs) is committed to protecting 
         </div>
     </div>
     
-<script>loadstorelist('1107',0, 0, 'loadpage');</script>
+
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
@@ -455,22 +518,23 @@ Sys.Application.add_init(function() {
                     </ul>
                 </div>
             </div>
-             <!-- <div align="center"><img src="media/footer.png" width="930"/></div> -->
+            <!-- <div align="center"><img src="media/footer.png" width="930"/></div> -->
             <div class="footerContent">
-                <p>We strive to provide you with the lowest prices possible on batteriesplus.com and our stores.<br>
+                <p>
+                    We strive to provide you with the lowest prices possible on batteriesplus.com and our stores.<br>
                     However, store pricing may differ from prices online. <a href="t-conditionsofuse.aspx">Conditions of Use</a><br>
-                    <strong>Policies</strong>: <a href="t-shipping.aspx">Shipping</a>&nbsp;<a href="t-returns.aspx">Returns</a>&nbsp;<a href="t-privacy.aspx">Privacy</a>&nbsp;<a href="t-warranty.aspx">Warranty</a></p>
+                    <strong>Policies</strong>: <a href="t-shipping.aspx">Shipping</a>&nbsp;<a href="t-returns.aspx">Returns</a>&nbsp;<a href="t-privacy.aspx">Privacy</a>&nbsp;<a href="t-warranty.aspx">Warranty</a>
+                </p>
                 <p>© 2014, Batteries Plus LLC. All rights reserved. All registered trademarks are the property of their respective owners.</p>
                 <p>© 2014 DURACELL, a division of the Gillette Company, Bethel, CT 06801. DURACELL is a registered trademark of the Gillette Company, used under license. All rights reserved.</p>
             </div>
-            <div id="ICONS"><img style="margin-bottom:10px;" src="media/credit_cards.png"> 
-		<a rel="nofollow" target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.batteriesplus.COM&amp;lang=en">
-		<img border="0" width="100" src="https://seal.verisign.com/getseal?at=0&amp;sealid=1&amp;dn=www.batteriesplus.com&amp;lang=en"></a>
-		 <a rel="nofollow" href="http://www.stellaservice.com/profile/BatteriesPlus.com/" target="_blank">
-		 <img border="0" style="margin-bottom:15px;" width="115" alt="Excellent STELLAService Rating" src="media/stella_rating_excellent.png"></a>
-		 <a rel="nofollow" xmlns="http://www.w3.org/1999/xhtml" target="https://www.bizrate.com" href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--130101.html">
-		<img border="0" align="top" alt="BizRate Customer Certified (GOLD) Site" width="115" src="https://medals.bizrate.com/medals/dynamic/130101_medal.gif"></a>
-	    </div>
+            <div id="ICONS">
+                <img style="margin-bottom: 10px;" src="media/credit_cards.png">
+                <a rel="nofollow" target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.batteriesplus.COM&amp;lang=en">
+                    <img border="0" width="100" src="https://seal.verisign.com/getseal?at=0&amp;sealid=1&amp;dn=www.batteriesplus.com&amp;lang=en"></a>                
+                <a rel="nofollow" xmlns="http://www.w3.org/1999/xhtml" target="https://www.bizrate.com" href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--130101.html">
+                    <img border="0" align="top" alt="BizRate Customer Certified (GOLD) Site" width="115" src="https://medals.bizrate.com/medals/dynamic/130101_medal.gif"></a>
+            </div>
 
             <!-- BEGIN: Unica Page Tag -->
             <!-- Copyright 2004-2006 Unica Corporation.  All rights reserved. -->
@@ -490,8 +554,6 @@ Sys.Application.add_init(function() {
         </div>
 
     </div>
-
-    
 
 
 </body></html>
