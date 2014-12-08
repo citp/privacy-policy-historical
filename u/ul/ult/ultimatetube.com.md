@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatetube.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615003049id_/http%3A//www.ultimatetube.com/page.php%3Fpage%3D12%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatetube.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208184137id_/http%3A//www.ultimatetube.com/page.php%3Fpage%3D12%23privacy) for the most accurate reproduction.*
 
 # : UltimateTube
 
@@ -104,4 +104,4 @@ Date Last Modified:
 This Privacy Notice was last modified April 15 , 2013.
 
 
-
+[](http://christianrankings.net/)
