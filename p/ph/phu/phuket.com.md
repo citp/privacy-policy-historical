@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phuket.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229123745id_/http%3A//www.asiawebdirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuket.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208090617id_/http%3A//www.asiawebdirect.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -108,3 +108,36 @@ To ensure the confidentiality of your PII, we use leading security technology an
 We have also obtained a digital certificate from the VeriSign group, an industry leader in the protection and management of data transmission.
 
 Our systems are configured with industry standard data encryption and firewall technology. When you send PII to us over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission.
+
+#### 1\. Infringement notification
+
+At Asia Web Direct we respect the copyrights of others. If you believe in good faith that materials hosted by us infringe your copyright, you (or your agent) may send us a written notice that includes the information listed below.
+
+Please provide the following information in the following format:
+
+  1. A clear identification of the copyrighted work you claim was infringed.
+  2. A clear identification of the material you claim is infringing the copyrighted work, and information that will allow us to locate that material on the Website, such as a link to the infringing material.
+  3. Your contact information so that we can reply to your complaint, preferably including an email address and telephone number.
+  4. Include the following statement: "I have a good faith belief that the material that is claimed as copyright infringement is not authorized by the copyright owner, its agent, or the law."
+  5. Include the following statement: "I swear, under penalty of perjury, that the information in the notification is accurate and I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."
+  6. The notice must be signed by the person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+
+
+Notices of claims of copyright infringement on this website should be emailed to [copyright@asiawebdirect.com](mailto:copyright@asiawebdirect.com) for the fastest resolution.
+
+You may also send us your notice using the contact information below:
+
+  * Asia Web Direct c/o The Legal Department, 7 Baroona Road, Milton, QLD, AUSTRALIA 4064
+  * Fax number: +61 7 3512 9914
+  * All correspondence must be written in English.
+
+
+
+We suggest that you consult your legal advisor before filing a notice or counter-notice. Also, please note that you may be liable for damages (including costs and attorney’s fees) if you make a false claim of copyright infringement.
+
+We will review and address all notices that comply with the requirements above. Please note that we will not process your complaint if it is not properly filled out or if any of the above information is incomplete.
+
+#### 2\. Repeat Infringer Policy
+
+In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and at our sole discretion, subscribers or account holders who are deemed to be repeat infringers. We may also limit access to the Site and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement. If you believe that an account holder or subscriber is a repeat infringer, please provide information sufficient for us to verify this, when filling out your notice. If this Policy is translated into another language and a discrepancy arises between this Policy and the translation thereto, the English language text shall prevail.
