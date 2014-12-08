@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelisticles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044330id_/http%3A//www.thelisticles.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelisticles.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208065956id_/http%3A//thelisticles.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » The Listicles
+# Privacy Policy - The Listicles
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at admin at thelisticles.net
 
