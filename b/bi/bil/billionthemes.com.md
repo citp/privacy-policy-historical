@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the billionthemes.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608140014id_/http%3A//billionthemes.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billionthemes.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208110818id_/http%3A//billionthemes.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/)
 
 ### Privacy Policy 
 
 ##### Overview
 
-This Privacy Policy introduces to your our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the BillionDigital websites (included but not limited to [billiondigital.com](http://billiondigital.com/), [billionthemler.com](http://billionthemler.com/), [billionphotos.com](http://billionphotos.com/), [billionthemes.com](http://billionthemes.com/) and [answers.billiondigital.com](http://answers.billiondigital.com/) to be hereinafter referred to as the "Website"). By using the Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. If you have questions or concerns regarding this policy, you should first contact [support@billiondigital.com](mailto:support@billiondigital.com).
+This Privacy Policy introduces to your our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the BillionDigital websites (included but not limited to [billiondigital.com](http://billiondigital.com/), [billionthemler.com](http://billionthemler.com/), [billionphotos.com](http://billionphotos.com/), [billionthemes.com](http://billionthemes.com/) and [answers.billiondigital.com](http://answers.billiondigital.com/) to be hereinafter referred to as the "Website"). By using the Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. If you have questions or concerns regarding this policy, you should first contact [BillionDigital Support](http://answers.billiondigital.com/Topic/Create?term=%5Blicense%5D&private=1).
 
 ##### Users
 
-This Site is not directed to children under 18. We do not intentionally gather Personal Information about visitors who are under the age of 13. In case that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@billiondigital.com](mailto:support@billiondigital.com).
+This Site is not directed to children under 18. We do not intentionally gather Personal Information about visitors who are under the age of 13. In case that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact [BillionDigital Support](http://answers.billiondigital.com/Topic/Create?term=%5Blicense%5D&private=1).
 
 ##### Collected Information
 
@@ -67,12 +69,5 @@ BillionDigital may be required to disclose your personal information due to lega
 
 ##### Change Notification
 
-We reserve the right to change this Policy from time to time, and at our sole discretion. Please note that if you have limited your account preferences, we will not change your preferences without your consent. If our company or our assets related to the Site are acquired by another company, BillionDigital will notify you of the transaction. The acquiring company will be given access to your personal information without your consent. If BillionDigital sells only a part of its business, the acquiring entity will have access to your personal information without your consent and BillionDigital will attempt to notify you so that you may make an informed decision about this new use of your Personal Information.
+We reserve the right to change this Policy from time to time, and at our sole discretion. Please note that if you have limited your account preferences, we will not change your preferences without your consent. If our company or our assets related to the Site are acquired by another company, BillionDigital will notify you of the transaction. The acquiring company will be given access to your personal information without your consent. If BillionDigital sells only a part of its business, the acquiring entity will have access to your personal information without your consent and BillionDigital will attempt to notify you so that you may make an informed decision about this new use of your Personal Information.  
 
-BillionDigital.com  
-Strovolou, 77;  
-Strovolos Center,   
-2nd Floor, Office 204,  
-Nicosia,   
-2018,  
-Ciprus
