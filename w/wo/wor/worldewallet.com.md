@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldewallet.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085919id_/http%3A//www.worldewallet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldewallet.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208051653id_/http%3A//worldewallet.com/privacy.html) for the most accurate reproduction.*
 
 # World eWallet - Privacy - Global eWallet Solution
 
