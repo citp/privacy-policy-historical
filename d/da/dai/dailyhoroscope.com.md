@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227214600id_/http%3A//www.dailyhoroscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208172733id_/http%3A//www.dailyhoroscope.com/privacy) for the most accurate reproduction.*
 
 # DH Privacy Policy
 
