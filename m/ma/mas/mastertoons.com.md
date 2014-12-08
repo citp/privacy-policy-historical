@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mastertoons.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227012002id_/http%3A//www.mastertoons.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastertoons.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208195234id_/http%3A//mastertoons.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Master Toons Free Online Cartoons
+# Master Toons
 
 **What do we use your information for?**
 
@@ -8,8 +8,6 @@ Any of the information we collect from you may be used in one of the following w
 
 -To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
--To administer a contest, promotion, survey or other site feature
 
 **  
 Do we use cookies?**
@@ -38,4 +36,4 @@ Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on September 15, 2012
+This policy was last modified on July 27, 2014
