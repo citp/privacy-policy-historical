@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanichost.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630164018id_/http%3A//www.jabry.net/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanichost.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208123139id_/http%3A//www.jabry.net/Privacy) for the most accurate reproduction.*
 
 # Jabry Web Hosting Service - Privacy Policy for Free Web Hosting
 
