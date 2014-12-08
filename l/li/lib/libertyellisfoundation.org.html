@@ -1,0 +1,416 @@
+<!--The following is the downloaded HTML source of the libertyellisfoundation.org privacy policy that was archived on 2014-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208194759id_/http%3A//www.libertyellisfoundation.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+        <meta charset="utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYBVldaGwcJVVNRDwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+
+        <title>Privacy Policy - The Statue of Liberty &amp; Ellis Island</title><meta name="description" content="Privacy Policy">
+<meta name="abstract" content="Privacy Policy">
+<meta name="keywords" content="Privacy Policy">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="Privacy Policy">
+<meta name="abstract" content="Privacy Policy">
+<meta name="keywords" content="Privacy Policy">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="p:domain_ain_verify" content="b5dd844bd5db0a2b25715e8013df4ae7">        <!-- styles -->
+        <link href="http://libertyellisfoundation.org/css/menu-css.css?v=29" media="screen" rel="stylesheet" type="text/css">
+<link href="http://libertyellisfoundation.org/css/scroll.css?v=29" media="screen" rel="stylesheet" type="text/css">
+<link href="http://libertyellisfoundation.org/css/autosuggest.search.css?v=29" media="screen" rel="stylesheet" type="text/css">
+<link href="http://libertyellisfoundation.org/css/web-colorbox.css?v=29" media="screen" rel="stylesheet" type="text/css">
+<link href="http://libertyellisfoundation.org/css/jquery-ui.css?v=29" media="screen" rel="stylesheet" type="text/css">
+<link href="http://libertyellisfoundation.org/css/screen.css?v=29" media="screen" rel="stylesheet" type="text/css">
+<link href="http://libertyellisfoundation.org/css/slider-front.css?v=29" media="screen" rel="stylesheet" type="text/css">
+<link href="http://libertyellisfoundation.org/css/select2-front.css?v=29" media="screen" rel="stylesheet" type="text/css">
+<link href="http://libertyellisfoundation.org/images/solief-favicon.ico" rel="shortcut icon" type="image/solief-favicon.ico"><script type="text/javascript" src="http://libertyellisfoundation.org/js/jquery-1.9.0.min.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/web-common.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/jquery.validate.min.js?v=29"></script>        <script>
+        </script>
+        <script type="text/javascript">
+            WebFontConfig = {
+                google: { families: [ 'Source+Sans+Pro::latin', 'Oswald::latin' ] }
+            };
+            (function() {
+                var wf = document.createElement('script');
+                wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+                    '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+                wf.type = 'text/javascript';
+                wf.async = 'true';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(wf, s);
+            })(); 
+        </script>
+                <script type="text/text/javascript">
+var united_state_country_id='228';var domestic_pb_id='1';var apo_po_pb_id='2';var internation_pb_id='3';var internation_less_than_lbs_id='8';var internation_greater_than_lbs_id='7';        </script>
+    </head>
+    <body class="front">
+        <div class="outer-header">
+    <header class="header container">
+        <div class="page-top">
+            <div class="announcement"> 
+                                
+            </div>
+            <div class="links">
+                <div id="hidden-login-popup" onclick="loginPopup();"></div>
+                <span id="welcome-div">
+                    <a href="javascript:void(0);" onclick="signupPopup();">Be a part of history - Register now!</a> 
+                        <a id="login-popup" href="javascript:void(0);" onclick="checkUserLogin('0');">Login</a>                    
+                                    </span></div>
+
+            
+            <div class="cart-items" id="cart-details-div">
+                <span class="items" id="items_tot_count">0</span>
+                            </div>
+
+
+
+        </div>
+        <a class="logo" href="http://libertyellisfoundation.org">SOLEIF</a> 
+
+        <div class="float-right">
+
+
+                            <a href="http://libertyellisfoundation.org/passenger" id="passSearchHomePage" class="button passSearch">Passenger Search</a>
+                
+
+
+    </div></header>
+    <div style="display:none">
+        <div id="deletecart" class="pop-container comfirm-alert-popup">
+            <a href="javascript:void(0);" class="pop_close_btn"></a> <a class="pop_show_btn" href="javascript:void(0);"></a>
+            <h2 class="no-margin">Are you sure you want to remove product from cart?</h2>
+            <p style="display:none;" id="delete_cart_woh" class="no-margin">(Note: If you remove this Wall Of Honor then associated Duplicate Certificate will also be removed)</p>
+            <div class="button-row" style="width:150px !important">
+                <div class="">
+                    <input type="button" value="Yes" name="yes" id="yes_delete_cart" class="button semibold">
+                    <input type="button" value="No" name="no" id="no_delete_cart" class="button semibold">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="display:none">
+        <div id="addedToCart" class="inner-popup-detail">
+            <h1>Add To Cart</h1>
+            <p>Item has been added to your cart.</p>
+            <input type="button" value="Continue" name="close" class="button green semibold" id="hide_add_to_card" onclick="javascript:$.colorbox.close();">
+            <a href="https://libertyellisfoundation.org/checkout"><input type="button" value="Checkout" name="checkout" class="button semibold" id="CHECKOUT_BUTTON2" onclick="disableCheckoutButton('CHECKOUT_BUTTON2')"></a>
+        </div>
+    </div>        
+    <div style="display:none">
+        <div id="addedToWishlist" class="inner-popup-detail">
+            <h1>Add To Wishlist</h1>
+            <p>Record has been added to your wishlist.</p>
+            <input type="button" value="Continue shopping" name="close" class="button green semibold" id="hide_add_to_card" onclick="javascript:$.colorbox.close();">
+        </div>
+    </div>                <script>
+//    jQuery(document).ready(function($) {
+//        // Please note that autoHeight option has some conflicts with options like imageScaleMode, imageAlignCenter and autoScaleSlider
+//        // it's recommended to disable them when using autoHeight module
+//        $('#content-slider-1').royalSlider({
+//            autoHeight: true,
+//            arrowsNav: false,
+//            fadeinLoadedSlide: false,
+//            controlNavigationSpacing: 0,
+//            controlNavigation: 'tabs',
+//            imageScaleMode: 'none',
+//            imageAlignCenter:false,
+//            loop: true,
+//            loopRewind: true,
+//            numImagesToPreload: 6,
+//            keyboardNavEnabled: true,
+//            usePreloader: false,
+//            arrowsNav : true,
+//            autoScaleSlider: false,
+//            autoPlay: {
+//                // autoplay options go gere
+//                enabled: true,
+//                pauseOnHover: true,
+//                delay: 4000
+//            }
+//        });
+//        
+//    });
+	/*
+    function setNavigationWidth(){
+        $(".menu >li").each(function(){
+            var colLength = $(this).find('.col-left').length;
+            if(colLength >= 2){
+                $(this).find('.drop-down').css({width:650});
+            }
+        });
+    }
+    $(function(){
+        setNavigationWidth();
+    });*/
+</script>
+
+<nav class="adown">
+            <ul class="menu">
+                            <li class="expanded">
+                                            <a href="javascript:void(0);">About<small></small></a>
+                                                <ul>
+                            <div class="drop-down">						
+                                <div class="col-left"><ul><li><a href="http://libertyellisfoundation.org/about-the-foundation">About The Foundation</a></li><li><a href="http://libertyellisfoundation.org/governance">Governance</a></li><li><a href="http://libertyellisfoundation.org/Major-Donors">Major Donors</a></li><li><a href="http://libertyellisfoundation.org/projects">Projects</a></li><li><a href="http://libertyellisfoundation.org/member-benefit">Membership</a></li><li><a href="http://libertyellisfoundation.org/the-board-of-directors">Board Of Directors</a></li><li><a href="http://libertyellisfoundation.org/press">In The News</a></li><li><a href="http://libertyellisfoundation.org/faq">FAQ</a></li><li><a href="http://libertyellisfoundation.org/contact-us">Contact Us</a></li>							
+                            </ul></div> 
+                        </div></ul>
+                              </li>
+                                <li class="expanded">
+                                            <a href="javascript:void(0);">Honor Your Family<small></small></a>
+                                                <ul>
+                            <div class="drop-down">						
+                                <div class="full"><div class="col-left"><span class="head">Wall Of Honor</span><ul><li><a href="http://libertyellisfoundation.org/about-the-wall-of-honor">About The Wall</a></li><li><a href="http://libertyellisfoundation.org/add-woh">Add a Name</a></li><li><a href="http://libertyellisfoundation.org/search-woh">Search Wall</a></li></ul></div></div><div class="full"><div class="col-left"><span class="head">Flag Of Faces</span><ul><li><a href="http://libertyellisfoundation.org/about-the-flag-of-faces">About The Flag</a></li><li><a href="http://libertyellisfoundation.org/add-fof-image">Add Your Photo</a></li><li><a href="http://libertyellisfoundation.org/search-fof">Search The Flag</a></li></ul></div></div><div class="full"><div class="col-left"><span class="head">Family History</span><ul><li><a href="http://libertyellisfoundation.org/family-histories">View Stories</a></li></ul></div></div>							
+                            </div> 
+                        </ul>
+                              </li>
+                                <li class="expanded">
+                                            <a href="javascript:void(0);">Statue of Liberty<small></small></a>
+                                                <ul>
+                            <div class="drop-down">						
+                                <div class="full"><div class="col-left"><span class="head">Essentials</span><ul><li><a href="http://libertyellisfoundation.org/about-the-statue-of-liberty">About The Statue</a></li><li><a href="http://libertyellisfoundation.org/photo-gallery">Statue Gallery</a></li><li><a href="http://libertyellisfoundation.org/statue-history">Statue History</a></li><li><a href="http://libertyellisfoundation.org/statue-of-liberty-timeline">Statue Timeline</a></li></ul></div></div><div class="full"><div class="col-left"><span class="head">Learn More</span><ul><li><a href="http://libertyellisfoundation.org/stamps-coins">Stamps &amp; Coins</a></li><li><a href="http://libertyellisfoundation.org/statue-facts">Statue Facts</a></li><li><a href="http://libertyellisfoundation.org/the-new-colossus">The New Colossus</a></li><li><a href="http://libertyellisfoundation.org/torchcam">Torch Cam</a></li></ul></div></div>							
+                            </div> 
+                        </ul>
+                              </li>
+                                <li class="expanded">
+                                            <a href="javascript:void(0);">Ellis Island<small></small></a>
+                                                <ul>
+                            <div class="drop-down">						
+                                <div class="full"><div class="col-left"><span class="head">Essentials</span><ul><li><a href="http://libertyellisfoundation.org/photo-albums">Ellis Island Gallery</a></li><li><a href="http://libertyellisfoundation.org/immigration-museum">Immigration Museum</a></li><li><a href="http://libertyellisfoundation.org/peopling-of-america-center">Peopling Center</a></li><li><a href="http://libertyellisfoundation.org/family-history-center">Family History Center</a></li><li><a href="http://libertyellisfoundation.org/ellis-island-history">Ellis Island History</a></li><li><a href="http://libertyellisfoundation.org/about-the-ellis-island">About The Island</a></li><li><a href="http://libertyellisfoundation.org/ellis-timeline">Ellis Timeline </a></li><li><a href="http://libertyellisfoundation.org/about-the-wall-of-honor">About The Wall</a></li></ul></div></div><div class="full"><div class="col-left"><span class="head">Learn More</span><ul><li><a href="http://libertyellisfoundation.org/genealogy">Genealogy Tips</a></li><li><a href="http://libertyellisfoundation.org/immigration-timeline">Immigration Timeline</a></li><li><a href="http://libertyellisfoundation.org/quizzes">Quizzes</a></li><li><a href="http://libertyellisfoundation.org/oral-histories">Oral Histories</a></li><li><a href="http://libertyellisfoundation.org/annie-moore">Annie Moore</a></li></ul></div></div><div class="full"><div class="col-left"><span class="head">Search Ellis</span><ul><li><a href="http://libertyellisfoundation.org/passenger">Passenger Search</a></li><li><a href="http://libertyellisfoundation.org/famous-passengers">Famous Passengers</a></li><li><a href="http://libertyellisfoundation.org/ship">Ship Search</a></li></ul></div></div>							
+                            </div> 
+                        </ul>
+                              </li>
+                                <li class="expanded">
+                                            <a href="javascript:void(0);">Heritage Awards<small></small></a>
+                                                <ul>
+                            <div class="drop-down">						
+                                <div class="col-left"><ul><li><a href="http://libertyellisfoundation.org/about-heritage-award">About Heritage Awards</a></li><li><a href="http://libertyellisfoundation.org/heritage-awards">Heritage Awards</a></li>							
+                            </ul></div> 
+                        </div></ul>
+                              </li>
+                                <li class="expanded">
+                                            <a href="javascript:void(0);">Plan Your Visit<small></small></a>
+                                                <ul>
+                            <div class="drop-down">						
+                                <div class="col-left"><ul><li><a href="http://libertyellisfoundation.org/ferry-tickets">Getting Tickets</a></li><li><a href="http://libertyellisfoundation.org/visiting-ellis-island">Visiting Ellis Island</a></li><li><a href="http://libertyellisfoundation.org/visiting-liberty-island">Visiting Liberty Island</a></li><li><a href="http://libertyellisfoundation.org/contact-us">Contact Us</a></li>							
+                            </ul></div> 
+                        </div></ul>
+                              </li>
+                                <li class="leaf">
+                                            <a href="http://libertyellisfoundation.org/shop">Shop<small></small></a>
+                              </li>
+                        </ul>
+    </nav>
+</div>		
+        <script type="text/javascript">
+    //<!--
+    var L_CMS= "CMS";var L_SEARCH_CMS_TEXT= "Search CMS by Status and Type, or just do a blank search for the full list. If you do not find the CMS page you seek, you can <a href='/crm-cms-content-type'>Create New CMS Content</a>.";var L_SEARCH_CMS= "Search CMS";var L_STATUS= "Status";var L_TYPE= "Type";var L_EDIT= "Edit";var L_VIEW= "View";var L_CHANGE_LOG= "Change Log";var BASIC_INFORMATION= "Basic Information";var SET_PLAIN_TEXT= "Set Plain Text";var META_TAGS= "Meta Tags";var CONTENT_URL= "Content URL";var PAGE_TITLE= "Page Title";var DESCRIPTION= "Description";var ABSTRACT= "Abstract";var KEYWORDS= "Keywords";var PUBLISHED= "Published";var CONTENT_ADDED= "Content Added Successfully !";var CONTENT_ERROR= "Error adding content !";var CONTENT_UPDATED= "Content Updated Successfully !";var CONTENT_ERROR_UPDATE= "Error updating content";var MENU_UPDATE_SUCCESS= "Menu updated successfully !";var CONTENT_UPDATE_SUCCESS= "Selected content status changed successfully !";var SELECT_MENU_ITEM= "Select Menu Item";var VIEW_MENU_ITEM= "Menu Tree View";var ACTIONS= "Actions";var L_SELECT_GALLERY= "Select Gallery";var L_THUMB_VISIBLE= "Number of thumbnails visible";var L_ORIENTATION= "Orientation";var RIGHT_SECTION= "Right Section";var NUM_ADS= "Number of Ads";var NAME= "Name";var IMAGE= "Image";var MANAGE_CATEGORY= "Manage Category";var TREE_VIEW= "Menu Tree View";var WOH_SEARCH_ENTER_LAST_NAME= "Please enter last name.";var WOH_SEARCH_MIN_2_CHARACTER_LAST_NAME= "Please enter minimum 2 characters.";var UPDATED= "Updated On";var UPDATED_BY= "Updated By";var ERROR_TITLE= "Please enter a valid title";var ERROR_URL= "Please enter a valid url";var NO_RECORD_FOUND= "No Record Found";var CONF_MSG= "Are you sure you want to delete this content page ?";var CONTENT_DELETED= "Content Page deleted successfully !";var URL_EXIST= "URL already exist";var URL_AVAILABLE= "URL available";var ERROR_MENU= "Please enter a valid menu title";var ERROR_PROVIDE_MENU= "Please check to provide menu link";var ERROR_NAME= "Please enter a valid name";var ERROR_IMAGE= "Please insert an image";
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    $(document).ready(function() { 
+        $("select").select2();
+    });
+	$(function() {
+        $('.slider').each(function() {
+            $(this).cycle({
+                fx: 'scrollHorz',
+                speed: 400,
+                timeout: 0,
+                next: $(this).prev(),
+                prev: $(this).prev().prev()
+            });
+        });
+        
+    });    
+    function displaySlider(id,key){
+        $("div[id^='slide_"+key+"']").hide();
+        $("#slide_"+key+"_"+id).show();
+    }
+    //-->
+</script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/jquery.cycle.all.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/cms/front.gallery.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/jwplayer/jwplayer.js?v=29"></script><div class="inner-header">
+    <h1>Privacy Policy</h1>
+</div>
+<div class="content-layout-outer clearfix">
+        <div class="container">
+        <div class="content-layout-left">
+            <table>
+<tbody>
+<tr>
+<td>
+<h4>&nbsp;</h4>
+<h4>PRIVACY POLICY</h4>
+<br>The Statue of Liberty-Ellis Island Foundation, Inc. ("SOLEIF", “we”, “our”, “us”) respects our users (“you”, “your”) concerns about privacy. <br> This policy explains how we collect, use, share and protect any personally identifiable information you provide to us via the following properties that are owned and operated by us (collectively the “Site”): American Family Immigration History Center® on Ellis Island and on LibertyEllisFoundation.org. If at any time you have questions regarding this Privacy Policy, you may contact a representative of SOLEIF by using our <a href="../../contact-us">Contact Us Form</a>.<br> Personal information is collected on our Site in two forms. One form is information that we expressly request you to provide in connection with certain activities (e.g. through our Site’s forms) or that you otherwise knowingly provide (e.g. submissions, emails). The second form is anonymous aggregated information that we automatically collect from your computer, phone or other device. <br> <br>
+<h4>I. COLLECTION OF PERSONAL INFORMATION</h4>
+<br><strong>Access</strong>. Currently, you are not required to provide any personally identifiable information in order to gain access to the public, non-password protected portion of the Site. To obtain access to the password protected portion of the Site and to use certain features and provided by SOLEIF (“Services”), you are required to register as a user and create a user profile. Access to the Services requires use of valid ID and password.<br> <br><strong>User Profile</strong>. During registration, you will be prompted to provide information including your name, address, email address, and phone number. When establishing membership status, you may be prompted to provide additional information such as credit card information and billing address.<br> <br><strong>User Submissions</strong>. Certain interactive elements (“Interactive Pages”) on the Site permit the submission of information and content by users, and the hosting, sharing and publishing of such user content, including, but not limited to, posting annotations, posting photos for The American Flag of Faces® exhibit, The American Immigrant Wall of Honor® information and creating your own Family History. Such content, including any information, text, graphics, audio, images, and links you submit is referred to as "Submissions". We urge you to be cautious when making Submissions as information, statements, data, and content such as images or videos that you include in your Submissions might, or are likely to, reveal your gender, ethnic origin, nationality, age, and/or other personal information about you. You acknowledge that all Submissions to the Site are voluntary on your part. You agree and acknowledge that upon uploading, posting or submitting your Submissions on the Site, such Submissions shall be considered non-confidential information and users may use any ideas or information included therein. Please note that “removal” of Submissions means only that it will not be visible to other users via the Site, except for those Submissions that have already been viewed by other users and retained by them on their respective devices. <br> <br><strong>User Interaction</strong>. Certain features on the Site provide you an opportunity to share content and information with others, including through email notifications or invitations to the Site. We are not responsible for any of your communications using such features and for any information you choose to include therein. <br> <br><strong>Sharing Plug-Ins and Interaction with Third Party Websites and Applications</strong>. If you include any SOLEIF interactive plug-ins on your website or service or if you interact with any website, application or service that has deployed an interactive plug-in you may use such plug-ins to post links or content on the Site as part of your Submissions, subject to your compliance with any such applicable interactive plug-in provider’s terms and conditions. You agree that information about you, including but not limited to your device, mobile carrier, Internet access provider, physical location and/or web pages that load into your browser may be communicated to us in connection with the use of such interactive plug-ins or otherwise with any interaction with such third parties’ websites, applications and services. Further, by importing any information and content through such interactive plug-ins you represent that you have the authority to share the transferred information and that you comply with any applicable third party plug-in provider’s terms and conditions as they may be updated from time to time, you have obtained any necessary permissions and made any required payments. Under no circumstances shall interactive plug-ins be placed or used on any page or in connection with any content or information that would violate our TOU.<br> <br><strong>Communications with SOLEIF</strong>. Whenever you communicate with us, whether via initial registration on the Site, or for any other reason via email or via features of the Site, the information we collect from you (e.g. your name, address, email address) is added to our electronic mailing list, except as otherwise noted in this Privacy Policy. <br> <br>
+<h4>II. METHODS OF DATA COLLECTION</h4>
+<br><strong>Cookies and Web Beacons</strong>. Like most websites, we utilize “cookies” and “web beacons” to, among other things, track usage and trends, allow you to navigate quickly through our Site, facilitate the login processes, allow you to personalize your experience, store your settings and improve the quality of our Site. We also use cookies to collect Site usage information, which helps us improve our Site experiences by measuring which areas are of greatest interest to users. Further, we may use cookies and cookie-equivalent technologies to increase the security of the Site. We do not store unencrypted personally identifiable information in the cookies. <br>Cookies are small strings of data that are sent by the Site to your browser and then stored by your browser on your computer, mobile phone, or other device, and allow us to recognize you as a user when you return to the Site using the same device and web browser. Most web browsers automatically accept cookies, but it is possible to change your browser setup or apply other means so that it does not accept cookies. However, rejecting cookies may prevent you from taking advantage of certain portions of the Site. <br>We use both “persistent” and “session” cookies. Persistent cookies are set once you have logged into the Site and will allow us to recognize you as an existing user the next time you access such that you will not need to log-in before you use the features and services. However, regardless of the placement of a persistent cookie on your computer, in order to access or change any private information in your account or to use certain Interactive Pages of the Site, you may be required to use your log-in credentials. Session cookies are used to identify a particular visit to the Site and expire after the elapse of a set period or when you close your web browser. We may use different technologies to place such cookies. <br>Web beacons are very small images or small pieces of data embedded in images, also known as "pixel tags," "GIFs," or "clear GIFs," that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from a computer or device. <br>Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. Cookies and web beacons do not personally identify SOLEIF users. <br>We may authorize third parties to place or recognize a unique cookie on your browser to serve you with advertisements or to optimize the Site. Any information provided to third parties through such cookies will not include personally identifiable information but rather only aggregated anonymous information (e.g. your geographic location) to enhance your user experience by providing you with more relevant advertising. <br><strong>Log files, IP Addresses, Java Script, Analytics and other Tracking Information</strong>. Adoption of communications standards on the internet and our use of standard analytical tools such as Google Analytics result in or may lead to the automatic receipt and tracking of (i) the URL of the website from which you came and the website to which you are going when you leave the Site; (ii) the internet protocol (“IP”) address of your computer (or the proxy server you use to access the World Wide Web); (iii) your computer operating system and type of web browser you are using; (iv) email patterns; (v) your mobile device (including your UDID) and mobile operating system (if you are accessing the Site using a mobile device), (vi) your ISP or your mobile carrier’s name. <br> <br>Additionally, advertisers may receive the URL of the page you were on when you click on an ad on the Site. The link between your IP address and your personally identifiable information is not shared with third parties without your permission. <br> <br>
+<h4>III . USE OF PERSONAL INFORMATION</h4>
+<br><strong>Your Use of Personal Information</strong>. Certain Services available on the Site are designed specifically to collect data that is linked to the personally identifiable information such as creating a Family History, The American Immigrant Wall of Honor® and The American Flag of Faces®. SOLEIF’s users may use this information in any manner they choose to accomplish their own goals and missions. <br><strong>Sharing of Information by You</strong>. Certain Interactive Pages on the Site provide you with an opportunity to make Submissions and share your information with others. When you use such Interactive Pages you should be aware that any information you include is made publicly available to others. We are not responsible for any information you choose to communicate or submit through these interactive features. <br><strong>SOLEIF Use of Personal Information</strong>. We collect, retain and use personally identifiable information or other information you provide to us via the Site for legitimate business purposes only, including without limitation in the following ways: (a) to qualify you as a registered user with access to the password-protected portion of the Site; (b) to provide services to registered users and to otherwise operate the Site; (c) to respond to an inquiry from you or address a request submitted by you (including contacting you directly to request additional information to process your inquiry or request; (d) to contact you and provide you with information regarding SOLIEF; (e) to notify you about your accounts or transactions with us and to otherwise contact you with information we believe is of interest to you; (f) to correspond with you about our features or services or special offers related thereto; (g) to facilitate the payment of any fees necessary to access the Services; (h) to enhance or develop the Site, and the features and services; (i) to monitor the usage of the Site and any services and features offered; (j) to provide third parties with aggregate anonymous non-personal information about our user base and usage patterns; (k) to personalize the features and services and, if relevant, to provide advertising that you and others see based on your characteristics or preferences; (l) to comply with applicable laws, regulations and rules, and requests of relevant regulatory and law enforcement and/or other governmental agencies; (m) to enforce our TOU; and/or (n) to protect the rights, property, or safety of SOLEIF, our personnel, users, and others. <br>We may use the email address you provide to us to send you notifications, updates, newsletters or information regarding our Site and any features or services. <br><strong>Sharing of Personal Information by SOLEIF</strong>. We do not sell or rent your personally identifiable information to third parties. We may share your personally identifiable information only with our third party service providers to provide you with the features and services on the Site. For example, we may hire or collaborate with third party contractors to help manage emails, and for that purpose we may provide them with your email address and certain other information in order for them to send you email messages on our behalf. Similarly, we may hire contractors to host or operate some of our websites and related computers and software applications. Access to your personally identifiable information by these contractors is limited to the information reasonably necessary to perform their limited function for us. We also require that these contractors protect the privacy of your personally identifiable information in a manner consistent with this Privacy Policy, and not use or disclose your personally identifiable information for any purpose other than providing us with products or services for which we contracted them. <br>We may share aggregate anonymous statistical non-personal information regarding the users of the Site, traffic patterns, and Site usage with our sponsors, patrons, or advertisers. <br>We will disclose information we maintain, including personally identifiable information, when required to do so by law, or may disclose such information in response to a request from a law enforcement agency or authority. <br><strong>Payment Information</strong>. If you choose to become a Member or Patron, or if you shop through the Site you will be required to provide a mailing address, billing address, credit card number and/or other payment information necessary to facilitate the payment, all of which will remain private and not become visible to other users. The processing of credit cards is performed by a third party service provider of SOLEIF and SOLEIF does not retain your financial information. <br><strong>Links to Other Site</strong>. The Site may contain links to third party websites that allow users the ability to download or access software or content. SOLEIF neither controls nor endorses such third party websites, and has neither reviewed nor approved any content that appears thereon or the privacy practices of such third parties. SOLEIF shall not be held responsible for such third parties’ privacy practices. You should review the privacy policies posted on such third party Site. You should be aware that if you voluntarily disclose personally identifiable information in your communications with third parties linked from on the SOLEIF Site or in other materials, that information, along with any other information disclosed in your communication, can be collected and used by such third parties and may result in your receiving unsolicited messages from other persons. Such collection use and solicitation are beyond our control. <br><strong>Polls and Surveys</strong>. We may conduct polls and surveys either directly or through third parties. Your selection may be random, or it may be based on your non-personally identifiable information, such as geographic location, etc. You participation in a poll or survey is voluntary. SOLEIF or its third party contractors may target some advertisements or incentives to you based on the polls or surveys results. If the delivery of incentives requires your contact information, you may be asked to provide personally identifiable information to the third party provider fulfilling the incentive offer, which will only be used for the purpose of delivering incentives and/or verifying your contact information. Taking advantage of such incentive and providing such information is voluntary and at your sole discretion. <br> <br> <br>
+<h4>IV. PERSONAL INFORMATION OF CHILDREN UNDER 13</h4>
+<br>The public portion of the Site is open to non-registered users. The non-public, password protected portion of the Site and the Services are open only to registered users who must be 13 years of age or older. We do not knowingly collect personal information from or allow any Submissions or purchases by children under 13 years of age. <br>Parents or legal guardians may contact us to ask if we have collected their child's personal information, to review such information, if any, and request that we stop collecting this information and have it deleted. Such requests should be made in writing to <a href="../../contact-us">Contact Us Form</a>. and are subject to SOLEIF’s right to verify to our satisfaction that the request has in fact been made by the child's parent or legal guardian. <br> <br>
+<h4>V. RETENTION OF PERSONAL INFORMATION</h4>
+<br><strong>Storage</strong>. Your personally identifiable information is stored and processed in the United States. By using the Site or any of our features and services, you consent to the transfer of your personally identifiable information outside of your country of residence. We will endeavor to adhere to the principles set forth in this Privacy Policy, regardless of whether information is collected, transferred or retained in countries or jurisdictions that do not require a similar level of protection of your personally identifiable information. We will retain your personally identifiable information for as long as necessary to: (i) permit us to use it for the purposes that we have communicated to you; (ii) comply with our legal obligations, resolve disputes and enforce the TOU; and (iii) comply with applicable laws, rules or regulations. <br><strong>Security</strong>. SOLEIF employs security systems to protect the personally identifiable information we receive from you from unauthorized disclosure. Access to your data on the Site is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption and tokens when it is exchanged between your web browser and the Site. Please be aware that Internet data transmission is not always secure and we cannot warrant that information you transmit utilizing the Site may not be intercepted, accessed, disclosed, altered, or destroyed by breach of any of our safeguards. Because security is important to both SOLEIF and you, we will always make reasonable efforts to ensure the security of our systems, however it is your responsibility to protect the security of your login information. If you suspect unauthorized access to your information, it is your responsibility to contact SOLEIF immediately. Please note that emails, messaging features, and similar means of communication with other users are not encrypted, and we strongly advise you not to communicate any confidential information through these means.<br> <br> <br> <br>
+<h4>VI. YOUR INFORMATION CHOICES</h4>
+<br><strong>Modification</strong>. We strive to maintain the accuracy of any personally identifiable information that may have been collected from you, and will use our commercially reasonable efforts to respond promptly to update our database when you tell us the information in our database is inaccurate. It is your responsibility to ensure that such information is accurate, complete, and up-to-date. You may review and update personally identifiable information that you have provided to us at any time by signing in and visiting your profile. <br><strong>Termination</strong>. You may withdraw your consent to the collection of your information at any time, by notifying us that you terminate the TOU, but please note that your withdrawal of consent will not be retroactive such that information that you publicly posted, or that you shared with others, or that others have downloaded or copied onto their computer or devices may be not be eliminated. Upon termination of the TOU we will eliminate the information you supplied to us, provided that we may keep a copy of it in our archives for uses documented in this Privacy Policy and the TOU or for regulatory and compliance purposes. <br><strong>Opt Out/Unsbscribe</strong>. You may opt out of or unsubscribe from receiving certain communications from us by following the opt-out/unsubscribe link provided in any email received from us or by emailing us at <a href="../../contact-us">Contact Us Form</a>. Please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately. <br> <br>
+<h4>VII. MISCELLANEOUS</h4>
+<br><strong>Use Signifies Acceptance</strong>. By accessing or using or continuing to access and use the Site or the Services, you signify that you have read, understand and agree with the collection and use of your personally identifiable information as set forth in this privacy policy. If you do not agree to the terms of this privacy policy, you must refrain from any access to the Site and Services and from providing us with any personally identifiable information. <br><strong>Changes to Privacy Policy</strong>. We may, at our sole discretion, change, modify, add, or delete portions of this Privacy Policy at any time. If any material term of this Privacy Policy is changed, we will revise this Privacy Policy to reflect such change and provide you with appropriate notice and choices. You may always visit this policy to learn of any changes and updates. In the event we modify this Privacy Policy, such modified version shall be effective upon posting. We will indicate at the bottom of this Privacy Policy the date this Privacy Policy was last revised. <br><strong>California Privacy Rights</strong>. California Law permits our users who are California residents to request certain information regarding our disclosure of personal information to third parties for their own direct marketing purposes. SOLEIF does not share your information with third parties for the third parties’ own and independent direct marketing purposes, and will not do that unless we receive your permission. To make inquiries about our sharing practices or your rights under California law, please write to us at: <br> <br>The Statue of Liberty-Ellis Island Foundation, Inc., Customer Service <br>17 Battery Place, Suite 210, <br>New York, NY 10004 <br> <br><strong>International Users</strong>. If you are a resident of a country other than the United States, by using this Site and/or the Services and providing us your personally identifiable information, you explicitly acknowledge and agree to the transfer of your personally identifiable information to the United States and the collection and use of your personally identifiable information in accordance with this Privacy Policy. <br>
+<h4>Questions and Contact Information</h4>
+<br>If you have any questions or concerns about our privacy policy, please use our <a href="../../contact-us" target="_blank">Contact Us Form</a>, call 212-561-4500 or send your questions or concerns in writing to: <br> <br> The Statue of Liberty-Ellis Island Foundation, Inc., Customer Service, <br>17 Battery Place, Suite 210, <br> New York, NY 10004. <br> <br><strong>Effective Date</strong> This version of the Privacy Policy is effective as of <strong>August 20, 2014</strong>.</td>
+</tr>
+</tbody>
+</table>        </div>
+        
+            <div class="content-layout-right">
+                            </div>
+        </div>
+    </div>
+		
+        <!-- N- Start -->
+<div style="display:none">
+    <div id="addedToCartWoh" class="inner-popup-detail"> 
+        <h1>Add To Cart</h1>
+        <p>Item has been added to your cart.</p>
+            <input type="button" value="Continue" name="close" class="button green semibold" onclick="javascript:location.href='/search-woh';">
+            
+            <a style="text-decoration: none;" href="https://libertyellisfoundation.org/checkout" onclick="disableCheckoutButton('CHECKOUT_BUTTON1')">
+            <input type="button" value="Checkout" id="CHECKOUT_BUTTON1" name="checkout" class="button semibold"> 
+    </a></div><a style="text-decoration: none;" href="https://libertyellisfoundation.org/checkout" onclick="disableCheckoutButton('CHECKOUT_BUTTON1')">
+</a></div><a style="text-decoration: none;" href="https://libertyellisfoundation.org/checkout" onclick="disableCheckoutButton('CHECKOUT_BUTTON1')">
+<!-- N - End -->
+
+</a><footer class="footer"><a style="text-decoration: none;" href="https://libertyellisfoundation.org/checkout" onclick="disableCheckoutButton('CHECKOUT_BUTTON1')">
+    </a><div class="container"><a style="text-decoration: none;" href="https://libertyellisfoundation.org/checkout" onclick="disableCheckoutButton('CHECKOUT_BUTTON1')"> 
+        </a><div class="col10"><a style="text-decoration: none;" href="https://libertyellisfoundation.org/checkout" onclick="disableCheckoutButton('CHECKOUT_BUTTON1')">
+            </a><ul><a style="text-decoration: none;" href="https://libertyellisfoundation.org/checkout" onclick="disableCheckoutButton('CHECKOUT_BUTTON1')"></a><li><a style="text-decoration: none;" href="https://libertyellisfoundation.org/checkout" onclick="disableCheckoutButton('CHECKOUT_BUTTON1')"></a><a href="http://libertyellisfoundation.org/terms-of-use">Terms</a></li><li><a href="http://libertyellisfoundation.org/privacy-policy">Privacy</a></li><li><a href="http://libertyellisfoundation.org/Copyright-Policy">Copyright </a></li><li><a href="http://libertyellisfoundation.org/sitemap">Site Map</a></li><li><a href="http://libertyellisfoundation.org/contact-us">Contact Us</a></li></ul>
+            <div class="add-box">        <iframe width="722" height="122" scrolling="no" src="/front-ads/czoxNToiL3ByaXZhY3ktcG9saWN5Ijs=/aToyOw==/aTowOw=="></iframe>
+                </div>
+        </div>  
+        <div class="social-section">
+            <ul>
+                <li><a class="facebook" href="http://www.facebook.com/pages/The-Statue-of-Liberty-Ellis-Island-Foundation-Inc/116541691900" target="_blank"></a></li>
+                <li><a class="twitter" href="http://www.twitter.com/ellisisland" target="_blank"></a></li>
+                <li><a class="youtube" href="http://www.youtube.com/user/statuellisfdn" target="_blank"></a></li>
+            </ul>
+            <em>Dedicated to the Restoration and Preservation of the Statue of Liberty and Ellis Island </em> <a rel="nofollow"><img alt="" src="http://libertyellisfoundation.org/images/pic4.png"></a> 
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="container"> Copyright ©2014 The Statue of Liberty - Ellis Island Foundation, Inc. All Rights Reserved. 
+		
+		<span>Designed &amp; Developed by <a href="http://www.icreon.us/" rel="nofollow" target="_blank">Icreon Tech</a></span>
+		
+		</div>		
+    </div>
+</footer>
+<script type="text/javascript">
+    var visitortime = new Date();
+	var visitortimezone = -visitortime.getTimezoneOffset();
+       
+        $.ajax
+        ({
+            type: 'POST',
+            data:{
+                visitortimezone:visitortimezone
+            },
+            url: '/set-user-timezone',
+            success: function(response)
+            {
+                //$("#gallery").html(response);
+            }
+        }); 
+</script>
+        <div id="ajx_loader" class="main-loader">
+            <img src="http://libertyellisfoundation.org/img/loading.gif" id="ajx_loader_image">
+        </div>
+        <div id="fb-root"></div>
+  <script type="text/javascript">
+            //<!--
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-521296-5', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+ //-->
+ </script>
+ <script type="text/javascript">
+    //<!--
+    var L_CMS= "CMS";var L_SEARCH_CMS_TEXT= "Search CMS by Status and Type, or just do a blank search for the full list. If you do not find the CMS page you seek, you can <a href='/crm-cms-content-type'>Create New CMS Content</a>.";var L_SEARCH_CMS= "Search CMS";var L_STATUS= "Status";var L_TYPE= "Type";var L_EDIT= "Edit";var L_VIEW= "View";var L_CHANGE_LOG= "Change Log";var BASIC_INFORMATION= "Basic Information";var SET_PLAIN_TEXT= "Set Plain Text";var META_TAGS= "Meta Tags";var CONTENT_URL= "Content URL";var PAGE_TITLE= "Page Title";var DESCRIPTION= "Description";var ABSTRACT= "Abstract";var KEYWORDS= "Keywords";var PUBLISHED= "Published";var CONTENT_ADDED= "Content Added Successfully !";var CONTENT_ERROR= "Error adding content !";var CONTENT_UPDATED= "Content Updated Successfully !";var CONTENT_ERROR_UPDATE= "Error updating content";var MENU_UPDATE_SUCCESS= "Menu updated successfully !";var CONTENT_UPDATE_SUCCESS= "Selected content status changed successfully !";var SELECT_MENU_ITEM= "Select Menu Item";var VIEW_MENU_ITEM= "Menu Tree View";var ACTIONS= "Actions";var L_SELECT_GALLERY= "Select Gallery";var L_THUMB_VISIBLE= "Number of thumbnails visible";var L_ORIENTATION= "Orientation";var RIGHT_SECTION= "Right Section";var NUM_ADS= "Number of Ads";var NAME= "Name";var IMAGE= "Image";var MANAGE_CATEGORY= "Manage Category";var TREE_VIEW= "Menu Tree View";var WOH_SEARCH_ENTER_LAST_NAME= "Please enter last name.";var WOH_SEARCH_MIN_2_CHARACTER_LAST_NAME= "Please enter minimum 2 characters.";var UPDATED= "Updated On";var UPDATED_BY= "Updated By";var ERROR_TITLE= "Please enter a valid title";var ERROR_URL= "Please enter a valid url";var NO_RECORD_FOUND= "No Record Found";var CONF_MSG= "Are you sure you want to delete this content page ?";var CONTENT_DELETED= "Content Page deleted successfully !";var URL_EXIST= "URL already exist";var URL_AVAILABLE= "URL available";var ERROR_MENU= "Please enter a valid menu title";var ERROR_PROVIDE_MENU= "Please check to provide menu link";var ERROR_NAME= "Please enter a valid name";var ERROR_IMAGE= "Please insert an image";
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    $(document).ready(function() { 
+        $("select").select2();
+    });
+	$(function() {
+        $('.slider').each(function() {
+            $(this).cycle({
+                fx: 'scrollHorz',
+                speed: 400,
+                timeout: 0,
+                next: $(this).prev(),
+                prev: $(this).prev().prev()
+            });
+        });
+        
+    });    
+    function displaySlider(id,key){
+        $("div[id^='slide_"+key+"']").hide();
+        $("#slide_"+key+"_"+id).show();
+    }
+    //-->
+</script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/jquery.cycle.all.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/cms/front.gallery.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/jwplayer/jwplayer.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/jquery.royalslider.min.js?v=29"></script>
+<script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/jquery.colorbox.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/jquery-ui.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/select2.min.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/index.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/jquery.jscrollpane.min.js?v=29"></script>
+<script type="text/javascript" src="http://libertyellisfoundation.org/js/all.js?v=29"></script>
+<script type="text/javascript">
+    //<!--
+    $(function() {
+                var url = document.URL.replace('http://'+window.location.hostname+'','');
+                var _menu = $("#sub-menu a[href='"+url+"']");
+                var _menu_root = _menu.parents().parents();
+                _menu_root.addClass('active');
+            });
+			function loginPopup(){                
+                $.colorbox({
+                    width:"650px", 
+                    height:"460px",
+                    iframe : true,
+                    href:"/login"
+                });
+            }
+            function signupPopup(){
+                $.colorbox({
+                    width:"730px", 
+                    height:"920px",
+                    iframe : true,
+                    href:"/signup"
+                });
+            }
+            
+            function signupPopupReferal(referUrlSignup){
+                 $.colorbox({
+                    width:"730px", 
+                    height:"920px",
+                    iframe : true,
+                    href:"/signup/"+referUrlSignup
+                }); 
+            }
+            
+            function getUrlKey(src, rep) {
+                return document.URL.replace(src,rep);
+            }
+    //-->
+</script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"af52d523de","applicationID":"4912388","transactionName":"ZwcGZURQDUFUWkVcXV5NMUNfHgpcUVxJG0JYEg==","queueTime":0,"applicationTime":98,"ttGuid":"","agentToken":"","atts":"S0AFEwxKHk8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
