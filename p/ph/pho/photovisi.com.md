@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630183228id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208022908id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.*
 
-# Photovisi - Photo Collage Maker
+# Photovisi Photo Collage | Free Online Photo Collage Maker | Photovisi
 
 All collages you make are private by default and not visible to anyone else except yourself. Only when you have an account and check the 'Publish to gallery' option when saving your collage, we may publish your collage in our gallery.
 
