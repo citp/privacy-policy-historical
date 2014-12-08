@@ -1,45 +1,43 @@
-> *The following text is extracted and transformed from the sobadsogood.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203143443id_/http%3A//sobadsogood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sobadsogood.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208053313id_/http%3A//sobadsogood.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | So Bad So Good
+# Privacy | So Bad So Good
 
-## So Bad So Good Privacy Policy
+## Your Data
 
-The following privacy statement covers the So Bad So Good Website. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please [contact us](http://sobadsogood.com/contact-us/).
+We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address. 
 
-## Public Forums
+We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook. 
 
-This site makes chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Our systems are not designed to associate personal information with your activities (such as pages you view or things you click on or search for). 
 
-## Privacy
+We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly obtain parental consent or remove the information. 
 
-Your privacy on the internet is important to us. As a part of the operation of sobadsogood.com we gather only email addresses submitted to us, these are used only by ourselves to inform you of any updates or for communication etc and are never passed to any third party for any reason.
+You can sign into your account to see any personally identifiable information we have stored, such as your name, email, address or phone number. You can also contact us by email to request to see this information. 
 
-The foregoing policy is effective as of January 2009, and sobadsogood.com reserves the right to change this policy at any time. Please check this page periodically for changes. This statement and policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+Our systems are designed to retain log data for up to 7 days after it is collected. We remove personally identifiable information (such as your name, address, email or phone number) and other preferences associated with your account promptly after you delete your account. 
 
-## Third Party Advertising
+We don't share your personal data with other companies. We generally do not share personally identifiable information (such as name, address, email or phone) with other companies. 
 
-We use various third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please use the Contact form with any questions.
+## Your Location
 
-* Also please be aware that Interest-based advertising will allow advertisers to display ads based on a user’s previous interactions with them, such as visits to advertiser website and also to reach users based on their interests.  This policy will go into affect as of July 18, 2011.
+We collect or share your location only with permission. In serving you, we may use or store your precise geographic location, if you give us permission to do so. We do not use or share this data for any other purpose. Many devices will indicate through an icon when location services are operating. We only share this location information with others as approved by you. 
 
-## Third Party Cookies
+## Ad Tracking
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser
+Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. 
 
-**Copyright  
-**All images on sobadsogood.com are readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.)
+## Your Privacy
 
-## Claims of Infringement
+You can ask privacy questions. If you have any questions or concerns about our privacy policies, please contact us: editorial@sobadsogood.com 
 
-If you believe that any content appearing on sobadsogood.com infringes on your copyright, [please let us know.](http://sobadsogood.com/contact-us/)
+## 3rd Party Sites
 
-Email us following information to us and the infringing material will be removed as soon as possible.
+Service providers access data on our behalf. In order to serve you, we may share your personal and anonymous information with other companies, including vendors and contractors. Their use of information is limited to these purposes, and subject to agreements that require them to keep the information confidential. Our vendors provide assurance that they take reasonable steps to safeguard the data they hold on our behalf, although data security cannot be guaranteed. Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data. 
 
-(a) your name, address, telephone number, and e-mail address;  
-(b) a description of the copyrighted work that you claim has been infringed;  
-(c) the exact URL or a description of each place where alleged infringing material is located;  
-(d) a statement by you that you have a good faith belief that the disputed use has not been authorized by you, your agent, or the law;  
-(e) your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf; and  
-(f) a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner’s behalf
+## Security
 
-Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+We take steps to protect personal information We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error. Information we collect may be stored or processed on computers located in any country where we do business. 
+
+## Timeframe
+
+This privacy policy was last updated on April 8th 2014. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. 
