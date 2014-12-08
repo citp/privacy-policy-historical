@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usdirectory.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616165922id_/http%3A//www.usdirectory.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdirectory.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208211527id_/http%3A//www.usdirectory.com/Privacy.aspx) for the most accurate reproduction.*
 
 # U.S. Directory - Online Yellow Pages
 
 ## Privacy Policy
 
-This is the Privacy Policy of USDirectory.com, LLC, PO Box 810625, Boca Raton, FL 33481 (also referred to herein as "we," or "us"). If you have any questions about this Privacy Policy, please contact us.
+This is the Privacy Policy of USDirectory.com, LLC, 4302 Hollywood Blvd, Suite 131, Hollywood, FL 33021 (also referred to herein as "we," or "us"). If you have any questions about this Privacy Policy, please contact us.
 
 This Privacy Policy, which is a part of the Terms of Use and End User License Agreement and the Terms and Conditions (collectively, the "Agreement"), explains the types of information we collect through our Services and what we do with such information. "Services" are defined in the Agreement. Terms not defined in this Privacy Policy have the meaning described in the Agreement.
 
