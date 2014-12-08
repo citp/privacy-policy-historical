@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostcentric.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234410id_/http%3A//www.hostcentric.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostcentric.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208075146id_/http%3A//www.hostcentric.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # HostCentric's Privacy Policy
 
