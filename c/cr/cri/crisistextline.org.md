@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crisistextline.org privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603093458id_/http%3A//www.crisistextline.org/privacy-hotline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisistextline.org privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208213306id_/http%3A//www.crisistextline.org/privacy-hotline) for the most accurate reproduction.*
 
 # Crisis Text Line Hotline, Privacy Policy | Crisis Text Line
 
