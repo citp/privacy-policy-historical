@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happypublishing.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522171551id_/http%3A//www.happypublishing.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happypublishing.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208163535id_/http%3A//www.happypublishing.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,8 +73,8 @@ PO Box 82573
 Oshawa, ON L1G 7W7  
 Canada
 
-> [Home](http://www.happypublishing.com/) |[Free Book Reviews](http://www.happypublishing.com/reviews/index.htm) | [Free Online Articles](http://www.happypublishing.com/articles/articles-index.htm) | [ Contact](http://www.happypublishing.com/contact.htm) | [ Privacy Policy](http://www.happypublishing.com/Privacy_Policy.htm) | [FAQ](http://www.happypublishing.com/FAQ.htm) |  [About Us](https://web.archive.org/web/20140522171551id_/http%3A//www.happypublishing.com/about.htm) | [ Motivational Resources](http://www.happypublishing.com/motivational-resources.htm)
+> [Home](http://www.happypublishing.com/) |[Free Book Reviews](http://www.happypublishing.com/reviews/index.htm) | [Free Online Articles](http://www.happypublishing.com/articles/articles-index.htm) | [ Contact](http://www.happypublishing.com/contact.htm) | [ Privacy Policy](http://www.happypublishing.com/Privacy_Policy.htm) | [FAQ](http://www.happypublishing.com/FAQ.htm) |  [About Us](https://web.archive.org/web/20141208163535id_/http%3A//www.happypublishing.com/about.htm)
 > 
-> Happy Publishing 1276 Ormond Dr, Oshawa, ON L1K 2T7  
+> Happy Publishing  
 > 
-> copyright © Happy Publishing LLC 1998-2013 All rights reserved. 
+> copyright © Happy Publishing LLC 1998-2014 All rights reserved. 
