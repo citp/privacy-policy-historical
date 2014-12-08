@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localmotors.com privacy policy that was archived on 2014-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140202233842id_/https%3A//localmotors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmotors.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208053623id_/https%3A//localmotors.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Local Motors
+# Privacy Policy
 
 ### Local Motors Privacy Policy
 
