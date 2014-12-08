@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forecasts.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121130id_/http%3A//www.forecasts.org/service/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forecasts.org privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208063455id_/http%3A//www.forecasts.org/service/privacy.htm) for the most accurate reproduction.*
 
 # Financial Forecast Center Privacy Policy
 
@@ -31,3 +31,6 @@ This site, The Financial Forecast Center, uses third party services for the dist
 **Third Party Cookies**
 
 In the course of serving advertisements through this site, our third-party advertisers may place or recognize a unique "cookie".  This technique is solely for the purpose of facilitating distribution of ad messages and does not collect personal information.
+
+  
+
