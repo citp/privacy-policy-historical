@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mathantics.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625095254id_/http%3A//mathantics.com/index.php/help/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mathantics.com privacy policy that was archived on 2014-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208185821id_/http%3A//mathantics.com/index.php/help/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,13 +7,13 @@
             <link href="http://fonts.googleapis.com/css?family=Fresca|Acme" rel="stylesheet" type="text/css">
             
             <link href="http://mathantics.com/css/reset.css" media="screen" rel="stylesheet" type="text/css">
-            <link href="http://mathantics.com/css/style2.css" media="screen" rel="stylesheet" type="text/css">
+            <link href="http://mathantics.com/css/style5.css" media="screen" rel="stylesheet" type="text/css">
 
             <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
             <script src="http://mathantics.com/js/jquery.cookie.js"></script>
 
                         <meta property="og:image" content="http://mathantics.com/images/MathAntics_thumb.jpg">
-            <link rel="shortcut icon" href="http://mathantics.com/images/favicon.ico" type="image/x-icon"> 
+            <link rel="shortcut icon" href="http://mathantics.com/favicon.ico" type="image/x-icon"> 
                         <!--[if lt IE 8]>
             <link href="http://mathantics.com/css/style_ie.css" media="screen" rel="stylesheet" type="text/css">
             <![endif]-->
@@ -49,6 +49,8 @@
 <li><a href="http://mathantics.com/index.php">Home</a></li><li><a href="http://mathantics.com/index.php/page/faq">FAQ</a></li><li><a href="http://mathantics.com/index.php/page/next">What's Next?</a></li><li><a href="http://mathantics.com/index.php/page/support">Support</a></li><li><a href="http://mathantics.com/index.php/page/aboutus">About Us</a></li>                    </ul>
                 </div>
             </div>
+
+	
 <div class="main_content container clearfix"><div class="page">
 <h1>Privacy Policy</h1>
 <p>This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information by Math Plus Motion LLC ("we", "us").
@@ -127,4 +129,15 @@
         <div class="clearfix"></div>
         © 2014 Math Plus Motion, LLC. All rights reserved. <a href="http://mathantics.com/index.php/help/page/TOU">Terms of Use</a> and <a href="http://mathantics.com/index.php/help/page/privacy">Privacy Policy</a>    </div>
     </div>
-</div></body></html>
+</div>
+
+<script>
+	function read_message(id) {
+		$("#message_" + id).fadeOut();
+		var data = {id: id};
+		$.post("http://mathantics.com/index.php/ajax/read_message", data,
+			function (data) {
+			}, "json");
+	}
+</script>
+</body></html>
