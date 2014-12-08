@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629103909id_/http%3A//www.bond.edu.au/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208013708id_/http%3A//bond.edu.au/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy | Bond University | Gold Coast, Australia
 
