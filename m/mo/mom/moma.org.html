@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moma.org privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628033530id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moma.org privacy policy that was archived on 2014-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208150349id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>MoMA | Privacy &amp; Security</title>
@@ -13,20 +13,20 @@
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/ios-webclip/apple-touch-icon-144x144-precomposed.png">
     <meta name="apple-mobile-web-app-title" content="MoMA.org">
     <meta name="viewport" content="width=1020">
-    <link href="/stylesheets/global.css?1403905595" media="all" rel="stylesheet" type="text/css">
-    <link href="/stylesheets/print.css?1403905595" media="print" rel="stylesheet" type="text/css">
-    <link href="/stylesheets/about.css?1403905595" media="all" rel="stylesheet" type="text/css"><link href="/stylesheets/collectionWidget.css?1403905595" media="all" rel="stylesheet" type="text/css">
+    <link href="/stylesheets/global.css?1417647191" media="all" rel="stylesheet" type="text/css">
+    <link href="/stylesheets/print.css?1417647191" media="print" rel="stylesheet" type="text/css">
+    <link href="/stylesheets/about.css?1417647191" media="all" rel="stylesheet" type="text/css"><link href="/stylesheets/collectionWidget.css?1417647191" media="all" rel="stylesheet" type="text/css">
     
     <meta property="fb:admins" content="13308560">
     <meta property="fb:page_id" content="24547752280">
     <meta property="fb:app_id" content="115458276660">
         <!--[if IE 6]>
-    <link href="/stylesheets/ie6.css?1403905595" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/ie6.css?1417647191" media="screen" rel="stylesheet" type="text/css" />
     <![endif]-->
     <!--[if IE 7]>
-    <link href="/stylesheets/ie7.css?1403905595" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/ie7.css?1417647191" media="screen" rel="stylesheet" type="text/css" />
     <![endif]-->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascripts/moma-cache.js?1403905595" type="text/javascript"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/javascripts/moma-cache.js?1417647191" type="text/javascript"></script>
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     
     <script type="text/javascript">
@@ -59,21 +59,62 @@
     </noscript>
     
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-313921-1']);
+  ga('create', 'UA-313921-1', 'auto');
   
-  
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  var width = window.innerWidth;
+  var height = window.innerHeight;
 
+  var orientation = 'portrait';
+  if (width > height) {
+    orientation = 'landscape';
+  }
+
+  var widthBucket = '0';
+  if (width >= 1500) {
+    widthBucket = '1500';
+  } else if (width >= 1200) {
+    widthBucket = '1200';
+  } else if (width >= 960) {
+    widthBucket = '960';
+  } else if (width >= 768) {
+    widthBucket = '768';
+  } else if (width >= 480) {
+    widthBucket = '480';
+  } else if (width >= 320) {
+    widthBucket = '320';
+  }
+
+  var heightBucket = '0';
+  if (height >= 1200) {
+    heightBucket = '1200';
+  } else if (height >= 960) {
+    heightBucket = '960';
+  } else if (height >= 768) {
+    heightBucket = '768';
+  } else if (height >= 480) {
+    heightBucket = '480';
+  } else if (height >= 320) {
+    heightBucket = '320';
+  }
+
+  var windowDetails = 'w' + widthBucket + 'h' + heightBucket + orientation;
+
+  ga('set', 'dimension1', windowDetails);
+  ga('set', 'dimension2', window.devicePixelRatio);
+  ga('send', 'pageview', {
+      'hitCallback': function () {
+        if (typeof window.momaHitCallBack === 'function') {
+          window.momaHitCallBack();
+        }
+      }
+  });
 </script>
 
 
@@ -141,7 +182,7 @@
 
     
     <div id="page" class="container">
-      <img alt="MoMA" class="print-only" src="/images/common/moma-logo.gif?1403905595">
+      <img alt="MoMA" class="print-only" src="/images/common/moma-logo.gif?1417647191">
       <h1 class="page">PRIVACY &amp; SECURITY</h1>
       
 
@@ -167,7 +208,7 @@
 
 
 <ul id="menu">
-        <li class="first"><a href="/about/director">From the Director</a></li>
+        <li class="first"><a href="/about/letterfromglennlowry">From the Director</a></li>
 
       <li><a href="/about/history">Museum History</a></li>
 
@@ -343,7 +384,9 @@ Send your questions, comments, or concerns about our privacy policy or any other
       <option value="/visit/infoplans/german_plan">Deutsch</option>
       <option value="/visit/infoplans/italian_plan">Italiano</option>
       <option value="/visit/infoplans/spanish_plan">Español</option>
-      <option value="/visit/infoplans/chinese_plan">中文普通話</option>
+      <option value="/visit/infoplans/portuguese_plan">Português</option>
+      <option value="/visit/infoplans/chinese_plan">繁體中文</option>
+      <option value="/visit/infoplans/simplified_ch_plan">简体中文</option>
       <option value="/visit/infoplans/japanese_plan">日本語</option>
       <option value="/visit/infoplans/korean_plan">한국어</option>
     </select>
