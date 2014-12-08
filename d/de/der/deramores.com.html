@@ -1,234 +1,240 @@
-<!--The following is the downloaded HTML source of the deramores.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626142513id_/http%3A//www.deramores.com/privacy-and-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deramores.com privacy policy that was archived on 2014-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208130146id_/http%3A//www.deramores.com/privacy-and-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta http-equiv="X-UA-Compatible" content="IE=8">
 <title>Privacy and Security | Deramores</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMEU1ZWGwEFUFJXBQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="stylesheet" type="text/css" href="http://www.deramores.com/js/prototype/windows/themes/A.default.css.pagespeed.cf.T9CDwLsERu.css"><style>.overlay_deramores{background-color:#000;filter:alpha(opacity=60);-moz-opacity:.6;opacity:.6}.top.table_window{border-bottom:4px solid #fce7f0;background-color:#f9cfe3}.deramores_nw{width:6px;height:26px}.deramores_n{height:26px}.deramores_ne{width:6px;height:26px}.deramores_w{background:#fce7f0;width:3px}.deramores_e{background:#fce7f0;width:3px}.deramores_sw{background:#fce7f0;width:5px;height:3px}.deramores_s{background:#fce7f0;height:3px}.deramores_se,.deramores_sizer{background:#fce7f0;width:5px;height:3px}.deramores_sizer{cursor:se-resize}.deramores_close{width:15px;height:15px;background:transparent url(js/prototype/windows/themes/magento/xbutton-close-focused.png.pagespeed.ic.lW4h1OZk77.png) no-repeat 0 0;position:absolute;top:5px;right:6px;cursor:pointer;z-index:1000}.deramores_minimize{width:21px;height:21px;background:transparent url(js/prototype/windows/themes/magento/button-minimize-focused.png) no-repeat 0 0;position:absolute;top:0px;right:26px;cursor:pointer;z-index:1000}.deramores_maximize{width:21px;height:21px;background:transparent url(js/prototype/windows/themes/magento/button-maximize-focused.png) no-repeat 0 0;position:absolute;top:0px;right:47px;cursor:pointer;z-index:1000}.deramores_title{float:left;height:22px;font-size:12px;text-align:left;margin-top:2px;width:100%;color:#fff;font-weight:bold}.deramores_content{overflow:auto;font-size:12px;background:#fce7f0}.deramores_content,.deramores_content label{color:#333;font-family:Arial,sans-serif}.deramores_buttons{padding-bottom:9px}* html .deramores_minimize{background-color:transparent;background-image:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../themes/magento/button-minimize-focused.png", sizingMethod="crop")}* html .deramores_maximize{background-color:transparent;background-image:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../themes/magento/button-maximize-focused.png", sizingMethod="scale")}* html .deramores_close{background-color:transparent;background-image:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../themes/magento/button-close-focused.png", sizingMethod="crop")}</style><style media="all">.MagicZoom img{border:0!important;padding:0!important;margin:0!important}.MagicZoomBigImageCont{border:2px solid #e5e5e5}.MagicZoomHeader{font-size:8pt!important;line-height:normal!important;color:#fff;background:#666;text-align:center!important}.MagicZoomPup{border:2px solid #ccc;background:#fff;cursor:move}.MagicZoomLoading{border:1px solid #ccc;background:#fff url(skin/frontend/enterprise/deramores_gb/images/ajax-loader.gif.pagespeed.ce.e5d2B21fzu.gif) no-repeat 2px 50%;padding:4px 4px 4px 24px!important;margin:0;text-decoration:none;text-align:left;font-size:8pt;font-family:sans-serif;color:#444}div.MagicToolboxContainer{text-align:center}div.MagicToolboxContainer a{margin:0 auto}div.MagicToolboxSelectorsContainer{clear:both}div.MagicToolboxSelectorsContainer a{display:inline-block;margin:0 1px}</style><style media="all">table,thead,tbody,tfoot,tr,th,td{border-collapse:collapse}button{background-color:#ccc}button{background-repeat:no-repeat}input,textarea,hr{border-color:#abadb3}input,textarea{border-style:solid}hr{border-style:dotted}img,button,table,thead,tbody,tfoot,tr,th,td,input.checkbox,input.radio{border-width:0}input,textarea{border-width:1px}hr{border-width:1px 0 0 0}input,textarea,select,option,button{color:#404040}a{color:#179}button{cursor:pointer}img{display:block}dt{float:left}html,body,div,h1,h2,h3,h4,p,pre,blockquote,ul,li,dl,dt,dd,form,input,textarea,select,option,button,table,thead,tbody,tfoot,tr,th,td{font-family:arial,verdana,arial,calibri}h1,h2 big,h3 big{font-size:24px}h1 small,h2{font-size:17px}h2 small,h3,h4 big,button{font-size:14px}html,body,div,h3 small,h4,p,pre,blockquote,ul,li,dl,dt,dd,form,input,textarea,select,option,table,thead,tbody,tfoot,tr,th,td{font-size:12px}h4 small,p small,ul small,li small{font-size:11px}html,body,div,p,pre,blockquote,ul,li,dl,dt,dd,form,input,textarea,select,option,table,tbody,tfoot,tr,td{font-weight:normal}h1,h2,h3,h4,button,thead,th{font-weight:bold}button{height:22px}html,body,div,h1,h2,h3,h4,p,pre,blockquote,ul,li,dl,dt,dd,form,input,textarea,select,option,button,thead,tbody,tfoot,tr,th,td{margin:0}input,textarea,select,button{margin:6px}dd input,dd select,dd textarea{margin:-3px 0 0 0}hr{margin:12px 6px}li{margin-left:18px}dd{margin-left:108px}:focus{outline:0}button{overflow:visible}html,body,div,li,form,select,option,button,hr,table,thead,tbody,tfoot,tr{padding:0}h1,h2,h3,h4,p,pre,blockquote,ul,th,td{padding:6px}dt,dd{padding:0 0 6px 0}dl{padding:6px 6px 0 6px}input,textarea{padding:1px 2px}button{padding:3px 0}th,td{text-align:left}a{text-decoration:none}a:hover{text-decoration:underline}th,td{vertical-align:top}input{width:228px}input.wishlist{width:25px}input.checkbox,input.radio{width:auto}</style><link rel="stylesheet" type="text/css" href="http://www.deramores.com/skin/frontend/enterprise/deramores_gb/css/A.deramores-theme.css.pagespeed.cf.MukCNqNl5V.css" media="all"><style media="all">.flint_logo_home{padding-bottom:10px}.flint_logo_category{padding-bottom:10px}.flint_logo_product{}</style><style type="text/css">.interest.social .panel{background-image:url(http://www.deramores.com/media/deramores/interest/xsocial-new.jpg.pagespeed.ic.Ai4e5QwdAO.jpg)}.interest.testimonials .panel{background-image:url(http://www.deramores.com/media/deramores/interest/xtestimonials.jpg.pagespeed.ic.z_Em9pmwjZ.jpg)}.greyed-out{opacity:.5;filter: alpha(opacity=50)}</style><style type="text/css">ol.legal,ol.legal ol,ol.legal li{color:#404040;margin:0;padding:0}ol.legal{margin:6px 6px 0 6px}ol.legal,ol.legal ol{list-style-type:none;font-weight:normal}ol.legal>li{counter-increment:root;margin:6px 0}ol.legal>li:before{content:counter(root) ". "}ol.legal>li,ol.legal>li:before{font-weight:bold}ol.legal>li>ol>li{counter-increment:subsection;margin:0 0 0 18px}ol.legal>li>ol>li:before{content:counter(root) "." counter(subsection) " "}ol.legal>li>ol>li>ol>li{counter-increment:subsubsection;margin:0 0 0 18px}ol.legal>li>ol>li>ol>li:before{content:counter(root) "." counter(subsection) "." counter(subsubsection) " "}</style><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMEU1ZWGwEFUFJXBQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 <meta name="description" content="Deramores">
 <meta name="keywords" content="Deramores">
 <meta name="robots" content="INDEX,FOLLOW">
 <meta name="p:domain_verify" content="85223fb784c2b9384a953d868ee8bb3f">
-<link rel="icon" href="http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.deramores.com/skin/frontend/enterprise/deramores_gb/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.deramores.com/skin/frontend/enterprise/deramores_gb/favicon.ico" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://cdn.deramores.com/js/blank.html';
-    var BLANK_IMG = 'http://cdn.deramores.com/js/spacer.gif';
+    var BLANK_URL = 'http://www.deramores.com/js/blank.html';
+    var BLANK_IMG = 'http://www.deramores.com/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://cdn.deramores.com/js/prototype/windows/themes/default.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.deramores.com/js/prototype/windows/themes/deramores.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/css/deramores-reset.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/css/deramores-theme.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/css/flint_feefo.css" media="all">
-<script type="text/javascript" src="http://cdn.deramores.com/media/js/60025aee0f403ba7b87cee05814ede50.js"></script>
+<script type="text/javascript" src="http://www.deramores.com/js/prototype/prototype.js.pagespeed.jm.ix8Kb1Gh8H.js"></script>
+<script type="text/javascript">function validateCreditCard(s){var v="0123456789";var w="";for(i=0;i<s.length;i++){x=s.charAt(i);if(v.indexOf(x,0)!=-1)
+w+=x;}
+j=w.length/2;k=Math.floor(j);m=Math.ceil(j)-k;c=0;for(i=0;i<k;i++){a=w.charAt(i*2+m)*2;c+=a>9?Math.floor(a/10+a%10):a;}
+for(i=0;i<k+m;i++)c+=w.charAt(i*2+1-m)*1;return(c%10==0);}</script>
+<script type="text/javascript" src="http://www.deramores.com/js/prototype/validation.js.pagespeed.jm.SA8nf3sBET.js"></script>
+<script type="text/javascript">Validation.addAllThese([['validate-cemail','Please make sure your email addresses match.',function(v){var conf=$('confirm_email_address')?$('confirm_email_address'):$$('.validate-cemail')[0];var email=false;if($('email_address')){email=$('email_address');}
+var emailElements=$$('.validate-email');for(var i=0;i<emailElements.size();i++){var emailElement=emailElements[i];if(emailElement.up('form').id==conf.up('form').id){email=emailElement;}}
+return(email.value==conf.value);}],['validate-postcode','Please enter a valid postcode.',function(v,elm){var countryContainer=$(elm.id.substr(0,elm.id.indexOf('postcode'))+'country_id');if(!countryContainer){countryContainer=$('country');if(!countryContainer){return true;}}
+var country_id=countryContainer.value;if('GB'==country_id||'JE'==country_id||'GG'==country_id||'IM'==country_id){var regex=/^([A-PR-UWYZ](?:[0-9]{1,2}|(?:[A-HK-Y][0-9]|[A-HK-Y][0-9](?:[0-9]|[ABEHMNPRV-Y]))|[0-9][A-HJKS-UW]))\s?([0-9][ABD-HJLNP-UW-Z]{2})$/i;return v.match(regex);}else{return true;}}],['validate-max-50','Please enter a number lower than 50',{max:50}]]);</script>
+<script src="http://www.deramores.com/js/scriptaculous/builder.js+effects.js+dragdrop.js.pagespeed.jc.DIg7Xog3Cx.js"></script><script>eval(mod_pagespeed_TEdcehkKs_);</script>
+<script>eval(mod_pagespeed_r_ibTW1QyK);</script>
+<script>eval(mod_pagespeed_1bS0hkGCuo);</script>
+<script src="http://www.deramores.com/js/scriptaculous,_controls.js+scriptaculous,_slider.js+my,_js.js+varien,_form.js.pagespeed.jc.3030-N1oTX.js"></script><script>eval(mod_pagespeed_1UjgxPuU60);</script>
+<script>eval(mod_pagespeed__lmXqZbi8w);</script>
+<script>eval(mod_pagespeed_EAfoZ$MQR3);</script>
+<script>eval(mod_pagespeed_SjE8mLcTMw);</script>
+<script type="text/javascript">var Translate=Class.create();Translate.prototype={initialize:function(data){this.data=$H(data);},translate:function(){var args=arguments;var text=arguments[0];if(this.data.get(text)){return this.data.get(text);}
+return text;},add:function(){if(arguments.length>1){this.data.set(arguments[0],arguments[1]);}else if(typeof arguments[0]=='object'){$H(arguments[0]).each(function(pair){this.data.set(pair.key,pair.value);}.bind(this));}}}</script>
+<script type="text/javascript">if(!window.Mage)var Mage={};Mage.Cookies={};Mage.Cookies.expires=null;Mage.Cookies.path='/';Mage.Cookies.domain=null;Mage.Cookies.secure=false;Mage.Cookies.set=function(name,value){var argv=arguments;var argc=arguments.length;var expires=(argc>2)?argv[2]:Mage.Cookies.expires;var path=(argc>3)?argv[3]:Mage.Cookies.path;var domain=(argc>4)?argv[4]:Mage.Cookies.domain;var secure=(argc>5)?argv[5]:Mage.Cookies.secure;document.cookie=name+"="+escape(value)+((expires==null)?"":("; expires="+expires.toGMTString()))+((path==null)?"":("; path="+path))+((domain==null)?"":("; domain="+domain))+((secure==true)?"; secure":"");};Mage.Cookies.get=function(name){var arg=name+"=";var alen=arg.length;var clen=document.cookie.length;var i=0;var j=0;while(i<clen){j=i+alen;if(document.cookie.substring(i,j)==arg)
+return Mage.Cookies.getCookieVal(j);i=document.cookie.indexOf(" ",i)+1;if(i==0)
+break;}
+return null;};Mage.Cookies.clear=function(name){if(Mage.Cookies.get(name)){document.cookie=name+"="+"; expires=Thu, 01-Jan-70 00:00:01 GMT";}};Mage.Cookies.getCookieVal=function(offset){var endstr=document.cookie.indexOf(";",offset);if(endstr==-1){endstr=document.cookie.length;}
+return unescape(document.cookie.substring(offset,endstr));};</script>
+<script type="text/javascript" src="http://www.deramores.com/js/lib/jquery-1.7.2.min.js.pagespeed.jm.UjT5LzlEpD.js"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
+<script src="http://www.deramores.com/js/mx,_base,_base.js+mx,_ajaxresponse,_ajaxresponse.js+mx,_ajaxresponse,_ajaxloaders.js+prototype,_window.js.pagespeed.jc.2tYsRlFYxZ.js"></script><script>eval(mod_pagespeed_lZ2kOK8gpF);</script>
+<script>eval(mod_pagespeed_wgqNXqvJEC);</script>
+<script>eval(mod_pagespeed_AfcH5074gV);</script>
+<script>eval(mod_pagespeed_5Nx7XeZu16);</script>
+<script src="http://www.deramores.com/skin/frontend/enterprise/deramores_gb/js/cufon3.js+magiczoom.js+magictoolbox_utils.js.pagespeed.jc.YZGzsxtUlv.js"></script><script>eval(mod_pagespeed_hM2AT5NCSF);</script>
+<script>eval(mod_pagespeed_Oi6Vogs_2l);</script>
+<script>eval(mod_pagespeed_SYiAMXosO1);</script>
+<script type="text/javascript">MagicZoom.options={opacity:50,'zoom-width':284,'zoom-height':209,'zoom-position':'right','thumb-change':'click','smoothing-speed':40,'zoom-distance':24,'selectors-mouseover-delay':200,'zoom-fade-in-speed':200,'zoom-fade-out-speed':200,fps:25,'loading-msg':'Loading zoom...','loading-opacity':75,'loading-position-x':-1,'loading-position-y':-1,x:-1,y:-1,'selectors-effect':'dissolve','selectors-effect-speed':400,'show-title':false,'drag-mode':false,'always-show-zoom':false,'smoothing':true,'opacity-reverse':false,'click-to-initialize':false,'click-to-activate':false,'preload-selectors-small':true,'preload-selectors-big':false,'zoom-fade':false,'show-loading':true,'move-on-click':true,'preserve-position':false,'fit-zoom-window':true,'entire-image':false}
+var MagicToolbox_click='click';$j(window).a('load',function(){MagicToolbox_findOption('shade,scent,colour');});</script>
+<script src="http://www.deramores.com/skin/frontend/enterprise/deramores_gb/js/home_glider.js+email_signup.js+charityemail_signup.js+libs,_messi.min.js+libs,_jquery.scrollTo-1.4.3.1-min.js+libs,_jquery.colorbox-min.js+libs,_jquery-contained-sticky-scroll.js+enterprise,_catalogevent.js.pagespeed.jc.dTwhZVqXBI.js"></script><script>eval(mod_pagespeed_WQKyoK7mK9);</script>
+<script>eval(mod_pagespeed_MwklqQGGw7);</script>
+<script>eval(mod_pagespeed_gCXuva7Hsd);</script>
+<script>eval(mod_pagespeed_4FVvkvZDOi);</script>
+<script>eval(mod_pagespeed_y1hSp2VE1F);</script>
+<script>eval(mod_pagespeed_JXFBpzoEVo);</script>
+<script>eval(mod_pagespeed_jPcT4XX5Pb);</script>
+<script>eval(mod_pagespeed_PbIG5LdqcC);</script>
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://cdn.deramores.com/media/js/e58fe6c32396591406f137bcabb5c12c.js"></script>
+<script type="text/javascript" src="http://www.deramores.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.deramores.com/skin/frontend/base/default/js/ie6.js"></script>
 <![endif]-->
-
-<script type="text/javascript">
-//<![CDATA[
-optionalZipCountries = ["IE"];
-//]]>
-</script>
-<script type="text/javascript">var Translator = new Translate({"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Please enter a valid phone number. For example 01234 567890,  (123) 456-7890 or 123-456-7890.","Please enter a valid email address. For example johndoe@domain.com.":"Please enter a valid email address. For example johndoe@example.com.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Please enter a valid postcode or zip. For example AB1 1AB, 90602 or 90602-1234.","Please enter a valid zip code.":"Please enter a valid postcode or zip.","Please enter a valid $ amount. For example $100.00.":"Please enter a valid \u00a3 amount. For example \u00a3100.00.","Please select State\/Province.":"Please select County\/State.","Credit card number doesn't match credit card type":"Credit card number does not match credit card type","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter.","Your session has been expired, you will be relogged in now.":"Your session has expired, you will be re-logged in now.","Please make sure your email addresses match.":"Please make sure your email addresses match."});</script><style type="text/css">
-.interest.social .panel {
-	background-image: url(http://cdn.deramores.com/media/deramores/interest/social-new.jpg);
-}
-.interest.testimonials .panel {
-	background-image: url(http://cdn.deramores.com/media/deramores/interest/testimonials.jpg);
-}
-.greyed-out {
-    opacity : 0.5;
-    filter: alpha(opacity=50); /* msie */
-}
-</style>
-	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-	<body class="frame  cms-page-view cms-privacy-and-security">
-		
-<!-- BEGIN GOOGLE ANALYTICS CODE -->
-<script type="text/javascript">
-//<![CDATA[
-    var _gaq = _gaq || [];
-    _gaq.push(["_setAccount", "UA-17296637-1"]);
-    _gaq.push(["_setDomainName", ".deramores.com"]);
-    _gaq.push(["_setAllowLinker", true]);
-    _gaq.push(["_trackPageview", "/privacy-and-security"]);
-    _gaq.push(["_addIgnoredRef", "deramores.com"]); 
-
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-//]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
-        		    <noscript>
-        <div class="noscript">
-            <div class="noscript-inner">
-                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
-                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
-            </div>
-        </div>
-    </noscript>
-		<div id="blocker" style="display: none;" onclick="Element.toggle('blocker'); Element.toggle('modal'); return false;"></div>
+<script type="text/javascript">optionalZipCountries=["IE"];</script>
+<script type="text/javascript">var Translator=new Translate({"Please make sure your email addresses match.":"Please make sure your email addresses match."});</script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="frame  cms-page-view cms-privacy-and-security">
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-17296637-1']);_gaq.push(['_setDomainName','.deramores.com']);_gaq.push(['_setAllowLinker',true]);_gaq.push(['_trackPageview','/privacy-and-security']);_gaq.push(['addIgnoredRef','deramores.com']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<noscript>
+<div class="global-site-notice noscript">
+<div class="notice-inner">
+<p>
+<strong>JavaScript seems to be disabled in your browser.</strong><br/>
+You must have JavaScript enabled in your browser to utilize the functionality of this website. </p>
+</div>
+</div>
+</noscript>
+<div id="blocker" style="display: none;" onclick="Element.toggle('blocker'); Element.toggle('modal'); return false;"></div>
 <div id="modal" style="display: none;">
-  <div class="localePicker">
-    <div class="panel none">
-      <div class="col float-right">
-        <p><a href="http://www.deramores.com/privacy-and-security" onclick="Element.toggle('blocker'); Element.toggle('modal'); return false;" class="button-inline remove" title="Close"></a></p>
-      </div>
-      <h2>Please select your country:</h2>
+<div class="localePicker">
+<div class="panel none">
+<div class="col float-right">
+<p><a href="http://www.deramores.com/" onclick="Element.toggle('blocker'); Element.toggle('modal'); return false;" class="button-inline remove" title="Close"></a></p>
+</div>
+<h2>Please select your country:</h2>
 <ul>
-	<li><a href="http://www.deramores.com?___store=deramores_gb_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/flags/gb.png);">United Kingdom</a></li>
-	<li><a href="http://us.deramores.com?___store=deramores_us_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/flags/us.png);">United States</a></li>
-	<li><a href="http://ca.deramores.com?___store=deramores_ca_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/flags/ca.png);">Canada</a></li>
-	<li><a href="http://ie.deramores.com?___store=deramores_ie_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/flags/ie.png);">Republic of Ireland</a></li>
-	<li><a href="http://eu.deramores.com?___store=deramores_eu_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/flags/eur.png);">Europe</a></li>
-	<li><a href="http://au.deramores.com?___store=deramores_au_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/flags/au.png);">Australia</a></li>
-	<li><a href="http://nz.deramores.com?___store=deramores_nz_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/flags/nz.png);">New Zealand</a></li>
-	<li><a href="http://www.deramores.com?___store=deramores_gb_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/flags/www.png);">Worldwide</a> (Rest of World)</li>
-</ul>    </div>
-  </div>
+<li><a href="http://www.deramores.com?___store=deramores_gb_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/flags/xgb.png.pagespeed.ic.Abt9S9j-CV.png)">United Kingdom</a></li>
+<li><a href="http://us.deramores.com?___store=deramores_us_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/flags/xus.png.pagespeed.ic.XtJDWR4KBQ.png)">United States</a></li>
+<li><a href="http://ca.deramores.com?___store=deramores_ca_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/flags/xca.png.pagespeed.ic.caheMrCB0b.png)">Canada</a></li>
+<li><a href="http://ie.deramores.com?___store=deramores_ie_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/flags/ie.png.pagespeed.ce.TnYqwB9-Ib.png)">Republic of Ireland</a></li>
+<li><a href="http://eu.deramores.com?___store=deramores_eu_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/flags/eur.png.pagespeed.ce.hJNoyGrtaf.png)">Europe</a></li>
+<li><a href="http://au.deramores.com?___store=deramores_au_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/flags/xau.png.pagespeed.ic.AgLNJTYqcv.png)">Australia</a></li>
+<li><a href="http://nz.deramores.com?___store=deramores_nz_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/flags/nz.png.pagespeed.ce.FNQwrq51tq.png)">New Zealand</a></li>
+<li><a href="http://www.deramores.com?___store=deramores_gb_en" onclick="_gaq.push(['_link', this.href]);return false;" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/flags/xwww.png.pagespeed.ic.RzJ16NLyYZ.png)">Worldwide</a> (Rest of World)</li>
+</ul> </div>
+</div>
 </div>
 <div class="tier locale">
-  <div class="container">
-    <div class="row">
-      <div class="col span6 currlocale">
-        <div class="panel none">
-          <p style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/flags/gb.png);"><strong>United Kingdom</strong> ( <a href="#top" onclick="Element.toggle('blocker'); Element.toggle('modal');">change</a> )</p>        </div>
-      </div>
-      <div class="col span6 account">
-        <div class="panel none">
-                        <ul class="links">
-            <li class="first"><a href="https://secure.deramores.com/customer/account/" title="My Account">My Account</a></li>
-            <li class=" last"><a href="https://secure.deramores.com/customer/account/login/" title="Sign In">Sign In</a></li>
-    </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="container">
+<div class="row">
+<div class="col span6 currlocale">
+<div class="panel none">
+<p style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/flags/xgb.png.pagespeed.ic.Abt9S9j-CV.png)"><strong>United Kingdom</strong> ( <a href="#top" onclick="Element.toggle('blocker'); Element.toggle('modal');">change</a> )</p> </div>
+</div>
+<div class="col span6 account">
+<div class="panel none">
+<ul class="links">
+<li class="first"><a href="https://secure.deramores.com/customer/account/" title="My Account">My Account</a></li>
+<li><a href="https://secure.deramores.com/wishlist/" title="My Wishlist">My Wishlist</a></li>
+<li class=" last"><a href="https://secure.deramores.com/customer/account/login/" title="Sign In">Sign In</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div class="tier header x-production">
-  <div class="container">
-        <div class="row head">
-      <div class="col span3 logo">
-        <div class="panel none">
-                    <a href="http://www.deramores.com/">
-                      <img src="http://cdn.deramores.com/media/deramores/logo/logo.gif" alt="Deramores">                    </a>
-                  </div>
-      </div>
-      <div class="col span3 slogan">
-        <div class="panel none">
-          <h2>FREE UK DELIVERY</h2>
-<p>When You Spend Over <span class="price">£25.00</span></p>        </div>
-      </div>
-      <div class="col span3 contact">
-        <div class="panel none">
-          <h3>Call 0800 488 0708</h3>
+<div class="container">
+<div class="row head">
+<div class="col span3 logo">
+<div class="panel none">
+<a href="http://www.deramores.com/">
+<img src="http://www.deramores.com/media/deramores/logo/xlogo.gif.pagespeed.ic.b-rRTpwdaU.png" alt="Deramores"> </a>
+</div>
+</div>
+<div class="col span3 slogan">
+<div class="panel none">
+<h2>FREE UK DELIVERY</h2>
+<p>When You Spend Over <span class="price">£25.00</span></p> </div>
+</div>
+<div class="col span3 contact">
+<div class="panel none">
+<h3>Call 0800 488 0708</h3>
 <ul>
-	<li>or send us an</li>
-	<li class="email"><a href="http://www.deramores.com/contacts/" class="button email"><span><span>Email</span></span></a></li>
-</ul>          <div class="clear"></div>
-        </div>
-      </div>
-      <div class="col span3 basket">
-        <div class="panel none">
-          <h3>Basket</h3>
+<li>or send us an</li>
+<li class="email"><a href="http://www.deramores.com/contacts/" class="button email"><span><span>Email</span></span></a></li>
+</ul> <div class="clear"></div>
+</div>
+</div>
+<div class="col span3 basket">
+<div class="panel none">
+<h3>Basket</h3>
 <ul>
 <li><small>You have no items in your basket</small></li>
 </ul>
 <div class="clear"></div>
-        </div>
-        <div id="topCart" style="display: none;">    <div class="block block-cart">
-        
-        <div class="block-content">
-                        
-                                        <p class="empty">You have no items in your basket</p>
-                        
-            <div class="clear"></div>
-            
-                    </div>
-        
-                
-    </div>
 </div>
-      </div>
-    </div>
-    <div class="row navigation" style="background-image: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/navigation-home.gif);">
-      <div class="col span9 menu">
-        <div class="panel none">
-          <ul>
-	<li class="home">
-		<a href="http://www.deramores.com/"><span>Home</span></a>
-	</li>
-	<li class="extended">
-		<a href="http://www.deramores.com/knitting-yarn">Yarn</a>
-		<span class="block">
-			<span class="col" style="width:165px">
-				<span class="heading">Brand</span>
-				<ul>
-					<li><a href="http://www.deramores.com/adriafil-knitting-yarn" title="Adriafil">Adriafil</a></li>
-<li><a href="/anchor-artiste-metallic" title="Anchor">Anchor</a>
-</li><li><a href="http://www.deramores.com/araucania-knitting-yarn" title="Araucania">Araucania</a>
-</li><li><a href="http://www.deramores.com/artesano-knitting-yarn" title="Artesano">Artesano</a></li>
+<div id="topCart" style="display: none;"> <div class="block block-cart">
+<div class="block-content">
+<p class="empty">You have no items in your basket</p>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row navigation" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/xnavigation-home.gif.pagespeed.ic.plxu0jFkm5.png)">
+<div class="col span9 menu">
+<div class="panel none">
+<ul>
+<li class="home">
+<a href="http://www.deramores.com/"><span>Home</span></a>
+</li>
+<li class="extended">
+<a href="http://www.deramores.com/knitting-yarn">Yarn</a>
+<span class="block">
+<span class="col" style="width:165px">
+<span class="heading">Brand</span>
+<ul>
+<li><a href="http://www.deramores.com/adriafil-knitting-yarn" title="Adriafil">Adriafil</a></li>
+<li><a href="/anchor-artiste-metallic" title="Anchor">Anchor</a></li>
+<li><a href="http://www.deramores.com/araucania-knitting-yarn" title="Araucania">Araucania</a></li>
+<li><a href="http://www.deramores.com/artesano-knitting-yarn" title="Artesano">Artesano</a></li>
 <li><a href="http://www.deramores.com/bergere-de-france-knitting-yarn" title="Bergere de France">Bergere de France</a></li>
+<li><a href="http://www.deramores.com/bernat-knitting-yarn" title="Bernat">Bernat</a> <span class="tag">NEW</span></li>
+<li><a href="http://www.deramores.com/caron-knitting-yarn" title="Caron">Caron</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/cascade-knitting-yarn" title="Cascade">Cascade</a></li>
 <li><a href="http://www.deramores.com/debbie-bliss-knitting-yarn" title="Debbie Bliss">Debbie Bliss</a></li>
-<li><a href="http://www.deramores.com/deramores-knitting-yarn" title="Deramores"><img src="http://cdn.deramores.com/media/deramores/misc/deramores-dropdown-logo73x15px.png" class="image" height="15" width="73" style="margin-right: 0px; margin-top: 0px; margin-bottom: 0px;"></a></li>
-<li><a href="http://www.deramores.com/dmc-crochet-yarn" title="DMC">DMC</a></li>
+<li><a href="http://www.deramores.com/deramores-knitting-yarn" title="Deramores"><img src="http://www.deramores.com/media/deramores/misc/73x15xderamores-dropdown-logo73x15px.png.pagespeed.ic.7D1vRCnZjc.png" class="image" height="15" width="73" style="margin-right: 0px; margin-top: 0px; margin-bottom: 0px;"></a></li>
+<li><a href="http://www.deramores.com/dmc-knitting-yarn" title="DMC">DMC</a></li>
 <li><a href="http://www.deramores.com/dy-choice-knitting-yarn" title="DY Choice">DY Choice</a></li>
 <li><a href="http://www.deramores.com/erika-knight-knitting-yarn" title="Erika Knight">Erika Knight</a> </li>
+<li><a href="http://www.deramores.com/ella-rae-knitting-yarn" title="Ella Rae">Ella Rae</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/fyberspates-knitting-yarn" title="Fyberspates">Fyberspates</a></li>
 <li><a href="http://www.deramores.com/hayfield-knitting-yarn" title="Hayfield">Hayfield</a></li>
-<li><a href="http://www.deramores.com/james-c-brett-knitting-yarn" title="James C. Brett">James C. Brett</a></li>
+<li><a href="http://www.deramores.com/knitting-yarn/james-c-brett-knitting-yarn" title="James C. Brett">James C. Brett</a></li>
 <li><a href="http://www.deramores.com/jenny-watson-knitting-yarn" title="Jenny Watson">Jenny Watson</a></li>
 <li><a href="http://www.deramores.com/juey-knitting-yarn" title="Juey">Juey</a></li>
+<li><a href="http://www.deramores.com/juniper-moon-farm-knitting-yarn" title="Juniper Moon Farm">Juniper Moon Farm</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/katia-knitting-yarn" title="Katia">Katia</a></li>
 <li><a href="http://www.deramores.com/king-cole-knitting-yarn" title="King Cole">King Cole</a></li>
+<li><a href="http://www.deramores.com/lily-sugar-n-cream-knitting-yarn" title="Lily Sugar 'n Cream">Lily Sugar 'n Cream</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/lion-brand-knitting-yarn" title="Lion Brand">Lion Brand</a></li>
+<li><a href="http://www.deramores.com/lopi-knitting-yarn" title="Lopi">Lopi</a></li>
 <li><a href="http://www.deramores.com/louisa-harding-knitting-yarn" title="Louisa Harding">Louisa Harding</a></li>
 <li><a href="http://www.deramores.com/manos-del-uruguay-knitting-yarn" title="Manos del Uruguay">Manos del Uruguay</a></li>
 <li><a href="http://www.deramores.com/millamia-knitting-yarn" title="MillaMia">MillaMia</a></li>
-				</ul>
-			</span>
-			<span class="col" style="width:155px">
-				<span class="heading">&nbsp;</span>
-				<ul>
-					<li><a href="http://www.deramores.com/mirasol-knitting-yarn" title="Mirasol">Mirasol</a></li>
+</ul>
+</span>
+<span class="col" style="width:155px">
+<span class="heading">&nbsp;</span>
+<ul>
+<li><a href="http://www.deramores.com/mirasol-knitting-yarn" title="Mirasol">Mirasol</a></li>
 <li><a href="http://www.deramores.com/noro-knitting-yarn" title="Noro">Noro</a></li>
 <li><a href="http://www.deramores.com/patons-knitting-yarn" title="Patons">Patons</a></li>
 <li><a href="http://www.deramores.com/peter-pan-knitting-yarn" title="Peter Pan">Peter Pan</a></li>
-<li><a href="http://www.deramores.com/phildar-knitting-yarn" title="Phildar">Phildar</a> <span class="tag">NEW</span></li>
+<li><a href="http://www.deramores.com/phildar-knitting-yarn" title="Phildar">Phildar</a></li>
 <li><a href="http://www.deramores.com/premier-knitting-yarn" title="Premier">Premier</a></li>
-<li><a href="http://www.deramores.com/red-heart-knitting-yarn" title="Red Heart">Red Heart</a>
-</li><li><a href="http://www.deramores.com/regia-knitting-yarn" title="Regia">Regia</a></li>
+<li><a href="http://www.deramores.com/red-heart-knitting-yarn" title="Red Heart">Red Heart</a></li>
+<li><a href="http://www.deramores.com/regia-knitting-yarn" title="Regia">Regia</a></li>
 <li><a href="http://www.deramores.com/rico-design-knitting-yarn" title="Rico Design">Rico Design</a></li>
 <li><a href="http://www.deramores.com/robin-knitting-yarn" title="Robin">Robin</a></li>
-<li><a href="http://www.deramores.com/rooster-knitting-yarn" title="Rooster">Rooster</a> <span class="tag">NEW</span></li>
+<li><a href="http://www.deramores.com/rooster-knitting-yarn" title="Rooster">Rooster</a></li>
 <li><a href="http://www.deramores.com/rowan-knitting-yarn" title="Rowan">Rowan</a></li>
-<li><a href="http://www.deramores.com/scheepjeswol-knitting-yarn" title="Scheepjeswol">Scheepjeswol</a> <span class="tag">NEW</span></li>
-<li><a href="http://www.deramores.com/sirdar-knitting-yarn" title="Sirdar">Sirdar</a> </li>
+<li><a href="http://www.deramores.com/scheepjeswol-knitting-yarn" title="Scheepjeswol">Scheepjeswol</a></li>
+<li><a href="http://www.deramores.com/knitting-yarn/sirdar-knitting-yarn" title="Sirdar">Sirdar</a> </li>
 <li><a href="http://www.deramores.com/snuggly-knitting-yarn" title="Snuggly">Snuggly</a></li>
 <li><a href="http://www.deramores.com/sublime-knitting-yarn" title="Sublime">Sublime</a></li>
 <li><a href="http://www.deramores.com/stylecraft-knitting-yarn" title="Stylecraft">Stylecraft</a></li>
-<li><a href="http://www.deramores.com/susan-crawford-vintage-knitting-yarn" title="Susan Crawford Vintage">Susan Crawford Vintage</a> <span class="tag">NEW</span></li>
-<li><a href="http://www.deramores.com/toft-knitting-yarn" title="Toft">Toft</a> <span class="tag">NEW</span></li>
+<li><a href="http://www.deramores.com/susan-crawford-vintage-knitting-yarn" title="Susan Crawford Vintage">Susan Crawford Vintage</a></li>
+<li><a href="http://www.deramores.com/toft-knitting-yarn" title="Toft">Toft</a></li>
 <li><a href="http://www.deramores.com/twilleys-knitting-yarn" title="Twilleys">Twilleys</a></li>
 <li><a href="http://www.deramores.com/uk-alpaca-knitting-yarn" title="UK Alpaca">UK Alpaca</a></li>
 <li><a href="http://www.deramores.com/wendy-knitting-yarn" title="Wendy">Wendy</a></li>
 <br>
-<li><strong><a href="http://www.deramores.com/all-knitting-yarn" title="View All">View All</a></strong></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Yarn Weight</span>
-				<ul>
-					<li><a href="http://www.deramores.com/2-ply-knitting-yarn" title="2 Ply">2 Ply</a></li>
+<li><a href="http://www.deramores.com/all-knitting-yarn" title="View All"><strong>View All<strong></strong></strong></a></li><strong><strong>
+</strong></strong></ul><strong><strong>
+</strong></strong></span><strong><strong>
+<span class="col">
+<span class="heading">Yarn Weight</span>
+<ul>
+<li><a href="http://www.deramores.com/2-ply-knitting-yarn" title="2 Ply">2 Ply</a></li>
 <li><a href="http://www.deramores.com/3-ply-knitting-yarn" title="3 Ply">3 Ply</a></li>
 <li><a href="http://www.deramores.com/4-ply-knitting-yarn" title="4 Ply">4 Ply</a></li>
 <li><a href="http://www.deramores.com/lace-knitting-yarn" title="Lace">Lace</a></li>
@@ -237,22 +243,23 @@ optionalZipCountries = ["IE"];
 <li><a href="http://www.deramores.com/chunky-knitting-yarn" title="Chunky">Chunky</a></li>
 <li><a href="http://www.deramores.com/super-chunky-knitting-yarn" title="Super Chunky">Super Chunky</a></li>
 <li><a href="http://www.deramores.com/fashion-knitting-yarn" title="Fashion">Fashion</a></li>
-				</ul>
-				<span class="heading subheading">Collections</span>
-				<ul>
-					<li><a href="http://www.deramores.com/baby-knitting-yarn" title="Baby Yarn">Baby Yarn</a></li>
+</ul>
+<span class="heading subheading">Collections</span>
+<ul>
+<li><a href="http://www.deramores.com/baby-knitting-yarn" title="Baby Yarn">Baby Yarn</a></li>
+<li><a href="http://www.deramores.com/faux-fur-yarn" title="Faux Fur Yarn">Faux Fur Yarn</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/scarf-knitting-yarn" title="Scarf Yarn">Scarf Yarn</a></li>
 <li><a href="http://www.deramores.com/sock-knitting-yarn" title="Sock Yarn">Sock Yarn</a></li>
 <li><a href="http://www.deramores.com/crochet-yarn" title="Crochet Yarn">Crochet Yarn</a></li>
 <li><a href="http://www.deramores.com/felting-knitting-yarn" title="Felting Yarn">Felting Yarn</a></li>
 <li><a href="http://www.deramores.com/undyed-knitting-yarn" title="Undyed Yarn">Undyed Yarn</a></li>
 <li><a href="http://www.deramores.com/colour-packs" title="Colour Packs">Colour Packs</a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Fibres</span>
-				<ul>
-					<li><a href="http://www.deramores.com/acrylic-knitting-yarn" title="Acrylic">Acrylic</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Fibres</span>
+<ul>
+<li><a href="http://www.deramores.com/acrylic-knitting-yarn" title="Acrylic">Acrylic</a></li>
 <li><a href="http://www.deramores.com/alpaca-knitting-yarn" title="Alpaca">Alpaca</a></li>
 <li><a href="http://www.deramores.com/bamboo-knitting-yarn" title="Bamboo">Bamboo</a></li>
 <li><a href="http://www.deramores.com/cashmere-knitting-yarn" title="Cashmere">Cashmere</a></li>
@@ -264,24 +271,24 @@ optionalZipCountries = ["IE"];
 <li><a href="http://www.deramores.com/polyester-knitting-yarn" title="Polyester">Polyester</a></li>
 <li><a href="http://www.deramores.com/silk-knitting-yarn" title="Silk">Silk</a></li>
 <li><a href="http://www.deramores.com/wool-knitting-yarn" title="Wool">Wool</a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Price</span>
-				<ul>
-					<li><a href="http://www.deramores.com/knitting-yarn?price=1%2C1" title="£1.00 or less"><span class="price">£1.00</span> or less</a></li>
-<li><a href="http://www.deramores.com/knitting-yarn?price=2%2C1" title="£1.00 -£2.00"><span class="price">£1.00</span> - <span class="price">£2.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-yarn?price=3%2C1" title="£2.00 - £3.00"><span class="price">£2.00</span> - <span class="price">£3.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-yarn?price=4%2C1" title="£3.00 - £4.00"><span class="price">£3.00</span> - <span class="price">£4.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-yarn?price=5%2C1" title="£4.00 - £5.00"><span class="price">£4.00</span> - <span class="price">£5.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-yarn?price=2%2C5" title="£5.00 - £10.00"><span class="price">£5.00</span> - <span class="price">£10.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-yarn?price=2%2C10" title="£10.00 - £20.00"><span class="price">£10.00</span> - <span class="price">£20.00</span></a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Colour</span>
-				<span class="swatch">
-					<a style="background-color: #000000;" title="Black" href="http://www.deramores.com/black-knitting-yarn"></a>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Price</span>
+<ul>
+<li><a href="http://www.deramores.com/knitting-yarn?price=-1" title="£1.00 or less"><span class="price">£1.00</span> or less</a></li>
+<li><a href="http://www.deramores.com/knitting-yarn?price=1-2" title="£1.00 - £2.00"><span class="price">£1.00</span> - <span class="price">£2.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-yarn?price=2-3" title="£2.00 - £3.00"><span class="price">£2.00</span> - <span class="price">£3.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-yarn?price=3-4" title="£3.00 - £4.00"><span class="price">£3.00</span> - <span class="price">£4.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-yarn?price=4-5" title="£4.00 - £5.00"><span class="price">£4.00</span> - <span class="price">£5.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-yarn?price=5-10" title="£5.00 - £10.00"><span class="price">£5.00</span> - <span class="price">£10.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-yarn?price=10-20" title="£10.00 - £20.00"><span class="price">£10.00</span> - <span class="price">£20.00</span></a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Colour</span>
+<span class="swatch">
+<a style="background-color: #000000;" title="Black" href="http://www.deramores.com/black-knitting-yarn"></a>
 <a style="background-color: #7f7f7f;" title="Grey" href="http://www.deramores.com/grey-knitting-yarn"></a>
 <a style="background-color: #ffffff;" title="White" href="http://www.deramores.com/white-knitting-yarn"></a>
 <a style="background-color: #754c24;" title="Brown" href="http://www.deramores.com/brown-knitting-yarn"></a>
@@ -295,58 +302,66 @@ optionalZipCountries = ["IE"];
 <a style="background-color: #004a80;" title="Blue" href="http://www.deramores.com/blue-knitting-yarn"></a>
 <a style="background-color: #440e62;" title="Purple" href="http://www.deramores.com/purple-knitting-yarn"></a>
 <a class="multicoloured" title="Multi" href="http://www.deramores.com/multi-coloured-knitting-yarn"></a>
-				</span>
-			</span>
-		</span>
-	</li>
-	<li class="extended">
-		<a href="http://www.deramores.com/knitting-patterns">Patterns</a>
-		<span class="block">
-			<span class="col" style="width:155px">
-				<span class="heading">Brand</span>
-				<ul>
-					<li><a href="http://www.deramores.com/20-to-make-knitting-patterns" title="20 To Make">20 To Make </a> <span class="tag">NEW</span> </li>
+</span>
+</span>
+</strong></strong></span><strong><strong>
+</strong></strong></li><strong><strong>
+<li class="extended">
+<a href="http://www.deramores.com/knitting-patterns">Patterns</a>
+<span class="block">
+<span class="col" style="width:165px">
+<span class="heading">Brand</span>
+<ul>
+<li><a href="http://www.deramores.com/20-to-make-knitting-patterns" title="20 To Make">20 To Make </a></li>
 <li><a href="http://www.deramores.com/adriafil-knitting-patterns" title="Adriafil">Adriafil</a></li>
+<li><a href="http://www.deramores.com/artesano-knitting-patterns" title="Artesano">Artesano</a></li>
 <li><a href="http://www.deramores.com/bergere-de-france-knitting-patterns" title="Bergere de France">Bergere de France</a></li>
-<li><a href="http://www.deramores.com/deramores-knitting-patterns" title="Deramores"><img src="http://cdn.deramores.com/media/deramores/misc/deramores-dropdown-logo73x15px.png" class="image" height="15" width="73" style="margin-right: 0px; margin-top: 0px; margin-bottom: 0px;"></a></li>
+<li><a href="http://www.deramores.com/deramores-knitting-patterns" title="Deramores"><img src="http://www.deramores.com/media/deramores/misc/73x15xderamores-dropdown-logo73x15px.png.pagespeed.ic.7D1vRCnZjc.png" class="image" height="15" width="73" style="margin-right: 0px; margin-top: 0px; margin-bottom: 0px;"></a></li>
 <li><a href="http://www.deramores.com/dmc-crochet-patterns" title="DMC">DMC</a></li>
 <li><a href="http://www.deramores.com/dy-choice-knitting-patterns" title="DY Choice">DY Choice </a></li>
-<li><a href="http://www.deramores.com/erika-knight-knitting-patterns" title="Erika Knight">Erika Knight</a></li> 
+<li><a href="http://www.deramores.com/erika-knight-knitting-patterns" title="Erika Knight">Erika Knight</a></li>
+<li><a href="http://www.deramores.com/ella-rae-knitting-patterns" title="Ella Rae">Ella Rae</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/fyberspates-knitting-patterns" title="Fyberspates">Fyberspates</a></li>
 <li><a href="http://www.deramores.com/hayfield-knitting-patterns" title="Hayfield">Hayfield</a></li>
 <li><a href="http://www.deramores.com/james-c-brett-knitting-patterns" title="James C. Brett">James C. Brett</a></li>
 <li><a href="http://www.deramores.com/jenny-watson-knitting-patterns" title="Jenny Watson">Jenny Watson</a></li>
+<li><a href="http://www.deramores.com/juniper-moon-farm-knitting-patterns" title="Juniper Moon Farm">Juniper Moon Farm</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/king-cole-knitting-patterns" title="King Cole">King Cole</a></li>
 <li><a href="http://www.deramores.com/manos-del-uruguay-knitting-patterns" title="Manos del Uruguay">Manos del Uruguay</a></li>
 <li><a href="http://www.deramores.com/millamia-knitting-patterns" title="MillaMia">MillaMia</a></li>
 <li><a href="http://www.deramores.com/mirasol-knitting-patterns" title="Mirasol">Mirasol</a></li>
 <li><a href="http://www.deramores.com/patons-knitting-patterns" title="Patons">Patons</a></li>
 <li><a href="http://www.deramores.com/peter-pan-knitting-patterns" title="Peter Pan">Peter Pan</a></li>
-<li><a href="http://www.deramores.com/phildar-knitting-books" title="Phildar">Phildar</a> <span class="tag">NEW</span></li>
+<li><a href="http://www.deramores.com/phildar-knitting-books" title="Phildar">Phildar</a></li>
 <li><a href="http://www.deramores.com/rico-design-knitting-patterns" title="Rico Design">Rico Design</a></li>
-			
-				</ul>
-			</span>
-			<span class="col" style="width:155px">
-				<span class="heading">&nbsp;</span>
-				<ul>
-					<li><a href="http://www.deramores.com/rooster-knitting-patterns" title="Rooster">Rooster </a> <span class="tag">NEW</span> </li>
-<li><a href="http://www.deramores.com/scheepjeswol-knitting-patterns" title="Scheepjeswol">Scheepjeswol</a> <span class="tag">NEW</span></li>		
-<li><a href="http://www.deramores.com/sirdar-knitting-patterns" title="Sirdar">Sirdar</a></li>	
-<li><a href="http://www.deramores.com/stylecraft-knitting-patterns" title="Stylecraft">Stylecraft</a></li>					
+</ul>
+</span>
+<span class="col" style="width:185px">
+<span class="heading">&nbsp;</span>
+<ul>
+<li><a href="http://www.deramores.com/rooster-knitting-patterns" title="Rooster">Rooster </a></li>
+<li><a href="http://www.deramores.com/rowan-knitting-patterns" title="Rowan">Rowan</a> <span class="tag">NEW</span></li>
+<li><a href="http://www.deramores.com/sirdar-knitting-patterns" title="Sirdar">Sirdar</a></li>
+<li><a href="http://www.deramores.com/stylecraft-knitting-patterns" title="Stylecraft">Stylecraft</a></li>
 <li><a href="http://www.deramores.com/sublime-knitting-patterns" title="Sublime">Sublime</a></li>
-<li><a href="http://www.deramores.com/susan-crawford-vintage-knitting-patterns" title="Susan Crawford Vintage">Susan Crawford Vintage</a> <span class="tag">NEW</span></li>
+<li><a href="http://www.deramores.com/susan-crawford-vintage-knitting-patterns" title="Susan Crawford Vintage">Susan Crawford Vintage</a></li>
 <li><a href="http://www.deramores.com/toft-knitting-patterns" title="Toft">Toft</a></li>
 <li><a href="http://www.deramores.com/twilleys-knitting-patterns" title="Twilleys">Twilleys</a></li>
 <li><a href="http://www.deramores.com/uk-alpaca-knitting-patterns" title="UK Alpaca">UK Alpaca </a></li>
 <li><a href="http://www.deramores.com/uk-hand-knitting-association-knitting-patterns" title="UKHKA">UKHKA</a></li>
 <li><a href="http://www.deramores.com/wendy-knitting-patterns" title="Wendy">Wendy</a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Yarn Weight</span>
-				<ul>
-					<li><a href="http://www.deramores.com/2-ply-knitting-patterns" title="2 Ply">2 Ply</a></li>
+<br>
+<li><a href="http://www.deramores.com/independent-designer-knitting-patterns" title="Independent Designers">Independent Designers</a> <span class="tag">NEW</span></li>
+<br>
+<li><a href="http://www.deramores.com/free-patterns" title="Free Patterns" alt="Free patterns"><img src="http://www.deramores.com/media/deramores/misc/free-pattern-button-4.png.pagespeed.ce.J4eYHUD52x.png" class="image" height="27" width="114" style="margin-right: 0px; margin-top: 0px; margin-bottom: 0px;"></a></li>
+<br>
+<li><a href="http://www.deramores.com/all-knitting-patterns" title="View All"><strong>View All</strong></a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Yarn Weight</span>
+<ul>
+<li><a href="http://www.deramores.com/2-ply-knitting-patterns" title="2 Ply">2 Ply</a></li>
 <li><a href="http://www.deramores.com/3-ply-knitting-patterns" title="3 Ply">3 Ply</a></li>
 <li><a href="http://www.deramores.com/4-ply-knitting-patterns" title="4 Ply">4 Ply</a></li>
 <li><a href="http://www.deramores.com/dk-knitting-patterns" title="DK">DK</a></li>
@@ -354,14 +369,12 @@ optionalZipCountries = ["IE"];
 <li><a href="http://www.deramores.com/chunky-knitting-patterns" title="Chunky">Chunky</a></li>
 <li><a href="http://www.deramores.com/super-chunky-knitting-patterns" title="Super Chunky">Super Chunky</a></li>
 <li><a href="http://www.deramores.com/fashion-knitting-patterns" title="Fashion">Fashion</a></li>
-<br>
-<li><a href="http://www.deramores.com/all-knitting-patterns" title="View All">View All</a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">For</span>
-				<ul>
-					<li><a href="http://www.deramores.com/premature-baby-knitting-patterns" title="Premature Babies">Premature Babies</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">For</span>
+<ul>
+<li><a href="http://www.deramores.com/premature-baby-knitting-patterns" title="Premature Babies">Premature Babies</a></li>
 <li><a href="http://www.deramores.com/baby-knitting-patterns" title="Babies">Babies</a></li>
 <li><a href="http://www.deramores.com/childrens-knitting-patterns" title="Children">Children</a></li>
 <li><a href="http://www.deramores.com/girls-knitting-patterns" title="Girls">Girls</a></li>
@@ -371,22 +384,22 @@ optionalZipCountries = ["IE"];
 <li><a href="http://www.deramores.com/mens-knitting-patterns" title="Men">Men</a></li>
 <li><a href="http://www.deramores.com/toy-knitting-patterns" title="Toys">Toys</a></li>
 <li><a href="http://www.deramores.com/home-accessories-knitting-patterns" title="Home Accessories">Home Accessories</a></li>
-				</ul>
-                                 <span class="heading subheading">Collections</span>
-				<ul>
-					<li><a href="http://www.deramores.com/crochet-patterns" title="Crochet">Crochet</a></li>
+</ul>
+<span class="heading subheading">Collections</span>
+<ul>
+<li><a href="http://www.deramores.com/crochet-patterns" title="Crochet">Crochet</a></li>
 <li><a href="http://www.deramores.com/cable-knitting-patterns" title="Cable">Cable</a></li>
 <li><a href="http://www.deramores.com/lace-knitting-patterns-1" title="Lace">Lace</a></li>
 <li><a href="http://www.deramores.com/christmas-patterns" title="Christmas">Christmas</a></li>
 <li><a href="http://www.deramores.com/summer-knitting-patterns" title="Spring/Summer">Spring/Summer</a></li>
 <li><a href="http://www.deramores.com/extra-large-knitting-patterns" title="Extra large">Extra Large</a></li>
 <li><a href="http://www.deramores.com/downloadable-knitting-patterns" title="Digital Patterns">Digital Patterns</a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Popular Garments</span>
-				<ul>
-					<li><a href="http://www.deramores.com/accessory-knitting-patterns" title="Accessories">Accessories</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Popular Garments</span>
+<ul>
+<li><a href="http://www.deramores.com/accessory-knitting-patterns" title="Accessories">Accessories</a></li>
 <li><a href="http://www.deramores.com/blanket-knitting-patterns" title="Blankets">Blankets</a></li>
 <li><a href="http://www.deramores.com/bootee-knitting-patterns" title="Bootees">Bootees</a></li>
 <li><a href="http://www.deramores.com/cardigan-knitting-patterns" title="Cardigans">Cardigans</a></li>
@@ -404,46 +417,51 @@ optionalZipCountries = ["IE"];
 <li><a href="http://www.deramores.com/sock-knitting-patterns" title="Socks">Socks</a></li>
 <li><a href="http://www.deramores.com/sweater-knitting-patterns" title="Sweaters">Sweaters</a></li>
 <li><a href="http://www.deramores.com/waistcoat-knitting-patterns" title="Waistcoats">Waistcoats</a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Price</span>
-				<ul>
-					<li><a href="http://www.deramores.com/knitting-patterns?price=1%2C1" title="£1.00 or less"><span class="price">£1.00</span> or less</a></li>
-<li><a href="http://www.deramores.com/knitting-patterns?price=2%2C1" title="£1.00 - £2.00"><span class="price">£1.00</span> - <span class="price">£2.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-patterns?price=3%2C1" title="£2.00 - £3.00"><span class="price">£2.00</span> - <span class="price">£3.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-patterns?price=4%2C1" title="£3.00 - £4.00"><span class="price">£3.00</span> - <span class="price">£4.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-patterns?price=5%2C1" title="£4.00 - £5.00"><span class="price">£4.00</span> - <span class="price">£5.00</span></a></li>
-				</ul>
-			</span>
-		</span>
-	</li>
-	<li class="extended">
-		<a href="http://www.deramores.com/knitting-books">Books</a>
-		<span class="block">
-			<span class="col" style="width:165px">
-				<span class="heading">Brand</span>
-				<ul>
-					<li><a href="http://www.deramores.com/adriafil-knitting-books" title="Adriafil">Adriafil</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Price</span>
+<ul>
+<li><a href="http://www.deramores.com/knitting-patterns?price=-1" title="£1.00 or less"><span class="price">£1.00</span> or less</a></li>
+<li><a href="http://www.deramores.com/knitting-patterns?price=1-2" title="£1.00 - £2.00"><span class="price">£1.00</span> - <span class="price">£2.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-patterns?price=2-3" title="£2.00 - £3.00"><span class="price">£2.00</span> - <span class="price">£3.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-patterns?price=3-4" title="£3.00 - £4.00"><span class="price">£3.00</span> - <span class="price">£4.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-patterns?price=4-5" title="£4.00 - £5.00"><span class="price">£4.00</span> - <span class="price">£5.00</span></a></li>
+</ul>
+</span>
+</span>
+</li>
+<li class="extended">
+<a href="http://www.deramores.com/knitting-books">Books</a>
+<span class="block">
+<span class="col" style="width:165px">
+<span class="heading">Brand</span>
+<ul>
+<li><a href="http://www.deramores.com/adriafil-knitting-books" title="Adriafil">Adriafil</a></li>
 <li><a href="http://www.deramores.com/artesano-knitting-books" title="Artesano">Artesano</a></li>
 <li><a href="http://www.deramores.com/araucania-knitting-books" title="Araucania">Araucania</a></li>
 <li><a href="http://www.deramores.com/bergere-de-france-knitting-books" title="Bergere de France">Bergere de France</a></li>
 <li><a href="http://www.deramores.com/cascade-knitting-books" title="Cascade">Cascade</a></li>
+<li><a href="http://www.deramores.com/debbie-bliss-knitting-books" title="Debbie Bliss">Debbie Bliss</a></li>
 <li><a href="http://www.deramores.com/dmc-crochet-books" title="DMC">DMC</a></li>
+<li><a href="http://www.deramores.com/ella-rae-knitting-books" title="Ella Rae">Ella Rae</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/fyberspates-knitting-books" title="Fyberspates">Fyberspates</a></li>
 <li><a href="http://www.deramores.com/gmc-knitting-books" title="GMC">GMC</a></li>
+<li><a href="http://www.deramores.com/jenny-watson-knitting-books" title="Jenny Watson">Jenny Watson</a></li>
+<li><a href="http://www.deramores.com/juniper-moon-farm-knitting-books" title="Juniper Moon Farm">Juniper Moon Farm</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/katia-knitting-books" title="Katia">Katia</a></li>
 <li><a href="http://www.deramores.com/king-cole-knitting-books" title="King Cole">King Cole</a></li>
+<li><a href="http://www.deramores.com/louisa-harding-knitting-books" title="Louisa Harding">Louisa Harding</a></li>
+<li><a href="http://www.deramores.com/lopi-knitting-books" title="Lopi">Lopi</a></li>
 <li><a href="http://www.deramores.com/millamia-knitting-books" title="MillaMia">MillaMia</a></li>
+</ul>
+</span>
+<span class="col" style="width:165px">
+<span class="heading">&nbsp;</span>
+<ul>
 <li><a href="http://www.deramores.com/manos-del-uruguay-knitting-books" title="Manos del Uruguay">Manos del Uruguay</a></li>
 <li><a href="http://www.deramores.com/noro-knitting-books" title="Noro">Noro</a></li>
-				
-				</ul>
-			</span>
-			<span class="col" style="width:165px">
-				<span class="heading">&nbsp;</span>
-				<ul>
-					<li><a href="http://www.deramores.com/patons-knitting-books" title="Patons">Patons</a></li>
+<li><a href="http://www.deramores.com/patons-knitting-books" title="Patons">Patons</a></li>
 <li><a href="http://www.deramores.com/peter-pan-knitting-books" title="Peter Pan">Peter Pan</a></li>
 <li><a href="http://www.deramores.com/phildar-knitting-books" title="Phildar">Phildar</a></li>
 <li><a href="http://www.deramores.com/regia-knitting-books" title="Regia">Regia</a></li>
@@ -452,15 +470,18 @@ optionalZipCountries = ["IE"];
 <li><a href="http://www.deramores.com/rowan-knitting-books" title="Rowan">Rowan</a></li>
 <li><a href="http://www.deramores.com/sirdar-knitting-books" title="Sirdar">Sirdar</a></li>
 <li><a href="http://www.deramores.com/sublime-knitting-books" title="Sublime">Sublime</a></li>
-<li><a href="http://www.deramores.com/susan-crawford-knitting-books" title="Susan Crawford Vintage">Susan Crawford Vintage</a> <span class="tag">NEW</span></li>
+<li><a href="http://www.deramores.com/susan-crawford-knitting-books" title="Susan Crawford Vintage">Susan Crawford Vintage</a></li>
+<li><a href="http://www.deramores.com/toft-books" title="Toft">Toft</a></li>
 <li><a href="http://www.deramores.com/twilleys-knitting-books" title="Twilleys">Twilleys</a></li>
-<li><a href="http://www.deramores.com/wendy-knitting-books" title="Wendy">Wendy</a></li>				
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Author</span>
-				<ul>
-					<li><a href="http://www.deramores.com/debbie-bliss-knitting-books" title="Debbie Bliss">Debbie Bliss</a></li>
+<li><a href="http://www.deramores.com/wendy-knitting-books" title="Wendy">Wendy</a></li>
+<br>
+<li><a href="http://www.deramores.com/all-knitting-books" title="View All"><strong>View All</strong></a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Author</span>
+<ul>
+<li><a href="http://www.deramores.com/debbie-bliss-knitting-books" title="Debbie Bliss">Debbie Bliss</a></li>
 <li><a href="http://www.deramores.com/erika-knight-knitting-books" title="Erika Knight">Erika Knight</a></li>
 <li><a href="http://www.deramores.com/fiona-goble-knitting-books" title="Fiona Goble">Fiona Goble</a></li>
 <li><a href="http://www.deramores.com/jean-greenhowe-knitting-books" title="Jean Greenhowe">Jean Greenhowe</a></li>
@@ -471,49 +492,47 @@ optionalZipCountries = ["IE"];
 <li><a href="http://www.deramores.com/sue-stratford-knitting-books" title="Sue Stratford">Sue Stratford</a></li>
 <li><a href="http://www.deramores.com/val-pierce-knitting-books" title="Val Pierce">Val Pierce</a></li>
 <li><a href="http://www.deramores.com/various-author-knitting-books" title="Various">Various</a></li>
-<br>
-<li><a href="http://www.deramores.com/all-knitting-books" title="View All">View All</a></li>				
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Type</span>
-				<ul>
-					<li><a href="http://www.deramores.com/accessories-knitting-books" title="Accessories">Accessories</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Type</span>
+<ul>
+<li><a href="http://www.deramores.com/accessories-knitting-books" title="Accessories">Accessories</a></li>
 <li><a href="http://www.deramores.com/clothing-knitting-books" title="Clothing">Clothing</a></li>
 <li><a href="http://www.deramores.com/christmas-knitting-books" title="Christmas">Christmas</a></li>
 <li><a href="http://www.deramores.com/crochet-books" title="Crochet">Crochet</a></li>
 <li><a href="http://www.deramores.com/homeware-knitting-books" title="Homeware">Homeware</a></li>
 <li><a href="http://www.deramores.com/skills-and-techniques-knitting-books" title="Skills and Techniques">Skills and Techniques</a></li>
 <li><a href="http://www.deramores.com/toy-knitting-books" title="Toys">Toys</a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Format</span>
-				<ul>
-					<li><a href="http://www.deramores.com/knitting-booklets" title="Booklet">Booklet</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Format</span>
+<ul>
+<li><a href="http://www.deramores.com/knitting-booklets" title="Booklet">Booklet</a></li>
 <li><a href="http://www.deramores.com/paperback-knitting-books" title="Paperback">Paperback</a></li>
 <li><a href="http://www.deramores.com/hardback-knitting-books" title="Hardback">Hardback</a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Price</span>
-				<ul>
-					<li><a href="http://www.deramores.com/knitting-books?price=1%2C5" title="£5.00 or less"><span class="price">£5.00</span> or less</a></li>
-<li><a href="http://www.deramores.com/knitting-books?price=2%2C5" title="£5.00 - £10.00"><span class="price">£5.00</span> - <span class="price">£10.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-books?price=3%2C5" title="£10.00 - £15.00"><span class="price">£10.00</span> - <span class="price">£15.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-books?price=4%2C5" title="£15.00 - £20.00"><span class="price">£15.00</span> - <span class="price">£20.00</span></a></li>
-				</ul>
-			</span>
-		</span>
-	</li>
-	<li class="extended">
-		<a href="http://www.deramores.com/knitting-needles">Needles</a>
-		<span class="block">
-			<span class="col">
-				<span class="heading">Brand</span>
-				<ul>
-					<li><a href="http://www.deramores.com/addi-knitting-needles" title="Addi">Addi</a></li>
-<li><a href="http://www.deramores.com/boye-knitting-needles" title="Boye">Boye</a> <span class="tag">NEW</span> </li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Price</span>
+<ul>
+<li><a href="http://www.deramores.com/knitting-books?price=-5" title="£5.00 or less"><span class="price">£5.00</span> or less</a></li>
+<li><a href="http://www.deramores.com/knitting-books?price=5-10" title="£5.00 - £10.00"><span class="price">£5.00</span> - <span class="price">£10.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-books?price=10-15" title="£10.00 - £15.00"><span class="price">£10.00</span> - <span class="price">£15.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-books?price=15-20" title="£15.00 - £20.00"><span class="price">£15.00</span> - <span class="price">£20.00</span></a></li>
+</ul>
+</span>
+</span>
+</li>
+<li class="extended">
+<a href="http://www.deramores.com/knitting-needles">Needles</a>
+<span class="block">
+<span class="col">
+<span class="heading">Brand</span>
+<ul>
+<li><a href="http://www.deramores.com/addi-knitting-needles" title="Addi">Addi</a></li>
+<li><a href="http://www.deramores.com/boye-knitting-needles" title="Boye">Boye</a></li>
 <li><a href="http://www.deramores.com/brittany-knitting-needles" title="Brittany">Brittany</a></li>
 <li><a href="http://www.deramores.com/clover-crochet-hooks" title="Clover">Clover</a></li>
 <li><a href="http://www.deramores.com/hiyahiya-knitting-needles" title="Hiya Hiya">Hiya Hiya</a></li>
@@ -521,109 +540,95 @@ optionalZipCountries = ["IE"];
 <li><a href="http://www.deramores.com/milward-knitting-needles" title="Milward">Milward</a></li>
 <li><a href="http://www.deramores.com/pony-knitting-needles" title="Pony">Pony</a></li>
 <br>
-<li><a href="http://www.deramores.com/all-knitting-needles" title="View All">View All</a></li>	
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Type</span>
-				<ul>
-					<li><a href="http://www.deramores.com/single-point-knitting-needles" title="Single Point">Single Point</a></li>
+<li><a href="http://www.deramores.com/all-knitting-needles" title="View All"><strong>View All</strong></a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Type</span>
+<ul>
+<li><a href="http://www.deramores.com/single-point-knitting-needles" title="Single Point">Single Point</a></li>
 <li><a href="http://www.deramores.com/double-point-knitting-needles" title="Double Point">Double Point</a></li>
 <li><a href="http://www.deramores.com/circular-knitting-needles" title="Circular">Circular</a></li>
 <li><a href="http://www.deramores.com/interchangeable-knitting-needles" title="Interchangeable">Interchangeable</a></li>
 <li><a href="http://www.deramores.com/crochet-hooks" title="Crochet Hooks">Crochet Hooks</a></li>
 <li><a href="http://www.deramores.com/cable-needles" title="Cable Needles">Cable Needles</a></li>
-<li><a href="http://www.deramores.com/knitting-needle-sets" title="Needle &amp; Hook Sets">Needle &amp; Hook Sets</a></li>	
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Material</span>
-				<ul>
-					<li><a href="http://www.deramores.com/metal-knitting-needles" title="Metal">Metal</a></li>
+<li><a href="http://www.deramores.com/knitting-needle-sets" title="Needle &amp; Hook Sets">Needle &amp; Hook Sets</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Material</span>
+<ul>
+<li><a href="http://www.deramores.com/metal-knitting-needles" title="Metal">Metal</a></li>
 <li><a href="http://www.deramores.com/bamboo-knitting-needles" title="Bamboo">Bamboo</a></li>
 <li><a href="http://www.deramores.com/plastic-knitting-needles" title="Plastic">Plastic</a></li>
-<li><a href="http://www.deramores.com/wooden-knitting-needles" title="Wood">Wood</a></li>	
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Price</span>
-				<ul>
-					<li><a href="http://www.deramores.com/knitting-needles?price=1%2C2" title="£2.00 or less"><span class="price">£2.00</span> or less</a></li>
-<li><a href="http://www.deramores.com/knitting-needles?price=2%2C2" title="£2.00 - £4.00"><span class="price">£2.00</span> - <span class="price">£4.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-needles?price=3%2C2" title="£4.00 - £6.00"><span class="price">£4.00</span> - <span class="price">£6.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-needles?price=4%2C2" title="£6.00 - £8.00"><span class="price">£6.00</span> - <span class="price">£8.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-needles?price=5%2C2" title="£8.00 - £10.00"><span class="price">£8.00</span> - <span class="price">£10.00</span></a></li>
-				</ul>
-			</span>
-		</span>
-	</li>
-	<li class="extended">
-		<a href="http://www.deramores.com/buttons">Buttons</a>
-		<span class="block" style="margin-left: -150px;">
-			<span class="col">
-				<span class="heading">Type</span>
-				<ul>
-					<li><a href="http://www.deramores.com/animal-buttons" title="Animals">Animals</a></li>
-
+<li><a href="http://www.deramores.com/wooden-knitting-needles" title="Wood">Wood</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Price</span>
+<ul>
+<li><a href="http://www.deramores.com/knitting-needles?price=-2" title="£2.00 or less"><span class="price">£2.00</span> or less</a></li>
+<li><a href="http://www.deramores.com/knitting-needles?price=2-4" title="£2.00 - £4.00"><span class="price">£2.00</span> - <span class="price">£4.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-needles?price=4-6" title="£4.00 - £6.00"><span class="price">£4.00</span> - <span class="price">£6.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-needles?price=6-8" title="£6.00 - £8.00"><span class="price">£6.00</span> - <span class="price">£8.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-needles?price=8-10" title="£8.00 - £10.00"><span class="price">£8.00</span> - <span class="price">£10.00</span></a></li>
+</ul>
+</span>
+</span>
+</li>
+<li class="extended">
+<a href="http://www.deramores.com/buttons">Buttons</a>
+<span class="block" style="margin-left: -150px;">
+<span class="col">
+<span class="heading">Type</span>
+<ul>
+<li><a href="http://www.deramores.com/animal-buttons" title="Animals">Animals</a></li>
 <li><a href="http://www.deramores.com/domed-buttons" title="Domed">Domed</a></li>
-
 <li><a href="http://www.deramores.com/fish-eye-buttons" title="Fish-Eye">Fish-Eye</a></li>
-
 <li><a href="http://www.deramores.com/flower-buttons" title="Flowers">Flowers</a></li>
-
 <li><a href="http://www.deramores.com/heart-buttons" title="Hearts">Hearts</a></li>
-
 <li><a href="http://www.deramores.com/novelty-buttons" title="Novelty">Novelty</a></li>
 <li><a href="http://www.deramores.com/oval-buttons" title="Ovals">Ovals</a></li>
-
 <li><a href="http://www.deramores.com/rimmed-buttons" title="Rimmed">Rimmed</a></li>
-
 <li><a href="http://www.deramores.com/round-buttons" title="Round">Round</a></li>
-
 <li><a href="http://www.deramores.com/teddy-bear-buttons" title="Teddy Bears">Teddy Bears</a></li>
-
 <li><a href="http://www.deramores.com/toggles" title="Toggles">Toggles</a></li>
-
 <li><a href="http://www.deramores.com/square-buttons" title="Square">Square</a></li>
-
-
-
-				
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Material</span>
-				<ul>
-					<li><a href="http://www.deramores.com/leather-buttons" title="Leather">Leather</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Material</span>
+<ul>
+<li><a href="http://www.deramores.com/leather-buttons" title="Leather">Leather</a></li>
 <li><a href="http://www.deramores.com/metal-buttons" title="Metal">Metal</a></li>
 <li><a href="http://www.deramores.com/pearl-buttons" title="Pearl">Pearl</a></li>
 <li><a href="http://www.deramores.com/plastic-buttons" title="Plastic">Plastic</a></li>
 <li><a href="http://www.deramores.com/shell-buttons" title="Shell">Shell</a></li>
 <li><a href="http://www.deramores.com/wood-buttons" title="Wood">Wood</a></li>
 <br>
-<li><a href="http://www.deramores.com/all-buttons" title="View All">View All</a></li>				
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Size</span>
-				<ul>
-					<li><a href="http://www.deramores.com/small-buttons" title="Small">Small</a></li>
+<li><a href="http://www.deramores.com/all-buttons" title="View All"><strong>View All</strong></a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Size</span>
+<ul>
+<li><a href="http://www.deramores.com/small-buttons" title="Small">Small</a></li>
 <li><a href="http://www.deramores.com/medium-buttons" title="Medium">Medium</a></li>
-<li><a href="http://www.deramores.com/large-buttons" title="Large">Large</a></li>				
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Price</span>
-				<ul>
-					<li><a href="http://www.deramores.com/buttons?price=2%2C1" title="£2.00 or less"><span class="price">£2.00</span> or less</a></li>
-<li><a href="http://www.deramores.com/buttons?price=3%2C1" title="£2.00 - £3.00"><span class="price">£2.00</span> - <span class="price">£3.00</span></a></li>
-<li><a href="http://www.deramores.com/buttons?price=4%2C1" title="£3.00 - £4.00"><span class="price">£3.00</span> - <span class="price">£4.00</span></a></li>				
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Colour</span>
-				<span class="swatch">
-					<a style="background-color: #000000;" title="Black" href="http://www.deramores.com/black-buttons"></a>
+<li><a href="http://www.deramores.com/large-buttons" title="Large">Large</a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Price</span>
+<ul>
+<li><a href="http://www.deramores.com/buttons?price=-2" title="£2.00 or less"><span class="price">£2.00</span> or less</a></li>
+<li><a href="http://www.deramores.com/buttons?price=2-3" title="£2.00 - £3.00"><span class="price">£2.00</span> - <span class="price">£3.00</span></a></li>
+<li><a href="http://www.deramores.com/buttons?price=3-4" title="£3.00 - £4.00"><span class="price">£3.00</span> - <span class="price">£4.00</span></a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Colour</span>
+<span class="swatch">
+<a style="background-color: #000000;" title="Black" href="http://www.deramores.com/black-buttons"></a>
 <a style="background-color: #7f7f7f;" title="Grey" href="http://www.deramores.com/grey-buttons"></a>
 <a style="background-color: #ffffff;" title="White" href="http://www.deramores.com/white-buttons"></a>
 <a style="background-color: #754c24;" title="Brown" href="http://www.deramores.com/brown-buttons"></a>
@@ -640,332 +645,251 @@ optionalZipCountries = ["IE"];
 <a class="silver" title="Silver" href="http://www.deramores.com/silver-buttons"></a>
 <a class="gold" title="Gold" href="http://www.deramores.com/gold-buttons"></a>
 <a class="clear" title="Clear" href="http://www.deramores.com/clear-buttons"></a>
-				</span>
-			</span>
-		</span>
-	</li>
-	<li class="extended">
-		<a href="http://www.deramores.com/knitting-accessories">Accessories</a>
-		<span class="block">
-			<span class="col">
-				<span class="heading">Type</span>
-				<ul>
-					<li><a href="http://www.deramores.com/knitting-bags" title="Bags">Bags &amp; Storage</a></li>
+</span>
+</span>
+</span>
+</li>
+<li class="extended">
+<a href="http://www.deramores.com/knitting-accessories">Accessories</a>
+<span class="block">
+<span class="col">
+<span class="heading">Type</span>
+<ul>
+<li><a href="http://www.deramores.com/knitting-bags" title="Bags">Bags &amp; Storage</a></li>
+<li><a href="http://www.deramores.com/craft-lamps" title="Craft Lamps">Craft Lamps</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/knitting-essentials" title="Essentials">Essentials</a></li>
 <li><a href="http://www.deramores.com/gifts" title="Gifts">Gifts</a></li>
 <li><a href="http://www.deramores.com/gift-vouchers" title="Gift Vouchers">Gift Vouchers</a></li>
 <li><a href="http://www.deramores.com/knitting-kits" title="Kits">Kits</a></li>
 <li><a href="http://www.deramores.com/knitting-looms" title="Looms">Looms</a></li>
 <li><a href="http://www.deramores.com/loom-bands" title="Loom Bands">Loom Bands</a></li>
+<li><a href="http://www.deramores.com/pom-poms" title="Pom Poms">Pom Poms</a> <span class="tag">NEW</span></li>
 <li><a href="http://www.deramores.com/pom-pom-makers" title="Pom Pom Makers">Pom Pom Makers</a></li>
+<li><a href="http://www.deramores.com/toy-fixings" title="Toy Fixings">Toy Fixings</a></li>
 <li><a href="http://www.deramores.com/knitting-machines" title="Knitting Machines">Knitting Machines</a></li>
 <br>
-<li><a href="http://www.deramores.com/all-knitting-accessories" title="View All">View All</a></li>
-				</ul>
-			</span>
-			<span class="col">
-				<span class="heading">Price</span>
-				<span class="col">
-                                    <ul>
-					<li><a href="http://www.deramores.com/knitting-accessories?price=1%2C10" title="£10.00 or less"><span class="price">£10.00</span> or less</a></li>
-<li><a href="http://www.deramores.com/knitting-accessories?price=2%2C10" title="£10.00 - £20.00"><span class="price">£10.00</span> - <span class="price">£20.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-accessories?price=3%2C10" title="£20.00 - £30.00"><span class="price">£20.00</span> - <span class="price">£30.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-accessories?price=4%2C10" title="£30.00 - £40.00"><span class="price">£30.00</span> - <span class="price">£40.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-accessories?price=5%2C10" title="£40.00 - £50.00"><span class="price">£40.00</span> - <span class="price">£50.00</span></a></li>
-<li><a href="http://www.deramores.com/knitting-accessories?price=2%2C50" title="£50.00 - £100.00"><span class="price">£50.00</span> - <span class="price">£100.00</span></a></li>
-                                     </ul>
-				</span>
-			</span>
-		</span>
-	</li>
-	<li class="extended">
-		<a href="http://www.deramores.com/new-products" style="background: #3c9d96; padding: 6px; margin: 3px;">New</a>
-	</li>
-	<li class="extended">
-		<a href="http://www.deramores.com/summer-steals" style="background: #b0c990; padding: 6px; margin: 3px;">SALE</a>
-	</li>
-</ul>        </div>
-      </div>
-      <div class="col span3 search">
-        <div class="panel none">
-          <form id="search_mini_form" action="http://www.deramores.com/catalogsearch/result/" method="get">
-            <div class="form-search">
-              <label for="search">Search</label>
-              <input id="search" type="text" name="q" value="" class="input-text">
-              <button type="submit">GO</button>
-              <script type="text/javascript">
-              //<![CDATA[
-                var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
-              //]]>
-              </script>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-      </div>
-</div>		<div class="tier content">
-			<div class="container">
-				                <div class="row">
-	<div class="col span12">
-		<div class="panel none">
-			<div class="top">
-				<div class="corner left"></div>
-				<div class="corner right"></div>
-				<div class="center"></div>
-			</div>
-			<div class="middle">
-				<div class="row" style="margin-bottom: 6px;">
-					<h1>Privacy and Security</h1>
+<li><a href="http://www.deramores.com/all-knitting-accessories" title="View All"><strong>View All</strong></a></li>
+</ul>
+</span>
+<span class="col">
+<span class="heading">Price</span>
+<span class="col">
+<ul>
+<li><a href="http://www.deramores.com/knitting-accessories?price=-10" title="£10.00 or less"><span class="price">£10.00</span> or less</a></li>
+<li><a href="http://www.deramores.com/knitting-accessories?price=10-20" title="£10.00 - £20.00"><span class="price">£10.00</span> - <span class="price">£20.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-accessories?price=20-30" title="£20.00 - £30.00"><span class="price">£20.00</span> - <span class="price">£30.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-accessories?price=30-40" title="£30.00 - £40.00"><span class="price">£30.00</span> - <span class="price">£40.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-accessories?price=40-50" title="£40.00 - £50.00"><span class="price">£40.00</span> - <span class="price">£50.00</span></a></li>
+<li><a href="http://www.deramores.com/knitting-accessories?price=50-100" title="£50.00 - £100.00"><span class="price">£50.00</span> - <span class="price">£100.00</span></a></li>
+</ul>
+</span>
+</span>
+</span>
+</li>
+<li class="extended">
+<a href="http://www.deramores.com/new-products" style="background: #3c9d96; padding: 6px; margin: 3px;">New</a>
+</li>
+<li class="extended">
+<a href="http://www.deramores.com/clearance" style="background: #DD1177; padding: 6px; margin: 3px;">Clearance</a>
+</li>
+</strong></strong></ul><strong><strong> </strong></strong></div><strong><strong>
+</strong></strong></div><strong><strong>
+<div class="col span3 search">
+<div class="panel none">
+<form id="search_mini_form" action="http://www.deramores.com/catalogsearch/result/" method="get">
+<div class="form-search">
+<label for="search">Search</label>
+<input id="search" type="text" name="q" value="" class="input-text">
+<button type="submit">GO</button>
+<script type="text/javascript">var searchForm=new Varien.searchForm('search_mini_form','search','Search');</script>
+</div>
+</form>
+</div>
+</div>
+</strong></strong></div><strong><strong>
+</strong></strong></div><strong><strong>
+</strong></strong></div><strong><strong>	<div class="tier content">
+<div class="container">
+<div class="row">
+<div class="col span12">
+<div class="panel none">
+<div class="top">
+<div class="corner left"></div>
+<div class="corner right"></div>
+<div class="center"></div>
+</div>
+<div class="middle">
+<div class="row" style="margin-bottom: 6px;">
+<h1>Privacy and Security</h1>
 <p>We take the security of all your personal information and payment details very seriously.</p>
 <p>All your personal details are transferred to us using 128-bit SSL encryption and can only be accessed by us so that we can process your orders. Your credit or debit card details are not stored at all.</p>
 <p>We promise to protect your privacy. We will only use the information that we collect lawfully and in accordance with the Data Protection Act 1998. We collect information about you so that we can process your order and provide you with the best possible service. At all times you have the opportunity to opt out of future mailings. We do not make unsolicited telephone calls, send post or emails to you. The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting us. If you find any inaccuracies we will delete or correct it promptly.</p>
 <p>Cookies are used on this site to hold information that help to make your shopping experience with us better. The cookies used on this website do not store any personally identifiable information.</p>
-
 </div>
-
-<style type="text/css">
-	ol.legal, ol.legal ol, ol.legal li {
-		color: #404040;
-		margin: 0;
-		padding: 0;
-	}
-	ol.legal {
-    		margin: 6px 6px 0 6px;
-	}
-	ol.legal, ol.legal ol {
-		list-style-type: none;
-		font-weight: normal;
-	}
-	ol.legal > li {
-		counter-increment: root;
-		margin: 6px 0;
-	}
-	ol.legal > li:before {
-		content: counter(root) ". ";
-	}
-	ol.legal > li, ol.legal > li:before {
-		font-weight: bold;
-	}
-	ol.legal > li > ol > li {
-		counter-increment: subsection;
-		margin: 0 0 0 18px;
-	}
-	ol.legal > li > ol > li:before {
-		content: counter(root) "." counter(subsection) " ";
-	}
-	ol.legal > li > ol > li > ol > li {
-		counter-increment: subsubsection;
-		margin: 0 0 0 18px;
-	}
-	ol.legal > li > ol > li > ol > li:before {
-		content: counter(root) "." counter(subsection) "." counter(subsubsection) " ";
-	}
-</style>
-
 <h3>Privacy Policy</h3>
 <p>Last updated: 6 June 2012</p>
 <p>Deramores Retail Limited (Registered number 7142719), whose registered office is at Ideal Home House, Newark Road, Peterborough, Cambridgeshire, PE1 5WG, knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions ("Website Terms").</p>
 <p>By accepting our Website Terms or by visiting www.deramores.com ("the Website") you are accepting and consenting to the practices described in this Privacy Policy.</p>
 <p>	The Website is brought to you by Deramores Retail Limited. Deramores Retail Limited believes it is important to protect your Personal Data (as defined in the Data Protection Act 1998) and we are committed to giving you a personalised service that meets your needs in a way that also protects your privacy. This policy explains how we may collect Personal Data about you. It also explains some of the security measures we take to protect your Personal Data, and tells you certain things we will do and not do. You should read this policy in conjunction with the Website Terms.</p>
 <p>	When we first obtain Personal Data from you, or when you take a new service or product from us, we will give you the opportunity to tell us if you do or do not want to receive information from us about other services or products (as applicable). You can normally do this by ticking a box on an application form or contract. You may change your mind at any time by emailing us at the address below.</p>
-
 <ol class="legal">
-	<li>Collecting Information
-	<ol>
-		<li>We may collect Personal Data about you from a number of sources, including the following:
-		<ol>
-			<li>From you when you agree to take a service or product from us, in which case this may include your contact details, date of birth, how you will pay for the product or service and your bank details. </li>
-			<li>From you when you contact us with an enquiry or in response to a communication from us, in which case, this may tell us something about how you use our services. </li>
-			<li>From documents that are available to the public, such as the electoral register.</li>
-		</ol>
-		</li>
-	</ol>
-	</li>
-	<li>Using Your Personal Information
-	<ol>
-		<li>Personal Data about our customers is an important part of our business and we shall only use your Personal Data for the following purposes and shall not keep such Personal Data longer than is necessary to fulfil these purposes:
-		<ol>
-			<li>To help us to identify you when you contact us.</li>
-			<li>To help us to identify accounts, services and/or products which you could have from us or selected partners from time to time. We may do this by automatic means using a scoring system, which uses the Personal Data you have provided and/or any information we hold about you and Personal Data from third party agencies (including credit reference agencies).</li>
-			<li>To help us to administer and to contact you about improved administration of any accounts, services and products we have provided before, do provide now or will or may provide in the future.</li>
-			<li>To allow us to carry out marketing analysis and customer profiling (including with transactional information), conduct research, including creating statistical and testing information.</li>
-			<li>To help to prevent and detect fraud or loss. </li>
-			<li>To allow us to contact you in any way (including mail, email, telephone, text or multimedia messages) about products and services offered by us and selected partners unless you have previously asked us not to do so.</li>
-			<li>We may monitor and record communications with you (including phone conversations and emails) for quality assurance and compliance.</li>
-			<li>We may check your details with fraud prevention agencies. If you provide false or inaccurate information and we suspect fraud, we will record this. </li>
-		</ol>
-		</li>
-		<li>We will not disclose your Personal Data to any third party except in accordance with this Privacy Policy.</li>
-		<li>We may allow other people and organisations to use Personal Data we hold about you in the following circumstances:
-		<ol>
-			<li>If we, or substantially all of our assets, are acquired or are in the process of being acquired by a third party, in which case Personal Data held by us, about our customers, will be one of the transferred assets.</li>
-			<li>If we have been legitimately asked to provide information for legal or regulatory purposes or as part of legal proceedings or prospective legal proceedings.</li>
-			<li>We employ companies and individuals to perform functions on our behalf and we may disclose your Personal Data to these parties for the purposes set out in clause 2.1 or, for example, for fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links) and providing customer service. Those parties are bound by strict contractual provisions with us and only have access to Personal Data needed to perform their functions, and may not use it for other purposes. Further, they must process the Personal Data in accordance with this Privacy Policy and as permitted by the Data Protection Act 1998. From time to time, these other people and organisations to whom we may pass your Personal Data may be outside the European Economic Area. We will take all steps reasonably necessary to ensure that your Personal Data is treated securely and in accordance with this Privacy Policy and the Data Protection Act 1998. </li>
-		</ol>
-		</li>
-		<li>Where you give us Personal Data on behalf of someone else, you confirm that you have provided them with the information set out in this Privacy Policy and that they have not objected to such use of their Personal Data.</li>
-		<li>In connection with any transaction which we enter into with you:
-		<ol>
-			<li>We, and other companies in our group, may carry out credit and fraud prevention checks with one or more licensed credit reference and fraud prevention agencies. We and they may keep a record of the search. Information held about you by these agencies may be linked to records relating to other people living at the same address with whom you are financially linked. These records will also be taken into account in credit and fraud prevention checks. Information from your application and payment details of your account will be recorded with one or more of these agencies and may be shared with other organisations to help make credit and insurance decisions about you and members of your household with whom you are financially linked and for debt collection and fraud prevention. This includes those who have moved house and who have missed payments.</li>
-			<li>If you provide false or inaccurate information to us and we suspect fraud, we will record this and may share it with other people and organisations. We, and other credit and insurance organisations, may also use technology to detect and prevent fraud.</li>
-			<li>If you need details of those credit agencies and fraud prevention agencies from which we obtain and with which we record information about you, please write to our Data Protection Manager at Deramores Retail Limited, Units 5-9 Tomas Seth Business Park Argent Road Queenborough Kent ME11 5TS.</li>
-		</ol>
-		</li>
-	</ol>
-	</li>
-	<li>Protecting Information
-	<ol>
-		<li>We have strict security measures to protect Personal Data.
-		</li><li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. </li>
-		<li>We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. </li>
-		<li>We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. </li>
-		<li>It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. </li>
-	</ol>
-	</li>
-	<li>The Internet
-	<ol>
-		<li>If you communicate with us using the Internet, we may occasionally email you about our services and products. When you first give us Personal Data through the Website, we will normally give you the opportunity to say whether you would prefer us not to contact you by email. You can also always send us an email (at the address set out below) at any time if you change your mind.</li>
-		<li>Please remember that communications over the Internet, such as emails and webmails (messages sent through a website), are not secure unless they have been encrypted. Your communications may go through a number of countries before they are delivered - this is the nature of the Internet. We cannot accept responsibility for any unauthorised access or loss of Personal Data that is beyond our control.</li>
-		<li>We may use 'cookies' to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function of the sites. A cookie is a piece of information that is stored on your computer's hard drive through your browser, to recognise your browser and which records how you have used a website. This means that when you go back to that website, it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies. </li>
-		<li>If you do not want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.</li>
-	</ol>
-	</li>
-	<li>Turning Off Cookies in Different Browsers
-	<ol>
-		<li>The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the website of its manufacturer.</li>
-	</ol>
-	</li>
-	<li>Links
-	<ol>
-		<li>The Website may include third-party advertising and links to other websites. We do not provide any personally identifiable customer Personal Data to these advertisers or third-party websites.</li>
-		<li>These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on the Website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.</li>
-		<li>We exclude all liability for loss that you may incur when using these third party websites. </li>
-	</ol>
-	</li>
-	<li>Further Information
-	<ol>
-		<li>If you would like any more information or you have any comments about our Privacy Policy, please either write to us at Data Protection Manager, Deramores Retail Limited, Units 5-9 Tomas Seth Business Park Argent Road Queenborough Kent ME11 5TS, or email us at customer.service@deramores.com. </li>
-		<li>We may amend this Privacy Policy from time to time without notice to you, in which case, we will publish the amended version on the Website. You confirm that we shall not be liable to you or any third party for any change to this Privacy Policy from time to time. It is your responsibility to check regularly to determine whether this Privacy Policy has changed. </li>
-		<li>You can ask us for a copy of this Privacy Policy and of any amended Privacy Policy by writing to the above address or by emailing us at customer.service@deramores.com. This Privacy Policy applies to Personal Data we hold about individuals. It does not apply to information we hold about companies and other organisations. </li>
-		<li>If you would like access to the Personal Data that we hold about you, you can do this by emailing us at customer.service@deramores.com or writing to us at the address noted above. There may be a nominal charge of £10 to cover administrative costs.
-		</li><li>We aim to keep the Personal Data we hold about you accurate and up to date. If you tell us that we are holding any inaccurate Personal Data about you, we will delete it or correct it promptly. Please email us at customer.service@deramores.com or write to us at the address above to update your Personal Data. </li>
-	</ol>
-	</li>
+<li>Collecting Information
+<ol>
+<li>We may collect Personal Data about you from a number of sources, including the following:
+<ol>
+<li>From you when you agree to take a service or product from us, in which case this may include your contact details, date of birth, how you will pay for the product or service and your bank details. </li>
+<li>From you when you contact us with an enquiry or in response to a communication from us, in which case, this may tell us something about how you use our services. </li>
+<li>From documents that are available to the public, such as the electoral register.</li>
 </ol>
+</li>
+</ol>
+</li>
+<li>Using Your Personal Information
+<ol>
+<li>Personal Data about our customers is an important part of our business and we shall only use your Personal Data for the following purposes and shall not keep such Personal Data longer than is necessary to fulfil these purposes:
+<ol>
+<li>To help us to identify you when you contact us.</li>
+<li>To help us to identify accounts, services and/or products which you could have from us or selected partners from time to time. We may do this by automatic means using a scoring system, which uses the Personal Data you have provided and/or any information we hold about you and Personal Data from third party agencies (including credit reference agencies).</li>
+<li>To help us to administer and to contact you about improved administration of any accounts, services and products we have provided before, do provide now or will or may provide in the future.</li>
+<li>To allow us to carry out marketing analysis and customer profiling (including with transactional information), conduct research, including creating statistical and testing information.</li>
+<li>To help to prevent and detect fraud or loss. </li>
+<li>To allow us to contact you in any way (including mail, email, telephone, text or multimedia messages) about products and services offered by us and selected partners unless you have previously asked us not to do so.</li>
+<li>We may monitor and record communications with you (including phone conversations and emails) for quality assurance and compliance.</li>
+<li>We may check your details with fraud prevention agencies. If you provide false or inaccurate information and we suspect fraud, we will record this. </li>
+</ol>
+</li>
+<li>We will not disclose your Personal Data to any third party except in accordance with this Privacy Policy.</li>
+<li>We may allow other people and organisations to use Personal Data we hold about you in the following circumstances:
+<ol>
+<li>If we, or substantially all of our assets, are acquired or are in the process of being acquired by a third party, in which case Personal Data held by us, about our customers, will be one of the transferred assets.</li>
+<li>If we have been legitimately asked to provide information for legal or regulatory purposes or as part of legal proceedings or prospective legal proceedings.</li>
+<li>We employ companies and individuals to perform functions on our behalf and we may disclose your Personal Data to these parties for the purposes set out in clause 2.1 or, for example, for fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links) and providing customer service. Those parties are bound by strict contractual provisions with us and only have access to Personal Data needed to perform their functions, and may not use it for other purposes. Further, they must process the Personal Data in accordance with this Privacy Policy and as permitted by the Data Protection Act 1998. From time to time, these other people and organisations to whom we may pass your Personal Data may be outside the European Economic Area. We will take all steps reasonably necessary to ensure that your Personal Data is treated securely and in accordance with this Privacy Policy and the Data Protection Act 1998. </li>
+</ol>
+</li>
+<li>Where you give us Personal Data on behalf of someone else, you confirm that you have provided them with the information set out in this Privacy Policy and that they have not objected to such use of their Personal Data.</li>
+<li>In connection with any transaction which we enter into with you:
+<ol>
+<li>We, and other companies in our group, may carry out credit and fraud prevention checks with one or more licensed credit reference and fraud prevention agencies. We and they may keep a record of the search. Information held about you by these agencies may be linked to records relating to other people living at the same address with whom you are financially linked. These records will also be taken into account in credit and fraud prevention checks. Information from your application and payment details of your account will be recorded with one or more of these agencies and may be shared with other organisations to help make credit and insurance decisions about you and members of your household with whom you are financially linked and for debt collection and fraud prevention. This includes those who have moved house and who have missed payments.</li>
+<li>If you provide false or inaccurate information to us and we suspect fraud, we will record this and may share it with other people and organisations. We, and other credit and insurance organisations, may also use technology to detect and prevent fraud.</li>
+<li>If you need details of those credit agencies and fraud prevention agencies from which we obtain and with which we record information about you, please write to our Data Protection Manager at Deramores Retail Limited, Units 5-9 Tomas Seth Business Park Argent Road Queenborough Kent ME11 5TS.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Protecting Information
+<ol>
+<li>We have strict security measures to protect Personal Data.
+</li><li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. </li>
+<li>We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. </li>
+<li>We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. </li>
+<li>It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. </li>
+</ol>
+</li>
+<li>The Internet
+<ol>
+<li>If you communicate with us using the Internet, we may occasionally email you about our services and products. When you first give us Personal Data through the Website, we will normally give you the opportunity to say whether you would prefer us not to contact you by email. You can also always send us an email (at the address set out below) at any time if you change your mind.</li>
+<li>Please remember that communications over the Internet, such as emails and webmails (messages sent through a website), are not secure unless they have been encrypted. Your communications may go through a number of countries before they are delivered - this is the nature of the Internet. We cannot accept responsibility for any unauthorised access or loss of Personal Data that is beyond our control.</li>
+<li>We may use 'cookies' to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function of the sites. A cookie is a piece of information that is stored on your computer's hard drive through your browser, to recognise your browser and which records how you have used a website. This means that when you go back to that website, it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies. </li>
+<li>If you do not want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.</li>
+</ol>
+</li>
+<li>Turning Off Cookies in Different Browsers
+<ol>
+<li>The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the website of its manufacturer.</li>
+</ol>
+</li>
+<li>Links
+<ol>
+<li>The Website may include third-party advertising and links to other websites. We do not provide any personally identifiable customer Personal Data to these advertisers or third-party websites.</li>
+<li>These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on the Website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.</li>
+<li>We exclude all liability for loss that you may incur when using these third party websites. </li>
+</ol>
+</li>
+<li>Further Information
+<ol>
+<li>If you would like any more information or you have any comments about our Privacy Policy, please either write to us at Data Protection Manager, Deramores Retail Limited, Units 5-9 Tomas Seth Business Park Argent Road Queenborough Kent ME11 5TS, or email us at customer.service@deramores.com. </li>
+<li>We may amend this Privacy Policy from time to time without notice to you, in which case, we will publish the amended version on the Website. You confirm that we shall not be liable to you or any third party for any change to this Privacy Policy from time to time. It is your responsibility to check regularly to determine whether this Privacy Policy has changed. </li>
+<li>You can ask us for a copy of this Privacy Policy and of any amended Privacy Policy by writing to the above address or by emailing us at customer.service@deramores.com. This Privacy Policy applies to Personal Data we hold about individuals. It does not apply to information we hold about companies and other organisations. </li>
+<li>If you would like access to the Personal Data that we hold about you, you can do this by emailing us at customer.service@deramores.com or writing to us at the address noted above. There may be a nominal charge of £10 to cover administrative costs.
+</li><li>We aim to keep the Personal Data we hold about you accurate and up to date. If you tell us that we are holding any inaccurate Personal Data about you, we will delete it or correct it promptly. Please email us at customer.service@deramores.com or write to us at the address above to update your Personal Data. </li>
+</ol>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="bottom"></div>
+</div>
+</div>
+</div>	
 
-					</div>
-				</div>
-			</div>
-			<div class="bottom"></div>
-		</div>
-	</div>
-</div>			
-        
-		<div class="tier footer">
-			<div class="container">
-				<div class="row foot">
-	<div class="col span6">
-		<div class="row">
-			<div class="col span6 locales">
-				<img src="http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/logo_footer.gif">
-				<div class="clear"></div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col span6">
-				<div class="links">
-					<ul>
-						<li><a href="http://www.deramores.com/contacts">Contact Us</a></li>
-
-<li><a href="http://www.deramores.com/delivery-information">Delivery Information</a></li>
-
-<li><a href="http://www.deramores.com/terms">Terms and Conditions</a></li>
-
-<li><a href="http://www.deramores.com/faqs">FAQs</a></li>
-
-<li><a href="http://www.deramores.com/about">About Us</a></li>
-
-<li><a href="http://www.deramores.com/blog">Blog</a></li>
-
-<li><a href="http://www.deramores.com/privacy-and-security">Privacy and Security</a></li>
-
-<li><a href="http://www.deramores.com/catalog/seo_sitemap/category">Sitemap</a></li>
-					</ul>
-					<div class="clear"></div>
-				</div>
-				<div class="legal">
-					<p><small>© Deramores Retail Limited. Units 5-9 Tomas Seth Business Park, Argent Road, Queenborough, Kent, ME11 5TS. Registered in England and Wales No. 7142719. Registered Office:  Ideal Home House, Newark Road, Peterborough, Cambridgeshire, PE1 5WG</small></p>
-				</div>
-				<div class="payment">
-					<ul>
-						<li class="mastercard"><span>Mastercard</span></li>
-						<li class="maestro"><span>Maestro</span></li>
-						<li class="visa"><span>Visa</span></li>
-						<li class="visa-electron"><span>Visa Electron</span></li>
-						<li class="amex"><span>American Express</span></li>
-						<li class="paypal"><span>PayPal</span></li>
-					</ul>
-					<div class="clear"></div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="col span6">
-		<div class="row">
-			<div class="col span6 newsletter">
-				<div class="panel line rounded" style="background-image:url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/newsletter.gif)">
-					<div class="top">
-						<div class="corner left"></div>
-						<div class="corner right"></div>
-						<div class="center"></div>
-					</div>
-					<div class="middle">
-						<form action="https://secure.deramores.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-	<h3>Newsletter: Don't Miss a Single Offer!</h3>
-	<p><label for="newsletter">Sign up to our newsletter &amp; we'll send you a <strong>15% discount coupon</strong>!</label></p>
-	<input type="text" name="email" id="newsletter" class="required-entry validate-email" style="width: 170px;"><button type="submit" class="button green rarr" onclick="_gaq.push(['_trackEvent', 'Newsletter', 'Sign Up', 'Newsletter Footer Sign-Up']);"><span><span>Sign Up</span></span></button>
-	<div class="clear"></div>
-</form>
-<script type="text/javascript">
-//<![CDATA[
-    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-    new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'Enter your email address');
-//]]>
-</script>
-					</div>
-					<div class="bottom"></div>
-				</div>
-			</div>
-		</div>
-	</div>
+<div class="tier footer">
+<div class="container">
+<div class="row foot">
+<div class="col span6">
+<div class="row">
+<div class="col span6 locales">
+<img src="http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/logo_footer.gif.pagespeed.ce.CuYpIiwzqG.gif">
+<div class="clear"></div>
+</div>
 </div>
 <div class="row">
-  <div class="col span12" style="background: url(http://cdn.deramores.com/skin/frontend/deramores/deramores_gb/images/slogan.png) top center no-repeat; height: 46px;"></div>
+<div class="col span6">
+<div class="links">
+<ul>
+<li><a href="http://www.deramores.com/contacts">Contact Us</a></li>
+<li><a href="http://www.deramores.com/delivery-information">Delivery Information</a></li>
+<li><a href="http://www.deramores.com/terms">Terms and Conditions</a></li>
+<li><a href="http://www.deramores.com/faqs">FAQs</a></li>
+<li><a href="http://www.deramores.com/about">About Us</a></li>
+<li><a href="http://blog.deramores.com">Blog</a></li>
+<li><a href="http://www.deramores.com/privacy-and-security">Privacy and Security</a></li>
+<li><a href="http://www.deramores.com/catalog/seo_sitemap/category">Sitemap</a></li>
+</ul>
+<div class="clear"></div>
 </div>
-<script src="https://www.dwin1.com/5626.js" type="text/javascript" defer="defer"></script>				<script type="text/javascript">
-    Cufon.replace('.cufon',{fontFamily: 'AvantGarde LT Book', fontWeight:'bold'} );
-    Cufon.replace('.cufonl',{fontFamily: 'AvantGarde LT Book'} );
-    Cufon.now();
-</script>
-<script type="text/javascript">
-    adroll_adv_id = "H5XU3NGDWBGQPLN6635ZTS";
-    adroll_pix_id = "TUYXQMT4CNHHVAUPWNKW6M";
-    (function () {
-    var oldonload = window.onload;
-    window.onload = function(){
-       __adroll_loaded=true;
-       var scr = document.createElement("script");
-       var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-       scr.setAttribute('async', 'true');
-       scr.type = "text/javascript";
-       scr.src = host + "/j/roundtrip.js";
-       ((document.getElementsByTagName('head') || [null])[0] ||
-        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-       if(oldonload){oldonload()}};
-    }());
-</script>
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"> {lang: 'en-GB'} </script>			</div>
-		</div>
-			<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"f4645f13e5","applicationID":"2543525","transactionName":"NFUGYkdUXkpZUBBQDg0fJVVBXF9XF1AJSk4TUQNTGkNZXE8=","queueTime":0,"applicationTime":205,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<div class="legal">
+<p><small>© Deramores Retail Limited. Units 5-9 Tomas Seth Business Park, Argent Road, Queenborough, Kent, ME11 5TS. Registered in England and Wales No. 7142719. Registered Office: Ideal Home House, Newark Road, Peterborough, Cambridgeshire, PE1 5WG</small></p>
+</div>
+<div class="payment">
+<ul>
+<li class="mastercard"><span>Mastercard</span></li>
+<li class="visa"><span>Visa</span></li>
+<li class="amex"><span>American Express</span></li>
+<li class="paypal"><span>PayPal</span></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col span6">
+<div class="row">
+<div class="col span6 newsletter">
+<div class="panel line rounded" style="background-image:url(http://www.deramores.com/skin/frontend/enterprise/deramores_gb/images/xnewsletter.gif.pagespeed.ic.l6uwkOuaaZ.png)">
+<div class="top">
+<div class="corner left"></div>
+<div class="corner right"></div>
+<div class="center"></div>
+</div>
+<div class="middle">
+<form action="https://secure.deramores.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+<h3>Newsletter: Don't Miss a Single Offer!</h3>
+<p><label for="newsletter">Sign up to our newsletter &amp; we'll send you a <strong>15% discount coupon</strong>!</label></p>
+<input type="text" name="email" id="newsletter" class="required-entry validate-email" style="width: 170px;"><button type="submit" class="button green rarr" onclick="_gaq.push(['_trackEvent', 'Newsletter', 'Sign Up', 'Newsletter Footer Sign-Up']);"><span><span>Sign Up</span></span></button>
+<div class="clear"></div>
+</form>
+<script type="text/javascript">var newsletterSubscriberFormDetail=new VarienForm('newsletter-validate-detail');new Varien.searchForm('newsletter-validate-detail','newsletter','Enter your email address');</script>
+</div>
+<div class="bottom"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://www.dwin1.com/5626.js" type="text/javascript" defer="defer"></script>	<script type="text/javascript">Cufon.replace('.cufon');Cufon.now();</script>
+<script type="text/javascript">adroll_adv_id="H5XU3NGDWBGQPLN6635ZTS";adroll_pix_id="TUYXQMT4CNHHVAUPWNKW6M";(function(){var oldonload=window.onload;window.onload=function(){__adroll_loaded=true;var scr=document.createElement("script");var host=(("https:"==document.location.protocol)?"https://s.adroll.com":"http://a.adroll.com");scr.setAttribute('async','true');scr.type="text/javascript";scr.src=host+"/j/roundtrip.js";((document.getElementsByTagName('head')||[null])[0]||document.getElementsByTagName('script')[0].parentNode).appendChild(scr);if(oldonload){oldonload()}};}());</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"> {lang: 'en-GB'} </script>	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"f4645f13e5","applicationID":"2543525","transactionName":"NFUGYkdUXkpZUBBQDg0fJVVBXF9XF1AJSk4TUQNTGkNZXE8=","queueTime":0,"applicationTime":1092,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+</strong></strong><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
