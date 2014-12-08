@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benswann.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630210530id_/http%3A//benswann.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benswann.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208121830id_/http%3A//benswann.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ben Swann Truth In Media
 
