@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601231814id_/http%3A//www.sunherald.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208120439id_/http%3A//www.sunherald.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # The Sun Herald Gulfport, MS
 
