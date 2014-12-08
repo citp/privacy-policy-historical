@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081425id_/http%3A//www.lung.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208190732id_/http%3A//www.lung.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Lung Association
 
@@ -23,6 +23,8 @@ Questions regarding this statement should be directed to American Lung Associati
 Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. In the event that an online form has fees and/or donations associated, we may request credit card information for the purpose of processing the transaction. We do not request or store sensitive information from our visitors, such social security numbers.
 
 We do not share the information we acquire from visitors or donors on our website with unaffiliated third parties. We may share some information with our agents for marketing purposes, and may also use such information to contact people for communications and marketing purposes.
+
+The American Lung Association rents and/or exchanges the postal addresses of its donor list with other qualified organizations. The ALA respects the privacy of its financial supporters and, as such, would be pleased to exclude you from its list rental and exchange program. Please inform us if this is your desire at [lung.org/consumerchoice](http://www.lung.org/consumerchoice).
 
 **Internet Protocol Address:**  
 We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track user's movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
