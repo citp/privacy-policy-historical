@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihire.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330192812id_/http%3A//www.ihire.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihire.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208145047id_/http%3A//www.ihire.com/privacypolicy) for the most accurate reproduction.*
 
 # iHire Privacy Policy
 
