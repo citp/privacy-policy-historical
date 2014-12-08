@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govome.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424094343id_/http%3A//www.govome.com/static/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govome.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208170257id_/http%3A//www.govome.com/static/privacy_policy.htm) for the most accurate reproduction.*
 
 # Govome
 
