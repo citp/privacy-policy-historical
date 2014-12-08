@@ -1,0 +1,1247 @@
+<!--The following is the downloaded HTML source of the billhicksco.com privacy policy that was archived on 2014-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208035942id_/http%3A//www.billhicksco.com/storefrontCommerce/redirect.do%3Fpage%3Dzprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- javascriptLibraries.jsp -->
+
+
+
+
+
+<script type="text/javascript" src="/storefrontCommerce/js/N643546272/bundles/lib.js"></script>
+ 
+<script type="text/javascript" src="/storefrontCommerce/js/N14606225/js/functions.js"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/storefrontCommerce/theme/1668246824/bundles/SFCommerce.css">
+
+
+<!-- Encode url for Punchout -->
+<script type="text/javascript">
+
+	var showAllCategories = "[Show all Categories]";
+	var hide = "[Hide]";
+	var showAllAttributes = "[Show all Attributes]";
+
+	function updateUOMViewServlet(formSelectElement, tab, layout_type, displayCurrency) 
+	{
+		var context = getContext(document.location.pathname);	
+		if(tab == null || tab == ''){
+			var itemId = formSelectElement.name.substring(3);
+			var itemUom = formSelectElement.options[formSelectElement.selectedIndex].value;
+			var itemNum = jQuery(formSelectElement).closest("tr").children("td[name^='itm_numlink']").children().text();
+			var itemQty = jQuery(formSelectElement).closest("tr").children("td[name^='qty_input']").children("input[name^='qty']").val();
+			var itemWhs = jQuery(formSelectElement).closest("tr").children("td[name^='qty_input']").children("input[name^='WHS']").val();
+			var itemSeq = jQuery(formSelectElement).closest("tr").children("td[name^='qty_input']").children("input[name^='ITEMSEQ']").val();
+			
+			if (typeof itemQty == undefined || itemQty == null || itemQty == "") {
+				itemQty = 1;
+			}
+			
+			var url = "updateUomViewServlet.do" + "?item_id=" + itemId + "&item_uom=" + itemUom + "&item_num=" + itemNum + "&qty=" + itemQty + "&pl_type=" + layout_type + "&itemSeq=" + itemSeq + "&displayCurrency=" + displayCurrency;
+			var waitingImagePath = "/storefrontCommerce/images/infor_ajax-loader_16x16.gif";
+			jQuery("td[name='calc_avail"+itemId+"']").text("");
+			jQuery("td[name='calc_avail"+itemId+"']").append("<img src=\""+waitingImagePath+"\" />");
+			
+			jQuery("td[name='calc_price"+itemId+"']").text("");
+			jQuery("td[name='calc_price"+itemId+"']").append("<img src=\""+waitingImagePath+"\" />");
+			
+			jQuery("td[name='ExtendedPrice"+itemId+"']").text("");
+			jQuery("td[name='ExtendedPrice"+itemId+"']").append("<img src=\""+waitingImagePath+"\" />");
+			
+			jQuery("td[name='order_uom"+itemId+"']").text("");
+			
+			var timeStamp = new Date();
+			var form = timeStamp.getMinutes() + "-" + timeStamp.getSeconds();
+			jQuery.getJSON(url, form, function(jsonData) {
+				jQuery("td[name='calc_avail"+itemId+"']").remove("img");
+				jQuery("td[name='calc_avail"+itemId+"']").text(jsonData.calcQuantityAvailable);
+				jQuery("td[name='calc_price"+itemId+"']").remove("img");
+				jQuery("td[name='calc_price"+itemId+"']").text(jsonData.calcPrice);
+				jQuery("td[name='ExtendedPrice"+itemId+"']").remove("img");
+				jQuery("td[name='ExtendedPrice"+itemId+"']").text(jsonData.extendedPrice);
+				jQuery("td[name='order_uom"+itemId+"']").text(jsonData.orderUOM);
+	
+				jQuery("td[name='qty_input"+itemId+"'] input[name^='qty']").attr("name","qty"+itemId+"_"+jsonData.orderUOM+itemWhs);
+				jQuery("td[name='qty_input"+itemId+"'] input[name^='itemNumber']").attr("name","itemNumber"+itemId+"_"+jsonData.orderUOM+itemWhs);
+				jQuery("td[name='qty_input"+itemId+"'] input[name^='UOM']").attr("name","UOM"+itemId+"_"+jsonData.orderUOM+itemWhs);
+				jQuery("td[name='qty_input"+itemId+"'] input[name^='UOM']").val(jsonData.orderUOM);
+				jQuery("td[name='qty_input"+itemId+"'] input[name^='WHS']").attr("name","WHS"+itemId+"_"+jsonData.orderUOM+itemWhs);
+				jQuery("td[name='qty_input"+itemId+"'] input[name^='ITEMSEQ']").attr("name","ITEMSEQ"+itemId+"_"+jsonData.orderUOM+itemWhs);
+			});
+		}
+		else {
+			// Here Itemid parsing is done since the formSelectElement
+			// value is like "uom55PROMO" or "uom124COM" or "uom14ALT" etc on the item detail tabs page
+			// We need to parse and obtain the itemId from that to refresh the price/qty 
+			// values for the selected UOM.
+			var itemId = formSelectElement.name.substring(3);
+			var regex = new RegExp("[0-9]*");
+			var itemId = regex.exec(itemId)[0];
+			// End of itemId parse logic
+			var itemUom = formSelectElement.options[formSelectElement.selectedIndex].value;
+			var itemNum = jQuery(formSelectElement).closest("tr").children("td[name^='itm_numlink']").children().text();
+			var itemQty = jQuery(formSelectElement).closest("tr").children("td[name^='qty_input']").children("input[name^='qty']").val();
+			var itemWhs = jQuery(formSelectElement).closest("tr").children("td[name^='qty_input']").children("input[name^='WHS']").val();
+			var itemSeq = jQuery(formSelectElement).closest("tr").children("td[name^='qty_input']").children("input[name^='ITEMSEQ']").val();
+			
+			if (typeof itemQty == undefined || itemQty == null || itemQty == "") {
+				itemQty = 1;
+			}
+			
+			var url = "updateUomViewServlet.do" + "?item_id=" + itemId + "&item_uom=" + itemUom + "&item_num=" + itemNum + "&qty=" + itemQty + "&pl_type=" + layout_type + "&itemSeq=" + itemSeq + "&displayCurrency=" + displayCurrency;
+			
+			if (tab !== undefined && tab !== null && tab.length > 0) {
+				url += "&tab=" + tab;
+			} else {
+				tab = "";
+			}
+			
+			var waitingImagePath = "/storefrontCommerce/images/infor_ajax-loader_16x16.gif";
+
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='calc_avail"+itemId+"']").text("");
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='calc_avail"+itemId+"']").append("<img src=\""+waitingImagePath+"\" />");
+			
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='calc_price"+itemId+"']").text("");
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='calc_price"+itemId+"']").append("<img src=\""+waitingImagePath+"\" />");
+			
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='ExtendedPrice"+itemId+"']").text("");
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='ExtendedPrice"+itemId+"']").append("<img src=\""+waitingImagePath+"\" />");
+			
+			jQuery("input[name='"+tab+"']").closest("table").filter("td[name='order_uom"+itemId+"']").text("");
+			
+			jQuery.getJSON(url, function(jsonData) {
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='calc_avail"+itemId+"']").remove("img");
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='calc_avail"+itemId+"']").text(jsonData.calcQuantityAvailable);
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='calc_price"+itemId+"']").remove("img");
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='calc_price"+itemId+"']").text(jsonData.calcPrice);
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='ExtendedPrice"+itemId+"']").remove("img");
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='ExtendedPrice"+itemId+"']").text(jsonData.extendedPrice);
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='order_uom"+itemId+"']").text(jsonData.orderUOM);
+	
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='qty_input"+itemId+"'] input[name^='qty']").attr("name","qty"+itemId+"_"+jsonData.orderUOM+itemWhs+tab);
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='qty_input"+itemId+"'] input[name^='itemNumber']").attr("name","itemNumber"+itemId+"_"+jsonData.orderUOM+itemWhs+tab);
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='qty_input"+itemId+"'] input[name^='UOM']").attr("name","UOM"+itemId+"_"+jsonData.orderUOM+itemWhs+tab);
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='qty_input"+itemId+"'] input[name^='UOM']").val(jsonData.orderUOM);
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='qty_input"+itemId+"'] input[name^='WHS']").attr("name","WHS"+itemId+"_"+jsonData.orderUOM+itemWhs+tab);
+			jQuery("input[name='"+tab+"']").closest("table").find("td[name='qty_input"+itemId+"'] input[name^='ITEMSEQ']").attr("name","ITEMSEQ"+itemId+"_"+jsonData.orderUOM+itemWhs+tab);
+			});
+		}
+	}
+	
+	
+	function ajaxCartAddItem(itemQtyelementName, qty, itm_id, itm_uom, itm_whsid, loggedin){
+		displayProcessingMessage();
+		url = "cartAddItem.do" + "?order_qty="+qty+"&itm_id="+itm_id+"&order_uom="+itm_uom+"&whs_id="+itm_whsid;
+	  	$.ajax({
+	  		cache: false,
+			url : url,
+			async : true,
+			dataType: 'json',
+			type : 'GET',
+			success: function(r) {
+				    $('#cartAddItemErrorMessage').html(r.cartAddItemErrorMessage);
+				    $('#cartAddItemInfoMessage').html(r.cartAddItemInfoMessage);
+				    $('#htmlErrorMessage').html("");
+				    $('#htmlInfoMessage').html("");
+				    $(itemQtyelementName).val("");
+				    hideProcessingMessage();
+				    $('#numberOfCartItems').html("");
+					$('#numberOfCartItemsDisplayText').html("<img src='images/infor_ajax-loader_24x24.gif' alt='#' />");
+					$('#cartMoneyTotal').html("");
+				    refreshCartTotals(loggedin);
+				},
+			   error: function(data, status, error){
+				   // If any error send the user to home screen
+		         document.location.href='home.do';
+		      }
+			});
+	}
+	
+
+	
+	function refreshCartTotals(loggedin){
+		var timeStamp = new Date();
+		var urlToSend = "ajaxCartTotal.do";
+		var form = timeStamp.getMinutes() + "-" + timeStamp.getSeconds();
+		$.getJSON(urlToSend, form, function(data) {	   	
+   		// Update the item count and the price
+			$('#numberOfCartItems').html(data.itemsInCart);
+			$('#numberOfCartItemsDisplayText').html("Item(s)&nbsp;");
+			$('#cartMoneyTotal').html(data.valueOfCart);
+			if (null == null) {
+				// if there are items in the cart then checkout should be clickable, unclickable otherwise-->
+				if (data.itemsInCart > 0) {
+					if (loggedin == false || loggedin == 'false') {
+						$('#displayCheckout').html(" <a id=\"chkout\" href='#' onclick=\"displayProcessingMessage();checkout('login.do?nextForward=checkout.do')\">Checkout</a>&nbsp;");
+					} else {
+						$('#displayCheckout').html(" <a id=\"chkout\" href='#' onclick=\"displayProcessingMessage();checkout('checkout.do')\">Checkout</a>&nbsp;");
+					}
+				} else {
+					$('#displayCheckout').html(" Checkout&nbsp;");
+				}
+			} 
+	        else {
+	        	$('#displayCancelOrder').html(" <a href='cartClear.do'>cancel order</a>&nbsp;");
+			}
+			$.unblockUI;
+		});
+	}
+	
+	
+	function updateUOM(selected, tab, layout_type, itemId, itemUom, itemWhs, displayCurrency) {
+		var context = getContext(document.location.pathname);
+		
+		//Unique identifier to identify grid.
+		var itemRowIdentifier = itemId+"_"+itemUom+itemWhs+tab;
+		
+		var itemNumElementName = "#itemNumber"+itemRowIdentifier;
+		var uomElementName = "#UOM"+itemRowIdentifier;
+		var whsElementName = "#WHS"+itemRowIdentifier;
+		var itemSeqElementname = "#ITEMSEQ"+itemRowIdentifier;
+		var itemQtyelementName = "#qty"+itemRowIdentifier;
+		
+		//Get the values.
+		var itemNum = $(itemNumElementName).val();
+		var itemWhs = $(whsElementName).val();
+		var itemSeq = $(itemSeqElementname).val();
+		var itemQty = $(itemQtyelementName).val();
+		if (typeof itemQty == undefined || itemQty == null || itemQty == "") {
+			itemQty = 1;
+		}
+		
+		//Building the ajax URL used to the get the values for the changed UOM.
+		var url = "updateUomViewServlet.do" + "?item_id=" + itemId + "&item_uom=" + selected + "&item_num=" + itemNum + "&qty=" + itemQty + "&pl_type=" + layout_type + "&itemSeq=" + itemSeq + "&displayCurrency=" + displayCurrency;
+		var waitingImagePath = "/storefrontCommerce/images/infor_ajax-loader_16x16.gif";
+		
+		//Clear the text and replace it with the waiting image.
+		$("#calc_avail"+itemRowIdentifier).children('#columnValue').text("");
+		$("#calc_avail"+itemRowIdentifier).children('#columnValue').html("<img src=\""+waitingImagePath+"\" />");
+		
+		$("#calc_price"+itemRowIdentifier).children('#columnValue').text("");
+		$("#calc_price"+itemRowIdentifier).children('#columnValue').html("<img src=\""+waitingImagePath+"\" />");
+		
+		$("#ExtendedPrice"+itemRowIdentifier).children('#columnValue').text("");
+		$("#ExtendedPrice"+itemRowIdentifier).children('#columnValue').html("<img src=\""+waitingImagePath+"\" />");
+		
+		//$("#order_uom"+itemRowIdentifier).children('#columnValue').text("");
+		//$("#order_uom"+itemRowIdentifier).children('#columnValue').html("<img src=\""+waitingImagePath+"\" />");
+		
+		jQuery.getJSON(url, function(jsonData) {
+			var newItemRowIdentifier =  itemId+"_"+jsonData.orderUOM+itemWhs;
+			//Change the values of the elements
+			$("div.calc_avail"+itemRowIdentifier+" > span.columnValue").remove("img");
+			$("#calc_avail"+itemRowIdentifier).children('#columnValue').text(jsonData.calcQuantityAvailable);
+			$("div.calc_price"+itemRowIdentifier+" > span.columnValue").remove("img");
+			$("#calc_price"+itemRowIdentifier).children('#columnValue').text(jsonData.calcPrice +" "+jsonData.orderUOM);
+			$("div.ExtendedPrice"+itemRowIdentifier+" > span.columnValue").remove("img");
+			$("#ExtendedPrice"+itemRowIdentifier).children('#columnValue').text(jsonData.extendedPrice);
+			//$("div.order_uom"+itemRowIdentifier+" > span.columnValue").remove("img");
+			//$("#order_uom"+itemRowIdentifier).children('#columnValue').text(jsonData.orderUOM)
+			
+			//Set hidden field id, name and value.
+			$(uomElementName).value = jsonData.orderUOM;
+			
+			$(itemQtyelementName).attr('name', "qty"+newItemRowIdentifier);
+			$(itemNumElementName).attr('name', "itemNumber"+newItemRowIdentifier);
+			$(uomElementName).attr('name', "UOM"+newItemRowIdentifier);
+			$(whsElementName).attr('name', "WHS"+newItemRowIdentifier);
+			$(itemSeqElementname).attr('name', "ITEMSEQ"+newItemRowIdentifier);
+			
+			$(itemQtyelementName).attr('id', "qty"+newItemRowIdentifier);
+			$(itemNumElementName).attr('id', "itemNumber"+newItemRowIdentifier);
+			$(uomElementName).attr('id', "UOM"+newItemRowIdentifier);
+			$(whsElementName).attr('id', "WHS"+newItemRowIdentifier);
+			$(itemSeqElementname).attr('id', "ITEMSEQ"+newItemRowIdentifier);
+		});
+	}
+	
+	var req;
+	var which;
+
+	function encodeURLajax(url) 
+	{
+		var ajaxurl = '/storefrontCommerce/encode.do';
+		ajaxurl = ajaxurl + "?" + url;
+
+		// Non-IE browsers
+		if (window.XMLHttpRequest) {
+		   req = new XMLHttpRequest();
+		   req.onreadystatechange = processStateChange;
+			try {
+	  			req.open("POST", ajaxurl, true);
+			} 
+			catch (e) {
+			}
+			req.send(null);
+		} 
+		// IE
+	   else if (window.ActiveXObject) {
+		   req = new ActiveXObject("Microsoft.XMLHTTP");
+			if (req) {
+	  			req.onreadystatechange = processStateChange;
+	  			req.open("POST", ajaxurl, true);
+	  			req.send();
+			}
+		}
+	}
+
+	function processStateChange() 
+	{
+		if (req.readyState == 4) { // Complete
+			if (req.status == 200) { // OK response
+				window.location = req.responseText;
+			}
+		}
+	}
+	
+	$(document).ready(function() {
+		if($("#expandAttributesId").val() == '' || $("#expandAttributesId").val() == 'false') {
+			hideAttributes();
+		} else {
+			expandAttributes();
+		}
+		if($("#showCategoriesId").val() == 'true') {
+			$("#parentSubCat").show("fast");
+			$("#showHidecategoriesId").text(hide);
+			$("#showHidecategoriesId").click (
+				function() {
+					click: hideCategories();
+					return false;
+				}	
+			);
+		} else {
+			$("#parentSubCat").hide();
+			$("#showHidecategoriesId").text(showAllCategories);
+			$("#showHidecategoriesId").click (
+				function() {
+					click: showCategories();
+					return false;
+				}	
+			);
+		}
+	});
+
+	function hideCategories() {
+		if($("#preserveUserSelectionId").val() == 'true') {
+			$.ajax({
+				url: 'commerceUtil.do',
+				async : true,
+				type: 'POST',
+				data : ({"selection" : "hide", "attribute" : "categories"})
+			});
+		}
+		$("#parentSubCat").hide();
+		$("#showHidecategoriesId").text(showAllCategories);
+		$("#showHidecategoriesId").unbind().click (
+			function() {
+				click: showCategories();
+				return false;
+			}	
+		);
+	}
+
+	function showCategories() {
+		if($("#preserveUserSelectionId").val() == 'true') {
+			$.ajax({
+				url: 'commerceUtil.do',
+				async : true,
+				type: 'POST',
+				data : ({"selection" : "show", "attribute" : "categories"})
+			});
+		}
+		$("#parentSubCat").show('fast');
+		$("#showHidecategoriesId").text(hide);
+		$("#showHidecategoriesId").unbind().click (
+			function() {
+				click: hideCategories();
+				return false;
+			}	
+		);
+	}
+
+	function hideAttributes() {
+		if($("#preserveUserSelectionId").val() == 'true') {
+			$.ajax({
+				url: 'commerceUtil.do',
+				async : true,
+				type: 'POST',
+				data : ({"selection" : "hide", "attribute" : "attributes"})
+			});
+		}
+		var moreLess = document.getElementById("showHideAttributesId");
+		var title = "";
+		if (moreLess != null) {
+			title = (moreLess.title);
+		}
+		if (title == null || title == "") {
+			title = showAllAttributes;
+		}
+	   title = "[" + title + "]";	 
+	   $(".hiddenAttribute").hide();
+	   $("#showHideAttributesId").text(title).unbind().click (
+			function() {
+				expandAttributes();
+				return false;
+			}
+		);
+	};
+
+	function expandAttributes() {
+		if($("#preserveUserSelectionId").val() == 'true') {
+			$.ajax({
+				url: 'commerceUtil.do',
+				async : true,
+				type: 'POST',
+				data : ({"selection" : "show", "attribute" : "attributes"})
+			});
+		}
+		$(".hiddenAttribute").show("fast");
+		$("#showHideAttributesId").text(hide).unbind().click (
+			function() {
+				hideAttributes();
+				return false;
+			}
+		);
+	};
+
+</script>	  
+
+
+	<title>Infor ERP Storefront Commerce</title>
+<style type="text/css">
+    <!--
+
+-->
+    </style>
+</head>
+
+<body id="customHomeScreen">
+
+<div id="container">
+	
+
+
+
+
+
+<!-- inline style is necessary to prevent the div from sometimes displaying for a split second -->
+<div class="processingRequestMessage" style="display: none;">
+	<p>
+		Processing request.<br>
+		<img src="images/infor_ajax-loader_24x24.gif" alt="#">
+	</p>
+</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+//#MOD-002 BEGIN ADD
+function processDealerPrice() {
+    var searchUrl = 'dealerPrice.do?method=processDealerPrice';
+    //call java to get html file.
+     callDearlPrice(searchUrl);
+}
+
+function callDearlPrice(searchUrl){
+	$.ajax({
+		type:"POST",
+		url: searchUrl,
+		dataType: "html",
+		success: function(txt){
+			processPrice(txt);			
+		},
+		error:function(xhr,status,errorThrown){
+			alert(errorthrown+'\n'+status+'\n'+statusText)
+		}
+	});
+}
+
+function processPrice(txt){
+	if (txt.indexOf('true') != -1 ) {
+		$('#cartMoneyTotal').hide();
+		//$('#marp').hide();		
+		//hide List price
+		hideCol("sellPriceCol","sellPriceColPad");
+		hideCol("marpCol","marpColPad"); // #MOD-006
+	}else{
+		$('#cartMoneyTotal').show();
+		//$('#marp').show();		
+		//show List price
+		showCol("sellPriceCol","sellPriceColPad");
+		showCol("marpCol","marpColPad"); // #MOD-006
+	}
+}
+
+function hideCol(columnClass,columnClassPad){
+	//hide list view
+	$('table .'+columnClass).each(function(index) {
+	$(this).hide();
+	});
+	//show pad
+	$('table .'+columnClassPad).each(function(index) {
+		$(this).show();
+	});
+	
+	//hide grid view
+	$('div .'+columnClass).each(function(index) {
+		$(this).hide();
+	});
+
+}
+
+function showCol(columnClass,columnClassPad){
+	//show list view
+	$('table .'+columnClass).each(function(index) {
+	$(this).show();
+	});
+	//hide pad
+	$('table .'+columnClassPad).each(function(index) {
+		$(this).hide();
+	});
+	
+	//show grid view
+	$('div .'+columnClass).each(function(index) {
+		$(this).show();
+	});	
+
+}
+//#MOD-002 END ADD
+
+	// #MOD-006 - BEGIN ADD
+	function processMARPPrice() 
+	{
+	    var searchUrl = 'marpPrice.do?method=processMARPPrice';
+	    callMARPPrice(searchUrl);
+	}
+
+	function callMARPPrice(searchUrl){
+		$.ajax({
+			type:"POST",
+			url: searchUrl,
+			dataType: "html",
+			success: function(txt){
+				processMARPPriceDisplay(txt);			
+			},
+			error:function(xhr,status,errorThrown)
+			{
+				//alert(errorthrown+'\n'+status+'\n'+statusText)
+			}
+		});
+	}
+
+	function processMARPPriceDisplay(txt)
+	{
+		if (txt.indexOf('true') != -1 ) 
+		{
+			// Hide List Price 3
+			//showCol("sellPriceCol","sellPriceColPad");
+			hideCol("marpCol","marpColPad");
+		}
+		else
+		{
+			// Show List Price 3
+			//hideCol("sellPriceCol","sellPriceColPad");
+			showCol("marpCol","marpColPad");
+		}
+	}
+	// #MOD-006 - END ADD
+
+	<!-- #MOD-007 - BEGIN ADD -->
+	var req;
+	var which;
+
+function retrieveURL(url) {
+  if (window.XMLHttpRequest) { // Non-IE browsers
+    req = new XMLHttpRequest();
+    req.onreadystatechange = processKeepAliveStateChange;
+    try {
+      req.open("POST", url, false);
+    } catch (e) {
+      
+    }
+    req.send(null);
+  } else if (window.ActiveXObject) { // IE
+    req = new ActiveXObject("Microsoft.XMLHTTP");
+    if (req) {
+      req.onreadystatechange = processKeepAliveStateChange;
+      req.open("POST", url, false);
+      req.send();
+    }
+  }
+}
+
+function processKeepAliveStateChange() {
+  if (req.readyState == 4) { // Complete
+    if (req.status == 200) { // OK response
+      
+    }
+  }
+}
+
+  	function getKeepAlive() 
+  	{
+		retrieveURL('keepalive.do?param=' + Math.floor(Math.random()*10000));
+  	}
+  	setInterval("getKeepAlive()", 60000);
+<!-- #MOD-007 - END ADD -->
+	
+</script>
+
+
+
+		<div id="masthead">
+			<div id="logoBanner">
+				<a href="/storefrontCommerce/home.do"><img src="/storefrontCommerce/images/logo_off.png" id="homeLogoImage" class="rollover" alt="Home page"></a>
+			</div>
+			<div id="applicationMastheadTitle">
+				<h1></h1>
+			</div>
+			
+			<div id="commerceHelpContainer">
+			    
+					
+					
+					
+					
+					
+					   <a href="/storefrontCommerce/help/english/default.html" target="_blank">
+	
+						</a>
+					
+					
+				
+			</div>
+				<div id="searchbox">
+				<form id="navigationSearchForm" name="searchForm" method="get" action="/storefrontCommerce/search.do" onsubmit="return submitSimpleSearch(this);" accept-charset="UTF-8">
+						<span id="searchInputLabel"></span>
+                        <img src="images/search.png" alt="search" width="14" height="14" align="middle">
+						<select id="searchType" name="searchType">
+							<option value="keyword">Keyword</option>
+							<option value="itemNumber">Item Number</option>
+							
+								<option value="orderNumber">Order Number</option>
+							 
+							 
+						</select>
+						<input type="text" name="keyword" id="searchInput">
+						<span id="emailspan">
+							<label>E-mail</label>
+							<input type="text" name="emailAddress" id="emailAddressInput" size="18" maxlength="80">
+						</span>
+						<input type="submit" id="searchGoButton" value="Go">
+					</form>
+			
+            </div>
+				
+			
+			
+		
+				<div id="userAccountInfo">
+					 
+						
+						
+						
+						
+							Welcome, Guest | 
+							English | USD |
+							<a href="/storefrontCommerce/login.do">Sign In</a>
+						
+					 
+				</div>
+			
+			
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	$(document).ready(function() {	
+		var loggedin = "false";
+		refreshCartTotals(loggedin);
+	});
+	
+	$(document).ready(function(){
+		if ($('#searchType').val() == "orderNumber" || $('#searchType').val() == "purchaseOrder") {
+			$('#emailspan').css('display', 'inline');
+			$('#emailspan').css('visibility', 'visible');
+		} else {
+			$('#emailspan').css('display', 'none');
+			$('#emailspan').css('visibility', 'hidden');
+		}
+	});
+	
+	// show or hide the email input text field for order number searching
+	$(function(){
+		$('#searchType').change( function() {
+			
+			   // If B2C-R user then prepulate the email from user id
+			   
+				if ($('#searchType').val() == "orderNumber" || $('#searchType').val() == "purchaseOrder") {
+					$('#emailspan').css('display', 'inline');
+					$('#emailspan').css('visibility', 'visible');
+				} else {
+					$('#emailspan').css('display', 'none');
+					$('#emailspan').css('visibility', 'hidden');
+				}
+			
+		});
+	});
+
+	function submitSimpleSearch(form) {
+		if (validateSimpleSearch(form)) {
+			if (form.searchType.value == "orderNumber" || form.searchType.value == "purchaseOrder") {
+				form.action = "simpleOrderSearch.do";
+			}
+			else {
+				form.action = "search.do";
+			}
+			return true;
+		}
+		return false;
+	}
+	
+	function validateSimpleSearch(form) {
+		if (trim(form.keyword.value) == "") {
+			if (form.searchType.value == "orderNumber") {
+				alert('Specify an order number.');
+				form.keyword.focus();
+				return false;
+			}
+			if (form.searchType.value == "purchaseOrder") {
+				alert('Specify a purchase order number.');
+				form.keyword.focus();
+				return false;
+			}
+		}
+		else if (trim(form.emailAddress.value) == "" &&
+					document.getElementById('emailspan').style.display == 'inline') {
+			alert('An e-mail address is required.');
+			form.emailAddress.focus();
+			return false;
+		}
+		return true;
+	}
+	
+	function checkout(action) {
+		// If we are on the cart page, submit the form so that updates are processed
+		var form = document.getElementById("cartPageForm");
+		var url = "/storefrontCommerce/" +  action;
+		if (form != null) {
+			form.action = encodeURI(url);
+			form.submit();
+		} else {
+			window.location.replace(encodeURI(url));
+		}
+	}
+</script>
+
+		<div id="applicationNavigationBar">
+			
+				
+					<div id="leftNavColumn">
+						<ul class="navBar">
+							<li id="searchAllCategoriesContainer">
+								<a href="/storefrontCommerce/categorybrowse.do"><div id="searchAllCategoriesButton" class="dir">
+										<p>Browse All Categories</p>
+									</div></a>
+								
+									<ul id="browseMenuInvisible">
+										<li>
+											
+											<a href="categorybrowse.do?category-name=Catalog&amp;path=&amp;currentPage=1&amp;numResults=40" id="applicationNavigationCatalogLabel">
+												Catalog
+											</a>
+										</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Accessories&amp;path=&amp;currentPage=1&amp;numResults=40">Accessories</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Airguns&amp;path=&amp;currentPage=1&amp;numResults=40">Airguns</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Ammunition+%2f+Reloading&amp;path=&amp;currentPage=1&amp;numResults=40">Ammunition / Reloading</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Black+Powder+Accessories&amp;path=&amp;currentPage=1&amp;numResults=40">Black Powder Accessories</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Crossbows+%2f+Accessories&amp;path=&amp;currentPage=1&amp;numResults=40">Crossbows / Accessories</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Firearm+Maintenance+%2f+Parts&amp;path=&amp;currentPage=1&amp;numResults=40">Firearm Maintenance / Parts</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Firearms&amp;path=&amp;currentPage=1&amp;numResults=40">Firearms</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Hunting+Gear&amp;path=&amp;currentPage=1&amp;numResults=40">Hunting Gear</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Knives+%2f+Multi-Tools&amp;path=&amp;currentPage=1&amp;numResults=40">Knives / Multi-Tools</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Optics+%2f+Optic+Accessories&amp;path=&amp;currentPage=1&amp;numResults=40">Optics / Optic Accessories</a>
+											</li>
+										
+											<li>
+												
+												<a href="categorybrowse.do?category-name=Storage+%2f+Transportation&amp;path=&amp;currentPage=1&amp;numResults=40">Storage / Transportation</a>
+											</li>
+										
+										<li class="lastMenuOption"><a href="/storefrontCommerce/categorybrowse.do">See All</a></li>
+									</ul>
+								
+							</li>
+						</ul>
+					</div>
+				
+			
+			
+				
+			
+			<div id="searchNavColumn">
+				<div id="navBarSpecialsLinkContainer">
+					<p>
+						<a href="/storefrontCommerce/home.do">Home</a>
+						
+							<a href="/storefrontCommerce/specialsListView.do" id="navBarSpecialsLink">Specials</a>
+						
+						<!-- #MOD-003 -->
+						
+						<a href="redirect.do?page=zmanufacturers">Brands</a>
+						
+                            <a href="redirect.do?page=zourstory">Our Story</a>
+                         
+					</p>
+				</div>
+				
+				<div id="searchContainer">
+				<!-- #MOD-003
+					<form id="navigationSearchForm" name="searchForm" method="get" action="/storefrontCommerce/search.do" onsubmit="return submitSimpleSearch(this);" accept-charset="UTF-8">
+						<span id="searchInputLabel"></span>
+						<select id="searchType" name="searchType">
+							<option value="keyword">Keyword</option>
+							<option value="itemNumber">Item Number</option>
+							
+								<option value="orderNumber">Order Number</option>
+							 
+							 
+						</select>
+						<input type="text" name="keyword" id="searchInput" />
+						<span id="emailspan">
+							<label>E-mail</label>
+							<input type="text" name="emailAddress" id="emailAddressInput" size="18" maxlength="80"/>
+						</span>
+						<input type="submit" id="searchGoButton" value="Go" />
+					</form>
+					 -->
+				</div>
+				
+			</div>
+		</div>
+	<div id="mainContent3ColumnContainer">
+		<div id="mainContent3ColumnWrapper">
+			<div id="centerMainColumn">
+				<div id="centerMainColumnPadding">
+<div>
+                    <!-- Insert your custom HTML code/text here -->
+		    <h2>Privacy Policy</h2>
+		    <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="line-height:115%; font-size:12.0pt; ">1.&nbsp;&nbsp;&nbsp;<strong><span style="font-family:Calibri; ">Introduction.&nbsp;</span></strong>Bill Hicks &amp; Co., Ltd. ("Bill Hicks &amp; Co." or "We") respects your privacy and we are committed to protecting it through our compliance with this policy.&nbsp; This policy describes the type of information we may collect from you or that you may provide when you visit the website </span><a href="../storefrontCommerce/home.do"><span style="font-size:12.0pt; ">www.BillHicksCo.com</span></a><strong><span style="line-height:115%; font-family:Calibri; font-size:12.0pt; "> </span></strong><span style="font-size:12.0pt; ">(our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.&nbsp; Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time.&nbsp; Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">2.&nbsp;&nbsp;&nbsp;<strong><span style="font-family:Calibri; ">Application</span></strong>.&nbsp;This policy applies to information we collect on this Website, in e-mail, text and other electronic messages between you and this Website, or through mobile and desktop applications you download from this Website, which provide dedicated non-brower-based interaction between you and this Website. This policy does not apply to information collected by us offline or through any other means, including on any other website operated by a third party (including our affiliates), or any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website.&nbsp;</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">3.&nbsp;&nbsp;&nbsp;<strong><span style="font-family:Calibri; ">Information We Collect About You. </span></strong>We collect several types of information from and about users of our Website, including information:</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">a.&nbsp;&nbsp;&nbsp;by which you may be personally identified, such as name, postal address, e-mail address or telephone number ("Personal Information");</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">b.&nbsp;&nbsp;&nbsp;that is about you but individually does not identify you, and/or</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">c.&nbsp;&nbsp;&nbsp;about your internet connection, the equipment and software you use to access our Website and usage details.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">4.&nbsp;&nbsp;&nbsp;&nbsp;<strong><span style="font-family:Calibri; ">How We Collect the Information.</span></strong>&nbsp;We collect this information:</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">a.&nbsp;&nbsp;&nbsp;&nbsp;Directly from you when you provide it to us.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">b.&nbsp;&nbsp;&nbsp;Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">5.&nbsp;&nbsp;&nbsp;<strong><span style="font-family:Calibri; ">Information You Provide to Us</span></strong>. The information we collect on or through our Website may include, but is not limited to:&nbsp;</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">a.&nbsp;&nbsp;&nbsp;Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, posting material or requesting further services. We may also ask you for information such as when you enter a promotion sponsored by us, or when you report a problem with our Website.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">b.&nbsp;&nbsp;&nbsp;Records and copies of your correspondence, including e-mail addresses, if you contact us.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">c.&nbsp;&nbsp;&nbsp;&nbsp;Your responses to surveys that we might ask you to complete for research purposes.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">d.&nbsp;&nbsp;&nbsp;Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">e.&nbsp;&nbsp;&nbsp;Your search queries on the Website</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">6.&nbsp;&nbsp;&nbsp;<strong><span style="font-family:Calibri; ">User Contributions.</span></strong>&nbsp;You also may provide information to be published or displayed (hereinafter, "<strong><span style="font-family:Calibri; ">posted</span></strong>") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "<strong><span style="font-family:Calibri; ">User Contributions</span></strong>"). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages and you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">7.&nbsp;&nbsp;&nbsp;<strong><span style="font-family:Calibri; ">Usage Details, IP Addresses, Cookies and Other Technologies.</span></strong> As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website, and information about your computer and internet connection, including your IP address, operating system and browser type.&nbsp;The information we collect helps us to improve our Website and to deliver a better and more personalized service by enabling us to: estimate our audience size and usage patterns; store information about your preferences; customize our Website according to your individual interests; speed up your searches; and recognize you when you return to our Website.&nbsp;The technologies we use for this automatic data collection may include:</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">a.&nbsp;&nbsp;&nbsp;Cookies (or browser cookies), a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">b.&nbsp;&nbsp;&nbsp;Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">c.&nbsp;&nbsp;&nbsp;&nbsp;Web Beacons. Pages of our Website and our e-mails may contain small electronic files known as web beacons (also referred to as pixel tags) that permits us, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">8.&nbsp;&nbsp; <strong><span style="font-family:Calibri; ">How We Use Your Information.&nbsp;</span></strong>We use information that we collect about you or that you provide to us, including any Personal Information:</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">a.&nbsp;&nbsp;&nbsp;To present our Website and its contents to you.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">b.&nbsp;&nbsp; To provide you with information, products or services that you request from us.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">c.&nbsp;&nbsp;&nbsp;To fulfill any other purpose for which you provide it.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">d.&nbsp;&nbsp;&nbsp;To provide you with notices about your account, including expiration and renewal notices.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">e.&nbsp;&nbsp;&nbsp;To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">f.&nbsp;&nbsp;&nbsp;&nbsp;To notify you about changes to our Website or any products or services we offer or provide though it.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">g.&nbsp;&nbsp;&nbsp;To allow you to participate in interactive features on our Website.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">h.&nbsp;&nbsp; In any other way we may describe when you provide the information.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">i.&nbsp;&nbsp;&nbsp;&nbsp;For any other purpose with your consent.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">j.&nbsp;&nbsp;&nbsp;&nbsp;To contact you about goods and services that may be of interest to you.&nbsp;</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">9.&nbsp;<strong><span style="font-family:Calibri; ">Disclosure of Your Information</span></strong>.&nbsp;We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We may disclose Personal Information that we collect or you provide as described in this privacy policy:</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">a.&nbsp;&nbsp;&nbsp;To our subsidiaries and affiliates.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">b.&nbsp;&nbsp;&nbsp;To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">c.&nbsp;&nbsp; To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Bill Hicks &amp; Co.’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Bill Hicks &amp; Co. about our Website users is among the assets transferred.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">d.&nbsp;&nbsp;&nbsp;To fulfill the purpose for which you provide it.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">e.&nbsp;&nbsp;&nbsp;For any other purpose disclosed by us when you provide the information.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">f.&nbsp;&nbsp;&nbsp; With your consent.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">g.&nbsp;&nbsp;&nbsp;To comply with any court order, law or legal process, including to respond to any government or regulatory request.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">h.&nbsp;&nbsp;&nbsp;To enforce or apply our </span><a href="../storefrontCommerce/redirect.do?page=zterms"><span style="font-size:12.0pt; ">Terms of Use</span></a><span style="font-size:12.0pt; "> and other agreements, including for billing and collection purposes.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">i.&nbsp;&nbsp;&nbsp;&nbsp;If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Bill Hicks &amp; Co., our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">10.&nbsp;<strong><span style="font-family:Calibri; ">Accessing and Correcting Your Information</span></strong>.&nbsp;You can review and change your Personal Information by logging into the Website and visiting your account profile page.&nbsp;You may also </span><a href="../storefrontCommerce/redirect.do?page=zcontact"><strong><span style="line-height:115%; font-family:Calibri; font-size:12.0pt; color:windowtext; ">send us an e-mail</span></strong></a><span style="font-size:12.0pt; "> to request access to, correct or delete any Personal Information that you have provided to us. We may not be able to delete your Personal Information without also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our </span><a href="../storefrontCommerce/redirect.do?page=zterms"><span style="font-size:12.0pt; ">Terms of Use</span></a>.</p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">11.&nbsp;<strong><span style="font-family:Calibri; ">Data Security.</span></strong>&nbsp;We have implemented measures designed to secure your Personal Information from accidental loss and from unauthorized access, use, alteration and disclosure.&nbsp;All information you provide to us is stored on our secure servers behind firewalls. Any payment transaction will be processed using secure, encrypted SSL technology. The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website. Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your Personal Information, we cannot guarantee the security of your Personal Information transmitted to our Website. Any transmission of Personal Information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.&nbsp;</span></p>
+            <p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;"><span style="font-size:12.0pt; ">12.&nbsp;<strong><span style="font-family:Calibri; ">Changes to Our Privacy Policy.&nbsp;</span></strong>It is our policy to post any changes we make to our privacy policy on this page.&nbsp;You are responsible for periodically visiting our Website and this privacy policy to check for any changes.</span></p>
+            <p>&nbsp;</p>
+				  </div>
+			
+				</div>
+			</div>
+			<div id="rightMainColumn">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+	
+	function validateLineForm(form) {
+		if (trim(form.itm_num.value) == "") {
+			alert('The item number is required.');
+			form.itm_num.focus();
+			return false;
+		}
+		
+		if (!IsInteger(form.qty.value)) {
+			alert('The quantity must be a number.');
+			form.qty.focus();
+			return false;
+		}
+		
+		return true;
+	}
+
+	$(document).ready(function(){
+		var plusImg  = '/storefrontCommerce/images/plus.gif';
+		var minusImg = '/storefrontCommerce/images/minus.gif';
+		$('#rightMainColumnPadding .toggleImage').click(function() {
+			$(this).closest('.head').next().toggle('blind');
+			if ($(this).attr('src') == plusImg) {
+				$(this).attr('src', minusImg);
+			} else {
+				$(this).attr('src', plusImg);
+			}
+			return false;
+		});
+		
+		$('#rightMainColumnPadding .toggleImage').each(function(i, element) {
+			if (element.id == "storelocatorToggleImage") {
+				
+			} else	if (element.id == "lineItemAddToggleImage") {
+				
+			} else if (element.id == "carveoutItemsToggleImage") {
+				
+			} else if (element.id == "shoppingListsToggleImage") {
+				
+			} else if (element.id == "accountBarToggleImage") {
+				
+			} else if (element.id == "wishListsToggleImage") {
+				
+			} else if (element.id == "approvalToggleImage") {
+				
+			} else if (element.id == "budgetToggleImage") {
+				
+			} else if (element.id == "userSessionToggleImage") {
+				
+			}
+		});
+	});
+</script>
+
+<!-- rightMainColumn.jsp -->
+
+<div id="rightMainColumnPadding">
+	
+
+
+
+
+
+
+
+
+
+
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
+
+<!-- storeLocatorbar.jsp -->
+
+	
+<div class="accountTitle head">
+	<a href="#">
+		
+			<img id="storelocatorToggleImage" class="toggleImage" src="/storefrontCommerce/images/minus.gif" width="11" height="11" onclick="$.post('togglePanel.do?panel=storelocator');" alt="#">
+		
+	</a>
+	<h3>Find dealer</h3>
+</div>
+<div id="storelocatorPanel" class="toolPanel standardForm">
+	    <a href="../storefrontCommerce/storeLocator.do?method=view"><img src="images/FindADealer.png" alt="Find A Dealer" width="150" height="140" border="0"></a>
+</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
+
+<!-- saleRepbar.jsp -->
+
+	<!-- #MOD-008jsp:include page="lineitemadd.jsp" flush="true"/ -->
+	
+
+
+
+
+
+
+
+
+<!-- carveOutItems.jsp -->
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- accountbar.jsp -->
+
+
+
+
+
+
+	<!--  BEGIN Shopping Lists -->
+	
+	<!--  END Shopping Lists -->
+
+
+
+<div id="accountBar">
+	
+
+	
+	<div id="myAccountPanel" class="toolPanel">
+		
+
+		
+				
+						
+		
+		
+		
+		
+		
+		
+		
+		<!-- Accounts Receivable Tags END-->
+		
+		<!-- Corporate Group Accounts can change their Customer Number. Show this if there are Customers from which to select. -->
+		
+		<!-- END Give option to change customer if more than one -->
+		
+		<!-- The OpenOrdersLink should only be available when the Item Detail screen is shown for a Stocked Item, for a B2B -->
+		
+	</div>
+	
+	
+		<!-- BEGIN Wish Lists -->
+		
+		<!-- END Wish Lists -->
+		
+		<!-- BEGIN User Session -->
+		
+	 	<!-- END User Session Panel --> 
+
+</div>
+	
+	
+
+
+
+
+
+
+
+<!-- approvalPanel.jsp -->
+
+
+
+
+	
+
+
+
+
+
+
+
+
+<!-- budgetPanel.jsp -->
+
+
+
+	
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div id="footer">
+		  <div id="contactUsFooterAddress">
+<p><strong>Information<br>
+				</strong><a href="../storefrontCommerce/home.do">Home</a><br>
+				  <a href="../storefrontCommerce/storeLocator.do">Locate a Dealer</a><br>
+				  <a href="../storefrontCommerce/redirect.do?page=zcontact">Contact Us</a><br>
+			    <a href="../storefrontCommerce/redirect.do?page=zemployment">Employment </a><br>
+      <a href="../storefrontCommerce/redirect.do?page=zfaqs">FAQ's</a><br>
+      <span class="fineprint"><a href="../storefrontCommerce/redirect.do?page=ztermssale" "="" title="Terms and Conditions of Sale">Terms and Conditions of Sale</a><br>
+      <a href="../storefrontCommerce/redirect.do?page=ztermswebsite" "="" title="Terms and Conditions of Website">Terms and Conditions of Website</a>      <br>
+      <a href="../storefrontCommerce/redirect.do?page=zprivacy" title="Privacy Policy">Privacy Policy</a></span>				</p>
+	<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p><span class="fineprint">© 2014 Bill Hicks &amp; Co., Ltd. All rights reserved. </span></p>
+</div>
+        	<div id="contactUsFooter">
+   			  <p><strong>Dealers<br></strong>
+                <a href="../storefrontCommerce/redirect.do?page=zonline">Online 24/7</a><br>
+                <a href="../storefrontCommerce/login.do">Dealer Login</a><br>
+      			<a href="../storefrontCommerce/redirect.do?page=zdealer">Become a Dealer</a><br>
+                <a href="https://us1-1.hostedftp.com/login/" target="_blank">Digital Image Library FTP</a> <br>
+                <a href="../storefrontCommerce/redirect.do?page=zrebates">Manufacturer Rebates</a>      			<br>
+                 <a href="images/Forms/BHC_PR-10-14-14.pdf" target="_blank">Media</a>      			<br>
+      			</p>
+      <p>&nbsp;</p>
+   			  <p>&nbsp;</p>
+      			<p>&nbsp;</p>
+      			<p>&nbsp;</p>
+   			  <p>&nbsp;</p>
+</div>
+            
+                    	<div id="FooterDealer">
+                    	  <p><strong>The BHC Competitive Edge</strong>              
+      			</p><p><strong>Family Owned and Operated</strong><br>
+      			  Family owned and operated since 1969, we know that relationships matter. We're committed to nurturing positive long-term relationships with our manufacturers, our employees, and with you, our dealers. We want to partner with you to help your business grow and thrive.<br>
+      			  <br>
+      			  <strong>Unparalleled Service &amp; Support</strong> <br>
+      			  Our knowledgeable sales representatives can help you find the products you need and walk you through the order process. Many of our reps are hunting and shooting sports enthusiasts who can recommend shooting sports products and accessories from an end user perspective. Once your order is placed, our customer service representatives are available to help ensure a smooth transaction from start to finish. <br>
+<strong><br>
+Extensive and Exclusive Product Offering</strong><br>
+      			  As one of the largest wholesale sporting goods distributors in the nation, we carry more than 30,000 products representing over 300 well known and respected manufacturers. If it's at the forefront of the latest and greatest products that the industry has to offer, we can obtain if for you. We also have our own line of carefully curated BHC Exclusives designed to enhance your competitive edge. <br>
+<strong><br>
+Powerful Technology</strong><br>
+      			  Our DEALER DASHBOARD puts you in control 24/7. Not only can you order what you want when you want it, you can also view inventory availability, track and review current and past orders, run reports, view invoices and more. Our powerful online tools help you manage your business in ways that are easier, faster and smarter than ever before.<br>
+      			  
+		            </p></div>
+		</div>
+</div>
+
+   
+
+
+</body></html>
