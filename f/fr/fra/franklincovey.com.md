@@ -1,54 +1,49 @@
-> *The following text is extracted and transformed from the franklincovey.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216224229id_/http%3A//franklincovey.com/cgi-bin/shopping/priority.cgi%3Fsc%3DPrivacy_Policy%26url%3Dhttp%253a%252f%252fwww.franklincovey.com%252fabout%252fprivacy.html%253fc%253dFooter_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franklincovey.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208103849id_/http%3A//www.franklincovey.com/tc/franklincovey-privacy-policy) for the most accurate reproduction.*
 
-# FranklinCovey > About Us > Privacy Policy
+# FranklinCovey Privacy Policy | FranklinCovey
 
-FranklinCovey is committed to protecting your personal privacy. Our Five Principles of Privacy summarize and clarify that commitment--how we safeguard your privacy, how we treat personal information, and what choices you have. We understand that for you to take full advantage of the benefits of this interactive medium, we must do what we can to ensure that your privacy is secure.   
-  
-How Does FranklinCovey Use Registration Information?  
-FranklinCovey's registration forms may require users to give us contact information (i.e., name and e-mail address) and demographic information (i.e., ZIP code, gender or age). We use this information from the registration form to send our users information about our website. The user's contact information is also used to contact the user when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected during registration. We use this data to tailor the user's experience at FranklinCovey, showing people content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+### FranklinCovey Privacy Policy
 
-  
-Does FranklinCovey share personal information?  
-Occasionally, we make our customer list available to a few carefully screened firms offering products that may be of interest to you. If you prefer not to receive such mailings, you may opt-out at any time; see the choice/opt-out section below. 
+Franklin Covey is committed to protecting your personal privacy and strives to take appropriate measures to protect your privacy. This Privacy Policy states what information Franklin Covey Co. ("Franklin Covey") collects and obtains from users of its franklincovey.com website and services (the "Site"), and how this information is used. Your use of the Site and/or registration on the Site constitutes acceptance by you of the terms of this Privacy Policy. Any changes to Franklin Covey’s Privacy Policy will be posted as soon as they go into effect. Your continued use of this Site following the posting of any changes or revisions to the Privacy Policy constitutes your acceptance to those changes.
 
-  
-Choice/Opt-Out  
-Our site provides users the opportunity to opt-out of receiving communications from our partners and us at any time through our [Request No Further Catalog Mailings](/about/delete.html) page. 
+#### What Information Does Franklin Covey Collect and How is it Used?
 
-  
-Correct/Update Address  
-FranklinCovey gives users the following option for changing and modifying information previously provided. If you would like to change or update your address please visit the following page: [Change of Address](/about/changeaddress.html). 
+Franklin Covey collects personal information through its Site in connection with user registration and purchase of goods/services offered on the Site, including contact information (i.e., name, postal and e-mail addresses, phone and billing information) and demographic information (i.e., ZIP code, gender or age). We use this information to send our users information about our Site and to contact the user when necessary. From time to time, Franklin Covey or its business affiliates may also use your registration information to send you offers and promotions that may be of interest to you. By providing your contact information, you give us permission to send you such materials. Users may opt-out of receiving certain future mailings. See the choice/opt-out section below. Demographic and profile data is also collected during registration. We use this data to tailor the user's experience at Franklin Covey, showing users content we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
-  
-How does FranklinCovey use cookies and the IP address information?  
-We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don't have to reenter it each time you visit our site. The cookie does not track any personal information about you, provide us with any way to contact you, or extract any information from your computer. When you visit the store area on this site, cookies are simply the best way for us to offer you the most enjoyable and hassle-free online shopping experience by retaining information about your visit and use of our store. We hope you will want the better service that cookies provide, but you may set your browser to refuse cookies. However, by doing so, you will not be eligible for any online discounts/specials/promotions/or coupons. 
+#### Does Franklin Covey share personal information?
 
-  
-How does FranklinCovey work with other companies and how do these relationships affect user privacy?  
-FranklinCovey contains links to other sites. We are not responsible for the privacy practices or the content of such websites. 
+Franklin Covey may release personal information when we: (1) respond to subpoenas, court orders or legal process, and we exercise our legal rights or defend against legal claims; (2) believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of User or as otherwise required by law; or (3) transfer information about you if Franklin Covey is acquired by or merged with another entity.
 
-Occasionally we may share information with our sponsors and partners. We will share such information on an aggregate basis and will never reveal information about individual users of the site without consent. 
+Occasionally, we make our customer list available to a few carefully screened firms offering products that may be of interest to you. If you prefer not to receive such mailings or not to have your information shared in this manner, you may opt-out at any time. See the choice/opt-out section below. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, our ad company collects cookies received with banner ads, and we do not have access to this information. 
+#### Choice/Opt-Out
 
-  
-What is FranklinCovey's policy regarding posts on message boards?  
-FranklinCovey makes message boards available to its users. Please remember that any information that is disclosed in public message boards becomes public information and you should exercise caution when deciding to disclose your personal information. Messages posted on private message boards are only revealed to members of the private groups. 
+Our Site provides users the opportunity to opt-out of receiving communications from Franklin Covey at any time through our [Unsubscribe page](http://www.franklincovey.com/tc/subscribe). Please allow 45 days for your opt-out request to take effect. Note that regardless of your opt-out selections, Franklin Covey may continue to correspond with you, via e-mail and other communications means, in connection with your customer relationship with Franklin Covey.
 
-  
-How does FranklinCovey secure information entered by visitors?  
-We use industry-standard technology to keep your personal information and information you have entered into our site as secure as possible. We also have put in place privacy protection control systems designed to ensure that your personal data remain safe and private. To view FranklinCovey's Web security, click on <http://www.franklincovey.com/about/secure.html>. 
+#### Correct/Update Address
 
-Each and every FranklinCovey employee servicing the website is obligated to abide by this privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination. 
+If you would like to change or update your personal information please visit the [Change of Address page](http://www.franklincovey.com/tc/changeaddress).
 
-Only authorized FranklinCovey employees servicing the website are permitted to have access to your personal information, and such access is limited by need. 
+#### How does Franklin Covey use cookies and the IP address information?
 
-  
-Changes to this Privacy Policy  
-FranklinCovey may amend this policy from time to time. 
+We receive and store certain types of information whenever you access the Site. We may set and access cookies on your computer and use web beacons, clear GIFs or pixel tags to provide us with information about your browsing experience. We may also allow other companies that show advertisements on our pages to set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies.
 
-  
-A Note to Parents on our Privacy Policy Regarding Children  
-FranklinCovey is very sensitive to privacy issues and we are proud of our longtime commitment to our customers. We are especially careful in any communications with one of our most treasured customers - children and families. We collect only limited personal information from children 12 and under (like their email addresses) to respond to their online requests but we promptly delete the email address from our system. Solely FranklinCovey or other entities that provide technical use personal information collected from children on this site or fulfillment services to FranklinCovey for internal purposes like improving the site, or to fulfill requests; it is not sold or transferred to third parties. We do not associate cookie data with personal information about children. FranklinCovey will not condition a child's participation in any on-line activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity. 
+We use the information collected to help diagnose problems with our server and to administer our Site, as well as to deliver content targeted to your interests and to save your password so you don't have to reenter it each time you visit our Site. 
 
-In order to review any personal information we have about your child or to ask us to delete that information or to stop further use of the information, please submit this [Information Request Form](/about/privacy.pdf). We urge parents to regularly monitor and supervise their children's on-line activities. 
+If you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed on your computer. Note that some features of our Site may not be available if you do not accept cookies.
+
+#### How does Franklin Covey work with other companies and how do these relationships affect user privacy?
+
+The Site contains links to other websites. Franklin Covey does not control the privacy policies of business partners, advertisers, sponsors or other websites to which Franklin Covey provides hyperlinks.
+
+Occasionally we also share user’s personal information collected on our Site with our sponsors and partners. In this regard, we share such information on an aggregate basis and do not reveal information about individual users of the Site without consent. 
+
+We use an outside ad company to display ads on our Site. These ads may contain cookies. While we use cookies in other parts of our Site, our ad company collects cookies received with banner ads, and we do not have access to this information, nor control the use of cookies by our ad company or the use of information collected by such ad company.
+
+#### What is Franklin Covey's policy regarding posts on message boards?
+
+Franklin Covey message boards are available to all Site users. Please remember any information disclosed in public message boards becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+#### Use of Site By Minors
+
+The Site is intended for use by adults only. In connection with the Site, Franklin Covey does not promote online to children and does not intentionally collect any personally identifiable information from children under the age of 13.
