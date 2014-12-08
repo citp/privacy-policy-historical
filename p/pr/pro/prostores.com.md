@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prostores.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617232504id_/http%3A//www.prostores.com/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prostores.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208141358id_/http%3A//www.prostores.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # ProStores – Privacy Policy
 
