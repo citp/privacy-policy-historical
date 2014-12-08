@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialflow.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626162720id_/http%3A//www.socialflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialflow.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208110337id_/http%3A//www.socialflow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SocialFlow
+# Privacy Policy - SocialFlowSocialFlow
 
 SocialFlow, Inc. (SocialFlow) owns and operates this website SocialFlow (the Site). The Site, together with the content, programs, tools, forums, information sharing, transactions and other services available at the Site, are collectively referred to herein as the Service.
 
@@ -61,7 +61,9 @@ You may correct or otherwise change your Registration Data by contacting SocialF
 If you have any questions regarding this Privacy Policy or your dealings at this Site, please contact SocialFlow at:
 
 SocialFlow, Inc.  
-52 Vanderbilt Avenue 12th Floor New York, NY 10017
+52 Vanderbilt Avenue  
+12th Floor  
+New York, NY 10017
 
 Tel: (212) 883-9844  
 Email: info@socialflow.com
