@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052138id_/http%3A//wgme.com/station/features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208220351id_/http%3A//www.wgme.com/station/features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WGME_DEV - CBS 13 - News, Sports, Weather, Traffic - Portland ME
 
@@ -131,4 +131,4 @@ Portland, ME 04103
 Telephone: 207-797-1313
 
 Current Openings  
-[Click here for a list of current openings](http://jobs.sbgnet.com/sbghire/JobManagement.jsp?marketID=27)
+[Click here for a list of current openings](https://sbgtv-openhire.silkroad.com/epostings/index.cfm?version=1&company_id=17011)
