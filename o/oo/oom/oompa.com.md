@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oompa.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302060418id_/http%3A//www.oompa.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oompa.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208165038id_/http%3A//www.oompa.com/pages/privacy) for the most accurate reproduction.*
 
 # Oompa Toys Privacy Policy
 
-Welcome to Oompa (the "Website"). This website is owned and operated by Julabug, Inc., its affiliates, agents and licensors (collectively, "we", "us", "our", "Oompa", "Oompa.com", or "Oompa Toys"). Oompa is sensitive to your concerns about how we may use and share personal information that we collect from you through the Website. We recognize and respect the importance of maintaining the privacy of our visitors and members and have established this Privacy Policy Statement ("Privacy Policy") as a result. This Privacy Policy is incorporated into our [Terms](http://www.oompa.com/pages/terms "Oompa Terms") and [Account Agreement](http://www.oompa.com/pages/account-agreement "Oompa Toys Account Agreement") and therefore governs your use of the Website and/or any services offered by Oompa. By visiting the Website, and/or utilizing any services offered by Oompa, you are accepting the then current practices described in the Privacy Policy.
+Welcome to Oompa (the "Website"). This website is owned and operated by Bella Luna Toys, Inc., its affiliates, agents and licensors (collectively, "we", "us", "our", "Oompa", "Oompa.com", or "Oompa Toys"). Oompa is sensitive to your concerns about how we may use and share personal information that we collect from you through the Website. We recognize and respect the importance of maintaining the privacy of our visitors and members and have established this Privacy Policy Statement ("Privacy Policy") as a result. This Privacy Policy is incorporated into our [Terms](http://www.oompa.com/pages/terms "Oompa Terms") and [Account Agreement](http://www.oompa.com/pages/account-agreement "Oompa Toys Account Agreement") and therefore governs your use of the Website and/or any services offered by Oompa. By visiting the Website, and/or utilizing any services offered by Oompa, you are accepting the then current practices described in the Privacy Policy.
 
 If you have questions or concerns regarding this statement, please contact us at support@oompa.com.
 
@@ -66,4 +66,4 @@ If you have questions or concerns regarding this statement, please contact us at
 
 **CONTACT US**
 
-    If you have any questions or suggestions regarding our privacy policy, please contact us at support@oompa.com, or call us at 1-855-326-2229.
+    If you have any questions or suggestions regarding our privacy policy, please contact us at support@oompa.com, or call us at 844.883.3300.
