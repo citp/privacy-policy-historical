@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenaswimwear.co.uk privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601054910id_/http%3A//www.arenaswimwear.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaswimwear.co.uk privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208092941id_/http%3A//www.arenaswimwear.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
