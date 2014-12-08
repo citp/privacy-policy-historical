@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630045548id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208201447id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
 
 # Privacy statement - Shroomery Message Board
 
@@ -33,6 +33,8 @@ The Shroomery will never sell, give, share or transfer any information we collec
 
 The Shroomery is very concerned with maintaining our users' privacy and we are constantly striving to create a secure and anonymous environment. Please feel free to [contact us](https://web.archive.org/support/public/index.php) with any questions or concerns you may have.
 
+**As of this date, Mind Media, Inc. has never received an order under Section 215 of the USA Patriot Act.** We would expect to challenge such an order if served on us.
+
 * * *
 
-Last Updated: August 16th, 2012 by Ythan
+Last Updated: September 18th, 2014 by Ythan
