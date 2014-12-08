@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlotterusse.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530015147id_/http%3A//www.charlotterusse.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlotterusse.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208165713id_/http%3A//www.charlotterusse.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy: Charlotte Russe
 
@@ -46,7 +46,7 @@ Charlotte Russe is concerned about the privacy and safety of children when they 
 or phoning us toll free at 1-888-211-7271. 
 
 **Third Party Ads**  
-We may use third-party advertising companies to serve ads when you visit our website. Please note that these companies may use information about your visit to this website in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this website, these companies may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/choices/>.  
+We may use third-party advertising companies to serve ads when you visit our website. Please note that these companies may use information about your visit to this website and third-party websites in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this website, these companies may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices with respect to it, please visit <http://www.networkadvertising.org/choices/>.  
 
 
 **OTHER INFORMATION**
@@ -71,11 +71,11 @@ You can set your browser not to accept cookies or to notify you when you are sen
 **How does Charlotte Russe use pixel tags?**  
 We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our website and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our website and our advertising. We work with service providers that help us track, collect, and analyze this information.
 
-Pixel tags on our website may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the website. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our website. 
+Pixel tags on our website may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the website. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also collect information about the identity of the website you visited immediately before coming to our website. Because we do not track our website users over time and across third-party websites, we do not respond to browser do-not-track signals.
 
 Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us. 
 
-We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our website and your interaction with our advertising and other communications. Please see our section on “Third Party Ads” for more information. 
+We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our website and third-party websites and your interaction with our advertising and other communications. Please see our section on “Third Party Ads” for more information. 
 
 Information such as your gender, birthday, zip code, as well as other information, such as your preferred means of communication, is collected when you voluntarily provide this information. Unless combined with personal information, this information does not personally identify you or any other user of the site. 
 
