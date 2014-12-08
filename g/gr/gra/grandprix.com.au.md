@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053959id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208021953id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 2014 Formula 1 Australian Grand Prix
+# Privacy Policy | 2015 Formula 1 Australian Grand Prix
 
 The Australian Grand Prix Corporation (AGPC) respects your privacy and is committed to the protection of your personal information. This Policy outlines the policy of AGPC in managing personal information which it holds.
 
