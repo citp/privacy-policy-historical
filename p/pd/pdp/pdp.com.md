@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdp.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620114242id_/http%3A//www.pdp.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdp.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208142422id_/http%3A//www.pdp.com/info/privacy) for the most accurate reproduction.*
 
-# performance designed products: Help > Privacy, Security & Accessibility
+# PDP Store: Help > Privacy, Security & Accessibility
 
 PDP understands that you care how information about you is used and shared, and that you want us to do so carefully and sensibly. This notice describes PDP’s privacy policy. This policy is shared across any website run as part of the PDP Network including [www.pdp.com](http://www.pdp.com/), [www.afterglowgaming.com](http://www.afterglowgaming.com/), [www.pdpmobile.com](http://www.pdpmobile.com/) and any future websites PDP adds to the PDP Network.
 
