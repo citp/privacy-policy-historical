@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626192823id_/http%3A//www.ktvz.com/news/Privacy-Policy/626954) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208220539id_/http%3A//www.ktvz.com/news/Privacy-Policy/626954) for the most accurate reproduction.*
 
 # Privacy Policy | News - Home
-
-###  [World Cup: Team USA advances despite defeat](https://web.archive.org/sports/World-Cup-Team-USA-advances-despite-defeat/26677936)
-
-Mission accomplished -- Team USA booked its place in the last-16 of the World Cup after escaping from one of the tournament's toughest groups.
-
-Jurgen Klinsmann's men slumped to a 1-0 defeat by Germany in Thursday's final Group G game but still qualifi...
-
-[More](https://web.archive.org/sports/World-Cup-Team-USA-advances-despite-defeat/26677936 "More")
 
   
     Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
