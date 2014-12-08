@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062713id_/http%3A//www.cozi.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208111921id_/http%3A//www.cozi.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Cozi
 
@@ -31,7 +31,7 @@ Cozi collects the following types of non-personally identifiable information, wh
 
 ## **How does Cozi protect children's information?**
 
-Cozi takes protection of children and their personal information very seriously. We strictly comply with the federal Children's Online Privacy Protection Act of 1998. Cozi will never knowingly request personally identifiable information or private content from anyone under the age of 13 without parental consent. If you register and create a Cozi account, provided you are 18 years of age or older, you will be designated as Adult 1 on the account. As Adult 1, you will be asked, at the time of registration, whether you consent to allowing users under the age of 13 to use your account and to be subject to this Privacy Policy. You must be the parent or legal guardian to grant such consent. If we receive this parental consent, we may receive personal information from children under the age of 13 listed on the account in order to provide our services to them. COZI DOES NOT SHARE CHILDREN'S PERSONALLY IDENTIFIABLE INFORMATION WITH THIRD PARTIES. If you are a parent or legal guardian of a user under 13 you may, at any time, revoke your consent to allow your child to participate as a user of your account, refuse to allow Cozi to further use or collect your child's personal information, or direct Cozi to delete all identifiable information regarding your child that you have provided. To do so, please contact our Privacy Officer at the contact information below. However, if you do any of the foregoing, your child will not be able to use the Cozi account or our Services.
+Cozi takes protection of your family's personal information very seriously. Cozi will never knowingly request personally identifiable information or private content from anyone under the age of 13. In order to register and create a Cozi account you must be 18 years of age or older. You may, at any time, direct Cozi to delete all identifiable information regarding you or your family that you have provided or that has been collected from your family. To do so, please contact our Privacy Officer at the contact information below. However, if you do any of the foregoing, you and your family will not be able to use the Cozi account or our Services.
 
 ## **Do you share my information with third parties?**
 
@@ -93,4 +93,4 @@ Council of Better Business Bureaus, Inc.
 BBB EU SAFE HARBOR  
 Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
 
-[Last Updated: 01/29/2014]
+[Last Updated: 07/16/2014]
