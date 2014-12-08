@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145312id_/http%3A//hoboken411.com/archives/4346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208083916id_/http%3A//hoboken411.com/archives/4346) for the most accurate reproduction.*
 
 # Privacy Policy - Hoboken411.com
 
@@ -19,9 +19,9 @@ Our servers may also automatically collect information about your computer when 
 Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.  
 In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website.  
 While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.  
-In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider are sold, assigned, transferred or acquired by another company, the information from and about our Website users may be among the transferred assets.  
-**  
-III. COOKIES**  
+In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider are sold, assigned, transferred or acquired by another company, the information from and about our Website users may be among the transferred assets.
+
+ **III. COOKIES AND SPONSORED LINKS**  
 You may have read about “cookies,” nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. Additionally, this site may occasionally use Google DART cookies to serve relevant ads based on visits to other sites. You may opt out of the use of DART cookies by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
@@ -30,7 +30,11 @@ We also may use third-party advertising companies to serve ads when you visit ou
 
 If you don’t want any other cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
 
- **IV. KIDS AND PARENTS**  
+Hoboken411.com also uses Sponsored VigLinks as well: [  
+  
+](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
+
+**IV. KIDS AND PARENTS**  
 This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.  
 If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.  
 If you’re worried about your children’s activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
@@ -38,7 +42,3 @@ If you’re worried about your children’s activities or their privacy on our s
  **V. PRIVACY POLICY CONTACT**  
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Contact:  
 Email: Hoboken411copyright@gmail.com
-
-Hoboken NJ
-
-Technorati Tags: [Hoboken411](http://technorati.com/tag/Hoboken411), [Privacy Policy](http://technorati.com/tag/Privacy+Policy)
