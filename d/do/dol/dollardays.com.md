@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the dollardays.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073314id_/http%3A//dollardays.com/aboutus/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollardays.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208171303id_/http%3A//www.dollardays.com/aboutus/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - DollarDays
 
-|  | 
-
-PRIVACY POLICY
-
 DollarDays International, Inc. Privacy Policy
 
-Privacy Policy
+  
+
+
+### Privacy Policy
 
 *Notification of change to Privacy Policy
 
 Effective March 4th, 2008  
 Please note that Dollardays International has modified its Terms and Conditions - specifically, Privacy Policy section #4 – "Our Disclosure of Your Information". Please review these changes. 
 
-Overview
+  
+
+
+### Overview
 
 The privacy practices of this statement apply to our services available under the domain and subdomains of [dollardays.com](http://dollardays.com/) (the "Site"). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site.   
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about DollarDays practices so that you can make informed decisions. 
 
 By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the DollarDays User Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on March 4th, 2008 for all users. 
 
-1\. A Special Note About Children.
+#### 1\. A Special Note About Children.
 
 Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of your parents or guardians. 
 
-2\. Information We Collect.
+#### 2\. Information We Collect.
 
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose. 
 
@@ -38,7 +40,7 @@ We automatically track certain information based upon your behavior on the Site.
 
 We use data collection devices such as "cookies" on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you will not be able to use certain features on the Site and you may be required to reenter your password more frequently during a session. 
 
-3\. Our Use of Your Information.
+#### 3\. Our Use of Your Information.
 
 We use your personal information to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User names or aliases. We may compare and review your personal information for errors, omissions and for accuracy.   
 You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.   
@@ -46,7 +48,7 @@ You agree that we may use your personal information to contact you and deliver i
 
 You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications on the notification (link to email preferences). You may make changes to your notification preferences at any time. 
 
-4\. Our Disclosure of Your Information.
+#### 4\. Our Disclosure of Your Information.
 
 As a matter of general policy, we do not sell but may rent some of your personal information to third parties for their marketing purposes. We may send you offers from third parties in cases where we, at our sole discretion, believe the offer is both relevant and of substantive value to you. The following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services. 
 
@@ -60,17 +62,17 @@ As a matter of general policy, we do not sell but may rent some of your personal
 
 Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
-5\. Control of Your Password.
+#### 5\. Control of Your Password.
 
 You are responsible for all actions taken with your User Name and password. Therefore we do not recommend that you disclose your DollarDays password to any third parties. If you choose to share your User Name and password or your personal information with third parties, you are responsible for all actions taken with your account and therefore you should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in Section 6. 
 
-6\. Accessing, Reviewing and Changing Your Personal Information.
+#### 6\. Accessing, Reviewing and Changing Your Personal Information.
 
 We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself. Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually. You can change your user Id, email address, contact information, shipping information and user preferences by going to the my account link You must promptly update your personal information if it changes or is inaccurate.   
 Upon your request, we will deactivate your account, contact information, shipping information, from our databases. To make this request, email service@dollardays.com Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our deactivation policy and applicable law.   
 We will retain in our files some personal information you have requested to remove to prevent fraud, collect any moneys owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will be deactivated and will only be available to select DollarDays personal. 
 
-7\. Notice.
+#### 7\. Notice.
 
 We may amend this Privacy Policy at any time by posting the amend terms on the Site. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. In addition, we will notify you in accordance with your Notification Preferences. 
 
