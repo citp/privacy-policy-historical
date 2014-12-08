@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fairmark.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052505id_/http%3A//fairmark.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairmark.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208191147id_/http%3A//fairmark.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Fairmark.com Fairmark.com
+# Privacy Policy - Fairmark.com Fairmark.com
 
 As of May 31, 2012
 
