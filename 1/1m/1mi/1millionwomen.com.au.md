@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1millionwomen.com.au privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608154249id_/http%3A//www.1millionwomen.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1millionwomen.com.au privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208110854id_/http%3A//www.1millionwomen.com.au/privacy-policy) for the most accurate reproduction.*
 
 # 1 Million Women
 
