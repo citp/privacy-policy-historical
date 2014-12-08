@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themasterplan.in privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604091928id_/http%3A//themasterplan.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themasterplan.in privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208042854id_/http%3A//themasterplan.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
