@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evelynparham.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075442id_/http%3A//evelynparham.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evelynparham.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208040753id_/http%3A//evelynparham.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Evelyn Parham
+# Privacy Policy | Become a Healthier You
 
 **What information do we collect?**
 
@@ -60,10 +60,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://evelynparham.com
 
-P.O. Box 284  
-Luthersville, GA 30259  
+Greenville, Ga 30222  
 United States  
-evelyn@evelynparham.com  
+info@evelynparham.com  
 706-977-9166
 
 Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
