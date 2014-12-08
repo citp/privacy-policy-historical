@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerberbabycontest.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053927id_/http%3A//www.nestle.com/info/yourdata) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerberbabycontest.net privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208025842id_/http%3A//www.nestle.com/info/yourdata) for the most accurate reproduction.*
 
 # Privacy Notice | Nestlé Global
 
@@ -40,7 +40,7 @@ Personal information is only collected with your consent (i.e., if you knowingly
   * Surveys and polls; 
   * Message boards and other interactive activities; 
   * Send to a friend; 
-  * Feedback, questions, or comments through our “Contact Us” form; 
+  * Feedback, questions, or comments through our “Contact Us” form and our "Tell Us" compliance reporting system; 
   * Information submitted in a business capacity (e.g., resumes, media requests, etc.); 
   * Online recruitment (e.g. apply for job vacancies at Nestlé by posting your CV); 
   * Any other request that requires the submission of personal information. 
