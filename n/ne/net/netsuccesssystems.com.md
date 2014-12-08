@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsuccesssystems.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608090743id_/http%3A//netsuccesssystems.com/legal-notices/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuccesssystems.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208230325id_/http%3A//netsuccesssystems.com/legal-notices/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | Net Success Systems
 
@@ -67,9 +67,3 @@ After your account becomes inactive your information may remain in our databases
 These policies may be amended by us at any time and without notice, but will be posted at this page.
 
 You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
-
-Sign Up Now Get FREE Blog Updates!
-
-Simply enter your email into the form below:
-
-Your Privacy is SAFE
