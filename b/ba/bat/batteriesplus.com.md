@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411013415id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208165001id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for BatteriesPlus.com
 
@@ -57,7 +57,7 @@ You may edit your account information at any time by signing in to your account 
 **How can I give you feedback or contact you?**   
 You may contact us through the [Contact Us](http://www.batteriesplus.com/t-contact.aspx) section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate: 
 
-Batteries Plus   
+Batteries Plus Bulbs   
 1325 Walnut Ridge Drive   
 Hartland, WI 53029 
 
