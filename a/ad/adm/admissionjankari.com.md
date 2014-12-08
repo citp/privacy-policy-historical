@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admissionjankari.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608214406id_/http%3A//www.admissionjankari.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admissionjankari.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208035931id_/http%3A//www.admissionjankari.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Admission Jankari
 
