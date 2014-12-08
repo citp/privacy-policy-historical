@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619143956id_/https%3A//www.pottermore.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208222734id_/https%3A//www.pottermore.com/en-us/privacy) for the most accurate reproduction.*
 
-# Pottermore: Privacy and Cookies Policy ("Privacy Policy")
+# Privacy and Cookies Policy ("Privacy Policy")
 
 This Privacy Policy contains 15 sections. You can view each section by selecting the links below:
 
 ### 1 Introduction
 
-1.1 Welcome to Pottermore, the digital home of the Harry Potter books (“Pottermore”). Pottermore includes an interactive online platform known as “Pottermore.com”, which is described in more detail in our [Terms and Conditions](https://web.archive.org/en/terms) (“Terms”), as well as an online eBook and digital audio book shop known as the “Pottermore Shop”. Pottermore is owned by Pottermore Limited (referred to as “we”, “us” or “our” as appropriate, a company established in England and Wales). Pottermore is currently available through the website at [http://www.pottermore.com](http://www.pottermore.com/). We may also make Pottermore or other versions of it available through a number of digital channels or devices. 
+1.1 Welcome to Pottermore, the digital home of the Harry Potter books (“Pottermore”). Pottermore includes an interactive online platform known as “Pottermore.com”, which is described in more detail in our [Terms and Conditions](https://web.archive.org/en-us/terms) (“Terms”), as well as an online eBook and digital audio book shop known as the “Pottermore Shop”. Pottermore is owned by Pottermore Limited (referred to as “we”, “us” or “our” as appropriate, a company established in England and Wales). Pottermore is currently available through the website at [http://www.pottermore.com](http://www.pottermore.com/). We may also make Pottermore or other versions of it available through a number of digital channels or devices. 
 
-1.2 This Privacy Policy describes how we deal with personal information and privacy issues. For the purpose of the UK’s Data Protection Act 1998, the data controller is Pottermore Limited. Please see our [Terms](https://web.archive.org/en/terms) and our [About Pottermore](https://web.archive.org/en/about) page for more information about Pottermore Limited and the basis upon which we provide Pottermore. Some of the capitalised words used in this Privacy Policy are defined in the Terms.
+1.2 This Privacy Policy describes how we deal with personal information and privacy issues. For the purpose of the UK’s Data Protection Act 1998, the data controller is Pottermore Limited. Please see our [Terms](https://web.archive.org/en-us/terms) and our [About Pottermore](https://web.archive.org/en-us/about) page for more information about Pottermore Limited and the basis upon which we provide Pottermore. Some of the capitalised words used in this Privacy Policy are defined in the Terms.
 
-1.3 We are committed to safeguarding the privacy of users of Pottermore and strive to make Pottermore a fun, safe and secure experience for all users. We encourage all users to act responsibly and with care when it comes to their personal information and that of others. Please read this Privacy Policy to understand how the information you provide to us is used and protected. If you have any queries or concerns regarding these practices, please refer to our [Help](https://www.pottermore.com/en/help) pages in the first instance. 
+1.3 We are committed to safeguarding the privacy of users of Pottermore and strive to make Pottermore a fun, safe and secure experience for all users. We encourage all users to act responsibly and with care when it comes to their personal information and that of others. Please read this Privacy Policy to understand how the information you provide to us is used and protected. If you have any queries or concerns regarding these practices, please refer to our [Help](https://www.pottermore.com/en-us/help) pages in the first instance. 
 
-1.4 Please note that by visiting and using Pottermore or consenting for your child to do the same, you are agreeing to the use of your or your child’s personal information as described in this Privacy Policy. For further information on how we use your child’s personal information and the measures we adopt to safeguard their privacy, please see our [Child Safety Policy](https://web.archive.org/en/child-safety).
+1.4 Please note that by visiting and using Pottermore or consenting for your child to do the same, you are agreeing to the use of your or your child’s personal information as described in this Privacy Policy. For further information on how we use your child’s personal information and the measures we adopt to safeguard their privacy, please see our [Child Safety Policy](https://web.archive.org/en-us/child-safety).
 
 ### 2 Changes to our privacy policy
 
-2.1 We may make any change to this Privacy Policy at any time. If we make any material changes we will notify you by sending you an email to the last email address that you provided to us and/or by posting a copy of the changes on Pottermore. Subject to paragraph 2.2, any changes will take effect seven (7) days after the date of our email or the date we post the modified terms on Pottermore, whichever is earlier. If you continue to make use of Pottermore after that period expires you are confirming that you agree to be bound by the modified Privacy Policy. As noted in our [Terms](https://web.archive.org/en/terms), you are responsible for keeping your account information up to date, including your/your parent or guardian’s email address. If the email address to which we send notification to you under this clause is no longer valid but you have failed to notify us of this, the sending of our email (notifying you of any changes to the Terms) will be deemed, nonetheless, to be effective notice of the modified Privacy Policy.
+2.1 We may make any change to this Privacy Policy at any time. If we make any material changes we will notify you by sending you an email to the last email address that you provided to us and/or by posting a copy of the changes on Pottermore. Subject to paragraph 2.2, any changes will take effect seven (7) days after the date of our email or the date we post the modified terms on Pottermore, whichever is earlier. If you continue to make use of Pottermore after that period expires you are confirming that you agree to be bound by the modified Privacy Policy. As noted in our [Terms](https://web.archive.org/en-us/terms), you are responsible for keeping your account information up to date, including your/your parent or guardian’s email address. If the email address to which we send notification to you under this clause is no longer valid but you have failed to notify us of this, the sending of our email (notifying you of any changes to the Terms) will be deemed, nonetheless, to be effective notice of the modified Privacy Policy.
 
 2.2 If we make any material changes in the way we collect, use and/or share personal information, we will give you prominent notice of these changes and offer you a choice about whether the changes should apply to any personal information that we previously collected from you. If we make material changes to how we collect and use personal information from children under the age of 13, we will notify parents or guardians by email in order to obtain verifiable parental consent for the new uses of their child’s personal information.
 
@@ -52,7 +52,7 @@ Your parent or guardian’s email address – this is not displayed publicly on 
 
 § request permission from your parent or guardian for you to access and use Pottermore.com; 
 
-§ request that your parent or guardian accepts the [Terms](https://web.archive.org/en/terms) on your behalf;
+§ request that your parent or guardian accepts the [Terms](https://web.archive.org/en-us/terms) on your behalf;
 
 § manage and communicate with you and your parent or guardian about your access to, or use of, Pottermore.com, as well as to inform you and them of updates to your Pottermore Account;
 
@@ -124,13 +124,13 @@ If you are purchasing a gift, the recipient’s first name and surname, email ad
 
 § determine which version of the product (for example, which edition of a book) we should send to the gift’s recipient.
 
-3.2 Our Terms prohibit the posting or uploading of your or any other person’s personal information on Pottermore regardless of your age. All postings and uploads are subject to review by us before being disclosed to other registered users of Pottermore. In the event that you submit postings or uploads containing personal information in breach of this Privacy Policy and our [Terms](https://web.archive.org/en/terms), we will collect that information as part of the reviewing process. However, we will remove any personal information or unacceptable material during our review of your submission before allowing your post or upload to appear on Pottermore. We may refuse to upload your post in its entirety if it contains personal information. Any personal information we collect as a result of your breach of the Terms will be deleted as part of our reviewing process.
+3.2 Our Terms prohibit the posting or uploading of your or any other person’s personal information on Pottermore regardless of your age. All postings and uploads are subject to review by us before being disclosed to other registered users of Pottermore. In the event that you submit postings or uploads containing personal information in breach of this Privacy Policy and our [Terms](https://web.archive.org/en-us/terms), we will collect that information as part of the reviewing process. However, we will remove any personal information or unacceptable material during our review of your submission before allowing your post or upload to appear on Pottermore. We may refuse to upload your post in its entirety if it contains personal information. Any personal information we collect as a result of your breach of the Terms will be deleted as part of our reviewing process.
 
-3.3 We may suspend or terminate your access to Pottermore in accordance with our [Terms](https://web.archive.org/en/terms) if you post or upload material containing personal information relating to you or any other person. For further details regarding users’ misuse of Pottermore, please see our [Terms](https://web.archive.org/en/terms).
+3.3 We may suspend or terminate your access to Pottermore in accordance with our [Terms](https://web.archive.org/en-us/terms) if you post or upload material containing personal information relating to you or any other person. For further details regarding users’ misuse of Pottermore, please see our [Terms](https://web.archive.org/en-us/terms).
 
 ### 4 How else may we use your personal information?
 
-4.1 We may use your personal information to investigate a complaint made by another user or any potential breach of Pottermore’s [Terms](https://web.archive.org/en/terms) and to prevent and detect criminal activity, fraud and misuse of, or damage to, Pottermore or the services made available through it and to take appropriate legal action against those responsible. 
+4.1 We may use your personal information to investigate a complaint made by another user or any potential breach of Pottermore’s [Terms](https://web.archive.org/en-us/terms) and to prevent and detect criminal activity, fraud and misuse of, or damage to, Pottermore or the services made available through it and to take appropriate legal action against those responsible. 
 
 ### 5 Information sharing and disclosure
 
@@ -197,13 +197,13 @@ You are advised to read the privacy policy of external sites before disclosing a
 
 ### 9 Links
 
-9.1 Pottermore contains links posted by us to third party websites that are not subject to this Privacy Policy. Read the [Terms](https://web.archive.org/en/terms) for further information on these links. In particular, you will see in paragraph 5.5 of the Terms that users are not permitted to distribute or post any links including links to websites, files or links that open or run programs. We strongly recommend that you read the privacy policy of any such websites that you visit.
+9.1 Pottermore contains links posted by us to third party websites that are not subject to this Privacy Policy. Read the [Terms](https://web.archive.org/en-us/terms) for further information on these links. In particular, you will see in paragraph 5.5 of the Terms that users are not permitted to distribute or post any links including links to websites, files or links that open or run programs. We strongly recommend that you read the privacy policy of any such websites that you visit.
 
 ### 10 How do we protect personal information?
 
 10.1 As required by UK Data Protection laws, we follow strict security procedures in relation to the storage and disclosure of information which you have given to us in order to protect against unauthorised access. In particular, we use Secure Sockets Layer (SSL) to encrypt all your passwords and check-out pages. SSL encrypts the information you provide as it travels through the internet. Encryption creates millions of code combinations to protect each transaction made on the website, so your password or information cannot be viewed by anyone else using the internet. Despite using this technology, we cannot guarantee the security of the information that you disclose to us. You accept the inherent risks of providing information and dealing online and will not hold us responsible for any breach of security that is due to circumstances beyond our reasonable control.
 
-10.2 If you have any concerns about security, please refer to our [Help](https://www.pottermore.com/en/help) pages in the first instance.
+10.2 If you have any concerns about security, please refer to our [Help](https://www.pottermore.com/en-us/help) pages in the first instance.
 
 ### 11 Editing your settings and unsubscribing from Pottermore emails
 
@@ -228,15 +228,15 @@ You are advised to read the privacy policy of external sites before disclosing a
 
 Your right to see your personal information
 
-12.2 Under the UK’s Data Protection Act 1998 you have the right to see the personal information that we hold about you, whether collected through your use of Pottermore or through any communications that you have had with us. You will need to provide us with a written request and pay a small fee. If you have any queries about your rights or wish to make such a request please refer to our [Help](https://www.pottermore.com/en/help) pages to find out how you can contact our Data Protection Officer.
+12.2 Under the UK’s Data Protection Act 1998 you have the right to see the personal information that we hold about you, whether collected through your use of Pottermore or through any communications that you have had with us. You will need to provide us with a written request and pay a small fee. If you have any queries about your rights or wish to make such a request please refer to our [Help](https://www.pottermore.com/en-us/help) pages to find out how you can contact our Data Protection Officer.
 
 ### 13 Deleting your account(s)
 
-13.1 If we temporarily suspend or withdraw access to your Pottermore Account for any reason, we will delete your Pottermore Account and any personal information, including any user generated content associated with your Pottermore Account, after six (6) months of withdrawing access unless we reinstate your Pottermore Account or receive a request from you to delete your Pottermore Account sooner (please see paragraph 13.2 for further details). Please see our [Terms](https://web.archive.org/en/terms) for further details about the temporary and permanent suspension of Accounts on Pottermore. 
+13.1 If we temporarily suspend or withdraw access to your Pottermore Account for any reason, we will delete your Pottermore Account and any personal information, including any user generated content associated with your Pottermore Account, after six (6) months of withdrawing access unless we reinstate your Pottermore Account or receive a request from you to delete your Pottermore Account sooner (please see paragraph 13.2 for further details). Please see our [Terms](https://web.archive.org/en-us/terms) for further details about the temporary and permanent suspension of Accounts on Pottermore. 
 
-13.2 You can delete your Pottermore Account or Pottermore Shop Account by sending us a request. To find out how to do so, please refer to our [Help](https://www.pottermore.com/en/help) pages in the first instance. We endeavour to comply with any such requests promptly and in any event within 30 days of receiving your request.
+13.2 You can delete your Pottermore Account or Pottermore Shop Account by sending us a request. To find out how to do so, please refer to our [Help](https://www.pottermore.com/en-us/help) pages in the first instance. We endeavour to comply with any such requests promptly and in any event within 30 days of receiving your request.
 
-13.3 If, having logged on to your child’s Pottermore Account, you inform us that you do not wish your child to use Pottermore.com, we will suspend access to your child’s Pottermore Account immediately and delete their Pottermore Account (and any personal information collected from them, including any user generated content associated with their Pottermore Account) within seven (7) days after receiving your request. Please refer to our [Child Safety Policy](https://web.archive.org/en/child-safety) for further details.
+13.3 If, having logged on to your child’s Pottermore Account, you inform us that you do not wish your child to use Pottermore.com, we will suspend access to your child’s Pottermore Account immediately and delete their Pottermore Account (and any personal information collected from them, including any user generated content associated with their Pottermore Account) within seven (7) days after receiving your request. Please refer to our [Child Safety Policy](https://web.archive.org/en-us/child-safety) for further details.
 
 13.4 When we delete your Account(s), we will delete all the personal information associated with those Accounts including your activity history and user generated content associated with those Account(s). You will not be able to login to Pottermore.com unless you create a new Pottermore Account.
 
@@ -256,7 +256,7 @@ Your right to see your personal information
 
 14.6 You should be aware that the governments, courts or law enforcement or regulatory authorities of countries outside the EEA, in addition to those within the EEA, may be able to obtain access to or disclosure of your personal information through the laws of their respective countries.
 
-14.7 Should you wish to access written information about our policies and practices regarding any of our authorised third party service providers, please contact our Data Protection Officer whose details are set out in our [Help](https://www.pottermore.com/en/help) pages.
+14.7 Should you wish to access written information about our policies and practices regarding any of our authorised third party service providers, please contact our Data Protection Officer whose details are set out in our [Help](https://www.pottermore.com/en-us/help) pages.
 
 ### 15 About us
 
@@ -272,7 +272,7 @@ VAT Registration Number: 980826881
 
 ICO Registration Number: Z2535777
 
-This is not an address to which you should send enquiries or complaints about Pottermore. If you have an enquiry or complaint, please refer to our [Help](https://www.pottermore.com/en/help) pages in the first instance. 
+This is not an address to which you should send enquiries or complaints about Pottermore. If you have an enquiry or complaint, please refer to our [Help](https://www.pottermore.com/en-us/help) pages in the first instance. 
 
 Last updated 23 February 2012
 
