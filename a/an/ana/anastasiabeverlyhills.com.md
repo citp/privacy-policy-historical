@@ -1,100 +1,73 @@
-> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208132502id_/http%3A//anastasiabeverlyhills.com/privacy-statement) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Statement
 
-**Go Daddy Respects Your Privacy**
+When you provide Anastasia Beverly Hills ("ABH") with information through the Anastasia Beverly Hills web site (the "Site"), we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to the Site is subject to this Privacy Policy and our [Terms and Conditions](http://anastasiabeverlyhills.com/terms-conditions/). Please note that this Privacy Policy governs only information provided to the Site and communications from ABH through the Site. It does not govern any other information or communications that may reference ABH.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**1\. Collection of Personally Identifiable Information by ABH**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+ABH does not collect personally identifiable information about you, unless you choose to provide us with such information directly or through a third party. For example, if you decide to complete a user registration form, complete an online survey or make a purchase, you may be asked to provide certain information such as your contact information (name, email address, mailing address, and telephone number), occupation, age group, gender and product and/or cosmetic concerns, and the brands and products that you typically use. If you decide to place an order, we will also need to know your delivery and billing address, credit card number, and expiration date. To protect your personal information, users registering at the Site must also enter a user name/email address and password. If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information. When you submit your personally identifiable information on the Site, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**2\. Use of Personally Identifiable Information by ABH**
 
-**Information Collection and Use**
+If you opt-in during the Site registration process or at other times when you submit personally identifiable information, the information you provide may be used by ABH to create and deliver to you emails such as our newsletters, surveys or other email messages containing product and event information, cosmetics tips or promotions ("Opt-In Emails"). If you prefer not to receive such Opt-In Emails, please do not opt-in to receive these emails. If you do opt-in and later decide that you would no longer like to receive these emails, see Section 13 (Choice/Opt-Out) below. You may receive the benefit of hearing from ABH Online via mail or phone even if you have not opted-in to receive email. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+If you have elected to provide us with your contact information, e.g., by registering at the Site, emailing our Customer Service department or placing an order, we may provide you with service related announcements concerning the Site or contact you regarding your customer service requests or your order. For example, all registered users will receive a welcoming email to confirm their registration. We may also contact you to respond to product questions or concerns that you may express. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that ABH Online offers its customers. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**3\. Use of Personally Identifiable Information by ABH Companies**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may share your personally identifiable information with companies and business entities which are owned or controlled by ABH Online's parent company and distribute and market ABH brand products (the "ABH Companies"). ABH Companies may only use this information in accordance with this Privacy Policy. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**4\. Disclosure of Personally Identifiable Information and Transfer of Data**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+ABH may disclose any information, including personally identifiable information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. We may also exchange information, including personally identifiable information, with other companies and organizations for credit fraud protection and risk reduction.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+ABH may retain other companies and individuals to perform functions consistent with our Privacy Policy on our behalf. Examples include customer support specialists, webhosting companies, fulfillment companies (e.g., companies that fill product orders or coordinate mailings), data analysis firms and email service providers. Such third parties may be provided with access to personally identifiable information needed to perform their functions, but may not use such information for any other purpose. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+If you choose to participate in any promotions, sweepstakes, surveys, questionnaires or other events during your visit to our Site, the rules or terms and conditions for those events may indicate that your personally identifiable information will be shared with third parties. By choosing to participate and submitting your personally identifiable information with respect to such events, you consent to disclosure of your personally identifiable information to such third parties. ABH Online is not responsible for and disclaims all liability for any use of the information you choose to provide to such third parties. 
 
-**Security**
+The ABH Companies and third parties referenced in Sections 3 and 4 who will receive your information only for the purposes set forth in this Privacy Policy and the databases in which your personally identifiable information may be stored may be located both inside and outside the United States ("US"). By providing personally identifiable information to this Site, you acknowledge and accept that the ABH Company or third party which receives your personally identifiable information may be located in the US or within a state or country which does not guarantee the same level of protection for personally identifiable information as the one in which you reside. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**5\. Cookies and IP Addresses**
 
-**Updating Your Information**
+A cookie is a piece of data that enables us to track and target your preferences. We may place a "cookie" on your computer's hard drive so we can recognize you as a return user and personalize your experience and your use of our Site. The cookie will be stored on your computer's hard drive until you remove it. We may also use temporary or "session" cookies to help you shop. These cookies will expire when you place an order. We may use flash cookies to personalize your experience. You can have your browser and/or plugs to your browser, such as flash, notify you of, or automatically reject, cookies. If you reject our cookies, you may still use the Site, but you may be limited in the use of some of the features. We may also use IP addresses to analyze trends, administer the Site, track traffic patterns, and gather demographic information for aggregate use, as well as in combination with your personally identifiable information for credit fraud protection and risk reduction. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Some of our other business partners and service providers may also use cookies on the Site. However, we have no access to, or control over, these cookies and do not accept any responsibility for such use. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**6\. Pixel Tags and Tracking Technology**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+When you visit this Site or view one of our emails, ABH may use pixel tags (also called "clear" gifs), tracking links and/or similar technology to note some of the pages you visit on our Site and personalize your experience. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through pixel tags, tracking links and similar technology in combination with your personally identifiable information. 
 
-      iii.      You may call us at: (480) 505-8800
+**7\. Use of Aggregate Information**
 
-       iv.      You may fax us at: (480) 505-8844
+ABH may use the information you provide in aggregate (non-personally identifiable) form for internal business purposes, such as generating statistics and developing marketing plans. We may collect, store or accumulate certain non-personally identifiable information concerning your use of the Site, such as information regarding which of our pages are most popular. We may share or transfer non-personally identifiable information with or to our affiliates, licensees and partners. 
 
-**Sending Emails**
+**8\. Children under 13**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+If you are under 13 years of age, you may browse our Site. However, you may not provide personal information to us. For example, you cannot register or make a purchase. This Site is not designed for children and we do not knowingly collect personally identifiable information from any children under 13. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**9\. Links**
 
-**Compliance with Laws and Law Enforcement**
+The Site may contain links to or from other websites. Please be aware that we are not responsible for the privacy practices of other websites. This Privacy Policy applies only to the information we collect on the Site. We encourage you to read the privacy policies of other websites you link to from the Site or otherwise visit. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**10\. Security**
 
-**Third Party Service Providers**
+ABH implements various security measures in accordance with industry standards to protect the security of your personal information both online and offline. Your personal information may be stored facilities located both inside and outside the US and the EU. If you have any questions about the security at the Site, you can email us at [info@anastasia.net](mailto:info@anastasia.net). 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**11\. Notification of Changes**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+ABH reserves the right to revise this Privacy Policy from time to time. Our rights to use your personally identifiable information will be based on the privacy policy in effect at the time the information is used. This Privacy Policy was last updated August 11, 2008.
 
-**Supplementation of Information**
+**12\. Updating Your Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+You may review, change and/or correct the personally identifiable information you provide, review/update your personal information, or request that we deactivate your account at any time by emailing us at a href="mailto:info@anastasia.net">info@anastasia.net. 
 
-**Contests/Surveys**
+**13\. Choice/Opt-Out**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+When you register at the Site or otherwise provide your contact information to ABH Online, you may opt-out of receiving future Opt-In Emails from us. Further, you may opt out from written or email communication by contacting us at [info@anastasia.net](mailto:info@anastasia.net). 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**14\. Comments**
 
-**Tell-A-Friend**
+We have taken great measures to ensure that your visit to the Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the Site's privacy practices, please email us at [info@anastasia.net](mailto:info@anastasia.net). 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Copyright © 2012 Anastasia Beverly Hills, Inc. All worldwide rights reserved. 
