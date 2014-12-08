@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hackerearth.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528030113id_/http%3A//www.hackerearth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerearth.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209002015id_/http%3A//www.hackerearth.com/privacy) for the most accurate reproduction.*
 
-# HackerEarth | Privacy
+# Privacy Policy | HackerEarth
 
 This Application collects some Personal Data from its Users.  
 The Data are collected and processed for the purposes set out below.
@@ -33,7 +33,7 @@ The Data Controller processes the Data of the Interested Parties and Users in a 
 
 In addition to the owner, in some cases, access to the Data may be available to external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies). The updated list of Managers may be requested from the Owner at any time.
 
-The data controller can process the data collected on any of the properties of Hackerearth on any other properties. The three properties of HackerEarth are [hackerearth.com](http://www.hackerearth.com/), [learn.hackerearth.com](http://learn.hackerearth.com/) and [code.hackerearth.com](https://web.archive.org/web/20140528030113id_/http://www.hackerearth.com/privacy/code.hackerearth.com).
+The data controller can process the data collected on any of the properties of Hackerearth on any other properties. The three properties of HackerEarth are [hackerearth.com](http://www.hackerearth.com/), [learn.hackerearth.com](http://learn.hackerearth.com/) and [code.hackerearth.com](https://web.archive.org/web/20141209002015id_/http://www.hackerearth.com/privacy/code.hackerearth.com).
 
 ### Place
 
