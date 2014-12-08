@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the tripoto.com privacy policy that was archived on 2014-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140617223238id_/http%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripoto.com privacy policy that was archived on 2014-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208111657id_/http%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><!-- / Header --><head>
 
   <title>Privacy Policy</title>
   
   <meta name="p:domain_verify" content="5ce359dd0785c670efd0971a6ccbf30c">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0">
 
   
   
@@ -21,9 +21,10 @@
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <link href="http://fonts.googleapis.com/css?family=Varela" rel="stylesheet" type="text/css">
 
-  
-  <link rel="stylesheet" type="text/css" href="http://static1.tripoto.com/5.36/css/all-tripoto.css">
+
+  <link rel="stylesheet" type="text/css" href="http://static1.tripoto.com/7.5/css/all-tripoto.css">
   	
+  
   
   
   
@@ -80,43 +81,59 @@ if(baseRelUrl==''){
   baseRelUrl="/";
 }
 var promptLogin = false;
-var IMG_ASSETS_URL = 'http://static2.tripoto.com/5.36/img/';
+var IMG_ASSETS_URL = 'http://static2.tripoto.com/7.5/img/';
 var DYNA_IMG_ASSETS_URL = 'http://static2.tripoto.com';
 var staticViewName = 'privacy_policy';
 var isMobile = false;
 </script>
 
 <!-- / Navigation bar -->
-<div class="navbar navbar-inverse navbar-fixed-top">
+<div class="navbar navbar-inverse navbar-fixed-top main-nav">
   <div class="navbar-inner navbar-inner-bluebg"> 
     <!--container-fluid start-->
     <div class="container-fluid">
       <a class="brand" href="http://www.tripoto.com">
       <img src="/img/logo/tripoto.png" alt="Tripoto">     </a> 
-      <!--/.Share Trip search start-->
-      <div class="sharetripsearch">
+     
+      <!--/.Share Trip search for large screens start-->
+      <div class="sharetripsearch desktop-only">
         <div class="tripsearch">
-      
-         <form action="/search" class="formsearchtrip" id="TripDisplayForm" method="get" accept-charset="utf-8">		    <div class="sharetrip_textfield">
-
-             <div class="input text"><input name="keywords" id="keywords" placeholder="Search" type="text"></div>    		  </div>
-            <div class="sharetrip_searchbtn">
-              <div class="submit"><input type="submit" value=""></div>			</div></form>
-		   </div>
+          <form action="/search" class="formsearchtrip" id="TripDisplayForm" method="get" accept-charset="utf-8">          <div class="sharetrip_textfield">
+            <div class="input text"><input name="keywords" id="keywords" placeholder="Search" type="text"></div>          </div>
+          <div class="sharetrip_searchbtn">
+            <div class="submit"><input type="submit" value=""></div>          </div></form>
+        </div>
       </div>
-      <!--/.Share Trip search end-->
-      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <!--/.Share Trip search  for large screens end-->
+     
+      <!-- Button for togggling side bar menu in small devices -->
+      
+      <button type="button" class="btn btn-navbar mobile-only" id="toggle-side-menu"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+     
+
+      <!-- Mobile Search Begins -->
+      <div class="mobile-search mobile-only">
+        <div class="control-group">
+          <div class="controls">
+            <div class="input-prepend">    
+              <form action="/search" class="formsearchtrip" id="TripDisplayForm" method="get" accept-charset="utf-8"><input name="keywords" id="m-search-box" placeholder="Search" type="text"><button type="button" name="keywords" id="toggle-search" class="btn btn-navbar mobile-only"><span class="icon-search"></span></button><div class="submit"><input type="submit" value=""></div></form> 
+            </div>
+          </div>
+        </div>
+      </div>     
+    
       <!--/.Links in the header menu starts here-->
-      <div class="nav-collapse navLink collapse topBar">
+      <div class=" navLink topBar">
         <nav>
-       <ul class="nav">
-                <li class="home-menu ">
-                    <a href="#" class="dropdown-toggle discover-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="500" data-close-others="false">Discover<i class="icon-caret-down"></i></a>
-                    <div class="discoverDropDown dropdown-menu">
+          <ul class="nav">
+            <li class="home-menu ">
+                <a href="#" class="dropdown-toggle discover-toggle" data-hover="dropdown" data-toggle="dropdown" data-delay="500" data-close-others="false">Discover<i class="icon-caret-down"></i></a>
+                <div class="discoverDropDown dropdown-menu">
   <p class="triangle-up discoverTriangle">&nbsp;</p>
   <div class="borderDiscoverMenu"></div>
   <ul class="discoverTrips">
   
+    <li><a href="/the-stash">The Stash</a></li>
     <li><a href="/travel-itineraries-india">India Itineraries</a></li>
     <li><a href="/travel-itineraries-asia">Asia Itineraries</a></li>
     <li><a href="/travel-itineraries-africa">Africa Itineraries</a></li>
@@ -125,37 +142,85 @@ var isMobile = false;
     <li><a href="/travel-itineraries-australia">Australia Itineraries</a></li>
     
   </ul>
-</div>	                </li>       
-				                <li class="">
-                    <a class="first link-share-trip loggedin_popup" href="javascript:void(0);"><span>Publish Trip</span>
-                    </a>
-                </li>
-                                <li class="">
-                    <a href="/travel-blog-to-itinerary">Submit Blog</a>
-                </li>
-                <li class="">
-                    <a href="/how-it-works">How it Works</a>
-                </li>
-                                          </ul>
+</div>	            </li>       
+                        <li class="">
+                <a class="link-share-trip loggedin_popup" href="javascript:void(0);"><span>Publish Trip</span>
+                </a>
+            </li>
+                        <li class="">
+                <a href="/travel-blog-to-itinerary">Submit Blog</a>
+            </li>
+            <li class="">
+                <a href="/how-it-works">How it Works</a>
+            </li>
+                                        
+             <!--/.Logout starts here-->
+                                  
+              <li id="toggle-signin" class="mobile-only"> 
+                <a href="#">       
+                   Sign In                </a>
+              </li>
+
+                       </ul>
         </nav>
       </div>
       <!--/.Links in the header menu ends here-->
-      <!--/.nav-collapse -->
-      <div class="dropdown signLogo pull-right">
+            <!--/.nav-collapse -->
+      <div class="dropdown signLogo pull-right ">
        <!--/.User details starts here-->
-             <!--/.User details ends here-->
-     <!--/.Logout starts here-->
-      		  <span class="login">
-        	  <a href="#" class="dropdown-toggle loginicon loggedin_popup" style="color:#fff !important" data-toggle="dropdown">
-			 Sign In            <img src="http://static2.tripoto.com/5.36/img/img_sipl/loginicon.png" alt="">            </a> 
-		             </span>       
+      
+          <ul class="user notlogged">
+                      <li class="top-icons">
+            
+             <div id="messageNotifPopup" class="count-popup" style="display:none;"></div>
+             
+              <a class="header-top-icons openLoginModal" id="" ""="" href="#"><img src="http://static2.tripoto.com/7.5/img/message-icon.png" alt="">               </a>
+              <div class="drop-list dropdown-menu text-left" id="messageDdownBox" role="menu" aria-labelledby="dLabel">
+               <div class="drop-head">
+                  <strong>Messages</strong> 
+                  <a class="pull-right badge-notification" href="http://www.tripoto.com/messages/inbox/">Inbox</a>
+              </div>
+               <ul>
+                 
+               </ul>
+               <div class="drop-foot text-center" id="viewMoreMessages" data-state="1"><strong>View More Messages</strong></div>
+               </div>
+             
+           </li>           
+            <li class="top-icons">
+
+             <div id="generalNotifPopup" class="count-popup" style="display:none;"></div>
+              
+              <a class="header-top-icons openLoginModal" ""="" id="" href="#"><img src="http://static2.tripoto.com/7.5/img/notification-icon.png" alt="">               </a>
+              <div class="drop-list dropdown-menu text-left" id="notificationDdownBox" role="menu" aria-labelledby="dLabel">
+                <div class="drop-head"><strong>Notifications</strong> <!-- <small class="pull-right badge-notification">Mark as Read</small> --></div>
+               
+              <ul>
+               
+               </ul>
+               <!-- data-state for keeping track of the button-click , 1-enabled 2-disabled -->
+             <div class="drop-foot text-center" id="viewMoreNotifications" data-state="1"><strong>View More Notifications</strong></div>
+              
+               </div>
+            </li>
+                        
+                  <!--/.User details ends here-->
+          <!--/.Logout starts here-->
+               </ul>
+		    <span class="login">
+            <a href="#" class="dropdown-toggle loginicon loggedin_popup" style="color:#fff !important" data-toggle="dropdown">
+			          Sign In               <img src="http://static2.tripoto.com/7.5/img/img_sipl/loginicon.png" alt="Setting" title="Setting">            </a> 
+		           </span>       
         <!--container-fluid start--> 
       </div>
     </div>
     <!--container-fluid end--> 
   </div>
 </div>
-
+<script type="text/javascript">            
+var isloggedInUser = 0;
+var isMessageNotificationEnable = 1;
+</script>
 <!-- / Content starts -->
 <div id="inner-page">
    <section id="content">
@@ -361,6 +426,7 @@ var isMobile = false;
       </div>
     </div>
   </div>
+<br>
    </section>
 </div>
 <!-- / Content ends -->
@@ -382,12 +448,14 @@ var isMobile = false;
 
 	    <div class="row-fluid">
 	      <div class="span5 offset7">
-	      	<a href="/privacy-policy">Privacy Policy</a>	      	
-	      	<a href="/tripoto-credits">Earn Credits</a>
-	      	<a href="/contacts/">Contact us</a>
-	      	<a href="/frequently-asked-questions">FAQ</a>
-	      	<a href="/apply-as-expert">Become a travel expert</a>
+	      	<a href="/the-stash">The Stash</a>
 	      	<a href="/blog">Blog</a>
+	      	<a href="/get-paid-to-travel-contest">Get Paid to Travel</a>
+	      	<a href="/frequently-asked-questions">FAQ</a>
+	      	<a href="/advertise_with_us">Advertise With Us</a>
+	      	<a href="/contacts/">Contact us</a>
+	      	<a href="/tripoto-credits">Earn Credits</a>
+	      	<a href="/privacy-policy">Privacy Policy</a>
 	      </div>
 	      <div class="span6">
 					<div class="social-follow-us-label">Follow us:</div>
@@ -451,6 +519,8 @@ var isMobile = false;
 	      	<a href="/walks">Walks</a>
 	      	 
 	      	<a href="/city-guides">City Guides</a>
+	      	
+	      	<a href="/apply-as-expert">Become a travel expert</a>
 
 	      </div>
 	    </div>  
@@ -463,14 +533,14 @@ var isMobile = false;
      <!--footergraybg end here-->
   </div>
 </footer>
-<script type="text/javascript" src="http://static0.tripoto.com/5.36/js/all-lib.js"></script><script type="text/javascript" src="http://static0.tripoto.com/5.36/js/all-tripoto.js"></script><script>
+<script type="text/javascript" src="http://static0.tripoto.com/7.5/js/all-lib.js"></script><script type="text/javascript" src="http://static0.tripoto.com/7.5/js/all-tripoto.js"></script><script>
 $(function(){
 	initTripotoJsActions("Pages", "display");	
-});
+	});
 </script>
 
 
-<script type="text/javascript" src="http://static0.tripoto.com/5.36/js/thirdparty/jquery.scrolldepth.js"></script><script>
+<script type="text/javascript" src="http://static0.tripoto.com/7.5/js/thirdparty/jquery.scrolldepth.js"></script><script>
 var tElements = [];
 
 $(function() {
@@ -515,7 +585,7 @@ $(function() {
                     <div class="separator">OR</div>
                     <ul>
                       <li>
-                        <input name="data[User][username]" id="si_username_modal" placeholder="Enter Username" class="si_username" maxlength="70" type="text">                      </li>
+                        <input name="data[User][username]" id="si_username_modal" placeholder="Enter Email-Id" class="si_username" maxlength="70" type="text">                      </li>
                       <li>
                         <input name="data[User][password]" id="si_password_modal" placeholder="Enter Password" class="si_password" type="password">                      </li>
                     </ul>
@@ -560,4 +630,5 @@ $(function() {
         </form>     
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
-  </div><!-- /forgotPasswordModal --></body></html>
+  </div><!-- /forgotPasswordModal -->
+</body></html>
