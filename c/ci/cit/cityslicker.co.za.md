@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityslicker.co.za privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327143334id_/http%3A//www.cityslicker.co.za/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityslicker.co.za privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208110150id_/http%3A//www.cityslicker.co.za/about/privacy.php) for the most accurate reproduction.*
 
 # Save up to 70% with our Daily Sales in Cape Town
 
