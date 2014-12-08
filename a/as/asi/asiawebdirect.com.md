@@ -1,31 +1,143 @@
-> *The following text is extracted and transformed from the asiawebdirect.com privacy policy that was archived on 2005-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051120133137id_/http%3A//asiawebdirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiawebdirect.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208090617id_/http%3A//asiawebdirect.com/privacy) for the most accurate reproduction.*
 
-# Welcome to Asia Web Direct
+# Privacy Policy
 
-### Asia Web Direct Group
+At asiawebdirect.com, we are committed to protecting the privacy and security of any personally identifiable information ("PII") you provide us. PII includes information that can be linked to a specific individual, such as name, address, phone number, or email address
 
-Asia Web Direct Co. Ltd. and its subsidiary and associate companies operate www.latestays.com, www.phuket.com, www.bangkok.com, www.kosamui.com, www.gothailand.com, www.resort-hotels.com and many other clearly identified Web sites. We respect your privacy and value your trust in us. We will do everything in our power to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. 
+This Privacy Policy explains how we handle and protect your PII in accordance with internationally recognised privacy principles. This policy was last adjusted on 4 October 2010.
 
-### Personal Information
+We reserve the right to modify or amend this policy at any time and for any reason. Any material changes to this Privacy Policy will be posted on this website. Questions regarding this policy should be emailed to [privacy@asiawebdirect.com](mailto:privacy@asiawebdirect.com?subject=\[privacy%20policy\])
 
-We do not collect the names or addresses of visitors to our Web sites. We do not sell, rent or barter mailing lists of our visitors. We do not reveal a visitor's name, address, credit card number or other personally identifying information to any phuket.com client other than the client involved in each particular transaction.
+What information we collect   
+In an effort to keep our service as simple and easy to use as possible we do not create, use or store profiles of our customers. We only record PII and other information that we reasonably require to do business with you. more info
 
-### Reservation Details
+How we use your information   
+We use your PII only for the purpose of responding to and fulfilling your requests for our products and services. more info
 
-We do collect and store the names, addresses, credit card numbers and other personally identifying information of visitors who make on-line reservations. This information is collected using a secure server operating under our own Security Certificates issued by Thawte Server CA (a Verisign Company), transmitted in encrypted form and saved in a secure off-line environment. It is only used to process reservations and inform visitors of additional services, special offers, and to build features that will make the service easier and more personalized to use. 
+Who we share your information with   
+We do not disclose any information about customer bookings to anyone for purposes which are not related to your booking or the delivery of our services to you. more info
 
-At the customer's request, we will not send the customer any information or offers unrelated to the customer's specific transaction. 
+How you control and access your information  
+We believe that site visitors and customers should have control over the collection and use of their PII more info
 
-### Cookies
+How we protect your information   
+To ensure the confidentiality of your PII, we use leading security technology and procedures that are regularly reviewed and updated. more info
 
-We reserve the right to use "cookies" technology to reduce the time required for visitors to submit transactions. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Web site to "personalize" itself for each user. No other company has access to our cookies. If you do not want us to use cookies when we serve you, disable them in your browser. 
+#### What Information We Collect
 
-For all transactions, we will employ reasonable and current Internet security methods and technologies. We encourage our participating third-party clients to adopt and honor their own consumer privacy policies. 
+In an effort to keep our service as simple and easy to use as possible, we do not create, use or store profiles of our customers. We only record PII and other information that we reasonably require to do business with you. On all our web pages that collect PII, we specifically describe what information is required in order to provide you with the product or service you request.
 
-### **Statistics and Demographics**
+**We collect PII when you:**
 
-We may reveal general, non-personal data about our Web site, such as number of visitors, country of origin, number of goods and services purchased, etc. 
+  * _Make a booking_  
+We collect your full name, email address and phone number each time you make a booking on our site. We will also collect credit card information, including card number, card type, security number, accommodation purchased through our site. 
+  * _Subscribe to our newsletter_  
+We use your email address when you make a booking on our site or request a downloadable travel guide to subscribe you to our AsiaWebDirect newsletter. You are free to unsubscribe to our newsletter at any time (see below for how to unsubscribe). 
+  * _Surveys, promotions and competition information_  
+Occasionally, We may offer site visitors or newsletter recipients an opportunity to participate in a survey, promotion or competition. The PII we collect when you participate in a survey, promotion or competition may include your full name, email address, telephone number and street address. 
+  * _Contact with us_  
+We collect PII such as your full name, email address and/or telephone number whenever you submit an enquiry or suggestion, or request assistance with a booking. 
 
-### Amendments to Policy
 
-Any changes to our privacy promise will be communicated through our Web site at least 7 days in advance of implementation. Information collected before changes are made will be secured according to the old privacy policy.
+
+#### Other information we collect:
+
+  * _Statistical information_  
+When you visit our site, we record general information about your visit for statistical purposes. These statistics do not contain any PII. 
+  * _IP address_  
+When you visit our site our web server automatically records the IP address of your computer (location on the Internet) to assist with fraud protection. 
+  * _Cookies_  
+We may, from time to time, use "cookies" to store your preferences, record session information and collect information on how you visit and access our web pages. We collect information on the web pages visited by our customers to help us continue to improve our services. 
+
+Cookies are pieces of information that our web page transfers to your computer's hard disk for record-keeping purposes. Cookies can make the web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard and many websites use them to provide useful features for you. Cookies in and of themselves do not personally identify you, only your computer. 
+
+You can delete cookies from your computer at any time (see your internet browser's help menu for more information); however, this will remove all cookies and not just those associated with our site. You can individually remove a cookie that connects a property to your shortlist by clicking the remove option when the property appears in your shortlist. 
+
+
+
+
+#### How We Use Your Information
+
+We use your PII only for the purpose of responding to and fulfilling your requests for our products and services. Information collected on our site may be used to:
+
+  * _Purchase of products or services_  
+Information collected when you purchase from us is used to charge your credit card and deliver your booking confirmation electronically. We may also contact you about your stay for customer service purposes or to make any changes or cancellations to your booking. 
+  * _Send newsletter email_  
+We will only send newsletters to people that have opted in to receive them (including by accepting the booking terms and conditions on our site). 
+  * _Communications with you_  
+We will use your email address and/or telephone number to contact you when you submit a question or suggestion or if we have a need to contact you in connection with your booking.We may use your email address and booking information to inform you of additional services and special offers, and to build features that will make the service easier and more personalized for you to use. At your request, we will not send any information or offers unrelated to your specific booking. At your request, we will send your booking information to your email address or other nominated contact method subject to our customer identity verification procedures being satisfied. 
+  * _Fraud protection_  
+We may pass on your credit card information and IP address to our fraud screening services provider to assist with protecting against fraud. 
+
+
+
+#### Who We Share Your Information With
+
+We do not disclose any information about customer bookings to anyone except in the following circumstances:
+
+  * _Accommodation suppliers_  
+We provide the guest name, telephone number and email address for each booking made to the relevant accommodation supplier. Our accommodation suppliers require this information for the booking and may use it if they need to contact you about the booking. We may also pass on your credit card information via a secure password protected page to the accommodation supplier solely for purposes of guaranteeing your booking or for the supplier to charge part of the booking amount (if applicable). 
+  * _Payment processing_  
+We pass on through the secure payment gateway your credit card information and billing address to the bank which processes your payment. We may pass on your credit card information and IP address (location on the Internet) to our fraud screening service provider. 
+  * _Company group members_  
+We may pass on your personal information to our other group companies (being related bodies corporate of Asia Web Direct (HK) Limited) for the purposes of assisting with your booking and performing related activities as described in this Privacy Policy. 
+  * _Legal obligations_  
+We may be required by law to disclose information you provide to us. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could cause harm to others. 
+
+
+
+#### How You Control and Access Your Information
+
+We believe that site visitors and customers should have control over the collection and use of their PII. Here's how you can control and have access to your information:
+
+  * _Newsletter subscription and unsubscription_  
+If at any time you would like to either change your email address with us or unsubscribe from our newsletter you can go to the "Newsletter" section of our site and follow the instructions to change your email address or unsubscribe. 
+  * _Booking information_  
+If at any time you would like to alter the PII you provided us in your booking, please [contact us](https://web.archive.org/enquiry/). 
+  * _Remember my details for next time_  
+If at any time you would like us to stop remembering your details for the next time you book, untick "Remember my details for next time" the next time you make a booking, or [contact us](https://web.archive.org/enquiry/). 
+  * _General_  
+If at any time you want to enquire about any of your PII that we store, please [contact us](https://web.archive.org/enquiry/). 
+
+
+
+#### How We Protect Your Information
+
+To ensure the confidentiality of your PII, we use leading security technology and procedures that are regularly reviewed and updated.
+
+We have also obtained a digital certificate from the VeriSign group, an industry leader in the protection and management of data transmission.
+
+Our systems are configured with industry standard data encryption and firewall technology. When you send PII to us over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission.
+
+#### 1\. Infringement notification
+
+At Asia Web Direct we respect the copyrights of others. If you believe in good faith that materials hosted by us infringe your copyright, you (or your agent) may send us a written notice that includes the information listed below.
+
+Please provide the following information in the following format:
+
+  1. A clear identification of the copyrighted work you claim was infringed.
+  2. A clear identification of the material you claim is infringing the copyrighted work, and information that will allow us to locate that material on the Website, such as a link to the infringing material.
+  3. Your contact information so that we can reply to your complaint, preferably including an email address and telephone number.
+  4. Include the following statement: "I have a good faith belief that the material that is claimed as copyright infringement is not authorized by the copyright owner, its agent, or the law."
+  5. Include the following statement: "I swear, under penalty of perjury, that the information in the notification is accurate and I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."
+  6. The notice must be signed by the person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+
+
+Notices of claims of copyright infringement on this website should be emailed to [copyright@asiawebdirect.com](mailto:copyright@asiawebdirect.com) for the fastest resolution.
+
+You may also send us your notice using the contact information below:
+
+  * Asia Web Direct c/o The Legal Department, 7 Baroona Road, Milton, QLD, AUSTRALIA 4064
+  * Fax number: +61 7 3512 9914
+  * All correspondence must be written in English.
+
+
+
+We suggest that you consult your legal advisor before filing a notice or counter-notice. Also, please note that you may be liable for damages (including costs and attorney’s fees) if you make a false claim of copyright infringement.
+
+We will review and address all notices that comply with the requirements above. Please note that we will not process your complaint if it is not properly filled out or if any of the above information is incomplete.
+
+#### 2\. Repeat Infringer Policy
+
+In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and at our sole discretion, subscribers or account holders who are deemed to be repeat infringers. We may also limit access to the Site and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement. If you believe that an account holder or subscriber is a repeat infringer, please provide information sufficient for us to verify this, when filling out your notice. If this Policy is translated into another language and a discrepancy arises between this Policy and the translation thereto, the English language text shall prevail.
