@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cmsmart.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628184031id_/http%3A//cmsmart.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmsmart.net privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208040728id_/http%3A//cmsmart.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Cmsmart marketplace - Privacy Policy
 
-Details
-     Category: [Legal Operation](http://cmsmart.net/privacy-policy/20-legal-operation)
-     Created on 12 June 2013 
+##  [ Privacy Policy](http://cmsmart.net/privacy-policy)
 
 Cmsmart ("Cmsmart") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, www.cmsmart.net on the World Wide Web (the "Site"), as well as for Cmsmart services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete JoomArt Privacy Policy.
 
@@ -48,7 +46,7 @@ Cmsmart Product Registration Information: Some Cmsmart products ask you for cert
 
 All information gathered on the Site is stored and maintained in secure facilities. In addition, internal security provides that this information is coded with restricted access, and our servers are kept in a secure, locked environment that limits access to authorized personnel only. All Cmsmart employees, and all external service providers who may process and/or store customer data, are briefed about the company's privacy and security policies on a regular basis. The Site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. Any service providers with whom Cmsmart contracts, and who receive, store, or process personally identifiable customer data, have committed to abide by the provisions of this privacy policy. All transmissions of personally identifiable customer data are encrypted and secure.
 
-If you have any questions about the security at our Site, you can send an email to [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy51273%20=%20'support'%20+%20'@';%20addy51273%20=%20addy51273%20+%20'cmsmart'%20+%20'.'%20+%20'net';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy51273%20+%20'\\'%3E'\);%20document.write\(addy51273\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[support@cmsmart.net](mailto:support@cmsmart.net).
+If you have any questions about the security at our Site, you can send an email to [This email address is being protected from spambots. You need JavaScript enabled to view it..">[sales@cmsmart.net](mailto:sales@cmsmart.net).](mailto:%3Cspan%20id=)
 
 Please note that this email address will reject messages with attachments of any kind.
 
@@ -58,6 +56,6 @@ You are free to update your information at any time directly through our Site. A
 
 To change your information, or request that your information be changed, please use one of the following options:
 
-Log in at [http://www.Cmsmart.net](http://www.cmsmart.net/) and click on "Your Profile" link
+Log in at [http://www.Cmsmart.net](http://www.cmsmart.net/) and click on "Your Profile" link
 
-Send email to us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy30830%20=%20'support'%20+%20'@';%20addy30830%20=%20addy30830%20+%20'cmsmart'%20+%20'.'%20+%20'net';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy30830%20+%20'\\'%3E'\);%20document.write\(addy30830\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[support@cmsmart.net](mailto:support@cmsmart.net). Please note that this email address will reject messages with attachments of any kind.
+Send email to us at [This email address is being protected from spambots. You need JavaScript enabled to view it..">[sales@cmsmart.net](mailto:sales@cmsmart.net).](mailto:%3Cspan%20id=) Please note that this email address will reject messages with attachments of any kind.
