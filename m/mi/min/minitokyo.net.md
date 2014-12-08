@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minitokyo.net privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214143216id_/http%3A//www.minitokyo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minitokyo.net privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209005415id_/http%3A//www.minitokyo.net/privacy) for the most accurate reproduction.*
 
 # Minitokyo Privacy Policy - Minitokyo
 
