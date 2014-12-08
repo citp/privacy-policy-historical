@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salemcg.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126135824id_/http%3A//www.salemcg.com/blog/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemcg.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208194222id_/http%3A//www.salemcg.com/blog/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Top 10 Internet Security Software in 2013 2014 With Best Antivirus, Firewall, And Cloud-Based Antivirus Engine
 
