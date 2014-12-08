@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610151732id_/http%3A//www.solestruck.com/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208224734id_/http%3A//www.solestruck.com/privacynotice) for the most accurate reproduction.*
 
 # Solestruck Customer Service - we aim to please.
 
