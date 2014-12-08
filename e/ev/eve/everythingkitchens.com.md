@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingkitchens.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317054201id_/http%3A//www.everythingkitchens.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingkitchens.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208141828id_/http%3A//www.everythingkitchens.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Everything Kitchens
 
@@ -38,6 +38,10 @@ All EverythingKitchens.com Web servers and database servers are housed and maint
 We customize certain Web page content based upon your browser type and other information provided by our cookie. If you choose to reject the cookie, you can still browse our Web site, but you may not be able to use the shopping cart to buy merchandise. You are always welcome to place your order by phone at (866) 452-4268. **We will not share any personally identifiable information provided by this cookie with any third party.**
 
 This privacy statement covers the use of cookies by EverythingKitchens.com only and does not cover the use of cookies by any third-party companies.
+
+This website uses the Google Adwords remarketing service to advertise on third party websites (including Google) to previous visitors on our site. These ads are served using cookies that include non-identifiable information about your visit to our site in order to show you ads for our products on third-party websites, including Google, and the Google Display Network. Any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
+
+You can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads). You can also opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Collection and Use of Analytic Data**  
 We use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information, and **we do not distribute or share IP information with any third parties.**
