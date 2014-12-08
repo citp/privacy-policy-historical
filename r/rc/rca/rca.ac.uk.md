@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rca.ac.uk privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531190038id_/http%3A//www.rca.ac.uk/more/contact-us/about-this-website/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rca.ac.uk privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208112812id_/http%3A//www.rca.ac.uk/contact-us/about-this-website/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Royal College of Art
 
