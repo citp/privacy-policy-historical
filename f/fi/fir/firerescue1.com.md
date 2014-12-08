@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629223546id_/http%3A//www.firerescue1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208185919id_/http%3A//www.firerescue1.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This Web site is owned and operated by:
 
-The Praetorian Group
+Praetorian Digital
 
 200 Green St., Suite 200
 
@@ -122,7 +122,7 @@ Knowing that you use certain services or features may help us to offer you bette
 
 **Data Retention**
 
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting the Praetorian Group below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting Praetorian Digital below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Unsubscribing and opting out of personally identifiable information**
 
