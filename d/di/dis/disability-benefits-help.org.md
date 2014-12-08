@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the disability-benefits-help.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023210id_/http%3A//www.disability-benefits-help.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disability-benefits-help.org privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208125632id_/http%3A//www.disability-benefits-help.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective January 1, 2010**
+**Effective October 22, 2014**
 
 **Our Commitment To Privacy**
 
@@ -26,7 +26,7 @@ This notice applies to all information collected or submitted on the Social Secu
 
 We use the information provided when completing an evaluation to assist with a potential legal claim. We share this information with attorneys or advocates so that they can evaluate the needs of the claimant. There is no cost for this evaluation. 
 
-We or third parties may use the information provided to contact the claimant with tips about his/her case, in addition to sending newsletters and offers for products or services. 
+We or third parties may use the information provided to contact the claimant with tips about his/her case, in addition to sending newsletters and offers for products or services. The information provided may also be used to facilitate and conduct market research or for other survey purposes. 
 
 We use non-identifying and aggregate information to better design our website and to learn more about visitors to our website. For example, we may find out that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
 
