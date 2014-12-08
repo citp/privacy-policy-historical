@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the finra.org privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630203050id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finra.org privacy policy that was archived on 2014-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208175757id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
    var g_HttpRelativeWebRoot = "/web/";
@@ -171,13 +171,76 @@
 <!--SS_BEGIN_SNIPPET(fragment13,Header)--><meta name="description" content="FINRA Website Privacy Policy">
 
 <link rel="P3Pv1" href="/w3c/p3p.xml"> 
+<style>
 
+.buorg {
+	background:#fdd900 url(/web/fragments/fnrw_javascript/yellowbar.jpg) no-repeat;	
+	width:100%;
+}
+
+.buorg .alert{
+	background:url(/web/fragments/fnrw_javascript/alert_36x36.png) no-repeat;
+	position:absolute;
+	top:8px;
+	left:10px;
+	width:36px;
+	height:36px;
+}
+
+.buorg a, .buorg a:visited{
+	font-weight:bold;
+}
+
+#buorgclose{
+	top:8px;
+	right:12px;
+	width:33px;
+	height:33px;
+	position:absolute;
+	background:url(/web/fragments/fnrw_javascript/close_36x36.png) no-repeat;
+}
+
+
+html>body .buorg div {
+	margin-left:20px;
+}
+
+.buorg div {
+	padding: 5px 36px 5px 55px;	
+	margin-left:5px;	
+}
+
+.buorg .heading2{
+	font-size:16px;
+	font-weight:bold;
+}
+</style>
+<!--[if lt IE 9]>
+<style>
+ #finra-980 {
+ 		position:relative;
+	}
+</style>	
+<![endif]-->
 <script type="text/javascript" language="JavaScript">
 
 var isMSIEUpto10 = /*@cc_on!@*/ 0;
 var isAtLeastIE11 = !!(navigator.userAgent.match(/Trident/) && !navigator.userAgent.match(/MSIE/));
 	
 function outsideLink(theurl) {
+    var theurl = theurl.replace(";", "%3B");
+   
+    if (isMSIEUpto10 || isAtLeastIE11) {
+        var referLink = document.createElement('a');
+        referLink.href = "http://apps.finra.org/exitpage/1/exitpage.aspx?url=" + theurl;
+        document.body.appendChild(referLink);
+        referLink.click();
+    } else {
+        window.open("http://apps.finra.org/exitpage/1/exitpage.aspx?url=" + theurl);
+    }
+}
+
+function outsidelink(theurl) {
     var theurl = theurl.replace(";", "%3B");
    
     if (isMSIEUpto10 || isAtLeastIE11) {
@@ -384,8 +447,29 @@ _gaq.push(['_trackPageview']);
     </div>
   </div>
 <!--SS_BEGIN_SNIPPET(fragment13,SDC)-->				<script type="text/javascript" src="/web/fragments/fnrw_javascript/gatag.min.js"></script>
+
+<script type="text/javascript"> 
+var $buoop = {
+		vs: {i:8},
+		reminder: 168,
+		l: "en",
+		url: "/upgrade",
+		newwindow: true
+};
+
+$buoop.ol = window.onload; 
+
+window.onload=function(){ 
+ try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+ var e = document.createElement("script"); 
+ e.setAttribute("type", "text/javascript"); 
+ e.setAttribute("src", "/web/fragments/fnrw_javascript/update.js"); 
+ document.body.appendChild(e); 
+} 
+
+</script> 
 			<!--SS_END_SNIPPET(fragment13,SDC)-->
 
 
 
-</body></html>
+<script type="text/javascript" src="/web/fragments/fnrw_javascript/update.js"></script></body></html>
