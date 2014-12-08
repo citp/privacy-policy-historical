@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625000842id_/http%3A//gamerid.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208112649id_/http%3A//www.cheatcodes.com/about/privacy) for the most accurate reproduction.*
 
-# gamerID - Privacy Policy
+# Privacy Policy
 
-  * gamerID knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our Privacy Policy. By any of the other websites in our network, including [gamerID](http://gamerid.com/), [CheatCodes.com](http://cheatcodes.com/), [GameDetails.com](http://gamedetails.com/), [24:7 GamerNews](http://247gamernews.com/), [Flash Games Alley](http://flashgamesalley.com/), [CheapestGames.com](http://cheapestgames.com/), and [GIDN.com](http://gidn.com/) **("Network Sites")** , you are accepting the practices outlined in this Privacy Policy.
+CheatCodes.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our Privacy Policy. By visiting [CheatCodes.com](http://cheatcodes.com/) or any other website owned by gamerID Network ("Network Sites"), you are accepting the practices outlined in this Privacy Policy.
 
-This Privacy Policy covers gamerID's treatment of personal information that gamerID gathers when you are on the Network Sites and when you use gamerID services. This policy does not apply to the practices of third parties that gamerID does not own or control, or to individuals that gamerID does not employ or manage.
+This Privacy Policy covers gamerID Network's treatment of personal information that gamerID Network gathers when you are on the Network Sites and when you use gamerID Network services. This policy does not apply to the practices of third parties that gamerID Network does not own or control, or to individuals that gamerID Network does not employ or manage.
 
 ## What information do we collect?
 
 We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, or fill out a form.
 
-When registering on our site, we require select personal information (including your full name, city, state and email address). We also enable you to provide additional information, such as a bio, gamertags, online IDs, etc. In addition, you may choose to include a photo or avatar of yourself in your profile. You can control how your information is displayed and used by visiting your **Account Settings** page.
+When registering on our site, we require select personal information (including your full name, city, state and email address). We also enable you to provide additional information, such as a bio, gamertags, online IDs, etc. In addition, you may choose to include a photo or avatar of yourself in your profile. You can control how your information is displayed and used by visiting your **Account Settings** page on [gamerID.com](http://gamerid.com/).
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
@@ -21,11 +21,13 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 Any of the information we collect from you may be used in one of the following ways:  
 
 
-    1. To personalize your experience (your information helps us to better respond to your individual needs)
-    2. To improve our Network Sites (we continually strive to improve our Network Sites' offerings based on the information and feedback we receive from you)
-    3. To improve customer service (your information helps us to more effectively respond to your customer service requests). Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
-    4. To administer a contest, promotion, survey or other site feature
-    5. To send periodic emails. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  1. To personalize your experience (your information helps us to better respond to your individual needs)
+  2. To improve our Network Sites (we continually strive to improve our Network Sites' offerings based on the information and feedback we receive from you)
+  3. To improve customer service (your information helps us to more effectively respond to your customer service requests). Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
+  4. To administer a contest, promotion, survey or other site feature
+  5. To send periodic emails. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+
 
 ## How do we protect your information?
 
@@ -83,6 +85,3 @@ If you have any questions regarding this privacy policy you may [contact us via 
 P.O. Box 848  
 Maple Valley, WA 98038  
 (646) 580-GAMER**
-
-
-
