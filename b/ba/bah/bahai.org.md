@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bahai.org privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619032901id_/http%3A//www.bahai.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahai.org privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208023031id_/http%3A//www.bahai.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Bahá’í Faith
 
