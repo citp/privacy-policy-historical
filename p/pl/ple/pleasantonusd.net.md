@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantonusd.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112421id_/http%3A//pleasantonusd.net/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantonusd.net privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208115949id_/http%3A//pleasantonusd.net/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pleasanton Unified School District
 
