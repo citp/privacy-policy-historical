@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsa.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025538id_/http%3A//www.imsa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208183048id_/http%3A//www.imsa.com/privacy-policy) for the most accurate reproduction.*
 
 # IMSA | TUDOR United SportsCar Championship | Privacy Policy
 
