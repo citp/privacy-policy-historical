@@ -1,87 +1,56 @@
-> *The following text is extracted and transformed from the electroniccigarettesinc.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409212443id_/http%3A//www.electroniccigarettesinc.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electroniccigarettesinc.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208193653id_/http%3A//www.electroniccigarettesinc.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Electronic Cigarettes Inc. - Your #1 USA Online Vape Shop
+# Privacy Notice : Electronic Cigarettes Inc. - Buy Electronic Cigarettes Online
 
-**What information do we collect?**
+This Privacy Policy governs the manner in which Electronic Cigarettes, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.electroniccigarettesinc.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Electronic Cigarettes, Inc.. 
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+**Personal identification information:**   
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the siteplace an orderfill out a formsubscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information.   
+Users may, however, visit our Site anonymously.  
+We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+**Non-personal identification information:**   
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
- **What do we use your information for?**
+**Web browser cookies:**  
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+**How we use collected information:**  
+Electronic Cigarettes, Inc. collects and uses Users personal information for the following purposes: 
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+  * _To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _To process transactions_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _To send periodic emails_
 
-; To process transactions
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+**How we protect your information:**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+**Compliance with children's online privacy protection act:**   
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
- **How do we protect your information?**
+**Changes to this privacy policy:**   
+Electronic Cigarettes, Inc. has the discretion to update this privacy policy at any time. When we do, revise the updated date at the bottom of this page,. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+**Your acceptance of these terms:**   
+By using this Site, you signify your acceptance of this policy and [conditions of use](http://www.electroniccigarettesinc.com/index.php?main_page=conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+**Contacting us:  **   
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
- **Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
-
- **Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
- **Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
-
- **Age Requirement & Identity Verification**
-
-By ordering any product off of this site you are agreeing that you are of the proper age that your state requires to purchase tobacco products. We require that all our customers conform to their state laws regarding the purchase of tobacco products. You must be 18 years or older to purchase an electronic cigarette from this site. If your state requires that you must be older than 18, such as 19, 20, or 21, then your state laws apply to any purchase made on this site. We may use third party software to verify your identity through www.veratad.com. You can view the Veratad privacy policy here - http://veratad.com/privacy_policy.html The information collected to verify your identity through Veratad will not be used for any other reason besides verifying your identity or age for this site. 
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.electroniccigarettesinc.com/index.php?main_page=conditions>
-
-**Your Consent**
-
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 3/26/2013
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
+**Electronic Cigarettes, Inc.**  
 www.electroniccigarettesinc.com  
-279 Front Street  
-Binghamton, New York 13905  
-United States  
-sales@electroniccigarettesinc.com  
-1-877-324-4462
+279 Front St. Binghamton NY 13905  
+877-324-4462  
+info@electroniccigarettesinc.com 
