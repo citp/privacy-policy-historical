@@ -1,110 +1,164 @@
-> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026124613id_/http%3A//www.bannerconnect.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208115327id_/http%3A//www.bannerconnect.net/bannerconnect-privacy-statements) for the most accurate reproduction.*
 
-# Bannerconnect
+# Bannerconnect | Bannerconnect Privacy Statements
 
-**Privacy policy**
+Effective Date: September 17, 2014
 
- _This Privacy Policy was last modified on December 16, 2011._
+These privacy statements have been developed to provide website users with information on data and cookie usage;
 
-Bannerconnect takes online user privacy very seriously and we recommend you fully read this Privacy Policy, explaining how we collect, protect and use information and under what circumstances we share this information.
+  * Please [click here](http://www.bannerconnect.net/bannerconnect-privacy-statements/#section1) for more information on how Bannerconnect uses data and cookies as part of its business that delivers digital advertising services for its clients. To opt-out of these services please [click here](http://www.bannerconnect.net/bannerconnect-privacy-statements/#optout) to opt-out user from all services.
 
-Please keep in mind when leaving our website or using our services that we have no control over our partners, clients or third parties. When using their website, services or when taking advantage of their advertised offers in any way, their privacy policy and terms of agreement apply.
 
-**What we do**
-
-Bannerconnect specialises in online display advertising. We buy and (re)sell online display advertising space, from website publishers to advertisers and agencies. We also manage and optimise advertising campaigns, using different forms of targeting. As part of the targeting process, we collect data about online user behaviour and turn this data into anonymous user profiles.
-
-We respect and adhere to the IAB Europe EU Principles for Online Behavioural Advertising. For more information on behavioural advertising, please visit [youronlinechoices.com](http://youronlinechoices.com/ "Visit Your Online Choices").
-
-**How we collect information**
-
-Cookies and pixels allow us to give every device visiting our website or using our services a unique ID. This ID is used to match the collected information to the device without the use of any personally identifiable information (PII).
-
-**What are cookies**
-
-Cookies are small text files that are stored on your device by your web browser. Cookies do not contain programmes and are only accessed by your web browser. They ensure a user-friendly web experience by storing information about the use of the website and any preferences for features or functions, such as language preferences, privacy settings, shopping baskets or relevant advertisements.
-
-If you want to learn more about cookies, please visit the [Internet Advertising Bureau’s Cookies FAQ](http://www.iabeurope.eu/cookies-faq.aspx "Visit the IAB Cookie FAQ").
-
-**What are pixels**
-
-Pixels are event-trackers for visitations and actions on a website. A pixel can, for example, register a view of this page or confirm an online sale of a product after seeing an advertisement. When a pixel is triggered, it stores its information in a cookie.
-
-**Data from third parties**
-
-We may buy data from third parties to expand and update our profile collection or further enrich profiles we already have. As with data collected by Bannerconnect, any bought data from third parties does not include personally identifiable information (PII).
-
-**What we collect**
-
- **The data we collect does not include any Personally Identifiable Information (PII).** Furthermore, we do not request any information from your device that is unrelated to the use of our website or the use of our services.
-
-The collected information does typically include:
-
-  * Visited website addresses (URLs),
-  * Date and time of your visit,
-  * The type of browser and operating system used,
-  * How often a certain ad is delivered and clicked.
+  * Please [click here](http://www.bannerconnect.net/bannerconnect-privacy-statements/#section2) for more information on how information is used on this website, www.Bannerconnect.net/ (“Bannerconnect Website”). The Bannerconnect Website is operated by Bannerconnect BV.
 
 
 
-All collected data helps us build a profile based on behaviour, interests and approximate geographical location.
+Please note that because of the changing nature of privacy laws, user needs, and our business, we may modify these privacy statements from time to time.  Accordingly, since we want to help you clearly understand our Privacy Policy and any pertinent revisions, we encourage you to review these privacy statements periodically to become aware of any changes that may have occurred.  You can determine when these privacy statements were last revised by referring to the “Effective Date” above.
 
-**Personally Identifiable Information (PII)**
+If you have questions or concerns regarding these privacy statements, you should contact us through email or by mail.  You can address your general questions and comments by e-mail to privacy@Bannerconnect.net or by mail to Bannerconnect, BV., Poststraat 12, 6135 KB, Sittard, the Netherlands Attn: Legal Department.
 
-We do not knowingly solicit or collect Personally Identifiable Information. Our definition of Personally Identifiable Information is in compliance with the Internet Advertising Bureau’s (IAB) definition:  
-_We do not collect ‘information that can be traced back to a specific user and provide personal information such as name, phone number, address, etc.’. In other words, personally identifiable information is information that can identify you as a person rather than an anonymous profile._
+For more information about the privacy practices of our company website and to understand how the Bannerconnect Website uses cookies and information that you may submit to us, please [click here](http://www.bannerconnect.net/bannerconnect-privacy-statements/#section2)
 
-**All of our profiles are anonymous and each profile represents a specific browser on a specific device, not a real person.**
+**Bannerconnect’s Services**
 
-**Why we collect data**
+Bannerconnect provides a range of services to its clients, including advertisers and publishers.  Bannerconnect’s services (“Services”) include: media planning, buying and selling; marketing communications planning; campaign analytics and research; ad serving; and data management.  Our clients use our Services in order to show online users the most useful and relevant ads.  We believe that such advertising is a crucial element of the Internet ecosystem, providing information to users and helping to subsidize online content and services.
 
-We use the collected data to match advertisements to profiles of users who are more receptive to the offer. We believe relevant advertisements can be beneficial to both the user and the advertiser, while providing a less disruptive user experience.
+**Types of Information We Collect through Our Services**
 
-Matching advertisements with individual profiles is a fully automated process and individual profiles are only accessible by a select group of people within Bannerconnect. All available data presented internally or externally consists of totals or averages of the aggregated data.
+When you view and interact with websites and advertisements operated by our clients, we may collect through our Services information regarding your browsing, usage and interactions.  We may also collect information that allows us to identify browsers we have interacted with previously.  Such information collected by our Services may include the type of Internet browser and computer operating system you use, your computer’s Internet protocol (“IP”) address, the URLs of the websites you visited before and after viewing an advertisement, and information related to websites and web pages you are viewing when an advertisement is shown.
 
-**Personalised advertisements**
+We do not collect users’ names, mailing addresses, phone numbers, email addresses or similar personally identifiable information.  Whenever we refer to “you” or “your”, we are referring to a browser or device and not an identifiable person.
 
-On behalf of a client, Bannerconnect can also track viewed products on a website (f.e. webshop) and store these products in a cookie on your pc. Later, when a user lands on a webpage with advertising space, an ad can be served for one or more of the viewed (or related) products.
+We collect information through the use of cookies, pixels and similar technologies.  A cookie is a small text file that is stored in a browser by a website or ad server which allows that website or ad server to recognize that browser and remember user preferences and other information.  A pixel is a line of code that is used by a website or third party to assign online activities to a computer or browser.  The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page.  Additional information from an earlier period or interaction may be included in the pixel.
 
-The goal is to provide you with relevant ads and unique offers, based on your interests. This process is fully automated and contains no personally identifiable information (PII).
+**How We Use Information Collected through Our Services**
+
+We use the information collected through our Services to provide you with the most useful and relevant online advertising and to better customize the sort of advertisements you see on those sites.  For example, if we think that a user is interested in apparel options, then our Services may help our clients deliver interest-based online advertisements to you about a particular type of apparel. For example:
+
+We also may use such information to limit the number of times you see a particular ad, and for other purposes such as research, reporting and analysis.
+
+We may also receive from other companies information collected outside the Services for use in connection with the Services on behalf of our clients.  We also do this in order to get a clearer picture of the types of advertisements that might be most relevant and useful to you.  We do not associate such information with your name, mailing address, email address or similar personally identifiable information.
+
+We require our clients to comply with applicable laws governing online privacy. We encourage you to read the privacy policies of the websites you visit to better understand issues relating to your online privacy.
+
+The use of information by our affiliates, clients and service providers is not covered by this privacy policy.
+
+**Disclosure of Information to Third Parties**
+
+We may disclose the information we collect about you (see “Types of Information We Collect through Our Services” above), and information derived from it, to our clients and service providers.  As we do not collect users’ names, mailing addresses, phone numbers, email addresses or similar personally identifiable information through our Services, we do not disclose any such information to third parties.  However, if you affirmatively provide personally identifiable information via one of our clients’ advertisements or websites, then that information will be received by such client and will be subject to that client’s privacy policy.
+
+We also may disclose the information we collect to third parties, including law enforcement, when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.
 
 **User Choice**
 
-You may change your web browser settings to refuse cookies at all times. However, this may limit your ability to use certain functions on websites you visit. Instructions for removing and refusing cookies can be found under your browser’s help function.
+We collect information through our Services through the use of cookies, pixels and similar technologies.  We believe that the use of such technology enables us and our clients to provide users with a more meaningful web experience.
 
-You can also choose to opt-out from our profiling services. Opting out does not mean you will stop getting ads or see fewer ads. However, the ads that you receive will no longer be tailored to your interests.
+You may adjust your browser settings to refuse or remove cookies.  However, by doing so, you may not be able to use certain features on the websites you visit or take full advantage of all website offerings and interest-based advertising.  You may refuse or remove cookies by following the directions provided in your browser settings.  Further information about cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-If you do not want to receive any more **personalised advertisements** from Bannerconnect, you may [opt-out of personalised advertisements](https://web.archive.org/opt-out.php "Opt-out of personalised advertisements").
+optout
 
-If you do not want to share **any of your preferences** with Bannerconnect, you may [opt-out of our data collection altogether](http://ib.adnxs.com/optout "Opt-out of behavioural advertising").
+We are a member of the IAB and are referenced on Your Online Choices. [Click here](http://www.youronlinechoices.com/) to visit their website. Select your location, by clicking on “your ad choices”, here you can opt out on cookies from specific companies.
 
-Opting out is device and browser specific and requires a cookie to be placed on your device. When switching devices, browsers or after deleting your cookies, this process will need to be repeated. In order for the opt-out to work, your browser must be set to accept third party cookies.
+**Digital Advertising Alliance, IAB Europe, and Ad Choices**
 
-**Disclosure to third parties**
+Bannerconnect supports deployment of the Advertising Option icon (Ad Choices) as part of its participation in the Digital Advertising Alliance’s self-regulatory framework (in North America) and the IAB Europe OBA Framework (in Europe). Advertisements that are provided by organisations that participate in these frameworks will display the icon set out below when technologically feasible.  If you click on the icon displayed on an ad, you will receive information about interest-based advertising.
 
-We reserve the right to disclose our data to advertisers, clients and partners or others who work on our behalf. The information provided to third parties does not contain personally identifiable information.
+**Children’s Privacy**
 
-Third parties are obligated to use the information they receive in compliance with applicable laws and regulations.
+We are sensitive to the issue of children’s privacy.  Therefore, our website and Services are neither developed for, nor directed at, children or at websites primarily directed to children.  If you believe a child has provided us with personal information and you would like to have the information removed, please contact us at privacy@Bannerconnect.net.
 
-Bannerconnect may also share information when compelled by a governmental agency, law, regulation, a court or other legal process.
+**Linking to Other Websites**
 
-**Children’s privacy**
+A link from our own website to another website does not imply our endorsement of that website.  We do not control the websites to which we link and assume no responsibility for their content or privacy policies.  Therefore, you should carefully review the privacy policies that apply to any websites you access from our website.
 
-The websites and services provided by Bannerconnect are not intended for or directed at persons under 13 years of age. Regardless of age, we do not knowingly solicit or collect any personally identifiable information (PII), nor do we market our products or services to children under the age of 13.
+**Transfer of Data upon Change of Control**
 
-**Changes to Privacy Policy**
+In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all information (including any information a user may have provided through the “contact us” page) that is in our possession or under our control to such acquiring party.
 
-Bannerconnect reserves the right to modify, add or delete content in this Privacy Policy at any given time, without notice. When visiting our website or using our services, the terms and conditions of this privacy policy as displayed at that time apply.
+**Information Security**
 
-**Privacy Contact Info**
+We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of data.  This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use. Any data that is stored on our servers is treated as confidential information.  Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
 
-If you have any questions or concerns regarding our privacy policy, please contact us.
+**Data Retention**
 
-Bannerconnect B.V.  
-Poststraat 12  
-6135 KR, Sittard  
-The Netherlands
+** ** We generally maintain the information we collect through our Services in non-aggregated form for a period of not more than six months.  This data includes web sites visited, content viewed, ad interactions, IP addresses (please see “European Data Protection Principles” section below for additional information about IP addresses), browser type and language settings.
 
-E. [info@bannerconnect.net](mailto:info@bannerconnect.net "Contact us")  
-T. +31 (0)46 707 4992  
-F. +31 (0)46 451 7688
+We may maintain information we collect through our Services in an aggregated form for a period longer than six  months.
+
+section2 
+
+**How information is used and shared on the Bannerconnect Website**
+
+We respect the privacy of users of our website.
+
+We also recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This Policy contains important information about how we use your personal information collected via the Bannerconnect Website.
+
+**What information do we collect?  **
+
+When you use the Bannerconnect Website, we may gather the following information about you:
+
+  * IP address (a unique identifier for your computer or other device)
+  * Mobile device ID
+  * Information (which may include personal information such as name, address, email address, and telephone number) provided by you when you submit your CV or a job application to us or request information from us.
+
+
+
+** ** **How do we use it?**
+
+We will use this information in the following ways:
+
+  * to provide you with information that you have requested;
+  * to respond to specific queries you may raise regarding Bannerconnect, its business, the services it provides to clients and any of its group companies;
+  * to process and consider your CV and/or job application;
+
+
+
+**Do we pass your information to third parties?**
+
+We may send your information (including your personal information) to other group companies, affiliates and third parties to help us process that information for the purposes set out in this privacy statement. In addition, in the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer your information (including your personal information) to such acquiring party.
+
+We also may disclose your information (including your personal information) to third parties when we reasonably believe we are required to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual unlawful or otherwise prohibited activities, including, but not limited to, fraud.
+
+**How do we use your information for marketing?**
+
+We will only provide information to you that you have requested.
+
+**Where do we send your information?**
+
+We are part of a global company and therefore we may transfer your personal information to countries around the world including the US and other countries outside Europe. We will, where necessary, put in place appropriate safeguards to ensure your information is protected.
+
+**How long do we keep your information?**
+
+We will keep your information for a reasonable period for the purposes set out above, usually for between 12 to 18 months from the date of receipt.
+
+**Cookies: what are cookies?**
+
+A cookie is a small text file that is stored in a browser by a website or ad server which allows that website or ad server to recognize that browser and remember user preferences and other information. You can select which cookies are stored on your computer, by choosing to “accept” or “refuse” them. These options can be found within your browser settings.
+
+Further information on cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/)
+
+For more information about the specific cookies Bannerconnect uses on the Bannerconnect Website, please [click here](http://www.bannerconnect.net/?p=4555)
+
+**Controlling Cookies set from this Website**
+
+This can be done as described [here](http://www.bannerconnect.net/?p=4555)
+
+**Third-Party Websites**
+
+Our website links to third-party sites. These websites may use cookies and collect your personal information in accordance with their own privacy policies. This Policy does not apply to third-party websites and we are not responsible for third-party websites.
+
+**How do we protect your information?**
+
+We take appropriate measures to ensure that your personal information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
+
+**Under 13 year olds**
+
+The Bannerconnect Website is not intended or designed to attract children under the age of 16. We do not knowingly collect personal information from or about any person under the age of 16. If You are under 16 years old and wish to ask a question or use this site in any way which requires You to submit your personal information, please get your parent or guardian to do so on your behalf.
+
+**How to obtain a copy of your information**
+
+You are entitled to ask for a copy of the personal information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your personal information corrected. Please contact us using the details set out below.
+
+**How to contact us if your information or choices change**
+
+If your personal information or your preferences change, if you don’t want us to send you the information you have requested or if you have any queries about how we use your personal information, please let us know by contacting Bannerconnect at the following email address: [privacy@bannerconnect.net](mailto:privacy@bannerconnect.net)
