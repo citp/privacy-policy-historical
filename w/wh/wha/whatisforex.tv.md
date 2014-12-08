@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatisforex.tv privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529221539id_/http%3A//whatisforex.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatisforex.tv privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208184515id_/http%3A//whatisforex.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | "What Is Forex?"
+# "What Is Forex?" | Privacy Policy
 
 [](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwhatisforex.tv%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
@@ -15,8 +15,6 @@ All web servers track basic information about their visitors. This information i
 Where necessary, What Is Forex? uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
-
-style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1681655133554058" data-ad-slot="5388219722">
 
 ## Controlling Your Privacy
 
