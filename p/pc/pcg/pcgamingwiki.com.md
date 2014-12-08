@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgamingwiki.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610011119id_/http%3A//pcgamingwiki.com/wiki/PCGamingWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgamingwiki.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208213421id_/http%3A//pcgamingwiki.com/wiki/PCGamingWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # PCGamingWiki:Privacy policy - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game
 
