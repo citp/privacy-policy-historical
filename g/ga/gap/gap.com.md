@@ -1,12 +1,48 @@
-> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528130843id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208110629id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
-_Last revised October 24, 2012_
+_Last Revised August 15, 2014_
 
-Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta (collectively, "Gap Inc."), value our customers and respect your privacy. We collect information about you in our stores and through our websites in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. As described in this policy, we may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. For Athleta customers only, we may share your postal address and shopping history with like-minded third parties for their direct mail marketing purposes as described below.
+### Read our Full Privacy Policy Here
 
-This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
+  * Name
+  * Contact Information (email/phone/mailing address)
+  * Shopping history and how you use our websites and mobile apps
+  * Payment information
+  * Location information, if you have allowed our mobile apps to do so
+  * Technical information about your browser and device
+
+  
+
+
+  * Fulfill your order and provide customer service
+  * Send you promotions and offers
+  * Improve and personalize your shopping experience
+  * Protect the security of our website, apps and business
+
+  
+
+
+  * Other Gap Inc. brands
+  * For Athleta customers only, we share your mailing address and shopping history with other catalog companies
+  * Other third parties as described below
+
+  
+
+
+  * To opt out of receiving marketing via: 
+    * Email -- use the unsubscribe feature in our emails, click on the unsubscribe weblinks for our brands listed here, or contact Customer Service
+    * Postal mail -- contact Customer Service
+    * Texts -- respond STOP to any text or contact Customer Service
+  * To request your Athleta customer information not be shared with other catalog companies contact Athleta Customer Service
+  * To make choices about targeted online advertising please go here
+
+
+
+Please contact us here
+
+This policy describes the personal information Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta (collectively, "Gap Inc.") collect about you, why we collect it, how we use it, and when we share it with third parties. This policy covers our US stores and online experiences including our websites and mobile apps. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
 
 If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?", below.
 
@@ -18,7 +54,7 @@ If you have any questions about our privacy policy, please contact us as describ
   * How do I stop receiving Athleta catalogs?
   * How does Gap Inc. protect kids' privacy?
   * How does Gap Inc. use cookies and other tracking technologies?
-  * How is my information used for behavioral or interest-based advertising?
+  * How is my information used for behavioral or targeted advertising and what choices do I have?
   * How do I know my personal information is secure?
   * What is "phishing"?
   * I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
@@ -29,7 +65,7 @@ If you have any questions about our privacy policy, please contact us as describ
 
 
 
-We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online or by phone and in our stores. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.
+We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit one of our websites or stores, install or use our mobile apps, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online, through a mobile app, or by phone and in our stores. We also collect information about the device you use to access our websites or mobile apps such as your computer's IP address, your browser type, your operating system, and other technical information. Our mobile apps may also collect information about your location if you have allowed this. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.
 
 back to top
 
@@ -39,10 +75,10 @@ We may use your personal information in the following ways:
   * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
   * To administer and fulfill our contests and other promotions
   * To help us learn more about your shopping preferences
-  * To help us address problems with and improve our site design, products and services
+  * To help us address problems with and improve our site and mobile app design, products and services
   * To enhance your shopping experience
   * To analyze trends and statistics
-  * To protect the security or integrity of our websites and our business
+  * To protect the security or integrity of our websites, mobile apps, and our business
   * To contact you if necessary
 
 
@@ -53,8 +89,8 @@ back to top
 
 We may share your personal information in the following ways:
 
-  * When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, or Athleta), we may share that information with our other Gap Inc. brands. 
-  * If you purchase Athleta brand products through our website or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. We do not share email addresses for such purposes. We also do not share personal information about customers who only browse, email comments, request a catalog, or request email updates, or who purchase only Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, or Piperlime merchandise. If you would prefer that we not share information about you with other companies, please let us know by contacting Athleta customer service as described in the section entitled, "How do I contact you?", below.
+  * When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, Athleta or Intermix), we may share that information with our other Gap Inc. brands. 
+  * If you purchase Athleta brand products through our website or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. We do not share email addresses for such purposes. We also do not share personal information about customers who only browse, email comments, request a catalog, or request email updates, or who purchase only Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, or Intermix merchandise. If you would prefer that we not share information about you with other companies, please let us know by contacting Athleta customer service as described in the section entitled, "How do I contact you?", below.
   * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information. 
   * We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers.
   * We may share information about you if necessary, in our good faith judgment, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Gap Inc. or others.
@@ -73,9 +109,9 @@ You can also ask us to update your personal information by contacting us as desc
 
 back to top
 
-Gap Inc. and our brands, including Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below.
+Gap Inc. and our brands, including Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below or you can click on the self-service unsubscribe links below.
 
-Please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc.
+If contacting customer service, please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc.
 
 If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.
 
@@ -93,29 +129,29 @@ Gap Inc. is concerned about the privacy and safety of children when they use the
 
 back to top
 
-Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
-
-For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Does Gap Inc. share my information?", above.)
+Our websites use "cookies," and pixel tags and other tracking technologies, to help enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. These technologies may also be used to determine the ads you see on our sites and also on other sites. For information about targeted online advertising and your choices related to it please see the next section.
 
 You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
 
-We also use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
+These technologies may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites and our online ads.
 
-Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites.
+Pixel tags in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
-
-We may combine the information we collect through cookies and pixel tags with other information we have collected from and about you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
+We may combine the information we collect through these technologies with other information we have collected from and about you and use it as described in this policy.
 
 back to top
 
-We work with third-party companies that use tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options, please visit [http://www.aboutads.info](http://www.aboutads.info/).
+We use our own cookies to help determine which of our ads are shown to you on other websites. To opt out of this targeted online advertising by Gap Inc. that utilizes our cookies, please click [here](http://dtmc.gap.com/adinfo/adchoices_fpc.html?cid=2366&cname=Gap%20Inc.&cmagic=d3b1fb&clogo=Gap_INC_LOGOS.png).
+
+We also work with third-party companies that use their tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options including how to opt out of receiving these tailored advertisements, please visit [http://www.aboutads.info](http://www.aboutads.info/).
+
+Please note that even if you opt-out, these tracking technologies may still collect data and you will still see ads, but they will not be targeted based upon the information collected through these tracking technologies.
 
 back to top
 
-We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.
+We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to help protect the security and privacy of your personal information.
 
-When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."
+When you enter your personal information on our websites, we use encryption technology to protect your information as it is transmitted to us.
 
 If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below.
 
