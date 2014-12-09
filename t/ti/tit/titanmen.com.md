@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanmen.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092740id_/http%3A//www.titanmen.com/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanmen.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209123659id_/http%3A//www.titanmen.com/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # TitanMen
 
