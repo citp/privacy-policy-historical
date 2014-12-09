@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the couponraja.in privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630231324id_/http%3A//www.couponraja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponraja.in privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209223438id_/http%3A//www.couponraja.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We are committed to protecting and respecting your privacy. This policy (together with our website terms and conditions that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the Site, so that you may be aware of the information we collect and how we use it at all times. Continued use of the Site will constitute your agreement to any such changes. If you have any questions at all about this policy or the Site, or about how we use and process your personal information, please contact us by e-mail at privacy@couponraja.com or, alternatively, in writing to Couponraja.com
+By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the Site, so that you may be aware of the information we collect and how we use it at all times. Continued use of the Site will constitute your agreement to any such changes. If you have any questions at all about this policy or the Site, or about how we use and process your personal information, please contact us by e-mail at privacy@couponraja.in or, alternatively, in writing to Couponraja.in
 
 Information We May Collect from You
 
@@ -12,7 +12,7 @@ We are the sole owner of the information collected on the Site. We will not sell
 
 We may collect and process the following data about you:
 
-Information provided by filling in forms on our site www.couponraja.com . This includes, but is not limited to, information provided at the time of registering for our newsletter, posting discounts and other material or contacting us.
+Information provided by filling in forms on our site www.couponraja.in . This includes, but is not limited to, information provided at the time of registering for our newsletter, posting discounts and other material or contacting us.
 
 We may keep a record of correspondence when you contact us.
 
@@ -26,17 +26,17 @@ We may collect information about your computer, including where available your I
 
 We may also obtain information about your usage of the Website by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. These cookies enable us to store information about your preferences and customise our site according to your individual interests, speed up your searches and recognise you when you return to our site.
 
-Couponraja.com may also allow advertisers and other third parties to place cookies onto your computer when you visit this website. The cookies placed by advertisers and other third parties are used to keep track of the web searches you make while visiting this website, as well as your web surfing behaviour on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad.
+Couponraja.in may also allow advertisers and other third parties to place cookies onto your computer when you visit this website. The cookies placed by advertisers and other third parties are used to keep track of the web searches you make while visiting this website, as well as your web surfing behaviour on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad.
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
 Direct Mailings
 
-If you register with Couponaraja.com or sign up for any of our newsletters or alerts, we will send you information about our coupon codes, 'free stuff', or other products and services we feel may interest you. Your e-mail address may also be used to send you information about our other websites that we feel are relevant to your registration on Couponraja.com.
+If you register with Couponaraja.in or sign up for any of our newsletters or alerts, we will send you information about our coupon codes, 'free stuff', or other products and services we feel may interest you. Your e-mail address may also be used to send you information about our other websites that we feel are relevant to your registration on Couponraja.in.
 
-You can sign up to our newsletter through submitting their email address at any of the sign up boxes featured throughout the Website or via our User Registration page. By providing your email address you agree to receive regular newsletter emails from Couponraja.com.
+You can sign up to our newsletter through submitting their email address at any of the sign up boxes featured throughout the Website or via our User Registration page. By providing your email address you agree to receive regular newsletter emails from Couponraja.in.
 
-You can sign up to our newsletter through submitting their email address at any of the sign up boxes featured throughout the Website or via our User Registration page. By providing your email address you agree to receive regular newsletter emails from Couponraja.com.
+You can sign up to our newsletter through submitting their email address at any of the sign up boxes featured throughout the Website or via our User Registration page. By providing your email address you agree to receive regular newsletter emails from Couponraja.in.
 
 Where We Store Your Personal Data
 
