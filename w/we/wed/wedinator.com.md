@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedinator.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528131008id_/https%3A//corp.cheezburger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedinator.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209042812id_/https%3A//corp.cheezburger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice – Cheezburger Company Blog
 
