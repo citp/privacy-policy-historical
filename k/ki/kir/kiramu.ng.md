@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiramu.ng privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419170404id_/http%3A//www.kiramu.ng/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiramu.ng privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209051819id_/http%3A//www.ady.ng/privacy) for the most accurate reproduction.*
 
-# Privacy.Classified ads, classifieds Nigeria - just find it
+# PrivacyAdy.ng is Nigerias Free Classified Ads Platform Online
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -15,11 +15,15 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 
-**Contact information:**
+**Contact information:**  
+ 
 
-Ringier Nigeria,  
-3, Iweanya Ugbogoh Crescent,  
-Off Durosimi-Etti, Lekki Phase 1  
+Ringier Nigeria,
+
+3, Iweanya Ugbogoh Crescent,
+
+Off Durosimi-Etti, Lekki Phase 1
+
 Lagos, Nigeria
 
 E-Mail: support@ringier.ng
