@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmaster.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030721id_/http%3A//www.textmaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmaster.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209021701id_/http%3A//www.textmaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ In order to receive information about your Personal Data, the purposes and the p
 
 TextMaster
 
-SA Rue de La Cambre 32, 1200 Woluwe-St-Lambert, Belgique
+c/o ICAB, Rue des pères blancs 4, 1040 Etterbeek, Belgique
 
 contact@textmaster.com
 
