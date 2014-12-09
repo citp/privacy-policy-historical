@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082908id_/http%3A//onetravel.insanelycheapflights.com/Default.aspx%3Ftabid%3D5625) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209233847id_/http%3A//onetravel.insanelycheapflights.com/Default.aspx%3Ftabid%3D5625) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |   
   
-## Pivacy Policy
-
 |   
 ---  
 | ****Introduction |   
@@ -16,7 +14,7 @@ We may amend this Privacy Policy at any time. All amended terms automatically ta
 
 Insanelycheapflights is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact customer service at TLC@Insanelycheapflights.com . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact customer service at [feedback@Insanelycheapflights.com](mailto:feedback@Insanelycheapflights.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Insanelycheapflights is committed to providing fair information practices and adopts the highest degree of privacy policy in protecting customer’s private and personal information submitted to Insanelycheapflights in connection with purchasing travel products from Insanelycheapflights.
 
@@ -34,7 +32,7 @@ Other sites accessible through our Site have their own privacy policies and data
 ---|---  
 Like many other sites, this Site uses cookies to personalize your experience, and to speed up the member sign in process. Cookies are information stored on your computer. Cookies are not used to track your movement or perform any function other than to enhance your use of our Site and are not linked to personal information. If your browser does not support cookies, or you have not enabled cookies in your browser, many of these time-saving features will not work properly. Also, you need to have cookies enabled in your browser if you want to enter the member’s area.
 
-A cookie may be placed by our advertising server. These cookies are used only for purposes of tracking the effectiveness of advertising served by us on our Site. No personal information about you is gathered by the use of these cookies. Cookies may be placed by our third-party advertising companies who may use aggregated statistics about your visits to this and other web sites in order to provide advertisements about travel-related goods and services that you may be interested in. The information collected does not include your personal information. This privacy statement covers the use of cookies by OneTravel only and does not cover the use of cookies by any advertisers.   
+A cookie may be placed by our advertising server. These cookies are used only for purposes of tracking the effectiveness of advertising served by us on our Site. No personal information about you is gathered by the use of these cookies. Cookies may be placed by our third-party advertising companies who may use aggregated statistics about your visits to this and other web sites in order to provide advertisements about travel-related goods and services that you may be interested in. The information collected does not include your personal information. This privacy statement covers the use of cookies by Insanelycheapflights only and does not cover the use of cookies by any advertisers.   
   
 | ****Third Party Tracking Technologies |   
 ---|---  
@@ -54,17 +52,17 @@ If you receive browser warnings when going from secure mode pages to non-SSL pag
 
 We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We urge you to take every precaution to protect you personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-If you have any questions about security on our Site, you can send us an email or contact us [feedback@insanelycheapflights.com](https://web.archive.org/web/20140625082908id_/http%3A//onetravel.insanelycheapflights.com/feedback@insanelycheapflights.com) [888-323-4383]   
+If you have any questions about security on our Site, you can send us an email or contact us [feedback@insanelycheapflights.com](mailto:feedback@insanelycheapflights.com) (888) 525-7551   
   
 | ****Government And Legal |   
 ---|---  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site.  
 | ****Access to Personally Identifiable Information |   
 ---|---  
-If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [feedback@insanelycheapflights.com](https://web.archive.org/web/20140625082908id_/http%3A//onetravel.insanelycheapflights.com/feedback@insanelycheapflights.com) or by contacting us by telephone or postal mail at the contact information listed below.  
+If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [feedback@insanelycheapflights.com](mailto:feedback@insanelycheapflights.com) or by contacting us by telephone or postal mail at the contact information listed below.  
 | ****Children's Privacy Protection |   
 ---|---  
-One Travel understands the importance of protecting children's privacy in the interactive online world. The Site is not designed for, or intentionally targeted at, children 13 years of age or younger. It is not our policy to intentionally collect or maintain information about anyone under the age of 13.  
+Insanelycheapflights understands the importance of protecting children's privacy in the interactive online world. The Site is not designed for, or intentionally targeted at, children 13 years of age or younger. It is not our policy to intentionally collect or maintain information about anyone under the age of 13.  
 | ****Opt-Out |   
 ---|---  
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a travel product, but do not wish to receive any additional marketing material from us, you can indicate your preference in our order form.
@@ -75,9 +73,10 @@ You will be notified when your personal information is collected by any third pa
 
 If you have questions or concerns regarding this Privacy Policy, you should first contact
 
-**One Travel**   
+**Insanelycheapflights**   
+c/o OneTravel   
 DBA of WK Travel, Inc.  
 1050 East Flamingo Road, Suite S-302  
 Las Vegas, NV 89119  
-[feedback@insanelycheapflights.com](https://web.archive.org/web/20140625082908id_/http%3A//onetravel.insanelycheapflights.com/feedback@insanelycheapflights.com)  
-888-323-4383 
+[feedback@insanelycheapflights.com](mailto:feedback@insanelycheapflights.com)  
+(888) 525-7551 
