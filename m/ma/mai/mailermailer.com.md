@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174039id_/http%3A//www.mailermailer.com/privacy-policy.rwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209052828id_/http%3A//www.mailermailer.com/privacy-policy.rwp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ This website is directed at adults, not children, and we do not seek to collect 
 
 ### Security
 
-When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and notify visitors through a pop-up screen on our site (which is displayed automatically depending on your browser's security settings). We strive to maintain appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Although we take reasonable measures to secure our data, we cannot guarantee that the measures we take are or will remain adequate. Some portions of our sites and services link to other companies' web sites. Please refer to the privacy policies of those sites for information on how they handle security for information they collect. 
+When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server. We strive to maintain appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Although we take reasonable measures to secure our data, we cannot guarantee that the measures we take are or will remain adequate. Some portions of our sites and services link to other companies' web sites. Please refer to the privacy policies of those sites for information on how they handle security for information they collect. 
 
 ### Changes to Privacy Policy
 
