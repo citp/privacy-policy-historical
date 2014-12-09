@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payoutclub.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608112759id_/http%3A//payoutclub.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payoutclub.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209151113id_/http%3A//payoutclub.com/pages/privacy.php) for the most accurate reproduction.*
 
 # payoutclub.com
 
