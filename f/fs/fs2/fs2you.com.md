@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fs2you.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210025317id_/http%3A//www.fs2you.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs2you.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209063040id_/http%3A//www.fs2you.com/Privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
