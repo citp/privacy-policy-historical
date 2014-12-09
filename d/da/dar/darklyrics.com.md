@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darklyrics.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614142252id_/http%3A//www.darklyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darklyrics.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209163911id_/http%3A//www.darklyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Dark Lyrics. Privacy Policy.
 
@@ -34,5 +34,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 [SUBMIT LYRICS](https://web.archive.org/submit.html) [LINKS](https://web.archive.org/links.html) METAL LYRICS - CURRENTLY 13 800+ ALBUMS FROM 4500+ BANDS 
 
-Copyright © 2001-2011 - DarkLyrics.com \--- All lyrics are the property and copyright of their respective owners.  
+Copyright © 2001-2014 - DarkLyrics.com \--- All lyrics are the property and copyright of their respective owners.  
 All lyrics provided for educational purposes and personal use only. Please read the disclaimer.
