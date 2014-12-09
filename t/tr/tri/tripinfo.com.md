@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084105id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209200145id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
-# TRIPinfo.com - Privacy Policy
+# TRIPinfo.com: Privacy Policy
 
-NOTICE OF PRIVACY POLICY
-
+  
   
 
 
