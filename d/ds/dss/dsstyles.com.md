@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dsstyles.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509232057id_/https%3A//www.dsstyles.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsstyles.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209224536id_/https%3A//www.dsstyles.com/page/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | DSstyles
+# Privacy Policy | Stylish Smartphone Cases, Swarovski Crystal Cases and More | DSstyles
 
 Thank you for visiting DSstyles.com. We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with DSstyles.com is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we use the information we collect. 
 
