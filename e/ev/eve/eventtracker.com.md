@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventtracker.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610013056id_/http%3A//www.eventtracker.com/about-prism/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventtracker.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209234901id_/http%3A//www.eventtracker.com/about-prism/privacy) for the most accurate reproduction.*
 
-# Privacy | EventTracker SIEM, IT Security, Compliance and Log ManagementEventTracker SIEM, IT Security, Compliance and Log Management
+# Privacy | EventTracker SIEM, IT Security, Compliance, Log Management
 
 Prism Microsystems, Inc. (“EventTracker” or “We,” “Us,” “Our” or similar pronouns), created this Privacy Statement to demonstrate our firm commitment to Your privacy. This Privacy Statement discloses our information gathering and disseminating practices for use of the services we provide at [www.eventtracker.com](http://www.eventtracker.com/) and/or [www.eventtracker-cloud.com](http://www.eventtracker-cloud.com/) (the “Service”).
 
