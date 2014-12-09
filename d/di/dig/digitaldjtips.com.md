@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldjtips.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606003805id_/http%3A//www.digitaldjtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldjtips.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209113942id_/http%3A//www.digitaldjtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital DJ Tips
 
