@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521050805id_/http%3A//www.sfmoma.org/about/about_site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209165133id_/http%3A//www.sfmoma.org/about/about_site/privacy_policy) for the most accurate reproduction.*
 
-# SFMOMA | About Us | About SFMOMA | About the Site | SFMOMA Privacy Policy
+# The San Francisco Museum of Modern Art (SFMOMA) | About Us | About Us | About the Site | SFMOMA Privacy Policy
 
 * * *
 
@@ -34,7 +34,7 @@ We may share automatically collected and other aggregate non-personally-identifi
 
 Except as otherwise noted in this Privacy Policy, SFMOMA does not share personal information about Users with third parties unless doing so is appropriate to carry out a User’s request, or unless it reasonably believes that doing so is legally required or in SFMOMA's interest in order to protect its property and other legal rights or the property and rights of others.
 
-We do not share personally identifiable information with third-party organizations for their marketing or promotional use: (a) unless we obtain your prior consent, or (b) as part of specific programs or features for which you will have the ability to opt-out.  By way of example, and without limitation, one such program may include sharing your information with [other Bay Area cultural organizations](http://www.theatrebayarea.org/Programs/programDocuments/Bay-Area-Big-List-Useful-Documents.cfm) through list exchanges designed to pair patrons with organizations whose work might interest them.
+We do not share personally identifiable information with third-party organizations for their marketing or promotional use: (a) unless we obtain your prior consent, or (b) as part of specific programs or features for which you will have the ability to opt-out.  By way of example, and without limitation, one such program may include sharing your information with [other Bay Area cultural organizations](http://www.theatrebayarea.org/?page=AudienceDatabase) through list exchanges designed to pair patrons with organizations whose work might interest them.
 
 Please see the section entitled “Third Party Service Providers” below which addresses collection and use of your information by third parties (rather than by SFMOMA) to whom you may be redirected from the SFMOMA Website.
 
@@ -70,7 +70,7 @@ If SFMOMA learns of a security systems breach, then we may attempt to notify you
 
 The SFMOMA Website is hosted in the United States. If you are a User accessing the SFMOMA Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and other regions, and by providing your personal data you consent to:
 
-  * the use of your personal data for the uses identified above in accordance with the Privacy Policy;   
+  * the use of your personal data for the uses identified above in accordance with the Privacy Policy;  
 and
   * the transfer of your personal data to the United States as indicated above.
 
