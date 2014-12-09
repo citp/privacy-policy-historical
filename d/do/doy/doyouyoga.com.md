@@ -1,28 +1,106 @@
-> *The following text is extracted and transformed from the doyouyoga.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319065909id_/http%3A//www.doyouyoga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouyoga.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209231128id_/http%3A//www.doyouyoga.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DoYouYoga.com
 
-DoYouYoga.com is very serious about your privacy. Let’s keep the internet a trouble free and awesome place by saying no to spam and all other sorts of annoying things that are unfortunately out there! Like any other website, DoYouYoga.com has to record some data of you guys, the visitors. Here is what’s happening…
+_Last modified: September  22nd, 2014_
 
-## Data That is Collected
+DoYouYoga is fully owned by Skyrocket Group Limited (hereinafter referred to as „Skyrocket“). Before reading the DoYouYoga Privacy Policy, please also read our [Terms & Conditions](https://web.archive.org/terms/).
 
-When you visit DoYouYoga.com, our web server automatically logs some information. This is an internet standard and happens pretty much on any website that you go to. Here is the data that is saved:
+Skyrocket Group Limited (“Skyrocket”) and the DoYouYoga website (“DoYouYoga”) recognize that privacy is important and we are committed to protecting your privacy rights (“Policy”). We use the information we collect about you to process orders, to improve the content of DoYouYoga and to provide a more personalized experience. We may also use it to periodically inform you about changes on our Website and new products and services. We do not sell, trade or rent your personal information to others.
 
-  * Your IP address
-  * The pages that you visited and when you visited them
-  * Data about your web browser (e.g. software manufacturer and version)
-  * Data about your operating system (e.g. software manufacturer and version)
+This Policy applies to all of the products, services and websites offered by DoYouYoga, the mobile or tablet versions thereof, any DoYouYoga software, and any applications created by Skyrocket whether available through a social networking site or its subsidiaries or affiliated companies (collectively, the “Service”). Please note that the availability of any DoYouYoga applications on a social networking site, mobile or tablet device, internet television or other technology platform does not indicate any relationship or affiliation between DoYouYoga and such social networking site, mobile or tablet device, or internet television or other technology platform.
+
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/hello/ "Contact Us").
+
+By using the Service, you consent to the collection and use of your personal information as outlined in this Policy. As this Policy may be amended from time to time, you should visit this page periodically to review any changes to the Policy. Through your continued use of the Website after changes are made to the Policy, you accept the Policy as modified.
+
+## Information We Collect and How We Use It
+
+Information you provide – When you sign up for a DoYouYoga account we ask you for personal information (such as your name, e-mail address and an account password and may require your date of birth, gender, mailing and billing address, and zip code). At the time you register as a member or during your free trial period, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Skyrocket services or third parties in order to provide you with a better experience and to improve the quality of our services.
+
+We make your profile available to other users according to the privacy settings you set for yourself as part of your profile. Your user name will be identified to us and to any recipient of messages you send through the Service
+
+We also use your name, e-mail address and other information on our system to notify you of new product releases, service notifications, events, and to solicit your feedback and input. We may also use your information, or a portion thereof, to send you marketing materials and/or DoYouYoga newsletters or other information Skyrocket thinks you may need, unless you notify us that you do not wish to receive such materials. Please [contact us](https://web.archive.org/hello/) to request that you not be sent any or all of such information.
+
+DoYouYoga cookies – When you visit DoYouYoga, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our Service by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some DoYouYoga features and services may not function properly if your cookies are disabled. Cookies collect the date and time of your visit and your registration information.
+
+These cookies may either be permanent or temporary. DoYouYoga uses permanent cookies. This means that the cookie stays on your hard drive until you delete it. You can delete our cookie at any time by following the instructions contained in your browser’s help file, or by contacting that company providing your browser’s technical support. DoYouYoga does not use cookies to store information such as credit card numbers, telephone numbers, or any other sensitive information.
+
+DoYouYoga may use cookies to deliver content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site, or for other purposes.
+
+Activity Information – In order to provide the best possible service and to allow us to make certain internal reports and make recommendations, we collect aggregate information about the use of the Service, including information about users accessing the Website such as internet protocol addresses, browser type, browser language, referring / exit pages and URLs, other browser history, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time. By using the Service, you consent to our retaining all of your Activity Information.
+
+IP Address – An Internet Protocol (IP) address is a number that’s automatically assigned to your computer whenever you’re surfing the Web. We may retain your IP address in order to help us diagnose problems with our servers, to administer our Website, to help identify you, to gather broad anonymous demographic information (such as the number of visitors from a geographic area), to enforce compliance with the Website terms and conditions, or otherwise in order to protect our services, sites, customers, or others.
+
+Log information – When you use the Service, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+
+User communications – When you send email or other communication to DoYouYoga, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+
+Affiliated sites – We offer some of our services in connection with other websites. Personal information that you provide to those websites may be sent to Skyrocket in order to deliver the Service. We process such information in accordance with this Policy. The affiliated websites may have different privacy practices and we encourage you to read their privacy policies.
+
+Links – DoYouYoga may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our Website.
+
+Other websites – This Policy applies to websites and services that are owned and operated by Skyrocket. We do not exercise control over the websites displayed as search results or links from within our various services. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+
+## What Does Skyrocket Do With The Information Collected on DoYouYoga?
+
+Personal information – We may use your personal information for the purposes described in this Policy and/or privacy notice for specific services. Such purposes include, but are not limited to:
+
+  * Providing our products and services to users, including the display of customized content and advertising;
+  * Sharing information to our business partners who perform core services (such as hosting, billing, data storage, security, and reporting services) related to the operation of the Website and Service;
+  * Collecting and processing information about your actual location to provide location aware products and services and other content;
+  * Verifying your identity;
+  * Following up with transactions initiated on the Website;
+  * Auditing, research and analysis in order to maintain, protect and improve our services;
+  * Ensuring the technical functioning of our network; and
+  * Developing new services.
 
 
 
-This information is collected entirely anonymously. We do not know who you are. All we know is that someone came to visit our website and browsed around our pages.
+Skyrocket processes personal information on its servers in the Hong Kong Special Administrative Region and in other countries. In some cases, we process personal information on a server outside your own country. We provide personal and non-personal information to our subsidiaries, affiliated companies or other trusted third parties or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such personal information based on our instructions and in compliance with the appropriate confidentiality and security measures.
 
-When you subscribe to the DoYouYoga.com newsletter or any other email list, you give us some more information about you (e.g. your email address). This information is NEVER used for any purpose that you have not explicitly agreed to. So we do not sell, rent or hand out your data to any outside party EVER without your consent.
+We may also disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Skyrocket or its parent company, subsidiaries, or affiliates, (2) protect and defend the rights or property of Skyrocket or the users of the Website, or (3) act under exigent circumstances to protect the safety of the public or users of the Website.
 
-## Our Advertising Network
+Choices for personal information – When you sign up for the Service, we ask you to provide personal information. If we use this information in a manner different than those described in this Policy and/or in the specific service notices, then we will ask for your consent prior to such use.
 
-DoYouYoga.com uses some third-party vendors (e.g. Google or Commission Junction) to serve advertisements on the website. These third-party vendors might use cookies to serve ads to you based on your visit to this website. You may opt out of the use of the Google cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, and you decline, Skyrocket may not be able to provide its Service to you.
 
-## Comments and Questions
+Maintenance of personal information – You can access your information contained in the DoYouYoga database by [contacting us](https://web.archive.org/hello/ "Contact Us"). If you believe any of your information is incorrect or needs updating, please let us know at the email address listed in this section, or by U.S. Postal Mail to our address listed below (Attn: Information Access). Skyrocket will use reasonable efforts to correct your information and our records upon verification of the requested change. If you no longer wish to receive email notifications from DoYouYoga, please let us know by [contacting us](https://web.archive.org/hello/ "Contact Us") or sending a letter via U.S. Postal Mail to our address listed below (Attn: Opt Out of Mailing). In the text of your email or letter specify which notifications you no longer wish to receive and provide your exact name, email address and/or address so that we can do our best to ensure that you stop receiving the notifications that you no longer wish to receive. After such a request is received, Skyrocket will use reasonable efforts to refrain from including you when sending such notifications to DoYouYoga visitors/users/customers.
 
-If you have comments or questions about this privacy policy, feel free to contact us via [this page](http://www.doyouyoga.com/contact/).
+We do not currently maintain any procedures for you to review the information that we collect about you.
+
+Information Security – We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to Skyrocket employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+However, please note that no data transmission over the Internet can be guaranteed to be 100% secure, so while Skyrocket strives to protect your information, Skyrocket cannot ensure or warrant the security of any information that you voluntarily give to the DoYouYoga platform.
+
+Accessing and updating personal information – When you use the Services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+
+## Website Areas Beyond Skyrocket’s Control
+
+Third party links, co-brand relationships and public forums – In an attempt to provide increased value to our visitors, Skyrocket may choose various third party websites to link to, link from, and frame within, the Website. Skyrocket also may participate in co-branding and other relationships to offer e-commerce and other services and features to its users. However, even if the third party is affiliated with Skyrocket, we have no control over these linked sites, each of who have separate privacy and data collection practices independent of Skyrocket. We have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites. Please make sure you are comfortable with the privacy practices of every site you visit before providing the site with your personal information. These linked sites are only for your convenience and you therefore access them at your own risk.
+
+We also may make chat rooms, forums and message boards available to you on the Website. Please remember that we cannot control the information that is shared by members and that anything you voluntarily provide in any public area of the Internet will be publicly available to other visitors on that web site and potentially to other third parties. Thus, please note that you should always exercise caution when deciding to publicly disclose any of your personal information in these and similar areas.
+
+## Enforcement
+
+Skyrocket’s regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Skyrocket’s treatment of personal information by [contacting us](https://web.archive.org/hello/ "Contact Us").
+
+When we receive formal written complaints at this address, it is Skyrocket’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Skyrocket and an individual.
+
+## Users Under 18
+
+The DoYouYoga content is not directed at users under eighteen (18) years of age, and if you provide information about yourself as a user of DoYouYoga, you are representing that you are at least eighteen (18) years of age. We do not knowingly collect personally identifiable information from anyone under eighteen (18) years of age, but if we do become aware of having collected personally identifiable information from a user who is younger than eighteen (18) years of age, we will remove such information from our files.
+
+## Changes To This Policy
+
+Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the bottom of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+
+## DoYouYoga Terms and Conditions of Use
+
+A complete statement of our Terms and Conditions of Use [can be found here](https://web.archive.org/terms/ "Terms & Conditions"). DoYouYoga’s Terms and Conditions of Use are expressly incorporated into this Policy by this reference.
+
+## Your consent
+
+By using our Website, you consent to the collection and use of information by Skyrocket as set forth in this Policy. If we decide to change our Policy, we will post those changes on this page so that you will always be aware of what information we collect, how we use it, and under what limited circumstances we disclose it. Continued access or use of the Website shall constitute your express acceptance of any modifications to this Policy.
