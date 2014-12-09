@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the summerinfant.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211001558id_/http%3A//www.summerinfant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerinfant.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209030900id_/http%3A//www.summerinfant.com/privacy-policy) for the most accurate reproduction.*
 
-# Summer Infant - Privacy Policy
+# Summer Infant - Baby Products
 
 Summer Infant values our relationship with every customer and respects any personal information entrusted to us. Accordingly, we have spelled out the following privacy statement with you in mind. This privacy policy sets out how Summer Infant, Inc. uses and protects any personal information that you give Summer Infant when you use this website, Summer Infant is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement Summer Infant may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 1, 2010.
 
