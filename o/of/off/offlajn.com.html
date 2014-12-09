@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the offlajn.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625160901id_/http%3A//offlajn.com/common-content/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the offlajn.com privacy policy that was archived on 2014-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141209033716id_/http%3A//offlajn.com/common-content/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" class="dj_webkit dj_chrome dj_contentbox"><head>
 <script src="/templates/offlajn/js/dojo.js"></script>
@@ -15,12 +15,12 @@
   <title>Privacy Policy | Common content</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="http://offlajn.com/templates/offlajn/css/docu-article.css" type="text/css">
-  <link rel="stylesheet" href="/modules/mod_universal_ajaxlivesearch/cache/53/b5658257224459e4b3db838917afad37.css" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_universal_ajaxlivesearch/cache/53/3d79c8791095c711e10e10e32b0a4534.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_offlajn_login/style/login.css" type="text/css">
   <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script type="text/javascript" src="/modules/mod_universal_ajaxlivesearch/cache/53/af28c05556856a3e62a09ea57a58321c.js"></script>
+  <script type="text/javascript" src="/modules/mod_universal_ajaxlivesearch/cache/53/f908632604148bf051f9087c63e463db.js"></script>
   <script type="text/javascript" src="/modules/mod_offlajn_login/script/login.js"></script>
   <script type="text/javascript">
 
@@ -63,7 +63,7 @@
         stext: 'No results found. Did you mean?',
         moduleId : '53',
         resultAlign : '1',
-        targetsearch: '0',
+        targetsearch: '3',
         linktarget: '0',
         keypressWait: '500',
         catChooser : 1
@@ -75,6 +75,23 @@
 <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
 <link rel="stylesheet" href="/templates/offlajn/css/template.css" type="text/css">
 <link rel="stylesheet" href="/templates/offlajn/css/ie-only.css" type="text/css">
+<script type="text/javascript">
+  var isMobile = navigator.userAgent.match(/Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone/i);
+  if (!isMobile)
+  dojo.ready(function(){
+    var bgLeft = dojo.byId("cubes-menu-bg-left");
+    var bgRight = dojo.byId("cubes-menu-bg-right");
+    var bgCenter = dojo.query(".wrapper-inner")[0];
+    var divider = 7;
+    var sc = function(e){
+      dojo.style(bgLeft, "backgroundPosition","0 "+(window.scrollY/divider)+"px");
+      dojo.style(bgRight, "backgroundPosition","right "+(window.scrollY/divider)+"px");
+      dojo.style(bgCenter, "backgroundPosition","-159px "+(29+window.scrollY/divider)+"px");
+    };
+    dojo.connect(window,"onscroll", sc);
+    sc();
+  });
+</script>
 </head>
 
 <body id="page">
@@ -114,17 +131,16 @@
   			<input id="modlgn-passwd" type="password" name="passwd" alt="password">
 			</div>
 			<div id="go-btn"></div>
-			<div>
-						<label for="modlgn_remember"><a>Remember Me</a></label>
-			<input id="modlgn_remember" type="checkbox" name="remember" class="inputbox" value="yes" alt="Remember Me">
+			<div style="height: 57px;">
+						<input id="modlgn_remember" type="checkbox" name="remember" class="inputbox" value="yes" alt="Remember Me">
+			<label for="modlgn_remember"><a>Remember Me</a></label>
 						<br><a href="/lost-password.html">Forgot your password?</a>
 			<br><a href="/lost-user-name.html">Forgot your username?</a>
-			<br><br>
 			<input type="hidden" name="option" value="com_user">
 			<input type="hidden" name="task" value="login">
 			<input type="hidden" name="return" value="Lw==">
-						<input type="hidden" name="token" value="ebccc0728bf96c8ad062363e131f9a90">
-			<input type="hidden" name="ebccc0728bf96c8ad062363e131f9a90" value="1">
+						<input type="hidden" name="token" value="03159dd8183474195f5dc04d4d015a42">
+			<input type="hidden" name="03159dd8183474195f5dc04d4d015a42" value="1">
 			</div>
 		</form>
 					<ul><li><a href="/loginregister.html" onclick="return false;"><span id="login-button">Login</span></a></li></ul>
