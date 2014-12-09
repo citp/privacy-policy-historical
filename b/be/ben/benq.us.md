@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benq.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045355id_/http%3A//www.benq.us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benq.us privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209074124id_/http%3A//www.benq.us/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Police - BenQ USA
+# Privacy Policy - BenQ USA
 
 At BenQ website, we believe you have a right to know what type of information we may collect when you interact with us and our practices with respect to that information. The guidelines contained herein apply only to the BenQ websites. Sites which are linked to/from BenQ websites and via banner ads may have different policies; therefore, please review the privacy policy notices on those sites for details. In order to participate in BenQ websites, it will be necessary for you to provide certain personally identifiable information, including your name, e-mail address, age, mailing address, city, state and zip code and BenQ websites username and password. If you choose not to provide this information, you will not be able to participate in BenQ websites.
 
