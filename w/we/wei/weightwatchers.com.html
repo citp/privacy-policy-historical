@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weightwatchers.com privacy policy that was archived on 2014-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622024252id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weightwatchers.com privacy policy that was archived on 2014-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141209055935id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
     <title>
@@ -17,7 +17,7 @@
 <link type="image/x-icon" href="http://aka.weightwatchers.com/images/1033/favicon/favicon.ico" rel="shortcut icon">
 
 
-    
+    <link rel="canonical" href="//www.weightwatchers.com/legal/privacy.aspx">
     
     <link rel="stylesheet" href="http://aka.weightwatchers.com/css/1033/jquery-ui-1.8.14.tabs-articles.css" type="text/css">
 
@@ -70,10 +70,27 @@ var msgWildcard = "A wildcard search requires at least 3 characters. Please try 
 <script src="http://aka.weightwatchers.com/include/jquery.dcmegamenu.1.3.3.js"></script>
 
 <!-- WWCOM Control Domain -->
-<input name="ucTopnav:hdnControlDomain" type="hidden" id="hdnControlDomain" value="http://www.weightwatchers.com">
+<input name="ucTopnav:hdnControlDomain" type="hidden" id="hdnControlDomain" value="//www.weightwatchers.com">
 
 <script>
- 
+
+    function getUserInfo()
+    {
+        var JsonObject = new Object(); 
+        JsonObject.name="";
+        JsonObject.enrollmentDate="01/01/0001";
+        JsonObject.membershipType="visitor";
+        JsonObject.info_UserName="";
+        JsonObject.info_MemberNumber="";
+        var jsonText = JSON.stringify(JsonObject);
+
+        if(JSON.parse(jsonText))
+        {
+            return jsonText;
+        }
+    }
+
+    
     function fLogin(isWWButtonClicked)
     {
 	    javascript:void(loginPopup('/legal/privacy.aspx','false', isWWButtonClicked));
@@ -133,14 +150,14 @@ effect:  'fade'
                     });
 </script>
 
-<input type="hidden" name="gatewaylevel1" id="gatewaylevel1" value="" xmlns:fo="http://www.w3.org/1999/XSL/Format"><div id="wwhdr" xmlns:fo="http://www.w3.org/1999/XSL/Format"><div id="homenav" class=""><a href="/index.aspx" role="link" class="" target="_top"><img src="http://aka.weightwatchers.com/images/1033/css/nav/logo.png" alt="WeightWatchers.com"></a></div><div id="corpsol" class="">&nbsp;</div><div id="metanav"><ul><li><a href="#content-anchor" id="skip">
+<input type="hidden" name="gatewaylevel1" id="gatewaylevel1" value="" xmlns:fo="http://www.w3.org/1999/XSL/Format"><div id="wwhdr" xmlns:fo="http://www.w3.org/1999/XSL/Format"><div id="homenav" class=""><a href="/index.aspx" role="link" class="" target="_top"><img src="http://aka.weightwatchers.com/images/1033/css/nav/logo.png" alt="WeightWatchers.com Home"></a></div><div id="corpsol" class="">&nbsp;</div><div id="metanav"><ul><li><a href="#content-anchor" id="skip">
             Skip to content
-          </a></li><li class="" id="ItemHome" style=""><a href="/index.aspx" role="button" class="" target="_top"><display>Home</display></a></li><li class="sociable" id="ItemSociable" style=""><table class="soci_tbl" role="presentation"><tbody><tr><td class="soci_title">Find Us On:&nbsp;</td><td><a href="javascript:void(window.open('http://www.facebook.com/weightwatchers'));" title="Facebook" role="link"><img class="soci_icon" src="http://aka.weightwatchers.com/images/1033/css/nav/icon_fb.png" alt="Facebook"></a><a href="javascript:void(window.open('http://twitter.com/weightwatchers'));" title="Twitter" role="link"><img class="soci_icon" src="http://aka.weightwatchers.com/images/1033/css/nav/icon_tw.png" alt="Twitter"></a><a href="javascript:void(window.open('http://www.youtube.com/weightwatchers'));" title="YouTube" role="link"><img class="soci_icon" src="http://aka.weightwatchers.com/images/1033/css/nav/icon_yt.png" alt="YouTube"></a><a href="javascript:void(window.open('http://www.myspace.com/weightwatchers'));" title="MySpace" role="link"><img class="soci_icon" src="http://aka.weightwatchers.com/images/1033/css/nav/icon_ms.png" alt="MySpace"></a></td></tr></tbody></table></li><li class="" id="ItemFindaMeeting" style=""><a href="/util/mtf/index.aspx" role="button" class="" target="_top"><display>Find a Meeting</display></a></li><li class="" id="ItemHelp" style=""><a href="/help/index.aspx" role="button" class="" target="_top"><display>Help</display></a></li><li class="loginFB" id="fbTopNavLoginButton" style="display:none;"><a href="javascript:TopNavFLoginClick();" role="button" class="loginbutton" target="_top"><display><span>LOG IN</span><label style="overflow:hidden;">Facebook</label></display></a></li><li class="login" id="ItemLogin" style=""><a href="javascript:void(fLogin(true))" role="button" class="loginbutton" target="_top"><display><span>LOG IN</span><label style="overflow:hidden;">Site</label></display></a></li></ul></div><div id="searchnav"><div class="seaformtopnav"><div><label id="lblsearchTopNavCat" for="searchTopNavCat">Search</label><select id="searchTopNavCat"><option value="0">Entire Site</option><option value="2">Plan Information</option><option value="3">Articles</option><option value="9">Community</option><option value="6">Marketplace</option><option value="7">Help</option><option value="8">About Us</option></select></div><div><label id="lbltxtsearchTopNavCat">for</label><input id="searchTopNavKeyword" type="text" maxlength="256" onfocus="OnFocusClearField('searchTopNavKeyword')" onkeydown="ByEnterKey(event,'searchTopNavButton');" title="Search Term"><span role="alert" id="inputerror" class="hidetext"></span></div><input type="image" id="searchTopNavButton" class="go" src="http://aka.weightwatchers.com/images/1033/css/global/but_arrow_blue.gif" onclick="RunSearch('searchTopNavCat','searchTopNavKeyword','');return false;" alt="Search"></div></div><div id="topnav"><ul role="tablist"><li id="tn-home"><a href="/plan/index.aspx" role="button" class="" target="_top"><display>How It Works</display></a></li><li class="pipe"></li><li><a href="/food/index.aspx" role="button" class="" target="_top"><display>Food &amp; Recipes</display></a></li><li class="pipe"></li><li><a href="/health/index.aspx" role="button" class="" target="_top"><display>Fitness &amp; Health</display></a></li><li class="pipe"></li><li><a href="/success/index.aspx" role="button" class="" target="_top"><display>Success Stories</display></a></li><li class="pipe"></li><li><a href="/vendor/dispatcher.aspx?login=False&amp;application=SocNet&amp;section=Beta" role="button" class="" target="_top"><display>Community</display></a></li><li class="pipe"></li><li id="tn-last"><a href="/shop/index.aspx" role="button" class="" target="_top"><display>Marketplace</display></a></li><li class="pipe"></li></ul></div><div id="subnav-home">&nbsp;</div><div class="clr">&nbsp;</div></div>
+          </a></li><li class="" id="ItemHome" style=""><a href="/index.aspx" role="button" class="" target="_top"><display>Home</display></a></li><li class="sociable" id="ItemSociable" style=""><table class="soci_tbl" role="presentation"><tbody><tr><td class="soci_title">Find Us On:&nbsp;</td><td><a href="javascript:void(window.open('http://www.facebook.com/weightwatchers'));" title="Facebook" role="link"><img class="soci_icon" src="http://aka.weightwatchers.com/images/1033/css/nav/icon_fb.png" alt="Facebook"></a><a href="javascript:void(window.open('http://twitter.com/weightwatchers'));" title="Twitter" role="link"><img class="soci_icon" src="http://aka.weightwatchers.com/images/1033/css/nav/icon_tw.png" alt="Twitter"></a><a href="javascript:void(window.open('http://www.youtube.com/weightwatchers'));" title="YouTube" role="link"><img class="soci_icon" src="http://aka.weightwatchers.com/images/1033/css/nav/icon_yt.png" alt="YouTube"></a><a href="javascript:void(window.open('http://www.myspace.com/weightwatchers'));" title="MySpace" role="link"><img class="soci_icon" src="http://aka.weightwatchers.com/images/1033/css/nav/icon_ms.png" alt="MySpace"></a></td></tr></tbody></table></li><li class="" id="ItemFindaMeeting" style=""><a href="/util/mtf/index.aspx" role="button" class="" target="_top"><display>Find a Meeting</display></a></li><li class="" id="ItemHelp" style=""><a href="/help/index.aspx" role="button" class="" target="_top"><display>Help</display></a></li><li class="loginFB" id="fbTopNavLoginButton" style="display:none;"><a href="javascript:TopNavFLoginClick();" role="button" class="loginbutton" target="_top"><display><span>LOG IN</span><label style="overflow:hidden;">Facebook</label></display></a></li><li class="login" id="ItemLogin" style=""><a href="javascript:void(fLogin(true))" role="button" class="loginbutton" target="_top"><display><span>LOG IN</span><label style="overflow:hidden;">Site</label></display></a></li></ul></div><div id="searchnav"><div class="seaformtopnav"><div><label id="lblsearchTopNavCat" for="searchTopNavCat">Search</label><select id="searchTopNavCat"><option value="0">Entire Site</option><option value="2">Plan Information</option><option value="3">Articles</option><option value="9">Community</option><option value="6">Marketplace</option><option value="7">Help</option><option value="8">About Us</option></select></div><div><span id="lbltxtsearchTopNavCat">for</span><label for="searchTopNavKeyword" class="hidetext">Search Text</label><input id="searchTopNavKeyword" type="text" maxlength="256" onfocus="OnFocusClearField('searchTopNavKeyword')" onkeydown="ByEnterKey(event,'searchTopNavButton');" placeholder="Enter Search term"><span role="alert" id="inputerror" class="hidetext"></span></div><input type="image" id="searchTopNavButton" class="go" src="http://aka.weightwatchers.com/images/1033/css/global/but_arrow_blue.gif" onclick="RunSearch('searchTopNavCat','searchTopNavKeyword','');return false;" alt="Search"></div></div><div id="topnav"><ul role="tablist"><li id="tn-home"><a href="/plan/index.aspx" role="button" class="" target="_top"><display>How It Works</display></a></li><li class="pipe"></li><li><a href="/food/index.aspx" role="button" class="" target="_top"><display>Food &amp; Recipes</display></a></li><li class="pipe"></li><li><a href="/health/index.aspx" role="button" class="" target="_top"><display>Fitness &amp; Health</display></a></li><li class="pipe"></li><li><a href="/success/index.aspx" role="button" class="" target="_top"><display>Success Stories</display></a></li><li class="pipe"></li><li><a href="/vendor/dispatcher.aspx?login=False&amp;application=SocNet&amp;section=Beta" role="button" class="" target="_top"><display>Community</display></a></li><li class="pipe"></li><li id="tn-last"><a href="/shop/index.aspx" role="button" class="" target="_top"><display>Marketplace</display></a></li><li class="pipe"></li></ul></div><div id="subnav-home">&nbsp;</div><div class="clr">&nbsp;</div></div>
 <input name="ucTopnav:uctr_tn_tabs:images_directory" type="hidden" id="ucTopnav_uctr_tn_tabs_images_directory" value="/images/1033/">
 <input name="ucTopnav:uctr_tn_tabs:tab_bgcolor_on" type="hidden" id="ucTopnav_uctr_tn_tabs_tab_bgcolor_on" value="#FFFEE9"> <input name="ucTopnav:uctr_tn_tabs:tab_bgcolor_off" type="hidden" id="ucTopnav_uctr_tn_tabs_tab_bgcolor_off" value="#73AEDA">
 <input name="ucTopnav:uctr_tn_tabs:hdn_jnl_lang" type="hidden" id="ucTopnav_uctr_tn_tabs_hdn_jnl_lang" value="Journal"> <input name="ucTopnav:uctr_tn_tabs:hdn_fav_lang" type="hidden" id="ucTopnav_uctr_tn_tabs_hdn_fav_lang" value="My Favorites">
 <input name="ucTopnav:uctr_tn_tabs:hdn_mplan_lang" type="hidden" id="ucTopnav_uctr_tn_tabs_hdn_mplan_lang" value="Meal Plans">
-<input name="ucTopnav:uctr_tn_tabs:hdnParamVals" type="hidden" id="ucTopnav_uctr_tn_tabs_hdnParamVals" value="/legal/privacy.aspx;;;6/21/2014 10:42:53 PM">
+<input name="ucTopnav:uctr_tn_tabs:hdnParamVals" type="hidden" id="ucTopnav_uctr_tn_tabs_hdnParamVals" value="/legal/privacy.aspx;;;12/9/2014 12:59:35 AM">
 
 <!-- END FAST TOPNAV REMOVAL -->
 <script>
@@ -222,7 +239,7 @@ Similarly, we use Adobe Site Catalyst to help us track and analyze usage of our 
 		Finally, please note that advertisers and other third parties may also use their own cookies or action tags when you view or click on their advertisement or link to their website or service, on or from our Website. This Privacy Policy does not govern the use by such third-party websites or providers of third-party advertising.</div><div class="content_text"><h4><i>Social Media (Features) and Widgets</i></h4>Our Website includes social media features, buttons and widgets provided by third party social media platforms such as Facebook and Twitter (collectively, the “Features”). A Feature may collect your IP address and which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly.  This cookie may allow the social media platform to link the foregoing data with your user profile.  The Features are either hosted by the third party platform or directly on our Website.  Your interactions with these Features are governed by the privacy policy of the relevant platform.
 
 </div><div class="content_text"><h4><i>Facebook Connect or other OpenID provider</i></h4>You can log in to our Website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity.
-</div><div class="content_text"><h4><i>Referral Programs.</i></h4>Through third party referral program operators and others, we offer referral programs whereby referral websites can earn commissions through the referral of subscribers or other purchasers to our Website. To track the earning of such commissions, and to determine the effectiveness of the referral programs, the users who become subscribers to our Online Products or purchasers through such referral websites are tracked using technologies that do not include Personally Identifiable Information (such as cookies and/or action tags). Our program operators and the referral websites themselves can only access non-Personally Identifiable Information such as data relating to the number of impressions served, the number of transactions completed, and their resulting earnings. They cannot access our customers' personal data. 
+</div><div class="content_text"><h4><i>Linking your account with third party applications and devices</i></h4>Our Website offers you the option to connect your Weight Watchers account with third party applications or devices (each a “Tracker”) such as activity trackers that measure your activity level (e.g. the number of steps and distance walked, calories burned and other personal metrics). If you connect your Weight Watchers account with an account you have with a provider of a Tracker, the third party provider will receive the information from us that you have a Weight Watchers account. At the same time, data collected by your third party Tracker (for example, personal activity data collected via an activity tracker device or other collected data) will be transferred to us and may be incorporated into your Weight Watchers account (for example, to display activity <i>PointsPlus</i>® values earned) in accordance with the terms of this Privacy Policy. You have the option to disconnect the Trackers from your Weight Watchers account at any time via our website. Please refer to the privacy policy of your Tracker provider for further details, which may include information on what specific data is collected by your third party Tracker and account.</div><div class="content_text"><h4><i>Referral Programs.</i></h4>Through third party referral program operators and others, we offer referral programs whereby referral websites can earn commissions through the referral of subscribers or other purchasers to our Website. To track the earning of such commissions, and to determine the effectiveness of the referral programs, the users who become subscribers to our Online Products or purchasers through such referral websites are tracked using technologies that do not include Personally Identifiable Information (such as cookies and/or action tags). Our program operators and the referral websites themselves can only access non-Personally Identifiable Information such as data relating to the number of impressions served, the number of transactions completed, and their resulting earnings. They cannot access our customers' personal data. 
 		<br><br>
 		If you choose to apply to be a referral website, we use the data you provide strictly for conducting business with you. We have entered into certain agreements with third party program operators for the purpose of administering our referral programs. Should you become a referral website of ours through one of our third party program operators, any information you provide to them is subject to their privacy policies.</div><div class="content_text"><h4><i>Online Products.</i></h4>We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Online Products (available either for free or on a subscription basis) such as the "Favorites" feature, the “<i><b>PointsPlus</b></i> ® Tracker” tool, the "Weight Tracker" tool and the Community Areas. We also collect information that you provide voluntarily through responses to special Online Products such as surveys, questionnaires, self-assessment quizzes, contests and the like. Some of these Online Products may ask you for health related information. We collect this information in order to personalize your online experience. </div><div class="content_text"><h4><i>Handheld Products.</i></h4>Information is also collected when you use our Handheld Products, including the software application needed to utilize the Handheld Products on your handheld device (the “Application”).  During the installation of the Application and subsequent synchronizations, we collect Non-Personally Identifiable Information concerning your device (such as the specific type of operating system and hardware you have, and the amount of free and total memory) and the Application’s files on your device.  
 		<br><br>
@@ -308,6 +325,7 @@ or to protect the safety and/or security of our users, our Website or the genera
 
 
 
+
 <br clear="all">
             <table width="764" border="0" cellspacing="0" cellpadding="0" role="presentation">
                 <tbody><tr>
@@ -365,7 +383,7 @@ var s_account="wwatchcomusa"
 s.eVar17="visitor";
 s.account="wwatchcomusa";
 s.prop11="visitor";
-s.server="NYAPUSWEB17";
+s.server="NYAPUSWEB20";
 s.prop25="";
 s.cookieDomainPeriods="2";
 
@@ -438,9 +456,9 @@ if(imgWWAllPagesTag ) {imgWWAllPagesTag.src = vImageSource;}
 
 
 
-<input name="ucFooter:hdnWWSERVERNAME" type="hidden" id="ucFooter_hdnWWSERVERNAME" value="nyapusweb17">
-<input name="ucFooter:hdnWWVersion" type="hidden" id="ucFooter_hdnWWVersion" value="14.4.62.1">
-<img id="imgWWAllPagesTag" height="1" width="1" src="/images/blank.gif" alt=" ">
+<input name="ucFooter:hdnWWSERVERNAME" type="hidden" id="ucFooter_hdnWWSERVERNAME" value="NYAPUSWEB20">
+<input name="ucFooter:hdnWWVersion" type="hidden" id="ucFooter_hdnWWVersion" value="14.7.70.391">
+<img id="imgWWAllPagesTag" height="1" width="1" src="/images/blank.gif" alt="">
 <!--  END FAST REMOVAL  -->
 
             <!-- End grid_footer -->
