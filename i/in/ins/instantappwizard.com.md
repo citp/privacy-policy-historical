@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantappwizard.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910183143id_/http%3A//www.instantappwizard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantappwizard.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209101053id_/http%3A//www.instantappwizard.com/privacy.php) for the most accurate reproduction.*
 
 # Instant App Wizard
 
@@ -6,25 +6,19 @@
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site without entering your information. Our site can still set cookies via a users browser so we can show ads to interested users after they have left our site. This is commonlly called "retargeting" and is done via Facebook, Google, Perfect Audience ad companies. We collect no personal information when retargeting, the afore referenced ad companies simply place a cookie that tells them to show our ad to users that have visited our site when they are on other sites. 
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+To personalize your experience. (your information helps us to better respond to your individual needs)
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+To improve customer service. (your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To send periodic emails  
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -72,8 +66,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-instantappwizard.com  
+Instant App Wizard   
 PO 186  
-New Port Richey, Florida 34656  
-US  
-support at instantappwizard.com 
+New Port Richey, Florida  USA34656
+
+support @ instantappwizard.com 
