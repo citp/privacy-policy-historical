@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globalblast.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081353id_/http%3A//globalblast.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalblast.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209063511id_/http%3A//globalblast.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » GlobalBlast
+# Privacy Policy » Global Blast Network
 
 **PRIVACY POLICY**
 
-This privacy policy sets out how GlobalBlast Social Media Network (which includes Globalblast.com and GlobalblastNetwork.com) uses and protects any information that you give us when you use any of our websites. 
+This privacy policy sets out how Global Blast Social Media Network uses and protects any information that you give us when you use any of our websites. 
 
 Global Blast Social Media Network is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using any of our websites, then you can be assured that it will only be used in accordance with this privacy statement. 
 
