@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521231357id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209130953id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
 
 # Immunization Action Coalition Privacy Policy
 
-|  | 
+| 
 
 |   
 ---  
@@ -21,7 +21,7 @@ _This page was reviewed on August 1, 2013_
 |   
 ---  
   
-Immunization Action Coalition  •  1573 Selby Ave  •  St. Paul, MN 55104  
+Immunization Action Coalition  •  2550 University Avenue West  •  Suite 415 North  •  Saint Paul, Minnesota  •  55114  
   
 tel 651-647-9009  •  fax 651-647-9131  
   
