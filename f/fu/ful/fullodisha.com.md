@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullodisha.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010308id_/http%3A//www.fullodisha.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullodisha.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209062839id_/http%3A//www.fullodisha.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Odia Services
 
