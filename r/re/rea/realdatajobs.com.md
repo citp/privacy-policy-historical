@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realdatajobs.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209020105id_/http%3A//realdatajobs.com/terms_con.php%3Ftype1%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdatajobs.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209072007id_/http%3A//www.realdatajobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Real data jobs | Online jobs , Part time jobs , Home based Jobs , online data jobs , Translation work
+# Privacy Policy | Real Data Jobs
 
 We at Glow ADS are committed to safeguarding and protecting the personal information that we collect and receive during our normal course of business transactions. This may also include information received by us through your previous and past transactions or even from your visit to this site.
 
@@ -28,9 +28,9 @@ During the course of our business transactions and the operation of our website,
 
 The sending of data over the Internet is prone to being intercepted and is not considered totally secure. We at Glow ADS do not guarantee security of such data sent electronically by you over the Internet. You agree to send such data entirely at your own risk.
 
-**Sharing of Personal Information**
-
+**Sharing of Personal Information**  
 At Glow ADS we shall refrain from sharing your personal information to any third party apart from during the below detailed situations:
+
   1. Where such information is made necessary to be shared as mandated by legal obligations and other law enforcements.
   2. During the due process of business transactions your personal information may require sharing with our trusted affiliates, partners or agencies. During such sharing of personal information, we mandate that the third party agency handling such information is in compliance with our privacy policy apart from other confidentiality measures.
   3. In the event of Glow ADS selling or divesting part or whole of its business to a buyer who may gain title to the business, Glow ADS would notify its members before the transfer of such data to the third party.
@@ -60,4 +60,4 @@ In a bid to enhance the confidentiality and data security measures of your perso
 
 **Feedback and contacting us**
 
-In case you need any further details regarding privacy policy apart from what is provided here, you are free to contact us through email that we have furnished in the contact us section of our website. 
+In case you need any further details regarding privacy policy apart from what is provided here, you are free to contact us through email that we have furnished in the contact us section of our website.
