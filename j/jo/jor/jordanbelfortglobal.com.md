@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jordanbelfortglobal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110403id_/http%3A//jordanbelfort.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordanbelfortglobal.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209012040id_/http%3A//jordanbelfort.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | jordanbelfort
+# Privacy Policy | Jordan Belfort
 
 **PRIVACY POLICY**
 
