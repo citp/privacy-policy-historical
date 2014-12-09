@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622024252id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209055935id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.com Privacy Policy
 
@@ -77,7 +77,11 @@ Our Website includes social media features, buttons and widgets provided by thir
 
 You can log in to our Website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity. 
 
-#### _Referral Programs._
+#### _Linking your account with third party applications and devices_
+
+Our Website offers you the option to connect your Weight Watchers account with third party applications or devices (each a “Tracker”) such as activity trackers that measure your activity level (e.g. the number of steps and distance walked, calories burned and other personal metrics). If you connect your Weight Watchers account with an account you have with a provider of a Tracker, the third party provider will receive the information from us that you have a Weight Watchers account. At the same time, data collected by your third party Tracker (for example, personal activity data collected via an activity tracker device or other collected data) will be transferred to us and may be incorporated into your Weight Watchers account (for example, to display activity _PointsPlus_ ® values earned) in accordance with the terms of this Privacy Policy. You have the option to disconnect the Trackers from your Weight Watchers account at any time via our website. Please refer to the privacy policy of your Tracker provider for further details, which may include information on what specific data is collected by your third party Tracker and account.
+
+####  _Referral Programs._
 
 Through third party referral program operators and others, we offer referral programs whereby referral websites can earn commissions through the referral of subscribers or other purchasers to our Website. To track the earning of such commissions, and to determine the effectiveness of the referral programs, the users who become subscribers to our Online Products or purchasers through such referral websites are tracked using technologies that do not include Personally Identifiable Information (such as cookies and/or action tags). Our program operators and the referral websites themselves can only access non-Personally Identifiable Information such as data relating to the number of impressions served, the number of transactions completed, and their resulting earnings. They cannot access our customers' personal data. 
 
