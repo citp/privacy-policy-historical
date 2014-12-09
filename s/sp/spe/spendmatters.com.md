@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spendmatters.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155426id_/http%3A//spendmatters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spendmatters.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209111657id_/http%3A//spendmatters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Spend Matters
-
-[Home](http://spendmatters.com/) | Privacy Policy
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
