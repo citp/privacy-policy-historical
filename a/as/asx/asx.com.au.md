@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627050743id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209025225id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
 
-# Privacy Statement - ASX
+# Privacy Policy - ASX
 
  ASX Limited and its related bodies corporate (the “ **ASX Group** ” or “ **ASX** ”) is bound by the Australian Privacy Principles (“ **APP** ” or “ **Principles** ”) as set out in the Privacy Act 1988 (Commonwealth). The following provide a clear and concise outline of ASX's Privacy Policy: how and when Personal Information is collected, stored and distributed by the ASX Group.
 
@@ -100,7 +100,7 @@ ASX Group collects Personal Information from the web site [www.asx.com.au](http:
 
 Information is recorded into our server log which is provided by your browser. This information is logged for statistical purposes only. Where possible, ASX will use pseudo names to protect an individual’s anonymity. However, there will be circumstances where ASX will not be able to provide a service unless your personal information is provided.
 
-We will try not to identify you or your browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider’s logs; if your usage is causing technical issues for our website which may need to be resolved; or where you may have won in a game. In these circumstances, we may need to identify you to contact you.
+We will try not to identify you except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider’s logs; if your usage is causing technical issues for our website which may need to be resolved; or where you may have won in a game. In these circumstances, we may need to identify you to contact you. We will review browsing activities to be able to provide better products and services and ASX partners with Yahoo!7 for ad serving. For more information on ad serving and information on ‘Opting-out’ please visit <https://info.yahoo.com/privacy/au/yahoo/adserving>. 
 
 We may also from time to time email you about an event or new feature/service that we think might be of interest. If you do not wish to receive such emails, all you have to do is unsubscribe or opt-out.
 
@@ -135,4 +135,6 @@ You can also obtain information at the Office of the Australian Information Comm
 
 This Privacy Statement will be reviewed from time to time as required. 
 
-Dated: March 2014
+Dated: September 2014
+
+Advertisement
