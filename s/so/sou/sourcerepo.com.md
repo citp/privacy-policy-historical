@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcerepo.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209022244id_/http%3A//sourcerepo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcerepo.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209092729id_/http%3A//sourcerepo.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
