@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the feelalive.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603074835id_/http%3A//www.feelalive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feelalive.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209182502id_/http%3A//feelalive.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nature's Way
+# Privacy Policy | Alive!
 
-Date Last Modified: July 19, 2010
+**Date Last Modified: July 19, 2010**
 
 Your privacy is important to us. Nature’s Way and affiliates ("Nature’s Way") are committed to maintaining the privacy and accuracy of your personal information and to protecting such information from loss, misuse, unauthorized access, disclosure, alteration and destruction.
 
