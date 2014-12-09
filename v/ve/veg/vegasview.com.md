@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasview.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917055632id_/http%3A//www.vegasview.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasview.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209025408id_/http%3A//www.vegasview.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Vegas View.com
 
