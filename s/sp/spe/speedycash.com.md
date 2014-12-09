@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606092527id_/http%3A//www.speedycash.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209111659id_/http%3A//www.speedycash.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Speedy Cash
-
-  * [Home](https://web.archive.org/ "Fast Payday Loans & Cash Advance Services Online") » 
-  * Privacy Policy
-
-
 
 ## What does Speedy Cash®/Rapid Cash® do with your personal information?
 
@@ -43,7 +38,7 @@ For nonaffiliates to market to you | Yes | Yes
   
 ### To limit our sharing
 
-Click here to view our [mail form](https://web.archive.org/privacy-policy/mailform.htm).
+Click here to view our [mail form](https://www.speedycash.com/privacy-policy/mailform.htm).
 
 Please note: If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing. 
 
