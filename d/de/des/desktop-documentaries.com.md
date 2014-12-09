@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160128id_/http%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209224026id_/http%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,16 +80,26 @@ Your use of this site indicates acceptance of this privacy policy. 
 
 * * *
 
-* * *
+[](http://www.desktop-documentaries.com/how-to-make-a-documentary-crash-course.html "Go to Learn How To Make A Documentary | 7-Day Crash Course")
+
+### Ready To Make Your Dream Documentary?
+
+Get started right away with our exclusive 7-day crash course and learn step-by-step how to make a documentary from idea to completed film.   
+
+
+[](http://www.desktop-documentaries.com/how-to-make-a-documentary-crash-course.html "Go to Learn How To Make A Documentary | 7-Day Crash Course")
 
   
+
+
 | 
 
-A 7-day online crash course that teaches  
-you step-by-step how to make your   
-dream documentary.  
+### Ready To Make Your Dream Documentary?
 
-[Learn More](http://www.desktop-documentaries.com/how-to-make-a-documentary-crash-course.html)
+Get started right away with our exclusive 7-day crash course and learn step-by-step how to make a documentary from idea to completed film.   
+
+
+[](http://www.desktop-documentaries.com/how-to-make-a-documentary-crash-course.html "Go to Learn How To Make A Documentary | 7-Day Crash Course")
 
 | 
 
@@ -98,10 +108,3 @@ dream documentary.  
 ---|---|---  
   
 
-
-* * *
-
-  
-
-
-* * *
