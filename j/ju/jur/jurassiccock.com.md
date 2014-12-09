@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jurassiccock.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530072751id_/http%3A//jurassiccock.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurassiccock.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209081847id_/http%3A//jurassiccock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
