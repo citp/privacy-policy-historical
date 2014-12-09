@@ -1,53 +1,76 @@
-> *The following text is extracted and transformed from the englandrugby.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207004300id_/http%3A//webrugby.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englandrugby.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209063200id_/http%3A//www.englandrugby.com/about-the-rfu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Web Rugby
+# RFU - About the RFU
 
-**Privacy Policy to Users of WebRugby Web Sites**
+This statement discloses the privacy policy for [www.englandrugby.com](http://www.rfu.com/), the official website of the Rugby Football Union. 
 
-Web Rugby Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Web Rugby Websites. 
+The Rugby Football Union (RFU) is committed to protecting your privacy and ensuring a secure online experience. In general, you can view this site and all the latest news and results without telling us who you are or revealing any information about yourself. Sometimes, however, the RFU needs to monitor website usage to help it to develop the website and our services. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+### Collection of Personal Information
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+The RFU offers certain functions and services which, if you choose to use them, will require information from you in order to work, such as your name, email, address and mobile telephone number. The RFU will endeavour to let you know before your personal information is collected from you on the internet.
 
-This site contains links to other sites. **Web Rugby** is not responsible for the privacy practices or the content of such Web sites. 
+### Use of Personal Information
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+### Primary Purposes
 
-**Public Forums** This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+We use personal information for five primary purposes: 
 
-**Choice/Opt-Out** Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+  * To perform the services you have requested (such as administering your subscription to a free online service or processing orders from the Rugby Store)
+  * To make the site easier for you to use by not making you enter your personal information more than once
+  * To help you find what you're looking for quickly
+  * To help us create and deliver content most relevant to you
+  * To alert you to new services, special offers, and other info, unless you have indicated otherwise
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [services@webrugby.com](mailto:services@webrugby.com)
 
-**Correct/Update** This site gives users the following options for changing and modifying information previously provided. 
+The RFU is very much aware that some people will not want their information used other than for the purposes for which it was supplied; some will want to receive information from the RFU on rugby issues only and others will want to receive more information.
 
-  1. email [services@webrugby.com](mailto:services@webrugby.com)
+The RFU will use your personal data for the administration of the game, but will give you the choice as to what information if any you wish to receive by email.
 
-**Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact M Tilyard Web Rugby Inc mike@webrugby.com athering and dissemination practices for Web Rugby Websites. 
+In connection with commercial information, the categories have been divided into three groups, namely:
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+  * Products and commercial services available from the RFU, its companies and RFU subsidiaries - these include Twickenham Experience Limited, England Rugby Travel Limited, Rugby Store and other RFU entities
+  * Products and services available from RFU official sponsors - these sponsors will be listed on the RFU website and, regularly, in Touchline
+  * Products and services available from RFU official sponsors’ subsidiary or associate companies - the RFU will not be able to list these entities
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
-This site contains links to other sites. **Web Rugby** is not responsible for the privacy practices or the content of such Web sites. 
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+The RFU has decided that for the first two categories you should be able to ‘Opt Out’ of receiving the information, but that for the third category you will only receive it if you ‘Opt In’.
 
-**Public Forums** This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+The RFU will not use (or pass to any third party) contact data on children under the age of 14 for any commercial mailing purposes.
 
-**Choice/Opt-Out** Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+### Processing Your Data
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+If you choose to give us personal information to process an order or provide you with a subscription to a free service then this will be held and processed by the RFU in accordance with the Data Protection Act 1998. The RFU may also need to transfer your personal information to its agents or sub-contractors who will process it on the RFU's behalf.
 
-  1. You can send email to [services@webrugby.com](mailto:services@webrugby.com)
+### Providing you with information
 
-**Correct/Update** This site gives users the following options for changing and modifying information previously provided. 
+The RFU may use your personal information to supply you with information about the RFU and/or its related organisations, and new (unless you have indicated otherwise) services offered to the game, as well as their respective activities and ranges of goods, services and opportunities (and otherwise where you have given your consent). 
 
-  1. email [services@webrugby.com](mailto:services@webrugby.com)
+The RFU may also use your personal information for general statistical purposes. We also keep track of the domains from which users visit and analyse this data:
 
-**Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact M Tilyard Web Rugby Inc mike@webrugby.com
+  * For trends and statistics and to evaluate the efficiency of our website and our internet infrastructure
+  * To ensure that services offered (such as, but not limited to, chat and forums) are not abused
 
-Copyright © 2000 WebRugby Inc. All Rights Reserved. 
+
+
+We may also use your information for detection of fraud and market research purposes.
+
+### Business relationships
+
+The RFU website contains links to other websites. The RFU is not responsible for the privacy practices or the content of external websites. 
+
+### Cookies
+
+Information may be sent to your computer in the form of an Internet "cookie" to allow the RFU servers to monitor your requirements. The cookie is stored on your computer. The RFU server may request that your computer return a cookie to it. 
+
+These return cookies do not contain any information supplied by you or any personally identifiable information about you. However, we use cookies to keep track of your shopping cart when you are using the Rugby Store Online. 
+
+Such measures are necessary to allow the RFU to measure the usability of the systems, which will help to continually improve user experience of our websites.
+
+Your browser software should however enable you to block cookies if you wish to. For more information about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+### Consent
+
+By submitting your personal information to us, you signify your consent to our using the information provided in the manner described above. If we amend our privacy policy, any changes will be published on this web site. If at any time you wish to update the information which we hold about you, or if you wish to stop receiving information from the RFU, please [contact us](https://web.archive.org/about-the-rfu/contact-the-rfu/).
