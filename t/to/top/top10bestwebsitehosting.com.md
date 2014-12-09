@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the top10bestwebsitehosting.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10bestwebsitehosting.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209044544id_/http%3A//www.top10bestwebsitehosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy ("Privacy Policy") governs the manner in which [top10bestwebsitehosting.com](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/top10bestwebsitehosting.com) collects, uses, maintains and discloses information collected from users (each, a "User") of the [top10bestwebsitehosting.com](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/top10bestwebsitehosting.com) website (together with its subdomains, content and services, the "Site"). This privacy policy applies to the Site and all services offered by the Site.
+This Privacy Policy ("Privacy Policy") governs the manner in which [top10bestwebsitehosting.com](http://www.top10bestwebsitehosting.com/) collects, uses, maintains and discloses information collected from users (each, a "User") of the [top10bestwebsitehosting.com](http://www.top10bestwebsitehosting.com/) website (together with its subdomains, content and services, the "Site"). This privacy policy applies to the Site and all services offered by the Site.
 
 **Introduction**
 
@@ -101,13 +101,13 @@ In the event that we are acquired by or merged with a third party entity, we res
 
 **Your Acceptance Of These Terms**
 
-This Privacy Policy forms part of the Site’s Terms of Use, available at [top10bestwebsitehosting.com/terms-of-use](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/terms-of-use) (the "Terms"). By using this Site, you signify your acceptance of this policy and the processing of Personal Information for the purposes set forth herein. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+This Privacy Policy forms part of the Site’s Terms of Use, available at [top10bestwebsitehosting.com/terms-of-use](https://web.archive.org/web/20141209044544id_/http%3A//www.top10bestwebsitehosting.com/terms-of-use) (the "Terms"). By using this Site, you signify your acceptance of this policy and the processing of Personal Information for the purposes set forth herein. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
 **Contacting Us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[top10bestwebsitehosting.com](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/top10bestwebsitehosting.com)
+[top10bestwebsitehosting.com](http://www.top10bestwebsitehosting.com/)
 
 [contact@top10bestwebsitehosting.com](mailto:contact@top10bestwebsitehosting.com)
 
