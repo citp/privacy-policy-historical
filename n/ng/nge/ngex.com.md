@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ngex.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130045810id_/http%3A//www.ngex.com/info/bd/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngex.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209080057id_/http%3A//ngex.com/info/privacy.htm) for the most accurate reproduction.*
 
-# NgEX! NigeriaExchange - Nigeria -> Constitution
+# NgEX.com (NigeriaExchange)- Privacy Statement
 
-NigeriaExchange.com, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **"www.NigeriaExchange.com or www.ngex.com."** This policy may change from time to time so please check back periodically.
+NGEX, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **"www.NigeriaExchange.com or www.ngex.com."** This policy may change from time to time so please check back periodically.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also use to gather broad demographic information.
 
@@ -36,7 +36,7 @@ Out site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can send email to[ remove@ngex.com ](https://web.archive.org/web/20121130045810id_/http%3A//www.ngex.com/info/bd/remove.htm)
+  1. You can send email to[ remove@ngex.com ](https://web.archive.org/web/20141209080057id_/http%3A//ngex.com/info/remove.htm)
 
 
 
@@ -44,7 +44,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  1. email [ update@ngex.com](https://web.archive.org/web/20121130045810id_/http%3A//www.ngex.com/info/bd/com.htm)
+  1. email [ update@ngex.com](https://web.archive.org/web/20141209080057id_/http%3A//ngex.com/info/com.htm)
 
 
 
