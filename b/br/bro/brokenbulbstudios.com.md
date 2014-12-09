@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokenbulbstudios.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609163606id_/http%3A//brokenbulbstudios.com/%3Fpage_id%3D234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokenbulbstudios.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209132906id_/http%3A//brokenbulbstudios.com/%3Fpage_id%3D234) for the most accurate reproduction.*
 
 # Privacy Policy | Broken Bulb Game Studios
 
@@ -7,7 +7,8 @@
 
 
 
-## Arizona's Largest Game Developer
+## Pushing The Limits of Fun  
+One Game at a Time
 
 The following sets forth Broken Bulb Studios Privacy Policy pertaining to all players whom access any of our games (the ‘Services’).  Please note that this Privacy Policy is limited to the information collected and used by Broken Bulb Studios through use of any of our Services.  By using our Services, you agree that Broken Bulb Studios has the right to access and maintain the information as set out below.
 
