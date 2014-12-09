@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiegamemag.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083300id_/http%3A//www.indiegamemag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegamemag.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209031721id_/http%3A//indiegamemag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Indie Game Magazine
 
