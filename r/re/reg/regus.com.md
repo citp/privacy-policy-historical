@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regus.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215013706id_/http%3A//www.regus.com/images/PrivacyPolicy_tcm8-38647.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regus.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209222703id_/http%3A//www.regus.com/images/PrivacyPolicy_tcm304-56252.pdf) for the most accurate reproduction.*
 
 # Privacy Policy of Regus Group
 
@@ -61,7 +61,7 @@ the laws of the jurisdiction governing our affiliate or the third party.
 Your personal data may be transferred across state borders and country borders. Residents of the EEA and Canada should understand that your personal data may
 be transferred outside of the EEA and Canada to the United States and other countries for the purposes of data consolidation, storage, simplified customer
 information management, reporting and other internal uses.
-October 21, 2013
+June 11, 2014
 
 
 Regus Group does not disclose personal data with third parties for their own use without your permission. However, in some cases, Regus Group may be required to
@@ -72,9 +72,10 @@ Cookies and other digital markers
 Regus automatically gather information through the use of cookies and other digital markers. Cookies and digital markers are small computer files that may be
 stored on your computer’s hard drive or embedded in our website pages that enable us to identify you and track your visit on the Regus Group Website. For
 example, when you book office space, we use cookies in the checkout process in order to keep track of your order as you move through each step of the booking
-process. Regus may use the services of third-parties to collect and process personal information through the use of cookies and other digital markers on our behalf.
-You may disable cookies on your computer by changing the settings in the preferences or options menu in your browser. If you choose to disable cookies, you may
-not be able to access certain areas of the Regus Group Website.
+process. Regus may use the services of third-parties to collect and process personal information through the use of cookies and other digital markers on our
+behalf. You may disable cookies on your computer by changing the settings in the preferences or options menu in your browser. If you choose to disable cookies,
+you may not be able to access certain areas of the Regus Group Website. Regus Group’s systems do not have functionality to receive or recognize a Do-Not-Track
+signal sent by a customer through a browser.
 Children’s privacy
 Regus Group is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s
 online activities and interests. Regus Group does not knowingly collect information from children under the age of 13 and Regus Group does not target its
@@ -88,15 +89,15 @@ you purchase a product from us but do not wish to receive any additional marketi
 If you no longer wish to receive our newsletters and/or promotional communications, you may opt-out of receiving them by following the instructions included in
 each newsletter or communications or by emailing us at webmaster@regus.com. Please type “Opt-Out” in the subject-line.
 Access to and accuracy of your information
-We will provide you with access to your information, including making reasonable effort to provide you with onli ne access and the opportunity to change your
+We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change your
 information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access
 to your data. Subject to applicable law, we reserve the right to refuse to provide visitors to our websites with a copy of their personal data, but will give reasons for
 our refusal.
 Keeping your information secure
 Regus Group does not guarantee or warrant the security of our servers nor can we guarantee that information you supply through the Regus Group Website will not
-be intercepted while being transmitted over the Internet. We follow generally accepted industry technical standards to protect the personal data submitted to us, both
-during transmission and once we receive it. When you enter sensitive information (such as credit card information) on our registration or order forms, we encrypt
-that information using secured socket layer technology.
+be intercepted while being transmitted over the Internet. We follow generally accepted industry standards to protect the personal data submitted to us, both during
+transmission and once we receive it. When you enter sensitive information (such as credit card information) on our registrati on or order forms, we encrypt that
+information using secured socket layer technology.
 Business transitions
 In the event that Regus Group goes through a business transition, such as a merger, acquisition by another company or sale of all or a portion of its assets, your
 personal information will likely be among the assets transferred.
@@ -106,4 +107,4 @@ but not limited to, disclaimers of warranty, limitations of liability, and arbit
 Contacting us
 We value your opinions. If you have comments or questions about this Privacy Policy or to advise us of a concern relating to the handling of your personal
 information, please send us an e-mail at webmaster@regus.com. If your concern is privacy related, please type “Privacy” in the subject-line of your e-mail.
-October 21, 2013
+June 11, 2014
