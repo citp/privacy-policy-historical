@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netexam.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113350id_/http%3A//www.netexam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netexam.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209200044id_/http%3A//netexam.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
