@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newvideoplayer.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627143024id_/http%3A//www.newvideoplayer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newvideoplayer.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209201950id_/http%3A//www.newvideoplayer.com/privacy.php) for the most accurate reproduction.*
 
 # New Player
 
