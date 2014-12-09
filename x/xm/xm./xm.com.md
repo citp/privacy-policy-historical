@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055914id_/http%3A//www.xm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210003938id_/http%3A//www.xm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# XM Privacy Policy | Protection of user information
 
 We are committed to preserving the privacy of all visitors and users of this website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. We will only use your personal information in accordance with the present Privacy Policy.
 
