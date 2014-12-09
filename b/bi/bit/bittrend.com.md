@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bittrend.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503062800id_/http%3A//bittrend.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittrend.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209032436id_/http%3A//fenopy.se/info/privacy.html) for the most accurate reproduction.*
 
-# Torrent Search Engine | BitTrend
+# Fast and easy torrent downloads - Fenopy.SE
 
-#### BitTrend Privacy Policy
+#### Fenopy Privacy Policy
 
 **What information do we collect?**
 
@@ -45,7 +45,7 @@ Any of the information we collect from you may be used in one of the following w
 > 
 > **Terms and Conditions**
 > 
-> Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://bittrend.com/info/tos.html>
+> Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://fenopy.se/info/tos.html>
 > 
 > **Changes to our Privacy Policy**
 > 
