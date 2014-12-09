@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoomingjapan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043620id_/http%3A//zoomingjapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomingjapan.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209115721id_/http%3A//zoomingjapan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Zooming Japan
 
-64 
+83 
 
 **Zooming Japan respects your privacy.**
 
@@ -53,4 +53,4 @@ While I do my best to protect your personal information, I cannot guarantee the 
 This policy is valid from **February 25th, 2013** and is subject to change at anytime.  
 
 
-[About](http://zoomingjapan.com/about/ "About Zooming Japan") - [Terms and Conditions](http://zoomingjapan.com/terms-and-conditions/ "Terms and Conditions of Zooming Japan") – [Credits](http://zoomingjapan.com/credits/ "Credits \(Material that is not copyrighted by Zooming Japan\)") – [Contact](http://zoomingjapan.com/contact/ "Contact Zooming Japan") – [FAQ](http://zoomingjapan.com/faq/ "Frequently Asked Questions")
+[About](http://zoomingjapan.com/about/ "About Zooming Japan") – [Terms and Conditions](http://zoomingjapan.com/terms-and-conditions/ "Terms and Conditions of Zooming Japan") – [Credits](http://zoomingjapan.com/credits/ "Credits \(Material that is not copyrighted by Zooming Japan\)") – [Contact](http://zoomingjapan.com/contact/ "Contact Zooming Japan") – [FAQ](http://zoomingjapan.com/faq/ "Frequently Asked Questions")
