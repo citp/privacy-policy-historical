@@ -1,105 +1,132 @@
-> *The following text is extracted and transformed from the fuse.tv privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512001607id_/http%3A//www.themadisonsquaregardencompany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuse.tv privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209042008id_/http%3A//www.mynuvotv.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy - The Madison Square Garden Company
+# Privacy Policy | NUVOtv
 
-The MSG Family is committed to safeguarding your privacy. The purpose of this Privacy Policy ("Policy") is to ensure that you understand the measures the MSG Family takes in order to protect your information and to provide transparency regarding what information it collects, how we use it, and when and with whom we may share it. The Policy applies to any and all websites, applications (including but not limited to mobile applications), software and any other electronic and/or digital products and/or services (and any and all content, features, applications or functions offered or made available on or through any such website, application, software or other electronic and/or digital product or service) that are made available by the MSG Family (including, without limitation, e-mail notifications and social networking features (collectively, the "Services"). This Policy applies regardless of the device used to access the Services (e.g., personal computer, mobile device, consumer electronics device, or any other technology or software known today or developed in the future). All Services that are governed by this Policy will include a link to, and/or copy of this Policy on the home page of the applicable website or similar location (e.g, a settings page) for any applicable mobile applications.
+Sí TV, Inc. d/b/a NUVOtv ("NUVOtv", “we”, “us”, or “our”) has created this privacy policy (“Privacy Policy”) in order to demonstrate our firm commitment to the privacy of our users (“you” or “your”). The following discloses our information gathering and dissemination practices for MYNUVOtv.COM, and any other website under which we conduct business. This Privacy Policy is a part of the terms and conditions which are set forth in our Terms of Use ([http://www.myNUVOtv.com/termsofuse](http://www.mynuvotv.com/termsofuse)). Any terms that are not defined in this Privacy Policy shall have the meaning given in our Terms of Use. Both this Privacy Policy and the Terms of Use are legally binding on all users.
 
-This Policy applies only to information collected on or through the Services as defined above. It does not apply to information collected or obtained by or through any other means (including, without limitation, information collected offline, in-person, over the telephone or by mail, e.g., from a telephonic survey, mail-in sweepstakes entry form and/or in-person at an event.
+## YOUR ACCEPTANCE OF THESE TERMS / MODIFICATIONS
 
-For purposes of this Policy, the terms "MSG Family," “MSG,” “we,” and “our” include, without limitation, The Madison Square Garden Company, MSG Holdings, L.P. and each of their respective parent companies, subsidiaries, divisions, affiliated entities and business units as may change from time to time (including, without limitation, MSG Sports, New York Knicks, New York Rangers, New York Liberty, MSG Entertainment, the Arena and Theater at Madison Square Garden, Radio City Music Hall, The Beacon Theatre, The Chicago Theatre, The Forum, MSG Media, MSG Networks, Fuse Networks and MSG Interactive).
+By using our websites, you indicate your acceptance of all terms of this Privacy Policy. If you do not agree to this Privacy Policy, please discontinue use of our websites. Your continued use of any NUVOtv website following the posting of changes to these terms indicates your acceptance of those changes. We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting.
 
-Before you submit any information on or through the Services, please carefully review this Policy. By using any part of the Services, you consent to the collection, use, disclosure and sharing of your information as further outlined below in this Policy. We will continue to evaluate this Policy as we update and expand the Services and our offerings, and we may make changes to the Policy accordingly. Any changes will be posted here and you should check this page periodically for updates. Your continued use of the Services will signify acceptance of the terms of the updated Policy.
+## USE OF IP ADDRESSES
 
-**INFORMATION WE COLLECT**  
-When you register for an account, use the Services, participate in a contest, or make a purchase, you may be prompted to provide, on a voluntary basis, certain personally identifiable information about yourself, including, but not limited to, your: (i) name; (ii) email address; (iii) age; (iv) mailing address; (v) hobbies; (vi) sports and entertainment interests; (vii) telephone number; (viii) fax number; (ix) viewpoints on certain events; and/or (x) in certain circumstances, payment and identity verification information, such as (1) credit card number, (2) social security number (or comparable national identifier) and/or (3) driver’s license number, when needed for payment in connection with a purchase. While you are not required to provide any such personally identifiable information, certain Services may not be accessible or available, absent account registration and/or your provision of the requested information.
+An IP address is a number which is assigned to your computer when you are online. Web servers identify your computer by its IP address. NUVOtv collects IP addresses for the purposes of system administration, and to audit the use of our site. When you request pages from NUVOtv websites, our servers log your IP address. We do not normally link IP addresses to anything personally identifiable, which means that your session will be logged, but you remain anonymous to NUVOtv and other users. We may use IP addresses to identify a user when we feel it is necessary to (i) enforce compliance with this Privacy Policy and Terms of Use, (ii) protect our service, site, customers or others, and/or (iii) comply with (a) a request from a governmental agency, (b) regulation, or (c) legal action.
 
-We may collect location information, including general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based location information) from your computer and/or mobile device and use that information to deliver content and advertising, based on your current location. If you access the Services from a mobile device and you do not want to provide us with GPS-based location information, you can disable the GPS or other location-tracking functions on your device or the location-based features of the mobile application (if applicable) using the following instructions which may be amended from time to time by the applicable providers:
+## USE OF COOKIES
 
-•    If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your applications so that the next time you download or use an application, you will be asked again to provide your consent for us and others to access your location information.
+Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. Cookies make browsing the Internet easier for you by saving your preferences while you access a website. By showing how and when users use a website, cookies help us see which areas are popular and which are not. Many improvements and updates to the NUVOtv web content are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users' needs.
 
-•    If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.
+NUVOtv uses cookies primarily in two ways. First, we use them to specify unique preferences so that you do not have to tell us repeatedly about the content you are interested in. Second, we use cookies to track user trends and patterns, so we can improve areas of the NUVOtv online experience that our users find valuable. While both of these activities depend on the use of a cookie, you always have the option of disabling cookies via your (i) browser preferences and/or (ii) Macromedia Flash application which allows you to view videos on NUVOtv. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. You can control Flash cookies via the Macromedia Flash application on your computer, or by going to the Macromedia Flash Player website, which allows you to view, modify, and delete Flash cookies. Please note that some parts of the NUVOtv service may not function properly or may be considerably slower if you refuse cookies.
 
-•    If your device changes the above-methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this location information.
+  
 
-If you access the Services through a third-party connection or log-in (e.g., through a social network), we may also collect your public user ID associated with that third-party service and any information you have made public in connection with the third-party service.
 
-Please be careful and responsible whenever you are online. If you choose to post User Content (as described in our [Terms of Service](http://www.thegarden.com/global/terms-of-service.html)) through the Services, such as via social networking services, on message boards, chat areas, comments and/or other postings, that information; (i) is publicly available; (ii) may be collected and used by third parties without our knowledge; and (iii) may result in your receipt of unsolicited messages from other individuals or third parties.
+## PLUGINS
 
-**COOKIES AND OTHER ELECTRONIC TECHNOLOGIES**  
-We may also collect data about your use of the Services through the use of Internet server logs, cookies and/or tracking pixels. A web server log is a file where website activity is stored. A cookie is a small text file that is placed on your computer when you visit a website, that enables us to recognize your computer, store your preferences and settings, enhance your user experience by delivering content specific to your interests, perform searches and analytics and assist with security administrative functions. Some cookies are placed in your browser cache while those associated with Flash technologies are stored with your Adobe Flash Player files. Tracking pixels (sometimes referred to as web beacons or clear GIFs) are tiny electronic tags with a unique identifier embedded in websites, online ads and/or email, and that are designed to provide usage information like ad impressions or clicks, measure popularity of the Services and associated advertising, and to access user cookies. We may also use these automated technologies to collect and analyze other non-personal information related to the devices you use to access the Services, such as IP addresses, browser types, browser language, and unique device identifiers and other information about your computer(s) and/or mobile device(s).
+Our website uses social plugins (“Plugins”) provided by various social networks (“Platform(s)”). The Plugins are surrounded, or framed, by the NUVOtv webpage (i.e. NUVOtv colors scheme, messaging and content surrounds Plugins); however, NUVOtv controls very few of Plugins’ functions. For example, NUVOtv doesn’t control the Platform’s collection of user data, at the same time some Plugins may still (i) allow NUVOtv to filter, delete, and/or edit Posts (as defined below), and (ii) share user information with NUVOtv.
 
-Please note that you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., [Internet Explorer](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies); [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en); [Mozilla Firefox](http://kb.mozillazine.org/Cookies#Firefox); or [Apple Safari](http://support.apple.com/kb/PH5042)). You can also manage the use of Flash technologies, including cookies, with the Flash management tools available at [Adobe's website](http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html). Please note that by blocking any or all cookies, you may not have access to certain features or offerings of the Services.
+If you are a Platform member and do not want that Platform to connect the data about your visit to our website with your member data already stored by the Platform, please log off of the Platform before entering our website. You can also block Plugins by using browser add-ons.
 
-We use third parties to assist us in serving advertisements, tracking aggregated and/or anonymized site usage statistics, and providing content-sharing services to support the Services. These third parties may also use cookies and similar technologies to collect similar non-personal information about your use of the Services. We do not control these third-party technologies, and their use is governed by those parties' privacy policies.
+We have no control of the data gathered by Plugins. When you visit any page of our website that contains a Platform Plugin, your browser establishes a direct connection to that Platform’s servers. Then the Platform directly transfers the Plugin content to your browser which embeds the Plugin into our website, this enables the Platform to receive information about you accessing that particular NUVOtv webpage.
 
-**HOW WE USE YOUR INFORMATION**  
-MSG may use your information for the following purposes:
+Thus, if you are logged into a Platform, your visit can be matched to your Platform’s account. If you interact with the Plugins, for example by clicking “Like” or entering a comment, the corresponding information is transmitted from your browser directly to the Platform and stored by it. The Platform may also let others know that you have visited the NUVOtv website or particular pages. Even if you are not logged into a Platform, the Plugins may still transmit your IP-address, and information about your location, browser and computer to the Platform.
 
-•    For the purposes for which you provided it;"  
-•    To send you information about your relationship or transactions with us;  
-•    To send you alerts or other communications via SMS messages or other media or networks;  
-•    To notify you about new features and offerings of the Services, including, but not limited to, discounts, events, shows news about our Services, products, other services, and/or special offers;  
-•    To administer sweepstakes and contests;  
-•    To process and respond to your inquiries;  
-•    To contact you with information that we believe may be of interest to you;  
-•    To attribute content that you make available through the Services;  
-•    For internal research and reporting;  
-•    To improve the content and features of the Services or develop new Services;  
-•    To allow us to personalize the content and advertising that you see on the Services (see [Personalized Content and Advertising section below](https://web.archive.org/privacy.html#personalcontent));  
-•    To enforce the legal terms that govern your use of the Services;  
-•    To administer and troubleshoot the Services; and  
-•    To share your information with reputable third parties who may provide you with information about their products and/or services that may be of interest to you.
+To the extent that a Plugin allows, NUVOtv reserves the right to (i) filter, delete, and/or edit Posts, and (ii) accept monitor and copy user information from the Platform.
 
-We may also combine information that we collect from you with information we obtain about you from other members of the MSG Family and/or non-affiliated third parties.
+The creation, availability, and popularity of Platforms and Plugins changes frequently, so we may add or delete Plugins at any time. For your reference, below is a more detailed description of some of the Plugins you may find on our webpages.
 
-We may aggregate and/or anonymize information collected through the Services. We may use anonymous or aggregated data for any purpose, including for research and marketing purposes, and may also share such data with any third parties, including without limitation, advertisers, promotional partners, sponsors, event promoters, and/or others.
+## Facebook
 
-**WHEN WE DISCLOSE USER INFORMATION**  
-The MSG Family of companies may disclose and/or share your information to or with any non-affiliated third parties under the following circumstances.
+Facebook Plugins are operated by Facebook Inc. For a full list of Facebook Plugins see: <http://developers.facebook.com/Plugins>. Here’s how Facebook Plugins may appear: . For information on Facebook’s data collection and processing visit Facebook’s privacy policy: http://www.facebook.com/policy.php.
 
-**Consent** : If you consent to the disclosure, we may do so.
+  
 
-**Service Providers**. We may provide access to your information to select third parties who perform services on our behalf and for any other legitimate business purposes. These third parties provide a variety of services to us, including without limitation, ticket processing, billing, sales, marketing, advertising, market research, fulfillment, data storage, analysis and processing, and legal services. MSG generally seeks contractual assurances from these service providers that they will not use your information in any manner other than to help us provide you with the services and products available from MSG.
 
-**Other Third Parties**. Unless you direct us not to, we may share your information with reputable third parties so that they may contact you to offer products, services and promotions, such as sweepstakes and contests, that you may find valuable. You can instruct us not to provide your personal information to these third parties by sending an email to [privacychoices@msg.com](mailto:privacychoices@msg.com) with “REMOVE THIRD PARTIES” in the subject line. If you receive a communication from a third party and you do not wish to receive future communications from that party, you should also tell them to remove you from their marketing list.
+## Twitter
 
-**Protection of MSG and Others**. By using the Services, you acknowledge, consent and agree that we may access, preserve and disclose your information, including, but not limited to, any user content, if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our [Terms of Service](http://www.thegarden.com/global/terms-of-service.html), this Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; and/or (e) protect the rights, property or personal safety of MSG, its agents and affiliates, its users and/or the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
+Twitter Plugins are operated by Twitter Inc. Twitter calls these Plugins Embedded Tweets. Here’s how some Twitter Plugins appear:  . For information on Twitter’s data collection and processing visit Twitter’s privacy policy: http://twitter.com/privacy.
 
-**Business Transfers**. We reserve the right to disclose and transfer all of your information, including your personal information, to a successor company in connection with a merger, acquisition or sale of all, or components, of our business.
+  
 
-**CONSENT TO TRANSFER**  
-The Services are operated in the United States. If you are a resident of the European Union or other location outside the United States, please be advised that any information you provide through the Services will be transferred to the United States or other designated locations outside of the United States for certain processing/hosting operations. We have taken commercially reasonable steps to ensure that your personal information is appropriately protected and is processed only in accordance with this Policy. By using the Services, you consent to this transfer and to the use of the personal information as described herein.
 
-**OPTING OUT OF USE OF PERSONAL INFORMATION FOR MARKETING PURPOSES BY MSG FAMILY**  
-If you have provided personal information while using the Services and later decide that you would rather not have the MSG Family use personally identifiable information for marketing purposes in accordance with this Policy, you can opt-out of future use at any time by: (i) going to the link provided at the bottom of any email you receive from a MSG Family member and opting out of receiving information from that MSG Family member; (ii) by sending us an email at [privacychoices@msg.com](mailto:privacychoices@msg.com); or (iii) writing us at MSG Holdings, L.P., 2 Penn Plaza, 16th Floor, New York, New York, 10012, Attn: Vice President, Engagement Marketing and with a copy to Vice President, Legal and Business Affairs, Entertainment at the same address.
+## LinkedIn
 
-**PERSONALIZED CONTENT AND ADVERTISING AND YOUR CHOICES**  
-We may personalize the content and advertising that you see when using the Services through the use of third-party advertising technologies that allow for the delivery of relevant content and advertising on MSG websites or applications. You can learn more about personalized advertising through consumer education materials provided by the Digital Advertising Alliance [here](http://www.aboutads.info/).
+LinkedIn Plugins are operated by LinkedIn Corporation. Here’s how LinkedIn Plugins may appear:  . For information on LinkedIn’s data collection and processing visit LinkedIn’s privacy policy: http://www.linkedin.com/static?key=privacy_policy.
 
-If you do not wish to receive personalized advertising when using a MSG website, third parties who deliver those advertisements allow you to opt-out [here](http://www.networkadvertising.org/managing/opt_out.asp). MSG does not control this third-party provided opt-out process. If you do not wish to receive personalized advertising when using a MSG mobile application, you have the following options: If you are using an iOS (Apple) device to access the Services you may opt-out by accessing the following link on your mobile device: http://oo.apple.com. If you are using an iOS6 device, you also may limit the delivery of personalized advertisement by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON. If you are using an Android device and you do not wish to receive personalized in-application advertisements, you can visit Google’s Ads Preferences page from a browser on your device and make your choices there. We do not control how the applicable platform operator allows you to control receiving personalized in-application advertisements; thus, you should contact the platform provider if any of the above-options are no longer available.
+  
 
-Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out. In that case, the advertising will not be tailored to your interests.
 
-**UPDATING YOUR INFORMATION**  
-To keep your information accurate, current and complete, visit your account page(s) or email [privacychoices@msg.com](mailto:privacychoices@msg.com) to update and/or correct any information previously provided. If a member name and password are required to access the feature, you will need to provide such information to update your registration information. If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint be sent to you at the email address you originally provided during registration.
+## POSTINGS
 
-**LINKS**  
-Links to third-party websites, applications and other services may be made available through the Services. We are not responsible for the privacy practices or the content of such third-party services. Any information you provide via those services is subject to the applicable privacy policies and is not covered by this Policy.
+The Plugins may provide you and other users an opportunity to submit, post, display, transmit and/or exchange information, ideas, opinions, photographs, images, video, creative works or other information, messages, transmissions or material to the Platforms ("Post(s)"). Note that when you share or Post or otherwise make personal information public on a Plugin, Platform, or anywhere on the Internet that information can be collected and used by others. You understand, acknowledge and agree that NUVOtv accepts no responsibility for Posts and is not responsible for the consequences of any and all Posts that you upload, post, email, transmit or otherwise make available via Plugins. Posts do not reflect the views of NUVOtv, any of its affiliated or related partners or companies, or any of their respective websites or services. We do not always monitor, filter, endorse, edit or screen Posts, although we reserve the right to do so. In no event shall NUVOtv, any of its affiliated or related partners or companies, or any of their respective websites or services have or be construed to have any responsibility or liability for or in connection with any Post whatsoever; however, we reserve the right, in our complete and sole discretion, and without limiting any and all other rights we may have under this Privacy Policy, at law or in equity, to: (a) refuse to allow you to Post; (b) remove and/or delete Posts; (c) revoke your right to use any of the NUVOtv websites or services; and/or (d) use any technological, legal, operational or other means available to us to enforce the provisions of this Privacy Policy, including, without limitation, blocking specific IP addresses.
 
-**SECURITY**  
-We have implemented commercially reasonable administrative, technical, and physical security measures to protect against the loss, misuse and/or alteration of your information. However, we cannot and do not guarantee that these measures will prevent every unauthorized attempt to access, use, or disclose your information since despite our efforts, no Internet and/or other electronic transmissions can be completely secure.
+If you Post, you hereby agree that: (a) you are placing the Post on the Platform; (b) you specifically authorize NUVOtv, its affiliated or related partners and companies to use such Post in whole or in part, throughout the universe, in perpetuity in or on any and all media, now known or hereafter devised, and alone or together or as part of other information, content and/or material of any kind or nature; (c) you represent and warrant that we shall not be required to pay or incur any sums to any person or entity as a result of our use or exploitation of the Post and the Post (i) is original to you or fully cleared for use as contemplated herein, (ii) does and will not, in any way, violate or breach any of the terms of this Privacy Policy, (iii) does not contain libelous, tortious, or otherwise unlawful information, infringe or violate any copyright or other right, or contain any matter the publication or sale of which will violate any federal or state statute or regulation, (iv) is not obscene or in any other manner unlawful, and (v) shall not be injurious to the health of the user; (d) if your Post incorporates the name, logo, brand, service or trademark, voice, likeness or image of any person, firm or enterprise, you specifically represent and warrant that you have the right to place such Post to be viewed by the public and grant NUVOtv the right to use such Post as described above; (e) we have the right to remove, delete, re-format and/or change your Post in any manner that we may determine; and (f) you will not be entitled to any compensation because of the use or exploitation by us or any third party of any videos and other Posts you make available through Plugins or any ideas or concepts contained therein, and the submission of a video or other Post, and/or any posting or display thereof, is not any admission of novelty, priority or originality. Even if you subsequently see or learn of a presentation, motion picture, still photograph, film, video or any other content which appears to incorporate any idea or concept or include anything similar or identical to that contained in any video or other Post that you or anyone else submits to or through the Plugins, you acknowledge and agree that you shall not be entitled to any compensation. You understand, acknowledge and agree that we assume no responsibility for deletion of Posts or any other matter relating to Posts.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**  
-California Law permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please send an email to [privacychoices@msg.com](mailto:privacychoices@msg.com) or write to us at MSG Holdings, L.P., 2 Pennsylvania Plaza, 16th Floor, New York, New York 10012, Attn: Vice President, Engagement Marketing and with a copy to Vice President, Legal and Business Affairs, Entertainment and the same address.
+  
 
-**INFORMATION FROM CHILDREN**  
-MSG does not knowingly collect any personally identifiable information directly from children under the age of 13. If you are under 13, please do not submit any personally identifiable information to MSG. If we discover we have received any information from a child under the age of 13 in violation of this Policy, we will delete that information as quickly as possible. If you believe MSG has any information from or about anyone under the age of 13, please contact us at the address listed below.
 
-**CONTACTING US ABOUT THIS POLICY**  
-Please do not hesitate to contact us with any questions, concerns, requests or comments by email at [msgfeedback@msg.com](mailto:msgfeedback@msg.com) or write to us at MSG Holdings, L.P., 2 Pennsylvania Plaza, 16th Floor, New York, New York 10012, Attn: Vice President, Engagement Marketing and with a copy to Vice President, Legal and Business Affairs, Entertainment at the same address.
+## LINKED SITES
 
-Effective Date: October 1, 2013
+In addition to Plugins, our websites may contain links to other websites. If you click on the link, you will be directed to other sites which are beyond our control and service. Such other sites may send their own cookies to users, collect data, or solicit personal information. NUVOtv is not responsible for the privacy practices or the content of such other websites.
 
-© Copyright 1999-2013 MSG Holdings, L.P. 2 Pennsylvania Plaza, New York, NY 10121-0091. All rights reserved. Use of the Service which include a link to this Policy signifies your acceptance of this Policy.
+  
 
-Thank you for visiting!
+
+## ADVERTISING
+
+Advertisers and third parties may also collect information about your activity on our website and on third-party websites and applications using cookies or other tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on our website and applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers here: http://www.aboutads.info/.
+
+  
+
+
+## CONTESTS/SWEEPSTAKES
+
+We may sponsor contests and sweepstakes, which will require a registration process in which you may be required to submit your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional personally identifiable information may also be requested depending on the specific contest or promotion, but submission of such information may be optional. The entry page, submission form and/or rules of the contest/promotion will provide the specific requirements.
+
+  
+
+
+## INFORMATION SHARING WITH AFFILIATES
+
+Demographic and profile data is collected at our site. This information may be shared with various associated companies on an individual or aggregate basis. We may, on occasion, combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
+
+  
+
+
+## YOUR CALIFORNIA PRIVACY RIGHTS
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding our disclosure of your personal information to third parties for the third parties' direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to privacy@myNUVOtv.com or regular mail letter to the address below. The email subject line or letter envelope must be labeled "Your California Privacy Rights" and clearly stated on the actual request.
+
+NUVOtv  
+700 N Central Ave  
+Glendale, CA 91203  
+Attn: Your California Privacy Rights  
+c/o Privacy Administrator
+
+## COMMUNICATIONS BETWEEN US AND YOU
+
+If you send us personal correspondence, such as through our contact page ([http://www.myNUVOtv.com/contact](http://www.mynuvotv.com/contact)), emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We may use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our Terms of Use.  
+We may send emails and newsletters to you, announcing special promotions, changes in our services, and other information we believe will be of interest to you. You will have the choice to opt-out of receiving future mailings.
+
+  
+
+
+## NOT ELIGIBLE FOR OUR SERVICES: CHILDREN AND FOREIGN ACCESS
+
+Children under the age of thirteen (13) are not eligible to use our services, and we ask that such persons not submit personal information to us. In addition, our services are offered to people located in the United States of America, its territories and possessions. If you are not located in the United States, please discontinue use of our websites immediately.
+
+## DISCLOSURE OF YOUR INFORMATION
+
+We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can, and you authorize us to, disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
+
+## Contacting NUVOtv about the Website
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with NUVOtv or this Website, you can contact:
+
+## [Download pdf](https://web.archive.org/custom/plugin/node/2/22/files/NuvoTV_Privacy_Policy_9132012.pdf)
+
+NUVOtv  
+700 N Central Ave.  
+Glendale, CA 91203  
+E-mail: [privacy@myNUVOtv.com](mailto:privacy@myNUVOtv.com)  
+rev date: 06-24-2013
