@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnsoncontrols.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215035038id_/http%3A//www.johnsoncontrols.com/content/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnsoncontrols.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209234948id_/http%3A//www.johnsoncontrols.com/content/us/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Johnson Controls Inc.
 
@@ -14,7 +14,8 @@ To learn more about the Safe Harbor program, please visit
 
 <http://www.export.gov/safeharbor/>
 
-To view Johnson Controls’ certification, please visit <http://safeharbor.export.gov/companyinfo.aspx?id=17730>
+To view Johnson Controls’ certification, please visit <http://safeharbor.export.gov/companyinfo.aspx?id=21691>  
+
 
 Johnson Controls also protects information received from individuals in Israel in accordance with the Safe Harbor Principles.       
 
