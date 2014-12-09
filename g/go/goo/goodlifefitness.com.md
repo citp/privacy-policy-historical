@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503045838id_/http%3A//www.goodlifefitness.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209085707id_/http%3A//www.goodlifefitness.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - GoodLife Fitness
+# Privacy Policy | GoodLife Fitness
 
 At GoodLife Fitness we are privileged each and every day to help members to achieve their health and fitness goals. We understand the need to protect personal information provided to us and take this role very seriously. Our commitment to protecting the privacy and confidentiality of our members’ personal information is addressed in this privacy policy. Our policy complies with the requirements of the Personal Information Protection and Electronic Documents Act (Canada), the Personal Information Protection Act (British Columbia) and the Personal Information Protection Act (Alberta).
 
@@ -98,6 +98,16 @@ You may opt-out of Google Analytics for Display Advertising and customize Google
 
 Google Analytics opt-out browser add-on – https://tools.google.com/dlpage/gaoptout/
 
+#### GoodLife Fitness Mobile App
+
+GoodLife Fitness uses Flurry Analytics to learn more about how our mobile app is used to assist us in optimizing the experience for our users.
+
+To do this, GoodLife uses a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about the end users of our mobile app.
+
+For further information, consult Flurry Analytics and its privacy policy at http://www.flurry.com/legal-privacy/privacy-policy-updated. You may opt out of being tracked by Flurry Analytics by using the http://www.flurry.com/legal-privacy/end-user-opt-out.
+
+Disabling Flurry Analytics will still permit you to use our mobile app.
+
 #### Retention 
 
 We will only retain your personal information as long as is necessary for the fulfillment of the purposes for which it was collected or as required by law. Personal information is securely stored until such time as it is no longer required, after which it is destroyed.
@@ -129,7 +139,7 @@ EMAIL
 
 #### Personal Information Request
 
-[Print Personal Information Request Form ](https://web.archive.org/web/20140503045838id_/http%3A//www.goodlifefitness.com/pdf/InformationRequestForm.pdf?20140225 "Download the information request form")
+[Print Personal Information Request Form ](https://web.archive.org/web/20141209085707id_/http%3A//www.goodlifefitness.com/pdf/InformationRequestForm.pdf?20140225 "Download the information request form")
 
 #### Amendments to Our Privacy Policy
 
