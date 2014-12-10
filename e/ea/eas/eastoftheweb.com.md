@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastoftheweb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080814id_/http%3A//www.eastoftheweb.com/short-stories/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastoftheweb.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210092256id_/http%3A//www.eastoftheweb.com/short-stories/privacy.shtml) for the most accurate reproduction.*
 
 # short story privacy policy
 
@@ -96,9 +96,9 @@ You should notify us of any changes to your email address or other personal deta
 **Data controller address  
 **  
 Hyperfiction, Alex Patterson,  
-Elm Hill House,  
-High Street,  
-Hawkhurst,  
-Kent  
-TN18 4XU, United Kingdom.  
+Hurst Lane,  
+Sedlescombe,  
+Battle,  
+East Sussex  
+TN33 0PE, United Kingdom.  
 Data protection act registration number: Z1595365
