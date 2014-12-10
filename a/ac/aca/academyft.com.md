@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the academyft.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209073331id_/http%3A//www.academyft.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academyft.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210215720id_/http%3A//www.academyft.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Learn How to Trade the Financial Markets, How to Be a Trader in Forex, CFDs, commodities, indices. Trading Education.
-
-## **Privacy** Policy
+# Privacy Policy | Academy of Financial Trading
 
 Academy of Financial Trading. 
 
@@ -40,10 +38,12 @@ By submitting your information you consent to the use of that information as set
 
 
 
-**Ensuring accountability**  
+**Ensuring accountability**
+
 to individuals who believe that the Academy of Financial Trading has not complied with these privacy principles. 
 
-**Information Corrections or Changes**  
+**Information Corrections or Changes**
+
 You have the ability to correct or change certain information in our records, such as your address and contact information. If you need assistance or have questions about correcting information, you can contact us via e-mail at privacy@academyft.com. 
 
 The Academy of Financial Trading respect and value the security and privacy of its contacts. The Academy of Financial Trading follows strict security procedures in the storage and disclosure of personal information in order to prevent unauthorised access. Personal Data is held on our contacts and administration database either because of work we have undertaken or are currently engaged in, or because we believe that clients may be interested in receiving material from us about our business and services. As such we hold client contact details and the history of our client relationship. This allows us to manage our client relationships effectively and target items of interest so that you do not receive unwanted material through the post.
@@ -54,10 +54,12 @@ The Academy of Financial Trading does not sell, rent or deal in the personal inf
 
 Owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers.
 
-**Employee Accountability**  
+**Employee Accountability**
+
 Only those the Academy of Financial Trading employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by an Academy of Financial Trading employee is prohibited and constitutes grounds for disciplinary action.
 
-**Notification of Changes**  
+**Notification of Changes**
+
 We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. Continued use of the service will signify that you agree to any such changes. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to privacy@academyft.com. 
 
 If you have any questions regarding this Privacy Policy, please contact privacy@academyft.com
@@ -71,4 +73,4 @@ In these terms and conditions:
 
 
 
-[Contact Us](http://www.academyft.com/contact-academy-financial-trading-online.php "Contact the Academy of Financial Trading Online") if you have an enquiry or concern about our privacy policy.
+[Contact Us](https://web.archive.org/web/20141210215720id_/http%3A//www.academyft.com/contact-academy-financial-trading-online.htm) if you have an enquiry or concern about our privacy policy. 
