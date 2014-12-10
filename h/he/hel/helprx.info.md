@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helprx.info privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035314id_/http%3A//www.helprx.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helprx.info privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210171607id_/http%3A//www.helprx.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ From time to time, Script Relief may find it necessary or be legally obligated t
 
 You may access and modify your personal information by writing to us at: Script Relief  
 712 Fifth Avenue, 14th Floor  
-New York, NY 10038    
+New York, NY 10019    
 
 
     * Script Relief allows third parties to place cookies on our site for advertising purposes. This Online Privacy Statement does not cover the collection methods or use of the information collected by these vendors. These vendors have their own privacy policies and may be members of the Network Advertising Initiative ("NAI"). To remove yourself from some or all NAI member advertising programs, please visit the NAI Opt-Out Page and follow the relevant instructions. Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
@@ -38,6 +38,13 @@ New York, NY 10038  
     * Service Providers: We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, and serving, customizing or delivering marketing or ads. These other companies may be supplied with or have access to your information solely for the purpose of providing these services to us or on our behalf. They do not have any independent right to use or disclose your information.Service Providers: We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, and serving, customizing or delivering marketing or ads. These other companies may be supplied with or have access to your information solely for the purpose of providing these services to us or on our behalf. They do not have any independent right to use or disclose your information.  
     * Ads. Information about your activities on our site and other non-personally identifiable information about you may be used to limit the online ads you encounter to those we believe are consistent with your interests.  
     * Legal Process. We may share personal information about you to respond to subpoenas, court orders, or other legal process, or to exercise our legal rights or defend against legal claims. 
+  * Google Analytics 
+    * Google Analytics Advertising Features is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [ www.helprx.info](http://www.helprx.info/), to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. 
+    * Personal data collected: Cookie and Usage Data.
+    * Place of processing: USA.
+    * Third Parties: We may use Doubleclick cookies to identify user activity and behaviors.
+    * Privacy Policy: You may find Google's privacy policy here. <http://www.google.com/intl/en/policies/privacy/>
+    * Opt-Out: Users may choose to implement a Google Analytics Opt-out browser add-on here. <https://tools.google.com/dlpage/gaoptout/>
   * How Do You Opt In or Opt Out or Deactivate Your Account?
     * You automatically sign up for free Script Relief e-mail updates when you apply for a Script Relief membership or register to use the Web site. You have the option to opt out of receiving these updates. This opt out messaging will appear at the bottom of every e-mail sent to you and will provide you with the means to opt you out of the free Script Relief e-mail. 
     * If you don't want to receive any form of direct contact from us, whether it is e-mail, information on discounts or promotional offers, or you want us to remove all your information, contact us at CustomerService@ScriptRelief.com. 
