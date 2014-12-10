@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606142829id_/http%3A//www.birdsandblooms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210174806id_/http%3A//www.birdsandblooms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Birds and Blooms
 
@@ -85,8 +85,8 @@ For all other requests for changes relating to your Personal Information, includ
 
 RDA Enthusiast Brands, LLC  
 Customer Care  
-5400 South 60th Street  
-Greendale WI 53129
+1610 North 2nd Street, Suite 102  
+Milwaukee, WI 53212
 
 You may also use the postal address above for general customer service questions.
 
@@ -126,8 +126,8 @@ If you have any questions or comments about this Privacy Policy, the privacy pra
 
 RDA Enthusiast Brands, LLC  
 Customer Care  
-5400 South 60th Street  
-Greendale WI 53129  
+1610 North 2nd Street, Suite 102  
+Milwaukee, WI 53212  
 USA  
 Phone: (414) 423-0100
 
