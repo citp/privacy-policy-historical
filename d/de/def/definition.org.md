@@ -1,47 +1,47 @@
-> *The following text is extracted and transformed from the definition.org privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908100532id_/http%3A//definition.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definition.org privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210222947id_/http%3A//www.definition.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Definitions.org > Your most extensive resource for Definitions & Translations
+# www.Definition.org - Privacy Policy
 
-Definition.org cares about your privacy. We want to make you feel comfortable and secure using or purchasing products from our web site. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information.
+www.Definition.org cares about your privacy. We want to make you feel comfortable and secure using or purchasing products from our web site. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information.
 
 ## Consent to this Privacy Policy
 
-By providing Definition.org with Personal Information (defined below), you signify that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with any term in this Policy, please do not provide any Personal Information.
+By providing www.Definition.org with Personal Information (defined below), you signify that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with any term in this Policy, please do not provide any Personal Information.
 
 If you choose not to provide Personal Information, you may not be able to take certain actions, like becoming an Abbreviations.com's editor, access particular areas of the web site, posting comments to our Blog, or send us e-mail.
 
 ## Continuing Agreement
 
-Definition.org may change or revise this Privacy Policy from time to time by updating this posting. Please review this Privacy Policy each time you visit this web site in order to be aware of the most current terms regarding your use of this web site. Your use of this web site reaffirms your continuing agreement to the most current Privacy Policy.
+www.Definition.org may change or revise this Privacy Policy from time to time by updating this posting. Please review this Privacy Policy each time you visit this web site in order to be aware of the most current terms regarding your use of this web site. Your use of this web site reaffirms your continuing agreement to the most current Privacy Policy.
 
 ## What Personal Information is collected and how?
 
 When you are applying to become an Abbreviations.com editor, adding new entries or sending us email, you may provide us with your name, e-mail address and a short description of your internet experience ("Personal Information").
 
-Definition.org also uses "cookies" to receive and store certain types of information whenever you interact with the web site. Cookies are identifiers transferred to your computer's hard drive through your browser which enable our systems to recognize your browser. This recognition allows web sites to give you customized and personalized service and helps web site owners identify ways to improve your online experience. Cookies may also be used to help web site owners track responses to messages sent on behalf of our advertisers so that Definition.org may aggregate such information and report results to them. The "help" portion of the toolbar on most browsers will tell you how to reject or disable cookies or receive notice when a new cookie appears. If you choose to reject or disable cookies, you will be unable to use those specific areas of the web site that require the use of cookies.
+www.Definition.org also uses "cookies" to receive and store certain types of information whenever you interact with the web site. Cookies are identifiers transferred to your computer's hard drive through your browser which enable our systems to recognize your browser. This recognition allows web sites to give you customized and personalized service and helps web site owners identify ways to improve your online experience. Cookies may also be used to help web site owners track responses to messages sent on behalf of our advertisers so that www.Definition.org may aggregate such information and report results to them. The "help" portion of the toolbar on most browsers will tell you how to reject or disable cookies or receive notice when a new cookie appears. If you choose to reject or disable cookies, you will be unable to use those specific areas of the web site that require the use of cookies.
 
-Definition.org does not knowingly collect or maintain any Personal Information from children under the age of 13. In addition, no part of this web site is designed with the purpose of attracting any person under age 13.
+www.Definition.org does not knowingly collect or maintain any Personal Information from children under the age of 13. In addition, no part of this web site is designed with the purpose of attracting any person under age 13.
 
-## How does Definition.org use your information?
+## How does www.Definition.org use your information?
 
-Definition.org uses your Personal Information to enhance and personalize your online experience. Definition.org does not sell Personal Information about individual customers to third parties, sell or rent lists of customers or use information about individual customers except as described below.
+www.Definition.org uses your Personal Information to enhance and personalize your online experience. www.Definition.org does not sell Personal Information about individual customers to third parties, sell or rent lists of customers or use information about individual customers except as described below.
 
-Aggregated Information: Definition.org may use aggregated information regarding its customers and usage of this web site and disclose such aggregated information to advertisers, partners and others for various purposes.
+Aggregated Information: www.Definition.org may use aggregated information regarding its customers and usage of this web site and disclose such aggregated information to advertisers, partners and others for various purposes.
 
-Third Party Service Providers: Definition.org may employ other companies and individuals to perform certain functions such as delivering packages, processing credit card payments and analyzing data. They may have access to personal information to perform their functions.
+Third Party Service Providers: www.Definition.org may employ other companies and individuals to perform certain functions such as delivering packages, processing credit card payments and analyzing data. They may have access to personal information to perform their functions.
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit http://www.networkadvertising.org
 
 ## Enforcement of Agreement or Compliance with Law
 
-Definition.org may use or disclose personal information when Definition.org believes it is appropriate to enforce these Terms of Use, to protect the rights, property or safety of Definition.org or its users or to comply with the law.
+www.Definition.org may use or disclose personal information when www.Definition.org believes it is appropriate to enforce these Terms of Use, to protect the rights, property or safety of www.Definition.org or its users or to comply with the law.
 
 ## How may you change or remove your personal information?
 
 You may at any time review and change your Personal Information stored by this web site by contacting us using our contact page.
 
-You may also request that Definition.org permanently remove all Personal Information stored by Definition.org by delivering notice requesting such removal. Upon such request, Definition.org will remove all such information and will not thereafter use personally identifiable information about you in any way.
+You may also request that www.Definition.org permanently remove all Personal Information stored by www.Definition.org by delivering notice requesting such removal. Upon such request, www.Definition.org will remove all such information and will not thereafter use personally identifiable information about you in any way.
 
 ## Site Security
 
-Definition.org will take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse.
+www.Definition.org will take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse.
