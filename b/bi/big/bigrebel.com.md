@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigrebel.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403055535id_/http%3A//www.bigrebel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigrebel.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210232436id_/http%3A//www.bigrebel.com/privacy) for the most accurate reproduction.*
 
 # BigRebel | Privacy Policy
 
