@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativegroup.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410113832id_/http%3A//www.roberthalf.com/creativegroup/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativegroup.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210185635id_/http%3A//www.roberthalf.com/creativegroup/privacy-policy) for the most accurate reproduction.*
 
-# The Creative Group - Privacy Policy
+# Privacy Policy | The Creative Group
 
 Welcome to [www.creativegroup.com](https://web.archive.org/creativegroup) (the "Site"). This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
 
