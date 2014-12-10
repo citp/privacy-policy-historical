@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vfestival.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521074728id_/http%3A//www.vfestival.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfestival.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210012340id_/http%3A//www.vfestival.com/privacy-policy) for the most accurate reproduction.*
 
-# V Festival
+# Privacy Policy
 
-**In order to use the www.vfestival.com website you agree to be bound by the following terms and conditions:**
+In order to use the www.vfestival.com website you agree to be bound by the following terms and conditions:
 
 ## TERMS OF USE
 
@@ -42,8 +42,7 @@ We do not disclose your personal information to anyone without your consent.
 
 You can unsubscribe at any time by clicking on the unsubscribe link in any of our emails to you.
 
-We may change our privacy policy at any time we therefore encourage you to come back to this page occasionally.  
-
+We may change our privacy policy at any time we therefore encourage you to come back to this page occasionally.
 
 This policy explains in detail how “www.vfestival.com” along with its affiliated companies (hereinafter “we”, “us”, “our”, “www.vfestival.com”, “) use any information collected during any session of usage by you (hereinafter “your information”).
 
@@ -69,4 +68,7 @@ Information: hello@vfestival.com
 
 ## TICKET TERMS AND CONDITIONS:
 
-Attendees of V Festival consent to the photography, filming/sound recording as members of the audience, which may be used for promotional or commercial activities that will be used on V Festival.com and associated Social Media communities. 
+Attendees of V Festival consent to the photography, filming/sound recording as members of the audience, which may be used for promotional or commercial activities that will be used on V Festival.com and associated Social Media communities.
+
+  
+
