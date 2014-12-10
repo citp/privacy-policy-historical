@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131914id_/http%3A//www.mstarz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210215750id_/http%3A//www.mstarz.com/privacypolicy) for the most accurate reproduction.*
 
 # Mstarz
 
@@ -225,7 +225,7 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 
 #### DON'T MISS
 
-[](https://web.archive.org/articles/32605/20140625/pretty-little-liars-recap-season-3-episode-5-surfing-the-aftershocks-arias-makes-a-shocking-confession.htm)
+[](https://web.archive.org/articles/43946/20141208/exclusive-interview-comedian-katharine-heller-last-laugh-fantasizing-scandal-cast-ditching-pervy-neighborhood-watch-taking-stand-ferguson-video.htm)
 
 #### LATEST STORIES
 
