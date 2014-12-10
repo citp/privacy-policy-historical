@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calculator.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150821id_/http%3A//www.calculator.com/%3Fshow%3Dprivacy%26id%3D100%26level%3Dtop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculator.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210220657id_/http%3A//www.calculator.com/%3Fshow%3Dprivacy%26id%3D100%26level%3Dtop) for the most accurate reproduction.*
 
 # calculator.com - Online tape mortgage math loan finance scientific health sports & more calculators
 
