@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132501id_/http%3A//mivu.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210231919id_/http%3A//www.mivu.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Michigan Virtual University | MVU | Michigan Online Education > Privacy Policy
 
@@ -15,7 +15,7 @@ This page describes the ways in which **_Michigan Virtual University_** ®, a Mi
 [**mois.org**](http://www.mois.org/) **  
 **[**mvlri.org**](http://www.mvlri.org/) **  
 ****[mydreamexplorer.org](http://www.mydreamexplorer.org/)  
-**[**myblend.org**](http://myblend.org/)
+**[myblend.org](http://myblend.org/) ** ** (and all sub-domains of myblend.org)
 
 We provide a variety of information, features, and functions (the “Services”) through these websites.  
 This page does not necessarily reflect the ways in which we collect and use information by means other than these websites.  If you have questions about the ways in which we collect information by other means, please contact us using the contact information in this statement. The practices relating to persons with separate agreements with _MVU_ or its affiliates are separately covered in those agreements.
@@ -23,7 +23,7 @@ This page does not necessarily reflect the ways in which we collect and use info
 **Information _MVU_ collects**  
 The information we collect will depend upon what you do when visiting our sites. EXCEPT AS STATED IN THIS STATEMENT, WE WILL NOT COLLECT PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU WHEN YOU VISIT OUR SITES UNLESS YOU CHOOSE TO PROVIDE SUCH INFORMATION TO US. You are free to visit our sites without providing personally identifiable information. However, if you would like to access our Services, in some cases you must first register or create an account or learning profile with _MVU_. When you register or create an account or learning profile, we will request certain personal information. Requests can include, but are not limited to, your name, address, city, state, zip code, county, email address, age, home or other contact information, school contact information, gender, and parent/guardian contact information. In some cases, the sponsoring party funding your participation in the course (a "Sponsoring Party") may provide this or other information about you to us. We may use this information to create an account or learning profile and issue you an access ID and password. If you are paying with a credit card, we also will collect your credit card number (employing industry standard security and encryption technologies), billing information and email address to process your payment.
 
-Personal information better enables us to provide you with content relevant to your interests and provides us with aggregate demographic data that _MVU_ uses to improve the services offered to users. Users may change their personal information at any time by using the provided interface once they are logged in and as often as necessary. If users are unable to log in and change their information themselves, they will be able to send an email to mivuhelp at mivu dot org or contact us at the telephone number or address below for assistance.
+Personal information better enables us to provide you with content relevant to your interests and provides us with aggregate demographic data that _MVU_ uses to improve the services offered to users. Users may change their personal information at any time by using the provided interface once they are logged in and as often as necessary. If users are unable to log in and change their information themselves, they will be able to send an email to **[mivuhelp@mivu.org](mailto:mivuhelp@mivu.org)** or contact us at the telephone number or address below for assistance.
 
 In addition to registration, _MVU_ may, from time to time, request personal information for purposes such as the provision of customer service, billing, network management, customer surveys, newsletter subscriptions, offers of related services, and other exchanges of information. Users may opt out of receiving future promotional mailings at any time. Please see below for User Options - Opt Out.
 
@@ -80,7 +80,7 @@ We may have agreements with other parties to provide specific services. When you
 **We sometimes supplement the information we receive from you with other information we receive from third party sources, such as credit card issuers or clearinghouses.
 
 **User options – opt out**  
-A user may opt to cease receiving future promotional mailings by sending an email to: **unsubscribe at mivu dot org** and including his or her full name, User ID (if applicable), email address, and the name of the mailing he or she no longer wishes to receive in the subject or message area. A user may also contact us at the telephone number or address below.  _MVU_ reserves the right to send all users non-promotional email related to business practices and systems operations, such as outage notifications and security warnings, even if the user has opted out of promotional mailings.
+A user may opt to cease receiving future promotional mailings by sending an email to: **[unsubscribe@mivu.org](mailto:unsubscribe@mivu.org) **and including his or her full name, User ID (if applicable), email address, and the name of the mailing he or she no longer wishes to receive in the subject or message area. A user may also contact us at the telephone number or address below.  _MVU_ reserves the right to send all users non-promotional email related to business practices and systems operations, such as outage notifications and security warnings, even if the user has opted out of promotional mailings.
 
 Visiting any of our Web sites and providing personal information sufficient to be able to email information to you will be sufficient to create an existing business relationship with you for purposes of complying with the CAN-SPAM Act of 2003 regarding unsolicited commercial email.
 
@@ -125,7 +125,7 @@ Violations of system or network security are prohibited and may result in crimin
 **Contact _Michigan Virtual University_**  
 If you have any questions about this privacy statement or the privacy practices of this website, please contact us electronically at [ **privacy at mivu dot org**](mailto:privacy@mivu.org) or write to us or call us.
 
-   Vice President of Operations  
+   Vice President of Business Services  
   _Michigan Virtual University_  
  3101 Technology Blvd., Suite G  
  Lansing, MI 48910  
@@ -133,4 +133,4 @@ If you have any questions about this privacy statement or the privacy practices 
 
 In the event that you are concerned about how data you have provided to _MVU_ or one of its divisions through our sites and Services has been used, please contact us electronically at [ **privacy at mivu dot org**](mailto:privacy@mivu.org) or write to the postal address listed above.
 
-[Last Updated on 11/27/2013]
+[Last Updated on 11/06/2014]
