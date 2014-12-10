@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rude.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044000id_/http%3A//rude.com/main/member_policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rude.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210191756id_/http%3A//rude.com/main/member_policy/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ _**Your Options**_
 
 You can always choose not to provide us with your Information, even though it might be needed in order to begin or continue your registration or membership with the Website. When you update information in the manner described above, we usually keep a copy of the prior information for our records.
 
-Should you choose not to accept the terms outlined in this privacy policy (or any revised version of this policy), you may withdraw as a member from our Website. To Withdraw, you must contact us at [admin@rude.com](mailto:customersupport@rude.com) and provide us with your full name, screen name, and email address. If you withdraw as a Website member, the Website may retain the Information we have collected up to the date of your withdrawal, and use that Information as described in this policy.
+Should you choose not to accept the terms outlined in this privacy policy (or any revised version of this policy), you may withdraw as a member from our Website. To Withdraw, you must contact us at [sammy@rude.com](mailto:sammy@rude.com) and provide us with your full name, screen name, and email address. If you withdraw as a Website member, the Website may retain the Information we have collected up to the date of your withdrawal, and use that Information as described in this policy.
 
 As described above, we sometimes collect anonymous information from visits to our site to help
 
@@ -71,7 +71,7 @@ Throughout the Website you will find links to third party sites. Please note tha
 
 _**Transmittals From Us**_
 
-We may or a third-party partner send You periodic email messaging communications that include, but are not limited to, announcements and exclusive offers related to Our existing and new programs. You may opt out of these announcements by contacting [admin@rude.com](mailto:admin@rude.com), or by clicking the opt-out link at the bottom of these communications. In addition If You opt out of such communications, You may still receive account updates, support services and other information that is specifically related to the administrative operations of Your account via email. For example, We may send You communications confirming account activity, like password resets or tech support inquiries. Any such email notification will be issued to You from [admin@rude.com](mailto:admin@rude.com). If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law. 
+We may or a third-party partner send You periodic email messaging communications that include, but are not limited to, announcements and exclusive offers related to Our existing and new programs. You may opt out of these announcements by contacting [sammy@rude.com](mailto:sammy@rude.com), or by clicking the opt-out link at the bottom of these communications. In addition If You opt out of such communications, You may still receive account updates, support services and other information that is specifically related to the administrative operations of Your account via email. For example, We may send You communications confirming account activity, like password resets or tech support inquiries. Any such email notification will be issued to You from [sammy@rude.com](mailto:sammy@rude.com). If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law. 
 
 _**E-Mail Removal**_
 
@@ -83,7 +83,7 @@ We offer Our Members the opportunity to access or modify information provided du
 
 _**Where to Direct Questions About Our Privacy Policy**_
 
-If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [admin@rude.com](mailto:admin@rude.com)
+If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [sammy@rude.com](mailto:sammy@rude.com)
 
 
 
