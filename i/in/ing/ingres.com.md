@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623161245id_/http%3A//www.actian.com/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210191113id_/http%3A//www.actian.com/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Actian – Take Action on Big Data
 
@@ -88,7 +88,7 @@ Actian does not post third-party ads on its website.  Actian may use third-part
     * Information regarding the privacy and data collection practices for Eloqua is located at <http://www.eloqua.com/trust/Privacy_Policy.html>.
     * Actian uses Lithium Software to serve the Actian Community at various locations on our sites.  Use of Actian Community is covered under this Privacy Statement; however some provisions of the Lithium Software Privacy Statement may also apply.  You can view the Lithium Software Privacy Statement at <http://www.lithium.com/privacy>.
     * Actian uses Salesforce.com to provide customer service tools and access to service data.   Use of this data is covered under this Privacy Statement, however some provisions of the Salesforce.com Privacy Statement may also apply.  You can view the Salesforce.com Privacy Statement at <http://www.salesforce.com/company/privacy/>.
-    * AddThis collects certain anonymous information when you visit our website, and may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. AddThis typically uses a cookie or a third party web beacon to collect this information. You can view the AddThis Privacy Policy at <http://www.addthis.com/privacy/privacy-policy>. To learn more about this behavioral advertising practice, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) or [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
+    * AddThis collects certain anonymous information when you visit our website, and may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. AddThis typically uses a cookie or a third party web beacon to collect this information. You can view the AddThis Privacy Policy at <http://www.addthis.com/privacy/privacy-policy>. To learn more about this behavioral advertising practice, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) or [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
 
 
@@ -138,7 +138,7 @@ To opt-out of receiving communications use any of the following methods:
 
 Actian strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change or delete inaccuracies or modify your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of Actian websites may limit access to specific individuals through the use of passwords and other personal identifiers.
 
-The most effective way to view and change your personal information is to visit this page, <http://wwwstage.actian.com/website/profile-update/>.  We will respond to your access request within 30 days.
+The most effective way to view and change your personal information is to visit this page, <http://www.actian.com/website/profile-update/>.  We will respond to your access request within 30 days.
 
 ### 10\. Keeping your information secure
 
