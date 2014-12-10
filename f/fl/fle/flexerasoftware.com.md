@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626155348id_/http%3A//www.flexerasoftware.com/company/terms/tab/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211000903id_/http%3A//www.flexerasoftware.com/enterprise/company/terms/tab/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions | Flexera Software
 
 These pages explain the Terms of Use for Flexera Software websites, legal and privacy notices for details on how we collect, use and protect your personal information on the website, our security issue disclosure process and information on software products that are accessible by individuals with visual, auditory, and mobility impairments.
 
-  * [Terms of Use](https://web.archive.org/company/terms/tab/use)
-  * [Privacy](https://web.archive.org/company/terms/tab/privacy)
-  * [Security Notifications](https://web.archive.org/company/terms/tab/security-notifications)
-  * [Product Accessibility](https://web.archive.org/company/terms/tab/product-accessibility)
+  * [Terms of Use](https://web.archive.org/enterprise/company/terms/tab/use)
+  * [Privacy](https://web.archive.org/enterprise/company/terms/tab/privacy)
+  * [Security Notifications](https://web.archive.org/enterprise/company/terms/tab/security-notifications)
+  * [Product Accessibility](https://web.archive.org/enterprise/company/terms/tab/product-accessibility)
 
 
 
