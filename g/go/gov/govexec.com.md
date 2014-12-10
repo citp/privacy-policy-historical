@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108155730id_/http%3A//www.govexec.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211004720id_/http%3A//www.govexec.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GovExec.com
 
@@ -15,6 +15,8 @@ Our Sites may automatically recognize your domain name, IP address, browser vers
 Some features of our Sites do offer you the option of providing information such as your name, e-mail address, postal address, phone number, organization, location, or any other identifying information. As described in greater detail below, such information will only be used to provide you with products or services you have requested or additional information about the Sites or their affiliates. (You may also provide us with such information in the course of subscribing to Government Executive magazine or other offerings from Government Executive - details of how we use such information are also provided below.)
 
 Information gathered through the use of cookies is not used by our Sites to track any personally identifiable details.
+
+Government Executive partners with Sailthru to deliver email newsletters. Sailthru's privacy policy can be found [here](http://www.sailthru.com/legal/#privacy).
 
 **How We Use What We Learn**
 
