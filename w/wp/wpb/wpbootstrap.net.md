@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpbootstrap.net privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605025337id_/http%3A//wpbootstrap.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpbootstrap.net privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210073554id_/http%3A//wpbootstrap.net/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - WPbootstrap - Beautiful Responsive WordPress Themes
 
