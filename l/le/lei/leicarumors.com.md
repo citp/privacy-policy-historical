@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leicarumors.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626155120id_/http%3A//leicarumors.com/2012/09/01/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leicarumors.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210045257id_/http%3A//leicarumors.com/2012/09/01/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Leica News & Rumors
 
@@ -124,4 +124,4 @@ If you have any questions or comments regarding our privacy practices, you may [
 
 Effective Date: September 1, 2012
 
-This entry was posted in [Other Leica stuff](http://leicarumors.com/category/uncategorized/ "View all posts in Other Leica stuff"). Bookmark the [permalink](http://leicarumors.com/2012/09/01/privacy-policy.aspx/ "Permalink to Privacy Policy"). Both comments and trackbacks are currently closed.
+This entry was posted in [Other Leica stuff](http://leicarumors.com/category/uncategorized/). Bookmark the [permalink](http://leicarumors.com/2012/09/01/privacy-policy.aspx/ "Permalink to Privacy Policy"). Both comments and trackbacks are currently closed.
