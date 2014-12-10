@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330134859id_/https%3A//www.sclv.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210094827id_/https%3A//www.sclv.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Station Casinos - Las Vegas
 
@@ -6,11 +6,11 @@
 
 ### Introduction
 
-Station Casinos. has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about whether and how this website collects and uses information.
+Station Casinos has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about whether and how this website collects and uses information.
 
 Station Casinos respects your privacy. We will not share or use your mobile number for any other purpose. We will only use information you provide to transmit your text message. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the Service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may refuse you access to the Service and pursue any appropriate legal remedies.
 
-###  Browsing
+### Browsing
 
 Visitors who browse this website do so on an anonymous basis. We have not configured this website to collect any information from your computer without your input. This means that, unless you voluntarily and knowingly provide us with information, we will not know your identity, your e-mail address, or any other information identifiable to you.
 
@@ -76,10 +76,10 @@ If you prefer that Station Casinos does not share personal information we collec
 Station Casinos is offering a SMS text alert program. You will receive a confirmation text to confirm your participation in this program. Once enrolled you will receive up to 10 text message per month with product specials and coming event promotions.
 
 **Opt-in**  
-You may opt-in to this program by sending 'rrc' to 72777.
+You may opt-in to this program by sending 'rrc' to 56242.
 
 **Opt-out**  
-You may opt-out to this program at any time by sending STOP to 72777. We will send you a text message confirming that you are no longer enrolled in the program and we will not send you any more text messages.
+You may opt-out to this program at any time by sending STOP to 56242. We will send you a text message confirming that you are no longer enrolled in the program and we will not send you any more text messages.
 
 **Supported Carriers**  
 Not all carriers support the Station Casinos SMS promotion program. These carriers do support the program, Alltel, AT&T Mobility, Boost Mobile, NTELOS, Sprint PCS, T-Mobile, U.S. Cellular, Verizon Wireless, Virgin Mobile USA.
