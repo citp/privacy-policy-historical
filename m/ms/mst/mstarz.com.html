@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mstarz.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626131914id_/http%3A//www.mstarz.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mstarz.com privacy policy that was archived on 2014-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141210215750id_/http%3A//www.mstarz.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -16,26 +16,41 @@
 <script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
 <![endif]-->
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://cdn.mstarz.com/home/plugin/bxslider/jquery.bxslider.min.css" type="text/css">
 <link rel="stylesheet" href="http://assets.mstarz.com/static/common/_v0.0.0/css/style.css" type="text/css">
-<link rel="stylesheet" href="http://assets.mstarz.com/static/js/colorbox/colorbox.css" type="text/css">
+<link rel="stylesheet" href="http://assets.mstarz.com/common/js/colorbox/colorbox.css" type="text/css">
 
-<link rel="alternate" type="application/rss+xml" title="Mstarz RSS Feeds" href="http://www.mstarz.com/rss/">
+<link rel="alternate" type="application/rss+xml" title="Mstarz RSS Feeds" href="http://www.mstarz.com/rss/archives/archives.xml">
 <link rel="shortcut icon" href="http://assets.mstarz.com/static/common/_v0.0.0/favicon.ico" type="image/x-icon">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript" src="http://assets.mstarz.com/static/js/common/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://cdn.mstarz.com/home/plugin/bxslider/jquery.bxslider.min.js"></script>
-<script type="text/javascript" src="http://assets.mstarz.com/static/js/colorbox/jquery.colorbox-min.js"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5249c3900ca293e8"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://assets.mstarz.com/common/js/common/common.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="http://assets.mstarz.com/common/js/bxslider/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="http://assets.mstarz.com/common/js/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+<!-- Start of addthis Code -->
+<script type="text/javascript">var addthis_config = addthis_config||{}; addthis_config.data_track_clickback = false;</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-547df40509795eeb"></script><!-- End of addthis Code -->
+
+
 <script>
+/* addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.addthis.com/'}, function(obj) {
+    console.log("test : " + obj)
+});
+ It might be addthis problem */ 
 addthis.addEventListener('addthis.ready', addthisReady);
 function addthisReady(aid, url){
+	var url = encodeURIComponent(url);
+	var aid = parseInt(aid);
 	if(typeof aid === 'number'){
-		addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: url}, function(obj){$('.addthis_button_facebook_'+aid+' span.num, .section_facebook_'+aid+' span.num').html( obj.count );});
-		addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: url}, function(obj){$('.addthis_button_twitter_'+aid+' span.num, .section_twitter_'+aid+' span.num').html( obj.count );});
+		addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: url}, function(obj){console.log("obj => " + obj);});
+//		addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: url}, function(obj){$('.addthis_button_facebook_'+aid+' span.num, .section_facebook_'+aid+' span.num').html(obj.count);});
+		addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: url}, function(obj){$('.addthis_button_twitter_'+aid+' span.num, .section_twitter_'+aid+' span.num').html(obj.count);});
 	}
 }
+
+
 </script>
+
 </head><body><div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -50,16 +65,9 @@ _current_is_ios='0';
 _current_ad_cats='sect=;';
 _current_ad_keywords='';
 </script>
-<div style="height:1px;overflow:hidden;">
-<script type="text/javascript"> 
-//<![CDATA[
-window.ord = Number(window.ord) || Math.floor(Math.random() * 1E10);
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/33u.mstarz/;type=spe;sz=1x1;ord='+ord+'?"><')
-document.write('/scr')
-document.write('ipt>');
-//]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/33u.mstarz/;type=spe;sz=1x1;ord=253106547?"></script><noscript><a href="http://ad.doubleclick.net/jump/33u.mstarz/;type=spe;sz=1x1;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/33u.mstarz/;type=spe;sz=1x1;ord=123456789?" border="0" alt="" /></a></noscript>
-</div>
+<script type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script> 
+
+
 
 <script type="text/javascript">
 var googletag = googletag || {};
@@ -79,19 +87,21 @@ node.parentNode.insertBefore(gads, node);
 <script type="text/javascript">
 googletag.cmd.push(function() {
 googletag.defineSlot('/6105/33u.mstarz/main', [[970, 125], [970, 90], [970,250],[728, 90]], 'div-gpt-ad-mstarz-lead-top').addService(googletag.pubads()).setTargeting("poz", "top");
-googletag.defineSlot('/6105/33u.mstarz/main', [[970, 125], [970, 90], [970,250],[728, 90]], 'div-gpt-ad-mstarz-lead-stop').addService(googletag.pubads()).setTargeting("poz", "stop");
 googletag.defineSlot('/6105/33u.mstarz/main', [[300, 250]], 'div-gpt-ad-mstarz-rec-top').addService(googletag.pubads()).setTargeting("poz", "top");
 googletag.defineSlot('/6105/33u.mstarz/main', [[300, 250]], 'div-gpt-ad-mstarz-rec-mid').addService(googletag.pubads()).setTargeting("poz", "mid");
 googletag.defineSlot('/6105/33u.mstarz/main', [[300, 250]], 'div-gpt-ad-mstarz-rec-mid2').addService(googletag.pubads()).setTargeting("poz", "mid2");
+googletag.defineSlot('/6105/33u.mstarz/main', [[300, 250]], 'div-gpt-ad-mstarz-rec-mid3').addService(googletag.pubads()).setTargeting("poz", "mid3");
 googletag.defineSlot('/6105/33u.mstarz/main', [[970, 125], [970, 90], [970,250],[728, 90]], 'div-gpt-ad-mstarz-lead-bot').addService(googletag.pubads()).setTargeting("poz", "bot");
+googletag.defineOutOfPageSlot('/6105/33u.mstarz', 'div-gpt-ad-mstarz-oop1').addService(googletag.pubads()).setTargeting("type", "spe");
+googletag.pubads().enableAsyncRendering();
 googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().set("page_url", "http://www.mstarz.com");
 googletag.enableServices();
 });
 </script>
 
-<!--MobileFuse --> 
-<script type="text/javascript" async="async" src="http://img.ads.mocean.mobi/js/ad2/request.async.min.js"></script>
-<!--/MobileFuse-->
+
 
 
 <div style="text-align:center;"></div>
@@ -105,10 +115,11 @@ googletag.enableServices();
 	    	<li data-slug="film"><a href="javascript:void(0);" class="m1 ">film</a></li>
 	        <li data-slug="tv"><a href="javascript:void(0);" class="m2 ">tv</a></li>
 	        <li data-slug="music-news"><a href="javascript:void(0);" class="m4 ">music</a></li>
+	       <li data-slug="fashion-beauty"><a href="javascript:void(0);" class="m5 ">fashion/beauty</a></li>
 	        <li data-slug="comedy"><a href="javascript:void(0);" class="m5 ">comedy</a></li>
 	        <li data-slug="sports"><a href="javascript:void(0);" class="m6 ">sports</a></li>
 	        <li data-slug="nerds"><a href="javascript:void(0);" class="m7 ">nerds!</a></li>
-	        <li data-slug="videos"><a href="javascript:void(0);" class="m8 ">videos</a></li>
+	        <li data-slug="na"></li>
 	    </ul>
 	    <div class="ic-nav"><a href="javascript:void(0);"><span>Nav</span></a></div>
 	    <div class="rht"><!-- a href="javascript:void(0);" id="subscription" class="subscribe">SUBSCRIBE</a --><a href="javascript:void(0);" id="ic-srch" class="srch"><span class="ic-srch"></span></a></div>
@@ -183,14 +194,87 @@ googletag.enableServices();
 </div --><!-- /hd-subscribe -->
 
 <ul class="m-nav hidden">
-    <li><a href="/feel-good/" class="m3">feel good</a></li>
-	<li><a href="/film/" class="m1">film</a></li>
-    <li><a href="/tv/" class="m2">tv</a></li>
-    <li><a href="/music/" class="m4">music</a></li>
-    <li><a href="/comedy/" class="m5">comedy</a></li>
-    <li><a href="/sports/" class="m5">sports</a></li>
-	<li><a href="/nerds/" class="m7">nerds!</a></li>
-    <li><a href="/videos/" class="m6">videos</a></li>
+    <li class="t1"><a href="javascript:void(0)" class="m3">feel good</a></li>
+    <li class="t2 hidden">
+    	<ul>
+        	<li><a href="/feel-good/">see all feel good</a></li>
+            <li><a href="/celebrities/">celebrities</a></li>
+            <li><a href="/food-travel/">food &amp; travel</a></li>
+            <li><a href="/wellness/">wellness</a></li>
+            <li><a href="/fashion-beauty/">fashion &amp; beauty</a></li>
+            <li><a href="/f_viralvideos/">viral videos</a></li>
+        </ul>
+    </li>
+	<li class="t1"><a href="javascript:void(0)" class="m1">film</a></li>
+	<li class="t2 hidden">
+    	<ul>
+        	<li><a href="/film/">see all film</a></li>
+            <li><a href="/film-trending/">trending</a></li>
+            <li><a href="/film-reviews/">reviews</a></li>
+            <li><a href="/film-exclusives/">exclusives</a></li>
+        </ul>
+    </li>
+    <li class="t1"><a href="javascript:void(0)" class="m2">tv</a></li>
+    <li class="t2 hidden">
+    	<ul>
+        	<li><a href="/tv/">see all tv</a></li>
+            <li><a href="/tv-trending/">trending</a></li>
+            <li><a href="/tv-reviews/">reviews</a></li>
+            <li><a href="/tv-exclusives/">exclusives</a></li>
+            <li><a href="/t_viralvideos/">viral videos</a></li>
+            <li><a href="/videos/">videos</a></li>
+        </ul>
+    </li>
+    <li class="t1"><a href="javascript:void(0)" class="m4">music</a></li>
+    <li class="t2 hidden">
+    	<ul>
+        	<li><a href="/music/">see all music</a></li>
+            <li><a href="/music-trending/">trending</a></li>
+            <li><a href="/m-news/">news</a></li>
+            <li><a href="http://www.musictimes.com/">music times</a></li>
+            <li><a href="/music-videos/">videos</a></li>
+        </ul>
+    </li>
+    <li class="t1"><a href="javascript:void(0)" class="m5">fashion/beauty</a></li>
+    <li class="t2 hidden">
+    	<ul>
+        	<li><a href="/fashion-beauty/">see all fashion/beauty</a></li>
+            <li><a href="/fb-news/">news</a></li>
+            <li><a href="/red-carpet/">red carpet</a></li>
+            <li><a href="/runway/">runway</a></li>
+            <li><a href="/how-tude/">how-tude</a></li>
+        </ul>
+    </li>
+    <li class="t1"><a href="javascript:void(0)" class="m5">comedy</a></li>
+    <li class="t2 hidden">
+    	<ul>
+        	<li><a href="/comedy/">see all comedy</a></li>
+            <li><a href="/viral/">viral</a></li>
+            <li><a href="/film-tv/">film &amp; tv</a></li>
+            <li><a href="/late-nite/">late nite</a></li>
+            <li><a href="/stand-up/">stand up</a></li>
+        </ul>
+    </li>
+    <li class="t1"><a href="javascript:void(0)" class="m5">sports</a></li>
+    <li class="t2 hidden">
+    	<ul>
+        	<li><a href="/sports/">see all sports</a></li>
+            <li><a href="/stars/">stars</a></li>
+            <li><a href="/sports-news/">news</a></li>
+            <li><a href="/pro-wrestling/">pro-wrestling</a></li>
+            <li><a href="/live-streams/">live streams</a></li>
+        </ul>
+    </li>
+	<li class="t1"><a href="javascript:void(0)" class="m7">nerds!</a></li>
+	<li class="t2 hidden">
+    	<ul>
+        	<li><a href="/nerds/">see all nerds!</a></li>
+            <li><a href="/comics/">comics</a></li>
+            <li><a href="/gaming/">gaming</a></li>
+            <li><a href="/scifi-fantasy/">sci / fantasy</a></li>
+            <li><a href="/tech-media/">tech / media</a></li>
+        </ul>
+    </li>
 </ul>
 
 </header>
@@ -203,7 +287,7 @@ function GetMenuData(o,idx){
 	$.ajax({url:'/menu-data.php', type:'post', data:{mm:o.attr('data-slug')}}).done(function(r){
 		var dt=JSON.parse(r);
 		var sublatest='';var submenu='';var subtrend='';var slc=1;
-		$.each(dt, function(key, value){ if(slc>5)return;
+		$.each(dt, function(key, value){ if(slc>6)return;
 			if(subtrend=='') subtrend='<p class="ttl">The Trending</p><p class="photo"><a href="'+dt[key].arturl+'"><img src="'+dt[key].image_thumb_url+'" width="163" height="109" alt="'+dt[key].im_title+'"></a></p><p class="ttl2"><a href="'+dt[key].arturl+'">'+dt[key].title+'</a></p>';
 		    sublatest+='<li><a href="'+value.arturl+'">'+value.title+'</a></li>';
 		    slc++;
@@ -245,15 +329,26 @@ mnav.not(':last-child').click(function(){
 		}
 	}
 	oidx=idx;
-}); mnav.filter(':last-child').click(function(){ location.href='/videos/'; });
-$('div.ic-nav').click(function(){if(mobnav.hasClass('hidden'))mobnav.slideDown().removeClass('hidden');else mobnav.slideUp().addClass('hidden');});
+}); //mnav.filter(':last-child').click(function(){ location.href='/videos/'; });
+$('div.ic-nav').click(function(){
+	if(mobnav.hasClass('hidden')){
+		mobnav.slideDown().removeClass('hidden');
+	}else{
+		mobnav.slideUp().addClass('hidden');
+	}
+});
+mobnav.find('li.t1').click(function(){
+	$(this).next().slideToggle();
+});
 </script>
 
-<div class="ad-top"><div id="div-gpt-ad-mstarz-lead-top">
+<div class="ad-top">
+	<div style="width:970px; text-align:center; margin:0 auto;"><div id="div-gpt-ad-mstarz-lead-top">
  <script type="text/javascript">
   googletag.cmd.push(function() { googletag.display('div-gpt-ad-mstarz-lead-top'); });
  </script>
 </div></div>
+</div>
 <section class="contents">
 	<div class="innerwrap">
 		<div class="body">
@@ -457,7 +552,7 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 		</div><!-- au-right end -->
     </div>		 		<div class="side">
 	<div class="bn350 mb20">
-         <iframe src="http://www.mstarz.com/home/plugin/banner/videos/player.htm?type=a" width="100%" height="300" frameborder="0" scrolling="no"></iframe>    </div>
+    	<iframe src="http://www.mstarz.com/home/plugin/banner/videos/player.htm?type=a" width="100%" height="300" frameborder="0" scrolling="no"></iframe>    </div>
 	<div class="ad-side"><div id="div-gpt-ad-mstarz-rec-top">
  <script type="text/javascript">
   googletag.cmd.push(function() { googletag.display('div-gpt-ad-mstarz-rec-top'); });
@@ -476,195 +571,357 @@ $('#side-letter input[type="button"]').click(function(){
 	});
 });
 </script>	<h4 class="sec-ttl2">DON'T MISS</h4><div class="s-con">
-	<p class="photo"><a href="/articles/32605/20140625/pretty-little-liars-recap-season-3-episode-5-surfing-the-aftershocks-arias-makes-a-shocking-confession.htm"><img src="http://images.mstarz.com/data/images/full/26283/pretty-little-liars.jpg" alt="Pretty Little Liars"></a></p>
-    <div class="ttl"><p class="caty">Reviews</p><h3 class="title"><a href="/articles/32605/20140625/pretty-little-liars-recap-season-3-episode-5-surfing-the-aftershocks-arias-makes-a-shocking-confession.htm">'Pretty Little Liars' Recap Season 3 Episode 5 'Surfing the Aftershocks'- Aria Makes A Shocking Confession</a></h3></div>
+	<p class="photo"><a href="/articles/43946/20141208/exclusive-interview-comedian-katharine-heller-last-laugh-fantasizing-scandal-cast-ditching-pervy-neighborhood-watch-taking-stand-ferguson-video.htm"><img src="http://images.mstarz.com/data/images/full/40601/katharine-heller-last-laugh.jpg" alt="Katharine Heller - Last Laugh"></a></p>
+    <div class="ttl"><p class="caty">Reviews</p><h3 class="title"><a href="/articles/43946/20141208/exclusive-interview-comedian-katharine-heller-last-laugh-fantasizing-scandal-cast-ditching-pervy-neighborhood-watch-taking-stand-ferguson-video.htm">[EXCLUSIVE INTERVIEW] Comedian Katharine Heller’s Last Laugh</a></h3></div>
 </div>	<h4 class="sec-ttl2">LATEST STORIES</h4>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32615/20140626/archaia-announces-alyssa-milano-s-hacktivist-will-be-collected-in-hardcover.htm"><img src="http://images.mstarz.com/data/images/full/26311/hacktivist.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32615/20140626/archaia-announces-alyssa-milano-s-hacktivist-will-be-collected-in-hardcover.htm">Archaia Announces Alyssa Milano’s ‘Hacktivist’ Will Be Collected In Hardcover!</a></h3>
+	<p class="photo"><a href="/articles/44113/20141210/angelina-jolie-fury-star-brad-pitt-children-want-tattoos-unbroken-director-says-no-following-moneyball-producer-scott-rudin-slam-sony-pictures-guardians-peace-hack-video.htm"><img src="http://images.mstarz.com/data/images/full/40792/brad-pit-angelina-jolie-84th-annual-academy-awards-arrivals.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/44113/20141210/angelina-jolie-fury-star-brad-pitt-children-want-tattoos-unbroken-director-says-no-following-moneyball-producer-scott-rudin-slam-sony-pictures-guardians-peace-hack-video.htm">Angelina Jolie, Brad Pitt’s Children Want Tattoos: ‘Unbroken’ Director Says “NO!"</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32615 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32615%2F20140626%2Farchaia-announces-alyssa-milano-s-hacktivist-will-be-collected-in-hardcover.htm" addthis:title="Archaia Announces Alyssa Milano’s ‘Hacktivist’ Will Be Collected In Hardcover!"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32615 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32615%2F20140626%2Farchaia-announces-alyssa-milano-s-hacktivist-will-be-collected-in-hardcover.htm" addthis:title="Archaia Announces Alyssa Milano’s ‘Hacktivist’ Will Be Collected In Hardcover!"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_44113 fb" addthis:url="http://www.mstarz.com/articles/44113/20141210/angelina-jolie-fury-star-brad-pitt-children-want-tattoos-unbroken-director-says-no-following-moneyball-producer-scott-rudin-slam-sony-pictures-guardians-peace-hack-video.htm" addthis:title="Angelina Jolie, Brad Pitt’s Children Want Tattoos: ‘Unbroken’ Director Says “NO!" "=""><i><span>facebook</span></i><span class="num fb_cont_44113"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_44113 tw" addthis:url="http://www.mstarz.com/articles/44113/20141210/angelina-jolie-fury-star-brad-pitt-children-want-tattoos-unbroken-director-says-no-following-moneyball-producer-scott-rudin-slam-sony-pictures-guardians-peace-hack-video.htm" addthis:title="Angelina Jolie, Brad Pitt’s Children Want Tattoos: ‘Unbroken’ Director Says “NO!" "=""><i><span>tweet</span></i><span class="num tw_cont_44113"></span></a>
     </div>
 </div>
-<script>addthisReady(32615, "http://www.mstarz.com/articles/32615/20140626/archaia-announces-alyssa-milano-s-hacktivist-will-be-collected-in-hardcover.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_44113);
+function addthisReady_44113() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/44113/20141210/angelina-jolie-fury-star-brad-pitt-children-want-tattoos-unbroken-director-says-no-following-moneyball-producer-scott-rudin-slam-sony-pictures-guardians-peace-hack-video.htm'}, function(obj) {
+		$( ".fb_cont_44113" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/44113/20141210/angelina-jolie-fury-star-brad-pitt-children-want-tattoos-unbroken-director-says-no-following-moneyball-producer-scott-rudin-slam-sony-pictures-guardians-peace-hack-video.htm'}, function(obj) {
+		$( ".tw_cont_44113" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(44113, "http://www.mstarz.com/articles/44113/20141210/angelina-jolie-fury-star-brad-pitt-children-want-tattoos-unbroken-director-says-no-following-moneyball-producer-scott-rudin-slam-sony-pictures-guardians-peace-hack-video.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32635/20140625/update-survivor-star-caleb-bankston-dead-after-being-crushed-between-two-train-cars.htm"><img src="http://images.mstarz.com/data/images/full/26293/colton-cumbie-quits-survivor-exit-interview-jpg.jpg?w=88&amp;h=88&amp;l=0&amp;t=0" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32635/20140625/update-survivor-star-caleb-bankston-dead-after-being-crushed-between-two-train-cars.htm">Update: 'Survivor' Star Caleb Bankston Dead After Being Crushed Between Two Train Cars</a></h3>
+	<p class="photo"><a href="/articles/44060/20141210/bebop-rocksteady-confirmed-teenage-mutant-ninja-turtles-2016-movie-sequel.htm"><img src="http://images.mstarz.com/data/images/full/21220/teenage-mutant-ninja-turtles.png?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/44060/20141210/bebop-rocksteady-confirmed-teenage-mutant-ninja-turtles-2016-movie-sequel.htm">Bebop &amp; Rocksteady Confirmed For 'Teenage Mutant Ninja Turtles' 2016 Movie Sequel [SPOILERS]</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32635 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32635%2F20140625%2Fupdate-survivor-star-caleb-bankston-dead-after-being-crushed-between-two-train-cars.htm" addthis:title="Update: 'Survivor' Star Caleb Bankston Dead After Being Crushed Between Two Train Cars"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32635 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32635%2F20140625%2Fupdate-survivor-star-caleb-bankston-dead-after-being-crushed-between-two-train-cars.htm" addthis:title="Update: 'Survivor' Star Caleb Bankston Dead After Being Crushed Between Two Train Cars"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_44060 fb" addthis:url="http://www.mstarz.com/articles/44060/20141210/bebop-rocksteady-confirmed-teenage-mutant-ninja-turtles-2016-movie-sequel.htm" addthis:title="Bebop &amp; Rocksteady Confirmed For 'Teenage Mutant Ninja Turtles' 2016 Movie Sequel [SPOILERS]"><i><span>facebook</span></i><span class="num fb_cont_44060"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_44060 tw" addthis:url="http://www.mstarz.com/articles/44060/20141210/bebop-rocksteady-confirmed-teenage-mutant-ninja-turtles-2016-movie-sequel.htm" addthis:title="Bebop &amp; Rocksteady Confirmed For 'Teenage Mutant Ninja Turtles' 2016 Movie Sequel [SPOILERS]"><i><span>tweet</span></i><span class="num tw_cont_44060"></span></a>
     </div>
 </div>
-<script>addthisReady(32635, "http://www.mstarz.com/articles/32635/20140625/update-survivor-star-caleb-bankston-dead-after-being-crushed-between-two-train-cars.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_44060);
+function addthisReady_44060() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/44060/20141210/bebop-rocksteady-confirmed-teenage-mutant-ninja-turtles-2016-movie-sequel.htm'}, function(obj) {
+		$( ".fb_cont_44060" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/44060/20141210/bebop-rocksteady-confirmed-teenage-mutant-ninja-turtles-2016-movie-sequel.htm'}, function(obj) {
+		$( ".tw_cont_44060" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(44060, "http://www.mstarz.com/articles/44060/20141210/bebop-rocksteady-confirmed-teenage-mutant-ninja-turtles-2016-movie-sequel.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32639/20140625/chris-brown-going-to-trial-singer-rejects-plea-deal-in-washington-assault-case.htm"><img src="http://images.mstarz.com/data/images/full/26309/chris-brown.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32639/20140625/chris-brown-going-to-trial-singer-rejects-plea-deal-in-washington-assault-case.htm">Chris Brown Going To Trial? Singer Rejects Plea Deal In Washington Assault Case</a></h3>
+	<p class="photo"><a href="/articles/43857/20141210/dr-phil-honey-boo-boo-child-sex-scandal-mama-june-stole-abuse-victim-anna-money-tlc-show.htm"><img src="http://images.mstarz.com/data/images/full/40789/dr-phil-honey-boo-boo-child-sex-scandal-mama-june-stole-abuse-victim-annas-money-from-the-tlc-show-will-anna-ever-get-it-back.jpg?w=88&amp;h=88&amp;l=39&amp;t=45" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/43857/20141210/dr-phil-honey-boo-boo-child-sex-scandal-mama-june-stole-abuse-victim-anna-money-tlc-show.htm">Dr. Phil, 'Honey Boo Boo' Child Sex Scandal: 'Mama' June Stole Anna's Money From TLC Show!</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32639 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32639%2F20140625%2Fchris-brown-going-to-trial-singer-rejects-plea-deal-in-washington-assault-case.htm" addthis:title="Chris Brown Going To Trial? Singer Rejects Plea Deal In Washington Assault Case"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32639 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32639%2F20140625%2Fchris-brown-going-to-trial-singer-rejects-plea-deal-in-washington-assault-case.htm" addthis:title="Chris Brown Going To Trial? Singer Rejects Plea Deal In Washington Assault Case"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_43857 fb" addthis:url="http://www.mstarz.com/articles/43857/20141210/dr-phil-honey-boo-boo-child-sex-scandal-mama-june-stole-abuse-victim-anna-money-tlc-show.htm" addthis:title="Dr. Phil, 'Honey Boo Boo' Child Sex Scandal: 'Mama' June Stole Anna's Money From TLC Show!"><i><span>facebook</span></i><span class="num fb_cont_43857"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_43857 tw" addthis:url="http://www.mstarz.com/articles/43857/20141210/dr-phil-honey-boo-boo-child-sex-scandal-mama-june-stole-abuse-victim-anna-money-tlc-show.htm" addthis:title="Dr. Phil, 'Honey Boo Boo' Child Sex Scandal: 'Mama' June Stole Anna's Money From TLC Show!"><i><span>tweet</span></i><span class="num tw_cont_43857"></span></a>
     </div>
 </div>
-<script>addthisReady(32639, "http://www.mstarz.com/articles/32639/20140625/chris-brown-going-to-trial-singer-rejects-plea-deal-in-washington-assault-case.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_43857);
+function addthisReady_43857() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/43857/20141210/dr-phil-honey-boo-boo-child-sex-scandal-mama-june-stole-abuse-victim-anna-money-tlc-show.htm'}, function(obj) {
+		$( ".fb_cont_43857" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/43857/20141210/dr-phil-honey-boo-boo-child-sex-scandal-mama-june-stole-abuse-victim-anna-money-tlc-show.htm'}, function(obj) {
+		$( ".tw_cont_43857" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(43857, "http://www.mstarz.com/articles/43857/20141210/dr-phil-honey-boo-boo-child-sex-scandal-mama-june-stole-abuse-victim-anna-money-tlc-show.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32638/20140625/the-biggest-losers-jillian-michaels-not-return-for-season-16-of-the-nbc-weight-loss-show.htm"><img src="http://images.mstarz.com/data/images/full/26308/jillian-michaels.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32638/20140625/the-biggest-losers-jillian-michaels-not-return-for-season-16-of-the-nbc-weight-loss-show.htm">'The Biggest Loser's' Jillian Michaels Not Returning For Season 16 Of The NBC Weight Loss Show</a></h3>
+	<p class="photo"><a href="/articles/44089/20141210/watch-san-andreas-movie-trailer-dwayne-rock-johnson-alexandra-daddario.htm"><img src="http://images.mstarz.com/data/images/full/40790/watch-san-andreas-movie-trailer-dwayne-the-rock-johnson-alexandra-daddario-video.png?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/44089/20141210/watch-san-andreas-movie-trailer-dwayne-rock-johnson-alexandra-daddario.htm">Watch 'San Andreas' Movie Trailer, Dwayne "The Rock" Johnson &amp; Alexandra Daddario [VIDEO]</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32638 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32638%2F20140625%2Fthe-biggest-losers-jillian-michaels-not-return-for-season-16-of-the-nbc-weight-loss-show.htm" addthis:title="'The Biggest Loser's' Jillian Michaels Not Returning For Season 16 Of The NBC Weight Loss Show"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32638 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32638%2F20140625%2Fthe-biggest-losers-jillian-michaels-not-return-for-season-16-of-the-nbc-weight-loss-show.htm" addthis:title="'The Biggest Loser's' Jillian Michaels Not Returning For Season 16 Of The NBC Weight Loss Show"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_44089 fb" addthis:url="http://www.mstarz.com/articles/44089/20141210/watch-san-andreas-movie-trailer-dwayne-rock-johnson-alexandra-daddario.htm" addthis:title="Watch 'San Andreas' Movie Trailer, Dwayne " the="" rock"="" johnson="" &="" alexandra="" daddario="" [video]"=""><i><span>facebook</span></i><span class="num fb_cont_44089"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_44089 tw" addthis:url="http://www.mstarz.com/articles/44089/20141210/watch-san-andreas-movie-trailer-dwayne-rock-johnson-alexandra-daddario.htm" addthis:title="Watch 'San Andreas' Movie Trailer, Dwayne " the="" rock"="" johnson="" &="" alexandra="" daddario="" [video]"=""><i><span>tweet</span></i><span class="num tw_cont_44089"></span></a>
     </div>
 </div>
-<script>addthisReady(32638, "http://www.mstarz.com/articles/32638/20140625/the-biggest-losers-jillian-michaels-not-return-for-season-16-of-the-nbc-weight-loss-show.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_44089);
+function addthisReady_44089() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/44089/20141210/watch-san-andreas-movie-trailer-dwayne-rock-johnson-alexandra-daddario.htm'}, function(obj) {
+		$( ".fb_cont_44089" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/44089/20141210/watch-san-andreas-movie-trailer-dwayne-rock-johnson-alexandra-daddario.htm'}, function(obj) {
+		$( ".tw_cont_44089" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(44089, "http://www.mstarz.com/articles/44089/20141210/watch-san-andreas-movie-trailer-dwayne-rock-johnson-alexandra-daddario.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32637/20140625/sarah-jessica-parker-coming-back-to-tv-sex-and-the-city-star-to-land-major-role-in-new-show-busted.htm"><img src="http://images.mstarz.com/data/images/full/21584/sarah-jessica-parker.jpg?w=88&amp;h=88&amp;l=52&amp;t=32" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32637/20140625/sarah-jessica-parker-coming-back-to-tv-sex-and-the-city-star-to-land-major-role-in-new-show-busted.htm">Sarah Jessica Parker Coming Back To TV- 'Sex And The City' Star To Land Major Role In New Show 'Busted'</a></h3>
+	<p class="photo"><a href="/articles/44103/20141210/deelishis-wiz-khalifa-hook-up-confirmed-amber-rose-ex-dating-model-divorce-cheating-scandal.htm"><img src="http://images.mstarz.com/data/images/full/25453/deelishis-wiz-khalifa-hook-up-confirmed-amber-roses-ex-dating-model-says-not-looking-to-hurt-amber.jpg?w=88&amp;h=88&amp;l=42&amp;t=19" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/44103/20141210/deelishis-wiz-khalifa-hook-up-confirmed-amber-rose-ex-dating-model-divorce-cheating-scandal.htm">Deelishis, Wiz Khalifa Hook Up Confirmed: Amber Rose's Ex Dating Model, Says Not looking To Hurt Amber</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32637 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32637%2F20140625%2Fsarah-jessica-parker-coming-back-to-tv-sex-and-the-city-star-to-land-major-role-in-new-show-busted.htm" addthis:title="Sarah Jessica Parker Coming Back To TV- 'Sex And The City' Star To Land Major Role In New Show 'Busted'"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32637 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32637%2F20140625%2Fsarah-jessica-parker-coming-back-to-tv-sex-and-the-city-star-to-land-major-role-in-new-show-busted.htm" addthis:title="Sarah Jessica Parker Coming Back To TV- 'Sex And The City' Star To Land Major Role In New Show 'Busted'"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_44103 fb" addthis:url="http://www.mstarz.com/articles/44103/20141210/deelishis-wiz-khalifa-hook-up-confirmed-amber-rose-ex-dating-model-divorce-cheating-scandal.htm" addthis:title="Deelishis, Wiz Khalifa Hook Up Confirmed: Amber Rose's Ex Dating Model, Says Not looking To Hurt Amber"><i><span>facebook</span></i><span class="num fb_cont_44103"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_44103 tw" addthis:url="http://www.mstarz.com/articles/44103/20141210/deelishis-wiz-khalifa-hook-up-confirmed-amber-rose-ex-dating-model-divorce-cheating-scandal.htm" addthis:title="Deelishis, Wiz Khalifa Hook Up Confirmed: Amber Rose's Ex Dating Model, Says Not looking To Hurt Amber"><i><span>tweet</span></i><span class="num tw_cont_44103"></span></a>
     </div>
 </div>
-<script>addthisReady(32637, "http://www.mstarz.com/articles/32637/20140625/sarah-jessica-parker-coming-back-to-tv-sex-and-the-city-star-to-land-major-role-in-new-show-busted.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_44103);
+function addthisReady_44103() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/44103/20141210/deelishis-wiz-khalifa-hook-up-confirmed-amber-rose-ex-dating-model-divorce-cheating-scandal.htm'}, function(obj) {
+		$( ".fb_cont_44103" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/44103/20141210/deelishis-wiz-khalifa-hook-up-confirmed-amber-rose-ex-dating-model-divorce-cheating-scandal.htm'}, function(obj) {
+		$( ".tw_cont_44103" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(44103, "http://www.mstarz.com/articles/44103/20141210/deelishis-wiz-khalifa-hook-up-confirmed-amber-rose-ex-dating-model-divorce-cheating-scandal.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32624/20140625/versus-evil-announces-afro-samurai-sequel-will-samuel-l-jackson-and-rza-return-to-videogame-franchise.htm"><img src="http://images.mstarz.com/data/images/full/26307/afro-samurai.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32624/20140625/versus-evil-announces-afro-samurai-sequel-will-samuel-l-jackson-and-rza-return-to-videogame-franchise.htm">Versus Evil Announces ‘Afro Samurai’ Sequel! Will Samuel L. Jackson And RZA Return To Videogame Franchise?</a></h3>
+	<p class="photo"><a href="/articles/43787/20141210/tnt-legends-season-2-sean-bean-ali-larter-morris-chestnut.htm"><img src="http://images.mstarz.com/data/images/full/40748/legends.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/43787/20141210/tnt-legends-season-2-sean-bean-ali-larter-morris-chestnut.htm">TNT's 'Legends' Renewed for Second Season!</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32624 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32624%2F20140625%2Fversus-evil-announces-afro-samurai-sequel-will-samuel-l-jackson-and-rza-return-to-videogame-franchise.htm" addthis:title="Versus Evil Announces ‘Afro Samurai’ Sequel! Will Samuel L. Jackson And RZA Return To Videogame Franchise?"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32624 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32624%2F20140625%2Fversus-evil-announces-afro-samurai-sequel-will-samuel-l-jackson-and-rza-return-to-videogame-franchise.htm" addthis:title="Versus Evil Announces ‘Afro Samurai’ Sequel! Will Samuel L. Jackson And RZA Return To Videogame Franchise?"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_43787 fb" addthis:url="http://www.mstarz.com/articles/43787/20141210/tnt-legends-season-2-sean-bean-ali-larter-morris-chestnut.htm" addthis:title="TNT's 'Legends' Renewed for Second Season!"><i><span>facebook</span></i><span class="num fb_cont_43787"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_43787 tw" addthis:url="http://www.mstarz.com/articles/43787/20141210/tnt-legends-season-2-sean-bean-ali-larter-morris-chestnut.htm" addthis:title="TNT's 'Legends' Renewed for Second Season!"><i><span>tweet</span></i><span class="num tw_cont_43787"></span></a>
     </div>
 </div>
-<script>addthisReady(32624, "http://www.mstarz.com/articles/32624/20140625/versus-evil-announces-afro-samurai-sequel-will-samuel-l-jackson-and-rza-return-to-videogame-franchise.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_43787);
+function addthisReady_43787() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/43787/20141210/tnt-legends-season-2-sean-bean-ali-larter-morris-chestnut.htm'}, function(obj) {
+		$( ".fb_cont_43787" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/43787/20141210/tnt-legends-season-2-sean-bean-ali-larter-morris-chestnut.htm'}, function(obj) {
+		$( ".tw_cont_43787" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(43787, "http://www.mstarz.com/articles/43787/20141210/tnt-legends-season-2-sean-bean-ali-larter-morris-chestnut.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32632/20140625/lana-del-rey-ultraviolence-scores-first-ever-number-one-album-for-the-west-coast-songstress.htm"><img src="http://images.mstarz.com/data/images/full/23431/10341899_736905396351913_765170442288689957_n-jpg.jpg?w=88&amp;h=88&amp;l=0&amp;t=0" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32632/20140625/lana-del-rey-ultraviolence-scores-first-ever-number-one-album-for-the-west-coast-songstress.htm">Lana Del Rey 'Ultraviolence' Scores First Ever Number One Album For The 'West Coast' Songstress</a></h3>
+	<p class="photo"><a href="/articles/44108/20141210/hbo-go-standalone-streaming-service-premieres-april-2015-game-thrones.htm"><img src="http://images.mstarz.com/data/images/full/40786/hbo-go-standalone-streaming-service-premieres-april-2015-with-game-of-thrones-season-season-5-episodes.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/44108/20141210/hbo-go-standalone-streaming-service-premieres-april-2015-game-thrones.htm">HBO Go Standalone Streaming Service Premieres April 2015 With 'Game Of Thrones' Season Season 5 Episodes</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32632 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32632%2F20140625%2Flana-del-rey-ultraviolence-scores-first-ever-number-one-album-for-the-west-coast-songstress.htm" addthis:title="Lana Del Rey 'Ultraviolence' Scores First Ever Number One Album For The 'West Coast' Songstress"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32632 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32632%2F20140625%2Flana-del-rey-ultraviolence-scores-first-ever-number-one-album-for-the-west-coast-songstress.htm" addthis:title="Lana Del Rey 'Ultraviolence' Scores First Ever Number One Album For The 'West Coast' Songstress"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_44108 fb" addthis:url="http://www.mstarz.com/articles/44108/20141210/hbo-go-standalone-streaming-service-premieres-april-2015-game-thrones.htm" addthis:title="HBO Go Standalone Streaming Service Premieres April 2015 With 'Game Of Thrones' Season Season 5 Episodes"><i><span>facebook</span></i><span class="num fb_cont_44108"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_44108 tw" addthis:url="http://www.mstarz.com/articles/44108/20141210/hbo-go-standalone-streaming-service-premieres-april-2015-game-thrones.htm" addthis:title="HBO Go Standalone Streaming Service Premieres April 2015 With 'Game Of Thrones' Season Season 5 Episodes"><i><span>tweet</span></i><span class="num tw_cont_44108"></span></a>
     </div>
 </div>
-<script>addthisReady(32632, "http://www.mstarz.com/articles/32632/20140625/lana-del-rey-ultraviolence-scores-first-ever-number-one-album-for-the-west-coast-songstress.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_44108);
+function addthisReady_44108() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/44108/20141210/hbo-go-standalone-streaming-service-premieres-april-2015-game-thrones.htm'}, function(obj) {
+		$( ".fb_cont_44108" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/44108/20141210/hbo-go-standalone-streaming-service-premieres-april-2015-game-thrones.htm'}, function(obj) {
+		$( ".tw_cont_44108" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(44108, "http://www.mstarz.com/articles/44108/20141210/hbo-go-standalone-streaming-service-premieres-april-2015-game-thrones.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32626/20140625/million-dollar-listing-miami-chad-carroll-talks-new-series-the-top-four-best-summer-vacation-spots.htm"><img src="http://images.mstarz.com/data/images/full/26303/million-dollar-listing-miami.png?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32626/20140625/million-dollar-listing-miami-chad-carroll-talks-new-series-the-top-four-best-summer-vacation-spots.htm">Million Dollar Listing Miami Chad Carroll Talks New Series &amp; The Top Four Best Summer Vacation Spots</a></h3>
+	<p class="photo"><a href="/articles/44104/20141210/angelina-jolie-slammed-brad-pitt-moneyball-producer-scott-rudin-sony-pictures-hack-unbroken-director-spoiled-brat-feud-new-david-fincher-film-steve-jobs-biopic-video.htm"><img src="http://images.mstarz.com/data/images/full/40784/angelina-jolie-global-summit-to-end-sexual-violence-in-conflict.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/44104/20141210/angelina-jolie-slammed-brad-pitt-moneyball-producer-scott-rudin-sony-pictures-hack-unbroken-director-spoiled-brat-feud-new-david-fincher-film-steve-jobs-biopic-video.htm">Angelina Jolie Called A “Spoiled Brat” By Brad Pitt 'Money Ball' Producer [VIDEO]</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32626 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32626%2F20140625%2Fmillion-dollar-listing-miami-chad-carroll-talks-new-series-the-top-four-best-summer-vacation-spots.htm" addthis:title="Million Dollar Listing Miami Chad Carroll Talks New Series &amp; The Top Four Best Summer Vacation Spots"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32626 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32626%2F20140625%2Fmillion-dollar-listing-miami-chad-carroll-talks-new-series-the-top-four-best-summer-vacation-spots.htm" addthis:title="Million Dollar Listing Miami Chad Carroll Talks New Series &amp; The Top Four Best Summer Vacation Spots"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_44104 fb" addthis:url="http://www.mstarz.com/articles/44104/20141210/angelina-jolie-slammed-brad-pitt-moneyball-producer-scott-rudin-sony-pictures-hack-unbroken-director-spoiled-brat-feud-new-david-fincher-film-steve-jobs-biopic-video.htm" addthis:title="Angelina Jolie Called A “Spoiled Brat” By Brad Pitt 'Money Ball' Producer [VIDEO]"><i><span>facebook</span></i><span class="num fb_cont_44104"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_44104 tw" addthis:url="http://www.mstarz.com/articles/44104/20141210/angelina-jolie-slammed-brad-pitt-moneyball-producer-scott-rudin-sony-pictures-hack-unbroken-director-spoiled-brat-feud-new-david-fincher-film-steve-jobs-biopic-video.htm" addthis:title="Angelina Jolie Called A “Spoiled Brat” By Brad Pitt 'Money Ball' Producer [VIDEO]"><i><span>tweet</span></i><span class="num tw_cont_44104"></span></a>
     </div>
 </div>
-<script>addthisReady(32626, "http://www.mstarz.com/articles/32626/20140625/million-dollar-listing-miami-chad-carroll-talks-new-series-the-top-four-best-summer-vacation-spots.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_44104);
+function addthisReady_44104() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/44104/20141210/angelina-jolie-slammed-brad-pitt-moneyball-producer-scott-rudin-sony-pictures-hack-unbroken-director-spoiled-brat-feud-new-david-fincher-film-steve-jobs-biopic-video.htm'}, function(obj) {
+		$( ".fb_cont_44104" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/44104/20141210/angelina-jolie-slammed-brad-pitt-moneyball-producer-scott-rudin-sony-pictures-hack-unbroken-director-spoiled-brat-feud-new-david-fincher-film-steve-jobs-biopic-video.htm'}, function(obj) {
+		$( ".tw_cont_44104" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(44104, "http://www.mstarz.com/articles/44104/20141210/angelina-jolie-slammed-brad-pitt-moneyball-producer-scott-rudin-sony-pictures-hack-unbroken-director-spoiled-brat-feud-new-david-fincher-film-steve-jobs-biopic-video.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32636/20140625/diane-sawyer-david-muir-george-stephanopoulos-sawyer-steps-down-as-abc-world-news-anchor-muir-to-take-over.htm"><img src="http://images.mstarz.com/data/images/full/26306/diane-sawyer.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32636/20140625/diane-sawyer-david-muir-george-stephanopoulos-sawyer-steps-down-as-abc-world-news-anchor-muir-to-take-over.htm">Diane Sawyer, David Muir, George Stephanopoulos: Sawyer Steps Down As 'ABC World News' Anchor, Muir To Take Over</a></h3>
+	<p class="photo"><a href="/articles/44083/20141210/todd-tucker-one-week-after-mothers-death-hollywood-divas-producer-thanks-his-wife-kandi-burruss-during-his-tough-time-after-losing-his-mother-miss-sharon-see.htm"><img src="http://images.mstarz.com/data/images/full/40741/todd-tucker.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/44083/20141210/todd-tucker-one-week-after-mothers-death-hollywood-divas-producer-thanks-his-wife-kandi-burruss-during-his-tough-time-after-losing-his-mother-miss-sharon-see.htm">Todd Tucker, One Week After Mother's Death: 'RHOA' Star Thanks His Wife Kandi Burruss For Support</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32636 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32636%2F20140625%2Fdiane-sawyer-david-muir-george-stephanopoulos-sawyer-steps-down-as-abc-world-news-anchor-muir-to-take-over.htm" addthis:title="Diane Sawyer, David Muir, George Stephanopoulos: Sawyer Steps Down As 'ABC World News' Anchor, Muir To Take Over"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32636 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32636%2F20140625%2Fdiane-sawyer-david-muir-george-stephanopoulos-sawyer-steps-down-as-abc-world-news-anchor-muir-to-take-over.htm" addthis:title="Diane Sawyer, David Muir, George Stephanopoulos: Sawyer Steps Down As 'ABC World News' Anchor, Muir To Take Over"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_44083 fb" addthis:url="http://www.mstarz.com/articles/44083/20141210/todd-tucker-one-week-after-mothers-death-hollywood-divas-producer-thanks-his-wife-kandi-burruss-during-his-tough-time-after-losing-his-mother-miss-sharon-see.htm" addthis:title="Todd Tucker, One Week After Mother's Death: 'RHOA' Star Thanks His Wife Kandi Burruss For Support"><i><span>facebook</span></i><span class="num fb_cont_44083"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_44083 tw" addthis:url="http://www.mstarz.com/articles/44083/20141210/todd-tucker-one-week-after-mothers-death-hollywood-divas-producer-thanks-his-wife-kandi-burruss-during-his-tough-time-after-losing-his-mother-miss-sharon-see.htm" addthis:title="Todd Tucker, One Week After Mother's Death: 'RHOA' Star Thanks His Wife Kandi Burruss For Support"><i><span>tweet</span></i><span class="num tw_cont_44083"></span></a>
     </div>
 </div>
-<script>addthisReady(32636, "http://www.mstarz.com/articles/32636/20140625/diane-sawyer-david-muir-george-stephanopoulos-sawyer-steps-down-as-abc-world-news-anchor-muir-to-take-over.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_44083);
+function addthisReady_44083() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/44083/20141210/todd-tucker-one-week-after-mothers-death-hollywood-divas-producer-thanks-his-wife-kandi-burruss-during-his-tough-time-after-losing-his-mother-miss-sharon-see.htm'}, function(obj) {
+		$( ".fb_cont_44083" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/44083/20141210/todd-tucker-one-week-after-mothers-death-hollywood-divas-producer-thanks-his-wife-kandi-burruss-during-his-tough-time-after-losing-his-mother-miss-sharon-see.htm'}, function(obj) {
+		$( ".tw_cont_44083" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(44083, "http://www.mstarz.com/articles/44083/20141210/todd-tucker-one-week-after-mothers-death-hollywood-divas-producer-thanks-his-wife-kandi-burruss-during-his-tough-time-after-losing-his-mother-miss-sharon-see.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32633/20140625/watch-new-hyrule-warriors-wii-u-trailers-show-zelda-impa.htm"><img src="http://images.mstarz.com/data/images/full/26304/hyrule-warriors.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt=""></a></p>
-    <h3 class="title"><a href="/articles/32633/20140625/watch-new-hyrule-warriors-wii-u-trailers-show-zelda-impa.htm">WATCH: New 'Hyrule Warriors' Wii U Trailers Show Off Princess Zelda And Impa In New Gameplay Footage Before September 26, 2014, Release Date [VIDEOS]</a></h3>
+	<p class="photo"><a href="/articles/44106/20141210/lil-wayne-ymcmb-twitter-rant-new-album-the-carter-v-release-delay-ex-cash-money-rapper-turk-supports-christina-milian-boyfriend-leaving-record-label-watch.htm"><img src="http://images.mstarz.com/data/images/full/32755/lil-wayne.jpg?w=88&amp;h=88&amp;l=60&amp;t=34" width="88" alt=""></a></p>
+    <h3 class="title"><a href="/articles/44106/20141210/lil-wayne-ymcmb-twitter-rant-new-album-the-carter-v-release-delay-ex-cash-money-rapper-turk-supports-christina-milian-boyfriend-leaving-record-label-watch.htm">Rapper Turk Supports Lil Wayne's Rant Against Cash Money</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook addthis_button_facebook_32633 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32633%2F20140625%2Fwatch-new-hyrule-warriors-wii-u-trailers-show-zelda-impa.htm" addthis:title="WATCH: New 'Hyrule Warriors' Wii U Trailers Show Off Princess Zelda And Impa In New Gameplay Footage Before September 26, 2014, Release Date [VIDEOS]"><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter addthis_button_twitter_32633 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32633%2F20140625%2Fwatch-new-hyrule-warriors-wii-u-trailers-show-zelda-impa.htm" addthis:title="WATCH: New 'Hyrule Warriors' Wii U Trailers Show Off Princess Zelda And Impa In New Gameplay Footage Before September 26, 2014, Release Date [VIDEOS]"><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook addthis_button_facebook_44106 fb" addthis:url="http://www.mstarz.com/articles/44106/20141210/lil-wayne-ymcmb-twitter-rant-new-album-the-carter-v-release-delay-ex-cash-money-rapper-turk-supports-christina-milian-boyfriend-leaving-record-label-watch.htm" addthis:title="Rapper Turk Supports Lil Wayne's Rant Against Cash Money"><i><span>facebook</span></i><span class="num fb_cont_44106"></span></a>
+		<a class="addthis_button_twitter addthis_button_twitter_44106 tw" addthis:url="http://www.mstarz.com/articles/44106/20141210/lil-wayne-ymcmb-twitter-rant-new-album-the-carter-v-release-delay-ex-cash-money-rapper-turk-supports-christina-milian-boyfriend-leaving-record-label-watch.htm" addthis:title="Rapper Turk Supports Lil Wayne's Rant Against Cash Money"><i><span>tweet</span></i><span class="num tw_cont_44106"></span></a>
     </div>
 </div>
-<script>addthisReady(32633, "http://www.mstarz.com/articles/32633/20140625/watch-new-hyrule-warriors-wii-u-trailers-show-zelda-impa.htm");</script>
-	<div class="ad-side"><div id="div-gpt-ad-mstarz-rec-mid">
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_44106);
+function addthisReady_44106() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/44106/20141210/lil-wayne-ymcmb-twitter-rant-new-album-the-carter-v-release-delay-ex-cash-money-rapper-turk-supports-christina-milian-boyfriend-leaving-record-label-watch.htm'}, function(obj) {
+		$( ".fb_cont_44106" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/44106/20141210/lil-wayne-ymcmb-twitter-rant-new-album-the-carter-v-release-delay-ex-cash-money-rapper-turk-supports-christina-milian-boyfriend-leaving-record-label-watch.htm'}, function(obj) {
+		$( ".tw_cont_44106" ).html( obj.count );
+	});
+}
+</script>
+
+<script>//addthisReady(44106, "http://www.mstarz.com/articles/44106/20141210/lil-wayne-ymcmb-twitter-rant-new-album-the-carter-v-release-delay-ex-cash-money-rapper-turk-supports-christina-milian-boyfriend-leaving-record-label-watch.htm");</script>
+		<div class="ad-side"><div id="div-gpt-ad-mstarz-rec-mid">
  <script type="text/javascript">
   googletag.cmd.push(function() { googletag.display('div-gpt-ad-mstarz-rec-mid'); });
  </script>
 </div></div>	<h4 class="sec-ttl2">MUSIC VIDEOS</h4>
 <div class="s-con3">
-	<p class="photo"><a href="/articles/32559/20140624/carrie-underwood-miranda-lambert-something-bad-music-video-singers-tease-new-video-on-instagram-watch.htm"><span class="ic-mv"></span><img src="http://images.mstarz.com/data/images/full/24625/carrie-underwood-and-miranda-lambert.jpg?w=351&amp;h=234&amp;t=&amp;l=" width="351" alt="Carrie Underwood and Miranda Lambert"></a></p>
-    <h3 class="title2"><a href="/articles/32559/20140624/carrie-underwood-miranda-lambert-something-bad-music-video-singers-tease-new-video-on-instagram-watch.htm">Carrie Underwood &amp; Miranda Lambert 'Something Bad' Music Video- Singers Tease New Video On Instagram [WATCH]</a></h3><p class="clr"></p>
-    <div class="list"><a href="/articles/32523/20140624/robin-thicke-tries-his-best-to-get-paula-patton-back-video-5-things-crooner-could-have-avoided-to-win-wife-back.htm"><p class="photo"><img src="http://images.mstarz.com/data/images/full/26193/robin-thicke.jpg?w=168&amp;h=112&amp;l=42&amp;t=25" width="168" alt="Robin Thicke"></p><h3 class="title">5 Things Robin Thicke Could Have Avoided to Get Paula Patton Back (VIDEO)</h3></a></div>
-    <div class="list2"><a href="/articles/32520/20140623/robin-thicke-get-her-back-robin-thicke-is-battered-and-bruised-inside-and-out-in-his-new-music-video.htm"><p class="photo"><img src="http://images.mstarz.com/data/images/full/26186/robin-thicke-get-her-back.jpg?w=168&amp;h=112&amp;l=50&amp;t=40" width="168" alt="Robin Thicke - Get Her Back "></p><h3 class="title">Robin Thicke - Get Her Back</h3></a></div>
-</div>	<a class="twitter-timeline" href="https://twitter.com/MstarsNews" data-widget-id="448556979892400128">Tweets by @MStarsNews</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	<div class="s-booms"><style>
-.widget-incol2img .widget-repeat img {width:100%;}
-.widget-incol2img {margin:20px 0 0 0;}
-.widget-incol2img:after {clear: both; content: ""; display: block;}
-.widget-incol2img .widget-repeat {float:left; width:48.25%; margin-left:3.50%; display:inline; padding-bottom:12px;}
-.widget-incol2img .widget-repeat:first-child, .widget-incol2img .widget-firstchild {margin-left:0; clear:left;}
-.widget-incol2img .widget-art-img {width:100%; margin-bottom:5px;}
-.widget-incol2img .widget-art-ttl {font-weight:bold; font-size:14px; line-height:16px; color:#000; font-family:Arial;}
-.widget-incol2img a {text-decoration:none;}
-</style>
-<div class="element-boxed">
-	<div class="element-repeat">
-		<div class="widget-basic widget-incol2img">
-			<div class="widget-title"><img src="http://assets.boomsbeat.com/static/common/_v0.0.0/images/logo-xs.png" width="130" height="28" alt="BOOMSbeat"></div>
-						<div class="widget-repeat widget-firstchild">
-				<a href="http://www.boomsbeat.com/articles/5332/20140617/goalkeeper-cat-video.htm" target="_blank">
-					<img src="http://images.boomsbeat.com/data/images/full/78788/goal-keeper-cat-jpg.jpg?w=135&amp;h=100&amp;l=0&amp;t=0" width="135" alt="goalkeeper cat">
-					<div class="widget-art-ttl">This cat is an excellent goal keeper! (VIDEO)</div>
-				</a>
-			</div>			<div class="widget-repeat">
-				<a href="http://www.boomsbeat.com/articles/5289/20140616/50-interesting-facts-about-cristiano-ronaldo-diagnosed-with-a-racing-heart-at-15-wealthiest-soccer-player.htm" target="_blank">
-					<img src="http://images.boomsbeat.com/data/images/full/78513/1280px-argentine_-_portugal_-_cristiano_ronaldo-jpg.jpg?w=135&amp;h=100&amp;l=0&amp;t=0" width="135" alt="Cristiano">
-					<div class="widget-art-ttl">50 interesting facts about Cristiano Ronaldo: diagnosed with a racing heart at 15, wealthiest soccer player</div>
-				</a>
-			</div>			<div class="widget-repeat widget-firstchild">
-				<a href="http://www.boomsbeat.com/articles/5133/20140617/fantastic-photos-of-little-wild-horse-canyon-in-utah.htm" target="_blank">
-					<img src="http://images.boomsbeat.com/data/images/full/77341/trailsource-com-1-jpg.jpg?w=135&amp;h=100&amp;l=0&amp;t=0" width="135" alt="Little Wild Horse Canyon">
-					<div class="widget-art-ttl">Little Wild Horse Canyon</div>
-				</a>
-			</div>			<div class="widget-repeat">
-				<a href="http://www.boomsbeat.com/articles/5333/20140617/surprising-water-sound-experiment-video.htm" target="_blank">
-					<img src="http://images.boomsbeat.com/data/images/full/78789/water-and-sound-jpg.jpg?w=135&amp;h=100&amp;l=0&amp;t=0" width="135" alt="water and sound">
-					<div class="widget-art-ttl">Surprising water and sound experiment (VIDEO)</div>
-				</a>
-			</div>		</div>
-	</div>
-</div></div>	<div class="ad-side"><div id="div-gpt-ad-mstarz-rec-mid2">
+	<p class="photo"><a href="/articles/44038/20141209/watch-walking-dead-star-emily-kinneys-new-music-video-single.htm"><span class="ic-mv"></span><img src="http://images.mstarz.com/data/images/full/36441/b1icfkvieael0qq-png.png?w=351&amp;h=234&amp;t=&amp;l=" width="351" alt="Emily Kinney as Beth on The Walking Dead"></a></p>
+    <h3 class="title2"><a href="/articles/44038/20141209/watch-walking-dead-star-emily-kinneys-new-music-video-single.htm">WATCH The Walking Dead Star Emily Kinney's New Music Video for Single 'Rockstar'</a></h3><p class="clr"></p>
+    <div class="list"><a href="/articles/43280/20141201/kelly-clarkson-wrapped-in-red-christmas-music-video-released-american-idol-alum-xmas-song-premiere.htm"><p class="photo"><img src="http://images.mstarz.com/data/images/full/39683/kelly-clarkson.jpg?w=168&amp;h=112&amp;l=50&amp;t=40" width="168" alt="Kelly Clarkson"></p><h3 class="title">Kelly Clarkson 'Wrapped In Red' Christmas Music Video Released</h3></a></div>
+    <div class="list2"><a href="/articles/43152/20141127/amy-duggars-new-music-video-19-kids-and-counting-relative-gone-nashville-with-beautiful-weather-–-will-aunt-michelle-uncle-jim-bob-disapprove-due-to-her-dancing.htm"><p class="photo"><img src="http://images.mstarz.com/data/images/full/39508/amy-duggar.jpg?w=168&amp;h=112&amp;l=50&amp;t=40" width="168" alt="Amy Duggar "></p><h3 class="title">Amy Duggar Releases First Track And Music Video, "Beautiful Weather"</h3></a></div>
+</div>	<a class="twitter-timeline" href="https://twitter.com/MstarsNews" data-widget-id="448556979892400128">Tweets by @MStarsNews</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	<div class="s-booms"> 	<div id="bmWidget">
+		
+		<script type="text/javascript" async="" src="https://www.boomsbeat.com/widget_init.php?containerId=bmWidget&amp;widgetType=basic&amp;lazyLoad=false"></script></div>
+		<script>
+		(function(){
+			var params = 
+			{
+				'containerId': 'bmWidget',
+				'widgetType': 'basic',
+				'lazyLoad': false
+			}
+
+			var qs="";
+			for(var key in params){qs+=key+"="+params[key]+"&"}
+			qs=qs.substring(0,qs.length-1);
+
+			var tsc = document.createElement('script'); tsc.type = 'text/javascript'; tsc.async = true;
+			tsc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.boomsbeat.com/widget_init.php?' + qs;
+			document.getElementById(params.containerId).appendChild(tsc);
+
+
+		})()		
+		</script>
+</div>	<div class="ad-side"><div id="div-gpt-ad-mstarz-rec-mid2">
  <script type="text/javascript">
   googletag.cmd.push(function() { googletag.display('div-gpt-ad-mstarz-rec-mid2'); });
  </script>
 </div></div>	<h4 class="sec-ttl2">Most Shared</h4>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/31827/20140609/monday-night-raw-results-6-9-14-wwe-recap-june.htm"><img src="http://images.mstarz.com/data/images/full/25305/money-in-the-bank-2014.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Money in the Bank 2014"></a></p>
-    <h3 class="title"><a href="/articles/31827/20140609/monday-night-raw-results-6-9-14-wwe-recap-june.htm">Monday Night Raw Results 6/9/14</a></h3>
+	<p class="photo"><a href="/articles/42284/20141117/monday-night-raw-results-11-17-14-wwe-recap-november.htm"><img src="http://images.mstarz.com/data/images/full/38122/monday-night-raw-11-17-14.png?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Monday Night Raw 11/17/14"></a></p>
+    <h3 class="title"><a href="/articles/42284/20141117/monday-night-raw-results-11-17-14-wwe-recap-november.htm">Monday Night Raw Results 11/17/14</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook_31827 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F31827%2F20140609%2Fmonday-night-raw-results-6-9-14-wwe-recap-june.htm" addthis:title=""><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter_31827 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F31827%2F20140609%2Fmonday-night-raw-results-6-9-14-wwe-recap-june.htm" addthis:title=""><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook_42284 fb" addthis:url="http://www.mstarz.com/articles/42284/20141117/monday-night-raw-results-11-17-14-wwe-recap-november.htm" addthis:title=""><i><span>facebook</span></i><span class="num fb_cont_42284"></span></a>
+		<a class="addthis_button_twitter_42284 tw" addthis:url="http://www.mstarz.com/articles/42284/20141117/monday-night-raw-results-11-17-14-wwe-recap-november.htm" addthis:title=""><i><span>tweet</span></i><span class="num tw_cont_42284"></span></a>
     </div>
 </div>
-<script>addthisReady(31827, "http://www.mstarz.com/articles/31827/20140609/monday-night-raw-results-6-9-14-wwe-recap-june.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_42284);
+function addthisReady_42284() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/42284/20141117/monday-night-raw-results-11-17-14-wwe-recap-november.htm'}, function(obj) {
+		$( ".fb_cont_42284" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/42284/20141117/monday-night-raw-results-11-17-14-wwe-recap-november.htm'}, function(obj) {
+		$( ".tw_cont_42284" ).html( obj.count );
+	});
+}
+</script>
+<script>//addthisReady(42284, "http://www.mstarz.com/articles/42284/20141117/monday-night-raw-results-11-17-14-wwe-recap-november.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32150/20140616/monday-night-raw-results-6-16-14-wwe-recap-june.htm"><img src="http://images.mstarz.com/data/images/full/25730/monday-night-raw.png?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Monday Night Raw"></a></p>
-    <h3 class="title"><a href="/articles/32150/20140616/monday-night-raw-results-6-16-14-wwe-recap-june.htm">Monday Night Raw Results 6/16/14</a></h3>
+	<p class="photo"><a href="/articles/43968/20141208/monday-night-raw-results-12-8-14-wwe-recap-december.htm"><img src="http://images.mstarz.com/data/images/full/40636/monday-night-raw-12-8-14.png?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Monday Night Raw 12/8/14"></a></p>
+    <h3 class="title"><a href="/articles/43968/20141208/monday-night-raw-results-12-8-14-wwe-recap-december.htm">Monday Night Raw Results 12/8/14</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook_32150 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32150%2F20140616%2Fmonday-night-raw-results-6-16-14-wwe-recap-june.htm" addthis:title=""><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter_32150 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32150%2F20140616%2Fmonday-night-raw-results-6-16-14-wwe-recap-june.htm" addthis:title=""><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook_43968 fb" addthis:url="http://www.mstarz.com/articles/43968/20141208/monday-night-raw-results-12-8-14-wwe-recap-december.htm" addthis:title=""><i><span>facebook</span></i><span class="num fb_cont_43968"></span></a>
+		<a class="addthis_button_twitter_43968 tw" addthis:url="http://www.mstarz.com/articles/43968/20141208/monday-night-raw-results-12-8-14-wwe-recap-december.htm" addthis:title=""><i><span>tweet</span></i><span class="num tw_cont_43968"></span></a>
     </div>
 </div>
-<script>addthisReady(32150, "http://www.mstarz.com/articles/32150/20140616/monday-night-raw-results-6-16-14-wwe-recap-june.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_43968);
+function addthisReady_43968() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/43968/20141208/monday-night-raw-results-12-8-14-wwe-recap-december.htm'}, function(obj) {
+		$( ".fb_cont_43968" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/43968/20141208/monday-night-raw-results-12-8-14-wwe-recap-december.htm'}, function(obj) {
+		$( ".tw_cont_43968" ).html( obj.count );
+	});
+}
+</script>
+<script>//addthisReady(43968, "http://www.mstarz.com/articles/43968/20141208/monday-night-raw-results-12-8-14-wwe-recap-december.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/31462/20140602/monday-night-raw-results-6-2-14-wwe-recap-june.htm"><img src="http://images.mstarz.com/data/images/full/24704/money-in-the-bank-2014.png?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Money in the Bank 2014"></a></p>
-    <h3 class="title"><a href="/articles/31462/20140602/monday-night-raw-results-6-2-14-wwe-recap-june.htm">Monday Night Raw Results 6/2/14</a></h3>
+	<p class="photo"><a href="/articles/43831/20141205/big-bang-theory-star-mayim-bialik-isnt-nerdy-meghan-trainor.htm"><img src="http://images.mstarz.com/data/images/full/40459/mayim-bialik-not-as-nerdy-as-youd-think.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Mayim Bialik Not as Nerdy As You'd Think "></a></p>
+    <h3 class="title"><a href="/articles/43831/20141205/big-bang-theory-star-mayim-bialik-isnt-nerdy-meghan-trainor.htm">'Big Bang Theory' Star Mayim Bialik Isn't As Nerdy As You'd Think — Find Out Why!</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook_31462 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F31462%2F20140602%2Fmonday-night-raw-results-6-2-14-wwe-recap-june.htm" addthis:title=""><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter_31462 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F31462%2F20140602%2Fmonday-night-raw-results-6-2-14-wwe-recap-june.htm" addthis:title=""><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook_43831 fb" addthis:url="http://www.mstarz.com/articles/43831/20141205/big-bang-theory-star-mayim-bialik-isnt-nerdy-meghan-trainor.htm" addthis:title=""><i><span>facebook</span></i><span class="num fb_cont_43831"></span></a>
+		<a class="addthis_button_twitter_43831 tw" addthis:url="http://www.mstarz.com/articles/43831/20141205/big-bang-theory-star-mayim-bialik-isnt-nerdy-meghan-trainor.htm" addthis:title=""><i><span>tweet</span></i><span class="num tw_cont_43831"></span></a>
     </div>
 </div>
-<script>addthisReady(31462, "http://www.mstarz.com/articles/31462/20140602/monday-night-raw-results-6-2-14-wwe-recap-june.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_43831);
+function addthisReady_43831() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/43831/20141205/big-bang-theory-star-mayim-bialik-isnt-nerdy-meghan-trainor.htm'}, function(obj) {
+		$( ".fb_cont_43831" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/43831/20141205/big-bang-theory-star-mayim-bialik-isnt-nerdy-meghan-trainor.htm'}, function(obj) {
+		$( ".tw_cont_43831" ).html( obj.count );
+	});
+}
+</script>
+<script>//addthisReady(43831, "http://www.mstarz.com/articles/43831/20141205/big-bang-theory-star-mayim-bialik-isnt-nerdy-meghan-trainor.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/32521/20140623/monday-night-raw-results-6-23-14-wwe-recap-june.htm"><img src="http://images.mstarz.com/data/images/full/26187/daniel-bryan-money-in-the-bank.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Daniel Bryan Money in the Bank"></a></p>
-    <h3 class="title"><a href="/articles/32521/20140623/monday-night-raw-results-6-23-14-wwe-recap-june.htm">Monday Night Raw Results 6/23/14</a></h3>
+	<p class="photo"><a href="/articles/43298/20141201/monday-night-raw-preview-12-1-14-wwe-anonymous-general.htm"><img src="http://images.mstarz.com/data/images/full/39691/monday-night-raw-anonymous-gm.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Monday Night Raw Anonymous GM"></a></p>
+    <h3 class="title"><a href="/articles/43298/20141201/monday-night-raw-preview-12-1-14-wwe-anonymous-general.htm">Monday Night Raw Preview 12/1/14</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook_32521 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32521%2F20140623%2Fmonday-night-raw-results-6-23-14-wwe-recap-june.htm" addthis:title=""><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter_32521 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F32521%2F20140623%2Fmonday-night-raw-results-6-23-14-wwe-recap-june.htm" addthis:title=""><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook_43298 fb" addthis:url="http://www.mstarz.com/articles/43298/20141201/monday-night-raw-preview-12-1-14-wwe-anonymous-general.htm" addthis:title=""><i><span>facebook</span></i><span class="num fb_cont_43298"></span></a>
+		<a class="addthis_button_twitter_43298 tw" addthis:url="http://www.mstarz.com/articles/43298/20141201/monday-night-raw-preview-12-1-14-wwe-anonymous-general.htm" addthis:title=""><i><span>tweet</span></i><span class="num tw_cont_43298"></span></a>
     </div>
 </div>
-<script>addthisReady(32521, "http://www.mstarz.com/articles/32521/20140623/monday-night-raw-results-6-23-14-wwe-recap-june.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_43298);
+function addthisReady_43298() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/43298/20141201/monday-night-raw-preview-12-1-14-wwe-anonymous-general.htm'}, function(obj) {
+		$( ".fb_cont_43298" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/43298/20141201/monday-night-raw-preview-12-1-14-wwe-anonymous-general.htm'}, function(obj) {
+		$( ".tw_cont_43298" ).html( obj.count );
+	});
+}
+</script>
+<script>//addthisReady(43298, "http://www.mstarz.com/articles/43298/20141201/monday-night-raw-preview-12-1-14-wwe-anonymous-general.htm");</script>
 <div class="s-con2">
-	<p class="photo"><a href="/articles/31121/20140526/monday-night-raw-results-5-26-14-wwe-2014-daniel.htm"><img src="http://images.mstarz.com/data/images/full/24295/evolution-vs-the-shield.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Evolution vs. The Shield"></a></p>
-    <h3 class="title"><a href="/articles/31121/20140526/monday-night-raw-results-5-26-14-wwe-2014-daniel.htm">Monday Night Raw Results 5/26/14</a></h3>
+	<p class="photo"><a href="/articles/43383/20141201/monday-night-raw-results-12-1-14-wwe-recap-tlc.htm"><img src="http://images.mstarz.com/data/images/full/39806/monday-night-raw-12-1-14.jpg?w=88&amp;h=88&amp;l=50&amp;t=40" width="88" alt="Monday Night Raw 12/1/14"></a></p>
+    <h3 class="title"><a href="/articles/43383/20141201/monday-night-raw-results-12-1-14-wwe-recap-tlc.htm">Monday Night Raw Results 12/1/14</a></h3>
     <div class="sns">
-    	<a class="addthis_button_facebook_31121 fb" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F31121%2F20140526%2Fmonday-night-raw-results-5-26-14-wwe-2014-daniel.htm" addthis:title=""><i><span>facebook</span></i><span class="num"></span></a>
-		<a class="addthis_button_twitter_31121 tw" addthis:url="http%3A%2F%2Fwww.mstarz.com%2Farticles%2F31121%2F20140526%2Fmonday-night-raw-results-5-26-14-wwe-2014-daniel.htm" addthis:title=""><i><span>tweet</span></i><span class="num"></span></a>
+    	<a class="addthis_button_facebook_43383 fb" addthis:url="http://www.mstarz.com/articles/43383/20141201/monday-night-raw-results-12-1-14-wwe-recap-tlc.htm" addthis:title=""><i><span>facebook</span></i><span class="num fb_cont_43383"></span></a>
+		<a class="addthis_button_twitter_43383 tw" addthis:url="http://www.mstarz.com/articles/43383/20141201/monday-night-raw-results-12-1-14-wwe-recap-tlc.htm" addthis:title=""><i><span>tweet</span></i><span class="num tw_cont_43383"></span></a>
     </div>
 </div>
-<script>addthisReady(31121, "http://www.mstarz.com/articles/31121/20140526/monday-night-raw-results-5-26-14-wwe-2014-daniel.htm");</script>
+<script>
+addthis.addEventListener('addthis.ready', addthisReady_43383);
+function addthisReady_43383() {
+	addthis.sharecounters.getShareCounts({service: 'facebook', countUrl: 'http://www.mstarz.com/articles/43383/20141201/monday-night-raw-results-12-1-14-wwe-recap-tlc.htm'}, function(obj) {
+		$( ".fb_cont_43383" ).html( obj.count );
+	});
+	addthis.sharecounters.getShareCounts({service: 'twitter', countUrl: 'http://www.mstarz.com/articles/43383/20141201/monday-night-raw-results-12-1-14-wwe-recap-tlc.htm'}, function(obj) {
+		$( ".tw_cont_43383" ).html( obj.count );
+	});
+}
+</script>
+<script>//addthisReady(43383, "http://www.mstarz.com/articles/43383/20141201/monday-night-raw-results-12-1-14-wwe-recap-tlc.htm");</script>
 </div>
 
 		 	</div>
@@ -690,17 +947,17 @@ $('#side-letter input[type="button"]').click(function(){
 			<div class="f-con3">
             	<h4 class="sec-ttl4">more, more, more</h4>
             	                <div class="list">
-                	<p class="photo"><a href="http://www.musictimes.com/articles/7096/20140625/kesha-opens-up-about-eating-disorder-and-rehab.htm"><span class="caty2">musictimes</span><img src="http://images.musictimes.com/data/images/full/6045/kesha-on-teen-vogue-cover.jpg?w=260&amp;h=173&amp;l=40&amp;t=7" width="260" alt="Kesha on Teen Vogue Cover"></a></p>
-                    <h3 class="ttl"><a href="http://www.musictimes.com/articles/7096/20140625/kesha-opens-up-about-eating-disorder-and-rehab.htm">Kesha Opens Up About Eating Disorder And Rehab</a></h3>
+                	<p class="photo"><a href="http://www.musictimes.com/articles/11208/20141002/interpol-guitarist-daniel-kessler-forms-experimental-duo-big-noble-debut-album-out-next-year-joseph-fraioli.htm"><span class="caty2">musictimes</span><img src="http://images.musictimes.com/data/images/full/9679/daniel-kessler-of-interpol.jpg?w=260&amp;h=173&amp;l=40&amp;t=7" width="260" alt="Daniel Kessler of Interpol"></a></p>
+                    <h3 class="ttl"><a href="http://www.musictimes.com/articles/11208/20141002/interpol-guitarist-daniel-kessler-forms-experimental-duo-big-noble-debut-album-out-next-year-joseph-fraioli.htm">Interpol Guitarist Daniel Kessler Forms Experimental Duo Big Noble, Debut Album Out Next Year [WATCH]</a></h3>
                 </div>                <div class="list">
-                	<p class="photo"><a href="http://www.classicalite.com/articles/9353/20140626/cw-fall-lineup-originals-season-2-premiere-date-announced-phoebe.htm"><span class="caty2">classicalite</span><img src="http://images.classicalite.com/data/images/full/4826/the-originals.jpeg?w=260&amp;h=173&amp;l=40&amp;t=7" width="260" alt="The Originals "></a></p>
-                    <h3 class="ttl"><a href="http://www.classicalite.com/articles/9353/20140626/cw-fall-lineup-originals-season-2-premiere-date-announced-phoebe.htm">CW Fall Lineup: ‘Originals’ Season 2 Premiere Date Announced, Phoebe Tonkin Talks Hayley Spoilers and New Cast Update</a></h3>
+                	<p class="photo"><a href="http://www.musictimes.com/articles/11217/20141002/wow-hits-2015-wows.htm"><span class="caty2">musictimes</span><img src="http://images.musictimes.com/data/images/full/9692/wow-hits-2015.jpg?w=260&amp;h=173&amp;l=40&amp;t=7" width="260" alt="WOW Hits 2015"></a></p>
+                    <h3 class="ttl"><a href="http://www.musictimes.com/articles/11217/20141002/wow-hits-2015-wows.htm">'WOW Hits 2015' Wows</a></h3>
                 </div><p class="hid"></p>                <div class="list">
-                	<p class="photo"><a href="http://www.musictimes.com/articles/7095/20140625/iggy-azalea-charli-xcx-lead-another-fancy-hot-100-nico.htm"><span class="caty2">musictimes</span><img src="http://images.musictimes.com/data/images/full/5510/charli-xcx-and-iggy-azalea-performing-fancy-at-bbmas-pt-2.jpg?w=260&amp;h=173&amp;l=40&amp;t=7" width="260" alt="Charli XCX and Iggy Azalea performing " fancy"="" at="" bbmas="" pt="" 2"=""></a></p>
-                    <h3 class="ttl"><a href="http://www.musictimes.com/articles/7095/20140625/iggy-azalea-charli-xcx-lead-another-fancy-hot-100-nico.htm">Iggy Azalea, Charli XCX Lead Another 'Fancy' Hot 100: Nico &amp; Vinz, Sam Smith Break Top 5</a></h3>
+                	<p class="photo"><a href="http://www.classicalite.com/articles/13321/20141210/hit-musical-matilda-recoups-broadway.htm"><span class="caty2">classicalite</span><img src="http://images.classicalite.com/data/images/full/9075/matilda.jpg?w=260&amp;h=173&amp;l=40&amp;t=7" width="260" alt="Matilda"></a></p>
+                    <h3 class="ttl"><a href="http://www.classicalite.com/articles/13321/20141210/hit-musical-matilda-recoups-broadway.htm">Hit Musical 'Matilda' Recoups on Broadway</a></h3>
                 </div>                <div class="list2">
-                	<p class="photo"><a href="http://www.classicalite.com/articles/9351/20140626/new-powerball-lottery-winning-numbers-results-wednesday-june-25-check.htm"><span class="caty2">classicalite</span><img src="http://images.classicalite.com/data/images/full/3319/lottery-ticket.jpg?w=260&amp;h=173&amp;l=40&amp;t=7" width="260" alt="Lottery Ticket"></a></p>
-                    <h3 class="ttl"><a href="http://www.classicalite.com/articles/9351/20140626/new-powerball-lottery-winning-numbers-results-wednesday-june-25-check.htm">New Powerball Lottery Winning Numbers Results for Wednesday June 25, Check To See If You Won $70 Million</a></h3>
+                	<p class="photo"><a href="http://www.classicalite.com/articles/13323/20141210/violinist-lindsey-stirling-focus-ovation-music-documentary-series-song-by-song.htm"><span class="caty2">classicalite</span><img src="http://images.classicalite.com/data/images/full/9076/lindsey-stirling.jpg?w=260&amp;h=173&amp;l=40&amp;t=7" width="260" alt="Lindsey Stirling"></a></p>
+                    <h3 class="ttl"><a href="http://www.classicalite.com/articles/13323/20141210/violinist-lindsey-stirling-focus-ovation-music-documentary-series-song-by-song.htm">Violinist Lindsey Stirling Is the Focus of Ovation's Music Documentary Series 'Song by Song'</a></h3>
                 </div>            </div><!-- /f-con3 -->
 
 			<div class="f-con4"><a href="//www.musictimes.com/" target="_blank"><img src="http://assets.mstarz.com/static/common/_v0.0.0/images/lg-musictimes.png" width="202" height="22" alt="Music Times"></a><a href="//www.classicalite.com/" target="_blank"><img src="http://assets.mstarz.com/static/common/_v0.0.0/images/lg-classicalite.png" width="139" height="22" alt="Classicalite"></a></div><!-- /f-con4 -->
@@ -719,8 +976,10 @@ $('#side-letter input[type="button"]').click(function(){
     </div><!-- /col2 -->
 </footer>
 
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-timeago/1.1.0/jquery.timeago.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-timeago/1.4.0/jquery.timeago.min.js"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
+<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+
 <div class="popup_bg" style="display:none;">
     <div class="popup_box">
         <div class="close2"><a href="javascript:void(0);"><span>close</span></a></div> <!-- //close -->
@@ -750,7 +1009,7 @@ if(!$.cookie('nl_popup')){
 }
 </script>
 <script>
-var aday=Math.floor(Date.now()/1000);$('.timeago').each(function(index){if($(this).attr('timestamp')>aday-86400){$(this).timeago();}});
+var aday=Math.floor(Date.now()/1000);$('.timeago').each(function(index){if($(this).attr('timestamp')>aday-86400){$(this).timeago();}}); $('time.timeago').timeago();
 $('#hd-letter input[type="button"], #art-letter input[type="button"], #art-letter2 input[type="button"], #ft-letter input[type="button"]').click(function(){
    parent_id = $(this).attr('data-nid');
    $.ajax({
@@ -766,10 +1025,13 @@ $(window).scroll(function(){
 	}
 });
 
+$('img.lazy').lazyload({ failure_limit : 100 });
 </script>
-
-
-
+<div id="div-gpt-ad-mstarz-oop1">
+	<script type="text/javascript">
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-mstarz-oop1'); });
+	</script>
+</div>
 <!-- start getclicky code -->
 <div style="display:none;">
 			<img alt="Real Time Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0">
@@ -841,6 +1103,7 @@ __compete_code = '32d517227919f032b264f066c4cd1186';
 <script type="text/javascript" src="//c.compete.com/bootstrap/s/32d517227919f032b264f066c4cd1186/mstarz-com/bootstrap.js"></script>
 <!-- End of compete Code -->
 
+
 <script type="text/javascript">
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setCustomVar',2,'pagetype','design',3]);
@@ -853,16 +1116,14 @@ _gaq.push(['_trackPageview']);
 
 		    (function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	</script>
-
-<script type="text/javascript" src="http://assets.mstarz.com/static/js/common/article.js"></script>
-
-
-
 <!-- Start of addthis Code -->
-<script type="text/javascript">var addthis_config = addthis_config||{}; addthis_config.data_track_clickback = false;</script>
-	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5249c3900ca293e8"></script><!-- End of addthis Code -->
+<!-- End of addthis Code -->
+
+<script>setTimeout(function(){window.location.reload();},600000);</script><script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
 </body></html>
