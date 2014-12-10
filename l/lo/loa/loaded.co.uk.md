@@ -1,47 +1,87 @@
-> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501192355id_/http%3A//www.vitalitypublishing.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210122158id_/http%3A//loaded.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Vitality Publishing | Privacy Policy
+# Privacy Policy | Loaded | The Original Men's Magazine
 
-For the purpose of this statement ‘Website’ refers to the site that you are accessing this Privacy Policy from. 
+Simian Publishing Limited is committed to protecting your privacy.
 
-Last Updated and Effective from: 30/Aug/2010 
+We have prepared this Privacy Policy to describe our practices regarding the data we collect.
 
-Your privacy and trust are very important to Vitality Publishing. This Privacy Policy describes the information that we collect from you, how we collect this, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. 
+**1\. What Information We Collect**
 
-Please Note: Vitality Publishing reserves the right to make changes to the Privacy Policy at any time. The latest version will always be available from a link on the Website. 
+Simian Publishing Limited collects Personal Data and Anonymous Data when you visit loaded.co.uk, our social media sites and when you contact us.
 
-You may be able to access third party websites directly from the Website. This Privacy Policy does not apply when you access third party websites. 
+“Personal Data” means data that allows someone to identify you for example, your name, address or telephone number as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data.
 
-**Information We Collect and How We Use It**
+“Anonymous Data” means data that is not associated with or linked to your Personal Data. Anonymous Data does not permit the identification of individuals.
 
-When you place an order, or use any online form on our website we will ask for your name and other information such as your postal address, e-mail address, telephone number and your credit card number and expiry date or bank account details etc to allow us to process your request. Only relevant information will be used by us, our agents and sub-contractors to facilitate the service you have requested and potentially communicate with you on any concerns arising to the provision of the service in general. 
+**2\. How We Collect Personal Data**
 
-We use analytic and reporting technologies to record and collect non-personal information from you. This information, such as your browser type, the URL of the previous website you visited, your ISP, operating system, and your Internet protocol (IP) Address, cannot be easily used to personally identify you. Vitality Publishing reserves the right to use partners, who may use web beacons and cookies to help manage, monitor and optimise our Website to help us measure the effectiveness of our advertising, communications and how visitors use the Website. 
+We collect Personal Data from you such as your name and contact details when you register on our site or when you choose to use the various services we provide.
 
-**How Is My Personal Information Protected?**
+We also collect other types of Personal Data that you provide to us voluntarily, for instance, when you enter a competition. If you provide us feedback regarding our site or services via e-mail, we will collect your name and e-mail address in order to send you a reply.
 
-Whenever we obtain your personal information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. However, we are not insurers of the security of your personal information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorised third party access or other acts of third parties, or acts or omissions beyond our reasonable control. 
+In order to improve our services to you, we may ask you to voluntarily complete confidential surveys. We do not ask you to provide us any personally identifiable data in association with these surveys although we do associate your responses with Personal Data.
 
-**Website Content.**
+**3\. How The Information Is Used**
 
-The content that you store, post, or transmit on or through the Website, such as forum postings or images, may be accessed by other users, including people that you do not know. We are not responsible for the actions of others. Therefore, you should use care in communicating with other users and only disclose your personal information to other users that you know to be trustworthy. You should not assume that your content will be kept private. 
+Simian Publishing Limited uses your Personal Data to provide you with a customised Web experience and to provide services to you. Such services include sending you marketing messages if you have given us permission to do so and processing your responses to competitions.
 
-**Security**
+We also use Personal Data for customer service messages, and to notify you about updates to our services and to respond to your requests. We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you.
 
-The security of your personal information is important to us. When you enter sensitive information such as a credit card number on our registration or order forms, we encrypt that information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+We use this Anonymous Data to perform statistical analyses of users’ aggregate behaviour so that we may enhance the content of our services and improve site navigation. Simian Publishing Limited reserves the right to use and disclose Anonymous Data to third parties at its discretion, in aggregate form.
 
-**Children Under 13**
+If you elect to receive communications from us we may periodically send you free newsletters and e-mails that directly promote the use of our site and may contain advertisements for third parties.
 
-The Website is intended for users ages 13 and older. Accordingly, we will not knowingly collect or use any personal information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13. In some instances a child of 13 or under can use the Website but with the authority of a parent or legal guardian. 
+**4\. How Personal Data Is Shared With Other Companies**
 
-**Children Aged 13 to 17**
+Except as otherwise stated in this Privacy Policy and in our Privacy Notices where you give us your consent, we do not sell, trade, or rent the Personal Data collected from our services to third parties. However, we will share your Personal Data with our third party suppliers who need to process your data in order to fulfill your request, such as to charge your credit card (if authorised by you), fill your order, and deliver electronic newsletters and promotional e-mails.
 
-Prospective users between the ages of 13 and 17 can only use the Website under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate your use on areas of the Website that require personal information. 
+These third parties are required under contract not to use your Personal Data other than to provide the services requested by Simian Publishing Limited and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care. You expressly consent to the sharing of your Personal Data with our contractors and third party service providers for the purpose of providing services to you.
 
-**Disclosure of Information to Successors**
+If you send a testimonial or comment to us, we may post it on our site or use it in advertising materials. We will attribute your testimonial to you by posting your first and last initial or your first name and last initial next to your testimonial on our site or advertising materials, if provided.
 
-We may disclose your personal information to any successor-in-interest of ours, such as a company that acquires us. In the event Vitality Publishing goes through a business transition, such as a merger or acquisition by or with another company, or sale of all or a portion of our assets, your personal information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information. 
+Regardless of any choices you make regarding your Personal Data Simian Publishing Limited may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) protect or defend the rights or property of Simian Publishing Limited or users of our services.
 
-**Disclosure of Information to Unaffiliated Third Parties.**
+**  5\. Keeping Details Up To Date & Marketing Communications**
 
-We may disclose your personal information to prevent an emergency, to prevent harm to others, to respond to legal requirements, to protect or enforce our rights and policies, to protect or enforce the rights of a third party, or as required or permitted by law (including, without limitation, to comply with a subpoena or court order). 
+Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail and postal address. In the event that the last e-mail or postal address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our despatch containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+
+We offer you choices regarding the collection, use, and sharing of your Personal Data. When you register to our site or respond to one of our communications, we will ask you if you want to receive future communications from us.
+
+You may indicate consent to receipt of these communications by entering your personal details and choosing what information you would like to receive, or by not ticking the opt-out box provided. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive.
+
+**6\. External Websites**
+
+Except as otherwise expressly provided in this Privacy Policy only Simian Publishing Limited and its affiliate companies collect Personal Data through the services provided solely by Simian Publishing Limited; this Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our services.
+
+When you click on advertisements or links on loaded.co.uk, you will leave that site and go to another site. During this process, a third party may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address.
+
+**7\. Social Media & Other Third Parties**
+
+We work with trusted third parties, including social network sites such as Facebook. Other social networks we use include Twitter, You Tube and Instagram – all of these companies operate Third Party Sites. We provide access to our Sites by third parties and business partners so we can generate interest in our products and services among members of your social networks and to allow you to share products and service interests with your network.
+
+We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on relevant social networking sites.
+
+**8\. How Personal Data Is Kept Secure**
+
+Your Personal Data may be processed both in and outside of your own country. When you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. Simian Publishing Limited and affiliates are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorised access, use, or disclosure.
+
+Even though Simian Publishing Limited takes significant steps to ensure that your Personal Data is not intercepted, accessed, used, or disclosed by unauthorised persons, you should know that Simian Publishing Limited cannot eliminate security risks associated with Personal Data.
+
+**9\. Access To Personal Data**
+
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to see the information that we hold about you, please contact us in writing: 23 – 24 Margaret Street, London, W1W 8RU. We reserve the right to charge a statutory fee of £10 for this service and we are legally obliged to request identification to demonstrate that you are entitled to receive the requested data.
+
+**10\. Questions Regarding This Policy**
+
+Simian Publishing Limited welcomes your comments or questions regarding this Privacy Policy. Please contact us in writing: 23 – 24 Margaret Street, London, W1W 8RU
+
+**11\. Changes To This Policy**
+
+This Privacy Policy will be reviewed on a regular basis. If we make material changes in the way we collect, use, and/or share your Personal Data, we may notify you by sending an e-mail to the last e-mail address you provided to us, by writing to your last known postal address and/or posting notice of the changes on our site.
+
+_____
+
+_Simian Publishing Limited (Registered in England 08704795) is  registered at Clarendon House, Shenley Road, Borehamwood, Herts, WD6 1AG_
+
+_Site(s) referred to above means the website(s) owned and operated by Simian Publishing Limited._
