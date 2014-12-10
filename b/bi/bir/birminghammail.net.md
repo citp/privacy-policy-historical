@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birminghammail.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602191223id_/http%3A//www.birminghammail.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birminghammail.net privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210012738id_/http%3A//www.birminghammail.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Birmingham news, features, information and sport from the Birmingham Mail
 
