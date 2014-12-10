@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalhouses.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234034id_/http%3A//www.rentalhouses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalhouses.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210204151id_/http%3A//www.rentalhouses.com/privacy-policy) for the most accurate reproduction.*
 
 # RentalHouses.com Houses for rent, search homes or Houses for rent.
 
