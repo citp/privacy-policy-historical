@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the talentwise.com privacy policy that was archived on 2012-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120713113310id_/http%3A//www.talentwise.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentwise.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210033931id_/http%3A//www.talentwise.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TalentWise
 
 **Effective March 2012 | Last updated March 15, 2012**
 
-TalentWise Solutions LLC respects your right to privacy and we are committed to protecting it. This statement discloses the information practices for the web pages associated with the domain www.talentwise.com (the "website") and any applications, pages, or groups that are operated by us (the "Applications") on a social networking site such as Facebook, including what type of personal information we gather and track, how we use this personal information, and with whom we share the personal information.
+[](http://privacy.truste.com/privacy-seal/Talentwise/validation?rid=963a4326-cd5b-4dd6-849e-03f82cd39d12)
+
+TalentWise, Inc. respects your right to privacy and we are committed to protecting it. This statement discloses the information practices for the web pages associated with the domain www.talentwise.com (the "website") and any applications, pages, or groups that are operated by us (the "Applications") on a social networking site such as Facebook, including what type of personal information we gather and track, how we use this personal information, and with whom we share the personal information.
 
 Please note that this privacy policy, as it relates to our collection of information via our Applications, applies only to our Applications and not to your activities on the social networking site generally. Each social networking site's collection and use of your personal information when you use the social networking site is governed by that social networking site's privacy policy, which we ask that you also read and accept.
 
@@ -99,7 +101,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 ## Enforcement and Contact Information
 
-We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to us by sending an email to our Compliance Manager, Ele Macapia, at [emacapia@talentwise.com](mailto:emacapia@talentwise.com), by calling our Compliance team at 425.974.8770 or by writing us at Privacy c/o TalentWise Solutions LLC, 19800 North Creek Parkway, Suite 200, Bothell, WA 98011. It is our policy to contact the complaining user regarding his or her concerns.
+We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to us by sending an email to our Compliance Manager, Ele Macapia, at [emacapia@talentwise.com](mailto:emacapia@talentwise.com), by calling our Compliance team at 425.974.8770 or by writing us at Privacy c/o TalentWise, Inc. 19910 North Creek Parkway, Suite 200, Bothell, WA 98011. It is our policy to contact the complaining user regarding his or her concerns. 
 
 ## Changes to this Policy
 
