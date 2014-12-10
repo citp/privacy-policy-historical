@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemkind.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311070538id_/http%3A//www.chemkind.com/aboutus.html%3Fmethod%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemkind.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210052200id_/http%3A//www.chemkind.com/aboutus.html%3Fmethod%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ChemKind.com
 
