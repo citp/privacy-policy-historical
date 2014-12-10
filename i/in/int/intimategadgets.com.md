@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intimategadgets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230013id_/http%3A//www.intimategadgets.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intimategadgets.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210195429id_/http%3A//www.intimategadgets.com/doc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy丨IntimateGadgets.com
 
