@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vpnunlimitedapp.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223612id_/https%3A//www.vpnunlimitedapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnunlimitedapp.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210010745id_/https%3A//www.vpnunlimitedapp.com/privacy) for the most accurate reproduction.*
 
 # VPN Unlimited - Privacy Policy
-
-### PRIVACY POLICY
 
 #### Personal Information Collection
 
@@ -18,7 +16,7 @@ On registration:
 
 
 
-**VPN Unlimited does not collect or log any traffic or use of its Virtual Private Network ("VPN").**
+VPN Unlimited service client app may also require access to the Contacts email addresses on your device in order to give you the possibility to invite them to use the service and get bonus subscriptions. VPN Unlimited service doesn’t send any unsolicited emails or disclose these addresses to any third parties. 
 
 #### Maintenance of Information
 
@@ -40,9 +38,12 @@ By using this website and/or services, you consent to this privacy policy and an
 
 #### REFUND POLICY
 
-Our support team will be happy to help you with any technical difficulties. Simply email us at support@simplexsolutionsinc.com. If you are not completely satisfied with our services, you are entitled to a full refund with the following provisions: 
+Our support team will be happy to help you with any technical difficulties. Simply email us at [support@simplexsolutionsinc.com](mailto:support@simplexsolutionsinc.com). If you are not completely satisfied with our services, you are entitled to a full refund with the following provisions:
 
-  * As we currently only accept Apple In-App Purchases, refunds can only be claimed from Apple ([https://expresslane.apple.com](https://expresslane.apple.com/)).
+  * We currently accept: 
+    * Apple In-App Purchases refunds can be claimed from Apple ([https://expresslane.apple.com](https://expresslane.apple.com/)).
+    * Amazon purchases refunds can be claimed from Amazon (<http://www.amazon.com/gp/css/returns/homepage.html>).
+    * PayPal purchases refunds can be claimed in your PayPal web cabinet in the purchase Details.
   * We will notify you by email once your refund is due. It can take up to 10 days after the time of cancellation to receive this.
 
 
