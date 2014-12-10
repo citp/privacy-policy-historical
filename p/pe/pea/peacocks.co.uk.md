@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the peacocks.co.uk privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606210317id_/http%3A//www.peacocks.co.uk/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacocks.co.uk privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211004257id_/http%3A//www.peacocks.co.uk/security) for the most accurate reproduction.*
 
 # Security & Privacy | Peacocks
-
-## Security & privacy
 
 We will treat your personal information as confidential (although we reserve the right to disclose this information in the circumstances set out below). We will keep information on a secure server and fully comply with all applicable UK Data Protection and consumer legislation in place.
 
