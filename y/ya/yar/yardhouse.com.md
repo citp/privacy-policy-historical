@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the yardhouse.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511132802id_/http%3A//www.yardhouse.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardhouse.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211001252id_/http%3A//www.yardhouse.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Yard House Restaurant - Privacy Policy
 
 **ONLINE PRIVACY NOTICE**  
-Effective Date: April 25, 2014 
+Effective Date: August 20, 2014 
 
 We at Darden Corporation, along with our affiliates (collectively, “Darden”), respect your concerns about privacy. This Privacy Notice applies to personal information we collect on the Darden websites on which we have posted this Privacy Notice (collectively, the “Sites”). 
 
@@ -114,8 +114,8 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 **How To Contact Us**   
 If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by: 
 
-Email: [privacy@darden.com](mailto:privacy@darden.com)   
+Email: [ComplianceEthics@darden.com](mailto:ComplianceEthics@darden.com)   
 Phone: 407-245-5397, ext. 7   
-Writing to: Darden Restaurants, Inc. • Attn: Privacy Department c/o Compliance & Ethics Office • 1000 Darden Center Drive • Orlando, FL 32837 
+Writing to: Darden Restaurants, Inc. • Attn: Elizabeth Yost c/o Compliance & Ethics Office • 1000 Darden Center Drive • Orlando, FL 32837 
 
 Please note that on occasion, third parties unaffiliated with us may conduct marketing campaigns where they offer gift cards to our restaurants, which they have purchased separately, as inducements to enroll in their programs, complete surveys or take other actions. In such cases, requests directed to us to opt out of further communications will not be effective, as we have no control over the activities of such third parties. 
