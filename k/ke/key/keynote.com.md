@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keynote.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502040935id_/http%3A//www.keynote.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keynote.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210204143id_/http%3A//www.keynote.com/legal/privacy) for the most accurate reproduction.*
 
-# Keynote Systems
+# Privacy Policy | Keynote Systems
 
-Keynote Systems, Inc. (“Keynote”) respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains our treatment of your personal information collected by Keynote. We urge you to read this Privacy Policy carefully and to check back periodically as this Privacy Policy may change from time to time. 
+Keynote Systems, Inc. (“Keynote”) respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains our treatment of your personal information collected by Keynote. We urge you to read this Privacy Policy carefully and to check back periodically as this Privacy Policy may change from time to time.
 
 **Collection of Personal Information**
 
@@ -12,22 +12,25 @@ Information that can be used to uniquely identify or contact a single person is 
 
 We may use personal information for various purposes as follows:
 
-  * The personal information we collect allows us to keep you posted on Keynote’s latest product announcements, updates, and upcoming events. It also helps us to market to you our products, services, content, and advertising. 
-  * We also use personal information to help us develop, deliver, and improve our services, products, services, content, and advertising.
-  * We use personal information for the invoicing and related communications for purchases of our products and services.
-  * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. 
-  * We may also use personal information for internal purposes such as data analysis, and research to improve Keynote’s services, products, marketing and customer communications. 
-  * If you sign-up for or enter into a marketing or sales promotion we may use the personal information you provide to administer those programs as well as for any purpose set forth herein and as may be specified in that particular marketing/sales promotion. 
+The personal information we collect allows us to keep you posted on Keynote’s latest product announcements, updates, and upcoming events. It also helps us to market to you our products, services, content, and advertising.
 
+We also use personal information to help us develop, deliver, and improve our services, products, services, content, and advertising. 
 
+We use personal information for the invoicing and related communications for purchases of our products and services.
 
-Depending upon how an individual provides personal information to Keynote, he or she may be presented with the opportunity to indicate whether he or she would like to "opt-out" of receiving promotional and/or marketing information about other products and services from Keynote. An individual can also at any time opt-out of receiving promotional and marketing information by contacting Keynote as set forth below. Notwithstanding any opt-out of receiving marketing and/or promotional information by an individual, Keynote reserves the right to use personal information to contact a customer regarding account status, changes to a Keynote agreement, to meet Keynote’s support or warranty obligations and other matters relevant to use of the underlying Keynote product or service purchased and/or used by the customer. 
+From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. 
+
+We may also use personal information for internal purposes such as data analysis, and research to improve Keynote’s services, products, marketing and customer communications.
+
+If you sign-up for or enter into a marketing or sales promotion we may use the personal information you provide to administer those programs as well as for any purpose set forth herein and as may be specified in that particular marketing/sales promotion. 
+
+Depending upon how an individual provides personal information to Keynote, he or she may be presented with the opportunity to indicate whether he or she would like to "opt-out" of receiving promotional and/or marketing information about other products and services from Keynote. An individual can also at any time opt-out of receiving promotional and marketing information by contacting Keynote as set forth below. Notwithstanding any opt-out of receiving marketing and/or promotional information by an individual, Keynote reserves the right to use personal information to contact a customer regarding account status, changes to a Keynote agreement, to meet Keynote’s support or warranty obligations and other matters relevant to use of the underlying Keynote product or service purchased and/or used by the customer.
 
 Individuals may at any time, by contacting Keynote as set forth below, update/correct personal information previously submitted which the user believes is erroneous.
 
 **Collection and Use of Non-Personal Information**
 
-We also collect and/or may create non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, create, use, transfer, and disclose non-personal information for any purpose. 
+We also collect and/or may create non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, create, use, transfer, and disclose non-personal information for any purpose.
 
 **Disclosure of Personal Information**
 
@@ -37,7 +40,7 @@ Keynote may also share personal information with companies who provide services 
 
 Further, it may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Keynote to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
-We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or to protect our intellectual property, operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party. 
+We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or to protect our intellectual property, operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
 
 **Use of Cookies and Other Technologies**
 
@@ -49,6 +52,6 @@ Keynote’s websites may contain links to third-party sites. Keynote cannot cont
 
 **Policy, Policy Changes and Contacting Keynote Regarding Policy**
 
-The foregoing policy is effective as of February 24, 2014. Keynote reserves the right to change this policy at any time. If Keynote changes its Privacy Policy, those changes will be posted on the Keynote privacy page (see [www.keynote.com/legal/](http://www.keynote.com/legal/)). If you have questions or concerns regarding this privacy statement, please contact Keynote at [privacy@keynote.com](mailto:privacy@keynote.com). 
+The foregoing policy is effective as of February 24, 2014. Keynote reserves the right to change this policy at any time. If Keynote changes its Privacy Policy, those changes will be posted on the Keynote privacy page (see [www.keynote.com/legal/privacy/](http://www.keynote.com/legal/privacy)). If you have questions or concerns regarding this privacy statement, please contact Keynote at privacy@keynote.com.
 
-February 24, 2014 
+February 24, 2014
