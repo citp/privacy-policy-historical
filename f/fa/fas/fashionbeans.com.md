@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615145514id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210192214id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
 
 # FashionBeans.com Official Privacy Policy
 
@@ -6,7 +6,7 @@ BeansPublishing Limited. (“We”) are committed to protecting and respecting y
 
 This privacy policy (together with our website [terms and conditions](http://www.fashionbeans.com/terms-and-conditions/) that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [here](https://web.archive.org/contact-us/).
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is BeansPublishing Limited. of 1 Sterling Court, Loddington, Kettering, Northants, NN14 1RZ.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is BeansPublishing Limited. of Ventura House, Ventura Park Road, Tamworth, Staffordshire, B78 3HL.
 
 ##### Information Collected
 
@@ -134,8 +134,8 @@ Questions, comments and requests regarding this data protection and privacy poli
  **Postal Address**  
 The Data Protection Officer  
 FashionBeans.com  
-1 Sterling Court,  
-Loddington,  
-Kettering,  
-Northants,  
-NN14 1RZ
+Ventura House,  
+Ventura Park Road,  
+Tamworth,  
+Staffordshire,  
+B78 3HL
