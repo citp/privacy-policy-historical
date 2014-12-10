@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blufamilysaver.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607222653id_/http%3A//www.blufamilysaver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blufamilysaver.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210134004id_/http%3A//www.blufamilysaver.com/privacy.html) for the most accurate reproduction.*
 
 # bluFamilySaver
 
