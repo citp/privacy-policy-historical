@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maptools.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603171657id_/http%3A//maptools.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maptools.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210230134id_/http%3A//maptools.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
