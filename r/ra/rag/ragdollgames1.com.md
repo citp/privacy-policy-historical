@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ragdollgames1.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213085601id_/http%3A//www.ragdollgames1.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragdollgames1.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210220436id_/http%3A//www.ragdollgames1.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy, Ragdoll Games
 
 ### Disclaimer
 
-**Liability**
+Liability
 
 All materials, information, software, products and services (also referred to as "Content"), included in or available through www.RagdollGames1.com (also referred to as "Site") are provided on an "as is" basis. The Content is provided without warranties of any kind. 
 
@@ -17,11 +17,11 @@ This Site provides advertisements and links to other third party websites over w
 
 ### Terms Of Use / Copyright / Licensing
 
-**Content made by the operator of RagdollGames1.com**
+Content made by the operator of RagdollGames1.com
 
 The Site (www.RagdollGames1.com) and its subpages is copyright by its operator. Copyrighted content of this site may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed, in whole or partly, for any purpose other than individual viewing of this content, without the express prior written consent of RagdollGames1.com's operator. Any modification, decompilation or reverse-engeneering of RagdollGames1.com's operator copyrighted content for any purpose is prohibited.
 
- **Content of Third Parties**
+Content of Third Parties
 
 Games and other content on the site which is not made and copyrighted by the operator of this site, is either licensed or used with permission and protected by international copyright. These games are intellectual property and/or copyright and/or trademark by their respective owners and/or authors.If you are the developer/owner/copyright holder of a game and you wish to have it removed us, please send an email through the email link at the bottom of the site. 
 
@@ -30,7 +30,7 @@ Games and other content on the site which is not made and copyrighted by the ope
 
 ### Privacy Policy
 
-**Automatically logged information (server logs), cookies, Flash shared objects**
+Automatically logged information (server logs), cookies, Flash shared objects
 
 Server logs:
 
@@ -46,7 +46,7 @@ Flash shared objects:
 
 Most games on this Site are based on Flash technology (Flash Games). Flash Games may collect data in "shared objects" which are textfiles stored on your computer. We have no control over what data Flash Games of third parties may collect. We are not responsible for the privacy practices of third parties Flash Games.
 
- **Third Party Advertising**
+Third Party Advertising
 
 We use several third party advertising companies to serve ads when you visit the Site. These companies may use cookies to store information about your visits to this and other websites (your browsing activity) in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you.
 
@@ -65,16 +65,16 @@ Value Click Media:
 
 <http://www.valueclickmedia.com/privacy.shtml>
 
-**Contact via E-Mail**
+Contact via E-Mail
 
 When you contact us via email, by using a contact link on the bottom of the site, you are providing us with personal information such as your name and email address. Such information is used only for the purpose of assisting you with, and validating your inquiry, request or submission. We respect the privacy concerns of visitors to www.RagdollGames1.com
 
 We do not sell or disclose your email address or any other personal information about you.
 
-**Links**
+Links
 
 We may present internal links (i.e. links to our own pages) or external links (i.e. links to other websites) in a format that allows us to track statistics like the number of clicks a link gets. These statistics will only be used to help us improve the site. We are not responsible for the privacy practices or the content of websites that are being linked to from our Site or newsletters.
 
- **Security**
+Security
 
 We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures.
