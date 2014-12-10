@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinni.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214015623id_/http%3A//www.jinni.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinni.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210013733id_/http%3A//www.jinni.com/info/privacy.html) for the most accurate reproduction.*
 
 # Find movies, TV shows matching your taste and watch online - Privacy Policy
 
@@ -20,7 +20,7 @@ We may collect two types of data and information from our Users:
     * Users who are interested in opening an Account in order to use our App and/or Services should provide details via the registration form on the Site and/or within the App, i.e username, and e-mail address. The User may also provide, at his/her sole discretion, his/her image and date of birth.
     * Alternatively, Users can open an Account and signup to the Service via existing third party accounts (namely, Facebook account) used by the User. Namely, in the event that a User registers to the Site and/or the App through his/her existing third-party web account (namely, the User's Facebook account), then such third-party website provides us, per our request, with certain information about such User as is stored in such third-party account, namely, the User's image, his/her name, e-mail address, date of birth, age, gender, preferences on movies and TV shows, the User's friends and the friends' preferences on movies and TV shows.
     * Jinni may require additional Personal Information in order to provide you with additional features you may be interested in. For example, your location and service provider are needed to tell you which movies are on TV or in theaters near you.
-    * In the event that the User is interested in importing his/her ratings from other websites such as Netflix, Rotten Tomatoes, etc. then such User should provide us with his/her log-in information to such websites.
+    * In the event that the User is interested in importing his/her ratings from other websites such as Rotten Tomatoes, etc. then such User should provide us with his/her log-in information to such websites.
 
 
 
