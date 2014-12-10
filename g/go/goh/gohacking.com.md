@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326032416id_/http%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210190955id_/http%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Go Hacking
+# Privacy Policy | GoHacking
 
 **What information do we collect?**  
 We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
