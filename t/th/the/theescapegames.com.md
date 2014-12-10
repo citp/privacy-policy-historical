@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theescapegames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063856id_/http%3A//theescapegames.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theescapegames.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210203200id_/http%3A//theescapegames.com/our-privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy - The Escape Games
+# Our Privacy Policy - Escape Games - Play Latest Free Online Escape Games
 
 **Privacy Policy for www.theescapegames.com**
 
