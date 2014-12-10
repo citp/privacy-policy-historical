@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604225220id_/http%3A//www.icomuk.co.uk/categoryRender.asp%3FcategoryID%3D3549%26tID%3D690) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210144308id_/http%3A//www.icomuk.co.uk/categoryRender.asp%3FcategoryID%3D3549%26tID%3D690) for the most accurate reproduction.*
 
 # Privacy Statement : Icom UK - two way radio transceivers, receivers and navigation products
 
