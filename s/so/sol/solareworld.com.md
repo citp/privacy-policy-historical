@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427011844id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210040311id_/http%3A//www.solarenergyworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Solar Energy World
 
@@ -21,13 +21,13 @@ FREE Solar Analysis
 
 _*Indicates a required field_
 
-## [](http://www.solareworld.com/the-sun-report/)
+## [](http://www.solarenergyworld.com/the-sun-report/)
 
-### Three New Finance Models for Non-Profits to Go Solar
+### Why Does Solar City Want To Be Solar Energy World?
 
-Daryl Zeis, REC Solar April 23, 2014  renewableenergyworld.com     There have generally been two main financial challenges for non-profits interested in going solar. First is the lack of funds or credit availability for purchasing a solar system. The second[Read More >](http://www.solareworld.com/2014/04/25/three-new-finance-models-non-profits-go-solar/)
+Why would Solar City of California want to be Solar Energy World of Maryland? SolarCity is headquartered in San Mateo, California and is the largest Solar Installer in the USA with satellite offices across the country.  Solar Energy World is a[Read More >](http://www.solarenergyworld.com/2014/12/09/solar-city-wants-to-be-solar-energy-world/)
 
-## [ Hear from Our Customers >](http://www.solareworld.com/customer-testimonials/)
+## [ Hear from Our Customers >](http://www.solarenergyworld.com/customer-testimonials/)
 
   
 
