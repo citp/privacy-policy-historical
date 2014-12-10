@@ -1,90 +1,34 @@
-> *The following text is extracted and transformed from the ninemsn.com.au privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121204643id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninemsn.com.au privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210224946id_/http%3A//advertising.ninemsn.com.au/privacy) for the most accurate reproduction.*
 
-# ninemsn support
+# About
 
-  
-  
-|  | | ninemsn Highlights Privacy Notice  
----  
-Last updated: 1 May, 2011 |  |  | 
+Personal Information[Additional Details](http://advertising.ninemsn.com.au/article.aspx?id=8363165)
 
-Scope 
+  * When you register for certain services offered on the Ninemsn Network we will ask you to provide personal information.
+  * The information we collect may be combined with information obtained from other companies, including Microsoft.
+  * We use cookies and other technologies to keep track of your interactions with our sites and services to offer a personalised experience.
 
-This notice provides highlights of the full [Privacy Policy](https://web.archive.org/support/privacy_full.asp). This notice and the full Privacy Policy apply to information you provide on the ninemsn Network and under MSN and Windows Live services provided through our site. 
+Your Choices[Additional Details](http://advertising.ninemsn.com.au/article.aspx?id=8363165)
 
-  
-  
-  
----|---|---  
-| 
+  * You can stop the delivery of promotional e-mails from Ninemsn by following the instructions in the e-mail you receive.
+  * You can subscribe or unsubscribe to ninemsn newsletter alerts (News Alerts, Entertainment Alerts, Trending Alerts and Must See Video Alerts) by sending an email to newsletters@ninemsn.com.au
+  * To opt-out of the display of personalised advertisements, go to the [Display of Advertising](http://advertising.ninemsn.com.au/article.aspx?id=8363165) section of the full Privacy Statement.
 
-  * When you register as a [ninemsn Member](http://membership.ninemsn.com.au/memberspage.asp) or for other services offered on the ninemsn Network (including MSN and Windows Live services), we’ll ask you to provide personal information. 
-  * The information we collect may be combined with information obtained from MSN and Windows Live services provided through our site and other companies. 
-  * We use cookies and other technologies to keep track of your interactions with our sites and services to offer a personalised experience. 
+Uses of Information[Additional Details](http://advertising.ninemsn.com.au/article.aspx?id=8363165)
 
+  * We use the information we collect to provide the services you request. Our services may include the display of personalised content and advertising.
+  * We use your information to send you updates on new services, offers from our partners, newsletters which you have subscribed to and new competitions.
+  * In order to help provide our services we occasionally provide information to other companies who work on our behalf.
+  * We may provide the information we collect to Ninemsn's Related Bodies Corporate (such as Nine Entertainment Co., Nine Network Australia Pty Ltd and Ticketek Pty Limited).
 
+Important Information[Additional Details](http://advertising.ninemsn.com.au/article.aspx?id=8363165)
 
-  
+  * A member of the Nine Entertainment Co. family, Mi9 sits within the Mi9 group of companies. Information you provide through utilising Microsoft Products that you access through the Ninemsn Network may be collected and used both by Ninemsn (an Mi9 company) (in which case this Privacy Policy will govern our collection and use of your personal information) and Microsoft Corporation and its affiliates (in which case the [MSN Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=248688) will govern).
 
+How to Contact UsFor more information about our privacy practices, go to the full [ Ninemsn Privacy Statement](http://advertising.ninemsn.com.au/article.aspx?id=8363165) or send an email to the [Ninemsn Privacy Officer](mailto:%20legalnotifications@ninemsn.com.au). 
 
-|  | 
-
-  * To make choices about how we communicate with you, go to [My Offers](http://membership.ninemsn.com.au/interest.asp).   
-
-  * To subscribe or unsubscribe to newsletters, go to [My Newsletters](http://membership.ninemsn.com.au/newslettersprofile.asp).   
-
-  * To view and edit your personal information, go to [My Profile](http://membership.ninemsn.com.au/Personalprofile.asp).   
-
-  * To understand your advertising choices, go to [Advertising Choices](https://web.archive.org/web/20111121204643id_/http%3A//help.ninemsn.com.au/support/privacy_full.asp#13). 
+  * If you have a technical or general support question regarding Microsoft products or service, please visit [Microsoft Support](http://support.microsoft.com/) to learn more about Microsoft Support offerings.
+  * If you suspect your Outlook.com/Windows Live account has been hacked or taken over, please visit [Live Help](http://windows.microsoft.com/en-us/windows-live/microsoft-account-help#microsoft-account=tab0).
+  * If you have an Outlook.com/Windows Live password question, please visit [Live Help](http://windows.microsoft.com/en-us/windows-live/microsoft-account-help#microsoft-account=tab0).
 
 
-
-  
-  
-  
----|---|---  
-| 
-
-  * We use the information we collect to provide the services you have explicitly requested. Our services may include the display of personalised content and advertising. 
-  * We use your information to send you: updates on new services; member-only offers from our carefully selected partners; email newsletters to which you have subscribed, and, new competitions. 
-  * We will never share your information with a third party or allow it to send you direct communications about its products without your consent. 
-  * In order to help provide our services, we occasionally provide information to other companies who work on our behalf. 
-
-
-
-  
-
-
-|  | 
-
-**Important information**
-
-  * ninemsn is operated as a joint venture between Microsoft Corporation and Publishing and Broadcasting Limited. Any information you provide under MSN and Windows Live services provided through the ninemsn site, such as Hotmail, Instant Messenger, Search and Windows Live ID, may be collected and used both by Microsoft, as described in the [Microsoft Online Privacy Statement](http://privacy.microsoft.com/en-au/default.mspx), and by ninemsn, as described in our full [Privacy Policy](https://web.archive.org/support/privacy_full.asp). 
-  * The e-mail address and password you use to sign-in on the ninemsn Network can also be used to sign in to other sites that are part of Windows Live™ ID. To learn more about Windows Live ID, [read the Windows Live ID Privacy Statement](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=2057).   
-
-
-
-
-  
-  
-  
----|---|---  
-|  | 
-
-**How to contact us**
-
-For more information about our privacy practices, go to the full [Privacy Policy](https://web.archive.org/support/privacy_full.asp) on our website, or write to us at: 
-
-The Privacy Officer   
-ninemsn Pty Limited   
-Level 7 Tower Building, Australia Square   
-264 George Street   
-Sydney NSW 2000 
-
-[Send us e-mail](https://web.archive.org/support/feedbackform.asp?area=privacy)
-
-  
-
-
-|   
----|---|---
