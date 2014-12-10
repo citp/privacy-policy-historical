@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoverzoom.net privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505003159id_/http%3A//www.hoverzoom.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoverzoom.net privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210191645id_/http%3A//hoverzoom.net/privacy-policy) for the most accurate reproduction.*
 
 # Hover Zoom Privacy Policy
 
@@ -13,6 +13,10 @@ When you use Hover Zoom and leave "Enable anonymous usage statistics" checked in
 We know that you care about how your information is used and shared. This Privacy Policy explains what information of yours will be collected when you make use of Hover Zoom, as well as how the information will be used. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 This Privacy Policy may be updated from time to time. Please check back periodically for the most updated version of the Privacy Policy. Your continued use of Hover Zoom after this Privacy Policy has been amended shall be deemed as your continued acceptance of the terms of this Privacy Policy, as amended.
+
+### Use and disclosure
+
+We may share and sell non-personally identifiable or aggregated information with third parties to provide research and analytics services, such as measuring website usage, performance and ecommerce activity, and analyzing consumer interests, demographics, and market trends.
 
 ### Information Collected
 
