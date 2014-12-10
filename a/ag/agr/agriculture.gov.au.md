@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629202312id_/http%3A//daff.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210040947id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
 
-# Privacy - Department of Agriculture
+# About Privacy
 
-## Other format
-
-This information is also available in the following format:
-
-  * [Privacy policy (condensed)](http://www.daff.gov.au/__data/assets/word_doc/0005/2376797/condensed_privacy_policy.doc)  
- Word [445 KB]
-
-
-
-## More information
-
-The department provides the following Privacy Policy in accordance with the Privacy Act 1988.
+​​The department provides the following Privacy Policy in accordance with the Privacy Act 1988.
 
 The purpose of this privacy policy is to:
 
@@ -23,11 +12,11 @@ The purpose of this privacy policy is to:
 
 
 
-This condensed privacy policy has been developed to follow the ‘layered policy’ format, which means that it offers layers of greater or lesser detail so people can read as much as they wish and find what they need. This document provides you with a succinct overview of how we handle your personal information. Our complete privacy policy ( Word [[127 KB](http://www.daff.gov.au/__data/assets/word_doc/0004/2376796/Complete_privacy_policy.doc)]) can be accessed on our website.
+This condensed privacy policy has been developed to follow the ‘layered policy’ format, which means that it offers layers of greater or lesser detail so people can read as much as they wish and find what they need. This document provides you with a succinct overview of how we handle your personal information. Our complete privacy policy ( Word [[127 KB](https://web.archive.org/Style%20Library/Images/DAFF/__data/assets/word_doc/0004/2376796/Complete_privacy_policy.doc)]) can be accessed on our website.
 
 If you wish to make any comments or suggestions about the privacy policy, you can do so by contacting the privacy team in the Office of the General Counsel within the department via:
 
-Email: [privacy@agriculture.gov.au](mailto:privacy@agriculture.gov.au)  
+Email: [Privacy](mailto:privacy@agriculture.gov.au)  
 Phone: (02) 6272 3933  
 Mail: Privacy, Department of Agriculture, PO Box 858, Canberra ACT 2601.  
 
@@ -36,7 +25,7 @@ Any comments and/or suggestions will be reviewed and considered by the departmen
 
 If you would like to request the privacy policy be made available in an alternate format or language, such as for the vision impaired, or for those from non-english speaking backgrounds, please also contact the privacy team. Reasonable steps will be taken to provide alternate access.
 
-This privacy policy is reviewed and updated annually. Changes will be advertised via the ‘[Latest News](http://www.daff.gov.au/)’ window on the department’s website.  
+This privacy policy is reviewed and updated annually. Changes will be advertised via the ‘[Latest News](https://web.archive.org/)’ window on the department’s website.  
 
 
 The privacy policy was last reviewed in March 2014.
@@ -186,9 +175,9 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 Individuals have a right to request access to their personal information and to request its correction if it is inaccurate, out of date, incomplete, irrelevant or misleading.
 
-If you are an external client or stakeholder you should contact the relevant business area within the department, in writing, for access to or correction of your personal information. For example, applicants for a grant program should first contact the program administrator via email or letter. If you do not know which area of the department holds your personal information you can contact the department’s switch on 02 6272 3933. Alternatively, you can use the ‘[contact us](http://www.daff.gov.au/about/contactus)’ link on the department’s [website](http://www.daff.gov.au/).
+If you are an external client or stakeholder you should contact the relevant business area within the department, in writing, for access to or correction of your personal information. For example, applicants for a grant program should first contact the program administrator via email or letter. If you do not know which area of the department holds your personal information you can contact the department’s switch on 02 6272 3933. Alternatively, you can use the ‘[contact us](https://web.archive.org/about/contactus)’ link on the department’s [website](https://web.archive.org/).
 
-Current and former departmental employees who wish to gain access to, or correct their personal information need to contact the People Services Branch (HR Assist) in the first instance. HR Assist can be contacted on 02 6272 3933 or via email at [HRAssist@agriculture.gov.au](mailto:HRAssist@agriculture.gov.au).
+Current and former departmental employees who wish to gain access to, or correct their personal information need to contact the People Services Branch (HR Assist) in the first instance. HR Assist can be contacted on 02 6272 3933 or via email at [HRAssist](mailto:HRAssist@agriculture.gov.au).
 
 ## How you can complain about the treatment of your personal information and how the complaint will be handled
 
@@ -207,13 +196,13 @@ The department’s privacy officers will investigate:
 In the first instance, any privacy concerns or complaints should be reported to the department’s privacy team. This can be done by:
 
 Phone: 02 6272 3933  
-Email: [privacy@agriculture.gov.au](mailto:privacy@agriculture.gov.au)  
+Email: [Privacy](mailto:privacy@agriculture.gov.au)  
 Mail: Privacy, Department of Agriculture, PO BOX 858, Canberra ACT 2601.
 
 If you are unhappy with the department’s response or reply, you also have the option of contacting the Privacy Commissioner within the OAIC. The Privacy Commissioner can be contacted on:
 
 Phone: 1300 363 992  
-Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)  
+Email: [Enquiries](mailto:enquiries@oaic.gov.au)  
 Mail: OAIC, GPO Box 5218 Sydney NSW 2001.
 
 This site adheres to Commonwealth Government Internet security standards, including the Defence Signals Directorate guidelines.
