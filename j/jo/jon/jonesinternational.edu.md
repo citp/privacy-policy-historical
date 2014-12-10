@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonesinternational.edu privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615020633id_/http%3A//www.jiu.edu/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonesinternational.edu privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210100334id_/http%3A//www.jiu.edu/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Jones International University
 
