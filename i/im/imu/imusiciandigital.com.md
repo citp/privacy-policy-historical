@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imusiciandigital.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050653id_/http%3A//www.imusiciandigital.com/en/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imusiciandigital.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210223056id_/http%3A//www.imusiciandigital.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iMusician Digital
 
