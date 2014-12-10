@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotuscars.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330190517id_/http%3A//www.lotuscars.com/gb/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotuscars.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210104313id_/http%3A//www.lotuscars.com/gb/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lotus Cars
 
@@ -66,7 +66,7 @@ We may also disclose your personal information to third parties:
 
 **  
 YOUR RIGHTS**  
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [webmaster@lotuscars.com](mailto:webmaster@lotuscars.com) or at:
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [webmaster@lotuscars.co.uk](mailto:webmaster@lotuscars.com) or at:
 
 Webmaster, Group Lotus plc, Potash Lane, Hethel, Norwich, Norfolk NR14 8EZ UK.
 
@@ -79,6 +79,6 @@ CHANGES TO OUR PRIVACY POLICY**
 This privacy policy may be amended from time to time and amendments published on our websites.
 
 **CONTACT**  
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to us at [webmaster@lotuscars.com](mailto:webmaster@lotuscars.com) or at:
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to us at [webmaster@lotuscars.co.uk](mailto:webmaster@lotuscars.com) or at:
 
 Webmaster, Group Lotus plc, Potash Lane, Hethel, Norwich, Norfolk NR14 8EZ UK.
