@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vinescope.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411152822id_/http%3A//vinescope.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinescope.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210203113id_/http%3A//vinescope.com/privacy_policy.html) for the most accurate reproduction.*
 
-# VineScope - How you and your friend see yourselves singing inside a car vs how others see you
+# VineScope - I'm laughing way harder than I should at this
 
 ## Privacy Policy for VineScope
 
