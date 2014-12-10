@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbiddenplanet.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326102542id_/https%3A//forbiddenplanet.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbiddenplanet.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210184337id_/https%3A//forbiddenplanet.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies @ ForbiddenPlanet.com
 
