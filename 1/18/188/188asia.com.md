@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 188asia.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611091423id_/http%3A//www.188asia.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 188asia.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211125904id_/http%3A//www.188asia.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at 188BET – Corporate Affairs - 188BET
 
@@ -158,6 +158,8 @@ MARKETING AND OPTING OUT
 We may share your personal data with organisations who are our business partners and we or they may contact you, unless you have asked us or them not to do so, by mail, telephone, SMS text, fax, email or other available means of communication about products, services, promotions or special offers.
 
 If you prefer not to receive any further marketing communications from us, you can opt out at any time. See further “Access to your personal information and your rights” above.
+
+Un-subscription from receiving any marketing material may take up to five (5) working days to take effect.
 
 COOKIES
 
