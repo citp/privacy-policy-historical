@@ -1,0 +1,506 @@
+<!--The following is the downloaded HTML source of the cardealpage.com privacy policy that was archived on 2014-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141211200209id_/http%3A//www.cardealpage.com/policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<meta name="robots" content="noindex,nofollow,noarchive">
+<link rel="shortcut icon" href="/img/favicon.ico">
+<link rel="alternate" href="http://www.cardealpage.com/pt/policy.html" hreflang="pt">
+<title>Privacy Policy | CardealPage</title>
+<meta http-equiv="Content-style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<link rel="stylesheet" type="text/css" href="/css/style.css?time=1418328129" media="all">
+<link rel="stylesheet" type="text/css" href="/css/jquery.css?time=1418328129" media="all">
+<link rel="stylesheet" type="text/css" href="/css/sprite.css?time=1418328129" media="all">
+<link rel="stylesheet" type="text/css" href="/css/newstyle.css?time=1418328129" media="all">
+<!-- Google Analytics -->
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36260641-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Google Analytics -->
+<script type="text/javascript" src="/js/jquery.js?time=1418328129"></script><script type="text/javascript" src="/js/skype-uri.js?time=1418328129"></script><script type="text/javascript" src="/js/jquery.upload.js?time=1418328129"></script><script type="text/javascript" src="/js/jquery-ui.js?time=1418328129"></script><script type="text/javascript" src="/js/main.js?time=1418328129"></script><script type="text/javascript" src="/js/jquery.lazyload.js?time=1418328129"></script><script type="text/javascript" src="/js/google_map.js?time=1418328129"></script><script type="text/javascript" src="/js/topBanner.js?time=1418328129"></script><script type="text/javascript" src="/js/jPrintArea.js?time=1418328129"></script><script type="text/javascript" src="/js/smartRollover.js?time=1418328129"></script><script type="text/javascript" src="/js/jquery.alerts.js?time=1418328129"></script><script type="text/javascript" src="/js/jquery.fancybox.js?time=1418328129"></script><script type="text/javascript" src="/js/gn01.js?time=1418328129"></script><script>
+var NowURL = 'http://www.cardealpage.com/policy.html';
+var Any = 'Any';
+var ASK = "ASK";
+var EnableSeller = true;
+var IsSeller = false;
+var Browser = {"IE":false,"FF":false,"Name":"Unknown"};
+var UrlPrefix = '/';
+var Language = 'en';
+var SalesType = 1;
+var Zmk2Usd = 1;
+var Rate = 115.190;
+var Unit = 'US$';
+if(SalesType == '2'){
+	Unit = '&yen;';
+}
+var CostLowNum = 12;
+var CostMiddleNum = 15;
+var Controller = 'Help';
+var Action = 'index';
+var time = 0;
+var WebRef = '';
+var ss = 0;
+var LocationId = '';
+var Page = '';
+var DisplayLimit = '';
+
+var mail1 = 'sales';
+var at = '@';
+var mail2 = 'cardealpage.com';
+
+
+
+var img_loading = new Image();
+img_loading.src = '/img/ajax-loader.gif';
+var img_loading2 = new Image();
+img_loading2.src = '/img/ajax-loader2.gif';
+var img_loading3 = new Image();
+img_loading3.src = '/img/ajax-loader3.gif';
+
+function currentTimeInJapan() {
+	var d = new Date( time * 1000 );
+	var hour = d.getHours();
+	var min  = d.getMinutes();
+	var sec  = d.getSeconds();
+	min  = ( min  < 10 ) ? '0' + min  : min;
+	var coron = " ";
+	if(sec % 2 == 0) coron = ":";
+	$('#currentTimeInJapan').html(hour + coron + min);
+	time++;
+	setTimeout("currentTimeInJapan()",1000);
+}
+$(function(){
+	// get timestamp og server
+	$.post('/time/', '', function(ret){
+		time = ret;
+		currentTimeInJapan();
+	});
+	// Email
+	$('.businessHourMail').html(mail1 + at + mail2).bind('click', function(){
+		location.href = 'mailto:' + mail1 + at + mail2;
+		return false;
+	});
+
+	// nolazy
+	if(ss != '1'){
+		$('img').each(function(i){
+			if($(this).attr('data-original')){
+				$(this).lazyload({effect:"fadeIn"});
+			}
+		});
+	}
+	$('#header_login').fancybox({padding:0,modal:true,closeBtn:false});
+	$('#footer_login').fancybox({padding:0,modal:true,closeBtn:false});
+	$('#invoice_login').fancybox({padding:0,modal:true,closeBtn:false});
+	$('#quotation_login').fancybox({padding:0,modal:true,closeBtn:false});
+	$('#ask_login').fancybox({padding:0,modal:true,closeBtn:false});
+	$('#vanning_login').fancybox({padding:0,modal:true,closeBtn:false});
+	$('#faild_login').fancybox({padding:0,modal:true,closeBtn:false});
+	$('#cc1').fancybox({padding:0,modal:false,scrolling:'auto',maxWidth:550});
+	$('#cc2').fancybox({padding:0,modal:false,scrolling:'auto',maxWidth:550});
+	$('#cc3').fancybox({padding:0,modal:false,scrolling:'auto',maxWidth:550});
+	$('#policy1').fancybox({padding:0,modal:false,maxWidth:935});
+	$('#policy2').fancybox({padding:0,modal:false,maxWidth:935});
+	$('#policy3').fancybox({padding:0,modal:false,maxWidth:935});
+	$('#terms1').fancybox({padding:0,modal:false,scrolling:'auto',maxWidth:935});
+	$('#terms2').fancybox({padding:0,modal:false,scrolling:'auto',maxWidth:935});
+	$('#terms3').fancybox({padding:0,modal:false,scrolling:'auto',maxWidth:935});
+	$('.ajax_form').fancybox({padding:0,modal:false,scrolling:'auto',maxWidth:935});
+	$('#advanced_search').fancybox({padding:0,modal:false,closeBtn:true});
+	$('.SellerImage').fancybox({backgroundColor:"#FFFFFF"});
+	$('.SmallImage').fancybox();
+	$('.specQuestion').tooltip();
+	$('.inspectCaution').tooltip();
+	$('.addInfoQuestion').tooltip();
+	$('.tooltip').tooltip();
+
+	// Top Search Menu
+	var isTopSearch = false;
+	if($('#topSearchMenu').length){
+		var top = $('#topSearchMenu').offset().top + $('#topSearchMenu').height();
+		var left = $('#topSearchMenu').offset().left - 1;
+		$('#topSearchPopup').css({'top':top+'px','left':left+'px'});
+		$('#topSearchMenu').hover(function(){
+			$('#topSearchPopup').animate({'top':top+'px'}, 300, function(){
+				if(!isTopSearch){
+					isTopSearch = true;
+					$('#topSearchPopup').slideDown(300, function(){
+						isTopSearch = false;
+					});
+				}
+			});
+		}, function(){
+			isTopSearch = true;
+			$('#topSearchPopup').slideUp(300, function(){
+				isTopSearch = false;
+			});
+		});
+	}
+
+	var addCSS = (function() {
+		var style = document.createElement('style');
+		style.setAttribute('type', 'text/css');
+		document.getElementsByTagName('head')[0].appendChild(style);
+		var stylesheet = document.styleSheets[0];
+		if (stylesheet.insertRule) {
+			return function(selector, property, value) {
+				stylesheet.insertRule(selector + '{' + property + ':' + value + ';}', stylesheet.cssRules.length);
+			};
+		} else {
+			return function(selector, property, value) {
+				stylesheet.addRule(selector, property + ':' + value);
+			};
+		}
+	})();
+	var scrollBarWidth = (function() {
+		var scrollDiv = document.createElement("div");
+		scrollDiv.style.width = '100px';
+		scrollDiv.style.height = '100px';
+		scrollDiv.style.overflow = 'scroll';
+		scrollDiv.style.position = 'absolute';
+		scrollDiv.style.top = '-9999px';
+		document.body.appendChild(scrollDiv);
+		var w = scrollDiv.offsetWidth - scrollDiv.clientWidth;
+		document.body.removeChild(scrollDiv);
+		return w;
+	})();
+	addCSS('.noscroll', 'position', 'relative');
+	addCSS('.noscroll', 'overflow', 'hidden');
+	addCSS('.noscroll', 'padding-right', scrollBarWidth + 'px');
+	$('iframe[name=google_conversion_frame]').css('height', '1px');
+
+});
+</script></head>
+<!--<body oncontextmenu="return false;" onselectstart="return false;">-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body bgcolor="#FFFFFF">
+<div id="wrapper">
+	<div id="pageBody">
+
+
+		<div id="header">
+			<div id="logoTop">
+				<p id="Banner"><a class="link" onclick="loadContent('', '/', '');"><img class="imageOver" src="/img/logotop.png" alt="CardealPage" width="300" height="48"></a></p>
+					<p id="topMessage">Search Japanese Used Cars</p>
+				</div>
+			<div id="h_btn" style="display:none;">
+					<a id="header_login" class="fancybox.ajax" href="/Login/Header_" data-fancybox-focus="Header_Email" data-fancybox-callback="http://www.cardealpage.com/policy.html"></a>
+				<a href="/Login/Header_/?Callback=http://www.cardealpage.com/policy.html" class="sprite_buttons2-login sprite_buttons2"></a>
+					<script>
+						checkLogin();
+					</script>
+			</div>
+			<div id="h_lang">Language: <span class="sprite_other2 sprite_other2-icon_en_s"></span>
+				<select name="" onchange="loadContent('', this.value, '');">
+					<option value="/policy.html">English</option>
+					<option value="/pt/policy.html">Português</option>
+				</select>
+			</div>
+			<div id="h_time">
+				<div class="clock"></div>
+				<span class="time">Japan Time<span id="currentTimeInJapan">05:02</span></span>
+			</div>
+		</div>
+
+		<!-- Global Navi -->
+		<ul class="gNavi">
+			<li id="topSearchMenu" style="cursor:pointer;">
+				<div class="sprite_buttons2 gnav_search" alt="Search Stock"></div>
+				<div id="topSearchPopup" class="topSearchPopup">
+					<table width="100%" style="font-size:0.9em;">
+					<tbody><tr>
+						<td class="half top">
+							<table width="100%" style="margin-bottom:15px;">
+							<tbody><tr>
+								<td><a href="/full/">Browse Full Stock</a></td>
+							</tr>
+							<tr>
+								<td><a href="/discounted/">Discounted Cars</a></td>
+							</tr>
+							<tr>
+								<td><a href="/newarrivals/">New Arrivals</a></td>
+							</tr>
+							<tr>
+								<td><a href="/diesel/">Diesel</a></td>
+							</tr>
+							<tr>
+								<td><a href="/manual/">Manual Transmission</a></td>
+							</tr>
+							<tr>
+								<td><a href="/4wd/">4WD</a></td>
+							</tr>
+							<tr>
+								<td><a href="/addinfo/">Without Add.Info</a></td>
+							</tr>
+							</tbody></table>
+						</td>
+						<td class="half top">
+							<h3>By Type</h3>
+							<table width="100%" style="margin-bottom:15px;">
+							<tbody><tr>
+								<td><a href="/sedan/">Sedan</a></td>
+							</tr>
+							<tr>
+								<td><a href="/hatchback/">Hatchback</a></td>
+							</tr>
+							<tr>
+								<td><a href="/wagon/">Family car</a></td>
+							</tr>
+							<tr>
+								<td><a href="/suv/">SUV / Jeep</a></td>
+							</tr>
+							<tr>
+								<td><a href="/bus/">Bus / Van</a></td>
+							</tr>
+							<tr>
+								<td><a href="/truck/">Truck / Dump</a></td>
+							</tr>
+							<tr>
+								<td><a href="/machinery/">Machinery</a></td>
+							</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					<tr>
+						<td class="half top">
+							<h3>By Year</h3>
+							<table width="100%">
+							<tbody><tr>
+								<td><a href="/year1999older/">1999 and older</a></td>
+							</tr>
+							<tr>
+								<td><a href="/year2001/">2001</a></td>
+							</tr>
+							<tr>
+								<td><a href="/year2002/">2002</a></td>
+							</tr>
+							<tr>
+								<td><a href="/year2003/">2003</a></td>
+							</tr>
+							<tr>
+								<td><a href="/year2004/">2004</a></td>
+							</tr>
+							<tr>
+								<td><a href="/year2005/">2005</a></td>
+							</tr>
+							</tbody></table>
+						</td>
+						<td class="half top">
+							<h3>By Price</h3>
+							<table width="100%">
+							<tbody><tr>
+								<td><a href="/under799/">Under $799</a></td>
+							</tr>
+							<tr>
+								<td><a href="/under1000/">Under $1,000</a></td>
+							</tr>
+							<tr>
+								<td><a href="/price/1000/1500/">$1,000 - $1,500</a></td>
+							</tr>
+							<tr>
+								<td><a href="/price/1500/2000/">$1,500 - $2,000</a></td>
+							</tr>
+							<tr>
+								<td><a href="/price/2000/3000/">$2,000 - $3,000</a></td>
+							</tr>
+							<tr>
+								<td><a href="/price/3000/4000/">$3,000 - $4,000</a></td>
+							</tr>
+							<tr>
+								<td><a href="/over4000/">Over $4,000</a></td>
+							</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					</tbody></table>
+				</div>
+			</li>
+			<li><a href="/howtobuy.html" onclick="loadContent('', this.href, '');"><div class="sprite_buttons2 gnav_howto" alt="How to Buy"></div></a></li>
+			<li><a href="/whatscardealpage.html" onclick="loadContent('', this.href, '');"><div class="sprite_buttons2 gnav_whats" alt="What's CardealPage?"></div></a></li>
+			<li><a href="/customersvoice.html" onclick="loadContent('', this.href, '');"><div class="sprite_buttons2 gnav_voice" alt="Customer's Voice"></div></a></li>
+			<li><a href="/column.html" onclick="loadContent('', this.href, '');"><div class="sprite_buttons2 gnav_magazine" alt="Cardeal Magazine"></div></a></li>
+			<li><a href="/needsupport.html" onclick="loadContent('', this.href, '');"><div class="sprite_buttons2 gnav_support" alt="Need Support?"></div></a></li>
+			<li><a href="/ranking.html" onclick="loadContent('', this.href, '');"><div class="sprite_buttons2 gnav_ranking" alt="Cardeal Ranking"></div></a></li>
+		</ul>
+		<!-- Global Navi -->
+		<div class="LisTopSpace">
+		</div>
+
+
+
+
+<div id="page_content">
+     <div id="single_main">
+		<p class="Navi"><a href="/">Japanese Used Cars CardealPage-HOME</a> &gt; Privacy Policy</p>
+		<div style="background-color:#ffffff;">
+						<div id="privacy">
+				<h1>Privacy Policy</h1>
+				<p>CardealPage Co., Ltd. will not give out or share any personal or business information to third parties (excluding Sales Representatives/Agents of CardealPage Co., Ltd.), unless required to do so by law, or for the purpose of shipping and clearing the vehicle.</p>
+				<p>CardealPage Co., Ltd. will not rent, sell, give or exchange your information with any other business except with your express permission.</p>
+				<p>From time to time CardealPage Co., Ltd. may undertake to send you details of promotions or specials, however this will be done by CardealPage Co., Ltd. and no third party will be privy to your information.</p>
+			</div>
+			<div id="privacyBottom" style="padding-bottom:20px;">
+				<p>Regards,</p>
+				<p>CardealPage Co., Ltd.</p>
+			</div>
+					</div>
+	</div>
+</div>
+
+
+
+
+
+			<!-- Footer -->
+		<div class="footer">
+			<div class="footer_container">
+				<div class="footer_content">
+					<h4>My Page</h4>
+					<ul>
+								<li><a id="footer_login" class="fancybox.ajax" href="/Login/Footer_" data-fancybox-focus="Footer_Email" data-fancybox-callback="http://www.cardealpage.com/policy.html"></a><a href="/mypage/login/" onclick="$('#footer_login').click();return false;">Log in</a></li>
+								<li><a href="/password/">Forgot your password?</a></li>
+					</ul>
+					<h4>Select Language</h4>
+					<ul>
+						<li><a href="/policy.html" class="icon_link"><span class="sprite_other2 sprite_other2-icon_en"></span>English</a></li>
+						<li><a href="/pt/policy.html"><span class="sprite_other2 sprite_other2-icon_po"></span>Português</a></li>
+					</ul>
+					<a href="//www.facebook.com/pages/Cardealpage/465464100201252" target="_blank"><span class="sprite_other2 sprite_other2-fb"></span></a>
+					<!-- SSL -->
+					<div class="GeoTrust">
+						<table width="135" border="0" cellpadding="2" cellspacing="0" alt="CardealPage is secured by GeoTrust">
+						<tbody><tr>
+							<td width="135" align="center" valign="top">
+								<!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->
+								<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+								<!-- end  GeoTrust Smart Icon tag -->
+							</td>
+						</tr>
+						</tbody></table>
+					</div>
+					<!-- SSL -->
+				</div>
+				<div class="footer_content">
+					<h4>About CardealPage</h4>
+					<ul>
+						<li><a href="/full/">Search Stock</a></li>
+						<li><a href="/howtobuy.html">How to Buy</a></li>
+						<li><a href="/whatscardealpage.html">What’s CardealPage</a></li>
+						<li><a href="/customersvoice.html">Customer’s Voice</a></li>
+						<li><a href="/needsupport.html">Need Support ?</a></li>
+						<li><a href="/ranking.html">Cardeal Ranking</a></li>
+						<li><a href="http://www.cardealpage.co.jp/" target="_blank">株式会社カーディールページ</a></li>
+					</ul>
+					<h4>Useful Information</h4>
+					<ul>
+						<li><a href="/clearingagents.html">Our Preferred Clearing Agents</a></li>
+						<li><a href="/shippingagents.html">Shipping Agents</a></li>
+						<li><a href="/deliverytime.html">Delivery Time to your Region</a></li>
+						<li><a href="/regulation.html">Regulation by Countries</a></li>
+					</ul>
+				</div>
+				<div class="footer_content">
+					<h4>Cardeal Magazine</h4>
+					<ul>
+						<li><a href="/column.html">New Articles</a></li>
+						<li><a href="/column/maintenance.html">Maintenance</a></li>
+						<li><a href="/column/accessories.html">Accessories</a></li>
+						<li><a href="/column/car_care.html">Car Care</a></li>
+						<li><a href="/column/driving.html">Driving</a></li>
+						<li><a href="/column/knowledge.html">Knowledge</a></li>
+						<li><a href="/column/zambian_used_car_news.html">Zambian Used Car News</a></li>
+					</ul>
+				</div>
+				<div class="footer_content">
+					<h4>Find Cars</h4>
+					<ul>
+						<li><a href="/full/">Full Stock List</a></li>
+						<li><a href="/newarrivals/">New Arrivals</a></li>
+						<li><a href="/discounted/">Discounted Stock</a></li>
+						<li><a href="/manual/">Manual Transmission</a></li>
+						<li><a href="/4wd/">4WD</a></li>
+						<li><a href="/diesel/">Diesel</a></li>
+						<li><a href="/right/">Right Hand Drive</a></li>
+						<li><a href="/left_hand/">Left Hand Drive</a></li>
+						<li><a href="/"></a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="footerTextOuter">
+				<p class="footerText1">CardealPage Co., Ltd. operates with permission from Tokyo Public Safety Commission. Reg No. 304361407966</p>
+					<address class="footerText2">
+						© 2012 - 2014 CardealPage All rights reserved.
+					</address>
+				<p></p>
+			</div>
+		</div>
+		<!-- Footer -->
+	<!--
+
+-->
+		<div id="CVTop" class="cvtop shadow"><div class="sprite_listUp"></div><a class="link" onclick="$('html, body').animate({'scrollTop':0}, 500);return false;">Back to Top</a></div>
+		<script>
+		$(window).scroll(function () {
+			if($('#CVTop').css('display') == 'none'){
+				if($(this).scrollTop() > 1000){
+					$('#CVTop').fadeIn(500);
+				}
+			} else {
+				if($(this).scrollTop() < 1000){
+					$('#CVTop').fadeOut(500);
+				}
+			}
+		});
+		</script>
+
+
+
+	</div>
+</div>
+<div style="display:none;">
+<!-- リマーケティング タグの Google コード -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 999003630;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/999003630/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div>
+
+
+</body></html>
