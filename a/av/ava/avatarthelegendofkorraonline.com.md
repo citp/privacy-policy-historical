@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avatarthelegendofkorraonline.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110205id_/http%3A//avatarthelegendofkorraonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatarthelegendofkorraonline.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211200810id_/http%3A//avatarthelegendofkorraonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Avatar: The Legend of Korra - Season 2 Episodes, Recaps & News
+# Privacy Policy | The Legend of Korra - Season 3 Release Date, Trailer & News
 
 **What information do we collect?**
 
