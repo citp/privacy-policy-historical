@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetpens.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607044438id_/http%3A//www.jetpens.com/articles/Privacy_Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetpens.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211190854id_/http%3A//www.jetpens.com/articles/Privacy_Notice) for the most accurate reproduction.*
 
 # Privacy Notice - JetPens.com
 
