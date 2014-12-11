@@ -1,39 +1,93 @@
-> *The following text is extracted and transformed from the localvox.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623025541id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localvox.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211224159id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
 
 # LocalVox - Privacy Policy
 
-**PRIVACY PRACTICES**
+**Privacy Policy**
 
-This statement discloses the privacy practices for the NEARSAY (the “Website”) a service provided by LocalVox Media, Inc d/b/a NEARSAY.com (“NEARSAY”). Any questions regarding this policy should be directed to NEARSAY at editors@NearSay.com or 5 Hanover Square, New York, NY 10005. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events.
+Protecting your private information is our priority. This Statement of Privacy applies to the LocalVox Media including it’s owned and operated websites at www.localvox.com and www.nearsay.com, and any LocalVox-developed software applications that use those services, and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to LocalVox Media Inc. include www.localvox.com, www.nearsay.com and LocalVox. The LocalVox website is a Business Website site. By using the LocalVox website, you consent to the data practices described in this statement.
 
-**CATEGORIES OF INFORMATION**
+**Collection of your Personal Information**
 
-The information gathered by NEARSAY falls into two categories: (1) information voluntarily supplied by users to the Website through optional registration and (2) tracking information gathered as users navigate through the Website.
+LocalVox may collect personally identifiable information, such as your name, phone and email address. LocalVox may also collect anonymous demographic information, which is not unique to you, such as your age and gender. We may gather additional personal or non-personal information in the future.
 
-**REGISTRATION**
+Information about your computer hardware and software may be automatically collected by LocalVox. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the LocalVox website.
 
-To make use of certain features on the Website users may need to register and to provide certain information as part of the registration process. (NEARSAY may ask, for example, for a user’s name, email address, gender, age, and zip code.) The information supplied will help NEARSAY to offer more personalized features, to tailor the Website, and to make it more useful to users. Supplying such information is entirely voluntary. However, if a user chooses not to supply information requested, NEARSAY may be unable to provide the user with services made available to other users of the Website. Even if a user wishes to remain completely anonymous, the user may still to take advantage of the content available on the Website without registration.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through LocalVox’s public message boards, this information may be collected and used by others.
 
-**USES OF INFORMATION**
+LocalVox encourages you to review the privacy statements of websites you choose to link to from LocalVox so that you can understand how those websites collect, use and share your information. LocalVox is not responsible for the privacy statements or other content on websites outside of the LocalVox website.
 
-NEARSAY may present information collected from users of the Website to third parties. Such information is generally in the form of aggregated statistics on traffic within the Website, although from time to time, NEARSAY may share personal information on users of the Website with those marketing products and services that we believe may be of interest to users.
+**Do Not Track  Browser Setting**
 
-**COOKIES**
+Some browsers incorporate a Do Not Track feature that signals to websites you visit that you do not want to have your online activity tracked. Tracking is not the same as using or collecting information in connection with a single website. For these purposes tracking refers to collecting personally identifiable information from consumers who use or visit a website or online service as they move across different websites over time.
 
-To help make the Website more responsive to the needs of users, the Website employs a standard feature of browser software, called a “cookie,” to assign each user a unique, random number that resides on a user’s computer. The cookie does not personally identify the user; it merely identifies the computer with which the user accesses the Website. Unless a user voluntarily identifies himself or herself (through registration, for example), the Website will not be able to identify the identity of the user, even if a cookie is assigned to a user’s computer. The only personal information a cookie can contain is information supplied by a user. The advertisers on the Website may also assign their own cookies to a user’s browser, a process that NEARSAY does not control. The Website uses cookies to help tailor the Website and deliver a more personalized service. Of course, users are free to instruct their web browsers not to accept cookies; however, doing so may render a computer unable to take advantage of the personalized features enjoyed by other users of the Website.
+How browsers communicate the Do Not Track signal is not yet uniform. As a result, LocalVox does not interpret or respond to Do Not Track signals communicated by your browser. Even so, as described more fully throughout this Privacy Policy, we limit our use and collection of your personal information.
 
-**IP ADDRESSES**
+For a description of Do Not Track protocols for browsers and mobile devices, or simply to learn more about the choices available to you, you can visit the All About Do Not Track website:[http://allaboutdnt.com](http://allaboutdnt.com/)
 
-The Website’s servers automatically collect limited information about a user’s computer’s connection to the Internet, including a user’s IP address. (The IP address is a number that lets computers attached to the Internet know where to send data – such as the web pages users view.) An IP address does not personally identify a user. The Website uses this information to deliver its content to users upon request, to tailor the Website to a user’s interests, and to measure traffic within the Website.
+**Use of your Personal Information**
 
-**THIRD PARTY SITES**
+LocalVox collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-The Website includes links to third party websites whose privacy policies NEARSAY does not control. Once a user leaves the Website, use of any information a user provides is governed by the privacy policy of the operator of the site the user is visiting. The privacy policies of third party websites may differ from that of NEARSAY.
+LocalVox may also use your personally identifiable information to inform you of other products or services available from LocalVox and its affiliates. LocalVox may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-**CHILDREN’S PRIVACY**
+LocalVox does not sell, rent or lease its customer lists to third parties.
 
-This children’s privacy statement explains NEARSAY’s practices with respect to the online collection and use of personal information from children under the age of 13, and provides important information on user’s rights under federal law with respect to such information. NEARSAY does NOT knowingly collect personally identifiable information from children under the age of 13. NEARSAY screens users who wish to provide personal information in order to prevent users under the age of 13 from providing such information. If NEARSAY becomes aware that it has inadvertently received personally-identifiable information from a user under the age of 13, NEARSAY will delete such information from its records. Because NEARSAY does not collect any personally identifiable information from children under the age of 13, it also does NOT knowingly distribute such information to third parties. NEARSAY does NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information.
+LocalVox may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to LocalVox, and they are required to maintain the confidentiality of your information.
 
-**MISCELLANEOUS**
+Personally identifying information may be collected by third party companies that provide services to help us with service operation including, but not limited to website analytics, social sharing and advertising. These third parties are authorized to use your personally identifying information and may use such information over time and across different websites and services beyond LocalVox.
 
-All information gathered on the Website is stored within a NEARSAY-controlled database accessible only to NEARSAY. However, as effective as the reasonable security measures implemented by NEARSAY may be, no security system is impenetrable. NEARSAY cannot guarantee the security of its database, nor can it guarantee that information supplied will not be intercepted while being transmitted over the Internet. Users should understand that the Web is an evolving medium. If NEARSAY needs to change its privacy policy at some point in the future, NEARSAY will post the changes before they take effect.
+LocalVox may keep track of the websites and pages our users visit within LocalVox, in order to determine what LocalVox services are the most popular. This data is used to deliver customized content and advertising within LocalVox to customers whose behavior indicates that they are interested in a particular subject area.
+
+LocalVox will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on LocalVox or the site; (b) protect and defend the rights or property of LocalVox; and, (c) act under exigent circumstances to protect the personal safety of users of LocalVox, or the public.
+
+**Use of Cookies**
+
+The LocalVox website, and third partners with whom we partner,  may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize LocalVox pages, or register with LocalVox site or services, a cookie helps LocalVox to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same LocalVox website, the information you previously provided can be retrieved, so you can easily use the LocalVox features that you customized.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the LocalVox services or websites you visit.
+
+**Security of your Personal Information**
+
+To secure your personal information from unauthorized access, use or disclosure, LocalVox uses the following:
+
+GeoTrust
+
+**Children Under Thirteen**
+
+LocalVox does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+
+**Disconnecting your LocalVox Account from Third Party Websites**
+
+You will be able to connect your LocalVox account to third party accounts. BY CONNECTING YOUR LOCALVOX ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. We use a service called Disqus. Users are able to disconnect through the Disqus preferences and settings..
+
+**Opt-Out & Unsubscribe**
+
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from LocalVox by contacting us here:
+
+\- Web page: www.localvox.com
+
+\- Email: gethelp@localvox.com
+
+\- Phone: 646-545-3400
+
+**Changes to this Statement**
+
+LocalVox will occasionally update this Statement of Privacy to reflect company and customer feedback. LocalVox encourages you to periodically review this Statement to be informed of how LocalVox is protecting your information.
+
+**Contact Information**
+
+LocalVox welcomes your questions or comments regarding this Statement of Privacy. If you believe that LocalVox has not adhered to this Statement, please contact LocalVox at:
+
+LocalVox Media Inc.
+
+420 Lexington Avenue, 29th Floor, Suite 2903
+
+New York, New York 10170
+
+Email Address: gethelp@localvox.com
+
+Telephone number: (646) 545-3400
+
+Effective as of June 27, 2014
