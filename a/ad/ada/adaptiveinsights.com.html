@@ -1,15 +1,13 @@
-<!--The following is the downloaded HTML source of the adaptiveinsights.com privacy policy that was archived on 2014-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140504133643id_/http%3A//www.adaptiveinsights.com/online-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adaptiveinsights.com privacy policy that was archived on 2014-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141211195541id_/http%3A//www.adaptiveinsights.com/online-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class=" wf-loading"><head>
-        
     <title>Online Privacy Policy - Budgeting Software, Forecasting Software, Corporate Performance Management (CPM) - Adaptive Insights </title>
     <base href="http://www.adaptiveinsights.com/">
 	<link rel="canonical" href="http://www.adaptiveinsights.com/online-privacy-policy">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="google-site-verification" content="xI5Lq1mz-fYGMhqNrNJg5wAEFReqRBDuMtkS5bY_fes">
 
-        
     
     <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TJB768"></script><script src="//use.typekit.net/xsa7fwk.js" type="text/javascript" async=""></script><script type="text/javascript">
       (function() {
@@ -27,11 +25,12 @@
 <link rel="stylesheet" type="text/css" href="http://www.adaptiveinsights.com/tmp/cache/stylesheet_combined_bd18b18c7fc1f70d2462043958d49725.css" media="all">
 
     <link rel="stylesheet" href="/uploads/style.css?v=1" type="text/css" media="screen" title="styles" charset="utf-8">
+    <link rel="stylesheet" href="/uploads/css/languageswitcher.css?v=1" type="text/css" media="screen" title="styles" charset="utf-8">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
     <script src="//ajax.microsoft.com/ajax/jquery.cycle/2.99/jquery.cycle.all.js" type="text/javascript"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>    
     <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js" type="text/javascript"></script>
-
+    <script src="/uploads/js/languageswitcher.js" type="text/javascript"></script>
     <script src="/uploads/js/fadeInSeq.js" type="text/javascript" charset="utf-8"></script>
     <script src="/uploads/js/jquery.simplemodal.js" type="text/javascript" charset="utf-8"></script>
     <script src="/uploads/js/jquery.cookie.js" type="text/javascript"></script>
@@ -39,11 +38,11 @@
     <script src="/uploads/js/jquery.tipsy.js" type="text/javascript"></script>
     <script src="/uploads/js/jquery.url.js" type="text/javascript"></script>
     <script src="/uploads/js/cookies.js" type="text/javascript"></script>
-
     <script src="/uploads/js/ap_scripts.js" type="text/javascript"></script>
     <script src="//fast.wistia.com/static/embed_shepherd-v1.js"></script>
     <script src="//fast.wistia.com/static/popover-v1.js" type="text/javascript" charset="ISO-8859-1"></script>
-
+    <script src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
+<script src="/uploads/js/ga-cookie.js" type="text/javascript"></script>
     
     <!--[if lte IE 6]><script src="{root_url }/uploads/js/ap_ie_scripts.js" type="text/javascript"></script><![endif]-->
     <script type="text/javascript">
@@ -51,7 +50,6 @@
             ap_init("online-privacy-policy");
         });
     </script>
-    
     
     <!--[if IE]> <link rel="stylesheet" href="http://www.adaptiveinsights.com/uploads/css/styles-ie.css" type="text/css" media="screen" title="styles" charset="utf-8" /> <![endif]-->
     <!--[if IE 6]> <link rel="stylesheet" href="http://www.adaptiveinsights.com/uploads/css/styles-ie6.css" type="text/css" media="screen" title="styles" charset="utf-8" /> <![endif]-->
@@ -75,7 +73,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Google Tag Manager -->
 
-    <div id="fullWrapper">  
+<div id="fullWrapper">  
+<div class="geoBox">
+	<div>
+		<p><strong>Miss us?</strong><br>Canadian Anti-Spam laws make it<br>difficult to reach you!</p>
+	</div>
+	<div>
+		<form method="post" name="WebsiteEmailOptIn" action="https://s689.t.eloqua.com/e/f2" id="form353">
+
+			<fieldset name="hidden_fields">
+				<input type="hidden" name="elqFormName" value="WebsiteEmailOptIn">
+				<input type="hidden" name="elqSiteId" value="689">
+			</fieldset>
+			<fieldset>
+				<label for="Email" class="formLabel">Enter your email address to join our mailing list!</label>
+				<input type="emailAddress" id="emailAddress" name="emailAddress" size="20" maxlength="50" required="">
+				<label for="submit">&nbsp;</label>
+				<input id="Submit" type="submit" value="Submit">
+			</fieldset>
+		</form>
+	</div>
+</div>
+<script type="text/javascript"> 
+$.validator.messages.required = 'Required';
+$("#form353").validate({
+errorPlacement: function(error, element) { 
+error.appendTo( element.parent().find("label.formLabel") ); 
+},
+submitHandler: function(form) { 
+_gaq.push(['_set','hitCallback',function() {
+	form.submit();
+}]);
+_gaq.push(['_trackEvent', 'Form', 'Submit', 'Opt In' ]);
+setGeoRegisteredCookie();
+}
+});
+</script>
         <!-- start header -->
         <div class="headerWrapper">
             <div id="header">
@@ -107,6 +140,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="data-integration">
 <a href="http://www.adaptiveinsights.com/products/data-integration"><span>Adaptive Integration</span></a>
 </li>
+<li class="adaptive-revenue">
+<a href="http://www.adaptiveinsights.com/products/adaptive-revenue"><span>Adaptive Revenue</span></a>
+</li>
 <li class="licensing">
 <a href="http://www.adaptiveinsights.com/products/licensing"><span>Licensing</span></a>
 </li>
@@ -129,6 +165,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="support">
 <a href="http://www.adaptiveinsights.com/services/support"><span>Support</span></a>
 </li>
+<li class="certification">
+<a href="http://www.adaptiveinsights.com/services/certification"><span>Certification</span></a>
+</li>
 <li class="free-trial">
 <a href="http://www.adaptiveinsights.com/services/free-trial"><span>Free Trial Registration</span></a>
 </li></ul>
@@ -143,7 +182,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="http://www.adaptiveinsights.com/customers/success-stories"><span>Success Stories</span></a>
 </li>
 <li class="customer-videos">
-<a href="http://www.adaptiveinsights.com/customers/customer-videos/customer-highlight-video"><span>Customer Videos</span></a>
+<a href="http://www.adaptiveinsights.com/customers/customer-videos"><span>Customer Videos</span></a>
 </li>
 <li class="industries">
 <a href="http://www.adaptiveinsights.com/customers/industries/by-industry"><span>Customers by Industry</span></a>
@@ -161,9 +200,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="value-added-resellers">
 <a href="http://www.adaptiveinsights.com/partners/value-added-resellers"><span>Locate a Partner</span></a>
 </li>
-<li class="partner-application-form">
-<a href="http://www.adaptiveinsights.com/partners/partner-application-form"><span>Become a Partner</span></a>
-</li>
 <li class="partnerportal">
 <a href="http://www.adaptiveinsights.com/partners/partnerportal"><span>Partner Portal</span></a>
 </li></ul>
@@ -175,16 +211,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="http://www.adaptiveinsights.com/events"><span>Overview</span></a>
 </li>
 <li class="seminar-workshop-series">
-<a href="http://www.adaptiveinsights.com/events/seminar-workshop-series"><span>Seminars &amp; Workshops</span></a>
+<a href="http://www.adaptiveinsights.com/events/seminar-workshop-series"><span>In-Person Events Near You</span></a>
 </li>
-<li class="webinar-series">
-<a href="http://www.adaptiveinsights.com/events/webinar-series"><span>Vertical Webinars</span></a>
+<li class="webinars">
+<a href="http://www.adaptiveinsights.com/events/webinars"><span>Webinars</span></a>
 </li>
-<li class="spotlight-topic-webinars">
-<a href="http://www.adaptiveinsights.com/events/spotlight-topic-webinars"><span>Spotlight Topic Webinars</span></a>
-</li>
-<li class="keynote-speaker-webinars">
-<a href="http://www.adaptiveinsights.com/events/keynote-speaker-webinars"><span>Keynote Speaker Webinars</span></a>
+<li class="adaptive-live-2015">
+<a target="_blank" href="http://www.adaptivelive.com"><span>Adaptive Live 2015</span></a>
 </li></ul>
 </li>
 <li class="menuparent learning-center menu-7">
@@ -242,32 +275,48 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<ul class="unli login" style="display: none;">
 		<li><a class="planning" href="http://www.adaptiveinsights.com/login" onclick="setCVs();_gaq.push(['_trackEvent', 'Logins', 'Click', 'Planning login']);">Planning</a></li>
 		<li><a class="consolidation" href="http://www.adaptiveinsights.com/login" onclick="setCVs();_gaq.push(['_trackEvent', 'Logins', 'Click', 'Consolidation login']);">Consolidation</a></li>
-		<li><a class="discovery" href="http://www.adaptiveinsights.com/login/mydials.cgi" title="Click here to access standalone Adaptive Discovery; click Planning to access the Discovery tab within Adaptive Planning" onclick="setCVs();_gaq.push(['_trackEvent', 'Logins', 'Click', 'Discovery login']);">Discovery</a></li>
+		<li><a class="discovery" href="https://signin.mydials.com/SignIn" title="Click here to access standalone Adaptive Discovery; click Planning to access the Discovery tab within Adaptive Planning" onclick="setCVs();_gaq.push(['_trackEvent', 'Logins', 'Click', 'Discovery login']);">Discovery</a></li>
 	</ul>
 </li>
 <li>
-	<span class="phoneNumber">800.303.6346</span>
+	
+<span class="phoneNumber">800.303.6346</span>
+
+
+
+<div class="OneLinkHide">
+<div id="country-select">
+  <form action="server-side-script.php">
+    <select id="country-options" name="country-options">
+      <option selected="selected" title="http://www.adaptiveinsights.com" value="us">United States</option>
+      <option title="http://www.adaptiveinsights.co.uk" value="uk">United Kingdom</option>
+      <option title="http://www.adaptiveinsights.jp" value="jp">Japan</option>
+      <option title="http://www.adaptiveinsights.com.au" value="au">Australia</option>
+      <option title="http://www.adaptiveinsights.co.nz" value="nz">New Zealand</option>
+    </select>
+    <input value="Select" type="submit">
+  </form>
+</div>
+</div>
+<div class="OneLinkShow">
+<div id="country-select">
+  <form action="server-side-script.php">
+    <select id="country-options" name="country-options">
+      <option selected="selected" title="http://www.adaptiveinsights.jp" value="jp">Japan</option>
+      <option title="http://www.adaptiveinsights.com" value="us">United States</option>
+      <option title="http://www.adaptiveinsights.co.uk" value="uk">United Kingdom</option>
+      <option title="http://www.adaptiveinsights.com.au" value="au">Australia</option>
+      <option title="http://www.adaptiveinsights.co.nz" value="nz">New Zealand</option>
+    </select>
+    <input value="Select" type="submit">
+  </form>
+</div>
+</div>
 </li>
 </ul>
 
                 </div>
                 <!-- end mainNav -->
-
-<!--
-                <div class="headerRight">
-                    <div class="logins">
-                        <div class="login-slide">
-                            <a class='planning' href="http://www.adaptiveinsights.com/login" onclick="setCVs();_gaq.push(['_trackEvent', 'Logins', 'Click', 'Planning login']);">Planning</a>
-                            <a class='consolidation' href="http://www.adaptiveinsights.com/login" onclick="setCVs();_gaq.push(['_trackEvent', 'Logins', 'Click', 'Consolidation login']);">Consolidation</a>
-                            <a class='discovery' href="http://www.adaptiveinsights.com/login/mydials.cgi" title='Click here to access standalone Adaptive Discovery; click Planning to access the Discovery tab within Adaptive Planning' onclick="setCVs();_gaq.push(['_trackEvent', 'Logins', 'Click', 'Discovery login']);">Discovery</a>
-                        </div>
-                        <a class="login" href="http://www.adaptiveinsights.com/login" onclick="setCVs();_gaq.push(['_trackEvent', 'Logins', 'Click', 'Planning login']);">Login</a>
-                    </div>
-                    <p class="phone">PHONE (800) 303-6346</p>
-                </div>
--->
-
-
             </div>  
             <!-- end header -->
         </div>
@@ -289,7 +338,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- END messaging -->
     
     <!-- start pagecontent -->
-    <div id="pageWrapper">
+    <div id="pageWrapper" class="pageWrapperClass">
         
             <div id="pageBG" class=" wide">
                 <div id="leftCol">
@@ -299,11 +348,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                                             <div class="quick-links">
                             <h3>Additional Information</h3>
-                            <div id="47b4044b-59b3-47b0-b10a-3e1d0e9c5434">
-<script type="text/javascript" src="http://privacy-policy.truste.com/privacy-seal/Adaptive-Planning/asc?rid=47b4044b-59b3-47b0-b10a-3e1d0e9c5434">// <![CDATA[
-
-// ]]></script>
-<a title="Validate TRUSTe privacy certification" href="http://privacy.truste.com/privacy-seal/Adaptive-Planning/validation?rid=11c977e1-209f-4442-9230-4e1815113576" target="_blank"> <img style="border: none;" src="http://privacy-policy.truste.com/privacy-seal/Adaptive-Planning/seal?rid=11c977e1-209f-4442-9230-4e1815113576" alt="Validate TRUSTe privacy certification"></a></div>
+                            <div id="6d684311-8417-489c-8fdf-5d033c71c582"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Adaptive-Insights/asc?rid=6d684311-8417-489c-8fdf-5d033c71c582"></script><a href="//privacy.truste.com/privacy-seal/Adaptive-Insights/validation?rid=f290c0a6-40d8-4d56-ab23-6f5122931178" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Adaptive-Insights/seal?rid=f290c0a6-40d8-4d56-ab23-6f5122931178" alt="TRUSTe European Safe Harbor certification"></a></div>
 <ul>
 <li><a href="https://safeharbor.export.gov/list.aspx" target="_blank"> <span style="font-size: 9px;">We self-certify compliance with: </span></a></li>
 <li><a href="http://www.export.gov/safeharbor" target="_blank"> <img src="uploads/images/safe-harbor.jpg" alt="US SafeHarbor Site" width="105" height="33"></a></li>
@@ -311,32 +356,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div><!-- /quick-links -->
                                                      </div><!-- / page title nav -->
                     <div class="cta-sidebar">
-	<ul>
-		<li class="demo"><a href="http://www.adaptiveinsights.com/online-demo/"><span>View</span> Demos</a></li>
-		<li class="event"><a href="http://www.adaptiveinsights.com/events/"><span>Attend</span> Event</a></li>
-		<li class="trial"><a href="http://www.adaptiveinsights.com/services/free-trial/"><span>Free</span> Trial</a></li>
-                <li class="contact"><a href="http://www.adaptiveinsights.com/contact-me/">Contact Me</a></li>
-	</ul>
+  <ul>
+    <li class="demo"><a onclick="_gaq.push(['_trackEvent', 'link clicks', 'click', 'cta_sidebar demo']);" href="http://www.adaptiveinsights.com/online-demo/"><span>View</span> Demos</a></li>
+    <span class="OneLinkHide"><li class="event"><a onclick="_gaq.push(['_trackEvent', 'link clicks', 'click', 'cta_sidebar events']);" href="http://www.adaptiveinsights.com/events/"><span>Attend</span> Event</a></li></span>
+    <li class="trial"><a onclick="_gaq.push(['_trackEvent', 'link clicks', 'click', 'cta_sidebar trial']);" href="http://www.adaptiveinsights.com/services/free-trial/"><span>Free</span> Trial</a></li>
+                <li class="contact"><a onclick="_gaq.push(['_trackEvent', 'link clicks', 'click', 'cta_sidebar contact']);" href="http://www.adaptiveinsights.com/contact-me/">Contact Me</a></li>
+  </ul>
 </div><!-- /cta-tabs  -->
                 </div>
                 <div id="mainContent" class=" wide online-privacy-policy---budgeting-software,-forecasting-software,-corporate-performance-management-(cpm) online-privacy-policy">
                     <div class="innerContainer">
                         <h1 class="page-title">Online Privacy Policy</h1>
                         
-                        <div id="47b4044b-59b3-47b0-b10a-3e1d0e9c5434">
-<script type="text/javascript" src="http://privacy-policy.truste.com/privacy-seal/Adaptive-Planning/asc?rid=47b4044b-59b3-47b0-b10a-3e1d0e9c5434"></script>
-<a title="Validate TRUSTe privacy certification" href="http://privacy.truste.com/privacy-seal/Adaptive-Planning/validation?rid=11c977e1-209f-4442-9230-4e1815113576" target="_blank"><img style="border: none;" src="http://privacy-policy.truste.com/privacy-seal/Adaptive-Planning/seal?rid=11c977e1-209f-4442-9230-4e1815113576" alt="Validate TRUSTe privacy certification"></a></div>
-<h2>Last Updated: June 25, 2012</h2>
+                        <div id="6d684311-8417-489c-8fdf-5d033c71c582"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Adaptive-Insights/asc?rid=6d684311-8417-489c-8fdf-5d033c71c582"></script><a href="//privacy.truste.com/privacy-seal/Adaptive-Insights/validation?rid=f290c0a6-40d8-4d56-ab23-6f5122931178" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Adaptive-Insights/seal?rid=f290c0a6-40d8-4d56-ab23-6f5122931178" alt="TRUSTe European Safe Harbor certification"></a></div>
+<h2>Last Updated: July 22, 2014</h2>
 <p>Adaptive Insights, Inc., (“Adaptive”) has created this Privacy Policy to describe how we treat the information that we collect and receive from our users through the Adaptive Insights web site(s) (“Site”) and the data collected through services provided to our customers (“Customers”), for which we are the data processor. By the accessing and the continued use of the Site you signify your explicit consent to these terms and conditions of our Privacy Policy.</p>
-<p>Adaptive Insights has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html" target="_blank">TRUSTe Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.</p>
+<p>Adaptive Insights has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html" target="_blank">TRUSTe Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website: www.adaptiveinsights.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Adaptive Insights. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.</p>
 <p>Adaptive Insights complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Adaptive Insights has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Adpative Planning’s certification, please visit <a href="http://export.gov/safeharbor" target="_blank">http://export.gov/safeharbor</a></p>
-<p>If you have questions or concerns regarding this Policy, you should first contact <a href="mailto:Privacy@adaptiveinsights.com">Privacy@adaptiveinsights.com</a>. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">https://feedback-form.truste.com/watchdog/request</a>, or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., <a href="http://www.truste.com/about_TRUSTe/contact_us.html" target="_blank">click for mailing address</a>. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, <a href="http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html" target="_blank">click here</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English</p>
+<p>As part of our <a href="http://export.gov/safeharbor/">participation</a> in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us at <a href="mailto:Privacy@adaptiveinsights.com">Privacy@adaptiveinsights.com</a>. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">https://feedback-form.truste.com/watchdog/request</a>, or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., <a href="http://www.truste.com/about_TRUSTe/contact_us.html" target="_blank">click for mailing address</a>. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, <a href="http://www.truste.com/products-and-services/dispute-resolution-services/" target="_blank">click here</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English</p>
 <h2>Information Collection and Use on the Site</h2>
 <p>We collect contact information, such as your name, title, company name, address, phone number, and e-mail address and certain company information, such as annual revenues, number of employees, or industry, from visitors who wish to receive information about Adaptive and its products and services. We use this information to provide you with information about the products and services that we provide and to send information regarding Adaptive or its partners, such as newsletters, promotions and events.</p>
 <h2>Information Collection and Use through the Service</h2>
 <p>We require Customers who register to use the services offered on our Site (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, and the number of users within the organization that will be using the Service, and we may also ask for additional information such as title, department name, fax number, and additional company information, such as annual revenues, number of employees, or industry. It is the Customer’s obligation, as the data controller, to inform its registered users about the purposes for which information about them is collected and may be used on this Service. Registered users can update or remove their account information at any time by logging into the Site and editing their account information.</p>
 <p>Adaptive uses the account information that we collect to set up the Service for individuals and their organizations. We may also use the account information to contact our registered users to further discuss customer interest in Adaptive and its products and services and the Service that we provide, and to send information regarding Adaptive or its partners, such as newsletters, promotions and events. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. Except as we explicitly state at the time we request information, we do not disclose to third parties the information provided.</p>
 <p>Registered users are required to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or Adaptive, and will send a Customer Newsletter. Registered users of the Service will be using the Site to host data and information ("Data"). Adaptive will not review, share, distribute, print, or reference any such Data except as provided in your End User Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed for the purpose of resolving a problem, support issue, improving system performance, or suspected violation of the End User Subscription Agreement, or as may be required by law. Users are responsible for maintaining the confidentiality and security of their user registration and password.</p>
+<p>Adaptive collects and processes 3rd party personal information under the direction of our Customers.  We have no ownership of this information or any direct relationship with individuals whose personal information may be processed as part of providing our Service.</p>
+<p>An individual who seeks access to their data, seeks to correct, amend or delete inaccurate data or wishes to opt-out of communications from a Adaptive Customer should direct his/her query to the Adaptive Customer he/she interacts with directly (the data controller).  If an Adaptive Customer requests that we remove information on their behalf, we will respond to their request within 30 days.</p>
+<p>Adaptive may transfer personal information to other companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Customers.</p>
+<p>Adaptive will retain personal information we process on behalf of our customers for as long as needed to provide services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
 <h2>Public Forums</h2>
 <p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:Privacy@adaptiveinsights.com">privacy@adaptiveinsights.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
 <h2>Testimonials</h2>
@@ -349,10 +396,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.</p>
 <p>We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. We use a persistent cookie to record the most recently visited Adaptive Insights server for purposes of routing. This cookie is anonymous and includes no user information.</p>
 <p>If you reject cookies, you may still use our application, but your ability to use some areas of our application will be limited.</p>
+<p>The use of cookies by our partners, affiliates, tracking utility company, service providers is not] covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID and persistent cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.</p>
 <h2>Third Party Tracking</h2>
-<p>Adaptive Insights and our third party advertising partners use clear gifs (web beacons), images and scripts. We tie the information gathered to our customers’ personally identifiable information.</p>
+<p>Adaptive Insights and our third party advertising partners use clear gifs (web beacons), images and scripts. We tie the information gathered to our customers’ personal information.</p>
 <p>To learn more about our advertising company’s use of clear gifs, please go to <a href="http://code.google.com/apis/analytics/docs/tracking/home.html" target="_blank">http://code.google.com/apis/analytics/docs/tracking/home.html</a>.</p>
 <p>We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”</p>
+<h2>Behavioral Targeting/ Re-Targeting</h2>
+<p>We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com">Here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
 <h2>Information Sharing and Disclosure</h2>
 <p>Adaptive will not rent, sell, or share personal information about you with other people or nonaffiliated companies except, to provide the Services that you have requested, when we otherwise have your permission, or under the following circumstances:</p>
 <ul>
@@ -371,6 +421,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@adaptiveinsights.com.</p>
 <h2>Third Party Sites</h2>
 <p>The Site may contain links to other websites. Our Privacy Policy only applies to the Adaptive websites and we are not responsible for the privacy practices or the content of other websites. You should check the privacy policies of those sites before providing your personal information to them.</p>
+<h2>Social Media Widgets</h2>
+<p>Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
 <h2>Update to the Privacy Statement</h2>
 <p>We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
 <h2>Additional Information</h2>
@@ -418,6 +470,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<a href="http://www.adaptiveinsights.com/products/data-integration"><span>Adaptive Integration</span></a>
 												</li>
 			
+							<li class="adaptive-revenue">
+					<a href="http://www.adaptiveinsights.com/products/adaptive-revenue"><span>Adaptive Revenue</span></a>
+												</li>
+			
 							<li class="licensing">
 					<a href="http://www.adaptiveinsights.com/products/licensing"><span>Licensing</span></a>
 												</li>
@@ -449,6 +505,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<a href="http://www.adaptiveinsights.com/services/support"><span>Support</span></a>
 												</li>
 			
+							<li class="certification">
+					<a href="http://www.adaptiveinsights.com/services/certification"><span>Certification</span></a>
+												</li>
+			
 							<li class="free-trial">
 					<a href="http://www.adaptiveinsights.com/services/free-trial"><span>Free Trial Registration</span></a>
 							
@@ -469,7 +529,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												</li>
 			
 							<li class="customer-videos">
-					<a href="http://www.adaptiveinsights.com/customers/customer-videos/customer-highlight-video"><span>Customer Videos</span></a>
+					<a href="http://www.adaptiveinsights.com/customers/customer-videos"><span>Customer Videos</span></a>
 												</li>
 			
 							<li class="industries">
@@ -495,17 +555,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<a href="http://www.adaptiveinsights.com/partners/value-added-resellers"><span>Locate a Partner</span></a>
 												</li>
 			
-							<li class="partner-application-form">
-					<a href="http://www.adaptiveinsights.com/partners/partner-application-form"><span>Become a Partner</span></a>
-												</li>
-			
 							<li class="partnerportal">
 					<a href="http://www.adaptiveinsights.com/partners/partnerportal"><span>Partner Portal</span></a>
 							
 		</li></ul>
 
         </div>
-        <div class="block">
+        <div class="block OneLinkHide">
             <h5>Events</h5>
             
 	<ul class="dropdownitems">
@@ -515,19 +571,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												</li>
 			
 							<li class="seminar-workshop-series">
-					<a href="http://www.adaptiveinsights.com/events/seminar-workshop-series"><span>Seminars &amp; Workshops</span></a>
+					<a href="http://www.adaptiveinsights.com/events/seminar-workshop-series"><span>In-Person Events Near You</span></a>
 												</li>
 			
-							<li class="webinar-series">
-					<a href="http://www.adaptiveinsights.com/events/webinar-series"><span>Vertical Webinars</span></a>
+							<li class="webinars">
+					<a href="http://www.adaptiveinsights.com/events/webinars"><span>Webinars</span></a>
 												</li>
 			
-							<li class="spotlight-topic-webinars">
-					<a href="http://www.adaptiveinsights.com/events/spotlight-topic-webinars"><span>Spotlight Topic Webinars</span></a>
-												</li>
-			
-							<li class="keynote-speaker-webinars">
-					<a href="http://www.adaptiveinsights.com/events/keynote-speaker-webinars"><span>Keynote Speaker Webinars</span></a>
+							<li class="adaptive-live-2015">
+					<a target="_blank" href="http://www.adaptivelive.com"><span>Adaptive Live 2015</span></a>
 							
 		</li></ul>
 
@@ -619,7 +671,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         <div class="block block-compliance">
             <a href="http://www.export.gov/safeharbor" target="_blank"><img src="/uploads/images/safe-harbor.jpg" alt="Safe Harbor logo"></a>
-            <a href="//privacy.truste.com/privacy-seal/Adaptive-Planning/validation?rid=11c977e1-209f-4442-9230-4e1815113576" title="Validate TRUSTe privacy certification" target="_blank"><img src="/uploads/images/page_images/TRUSTeSeal.png" alt="Validate TRUSTe privacy certification"></a>
+            <div class="block block-compliance" id="6d684311-8417-489c-8fdf-5d033c71c582"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Adaptive-Insights/asc?rid=6d684311-8417-489c-8fdf-5d033c71c582"></script><a href="//privacy.truste.com/privacy-seal/Adaptive-Insights/validation?rid=f290c0a6-40d8-4d56-ab23-6f5122931178" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none; height:33; width:105;" width="105" height="33" src="//privacy-policy.truste.com/privacy-seal/Adaptive-Insights/seal?rid=f290c0a6-40d8-4d56-ab23-6f5122931178" alt="TRUSTe European Safe Harbor certification"></a></div>
         </div>
 
         <div class="block block-social">
