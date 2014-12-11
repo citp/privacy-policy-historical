@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heinemann.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616220458id_/http%3A//www.heinemann.com/extracreditclub/Heinemann%2520Website%2520-%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heinemann.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211233854id_/http%3A//www.heinemann.com/extracreditclub/Heinemann%2520Website%2520-%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 
 
