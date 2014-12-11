@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the aadharcards.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065806id_/http%3A//aadharcards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcards.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211204812id_/http%3A//aadharcards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aadhar Cards, E-aadhaar Card Download, UIDAI, aadhaar status, aadhar cards
 
+  
 This Privacy Policy governs the manner in which Aadhar card collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://aadharcards.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Aadhar card .
 
 Personal identification information
@@ -20,11 +21,11 @@ How we use collected information
 
 Aadhar card may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 How we protect your information
