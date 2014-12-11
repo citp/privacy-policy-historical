@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the depromocodes.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609075450id_/http%3A//www.momscouponcodes.com/privacy-policy-for-depromocodes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depromocodes.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211111932id_/http%3A//www.mompromocodes.com/privacy-policy-for-depromocodes) for the most accurate reproduction.*
 
-# Privacy Policy for DePromoCodes | Promo Codes 2014
+# Privacy Policy for DePromoCodes - Promo Codes 2014
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Contact us](mailto:software.engineering3@gmail.com).  
 At [**http://www.depromocodes.com/**](http://www.depromocodes.com/) we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by **http://depromocodes.com/** and how we use it.  
