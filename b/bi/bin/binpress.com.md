@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the binpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123428id_/http%3A//www.binpress.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binpress.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211013930id_/http%3A//www.binpress.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Binpress
 
-_Last revised on Jul 8th, 2013_
+_Last revised on Aug 9th, 2014_
 
-We at Binpress Inc. value your privacy and understand that some users may not wish for their personal information to be spread across the world, and therefore have set up this Privacy Policy. We also have opened a dedicated account for complaints relating to privacy, which is [privacy@binpress.com](mailto:privacy@binpress.com) where you can contact us and ask more questions.
+We at Binpress Inc. value your privacy and understand that some users may not wish for their personal information to be spread across the world, and therefore have set up this Privacy Policy. We also have opened a dedicated account for complaints relating to privacy, which is [privacy@binpress.com](mailto:privacy@binpress.com) where you can contact us and ask more quemxstions.
 
 In general, please note the following:
 
@@ -31,8 +31,12 @@ We also retain the following information regarding your browsing preferences and
 
 When browsing our site, and in order to provide you with better service, we also store a cookie on your computer which may identify the browser you are browsing from and maintain your sign-in status.
 
-We also allow some 3rd parties to store cookies on your computer, in order to provide you with better services and to allow us to present you with retarget you when you visit other sites, and show you relevant advertisements there.  
+We also allow some 3rd parties to store cookies on your computer, in order to provide you with better services and to allow us to retarget you when you visit other sites, and show you relevant advertisements there.
+
 You can opt-out of 3rd party retargeting by visiting your [Ads Settings](https://www.google.com/settings/ads).
+
+ We also allow a 3rd party service named Maxmind to store cookies on your computer, in order to track fraud behavior. You cannot opt-out of maxmind and by using our website you agree to their term of services and their privacy policy.  
+ 
 
 We also store information regarding your transactions in the site, including the amount of purchases, your recent transactions or other information, and may store your interaction with other users.
 
