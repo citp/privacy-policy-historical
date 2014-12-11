@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgn.tv privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233025id_/http%3A//broadbandtvcorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgn.tv privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211200248id_/http%3A//bbtv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BroadbandTV Corp.
 
@@ -122,7 +122,7 @@ We retain Personal Information for as long as is necessary to fulfill any of the
 
 You have the right to access the Personal Information we hold about you in order to verify the information and its accuracy. Please note that there may be instances where access may be restricted as permitted or required by applicable laws, rules and regulations, including information that is subject to legal privilege and information relating to a third party. If applicable, we will advise you of the reasons for restricting access subject to any legal or regulatory requirements.
 
-If you want to verify the personal information we hold about you, please contact us at info@broadbandtvcorp.com. To avoid delays, please provide sufficient information in order to allow us to identify you and the specific information you are requesting. Please give us a reasonable amount of time to respond to your inquiry.
+If you want to verify the personal information we hold about you, please contact us at info@bbtv.com. To avoid delays, please provide sufficient information in order to allow us to identify you and the specific information you are requesting. Please give us a reasonable amount of time to respond to your inquiry.
 
 ****6\. MODIFICATION OF THIS PRIVACY POLICY****
 
@@ -149,7 +149,7 @@ Broadband TV Corp.
 
 Vancouver BC V6Z 2T3.
 
-Email: info@broadbandtvcorp.com  
+Email: info@bbtv.com  
   
 ---  
   
