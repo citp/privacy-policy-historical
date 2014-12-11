@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcafeesecure.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628220843id_/https%3A//www2.mcafeesecure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafeesecure.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211031859id_/https%3A//www.mcafeesecure.com/privacy) for the most accurate reproduction.*
 
-# McAfee Secure
+# McAfee Secure / Privacy Policy
 
 Last Updated: 2013-10-01
 
@@ -8,7 +8,7 @@ This privacy policy (this "Policy") describes the collection of personal informa
 
 ### Personal Information
 
-"Personal Information," as used in this Policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address. Personal Information also includes information about an individualâs activities, such as information about his or her activity on our Services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual.
+"Personal Information," as used in this Policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address. Personal Information also includes information about an individual's activities, such as information about his or her activity on our Services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual.
 
 Personal Information does not include "aggregate" or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes.
 
@@ -28,7 +28,7 @@ We collect Personal Information that our users provide to us in a variety of way
 
 #### Passive Information Collection
 
-When you visit our Services, some information is collected automatically. For example, when you access our Services, we automatically collect your browserâs Internet Protocol (IP) address, your browser type, the nature of the device from which you are visiting the Services (e.g., a personal computer or a mobile device), the identifier for any handheld or mobile device that you may be using, the Web site that you visited immediately prior to accessing any Web-based Services, the actions you take on our Services, and the content, features, and activities that you access and participate in on our Services. We also may collect information regarding your interaction with e-mail messages, such as whether you opened, clicked on, or forwarded a message.
+When you visit our Services, some information is collected automatically. For example, when you access our Services, we automatically collect your browser's Internet Protocol (IP) address, your browser type, the nature of the device from which you are visiting the Services (e.g., a personal computer or a mobile device), the identifier for any handheld or mobile device that you may be using, the Web site that you visited immediately prior to accessing any Web-based Services, the actions you take on our Services, and the content, features, and activities that you access and participate in on our Services. We also may collect information regarding your interaction with e-mail messages, such as whether you opened, clicked on, or forwarded a message.
 
 We may collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as "Web beacons"). We use passively-collected information to administer, operate, and improve the Website and our other services and systems, to improve the effectiveness of advertising on our Services, and to provide advertisements and other content that is tailored to you. If we link or associate any information gathered through passive means with Personal Information, or if applicable laws require us to treat any information gathered through passive means as Personal Information, we treat the combined information as Personal Information under this Policy. Otherwise, we use and disclose information collected by passive means in aggregate form or otherwise in a non-personally identifiable form.
 
@@ -78,7 +78,7 @@ The Services may contain links to other Web sites, products, or services that we
 
 ### Children
 
-Childrenâs safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected personal information from a child under the age of 13 on our Services, we will delete that information as quickly as possible. If you believe that we may have collected any such personal information on our Services, please notify us at privacy@pathdefender.com.
+Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected personal information from a child under the age of 13 on our Services, we will delete that information as quickly as possible. If you believe that we may have collected any such personal information on our Services, please notify us at privacy@pathdefender.com.
 
 ### International Visitors
 
@@ -97,6 +97,7 @@ We may occasionally update this Policy. When we do, we will also revise the "las
 If you have any questions or comments about this Policy, please contact us using the following contact information:
 
 PathDefender, LLC   
-156 2nd St  
-San Francisco, CA 94103  
+116 New Montgomery St  
+Suite 200  
+San Francisco, CA 94105  
 privacy@pathdefender.com
