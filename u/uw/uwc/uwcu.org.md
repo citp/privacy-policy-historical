@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwcu.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630204713id_/http%3A//www.uwcu.org/Legal/PrivacyIsImportant.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcu.org privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211024016id_/http%3A//www.uwcu.org/Legal/PrivacyIsImportant.aspx) for the most accurate reproduction.*
 
 # Your Privacy Is Important to Us - UW Credit Union (UWCU, University of Wisconsin Credit Union)
 
