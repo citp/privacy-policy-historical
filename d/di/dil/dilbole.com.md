@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the dilbole.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120061818id_/http%3A//www.scrapehere.com/footer.html%3Fcontent%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dilbole.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211171707id_/http%3A//dilbole.com/footer.html%3Fcontent%3Dprivacypolicy) for the most accurate reproduction.*
 
-# 
+# Dilbole - Privacy policy
 
-**Scrapehere (the "Site") is a web site owned by Scrapehere technologies Pvt Ltd, Bangalore, India, registered company. By using the Site, you expressly acknowledge and agree that any use of the Site will be in accordance with these Terms of Use. If you do not agree to be bound by these Terms of Use, you may not use the Site. Scrapehere may change, add or remove portions of this Agreement at any time. Each time you use the Site, the current version of this Agreement will apply**
+**DilBole (the "Site") is a web site owned by Scrapehere technologies Pvt Ltd, Bangalore, India, registered company. By using the Site, you expressly acknowledge and agree that any use of the Site will be in accordance with these Terms of Use. If you do not agree to be bound by these Terms of Use, you may not use the Site. Scrapehere may change, add or remove portions of this Agreement at any time. Each time you use the Site, the current version of this Agreement will apply**
 
 The contents of the Site are offered for your private, non-commercial and information and discussion purposes only. All materials published by the Site (including, but not limited to prices, photographs, specifications, reviews, ratings, also known as the "Content") are protected by copyright, and owned or controlled by the Site or the party credited as the provider of the Content. If you believe that material located on or linked to by the site violates your copyright, you are encouraged to notify Scrapehere (via the contact us page) in accordance with Digital Millennium Copyright Act ("DMCA") Policy. Scrapehere will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material.
 
 **What information do we collect?**
 
-a. We collect information when you register to join Scrapehere by logging into an account that you already have with certain third-party social networking sites (Facebook and Twitter) via our Service. If you are not currently registered as a User on the Service and you click on "Sign in Using Facebook/Twitter", you will first be asked to enter your Facebook/Twitter credentials and then be given the option to register and join www.scrapehere.com  
+a. We collect information when you register to join DilBole by logging into an account that you already have with certain third-party social networking sites (Facebook and Twitter) via our Service. If you are not currently registered as a User on the Service and you click on "Sign in Using Facebook/Twitter", you will first be asked to enter your Facebook/Twitter credentials and then be given the option to register and join www.dilbole.com  
 b. We also collect information from you when you register on our site by entering your personal details   
-c. We also collect other information that you provide as part of registration, the operation, and personalization of your boards on Scrapehere that cannot reasonably be used to identify or contact you.
+c. We also collect other information that you provide as part of registration, the operation, and personalization of your boards on DilBole that cannot reasonably be used to identify or contact you.
 
 **What do we use your information for?**
 
@@ -45,7 +45,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.scrapehere.com](http://www.scrapehere.com/footer.html?content=termsofuse)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at ['Terms Of Use'](https://web.archive.org/footer.html?content=termsofuse)
 
 **Changes to our Privacy Policy**
 
