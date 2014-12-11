@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502073937id_/http%3A//phila.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211130137id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.*
 
 # PHILA.GOV | Welcome to the City of Philadelphia
 
-[**City of Philadelphia eGovernment Privacy statement**](https://web.archive.org/web/20140502073937id_/http%3A//phila.gov/pdfs/Phila.gov_Privacy_Statement.pdf)Click to download or print this document in an Adobe Portable Document Format (PDF) file.
+[**City of Philadelphia eGovernment Privacy statement**](https://web.archive.org/web/20141211130137id_/http%3A//www.phila.gov/pdfs/Phila.gov_Privacy_Statement.pdf)Click to download or print this document in an Adobe Portable Document Format (PDF) file.
 
 **City of Philadelphia  
 eGovernment and Health Information Privacy Statement**
@@ -35,7 +35,7 @@ Notice of Privacy Practices
   * [ Ambulatory Health Services (AHS)](http://www.phila.gov/health/pdfs/AHSNPPFinalFinal091713.pdf)
   * [ Behavioral Health and Intellectual disAbility Services (DBHIDS)](http://dbhids.org/assets/Forms--Documents/OBHIDSNPP.pdf?v=091113)
   * [ Emergency Medical Services (EMS)](http://www.phila.gov/FIRE//pdfs/notice_privacypractices.pdf)
-  * [ Public Health Laboratory](http://www.phila.gov/health/pdfs/LaboratoryNPP091713.pdf)  
+  * [Public Health Laboratory](https://web.archive.org/web/20141211130137id_/http%3A//www.phila.gov/privacy/pdfs/LaboratoryNPP.pdf)  
 
 
 
