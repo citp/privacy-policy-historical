@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the elearners.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327183829id_/http%3A//www.elearners.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearners.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211023749id_/http%3A//www.elearners.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://privacy.truste.com/privacy-seal/EducationDynamics,-LLC/validation?rid=bb73c301-e204-47d9-b804-58e6ba2d6d8f "TRUSTe online privacy certification")
 
 eLearners.com, a part of the Student Prospecting Division of EducationDynamics, LLC, is a licensee of the TRUSTe Privacy Program.eLearners.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@elearners.com](mailto:privacy@elearners.com "privacy@elearners.com"). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here").
 
