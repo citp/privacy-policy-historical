@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademarks411.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604055607id_/http%3A//www.trademarks411.com/trademark/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademarks411.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211125704id_/http%3A//www.trademarks411.com/trademark/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Trademarks411
 
