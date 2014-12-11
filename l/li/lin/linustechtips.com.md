@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linustechtips.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514082232id_/http%3A//linustechtips.com/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linustechtips.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211111731id_/http%3A//linustechtips.com/main/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer - Linus Tech Tips
 
@@ -57,6 +57,6 @@ By using this Site, you signify your acceptance of this policy and our terms of 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Linus Media Group  
 <http://linustechtips.com/main/>  
-info@linusmediagroup.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on January 29, 2014 
