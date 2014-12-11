@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redbooth.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510162717id_/http%3A//redbooth.com/more-info/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbooth.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211030215id_/https%3A//redbooth.com/more-info/security-privacy) for the most accurate reproduction.*
 
-# Security and Privacy | Our Policies to Protect You | Redbooth
+# Redbooth Security-Privacy Policy
 
 ## Our data privacy policy
 
@@ -45,6 +45,8 @@ If you are a registered user, you may review, update, correct or delete the Pers
 #### Data Retention:
 
 Redbooth will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account. We will try to delete your information quickly upon request. Please note, however, that there might be latency in deleting information from our servers and backed-up.
+
+#### Redbooth Community:
 
 Our Service offers publicly accessible community services such as blogs, forums, and wikis. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts may remain even after you cancel your account.
 
