@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txu.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629060758id_/http%3A//www.txu.com/en/ppolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txu.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211115559id_/http%3A//www.txu.com/en/ppolicy.aspx) for the most accurate reproduction.*
 
 # TXU Energy Privacy Policy
 
@@ -42,7 +42,7 @@ TXU Energy and its affiliates recognize the trust you place in us when you give 
 You are not required to register or provide information to us in order to view much of our site. To obtain services from TXU Energy or subscribe to certain portions of our Web site, such as, but not limited to, the TXU Energy "Small Business Portal" or other services provided by TXU Energy, you may be asked for personal information. We use your information to personalize your Web experience or to provide the services you requested. TXU Energy will only use your information strictly in accordance with this Policy. 
 
 **Access to Your Information**   
-If at any time you want to know exactly what personal information we hold about you or wish to change personal information that is inaccurate or out of date, please contact us at 1-800-292-9113 and we will amend this record. 
+If at any time you want to know exactly what personal information we hold about you or wish to change personal information that is inaccurate or out of date, please contact us at 1-800-818-6132 and we will amend this record. 
 
 **Security  
 ** TXU Energy will endeavour to take all steps deemed reasonable by TXU Energy to keep secure any information we hold about you, and to keep this information accurate and up-to-date. Your information is stored on secure servers that are protected in controlled facilities. We require our employees and data processors to respect the confidentiality of any personal information held by TXU Energy. Unfortunately, no data can be guaranteed to be 100% secure, so we cannot give an absolute assurance that the information you provide to us will be secure at all times. TXU Energy will not be held responsible for events arising from unauthorized access to your personal information. 
