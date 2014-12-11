@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607024512id_/http%3A//web1.givex.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211150422id_/http%3A//web1.givex.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy | Givex - Region: North America
+# Privacy | Givex - Gift Cards, Cloud-based POS, Loyalty | US + Canada
 
 **YOUR CONSENT TO THIS PRIVACY POLICY**  
 By using our web site, you signify that you agree with the terms of our current Privacy Policy as posted in this area of the site. If you do not agree with any term in this Policy, please do not use the site.
