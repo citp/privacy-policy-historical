@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the adaptiveinsights.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504133643id_/http%3A//www.adaptiveinsights.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptiveinsights.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211195541id_/http%3A//www.adaptiveinsights.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy - Budgeting Software, Forecasting Software, Corporate Performance Management (CPM) - Adaptive Insights
 
-[](http://privacy.truste.com/privacy-seal/Adaptive-Planning/validation?rid=11c977e1-209f-4442-9230-4e1815113576 "Validate TRUSTe privacy certification")
+[](http://privacy.truste.com/privacy-seal/Adaptive-Insights/validation?rid=f290c0a6-40d8-4d56-ab23-6f5122931178 "TRUSTe European Safe Harbor certification")
 
-## Last Updated: June 25, 2012
+## Last Updated: July 22, 2014
 
 Adaptive Insights, Inc., (“Adaptive”) has created this Privacy Policy to describe how we treat the information that we collect and receive from our users through the Adaptive Insights web site(s) (“Site”) and the data collected through services provided to our customers (“Customers”), for which we are the data processor. By the accessing and the continued use of the Site you signify your explicit consent to these terms and conditions of our Privacy Policy.
 
-Adaptive Insights has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTe Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Adaptive Insights has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTe Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website: www.adaptiveinsights.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Adaptive Insights. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 Adaptive Insights complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Adaptive Insights has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Adpative Planning’s certification, please visit <http://export.gov/safeharbor>
 
-If you have questions or concerns regarding this Policy, you should first contact [Privacy@adaptiveinsights.com](mailto:Privacy@adaptiveinsights.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [https://feedback-form.truste.com/watchdog/request](http://watchdog.truste.com/pvr.php?page=complaint&url=), or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English
+As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us at [Privacy@adaptiveinsights.com](mailto:Privacy@adaptiveinsights.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [https://feedback-form.truste.com/watchdog/request](http://watchdog.truste.com/pvr.php?page=complaint&url=), or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English
 
 ## Information Collection and Use on the Site
 
@@ -25,6 +25,14 @@ We require Customers who register to use the services offered on our Site (colle
 Adaptive uses the account information that we collect to set up the Service for individuals and their organizations. We may also use the account information to contact our registered users to further discuss customer interest in Adaptive and its products and services and the Service that we provide, and to send information regarding Adaptive or its partners, such as newsletters, promotions and events. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. Except as we explicitly state at the time we request information, we do not disclose to third parties the information provided.
 
 Registered users are required to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or Adaptive, and will send a Customer Newsletter. Registered users of the Service will be using the Site to host data and information ("Data"). Adaptive will not review, share, distribute, print, or reference any such Data except as provided in your End User Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed for the purpose of resolving a problem, support issue, improving system performance, or suspected violation of the End User Subscription Agreement, or as may be required by law. Users are responsible for maintaining the confidentiality and security of their user registration and password.
+
+Adaptive collects and processes 3rd party personal information under the direction of our Customers. We have no ownership of this information or any direct relationship with individuals whose personal information may be processed as part of providing our Service.
+
+An individual who seeks access to their data, seeks to correct, amend or delete inaccurate data or wishes to opt-out of communications from a Adaptive Customer should direct his/her query to the Adaptive Customer he/she interacts with directly (the data controller). If an Adaptive Customer requests that we remove information on their behalf, we will respond to their request within 30 days.
+
+Adaptive may transfer personal information to other companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Customers.
+
+Adaptive will retain personal information we process on behalf of our customers for as long as needed to provide services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Public Forums
 
@@ -50,13 +58,19 @@ We use both session ID cookies and persistent cookies. We use session cookies to
 
 If you reject cookies, you may still use our application, but your ability to use some areas of our application will be limited.
 
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not] covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID and persistent cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.
+
 ## Third Party Tracking
 
-Adaptive Insights and our third party advertising partners use clear gifs (web beacons), images and scripts. We tie the information gathered to our customers’ personally identifiable information.
+Adaptive Insights and our third party advertising partners use clear gifs (web beacons), images and scripts. We tie the information gathered to our customers’ personal information.
 
 To learn more about our advertising company’s use of clear gifs, please go to <http://code.google.com/apis/analytics/docs/tracking/home.html>.
 
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
+
+## Behavioral Targeting/ Re-Targeting
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ## Information Sharing and Disclosure
 
@@ -88,6 +102,10 @@ We follow generally accepted standards to protect the personal information submi
 ## Third Party Sites
 
 The Site may contain links to other websites. Our Privacy Policy only applies to the Adaptive websites and we are not responsible for the privacy practices or the content of other websites. You should check the privacy policies of those sites before providing your personal information to them.
+
+## Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ## Update to the Privacy Statement
 
