@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrongnumbertexts.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603164629id_/http%3A//www.wrongnumbertexts.com/disclosureprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongnumbertexts.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211113814id_/http%3A//www.wrongnumbertexts.com/disclosureprivacy-policy) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy » WrongNumberTexts
 
