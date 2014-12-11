@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tsc.ca privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514122710id_/http%3A//www.theshoppingchannel.com/go/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsc.ca privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211231610id_/http%3A//www.theshoppingchannel.com/go/customerservice/privacypolicy) for the most accurate reproduction.*
 
-# Online Shopping for Canadians
+# Customer Service - TSC - Online Shopping for Canadians
 
 Thank you for your interest in Rogers Media products and services. We believe in giving you full disclosure about the kinds of personal information we gather and what we do with it, as well as giving you a choice about the use of your personal information.
 
