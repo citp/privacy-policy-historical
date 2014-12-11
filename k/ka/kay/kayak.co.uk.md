@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kayak.co.uk privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525010029id_/http%3A//www.kayak.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.co.uk privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211061235id_/http%3A//www.kayak.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - KAYAK
+# Privacy Policy – KAYAK
 
 _Effective as of 14 May, 2014_
 
