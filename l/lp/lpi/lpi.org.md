@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621154621id_/https%3A//www.lpi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211030441id_/http%3A//www.lpi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Linux Professional Institute (LPI)
 
@@ -6,26 +6,25 @@ LPI is committed to protecting the privacy of its candidates and community membe
 
 ## Cookies
 
-As done at many other web sites, LPI uses cookies to identify users so they don't have to re-enter their user id and passwords when using our web site. Cookies also help LPI to improve our web site's usability by allowing users to specify preferences such as a choice of language. If you have cookies disabled, you must enter your password each time you access certain areas of the LPI site. Any cookies set by the LPI site are only valid until you log out of the web site or shut down your browser.
-
-## Third parties
-
-LPI may provide third parties with aggregate statistics about the usage of its web site. This data is based upon thousands of user visits to LPI's web site each month; behavioral or identifying information about any individual user is not collected, unless that user has given us permission to share that information.
+As done at many other web sites, LPI uses cookies to identify users so they don't have to re-enter their user ID and passwords when using our web site. Cookies also help LPI to improve our web site's usability by allowing users to specify preferences such as a choice of language. If you have cookies disabled, you must enter your password each time you access certain areas of the LPI site. Any cookies set by the LPI site are only valid until you log out of the web site or shut down your browser.
 
 ## Official LPI Affiliates
 
-LPI Affiliates are non-profit organizations that have formally partnered with LPI, to provide regional support and promotion of LPI activities and values.
+[LPI Affiliates](https://web.archive.org/international-affiliates) are official representatives of LPI that provide regional support of LPI activities and values around the globe. LPI may provide candidate contact information to LPI Affiliates who wish to send candidates in their region information about LPI activities as long as they contact them in full compliance with the communication laws of that region.
 
-In instances where official affiliates wish to contact candidates on promotional activities LPI may provide them with contact information.
+LPI may also request that candidates provide information to LPI Affiliates to assist in the verification of their certification status. Compliance with such requests is voluntary, and involves providing the minimal information necessary to obtain a candidate's status (LPI ID, name, and year of certification).
 
-LPI may also request that candidates provide to Affiliates information to assist in the verification of their certification status. Compliance with such requests is voluntary, and involves providing the minimal information necessary to obtain a candidate's status (LPI ID, name, and year of certification).
+## Email
 
-## Pearson/Vue and Prometric
+If you do not wish to receive email updates from LPI you may opt-out at any time. All communications sent from LPI Inc. have an unsubscribe link to make this process easy and to be fully compliant with email communications laws.
 
-Candidates who have registered to take LPI exams through the VUE or Prometric network may have provided personal information that has been provided to both LPI and VUE or Prometric.
+Email addresses of webinar attendees may be shared with the company or organization providing the webinar to allow them to provide additional information or special offers with the understanding that users have the ability to opt-out of further communication at any time.
+
+## Pearson VUE
+
+Candidates who have registered to take LPI exams through the Pearson VUE network may have provided personal information that has been provided to both LPI and Pearson VUE.
 
   * [VUE Privacy Policy](http://www.vue.com/legal/privacy/)
-  * [Prometric Privacy Policy](http://www.prometric.com/AboutUs/privacy.htm)
 
 
 
@@ -37,7 +36,7 @@ Anyone voluntarily disclosing Personally Identifiable Information on message boa
 
 ## Security
 
-LPI uses reasonable precautions to protect the personal information disclosed by candidates and other community members. However, with like-minded organizations (i.e. LPI-delivered certification programs, organizations promoting Linux professionalism or open source standards) LPI may release contact information for promotional purposes. However, LPI is not responsible for any breach of security or for the actions of these parties.
+LPI uses reasonable precautions to protect the personal information disclosed by candidates and other community members. LPI is not responsible for the actions or any breach of security by any LPI partners.
 
 ## Obtaining your consent
 
