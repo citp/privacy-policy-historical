@@ -1,118 +1,151 @@
-> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823201704id_/http%3A//www.mobileshop.com/customerservice/terms_view.php/12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211114116id_/http%3A//www.mobileshop.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Mobile Phones - Buy 3, 3G, o2, Orange, Vodafone, Virgin and T-Mobile and Accessories. MobileShop Cheap mobile phones deals
+# Privacy Policy | Mobileshop.com
 
-## MobileShop.com Privacy Policy
+  * [
 
-MobileShop.com is part of the A1 Comms group of companies.
+## About
 
-The A1 Comms Group are committed in complying with the Data Protection Act 1998 so have published this Privacy Policy to help you understand what information we collect, how we use it and what your rights are.
+](http://www.mobileshop.com/about)
+  * [
 
-We may pass information to associated companies within the A1 Comms Group. (A full list of the companies within the A1 Comms Group are available upon request) Please send your request to:
+## Delivery
 
-**Privacy & Data Controller**  
-Mobileshop.com  
-Contract House  
-Turnpike Business Park  
-Alfreton  
-Derbyshire DE55 7AD
+](http://www.mobileshop.com/about/delivery)
+  * [
 
-**What information is collected, and where is it obtained?**
+## Returns
 
-We receive data directly from you at time of purchase (online application/order forms or via telephone), and when you enter a prize draw. Additional information can at times be obtained from third parties, such as the credit reference agencies used when applying for credit (for example pay monthly contract mobile phones).
+](http://www.mobileshop.com/about/returns_policy)
+  * [
 
-Such information requested at time of purchase, enquiries or entries into a prize draw are dependant on what you purchase or are interested in purchasing or the prize draw entered into.
+## Social
 
-We also automatically collect information via electronic means, such as via Cookies (see below). We also obtain the IP (Internet Provider) address of users placing orders via our website(s) for security and fraud prevention reasons.
+](http://www.mobileshop.com/about/social)
+  * [
 
-Any information collected within the A1 Comms Group is collected lawfully and in accordance with Data Protection Act 1998.
+## Terms
 
-**What do we do with your information?**
+](http://www.mobileshop.com/about/terms_and_conditions)
+  * [
 
-\- Information you provide is used to fulfil your order, including the processing of payments.
+## Contact Us
 
-\- For mobile phone applications we will pass information about you to service providers and credit reference agencies.
+](http://www.mobileshop.com/about/contact_us)
+  * [
 
-\- In cases where an order is part completed via our website(s), we may contact you to ascertain if you require any further assistance with placing your order.
+## How to Claim
 
-\- We will disclose information about you to any relevant regulator if they require it or to anyone else if there is a legal duty to do so. 
+](http://www.mobileshop.com/about/how_to_claim)
+  * [
 
-\- We may record telephone conversations with you to ensure consistent service levels, to prevent or detect fraud and for training purposes.
+## FAQs
 
-\- Monitor customer traffic patterns and site usage to help develop and improve the layout of the site.
+](http://www.mobileshop.com/about/faqs)
+  * [
 
-\- Notify you about enhancements to our services such as; changes to the website(s), new services and special offers, or competitions we think may be of interest to you. 
+## Privacy Policy
 
-\- A1 Comms Group Ltd will use your information for their own marketing purposes and may also pass your personal information to other companies within the A1 Comms Group to use for their marketing. 
+](http://www.mobileshop.com/about/privacy_policy)
+  * [
 
-\- Members of the A1 Comms Group may contact you by mail, telephone, email, text message, or any other reasonable method.
+## Cookie Policy
 
-\- You may receive contact from carefully selected third party companies, if you have stated that you are happy to receive such contact. You can select to receive or not receive such contact from third party companies during the ordering processes.
+](http://www.mobileshop.com/about/cookie_policy)
+  * [
 
-**Insurance Policies**
+## WEEE
 
-Any Mobile Phone Insurance Policy you select will be administrated by City Main Administrators Ltd. Your information may be used as detailed above and may also be passed to other companies connected to City Main Administrators Ltd (for insurance administration purposes and relevant regulators).
+](http://www.mobileshop.com/about/weee)
 
-**Credit Applications**
 
-Information which you provide will be used to search your record at the credit reference agencies as well as the electoral register through 3rd party services.
 
-Even if your application goes no further, the credit reference agencies and the *service providers will add details of this search and your application to your record.
+### Privacy Policy
 
-In assessing your credit record, we may also use any information which the A1 Comms Group already holds about you.
+Mobileshop.com ("We") are committed to protecting and respecting your privacy. This policy and any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-If your credit application is successful and we fulfil your order, you will be entered into a credit agreement with the Network Service Provider who will add details of your agreement as well as ongoing details of your account and how you manage it to credit reference agency records. 
+**1.  ** **Information we may collect from you**
 
-If you do not repay on time, the Network Service Provider will inform the credit reference agencies who will record details of the debt. A1 Comms Group will also be informed, who will at this point issue an invoice to you for the retail cost of the items purchased.
+1.1 We may collect and process the following data about you:
 
-All this information will be seen by other organisations carrying out later checks. The information may be used to assess you for credit or to verify your identity. 
+1.1.1 Information that you provide by filling in forms on our site http://www.mobileshop.com/ (our site) or when speaking to our customer service or sales staff. This includes information provided at the time of making purchases from our site or requesting further services.
 
-For details of the Credit Reference Agencies that we receive information from and share information with; please write to our Data Controller (contact details above).
+1.1.2 If you contact us, we may keep a record of that correspondence.
 
-*Service Provider is the Mobile Phone Network in which you attempt to enter an agreement with, such as Vodafone, T-Mobile, Orange, Three and O2.
+1.1.3 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-**Fraud Prevention**
+1.1.4 Details of transactions you carry out through our site and of the fulfilment of your orders.
 
-In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, to other companies within the A1 Comms Group, and to other 3rd party organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way; where there is sufficient evidence to suggest that fraud is being perpetrated.
+1.1.5 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-We may use automated decision making systems when assessing you for credit and for fraud prevention as well as reputable 3rd party sources and may at times request proof of address and or identity before an application can be passed through our Order Verification Department.
+**2.  ** **IP Addresses**
 
-**Consent**
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-By using our website, placing an order, or entering into a prize draw, you are consenting to the collection, processing and use of this information by us and other companies within the A1 Comms Group.
+**3.  ** **Cookies**
 
-When you provide us with your information you will be given the opportunity to express your marketing preferences. 
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-We will always give you the opportunity to say whether you want to receive marketing emails from us by providing you with an 'opt out' or 'unsubscribe' option in any electronic marketing correspondence to enable you to stop any further mailings if you so wish.
+**4.  ** **Where we store your personal data**
 
-We may also pass your information to other companies within the A1 Comms Group and to third parties for debtor tracing and debt recovery purposes. 
+4.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-**Protection of Information**
+4.2 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-We offer the use of a secure server for online ordering via our website(s), which encrypts all information before it is sent.
+4.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-We will not request information which is excessive for the purposes of fulfilling on order; we will also delete any information which is no longer required within the reasonable period of time.
+**5.** **Use made of the Information**
 
-We will protect your data against unauthorised use by allowing only authorised employee's access to your personal information such as your Bank/Card details. For transmission of data and unauthorised access, these details will remain encrypted.
+5.1 We use information held about you in the following ways:
 
-We follow strict procedures regarding storage and disclosure of information. These procedures mean you may be requested to provide proof of identity before any such information may be disclosed to you.
+5.1.1 To ensure that content from our site is presented in the most effective manner for you and for your computer;
 
-In some cases we may administer your account and provide other administrative functions and services from centres in countries outside of Europe. These countries do not always have the same standard of data protection laws as the UK. However, we will have a contract in place to ensure that your information is adequately secured and protected, and we will remain bound by our obligations under the Data Protection Act 1998, even when your personal information is processed outside of Europe.
+5.1.2 To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
 
-**Accuracy of Information**
+5.1.3 To carry out our obligations arising from any contracts entered into between you and us;
 
-With your assistance, we will try our utmost to keep any information held about you up to date and accurate. If any of the information that we hold about you changes, such as your home addresses, names and e-mail addresses, then please contact us either by e-mail [privacy@mobileshop.com](mailto:privacy@mobileshop.com), or write to us at the address above.
+5.1.4 To allow you to participate in interactive features of our service, when you choose to do so;
 
-You also have the right to request a copy of all the personal information we hold about you. To do this, write to our Data Controller (contact details above), enclosing a payment of �9.95 payable to MobileShop.com Ltd, to cover our administrative costs in dealing with your request. Include a valid proof of identity (e.g. copy of driving licence, passport etc) - contact us for a complete list. We need this proof to verify your identity before we can disclose any information to you.
+5.1.5 To notify you about changes to our service;
 
-We aim to respond to requests for information within 28 days or receiving the request, payment and suitable proof of identity. 
+5.1.6 To carry out credit checks and checks to make sure you are who you say you are.
 
-**Cookies**
+5.2 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these.
 
-Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your Internet Web browser to enable our systems to recognise your browser and to store items in your Shopping Trolley while using our website(s).
+5.3 If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-We also use Cookies to track and report the source of sales and user activity within our website(s).
+5.4 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-**Comments**
+5.5 If you do not want us to use your data in the manner described in conditions 5.2, 5.3 and 5.4, or to pass your details on to third parties for marketing purposes, please let us know by emailing us at [care@mobileshop.com](mailto:care@mobileshop.com).
 
-If you have any comments or concern about privacy, please e-mail full details to [privacy@mobileshop.com](mailto:privacy@mobileshop.com) or write to the address above.
+**6.** **Disclosure of your Information**
+
+6.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+6.2 If, through us, you enter into a contract with a network provider in relation to your mobile phone we will disclose such of your personal information as is relevant to that contract to the network provider. The network provider may use this information to carry out credit checks and security checks as well as for other purposes. For details of how the network provider will use your personal information, please ask for details from your provider.
+
+6.3 We will disclose your personal information to licensed credit reference agencies so that they can carry out credit checks and security checks on our behalf.
+
+6.4 We may disclose your personal information to third parties:
+
+6.4.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+
+6.4.2 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply (both of which can be viewed on our site) and other agreements; or to protect the rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+**7.  ** **Your rights**
+
+7.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise the right at any time by contacting us at care@mobileshop.com.
+
+7.2 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+**8.** **Access to Information**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+**9.** **Changes to our Privacy Policy**
+
+Any changes we may make to our privacy policy in the future will be posted on this page.
+
+**10.** **Contact**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [care@mobileshop.com](mailto:care@mobileshop.com).
