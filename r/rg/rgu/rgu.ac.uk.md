@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406220534id_/http%3A//www.rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211015531id_/http%3A//www.rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Robert Gordon University (RGU) Aberdeen Scotland
 
@@ -46,9 +46,11 @@ As a user of the Robert Gordon University website you consent to the collection 
 By writing to:
 
 Data Protection Officer   
-St Andrew Street   
-Aberdeen   
-AB25 1HG
+Records Management   
+Robert Gordon University   
+Schoolhill   
+Aberdeen   
+AB10 1FR
 
 Email: [k.fraser@rgu.ac.uk](mailto:k.fraser@rgu.ac.uk "Email Keith Fraser")
 
