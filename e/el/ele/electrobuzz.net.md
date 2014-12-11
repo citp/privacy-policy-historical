@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the electrobuzz.net privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511222828id_/http%3A//www.electrobuzz.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electrobuzz.net privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211023209id_/http%3A//www.electrobuzz.fm/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Electrobuzz
-
-  
-
+# Privacy Policy - Electrobuzz
 
 ### Information
 
