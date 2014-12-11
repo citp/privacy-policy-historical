@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107210017id_/http%3A//teambox.com/more-info/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211030215id_/https%3A//redbooth.com/more-info/security-privacy) for the most accurate reproduction.*
 
-# Security and Privacy | Our Policies to Protect You | Teambox
+# Redbooth Security-Privacy Policy
+
+## Our data privacy policy
+
+#### Your data is private and only visible to your team
 
 #### Information we collect and store:
 
-We collect and store the text, information, tasks and files you upload or access with the Teambox Service. When you access Teambox, we may automatically record information from your device, its software, and your activity using the service. This may include your device’s IP address, browser type, the web page visited before you came to our website, location, locale preferences, date and time stamps and other metadata concerning your interactions with the service.
+We collect and store the text, information, tasks and files you upload or access with the Redbooth Service. When you access Redbooth, we may automatically record information from your device, its software, and your activity using the service. This may include your device’s IP address, browser type, the web page visited before you came to our website, location, locale preferences, date and time stamps and other metadata concerning your interactions with the service.
 
 #### Cookies:
 
-We use “cookies” to collect information and improve our services. A cookie is a small data file that we transfer to your device. We may use “persistent cookies” to save your registration ID and login password for future logins to the service. You can configure your browser by changing its options to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to easily access all aspects of the Teambox service and may need to manually enter user and password information.
+We use “cookies” to collect information and improve our services. A cookie is a small data file that we transfer to your device. We may use “persistent cookies” to save your registration ID and login password for future logins to the service. You can configure your browser by changing its options to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to easily access all aspects of the Redbooth service and may need to manually enter user and password information.
 
 #### Our Use of Your Personal Information:
 
@@ -24,11 +28,11 @@ We may share your information with a third party application with your consent (
 
 #### Encryption:
 
-Teambox will not be able to decrypt any files that you encrypted prior to storing them on Teambox.
+Redbooth will not be able to decrypt any files that you encrypted prior to storing them on Redbooth.
 
 #### Analytics:
 
-We also collect some information (using third party services) using logging and cookies. We use this information for the above purposes and to monitor and analyze use of the Service, to increase our functionality and user-friendliness. As of the date this policy went into effect, we use Google Analytics and Kiss Metrics.
+We also collect some information (using third party services) using logging and cookies. We use this information for the above purposes and to monitor and analyze use of the Service, to increase our functionality and user-friendliness. As of the date this policy went into effect, we use Google Analytics and KISSMetrics.
 
 #### Business Transfers:
 
@@ -40,7 +44,9 @@ If you are a registered user, you may review, update, correct or delete the Pers
 
 #### Data Retention:
 
-Teambox will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account. We will try to delete your information quickly upon request. Please note, however, that there might be latency in deleting information from our servers and backed-up.
+Redbooth will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account. We will try to delete your information quickly upon request. Please note, however, that there might be latency in deleting information from our servers and backed-up.
+
+#### Redbooth Community:
 
 Our Service offers publicly accessible community services such as blogs, forums, and wikis. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts may remain even after you cancel your account.
 
@@ -48,4 +54,4 @@ Our Service offers publicly accessible community services such as blogs, forums,
 
 This Privacy Policy may change from time to time. If we make a change to this privacy policy that we believe materially reduces your rights, we will provide you with notice (for example, by email). And we may provide notice of changes in other circumstances as well. By continuing to use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-If you have any questions or concerns about security or data privacy on our website or through our service, you should review this entire Security and Data Privacy Policy Page or contact us at [info@teambox.com](mailto:info@teambox.com).
+If you have any questions or concerns about security or data privacy on our website or through our service, you should review this entire Security and Data Privacy Policy Page or contact us at [info@redbooth.com](mailto:info@redbooth.com).
