@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleadprofitz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065711id_/http%3A//simpleadprofitz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleadprofitz.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211101608id_/http%3A//simpleadprofitz.com/privacy.php) for the most accurate reproduction.*
 
 # Simple Ad Profitz! Free Traffic Exchange | Free Advertising Free Web Traffic
 
