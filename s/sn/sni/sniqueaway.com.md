@@ -1,164 +1,176 @@
-> *The following text is extracted and transformed from the sniqueaway.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609044456id_/http%3A//www.sniqueaway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sniqueaway.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211014436id_/http%3A//www.jetsetter.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SniqueAway
+# Privacy Policy - Jetsetter
 
-Below you will find the updated Privacy Policy for [www.SniqueAway.com](http://www.sniqueaway.com/), effective July 21, 2011.
+**Privacy Notice**
 
-We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein.
+Smarter Travel Media LLC and its subsidiaries and affiliates, including JetSetter Inc., dba Jetsetter  (collectively, “Jetsetter”), respect your concerns about privacy.  This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information.  We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
-  * What information we collect from you
-  * How we use your information
-  * With whom we share your information
-  * How you can access your information
-  * Your choices with respect to the collection and use of your information
-  * Cookies and other technologies
-  * Display of tailored advertising/Your choices
-  * How we protect your information
-  * Children's privacy
-  * External links
-  * Visiting our website from outside the United States
-  * Changes to this Privacy Policy
-  * How you can contact us
+The phrase “personal information” refers to information by which you or the device you are using to connect to the Internet can be identified.
 
+Click on one of the links below to jump directly to the listed section:
 
+  * Information We Collect
+  * How We Use the Information We Collect
+  * Online Advertising
+  * Information We Share
+  * Your Choices
+    * Sharing Information with Business Partners
+    * Email Marketing
+    * Web Analytics
+    * Targeted Advertising
+    * Geo-Location Information
+    * Cookies
+    * California Residents
+  * Access and Correction
+  * Links to Other Websites
+  * Data Transfers
+  * How We Protect Personal Information
+  * Children’s Privacy
+  * Updates to this Privacy Notice
+  * How to Contact Us
 
-## What Information We Collect From You
 
-In General. We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and email addresses, fax number, and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences, and frequent flyer and car rental program information. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; book travel; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site. 
 
-Travel Companion Information. When you make a reservation for someone else through this website, we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing us with their personal information and travel preferences, as any access to view or change their information will be available only through your account. 
+**Information We Collect**
 
-Information from Other Sources. We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, purchase history, and demographic information. As another example, if you access third party services, such as social media services, through this website or before coming to this website, we may collect information such as your user name, password, and other information made available to us through those services in order to improve and personalize your use of this website.
+We may obtain personal information about you from various sources, including this and other Jetsetter websites, mobile applications, when you call or email us or communicate with us through social media, or when you participate in events or other promotions.  We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties.
 
-Automatic Information. We automatically collect some information about your computer when you visit this website. For example, we will collect your IP address, Web browser software (such as Firefox, Safari, or Internet Explorer), and referring website. We also may collect information about your online activity, such as trips viewed and bookings made. Our goals in collecting this automatic information include helping customize your user experience and inhibiting fraud. For more information, please see Cookies and other technologies. 
+The types of personal information we may obtain include:
 
-return to top
+  * Your contact information (such as name, Twitter handle, postal and email address, or phone number)
+  * Contact information of friends or other people you would like us to contact
+  * Username and password for the account you may establish on our sites
+  * Payment details (including payment card number, security code, expiration date, cardholder name and billing address)
+  * Shipping information (including the shipping address and phone number)
+  * Demographic information (such as age, date of birth and gender)
+  * Information you provide by interacting with us through social media, including photographs
+  * Location information, such as the real-time geographic location of the device on which you install our mobile applications
+  * Shopping behavior and preferences, and a record of the purchases you make on our websites
+  * Other details that you may submit to us or that may be included in the information provided to us by third parties
 
-## How We Use Your Information
 
-We use sensitive billing information (such as cardholder name, credit card number, and expiration date) for the purpose of completing the travel bookings you conduct on our site. We use other information about you for the following general purposes: to provide you with the products and services you request; to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and website; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with this website; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection. 
 
-Email Communications. We want to make it easy for you to take advantage of travel-related opportunities on our website. One way we do this is by sending you email messages that contain information about your apparent travel-related interests. For example, if you search for a flight to New York on our website and have saved your itinerary or otherwise not yet booked your travel, we may send you an email message reminding you about your saved travel itinerary or about a special airfare to New York. Similarly, if you receive an email from us about New York travel and demonstrate an interest in New York hotels by affirmatively clicking on a link about New York hotels in the email, you may receive an email about New York hotel offers or other destination information. We believe these email messages will provide you with useful information about travel-related special offers available through our site. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send. 
+In addition, when you visit our websites or use our mobile applications, we may collect certain information by automated means, such as cookies and web beacons.  A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser.  A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server.  We also may use third-party website analytics tools (such as Omniture), that collect information about visitor traffic on our sites and mobile applications.  The information we may collect by automated means includes: 
 
-Please review "Your choices with respect to the collection and use of your information" below. 
+  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type)
+  * URLs that refer visitors to our sites
+  * Dates and times of visits to our sites
+  * Information on actions taken on our sites (such as page views and site navigation patterns)  
+  * A general geographic location (such as country and city) from which a visitor accesses our websites
+  * Search terms that visitors use to reach our sites
 
-return to top
 
-## With whom we share your information
 
-This website may share your information with the following entities: 
+**How We Use the Information We Collect**
 
-  * Suppliers, such as hotel, airline, car rental, and activity providers, who fulfill your travel reservations. Throughout this site, all services provided by a third-party supplier are described as such. We do not share your email address with these suppliers unless they need it to fulfill the travel reservation you have made on SniqueAway.com, and we restrict their use of this information to that purpose. We do not place limitations on our suppliers' use or disclosure of your other personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through this site. Please note that these suppliers also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit.
-  * Third-party vendors who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. They are also required to follow the same data security practices that we ourselves adhere to.
-  * Business partners with whom we may jointly offer products or services, or whose products or services may be offered on our website. You can tell when a third party is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners.
-  * Referring websites. If you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We have not placed limitations on the referring websites' use of your personal information and we encourage you to review the privacy policies of any website that referred you here.
-  * Companies within our corporate family. We may share your personal information with our parent company and corporate affiliates, including (but not limited to) TripAdvisor®, as well as international corporate affiliates. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
-  * Social Media Services. You can choose to access certain third party social media Web sites and services through our site (such as Facebook). When you do so, you are sharing information with those sites, and the information you share will be governed by their privacy policies. You may also be able to modify your privacy settings with these third party social media web sites.
+We may use the information we obtain about you to:
 
+  * Register you for membership at our websites, and manage and maintain your account on the sites 
+  * Provide products or services you request 
+  * Process, validate, confirm, verify, deliver and track your purchases (including by processing payment card transactions, arranging shipping and handling returns and refunds, and contacting you about your orders, including by telephone)
+  * Maintain a record of the purchases you make on our sites
+  * Respond to your questions and comments and provide customer support
+  * Communicate with you about our products, services, offers, events and promotions, and offer you products and services we believe may be of interest to you
+  * Enable you to communicate with us through our blogs, social networks and other interactive media
+  * Publish your testimonials about Jetsetter, including on our websites and blogs, and on social networks (if we choose to publish your testimonial, we will include only your first name, last initial, city and state) 
+  * Manage your participation in our events, sweepstakes and other promotions
+  * Tailor our products and services to suit your personal interests and the manner in which visitors use our sites, applications and social media assets 
+  * Operate, evaluate and improve our business and the products and services we offer
+  * Analyze and enhance our marketing communications and strategies (including by identifying when emails sent to you have been received and read)
+  * Analyze trends and statistics regarding visitors’ use of our sites, mobile applications and social media assets, and the purchases visitors make on our sites
+  * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users 
+  * Enforce our [Website Terms of Use](https://web.archive.org/websiteterms) and [Terms and Conditions](https://web.archive.org/terms-of-service)
+  * Comply with applicable legal requirements and industry standards and our policies 
 
 
-We also may share your information: 
 
-  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us. 
-  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website, our customers, or others; and in connection with our Terms of Service and other agreements.
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+In addition to the data uses described above, we may use the information collected through cookies and other automated means to uniquely identify the electronic shopping basket you may create on our sites and enable you to retrieve shopping baskets you previously created.  We also may use cookies to identify and authenticate visitors.     
+We may combine the information we collect with publicly available information and information we receive from our parent, affiliate or subsidiary companies, business partners and other third parties.  We may use that combined information to enhance and personalize your shopping experience with us, to communicate with you about products, services and events that may be of interest to you, for other promotional purposes, and for other purposes described in this section.  
+We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
 
+**Online Advertising**
 
+On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests.  You may see certain ads on this and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means.  These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods.  The networks use this information to show you advertisements for Jetsetter and our business partners that are tailored to your individual interests.  The information our ad network **** vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites.  This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks.  This process also helps us track the effectiveness of our marketing efforts. ****  
+To direct our ad network vendors not to use your data to deliver targeted advertising to you, please contact us at[privacy@jetsetter.com](mailto:privacy@jetsetter.com).
 
-Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information. 
+**Information We Share**
 
-We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest. 
+We do not sell or otherwise disclose personal information about you, except as described in this Privacy Notice.    
+We may share the personal information we collect with our parent, affiliate and subsidiary companies, business partners, ad network vendors and their participants, and other third parties for the purposes described in this Privacy Notice, including to communicate with you **** about **** products and services, offers, events and promotions that we believe may be of interest to you. We also may share personal information with our service providers who perform services on our behalf.  These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.  
+We also may disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.  We also reserve the right to transfer personal information we have about you in the event we sell, merge or transfer all or a portion of our business or assets.  Following such a sale, merger or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information. 
 
-return to top
+**Your Choices**
 
-## How you can access your information
+We offer you certain choices about what information we collect from you, how we use and disclose the information, and how we communicate with you.  
+You may withdraw any consent you previously provided to us or object at any time on legitimate grounds to the processing of your personal information. We will apply your preferences going forward. In some circumstances, withdrawing your consent to Jetsetter’s use or disclosure of your personal information will mean that you cannot take advantage of certain Jetsetter offerings or site features.  
+Here are the choices we offer:
 
-You can access and update your contact information by visiting this website's member profile page. You can close your account by contacting us at the email address listed below. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account, including for analytical purposes as well as for recordkeeping integrity. 
+**_Sharing Information with Business Partners_**
 
-return to top
+You may direct Jetsetter not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at [privacy@jetsetter.com](mailto:privacy@jetsetter.com). If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
 
-## Your choices with respect to collection and use of your information
+**_Marketing Emails_**
 
-  * As discussed above, you can choose not to provide us with any information, although it may be needed to book travel or to take advantage of certain features offered on this site.
-  * You also can add or update information and close your account as described above. 
-  * When you register as a member on this site, you will be given a choice as to whether you want to receive email messages from us about special offers. As a registered member, you can modify your choice at any time on the Member Profile page. Whether registered as a member or not, you will also be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them. 
-  * You may have the opportunity on our website to provide a mobile number in order to receive day-of-travel alerts related to your reservation. You may discontinue these alerts at any time. 
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from this site, you will not be able to access portions of our site. 
+You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in the marketing emails or by adjusting your email preferences using the online account you may establish on our sites.
 
+**_Web Analytics_**
 
+Jetsetter uses a web analytics company to track and generate reports on visitor use of Jetsetter. We use the web analytics company to analyze visitor activity so that we may better understand how visitors make use of SmarterTravel.com, and so that we may better tailor content to meet our visitors' needs. This data may include individual visitor click behavior. However, no personally identifiable information is shared with the web analytics company. Although our web analytics company logs the information coming from jetsetter.com on our behalf, we control how that data may and may not be used. Visitors who wish to opt-out of this website analysis tool may do so by clicking [here](http://www.omniture.com/en/privacy/product#optout) (This is an external link to our web analytics company and will open in a new window).
 
-return to top
+**_Targeted Advertising_**
 
-## Cookies and other technologies
+To opt out of receiving marketing communications through the advertising networks of our ad network vendors, please click [here](http://www.networkadvertising.org/managing/opt_out.asp), then click “Select all” on the linked site and push the “Submit” button.
 
-Cookies are small data text files and can be stored on your computer's hard drive (if your Web browser permits). This website uses cookies for the following general purposes: 
+**_Geo-Location Information_**
 
-  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled "Sign me in automatically next time." Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information.
-  * To help us customize the content and advertisements provided to you on this website and on other sites across the Internet. For example, when you access a page on our website, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See Display of Advertising/Your Choices for more information about our online advertising practices and your choices.
-  * To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which emails you open and act upon). 
+When you use a Jetsetter application on your mobile device, you may choose not to share your geo-location details with us by adjusting the device’s location services settings.  For instructions on changing the relevant settings please contact your service provider or device manufacturer.
 
+**_Cookies_**
 
+Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies.  Please note, however, that without cookies you may not be able to take full advantage of all of our sites’ features.  In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics or targeted advertising opt-outs.
 
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our sites. 
+**_Your California Privacy Rights_**
 
-In addition to the above cookies, we use Local Shared Objects, also referred to as "flash cookies", on our web site. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please click here: [http://kb2.adobe.com/cps/546/4c68e546.html ](http://kb2.adobe.com/cps/546/4c68e546.html). 
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Jetsetter has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Jetsetter, sufficient to give you a reasonable indication of the nature of the third parties’ business.  To submit your request, please email [privacy@jetsetter.com](mailto:privacy@jetsetter.com).
 
-This site may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings. 
+**Access and Correction**
 
-return to top
+You may obtain a copy of certain personal information we maintain about you or update or correct inaccuracies in that information using the online account you may establish on our websites.  In addition, if you believe other personal information we maintain about you is inaccurate, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section of this Privacy Notice.  If we deny an access request, we will notify you of the reasons for the denial.
 
-## Display of tailored advertising/Your choices
+**Links to Other Websites**
 
-Data collected by this website to serve you with relevant offers. SniqueAway.com is committed to providing you with relevant content and information. To do this, we may, through cookies and other technologies, collect information about your travel-related searches, such as whether you are looking for airline flights or hotels. We use this information, together with other information we have collected about you, to serve you with ads, on our website or elsewhere online, that match your apparent interests. So, for example, if you search for a flight to Florida on this site, you may see an ad for a Florida travel package on this site or on another website you visit. 
+Our websites may contain links to other sites for your convenience and information.  These sites may be operated by companies not affiliated with Jetsetter.  Linked sites may have their own privacy notices, which you should review if you visit those websites.  We are not responsible for the content of any websites not affiliated with Jetsetter, any use of those sites, or those sites’ privacy practices.  
 
-We also do not share your personal information with third parties so they can serve you with advertisements. You can choose not to receive tailored online advertising on other websites, based on your travel-related searches on this website, by clicking here. Note that if you choose not to receive tailored ads, you will still see online advertisements, but they will be more general and less relevant to you. 
 
-Data collected by business partners and ad networks to serve you with relevant advertising. The advertisements you see on this website are served by us or by our service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites; and (2) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you (such as email address) on our site, nor do we share with them any personal information about you. 
+**Data Transfers**
 
-Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.networkadvertising.org/). 
+When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States.  The countries in which we process the information may not have the same data protection laws as the country in which you are located.  We will protect your information as described in this Privacy Notice.
 
-Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising. Like other companies operating online, SniqueAway.com participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [here](http://www.bluekai.com/consumers.html) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs. 
+**How We Protect Personal Information**
 
-### Your California privacy rights
+We maintain administrative, technical and physical safeguards designed to assist us in protecting the personal information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  For example, we use Secure Sockets Layer encryption to protect certain of your purchase information while in transit.   
+Please note that no electronic transmission of information can be entirely secure.  We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail, or that those measures will always be sufficient or effective.  
+To further protect yourself, you should safeguard your Jetsetter account user name and password and not share that information with anyone  You should also sign off your account and close your browser window when you have finished your visit to our sites.  Please note that we will never ask for your Jetsetter account user name or password via email.  
+For additional details about the security measures we have implemented to safeguard personal information, please see our [Information Security Policy](https://web.archive.org/security-policy).
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email [support@sniqueaway.com](mailto:%20support@sniqueaway.com)
+**Children’s Privacy**
 
-return to top
+Jetsetter does not direct its websites to children under the age of thirteen.  We require registered users of the site to be at least eighteen years old.  If we learn that a user is under eighteen years of age, we will promptly delete any personal information that the individual has provided to us.
 
-## How we protect your information
+**Updates to this Privacy Notice**
 
-We want you to feel confident about using this website to make travel arrangements, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they may only do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information. 
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices.  We will post a prominent notice on our websites to notify you of any significant changes to our Privacy Notice and indicate at the bottom of the notice when it was most recently updated.
 
-return to top
+**How to Contact Us**
 
-## Children's privacy
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@jetsetter.com](mailto:privacy@jetsetter.com).  You also may write to us at:  
+Smarter Travel Media LLC  
+Attn: Jetsetter.com  
+500 Rutherford Avenue  
+Charlestown, MA 02129  
+617-886-5555  
+617-886-5501 (fax)  
+[privacy@jetsetter.com](mailto:privacy@jetsetter.com)
 
-This is a general audience website and does not offer services directed to children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information. 
-
-return to top
-
-## External links
-
-If any part of this website links you to other sites, those sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information. 
-
-return to top
-
-## Visiting our website from outside the United States
-
-If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy. 
-
-return to top
-
-## Changes to this Privacy Policy
-
-We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website. 
-
-return to top
-
-## How you can contact us
-
-If you have questions about either this Privacy Policy (or your travel planning or purchases), please call us at: 1-877-647-8348 or email us at: [support@sniqueaway.com](mailto:%20support@sniqueaway.com).
-
-This Privacy Policy is effective as of July 21, 2011. 
-
-return to top
+**Effective Date:   April 22, 2013**
