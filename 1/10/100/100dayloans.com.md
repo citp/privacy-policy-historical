@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100dayloans.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140146id_/http%3A//www.100dayloans.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100dayloans.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211041010id_/http%3A//www.100dayloans.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 100 Day Loans
 
