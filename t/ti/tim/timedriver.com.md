@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timedriver.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621042549id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timedriver.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211050508id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | TimeTrade
 
-TimeTrade Systems, Inc. ("TimeTrade") respects your privacy and values your trust. The following Privacy Statement outlines how TimeTrade will treat information as you use our products and services. Please direct any questions that you may have regarding our Privacy Statement at any time to our privacy coordinator at privacytimetrade [dot] com.
+TimeTrade Systems, Inc. ("TimeTrade") respects your privacy and values your trust. The following Privacy Statement outlines how TimeTrade will treat information as you use our products and services. Please direct any questions that you may have regarding our Privacy Statement at any time to our privacy coordinator at privacytimetrade.com.
 
 ### Personally-identifiable Information
 
@@ -38,7 +38,7 @@ Our Web site has security measures in place to protect against the loss, misuse,
 
 ### Credit Card Transactions
 
-Online credit card payments are processed by [Z](http://www.ariasystems.com/)[uora, Inc](http://www.zuora.com/). All other credit card transactions are processed by PayPal/[Cybercash](http://www.cybercash.com/). These professional payment authorization services were chosen to ensure secure and private handling of payment transactions. Both Zuora and Cybercash offer secure encrypted credit card transactions for thousands of companies and have stringent security measures in place.
+Online credit card payments are processed by [Z](http://www.ariasystems.com/)[uora, Inc](http://www.zuora.com/). All other credit card transactions are processed by PayPal/Cybercash. These professional payment authorization services were chosen to ensure secure and private handling of payment transactions. Both Zuora and Cybercash offer secure encrypted credit card transactions for thousands of companies and have stringent security measures in place.
 
 ### Safe Harbor
 
