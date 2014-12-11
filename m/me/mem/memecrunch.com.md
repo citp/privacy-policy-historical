@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memecrunch.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226211335id_/http%3A//memecrunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memecrunch.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211065031id_/http%3A//memecrunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Memecrunch: The best meme generator |
 
