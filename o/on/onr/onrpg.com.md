@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626232557id_/http%3A//www.onrpg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211143251id_/http%3A//www.onrpg.com/privacy-policy) for the most accurate reproduction.*
 
 # OnRPG | Privacy Policy | Free Online MMORPG and MMO Games List - OnRPG
 
@@ -31,4 +31,4 @@ Should you have any questions or concerns regarding our third-party advertisers 
 
 If you wish to disable the use of cookies on our website then you may do so through your web browser options and configuration settings. Detailed information regarding cookie management for a specific web browser can be found at the web browser vendors’ website.
 
-If you require any further information or have any questions about our privacy policy then please feel free to [contact us](http://www.onrpg.com/boards/sendmessage.php).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mmohut (at) gmail (dot) com.
