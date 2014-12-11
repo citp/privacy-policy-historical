@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619194205id_/http%3A//www.allconnect.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211035947id_/http%3A//www.allconnect.com/corporate/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | AllConnect.com
+# Privacy Policy | AllConnect.com | Allconnect
 
 [ ](http://privacy.truste.com/privacy-seal/AllConnect/validation?rid=017f6611-49b1-4842-938f-9aeba76606d0 "TRUSTe online privacy certification")
 
 Allconnect seeks to safeguard your privacy whether you are just browsing our website at <http://www.allconnect.com/corporate/privacy.html> or Allconnect.com (the "website") or selecting products and services through our website (the "Services"). We are committed to protecting your information and this privacy policy outlines the limited manner in which we will use your information to provide you Services. website or using our Services, you consent to let us gather and use your information as set forth in our policy then in effect at the time of our use of your information.
 
-AllConnect has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+AllConnect has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you have questions or concerns regarding this statement, you should contact us at [customercare@allconnect.com](mailto:customercare@allconnect.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -91,7 +91,7 @@ If your member ID or password has been compromised for any reason, then you shou
 
 **Can Children Use the website?**
 
-The website is intended for use by adults, and we ask that children under the age of 13 do not use the website and do not submit any Personally Identifiable Information to us. 
+The website is intended for use by adults, and we ask that children under the age of 13 do not use the website and do not submit any Personally Identifiable Information to us.
 
 **How Will You Know of Changes to this Privacy Policy?**
 
@@ -99,4 +99,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Effective Date: 05/29/2013
 
-Copyright © 2011 Allconnect, Inc.
+Copyright © 2014 Allconnect, Inc.
