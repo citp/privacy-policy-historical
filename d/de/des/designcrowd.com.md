@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcrowd.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628062616id_/http%3A//www.designcrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcrowd.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211025444id_/http%3A//www.designcrowd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignCrowd
 
@@ -58,6 +58,8 @@ Information collected by us may be used for the following purposes:
 
 
 
+To stop receiving our emails, please click on the link found at the bottom of each email to update your account preferences.
+
 ### 5 Disclosing Your Personal Information
 
 We do not sell or rent your personal information to any other company, organisation or person.
@@ -107,6 +109,6 @@ We may modify or amend this Privacy Policy as our business requirements or the l
 
 ### 9 Complaints and Contact Details
 
-If you have any questions about our Privacy Policy, have a complaint about a breach of your privacy or if you have any query on how your personal information is collected or used, please contact our Chief Operating Officer on: support@designcrowd.com or call 1800 22 80 20.
+If you have any questions about our Privacy Policy, have a complaint about a breach of your privacy or if you have any query on how your personal information is collected or used, please contact our Chief Operating Officer on: support@designcrowd.com or call 1800 22 80 20 or write to us at Level 4, 2 Hill Street Surry Hills Sydney, NSW 2010 Australia.
 
 If you wish to make a complaint about an alleged breach of the Privacy Act, we will ask you to send us your complaint in writing to the email address listed above. We endeavour to respond to complaints within a reasonable period (usually 30 days). If you are not satisfied with our response, you may make a complaint to the Office of the Australian Information Commissioner by phoning 1300 363 992 or by email at enquiries@oaic.gov.au.
