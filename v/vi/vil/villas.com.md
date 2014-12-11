@@ -1,174 +1,164 @@
-> *The following text is extracted and transformed from the villas.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607190301id_/http%3A//villas.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villas.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211233247id_/http%3A//www.villas.com/general.html%3Ftmpl%3Ddocs/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Villas.com
 
-### DARK BLUE SEA - PRIVACY POLICY
+Your privacy is important to us. We value your trust and are committed to protecting and safeguarding any personal information you give us. This document, which we update from time to time, describes how we use and process your personal data and how we use cookies. It also tells you how you can contact us if you have questions about your personal information.
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+Booking.com provides online travel services through its own websites and mobile apps and through other online platforms such as partners’ websites and social media. The information that follows applies to all of these platforms.
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+## Privacy
 
-The Dark Blue Sea group comprises a number of companies that includes:
+What kind of personal information does Booking.com use?
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+When you make a reservation, you'll be asked for your name, address, telephone number, email address, payment details, the names of guests traveling with you and your preferences for your stay.
 
+To make it easier to manage your reservations, you can open a user account. This allows you to save your personal settings, review previous bookings and manage future reservations.
 
+When you visit our website, even if you don't make a reservation, we may collect certain information, like your IP address, or browser, and information about your computer’s operating system, application version, language settings and pages that have been shown to you. If you're using a mobile device, we might also collect data that identifies your mobile device, device-specific settings and characteristics and latitude/longitude details.
 
-#### ABOUT THIS PRIVACY POLICY
+We may also receive information about you when you use certain social media services.
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+Why does Booking.com collect, use and share your personal data?
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+  * Reservations: First and foremost, we use your personal data to complete and administer your online reservation and forward your reservation details to the accommodation you have booked.
+  * Customer service: We provide international customer service 24/7 from our local offices in more than 20 languages. Sharing your details with our global customer service allows for a quick response when you need us – including helping you find an appropriate accommodation and any questions you might have about your reservation.
+  * Guest reviews: We may use your contact information to invite you to write a guest review after your stay. This can help other travelers choose a place to stay that suits them best.
+  * Account administration: We offer a user account facility on our website. We use the information you give us to administer this, allowing you to manage your bookings, take advantage of special offers, make future reservations more easily and manage your personal settings. Managing personal settings allows you to keep and share lists, share photos, see properties that you've searched for before, and see other information you've provided about accommodations and destinations. It also allows you to see any reviews you submitted about places you stayed in. If you want, you can share certain information in your user account by creating a public profile that’s associated with either your own first name or a screen name of your choice. The type of information you can share on this platform includes your photo, the names of places you've stayed in, your lists, your plans for future trips, your reviews and other information about accommodations and destinations.
+  * Marketing activities: We also use your information for marketing activities, as permitted by law. For example:
+    * When you make a reservation with us or set up a user account, we may use your contact information to send you news about similar travel-related products and services. We also send our customers regular newsletters by email. You can opt out, or unsubscribe, from marketing communication at any time.
+    * Based on the information you share with us, individualized offers may be shown to you on the Booking.com website, in mobile apps or on third-party websites, including social media sites.
+    * When we believe that a particular offer may be of interest to you, we may decide to make contact with you by phone.
+  * Other communications: There may be other times when we get in touch by email, by post, by phone or by texting you, depending on the contact information you share with us. There could be a number of reasons for this:
+    * We may need to respond to and handle requests you have made.
+    * If you haven't finalized a reservation online, we may email you a reminder to continue with your reservation. We believe that this additional service is useful to you because it allows you to carry on with a reservation without having to search for the accommodation again or fill in all the reservation details from scratch.
+    * When you use our services, we may send you a questionnaire or invite you to provide a review about your experience with Booking.com.
+    * We may also send you other material related to your reservation, such as how to contact Booking.com if you need assistance while you're away, or a summary of previous reservations you made using Booking.com.
+  * Market research: We sometimes ask our customers to take part in market research. Any additional personal details that you give us as part of the market research will only be used with your consent.
+  * Fraud detection and prevention: We may use personal data for the detection and prevention of fraud and other illegal or unwanted activities.
+  * Improving our services: Finally, we use personal information for analytical purposes, to improve our services, enhance the user experience, and improve the functionality and quality of our online travel services.
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+How does Booking.com use social media?
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+We use social media to promote our accommodation partners’ properties and to promote, improve and facilitate our own services. For example, we integrated social media plugins into the Booking.com website. So when you click on one of the buttons and register with your social media account, information is shared with your social media provider, and possibly presented on your social media profile to be shared with others in your network.
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+In addition to implementing these buttons, Booking.com uses social media by maintaining accounts on several social media sites and by offering social apps. These social media services may allow you to share information with Booking.com. When you register with a social media app, you'll be told which information will be shared with Booking.com. The information you choose to share with us may include the basic information that’s already available in your social media profile, email address, status updates and your friends list. This information is necessary to create a unique user experience either in the app itself or on our website. It facilitates things like personalizing our website to suit your needs, connecting you with your friends on travel destinations and analyzing and enhancing our travel-related services.
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+We may also enable you to sign in to Booking.com services with your social media accounts. Your social media provider will be able to tell you more about how they use and process your data in such cases.
 
-In order to do this, we share your personal information with our related companies.
+How does Booking.com share your data with third parties?
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+In certain circumstances, we may share your personal data with third parties.
 
-#### HOW WE COLLECT INFORMATION
+  * The accommodation you booked: In order to complete your reservation, we need to transfer relevant reservation details to the accommodation you booked with. This may include information like your name, contact and payment details, the names of guests traveling with you and any preferences you specified when making a booking.
+  * Your local Booking.com office: In order to support you during the reservation process and throughout your stay, your details may be shared with subsidiaries of the Booking.com corporate family. To find out more about the Booking.com corporate family, visit [About Booking.com](https://web.archive.org/general.html?tmpl=docs/about). Your information might also be shared with other members of the Priceline Group (Agoda.com, Rentalcars.com and Kayak.com) for analysis to provide you with travel-related offers that may be of interest to you and to offer you customized service.
+  * Third-party service providers: We may use third-party service providers to process your personal information on our behalf for the purposes specified above. For example, we may use service providers to send the reservation information on our behalf to the accommodation you just booked, or we may instruct third parties to contact you. When a reservation requires it, we may also work with third-party payment service providers to facilitate payment or payment guarantees. We also work with third-party advertisement networks to market our accommodation and services on other platforms, or involve third-party providers for analytical purposes. These third parties involved in any of these services will be bound by confidentiality agreements and will not be allowed to use your personal information for any purposes other than those specified above.
+  * Competent authorities: We work with partner websites around the world to distribute the accommodations listed on our website and mobile apps. When you make a reservation on one of these business partners’ websites, certain personal information that you give them may be shared with us. Similarly, we may share information with this business partner, for example, as part of the administration of your account, in order to manage your reservation, so that they can address queries related to your reservation and for marketing purposes. In this context, your information is governed by the privacy policies of these business partners.
+  * Business partners: We work with business partners around the world to distribute or advertise accommodations and to help our business partners distribute and advertise their travel-related services. This may mean that their services are integrated into our website or they have been enabled to show a customized advertisement on our website – or we are advertising on theirs. When you make a reservation on one of our business partners’ websites, certain personal data that you give them will be forwarded to us. Certain business partners may receive your personal data from us if requested by you. When you make a reservation on a business partners’ website, please read the privacy policies on these business partners’ websites for more information.
 
-**Personal Information provided to us**
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+How does Booking.com use mobile devices?
 
-**Website activity, cookies and related technology**
+We have free apps for a variety of mobile devices and use versions of our regular website that have been optimized for mobile. These apps and mobile websites process your personal details in a similar way as our website does – and they also allow you to use location services to find accommodations nearby.
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+How does Booking.com use guest reviews and other destination-related information you share with us?
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+After your stay at any property booked through us, you'll be invited to submit a guest review, which may ask for information about the property, the surrounding areas, and the destination. If you don’t want your name to show with your review, you can use your screen name (which you can choose in your user account) or it can be displayed anonymously. By completing a guest review, you're agreeing that it can be displayed (as further described in our [Terms and Conditions](https://web.archive.org/general.html?tmpl=docs/terms-and-conditions)) on, for example, the relevant property information page on our websites, in our mobile apps, in our social media accounts and in social apps, or on the website of the relevant property or on our business partner’s website, to inform other travelers about the quality and services of the property you stayed in.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+If you indicate that a guest review was helpful – or not helpful – we will aggregate this with feedback from other customers in order to sort and prioritize guest reviews. We may use the information in your lists or in other destination-related information you share with us in an anonymous format to help other travelers find the right destination.
 
-**IP Addresses**
+  
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+## Cookies
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+What is a cookie?
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+A cookie is a small amount of data that is placed in the browser of your computer or on your mobile device. This Privacy and Cookies Policy applies to cookies and similar technologies (hereafter together referred to as “cookies”).
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+Why are cookies used?
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+Web pages have no memory. If you are surfing from page to page within a website, you will not be recognized as the same user across pages. Cookies enable your browser to be recognized by the website. So cookies are mainly used to remember the choices you have made – choices such as the language you prefer and the currency you use. They will also make sure you are recognized when you return to a website.
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+Do all cookies do the same thing?
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+No, there are different types of cookies and different ways of using them. Cookies can be categorized according to their function, their lifespan and according to who places them on a website.
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+How are cookies used?
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+Our website uses the following types of cookies:
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+  * Technical cookies: We try to provide our visitors with an advanced and user-friendly website that adapts automatically to their needs and wishes. To achieve this, we use technical cookies to show you our website, to make it function correctly, to create your user account, to sign you in and to manage your bookings. These technical cookies are absolutely necessary for our website to function properly.
+  * Functional cookies: We also use functional cookies to remember your preferences and to help you use our website efficiently and effectively. For example, we remember your preferred currency and language, your searches and the property you viewed earlier. These functional cookies are not strictly necessary for the functioning of our website, but they add functionality for you and enhance your experience.
+  * Analytics cookies: We use these cookies to gain insight on how our visitors use the website, to find out what works and what doesn't, to optimize and improve our website and to ensure we continue to be interesting and relevant. The data we gather includes which web pages you viewed, which referring/exit pages you entered and left from, which platform type you used, date and time stamp information and details such as the number of clicks you make on a given page, your mouse movements and scrolling activity, the search words you use and the text you type while using our website. We also use analytics cookies as part of our online advertising campaigns to learn how users interact with our website after they've been shown an online advertisement, which may include advertisements on third-party websites. We will not know who you are, and we only obtain anonymous data.
+  * Commercial cookies: We use these to show you Booking.com advertisements on other websites. This is called “retargeting” and it aims to be based on your browsing activities on our website, such as the destinations you've been searching for, the properties you've viewed and the prices you've been shown.
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
 
-#### EPP SHARING ARRANGEMENTS
+How long do Booking.com cookies stay active?
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+The cookies we use have varying lifespans. The maximum lifespan we set on some is five years from your last visit to our website. You can erase all cookies from your browser any time you want. To remove Booking.com cookies from your browser, go to the following link (please note that when you click on this link, all Booking.com cookies will be removed immediately): [Purge Cookies](http://www.booking.com/purge_cookies).
 
-#### PROTECTING KIDS PRIVACY
+How can you recognize Booking.com cookies?
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+You can find our cookies in your browser settings.
 
-**Notice to Kids**
+Does Booking.com use third-party marketing and analytics cookies?
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+Yes, Booking.com uses the services of trusted and recognized online advertising and marketing companies. Booking.com may also use third-party providers for analytical purposes. To enable their services, these companies need to place cookies.
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+The providers we use are committed to building consumer awareness and establishing responsible business and data management practices and standards.
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
+When it comes to online advertising and marketing companies, we strive to only work with companies that are members of the Network Advertising Initiative (NAI) and/or the Interactive Advertising Bureau (IAB). Members of NAI and IAB adhere to industry standards and codes of conduct. NAI and IAB members allow you to opt out of the behavioral advertising. Visit [www.networkadvertising.org](http://www.networkadvertising.org/) and [www.youronlinechoices.com](http://www.youronlinechoices.com/) to identify the NAI members that may have placed an advertising cookie file on your computer. To opt out of an NAI or IAB member's behavioral advertising program, simply check the box that corresponds to the company from which you wish to opt out.
 
-**Notice to Parents**
+In order to control the collection of data for analytical purposes by Google Analytics, you may want to visit the following link: [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+Who has access to Booking.com cookie data?
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
+Only Booking.com has access to Booking.com cookies. Cookies placed by third parties can be accessed by these third parties.
 
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
+How can you manage your cookie preferences?
 
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
+Using your browser settings in, for example, Internet Explorer, Safari, Firefox or Chrome, you can set which cookies to accept and which to reject. Where you find these settings depends on which browser you use. Use the "Help" function in your browser to locate the settings you need.
 
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
+If you choose not to accept certain cookies, you may not be able to use some functions on our website. Plus, opting out of an online advertising network doesn't mean that you won't receive or be subject to online advertising or marketing analysis. It means that the network you opted out of will no longer deliver ads tailored to your web preferences and browsing patterns.
 
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
+Does Booking.com use web beacons?
 
-#### LINKS TO OTHER WEBSITES
+In addition to using cookies, Booking.com sometimes uses web beacons. A web beacon is a tiny graphic image of just one pixel that’s delivered to your computer either as part of a web page request or in an HTML email message. Either directly or through service providers, we use these pixels as part of our online advertisements either on our website or on third-party websites to learn whether a user who is being shown an online advertisement also makes a reservation; to track conversion with partner websites and to analyze a user's traffic patterns in order to optimize the travel-related services we bring to you.
 
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
+  
 
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
 
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+## Security
 
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
+What security procedures does Booking.com put in place to safeguard your personal data?
 
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
+In accordance with European data protection laws, we observe reasonable procedures to prevent unauthorized access and the misuse of personal information.
 
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
+We use appropriate business systems and procedures to protect and safeguard the personal information you give us. We also use security procedures and technical and physical restrictions for accessing and using the personal information on our servers. Only authorized personnel are permitted to access personal information in the course of their work.
 
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
+Your credit card details – when they are needed as part of the reservation process – are stored for a maximum of 10 days. After that, your credit card data will be either permanently deleted from our systems or will remain hashed in our system for fraud detection purposes. This is unless you have chosen to store your credit card details in your personal account.
 
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
+  
 
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
 
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
+## Children
 
-#### PRIVACY COMPLAINTS
+The services offered by Booking.com are not directed at children under 18 years old. The use of any of our services is only allowed with the valid consent of a parent or a guardian. If we receive information from a child under 18 years old, we reserve the right to delete it.
 
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
+## Contact
 
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
+How can you control the personal data you have given to Booking.com?
 
+You always have the right to review the personal information we keep about you. You can request an overview of your personal data by emailing us at customer.service@booking.com. Please write "Request personal information" in the subject line of your email and include a copy of your identity card to help us prevent unauthorized individuals from accessing your personal data.
 
+If the personal information we have for you is incorrect, we will update it at your request. You can also ask us to remove your personal data from our customer database by sending an email to [customer.service@booking.com](mailto:customer.service@booking.com) with “Request for removal of personal information” in the subject line. However, we may need to retain certain information, for example, for legal or administrative purposes, such as record keeping or to detect fraudulent activities. You can delete your user account at any time by signing into your account on the Booking.com website and choosing to remove your account.
 
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
+Who is responsible for the processing of personal data on the Booking.com website and apps?
 
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
+Booking.com B.V. controls the processing of personal data on its websites and mobile apps. Booking.com B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Herengracht 597, 1017 CE Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246. If you have any suggestions or comments about this privacy notice, please send an email to [customer.service@booking.com](mailto:customer.service@booking.com).
 
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+_Last updated, February 2014_
