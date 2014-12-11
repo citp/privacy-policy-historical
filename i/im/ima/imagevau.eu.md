@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagevau.eu privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208020937id_/http%3A//imagevau.eu/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagevau.eu privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211115558id_/http%3A//imagevau.eu/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # None
 
