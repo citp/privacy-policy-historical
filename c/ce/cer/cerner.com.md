@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531085342id_/http%3A//cerner.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211035302id_/http%3A//www.cerner.com/Privacy) for the most accurate reproduction.*
 
 # Legal: Cerner.com
 
@@ -35,7 +35,7 @@ Cerner may use Google Analytics to understand Cerner.com's site usage. Site usag
 
 (d) Registration (User-Supplied Information)
 
-Cerner.com site registration systems require users to give Cerner contact information such as their name and e-mail address, and demographic information such as a ZIP code, income level, organization and/or role. The user's contact information is used to contact the user when necessary. Users may choose (opt-in) to receive future mailings; see the choice/opt-in section below. Cerner uses this data to tailor the user's experience at Cerner.com, showing the user content that reflects their stated preferences. This information may be shared with affiliates, subsidiaries, sponsors, advertisers or partners on an aggregate basis, but personally identifiable information will not be disclosed without the user’s prior consent.
+Cerner.com site registration systems require users to give Cerner contact information such as their name and e-mail address, and demographic information such as organization and/or role. The user's contact information is used to contact the user when necessary. Users may choose (opt-in) to receive future mailings; see the choice/opt-in section below. Cerner uses this data to tailor the user's experience at Cerner.com, showing the user content that reflects their stated preferences. This information may be shared with affiliates, subsidiaries, sponsors, advertisers or partners on an aggregate basis, but personally identifiable information will not be disclosed without the user’s prior consent.
 
 Services (User-Supplied Information)
 
