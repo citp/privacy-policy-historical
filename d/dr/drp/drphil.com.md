@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051337id_/http%3A//www.drphil.com/members/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211142111id_/http%3A//www.drphil.com/members/privacypolicy) for the most accurate reproduction.*
 
 # Dr. Phil.com - Privacy Policy
 
@@ -112,9 +112,11 @@ Some of these companies are members of the Network Advertising Initiative ("NAI"
 
 Also, through the Digital Advertising Alliance ("DAA"), several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different Web Sites. To learn more and make choices about interest-based ads from participating third parties, please visit the [DAA consumer opt out page.](http://www.aboutads.info/choices/)
 
-Return to Top **_WITH WHOM INFORMATION MAY BE SHARED_**
+Return to Top **_WITH WHOM INFORMATION MAY BE SHARED_**  
 
-unless you opt-in to such sharing at the time you provide your personal information. We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties. In addition, we may share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:   
+
+We do not share your personal information with third parties for those third parties’ marketing purposes unless you opt-in to such sharing at the time you provide your personal information. We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties. In addition, we may share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances: 
+
 **Third parties providing services on our behalf**
 
 We employ third parties to perform functions on our behalf; examples include hosting or operating the Web Site, sending e-mail and/or other communications, providing wireless services, removing repetitive information from customer lists, data analysis, marketing assistance, and customer service. These third parties may have access to your personal information for the purpose of performing such functions on the Web Site's behalf. 
