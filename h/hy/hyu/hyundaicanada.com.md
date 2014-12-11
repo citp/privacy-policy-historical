@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundaicanada.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627013722id_/http%3A//www.hyundaicanada.com/Pages/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundaicanada.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211043720id_/http%3A//www.hyundaicanada.com/Pages/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Hyundai Privacy Policy
 
@@ -60,7 +60,7 @@ Hyundai Auto Canada Corp.
 75 Frontenac Drive  
 Markham, Ontario L3R 6h5  
 Attention: Privacy Officer  
-905.948.6726 
+905.948.6763 
 
 If the above steps fail to resolve your question or concern, you may also contact the Office of the Privacy Commissioner of Canada: 
 
