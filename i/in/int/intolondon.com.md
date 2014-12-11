@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010202id_/http%3A//www.intolondon.com/content/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211151221id_/http%3A//www.intolondon.com/content/resources/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ([Click here to see our terms and conditions](https://web.archive.org/content/default/terms/).) 
 
-When you provide personal information to intoLondon.co.uk, the data controller is Flatshare Limited ('we' , 'us', 'Our'). The United Kingdom Data Protection Act 1988 gives United Kingdom users the right to access information that is held about them. 
+When you provide personal information to intoLondon.co.uk, the data controller is Flatshare Limited ('we' , 'us', 'Our'). The United Kingdom Data Protection Act 1988 gives United Kingdom users the right to access information that is held about them.
 
-Flatshare Limited  take the privacy of our users seriously.
+Flatshare Limited take the privacy of our users seriously.
 
 ### Personal Data
 
@@ -32,13 +32,13 @@ Except as otherwise described in this privacy statement, we will not disclose pe
 
 intoLondon.co.uk uses a number of different cookies. A cookie is a small text file that we put on the computer or mobile device you are using to visit our site. These cookies allow us to distinguish you from other users of the website, which helps us to provide you with a better experience and also allows us to improve our site.
 
-The cookies we use are 'analytical' and 'session' cookies. Analytical cookies allow us to recognise and count the number of visitors to SpareRoom and to see how people move around the site when they’re using it. This helps us to improve the way our website works, for example by making sure users are finding what they need easily. These cookies cannot be used to identify individuals, they are for statistical purposes only.
+The cookies we use are 'analytical' and 'session' cookies. Analytical cookies allow us to recognise and count the number of visitors to SpareRoom and to see how people move around the site when they're using it. This helps us to improve the way our website works, for example by making sure users are finding what they need easily. These cookies cannot be used to identify individuals, they are for statistical purposes only.
 
 Some cookies, such as those created via Facebook Connect, only apply to users who choose to log in to SpareRoom through their Facebook account. SpareRoom has no access to the data stored by third parties such as Facebook in those cookies.
 
 **By using the site you are agreeing to the use of cookies as described.**
 
-You can choose to turn off cookies but this may limit your ability to navigate SpareRoom fully. Details of Google Analytics, Google AdWords and DoubleClick cookies are shown below:
+You can choose to turn off cookies but this may limit your ability to navigate SpareRoom fully. Details of Google Analytics, Google AdWords, DoubleClick and VisualDNA cookies are shown below:
 
 Google Analytics
     The Google Analytics cookie allows us to see information on user website activity including, but not limited to page views, referral and average time spent on the website. The information is de-personalised and is displayed as numbers, meaning it will not be tracked back to individuals, which helps to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to ensure you have the best user experience possible. You can find details on Google Analytics Privacy Policy [here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) and may choose to opt-out [here](http://tools.google.com/dlpage/gaoptout).
@@ -46,6 +46,8 @@ Google AdWords
     Using Google AdWords code, we are able to see which pages helped lead to registering and, where applicable, upgrading. This allows us to make better use of our paid search budget on Google. More details found can be found [here](http://www.google.co.uk/policies/technologies/ads/). You can also choose to opt-out of AdWords remarketing [here](https://www.google.com/settings/ads/preferences/#optout).
 DoubleClick
     We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on the website. This allows us to provide targeted advertising in the future.
+Visual DNA
+    We use a VisualDNA tag to anonymously collect information about users' browsing activity on our website (this does not include names, addresses or any other personal information). This information is linked to a cookie that VisualDNA sets in your browser. This information allows us and VisualDNA to build a profile so that your online experience can be made more relevant to your specific interests. You have the right to opt out from VisualDNA's service by [clicking here](http://my.visualdna.com/ "visualDNA") and choosing the ‘Cookie Settings’ option. VisualDNA does not store or share personally identifiable information with any third party, other than in anonymised, aggregated form.
 
 ### Email
 
@@ -88,4 +90,4 @@ All modern browsers allow you to change your cookie settings. These settings wil
 
 
 
-We recommend that you don’t turn cookies off when using SpareRoom as this may prevent you from using many of the services on the site.
+We recommend that you don't turn cookies off when using SpareRoom as this may prevent you from using many of the services on the site.
