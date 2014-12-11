@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefilmstage.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610150557id_/http%3A//thefilmstage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefilmstage.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211121645id_/http%3A//thefilmstage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Film Stage
 
