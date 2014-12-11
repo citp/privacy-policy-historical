@@ -1,100 +1,156 @@
-> *The following text is extracted and transformed from the viso.tv privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viso.tv privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211200248id_/http%3A//bbtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | BroadbandTV Corp.
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Last Modifed on: September 24, 2013
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Broadband TV Corp., together with its affiliated companies (referred to collectively in this Privacy Policy as “BBTV”) is committed to protecting the privacy and security of your personal information obtained by reason of your relationship with us. We believe that you should know what information we collect from you and how we use, disclose, and protect that information.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy applies to your access or use of our websites (including if you are using our website to sign up as a Content Provider or other service provider to BBTV), mobile applications, and any product or platform we offer or through which we provide services (collectively, “Services”).
 
-**Information Collection and Use**
+**1\. INFORMATION THAT WE COLLECT**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+When you visit our websites or otherwise use our Services, we may collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We may also collect device specific information (such as your hardware model, operating system version, carrier network and hardware settings), information about your physical location (such as GPS signals sent by a mobile device), and information about your usage of an interaction with our Services (including error reports, statistics on page views, and traffic to and from our websites).
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may use “cookies” to enhance your use of our websites or other Services. “Cookies” are small files placed on your computer or mobile device by a website you visit. These files identify your computer or device and record your preferences and other data about your visit. When you return to that website, cookies allow the site operator to personalize your visit.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+If you sign up for an account or profile through our Services, if you use our website or other Services to sign up as a Content Provider or other service provider, or if you otherwise use certain Services, we may collect additional personal information from you that is directly associated with you or that can be used to identify you (the “Personal Information”). This Personal Information may include your contact information, such as your name, user name, address, phone number, and email. It may also include any correspondence between you and BBTV.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+If you sign up with us as a Content Provider or other service provider, we may additionally collect your PayPal account information and/or payment related information.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Before permitting you to use any of the Services, we may also ask you to provide additional Personal Information we can use to verify your identity or manage risk, such as your date of birth.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+BBTV’s Services are not intended for users under the age of 13. We encourage parents to be involved in the online activities of their children to ensure that no information is collected from a child without parental permission.
 
-**Security**
+Providing us with your information is always your choice. You can also set your browser to block all cookies. However, your decision to withhold particular information or to block cookies may limit or prevent us from providing the services you have asked for or to suggest appropriate alternatives.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**2\. USE OF THE INFORMATION THAT WE COLLECT**
 
-**Updating Your Information**
+We use the information we collect from all of our Services to provide and improve them, and to protect BBTV and our users. We may also use this information to offer you customized content through our Services. We collect Personal Information in order to:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  * Verify your identity;
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * Provide you with the products and services requested;
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * Maintain your account or profile;
 
-      iii.      You may call us at: (480) 505-8800
+  * Communicate to you any benefit, feature and other information about products and services you have with us;
 
-       iv.      You may fax us at: (480) 505-8844
+  * Respond to any special needs or inquiries you may have;
 
-**Sending Emails**
+  * Resolve disputes with you and troubleshoot problems;
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * Determine your eligibility for products and services we offer;
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * Prevent potential or actual prohibited or illegal activities, and enforce our User Agreement;
 
-**Compliance with Laws and Law Enforcement**
+  * Manage our risks and operations; and/or
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * Meet legal and regulatory requirements.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
+If you are a Content Provider or other service provider who has signed up with us through our Services, we use the Paypal and other payment information you provide to us in order to provide you with payment for any services that you may provide to us in accordance with an applicable services agreement between you and BBTV.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If, for any reason, the information that we collect from you is required to fulfill a different purpose than for the purposes described in this Privacy Policy, we will ask for your consent before we proceed.
 
-**Contests/Surveys**
+BBTV processes Personal Information and other information collected on our servers in Canada and/or in other countries. We may process the information that we collect from you outside the country where you live. By using our Services, you consent to any such transfer of information outside of your country.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**3\. DISCLOSURE OF THE INFORMATION THAT WE COLLECT**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We do not share Personal Information with unaffiliated third parties except as permitted or required by applicable laws, rules and regulations and this Privacy Policy. We may share your Personal Information in the following circumstances:
 
-**Tell-A-Friend**
+  * If you consent to such disclosure. We require opt-in consent for the sharing of any sensitive Personal Information, such as confidential medical facts, racial or ethnic origins, political or religious beliefs or sexuality, or banking or other sensitive financial information.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Opt Out?**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+  * To effect, administer, service, process or enforce a Service that you request or authorize.
 
-**Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
+  * To protect the confidentiality or security of BBTV, our records or our users.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**Contacting Our Site**
+  * To protect against or prevent fraud, unauthorized transactions, claims, or other liability.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-* * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+  * To resolve a dispute with you or an inquiry from you.
+
+
+
+  * To persons acting on your behalf in a fiduciary or representative capacity.
+
+
+
+  * To governmental agencies, if required by law.
+
+
+
+  * To comply with or as permitted by applicable laws, rules and regulations.
+
+
+
+  * To comply with a civil, criminal, or regulatory investigation, or subpoena or summons by governmental authorities.
+
+
+
+
+We may also share your Personal Information with unaffiliated companies who perform services on our behalf to help with parts of our business operations, including companies providing network and other technical services to us. These service provider companies are provided only the information necessary to perform the services. In addition, we require them to protect the information in a manner that is consistent with this Privacy Policy and our security practices.
+
+We may share aggregated, non-personally identifiable information (that is, information that cannot, by itself, be used to identify a particular individual or user) with our partners, such as advertising and marketing partners. For example, we may share such information to show trends about the general use of our Services.
+
+If BBTV is involved in a merger, acquisition or asset sale, we will continue to ensure to confidentiality of any Personal Information and will give affected users notice before Personal Information is transferred or becomes subject to a different privacy policy.
+
+**4\. PROTECTION OF THE INFORMATION THAT WE COLLECT**
+
+We maintain a variety of physical, electronic, and procedural safeguards to protect the information that we collect from unauthorized access. We use industry accepted procedures and systems to protect against unauthorized access to our systems.
+
+We restrict access to your Personal Information to those BBTV employees, agents and contractors who need to know that information to in order to process it for us, or to provide Services to you or otherwise assist you, and that are legally bound to maintain the confidentiality of your information in a manner consistent with this Privacy Policy.
+
+We maintain your Personal Information so that it is as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. We encourage you to contact us in order help us keep our information current.
+
+We retain Personal Information for as long as is necessary to fulfill any of the purposes set out in Paragraph 2 of this Privacy Policy, or to comply with applicable laws, rules, regulations, and regulatory requests and orders from competent courts and regulatory bodies.
+
+**5\. YOUR ACCESS TO YOUR PERSONAL INFORMATION**
+
+You have the right to access the Personal Information we hold about you in order to verify the information and its accuracy. Please note that there may be instances where access may be restricted as permitted or required by applicable laws, rules and regulations, including information that is subject to legal privilege and information relating to a third party. If applicable, we will advise you of the reasons for restricting access subject to any legal or regulatory requirements.
+
+If you want to verify the personal information we hold about you, please contact us at info@bbtv.com. To avoid delays, please provide sufficient information in order to allow us to identify you and the specific information you are requesting. Please give us a reasonable amount of time to respond to your inquiry.
+
+****6\. MODIFICATION OF THIS PRIVACY POLICY****
+
+ **
+
+We may change this Privacy Policy from time to time. We will post any changes to this Privacy Policy on this web page, and if the changes are significant, we will post a more prominent notice on this page or we will directly send you a notification. You may determine when this Privacy Policy was last changed by referring to the modification date found at the beginning of this Privacy Policy. You agree that your continued use of the Services after notice of such change shall constitute your acceptance of the Privacy Policy. You agree to review this Privacy Policy regularly in order to inform yourself of the terms and conditions of this Privacy Policy and any modifications to the Privacy Policy.
+
+**7\. APPLICATION OF THIS PRIVACY POLICY**
+
+This Privacy Policy applies to all products and services offered by BBTV and its affiliates, including those offered on other websites owned by BBTV, but excludes products, services and agreements that have separate privacy policies that do not incorporate this Privacy Policy.
+
+Our Privacy Policy does not apply to products or services offered by other companies or individuals, including third parties who advertise our services, third party software or other products, or third party sites linked from our Services.
+
+**8\. ENFORCEMENT AND COMPLAINTS**
+
+We regularly review our compliance with this Privacy Policy. Please contact us with any questions or concerns regarding this Privacy Policy or our treatment of your Personal Information. When we receive formal written complaints, we will contact the person who made the complaint to follow up.
+
+**9\. CONTACT US**
+
+If you have any questions, comments or concerns about this Privacy Policy, please contact our privacy officer at:
+
+Broadband TV Corp.  
+1500 – 777 Hornby St.
+
+Vancouver BC V6Z 2T3.
+
+Email: info@bbtv.com  
+  
+---  
+  
+******
