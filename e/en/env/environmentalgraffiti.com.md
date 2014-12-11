@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the environmentalgraffiti.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210090251id_/http%3A//www.environmentalgraffiti.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalgraffiti.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211042410id_/http%3A//www.environmentalgraffiti.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Scribol.com: Privacy Policy
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+We are committed to safeguarding the privacy of visitors to the Scribol website (the “Site”); this policy sets out how we will treat your personal information.
 
-If you are younger than 18, please ensure that your parent or guardian has read this privacy policy and is happy for you to accept it. Your registration for the Site, is conditional on your parent or guardian’s consent to this privacy policy.
+If you are younger than 18, please ensure that your parent or guardian has read this privacy policy and is happy for you to accept it. Your registration for the Site is conditional on your parent or guardian’s consent to this privacy policy.
 
- **1\. What information do we collect?**
+**1\. What information do we collect?**
 
 We may collect, store and use the following kinds of personal information:
 
-(a) We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp);  
+(a) information about your computer and about your visits to and use of the Site (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, Site navigation) in order to give you better recommendations;
 
+(b) information that you may provide to us for the purpose of registering with us;
 
-(b) information that you provide to us for the purpose of registering with us, including details of your Paypal account details necessary for us to remit [Revenue Share] to you;
-
-(c) information that you provide to us for the purpose of subscribing to our website services and email notifications;
+(c) information that you provide to us for the purpose of subscribing to the Site services and email notifications;
 
 (d) information contained in any email messages sent using our message service; 
 
@@ -25,47 +24,41 @@ We may collect, store and use the following kinds of personal information:
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
-We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to keep track of you whilst you navigate the website. We will use the persistent cookies to enable our website to recognise you when you visit. 
+We may use both “session” cookies and “persistent” cookies on the Site for the purpose of creating better recommendations. We will use the session cookies to keep track of you whilst you navigate the Site. We will use the persistent cookies to enable the Site to recognise you when you visit. 
 
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+Session cookies will be deleted from your computer when you close your browser. Persistent cookies may remain stored on your computer until deleted, or until they reach a specified expiry date. We use these persistent cookies to better serve you with the kinds of content that we feel may be of interest to you.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+We use Google Analytics to analyse the use of the Site. Google Analytics generates statistical and other information about the Site use by means of cookies, which are stored on users' computers. The information generated relating to the Site is used to create reports about the use of the Site. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>. 
 
-Advertisers on our site may also send you cookies which may have behave and be used in a similar way to that described above.
-
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
- **3\. Using your personal information**
+**3\. Using your personal information**
 
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+Personal information submitted to us via the Site will be used for the purposes specified in this privacy policy or in relevant parts of the Site.
 
 We may use your personal information to:
 
-(a) administer the website;
+(a) administer the Site;
 
-(b) improve your browsing experience by personalising the website;
+(b) improve your browsing experience by personalizing the Site;
 
-(c) enable your use of the services available on the website;
+(c) enable your use of the services available on the Site;
 
 (d) send you general (non-marketing) commercial communications;
 
 (e) send you email notifications which you have specifically requested;
 
-(f) send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
+(f) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
 
-(g) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
+(g) deal with enquiries and complaints made by or about you relating to the Site.
 
-(h) deal with enquiries and complaints made by or about you relating to the website.
-
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
+Where you submit personal information for publication on the Site, we will publish and otherwise use that information in accordance with the license you grant to us.
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-All our website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
-
- **4\. Disclosures**
+**4\. Disclosures**
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -75,36 +68,35 @@ In addition, we may disclose your personal information:
 
 (b) in connection with any legal proceedings or prospective legal proceedings;
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
 
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and
-
-(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+(d) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
- **5\. International data transfers**
+**5\. International data transfers**
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
 Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area. 
 
-In addition, personal information that you submit for publication on the website] will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+In addition, personal information that you submit for publication on the Site will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
 You expressly agree to such transfers of personal information.
 
- **6\. Security of your personal information**  
+**6\. Security of your personal information**
+
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted .
+We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted.
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
+You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the Site).
 
- **7\. Policy amendments**
+**7\. Policy amendments**
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
+We may update this privacy policy from time-to-time by posting a new version on the Site. You should check this page occasionally to ensure you are happy with any changes. 
 
 We may also notify you of changes to our privacy policy by email. 
 
@@ -120,18 +112,14 @@ We may withhold such personal information to the extent permitted by law.
 
 You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
 
- **9\. Third party websites**
+**9\. Third party websites**
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+The Site contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
- **10\. Updating information**
+**10\. Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
- **11\. Contact**
+**11\. Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to editor@environmentalgraffiti.com or by post to 72-75 Red Lion Street, London, WC1R 4NA. 
-
-**12\. Data controller**
-
-The data controller responsible in respect of the information collected on this website is Environmental Graffiti Limited.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info AT scribol DOT com or by post to 72-75 Red Lion Street, London, WC1R 4NA.
