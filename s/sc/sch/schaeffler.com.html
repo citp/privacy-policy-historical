@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the schaeffler.com privacy policy that was archived on 2014-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140419205459id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schaeffler.com privacy policy that was archived on 2014-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141211015836id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>
@@ -13,7 +13,7 @@ Schaeffler Germany
 <meta name="viewport" id="viewport" content="width=824">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <meta name="DC.Relation" content="">
-<meta name="DC.lastModified" content="2013-10-21">
+<meta name="DC.lastModified" content="2014-05-12">
 <meta name="DC.Language" content="EN">
 <meta name="view" content="local">
 <meta name="keywords" content="Ball bearings, Combined axial/radial bearings, Driven linear units, engine components, Housing units, Linear guidance systems, Miniature cage guidance systems, Needle roller bearings, Plain bearings, Rod ends, Roller bearings, Rolling bearings, Slewing rings, Spherical plain bearings, Track roller guidance systems, Track rollers, Clutch, Torque converter, Transmission system, Damper, Clutch system, ESG, PSG, DMF, Dual mass flywheel, Double-clutch, Parallel-clutch, Hybrid, Parallel shiting gearbox, Power train, SAC, CVT, multitronic, Self-adjusting clutch, easytronic, INA, FAG, LuK, Herzogenaurach, Schweinfurt, Bühl, ">
@@ -26,9 +26,19 @@ Schaeffler Germany
 <link rel="alternate" type="application/rss+xml" title="Schaeffler Technologies: Press releases" href="download/rss/rss_redirect.jsp?targetUrl=rss_press.jsp">
 <link rel="alternate" type="application/rss+xml" title="Schaeffler Technologies: Publications" href="download/rss/rss_redirect.jsp?targetUrl=rss_publications.jsp">
 <link rel="shortcut icon" href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico" type="image/ico">
+<!-- iOS/ANDROID TOUCH-ICONS -->
+<link rel="apple-touch-icon-precomposed" href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/rwd_media_images/icons_4/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/rwd_media_images/icons_4/apple-touch-icon-72x72.png" sizes="72x72">
+<link rel="apple-touch-icon-precomposed" href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/rwd_media_images/icons_4/apple-touch-icon-76x76.png" sizes="76x76">
+<link rel="apple-touch-icon-precomposed" href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/rwd_media_images/icons_4/apple-touch-icon-114x114.png" sizes="114x114">
+<link rel="apple-touch-icon-precomposed" href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/rwd_media_images/icons_4/apple-touch-icon-120x120.png" sizes="120x120">
+<link rel="apple-touch-icon-precomposed" href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/rwd_media_images/icons_4/apple-touch-icon-144x144.png" sizes="144x144">
+<link rel="apple-touch-icon-precomposed" href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/rwd_media_images/icons_4/apple-touch-icon-152x152.png" sizes="152x152">
+<link href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/css/autocomplete_css.css" rel="stylesheet" type="text/css" media="screen,print">
 <link href="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/css/print_new.css" rel="stylesheet" type="text/css" media="print">
 <script type="text/javascript" src="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/js/modernizr.js"></script>
 <script type="text/javascript" src="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/js/jquery_min.js"></script>
+<script type="text/javascript" src="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/js/jquery_ui_min.js"></script>
 <script type="text/javascript" src="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/js/javascript.js"></script>
 <script type="text/javascript" src="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/js/flash.js"></script>
 <script type="text/javascript" src="http://www.schaeffler.com/remotemedien/media/_shared_media/technik/js/touchslider.js"></script>
@@ -93,7 +103,7 @@ NaviLoader.setURL('tablet_navigation/tablet_navigation.jsp');
 									<input type="hidden" name="searchOption" value="all">
 									<input type="hidden" name="searchID" id="searchID" value="1">
 									<input type="hidden" name="TEXT_TYPE" value="CONTENTTITLE"> 
-									<input class="searchfield" name="searchString" type="text" value="&nbsp;&nbsp;Search" onfocus="this.value='';">
+									<input class="searchfield" name="searchString" type="text" placeholder="&nbsp;&nbsp;Search" value="">
 									<input type="submit" value="Search" class="bnt_submit_arrow">
 								</form>
 							</div>
@@ -237,6 +247,39 @@ NaviLoader.setURL('tablet_navigation/tablet_navigation.jsp');
 			};
 		</script>
 		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4df0900114edb772"></script>
+
+
+
+<script type="text/javascript">
+	// Attach to input element
+	// and submit search form on change
+	$(function() {
+		$("input[name=searchString]")
+	   	// don't navigate away from the field on tab when selecting an item
+     	.bind( "keydown", function( event ) {
+     	  if ( event.keyCode === $.ui.keyCode.TAB &&
+     	      $( this ).data( "ui-autocomplete" ).menu.active ) {
+     	    event.preventDefault();
+     	  }
+		  })
+		.attr('autocorrect','off').attr('autocapitalize','off').attr('spellcheck','false')
+		.autocomplete({
+			source: function(request,callback) {
+				var form = this.element[0].form;
+				$.ajax({
+                	dataType: "json",
+            	    url: form.action+"?suggestQuery=1&"+$(form).serialize(),
+        	        data: {},
+    	            success: function(data) { callback(data); },
+	                timeout: 10000,
+                	error: function(jqXHR,textStatus,errorThrown) {callback({});}
+                });
+			},
+			delay: 400,
+			minLength: 1
+		});
+	});
+</script>
 			</div>
 			<div class="float_right">© Schaeffler Technologies GmbH &amp; Co. KG&nbsp;2014</div>
 		</div>
