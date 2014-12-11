@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530170701id_/http%3A//www.azed.gov/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211144752id_/http%3A//www.azed.gov/privacy-policy-statement) for the most accurate reproduction.*
 
 # PRIVACY POLICY STATEMENT | Arizona Department of Education
 
