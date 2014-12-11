@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sugaropencloud.eu privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621033453id_/http%3A//www.sugarcrm.com/node/12056) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugaropencloud.eu privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211041848id_/http%3A//www.sugarcrm.com/sugarcrm-inc-privacy-policy) for the most accurate reproduction.*
 
-# SugarCRM Inc. Privacy Policy | SugarCRM.com English (Americas)
+# SugarCRM Inc. Privacy Policy | SugarCRM.com
 
 SugarCRM Inc. and the subsidiaries we own or control worldwide (collectively, "SugarCRM") respect your privacy. This privacy policy (the "Policy") explains how SugarCRM collects and uses data collected from you, including personal information, through (i) our publicly available websites (the "Sites"), and (ii) the SugarCRM mobile and other add-on applications (e.g., SugarCRM for iPhone, SugarCRM for Android, etc.) ("Apps") and other related services on which we post a direct link to this Policy (together with Apps, the "Services"). This Policy does not cover any other data collection or processing, including without limitation, the data we host for our registered customers. If you purchase or download our solutions, the data that you (and your customers) submit as you use our solutions will be governed by the applicable SugarCRM agreement, and as required by law.
 
-SugarCRM adheres to the U.S.-European Union Safe Harbor Framework privacy principles and is registered with the Safe Harbor Program regarding the collection, protection, storage, transfer, use and other processing of data transferred from the European Economic Area to the United States. The scope of our Safe Harbor Certification is defined by our [EEA/CH Safe Harbor Notice](https://web.archive.org/web/20140621033505id_/http://www.sugarcrm.com/node/12091). Our EEA/CH Safe Harbor Notice does not apply to data that we collect through our Sites.
+SugarCRM adheres to the U.S.-European Union Safe Harbor Framework privacy principles and is registered with the Safe Harbor Program regarding the collection, protection, storage, transfer, use and other processing of data transferred from the European Economic Area to the United States. The scope of our Safe Harbor Certification is defined by our [EEA/CH Safe Harbor Notice](https://web.archive.org/web/20141211041848id_/http%3A//www.sugarcrm.com/node/12091). Our EEA/CH Safe Harbor Notice does not apply to data that we collect through our Sites.
 
 **How We Collect Information**
 
