@@ -1,58 +1,92 @@
-> *The following text is extracted and transformed from the us.splinder.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602190614id_/http%3A//us.peeplo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us.splinder.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211151804id_/http%3A//us.peeplo.com/privacy.html) for the most accurate reproduction.*
 
 # privacy - Articles and posts about privacy from the best blogs
 
-Peeplo is using cookies. To [modify](http://www.peeplo.com/privacy.html#disablecookie) or keep your privacy settings, or to learn more about cookies, [click here.](http://www.peeplo.com/privacy.html)
+Peeplo is using cookies. To [modify](https://web.archive.org/privacy.html#disablecookie) or keep your privacy settings, or to learn more about cookies, [click here.](https://web.archive.org/privacy.html#readcookie)
 
-All requests must be addressed to the Data Controller.﻿  
-The purpose of the present document is to describe, in a general way, how the site Peeplo (here in after the "Site") processes its users' personal data. This document does not include information on how processing is carried out on other websites that users may access through links found on the Site.   
-This is a general document to inform you of the criteria for the correct processing of personal data on or through the Site. Users will find further information regarding these criteria in the Notices published on the various sections of the Site. In the event that the users' personal data are collected and subsequently processed, the abovementioned Notices will explain the ways and purposes for which the data are processed in connection with the supply of specific services and/or various information.   
- ****  
- **Data Controller (section 28 of the Privacy Code)**  
-Following consultation of the Site, data related to identified or identifiable persons may be processed.   
-The Data Controller is the company MOQU ADV Srl, with registered office in Florence (Italy), piazza Pietro Annigoni 9/b, zip code 50122, VAT 06287670480﻿.
+**Protection of the User’s privacy is one of our primary objectives**   
+(Data Protection Code – Legislative Decree 30 June 2003, n. 196)  
+MOQU ADV Srl (hereinafter "MOQU") is committed to protecting the online privacy of its users.   
+This document provides information about our privacy policy so that the User may understand how personal information is handled when using our services (hereinafter "Services") and may give free and informed consent to the processing of his/her personal data - where necessary - in the sections of [Peeplo.com](http://www.peeplo.com/) (hereinafter "Site") in which personal data are requested.   
+The Site provides Users with information and materials from third parties in the form of links, banners, splash pages, etc. (hereinafter "Information"), to assist in the purchase of products and services on other websites where the User may be redirected. By clicking on such Information, the User will directly access the third party site where they may conclude the purchase of searched products and services and where the related processing of personal data will be specifically regulated in accordance with the policy on its handling that the User can find published directly on the site or sites in question. Similarly, if you decide to share the contents of the Site on selectable social networks by using the "share" button that we provide, the treatments resulting from such sharing shall be governed in accordance with the policy on the treatment published on social networks in question.   
+The information and data provided by the User or otherwise acquired during registration for the various Services of the Site will be handled in compliance with the provisions of the Data Protection Code (the full text of which is available on the website of the Italian Data Protection Authority for the protection of personal data [www.garanteprivacy.it](http://www.garanteprivacy.it/)), Recommendation 2/2001 of the European Personal Data Protection Directive, adopted on 17 May 2001, and the obligations of confidentiality that govern the activities of MOQU ADV. The processing of personal data means any operation or set of operations, also carried out without the aid of electronic tools, concerning the collection, recording, organization, storage, consultation, processing, modification, selection , extraction, comparison, use, interconnection, blocking, communication, dissemination, erasure and destruction of said data, even if not registered in a database.   
+We inform you that the personal data subject to processing may include - depending also on how you decide to use the Services – textual information, photographs or videos, audio tracks, telephone numbers and any other information that could allow to identify the person concerned, depending on the type of services required.According to the rules set out by the Data Protection Code, data processing carried out by MOQU ADV will be based on principles of correctness, lawfulness and transparency and the protection of the User’s privacy and rights.  
+**  
+Owner and Responsible for processing  
+** The identification of the owner for processing is : MOQU ADV Srl, registered office in Piazza Pietro Annigoni 9 / b, Florence, Zip code 50122. The responsible for processing is:  Register.it SpA, with registered office in Piazza Pietro Annigoni 9 / b, Florence, Zip Code 50122, duly appointed Responsible for processing pursuant to art. 29 of the Privacy Code, as the systems management service provider of the Site. The updated list of data processors (if any), is available at the headquarters of the processing owner. You can contact the data processors at any time - through the owner offices MOQU - to exercise your rights under Article 7 of the Privacy Code.  
+**  
+Purpose of Data Processing** **   
+** The intended data processing aims to enable the delivery of Services requested by the User. The data will be processed in order to fulfill any legal, accounting and tax obligations. Personal data may be processed for the purpose of permitting navigation and consultation of the Site. In addition, the purpose of the data processing regards the collection, storage and processing of the User’s personal data to perform statistical analysis in an anonymous and/or aggregate form, without the ability of identifying the User and only to verify the quality of the Services offered. Finally, the optional, explicit and voluntary sending of electronic mail to the addresses indicated on this Site, entails the subsequent acquisition of the sender’s email address, which is required in order to respond to requests, as well as any other personal data included in the email. Any specific information will be progressively reported or displayed in the web pages designated for special services, on request.  
+**  
+Method of Data Processing    
+**Your personal data are processed by automated tools for the exact amount of time required to achieve the purposes for which they were collected. Specific security measures are observed to prevent the loss of data, illicit or incorrect use and unauthorized access.  
+**  
+Location of Personal Data Processing Operations    
+**The processing operations connected to the web services of this website take place in the headquarters of the owner, and in the registered office of Register.it, referred to above, as provider of the systems management service for the Site.  
+**  
+Communication and Dissemination of Common Personal Data**   
+Common personal data may be disclosed to: 1. persons, companies or professional activities that provide assistance and advice to MOQU ADV in an accounting, administrative, legal, tax and financial context relating to provision of the Services; 2. individuals, agencies or authorities to which the disclosure of personal data is required in accordance with the provisions of law or as ordered by the authorities; 3. persons that have been delegated and/or appointed by MOQU ADV to carry out activities closely related to the provision of the Services or persons delegated and/or engaged by MOQU ADV to carry out technical maintenance (including maintenance on network devices and electronic communication networks) and, if necessary, a duly appointed person responsible for data processing, according to ex-art. 29  of the Data Protection Code. In addition, the persons or categories of persons to whom the personal data may be communicated or who may learn about their existence, such as data processing managers (if appointed) or other responsible personnel, include: Dada Group companies, Dada Group Italian or foreign staff in charge of administrative and/or technical Services and those responsible for the platform through which the Services are provided.  
+Your personal data will not be disclosed.  
+**  
+Optional or Mandatory Consent**   
+Apart from what is specified in the following paragraph for navigation data, the User is free to provide personal data contained in the form shown under "contacts" in order to request information or other communications. Absence of these data can make it impossible to obtain the requested Service.  
+**  
+Future processing of personal third-party data supplied by the Data Subject    
+**When you use particular services (for example the Blog section of the site where you can post comments) a processing of personal data of third parties placed under your responsibility may be send to the manager of the Service. In such a hypothesis, you will assume the responsibility of independent data controller and all legal obligations and responsibilities. In this respect, you will be responsible in terms of dispute, claim, and compensation request for damage on processing, etc. that should be sent to the owner by the third-party individuals whose personal data have been processed through your use of the services in violation of the rules on personal data protection regulations.   
+If you provide or otherwise process the personal data of third parties using the Service, you guarantee in advance – under assumption of all related liability – that this will be conducted with the prior consent of the third party whose information is being processed.  
+**  
+Navigation Data**   
+The electronic communication networks and the software that run the Site, acquire some personal data over time and the transmission of such data is implicit in the Internet protocols that are used. This information is not collected for the purpose of being associated with identified data subjects; however, because of the nature of the data, through elaborations and associations with data from third parties, the Information may allow Users to be identified. This category of data includes IP addresses or domain names of computers used by Users to connect to the Site, the addresses in URI (Uniform Resource Identifier) notation of the resources requested, the hour the request was made, the method used to submit the request to the server, the size of the file obtained in response, the numeric code identifying the status of the response given by the server (okay, error, etc.) and other parameters regarding the operating system and the computer operating environment of the User.  These data are used exclusively for the purpose of drawing up anonymous statistical information on the use of the Site, as well as to ensure that the Site is working properly. These data are immediately cancelled once they have been elaborated. The data may be used to verify responsibility in the event of any offenses to the Site or a third party: with the exception of this possibility, web contact data are not currently saved in a permanent way. With reference to the User’s use of cookies or permanent tracking/monitoring systems, access to the Site may involve sending - from the server to the User's PC terminal - text files to obtain information about the User’s navigation on the Site. Pursuant to art. 122 of the Data Protection Code, the sending of non-permanent cookies is required to allow the operation of certain parts of the Service that require the identification of the user path through the various pages of the Site. For any access to the Site, regardless of the presence of a cookie, the following information is recorded: type of browser (e.g. Internet Explorer, Chrome, Firefox), operating system (e.g. Windows, MacOS), the User’s host and URL source, in addition to data on the requested page. These data may be used in an aggregate and anonymous form to create a statistical analysis of the use of the Site. Finally, the use of C.D. session cookies (which are not permanently stored on the User's computer and disappear when the browser is closed) is strictly limited to transmitting session identifiers (consisting of random numbers generated by the server), necessary to permit secure and efficient exploration of the Site.  
+The cookies can be simply and easily disabled by working through the configuration options on the User’s browser.  
+**  
+Cookies and their use**   
+Cookies are small text files that are used to obtain information about navigation on our Site. Following is detailed information regarding the cookies on this site and how they work. The User is free to accept or decline the sending of all or some of our cookies to his/her computer. Please keep in mind that some cookies must be sent from our server in order for certain parts of the Service to work, specifically parts of the Service that require the identification of the User’s path through the different pages of the Site. For this reason, in the absence of such cookies, it may not be possible to use the Site. If the User agrees to receive cookies from Peeplo, the User may at any time change his/her mind; all or some of the cookies can be easily disable in the User’s browser configurations. Here is a list of the types of cookies used and their purpose.   
+_1\. User experience cookies_   
+We use cookies to provide better User experience by storing the settings and customizations chosen by the User while navigating on our Site.   
+_2\. Statistics cookies_   
+Every time a User visits our Site, analytical software anonymously tracks the cookies. This allows us to monitor the number of Users, page views or time spent on a specific page. These cookies cannot be used to segment or identify specific Users, but are used exclusively for statistical purposes in an aggregate form.   
+_3\. Third-party cookies    
+_Advertising and third-party analysis cookies are enabled on the Peeplo website. Note that these subjects, listed below along with links to their privacy policies, are independent owners of the data gathered through cookies that they provide. The user should therefore refer to their policies on the processing of personal data (as explained in the EU  Data Protection Directive under [FAQ, item no. 6,  on cookies](http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/2142939)).    
+Google: <http://www.google.com/intl/en/policies/privacy/>   
+SimplyHired: <http://www.simplyhired.com/a/legal/privacy>   
+Wikipedia: <http://wikimediafoundation.org/wiki/Privacy_policy>[  
+](http://wikimediafoundation.org/wiki/Privacy_policy)AdMarketPlace: <http://www.admarketplace.com/privacy-statement.php>
 
- **Location of personal data processing operations**  
-Data processing operations in connection with the web services of the Site take place at the aforementioned office and are carried out by data processors in the company’s technical staff, or by data processors for occasional maintenance operations, who are duly designated data processors.   
-The communication and possible dissemination of personal data shall only take place in accordance with the Privacy Code: with the consent of the data subjects or, when provided for by law, based on the regulations contained in sections 24 and 25 of the Code. 
+**How to display cookies in your browser  
+** Cookies remain in the browser until they "expire" or are removed. How to display the list of cookies stored on your computer depends on the type of browser used. Below is a quick guide on how to access the cookies stored in the most commonly used browsers.   
+_Chrome_   
+Click on the icon in the main menu at the top right and select 'Settings', select 'Show Advanced Settings' under the 'Privacy' tab, click on 'Content Settings' and finally 'All cookie and website data', which loads the list of saved cookies. _Internet Explorer_   
+Click on 'Tools' from the menu and select 'Internet Options', select 'Settings' from un the 'General' tab, and finally 'View Files' which opens a folder that summarises all temporary files and cookies.   
+_Firefox  
+_ Select 'Tools' from the menu and then 'Options', under the 'Privacy' tab click on 'remove individual cookies' which lists all the stored cookies.   
+_Apple Safari_   
+Click 'Actions' from the menu, select 'Preferences' in the main menu of the browser, click on the 'Privacy' tab and finally 'Details'.
 
- **Categories and types of personal data processed**  
-The Site offers users information and materials from third parties in the form of links, banners, splash pages, etc. (“Information”), to assist them in purchasing products and services on other websites where users may be directed: by clicking on this Information users can directly access the websites of third parties where they can purchase the desired products and services. The related processing of personal data on third party sites shall be specifically governed in conformity with the policies that the user will find published directly on the site(s) in question.   
-Consequently, on the Site, if there is no registration or subscription procedure or any other similar mechanism requesting users to provide data (excluding future modifications, which will be based on specific notices and requests for consent, when necessary) the users’ personal data are not processed, except for so-called navigation data. 
+**How do I view and disable the cookies?   
+**Cookies can be displayed and disabled through your browser. By agreeing to the use of cookies, the information will be retained and restored in the next navigation. It's possible to block them globally or for specific sites where you prefer not to receive them and consequently not retain certain information. If cookies are blocked, the site will not be able to perform certain activities, such as registration, authentication, the creation of comments and elements that require acknowledgment. All modern browsers allow you to change the settings on cookies. These are usually found in the menu of your browser under 'Options' or 'Preferences'. If further information is required, consult the 'Help' section from your browser for more details.  
+If instead you want to disable cookies generated by advertisers, this can be done by following the instructions found on the website under [Your Online Choices](http://www.youronlinechoices.com/it/).
 
- **Navigation data**  
-The electronic communication networks and the software that run the Site, over time acquire some personal data and the transmission of such data is implicit in the internet protocols that are used.
+**Art. 7 (Right to access personal data and other rights)    
+**The User may contact the data controllers or to the co-owners at any time in an informal manner or by using the form prepared by the Italian Data Protection Authority for the protection of personal data (available free of charge at [www.garanteprivacy.it](http://www.garanteprivacy.it/)) to enforce the User’s rights as established in Article 7 of the Data Protection Code, which we here produce in its entirety: Article 7 Legislative Decree no. 30 June 2003, n. 1961.   
+1\. The User has the right to obtain confirmation of the existence or not of personal data concerning him/her, even if not yet recorded, and their communication is in an intelligible form.   
+2\. The User has the right to obtain:   
+a) the origin of his/her personal data;   
+b) the purposes and methods of processing the data;   
+c) the manner in which processing was done if electronic instruments were used;  
+d) the identity of the owner, manager and the appointed representative under article 5, paragraph 2;   
+e) the subjects or categories of subjects to whom the personal data may be communicated or who can learn about their existence, such as an appointed representative of the State, in the capacity of manager or agent.   
+3\. The User has the right to obtain:   
+a) updating, rectification or integration of data;  
+b) cancellation, transformation into an anonymous form or blocking of data processed unlawfully, including data which need not be kept for the purposes for which the data were collected or subsequently processed;   
+c) certification that those to whom the data were communicated or disseminated, as well as the contents of said data, have been notified of the above operations, unless this requirement proves impossible or involves the use of means manifestly disproportionate to the rights protected in a) and b).   
+4\. The User has the right to object, in whole or in part:   
+a) for legitimate reasons, to the processing of personal data pertinent for collection purposes;   
+b) to the processing of personal data concerning him/her for the purpose of sending advertising material or direct selling, or for carrying out market research or commercial communications.  
+**  
+Contact Information**   
+For further information and to exercise the rights stated under Article 7 of Legislative Decree 196/2003 mentioned above, please write to:  
+_MOQU ADV Srl  
+Piazza Pietro Annigoni 9/b  
+Firenze - CAP 50122_
 
-This information is not collected for the purpose of being associated with identified data subjects, however, because of the nature of the data, through elaborations and associations with data from third parties, the information may allow for users to be identified. Suppliers of electronic communication services shall be responsible for keeping data in accordance with recent legislation (Legislative Decree 109/08).   
-This category of data includes the IP addresses or the domain names of computers used by users to connect to the site, the addresses in URI (Uniform Resource Identifier) notation of the resources requested, the hour the request was made, the method used to submit the request to the server, the size of the file obtained in response, the numeric code identifying the status of the response given by the server (okay, error, etc.) and other parameters regarding the operating system and the computer operating environment of the user.   
-These data are used exclusively for the purpose of drawing up anonymous statistical information on the use of the site, as well as to ensure that the site is working properly. These data are immediately cancelled once they have been elaborated. The data may be used to verify responsibility in the event of any offenses: with the exception of this possibility, web contact data are not currently saved in a permanent way, but only for the term established by law equal to 12 months (Legislative Decree 109/08).
-
-  **Cookies and their use**  
-Cookies are small text files that are used to obtain information about your navigation on our site. Here you will find detailed information regarding the cookies on this site and how they work. You are free to accept or decline the sending of all or some of our cookies to your computer. Please keep in mind that some cookies must be sent from our server in order for certain parts of the Service to work, specifically parts of the Service that require the identification of the user’s path through the different pages of the site. For this reason, in the absence of such cookies, it may not be possible to use the site. If you agree to receive cookies by Peeplo, you may at any time change your mind; you can easily disable all or some of the cookies in your browser’s configurations. Here you will find the types of cookies used and their purpose.
-
-  _1\. User Experience Cookies_  
-We use cookies to provide a better user experience by storing the settings and customizations chosen by the user while navigating on our website.  
- _2\. Statistics Cookies_  
-Every time a user visits our website, analytical software anonymously tracks the cookies. This allows us to monitor the number of users, the page views or the time spent on a specific page. These cookies cannot be used to segment or identify specific users. These cookies are used exclusively for statistical purposes in aggregate form.  
- _3\. Geolocation Cookies_  
-This type of cookie is used to determine the location of the device while browsing. This allows us to provide location-specific content.  
- _4\. Third Party Advertiser Cookies  _  
-Many of the advertisements on Peeplo come from third parties that have their own  privacy policies. These cookies are used to track some of the user’s activities for statistical and advertising purposes.
-
-  **How do I disable the cookies?**  
-The cookies can be enabled or disabled from your browser. By accepting the cookies information will be stored and saved for the next session. You can block cookies all together, or just for specific sites. If the cookies are blocked, the site will not be able to carry out certain activities such as registration, authentication, creating comments and/or activities that require recognition.  
-All modern browsers allow you to change your cookie settings. You can usually find this on your browser under ‘options’ or ‘preference’. Here are a few links that show you how to change your settings:  
-[Cookie settings on Internet Explorer](http://support.microsoft.com/kb/196955/en-us)  
-[Cookie settings on Firefox](http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)  
-[Cookie settings on Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
-[Cookies settings on Safari ](http://support.apple.com/kb/PH5042)  
-For more information we recommend that you consult the ‘help’ section of your browser.  
-If you want to disable cookies generated by advertisers, you may do so by following the instructions on this website:  [Your Online Choices](http://www.youronlinechoices.com/uk/).
-
-  **Processing arrangements**  
-Personal data are processed – only for the abovementioned purposes – with automated electronic means for the amount of time strictly necessary to carry out the purposes for which the data were collected.   
-Specific security measures are observed to prevent the loss, unlawful or incorrect use of data, as well as to prevent unauthorized access to said data. 
-
- **Rights of the data subjects**  
-The data subject has the right at any time to obtain confirmation as to whether or not personal data concerning him/her exist. The data subject also has the right to be informed of the source of the data and has the right to verify the correctness of the data or request the integration, updating, or rectification of the data as per section 7 of legislative decree n. 196/2003.  
-In accordance with the same section of the abovementioned legislative decree, the data subject has the right to erasure, anonymization or blocking of data that have been processed unlawfully, as well as the right to oppose, for legitimate reasons the processing of said data. 
+The party concerned may also send their request using the [contact form](http://www.peeplo.it/contact.html?req=generic). 
