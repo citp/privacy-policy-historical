@@ -1,76 +1,128 @@
-> *The following text is extracted and transformed from the disasterassistance.gov privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327090055id_/http%3A//www.disasterassistance.gov/help/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disasterassistance.gov privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211115500id_/http%3A//www.disasterassistance.gov/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Terms of Use | DisasterAssistance.gov
+# Privacy Policy | DisasterAssistance.gov
 
-Thank you for visiting DisasterAssistance.gov and reviewing our privacy and terms of use statement. We are strongly committed to maintaining the privacy of your personal information. With respect to the collection, use and disclosure of personal information, we make every effort to ensure compliance with applicable Federal law. The personally identifiable information (PII) you provide on our website will be used only for the purpose for which you provided it. We will protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm), the [E-Government Act of 2002](http://www.it.ojp.gov/default.aspx?area=privacy&page=1287#contentTop) and the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/).
+Thank you for visiting DisasterAssistance.gov and reading our privacy policy.
+
+We take the security of your personal information very seriously, and make every effort to protect your privacy under federal law.
 
   * ## Personally Identifiable Information (PII)
 
-PII includes information that is personal in nature and which may be used to identify you. You are not required to provide PII to visit the website or to use the anonymous prescreening questionnaire. If you complete an online registration, you will be asked to supply PII that will be used for the primary purpose of determining eligibility under a presidentially-declared disaster. For further information, please reference the privacy compliance documentation below:
+PII includes personal details that may be used to identify you. If you enter PII on our site, it's only used for the purpose you enter it for, and is protected by the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm), the [E-Government Act of 2002](http://www.it.ojp.gov/default.aspx?area=privacy&page=1287#contentTop) and the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/).
 
-DHS/FEMA-008 - Disaster Recovery Assistance Files System of Records (September 24, 2009 74 FR 48763)  
-DHS/FEMA/PIA-012 - Disaster Assistance Improvement Plan (DAIP) (September 6, 2012)
+  You don’t have to provide PII to visit our site, or answer the questionnaire. If you complete an online registration, you're asked to share PII that is used mostly to determine if you qualify under a declared disaster.
 
-Additionally, information may be reviewed internally within FEMA for quality control purposes. For further information, please reference the privacy compliance documentation below:
+  You may give us PII when you ask for information or send an email, but we never ask for PII through email, and never collect information to use for marketing.
 
-DHS/FEMA/PIA-015 - Quality Assurance Recording System (QARS) (November 10, 2010)  
-DHS/FEMA-002 – Quality Assurance Recording System (February 15, 2011 76 FR 8758)
+  FEMA may review data internally for quality control purposes. But we only share your PII with another government agency if your request relates to that agency. Then only with your permission or as required by law.
 
-You may provide PII to us when you send us an email message or request for information, however, we will never ask for PII over email. We only share the PII you give us with another government agency if your inquiry relates to that agency, and only with your permission, or as otherwise required by law. We never collect information for marketing purposes.
+  To learn more, see the privacy documents below:
 
-  * ## Regulatory Compliance – Paperwork Reduction Act Notice (Public Law 104-13)
+    * [Disaster Recovery Assistance Files System of Records](http://www.gpo.gov/fdsys/pkg/FR-2013-04-30/html/2013-10173.htm) DHS/FEMA-008 (April 30, 2013 78 FR 25282)
+    * [Disaster Assistance Improvement Plan (DAIP)](http://www.dhs.gov/sites/default/files/publications/privacy/PIAs/privacy_pia_fema_daip_20121116.pdf) DHS/FEMA/PIA-012(a) (November 16, 2012)
+    * [Quality Assurance Recording System (QARS)](http://www.dhs.gov/xlibrary/assets/privacy/privacy-pia-fema-qars.pdf) DHS/FEMA/PIA-015 (November 10, 2010)
+    * [Quality Assurance Recording System](http://www.gpo.gov/fdsys/pkg/FR-2011-02-15/html/2011-3449.htm) DHS/FEMA-002 (February 15, 2011 76 FR 8758)
 
-Public reporting burden for this data collection is estimated to average 18 minutes per response for a registration and an average of 2.5 minutes per pre-screening questionnaire. The burden estimate includes the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and submitting this form. This collection of information is required to obtain or retain benefits. You are not required to respond to this collection of information unless a valid OMB control number is displayed on the form. Send comments regarding the accuracy of the burden estimate for the registration and any suggestions for reducing the burden to:
+  * ## Children's Privacy
+
+Some areas of our site have helpful disaster-related content for children, and we’re committed to following the [Children’s Online Privacy Protection Act](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title15/html/USCODE-2011-title15-chap91.htm) (COPPA). If a child under 13 sends a question or comment, we only use their email address to respond to the message and delete it by our records retention policy. We don’t collect personal information from children under 13.
+
+  To learn more, please email [FEMA-Privacy@fema.dhs.gov](mailto:FEMA-Privacy@fema.dhs.gov).
+
+  * ## Paperwork Reduction Act Notice (Public Law 104-13)
+
+The public reporting burden for data collection on our site is estimated at about 18 minutes for registration and  2.5 minutes for the questionnaire. The estimate includes time to read instructions, research, gather and maintain the records needed, and complete and submit the registration form.
+
+The data is required for you to get or keep benefits. But you don’t have to respond unless a valid OMB control number is listed on the form.
+
+You may send comments about the accuracy of the estimate or suggestions for reducing it to one of the addresses below. But please do not send any completed forms.
+
+For registration:
 
 Information Collections Management, Department of Homeland Security, Federal Emergency Management Agency  
 1800 South Bell Street, Arlington, VA 20598-3005  
 Paperwork Reduction Project (1660-0002)
 
-NOTE: Do not send your completed registration form to this address. Comments regarding the accuracy of the burden estimate for the pre-screening questionnaire may be sent to: 
+For the questionnaire:
 
 U.S. Department of Labor, Benefits.gov / GovLoans.gov Office  
 FPB, Room N-4309  
 Washington, DC 20210
 
-  * ## Children's Privacy
+  * ## How We Use Cookies
 
-Certain areas of the DisasterAssistance.gov website provide disaster-related educational content for children. DisasterAssistance.gov is committed to complying with the [Children’s Online Privacy Protection Act](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title15/html/USCODE-2011-title15-chap91.htm) and does not use its website to collect personal information from children under the age of 13 years old. If a child under the age of 13 submits a question or comment, DisasterAssistance.gov will only use the child’s email address to respond to the inquiry and will delete the message in accordance with its approved records schedule. For more information, please contact [FEMA-Privacy@fema.dhs.gov](mailto:FEMA-Privacy@fema.dhs.gov).
+We use cookies on our site as a tool to help our visitors. But we don’t use them to collect any PII from you or track actions beyond our site.
 
-  * ## Cookie Use Notice
+  A cookie is small file put onto your device when you connect to our website. It’s like an ID card for your device. It opens a “session” that allows data to be shared between our site and that device. In an active session, we can give you the information you want and help you view our pages easier.
 
-On a limited number of our web pages, we employ cookies to provide better service to our customers. Cookies are small pieces of temporary data that are exchanged between a website and a user's computer which enable a session, or dialog, to be established between the two machines. With the session established, we are able to tailor responses (i.e., identify and provide you with the information you want) and help you traverse our web pages in the most efficient and effective manner possible. The session ends when we do not receive further requests from your computer or you simply exit your browser. We limit our use of cookies to session cookies, types of cookies that are temporarily stored in your computer's memory. DisasterAssistance.gov does not issue persistent cookies, which are cookies that could be stored permanently on your workstation and reused each time you visit the DisasterAssistance.gov website. We do not use cookies to collect any PII from users or to track user activities beyond our website.
+  Cookies allow us to track certain data, like how you move through our site, what you look at or download, and browser behavior.
+
+  There are two types of cookies: session and persistent. Session cookies are temporary. The cookie goes away and your session ends when your browser is closed. Persistent cookies are stored on a device for a longer time and used to identify that device each time you visit. Persistent cookies can also tell us how often you come back to visit.
+
+  We use both types of cookies for different things:
+
+    * 1-day persistent cookies on the questionnaire page
+    * 3-month persistent cookies for site visits from a PC
+    * Session cookies for site visits from a mobile device
+
+ 
+
+You can also choose not to accept cookies. This won’t change what you can see on the site.
+
+  To do this you may need to adjust the cookie settings on your Internet browser. If you use multiple browsers, you’ll need to do this in all of them. You can also delete cookies at any time through the browser Options tab.
+
+  If you choose not to accept cookies and you answer the questionnaire, just be aware that your answers won’t be saved when you leave the page. You’ll need to answer the questions again.
+
+  Visit USA.gov for [opt-out instructions](http://www.usa.gov/optout_instructions.shtml) for common browsers.
 
   * ## Google Analytics
 
-The Department of Homeland Security (DHS) has enabled Google Analytics on DisasterAssistance.gov. Google Analytics is a tool that helps the program gather feedback using non-identifiable aggregated data such as number of unique visitors to a page and the navigation the visitor took to get to a specific piece of content. We will use this data to make modifications to improve the user experience and monitor the traffic on the website. In order to use this tool, Google sets a session cookie on your machine or device. While this cookie is set automatically, you may choose not to have the cookie placed on your machine or device without any modifications to the appearance or functionality of the website. To opt out of having the cookie installed on your machine or device, you may need to adjust your internet browser’s cookie settings. If you use multiple browsers on your machine or device, you will need to complete this process for each browser used. You may also delete the cookie at any time through the options tab on your browser. Please visit [USA.gov](http://www.usa.gov/optout_instructions.shtml) for instructions for common browsers. The cookie monitors your navigation through the website and records, including:
+Google Analytics is a tool the Department of Homeland Security (DHS) has set up on DisasterAssistance.gov. This tool helps us gather data about actions and traffic on our site.
 
-What content was viewed
+  To get the data, Google puts a 3-month persistent cookie on your device. The cookie is sent automatically, but you can choose not to accept it. This won’t change what you can see on the site. You can also delete cookies at any time through your browser’s Options tab.
 
-How you arrived at the specific content
+  If you choose not to accept cookies and you answer the questionnaire, just be aware that your answers won’t be saved when you leave the page. You’ll need to answer the questions again.
 
-Your ISP provider including the ISP provider’s geographic information
+  Visit USA.gov for [opt-out instructions](http://www.usa.gov/optout_instructions.shtml) for common browsers.
 
-The time spent viewing a specific piece of content
+  If you allow the cookie, it records non-identifiable data like:
 
-The time spent on the entire website
+    * Your Internet provider including location information
+    * Session connection speed
+    * Address of any website used to link to our site
+    * Pages you visit and content downloaded
+    * Count of unique visits to a page and the site
+    * Time spent on a page and the site
 
-The path taken to access the website
+ 
 
-The connection speed of the session
+The cookie sends data to Google’s system which immediately compiles it, but it doesn’t monitor or record your actions after you leave our site.
 
-Google Analytics does not tell the program who you are or allow the program to determine your identity nor does the cookie monitor or record your web usage after you leave DisasterAssistance.gov. The data is automatically sent from the cookie on your machine or device to Google’s system which immediately aggregates the data. Google will never have access to the specifics of your particular session including PII provided on the application. What the program will see is the aggregate data from all users for a particular time period. The program is gathering this information for internal purposes and has chosen to not share the aggregate data with Google. We may use the aggregated data to share with our partners and contractors to help improve the user experience. The program will retain the aggregated data as long as required per our records retention policy. For more information about the Department’s use of Google Analytics, please see: [DHS/ALL/PIA-033 - Google Analytics](http://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_dhs_ga.pdf) (June 9, 2011).
+  We only see data for specific time-periods, and the data is kept only as long as required by our records retention policy. This data is used internally and may be shared with our partners and contractors to help us make improvements to the site.
+
+  Google Analytics doesn’t tell us who you are or allow us to get your identity. Google never has access to the details of your session including PII entered on the application, and we don’t share our compiled data with them.
+
+  To learn more about DHS’s use of Google Analytics, see [Google Analytics](http://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_dhs_ga.pdf) DHS/ALL/PIA-033 (June 9, 2011).
 
   * ## AddThis
 
-AddThis is a URL-based social bookmarking tool that allows users to share links of DisasterAssistance.gov on various social media sites. While DisasterAssistance.gov’s implementation of AddThis does not use cookies, AddThis does collect non-personally identifiable information about browser type, operating system and selected social media platform, which is provided as aggregate data to DisasterAssistance.gov. AddThis does not store any personal information about you, such as your social media account log in information. For more information, please see the [AddThis privacy policy](http://www.addthis.com/privacy?utm_source=mf&utm_medium=link&utm_content=AT_privacy_MF15PC&utm_campaign=AT_privacy). Please also note that use of AddThis will navigate you away from DisasterAssistance.gov. Once you leave DisasterAssistance.gov, the privacy policy of the destination website will apply. FEMA’s use of AddThis is covered under the following PIA: [DHS/ALL/PIA-031 - Use of Social Networking Interactions and Applications Communications/Outreach/Public Dialogue](http://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_dhs_socialnetworkinginteractions.pdf).
+AddThis is a social bookmarking tool that allows visitors to share links from DisasterAssistance.gov to social media sites. This tool gathers data like browser type, operating system and the social site you used.
 
-  * ## ForeSee
+  We don’t use cookies with this tool, and the data we get is used internally to help us improve the site. AddThis doesn’t store any PII about you, like the login to your social media account. It doesn’t tell us who you are or allow us to get your identity.
 
-DisasterAssistance.gov uses online surveys to collect opinions and feedback from a random sample of visitors. This survey does not collect PII. Participation in the survey is voluntary. If you decline the survey, you will still have access to the identical information and resources on the website as those who take the survey. Answers to the survey help us improve this website to make it easier to use and more responsive to the needs of our visitors. DisasterAssistance.gov conducts analyses and reports on the aggregated data from the [American Customer Satisfaction Index](http://www.theacsi.org/). The reports are only available to website managers, members of their communications and web teams, and other designated staff who require this information to perform their duties.
+  Just be aware that clicking on AddThis will take you away from our site. When you go to another website, you’re subject to the policies of that site. See the [AddThis privacy policy](http://www.addthis.com/privacy?utm_source=mf&utm_medium=link&utm_content=AT_privacy_MF15PC&utm_campaign=AT_privacy).
 
-  *   * ## Visiting Other Websites
+  To learn more about how FEMA uses AddThis, see [Use of Social Networking Interactions and Applications Communications/Outreach/Public Dialogue](http://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_dhs_socialnetworkinginteractions.pdf) DHS/ALL/PIA-031 (September 16, 2010).
 
-Our website contains links to private organizations, and some commercial entities. These websites are not within our control and may not follow the same privacy, security or accessibility polices. Once you link to another site, you are subject to the policies of that site. All Federal websites, however, are subject to the same Federal policy, security and accessibility mandates.
+  * ## SurveyMonkey
+
+We use SurveyMonkey online surveys to get feedback from a random sample of visitors. You can also give us feedback anytime by taking the survey at <https://www.surveymonkey.com/s/DisasterAssistance>. We read and compile the survey data, and use it internally to help make site improvements based on visitor needs.
+
+  The survey doesn’t collect PII and you don’t have to take it. If you decline, it won’t change how the site looks or functions.
+
+  *   * ## Visiting Linked Websites
+
+Our site has links to some private and commercial organizations. These sites are not within our control and may not follow the same federal polices required for federal websites. Be aware that when you go to another website, you are subject to the policies of that site.
 
 
 
