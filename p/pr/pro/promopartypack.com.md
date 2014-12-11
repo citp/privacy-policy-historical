@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the promopartypack.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214244id_/http%3A//promopartypack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopartypack.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211171302id_/http%3A//www.promopartypack.com/privacy.php) for the most accurate reproduction.*
 
 # Promo Party Pack ...Where You'll Party 'Til You Profit!!
 
-[](http://promopartypack.com/bannerclick.php?id=12914)  
+[](http://promopartypack.com/bannerclick.php?id=11400)  
 
 
 Promo Party Pack Privacy Policy
