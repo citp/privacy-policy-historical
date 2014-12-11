@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the egypttoday.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614095141id_/http%3A//egypttoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egypttoday.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211121955id_/http%3A//egypttoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Egypt Today
+# Privacy Policy | Egypt Today
 
-[td_text_with_title title="Privacy Policy" el_position="first last"] 
+[td_text_with_title title=”Privacy Policy” el_position=”first last”] 
 
 ****  
 Egypt Today knows that you care how information about you is used` and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy (this “Policy”) explains Egypt   Today treatment of information that we collect when you are on our website located at Egypt Today.com (the “Site”) and when you use our products and services (collectively, the ” Service”). By using the Service, you are accepting the practices described here. This Policy does not apply to the practices of other divisions of Egypt Today (“Egypt Today”) or to the practices of any person or entity other than Egypt Today, including operators of websites you may visit before or after visiting the Site and the owners or publishers of the Publications you purchase, download or otherwise access through the Service.
