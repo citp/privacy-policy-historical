@@ -1,72 +1,56 @@
-> *The following text is extracted and transformed from the freemoneywisdom.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505074953id_/http%3A//www.freemoneywisdom.com/free-money-wisdom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemoneywisdom.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211102649id_/http%3A//www.freemoneywisdom.com/privacy-policy) for the most accurate reproduction.*
 
-# Free Money Wisdom Privacy Policy -
+# Privacy Policy - Free Money Wisdom
 
-#### THE CUT AND DRY VERSION
+**Welcome to  FreeMoneyWisdom.com (the “Site”).**
 
-Your privacy is the utmost importance at [Free Money Wisdom.](http://www.freemoneywisdom.com/) You can be assured that I won’t compromise your personal information. Â In other words, if you subscribe to Free Money Wisdom, I promise to never spam you or release your email address for compensation. Â Also, you can unsubscribe at any time from the [EMAIL](http://feedburner.google.com/fb/a/mailverify?uri=FreeMoneyWisdom) and [RSS](http://feeds.feedburner.com/freemoneywisdom) updates. Â I value your privacy. Â In fact, I treat your privacy according to **Matthew 7:12 “In everything, therefore, treat other people the same way you want them to treat you, for this is the Law and the Prophets.”**
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by FreeMoneyWisdom.com (collectively, “Services”) (“Authorized Customers”).
 
-#### THE EXPANDED VERSION:
+**“Personally Identifiable Information”  **  
+This refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-Once again, your privacy at Free Money Wisdom is the utmost importance to us. Â Here is more detailed information on the privacy policy of Free Money Wisdom. Â Your private information will never be sold, leased, given away, or rented to third parties. Â Please read the following policy before using Free Money Wisdom, commenting, or submitting personal information. Â By using Free Money Wisdom, you accept the practices described here.
+**What Personally Identifiable Information is collected?  **  
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+**What organizations are collecting the information?  **  
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
+**How does the Site use Personally Identifiable Information?**  
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
+**With whom may the information may be shared?**  
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
-#### LOG FILES:
+**How is Personally Identifiable Information stored?**  
+Personally Identifiable Information collected by FreeMoneyWisdom.com is securely stored and is not accessible to third parties or employees of FreeMoneyWisdom.com except for use as indicated above.
 
-As with most other websites, we collect and use the data contained in log files.Â  The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as Comcast or AT&T), the browser you used to visit our site (such as Firefox, Safari, or Internet Explorer), the time you visited our site and which pages you visited throughout our site.
+**What choices are available to Visitors regarding collection, use and distribution of the information?**  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at
 
-#### COOKIES/TRACKING TECHNOLOGY:
+**Are Cookies Used on the Site?**  
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit.
+**How does FreeMoneyWisdom.com use** ** ** **login** ** ** **information?** ** **  
+FreeMoneyWisdom.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-  * Googleâ€™s use of the DART cookie
-  * Users may opt out of the use of the DART cookie by visiting theÂ [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
+FreeMoneyWisdom.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  Our privacy policy does not cover their collection or use of this information.
 
+**Disclosure of Personally Identifiable Information to comply with law.**  
+We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
+**How does the Site keep Personally Identifiable Information secure?**  
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-We also use third party advertisements on Free Money Wisdom to support our site. Some of these advertisers may use technology such as cookies, DART cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.Â  Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).Â  The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet.Â  Users may opt out of the use of the DART cookie by visiting theÂ [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at  
+support ‘at’ FreeMoneyWisdom.com
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting us. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
-#### INFORMATION COLLECTED BY THIRD-PARTIES:
+**What happens if the Privacy Policy Changes?**  
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
-
-#### DISTRIBUTION OF INFORMATION:
-
-We do not share your personally identifiable information to any third party for marketing purposes. However, we may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place.
-
-#### COMMITMENT TO DATA SECURITY:
-
-Your personally identifiable information is kept secure. Only authorized staff of this site (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
-
-#### RSS AND EMAIL SUBSCRIPTIONS:
-
-this website records information about how people access our RSS feeds, but does not collect any personally identifying information from or about our RSS subscribers. This websiteâ€™s feed services collect the e-mail addresses of individuals that subscribe to our RSS feed via e-mail. Individual information about subscribers to this websiteâ€™s feed is held in strict confidence; we will not release or disclose any specific subscriber information under any circumstances, unless required by law. Aggregated information stripped of any personally identifiable information may be disclosed.
-
-#### COMMENTS:
-
-Comments submitted to this website are the responsibility of the commenter. We reserve the right to remove or edit comments at our discretion. Site URLs (if provided) are published along with comments. E-mail addresses are required with the submission of comments but are not disclosed, unless the commenter deliberately does so him/herself by entering the e-mail address in the main comment box in addition to the box clearly labeled for the e-mail address.
-
-Free Money Wisdom reserves the right to delete any comments that it deems not beneficial to the readership. This includes but is not limited to comments containing profanity, self promotion, harrassment, threats, or spam of any sort.
-
-#### EXTERNAL LINKS:
-
-The web site contains links to other websites not owned by the owner of this website. We will not, and cannot, control how your personal information is used on these other websites. Consult the privacy policies of the linked websites to see how they use your information.
-
-#### CONTACT INFORMATION:
-
-If you have more questions or concerns that were not discussed in this policy, please feel free to [contact us.](http://www.freemoneywisdom.com/contact/)
-
-This privacy policy was updated April of 2011.
-
-We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+**Links:**  
+FreeMoneyWisdom.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
