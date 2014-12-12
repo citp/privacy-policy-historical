@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211060949id_/http%3A//pheaa.org/about/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212204110id_/http%3A//www.pheaa.org/about/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ Additionally, PHEAA sometimes shares your personal information with nonaffiliate
 
 PHEAA may share your information with nonaffiliated vendors that market PHEAA products and services to you. Generally, we only provide these vendors with customer contact information, although we might provide limited account information in some circumstances, such as account balances or status, payment amount or transaction history. Such nonaffiliated marketers must agree via contract with PHEAA to keep your information confidential and to use the information only to market PHEAA products and services.
 
-In compliance with United States Department of Education requirements under the Higher Education Act, PHEAA is required to collect and disclose the Social Security Numbers of applicants for Federal student loans. The primary use of this information is to verify customer identity, determine program eligibility and benefits, permit the servicing of financial aid, and certify attendance and status at an approved higher education institution. Disclosure of your Social Security Number is mandatory for participation in Federal student loan programs under the Higher Education Act. For information on how the Department of Education treats the privacy of Social Security Numbers, please link to the following website to see the Department of Education's privacy policy: [http://www.fafsa.gov/privacy.htm](http://www.fafsa.gov/privacy.htm).
+In compliance with United States Department of Education requirements under the Higher Education Act, PHEAA is required to collect and disclose the Social Security Numbers of applicants for Federal student loans. The primary use of this information is to verify customer identity, determine program eligibility and benefits, permit the servicing of financial aid, and certify attendance and status at an approved higher education institution. Disclosure of your Social Security Number is mandatory for participation in Federal student loan programs under the Higher Education Act. For information on how the Department of Education treats the privacy of Social Security Numbers, please link to the following website to see the Department of Education's privacy policy: [http://www.fafsa.ed.gov/privacy.htm](http://www.fafsa.ed.gov/privacy.htm).
 
 Finally, consistent with student loan industry practice, PHEAA shares customer information with industry aggregators for the benefit of students. Such industry aggregators include the National Student Clearinghouse1, ELM Resources2, and Meteor™ 3.
 
@@ -89,7 +89,7 @@ This Privacy Policy replaces all prior Privacy Policies issued by PHEAA. We rese
 **Date Last Modified** : September 2, 2010
   *[PHEAA]: Pennsylvania Higher Education Assistance Agency
   *[U.S.]: United States
-  *[http://www.fafsa.gov/privacy.htm]: h t t p : / / w w w dot fafsa dot gov / privacy dot h t m
+  *[http://www.fafsa.ed.gov/privacy.htm]: h t t p : / / w w w dot fafsa dot gov / privacy dot h t m
   *[ELM]: E L M
   *[COPPA]: C O P P A
   *[IP]: I P
