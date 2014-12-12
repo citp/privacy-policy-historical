@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-famous-quotes.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521190956id_/http%3A//www.all-famous-quotes.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-famous-quotes.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212082321id_/http%3A//www.all-famous-quotes.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | All Famous Quotes
 
@@ -18,7 +18,7 @@ We use third-party advertising companies to serve ads when you visit our website
 You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. We do not share our e-mail with any other outside organizations. 
 
 If you have any questions or concerns please [contact us.](https://web.archive.org/contact_us.html "Click here to contact us")   
-
+">
 
 ## Take me to
 
