@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619134321id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212010952id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ At any moment, you are free to stop using Postcrossing and, if you so wish, to [
 
 ## Cookies
 
-[Cookies](http://en.wikipedia.org/wiki/HTTP_cookie) are pieces of data stored in a user's computer. Postcrossing uses cookies to store session information which is required for the normal functioning of the website. You can, at your discretion, delete the stored cookies from your computer. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you won't be able to login into your Postcrossing account and other functionalities of the website might not be available. 
+[Cookies](http://en.wikipedia.org/wiki/HTTP_cookie) are pieces of data stored in a user's computer. Postcrossing uses cookies to store session information which is required for the normal functioning of the website. You can, at your discretion, delete the stored cookies from your computer. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you won't be able to sign in into your Postcrossing account and other functionalities of the website might not be available. 
 
 ## Ads
 
