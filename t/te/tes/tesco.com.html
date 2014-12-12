@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tesco.com privacy policy that was archived on 2014-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140619192955id_/http%3A//www.tesco.com/help/privacy-and-cookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tesco.com privacy policy that was archived on 2014-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141212053232id_/http%3A//www.tesco.com/help/privacy-and-cookies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" hasJS desktop"><!--<![endif]--><head>
   <meta charset="UTF-8">
@@ -16,11 +16,48 @@
   
 <!-- /global/template/styles.asp -->
 <style>
+/* /global/template/css/global.required.css */
 @-moz-viewport{width:device-width}@-webkit-viewport{width:device-width}@-o-viewport{width:device-width}@-ms-viewport{width:device-width}@viewport{width:device-width}
+
+/* Site Wide Globals */
+html{overflow-y:scroll}
+*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0}
+body{font:14px/1.5 arial,sans-serif;text-rendering:optimizelegibility}
+
+a,
+a:visited{color:#2b68b7;text-decoration:none}
+a:hover,
+a:focus,
+a:active{color:#ed1b2e}
+button{cursor:pointer;-ms-touch-action:manipulation;touch-action:manipulation}
+img{border:0 solid;image-rendering:crisp-edges;image-rendering:-webkit-optimize-contrast;-ms-interpolation-mode:nearest-neighbor}
+
+
+/* Cookie Policy */
+.cp{padding:0.5em 2.5em 0.5em 0.5em;position:relative;color:#333;background-color:#eeeef2;font:13px/1.2 arial,sans-serif;margin:0 auto;max-width:73.847em;text-align:center;width:100%}
+.cp a{white-space:nowrap;color:#2b68b7}
+.cp button{background:#eeeef2;border:0 solid;color:#2b68b7;cursor:pointer;line-height:26px;padding:0;position:absolute;right:0;top:0;width:26px;height:26px}
+.cp button:after{content:"X"}
+.cp span{left:-200em;position:absolute}
+
+/* Content */
+.content{font:13px/1.5 arial,sans-serif;width:100%;max-width:73.847em;margin:16px auto}
+.hide{position:absolute;left:-200em}
+.tel{font-size:larger;font-style:normal;font-weight:bold;white-space:nowrap}
+.note{color:#c00;font-size:larger;font-style:normal;font-weight:bold}
+
+/* SEO Content */
+.seo-h1 img{display:block;width:100%}
+.seo-content{margin:0 16px 2em;font-size:16px;color:#666}
+.seo-content h2{margin:1.5em 0 0;color:#00539f}
+.seo-content a{white-space:nowrap}
+.seo-content ul{margin:.5em 2em 0}
+.seo-content li,
+.seo-content p{margin:.5em 0}
 
 </style>
 
-    <link href="/global/template/css/datauri.css" rel="stylesheet">
+    <link href="/global/template/css/global.datauri.css" rel="stylesheet">
 
     <link href="/global/template/css/global.css" rel="stylesheet">
 
@@ -39,20 +76,14 @@
 <!-- /global/template/header.asp -->
 <div id="cp" class="cp">We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. <a rel="privacy" href="https://web.archive.org/web/20141212053534/http://www.tesco.com/help/privacy-and-cookies/">Find out more</a>. <button id="cpAccept" onclick="return cpAccept();"><span>Close</span></button></div><div id="header" class="header2">
   <div class="header-content">
-    <a class="header-logo" href="/">Tesco.com</a>
+    <a data-ltc="header-logo" class="header-logo" href="/">Tesco.com</a>
     <h2>Helpful links:</h2>
     <ul class="header-links">
-      <!-- li><a href="">Sign in</a></li -->
-      <li class="storelocator"><a href="/store-locator/uk/">Store locator</a></li>
-      <li><a href="/help/contact/">Contact us</a></li>
-      <li><a href="/help/">Help</a></li>
-      <!-- li><a href="">Website feedback</a></li -->
-      <li class="social facebook"><a rel="external" href="http://www.facebook.com/tesco/" title="Launches in a new window">Tesco Facebook<em style="position:absolute;left:-200em"> (new window)</em></a></li>
-      <li class="social twitter"><a rel="external" href="http://twitter.com/tesco" title="Launches in a new window">Tesco Twitter<em style="position:absolute;left:-200em"> (new window)</em></a></li>
-      <li class="social youtube"><a rel="external" href="http://www.youtube.com/tesco" title="Launches in a new window">Tesco You tube<em style="position:absolute;left:-200em"> (new window)</em></a></li>
-      <li class="social pintrest"><a rel="external" href="http://pinterest.com/tesco/" title="Launches in a new window">Tesco Pintrest<em style="position:absolute;left:-200em"> (new window)</em></a></li>
-      <li class="social googleplus"><a rel="external" href="https://plus.google.com/114590064195544735169/posts" title="Launches in a new window">Tesco Google Plus<em style="position:absolute;left:-200em"> (new window)</em></a></li>
-  
+
+      <li class="storelocator"><a data-ltc="help-storelocator" href="/store-locator/uk/">Store locator</a></li>
+      <li><a data-ltc="help-contact" href="/help/contact/">Contact us</a></li>
+      <li class="help"><a data-ltc="help-help" href="/help/">Help</a></li>
+
       <li class="hamburger"><button class="hamburger-button" onclick="var bObj=document.getElementById('header');if(bObj){bObj.className=bObj.className.match('headerON')?bObj.className.replace(' headerON',''):bObj.className+' headerON'};bObj=document.getElementById('navigation');if(bObj){bObj.className=bObj.className.match('navigationON')?bObj.className.replace(' navigationON',''):bObj.className+' navigationON';}">Menu</button></li>
   
     </ul>
@@ -67,7 +98,7 @@
         <input type="hidden" name="/com/tesco/bns/formHandlers/BasicSearchFormHandler.Search">
         <input type="hidden" name="_D:search">
         <input type="hidden" name="search" id="search-input">
-        <label for="selectStore">Search in </label>
+        <label for="selectStore">Search </label>
         <select class="sws-select" id="selectStore" name="department">
           <option value="Groceries">Groceries</option>
           <option value="Direct">Tesco direct</option>
@@ -90,181 +121,235 @@
   <div class="navigation-content">
     <h2>Main navigation:</h2>
     <ul class="navigation-list">
-      <li><a href="/">Tesco.com</a></li>
-      <li><a href="http://www.tesco.com/groceries/">Fresh food &amp; groceries</a></li>
-      <li><a href="http://www.tesco.com/direct/">Tesco direct</a></li>
-      <li><a href="http://www.clothingattesco.com/">F&amp;F Clothing</a></li>
-      <li><a href="http://www.tesco.com/clubcard/">Clubcard</a></li>
-      <li><a href="http://www.tescobank.com/personal/finance/gateway.html?referrerid=tescogn">Tesco Bank</a></li>
-      <li><a href="http://www.tesco.com/wine/">Wine by the case</a></li>
-      <li><a href="http://phone-shop.tesco.com/">Phone Shop</a></li>
+      <li><a data-ltc="nav-home" href="/">Tesco.com</a></li>
+      <li><a data-ltc="nav-groceries" href="http://www.tesco.com/groceries/">Groceries</a></li>
+      <li><a data-ltc="nav-direct" href="http://www.tesco.com/direct/">Tesco direct</a></li>
+      <li><a data-ltc="nav-clothing" href="http://www.clothingattesco.com/">F&amp;F Clothing</a></li>
+      <li><a data-ltc="nav-clubcard" href="http://www.tesco.com/clubcard/">Clubcard</a></li>
+      <li><a data-ltc="nav-bank" href="http://www.tescobank.com/?referrerid=tesco">Tesco Bank</a></li>
+      <li><a data-ltc="nav-wine" href="http://www.tesco.com/wine/">Wine by the case</a></li>
+      <li><a data-ltc="nav-phone" href="http://phone-shop.tesco.com/">Phone Shop</a></li>
     </ul>
   </div>
 </div>
 <div id="top" class="content">
 
-<h1>Tesco.com Privacy and Cookies Policy</h1>
+  <h1><img src="privacy.jpg" alt="Privacy and Cookies Policy"></h1>
 
-<p>Tesco.com ("the Website") is owned and operated by Tesco Stores Limited, part of the Tesco Group. This policy, together with our <a href="/help/terms-and-conditions/">Terms and Conditions</a>, explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our <a href="/help/terms-and-conditions/">Terms and Conditions</a> carefully; by accessing the Website you confirm to have understood and agreed to them.</p>
+  <div class="outer">
 
-<h3>Information we collect about you</h3>
-<p>We collect information about you when you: </p>
+    <div class="top-inner">
+      <p>Tesco.com ("the Website") is owned and operated by Tesco Stores Limited, part of the Tesco Group. This policy, together with our <a href="/help/terms-and-conditions/">Terms and Conditions</a>, explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our <a href="/help/terms-and-conditions/">Terms and Conditions</a> carefully; by accessing the Website you confirm to have understood and agreed to them.</p>
+    </div>
 
-<ul>
-	<li><p>visit the Website, and other sites accessible from the Website.</p></li>
-	<li><p>register with and buy products or services on the Website.</p></li>
-	<li><p>take part in promotions, competitions, customer surveys and questionnaires.</p></li>
-	<li><p>contact us eg in writing, call customer services.</p></li>
-</ul>
+    <div class="inner">
+      <h3>Information we collect about you</h3>
+      <p>We collect information about you when you: </p>
 
-<p>We may supplement the information we collect about you with information we receive from other sources eg public registers such as the electoral roll. This allows us to assess the accuracy of the information we hold about you in order to send you relevant offers and information.</p>
+      <ul>
+        <li><p>visit the Website, and other sites accessible from the Website.</p></li>
+        <li><p>register with and buy products or services on the Website.</p></li>
+        <li><p>take part in promotions, competitions, customer surveys and questionnaires.</p></li>
+        <li><p>contact us eg in writing, call customer services.</p></li>
+      </ul>
 
-<h3>Using your information</h3>
-<p>Collecting your personal information helps Tesco to better understand what you need from us. We use your information to:</p>
-<ul>
-	<li><p>manage and improve the Website.</p></li>
-	<li><p>personalise our services to you.</p></li>
-	<li><p>administer and operate your account.</p></li>
-	<li><p>process your orders and allocate Clubcard points to your account.</p></li>
-	<li><p>tell you about important changes to the Website and our services.</p></li>
-	<li><p>understand your shopping behaviour to develop and improve our products and services.</p></li>
-	<li><p>manage promotions, competitions, customer surveys and questionnaires.</p></li>
-	<li><p>check and verify your identity, and prevent or detect crime. In performing checks your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.</p></li>
-</ul>
+      <p>We may supplement the information we collect about you with information we receive from other sources eg public registers such as the electoral roll. This allows us to assess the accuracy of the information we hold about you in order to send you relevant offers and information.</p>
+    </div>
 
-<p>We may share your personal information across the Tesco Group so they can provide you with relevant products and services.</p>
-<p>Your personal information is safe with us and will never be released to companies outside the Tesco Group for their marketing purposes.</p>
-<p>We may use and share anonymised information outside the Tesco Group. However, we would like to reassure you that this never includes your personal information. </p>
+    <div class="inner">
+      <h3>Using your information</h3>
+      <p>Collecting your personal information helps Tesco to better understand what you need from us. We use your information to:</p>
+      <ul>
+        <li><p>manage and improve the Website.</p></li>
+        <li><p>personalise our services to you.</p></li>
+        <li><p>administer and operate your account.</p></li>
+        <li><p>process your orders and allocate Clubcard points to your account.</p></li>
+        <li><p>tell you about important changes to the Website and our services.</p></li>
+        <li><p>understand your shopping behaviour to develop and improve our products and services.</p></li>
+        <li><p>manage promotions, competitions, customer surveys and questionnaires.</p></li>
+        <li><p>check and verify your identity, and prevent or detect crime. In performing checks your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.</p></li>
+      </ul>
 
-<h3>Clubcard information</h3>
-<p>We access the information recorded through the use of your Clubcard to help us improve our service to you and to make our communications more relevant.</p>
+      <p>We may share your personal information across the Tesco Group so they can provide you with relevant products and services.</p>
+      <p>Your personal information is safe with us and will never be released to companies outside the Tesco Group for their marketing purposes.</p>
+      <p>We may use and share anonymised information outside the Tesco Group. However, we would like to reassure you that this never includes your personal information. </p>
+    </div>
 
-<h3>Marketing and research</h3>
-<p>If you agree, we may contact you:</p>
-<ul>
-	<li><p>with offers and information about Tesco products or services</p></li>
-	<li><p>with offers and information about partners' products or services</p></li>
-	<li><p>for customer research eg to help improve our services </p></li>
-</ul>
-<p>Of course, the choice is entirely yours, but if you say you do not want to receive marketing information from us this will prevent you from receiving great offers or promotions that may be of interest to you.</p>
-<p>When you register online you can access a "Contact Preferences" page that allows you to tailor our commercial communications to your preferences. </p>
-<p>To change your contact preferences simply click "Your Account" in the top frame and click "Your Contact Preferences". If you do not want to receive commercial communications from us, select your choices by using the boxes available on that page.</p>
-<p>We like to hear your views to help us improve our service. From time to time, we may contact you to ask your opinions. Again, if you do not want to be contacted for this purpose, make your choice on the "Contact Preferences" page.</p>
+    <div class="inner">
+      <h3>Clubcard information</h3>
+      <p>We access the information recorded through the use of your Clubcard to help us improve our service to you and to make our communications more relevant.</p>
+    </div>
 
-<h2>Cookies</h2>
-<p>In order to comply with new rules, we use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to the Website.</p>
+    <div class="inner">
+      <h3>Marketing and research</h3>
+      <p>If you agree, we may contact you:</p>
+      <ul>
+        <li><p>with offers and information about Tesco products or services</p></li>
+        <li><p>with offers and information about partners' products or services</p></li>
+        <li><p>for customer research eg to help improve our services </p></li>
+      </ul>
+      <p>Of course, the choice is entirely yours, but if you say you do not want to receive marketing information from us this will prevent you from receiving great offers or promotions that may be of interest to you.</p>
+      <p>When you register online you can access a "Contact Preferences" page that allows you to tailor our commercial communications to your preferences. </p>
+      <p>To change your contact preferences simply click "Your Account" in the top frame and click "Your Contact Preferences". If you do not want to receive commercial communications from us, select your choices by using the boxes available on that page.</p>
+      <p>We like to hear your views to help us improve our service. From time to time, we may contact you to ask your opinions. Again, if you do not want to be contacted for this purpose, make your choice on the "Contact Preferences" page.</p>
+    </div>
 
-<h3>What is a cookie?</h3>
-<p>Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.</p>
-<p>Persistent cookies - these cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.</p>
-<p>Session cookies - these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.</p>
-<p>Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.</p>
-<p>You can find more information about cookies at <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a> and <a href="http://www.youronlinechoices.eu">www.youronlinechoices.eu</a>.</p>
+    <div class="inner">
+      <h2>Cookies</h2>
+      <p>In order to comply with new rules, we use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to the Website.</p>
+    </div>
 
-<h3>Cookies used on the Website</h3>
+    <div class="inner">
+      <h3>What is a cookie?</h3>
+      <p>Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.</p>
+      <p>Persistent cookies - these cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.</p>
+      <p>Session cookies - these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.</p>
+      <p>Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.</p>
+      <p>You can find more information about cookies at <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a> and <a href="http://www.youronlinechoices.eu">www.youronlinechoices.eu</a>.</p>
+    </div>
 
-<p>A list of all the cookies used on the Website by category is set out below.</p>
+    <div class="inner">
+      <h3>Cookies used on the Website</h3>
+      <p>A list of all the cookies used on the Website by category is set out below.</p>
+    </div>
 
-<h3>Strictly necessary cookies</h3>
-<p><strong>These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.</strong></p>
-<p>These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided. </p>
+    <div class="inner">
+      <h3>Strictly necessary cookies</h3>
+      <p><strong>These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.</strong></p>
+      <p>These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided. </p>
+    </div>
 
-<h3>Performance cookies</h3>
-<p><strong>These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device.</strong></p>
-<p>These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works. </p>
+    <div class="inner">
+      <h3>Performance cookies</h3>
+      <p><strong>These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device.</strong></p>
+      <p>These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works. </p>
+    </div>
 
-<h3>Functionality cookies</h3>
-<p><strong>These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.</strong>
-</p><p>These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.</p>
+    <div class="inner">
+      <h3>Functionality cookies</h3>
+      <p><strong>These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.</strong>
+      </p><p>These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.</p>
+    </div>
 
-<h3>Targeting or advertising cookies</h3>
-<p><strong>These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.</strong>
-</p><p>These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.</p>
+    <div class="inner">
+      <h3>Targeting or advertising cookies</h3>
+      <p><strong>These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.</strong>
+      </p><p>These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.</p>
+    </div>
 
-<h3>Behavioural advertising and online privacy</h3>
-<p>A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at <a href="http://www.youronlinechoices.eu">www.youronlinechoices.eu</a>. The guide contains an explanation of the IAB's self-regulatory scheme to allow you greater control of the advertising you see.</p>
+    <div class="inner">
+      <h3>Behavioural advertising and online privacy</h3>
+      <p>A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at <a href="http://www.youronlinechoices.eu">www.youronlinechoices.eu</a>. The guide contains an explanation of the IAB's self-regulatory scheme to allow you greater control of the advertising you see.</p>
+    </div>
 
-<h3>Using browser settings to manage cookies</h3>
-<p>The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.</p>
-<p>However, because cookies allow you to take advantage of some of the Website's essential features, we recommend you leave them turned on. For example, if you block or otherwise reject cookies you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any of our products and services that require you to Sign in. If you leave cookies turned on, remember to sign off when you finish using a shared computer. </p>
+    <div class="inner">
+      <h3>Using browser settings to manage cookies</h3>
+      <p>The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.</p>
+      <p>However, because cookies allow you to take advantage of some of the Website's essential features, we recommend you leave them turned on. For example, if you block or otherwise reject cookies you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any of our products and services that require you to Sign in. If you leave cookies turned on, remember to sign off when you finish using a shared computer. </p>
+    </div>
 
-<h3>Disclosing your information</h3>
-<p>We will never disclose your information to anyone outside the Tesco Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.</p>
-<p>Whenever we transfer personal information to countries outside the European Economic Area we will ensure that appropriate security measures are taken. </p>
+    <div class="inner">
+      <h3>Disclosing your information</h3>
+      <p>We will never disclose your information to anyone outside the Tesco Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.</p>
+      <p>Whenever we transfer personal information to countries outside the European Economic Area we will ensure that appropriate security measures are taken. </p>
+    </div>
 
-<h3>Other websites</h3>
-<p>The Website may contain links to other sites which are outside our control and not covered by this policy. The operators of these sites may collect information from you that will be used by them in accordance with their policy, which may differ from ours.</p>
+    <div class="inner">
+      <h3>Other websites</h3>
+      <p>The Website may contain links to other sites which are outside our control and not covered by this policy. The operators of these sites may collect information from you that will be used by them in accordance with their policy, which may differ from ours.</p>
+    </div>
 
-<h3>Accessing your information</h3>
-<p>To obtain a copy of the information we hold about you, write to: Data Protection Officer, Corporate &amp; Legal Affairs, New Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL enclosing a cheque or postal order for £10 payable to "Tesco Stores Limited". Please confirm your Clubcard number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.</p>
+    <div class="inner">
+      <h3>Accessing your information</h3>
+      <p>To obtain a copy of the information we hold about you, write to: Data Protection Officer, Corporate &amp; Legal Affairs, New Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL enclosing a cheque or postal order for £10 payable to "Tesco Stores Limited". Please confirm your Clubcard number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.</p>
+    </div>
 
-<h3>Changes to our policy</h3>
-<p>This policy replaces all previous versions and is correct as of May 2012. We reserve the right to change the policy at any time.</p>
+    <div class="inner">
+      <h3>Changes to our policy</h3>
+      <p>This policy replaces all previous versions and is correct as of May 2012. We reserve the right to change the policy at any time.</p>
+    </div>
 
-<h3>Contacting us</h3>
-<p>If you have any queries, please contact us at <a href="mailto:online@tesco.co.uk">online@tesco.co.uk</a>.</p>
+    <div class="inner">
+      <h3>Contacting us</h3>
+      <p>If you have any queries, please contact us at <a href="mailto:online@tesco.co.uk">online@tesco.co.uk</a>.</p>
+      <p><span>Last update: 01/05/2012</span></p>
+    </div>
 
-<p><span>Last update: 01/05/2012</span></p>
-
-</div>
+  </div> <!-- .outer -->
+</div> <!-- .content -->
 <!-- /global/template/footer.asp -->
 <div id="footer" class="footer2">
   <div class="footer-content">
     <h2>Footer navigation:</h2>
-    <a class="footer-logo" href="/">Tesco.com</a>
+    <a data-ltc="footer-logo" class="footer-logo" href="/">Tesco.com</a>
     <button class="footer-button" onclick="var bObj=document.getElementById('footer');bObj.className=bObj.className.match('footerON')?bObj.className.replace(' footerON',''):bObj.className+' footerON';">Footer Menu</button>
     <div class="footer-lists">
       <div id="footerA" class="footer-column">
         <h3>About this site</h3>
         <ul class="about-this-site">
-          <li><a href="/help/">Help</a></li>
-          <li><a href="/help/accessibility/">Accessibility</a></li>
-          <li><a href="/help/site-map/">Site map</a></li>
-          <li><a href="/help/privacy-and-cookies/">Privacy &amp; Cookies Policy</a></li>
-          <li><a href="/help/terms-and-conditions/">Terms &amp; conditions</a></li>
-          <li><a href="/staysafeonline/">Stay safe online</a></li>
+          <li><a data-ltc="footer-A-01" href="/help/">Help</a></li>
+          <li><a data-ltc="footer-A-02" href="/help/accessibility/">Accessibility</a></li>
+          <li><a data-ltc="footer-A-03" href="/help/site-map/">Site map</a></li>
+          <li><a data-ltc="footer-A-04" href="/help/privacy-and-cookies/">Privacy &amp; Cookies Policy</a></li>
+          <li><a data-ltc="footer-A-05" href="/help/terms-and-conditions/">Terms &amp; conditions</a></li>
+          <li><a data-ltc="footer-A-06" href="/staysafeonline/">Stay safe online</a></li>
+          <li><a data-ltc="footer-A-07" href="/events/">Events</a></li>
         </ul>
       </div>
       <div id="footerB" class="footer-column">
         <h3>About Tesco</h3>
         <ul class="about-tesco">
-          <li><a href="http://www.tescoplc.com/">Tesco PLC</a></li>
-          <li><a href="http://stores.tesco-careers.com/">Store vacancies</a></li>
-          <li><a href="http://www.tesco-careers.com/">Careers</a></li>
-          <li><a href="http://www.tesco.com/help/contact/">Contact us</a></li>
-          <li><a href="http://preferences.tesco.com/tesco_new_preference_centre/tesco_new_preference_centre.aspx">Sign-up for emails</a></li>
-          <li><a href="http://www.tescoplc.com/index.asp?pageid=120">Local support</a></li>
-          <li><a href="http://www.tescoplc.com/index.asp?pageid=83">Tesco policies</a></li>
+          <li><a data-ltc="footer-B-01" href="http://www.tescoplc.com/">Tesco PLC</a></li>
+          <li><a data-ltc="footer-B-02" href="http://stores.tesco-careers.com/">Store vacancies</a></li>
+          <li><a data-ltc="footer-B-03" href="http://www.tesco-careers.com/">Careers</a></li>
+          <li><a data-ltc="footer-B-04" href="/help/contact/">Contact us</a></li>
+          <li><a data-ltc="footer-B-05" href="http://preferences.tesco.com/tesco_new_preference_centre/tesco_new_preference_centre.aspx">Sign-up for emails</a></li>
+          <li><a data-ltc="footer-B-06" href="http://www.tescoplc.com/index.asp?pageid=120">Local support</a></li>
+          <li><a data-ltc="footer-B-07" href="http://www.tescoplc.com/index.asp?pageid=83">Tesco policies</a></li>
         </ul>
       </div>
       <div id="footerC" class="footer-column">
         <h3>Useful links</h3>
         <ul class="useful-links">
-          <li><a href="http://www.tesco.com/eathappyproject/">The Eat Happy Project</a></li>
-          <li><a href="/raceforlife/">Race for Life</a></li>
-          <li><a href="http://www.diabetes.org.uk/Tesco/?utm_source=Website&amp;utm_medium=Tesco_com&amp;C_DiabetesUK_footer_link&amp;utm_campaign=2013_NCP">Diabetes UK</a></li>
-          <li><a href="http://www.tesco.com/foodcollection/">Food Collection</a></li>
-          <li><a href="/nurture/">Nurture</a></li>
-          <li><a href="http://www.tesco.com/trees/">Together for Trees</a></li>
-          <li><a href="http://www.tescopfs.com">Petrol Filling Station</a></li>
+          <li><a data-ltc="footer-C-01" href="http://www.tesco.com/eathappyproject/">The Eat Happy Project</a></li>
+          <li><a data-ltc="footer-C-02" href="/raceforlife/">Race for Life</a></li>
+          <li><a data-ltc="footer-C-03" href="http://www.diabetes.org.uk/Tesco/?utm_source=Website&amp;utm_medium=Tesco_com&amp;C_DiabetesUK_footer_link&amp;utm_campaign=2013_NCP">Diabetes UK</a></li>
+          <li><a data-ltc="footer-C-04" href="http://www.tesco.com/foodcollection/">Food Collection</a></li>
+          <li><a data-ltc="footer-C-05" href="/nurture/">Nurture</a></li>
+          <li><a data-ltc="footer-C-06" href="http://www.tesco.com/trees/">Together for Trees</a></li>
+          <li><a data-ltc="footer-C-07" href="http://www.tescopfs.com">Petrol Filling Station</a></li>
         </ul>
       </div>
       <div id="footerD" class="footer-column">
         <h3 class="footer-morelinks">More Useful links</h3>
         <ul class="more-useful-links">
-          <li><a href="http://www.tesco.com/direct/hudl/">Hudl tablet</a></li>
-	  <li><a href="http://www.tesco.com/apps/">Mobile &amp; Tablet Apps</a></li>
-          <li><a href="http://www.nutricentre.com/">Nutricentre</a></li>
-          <li><a href="http://www.tesco.com/giftcard/">Gift cards</a></li>
-          <li><a href="/productrecall/">Product recall</a></li>
-          <li><a href="/affiliates/">Affiliates</a></li>
-          <li><a href="https://www.tescopricepromise.com/">Price Promise</a></li>
+          <li><a data-ltc="footer-D-01" href="http://www.tesco.com/direct/hudl/">hudl2 tablet</a></li>
+	        <li><a data-ltc="footer-D-02" href="http://www.tesco.com/apps/">Mobile &amp; Tablet Apps</a></li>
+          <li><a data-ltc="footer-D-03" href="http://www.nutricentre.com/">NutriCentre</a></li>
+          <li><a data-ltc="footer-D-04" href="http://www.tesco.com/giftcard/">Gift cards</a></li>
+          <li><a data-ltc="footer-D-05" href="/productrecall/">Product recall</a></li>
+          <li><a data-ltc="footer-D-06" href="/affiliates/">Affiliates</a></li>
+          <li><a data-ltc="footer-D-07" href="https://www.tescopricepromise.com/">Price Promise</a></li>
         </ul>
       </div>
     </div> <!-- .footer-lists -->
     <p class="footer-copyright"><span>©Tesco.com 2014</span> <span>All rights reserved</span></p>
   </div>
 </div> <!-- .footer -->
+<div id="social" class="social">
+  <div class="social-content">
+    <div>
+      <h2>Follow us:</h2>
+      <ul class="social-links">
+        <li><a data-ltc="social-facebook" class="social-facebook" href="http://www.facebook.com/tesco/" target="_blank" title="Facebook [new window]">Facebook</a></li>
+        <li><a data-ltc="social-twitter" class="social-twitter" href="http://twitter.com/tesco" target="_blank" title="Twitter [new window]">Twitter</a></li>
+        <li><a data-ltc="social-youtube" class="social-youtube" href="http://www.youtube.com/tesco" target="_blank" title="You Tube [new window]">You Tube</a></li>
+        <li><a data-ltc="social-pintrest" class="social-pintrest" href="http://pinterest.com/tesco/" target="_blank" title="Pintrest [new window]">Pintrest</a></li>
+        <li><a data-ltc="social-googleplus" class="social-googleplus" href="https://plus.google.com/114590064195544735169/posts" target="_blank" title="Google+ [new window]">Google+</a></li>
+      </ul>
+    </div>
+  </div>
+</div> <!-- #social.social -->
 
 
 <script src="/global/template/js/global.js"></script>
