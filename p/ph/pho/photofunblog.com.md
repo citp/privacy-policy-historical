@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photofunblog.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615132459id_/http%3A//www.photofunblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photofunblog.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212175144id_/http%3A//www.photofunblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PhotoFunBlog.com
 
