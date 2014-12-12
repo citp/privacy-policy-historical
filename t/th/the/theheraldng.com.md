@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theheraldng.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614011118id_/http%3A//www.theheraldng.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theheraldng.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212155958id_/http%3A//www.theheraldng.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Herald
 
