@@ -1,8 +1,15 @@
-<!--The following is the downloaded HTML source of the usarugby.org privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625044023id_/http%3A//usarugby.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usarugby.org privacy policy that was archived on 2014-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141212010957id_/http%3A//usarugby.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-gb" dir="ltr"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-<!--[if IE]>
+<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" lang="en-gb" dir="ltr"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+<!--[if lte IE 8]>
+	<script type="text/javascript">
+		window.location = "http://usarugby.org/update-browser.html";
+	</script>
+<![endif]-->
+
+<!--[if gte IE 8]>
 	<link rel="stylesheet" type="text/css" href="http://usarugby.org/templates/yoo_nano2/css/ie-fixes.css" />
 <![endif]-->
 
@@ -12,9 +19,8 @@
   <meta name="keywords" content="USA Rugby, rugby, usarugby, Eagles, XV, 15s, Sevens, 7s, men's, women's, youth, rookie, All-Americans, club, collegiate, college, senior, coaching, referee, clinics, development, world, cup, pacific, nations, national, championship, series,">
   <meta name="description" content="The official website of the national governing body for the sport of rugby union in the United States of America. USA Rugby is charged with developing the game on all levels and has over 115,000 active members. USA Rugby oversees four national teams, multiple collegiate and high school All-American sides, and an emerging Olympic development pathway for elite athletes.">
   <title>Privacy Policy</title>
-  <link href="http://usarugby.org/component/search/?Itemid=1133&amp;format=opensearch" rel="search" title="Search USA Rugby" type="application/opensearchdescription+xml">
   <link href="/templates/yoo_nano2/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-85da51f0.css" type="text/css">
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-da8bd427.css" type="text/css">
   <link rel="stylesheet" href="http://usarugby.org/plugins/system/jusertube/jusertube/srizontb.css" type="text/css">
   <link rel="stylesheet" href="http://usarugby.org/plugins/system/jusertube/jusertube/style.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_dropdown_megamenu/assets/css/dropdown_menu_right.css" type="text/css">
@@ -27,7 +33,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
   <script src="/plugins/system/jqueryeasy/jquerynoconflict.js" type="text/javascript"></script>
   
-  <script src="/cache/widgetkit/widgetkit-3da5cce8.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-eac4083c.js" type="text/javascript"></script>
   <script src="http://usarugby.org/plugins/system/jusertube/jusertube/srizonjq1.7.min.js" type="text/javascript"></script>
   <script src="http://usarugby.org/plugins/system/jusertube/jusertube/srizonjq.easing.1.3.min.js" type="text/javascript"></script>
   <script src="http://usarugby.org/plugins/system/jusertube/jusertube/srizontb2.js" type="text/javascript"></script>
@@ -71,6 +77,66 @@ var srztb_pathToImage = "http://usarugby.org/plugins/system/jusertube/jusertube/
 <script src="/templates/yoo_nano2/warp/js/dropdownmenu.js"></script>
 <script src="/templates/yoo_nano2/js/template.js"></script>
 <script src="/templates/yoo_nano2/js/custom.js"></script>
+<script src="/templates/yoo_nano2/js/modernizr.min.js"></script>
+	<style>
+		.buorg {
+			position:absolute;
+			width:100%;
+			top:0px;
+			left:0px;
+			box-shadow:0 1px 2px rgba(0,0,0,.75);
+			background:#a80019 no-repeat 1em 0.55em url(/images/page-items/warning.gif);
+			text-align:left;
+			cursor:pointer;
+			font-family: 'DroidSansRegular',Arial,Helvetica,sans-serif; color:#fff;
+			font-size: 12px;
+		}
+		.ua-ie-9 .buorg {
+			top: -30px;
+		}
+		.wk-ie {
+			background-position-y: 28px !important;
+			padding-top: 38px;
+		}
+		.wk-ie .buorg {
+			top: 0px;
+		}
+		.buorg div {
+				padding:5px 36px 5px 40px;
+		}
+		.buorg a {
+				color:#001830;
+		}
+		#buorgclose {
+			position: absolute;
+			right: .5em;
+			top:.2em;
+			height: 20px;
+			width: 12px;
+			font-weight: bold;
+			font-size:14px;
+			padding:0;
+		} 
+	</style>
+  <script>
+		var $buoop = {
+			// browser versions to notify
+			vs: {i : /([9]|[10])/, f : 31, o : 23, s : 6, c : 37},
+			// 0 = show all the time
+			reminder: 0,
+			// custom notification html text
+			text:'USA Rugby wants to let you know that your browser is out of date and, as a result, might not properly display all aspects of our website. Please <a href="https://browser-update.org/update.html">upgrade your browser</a> to fully enjoy all of the USA Rugby family of websites. For questions, please contact the <a id="usarweb" style="color:#001830;" href="mailto:&#119;&#101;&#098;&#109;&#097;&#115;&#116;&#101;&#114;&#064;&#117;&#115;&#097;&#114;&#117;&#103;&#098;&#121;&#046;&#111;&#114;&#103;"></strong>USA Rugby Webmaster</strong></a>.',  
+			// open link in new window/tab
+			newwindow: true
+		};
+		function $buo_f(){ 
+			var e = document.createElement("script"); 
+			e.src = "//browser-update.org/update.js"; 
+			document.body.appendChild(e);
+		}
+		try {document.addEventListener("DOMContentLoaded", $buo_f,false);}
+		catch(e){window.attachEvent("onload", $buo_f);}
+	</script>
 <link rel="canonical" href="http://usarugby.org/privacy-policy">
 
 <meta name="apple-itunes-app" content="app-id=658374891">
@@ -82,23 +148,31 @@ var srztb_pathToImage = "http://usarugby.org/plugins/system/jusertube/jusertube/
 
 
 
+
+
+
 <meta property="fb:admins" content="24601697">
 <meta property="fb:app_id" content="563322737037325">
 
+<meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Privacy Policy">
 <meta name="twitter:description" content="The official website of the national governing body for the sport of rugby union in the United States of America. USA Rugby is charged with developing the game on all levels and has over 115,000 active members. USA Rugby oversees four national teams, multiple collegiate and high school All-American sides, and an emerging Olympic development pathway for elite athletes.">
 <meta name="twitter:site" content="@USARugby">
 <meta name="twitter:creator" content="@USARugby">
 <meta name="twitter:url" content="http://usarugby.org/privacy-policy">
+<meta name="twitter:app:id:iphone" content="658374891">
+<meta name="twitter:app:id:ipad" content="658374891">
+<meta name="twitter:app:id:googleplay" content="com.mobileroadie.app_26858">
+<meta name="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=com.mobileroadie.app_26858">
 
-<script src="https://www.allplayers.com/sites/all/libraries/allplayers.js/bin/allplayers.embed.client.js" type="text/javascript"></script>
 <link href="http://www.usarugby.org/images/ogp/usar-default.png" rel="image_src">
+
 </head>
 
 <body id="page" class="page  isblog " data-config="{&quot;twitter&quot;:0,&quot;plusone&quot;:0,&quot;facebook&quot;:0}">
 
 		<div id="absolute">
-		<ul class="menu menu-sidebar" id="hidden-menu"><li class="level1 item299"><a href="/search" class="level1"><span>Search</span></a></li><li class="level1 item438"><a href="/home2" class="level1"><span>Home</span></a></li><li class="level1 item665"><a href="/spot-check" class="level1"><span>Random Spot Check</span></a></li><li class="level1 item673"><a href="/sanctioned-events" class="level1"><span>Sanctioned Events</span></a></li><li class="level1 item675"><a href="/login" class="level1"><span>login</span></a></li><li class="level1 item746"><a href="/new-club-application" class="level1"><span>New Club Application</span></a></li><li class="level1 item749"><a href="/dual-role-form" class="level1"><span>Dual Role Form</span></a></li><li class="level1 item750"><a href="/international-club-tour-application" class="level1"><span>International Club Tour Application</span></a></li><li class="level1 item763"><a href="/ordering-off-form" class="level1"><span>Ordering Off Form</span></a></li><li class="level1 item772"><a href="/referee-training-course-host-application" class="level1"><span>Referee Training Course Host Application</span></a></li><li class="level1 item784"><a href="/host-a-referee-course" class="level1"><span>Host a Referee Course</span></a></li><li class="level1 item816"><a href="/houston-sevens-sponsor" class="level1"><span>Houston Sevens Sponsor</span></a></li><li class="level1 item817"><a href="/houston-sevens-tickets" class="level1"><span>Houston Sevens Tickets</span></a></li><li class="level1 item818"><a href="/org-chart" class="level1"><span>Organization Chart</span></a></li><li class="level1 item844"><a href="/board-of-directors-application" class="level1"><span>Board of Directors Application</span></a></li><li class="level1 item849"><a href="/houston-7s" class="level1"><span>Houston Sevens</span></a></li><li class="level1 item989"><a href="/level-200-coaching-course" class="level1"><span>Level 200 Course</span></a></li><li class="level1 item1008"><a href="/nigel-melville" class="level1"><span>Nigel Melville</span></a></li><li class="level1 item1056"><a href="/level-200-online" class="level1"><span>Level 200</span></a></li><li class="level1 item1059"><a href="/feedback" class="level1"><span>Feedback</span></a></li><li class="level1 item1063"><a href="/team-directory-update" class="level1"><span>Team Directory Update</span></a></li><li class="level1 item1068"><a href="/usa-vs-france" class="level1"><span>USA vs. France</span></a></li><li class="level1 item1087"><a href="/goto-new-club" class="level1"><span>New Club</span></a></li><li class="level1 item1093"><a href="/planet-bordeaux" class="level1"><span>Planet Bordeaux</span></a></li><li class="level1 item1097"><a href="/sro-admin" class="level1"><span>SRO Admin</span></a></li><li class="level1 item992"><a href="/coach-development" class="level1"><span>Level 200 - Coach Development</span></a></li><li class="level1 item1116"><a href="/annis-family" class="level1"><span>Donor Profile</span></a></li><li class="level1 item1117"><a href="/don-morrison-scholarship" class="level1"><span>Don Morrison Scholarship</span></a></li><li class="level1 item1132"><a href="/upcoming-events-foundation-newsletter" class="level1"><span>Upcoming Events</span></a></li><li class="level1 item1152"><a href="/trust-newsletter-winter-2014" class="level1"><span>Trust Newsletter</span></a></li><li class="level1 item1335"><a href="/trust-newsletter-spring-2013" class="level1"><span>Trust Newsletter</span></a></li><li class="level1 item1172"><a href="/ohanah-staging" class="level1"><span>Ohanah (Staging)</span></a></li><li class="level1 item1173"><a href="/ohanah-staging-2" class="level1"><span>Ohanah (Staging) (2)</span></a></li><li class="level1 item607"><a href="/donate" class="level1"><span>Donate</span></a></li><li class="level1 item1235"><a href="/usavineire" class="level1"><span>#USAvineIRE</span></a></li><li class="level1 item1236"><a href="/2013-10-21-12-53-46" class="level1"><span>App</span></a></li><li class="level1 item1323"><a href="/donor-spotlight-meet-charlie" class="level1"><span>Donor Spotlight: Meet Charlie</span></a></li><li class="level1 item1325"><a href="/princeton-celebrates-rugby" class="level1"><span>Princeton Celebrates Rugby</span></a></li><li class="level1 item1326"><a href="/peer-to-peer-campaigns-raise-over-100-000" class="level1"><span>Peer-to-Peer Campaigns Raise Over $100,000</span></a></li><li class="level1 item1327"><a href="/womens-nations-cup-kick-off-in-greeley" class="level1"><span>Women’s Nations Cup Kick-off in Greeley</span></a></li><li class="level1 item1328"><a href="/inaugural-high-school-all-american-stars-and-stripes-camp-a-success" class="level1"><span>Inaugural High School All-American Stars and Stripes Camp A Success</span></a></li><li class="level1 item1329"><a href="/a-goldmine-of-planet-bordeaux-wines-thanking-donors-and-supporters-in-chicago-il" class="level1"><span>A Goldmine of Planet Bordeaux Wines: Thanking Donors and Supporters in Chicago, IL</span></a></li><li class="level1 item1330"><a href="/board-votes-in-new-member" class="level1"><span>Board Votes in New Member</span></a></li><li class="level1 item1331"><a href="/honoring-our-founding-members" class="level1"><span>Honoring Our Founding Members</span></a></li><li class="level1 item1332"><a href="/celebrating-our-eagle-alumni" class="level1"><span>Celebrating our Eagle Alumni</span></a></li><li class="level1 item1349"><a href="/2012-2013-rosters" class="level1"><span>2012-2013 Rosters</span></a></li><li class="level1 item1351"><a href="/membership-staging" class="level1"><span>membership-staging</span></a></li><li class="level1 item1403"><a href="/contests" class="level1"><span>Contests</span></a></li><li class="level1 item1456"><a href="/trust-newsletter-summer-2013" class="level1"><span>Trust Newsletter Summer 2013</span></a></li><li class="level1 item1502"><a href="/level-200-coaching-guide" class="level1"><span>Level 200 Coaching Guide</span></a></li><li class="level1 item1503"><a href="/level-200-coaching-guide-2" class="level1"><span>Level 200 Coaching Guide Pt. 2</span></a></li><li class="level1 item1504"><a href="/level-200-coaching-guide-3" class="level1"><span>Level 200 Coaching Guide Pt. 3</span></a></li><li class="level1 item1512"><a href="/usa-sevens-data" class="level1"><span>USA Sevens Data</span></a></li><li class="level1 item611"><a href="/trust-leadership" class="level1"><span>Leadership</span></a></li><li class="level1 item1533"><a href="/trust-newsletter-fall-2013" class="level1"><span>Trust Newsletter</span></a></li></ul>	</div>
+		<ul class="menu menu-sidebar" id="hidden-menu"><li class="level1 item299"><a href="/search" class="level1"><span>Search</span></a></li><li class="level1 item438"><a href="/home2" class="level1"><span>Home</span></a></li><li class="level1 item665"><a href="/spot-check" class="level1"><span>Random Spot Check</span></a></li><li class="level1 item673"><a href="/sanctioned-events" class="level1"><span>Sanctioned Events</span></a></li><li class="level1 item675"><a href="/login" class="level1"><span>login</span></a></li><li class="level1 item746"><a href="/new-club-application" class="level1"><span>New Club Application</span></a></li><li class="level1 item749"><a href="/dual-role-form" class="level1"><span>Dual Role Form</span></a></li><li class="level1 item750"><a href="/international-club-tour-application" class="level1"><span>International Club Tour Application</span></a></li><li class="level1 item763"><a href="/ordering-off-form" class="level1"><span>Ordering Off Form</span></a></li><li class="level1 item772"><a href="/referee-training-course-host-application" class="level1"><span>Referee Training Course Host Application</span></a></li><li class="level1 item784"><a href="/host-a-referee-course" class="level1"><span>Host a Referee Course</span></a></li><li class="level1 item816"><a href="/houston-sevens-sponsor" class="level1"><span>Houston Sevens Sponsor</span></a></li><li class="level1 item817"><a href="/houston-sevens-tickets" class="level1"><span>Houston Sevens Tickets</span></a></li><li class="level1 item818"><a href="/org-chart" class="level1"><span>Organization Chart</span></a></li><li class="level1 item844"><a href="/board-of-directors-application" class="level1"><span>Board of Directors Application</span></a></li><li class="level1 item849"><a href="/houston-7s" class="level1"><span>Houston Sevens</span></a></li><li class="level1 item989"><a href="/level-200-coaching-course" class="level1"><span>Level 200 Course</span></a></li><li class="level1 item1008"><a href="/nigel-melville" class="level1"><span>Nigel Melville</span></a></li><li class="level1 item1056"><a href="/level-200-online" class="level1"><span>Level 200</span></a></li><li class="level1 item1059"><a href="/feedback" class="level1"><span>Feedback</span></a></li><li class="level1 item1063"><a href="/team-directory-update" class="level1"><span>Team Directory Update</span></a></li><li class="level1 item1068"><a href="/usa-vs-france" class="level1"><span>USA vs. France</span></a></li><li class="level1 item1087"><a href="/goto-new-club" class="level1"><span>New Club</span></a></li><li class="level1 item1097"><a href="/sro-admin" class="level1"><span>SRO Admin</span></a></li><li class="level1 item992"><a href="/coach-development" class="level1"><span>Level 200 - Coach Development</span></a></li><li class="level1 item1116"><a href="/annis-family" class="level1"><span>Donor Profile</span></a></li><li class="level1 item1117"><a href="/don-morrison-scholarship" class="level1"><span>Don Morrison Scholarship</span></a></li><li class="level1 item1132"><a href="/upcoming-events-foundation-newsletter" class="level1"><span>Upcoming Events</span></a></li><li class="level1 item1152"><a href="/trust-newsletter-winter-2014" class="level1"><span>Trust Newsletter</span></a></li><li class="level1 item1335"><a href="/trust-newsletter-spring-2013" class="level1"><span>Trust Newsletter</span></a></li><li class="level1 item1172"><a href="/ohanah-staging" class="level1"><span>Ohanah (Staging)</span></a></li><li class="level1 item1173"><a href="/ohanah-staging-2" class="level1"><span>Ohanah (Staging) (2)</span></a></li><li class="level1 item607"><a href="/donate" class="level1"><span>Donate</span></a></li><li class="level1 item1235"><a href="/usavineire" class="level1"><span>#USAvineIRE</span></a></li><li class="level1 item1236"><a href="/2013-10-21-12-53-46" class="level1"><span>App</span></a></li><li class="level1 item1323"><a href="/donor-spotlight-meet-charlie" class="level1"><span>Donor Spotlight: Meet Charlie</span></a></li><li class="level1 item1325"><a href="/princeton-celebrates-rugby" class="level1"><span>Princeton Celebrates Rugby</span></a></li><li class="level1 item1326"><a href="/peer-to-peer-campaigns-raise-over-100-000" class="level1"><span>Peer-to-Peer Campaigns Raise Over $100,000</span></a></li><li class="level1 item1327"><a href="/womens-nations-cup-kick-off-in-greeley" class="level1"><span>Women’s Nations Cup Kick-off in Greeley</span></a></li><li class="level1 item1328"><a href="/inaugural-high-school-all-american-stars-and-stripes-camp-a-success" class="level1"><span>Inaugural High School All-American Stars and Stripes Camp A Success</span></a></li><li class="level1 item1330"><a href="/board-votes-in-new-member" class="level1"><span>Board Votes in New Member</span></a></li><li class="level1 item1331"><a href="/honoring-our-founding-members" class="level1"><span>Honoring Our Founding Members</span></a></li><li class="level1 item1332"><a href="/celebrating-our-eagle-alumni" class="level1"><span>Celebrating our Eagle Alumni</span></a></li><li class="level1 item1349"><a href="/2012-2013-rosters" class="level1"><span>2012-2013 Rosters</span></a></li><li class="level1 item1351"><a href="/membership-staging" class="level1"><span>membership-staging</span></a></li><li class="level1 item1403"><a href="/contests" class="level1"><span>Contests</span></a></li><li class="level1 item1456"><a href="/trust-newsletter-summer-2013" class="level1"><span>Trust Newsletter Summer 2013</span></a></li><li class="level1 item1502"><a href="/level-200-coaching-guide" class="level1"><span>Level 200 Coaching Guide</span></a></li><li class="level1 item1503"><a href="/level-200-coaching-guide-2" class="level1"><span>Level 200 Coaching Guide Pt. 2</span></a></li><li class="level1 item1504"><a href="/level-200-coaching-guide-3" class="level1"><span>Level 200 Coaching Guide Pt. 3</span></a></li><li class="level1 item1512"><a href="/usa-sevens-data" class="level1"><span>USA Sevens Data</span></a></li><li class="level1 item611"><a href="/trust-leadership" class="level1"><span>Leadership</span></a></li><li class="level1 item1533"><a href="/trust-newsletter-fall-2013" class="level1"><span>Trust Newsletter</span></a></li><li class="level1 item1571"><a href="/wnt-peer-to-peer-fundraising-pivotal-for-the-rugby-community" class="level1"><span>WNT Peer-to-Peer Fundraising Pivotal for the Rugby Community</span></a></li><li class="level1 item1572"><a href="/board-votes-in-new-members" class="level1"><span>Board Votes In New Members</span></a></li><li class="level1 item1573"><a href="/donor-spotlight-meet-anne-vanbuskirk" class="level1"><span>Donor Spotlight: Meet Anne Vanbuskirk</span></a></li><li class="level1 item1583"><a href="/trust-news" class="level1"><span>Trust News</span></a></li><li class="level1 item1618"><a href="/usa-rugby-national-team-olympic-recruitment-camp" class="level1"><span>USA Rugby National Team Olympic Recruitment Camp</span></a></li></ul>	</div>
 	
 	<div class="wrapper clearfix">
 
@@ -126,14 +200,50 @@ var srztb_pathToImage = "http://usarugby.org/plugins/system/jusertube/jusertube/
 <div class="childcontent-inner-wrap">
 <div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/about-usarugby/overview" class="mega first" id="menu543"><span class="menu-title">Overview</span></a></li><li class="mega"><a href="/state-rugby-organizations" class="mega" id="menu541"><span class="menu-title">State Rugby Org.</span></a></li><li class="mega"><a href="/careers" class="mega" id="menu539"><span class="menu-title">Careers</span></a></li><li class="mega last"><a href="/partners" class="mega last" id="menu542"><span class="menu-title">Partners</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/directory" class="mega first" id="menu536"><span class="menu-title">Contact Us</span></a></li><li class="mega"><a href="/board-of-directors" class="mega" id="menu534"><span class="menu-title">Board of Directors</span></a></li><li class="mega"><a href="/congress" class="mega" id="menu535"><span class="menu-title">Congress</span></a></li><li class="mega last"><a href="/committees" class="mega last" id="menu537"><span class="menu-title">Committees</span></a></li></ul></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
-<a href="/about-usarugby/overview"><img src="/images/menu/nigel.jpg"></a>		</div></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
+<div class="events-wrapper">
+<div class="event wt ht proh">
+  <a class="spotlight proh" href="/about-usarugby/overview">
+    <img class="wt ht" src="/images/menu/blank/nigel-mod.jpg">
+    <div class="shadow wt pA">
+      <span>Overview of USA Rugby</span>
+    </div>
+    <div class="overlay wt ht pA vvdn">
+      <div class="details">Learn more about USA Rugby</div>
+    </div>
+  </a>
+</div>
+</div>		</div></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
-<a href="/about-usarugby/history"><img src="/images/menu/history.jpg"></a>		</div></div></div></li></ul></div></div>
+<div class="events-wrapper">
+<div class="event wt ht proh">
+  <a class="spotlight proh" href="/about-usarugby/history">
+    <img class="wt ht" src="/images/menu/blank/history-mod.jpg">
+    <div class="shadow wt pA">
+      <span>History of USA Rugby</span>
+    </div>
+    <div class="overlay wt ht pA vvdn">
+      <div class="details">Explore the History of USA Rugby</div>
+    </div>
+  </a>
+</div>
+</div>		</div></div></div></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="/news" class="mega haschild" id="menu102"><span class="menu-title">News</span></a><div class="childcontent cols4 ">
 <div class="childcontent-inner-wrap">
 <div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/news" class="mega first" id="menu547"><span class="menu-title">News</span></a></li><li class="mega"><a href="/news/coverage/social" class="mega" id="menu546"><span class="menu-title">Social Hub</span></a></li><li class="mega"><a href="/news/coverage/usa-rugby-tv" class="mega" id="menu530"><span class="menu-title">USA Rugby TV</span></a></li><li class="mega last"><a href="/rugby-on-tv" class="mega last" id="menu549"><span class="menu-title">Rugby on TV</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
-<a href="/news"><img src="/images/menu/usarugbynews.jpg"></a>		</div></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
+<div class="events-wrapper" style="right:3px;">
+<div class="event wt ht proh">
+  <a class="spotlight proh" href="/news">
+    <img class="wt ht" src="/images/menu/blank/news-mod.jpg">
+    <div class="shadow wt pA">
+      <span>USA Rugby News</span>
+    </div>
+    <div class="overlay wt ht pA vvdn">
+      <div class="details">Check out the latest USA Rugby headlines</div>
+    </div>
+  </a>
+</div>
+</div>		</div></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
 <a href="/news/coverage/usa-rugby-tv"><img src="/images/menu/usarugbytv.jpg"></a>		</div></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
@@ -152,44 +262,52 @@ var srztb_pathToImage = "http://usarugby.org/plugins/system/jusertube/jusertube/
 </div>		</div></div></div></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu146"><span class="menu-title">National Teams</span></a><div class="childcontent cols4 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 235px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/mens-eagles" class="mega first" id="menu149"><span class="menu-title">Men’s Eagles</span></a></li><li class="mega"><a href="/mens-eagles-sevens" class="mega" id="menu150"><span class="menu-title">Men's Sevens</span></a></li><li class="mega last"><a href="/mens-all-americans" class="mega last" id="menu1154"><span class="menu-title">Men's All-Americans</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 235px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/womens-eagles" class="mega first" id="menu153"><span class="menu-title">Women’s Eagles</span></a></li><li class="mega"><a href="/womens-eagles-sevens" class="mega" id="menu154"><span class="menu-title">Women's Sevens</span></a></li><li class="mega last"><a href="/womens-all-americans" class="mega last" id="menu1155"><span class="menu-title">Women's All-Americans</span></a></li></ul></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
+<div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 235px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/mens-eagles" class="mega first" id="menu149"><span class="menu-title">Men’s Eagles</span></a></li><li class="mega"><a href="/mens-eagles-sevens" class="mega" id="menu150"><span class="menu-title">Men's Sevens</span></a></li><li class="mega last"><a href="/mens-all-americans" class="mega last" id="menu1154"><span class="menu-title">Men's All-Americans</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 235px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/womens-eagles" class="mega first" id="menu153"><span class="menu-title">Women’s Eagles</span></a></li><li class="mega"><a href="/womens-eagles-sevens" class="mega" id="menu154"><span class="menu-title">Women's Sevens</span></a></li><li class="mega last"><a href="/womens-all-americans" class="mega last" id="menu1155"><span class="menu-title">Women's All-Americans</span></a></li></ul></div></div></li></ul></div><div class="megacol column3" style="width: 235px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
 <div class="events-wrapper">
 <div class="event wt ht proh">
-  <a class="spotlight proh" href="/wrwc">
-    <img class="wt ht" src="/images/menu/blank/wrwc-menu-mod.jpg" width="225" height="140">
-    <div class="shadow wt pA">
-      <span>Aug. 1-17 • Paris, FRA </span>
-    </div>
-    <div class="overlay wt ht pA vvdn">
-      <div class="details">Women's Rugby<br>World Cup<br>August 16-17<br>Paris, FRA</div>
-    </div>
-  </a>
-  <a class="red-button pA vvdn" href="http://www.ticketnet.fr/en/liste/idlist/45/idtier/1493223">Buy Tickets</a>
+      <a class="spotlight proh" href="/atlanta7s#2015=atl7">
+        <img class="wt ht" src="/images/events/atl-7s-logo.png" style="padding:0 25px;width:175px;">
+        <div class="shadow wt pA">
+          <span>Women's 7s in Atlanta</span>
+        </div>
+        <div class="overlay wt ht pA vvdn">
+          <div class="details">IRB WSWS<br>March 14-15<br>Atlanta, GA</div>
+        </div>
+      </a>
 </div>
 </div>		</div></div></div></li></ul></div><div class="megacol column4 last" style="width: 235px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
 <div class="events-wrapper">
 <div class="event wt ht proh">
-  <a class="spotlight proh" href="http://usavallblacks.com">
-    <img class="wt ht" src="/images/menu/blank/usa-v-all-blacks-menu-mod.jpg">
+  <a class="spotlight proh" href="/2016-rio-olympics">
+    <img class="" width="225" height="140" src="/images/menu/eagles-sevens-menu.png">
     <div class="shadow wt pA">
-      <span>#USAvAllBlacks - Soldier Field</span>
+      <span>Rugby Sevens - Rio 2016</span>
     </div>
     <div class="overlay wt ht pA vvdn">
-      <div class="details">USA <span style="font-size:18px;">v</span> All Blacks<br>November 1<br>Chicago, IL</div>
+      <div class="details">FOLLOW THE EAGLES SEVENS<br></div>
     </div>
   </a>
-  <a class="red-button pA vvdn" href="http://www.ticketmaster.com/aig-presents-usa-v-nz-all-chicago-illinois-11-01-2014/event/04004CBDD18B8D05">Buy Tickets</a>
 </div>
 </div>		</div></div></div></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="/club" class="mega haschild" id="menu125"><span class="menu-title">Club</span></a><div class="childcontent cols4 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/club" class="mega first" id="menu869"><span class="menu-title">Frontpage</span></a></li><li class="mega"><a href="/club-news" class="mega" id="menu878"><span class="menu-title">News</span></a></li><li class="mega"><a href="/club-competitions" class="mega" id="menu876"><span class="menu-title">Club Scores by Region</span></a></li><li class="mega last"><a href="/club-championships" class="mega last" id="menu873"><span class="menu-title">National Championships</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/club-eligibility" class="mega first" id="menu871"><span class="menu-title">Eligibility</span></a></li><li class="mega"><a href="/club-contacts" class="mega" id="menu872"><span class="menu-title">Contacts</span></a></li><li class="mega last"><a href="/geographical-unions" class="mega last" id="menu1220"><span class="menu-title">Geographical Unions</span></a></li></ul></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
+<div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/club" class="mega first" id="menu869"><span class="menu-title">Frontpage</span></a></li><li class="mega"><a href="/club-news" class="mega" id="menu878"><span class="menu-title">News</span></a></li><li class="mega"><a href="/club-contacts" class="mega" id="menu872"><span class="menu-title">Contacts</span></a></li><li class="mega last"><a href="/club-resources" class="mega last" id="menu876"><span class="menu-title">Resources</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/find-a-club-in-your-area" class="mega first" id="menu870"><span class="menu-title">Find A Club</span></a></li><li class="mega"><a href="/find-a-combine" class="mega" id="menu1614"><span class="menu-title">Find A Combine</span></a></li><li class="mega"><a href="/club-competitions" class="mega" id="menu873"><span class="menu-title">Scores &amp; Competitions</span></a></li><li class="mega last"><a href="/geographical-unions" class="mega last" id="menu1220"><span class="menu-title">Geographical Unions</span></a></li></ul></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/club-eligibility" class="mega first" id="menu871"><span class="menu-title">Eligibility</span></a></li><li class="mega"><a href="/club-championships" class="mega" id="menu1615"><span class="menu-title">National 15s Championship</span></a></li><li class="mega"><a href="/club-7s-championship" class="mega" id="menu874"><span class="menu-title">Club 7s National Championship</span></a></li><li class="mega last"><a href="/womens-premier-league" class="mega last" id="menu1616"><span class="menu-title">Women's Premier League</span></a></li></ul></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
-<a href="/wpl"><img src="/images/menu/wpl.jpg"></a>		</div></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
-					
-<a href="/elite-cup"><img src="/images/menu/elite-cup.jpg"></a>		</div></div></div></li></ul></div></div>
+<div class="events-wrapper">
+<div class="event wt ht proh">
+  <a class="spotlight proh" href="/club-competitions">
+    <img class="wt ht" src="/images/menu/blank/club-scores-menu.jpg">
+    <div class="shadow wt pA">
+      <span>Regional Club Scores</span>
+    </div>
+    <div class="overlay wt ht pA vvdn">
+      <div class="details">Checkout the lastest club rugby results in your area!</div>
+    </div>
+  </a>
+</div>
+</div>		</div></div></div></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="/college" class="mega haschild" id="menu934"><span class="menu-title">College</span></a><div class="childcontent cols4 ">
 <div class="childcontent-inner-wrap">
 <div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/college" class="mega first" id="menu941"><span class="menu-title">Frontpage</span></a></li><li class="mega"><a href="/college-news" class="mega" id="menu942"><span class="menu-title">News</span></a></li><li class="mega"><a href="/college-directory" class="mega" id="menu943"><span class="menu-title">Conferences &amp; Teams</span></a></li><li class="mega last"><a href="/college-championships" class="mega last" id="menu944"><span class="menu-title">National College Championships</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/college-eligibility" class="mega first" id="menu937"><span class="menu-title">Eligibility</span></a></li><li class="mega"><a href="http://www.d1arugby.com/" class="mega" id="menu938"><span class="menu-title">D1A </span></a></li><li class="mega"><a href="/college-resources" class="mega" id="menu1085"><span class="menu-title">Resources</span></a></li><li class="mega last"><a href="/ncaa" class="mega last" id="menu1101"><span class="menu-title">NCAA</span></a></li></ul></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
@@ -210,7 +328,19 @@ var srztb_pathToImage = "http://usarugby.org/plugins/system/jusertube/jusertube/
 					
 <a href="/coaching-courses/course-calendar"><img src="/images/menu/register-coaching.jpg" border="0"> </a>		</div></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
-<a href="/coach-reqs/overview"> <img src="/images/menu/coaching-reqs.png" border="0"></a>		</div></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/coaching" class="mega first" id="menu624"><span class="menu-title">Frontpage</span></a></li><li class="mega"><a href="/coaching-courses/course-calendar" class="mega" id="menu627"><span class="menu-title">Courses</span></a></li><li class="mega"><a href="/coach-reqs/overview" class="mega" id="menu626"><span class="menu-title">Requirements</span></a></li><li class="mega last"><a href="/coach-reqs/overview" class="mega last" id="menu622"><span class="menu-title">Overview</span></a></li></ul></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/certified-coaches" class="mega first" id="menu628"><span class="menu-title">Active &amp; Certified Coaches</span></a></li><li class="mega"><a href="/professional-development" class="mega" id="menu623"><span class="menu-title">Professional Development</span></a></li><li class="mega"><a href="https://usarugby.zendesk.com/forums/22252401-Coaching" class="mega" id="menu815"><span class="menu-title">FAQs</span></a></li><li class="mega last"><a href="/coach-contacts" class="mega last" id="menu625"><span class="menu-title">Contacts</span></a></li></ul></div></div></li></ul></div></div>
+<div class="events-wrapper">
+<div class="event wt ht proh">
+  <a class="spotlight proh" href="/coach-reqs/overview">
+    <img class="wt ht" src="/images/menu/blank/coaching-reqs-mod.jpg">
+    <div class="shadow wt pA">
+      <span>Coaching Requirements</span>
+    </div>
+    <div class="overlay wt ht pA vvdn">
+      <div class="details">Become a USA Rugby certified coach today!</div>
+    </div>
+  </a>
+</div>
+</div>		</div></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/coaching" class="mega first" id="menu624"><span class="menu-title">Frontpage</span></a></li><li class="mega"><a href="/coaching-courses/course-calendar" class="mega" id="menu627"><span class="menu-title">Courses</span></a></li><li class="mega"><a href="/coach-reqs/overview" class="mega" id="menu626"><span class="menu-title">Requirements</span></a></li><li class="mega last"><a href="/coach-reqs/overview" class="mega last" id="menu622"><span class="menu-title">Overview</span></a></li></ul></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/certified-coaches" class="mega first" id="menu628"><span class="menu-title">Active &amp; Certified Coaches</span></a></li><li class="mega"><a href="/professional-development" class="mega" id="menu623"><span class="menu-title">Professional Development</span></a></li><li class="mega"><a href="https://usarugby.zendesk.com/forums/22252401-Coaching" class="mega" id="menu815"><span class="menu-title">FAQs</span></a></li><li class="mega last"><a href="/coach-contacts" class="mega last" id="menu625"><span class="menu-title">Contacts</span></a></li></ul></div></div></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="/referee" class="mega haschild" id="menu283"><span class="menu-title">Ref</span></a><div class="childcontent cols4 ">
 <div class="childcontent-inner-wrap">
 <div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
@@ -222,56 +352,40 @@ var srztb_pathToImage = "http://usarugby.org/plugins/system/jusertube/jusertube/
 					
 <div class="events-wrapper">
 <div class="event wt ht proh">
-  <a class="spotlight proh" href="/mcaa">
-    <img class="wt ht" src="/images/menu/blank/mcaa-menu-mod.jpg">
+  <a class="spotlight proh" href="/national-development-summit#2015=nds">
+    <img class="wt ht" width="225" height="140" src="/images/featured/nds-slideset.jpg">
     <div class="shadow wt pA">
-      <span>2014 MCAA Summer Tour</span>
+      <span>Register Today!</span>
     </div>
     <div class="overlay wt ht pA vvdn">
-      <div class="details">Keep up with the<br>Men's Collegiate<br>All-Americans on<br>tour!</div>
+      <div class="details">January 23-25<br>Chicago, IL<br></div>
     </div>
   </a>
-  <a class="red-button pA vvdn" href="/mens-all-americans">Latest News</a>
+  <a class="red-button pA vvdn" href="/national-development-summit#2015=register-now">Register Today!</a>
 </div>
 </div>		</div></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
 <div class="events-wrapper">
 <div class="event wt ht proh">
-  <a class="spotlight proh" href="/wrwc">
-    <img class="wt ht" src="/images/menu/blank/wrwc-menu-mod.jpg" width="225" height="140">
-    <div class="shadow wt pA">
-      <span>Aug. 1-17 • Paris, FRA </span>
-    </div>
-    <div class="overlay wt ht pA vvdn">
-      <div class="details">Women's Rugby<br>World Cup<br>August 16-17<br>Paris, FRA</div>
-    </div>
-  </a>
-  <a class="red-button pA vvdn" href="http://www.ticketnet.fr/en/liste/idlist/45/idtier/1493223">Buy Tickets</a>
+      <a class="spotlight proh" href="/atlanta7s#2015=atl7">
+        <img class="wt ht" src="/images/events/atl-7s-logo.png" style="padding:0 25px;width:175px;">
+        <div class="shadow wt pA">
+          <span>Women's 7s in Atlanta</span>
+        </div>
+        <div class="overlay wt ht pA vvdn">
+          <div class="details">IRB WSWS<br>March 14-15<br>Atlanta, GA</div>
+        </div>
+      </a>
 </div>
-</div>		</div></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
-					
-<div class="events-wrapper">
-<div class="event wt ht proh">
-  <a class="spotlight proh" href="http://usavallblacks.com">
-    <img class="wt ht" src="/images/menu/blank/usa-v-all-blacks-menu-mod.jpg">
-    <div class="shadow wt pA">
-      <span>#USAvAllBlacks - Soldier Field</span>
-    </div>
-    <div class="overlay wt ht pA vvdn">
-      <div class="details">USA <span style="font-size:18px;">v</span> All Blacks<br>November 1<br>Chicago, IL</div>
-    </div>
-  </a>
-  <a class="red-button pA vvdn" href="http://www.ticketmaster.com/aig-presents-usa-v-nz-all-chicago-illinois-11-01-2014/event/04004CBDD18B8D05">Buy Tickets</a>
-</div>
-</div>		</div></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/rast-2014" class="mega first" id="menu1165"><span class="menu-title">Regional All-Stars 2014</span></a></li><li class="mega"><a href="/womens-rugby-world-cup" class="mega" id="menu1297"><span class="menu-title">Aug. 1-17: Women's RWC</span></a></li><li class="mega"><a href="http://usavallblacks.com" class="mega" id="menu1114"><span class="menu-title">November 1: USA v All Blacks</span></a></li><li class="mega last"><a href="/events1/usa-rugby-events/calendar" class="mega last" id="menu374"><span class="menu-title">Events Calendar</span></a></li></ul></div></div></li></ul></div></div>
+</div>		</div></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="http://usarugby.org/national-development-summit#2015=nds" class="mega first" id="menu373"><span class="menu-title">2015 NATIONAL DEV. SUMMIT</span></a></li><li class="mega last"><a href="/atlanta7s#2014=atl7" class="mega last" id="menu1297"><span class="menu-title">March 14-15: World Rugby Women's 7s</span></a></li></ul></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/events1/usa-rugby-events/calendar" class="mega first" id="menu374"><span class="menu-title">Events Calendar</span></a></li></ul></div></div></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="/trust" class="mega haschild" id="menu284"><span class="menu-title">Trust</span></a><div class="childcontent cols3 ">
 <div class="childcontent-inner-wrap">
 <div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="moduletable">
 					
-<div><a href="/donate"><img src="/images/menu/donate.jpg"></a></div>		</div></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/trust" class="mega first" id="menu841"><span class="menu-title">Frontpage</span></a></li><li class="mega"><a href="/overview-trust" class="mega" id="menu609"><span class="menu-title">Overview</span></a></li><li class="mega"><a href="/trust-leadership" class="mega" id="menu556"><span class="menu-title">Board of Directors</span></a></li><li class="mega last"><a href="/trust-staff" class="mega last" id="menu612"><span class="menu-title">Staff</span></a></li></ul></div></div></li></ul></div><div class="megacol column3 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="https://cms.mybernard.com/usarugby/donate.aspx" class="mega first" id="menu608"><span class="menu-title">Donate</span></a></li><li class="mega"><a href="/ways-to-give" class="mega" id="menu555"><span class="menu-title">Ways to Give</span></a></li><li class="mega"><a href="/areas-of-need" class="mega" id="menu554"><span class="menu-title">Areas of Need</span></a></li><li class="mega last"><a href="/trust-get-involved" class="mega last" id="menu845"><span class="menu-title">Get Involved</span></a></li></ul></div></div></li></ul></div></div>
-</div></div></li><li class="mega haschild"><a href="/membership" class="mega haschild" id="menu527"><span class="menu-title">Member Resources</span></a><div class="childcontent cols4 ">
+<div><a href="/donate"><img src="/images/menu/donate.jpg"></a></div>		</div></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/trust" class="mega first" id="menu841"><span class="menu-title">Frontpage</span></a></li><li class="mega"><a href="/overview-trust" class="mega" id="menu609"><span class="menu-title">Overview</span></a></li><li class="mega"><a href="/trust-leadership" class="mega" id="menu556"><span class="menu-title">Board of Directors</span></a></li><li class="mega last"><a href="/trust-leadership" class="mega last" id="menu612"><span class="menu-title">Staff</span></a></li></ul></div></div></li></ul></div><div class="megacol column3 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="https://cms.mybernard.com/usarugby/donate.aspx" class="mega first" id="menu608"><span class="menu-title">Donate</span></a></li><li class="mega"><a href="/ways-to-give" class="mega" id="menu555"><span class="menu-title">Ways to Give</span></a></li><li class="mega"><a href="/areas-of-need" class="mega" id="menu554"><span class="menu-title">Areas of Need</span></a></li><li class="mega last"><a href="/trust-get-involved" class="mega last" id="menu845"><span class="menu-title">Get Involved</span></a></li></ul></div></div></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu527"><span class="menu-title">Member Resources</span></a><div class="childcontent cols4 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/documentation/membership/disciplinary-procedures.pdf" class="mega first" id="menu1095"><span class="menu-title">Disciplinary Procedures</span></a></li><li class="mega"><a href="https://usarugby.zendesk.com/home" class="mega" id="menu1128"><span class="menu-title">Membership FAQs</span></a></li><li class="mega last"><a href="/tours" class="mega last" id="menu1184"><span class="menu-title">Tours</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/membership-forms" class="mega first" id="menu748"><span class="menu-title">Membership Forms</span></a></li><li class="mega"><a href="/background-checks" class="mega" id="menu1065"><span class="menu-title">Background Checks</span></a></li><li class="mega"><a href="/medical-and-safety/overview" class="mega" id="menu1062"><span class="menu-title">Medical and Safety</span></a></li><li class="mega last"><a href="/usa-rugby-policies" class="mega last" id="menu1079"><span class="menu-title">Fees and Policies</span></a></li></ul></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/transfer-2" class="mega first" id="menu661"><span class="menu-title">Transfer </span></a></li><li class="mega"><a href="/eligibility-2" class="mega" id="menu657"><span class="menu-title">Eligibility</span></a></li><li class="mega"><a href="/insurance-2" class="mega" id="menu656"><span class="menu-title">Insurance</span></a></li><li class="mega"><a href="/event-sanctioning" class="mega" id="menu674"><span class="menu-title">Event Sanctioning</span></a></li><li class="mega last"><a href="http://usarugby.org/group-rosters" class="mega last" id="menu1524"><span class="menu-title">View Group Rosters</span></a></li></ul></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/membership" class="mega first" id="menu1123"><span class="menu-title">Individual Registration</span></a></li><li class="mega"><a href="/2013-11-11-14-57-30/resources/2013-03-29-22-50-52" class="mega" id="menu1124"><span class="menu-title">Renew Club Membership</span></a></li><li class="mega"><a href="/2013-11-11-14-57-30/resources/create-new-club-membership" class="mega" id="menu1125"><span class="menu-title">Create New Club Membership</span></a></li><li class="mega"><a href="/rosters" class="mega" id="menu1061"><span class="menu-title">View Public Rosters</span></a></li><li class="mega last"><a href="/member-search" class="mega last" id="menu1350"><span class="menu-title">Member Search</span></a></li></ul></div></div></li></ul></div></div>
+<div class="childcontent-inner clearfix" style="width: 980px;"><div class="megacol column1 first" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/documentation/membership/disciplinary-procedures.pdf" class="mega first" id="menu1095"><span class="menu-title">Disciplinary Procedures</span></a></li><li class="mega"><a href="https://usarugby.zendesk.com/home" class="mega" id="menu1128"><span class="menu-title">Membership FAQs</span></a></li><li class="mega"><a href="/tours" class="mega" id="menu1184"><span class="menu-title">Tours</span></a></li><li class="mega last"><a href="http://usarugbysafesport.com/" class="mega last" id="menu1567"><span class="menu-title">SafeSport</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/membership-forms" class="mega first" id="menu748"><span class="menu-title">Membership Forms</span></a></li><li class="mega"><a href="/background-checks" class="mega" id="menu1065"><span class="menu-title">Background Checks</span></a></li><li class="mega"><a href="/medical-and-safety/overview" class="mega" id="menu1062"><span class="menu-title">Medical and Safety</span></a></li><li class="mega last"><a href="/usa-rugby-policies" class="mega last" id="menu1079"><span class="menu-title">Fees and Policies</span></a></li></ul></div></div></li></ul></div><div class="megacol column3" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/transfer-2" class="mega first" id="menu661"><span class="menu-title">Transfer </span></a></li><li class="mega"><a href="/eligibility" class="mega" id="menu657"><span class="menu-title">Eligibility</span></a></li><li class="mega"><a href="/insurance-2" class="mega" id="menu656"><span class="menu-title">Insurance</span></a></li><li class="mega last"><a href="/event-sanctioning" class="mega last" id="menu674"><span class="menu-title">Event Sanctioning</span></a></li></ul></div></div></li></ul></div><div class="megacol column4 last" style="width: 245px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="https://webpoint.usarugby.org/" class="mega first" id="menu1123"><span class="menu-title">Individual Registration</span></a></li><li class="mega"><a href="https://webpoint.usarugby.org/wp15/IntraLock/Login.asp?TargetPath=/Welcome.wp" class="mega" id="menu1124"><span class="menu-title">Renew Club Membership</span></a></li><li class="mega"><a href="/membership-resources/resources/create-new-club-membership" class="mega" id="menu1125"><span class="menu-title">Create New Club Membership</span></a></li><li class="mega last"><a href="/rosters" class="mega last" id="menu1061"><span class="menu-title">View Public Rosters</span></a></li></ul></div></div></li></ul></div></div>
 </div></div></li><li class="mega last"><a href="http://www.usarugbydirect.com/" class="mega last" id="menu1052"><span class="menu-title">Shop</span></a></li></ul>
 </div>		<script type="text/javascript">
 		var megamenu = new jsMegaMenuMoo ('js-meganav', {
@@ -293,22 +407,7 @@ var srztb_pathToImage = "http://usarugby.org/plugins/system/jusertube/jusertube/
         
 								<div id="search">
 <a class="red-button" style="padding: 0px 20px;top: -10px;position: absolute; right: 248px; border-radius: 3px;" href="https://cms.mybernard.com/usarugby/donate.aspx">Donate</a>
-<a class="red-button" style="padding: 0px 20px;top: -10px;position: absolute; right: 154px; border-radius: 3px;" href="/membership">Register</a>
-
-<form id="searchbox-172" class="searchbox" action="/privacy-policy" method="post" role="search">
-	<input type="text" value="" name="searchword" placeholder="search...">
-	<button type="reset" value="Reset"></button>
-	<input type="hidden" name="task" value="search">
-	<input type="hidden" name="option" value="com_search">
-	<input type="hidden" name="Itemid" value="299">	
-</form>
-
-<script src="/templates/yoo_nano2/warp/js/search.js"></script>
-<script>
-jQuery(function($) {
-	$('#searchbox-172 input[name=searchword]').search({'url': '/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found'}).placeholder();
-});
-</script></div>
+<a class="red-button" style="padding: 0px 20px;top: -10px;position: absolute; right: 154px; border-radius: 3px;" href="https://webpoint.usarugby.org" target="_blank">Register</a></div>
 				
 			</div>
 			
@@ -422,7 +521,7 @@ jQuery(function($) {
 				
 				<div class="bannergroup-footer">
 
-	<div class="banneritem firstlast">
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/15" target="_blank" title="Fly Emirates">
 							<img src="http://usarugby.org/images/banners/fly_emirates.png" alt="Fly Emirates">
 						</a>
@@ -444,9 +543,9 @@ jQuery(function($) {
 <ul class="level2"><li class="level2 item774"><a href="/club" class="level2"><span>Frontpage</span></a></li><li class="level2 item775"><a href="/club-championships" class="level2"><span>Championships</span></a></li><li class="level2 item776"><a href="/club-competitions" class="level2"><span>Competitive Regions</span></a></li><li class="level2 item777"><a href="/club-contacts" class="level2"><span>Contacts</span></a></li></ul></li><li class="level1 item767 parent"><span class="separator level1 parent"><span>College</span></span>
 <ul class="level2"><li class="level2 item768"><a href="/college" class="level2"><span>Frontpage</span></a></li><li class="level2 item769"><a href="/college-championships" class="level2"><span>Championships</span></a></li><li class="level2 item770"><a href="http://d1arugby.com" class="level2"><span>D1A Rugby</span></a></li><li class="level2 item771"><a href="/coach-contacts" class="level2"><span>Contacts</span></a></li></ul></li><li class="level1 item778 parent"><span class="separator level1 parent"><span>Youth</span></span>
 <ul class="level2"><li class="level2 item779"><a href="/?Itemid=599" class="level2"><span>Frontpage</span></a></li><li class="level2 item780"><a href="/rookie-rugby" class="level2"><span>Rookie Rugby</span></a></li><li class="level2 item781"><a href="/youth-players" class="level2"><span>Players</span></a></li><li class="level2 item782"><a href="/youth-resources" class="level2"><span>Resources</span></a></li></ul></li><li class="level1 item783 parent"><span class="separator level1 parent"><span>Coach</span></span>
-<ul class="level2"><li class="level2 item785"><a href="/coaching" class="level2"><span>Frontpage</span></a></li><li class="level2 item786"><a href="/coaching-courses" class="level2"><span>Courses and clinics</span></a></li><li class="level2 item787"><a href="/coach-reqs/overview" class="level2"><span>Requirements</span></a></li><li class="level2 item788"><a href="https://membership.usarugby.org/default.aspx" class="level2"><span>Register</span></a></li></ul></li><li class="level1 item789 parent"><span class="separator level1 parent"><span>Ref</span></span>
-<ul class="level2"><li class="level2 item790"><a href="/referee" class="level2"><span>Frontpage</span></a></li><li class="level2 item791"><a href="/referee-courses" class="level2"><span>Courses and clinics</span></a></li><li class="level2 item792"><a href="/referee-get-certified" class="level2"><span>Get certified</span></a></li><li class="level2 item793"><a href="https://membership.usarugby.org/default.aspx" class="level2"><span>Register</span></a></li></ul></li><li class="level1 item794 parent"><span class="separator level1 parent"><span>Events</span></span>
-<ul class="level2"><li class="level2 item795"><a href="http://usarugby.org/stars-v-stripes#2013=starsvstripes" class="level2"><span>Stars v Stripes</span></a></li><li class="level2 item797"><a href="http://usarugby.org/wrwc" class="level2"><span>Women's RWC</span></a></li><li class="level2 item796"><a href="http://usavallblacks.com" class="level2"><span>USA v All Blacks</span></a></li><li class="level2 item798"><a href="/events1/usa-rugby-events/calendar" class="level2"><span>Events Calendar</span></a></li></ul></li><li class="level1 item799 parent"><span class="separator level1 parent"><span>Member Resources</span></span>
+<ul class="level2"><li class="level2 item785"><a href="/coaching" class="level2"><span>Frontpage</span></a></li><li class="level2 item786"><a href="/coaching-courses" class="level2"><span>Courses and clinics</span></a></li><li class="level2 item787"><a href="/coach-reqs/overview" class="level2"><span>Requirements</span></a></li><li class="level2 item788"><a href="https://webpoint.usarugby.org/" class="level2"><span>Register</span></a></li></ul></li><li class="level1 item789 parent"><span class="separator level1 parent"><span>Ref</span></span>
+<ul class="level2"><li class="level2 item790"><a href="/referee" class="level2"><span>Frontpage</span></a></li><li class="level2 item791"><a href="/referee-courses" class="level2"><span>Courses and clinics</span></a></li><li class="level2 item792"><a href="/referee-get-certified" class="level2"><span>Get certified</span></a></li><li class="level2 item793"><a href="https://webpoint.usarugby.org/" class="level2"><span>Register</span></a></li></ul></li><li class="level1 item794 parent"><span class="separator level1 parent"><span>Events</span></span>
+<ul class="level2"><li class="level2 item795"><a href="http://usarugby.org/nds" class="level2"><span>National Dev. Summit</span></a></li><li class="level2 item797"><a href="http://usarugby.org/atlanta7s#2015=atl7" class="level2"><span>Women's 7s ATL</span></a></li><li class="level2 item798"><a href="/events1/usa-rugby-events/calendar" class="level2"><span>Events Calendar</span></a></li></ul></li><li class="level1 item799 parent"><span class="separator level1 parent"><span>Member Resources</span></span>
 <ul class="level2"><li class="level2 item801"><a href="/eligibility" class="level2"><span>Eligibility</span></a></li><li class="level2 item802"><a href="/event-sanctioning" class="level2"><span>Event Sanctioning</span></a></li><li class="level2 item803"><a href="/transfer" class="level2"><span>Transfer</span></a></li><li class="level2 item804"><a href="/insurance" class="level2"><span>Insurance</span></a></li></ul></li></ul>
 	</div>
 </div>
@@ -456,27 +555,33 @@ jQuery(function($) {
 				
 				<div class="bannergroup-footer nomargin">
 
-	<div class="banneritem first">
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/16" target="_blank" title="Fly Emirates">
-							<img src="http://usarugby.org/images/sponsor/sponsor_fly_emirates.png" alt="Fly Emirates">
+							<img src="http://usarugby.org/images/sponsor/sponsor_fly_emirates.png" alt="Fly Emirates" height="55">
 						</a>
 																<div class="clr"></div>
 	</div>
-	<div class="banneritem ">
+	<div class="banneritem">
+																																																															<a href="/component/banners/click/62" target="_blank" title="BLK">
+							<img src="http://usarugby.org/images/banners/sponsor_blk.png" alt="Beyond Limits Known Sportwear" height="45">
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/17" target="_blank" title="AIG">
-							<img src="http://usarugby.org/images/banners/sponsor_aig.png" alt="AIG">
+							<img src="http://usarugby.org/images/sponsor/sponsor_aig.png" alt="AIG - Official Partner of USA Rugby" height="55">
 						</a>
 																<div class="clr"></div>
 	</div>
-	<div class="banneritem ">
-																																																															<a href="/component/banners/click/18" target="_blank" title="Canterbury">
-							<img src="http://usarugby.org/images/banners/sponsor_canterbury.png" alt="Canterbury">
-						</a>
-																<div class="clr"></div>
-	</div>
-	<div class="banneritem last">
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/57" target="_blank" title="Gatorade - 2">
-							<img src="http://usarugby.org/images/banners/sponsor_gBolt.png" alt="Gatorade" height="52">
+							<img src="http://usarugby.org/images/banners/sponsor_gBolt.png" alt="Gatorade" height="55">
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a href="/component/banners/click/66" target="_blank" title="DHL">
+							<img src="http://usarugby.org/images/sponsor/sponsor_dhl.png" alt="DHL. The Logistics Company for the World." height="40">
 						</a>
 																<div class="clr"></div>
 	</div>
@@ -491,57 +596,63 @@ jQuery(function($) {
 				
 				<div class="bannergroup-footer">
 
-	<div class="banneritem first">
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/5" target="_blank" title="Gilbert">
-							<img src="http://usarugby.org/images/banners/gilbert.png" alt="Gilbert">
+							<img src="http://usarugby.org/images/banners/gilbert.png" alt="Gilbert" height="47">
 						</a>
 																<div class="clr"></div>
 	</div>
-	<div class="banneritem ">
-																																																															<a href="/component/banners/click/7" target="_blank" title="Hilton hhonors">
-							<img src="http://usarugby.org/images/sponsor/sponsor_hilton_hhonors.jpg" alt="Hilton hhonors" height="50">
+	<div class="banneritem">
+																																																															<a href="/component/banners/click/11" target="_blank" title="Universal Sports Network">
+							<img src="http://usarugby.org/images/sponsor/sponsor_universal.png" alt="Universal Sports Network" height="47">
 						</a>
 																<div class="clr"></div>
 	</div>
-	<div class="banneritem ">
-																																																															<a href="/component/banners/click/11" target="_blank" title="Universal">
-							<img src="http://usarugby.org/images/sponsor/sponsor_universal_sports.jpg" alt="Universal" height="45">
-						</a>
-																<div class="clr"></div>
-	</div>
-	<div class="banneritem ">
-																																																															<a href="/component/banners/click/37" target="_blank" title="Rhino">
-							<img src="http://usarugby.org/images/banners/rhino-logo2.png" alt="Rhino" height="45">
-						</a>
-																<div class="clr"></div>
-	</div>
-	<div class="banneritem ">
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/56" target="_blank" title="Serevi">
-							<img src="http://usarugby.org/images/banners/serevi.png" alt="Serevi. Official partner of USA Rugby" height="40">
+							<img src="http://usarugby.org/images/banners/serevi.png" alt="Serevi. Official partner of USA Rugby" height="47">
 						</a>
 																<div class="clr"></div>
 	</div>
-	<div class="banneritem ">
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/58" target="_blank" title="Weetabix">
 							<img src="http://usarugby.org/images/banners/weetabix.png" alt="Weetabix" height="50">
 						</a>
 																<div class="clr"></div>
 	</div>
-	<div class="banneritem ">
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/59" target="_blank" title="Heathrow Express">
-							<img src="http://usarugby.org/images/banners/heathrow-express.png" alt="Heathrow Express. Official Partner of USA Rugby" height="40">
+							<img src="http://usarugby.org/images/banners/heathrow-express.png" alt="Heathrow Express. Official Partner of USA Rugby" height="47">
 						</a>
 																<div class="clr"></div>
 	</div>
-	<div class="banneritem ">
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/60" target="_blank" title="PPG">
-							<img src="http://usarugby.org/images/banners/sponsor_ppg.png" alt="Parnell Partners Group" height="45">
+							<img src="http://usarugby.org/images/banners/sponsor_ppg.png" alt="Parnell Partners Group" height="47">
 						</a>
 																<div class="clr"></div>
 	</div>
-	<div class="banneritem last">
+	<div class="banneritem">
 																																																															<a href="/component/banners/click/61" target="_blank" title="Smith &amp; Forge">
-							<img src="http://usarugby.org/images/banners/smith_and_forge.png" alt="Smith &amp; Forge. Official Hard Cider of USA Rugby." height="45">
+							<img src="http://usarugby.org/images/banners/smith_and_forge.png" alt="Smith &amp; Forge. Official Hard Cider of USA Rugby." height="47">
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a href="/component/banners/click/7" target="_blank" title="Hilton hhonors">
+							<img src="http://usarugby.org/images/sponsor/sponsor_hilton_hhonors.jpg" alt="Hilton hhonors" height="50">
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a href="/component/banners/click/37" target="_blank" title="Rhino">
+							<img src="http://usarugby.org/images/banners/rhino-logo2.png" alt="Rhino" height="45">
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a href="/component/banners/click/65" target="_blank" title="Aircraft Charter Solutions">
+							<img src="http://usarugby.org/images/sponsor/sponsor_acs.png" alt="Aircraft Charter Solutions" height="35">
 						</a>
 																<div class="clr"></div>
 	</div>
@@ -580,4 +691,4 @@ jQuery(function($) {
   })();
 
 </script>
-</body></html>
+<script src="//browser-update.org/update.js"></script></body></html>
