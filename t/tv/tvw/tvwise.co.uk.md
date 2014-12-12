@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvwise.co.uk privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614012508id_/http%3A//www.tvwise.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvwise.co.uk privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212165841id_/http%3A//www.tvwise.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TVWise
+# Privacy Policy - TVWise
 
 TVWise take issues surrounding privacy very seriously. The following policy lays out the type of information we collect on users of our site and how it is used. If you have any concerns regarding this policy you can email us at [privacy@tvwise.co.uk](mailto:privacy@tvwise.co.uk)
 
