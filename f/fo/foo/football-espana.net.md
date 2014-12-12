@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-espana.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140038id_/http%3A//www.football-espana.net/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-espana.net privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212181630id_/http%3A//www.football-espana.net/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Football Espana
 
@@ -16,11 +16,11 @@ At all times we have security measures and technical safeguards in place to prev
 
 ## What cookies do you use?
 
-You can find details on our cookie use [here](https://web.archive.org/web/20140626140038id_/http%3A//www.football-espana.net/policy/cookies).
+You can find details on our cookie use [here](https://web.archive.org/web/20141212181630id_/http%3A//www.football-espana.net/policy/cookies).
 
 ## How do I opt-out?
 
-If you would like to opt-out of any data gathering and analysis by Football-Espana.net you can do so by using the links in our cookie policy page, which can be found [here](https://web.archive.org/web/20140626140038id_/http%3A//www.football-espana.net/policy/cookies). Please note that whilst you can opt-out of sharing information for our 3rd party advertising/behavioural cookies, your continued use of the site will be viewed as acceptance of our 1st party cookies necessary for the functionality and analytics for Football-Espana.net.
+If you would like to opt-out of any data gathering and analysis by Football-Espana.net you can do so by using the links in our cookie policy page, which can be found [here](https://web.archive.org/web/20141212181630id_/http%3A//www.football-espana.net/policy/cookies). Please note that whilst you can opt-out of sharing information for our 3rd party advertising/behavioural cookies, your continued use of the site will be viewed as acceptance of our 1st party cookies necessary for the functionality and analytics for Football-Espana.net.
 
 Please be aware that if you choose to opt-out of interest-based ads, it does not mean you will no longer see advertising on Football-Espana.net. It means we will no longer be able to deliver ads that are tailored to your interests, or to limit the number of times you see the same ad on different web pages. As a result, you may start to see the same ad over and over again and/or see ads that have no relevance to you.
 
