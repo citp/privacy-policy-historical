@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the halomaps.org privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625072257id_/http%3A//hce.halomaps.org/index.cfm%3Fpg%3D12) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the halomaps.org privacy policy that was archived on 2014-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141212195625id_/http%3A//hce.halomaps.org/index.cfm%3Fpg%3D12) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta name="Keywords" content="halo, custom, editiom, halo CE, Halo Maps, game levels, PC game, first person game,shooter,  halo custom edition, Halo PC, tutorials, tags, halo tags">
@@ -10,11 +10,17 @@
 	<title>Halo Custom Edition - Maps, Tags, Tutorials and Assets for t</title>
 	 
 	<link rel="stylesheet" href="style.css" type="text/css">
-	<link href="thickbox.css" rel="stylesheet" type="text/css" title="prettyPhoto main stylesheet" charset="utf-8">
+	<link href="colorbox.css" rel="stylesheet" type="text/css"> 
 	<link rel="shortcut icon" href="favicon.ico">
-	<script language="JavaScript" src="jquery.js" type="text/javascript"></script>
-	<script src="jsval.js" type="text/javascript" language="JavaScript"></script>
-	<script language="JavaScript" src="Thickbox.js" type="text/javascript"></script>
+	<link href="jquery.plupload.queue.css" rel="stylesheet" type="text/css">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+	
+	<script language="JavaScript" src="js/jsval.js" type="text/javascript"></script>
+	<script language="JavaScript" src="js/jquery.colorbox-min.js" type="text/javascript"></script>
+	
+	<script src="js/plupload.full.min.js" type="text/javascript"></script>
+	<script src="js/jquery.plupload.queue.min.js" type="text/javascript"></script>
+
 	
 	<script language="javascript">
 	function pic(fileName) {
@@ -50,9 +56,24 @@ function hidewMe(id) {
 	elem.style.display = "none";
 }  	
 			
-			
+
 //-->
 </script>
+<script language="JavaScript" type="text/javascript">
+	$(document).ready(function() {
+		// initialize the colorbox functions
+		$(".imagethumb").colorbox({rel:'imagethumb', transition:"elastic"});
+		$(".group1").colorbox({rel:'group1'});
+		   
+   
+  		// END document ready function
+	 });
+
+
+</script>
+
+
+
 <!-- Place this tag in your head or just before your close body tag -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>	
 </head>
