@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092855id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212220543id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
 
 # Privacy Policy for Nurses | Nursing Students
 
-This site is owned and operated by ALLNURSES.COM, INC. . Your privacy on the Internet is of the utmost importance to us. We want to make your online experience satisfying and safe. 
+This site is owned and operated by ALLNURSES.COM, INC. . Your privacy on the Internet is of the utmost importance to us. We want to make your online experience satisfying and safe.
 
 ## Commitment To Your Privacy
 
@@ -127,8 +127,8 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
   * **Google Adsense**
     * Google, as a third party vendor, uses cookies to serve ads on ALLNURSES.COM, INC. 
     * Google's use of the DART cookie enables it to serve ads to users based on their visit to ALLNURSES.COM, INC. and other sites on the Internet. 
-    * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html   
-
+    * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [Google Advertisement](http://www.google.com/policies/technologies/ads/)
+    * [How Google uses data when you use our partners’ sites or apps](http://www.google.com/policies/privacy/partners/)
   * **Amazon**
 
 
