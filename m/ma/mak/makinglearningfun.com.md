@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makinglearningfun.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091120id_/http%3A//www.makinglearningfun.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makinglearningfun.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213003931id_/http%3A//makinglearningfun.com/privacy.htm) for the most accurate reproduction.*
 
 # Making Learning Fun Privacy Policy
 
@@ -26,5 +26,5 @@ choice and is not a requirement in corresponding with us.  If you choose
 to share this information, Making Learning Fun will not sell or give   
 this information to anyone.
 
- ** \- [Links](https://web.archive.org/web/20140625091120id_/http%3A//www.makinglearningfun.com/links.htm) \- [Feedback](https://web.archive.org/web/20140625091120id_/http%3A//www.makinglearningfun.com/feedback.htm) \- [Copyright](https://web.archive.org/web/20140625091120id_/http%3A//www.makinglearningfun.com/copyright.htm) \- [Privacy Policy](https://web.archive.org/web/20140625091120id_/http%3A//www.makinglearningfun.com/privacy.htm) -**  
+ ** \- [Links](https://web.archive.org/web/20141213003931id_/http%3A//makinglearningfun.com/links.htm) \- [Feedback](https://web.archive.org/web/20141213003931id_/http%3A//makinglearningfun.com/feedback.htm) \- [Copyright](https://web.archive.org/web/20141213003931id_/http%3A//makinglearningfun.com/copyright.htm) \- [Privacy Policy](https://web.archive.org/web/20141213003931id_/http%3A//makinglearningfun.com/privacy.htm) -**  
 Copyright © 2006-2013 Making Learning Fun - All Rights Reserved
