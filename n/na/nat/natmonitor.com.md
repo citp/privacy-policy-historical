@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the natmonitor.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529175650id_/http%3A//natmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natmonitor.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212153130id_/http%3A//natmonitor.com/privacy) for the most accurate reproduction.*
 
 # Privacy | National Monitor
 
-Privacy
+**Privacy**
 
 This Privacy Policy governs the manner in which National Monitor collects, uses, maintains and discloses information collected from users (each, a "User") of the http://natmonitor.com website ("Site"). This privacy policy applies to the Site and all products and services offered by National Monitor.
 
