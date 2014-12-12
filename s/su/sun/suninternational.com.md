@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suninternational.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606060700id_/http%3A//www.suninternational.com/corporate/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suninternational.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212011046id_/http%3A//www.suninternational.com/corporate/pages/privacy.aspx) for the most accurate reproduction.*
 
-# Sun International Hotels | Privacy Policy | Sun International
+# Sun International Privacy Policy | Sun International Privacy Practices | Sun International
 
 ## Privacy
 
@@ -18,4 +18,4 @@ This website takes every precaution to protect our users' information. When you 
 
 ### Security
 
-Sun International takes every precaution to protect users' information. User's information is protected online by encryption and firewall software.
+Sun International takes every precaution to protect users' information. User's information is protected online by encryption and firewall software.​​​​​​​​​​
