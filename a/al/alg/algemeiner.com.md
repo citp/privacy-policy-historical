@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algemeiner.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054759id_/http%3A//www.algemeiner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algemeiner.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212011637id_/http%3A//www.algemeiner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Jewish & Israel News | Algemeiner.com Breaking Alerts, Commentary, Insights Analysis and Blogs
 
