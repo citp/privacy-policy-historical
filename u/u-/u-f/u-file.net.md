@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the u-file.net privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819141232id_/http%3A//www.u-file.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u-file.net privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212193916id_/http%3A//uf.pe/privacypolicy.php) for the most accurate reproduction.*
 
-# Your Sharing Park - ufile upload for free (U-fiLe 2013)
+# Your Sharing Park - Free File Hosting (U-fiLe 2014)
 
-For copyright infringement issue, please contact [webmaster@u-file.net](mailto:webmaster@u-file.net) / pressing "Abuse this file" for a rapid investigation and action. Thank you very much.
+For copyright infringement issue, please contact [webmaster@uf.pe](mailto:webmaster@uf.pe) / pressing "Abuse this file" for a rapid investigation and action. Thank you very much.
 
  **What information do we collect?**
 
