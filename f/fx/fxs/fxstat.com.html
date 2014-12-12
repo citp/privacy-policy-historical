@@ -1,23 +1,32 @@
-<!--The following is the downloaded HTML source of the fxstat.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523163928id_/http%3A//www.fxstat.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxstat.com privacy policy that was archived on 2014-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141213001233id_/http%3A//www.fxstat.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Privacy Policy - FXSTAT</title><link rel="shortcut icon" href="/favicon.ico">
+<title>Privacy Policy | FXSTAT</title><link rel="shortcut icon" href="/favicon.ico">
 <link rel="stylesheet" type="text/css" href="/themes/default/css/highslide.css">
-<!-- <script type="text/javascript" src="/js/libraries/jquery1.3.2.js"></script>  -->
-<script type="text/javascript" async="" src="https://chat.livechatinc.net/licence/1047994/script.cgi?lang=en&amp;groups=0"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/js/libraries/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" async="" src="https://chat.livechatinc.net/licence/1047994/script.cgi?lang=en&amp;groups=0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/libraries/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/js/libraries/jquery-migrate-1.1.1.js"></script>
 <script type="text/javascript" src="/js/jquery.betterTooltip.js"></script>
 <script type="text/javascript" src="/js/highslide-with-html.js"></script>
-<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/common.js?v=1410239473"></script>
 <script type="text/javascript" src="/js/date.format.js"></script>
 <!-- Highcharts  -->
 <script src="/highcharts/highcharts.js" type="text/javascript"></script>
 <!-- Highcharts -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="fb:app_id" content="107740035960833">
 
-<link rel="stylesheet" type="text/css" href="/themes/default/css/main.css">
+<link rel="stylesheet" type="text/css" href="/themes/default/css/common.css">
+<script type="text/javascript">
+    document.write("<link rel='stylesheet' type='text/css' href='/themes/default/css/js-common.css' />");
+</script><link rel="stylesheet" type="text/css" href="/themes/default/css/js-common.css">
+<link rel="stylesheet" type="text/css" href="/themes/default/css/main.css?v=1415785680">
+<!--[if lte IE 8]>
+    <link rel="stylesheet" type="text/css" href="/themes/default/css/ie.css" />
+<![endif]-->
+
 <script type="text/javascript">//<![CDATA[
-var watch = new Date(2012,05-1,23,16,41,57);
+var watch = new Date(2014,12-1,13,00,12,34);
 function watchTick()
 {
     $("#watch").text(watch.format("ddd, mmm dd yyyy, HH:MM:ss"));
@@ -28,14 +37,23 @@ function watchTick()
 $(function(){
     var url = window.location.href;
 
-    $(".menu a").each(function(){
-	if (($(this).attr('href') != '/') && ($(this).attr('href')!='#')) {
-        if (url.search($(this).attr('href'))>=0) {
-            $(this).addClass('active');
-        }}
+    var menuItems = $(".header-menu a").get();
+    menuItems.sort(function(a, b) {
+        return $(a).attr('href').length < $(b).attr('href').length ? 1 : -1;
+    });
+    $.each(menuItems, function(){
+        if (($(this).attr('href') != '/') && ($(this).attr('href') != '#')) {
+            if (url.search($(this).attr('href')) >= 0 ||
+                ($(this).attr('href').indexOf("connections") != -1 && url.indexOf("invite") != -1) ||
+                ($(this).attr('href').indexOf("/message") != -1 && url.indexOf("/message") != -1)
+            ) {
+                $(this).addClass('active');
+                return false;
+            }
+        }
     });
 
-	$(".menu .homeitem").each(function(){
+	$(".header-menu .homeitem").each(function(){
         if (url.search($(this).attr('href')+'$')>=0) {
             $(this).addClass('active');
         }
@@ -70,23 +88,6 @@ $(function(){
     	}
     });
 
-	hidelogin=function() {
-	 $('.loginform').hide();
-	};
-
-	//var dropdowntimer = setTimeout('hidelogin();', 20);
-
-	$('.closelogin').click(function() {
-	    $('.loginform').hide();
-		return false;
-	});
-
-	$('.signinlink').click(function() {
-	    $('.loginform').show();
-		//clearTimeout(dropdowntimer);
-		return false;
-	});
-
 	watchTick();
 
 	$('.header-dropdown-trigger').mouseover(function(){
@@ -99,7 +100,7 @@ $(function(){
 		$(this).find('.header-dropdown-trigger').removeClass('header-dropdown-trigger-down');
     });
 
-	});
+});
 
 hs.graphicsDir = '/themes/default/images/highslide/graphics/';
 hs.outlineType = 'rounded-white';
@@ -107,7 +108,10 @@ hs.showCredits = false;
 
 
 //]]></script>
-<style type="text/css">.highslide img {cursor: url(/themes/default/images/highslide/graphics/zoomin.cur), pointer !important;}</style></head>
+
+<!-- Wordpress integration -->
+
+<script async="" type="text/javascript" src="//trackcmp.net/visit?actid=999637638&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141213001233id_%2Fhttp%253A%2F%2Fwww.fxstat.com%2Fen%2Fprivacy"></script><style type="text/css">.highslide img {cursor: url(/themes/default/images/highslide/graphics/zoomin.cur), pointer !important;}</style></head>
 
 <body>
 
@@ -116,100 +120,83 @@ hs.showCredits = false;
 <div id="loading" class="loading hidden"><img src="/themes/default/images/loading.gif" width="16" height="11" alt="Loading..."></div>
 <div id="alert_message" class="hidden"></div>
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-    
 <div id="tooltip" class="tip">
   <div class="tipTop"></div>
   <div class="tipMid"></div>
   <div class="tipBtm"></div>
  </div>
 
-<div class="site">
-<div class="header-wrap">
-<div class="header">
+<div class="site  ">
+<div class="dropdown-blind"></div>
 
-<div class="loginform hidden">
-<div class="form_errors hidden"></div><a href="#" class="closelogin">&nbsp;</a>
-<form id="loginform" method="post" action="/en/index">
-<div class="label">Email Address:</div>
+<div class="header-wrap ">
+    <div class="dropdown-blind"></div>
+    <div class="header ">
 
-<input type="text" name="form_username" id="form_username" value="" class="text"><div class="form_username_errors hidden" id="form_username_errors"></div><div class="label">Password:</div>
-
-<input type="password" name="form_password" id="form_password" value="" class="text"><div class="form_password_errors hidden" id="form_password_errors"></div><div class="clear"></div>
-<div class="remember">
-<input type="hidden" name="form_rememberme" value=""><input type="checkbox" name="form_rememberme" id="form_rememberme" value="1"><label for="form_rememberme">Remember me</label></div>
-<input type="submit" class="button loginbutton" value="Login">
-<div class="clear"></div>
-<div class="forgotpass"><a href="http://www.fxstat.com/en/user/reset" class="">Forgot your password?</a></div>
-<!-- <div class="forgotpass"><a class="rpxnow" onclick="return false;" href="https://tradesshare.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.fxstat.com%2Frpx"> Sign In using OpenID</a></div> -->
-<input type="hidden" name="back" value="/en/privacy">
+        <a href="http://www.fxstat.com/en/user" class="logo" title="FXSTAT"></a>
     
-</form>
+    <div class="header-links">
+
+            <div class="search">
+        <form id="searchForm" method="get" action="/search">
+        <input type="text" maxlength="64" name="s" id="searchString" class="searchinput" value="">
+        <span class="searchbutton" onclick="if($(&quot;#searchString&quot;).val()){$(&quot;#searchForm&quot;).submit();} return false;"></span>
+        <span class="hidden"><dfn class="trans_mod">Search</dfn></span>
+        </form>
+        </div>
+    
+            <div class="dropdown">
+        	<a class="header-link signinlink js-dropdown-trigger" href="#">Sign In<span class="dropdown-arrow"></span></a>
+            <div class="dropdown-content loginform">
+        	<div class="dropdown-corner"></div>
+            <div class="form_errors hidden"></div>            <form id="loginform" method="post" action="/en/">
+            <div class="label">Email Address:</div>
+            
+<input type="text" name="form_username" id="form_username" value="" class="text">            <div class="form_username_errors hidden" id="form_username_errors"></div>            <div class="label">Password:</div>
+            
+<input type="password" name="form_password" id="form_password" value="" class="text">            <div class="form_password_errors hidden" id="form_password_errors"></div>            <div class="clear"></div>
+            <div class="remember">
+<input type="hidden" name="form_rememberme" value=""><input type="checkbox" name="form_rememberme" id="form_rememberme" value="1"><label for="form_rememberme">Remember me</label></div>
+            <input type="submit" class="button loginbutton" value="Login">
+            <div class="clear"></div>
+            <div class="forgotpass"><a href="http://www.fxstat.com/en/user/reset" class="">Forgot your password?</a></div>
+            <!-- <div class="forgotpass"><a class="rpxnow" onclick="return false;" href="https://tradesshare.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.fxstat.com%2Frpx"> Sign In using OpenID</a></div> -->
+                        <input type="hidden" name="back" value="/en/privacy">
+                        </form>
+            </div>
+        </div>
+        <a class="header-link registerlink" href="http://www.fxstat.com/en/">Sign Up</a>
+
+        </div>
+
+<div class="header-menu-nonlogged">
+    <a href="http://www.fxstat.com/en/index" class="homeitem"><dfn class="trans_mod">Home</dfn></a>
+    <span class="dropdown headermenu-dropdown js-dropdown-onhover">
+        <a class="" href="#"><dfn class="trans_mod">Features</dfn></a>
+        <span class="dropdown-content"><span class="dropdown-corner"></span>
+        <a href="http://www.fxstat.com/en/guide/socialnetwork"><dfn class="trans_mod">Social Network</dfn></a>
+        <a href="http://www.fxstat.com/en/guide/performance"><dfn class="trans_mod">Performance page</dfn></a>
+        <a href="http://www.fxstat.com/en/guide/webtrading"><dfn class="trans_mod">MT4 Web Trader</dfn></a>
+        <a href="http://www.fxstat.com/en/guide/autotrading"><dfn class="trans_mod">Autotrading</dfn></a>
+        </span>
+    </span>
+    <a href="http://www.fxstat.com/en/guide/traders"><dfn class="trans_mod">Traders</dfn></a>
+    <a href="http://www.fxstat.com/en/guide/brokers"><dfn class="trans_mod">Brokers</dfn></a>
+	<a href="http://www.fxstat.com/en/performances"><dfn class="trans_mod">Performances</dfn></a>
+    <a href="http://www.fxstat.com/en/forum"><dfn class="trans_mod">Forums</dfn></a>
 </div>
 
-<div class="header-links">
 
-<a class="signinlink" href="#">Sign In</a>
-<a class="registerlink" href="http://www.fxstat.com/en/">Register</a>
-
-</div>
-
-<!-- 
-	<a href="http://www.fxstat.com/en/user/index" class="logo" title="FXSTAT"><img src="/themes/default/images/logo.png" alt="FXSTAT" /></a>
- -->
-<a href="http://www.fxstat.com/en/user" class="logo" title="FXSTAT"><img src="/themes/default/images/logo.png" alt="FXSTAT"></a>
-
-<div class="supplements">
-    <div class="clock">
-    <span class="icon icon-clock">&nbsp;</span>
-    <span id="watch">Wed, May 23 2012, 16:41:58</span> GMT
-    </div>
-    			</div>
-
-
-<div class="header-menu">
-	<a href="http://www.fxstat.com/en/index" class="item homeitem first"><span class="header-menu-label"><dfn class="trans_mod">Home</dfn></span></a>
-
-	<a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span class="header-menu-label"><dfn class="trans_mod">Autotrading</dfn></span></a>
-
-
-<a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span class="header-menu-label"><dfn class="trans_mod">My Portfolio</dfn></span></a>
-
-<a href="http://www.fxstat.com/en/performances" class="item"><span class="header-menu-label"><dfn class="trans_mod">Performances</dfn></span></a>
-<a href="http://www.fxstat.com/en/forum" class="item last"><span class="header-menu-label"><dfn class="trans_mod">Forums</dfn></span></a>
-<div class="clear"></div>
-</div>
-
-
-<div class="search">
-<form id="searchForm" method="get" action="/search">
-<input type="text" maxlength="64" name="s" id="searchString" class="searchinput" value="">
-<a href="#search" class="searchbutton" onclick="if($(&quot;#searchString&quot;).val()){$(&quot;#searchForm&quot;).submit();} return false;">&nbsp;</a>
-<span class="hidden"><dfn class="trans_mod">Search</dfn></span>
-</form>
-</div>
-
-<div class="clear"></div>
 </div>
 </div>
 
-	    	        			<div id="messagesBox">
-	                <div class="messagesBlink" id="tip_13" href="#">
-	                    <span class="messagetitle">FxStat Rewards Its Active Forum Users</span>
-	                    <span class="message-text tip_13">Contribute to fxstat forum and get rewarded! Interact now with traders, specialists and other people interested in the forex market. <a href="http://blog.fxstat.com/index.php/2011/08/15/fxstat-rewards-its-active-forum-users/">More...</a></span>
-	                </div>
-			</div>
-	        	            
+<div class="header-menu-wrap  ">
+          <div class="header-menu-blank"><p>You are currently not signed in.</p><p>Please sign in or <a href="/">register</a>.</p></div>
+      </div>
+
 <div class="page">
-<div class="box borderedbox privacy staticpage">
-<div class="content">
+<div class="page-content">
+	    	        <div class="privacy staticpage">
 
 <h1><dfn class="trans_mod">Website Privacy Policy</dfn></h1>
 <div class="clear"></div>
@@ -396,66 +383,72 @@ correct the problem promptly. Be certain the words Privacy Policy are in the Sub
 
 </div>
 
-<div class="clear"></div>
-</div>
-<div class="bottom"><div class="left"></div><div class="right"></div><div class="middle"></div></div>
-<div class="clear"></div>
 </div>
 </div>
-<div class="footer-space"></div>
 </div>
 
-<div class="footer">
+<!-- Footer -->
+<!-- Don't remove the comment above. It is needed for cms integration -->
+
+<div class="footer-space "></div>
+</div>
+
+<div class="footer  ">
 <div class="footer-content ">
 
 <div class="column">
-<strong><dfn class="trans_mod">Company</dfn></strong>
+<strong>&nbsp;<h1 class="logo"></h1></strong>
 <ul>
 <li><a href="http://www.fxstat.com/en/about"><dfn class="trans_mod">About Us</dfn></a></li>
-<li><a href="http://blog.fxstat.com"><dfn class="trans_mod">Blog</dfn></a></li>
-<li><a href="http://www.facebook.com/pages/FXSTATcom/109353142438542?v=info"><dfn class="trans_mod">Facebook</dfn></a></li>
-<li><a href="http://twitter.com/fxstat"><dfn class="trans_mod">Twitter</dfn></a></li>
-<a href="#" onclick="return(false);" class="withtip" title="Available to registered members only"><span><dfn class="trans_mod">Invite to FxStat</dfn></span></a>
-
+<li><a href="http://blog.fxstat.com" target="_blank"><dfn class="trans_mod">Blog</dfn></a></li>
+<li><a href="http://www.facebook.com/pages/FXSTATcom/109353142438542?ref=hl" target="_blank"><dfn class="trans_mod">Facebook</dfn></a></li>
+<li><a href="http://twitter.com/fxstat" target="_blank"><dfn class="trans_mod">Twitter</dfn></a></li>
+<li><a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span><dfn class="trans_mod">Invite to FxStat</dfn></span></a></li>
+<li><a href="http://www.fxstat.com/en/privacy" title="FxStat Group Inc Privacy Policy" target="_blank"><dfn class="trans_mod">Privacy Policy</dfn></a></li>
+<li><a href="http://www.fxstat.com/en/risk"><dfn class="trans_mod">Risk Disclosure</dfn></a></li>
+<li><a href="http://www.fxstat.com/en/terms"><dfn class="trans_mod">Terms of Use</dfn></a></li>
+<li><a href="http://www.fxstat.com/en/map"><dfn class="trans_mod">Sitemap</dfn></a></li>
 </ul>
 </div>
 
 <div class="column">
-<strong><dfn class="trans_mod">Support</dfn></strong>
+<h4><strong><dfn class="trans_mod">Support</dfn></strong></h4>
 <ul>
 <li><a href="http://www.fxstat.com/en/faq"><dfn class="trans_mod">FAQ</dfn></a></li>
-<li><a href="http://help.fxstat.com/index.php?/"><dfn class="trans_mod">Help</dfn></a></li>
+<li><a href="http://www.fxstat.com/help"><dfn class="trans_mod">Help</dfn></a></li>
 <li><a href="http://www.fxstat.com/en/contact"><dfn class="trans_mod">Contact Us</dfn></a></li>
 </ul>
-</div>
-
-<div class="column">
-<strong><dfn class="trans_mod">Platform</dfn></strong>
+<h4><strong><dfn class="trans_mod">Platform</dfn></strong></h4>
 <ul>
 <li><a href="http://www.fxstat.com/en/mobile"><dfn class="trans_mod">Mobile</dfn></a></li>
  
-  
+<li><a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span><dfn class="trans_mod">Autotrading</dfn></span></a></li>
 <li><a href="http://www.fxstat.com/en/comparison"><dfn class="trans_mod">Compare Performances</dfn></a></li>
 </ul>
 </div>
 
-<div class="column">
-<strong><dfn class="trans_mod">Autotrading</dfn></strong>
-<ul>
 
+ 
+<div class="column">
+<h4><strong><dfn class="trans_mod">Autotrading</dfn></strong></h4>
+<ul>
+<li><a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span><dfn class="trans_mod">Autotrading</dfn></span></a></li>
 <li><a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span><dfn class="trans_mod">Payments</dfn></span></a></li>
 <li><a href="http://www.fxstat.com/en/providerfaq"><dfn class="trans_mod">Signal Provider FAQ</dfn></a></li>
 <li><a href="http://www.fxstat.com/en/investorsfaq"><dfn class="trans_mod">Signal Follower FAQ</dfn></a></li>
 <li><a href="http://www.fxstat.com/en/autotrading/prices"><dfn class="trans_mod">Commissions &amp; Fees</dfn></a></li>
-
 <!-- <li><a href="http://www.fxstat.com/en/partners"><dfn class='trans_mod'>Our Partners</dfn></a></li>--> 
-
 <!-- <li><a href="/brokers"><dfn class='trans_mod'>Supported Brokers</dfn></a></li> -->
+</ul>
+<h4><strong><dfn class="trans_mod">Track Records</dfn></strong></h4>
+<ul>
+<li><a href="http://www.fxstat.com/en/perfomances" class="item"><span><dfn class="trans_mod">Performances</dfn></span></a></li>
+<li><a href="http://www.fxstat.com/en/forum/Performance_Discussion"><dfn class="trans_mod">Performance Discussion</dfn></a></li>
 </ul>
 </div>
 
 <div class="column">
-<strong><dfn class="trans_mod">Forums</dfn></strong>
+<h4><strong><dfn class="trans_mod">Forums</dfn></strong></h4>
 <ul>
 <li><a href="http://www.fxstat.com/en/forum/showcategory/20-General-forum"><span><dfn class="trans_mod">General Forum</dfn></span></a></li>
 <li><a href="http://www.fxstat.com/en/forum/showcategory/24-Expert-Advisors"><dfn class="trans_mod">Expert Advisors</dfn></a></li>
@@ -465,83 +458,88 @@ correct the problem promptly. Be certain the words Privacy Policy are in the Sub
 </ul>
 </div>
 
-<div class="column">
-<strong><dfn class="trans_mod">Track Records</dfn></strong>
-<ul>
-<li><a href="http://www.fxstat.com/en/perfomances" class="item"><span><dfn class="trans_mod">Performances</dfn></span></a></li>
-<li><a href="http://www.fxstat.com/en/forum/Performance_Discussion"><dfn class="trans_mod">Performance Discussion</dfn></a></li>
-</ul>
-</div>
-
+<div class="footer-seals">
 <a href="/themes/default/images/iso9001certificate.jpg" target="_blank" class="iso-logo" title="ISO 9001 Certificate">&nbsp;</a>
+</div>
 
 <div class="clear"></div>
 
 
 <div class="languages">
-
 					<a href="/en/privacy">English</a>
 								<a href="/ru/privacy">Русский</a>
 								<a href="/fr/privacy">Français</a>
 								<a href="/fa/privacy">فارسی</a>
+								<a href="/ka/privacy">საქართველო</a>
 								<a href="/ar/privacy">العربية</a>
 								<a href="/es/privacy">Español</a>
 								<a href="/de/privacy">Deutsch</a>
 								<a href="/pt/privacy">Português</a>
 								<a href="/it/privacy">Italiano</a>
+								<a href="/tr/privacy">Türkçe</a>
 								<a href="/zh/privacy">中文</a>
 								<a href="/ur/privacy">اردو</a>
 			</div>
 <div class="clear"></div>
-
-
-<div class="links">
-<a href="http://www.fxstat.com/en/map"><dfn class="trans_mod">Sitemap</dfn></a>
-<a href="http://www.fxstat.com/en/risk"><dfn class="trans_mod">Risk Disclosure</dfn></a>
-<a href="http://www.fxstat.com/en/terms"><dfn class="trans_mod">Terms of Use</dfn></a>
-<a href="http://www.fxstat.com/en/privacy"><dfn class="trans_mod">Privacy Policy</dfn></a>
-</div>
-<div class="copy">© 2012 FX STAT Group Inc. All Rights Reserved.</div>
+<div class="copy">© 2014 FxStat Group Inc. All Rights Reserved.</div>
 <div class="clear"></div>
 
 <div class="disclaimer">
 <p>
-Disclaimer: Trading foreign exchange ("Forex"), Commodity futures, options, CFDs and SpreadBetting on margin 
-carries a high level of risk, and may not be suitable for all investors. Before deciding to trade foreign exchange ("Forex"), 
-Commodity futures, options, CFDs or SpreadBetting you should carefully consider your monetary objectives, level of 
+<dfn class="trans_mod">Disclaimer: Trading foreign exchange</dfn> ("Forex"), <dfn class="trans_mod">Commodity futures, options, CFDs and SpreadBetting on margin
+carries a high level of risk, and may not be suitable for all investors. Before deciding to trade foreign exchange</dfn> ("Forex"), <dfn class="trans_mod">Commodity futures, options, CFDs or SpreadBetting you should carefully consider your monetary objectives, level of
 experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your deposited funds 
 and therefore you should not speculate with capital that you cannot afford to lose. You should be aware of all the risks 
 associated with foreign exchange, Commodity futures, options, CFDs and SpreadBetting trading, and seek advice from 
-an independent advisor if you have any doubts. Past returns are not indicative of future results.
-</p>
+an independent advisor if you have any doubts. Past returns are not indicative of future results.</dfn></p>
+<p><dfn class="trans_mod">Any opinions, news, research, analyses, prices, or other information contained on this website is provided as general market commentary and does not constitute investment advice. The broker/dealer and the referring broker will not accept liability for any loss or damage, including without limitation to, any loss of profit, which may arise directly or indirectly from use of or reliance on such information.</dfn></p>
+<p><dfn class="trans_mod">Any information, recommendation or promotion whether by email, newspaper or flyer, and not limited to any communication method that directly or indirectly links to any area of FxStat website must state that the promoter is not affiliated with FxStat and that any claims made are not endorsed by FxStat in any way.</dfn></p>
 </div>
 
 <div class="body-scripts">
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-15622174-1");
-pageTracker._trackPageview();
-} catch(err) {}
-</script>
+    <!-- Google Analytics -->
+    <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<!-- Live Chat -->
-<script type="text/javascript">
-var lc_params = '';
-var lc_lang = 'en';
-var lc_skill = '0';
+          ga('create', 'UA-56087810-1', 'auto');
+          ga('send', 'pageview');
 
-var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-var lc_src = ('https:' == document.location.protocol ? 'https://' : 'http://');
-lc_src += 'chat.livechatinc.net/licence/1047994/script.cgi?lang='+lc_lang+unescape('%26')+'groups='+lc_skill;
-lc_src += ((lc_params == '') ?'' : unescape('%26')+'params='+encodeURIComponent(encodeURIComponent(lc_params))); lc.src = lc_src;
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-</script>
-<!-- End of Live Chat -->
+    </script>​
+    <!-- End of Google Analytics -->
 
+    <!-- ActiveCampaign -->
+    <script type="text/javascript">
+        var trackcmp_email = '';
+        var trackcmp = document.createElement("script");
+        trackcmp.async = true;
+        trackcmp.type = 'text/javascript';
+        trackcmp.src = '//trackcmp.net/visit?actid=999637638&e='+trackcmp_email +'&r='+encodeURIComponent(document.referrer)+'&u='+encodeURIComponent(window.location.href);
+        var trackcmp_s = document.getElementsByTagName("script");
+        if (trackcmp_s.length) {
+            trackcmp_s[0].parentNode.appendChild(trackcmp);
+        } else {
+            var trackcmp_h = document.getElementsByTagName("head");
+            trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
+        }
+    </script>
+    <!-- End of ActiveCampaign -->
+    
+    <!-- Live Chat -->
+    <script type="text/javascript">
+    var lc_params = '';
+    var lc_lang = 'en';
+    var lc_skill = '0';
+    
+    var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+    var lc_src = ('https:' == document.location.protocol ? 'https://' : 'http://');
+    lc_src += 'chat.livechatinc.net/licence/1047994/script.cgi?lang='+lc_lang+unescape('%26')+'groups='+lc_skill;
+    lc_src += ((lc_params == '') ?'' : unescape('%26')+'params='+encodeURIComponent(encodeURIComponent(lc_params))); lc.src = lc_src;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+    </script>
+    <!-- End of Live Chat -->
 </div>
 
 </div>
