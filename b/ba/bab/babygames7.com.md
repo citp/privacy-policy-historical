@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the babygames7.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628023049id_/http%3A//www.babygames7.com/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babygames7.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213003610id_/http%3A//www.babygames7.com/Privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Thanks for contact babygames7.com
 
-babygames7.com is committed to protecting your privacy online.To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.By accessing and/or using this Baby Games 7 site or any Baby Games 7 product or service available on or through this web site,you are accepting the practices described in this Privacy Policy.
-
+babygames7.com is committed to protecting your privacy online.To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.By accessing and/or using this Baby Games 7 site or any Baby Games 7 product or service available on or through this web site,you are accepting the practices described in this Privacy Policy.  
+We use fishgames8@gmail.com for Android Apps development and its has the authority for using the game.  
 **1.Asking for link exchange:**  
 We are glad to looking for game sites partner to have link exchange.As we know that make a link exchange can bring benefits both of us.Now,we do not care about the PageRank of the sites but the only thing we care about that your Alexa must less than 100,000.Please click [add links](https://web.archive.org/link/add.asp "Add Link") asking for link exchange.
 
