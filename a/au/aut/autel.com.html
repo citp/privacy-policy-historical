@@ -1,0 +1,848 @@
+<!--The following is the downloaded HTML source of the autel.com privacy policy that was archived on 2014-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141212041255id_/http%3A//www.autel.com/autelcms/privacy/532.jhtml) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>Autel</title>
+<script src="/autelcms/res/common/js/jquery.js" type="text/javascript"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="/autelcms/r/cms/www/red/css/css.css" rel="stylesheet" type="text/css"><link href="/autelcms/r/cms/www/red/css/select2css.css" rel="stylesheet" type="text/css"><link href="/autelcms/r/cms/www/red/css/style.css" rel="stylesheet" type="text/css"><link media="all" href="/autelcms/r/cms/www/red/css/bunner.css" type="text/css" rel="stylesheet"><link media="all" href="/autelcms/r/cms/www/red/css/css2014.css" type="text/css" rel="stylesheet"><script>
+	
+</script></head>
+
+
+
+
+
+
+
+<!--[if lte IE 6]>
+	<script type="text/javascript" src="/autelcms/r/cms/www/red/js/belatedPNG.js"></script>
+	
+<script type="text/javascript">
+		// 解决IE6透明PNG图片BUG
+		DD_belatedPNG.fix(".belatedPNG");
+	</script>
+<![endif]-->  
+
+<!--头部开始-->
+<body><div style="position:fixed;z-index:999999999;left:0px;right:0px;width:auto;margin-left:auto;margin-right:auto;">
+<div class="top2014">
+<div class="top clearfix">
+	<div class="top_left"><a href="/autelcms/"><img src="/autelcms/r/cms/www/red/img/images/new_logo_top2.png"></a></div>
+	<div class="top_right">
+    <div style="text-align:right;">
+    <a href="/autelcms/changelanguage/409.jhtml" target="_self"><img src="/autelcms/r/cms/www/red/img/images/Map.png" width="29" height="12">&nbsp;&nbsp;<span id="custCountry"><font class="top_font_color">United States</font></span></a>&nbsp;&nbsp; 
+     
+    <span id="autelId">
+    |
+     &nbsp;<a href="http://pro.auteltech.com" id="login" target="_self"><font class="top_font_color">Sign In</font></a>
+    &nbsp;| <a href="http://pro.auteltech.com/regCustomerInfo.html?operationType=1" id="reg" target="_self"><font class="top_font_color">&nbsp;Register&nbsp;</font></a>
+      |
+    </span>
+ 
+    
+    </div>
+    
+    </div>
+</div>
+</div>
+
+
+<!--头部结束-->
+<script type="text/javascript">
+function getCookie(c_name)
+	{
+	if(document.cookie.length>0){
+	   c_start=document.cookie.indexOf(c_name + "=")
+	   if(c_start!=-1){
+	     c_start=c_start + c_name.length+1
+	     c_end=document.cookie.indexOf(";",c_start)
+	     if(c_end==-1) c_end=document.cookie.length
+	     if (unescape(document.cookie.substring(c_start,c_end)).indexOf('\"')!=-1){
+	    	return unescape(document.cookie.substring(c_start+1,c_end-1))
+	     }else{
+	       return unescape(document.cookie.substring(c_start,c_end))
+	     }
+	   }
+	}
+	return ""
+}
+function getCookie2(c_name)
+{
+
+if(document.cookie.length>0){
+   c_start=document.cookie.indexOf(c_name + "=")
+   if(c_start!=-1){
+     c_start=c_start + c_name.length+1
+     c_end=document.cookie.indexOf(";",c_start)
+     if(c_end==-1) c_end=document.cookie.length
+     return decodeURIComponent(document.cookie.substring(c_start,c_end))
+   }
+}
+return ""
+}
+$(document).ready(function(){
+	var country = getCookie2("custCountry").replace(/\+/gi,"&nbsp;");
+	var autyKey = getCookie("auth_key_member");
+	var tokenKey = getCookie2("tokenKey");
+    
+				if(autyKey != ""){
+					document.getElementById("autelId").innerHTML ="Hello,&nbsp; <font class='top_font_color'><a style='color:#FFFFFF' href='http://pro.auteltech.com'>"+autyKey+"</a> &nbsp;|<a style='color:#FFFFFF' href='http://pro.auteltech.com/loginOut.html?loginToType=0'>  Sign out</a>&nbsp;|</font>";
+				}
+				if(country!=""){
+					document.getElementById("custCountry").innerHTML ="<font class='top_font_color'>"+country+"&nbsp;|</font>";
+				}
+});
+</script><script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	var show=false;
+	var li_id;
+	
+	$("#txtKey").focus(function(){
+		
+		$(this).css({color:"#3F3E3D"})
+	});
+   $("#txtKey").blur(function(){
+	   $(this).css({color:"#CCCCCC"})
+		
+	});
+	
+	$("#itemMun").hide();
+	$("#nav_ul li").click(function(){
+		
+		
+		
+		if(this.id=="li_4"){
+			
+			return;
+		}
+		
+		if(this.id != "")
+		{
+			
+			if(show==false)
+			{
+				$("#itemMun").slideDown("50");
+				show=true;
+				li_id=this.id; 
+				var index_li=this.id.substring(3);
+				searchItem(index_li);
+		     }else if(show==true)
+			{
+				if(li_id==this.id)
+				{
+					$("#itemMun").slideUp("80");
+					show=false;
+				}else
+				{  
+				   li_id=this.id;
+				   var index_li=this.id.substring(3);
+				   searchItem(index_li);
+				}			
+			}
+		}
+		$("ul#nav_ul > li[class='onbg'] a").removeAttr("style");
+		//$("ul#nav_ul > li a").attr("style","");
+		//$("ul#nav_ul > li[class='onbg'] a").css({color:"#ffffff"});
+		$("ul#nav_ul > li[class='onbg']").removeClass("onbg");		
+		$('#'+li_id).addClass("onbg");
+		$('#'+li_id+" a").css({color:"#E40218"});
+		$("#home").removeClass("onbg");
+		});
+		$("#head_div").hover(function(){}, function(){
+			show=false;
+			$("#itemMun").slideUp("80");
+		});
+		function searchItem(index_li)
+		{
+			  var width; 
+			     if(index_li==1)
+				 {
+					 width="2%";
+			     }
+				 if(index_li==2)
+				 {
+					 width="-100%";
+			     }  if(index_li==3)
+				 {
+					 width="-200%";
+			     }  if(index_li==4)
+				 {
+					 width="-300%";
+			     }  if(index_li==5)
+				 {
+					 width="-400%";
+			     }  if(index_li==6)
+				 {
+					 width="-500%";
+			     }  if(index_li==7)
+				 {
+					 width="-600%";
+			     }
+				 $("#box").animate({left:width},"slow");
+			}
+	});
+	
+
+	
+</script>
+<div id="head_div" style="padding-top:0px">
+<div id="wrap">
+    <!--/topBar-->
+    <div id="navll">
+    	<!-- <div id="home" class="nav_home onbg"><a href="/autelcms/">Home</a></div> -->
+        <div class="menu_left">
+        <ul id="nav_ul">
+        	<!-- <li class="menu_mid"></li> -->	
+              
+                 <li id="li_2" flag="Products"><a href="javascript:void(0);">Products</a></li>
+                 <li class="menu_mid"></li>
+              
+                 <li id="li_3" flag="Diagnostic Platform"><a href="javascript:void(0);">Diagnostic Platform</a></li>
+                 <li class="menu_mid"></li>
+              
+                 <li id="li_4" flag="Diagnostic Software"><a href="http://pro.auteltech.com">Diagnostic Software</a></li>
+                 <li class="menu_mid"></li>
+              
+                 <li id="li_5" flag="TPMS"><a href="javascript:void(0);">TPMS</a></li>
+                 <li class="menu_mid"></li>
+              
+                 <li id="li_6" flag="Support &amp; Updates"><a href="javascript:void(0);">Support &amp; Updates</a></li>
+                 <li class="menu_mid"></li>
+              
+                 <li id="li_7" flag="About Autel"><a href="javascript:void(0);">About Autel</a></li>
+            <!--  <li id="" ><a href="http://pro.auteltech.com/;">My Autel</a></li> -->
+              
+        </ul>
+        </div>
+         <form id="searchForm" action="/autelcms/search.jspx" target="_blank">
+        <div class="menu_right">	
+		   <input style="padding-left:5px" name="q" value="Keyword" type="text" id="txtKey" onfocus="if(this.value=='Keyword')this.value=''" onblur="if(this.value=='')this.value='Keyword'" maxlength="24" autocomplete="off" class="search">
+		   <input name="" type="button" class="search_but" onclick="$('#searchForm').submit();">
+	    </div>
+	    </form>
+    </div>
+    <!--/nav-->
+    <script type="text/javascript">
+        $("#nav_ul li[flag='Privacy Policy']").addClass("onbg");
+        $("#nav_ul li[flag='Privacy Policy'] a").css({color:"#E40218"});
+        $("#home").removeClass("onbg");
+    </script>
+</div>
+<!--/wrap-->
+<div id="itemMun" style="display:none">
+<div id="box">
+
+<span>
+<div><a class="ti"></a><ul><li></li></ul></div>
+</span>
+    <span>
+    <div style="padding-left:30px;">
+		          <dl>
+			      <dt>Automotive Diagnostic&amp; Analysis System</dt>	
+				   	<dd><a href="/autelcms/Automotive Diagnostic&amp; Analysi/341.jhtml" target="_self">MaxiDAS DS708</a></dd>
+				   	<dd><a href="/autelcms/Automotive Diagnostic&amp; Analysi/481.jhtml" target="_self">MaxiSys</a></dd>
+				   	<dd><a href="/autelcms/Automotive Diagnostic&amp; Analysi/513.jhtml" target="_self">MaxiSys Pro</a></dd>
+				   	<dd><a href="/autelcms/Automotive Diagnostic&amp; Analysi/515.jhtml" target="_self">MaxiSys Mini</a></dd>
+			      <dt>TPMS Diagnostic &amp; Service Tool</dt>	
+				   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/350.jhtml" target="_self">MaxiTPMS TS101</a></dd>
+				   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/351.jhtml" target="_self">MaxiTPMS TS401</a></dd>
+				   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/352.jhtml" target="_self">MaxiTPMS TS501</a></dd>
+				   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/476.jhtml" target="_self">MaxiTPMS TS601</a></dd>
+				   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/533.jhtml" target="_self">MaxiTPMS PAD</a></dd>
+				   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/534.jhtml" target="_self">MX-Sensor</a></dd>
+		          </dl>
+		          
+		          <dl>
+			      <dt>J2534 PassThru</dt>	
+				   	<dd><a href="/autelcms/J2534 Pass Through/492.jhtml" target="_self">MaxiFlash Pro</a></dd>
+				   	<dd><a href="/autelcms/J2534 Pass Through/494.jhtml" target="_self">MaxiFlash Toyota</a></dd>
+				   	<dd><a href="/autelcms/J2534 Pass Through/496.jhtml" target="_self">MaxiFlash Jaguar</a></dd>
+				   	<dd><a href="/autelcms/J2534 Pass Through/498.jhtml" target="_self">MaxiFlash Ford</a></dd>
+				   	<dd><a href="/autelcms/J2534 Pass Through/500.jhtml" target="_self">MaxiFlash GM</a></dd>
+				   	<dd><a href="/autelcms/J2534 Pass Through/502.jhtml" target="_self">MaxiFlash Chrysler</a></dd>
+			      <dt>Electrical Testers</dt>	
+				   	<dd><a href="/autelcms/Electrical Testers/420.jhtml" target="_self">PowerScan PS100</a></dd>
+				   	<dd><a href="/autelcms/Electrical Testers/504.jhtml" target="_self">MaxiTester MX101</a></dd>
+				   	<dd><a href="/autelcms/Electrical Testers/505.jhtml" target="_self">MaxiTester MX201</a></dd>
+		          </dl>
+		          
+		          <dl>
+			      <dt>Professional Scan Tools</dt>	
+				   	<dd><a href="/autelcms/Professional Scan Tools/364.jhtml" target="_self">MaxiDiag Elite MD701</a></dd>
+				   	<dd><a href="/autelcms/Professional Scan Tools/365.jhtml" target="_self">MaxiDiag Elite MD702</a></dd>
+				   	<dd><a href="/autelcms/Professional Scan Tools/366.jhtml" target="_self">MaxiDiag Elite MD703</a></dd>
+				   	<dd><a href="/autelcms/Professional Scan Tools/367.jhtml" target="_self">MaxiDiag Elite MD704</a></dd>
+				   	<dd><a href="/autelcms/Professional Scan Tools/368.jhtml" target="_self">MaxiDiag Elite MD802</a></dd>
+				   	<dd><a href="/autelcms/Professional Scan Tools/541.jhtml" target="_self">MOT Pro EU908</a></dd>
+			      <dt>Automotive Oscilloscope</dt>	
+				   	<dd><a href="/autelcms/Automotive Oscilloscope/540.jhtml" target="_self">MaxiScope MP408</a></dd>
+		          </dl>
+		          
+	         
+	         <dl>
+		      <dt>Code Readers/Code Scanners</dt>	
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/357.jhtml" target="_self">Autolink AL301</a></dd>
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/358.jhtml" target="_self">Autolink AL319</a></dd>
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/359.jhtml" target="_self">Autolink AL419</a></dd>
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/360.jhtml" target="_self">Autolink AL519</a></dd>
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/361.jhtml" target="_self">Autolink AL619</a></dd>
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/362.jhtml" target="_self">Autolink AL439</a></dd>
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/363.jhtml" target="_self">Autolink AL539</a></dd>
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/507.jhtml" target="_self">Autolink AL539b</a></dd>
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/508.jhtml" target="_self">Autolink AL609</a></dd>
+			   	<dd><a href="/autelcms/Code Readers&amp;Code Scanners/539.jhtml" target="_self">Autolink AL100</a></dd>
+	          </dl>
+	         
+	         <dl>
+		      <dt>Digital Inspection Cameras</dt>	
+			   	<dd><a href="/autelcms/Digital Inspection Cameras/377.jhtml" target="_self">Maxivideo MV101</a></dd>
+			   	<dd><a href="/autelcms/Digital Inspection Cameras/378.jhtml" target="_self">Maxivideo MV208</a></dd>
+			   	<dd><a href="/autelcms/Digital Inspection Cameras/379.jhtml" target="_self">Maxivideo MV201</a></dd>
+			   	<dd><a href="/autelcms/Digital Inspection Cameras/380.jhtml" target="_self">Maxivideo MV301</a></dd>
+			   	<dd><a href="/autelcms/Digital Inspection Cameras/381.jhtml" target="_self">Maxivideo MV400</a></dd>
+			   	<dd><a href="/autelcms/Digital Inspection Cameras/543.jhtml" target="_self">MaxiVideo MV105/108</a></dd>
+	          </dl>
+	         
+	         <dl>
+		      <dt>Specialty Products</dt>	
+			   	<dd><a href="/autelcms/Specialty Products/369.jhtml" target="_self">MaxiCheck EPB</a></dd>
+			   	<dd><a href="/autelcms/Specialty Products/370.jhtml" target="_self">MaxiCheck Oil Light/Service Reset</a></dd>
+			   	<dd><a href="/autelcms/Specialty Products/371.jhtml" target="_self">MaxiCheck Airbag/ABS</a></dd>
+			   	<dd><a href="/autelcms/Specialty Products/372.jhtml" target="_self">MaxiCheck DPF Reset</a></dd>
+			   	<dd><a href="/autelcms/Specialty Products/373.jhtml" target="_self">MaxiCheck Steering Angle Sensor Calibration</a></dd>
+			   	<dd><a href="/autelcms/Specialty Products/374.jhtml" target="_self">VAG505</a></dd>
+			   	<dd><a href="/autelcms/Specialty Products/375.jhtml" target="_self">OLS301</a></dd>
+			   	<dd><a href="/autelcms/Specialty Products/376.jhtml" target="_self">EBS301</a></dd>
+	          </dl>
+    </div>
+    </span>
+    <span>
+    <div style="padding-left:30px;">
+	         <dl>
+		      <dt>
+		      Automotive Diagnostic &amp; Analysis System
+		      </dt>	
+			   	<dd><a href="/autelcms/Automotive Diagnostic &amp; Analys/382.jhtml" target="_self">MaxiDAS DS708</a></dd>
+			   	<dd><a href="/autelcms/Automotive Diagnostic &amp; Analys/458.jhtml" target="_self">MaxiSys</a></dd>
+			   	<dd><a href="/autelcms/Automotive Diagnostic &amp; Analys/514.jhtml" target="_self">MaxiSys Pro</a></dd>
+			   	<dd><a href="/autelcms/Automotive Diagnostic &amp; Analys/516.jhtml" target="_self">MaxiSys Mini</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      Vehicle Communication Interface (VCI)
+		      </dt>	
+			   	<dd><a href="/autelcms/J2534 Pass Through/493.jhtml" target="_self">MaxiFlash Pro</a></dd>
+			   	<dd><a href="/autelcms/J2534 Pass Through/537.jhtml" target="_self">Wireless Diagnostic Interface</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      Professional Scan Tools
+		      </dt>	
+			   	<dd><a href="/autelcms/Professional Scan Tools/389.jhtml" target="_self">MaxiDiag Elite MD701</a></dd>
+			   	<dd><a href="/autelcms/Professional Scan Tools/390.jhtml" target="_self">MaxiDiag Elite MD702</a></dd>
+			   	<dd><a href="/autelcms/Professional Scan Tools/391.jhtml" target="_self">MaxiDiag Elite MD703</a></dd>
+			   	<dd><a href="/autelcms/Professional Scan Tools/392.jhtml" target="_self">MaxiDiag Elite MD704</a></dd>
+			   	<dd><a href="/autelcms/Professional Scan Tools/393.jhtml" target="_self">MaxiDiag Elite MD802</a></dd>
+			   	<dd><a href="/autelcms/Professional Scan Tools/542.jhtml" target="_self">MOT Pro EU908</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      MaxiCheck
+		      </dt>	
+			   	<dd><a href="/autelcms/MaxiCheck/394.jhtml" target="_self">MaxiCheck EPB</a></dd>
+			   	<dd><a href="/autelcms/MaxiCheck/395.jhtml" target="_self">MaxiCheck Oil Light/Service Reset</a></dd>
+			   	<dd><a href="/autelcms/MaxiCheck/396.jhtml" target="_self">MaxiCheck Airbag/ABS</a></dd>
+			   	<dd><a href="/autelcms/MaxiCheck/397.jhtml" target="_self">MaxiCheck DPF Reset</a></dd>
+			   	<dd><a href="/autelcms/MaxiCheck/398.jhtml" target="_self">MaxiCheck Steering Angle Sensor Calibration</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      MaxiService
+		      </dt>	
+			   	<dd><a href="/autelcms/MaxiService/399.jhtml" target="_self">VAG505</a></dd>
+			   	<dd><a href="/autelcms/MaxiService/400.jhtml" target="_self">OLS301</a></dd>
+			   	<dd><a href="/autelcms/MaxiService/401.jhtml" target="_self">EBS301</a></dd>
+	          </dl>
+    </div>
+    </span>
+    <span>
+    <div style="padding-left:30px;">
+    </div>
+    </span>
+    <span>
+    <div style="padding-left:30px;">
+	         <dl>
+		      <dt>
+		      TPMS Diagnostic &amp; Service Tool
+		      </dt>	
+			   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/402.jhtml" target="_self">MaxiTPMS TS101</a></dd>
+			   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/403.jhtml" target="_self">MaxiTPMS TS401</a></dd>
+			   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/404.jhtml" target="_self">MaxiTPMS TS501</a></dd>
+			   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/472.jhtml" target="_self">MaxiTPMS TS601</a></dd>
+			   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/535.jhtml" target="_self">MaxiTPMS PAD</a></dd>
+			   	<dd><a href="/autelcms/TPMS Diagnostic &amp; Service Tool/536.jhtml" target="_self">MX-Sensor</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      <img src="/autelcms/r/cms/www/red/img/images/TPMS_NEW.jpg">
+		      </dt>	
+	          </dl>
+    </div>
+    </span>
+    <span>
+    <div style="padding-left:30px;">
+	         <dl>
+		      <dt>
+		      Customer Support
+		      </dt>	
+			   	<dd><a href="/autelcms/CustomerSupport/413.jhtml" target="_self">Tech Support</a></dd>
+			   	<dd><a href="/autelcms/CustomerSupport/414.jhtml" target="_self">User Manuals</a></dd>
+			   	<dd><a href="/autelcms/CustomerSupport/415.jhtml" target="_self">Technical Support Form</a></dd>
+			   	<dd><a href="/autelcms/CustomerSupport/416.jhtml" target="_self">Training Videos</a></dd>
+			   	<dd><a href="/autelcms/CustomerSupport/418.jhtml" target="_self">Warranty &amp; Return</a></dd>
+			   	<dd><a href="/autelcms/CustomerSupport/538.jhtml" target="_self">Vehicle Coverage</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      User Account
+		      </dt>	
+			   	<dd><a href="/autelcms/Account/423.jhtml" target="_self">Sign In</a></dd>
+			   	<dd><a href="/autelcms/Account/475.jhtml" target="_self">Registration</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      Forums &amp; Training
+		      </dt>	
+			   	<dd><a href="/autelcms/ForumsTraining/425.jhtml" target="_self">Technical Forums</a></dd>
+			   	<dd><a href="/autelcms/ForumsTraining/426.jhtml" target="_self">Training Solutions</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      Updates &amp; Downloads
+		      </dt>	
+			   	<dd><a href="/autelcms/UpdatesDownloads/429.jhtml" target="_self">Previous Generation Products</a></dd>
+			   	<dd><a href="/autelcms/UpdatesDownloads/430.jhtml" target="_self">Code Readers/Code Scanners</a></dd>
+			   	<dd><a href="/autelcms/UpdatesDownloads/431.jhtml" target="_self">Digital Inspection Videoscope</a></dd>
+			   	<dd><a href="/autelcms/UpdatesDownloads/432.jhtml" target="_self">Electrical Testers</a></dd>
+	          </dl>
+    </div>
+    </span>
+    <span>
+    <div style="padding-left:30px;">
+	         <dl>
+		      <dt>
+		      Corporate Information
+		      </dt>	
+			   	<dd><a href="/autelcms/CorporateInformation/461.jhtml" target="_self">Contact Us</a></dd>
+			   	<dd><a href="/autelcms/CorporateInformation/462.jhtml" target="_self">Milestones</a></dd>
+			   	<dd><a href="/autelcms/CorporateInformation/463.jhtml" target="_self">About Autel</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      Vision &amp; Mission
+		      </dt>	
+			   	<dd><a href="/autelcms/VisionMission/464.jhtml" target="_self">Quality Policy</a></dd>
+			   	<dd><a href="/autelcms/VisionMission/465.jhtml" target="_self">Brand Commitment</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      NewsRoom
+		      </dt>	
+			   	<dd><a href="/autelcms/NewsRoom/467.jhtml" target="_self">Product Launch</a></dd>
+			   	<dd><a href="/autelcms/NewsRoom/468.jhtml" target="_self">Exhibitions </a></dd>
+			   	<dd><a href="/autelcms/NewsRoom/469.jhtml" target="_self">Latest News</a></dd>
+			   	<dd><a href="/autelcms/NewsRoom/527.jhtml" target="_self">Update Info</a></dd>
+	          </dl>
+	         <dl>
+		      <dt>
+		      Job Seekers
+		      </dt>	
+			   	<dd><a href="/autelcms/JobSeekers/473.jhtml" target="_self">Job Search</a></dd>
+			   	<dd><a href="/autelcms/JobSeekers/506.jhtml" target="_self">Locations</a></dd>
+	          </dl>
+    </div>
+    </span>
+    <span>
+    <div style="padding-left:30px;">
+    </div>
+    </span>
+    <span>
+    <div style="padding-left:30px;">
+    </div>
+    </span>
+    <span>
+    <div style="padding-left:30px;">
+    </div>
+    </span>
+    <span>
+    <div style="padding-left:30px;">
+    </div>
+    </span>
+</div>
+<div id="itemMun_bottom">
+<span onclick="$(&quot;#itemMun&quot;).slideUp(&quot;80&quot;);">UP</span>
+</div>
+</div>
+</div>
+<div style="height:7px;background:#e5e5e5"></div>
+<!--导航结束-->
+</div>
+<div class="north">
+	<div class="pro_title_su">
+		<span class="pro_email"><a href="mailTo:sale@auteltech.com"><img src="/autelcms/r/cms/www/red/img/images/email.gif" width="17" height="11">Email</a>
+			&nbsp;&nbsp;&nbsp;&nbsp; <a href="javascript:window.print();"><img src="/autelcms/r/cms/www/red/img/images/dyj.gif" width="17" height="11">Print</a></span>About
+		Autel <span style="color: #a2a2a2;">&gt;</span> <span style="color: #000000;">Privacy Policy</span>
+	</div>
+</div>
+<div class="regi" style="padding-left: 29px; height: 970px; padding-top: 0px">
+
+	<div style="border-bottom: 3px solid #DDDDDD;">
+		<h4 style="font-size: 18px; padding-bottom: 5px;">
+			Privacy Policy
+			</h4>
+	</div>
+	<dl style="color: #666666;font-size: 14px;line-height: 22px;">
+    	<dd>This Privacy Statement provides important information to you, 
+the site user. It outlines our information collection, use and 
+protection practices. If you have any questions or concerns about our 
+privacy practices, please contact us at 1-855-AUTELUS</dd>
+<br>
+        <dt>1. General Statement:</dt>
+        <dd>We respect your privacy and are committed to protecting it. 
+This privacy statement explains our policies and practices regarding 
+online customer information. It is through this disclosure that we 
+intend to provide you with a level of comfort and confidence in how we 
+collect, use, and safeguard personal and other information we collect or
+ that you provide through this website, and how you can contact us if 
+you have any questions or concerns. It is our sincere hope that by 
+explaining our data handling practices we will develop a trusting and 
+long-lasting relationship with you. By using the site, you agree to the 
+terms of this privacy statement.</dd>
+<br>
+    	<dt>2. Information About Our Organization and Website:</dt>
+    	<dd>This Privacy Statement applies to www.auteltech.com. 
+www.auteltech.com is owned and maintained by Autel Intelligent 
+Technology Company, SZICC Bldg, Shenzhen, China. The business purpose of
+ this website is to provide subscriptions to the aftermarket to 
+up-to-date web-based technical service information and training, and to 
+diagnostic tools.</dd>
+<br>
+        <dt>3. How We Use the Personally Identifiable Information We Collect:</dt>
+        <dd>When you visit www.auteltech.com we will not collect any 
+additional personal information about you unless you provide it to us 
+voluntarily. Personal data includes information that is particular to 
+you such as name, street address, telephone number, and email address. 
+If you opt not to provide us with personal information you can still 
+access our website, however you may be unable to purchase the web-based 
+update software and technical service information. Our primary goal in 
+collecting personal information from you when you visit 
+www.auteltech.com is to provide you the functionality and services that 
+you need to have a meaningful and customized experience while using the 
+site features </dd>
+        <dd>This site may use session or persistent "cookies" to collect
+ personally identifiable information and use a third party to deliver 
+site functionality. An explanation for each of these items and how they 
+work is included in Section 7 Methods to Collect Information.</dd>
+<br>
+        <dt>4. How We Use the Personally Identifiable Information We Collect:</dt>
+        <dd>Non-personally identifiable information collected on www.auteltech.com may be used to:</dd>
+        <dd>
+        	<p>Fulfill and deliver an order for goods or services (e.g., 
+purchase of web-based update software and technical service information)</p>
+            <p>Respond to your comments or requests for information</p>
+            <p>Meet a request for or to develop new products or services</p>
+            <p>Make the user experience more customer friendly</p>
+            <p>Contact you if necessary in the course of processing an order for products or services</p>
+            <p>Generate site analytics that improve our site layout, content, product offerings and services</p>
+            <p>Compile user data that is stored in our corporate database</p>
+            <p>Comply with legal requirements</p>
+        </dd>
+        <br>
+        <dt>5. Other (Non-Personally Identifiable) Information We Collect From Site Visitors:</dt>
+        <dd>www.auteltech.com collects other information, non-personally
+ identifiable information from site visitors. This means that we do not 
+track these items on an individual basis that identifies the site 
+visitor, but rather gather and collect this information on an aggregate 
+[or anonymous] basis that includes all site visitors. Non-personal 
+information includes tracking the site pages that are visited or the 
+amount of time spent on our site www.auteltech.com.</dd>
+        <dd>Our primary goal in collecting aggregate information from 
+you is to be able to perform site metrics that allow us to improve the 
+functionality of the website. We need to collect aggregate information 
+in order to track page visits and peak site usage times, and to perform 
+site clickthrough analysis and site layout re-design.</dd>
+        <dd>We may use session or persistent "cookies," session logs, 
+spot light ads/web beacons/GIF/pixel tags, banner ads or links, and 
+third-party click tracking analytics tools (such as DART, Omniture tags,
+ DoubleClick, and Google Analytics) to collect aggregate or other 
+non-personally identifiable information about site visitors. An 
+explanation for each of these items and how they work is included in 
+Section 7 - Methods to Collect Information.</dd>
+<br>
+        <dt>6. How We Use the Aggregate or Non-Personally Identifiable Information We Collect:</dt>
+        <dd>Non-personally identifiable information collected on www.auteltech.com may be used to:</dd>
+        <dd>
+        	<p>Compile aggregate and statistical data to help in website design and to identify popular features</p>
+            <p>Measure site activity to allow us to update our site to better meet user wants and needs</p>
+            <p>Make the user experience more customer friendly</p>
+          
+        </dd>
+        <dd>www.auteltech.com utilizes non-personal data for the purpose
+ of performing analytics on the user experience while visiting this 
+site. This analysis:</dd>
+        <dd>
+        	<p>Is performed on an aggregate level and does not identify you or your information personally</p>
+            <p>May involve the use of a third-party vendor acting on behalf of www.auteltech.com</p>
+            <p>Is performed in order to improve our website and the user experience</p>
+            <p>May include the use of session and/or persistent cookies 
+to track user movement across this and other Autel Intelligent 
+Technology Company websites or to track other events within or across 
+this and other Autel Intelligent Technology Company websites</p>
+            <p>Third-party vendors with which Autel has entered into 
+contracts to perform site analytics and which are provided aggregate 
+information covered by this privacy statement are to use that 
+information only to perform those services, and they may not share or 
+resell this information.</p>
+          
+        </dd>
+        <br>
+        <dt>7. Methods to Collect Information:</dt>
+        <dd>A "cookie" is a small text file that helps us in many ways 
+to make your visit to our website more enjoyable and meaningful to you. 
+For example, cookies avoid you having to log in every time you come back
+ to one of our websites. They also allow us to tailor a website or 
+advertisement to better match your interests and preferences. There are a
+ couple different types of cookies.</dd>
+        <dd>A "persistent" cookie is stored on your computer's hard 
+drive until a specified date, which could be tomorrow, next week, or 10 
+years from now. Persistent cookies stay on your computer until either a)
+ they expire, b) they are overwritten with newer cookies, or c) you 
+manually remove them. Most browsers can be configured not to accept 
+cookies, however, this may prevent you from having access to some site 
+functions or features. This site may use a third party to deliver site 
+functionality such as fulfilling your request to purchase items from our
+ online store. In performing this function the third party may place a 
+persistent cookie on your computer or have to gather personal 
+information from you in order to facilitate the processing of your 
+purchase. </dd>
+        <dd>This site may use a third-party click tracking analytics 
+tool (such as DART,Omniture tags, DoubleClick, and Google Analytics) to 
+capture clickthrough statistics. www.auteltech.com may use spotlight 
+ads/web beacons/GIF/pixel tags which are site instrumentation tools that
+ help us to determine, for instance, whether a page has been viewed or 
+not and, if so, how many times. Emails or electronic newsletters we send
+ may use tools (e.g., pixel tags or web beacons) to gather email metrics
+ and information to improve the reader's experience such as how many of 
+the emails are opened, if they were printed or forwarded, the type of 
+device (e.g., mobile or PC) from which they were opened, and the city, 
+state, and county associated with the applicable IP address. In general,
+ any electronic image viewed as part of a webpage, including an ad 
+banner, can act as a web beacon.</dd>
+        <dd>Users may be directed to www.auteltech.com via banner ads or
+ site links. Ads or site links that are placed by www.auteltech.com use 
+cookies or web beacons to deliver metrics on the effectiveness of the 
+ads or links. They do not collect personal information from the user. </dd>
+        <dd>Online Advertising: Autel may contract with vendors to place
+ advertisements on non-Autel websites. When you visit a non-Autel 
+website, these vendors may target Autel advertisements to you based on 
+information about your previous online activity that the vendor has 
+collected using web tracking tools (e.g., cookies and web beacons). 
+Additionally, Autel advertisements may contain web tracking tools such 
+as cookies and web beacons to collect information on the effectiveness 
+of the advertisements and to deliver future targeted advertisements and 
+other messages to you. These web tracking tools collect information such
+ as IP address, the page visited, and time of day.</dd>
+ <br>
+        <dt>8. Sharing Your Information:</dt>
+        <dd>www.auteltech.com does not share, sell, or rent personally 
+identifiable information with independent companies for their own use 
+without providing you a choice. Personal information that you provide to
+ us in the course of using our site features or requesting a product or 
+service through this website may be gathered and stored in one or more 
+of our corporate databases.</dd>
+        <dd>Vendors, contractors or partners of www.auteltech.com who 
+have access to your personal information in connection with providing 
+services for www.auteltech.com are required to keep the information 
+confidential and are not permitted to use this information for any other
+ purpose than to carry out the services they are performing for 
+www.auteltech.com.</dd>
+        <dd>Site metrics for www.auteltech.com may be shared with other 
+Autel Intelligent Technology Company websites or subsidiaries or 
+affiliates. The information shared will be aggregate data and will not 
+include any of your personally identifiable information. 
+www.auteltech.com will disclose your personal information, without 
+notice, if (1) in the good faith belief that such action is necessary 
+to: (a) conform to the edicts of the law or comply with legal process 
+served on Autel Intelligent Technology Company, its affiliates or the 
+site; (b) protect and defend the rights or property of Autel Intelligent
+ Technology Company, its affiliates or this site; or (c) act under 
+exigent circumstances to protect the personal safety of Autel 
+Intelligent Technology Company or affiliate personnel, users of their 
+websites, or the public; or (2) if required to do so by law.</dd>
+<br>
+        <dt>9.Access To and Control Over the Use of Your Information :</dt>
+        <dd>To correct or update your personal information you can 
+contact us by selecting the contact link located in the footer of the 
+website. www.auteltech.com will use reasonable efforts to correct any 
+factual inaccuracies in your information. The scope of access available 
+for this request is for information stored in the database that holds 
+the data for www.auteltech.com. Any personal information that has been 
+collected from you on other Company websites will not be accessible or 
+changeable through the processing of this request.</dd>
+<br>
+    	<dt>10. Security of Your Information:</dt>
+    	<dd>Safeguarding information of visitors to our website is 
+important to us. We use systems, policies and procedures to maintain 
+accuracy of information and to protect information from loss, misuse or 
+alteration. When you send personal information, such as email address or
+ telephone numbers, to www.auteltech.com we use "Secure Socket Layers" 
+or SSL to protect your data. SSL is encryption technology that helps 
+safeguard your personal information against misuse by unauthorized 
+individuals. Vendors, contractors or partners of www.auteltech.com who 
+have access to your personal information in connection with providing 
+services for www.auteltech.com are required to keep the information 
+confidential. Vendors are not permitted to use this information for any 
+other purpose than to carry out the services they are performing for 
+www.auteltech.com.</dd>
+<br>
+    	<dt>11.Processing of Personal Data :</dt>
+        <dd>By visiting this site and by providing your personally 
+identifiable information to us, you understand and consent to the 
+collection, use, processing, transfer, and disclosure of your personally
+ identifiable and non-personally identifiable information globally --- 
+including to the United States in accordance with this Privacy 
+Statement. Therefore, by visiting this site and by providing such 
+information, you consent to the transfer of such information across 
+country borders, and to the use, processing, and disclosure of such 
+information in global locations. Your consent shall be deemed to include
+ your consent to transfer of the personally identifiable or 
+non-personally identifiable information to locations that may have 
+different levels of privacy protection than in your own country.</dd>
+<br>
+        <dt>12. Links to Other Sites:</dt>
+        <dd>www.auteltech.com provides links to other websites. We 
+encourage you to review the privacy statements of all sites that you 
+visit, including those whose links are provided so that you can 
+understand how those sites collect, use and share your information. 
+www.auteltech.com is not responsible for the privacy statements, content
+ or data handling practices on other websites.</dd>
+ <br>
+    	<dt>13. Contacting Us:</dt>
+        <dd>If you have any questions, comments or concerns about this 
+online privacy statement for www.auteltech.com, www.auteltech.com 
+privacy practices, or have any questions regarding the contents of this 
+website please contact us by selecting the contact link located in the 
+footer of the website. www.auteltech.com is committed to working with 
+consumers to obtain a fair and rapid resolution of any complaints or 
+disputes about privacy and the handling of your data. www.auteltech.com 
+will be happy to respond to your questions and comments.
+</dd>
+<br>
+    	<dt>14. Privacy Statement Effective Date and Revision Days:</dt>
+        <dd>Occasionally we may update the privacy statement for 
+www.auteltech.com in order to reflect any changes to the website or our 
+privacy practices. If we update this statement, the new statement will 
+be posted to the website ten (10) days prior to the changes taking 
+effect.</dd>
+    	<dd>The effective date of this privacy statement is 30/05/2013</dd>
+    </dl>
+
+<div style="height: 30px;"></div>
+
+<!-- <div class="di clearfix">
+	<div class="di_le">
+		<h4>Distributors</h4>
+		<div>
+			<a href="/autelcms/distributor/529.jhtml">
+			<img src="/autelcms/r/cms/www/red/img/images/at_32.jpg" width="270" height="142" />
+			</a>
+		</div>
+	</div>
+	<div class="di_ri">
+		<h4>About Autel</h4>
+		<div class="about_au clearfix">
+			<div class="china_au">
+				<p>China, Autel , headquartered in Shenzhen, specializes in
+					development, manufacture and marketing of diagnostic tools,
+					equipment and accessories in the automotive aftermarket. Since our
+					foundation, we have been committed to creating maximum long-term
+					value to our customers by providing quality-assured, easy-to-use,
+					cost-effective and innovative products and solutions.</p>
+				<ul>
+					<li><a target="_self" href="/autelcms/Sitemap/410.jhtml">Sitemap</a></li>
+					<li><a target="_blank"
+						href="/autelcms/CorporateInformation/463.jhtml"> About Autel </a></li>
+					<li><a target="_blank"
+						href="/autelcms/CustomerSupport/414.jhtml"> User Manuals </a></li>
+					<li><a target="_blank" href="http://pro.auteltech.com">Training
+							Solutions </a></li>
+					<li><a target="_blank"
+						href="/autelcms/CustomerSupport/418.jhtml"> Warranty & Return </a></li>
+					<li><a target="_blank"
+						href="/autelcms/CorporateInformation/461.jhtml"> Contact Us </a></li>
+					<li><a target="_blank" href="http://pro.auteltech.com/regProduct.html?m=1">
+							Product Registration </a></li>
+				</ul>
+			</div>
+			<div class="down2014">
+				<a href="/autelcms/u/cms/www/201403/MaxiSys.pdf"><img src="/autelcms/r/cms/www/red/img/images/10.jpg"  /></a>
+			</div>
+		</div>
+	</div>
+</div> -->
+<div style="height: 4px;"></div>
+<div class="down_menu">
+<ul class="clearfix">
+
+<li class="down_menu_lm" style="width:50px;text-align:left;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms">Home</a></li>
+<li class="down_menu_tb"><strong>|</strong></li>
+<li class="down_menu_lm" style="width:100px;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms/CustomerSupport/413.jhtml">Tech Support</a></li>
+<li class="down_menu_tb"><strong>|</strong></li>
+<li class="down_menu_lm" style="width:100px;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms/CustomerSupport/414.jhtml">User Manuals</a></li>
+<li class="down_menu_tb"><strong>|</strong></li>
+<li class="down_menu_lm" style="width:110px;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms/CustomerSupport/416.jhtml">Training Videos</a></li>
+<li class="down_menu_tb"><strong>|</strong></li>
+<li class="down_menu_lm" style="width:120px;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms/CustomerSupport/418.jhtml">Warranty &amp; Return</a></li>
+
+<li class="down_menu_tb"><strong>|</strong></li>
+<li class="down_menu_lm" style="width:115px;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms/NewsRoom/467.jhtml">Product Launch</a></li>
+<li class="down_menu_tb"><strong>|</strong></li>
+<li class="down_menu_lm" style="width:90px;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms/NewsRoom/468.jhtml">Exhibitions</a></li>
+<li class="down_menu_tb"><strong>|</strong></li>
+<li class="down_menu_lm" style="width:90px;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms/Sitemap/410.jhtml">Site Map</a></li>
+<li class="down_menu_tb"><strong>|</strong></li>
+<li class="down_menu_lm" style="width:80px;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms/CorporateInformation/463.jhtml">About Autel</a></li>
+<li class="down_menu_tb"><strong>|</strong></li>
+<li class="down_menu_lm" style="width:75px;padding-top: 8px;"><a target="_self" class="footer_a" href="/autelcms/CorporateInformation/461.jhtml">Contact Us</a></li>
+</ul>
+</div>
+<div class="foot2014">
+	<div class="foot_copy">
+		<span class="down_menu_lm2"> 
+		    <a href="http://www.twitter.com/"><img src="/autelcms/r/cms/www/red/img/images/Twitter.png" width="16" height="16"></a>
+			<a href="http://www.facebook.com"><img src="/autelcms/r/cms/www/red/img/images/Facebook.png" width="16" height="16"></a>
+			<a href="http://www.podcast.com"><img src="/autelcms/r/cms/www/red/img/images/podcast.png" width="16" height="16"></a>
+			<a href="http://www.youtube.com/autelus"><img src="/autelcms/r/cms/www/red/img/images/youtube.png" width="16" height="16"></a>
+			</span><img style="padding-bottom:2px" src="/autelcms/r/cms/www/red/img/images/new_logo_foot.png">&nbsp;©&nbsp;Intelligent Technology Corp.,Ltd.2004-2014,&nbsp;All Rights Reserved.
+			&nbsp;&nbsp;<a style="font-size: 12px; target=" _self"="" href="/autelcms/Terms/531.jhtml">Terms of Use</a>
+            &nbsp;&nbsp;<strong>|</strong>
+	        &nbsp;&nbsp;<a style="font-size: 12px; target=" _self"="" href="/autelcms/privacy/532.jhtml">Privacy Policy</a>
+	        
+	</div>
+</div>
+<div style="height:0px">&nbsp;
+</div>
+<!-- <div class="links">
+				<a href="http://www.facebook.com" target="_blank"><img src="/autelcms/u/cms/www/201208/19112513sjkq.gif" title="facebook" width="86" height="30" /></a>
+			<a href="http://www.twitter.com/" target="_blank"><img src="/autelcms/u/cms/www/201208/19112452zf5l.gif" title="twitter" width="86" height="30" /></a>
+			<a href="http://www.podcast.com" target="_blank"><img src="/autelcms/u/cms/www/201208/19112523rhew.gif" title="podcast" width="86" height="30" /></a>
+			<a href="http://www.youtube.com/autelus" target="_blank"><img src="/autelcms/u/cms/www/201208/19112531b5ud.gif" title="youTube" width="86" height="30" /></a>
+</div>
+ -->
+</div>
+	<br>
+	<br>
+
+
+</body></html>
