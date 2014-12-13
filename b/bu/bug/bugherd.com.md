@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115540id_/http%3A//bugherd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213194121id_/http%3A//bugherd.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | BugHerd
 
-When accessing our Website, BugHerd Pty Ltd will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
+When accessing our Website, Macropod Software Pty Ltd will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
 ### Information we store about users:
 
@@ -26,10 +26,10 @@ If you identify yourself by sending us an e-mail containing personal information
 
 If you opt-in to receive Marketing material via subscription from this website or within our application your details may be stored within a third-party electronic direct messaging service such as mailchimp. We do not disclose personal information to overseas recipients or sell or disclose personal information to third party marketing services. 
 
-BugHerd Pty Ltd may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. Company logos and names may be used for promotional purposes.
+Macropod Software Pty Ltd may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. Company logos and names may be used for promotional purposes.
 
-For site security purposes and to ensure that this service remains available to all users, BugHerd Pty Ltd uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
-BugHerd Pty Ltd will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+For site security purposes and to ensure that this service remains available to all users, Macropod Software Pty Ltd uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
+Macropod Software Pty Ltd will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
 ### The use of cookies:
 
@@ -37,7 +37,7 @@ The website may use cookies to facilitate your use of the website.  You can con
 
 ### Credit Card information:
 
-Credit card processing is handled by [DPS](http://www.paymentexpress.com/). To enable DPS to provide secure payment facilities it will typically acquire information which may include the Cardholder’s name, credit card number (with the expiry date) and billing address. DPS uses the information to obtain authorization of the transaction from the Issuing bank of the credit card and DPS’s own or BugHerd Pty Ltd’s bank and to process the payment. Some details from the transaction (such as name, email and delivery address) may be made available to BugHerd Pty Ltd or Acquirer through Payline - DPS web based transactions management system, which allows Merchants to track transactions and process refunds. Please see [DPS’s Privacy Policy](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html) for more details about their payment system and security measures.
+Credit card processing is handled by [DPS](http://www.paymentexpress.com/). To enable DPS to provide secure payment facilities it will typically acquire information which may include the Cardholder’s name, credit card number (with the expiry date) and billing address. DPS uses the information to obtain authorization of the transaction from the Issuing bank of the credit card and DPS’s own or Macropod Software Pty Ltd’s bank and to process the payment. Some details from the transaction (such as name, email and delivery address) may be made available to Macropod Software Pty Ltd or Acquirer through Payline - DPS web based transactions management system, which allows Merchants to track transactions and process refunds. Please see [DPS’s Privacy Policy](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html) for more details about their payment system and security measures.
 
 ### Requesting your personal information:
 
