@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629110248id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214002735id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal - Flower deliveries
-
-[ ](https://web.archive.org/)
-
-International Flower Delivery Expert Since 2005, more than one million bouquets delivered
 
 With FloraQueen you are always safe and secure. We value and respect all our clients and treat every detail with the greatest of care.
 
@@ -91,18 +87,18 @@ Occasionally, FloraQueen may also use the information we collect to notify you a
 
 Smiles Guaranteed
 
->  **Eugenia (Romania)**
+>  **Jack (United Kingdom)**
 > 
-> Thank you very much for all your fine services. The delivery was precise and just in time. You really made us happy. Thank you.
+> I searched a lot to find a good online service for sending flowers. Your site was the best I have come up with so far! User friendly approach and easy-to-use service. I just want to thank you for putting so much effort into your work and making people happy!
 
-[ ](https://web.archive.org/sending-flowers/cheery-morning-bouquet)
+[ ](https://web.archive.org/sending-flowers/beautiful-blooming-basket)
 
-Rated 3.8 out of 5 by 5221 reviewers 
+Rated 3.8 out of 5 by 5231 reviewers 
 
-  * [Grandparents Day](https://web.archive.org/flowers-grandparents-day "Grandparents Day") 2014-09-04T00:01 2014-10-05T23:59
-  * [Neighbour day](https://web.archive.org/flowers-neighbour-day "Neighbour day") 2014-09-21T00:01 2014-09-21T23:59
-  * [Rosh Hashanah Flowers](https://web.archive.org/rosh-hashanah "Rosh Hashanah Flowers") 2014-09-24T00:01 2014-09-26T23:59
-  * [Halloween Flowers](https://web.archive.org/sending-flowers-halloween-flowers "Halloween Flowers") 2014-10-31T00:01 2014-10-31T23:59
+  * [International Christmas Flower Delivery](https://web.archive.org/christmas-flowers "International Christmas Flower Delivery")
+  * [New Year’s Flowers](https://web.archive.org/new-years-flowers "New Year’s Flowers")
+  * [Neighbour day](https://web.archive.org/flowers-neighbour-day "Neighbour day")
+  * [International Valentine's Day Flower Delivery](https://web.archive.org/valentines-flowers "International Valentine's Day Flower Delivery")
 
 
 
