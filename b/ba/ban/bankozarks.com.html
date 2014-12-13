@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankozarks.com privacy policy that was archived on 2014-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140519203354id_/http%3A//www.bankozarks.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankozarks.com privacy policy that was archived on 2014-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141213113438id_/http%3A//www.bankozarks.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="assets/css/960.css">
 <link rel="stylesheet" href="assets/css/main.css">
 <link media="screen" rel="stylesheet" href="assets/css/colorbox.css">
+<link media="screen" rel="stylesheet" href="assets/css/jquery-ui.css">
 <link rel="stylesheet" href="assets/css/nivo-slider.css" type="text/css" media="screen">
 <link rel="stylesheet" href="assets/css/lof-style.css" type="text/css" media="screen">
 <!--[if IE 6]>
@@ -52,7 +53,12 @@
 <script type="text/javascript" src="assets/js/fancybox/jquery.easing-1.3.pack.js"></script>
 <script type="text/javascript" src="assets/js/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
 <script type="text/javascript" src="assets/js/jquery.cycle.all.min.js"></script>
-
+<script src="assets/js/jquery-ui.js"></script>
+<script>
+	$(function() {
+	$( "#tabs" ).tabs();
+	});
+</script>
 <!--[if lt IE 8]>
 <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
 <![endif]-->
@@ -61,7 +67,7 @@
 
 <script type="text/javascript">
 			swfobject.registerObject("feature-video", "8.0.0");
-		</script><style type="text/css" media="screen">#feature-video {visibility:hidden}#feature-video {visibility:visible}</style>
+		</script>
 
 <script src="assets/js/jquery.nivo.slider.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -179,16 +185,19 @@ function alertbox()    {
 }
 </script>
 <script type="text/javascript"> 
-<!-- 
-function alertemail() {
-	var answer = confirm("As a reminder, email communications are not secure.  Please never include specific account information in any email communication.");
-	if(answer == 'false'){
-window.location = parent.location.reload(true); 
+function alertemail() { alert('As a reminder, email communications are not secure.   Please never provide account information or personal private information, such as Social Security Number, in any email communication.');
+ } 
+ </script>
+<script type="text/javascript">
+function navConfirm(loc, message) {
+    if (confirm(message)) {    
+        window.location.href = loc;
+    }
+    return false; // cancel click event
 }
- } //--> </script>
+</script>
 
-
-</head><body onload="checkCookie();"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
+</head><body onload="checkCookie();">
 <a name="top"></a>  
 
 <div class="container_12">
@@ -201,7 +210,7 @@ window.location = parent.location.reload(true);
         	<div id="header_left" class="grid_8 omega">
                 <ul>
                 <li class="horiz_last"><a href="contact-us.php">Contact</a></li>
-            	<li class="horiz_border"><a href="https://secure2.bankozarks.com/bankozarks/PassmarkSignIn.faces">Online Banking Login</a></li>
+            	<!--<li class="horiz_border"><a href="https://secure2.bankozarks.com/bankozarks/PassmarkSignIn.faces">Online Banking Login</a></li>-->
 		<li class="horiz_border"><a href="locations.php">Locations</a></li>
                 <li class="horiz_border"><a href="investor-relations.php">Investor Relations</a></li>
                 </ul>
@@ -248,13 +257,13 @@ window.location = parent.location.reload(true);
     <ul id="firstMenu">
       <li class="no-border">
         <h3 class="head"><a href="#" class="menu_toggle_link">About Us</a></h3>
-        <div id="menu1" style="display: block;" class="menu_toggle">
+        <div id="menu1" style="display:block;" class="menu_toggle">
         <ul class="no-padding">
           <li class="no-border">
             <ul class="secondMenu no-padding">
               <li><a href="expect-performance-expect-a-friend.php">Expect Performance. Expect a Friend.</a></li>
              <li><a href="why-bank-of-the-ozarks.php">Why Bank of the Ozarks?</a></li>
-             <li><a href="put-our-strength-to-work-for-you.php">Put the nation's #1 bank to work!</a></li>
+             <!-- <li><a href="put-our-strength-to-work-for-you.php">Put the nation's #1 bank to work!</a></li> -->
               <li><a href="careers.php">Career Opportunities</a></li>
               <li><h4 class="head"><a href="contact-us.php">Contact Us</a></h4>
                     <ul class="thirdMenu no-padding">
@@ -274,7 +283,7 @@ window.location = parent.location.reload(true);
       </li>
       <li class="no-border">
         <h3 class="head"><a href="#" class="menu_toggle_link">Customer Service</a></h3>
-        <div id="menu2" class="menu_toggle" style="display: none;">
+        <div id="menu2" class="menu_toggle">
         <ul class="no-padding">
           <li class="no-border">
             <ul class="secondMenu no-padding">
@@ -294,7 +303,7 @@ window.location = parent.location.reload(true);
       </li>
       <li class="no-border">
         <h3 class="head"><a href="#" class="menu_toggle_link">Tools &amp; Resources</a></h3>
-        <div id="menu3" class="menu_toggle" style="display: none;">
+        <div id="menu3" class="menu_toggle">
         <ul class="no-padding">
           <li class="no-border">
             <ul class="secondMenu no-padding">
@@ -359,20 +368,11 @@ window.location = parent.location.reload(true);
     
     <div class="clear"></div>
 <div id="ads" class="grid_12">
-	<div id="ad1" class="grid_6 alpha ad">
-		<!-- <a href = 'http://www.bankozarks.com/business.php'><img src='assets/images/ads/its-time.jpg' alt='It\'s time to get back to business. We\'re ready. Are you?'></a>>-->
-		<!-- <a href = 'welcomefnb.php'><img src='assets/images/ads/ad_the_citizens_bank.jpg' alt='Citizens Bank is now Bank of the Ozarks'></a>>-->                                                                
-		<a href="welcomesummit.php"><img src="assets/images/promo-horiz-summit.png" alt="Welcome, Summit Customers!"></a>
+	<div id="ad1" class="grid_6 alpha ad">                                                           
+		<a href="http://www.bankozarks.com/home-loans.php"><img src="assets/images/ads/bankozarks_mortgage_440x119-4.jpg" alt="Low mortgage rates make buying a home easy. We make it easier."></a>
 	</div>
 	<div id="ad2" class="grid_6 omega ad">
-		<script language="JavaScript"><!--
-		images = new Array(2);
-		images[0] = "<a href = 'safe-deposit-box.php'><img src='assets/images/promos/estatements.jpg' alt='eStatements - An eco friendly alternative to paper statements.'></a>",
-		images[1] = "<a href = 'safe-deposit-box.php'><img src='assets/images/Safe_Deposit_Box.png' alt='Keep your valuables safe with a Safe Deposit Box.'></a>";
-		index = Math.floor(Math.random() * images.length);
-		document.write(images[index]);
-		// --></script><a href="safe-deposit-box.php"><img src="assets/images/Safe_Deposit_Box.png" alt="Keep your valuables safe with a Safe Deposit Box."></a> 
-		<!-- images[0] = "<a href = 'welcomesummit.php'><img src='assets/images/promo-horiz-summit.png' alt='Welcome, Summit Customers!'></a>"; -->
+		<a href="http://www.bankozarks.com/visa-debit-card.php"><img src="assets/images/debit-card-promo_2.jpg" alt="VISA Debit Cards - Convenience Issued Instantly."></a>
 	</div>
 </div>
 	<!-- end ads -->
