@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042746id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213225806id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SANDOW | Brands Powered by Innovation.
 
