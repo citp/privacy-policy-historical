@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiaa.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626235413id_/http%3A//www.aiaa.org/Detail.aspx%3Fid%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiaa.org privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213012957id_/http%3A//www.aiaa.org/Detail.aspx%3Fid%3D69) for the most accurate reproduction.*
 
 # Privacy Policy : The American Institute of Aeronautics and Astronautics
 
