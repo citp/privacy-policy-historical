@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523011122id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213164633id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Food World News
 
@@ -175,8 +175,14 @@ Further, if you use any of the Communities features and functions made available
 
 Food Biz
 
-[](https://web.archive.org/articles/5684/20140421/kraft-foods-recalls-96000-pounds-oscar-mayer-hot-dogs.htm)
+[](https://web.archive.org/articles/11065/20141210/cracker-barrel-waitress-receives-extremely-gratitude-tip-a-car-video-unbelievable-moment.htm)
 
 Food Tech
 
-[](https://web.archive.org/articles/5661/20140415/ice-cream-flavor-treat-made-viagra-tastes-champagne.htm)
+[](https://web.archive.org/articles/10452/20141203/u-s-consumers-ready-accept-genetically-modified-nanotech-products-healthy.htm)
+
+[](https://web.archive.org/articles/9113/20141118/food-means-medicine-lee-memorial-health-system-improves-cafeteria.htm)
+
+#### [Food Means Medicine, Lee Memorial Health System Improves Cafeteria](https://web.archive.org/articles/9113/20141118/food-means-medicine-lee-memorial-health-system-improves-cafeteria.htm)
+
+The Lee Memorial Health System has announced that they believe food is very important in the recovery of patients in their hospital so they are really working on making their cafeteria be different and defy the generalization of people that hospital food is not really appetizing.
