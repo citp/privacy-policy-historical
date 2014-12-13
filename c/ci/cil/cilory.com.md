@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606201848id_/http%3A//www.cilory.com/content/3-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213233845id_/http%3A//www.cilory.com/content/3-Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cilory
 
@@ -57,10 +57,18 @@ We follow a very strict privacy policy as follows:
 
 
 
+###  **DND**
+
+  * You may receive transactional SMS, calls on registered mobile/landline number with us, related to your account/orders placed on our website.
+  * All the calls/SMS will be related to transactions performed on our website.
+  * You may be sent promotional SMS related to offers/products on our site. Should you wish to not receive those, you may click on the un-subscribe link provided on those SMS.  
+ 
+
+
+
 ###  **Advertising**
 
-  * We may use re-targetting features of ad platforms like Google AdWords, Facebook, or any other ad platform.  
- 
+  * We may use re-targetting features of ad platforms like Google AdWords, Facebook, or any other ad platform.
 
 
 
@@ -68,7 +76,7 @@ We follow a very strict privacy policy as follows:
 
   * Just in case, a transaction is involved in a legal dispute (usually credit card fraud), information might be requested from us in form of a sub-poena (legal demand for information or appearance). In such cases, we might be required to furnish requisite information. In case this occurs, our policy is to first contact the customer (through preferred medium chosen by the customer) to inform them of our legal obligations.
   * These issues are not common and generally happen in case of credit card frauds. Hence, such information sharing would help in protecting your account and business with us.
-  * Your order details and personal details like address and phone number may be shared if asked by any Government Department eg. Sales Tax Department. 
+  * Your order details and personal details like address and phone number may be shared if asked by any Government Department eg. Sales Tax Department.
 
 
 
@@ -76,7 +84,7 @@ We follow a very strict privacy policy as follows:
 
   * Our site may link to other websites that may collect personally identifiable information about you. Any such pages will clearly be identifiable in the browser URL and will not carry the cilory.com logo on the top. We do not take any responsibility for the policies or actions of such websites whatsoever.
   * However, such links (except for the one to our payment gateway provider) are NOT required to browse or complete any transaction at cilory.com. We have ensured that your experience with us is as private as it should be.
-  * Our payment gateway provider is [EBS(www.ebs.in)](http://www.ebs.in/), which has a history of managing millions of secure payment transactions. You may shop with confidence with us and make payments through them (You can refer to [FAQ](http://ebs.in/faqs.php) to understand their highest standards of security). You can visit their website and view their [Privacy Policy](http://ebs.in/privacy-statement.php).
+  * Our payment gateway provider is [EBS(www.ebs.in)](http://www.ebs.in/) and HDFC Bank, which has a history of managing millions of secure payment transactions. You may shop with confidence with us and make payments through them (You can refer to [FAQ](http://ebs.in/faqs.php) to understand their highest standards of security). You can visit their website and view their [Privacy Policy](http://ebs.in/privacy-statement.php).
   * Our site may have links from advertisers and we take NO responsibility of consequences after being re-directed to their websites.
 
 
