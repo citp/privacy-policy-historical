@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608154221id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213074436id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Security | Lollapalooza 2014 | August 1-3, 2014 : Grant Park : Chicago, IL
+# Privacy & Security | Lollapalooza 2015
 
 #### UPDATED: NOVEMBER 21, 2013
 
@@ -74,15 +74,15 @@ C3 may share aggregate information about our users with advertisers, business pa
 
 C3 does not disclose personal information to third parties, except when one or more of the following conditions is true:
 
-  1. C3 has the individual’s permission to make the disclosure;/li>
-  2. The disclosure is permitted by law or mandatory professional standards;/li>
-  3. The disclosure is reasonably related to the sale or other disposition of all or part of C3′s business or assets or in connection with a corporate merger, consolidation, or other corporate reorganization;/li>
-  4. The personal information to be disclosed is publicly available;/li>
-  5. The party to whom the disclosure is made controls, is controlled by, or is under common control with C3;/li>
-  6. The disclosure is reasonably necessary for the establishment or maintenance of legal claims;/li>
-  7. The disclosure is to persons or entities for whom C3 is providing or receiving services, provided the disclosure is consistent with the purpose for which the personal information was obtained;/li>
-  8. C3 may share with third parties certain aggregated, non-personal information and Traffic Data, but such information will not identify you individually;/li>
-  9. C3 may share Customer Information when legally required to do so or at the request of governmental authorities conducting an investigation; or/li>
+  1. C3 has the individual’s permission to make the disclosure;
+  2. The disclosure is permitted by law or mandatory professional standards;
+  3. The disclosure is reasonably related to the sale or other disposition of all or part of C3′s business or assets or in connection with a corporate merger, consolidation, or other corporate reorganization;
+  4. The personal information to be disclosed is publicly available;
+  5. The party to whom the disclosure is made controls, is controlled by, or is under common control with C3;
+  6. The disclosure is reasonably necessary for the establishment or maintenance of legal claims;
+  7. The disclosure is to persons or entities for whom C3 is providing or receiving services, provided the disclosure is consistent with the purpose for which the personal information was obtained;
+  8. C3 may share with third parties certain aggregated, non-personal information and Traffic Data, but such information will not identify you individually;
+  9. C3 may share Customer Information when legally required to do so or at the request of governmental authorities conducting an investigation; or
   10. C3 may share your Customer Information with a third party if you have consented to receive information from that third party through registration from a co-branded version of the C3 service operated with a third party or through a communication or promotional program of a third party that is enabled by the C3 service. Such third parties will handle, store, retain and access such user information in accordance with the terms and conditions of their agreements with you, if any, as well as their own privacy policies. It is your responsibility to carefully review such agreements and privacy policies. **You acknowledge that C3 shall have no liability to you for sharing of such information to such third parties and C3 disclaims any and all liability relating thereto**.
 
 
