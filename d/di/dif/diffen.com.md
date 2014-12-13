@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620165208id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213041137id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
 # Diffen:Privacy policy - Difference and Comparison | Diffen
 
@@ -36,15 +36,16 @@ Diffen will set a temporary session cookie (PHPSESSID) whenever you visit the si
 
 More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.) 
 
-Diffen uses third-party advertising companies (such as Google AdSense) to serve ads when you visit our website. These companies and their affiliates and business partners may set their own cookies and/or may use information ( **not including** your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information includes users' browser, operating system, IP address, [ISP](http://en.wikipedia.org/wiki/Internet_Service_Provider "http://en.wikipedia.org/wiki/Internet_Service_Provider") etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). Please also note that 
+Diffen uses third-party advertising companies (such as Google) to serve ads when you visit our website. These companies and their affiliates and business partners may set their own cookies and/or may use information ( **not including** your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information, usually used to serve interest-based advertising, includes users' browser, operating system, IP address, [ISP](http://en.wikipedia.org/wiki/Internet_Service_Provider "http://en.wikipedia.org/wiki/Internet_Service_Provider") etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). Please also note that 
 
   * Google, as a third party vendor, uses cookies to serve ads on Diffen. 
   * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "http://www.doubleclick.com/privacy/faq.aspx") enables it to serve ads to you based on your visit to Diffen and other sites on the Internet. 
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). 
+  * You may **opt out** of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). 
+  * You may **opt out** of the NetSeer cookie by visiting [NetSeer.com](http://www.netseer.com/ "http://www.netseer.com/"), scrolling to the bottom of the page and clicking on the Opt Out button in the footer. 
 
 
 
-Other third parties whose resources are requested by web pages on Diffen include Twitter and Facebook. In the future we may add other third-party widgets. All these services set their own cookies, which they [can use to track you](http://techcrunch.com/2012/06/13/facebook-exchange/ "http://techcrunch.com/2012/06/13/facebook-exchange/") and build a profile. 
+Other third parties whose resources are requested by web pages on Diffen include Twitter and Facebook. In the future we may add other third-party widgets. All these services set their own cookies, which they [can use to track you](http://techcrunch.com/2012/06/13/facebook-exchange/ "http://techcrunch.com/2012/06/13/facebook-exchange/") and build a profile. Each of these companies may also sell the information they compile to third parties. 
 
 Diffen's content delivery network (CDN), such as CloudFlare, may also set cookies. 
 
