@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather2umbrella.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620180714id_/http%3A//www.weather2umbrella.com/en/privacy/eta2/9/314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather2umbrella.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213043246id_/http%3A//www.weather2umbrella.com/en/privacy/eta2/9/314) for the most accurate reproduction.*
 
 # Weather Forecast - Meteo | Vremenska Prognoza ..Weather2Umbrella ®..
 
