@@ -1,37 +1,37 @@
-> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/privacy.html) for the most accurate reproduction.*
 
 # Work at Home Jobs: Free Legitimate Work From Home Job Opportunities
 
   
 | Then \- Jobs by Category  
 ---  
-[Accounting & Financial](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-accounting.htm)  
-[Administrative & Clerical](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-admin.htm)  
-[Artistic](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-artistic.htm)  
-[Blogging](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-blogging.html)  
-[Canadian Jobs](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/canada.html)  
-[Call Center & Cust. Service](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/CS_Comparison.html)  
-[Consultants](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-SME.htm)  
-[Courthouse Researchers](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-courthouse.html)  
-[Crafting & Handiwork](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-crafting.html)  
-[Education & Teaching](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-education.htm)  
-[Engineering](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-engineering.htm)  
-[Healthcare & Medical](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-health.htm)  
-[Human Resources](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-HR.htm)  
-[Legal](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-legal.htm)  
-[Medical Transcription & Coding](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-medical.htm)  
-[Miscellaneous](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-misc.htm)  
-[Mystery Shopping](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-mysteryshopping.htm)  
-[Non-Profit](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-nonprofits.htm)  
-[Notaries (Mobile)](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-notary.htm)  
+[Accounting & Financial](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-accounting.htm)  
+[Administrative & Clerical](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-admin.htm)  
+[Artistic](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-artistic.htm)  
+[Blogging](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-blogging.html)  
+[Canadian Jobs](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/canada.html)  
+[Call Center & Cust. Service](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/CS_Comparison.html)  
+[Consultants](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-SME.htm)  
+[Courthouse Researchers](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-courthouse.html)  
+[Crafting & Handiwork](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-crafting.html)  
+[Education & Teaching](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-education.htm)  
+[Engineering](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-engineering.htm)  
+[Healthcare & Medical](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-health.htm)  
+[Human Resources](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-HR.htm)  
+[Legal](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-legal.htm)  
+[Medical Transcription & Coding](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-medical.htm)  
+[Miscellaneous](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-misc.htm)  
+[Mystery Shopping](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-mysteryshopping.htm)  
+[Non-Profit](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-nonprofits.htm)  
+[Notaries (Mobile)](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-notary.htm)  
 [Pay Per Task Sites](http://www.ratracerebellion.com/jobs-tasks.html)  
-[Surveys \- Paid](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-surveys.htm)  
-[Technical & Web](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-tech.htm)  
-[Transcription (non-medical)](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-transcribe-non-med.htm)  
-[Translation & Linguistic](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-linguist.htm)  
-[WAH Jobs with Benefits](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/benefits.html)  
-[Website Testers](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-usability.html)  
-[Writing & Editing](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/jobs-writing.htm)  
+[Surveys \- Paid](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-surveys.htm)  
+[Technical & Web](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-tech.htm)  
+[Transcription (non-medical)](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-transcribe-non-med.htm)  
+[Translation & Linguistic](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-linguist.htm)  
+[WAH Jobs with Benefits](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/benefits.html)  
+[Website Testers](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-usability.html)  
+[Writing & Editing](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/jobs-writing.htm)  
   
 |  |   
 ---|---|---  
@@ -46,7 +46,7 @@ Email:  
   
   
   
-| [Today's Leads](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/job_postings.html) | [Freebies](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/freebies.htm) | [FAQ](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/FAQ.html) | [Our Column](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/column-archive.html) | [Contact Us](https://web.archive.org/web/20140212131656id_/http%3A//www.ratracerebellion.com/contactus.htm)  
+| [Today's Leads](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/job_postings.html) | [Freebies](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/freebies.htm) | [FAQ](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/FAQ.html) | [Our Column](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/column-archive.html) | [Contact Us](https://web.archive.org/web/20141213235815id_/http%3A//www.ratracerebellion.com/contactus.htm)  
 ---|---|---|---|---  
 Note: This site contains advertisements as well as screened job leads. [Please visit our FAQ page for more](http://www.ratracerebellion.com/FAQ.html).At Staffcentrix we recognize that privacy is important, and we are committed to safeguarding your information when you are visiting any of our sites (Staffcentrix.com, RatRaceRebellion.com, MSVAS.com).   
     
