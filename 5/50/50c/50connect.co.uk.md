@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129103755id_/http%3A//50connect.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213072446id_/http%3A//www.50connect.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # 50 Connect | Privacy policy
 
 ##  1\. Introduction and General Terms
 
-50connect.co.uk is part of the Olderiswiser Limited business assets.  
-Olderiswiser Limited is committed to protecting you and your family's personal information when you are using Olderiswiser Limited services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through Olderiswiser Limited websites.
+50connect.co.uk is part of the Olderiswiser Media Limited business assets.  
+Olderiswiser Media Limited is committed to protecting you and your family's personal information when you are using Olderiswiser Media Limited services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through Olderiswiser Media Limited websites.
 
-In order to provide you with the full range of Olderiswiser Limited services, we are sometimes required to collect information about you.
+In order to provide you with the full range of Olderiswiser Media Limited services, we are sometimes required to collect information about you.
 
 This privacy policy explains the following:
 
-  * What information Olderiswiser Limited may collect about you;
-  * How Olderiswiser Limited will use information we collect about you; 
-  * When Olderiswiser Limited may use your details to contact you; 
-  * Whether Olderiswiser Limited will disclose your details to anyone else; 
+  * What information Olderiswiser Media Limited may collect about you;
+  * How Olderiswiser Media Limited will use information we collect about you; 
+  * When Olderiswiser Media Limited may use your details to contact you; 
+  * Whether Olderiswiser Media Limited will disclose your details to anyone else; 
   * Your choices regarding the personal information you have provided to us; 
-  * The use of cookies on Olderiswiser Limited website and how you can reject these cookies.
+  * The use of cookies on Olderiswiser Media Limited website and how you can reject these cookies.
 
 
 
-As set out above, Olderiswiser Limited is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the "data protection laws").
+As set out above, Olderiswiser Media Limited is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the "data protection laws").
 
 The websites contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
-##  2\. What information will Olderiswiser Limited collect about me?
+##  2\. What information will Olderiswiser Media Limited collect about me?
 
 When you sign up to participate in or receive a service from any 50connect.co.uk website, such as newsletters, competitions, live chats, message boards or register with the single universal online registration system used across different parts of 50connect.co.uk, we may ask for personal information about you. This can consist of information such as your name, e mail address, postal address, telephone or mobile number or date of birth. Different web pages may ask for different personal information.
 
@@ -36,11 +36,11 @@ Olderisiwiser Limited also uses cookies (see paragraph 12 below for details) and
 
 We also use your IP address to determine whether you are accessing the services from the UK or not. If not, you will be re-directed to the international version of 50connect.co.uk site  
 
-##  3\. How will Olderiswiser Limited use the information they collect about me?
+##  3\. How will Olderiswiser Media Limited use the information they collect about me?
 
 Olderisiwsier Limited will use your personal information for a number of purposes including the following:
 
-  * For "service administration purposes", which means that Olderiswiser Limited may contact you for reasons related to the service you have signed up for, as set out in paragraph 4 below (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance);
+  * For "service administration purposes", which means that Olderiswiser Media Limited may contact you for reasons related to the service you have signed up for, as set out in paragraph 4 below (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance);
   * to contact you about a submission you have made to the websites, including any content you provide.
   * to personalise the way 50connect.co.uk content is presented to you (e.g. if we notice that the first thing you look at when you visit the website is 'Entertainment', then we may present this information or a link to it on your homepage);
   * IP addresses are used to identify the location of users, the number of visits from different countries and also to block disruptive use; and
@@ -48,57 +48,57 @@ Olderisiwsier Limited will use your personal information for a number of purpose
 
 
 
-Where Olderiswiser Limited needs to use your personal information we will obtain your consent first. Otherwise, by providing us with the information either verbally, written or using our website, you consent to the collection, use and processing of this information by Olderiswiser Limited. We will use every reasonable effort to safeguard your personal information. You also have the option to withhold your information by written notification to us.   
+Where Olderiswiser Media Limited needs to use your personal information we will obtain your consent first. Otherwise, by providing us with the information either verbally, written or using our website, you consent to the collection, use and processing of this information by Olderiswiser Media Limited. We will use every reasonable effort to safeguard your personal information. You also have the option to withhold your information by written notification to us.   
 
-##  4\. When will Olderiswiser Limited contact me?
+##  4\. When will Olderiswiser Media Limited contact me?
 
-Olderiswiser Limited may contact you:
+Olderiswiser Media Limited may contact you:
 
   * in relation to the functioning of any service you have signed up for in order to ensure that Olderisiwser Limited  can deliver the services to you;
   * where you have opted to receive further correspondence; 
   * in relation to any contribution you have made to 50connect.co.uk, e.g. in the site’s  forum; 
-  * to invite you to participate in surveys about Olderiswiser Limited services (participation is always voluntary); and 
+  * to invite you to participate in surveys about Olderiswiser Media Limited services (participation is always voluntary); and 
   * for marketing purposes where you have specifically agreed to this (see paragraph 5 below)
 
 
 
-Local pages will give you detailed information about how Olderiswiser Limited will contact you in relation to specific services.
+Local pages will give you detailed information about how Olderiswiser Media Limited will contact you in relation to specific services.
 
 ##  5\. Will I be contacted for marketing information?
 
 You have the option to decline to receive marketing information from us by “opting out” with written notification to us.
 
-##  6\. Will Olderiswiser Limited share my personal information with third parties?
+##  6\. Will Olderiswiser Media Limited share my personal information with third parties?
 
-We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7 below. Generally, we will only use your information within Olderiswiser Limited. However, sometimes Olderiswiser Limited uses third parties to process your information. Olderiswiser Limited will require these third parties to comply strictly with its instructions.
+We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7 below. Generally, we will only use your information within Olderiswiser Media Limited. However, sometimes Olderiswiser Media Limited uses third parties to process your information. Olderiswiser Media Limited will require these third parties to comply strictly with its instructions.
 
-##  7\. Offensive or inappropriate content on the websites of Olderiswiser Limited
+##  7\. Offensive or inappropriate content on the websites of Olderiswiser Media Limited
 
-If you post or send offensive, inappropriate or objectionable content anywhere on or to 50connect.co.uk, or otherwise engage in any disruptive behaviour on 50connect.co.uk, Olderiswiser Limited may use your personal information to stop such behaviour.
+If you post or send offensive, inappropriate or objectionable content anywhere on or to 50connect.co.uk, or otherwise engage in any disruptive behaviour on 50connect.co.uk, Olderiswiser Media Limited may use your personal information to stop such behaviour.
 
-Where Olderiswiser Limited reasonably believes that you are or may be in breach of any of the laws of England or Wales (e.g. because content you have posted may be defamatory), Olderiswiser Limited may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
+Where Olderiswiser Media Limited reasonably believes that you are or may be in breach of any of the laws of England or Wales (e.g. because content you have posted may be defamatory), Olderiswiser Media Limited may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
 
 ##  8\. What if I am a user aged 16 or under?
 
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to Olderiswiser Limited's website. Users without this consent are not allowed to provide us with personal information.
+If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to Olderiswiser Media Limited's website. Users without this consent are not allowed to provide us with personal information.
 
-##  9\. How long will Olderiswiser Limited keep my personal information?
+##  9\. How long will Olderiswiser Media Limited keep my personal information?
 
-We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with Olderiswiser Limited. In the case that you wish to cancel your registration as a 50connect.co.uk member, once an account is deleted a red flag goes on the database and, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.
+We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with Olderiswiser Media Limited. In the case that you wish to cancel your registration as a 50connect.co.uk member, once an account is deleted a red flag goes on the database and, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.
 
-Where you contribute to 50connect.co.uk, Olderiswiser Limited will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. For example, Olderiswiser Limited will only keep copies of entries to a photographic competition for the duration of the competition. However other areas (e.g. the Forum) are likely to have a longer, or even permanent, duration.
+Where you contribute to 50connect.co.uk, Olderiswiser Media Limited will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. For example, Olderiswiser Media Limited will only keep copies of entries to a photographic competition for the duration of the competition. However other areas (e.g. the Forum) are likely to have a longer, or even permanent, duration.
 
-##  10\. Can I find out what personal information Olderiswiser Limited holds about me?
+##  10\. Can I find out what personal information Olderiswiser Media Limited holds about me?
 
-Under the Data Protection Act you have the right to request a copy of the personal information Olderiswiser Limited holds about you and to have any inaccuracies corrected.  We will use reasonable efforts to supply, correct or delete personal information about you on our files. You are required to provide 2 pieces of photographic identification and an administration charge may be incurred for the process.
+Under the Data Protection Act you have the right to request a copy of the personal information Olderiswiser Media Limited holds about you and to have any inaccuracies corrected.  We will use reasonable efforts to supply, correct or delete personal information about you on our files. You are required to provide 2 pieces of photographic identification and an administration charge may be incurred for the process.
 
-Please address requests to the Data Protection Officer, 50connect.co.uk, Olderiswiser Limited, Suite 9, 46 Manchester Street, London W1U 7LS.
+Please address requests to the Data Protection Officer, 50connect.co.uk, Olderiswiser Media Limited, 2nd Floor, 25 Nutford Place, London W1H 5YQ
 
-##  11\. Changes to Olderiswiser Limited's Privacy Policy
+##  11\. Changes to Olderiswiser Media Limited's Privacy Policy
 
 This Privacy Policy may be updated from time to time so you may wish to check it each time you submit personal information to any 50connect.co.uk website. The date of the most recent revisions will appear on this page.
 
-##  12\. Cookies Policy - Information Olderiswiser Limited collects from you
+##  12\. Cookies Policy - Information Olderiswiser Media Limited collects from you
 
 ###  a. What is a cookie?
 
@@ -111,24 +111,28 @@ During the course of any visit to 50connect.co.uk, the pages you see, along with
   
 
 
-###  b. How does Olderiswiser Limited use cookies?
+###  b. How does Olderiswiser Media Limited use cookies?
 
 Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
 
-Olderiswiser Limited also use a number of independent measurement and research companies. They gather information regarding the visitors to Olderiswiser Limited sites on our behalf using cookies, log file data and code which is embedded on our website. Olderiswiser Limited uses this type of information to help improve the services it provides to its users. Olderiswiser Limited requires that third parties to comply strictly with its instruction (see paragraph 6 above). Certain other areas of 50connect.co.uk may use cookies for a specific reason - for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
+Olderiswiser Media Limited also use a number of independent measurement and research companies. They gather information regarding the visitors to Olderiswiser Media Limited sites on our behalf using cookies, log file data and code which is embedded on our website. Olderiswiser Media Limited uses this type of information to help improve the services it provides to its users. Olderiswiser Media Limited requires that third parties to comply strictly with its instruction (see paragraph 6 above). Certain other areas of 50connect.co.uk may use cookies for a specific reason - for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
 
   
 
 
-##  13\. Contacting Olderiswiser Limited about this Privacy Policy
+##  13\. Contacting Olderiswiser Media Limited about this Privacy Policy
 
 If you have any questions or comments about this Privacy Policy please contact;  
  
 
 ##  50connect.co.uk
 
-Olderiswiser Limited  
-Suite 2,  
-75 Gloucester Place,  
-London W1U 8JP  
-Tel: (020) 7034 1900
+Olderiswiser Media Limited
+
+2nd Floor,
+
+25 Nutford Place
+
+London
+
+W1H 5YQ
