@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the silkies.com privacy policy that was archived on 2014-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140521132933id_/http%3A//www.silkies.com/Privacy.asp%3FLGError%3D%2520) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silkies.com privacy policy that was archived on 2014-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141213035000id_/http%3A//www.silkies.com/Privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KGZ2"></script><script type="text/javascript" async="" src="https://tr2.smarterremarketer.net/silkies/silkies.js"></script><script language="javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://tr2.smarterremarketer.net/silkies/silkies.js"></script><script language="javascript">
 //	if (document.cookie.indexOf("testcookie=testcookie") <= 0)
 //		document.location.href = "/Cookies_off.asp"
 		
@@ -16,6 +16,13 @@ function NewWindow(mypage, myname, w, h, scroll) {
 </script>
 
 <script type="text/javascript">
+// Global - Add trim function if not already supported
+    if (!String.prototype.trim) {
+        String.prototype.trim = function () {
+            return this.replace(/^\s+|\s+$/g, '');
+        };
+    } 
+// ************************************************
 function getCookie(Wrkname)
 {
 var i,x,y,Wrkcookies=document.cookie.split(";");
@@ -45,6 +52,57 @@ function setoldCookie(Wrkname, value, exdays) {
     var Wrkvalue = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
     document.cookie = Wrkname + "=" + Wrkvalue;
 }
+// yukky Global needed to pass an email address that had minor fix ups.
+var validatedEmailAddr;
+function EmailAddressIsGood(str) {
+    // returns true/false if email string conforms to a minimal definition of an email address structure
+    // note: this is a light-weight test and not an exhaustive check of the email address, so it should generate minimal false positives
+    // Validation Tests are as follows:
+    //      1. "str.trim()"                       - Get rid of all preceeding and trailing white space
+    //      1a. "strWrk1.replace(/\s/g,'')        - Get rid of any embedded spaces in the string
+    //      2. "lastAtPos < lastDotPos"           - Last @ should be before the last . (assumes some pattern xxxxx@yyyyy.zzzzz or xxxxx@yyyyy.zzzzz.aaaa.bbb)
+    //      3. "lastAtPos > 0"                    - Should be some non-blank character before the @ sign
+    //      4. "lastAtPos == curAtPos"            - There should be one and only one At sign in the email address
+    //      5. "strWrk.indexOf('..") = -1"        - there should never be an occurance of a double Dots in the email address
+    //      6. "lastDotPos > 2"                   - there should be at least 2 non-blank characters preceeding the last Dot (like x@y.com)
+    //      7. "(strWrk.length - lastDotPos) > 2" - There must be at least 2 non-blank characters following the last Dot
+    //      8. "(lastDotPos - lastAtPos) > 1      - There must be at least 1 non-blank character between the last @ sign and the last . (dot)
+
+    //alert('Enter EmailAddressIsGood()');
+    var strWrk1 = str.trim();
+    var strWrk = strWrk1.replace(/\s/g, '');
+    var lastAtPos = strWrk.lastIndexOf('@');
+    var curAtPos = strWrk.indexOf('@');
+    var lastDotPos = strWrk.lastIndexOf('.');
+    //alert('lastAtPos=' + lastAtPos + ' curAtPos=' + curAtPos + 'lastDotPos=' + lastDotPos);
+    validatedEmailAddr = strWrk;                // set global to email address after minor space fix up
+    //alert('emailout=' + strWrk);
+    return (lastAtPos < lastDotPos && lastAtPos > 0 && strWrk.indexOf('..') == -1 && lastDotPos > 2 && (strWrk.length - lastDotPos) > 2 && lastAtPos == curAtPos && (lastDotPos - lastAtPos) > 1);
+}
+
+function JCheckIt(Inp, Maxlen) {
+    var i = 0;
+    var wrkstr = "";
+    var xc = "";
+    var slen = Inp.length;
+
+    for (i = 0; i < slen; i++) {
+        xc = Inp.substr(i, 1);
+
+        if ((xc == "|") || (xc == "&") || (xc == ";") || (xc == "%") || (xc == "'") || (xc == "\"") || (xc == "\\") || (xc == "/") || (xc == "<") || (xc == ">") || (xc == "(") || (xc == ")") || (xc == "+") || (xc == "\r") || (xc == "\n") || (xc == ",")) {
+            wrkstr = wrkstr;
+        }
+        else {
+            wrkstr = wrkstr + xc;
+        }
+        if (wrkstr.length > Maxlen) {
+            break;
+        }
+    }
+    //alert("JCheckIt: Inp(" + Inp.length + ")=" + Inp + " Maxlen=" + Maxlen + " wrkstr(" + wrkstr.length + ")=" + wrkstr);
+    return (wrkstr);
+}
+
 </script><script type="text/javascript" language="javascript">
     var _smtr = _smtr || window._smtr || [];
     (function () {
@@ -72,6 +130,7 @@ function setoldCookie(Wrkname, value, exdays) {
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Raleway:500" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Lobster+Two:400" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="http://www.silkies.com/includes/styleSheet.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="//assets.resultspage.com/js/rac/sli-rac.1.6.css">
 <link rel="stylesheet" type="text/css" href="http://silkies.resultspage.com/rac/sli-rac.css">
@@ -87,7 +146,7 @@ function setoldCookie(Wrkname, value, exdays) {
 div.img
   {
   margin:0px;
-  border:1px solid #000000;
+  border:0px solid #FFFFFF;
   height:auto;
   width:auto;
   float:left;
@@ -97,11 +156,11 @@ div.img img
   {
   display:inline;
   margin:0px;
-  border:1px solid #000000;
+  border:1px solid #FFFFFF;
   }
 div.img img:hover
   {
-  border:1px solid #FEFF05;
+  border:1px solid #FFFFFF;
   }
 div.desc
   {
@@ -123,11 +182,11 @@ div.img2 img
   {
   display:inline;
   margin:0px;
-  border:1px solid #000000;
+  border:1px solid #DDDDDD;
   }
 div.img2 img2:hover
   {
-  border:1px solid #000000;
+  border:1px solid #DDDDDD;
   }
   div.img3
   {
@@ -148,9 +207,35 @@ div.img3 img:hover
   {
   border:2px solid #FEFF05;
   }
+.search_field
+{
+    display: inline-block;
+    border: 1px inset #CCCCCC;
+}
+.search_field input
+{
+    border: none;
+    outline: none;
+    padding: 0;
+}
+.search_field button
+{
+    border: none;
+    cursor: pointer;
+    background: #FFFFFF;
+}
+table.fixed
+{
+    table-layout: fixed;
+}
+table.fixed td
+{
+    overflow: hidden;
+}
+
 </style>
 
-<!-- enter CheckTime: StartTM=08/19/2013 11:59:00PM EndTM=08/19/2014 11:58:00PM -->
+<!-- enter CheckTime: StartTM=08/19/2013 11:59:00PM EndTM=08/19/2016 11:58:00PM -->
 
 <script type="text/javascript" src="http://www.silkies.com/TopMenuJS/stmenu.js"></script>
 <script type="text/javascript" src="http://www.silkies.com/TopMenuJS/stcode.js"></script>
@@ -185,9 +270,9 @@ function clearfield2()
 	//return null;
 }
 
-function	OpenPopup()
+function	FitGuidePopup()
 {
-	WinRef = window.open('http://www.silkies.com/FitShop.asp','SizeChart','left=0,top=0,width=1020,height=2000,scrollbars=1,resizable=1');
+    WinRef = window.open('http://www.silkies.com/PerfectFitGuide_20141106.asp', 'PerfectFitGuide', 'left=10,top=0,width=760,height=1220,scrollbars=1,resizeable=1');
 }
 
 function LCSizePopup() {
@@ -290,6 +375,9 @@ function TWITPopup() {
 function PinterestPopup() {
     WinRef = window.open('http://pinterest.com/silkieshosiery/', 'OurPins', 'width=1024,height=600,scrollbars=1,resizable=1');
 }
+function INSTPopup() {
+    WinRef = window.open('http://instagram.com/silkieshosiery', 'OurInstagram', 'width=1024,height=600,scrollbars=1,resizable=1');
+}
 function	FSPopup()
 {
 	//WinRef = window.open('http://www.silkies.com/FreeShippingTerms02.asp','Terms','width=410,height=460,scrollbars=0,resizable=0');
@@ -329,6 +417,21 @@ function FFPopup() {
 function MDPopup() {
     WinRef = window.open('http://www.silkies.com/MemorialDayTerms.asp', 'Terms', 'width=520,height=366,scrollbars=0,resizable=0');
 }
+function KSPopup() {
+    WinRef = window.open('http://www.silkies.com/KickStartTerms.asp', 'Terms', 'width=358,height=184,scrollbars=0,resizable=0');
+}
+function J4Popup() {
+    WinRef = window.open('http://www.silkies.com/July4Terms.asp', 'Terms', 'width=520,height=369,scrollbars=0,resizable=0');
+}
+function LbDPopup() {
+    WinRef = window.open('http://www.silkies.com/LaborDayTerms.asp', 'Terms', 'width=520,height=369,scrollbars=0,resizable=0');
+}
+function BFPopup() {
+    WinRef = window.open('http://www.silkies.com/BlackFridayTerms.asp', 'Terms', 'width=520,height=369,scrollbars=0,resizable=0');
+}
+function CYBERPopup() {
+    WinRef = window.open('http://www.silkies.com/CyberTerms.asp', 'CYBER', 'width=520,height=366,scrollbars=0,resizable=0');
+}
 function back() {
 
   history.go(-1);
@@ -339,6 +442,11 @@ function back() {
     // SLI Systems - Cart Cookie tracking of cart count
     setCookie("silkies_cart", "0", 1); 
 --></script>
+<script type="text/javascript" language="javascript"><!--
+    function ChangeImage(imgPtr, imgName) {
+        imgPtr.src = imgName;
+    }
+    --></script>
 <script language="javascript"><!-- 
 function	ImgSwap(imgfile)
 {
@@ -406,13 +514,19 @@ function	ImgOut()
 </script>
 <script type="text/javascript">
     function ajaxsearchsubmit(form) {
+        //2014-07-10 - Preventing users to type enter without a keyword
+        if ((form.w.value) === "" || (form.w.value) === "Please enter a valid search term..." || (form.w.value) === " " || (form.w.value) === "Try Our NEW Search!"){
+            form.w.value = "Please enter a valid search term...";
+            return false;
+        }
+
         var search = encodeURIComponent(form.w.value);
         document.activeElement.blur();
         window.location = "http://style.silkies.com/search#w=" + search
         return false;
     } 
 </script>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script type="text/javascript" src="//silkies.resultspage.com/rac/sli-rac.config.js"></script></head>
 
 
 <!-- body bgcolor="#FFFFFF" OnLoad="javascript:SetCursor();" -->
@@ -420,18 +534,20 @@ function	ImgOut()
 <!-- Google Tag Manager -->
 <!-- implemented on 5/1/2013 gjs - per request from Julian Barkat and approved by Sue Dudek Marketing -->
 <!-- stopped due to an increase in 404 errors, reinstated 8/13/2013 at request of Julian -->
-<body background="images/NL201108/VertGrad3.jpg"><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGZ2"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>    (function (w, d, s, l, i) {
+<!-- stopped per Sue request at suspension of SEO contract 6/30/2014 -->
+<!-- noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGZ2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript -->
+<!-- script>    (function (w, d, s, l, i) {
         w[l] = w[l] || []; w[l].push({ 'gtm.start':
 new Date().getTime(), event: 'gtm.js'
         }); var f = d.getElementsByTagName(s)[0],
 j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
 '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-KGZ2');</script>
+    })(window, document, 'script', 'dataLayer', 'GTM-KGZ2');</script -->
 <!-- End Google Tag Manager -->
-<script type="text/javascript" src="//silkies.resultspage.com/rac/sli-rac.config.js"></script>
 
+<body bgcolor="#FFFFFF">
+<!-- body background="images/NL201108/VertGrad3.jpg" -->
 <!-- %end if% -->
 <center>
 <table width="970" border="0" cellspacing="0" cellpadding="0">
@@ -440,7 +556,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
   			<tbody><tr>
     			<td width="190" height="78" align="left"><a href="http://www.silkies.com/index.asp" title="Home"><img src="images/Common/SilkiesLogo_20140403.jpg" border="0" width="146" height="60"></a></td>
                 
-<!-- enter CheckTime: StartTM=05/21/2014 11:59:00PM EndTM=05/27/2014 11:58:00PM -->
+<!-- enter CheckTime: StartTM=11/29/2014 11:59:00PM EndTM=12/01/2014 11:58:00PM -->
 
 <!-- enter CheckTime: StartTM=10/10/2013 11:59:00PM EndTM=10/14/2013 11:58:00PM -->
 
@@ -448,28 +564,30 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
 				<td width="290" valign="top"><table width="290" border="0" cellspacing="0" cellpadding="0">
   									<tbody><tr>
-    									<td width="160" align="right" valign="top"><!-- img border="0" src="images/3pixSpacer.gif" width="200" height="1" --><img border="0" src="images/3pixSpacer.gif" width="10" height="16"><br><a href="viewcart.asp" class="textcopy8ND">Shopping Bag (0)</a></td>
-    			<td class="textcopy_tiny" width="130" align="right" valign="top"><a href="viewcart.asp"><img src="images/NL201108/ShopBag4_20110816.jpg" border="0" width="44" height="35"></a>&nbsp;&nbsp;&nbsp;<a href="viewcart.asp"><img src="images/Buttons/CheckOut_20130523.jpg" border="0" width="72" height="35" align="top"></a></td>
+    									<td width="160" align="right" valign="top"><!-- img border="0" src="images/3pixSpacer.gif" width="200" height="1" --><img border="0" src="images/3pixSpacer.gif" width="10" height="16"><br><a id="bagCount" href="viewcart.asp" class="textcopy8ND">Shopping Bag (0)</a></td>
+    			<td class="textcopy_tiny" width="130" align="right" valign="top"><a href="viewcart.asp"><img src="images/buttons/ShopBag_20141110.jpg" border="0" width="44" height="35"></a>&nbsp;&nbsp;&nbsp;<a href="viewcart.asp"><img src="images/Buttons/CheckOut_20130523.jpg" border="0" width="72" height="35" align="top"></a></td>
   									</tr>
-									<tr><form name="searchform" action="http://style.silkies.com/search" method="get" onsubmit="return ajaxsearchsubmit(this)"></form> 
+									<tr><form class="search_field" name="searchform" action="http://style.silkies.com/search" method="get" onsubmit="return ajaxsearchsubmit(this)"></form> 
                                         <td colspan="2" width="100%" height="18" bgcolor="#FFFFFF" align="right" valign="top"> 
                                         <table width="290" border="0" cellspacing="0" cellpadding="0"> 
                                         <tbody><tr> 
-                                            <td width="80"><img border="0" src="images/3pixSpacer.gif" width="2" height="8"></td> 
-                                            <td width="180"></td> 
-                                            <td width="30"></td> 
+                                            <td width="20"><img border="0" src="images/3pixSpacer.gif" width="2" height="8"></td> 
+                                            <td width="270"></td> 
+                                            <!-- td width="30"></td --> 
                                         </tr> 
                                         <tr> 
                                             <td>&nbsp;</td> 
                                             <td align="right"><input type="hidden" name="view" value="grid">
-                                            <input type="text" name="w" value="Try Our NEW Search!" onfocus="this.value=''" id="sli_search_1" autocomplete="off" style="width:194px;" class="textcopy9LT">
+                                            <div class="search_field">
+                                            &nbsp;<input type="text" name="w" value="Try Our NEW Search!" onfocus="this.value=''" id="sli_search_1" autocomplete="off" style="width:180px;" class="textcopy9LT"><button title="Search" type="submit"><img border="0" width="19" height="18" src="http://www.silkies.com/images/icons_xy/SearchGlass.jpg" alt="Search"></button>
+                                            </div>
                                             </td>
-                                            <td align="left"><input src="http://www.silkies.com/images/Buttons/GO_20140428.jpg" class="submitbutton" type="image" width="22" height="22"></td>
+                                            <!-- td align="left"><input src="http://www.silkies.com/images/Buttons/GO_20140428.jpg" class="submitbutton" type="image" width="22" height="22" /></td -->
                                         </tr>
                                         <tr>
-                                            <td width="80"><img border="0" src="images/3pixSpacer.gif" width="2" height="4"></td>
-                                            <td width="180"></td>
-                                            <td width="30"></td>
+                                            <td width="20"><img border="0" src="images/3pixSpacer.gif" width="2" height="4"></td>
+                                            <td width="270"></td>
+                                            <!-- td width="30"></td -->
                                         </tr>
                                         
                                         </tbody></table></td>
@@ -485,57 +603,24 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
   </tr -->
    <tr>
    
-<!-- enter CheckTime: StartTM=08/19/2013 11:59:00PM EndTM=08/19/2014 11:58:00PM -->
+<!-- enter CheckTime: StartTM=08/19/2013 11:59:00PM EndTM=08/19/2016 11:58:00PM -->
 
     <td align="right"><script type="text/javascript" language="JavaScript1.2" src="http://www.silkies.com/TopNav.js"></script></td>
 
   </tr>
-  <!-- tr>
-    <td><img src="images/Common/ThinHorizontalRule.gif" border="0" width="970" height="1" /></td>
-  </tr -->
+  <tr><td><img src="images/3pixSpacer.gif" border="0" width="3" height="10"></td></tr>
   <tr><td><table width="970" border="0" cellspacing="0" cellpadding="0">
-  	
-			<!-- tr -->
-				<!-- td width="968"></td -->
-				<!-- td width="4"></td -->
-			<!-- /tr -->
-	<!-- % else % -->
-	<!-- tr>
-    			<td width="234" height="47" bgcolor="#FFFFFF" align="left"><a href="javascript:BLOGPopup()" title="Shaping your look and your life - Click to visit our Blog"><img src="images/Buttons/BlogButton_20110125.jpg" border="0" width="234" height="47" /></a></td>
-			<td width="4" bgcolor="#FFFFFF"><img src="images/3pixSpacer.gif" border="0" width="3" height="3" /></td>
-			<td width="230" height="47" bgcolor="#FEE2E1"><center><a href="javascript:FSPopup()" class="BannerLUNLX"  title="Free Shipping on all orders over $40 - Standard shipping rates"><b>FREE SHIPPING</b></a><br /><a href="javascript:FSPopup()" class="BannerMWX" title="Free Shipping on all orders over $40 - Standard shipping rates">ON ALL ORDERS</a>&nbsp;<font class="textcopy_micro"><font color="#646D6C">OF $40 OR MORE </font></font><a href="javascript:FSPopup()" class="BannerSWX" title="Free Shipping on all orders over $40 - Standard shipping rates">Click here ></a></center></td>
-			<td width="433" height="47" bgcolor="#FEE2E1" class="textcopy12"><center><font color="#EC3669"><b>PLUS</b> AN ADDITIONAL <b>10% OFF</b> ALL SALE ITEMS</font></center></td>
-			<td width="71" height="47" bgcolor="#FEE2E1"><a href="http://www.silkies.com/search.asp?SKW=sale&CAT=ONSALE"><img src="images/Buttons/ShopSale_Button.gif" border="0" width="71" height="27" title="Click for our deals and steals" /></a></td>
-  			</tr -->
-			<!-- tr>
-				<td width="964" height="47" bgcolor="#FFFFFF"><img src="images/3pixSpacer.gif" border="0" width="1" height="3" /><a href="javascript:BLOGPopup()"><img src="images/Common/Blog_Banner_20110214.jpg" border="0" width="963" height="47" title="Our Blog - Click here to read more" /></a></td>
-			</tr -->
-			
-			<!-- tr>
-    			<td width="970" height="43" align="center"><img src="images/3pixSpacer.gif" border="0" width="1" height="43" /><a href="https://www.silkies.com/SignupEmailo.asp" title="Join Our Email List - Click here"><img src="images/Common/Banner_20111221.jpg" border="0" width="968" height="43" /></a><img src="images/3pixSpacer.gif" border="0" width="1" height="43" /></td>
-  			</tr -->
-			<!-- tr>
-				<td>
-				<table width="970" border="0" cellspacing="0" cellpadding="0" background="images/NL201108/HorzBannerGrad.jpg">
-  					<tr>
-    					<td width="732" height="40" align="left">&nbsp;&nbsp;<a href="javascript:FSPopup()" class="BannerLUNLZ" title="Free Shipping on ALL orders. No Minimums. through 11/19/11 - Standard shipping rates">FREE SHIPPING on ALL orders. No Minimums.</a>&nbsp;<a href="javascript:FSPopup()" class="BannerMWZ" title="Free Shipping on ALL orders. No Minimums. through 11/19/11 - Standard shipping rates">Valid through 11/19/11.</a>&nbsp;<a href="javascript:FSPopup()" class="BannerSWZ" title="Free Shipping on ALL orders. No Minimums. through 11/19/11 - Standard shipping rates">Details</a></td>
-						<td width="4"><img src="images/3pixSpacer.gif" border="0" width="4" height="3" /></td>
-						<td width="190" height="40" align="right" valign="middle"><a href="https://www.silkies.com/SignupEmailo.asp" class="BannerMWN" title="Join Our Email List - Click here">JOIN OUR EMAIL LIST</a>&nbsp;&nbsp;</td>
-						<td width="44" height="40" align="left" valign="middle"><a href="https://www.silkies.com/SignupEmailo.asp" class="BannerMWN" title="Join Our Email List - Click here"><img src="images/NL201108/EmailEnvelope.gif" border="0" width="34" height="27" /></a></td>
-  					</tr>
-				</table></td>
-  			</tr -->
 
-<!-- enter CheckTime: StartTM=04/28/2014 11:59:00PM EndTM=05/05/2014 11:58:00PM -->
+<!-- enter CheckTime: StartTM=08/11/2014 11:59:00PM EndTM=08/27/2014 11:58:00PM -->
 
-<!-- enter CheckTime: StartTM=05/21/2014 11:59:00PM EndTM=05/27/2014 11:58:00PM -->
+<!-- enter CheckTime: StartTM=11/26/2014 11:59:00PM EndTM=11/28/2014 11:58:00PM -->
 
-<!-- enter CheckTime: StartTM=05/05/2014 11:59:00PM EndTM=05/12/2014 11:58:00PM -->
+<!-- enter CheckTime: StartTM=07/07/2014 11:59:00PM EndTM=08/11/2014 11:58:00PM -->
 
             <tbody><tr>
-    			<td width="970" height="34" align="center"><img border="0" src="../images/Common/Banner_970_20140507.jpg" width="970" height="34" usemap="#FPMap94"><map name="FPMap94">
-        <area href="javascript:FSPopup('1')" shape="rect" coords="2, 4, 434, 33" alt="Free Shipping on all orders of $40 or more - Standard shipping rates" title="Free Shipping on all orders of $40 or more - Standard shipping rates">
-		<area href="https://www.silkies.com/SignupEmailo.asp" shape="rect" coords="770, 4, 963, 33" alt="Join Our Email List - Click here" title="Join Our Email List - Click here"></map></td>
+    			<td width="970" height="34" align="center"><img border="0" src="../images/Common/Banner_970_20140828.jpg" width="970" height="34" usemap="#FPMap94"><map name="FPMap94">
+        <area href="javascript:FSPopup('1')" shape="rect" coords="2, 0, 398, 33" alt="Free Shipping on all orders of $40 or more - Standard shipping rates" title="Free Shipping on all orders of $40 or more - Standard shipping rates">
+		<area href="https://www.silkies.com/SignupEmailo.asp" shape="rect" coords="770, 0, 963, 33" alt="Join Our Email List - Click here" title="Join Our Email List - Click here"></map></td>
   			</tr>
         
 			</tbody></table>
@@ -544,42 +629,49 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 </tbody></table>
 <table width="970" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td width="200"></td>
-		<td width="770"></td>
+		<td width="190"></td>
+		<td width="780"></td>
 	</tr>
 	<tr>
-		<td align="left" valign="top" background="../images/NL201108/LeftNavGrad3.jpg">
+		<!-- td align="left" valign="top" background="../images/NL201108/LeftNavGrad3.jpg" -->
+        <td align="left" valign="top">
         
 <!-- enter CheckTime: StartTM=03/11/2013 11:59:00PM EndTM=06/10/2013 11:58:00PM -->
 
 		<script type="text/javascript" language="JavaScript1.2" src="http://www.silkies.com/new_xy/LeftNav.js"></script><br>
         
-		<center><table border="0" width="200" cellspacing="0" cellpadding="3">
-								<form method="POST" action="https://www.silkies.com/SignupEmailo.asp" name="EmailForm"></form>
+<!-- enter CheckTime: StartTM=05/19/2014 11:59:00PM EndTM=05/27/2014 11:58:00PM -->
+
+        <center><table border="0" width="190" cellspacing="0" cellpadding="3">
+								<form class="search_field" method="POST" action="https://www.silkies.com/SignupEmailo.asp" name="EmailForm"></form>
                                 
 <!-- enter CheckTime: StartTM=01/01/2014 11:59:00PM EndTM=04/08/2014 11:58:00PM -->
 
                                 <tbody><tr>
-                          			<td width="100%" align="left"><font class="textcopy_tiny"><font color="#EC008D">&nbsp;&nbsp;<b>Save $5 NOW!</b></font><br><font color="#4C4849">&nbsp;&nbsp;Sign up for Silkies emails and get<br>&nbsp;&nbsp;an instant coupon</font></font></td>
+                          			<td width="100%" align="left"><font class="textcopy_tiny"><font color="#EC008D">&nbsp;&nbsp;<b>Save 20% NOW!</b></font><br><font color="#4C4849">&nbsp;&nbsp;Sign up for Silkies emails and get<br>&nbsp;&nbsp;an instant coupon</font></font></td>
                         		</tr>
                                 
                         		<tr>
-                          			<td width="100%" valign="middle"><center><input type="text" style="HEIGHT: 16px; WIDTH: 150px; margin-top: 0px" name="EMAILADDR" size="24" maxlength="50" class="textcopy_tiny" value="Enter Email Address" onfocus="clearfield()"><input type="image" border="0" src="../images/NL201108/GO_Button4.jpg" align="absmiddle" name="go" width="30" height="21"></center></td>
+                          			<td width="100%" valign="middle" align="right"><div class="search_field"><center>&nbsp;<input type="text" style="HEIGHT: 18px; WIDTH: 144px; margin-top: 0px" name="EMAILADDR" size="24" maxlength="50" class="textcopy" value="Enter Email Address" onfocus="clearfield()"><button title="Join Email" type="submit"><img border="0" width="13" height="18" src="http://www.silkies.com/images/icons_xy/RightArrow.jpg" alt="Join Email"></button></center></div></td>
                         		</tr>
 								
 								<tr><td width="100%" align="left" valign="top" class="textcopy_microN">&nbsp;&nbsp;&nbsp;&nbsp;<a href="Privacy.asp" class="textcopy_microN" title="Click to view our Privacy Policy">Privacy Policy</a></td></tr>
-                      		</tbody></table></center><br><table width="200" border="0" cellspacing="0" cellpadding="0">
+                      		</tbody></table></center><br><table width="190" border="0" cellspacing="0" cellpadding="0">
+    
   <tbody><tr>
-     <td><center><!-- img src="images/3pixSpacer.gif" border="0" width="968" height="208" / --><map name="FPMap7">
-						<area href="https://www.silkies.com/SignupEmailo.asp" shape="rect" coords="17, 32, 159, 54" title="Join Our Email List - Click Here" alt="Join Our Email List - Click Here">
-                        <area href="javascript:PinterestPopup()" shape="rect" coords="17, 59, 159, 83" title="Pinterest - Click here" alt="Pinterest - Click here">
-                        <area href="javascript:FBookPopup()" shape="rect" coords="17, 88, 159, 111" title="Come join our friends on Facebook - Click here" alt="Come join our friends on Facebook - Click here">
-                        <area href="javascript:TWITPopup()" shape="rect" coords="17, 117, 159, 140" title="Tweets - Click here" alt="Tweets - Click here">
-                        <area href="javascript:BLOGPopup()" shape="rect" coords="17, 146, 159, 171" title="Our Blog - Click here" alt="Our Blog - Click here">
-						</map>
-						<img border="0" src="../images/Common/Connect_SB_20130325.gif" width="200" height="188" usemap="#FPMap7">
-                            </center></td>
-  </tr></tbody></table>
+     <td align="left"><table border="0" width="100%" cellpadding="0" cellspacing="4">
+                             <tbody><tr><td width="1" height="28"><img border="0" src="/images/3pixSpacer.gif" width="1" height="28"></td>
+                             <td colspan="6" class="textcopy9ND" width="170"><font color="#828387">Connect with Silkies</font></td></tr>
+                             <tr><td width="1" height="28"><img border="0" src="/images/3pixSpacer.gif" width="1" height="28"></td>
+                                 <td width="24" height="28"><a href="javascript:PinterestPopup()"><img border="0" src="/images/common/Social_P.jpg" width="24" height="28" alt="Pinterest" title="Pinterest" onmouseover="ChangeImage(this,'/images/common/Social_P2.jpg')" onmouseout="ChangeImage(this,'/images/common/Social_P.jpg')"></a></td>
+                                 <td width="21" height="28"><a href="javascript:FBookPopup()"><img border="0" src="/images/common/Social_F.jpg" width="21" height="28" alt="Facebook" title="Facebook" onmouseover="ChangeImage(this,'/images/common/Social_F2.jpg')" onmouseout="ChangeImage(this,'/images/common/Social_F.jpg')"></a></td>
+                                 <td width="36" height="28"><a href="javascript:TWITPopup()"><img border="0" src="/images/common/Social_T.jpg" width="36" height="28" alt="Twitter" title="Twitter" onmouseover="ChangeImage(this,'/images/common/Social_T2.jpg')" onmouseout="ChangeImage(this,'/images/common/Social_T.jpg')"></a></td>
+                                 <td width="30" height="28"><a href="javascript:BLOGPopup()"><img border="0" src="/images/common/Social_B.jpg" width="30" height="28" alt="Silkies Blog" title="Silkies Blog" onmouseover="ChangeImage(this,'/images/common/Social_B2.jpg')" onmouseout="ChangeImage(this,'/images/common/Social_B.jpg')"></a></td>
+                                 <td width="32" height="28"><a href="https://www.silkies.com/SignupEmailo.asp"><img border="0" src="/images/common/Social_E.jpg" width="32" height="28" alt="Join Our Email" title="Join Our Email" onmouseover="ChangeImage(this,'/images/common/Social_E2.jpg')" onmouseout="ChangeImage(this,'/images/common/Social_E.jpg')"></a></td>
+                                 <td width="23" height="28"><a href="javascript:INSTPopup()"><img border="0" src="/images/common/Social_I.jpg" width="23" height="28" alt="Instagram" title="Instagram" onmouseover="ChangeImage(this,'/images/common/Social_I2.jpg')" onmouseout="ChangeImage(this,'/images/common/Social_I.jpg')"></a></td>
+                                 <td width="1" height="28"><img border="0" src="/images/3pixSpacer.gif" width="1" height="28"></td>
+                             </tr></tbody></table>
+     </td></tr></tbody></table>
   <!-- tr>
      <td><a href="javascript:BLOGPopup()"><img src="../images/NL201108/LN_OUR_BLOG.jpg" border="0" width="199" height="49" /></a></td>
   </tr -->
@@ -589,26 +681,19 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
   </tr>
 </table -->
 <br></td><!-- this ends Col. 1 -->
-           
+         <!-- this is col 1.5 which is a new 10 pixel divider -->
+            <td align="left" valign="top" bgcolor="#FFFFFF"><img src="../images/common/VertSep_20140321.jpg" border="0" width="10"></td>          
 			<td align="left" valign="top" bgcolor="#FFFFFF"><!-- column 2 first has a category header image that is related to the CAT= field -->
 			
-<!-- server variables URL = /Privacy.asp -->
-
 <!-- Looking For E:\Inetpub\USSilkies\images\search\FPO_NoBanner_cat.jpg -->
 
 
 <div align="center">
   <center>
- <table border="0" width="98%">
-    <tbody><tr>
-		<td width="100%">
-			<table width="100%" border="0">
-  <tbody><tr>
-    <td width="32">&nbsp;</td>
-    <td width="100%"> 
-      <table border="0" cellspacing="1" cellpadding="0" width="100%" align="left" height="100%">
-        <tbody><tr valign="top"> 
-          <td align="left" height="1013" class="textcopy"> 
+  <table border="0" cellspacing="4" cellpadding="0" width="770" align="left" height="1013">
+  <tbody><tr valign="top">
+    <td width="4"><img border="0" src="images/3pixSpacer.gif" width="4" height="8"></td>
+    <td align="left" class="textcopy"> 
 										<p><b>Privacy 
               Policy Statement</b></p>
             							<p>Sculptz and our brands, which include 
@@ -636,7 +721,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 										use of the Sites. We are committed to 
 										protecting your privacy whenever you use 
 										the Sites. This privacy policy was last 
-										updated on October 1, 2012 and is effective 
+										updated on June 20, 2042 and is effective 
 										as of that date.</p>
 										<p><b>How do we protect your privacy?</b><br>
 										<br>
@@ -724,7 +809,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 										list, you may "<u>opt-out</u>" of 
 										receiving <b>email</b> from us by 
 										writing to us at Customer Service, P.O. 
-										Box 415, Montoursville, PA 17754-0415 
+										Box 402, Montoursville, PA 17754-0402 
 										... or calling us at 1-866-549-3051 or 
 										... emailing us at
 										<span>
@@ -754,8 +839,8 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 										address or telephone calls, you may "<u>opt-out</u>" 
 										of <b>postal mailings and telephone 
 										calls</b> by writing to us at Customer 
-										Service, P.O. Box 415, Montoursville, PA 
-										17754-0415 ... or calling us at 
+										Service, P.O. Box 402, Montoursville, PA 
+										17754-0402 ... or calling us at 
 										1-866-549-3051 or ... emailing us at
 										<span>
 										<a class="ProdLink" style="text-decoration: underline; text-underline: single" href="mailto:CustomerService@Sculptz.com">
@@ -776,15 +861,15 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 										information with third parties when you 
 										register on the Site or at any time by 
 										writing to us at Customer Service, P.O. 
-										Box 415, Montoursville, PA 17754-0415 
+										Box 402, Montoursville, PA 17754-0402 
 										... or calling us at 1-866-549-3051 or 
 										... emailing us at
 										<span>
 										<a class="ProdLink" style="text-decoration: underline; text-underline: single" href="mailto:CustomerService@Sculptz.com">
 										CustomerService@Sculptz.com</a></span>. You may 
 										change your mind at any time by writing 
-										to us at Customer Service, P.O. Box 415, 
-										Montoursville, PA 17754-0415 ... or 
+										to us at Customer Service, P.O. Box 402, 
+										Montoursville, PA 17754-0402 ... or 
 										calling us at 1-866-549-3051 or ... 
 										emailing us at
 										<span>
@@ -799,16 +884,16 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 										to you; you may <u>"opt-in"</u> to <b>
 										sharing your information with third 
 										parties</b> at any time by writing to us 
-										at Customer Service, P.O. Box 415, 
-										Montoursville, PA 17754-0415 ... or 
+										at Customer Service, P.O. Box 402, 
+										Montoursville, PA 17754-0402 ... or 
 										calling us at 1-866-549-3051 or ... 
 										emailing us at
 										<span>
 										<a class="ProdLink" style="text-decoration: underline; text-underline: single" href="mailto:CustomerService@Sculptz.com">
 										CustomerService@Sculptz.com</a></span>. You may 
 										change your mind at any time by writing 
-										to us at Customer Service, P.O. Box 415, 
-										Montoursville, PA 17754-0415 ... or 
+										to us at Customer Service, P.O. Box 402, 
+										Montoursville, PA 17754-0402 ... or 
 										calling us at 1-866-549-3051 or ... 
 										emailing us at
 										<span>
@@ -911,8 +996,8 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 										your information to provide you with the 
 										benefits described above, just let us 
 										know by writing to us at Customer 
-										Service, P.O. Box 415, Montoursville, PA 
-										17754-0415 ... or calling us at 
+										Service, P.O. Box 402, Montoursville, PA 
+										17754-0402 ... or calling us at 
 										1-866-549-3051 or ... emailing us at
 										<span>
 										<a class="ProdLink" style="text-decoration: underline; text-underline: single" href="mailto:CustomerService@Sculptz.com">
@@ -935,109 +1020,163 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 										<span>
 										<a class="ProdLink" target="CAForm" style="text-decoration: underline; text-underline: single" href="http://www.silkies.com/PrivacyFormCA.asp">
 										click here</a></span>.</p></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-		</td>
 	</tr>
-</tbody></table>     					
-                                         
-               
-                        
-    </center></div>
+</tbody></table> 
+    </center>         
+    </div>
                   
-                  </td>
-<!-- Start Right Side -->
- 
-<!-- ServerVariable(URL)=/Privacy.asp -->
-  
-         <!--        <td width="199" valign="top" align="center">
-                    <div align="center">
-                      <center>
-                     
-		       <table border="0" width="80%" cellspacing="0" cellpadding="0">
-                        <tr>
-                          <td width="100%" valign="middle" align="center"><br>
-                            <img border="0" src="images/HomeLegs.jpg"><br>
-                            <span class="textcopy_small">Step out with the newest fall fashions from Silkies
-                            <a href="Search.asp?SKW=FallSpecials" class="signin">click here to see what’s in.</a></span><br>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td width="100%" bgcolor="#C6D5DB"><img border="0" src="images/3pixSpacer.gif" width="3" height="1"></td>
-                        </tr>
-                        <tr>
-                          <td width="100%" valign="middle" align="center"><br>
-                            <img border="0" src="images/HomeCami.jpg"><br>
-                            <span class="textcopy_small">This form-fitting cami top is available at a special discount for members only.
-                            <a href="Join.asp" class="signin"> Find out more.</a></span></td>
-                        </tr>
-                      </table>
-
-                      </center>
-                      <img border="0" src="images/3pixSpacer.gif" width="15" height="12">
-                    </div>
-                  </td> -->
-
-<!-- End Right Side -->
+                  <!-- /td>
                 </tr>
-              </tbody></table>
-            
-          
-        <!-- img border="0" src="images/3pixSpacer.gif" width="15" height="19" -->
-    
-  <center><img border="0" src="images/3pixSpacer.gif" width="15" height="8"><br>
-  <span class="footer6">
+              </table>
+            </td>
+          </tr>
+        </table --></td>
+    </tr>
+  </tbody></table><center><img border="0" src="../images/common/HorzSep_20140325.jpg" width="970" height="8"><br><img border="0" src="/images/3pixSpacer.gif" width="50" height="10"><br>
+
   
+  <table border="0" width="970" cellpadding="0" cellspacing="2">
+    <tbody><tr>
+        <td class="textcopy8ND" width="40"><img border="0" src="/images/3pixSpacer.gif" width="40" height="4"></td>
+        <td class="textcopy8ND" width="140"><font color="#A1A3A2">CUSTOMER SERVICE</font></td>
+        <td width="10"><img border="0" src="/images/3pixSpacer.gif" width="1" height="4"></td>
+        <td width="130"><img border="0" src="/images/3pixSpacer.gif" width="5" height="4"></td>
+        <td width="40"><img border="0" src="/images/3pixSpacer.gif" width="3" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="ContactUs.asp" class="textcopy8ND"><font color="#A1A3A2">NEED HELP?</font></a></td>
+        <td width="40"><img border="0" src="/images/3pixSpacer.gif" width="5" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="AboutUs.asp" class="textcopy8ND"><font color="#A1A3A2">ABOUT US</font></a></td>
+        <td width="30"><img border="0" src="/images/3pixSpacer.gif" width="1" height="4"></td>
+        <td colspan="2" width="140" class="textcopy8ND"><font color="#A1A3A2">COMPANY INFORMATION</font></td>
+        <!-- td><img border="0" src="/images/3pixSpacer.gif" width="50" height="4" /></td -->
+        <!-- td><img border="0" src="/images/3pixSpacer.gif" width="90" height="4" /></td -->
+    </tr>
+    <tr>
+        <td class="textcopy8ND"><img border="0" src="/images/3pixSpacer.gif" width="40" height="12"></td>
+        <td class="textcopy8ND"><img border="0" src="/images/3pixSpacer.gif" width="50" height="12"></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="1" height="12"></td>
+        <td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="12"></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="3" height="12"></td>
+        <td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="12"></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="5" height="12"></td>
+        <td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="12"></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="18" height="12"></td>
+        <td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="12"></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="90" height="12"></td>
+    </tr>
+    <tr>
+        <td class="textcopy8ND"><img border="0" src="/images/3pixSpacer.gif" width="40" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="ContactUs.asp" class="textcopy8ND">Contact Us</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="1" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="AboutEasyReturns.asp" class="textcopy8ND">Easy Returns</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="3" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="ContactUs.asp" class="textcopy8ND">Contact Us</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="5" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="InTheNews.asp" class="textcopy8ND">In The News</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="18" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="AboutWholesalersRetailers.asp" class="textcopy8ND">Wholesalers &amp; Retailers</a></td>
+        <!-- td><img border="0" src="/images/3pixSpacer.gif" width="90" height="4" /></td -->
+        <td class="textcopy8ND" valign="top"><a href="Privacy.asp" class="textcopy8ND">Privacy Policy</a></td>
+    </tr>
+    <tr>
+        <td class="textcopy8ND"><img border="0" src="/images/3pixSpacer.gif" width="40" height="4"></td>
+        <td class="textcopy8ND"><a href="https://www.silkies.com/MMA_Signin.asp" class="textcopy8ND">Manage My Account</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="1" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="javascript:SHRPopup()" class="textcopy8ND">Shipping Rates</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="3" height="4"></td>
+        <td class="textcopy8ND" valign="top">877-343-3467</td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="5" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="SilkiesCustomerStories.asp" class="textcopy8ND">Customer Stories</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="1" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="javascript:AFFPopup()" class="textcopy8ND">Affiliate Program</a></td>
+        <!-- td class="textcopy8ND" valign="top"><a href="javascript:BLOGPopup()" class="textcopy8ND">Our Blog</a></td -->
+        <!-- td><img border="0" src="/images/3pixSpacer.gif" width="90" height="4" /></td -->
+        <td class="textcopy8ND" valign="top"><a href="Legal.asp?LGError=%20" class="textcopy8ND">Legal</a></td>
+    </tr>
+    <tr>
+        <td class="textcopy8ND"><img border="0" src="/images/3pixSpacer.gif" width="40" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="Join.asp" class="textcopy8ND">Join Silkies Hosiery</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="1" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="javascript:BongoPopup()" class="textcopy8ND">International Shipping</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="3" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="ContactUs.asp" class="textcopy8ND">Email Us</a></td>
+        <!-- td class="textcopy8ND" valign="top"><a href="Join.asp" class="textcopy8ND">Join Silkies Hosiery</a></td -->
+        <td><img border="0" src="/images/3pixSpacer.gif" width="5" height="4"></td>
+        <!-- td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="4" /></td -->
+        <td class="textcopy8ND" valign="top"><a href="AboutOurGuarantee.asp" class="textcopy8ND">Our Guarantee</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="1" height="4"></td>
+        <!-- td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="4" /></td -->
+        <td class="textcopy8ND" valign="top"><a href="http://style.silkies.com/" class="textcopy8ND">Popular Searches</a></td>
+        <!-- td><img border="0" src="/images/3pixSpacer.gif" width="90" height="4" /></td -->
+        <td class="textcopy8ND" valign="top"><a href="SiteMap.asp" class="textcopy8ND">Site Map</a></td>
+    </tr>
+    <tr>
+        <td class="textcopy8ND"><img border="0" src="/images/3pixSpacer.gif" width="40" height="4"></td>
+        <td class="textcopy8ND" valign="top"><a href="javascript:FitGuidePopup()" class="textcopy8ND">Perfect FIT Guide</a></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="1" height="4"></td>
+        <td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="4"></td>
+        <!-- td class="textcopy8ND" valign="top"><a href="SiteMap.asp" class="textcopy8ND">Site Map</a></td -->
+        <td><img border="0" src="/images/3pixSpacer.gif" width="3" height="4"></td>
+        <td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="4"></td>
+        <!-- td class="textcopy8ND" valign="top"><a href="Join.asp" class="textcopy8ND">Join Silkies Hosiery</a></td -->
+        <td><img border="0" src="/images/3pixSpacer.gif" width="5" height="4"></td>
+        <td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="4"></td>
+        <!-- td class="textcopy8ND" valign="top"><a href="javascript:AFFPopup()" class="textcopy8ND">Affiliate Program</a></td -->
+        <td><img border="0" src="/images/3pixSpacer.gif" width="1" height="4"></td>
+        <td class="textcopy8ND" valign="top"><img border="0" src="/images/3pixSpacer.gif" width="50" height="4"></td>
+        <td><img border="0" src="/images/3pixSpacer.gif" width="90" height="4"></td>
+    </tr>
+    
+  </tbody></table>
+  <span class="footer6">
+	<!-- a href="MMA_FAQS.asp" class="footer6">Frequently Asked Questions</a>&nbsp;&nbsp;*&nbsp;&nbsp;
+	<a href="MMA_PersInfo.asp" class="footer6">Update Your Contact Information</a>&nbsp;&nbsp;*&nbsp;&nbsp;
+	<a href="MMA_SpecialOrders.asp" class="footer6">Rush Service</a>&nbsp;&nbsp;*&nbsp;&nbsp;
+	<A href="mailto:sharemystory@silkies.com?subject=%20Why%20I%20love%20my%20Silkies!&body=I%20would%20like%20to%20share%20why%20I%20love%20my%20Silkies%20..." class="footer6">Tell us why you love Silkies</A>&nbsp;&nbsp;*&nbsp;&nbsp;
+	<a href="MMA_SpecialOrders.asp" class="footer6">Corporate Orders</a><br />
+
   <a href="AboutUs.asp" class="footer6">About Us</a>&nbsp;&nbsp;*&nbsp;&nbsp;
 	<a href="AboutOurGuarantee.asp" class="footer6">Our Guarantee</a>&nbsp;&nbsp;*&nbsp;&nbsp;
 	<a href="javascript:SHRPopup()" class="footer6">Shipping Rates</a>&nbsp;&nbsp;*&nbsp;&nbsp;
-	<a href="javascript:BongoPopup()" class="footer6">International Shipping</a>&nbsp;&nbsp;*&nbsp;&nbsp;
+	<a href="javascript:BongoPopup()" class="footer6">International</a>&nbsp;&nbsp;*&nbsp;&nbsp;
 	<a href="AboutEasyReturns.asp" class="footer6">Easy Returns</a>&nbsp;&nbsp;*&nbsp;&nbsp;
 	<a href="ContactUs.asp" class="footer6">Contact Us</a>&nbsp;&nbsp;*&nbsp;&nbsp;
-	<a href="MMA_Signin.asp" class="footer6">Manage My Account</a>&nbsp;&nbsp;<br>
-	<img src="images/3pixSpacer.gif" border="0" width="3" height="4"><br>
+	<a href="MMA_Signin.asp" class="footer6">Manage My Account</a>&nbsp;&nbsp;<br />
+	<img src="images/3pixSpacer.gif" border="0" width="3" height="4" /><br />
 	<a href="javascript:BLOGPopup()" class="footer6">Our Blog</a>&nbsp;&nbsp;*&nbsp;&nbsp;
 	<a href="InTheNews.asp" class="footer6">In The News</a>&nbsp;&nbsp;*&nbsp;&nbsp;
 	<a href="javascript:AFFPopup()" class="footer6">Affiliate Program</a>&nbsp;&nbsp;*&nbsp;&nbsp;
-    <a href="http://style.silkies.com" class="footer6">Popular Searches</a>&nbsp;&nbsp;*&nbsp;&nbsp;
 	<a href="SilkiesCustomerStories.asp" class="footer6">Customer Stories</a>&nbsp;&nbsp;*&nbsp;&nbsp;
-	<!-- a href="FitShop.asp" class="footer6" target="SizeChart">Perfect Fit Size Guide</a>&nbsp;&nbsp;*&nbsp;&nbsp; -->
-	<a href="Join.asp" class="footer6">Join Silkies Hosiery</a>&nbsp;&nbsp;<br><img src="images/3pixSpacer.gif" border="0" width="3" height="4"><br>
+	<a href="FitShop.asp" class="footer6" target="SizeChart">Perfect Fit Size Guide</a>&nbsp;&nbsp;*&nbsp;&nbsp;
+	<a href="Join.asp" class="footer6">Join Silkies Hosiery</a>&nbsp;&nbsp;<br /><img src="images/3pixSpacer.gif" border="0" width="3" height="4" /><br />
 &nbsp;<a href="Privacy.asp?LGError=%20" class="footer6">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="Legal.asp?LGError=%20" class="footer6">Legal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="SiteMap.asp" class="footer6">Site Map</a><br><br>©2014 Sculptz, Inc.<br><br>
+  <a href="Legal.asp?LGError=%20" class="footer6">Legal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="SiteMap.asp" class="footer6">Site Map</a --><br>©2014 Sculptz, Inc.<br><br>
 </span></center>
+
 
 <!-- URL= /Privacy.asp -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-12323000-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+    try {
+        var pageTracker = _gat._getTracker("UA-12323000-1");
+        pageTracker._trackPageview();
+    } catch (err) { }</script>
 <!-- ConvergeTrack Landing Pixel Code (gjs 2012-05-14) -->
 
 <script type="text/javascript" src="http://hits.convergetrack.com/Includes/CT.js"></script>
 
 <script type="text/javascript">
-var  EventId = 1222;
-var  CookieDomain =".silkies.com";
-CT_EventTracking();
+    var EventId = 1222;
+    var CookieDomain = ".silkies.com";
+    CT_EventTracking();
 </script>		
 <noscript><img src="//hits.convergetrack.com/default.aspx?ckid= 1222" width="1" height="1" alt=""/></noscript>
 <!-- End of  ConvergeTrack Landing Pixel Code -->
 
-<!-- Fetchback -->
-<iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=4673" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
- <!-- end Fetchback -->
- 
 <!-- LiveChat code included -->
-<!-- enter CheckTime: StartTM=05/21/2014 09:00:00AM EndTM=05/21/2020 11:59:00PM -->
+<!-- enter CheckTime: StartTM=05/22/2014 09:00:00AM EndTM=05/22/2020 11:59:00PM -->
 
 <script type="text/javascript">
     var __lc = {};
@@ -1050,26 +1189,6 @@ CT_EventTracking();
     })();
 </script>
 
- <!-- AdRoll Smart Pixel installed on 2014-05-20 per Julian Barkat -->
- <script type="text/javascript">
-     adroll_adv_id = "4DUGM35YSFFFNORAIMXHHW";
-     adroll_pix_id = "FV3SUOOZTJHBFILQYXUOEC";
-     (function () {
-         var oldonload = window.onload;
-         window.onload = function () {
-             __adroll_loaded = true;
-             var scr = document.createElement("script");
-             var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-             scr.setAttribute('async', 'true');
-             scr.type = "text/javascript";
-             scr.src = host + "/j/roundtrip.js";
-             ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-             if (oldonload) { oldonload() } 
-         };
-     } ());
-</script>
- <!-- end of AdRoll Smart Pixel code -->
 
 
 
