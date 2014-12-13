@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trails-end.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617113646id_/http%3A//www.trails-end.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails-end.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213104258id_/http%3A//www.trails-end.com/info/privacy) for the most accurate reproduction.*
 
 # Trail's End Popcorn: Help > Privacy, Security & Accessibility
 
