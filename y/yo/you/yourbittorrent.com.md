@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627200451id_/http%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213014321id_/http%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
 
 # YourBittorrent - Privacy Policy
 
@@ -9,9 +9,9 @@
 
 #### Torrent News
 
- **Comcast Must Share Six-Strikes Warnings with Copyright Troll, Court Rules**
+ **Leak Exposes Hollywood’s Global Anti-Piracy Strategy**
 
-The U.S. Copyright Alert System is hailed as an educational program that respects the privacy of Internet subscribers, but unwittingly it's now at the center of a copyright lawsuit. A federal court in Indiana has ordered Comcast to hand over all DMCA notices and six-strikes alerts received by an alleged BitTorrent pirate.   
+Leaked documents reveal in detail how Hollywood plans to take on piracy in the years to come. One of the top priorities for the MPAA are cyberlockers and illegal streaming sites, with lawsuits planned in the UK, Germany and Canada. Torrent sites are a medium priority, which the MPAA hopes to fight with criminal prosecutions, domain seizures and site blocking.  
 [More torrent news...](http://yourbittorrent.com/news.html)
 
 #### Friends
