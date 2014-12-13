@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedandspark.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608120939id_/http%3A//www.seedandspark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedandspark.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213021217id_/http%3A//www.seedandspark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Seed&Spark
 
