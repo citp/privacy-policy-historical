@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtradefx.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603161712id_/http%3A//www.youtradefx.com/en/forex-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtradefx.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213010756id_/http%3A//youtradefx.com/en/forex-privacy-policy) for the most accurate reproduction.*
 
 # Forex Privacy Policy
 
@@ -121,3 +121,5 @@ We cannot guarantee or accept responsibility for the privacy practices or the co
 ## Other important information
 
 We may amend our Privacy Policy from time to time. We will notify you of any changes to our Privacy Policy that requires your consent before implementation. If you have a complaint or want more information about how youtradeFX is managing your personal information, please contact us. 
+
+© 2013 Wallan Limited All Rights Reserved
