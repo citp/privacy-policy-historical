@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124075922id_/http%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213113437id_/http%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ItaliaRail - Italy Train Ticket and Rail Pass Experts
 
-At ItaliaRail.com, we are committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by . The purpose of this policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
+At ItaliaRail.com, we are committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by ItaliaRail.com . The purpose of this policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
+
+ItaliaRail.com complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor  
+Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. ItaliaRail.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ItaliaRail.com’s certification, please visit <http://www.export.gov/safeharbor/> .
+
+  
+
 
 ### I. Information We Collect
+
+  
+
 
 #### Personal Information
 
@@ -15,7 +24,10 @@ At various locations on our websites, such as in our order forms (and potentiall
 
 #### Non-Personal Information
 
-When you use our websites, we may also collect “non-personal information,” which is information that, by itself, cannot be used to identify or contact you, such as demographic information (your age, gender, income, education, profession, zip code, etc.). Non-personal information may also include technical information, such as your IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. Non-personal information may also include information that you provide us through your use of our website
+When you use our websites, we may also collect “non-personal information,” which is information  
+that, by itself, cannot be used to identify or contact you, such as demographic information (your age,  
+gender, income, education, profession, zip code, etc.). Non-personal information may also include   
+technical information, such as your IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. Non-personal information may also include information that you provide us through your use of our website
 
   
 
@@ -45,7 +57,12 @@ You do have control over cookies. Most browsers can be set to notify you when a 
 
 #### Our Services and Websites
 
-We use your personal information to provide you any services that you may request or require, to communicate with you, to allow you to make purchases. We use aggregated non-personal information about our users to understand our website’s demographics, such as the geographic distribution of our users, the age ranges of our users, or a combination of these or other demographics. We use the non-personal information we collect to analyze how our websites are being used, and to improve the content of our websites, online product offerings, and promotional efforts. 
+We use your personal information to provide you any services that you may request or require, to  
+communicate with you, to allow you to make purchases. We use aggregated non-personal information  
+about our users to understand our website’s demographics, such as the geographic distribution of our   
+users, the age ranges of our users, or a combination of these or other demographics. We use the non-  
+personal information we collect to analyze how our websites are being used, and to improve the content   
+of our websites, online product offerings, and promotional efforts. 
 
   
 
@@ -59,21 +76,30 @@ If you send us an email with questions or comments, we may use your personal inf
 
 #### Online Service
 
-If you make a purchase through our online ordering service, we may use the information you provide to send you important announcements and updates regarding our website or online service. In those instances, we will provide you with the option to change your preferences and opt-out of receiving those communications. When you provide us with your personal information to make a purchase through our online ordering, we only use this information to process your online order and credit card number. We also use your address and billing information to bill you and provide associated support.
+If you make a purchase through our online ordering service, we may use the information you provide   
+to send you important announcements and updates regarding our website or online service. In those   
+instances, we will provide you with the option to change your preferences and opt-out of receiving those   
+communications. When you provide us with your personal information to make a purchase through our   
+online ordering, we only use this information to process your online order and credit card number. We   
+also use your address and billing information to bill you and provide associated support.
 
   
 
 
 ### III. Disclosure of Information to Third Parties
 
-Except as specifically set forth in this Policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties. This aggregate information does not include your personal information. Our websites may contain links to other websites. We have no control over the privacy practices or the content of any of our business partners, sponsors or other websites to which we provide links from our websites. You should check the applicable privacy policy of the third-party website when linking to other websites.
+Except as specifically set forth in this Policy, we do not share your personal information with any   
+non-affiliated third party without your permission. We may disclose aggregate information, such as  
+demographic information, and our statistical analyses to third parties. This aggregate information does not include your personal information. Our websites may contain links to other websites. We have no control over the privacy practices or the content of any of our business partners, sponsors or other websites to which we provide links from our websites. You should check the applicable privacy policy of the third-party website when linking to other websites.
 
   
 
 
 #### Service Providers
 
-We sometimes engage unaffiliated businesses to assist us in providing you certain services. For example, we may hire a shipping company to help us deliver our products or services to you. We may also use third parties to process online transactions and credit card payments In those instances, we may need to share your personal information with them. We require these companies to use your personal information only to provide the particular product or service and do not authorize them to use your personal information for any other reason.
+We sometimes engage unaffiliated businesses to assist us in providing you certain services. For  
+example, we may hire a shipping company to help us deliver our products or services to you. We may   
+also use third parties to process online transactions and credit card payments In those instances, we may need to share your personal information with them. We require these companies to use your personal information only to provide the particular product or service and do not authorize them to use your personal information for any other reason.
 
   
 
@@ -87,9 +113,14 @@ We may disclose personal information when we are required or requested to do so 
 
 ### IV. Security of Information
 
-The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, “perfect security” does not exist on the Internet, and there is always some risk in transmitting information electronically. This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
+The security of your personal information is important to us. We maintain physical, electronic, and  
+procedural safeguards to secure your personal information. However, “perfect security” does not exist   
+on the Internet, and there is always some risk in transmitting information electronically. This website   
+takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry, SSL (Secure Sockets Layer). The site employs SSL via a digital certificate issued by Thawte.
+When our registration/order form asks users to enter sensitive information (such as credit card   
+number), that information is encrypted and is protected with the best encryption software in the   
+industry, SSL (Secure Sockets Layer). The site employs SSL via a digital certificate issued by Thawte.
 
 If you have any questions about the security at our website, you can send an email to [service@italiarail.com](mailto:service@italiarail.com).
 
@@ -102,7 +133,12 @@ Any questions you may have regarding our Privacy Policy, the accuracy of your pe
 
 After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use.
 
-This Policy is effective as of May 1, 2010. We reserve the right to change this policy at any time, and will post any changes to this Policy as soon as they go into effect. Please refer back to this Policy on a regular basis. 
+We encourage you to contact us at [service@italiarail.com](mailto:service@italiarail.com) to resolve any issues or complaints. We  
+would also like to notify you that you have the option of independent recourse should you choose.
+
+ItaliaRail.com is committed to cooperating with European Union Data Protection Authorities (DPAs) in the investigation and resolution of complaints brought under the Safe Harbor; and will comply with any advice given by the DPAs where the DPAs take the view that the organization needs to take specific action to comply with the Safe Harbor Principles, including remedial or compensatory measures for the benefit of individuals affected by any non-compliance with the Principles, and will provide the DPAs with written confirmation that such action has been taken.
+
+This Policy is effective as of May 1, 2013. We reserve the right to change this policy at any time, and will post any changes to this Policy as soon as they go into effect. Please refer back to this Policy on a regular basis. 
 
   
 
@@ -125,7 +161,7 @@ The information requested will be kept as long as necessary, in order to pursuit
 
 All of the customers’ data will not be disclosed to third parties and they will not be disclosed outside Trenitalia, except for all the cases provided by law.
 
-“Compagnia Internazionale delle Carrozze Letto e del Turismo S.A” and “Società Wasteels International Italia Srl” will be informed as companies in charge of the night services on the train and , consequently, of all customers’ data collection.
+“Compagnia Internazionale delle Carrozze Letto e del Turismo S.A” and “Società Wasteels International Italia Srl” will be informed as companies in charge of the night services on the train and, consequently, of all customers’ data collection.
 
 The list of all the persons in charge of customers’ data can be examined in Rome, at Trenitalia Divisione Passeggeri N/I building, at p.zza della Croce Rossa 1.
 
