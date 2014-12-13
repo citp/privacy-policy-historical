@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondealsdaily.com privacy policy that was archived on 2014-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140101204033id_/http%3A//www.coupondealsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondealsdaily.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213031738id_/http%3A//www.coupondealsdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupon Deals Daily
 
@@ -26,7 +26,7 @@ We may use cookies on our site in order to improve your browsing experience by p
 
 To access some areas of this website you must first register; such registration will require you to provide personally identifying information. Whether or not you choose to provide the information we request is entirely up to you. If you choose not to provide the information which we request, you may be unable to access certain areas of this website or obtain the coupons offered by our site.
 
-If you choose to provide information to us through our online registration, you may be asked to provide your personal information that may include your name, address, telephone number, e-mail address, and other identifying information. We may share the personal information which you provide with our third party processing agents, affiliates and advertisers. 
+If you choose to provide information to us through our online registration, you may be asked to provide your personal information that may include your name, address, telephone number, e-mail address, and other identifying information. We may share the personal information which you provide with our third party processing agents, affiliates and advertisers.
 
 We may collect, use and share your personally identifiable information for any lawful purpose.
 
