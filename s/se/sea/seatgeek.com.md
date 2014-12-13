@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatgeek.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110246id_/http%3A//seatgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatgeek.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213125853id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SeatGeek
 
@@ -42,7 +42,7 @@ Many of the operations we perform require us to hire other companies to help us 
 
 ### External Service Providers
 
-When you use SeatGeek to take advantage of any of our products and services, we may provide Personal Data to the airline, travel agency or other involved third-party.
+When you use SeatGeek to take advantage of any of our products and services, we may provide Personal Data to the ticket seller or other involved third-party.
 
 ### Email
 
