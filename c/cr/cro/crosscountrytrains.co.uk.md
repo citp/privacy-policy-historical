@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629223846id_/http%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213082353id_/http%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CrossCountry
-
-We use cookies to give you the best experience of our website. By using the website you agree to the use of these cookies. You can find out more or [change the use of cookies here](https://web.archive.org/cookie-policy). 
 
 ## At CrossCountry, we're committed to protecting and respecting your privacy.
 
