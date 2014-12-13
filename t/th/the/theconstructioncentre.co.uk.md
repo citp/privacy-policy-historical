@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconstructioncentre.co.uk privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614011057id_/http%3A//www.theconstructioncentre.co.uk/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconstructioncentre.co.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213050719id_/http%3A//www.theconstructioncentre.co.uk/information/privacy.html) for the most accurate reproduction.*
 
 # The Construction Centre - Privacy
 
@@ -32,7 +32,7 @@ theconstructioncentre.co.uk processes personal information collected via this we
 
 
 
-If you do not wish to receive information about theconstructioncentre.co.uk products and services please send an email to [info@theconstructioncentre.co.uk](mailto:info@theconstructioncentre.co.uk), or call 01926 863004, fax to 01926 863005 or write to us at The Construction Centre, 1 Alpha House, Farmer Ward Road, Kenilworth, CV8 2ED
+If you do not wish to receive information about theconstructioncentre.co.uk products and services please send an email to [info@theconstructioncentre.co.uk](mailto:info@theconstructioncentre.co.uk), or call 01926 865825, fax to 01926 858050 or write to us at The Construction Centre, 2 Alpha House, Farmer Ward Road, Kenilworth, CV8 2ED
 
 ### Automated information collection
 
@@ -40,7 +40,7 @@ We have a policy of continual improvement of our site. We therefore collect info
 
 ### Use of cookies
 
-Our cookie policy can be found [here](https://web.archive.org/web/20140614011057id_/http%3A//www.theconstructioncentre.co.uk/information/cookies.html)
+Our cookie policy can be found [here](https://web.archive.org/web/20141213050719id_/http%3A//www.theconstructioncentre.co.uk/information/cookies.html)
 
 With regards to Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) (used to serve ads on this site):
 
