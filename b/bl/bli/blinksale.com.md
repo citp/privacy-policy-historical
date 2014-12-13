@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727034553id_/http%3A//www.blinksale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213011715id_/https%3A//www.blinksale.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Blinksale | The easiest way to send invoices online
+# Privacy Policy | Blinksale | Online Invoicing Software & Application
 
 Doublewide Partners I, LLC (“Doublewide”) is committed to protecting the privacy of those who visit the Blinksale.com website and use the Blinksale Service (“Service”). Amendments to this statement will be posted to this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification, or change shall constitute your acceptance of the amendment. We will notify the primary Blinksale Service account holder by email when significant changes are made to the privacy policy.
 
