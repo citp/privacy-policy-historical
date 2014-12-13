@@ -1,17 +1,37 @@
-> *The following text is extracted and transformed from the wikibookia.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220220054id_/http%3A//wikibookia.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikibookia.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213114717id_/http%3A//www.wikibookia.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | WikiBookia
 
-**Privacy policy**
+  
 
-WikiBookia has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for: WikiBookia.com.
 
-Whenever a user views a page located on WikiBookia, the Apache Web server automatically logs certain information about the visitor. This information includes the user's IP address, browser, and where the user came from. This is standard information collected by most Web servers.
+##  **Privacy Policy for www.WikiBookia.Com**  
 
-When a user joins WikiBookia as a member, certain information is asked for. This information includes the user's name, email address. When the sign up process has completed, our script automatically logs the IP address into the user's profile as well. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **wikibookia@gmail.com**. 
 
-Please keep in mind that any information that is disclosed on guest books stored by WikiBookia becomes public information. You should exercise caution when deciding to disclose your personal information. When posting a message to a guest book hosted by WikiBookia, your IP address is automatically logged with your post. The administrator of the guest book you are posting on can view the IP addresses on every post. 
+At **www.WikiBookia.Com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.WikiBookia.Com and how it is used. 
 
-Without consent, your personal information (email, address, etc.) will not be sold traded or utilize by any third party. 
+###  **Log Files**
 
-25.July.2008 WikiBookia.com
+Like many other Web sites, www.WikiBookia.Com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+
+###  **Cookies and Web Beacons**  
+
+www.WikiBookia.Com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+
+###  **DoubleClick DART Cookie**  
+
+.:: Google, as a third party vendor, uses cookies to serve ads on www.WikiBookia.Com.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.WikiBookia.Com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.WikiBookia.Com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+www.WikiBookia.Com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.WikiBookia.Com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
