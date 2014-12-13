@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zomex.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628121632id_/http%3A//www.zomex.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zomex.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213224214id_/http%3A//www.zomex.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Zomex Privacy Policy ~ Details About The Steps We Take To Protect Our Clients/Visitors Personal Information
 
