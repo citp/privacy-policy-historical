@@ -1,94 +1,99 @@
-> *The following text is extracted and transformed from the gamesdeal.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027225156id_/http%3A//www.gamesdeal.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesdeal.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213231900id_/http%3A//www.gamesdeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
+It should be noted that in the context of the business necessary data through a computer system are processed and stored. These inventory data are used only for settlement of the contract between the Glory Profit International Limited and the customer.
 
-This privacy policy sets out how GamesDeal uses and protects any information that you give GamesDeal when you use this website. GamesDeal is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. GamesDeal may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+All customer data is stored in compliance with the applicable laws of the Glory Profit International Limited, processed and removed in accordance with statutory deadlines. The customer has a right to free information, correction, blocking and deletion of stored data.
 
-## What we collect
+Information Collection and Use
 
-We may collect the following information:
+Personal Information
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+"Personal Information" means information that can identify you as a specific individual, such as your name, address, phone number, e-mail address, or other contact information, whether at work or at home.
 
+On all Company web sites that collect Personal Information, we specifically describe what information is required in order to provide you with the product, service, or feature you have requested.
 
+We collect Personal Information when you contact us, when you register with us, when you use our products and services, when you submit an order with us, when you visit our web sites or the web sites of certain of the Company's partners, and when you enter promotions and sweepstakes.
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section. 
+Registration
 
-## What we do with the information we gather
+You should complete the on-line registration form which requires you to create a username and password When you register with us on this site. During registration, you are also required to provide Personal Information, which may include name, billing address, shipping address, telephone number, e-mail address, credit card number, and credit card expiration date. We use this information so that we may contact you about the services and products on the site(s) in which you have expressed interest or requested and to facilitate the completion of an order.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+Other Information Collected
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+Some information such as the Cookies and computer information would be collected automatically every time you visit the Company’s web sites. In addition, information may be collected from other independent, third-party sources. We also collect information about which pages you visit within this site. This site visitation data is identified only by a unique URL.
 
+Cookies
 
+The Company uses both session ID cookies and persistent cookies as part of its interaction with your browser. A cookie is an alphanumeric identifier (a file) that the Company's web sites transfer to your computer's hard drive through a web browser to enable its systems to recognize your browser for record-keeping purposes. A session ID cookie expires when you close your browser, while a persistent cookie remains on your hard drive for an extended period of time.
 
-## Security
+We use session ID cookies to make it easier for you to navigate our web sites. We use persistent cookies to identify and track which sections of its web site you most often visit. We also use persistent cookies in areas of its web site where you must register, and where you are able to customize the information you see, so that you don't have to enter your preferences more than once.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+By configuring the options in your browser, you may control how cookies are processed by your system. However, if you decline the use of cookies you may not be able to use certain features on this site and you may be required to reenter the information required to complete an order during new or interrupted browser sessions.
 
-## How we use cookies
+Some of the Company's business partners (e.g., advertisers) use cookies on the site. We have no access to or control over these cookies (see "Third Party Advertising" and "Third Party Cookies" below). Accordingly, this Privacy Policy covers the use of cookies by the Company only and does not cover the use of cookies by any advertisers.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+Log Files
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+As is true of most web sites, the Company gathers certain information automatically and stores it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet services provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. The Company uses this information to analyze trends, to screen for fraud, to administer the Company's sites, to track users' movements around the web sites and to gather demographic information about the Company's user base as a whole.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+Use of Information
 
-## Links to other websites
+Verification, Billing, and Order Status
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+The Company collects Personal Information to verify the accuracy of your name, billing address, shipping address, credit card number, and credit card expiration date provided, to screen for fraud, to bill you for products and services purchased and to pay you for products and services sold. The Company uses your e-mail address(es) to contact you regarding the status of your order when necessary and to send you a Receipt Purchase/Sale Confirmation and Order Shipping Notification.
 
-## Controlling your personal information
+Service-related Announcements
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+The company may, but is not obligated to, send you strictly service-related announcements on rare occasions when it is necessary to do so. For example, if our service is temporarily suspended for maintenance, we might send you an email.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at service@gamesdeal.com 
+Generally, you may not opt-out of these communications since they are not promotional in nature. If you do not wish to receive them, you may have the option to deactivate your account.
 
+Research
 
+We also collect information for research purposes and to provide anonymous reporting for internal and external clients. The Company uses the information collected for its own internal marketing and demographic studies to improve customer service and product offerings.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+Customer Service
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to . 
+According to your inquiries, we will communicate with you to provide the products and services you request. We will communicate with you by e-mail, live chat or telephone, in accordance with your wishes.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+Preferences
 
-## List of cookies we collect
+The Company stores information that it collects through cookies, log files, and third party sources to create a profile of your preferences, in order to improve the content of the Company's web site for you.
 
-The table below lists the cookies we collect and what information they store.
+Information Sharing and Disclosure
 
-COOKIE name | COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.   
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+The Company does not sell or rent any of the information collected to third parties for any purposes, but it shares information with third parties as described below.
+
+Service Providers
+
+The Company discloses the information collected to external service providers necessary to facilitate the following outsourced operations: address verification, credit card processing, fraud screening and order shipping.
+
+Compliance with Legal Authorities
+
+As required by law, and to enforce customers or the Company's legal rights, and to comply with local, state, federal and international law, the Company may disclose information to law enforcement agencies.
+
+Storage and Security of Personal Information Storage
+
+The Company stores the information it collects on computers located in a controlled, secure facility protected from physical or electronic unauthorized access, use, or disclosure.
+
+Security
+
+The privacy and integrity of the information it collects by employing good administrative protocols, technical safeguards, and physical security controls would be protected. By doing this, they would be able to limit access, detect and prevent the unauthorized access, improper disclosure, alteration, or destruction of the information under its control. The Company transmits the information used by its external service providers for the specific outsourced operations listed above across public and private networks via recognized encryption technologies, such as by using Secure Sockets Layer (SSL) software, which encrypts the information you input.
+
+Although the Company follows the procedures set forth above to protect the Personal Information submitted to the Company, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Thus, while the Company strives to use commercially acceptable means to protect your Personal Information, the Company cannot guarantee its absolute security.
+
+If you have any questions about the Company's security on its web sites, please feel free to send us an e-mail at service@gamesdeal.com
+
+International Transfer
+
+Personal Information collected by the Company may be stored and processed in the United States or any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Company's web sites, you consent to any such transfer of Personal Information outside of your country.
+
+Children
+
+The Company's sites are not intended for or directed to persons under the age of 13. The Company does not buy or sell products or services from or to children. Any person who provides their information to the Company through the Company's web sites represents to the Company that they are 13 years of age or older.
+
+OPT OUT/CORRECTIONS
+
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to gamesdeal.com’s Customer Support department at service@gamesdeal.com please do not email your credit card number or other sensitive information.
