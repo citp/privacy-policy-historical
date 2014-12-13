@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the pcnation.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116232227id_/http%3A//www.pcnation.com/web/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcnation.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213062719id_/http%3A//www.pcnation.com/web/security.asp) for the most accurate reproduction.*
 
 # Security & Privacy Policy - Buy with confidence | PCNation.com
 
+  
+  
+  
 ---  
   
 |    |  |   
@@ -27,4 +30,4 @@ PCNation wants to make your on-line shopping easy, secure and worry-free. To saf
 |   
 ---|---|---  
   
-Copyright © 1996-2012 PCNation. All rights reserved. 
+Copyright © 1996-2014 PCNation. All rights reserved.13
