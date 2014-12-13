@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506122515id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213024342id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
 
 # YOUR PRIVACY & SECURITY
-
-#### YOUR PRIVACY & SECURITY
 
 As your privacy is important to us, Logitech has prepared this Statement of Privacy and Security (“Statement”) so that you may better understand how Logitech uses and protects the personal information collected on its website [www.logitech.com](http://www.logitech.com/) (“Site”). Please take the time to review this page and contact us at [privacy@logitech.com](mailto:privacy@logitech.com) with any questions or concerns.
 
@@ -12,7 +10,8 @@ COLLECTION OF INFORMATION
 HOW WE USE YOUR INFORMATION   
 CONTROL & REVIEW OF YOUR PERSONAL INFORMATION  
 PROTECTION OF INFORMATION  
-CHANGES TO THIS STATEMENT
+CHANGES TO THIS STATEMENT  
+COOKIES
 
   
 
@@ -123,3 +122,7 @@ Thank you for your interest in Logitech and our products.
 Revised October 15, 2013
 
 [](https://web.archive.org/en-us/promotions/cookie-compliance)
+
+#### Cookies
+
+Our site uses "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. Click [here](https://web.archive.org/en-us/promotions/cookie-compliance) to learn more.
