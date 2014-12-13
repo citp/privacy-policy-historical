@@ -1,14 +1,20 @@
-<!--The following is the downloaded HTML source of the stitchfix.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331020148id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stitchfix.com privacy policy that was archived on 2014-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141213212749id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" role="application" class=""><!--<![endif]--><head>
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"214f226ecc","applicationID":"1200057","transactionName":"JVZcQUUJW19QERxDFgdNW1YYFkVaQwJQSQ==","queueTime":8,"applicationTime":20,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-361.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUGV1ZWGwICVFFSAgY="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
 	<meta charset="utf-8">
   <title>Stitch Fix | Privacy Policy | We Ship Boxes of Handpicked Women's Clothes</title>
+  
+      <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/174876886.js"></script>
+
+  <link href="https://d27bvhtwhzf6pr.cloudfront.net/assets/application-3b400ffa7abbf799c12e54ccd1ca9d0c.css" media="screen" rel="stylesheet">
+  
 	<meta name="description" content="Get your own personal stylist. Hand-selected women’s fashion shipped free, straight to your door. Try on at home risk-free.">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="p:domain_verify" content="84ed168f187185cf33f4bfd2cc56018d">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"214f226ecc","applicationID":"1200057","transactionName":"JVZcQUUJW19QERxDFgdNW1YYFkVaQwJQSQ==","queueTime":9,"applicationTime":22,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUGV1ZWGwICVFFSAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+  <meta name="p:domain_verify" content="84ed168f187185cf33f4bfd2cc56018d">
   <meta property="og:title" content="Stitch Fix | Privacy Policy | We Ship Boxes of Handpicked Women's Clothes">
   <meta property="og:url" content="https://www.stitchfix.com">
   <meta property="og:type" content="website">
@@ -21,47 +27,35 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@stitchfix">
 
+  <meta name="msapplication-config" content="none">
+
   <link rel="shortcut icon" href="https://d27bvhtwhzf6pr.cloudfront.net/assets/favicon.ico">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <link rel="apple-touch-icon" href="https://d27bvhtwhzf6pr.cloudfront.net/assets/touch-icon-iphone-precomposed.png">
   <link rel="apple-touch-icon" sizes="72x72" href="https://d27bvhtwhzf6pr.cloudfront.net/assets/touch-icon-ipad-precomposed.png">
   <link rel="apple-touch-icon" sizes="114x114" href="https://d27bvhtwhzf6pr.cloudfront.net/assets/touch-icon-iphone-retina-precomposed.png">
   <link rel="apple-touch-icon" sizes="144x144" href="https://d27bvhtwhzf6pr.cloudfront.net/assets/touch-icon-ipad-retina-precomposed.png">
   
   
-      <link href="https://d27bvhtwhzf6pr.cloudfront.net/assets/application_legacy-53da2a128c476fa181f41b60ab23a9f4.css" media="screen" rel="stylesheet" type="text/css">
   
-  <script type="text/javascript">
-  var MTUserId='d23c024c-17a4-4b31-b041-e22fc5944d39';
-  var MTFontIds = new Array();
-
-  MTFontIds.push("721226"); // Avenir® WFS W01 45 Book
-  MTFontIds.push("721229"); // Avenir® WFS W01 45 Book Oblique
-  MTFontIds.push("721238"); // Avenir® WFS W01 65 Medium
-  MTFontIds.push("721244"); // Avenir® WFS W01 85 Heavy 
-  MTFontIds.push("788315"); // Serifa Light 
-  MTFontIds.push("788321"); // Serifa Roman
-  (function() {
-    var mtTracking = document.createElement('script');
-    mtTracking.type='text/javascript';
-    mtTracking.async='true';
-    mtTracking.src=('https:'==document.location.protocol?'https:':'http:')+'//fast.fonts.net/lt/trackingCode.js';
-
-    (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(mtTracking);
-  })();
-</script><script type="text/javascript" async="" src="https://fast.fonts.net/lt/trackingCode.js"></script>
-
   <!--[if lt IE 9]>
-    <script src="https://d27bvhtwhzf6pr.cloudfront.net/assets/html5shiv-4a1a2a81873945fa6aeccea2355dc78d.js" type="text/javascript"></script>
-    <link href="https://d27bvhtwhzf6pr.cloudfront.net/assets/ie-f515162fb468346d2f9d296cf81a54b8.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="https://d27bvhtwhzf6pr.cloudfront.net/assets/html5shiv-3a5865a80de1244e33e51e59ff9aa3b3.js"></script>
+    <link href="https://d27bvhtwhzf6pr.cloudfront.net/stylesheets/ie.css" media="screen" rel="stylesheet" />
   <![endif]-->
   <meta content="authenticity_token" name="csrf-param">
-<meta content="U8Jj90s3WhrYQx5asfX9qifqu0Sh4JebQ24wkjKIjFM=" name="csrf-token">
-  <script src="//cdn.optimizely.com/js/174876886.js"></script>
+<meta content="cbU2rEEP6peM2NpE3BDrAdt4sd6XhG2UILRZyB9uAXk=" name="csrf-token">
+
+
+  <script type="text/javascript">
+      window.pathName = window.location.pathname
+  </script>
+
   <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-25598599-1']);
     _gaq.push(['_setDomainName', 'stitchfix.com']);
-    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageview', window.pathName]);
 
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -78,20 +72,25 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','gaCombo');
 
     gaCombo('create', 'UA-25598599-7', 'stitchfix.com');
+    gaCombo('set', { 'page': window.pathName });
     gaCombo('send', 'pageview');
   </script>
 
 </head>
 
-  <body id="page">
+  <body class="layout-wide bootstrap">
+    
     <div id="sticky-footer-page-wrap">
-      <div class="mobile-nav">
+      
+
+<div class="mobile-nav right">
   <ul>
         <li><a href="/login" title="Sign In">Sign In</a></li>
     <li><a href="/faq">FAQ</a></li>
     <li><a href="http://blog.stitchfix.com">Blog</a></li>
     <li><a href="http://www.stitchfixreviews.com">Customer Reviews</a></li>
     <li><a href="/gifts">Gift Cards</a></li>
+    <li><a href="/gifts/redeem">Redeem A Gift Card</a></li>
   </ul>
 </div>
 
@@ -110,7 +109,7 @@
               <span class="visible-xs icon-bar icon-bar-last"></span> -->
             </button>
             <a href="/" class="navbar-brand">
-              <img alt="Stitch Fix" data-png="https://d27bvhtwhzf6pr.cloudfront.net/assets/branding/logo-0eabb8d700d1431efc39818110ce5196.png" src="https://d27bvhtwhzf6pr.cloudfront.net/assets/branding/logo-d0864288a2d697f43a0b026aabe6a263.svg">
+              <img alt="Stitch Fix" data-png-src="https://d27bvhtwhzf6pr.cloudfront.net/assets/branding/logo-1874ff7114bb461206ae85cb10470f58.png" src="https://d27bvhtwhzf6pr.cloudfront.net/assets/branding/logo-dbf68068a710d412aec3a15748170e97.svg">
             </a>
           </div>
           <nav>
@@ -118,119 +117,268 @@
               <li><a href="/faq">FAQ</a></li>
               <li><a href="http://blog.stitchfix.com" title="The Stitch Fix Blog">Blog</a></li>
               <li><a href="http://www.stitchfixreviews.com" title="Customer Reviews">Customer Reviews</a></li>
-              <li><a href="/gifts">Gift Cards</a></li>
+              <li id="gift-card-nav-item"><a href="/gifts">Gift Cards</a></li>
                   <li class="sign-in"><a href="/login" title="Sign In"><span class="btn btn-primary">Sign In</span></a></li>
             </ul>
           </nav>
         </div>
       </div>
     </div>
+    <div class="bootstrap alert-outer-container">
+  <div id="alerts">
+  </div>
+</div>
+
   </header>
 </div>
 
 
-      <section class="content" role="main">
-          <div id="flash-notice" class="notice" style="display: none;">
-    <p>
-      <span class="msg"></span>
-      <a class="close" href="#"><span>- close -</span></a>
-    </p>
-  </div>
-  <div id="flash-alert" class="alert" style="display: none;">
-    <p>
-      <span class="msg"></span>
-      <a class="close" href="#"><span>- close -</span></a>
-    </p>
-  </div>
+        <div class="ribbon-wrap">
+  <div class="gifts-cta-ribbon-horizontal"><a href="/gifts">This season, give the gift of Stitch Fix!</a></div>
+  <div class="gifts-cta-ribbon-horizontal gifts-cta-ribbon-long"><a href="/gifts">This season, give the gift of style with a Stitch Fix gift card!</a></div>
+</div>
 
-        
-<section class="bin mc cp">
-  <article class="c12">
+      <div class="container layout-container">
+        <div class="row">
+          <div id="layout-content-primary" class="col-sm-12">
+            
+<section class="privacy legal">
+
+<div class="row">
+  <div class="col-sm-offset-3 col-sm-8 col-md-offset-3 col-md-6">
     <header>
-      <h1 class="h1">Privacy Policy</h1>
+      <h1>Privacy Policy</h1>
     </header>
-    <p>Stitch Fix is committed to protecting and ensuring your privacy. This notice describes our privacy policy, and by visiting stitchfix.com you are accepting the practices described in this Privacy Policy.</p>  
-    <h2 class="f3 mt2 mb1">Information You Give Us</h2>
-    <p>
-      Our goal is to provide you with a safe and enjoyable experience. When we collect information about 
-      you it is in an effort to make our products and services more efficient and customized to you. You 
-      are free to browse the Stitch Fix site without revealing any personal information about yourself. 
-      However, once you give us your personal information, you are not anonymous to us.
-    </p>
-    <h2 class="f3 mt2 mb1">Automatic Information</h2>
-    <p>
-      We automatically track certain information based upon your behavior on our site. 
-      We use this information to analyze our users' behavior, interests, and demographics to 
-      better understand and serve our customers. This information may include the URL that you just came from, 
-      which URL you next go to, what browser you are using and your IP address.
-    </p>
-    <h2 class="f3 mt2 mb1">What about Cookies?</h2>
-    <p>
-     "Cookies" are small pieces of information that a web site will store on your computer's hard drive. Stitch Fix will use cookies to identify you 
-      during your session, make our service easier to use and to store information in your account between visits. Cookies are never used to store sensitive customer information 
-      such as names, addresses, credit card numbers or passwords. Most browsers automatically accept cookies, but you can configure your browser to prevent that. The Help 
-      portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive 
-      a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as 
-      Flash cookies, by changing add-on settings or visiting the Web site of its manufacturer.
-    </p>
-    <h2 class="f3 mt2 mb1">Personally Identifiable Information</h2>
-    <p>
-      This is information that you provide to us that is specific to you. We collect information such as your name, phone number, billing information, shipping 
-      information and other personal information as indicated on the forms throughout our site. You provide such information when you schedule or purchase a Fix, enter a contest or 
-      sweepstakes, fill out a survey or form, provide feedback, etc. Where possible, we indicate which fields are required and which fields are optional. 
-      You can always choose not to provide information, but you may not be able to use a particular service or feature by omitting the information.
-    </p>
-    <h2 class="f3 mt2 mb1">Use of your information</h2>
-    <p>We do not sell or share information about our customers, except in the specific cases described here:</p>
-    <h2 class="f3 mt2 mb1"><em>Third-Party Service Providers:</em></h2>
-    <p>
-      We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, developing systems, 
-      analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, 
-      but may not use it for other purposes. 
-    </p>
-    <h2 class="f3 mt2 mb1"><em>Business Transfers:</em></h2>
-    <p>
-      As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one 
-      of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless the customer consents otherwise). In the event 
-      that Stitch Fix or substantially all of its assets are acquired, customer information will be one of the transferred assets.
-    </p>
-    <h2 class="f3 mt2 mb1">How We Protect Your Information</h2>
-    <p>
-      We are committed to protecting the information we receive from you. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data 
-      stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level 
-      appropriate to the type of data involved.
-    </p>
-    <p>  
-      The Site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your 
-      PC to our servers. In addition, only those employees and third parties who need access to you information in order to perform their duties are allowed such access.
-    </p>
-    <h2 class="f3 mt2 mb1">Accessing and Updating Your Personal Information and Preferences </h2>
-    <p>
-      If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email 
-      to <a href="mailto:hello@stitchfix.com" title="Email Stitchfix">hello@stitchfix.com.</a>
-    </p>
-    <p>
-      You may also update or change your personal information or preferences by sending email to <a href="mailto:hello@stitchfix.com" title="Email Stitch Fix">hello@stitchfix.com</a>. 
-      We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.
-      While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction.
-    </p>
-    <h2 class="f3 mt2 mb1">Conditions of Use, Notices, and Revisions</h2>
-    <p>
-      If you choose to visit Stitch Fix, your visit and any dispute over privacy is subject to this Notice including limitations on damages, disputes, and choice of law. 
-      If you have any concern about privacy at Stitch Fix, please email <a href="mailto:hello@stitchfix.com" title="Email Stitch Fix">hello@stitchfix.com</a> and we 
-      will work to address it.
-    </p>
-    <p>
-      Our business changes constantly, and our Privacy Notice will change also. You should check our Web site frequently to see recent changes. Unless stated otherwise, our 
-      current Privacy Notice applies to all information that we have about you and your account. We will never materially change our policies and practices to make them less 
-      protective of customer information collected in the past without the consent of affected customers. 
-    </p>
-    <p>Last Updated: <time>October 1, 2012</time></p>
-  </article>
+  </div>
+</div>
+<div class="row">
+<div class="col-sm-8 col-sm-offset-3 col-md-6 col-md-offset-3">
+
+<article>
+<p>Stitch Fix, Inc. (“<strong>Stitch Fix</strong>”) is committed to protecting your privacy. Stitch&nbsp;Fix is a fashion
+  retailer
+  that blends expert styling, proprietary technology and a unique product to deliver a shopping experience that
+  is truly personalized. Based on your style profile, Stitch Fix personal stylists handpick a “Fix,” a package
+  of clothing items and accessories that are unique to your taste, budget and lifestyle that is sent to your
+  home, office or any location you choose. You keep what you like and return the rest. We have prepared this
+  Privacy Policy to describe to you our practices regarding the personal information we collect from users of
+  our website, located at www.stitchfix.com (the “<strong>Site</strong>”) and the services offered through the Site (the
+  “<strong>Services</strong>”).
+</p>
+
+<p>
+  <strong>Questions; Contacting Stitch Fix; Reporting Violations.</strong> If you have any questions, concerns or
+  complaints
+  about our Privacy Policy, our data collection or processing practices, or if you want to report any security
+  violations to us, please contact us at
+  <a href="mailto:hello@stitchfix.com" title="Email Stitchfix">hello@stitchfix.com.</a>
+</p>
+
+
+<h2>Information Collected</h2>
+
+<h3>Information You Provide to Us.</h3>
+
+<p>When you sign up for an account for our Services (an “<strong>Account</strong>”), you provide us your name, email
+  address, zip code, and your dress size.</p>
+
+<p>You then create a style profile by reacting to images of styles that we present to you, by telling us about your
+  style, and providing us additional sizing information.</p>
+
+<p>When you receive a shipment, we record what information you buy and what information you return.</p>
+
+<p>If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any
+  other content included in the e-mail, in order to send you a reply.</p>
+
+<p>We retain information on your behalf, such as messages you send (including the content of the message and the
+  recipient data) using your Account.</p>
+
+<p>When you post messages on public areas of our Site, the information contained in your posting will be stored on our
+  servers and other users will be able to see it.</p>
+
+<p>When you participate in one of our surveys, we may collect additional profile information.</p>
+
+<p>If you participate in a sweepstakes, contest or giveaway on our Site, we may ask you for your e-mail address and/or
+  home number (to notify you if you win or not). We may also ask for first and last names, and sometimes post office
+  addresses to verify your identity. In some situations we may need additional information as a part of the entry
+  process, such as a prize selection choice. These sweepstakes and contests are voluntary.</p>
+
+<p>We may also collect personal information at other points in our Service that state that personal information is being
+  collected.</p>
+
+<p>When you set up a shipment or otherwise make a purchase through the Services, you provide our third party payment
+  processor your credit card and payment information, but we do not have access to this information.</p>
+
+<h3>Information Collected via Technology.</h3>
+
+<p><strong>Log Files.</strong> As is true of most websites, we gather certain information automatically and store it in
+  log files. This
+  information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating
+  system, date/time stamp, and clickstream data. We use this information to maintain and improve the performance of the
+  Site.</p>
+
+<p><strong>Cookies.</strong> Like many online services, we use cookies to collect information. “Cookies” are small
+  pieces of information
+  that a website sends to your computer’s hard drive while you are viewing the website. We may use both session Cookies
+  (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete
+  them) to provide you with a more personal and interactive experience on our Site. This type of information is
+  collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and
+  needs.</p>
+
+<p><strong>Marketing Companies.</strong> We work with a number of marketing companies that assist in marketing our
+  services to you on
+  third party websites. These companies may collect information about online activities conducted on a particular
+  computer, browser or device over time and across third-party websites or online services for the purpose of delivering
+  advertising that is likely to be of greater interest to you. While not a comprehensive list, some of these marketing
+  companies we work with are Conversant, Facebook, Google AdWords, and Kenshoo. If you would like more
+  information about this practice and to know your choices about not having this information used by these companies,
+  click here: <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>. We also work with
+  affiliate marketing companies, including CJ Affiliate by Conversant and Share-a-Sale. To better understand how they
+  use your information, please see the privacy policies available on their respective websites.</p>
+
+<p><strong>Analytics Companies.</strong> We work with a number of third party analytics companies that collect
+  information anonymously
+  and report website trends without identifying individual visitors. These services allow us to view a variety of
+  reports about how visitors interact with the Site and Services so we can improve our website and understand how people
+  find and navigate it. Currently, we work with the following analytics companies: Optimizely, New Relic and Google
+  Analytics. This is not intended to be a comprehensive list and we may stop working with these companies and work with
+  others without notice. You can learn more about how these companies collect, use and share information about you by
+  visiting their websites.</p>
+
+<h2>Use of Your Personal information</h2>
+
+<p><strong>General Use.</strong> In general, personal information you submit to us is used either to respond to requests
+  that you make,
+  or to aid us in serving you better. We use your personal information in the following ways:</p>
+<ul>
+  <li>to choose and deliver your shipment;</li>
+  <li>facilitate the creation of and secure your Account on our network;</li>
+  <li>identify you as a user in our system;</li>
+  <li>provide the Services you request;</li>
+  <li>improve the quality of experience when you interact with our Site and Services, including the testing of different
+    page designs to see which performs better;
+  </li>
+  <li>send you administrative e-mail notifications, such as security or support and maintenance advisories;</li>
+  <li>respond to your inquiries related to employment opportunities or other requests; and</li>
+  <li>send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing
+    purposes.
+  </li>
+</ul>
+
+<p><strong>User Feedback.</strong> We may post user feedback on the Site from time to time. If you make any comments on
+  a blog, wall or
+  forum associated with the Service, you should be aware that any personal information you submit there can be read,
+  collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not
+  responsible for the personally identifiable information you choose to submit in these blogs and forums.</p>
+
+<p><strong>Creation of Anonymous Data.</strong> We may create anonymous data records from personal information by
+  excluding information
+  (such as your name) that makes the data personally identifiable to you. We use this anonymous data to analyze request
+  and usage patterns so that we may enhance the content of our Services and improve Site and Application navigation. We
+  reserve the right to use anonymous data for any purpose and disclose anonymous data to third parties in our sole
+  discretion.</p>
+
+<p><strong>Disclosure of Your Personal information.</strong> We disclose your personal information as described below
+  and as described
+  elsewhere in this Privacy Policy.</p>
+
+<p><strong>Third Party Service Providers. </strong>We may share your personal information with third party service
+  providers to: provide
+  you with the Services that we offer you through our Site and Services; to conduct quality assurance testing; to
+  facilitate creation of accounts; to provide technical support; and/or to provide other services to Stitch Fix.</p>
+
+<p><strong>Business Partners.</strong> In order to facilitate your purchase of items from third party partners, we may
+  disclose certain
+  Personal Information about you when you ask us to do so.</p>
+
+<p><strong>Corporate Restructuring.</strong> We may share some or all of your personal information in connection with or
+  during
+  negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer,
+  divestiture, or disclosure of all or a portion of our business or assets. In the event of insolvency, bankruptcy, or
+  receivership, personal information may also be transferred as a business asset. If another company acquires our
+  company, business, or assets, that company will possess the personal information collected by us and will assume the
+  rights and obligations regarding your personal information as described in this Privacy Policy.</p>
+
+<p><strong>Other Disclosures.</strong> Regardless of any choices you make regarding your Personal information (as
+  described below),
+  Stitch Fix may disclose Personal information if it believes in good faith that such disclosure is necessary: (i) in
+  connection with any legal investigation; (ii) to comply with relevant laws or to respond to subpoenas or warrants
+  served on Stitch Fix; (iii) to protect or defend the rights or property of Stitch Fix or users of the Site or
+  Services; and/or (iv) to investigate or assist in preventing any violation or potential violation of the law, this
+  Privacy Policy, or our Terms of Use.</p>
+
+<p><strong>Third Party Websites.</strong> Our Site may contain links to third party websites. When you click on a link
+  to any other
+  website or location, you will leave our Site or Service and go to another site, and another entity may collect
+  personal information or anonymous data from you. We have no control over, do not review, and are not responsible for,
+  these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these
+  outside websites or content, or to any collection of your personal information after you click on links to such
+  outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party
+  websites or locations are for your convenience and do not signify our endorsement of such third parties or their
+  products, content or websites.</p>
+
+<p><strong>Your Choices Regarding Information.</strong> You have several choices regarding the use of information on our
+  Service:</p>
+
+<p><strong>Choices.</strong> We offer you choices regarding the collection, use, and sharing of your personal
+  information. We will
+  periodically send you free newsletters and e-mails that directly promote the use of our Service. When you receive
+  newsletters or promotional communications from us, you may indicate a preference to stop receiving further
+  communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions
+  provided in the e-mail you receive or by contacting us directly (please see contact information below). Despite your
+  indicated e-mail preferences, we may send you service related communication, including notices of any updates to our
+  Terms of Use or Privacy Policy.</p>
+
+<p><strong>Changes to Personal Data.</strong> You may change any of your personal information in your Account by editing
+  your profile
+  within your Account. You may request deletion of your personal information by us, but please note that we may be
+  required to keep this information and not delete it (or to keep this information for a certain time, in which case we
+  will comply with your deletion request only after we have fulfilled such requirements). When we delete any
+  information, it will be deleted from the active database, but may remain in our archives. We may retain your
+  information for fraud prevention or similar purposes.</p>
+
+<p>While we and others give you the choices to control the information collected and used as described in this Privacy
+  Policy, there are many web browser signals and other similar mechanisms that can indicate your choice to disable
+  tracking, and we may not be aware of or honor every mechanism.</p>
+
+<p><strong>Security of Your Personal Information.</strong> Stitch Fix is committed to protecting the security of your
+  personal
+  information. We use a variety of industry-standard security technologies and procedures to help protect your personal
+  information from unauthorized access, use, or disclosure. We also require you to enter a password to access your
+  Account Information. Please do not disclose your Account password to unauthorized people. No method of transmission
+  over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Stitch Fix uses
+  reasonable efforts to protect your personal information, Stitch Fix cannot guarantee its absolute security.</p>
+
+<p><strong>Changes to This Privacy Policy.</strong> This Privacy Policy is subject to occasional revision, and if we
+  make any material
+  changes in the way we use your personal information, we will notify you by sending you an e-mail to the last e-mail
+  address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this
+  Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail
+  notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes
+  will be effective immediately for new users of our Service. Please note that at all times you are responsible for
+  updating your personal information to provide us with your most current e-mail address. In the event that the last
+  e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the
+  notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice
+  of the changes described in the notice. If you do not wish to permit changes in our use of your personal information,
+  you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us.
+  Continued use of our Site, Application or Service, following notice of such changes shall indicate your
+  acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>
+
+<p>Last Updated:
+  <time>Oct 13, 2014</time>
+</p>
+
+</article>
+</div>
+</div>
 </section>
 
 
-      </section>
+          </div>
+        </div>
+      </div>
+      
+      
     </div>
     <div id="sticky-footer">
       <div class="bootstrap">
@@ -240,13 +388,13 @@
       <div class="container">
         <div class="row">
           <div class="quick-link">
-            <a href="http://www.stitchfixreviews.com" title="Customer Testimonials about our Service" target="_blank"><span>Customer&nbsp;</span>Reviews</a>
+            <a href="http://www.stitchfixreviews.com" title="Customer Testimonials about our Service" target="_blank"><span class="hidden-xs-inline">Customer&nbsp;</span>Reviews</a>
           </div>
           <div class="quick-link">
             <a href="http://blog.stitchfix.com" title="The Stitch Fix Blog">Blog</a>
           </div>
           <div class="quick-link">
-            <a href="/gifts" title="Gift Certificates">Gifts</a>
+            <a href="/gifts" title="Gift Certificates">Gift Cards</a>
           </div>
         </div>
       </div>
@@ -258,33 +406,38 @@
           <div class="help">
             Have a question?<br>
             <a href="/faq" title="The Frequently Asked Questions">FAQ</a> or
-            <a href="mailto:hello@stitchfix.com" title="Email Stitch Fix - hello@stitchfix.com">hello@stitchfix.com</a>
+            <a href="mailto:hello@stitchfix.com" title="Email Stitch Fix - hello@stitchfix.com"><span class="ss-standard ss-mail"></span> hello@stitchfix.com</a>
           </div>
           <div class="branding">
-            <img alt="Stitch Fix Logo" data-png="https://d27bvhtwhzf6pr.cloudfront.net/assets/branding/logo-0eabb8d700d1431efc39818110ce5196.png" src="https://d27bvhtwhzf6pr.cloudfront.net/assets/branding/logo-d0864288a2d697f43a0b026aabe6a263.svg">
+            <img alt="Stitch Fix Logo" data-png-src="https://d27bvhtwhzf6pr.cloudfront.net/assets/branding/logo_w_tagline_centered-85047f6c32aab0d5b2dcc83adce733c8.png" src="https://d27bvhtwhzf6pr.cloudfront.net/assets/branding/logo_w_tagline_centered-96d383eaa47c7b6bb2aeb70d8b893753.svg">
             <br>
-            Now every woman can have her own personal stylist.
+           <!--  Now every woman can have her own personal stylist. -->
           </div>
+          
           <div class="social">
+            <div class="visible-xs social-cta">
+              Follow Us!
+            </div>
             <ul>
               <li>
-                <a href="http://twitter.com/stitchfix" title="Stitch Fix on Twitter - @stitchfix"><span class="ss-icon ss-social"></span></a>
+                <a href="http://twitter.com/stitchfix" title="Stitch Fix on Twitter - @stitchfix"><span class="ss-social ss-twitter"></span></a>
               </li>
               <li>
-                <a href="http://instagram.com/stitchfix" title="Stitch Fix on Instagram"><span class="ss-icon ss-social"></span></a>
+                <a href="http://instagram.com/stitchfix" title="Stitch Fix on Instagram"><span class="ss-social ss-instagram"></span></a>
               </li>
               <li>
-                <a href="http://www.facebook.com/stitchfix" title="The Stitch Fix Facebook page"><span class="ss-icon ss-social"></span></a>
+                <a href="http://www.facebook.com/stitchfix" title="The Stitch Fix Facebook page"><span class="ss-social ss-facebook"></span></a>
               </li>
               <li>
-                <a href="http://pinterest.com/StitchFix/" title="The Stitch Fix Pinterest page"><span class="ss-icon ss-social"></span></a>
+                <a href="http://pinterest.com/StitchFix/" title="The Stitch Fix Pinterest page"><span class="ss-social ss-pinterest"></span></a>
               </li>
+              <li class="hidden-xs"><span class="social-cta">Follow us!</span></li>
             </ul>
             <div class="fb-frame">
-              <a href="#" style="display: inline-block;font-size: 13px;margin: 18px 0 0 4px; float: right;" data-facebook-share="https://www.facebook.com/stitchfix">
+              <a href="#" style="display: inline-block;font-size: 13px;margin: 14px 0 0 4px; float: right;" data-facebook-share="https://www.facebook.com/stitchfix">
                 Share on Facebook
               </a>
-              <div style="margin-top: 15px;float:right" class="fb-like" data-href="http://facebook.com/stitchfix" data-width="200" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+              <div style="margin-top: 10px;float:right" class="fb-like" data-href="http://facebook.com/stitchfix" data-width="200" data-layout="button_count" data-show-faces="false" data-send="false"></div>
             </div>
           </div>
         </div>
@@ -297,43 +450,94 @@
           <li><a href="/about" title="About">About</a></li>
           <li><a href="/press" title="Press">Press</a></li>
           <li><a href="/jobs" title="Careers at Stitch Fix">Jobs</a></li>
+          <li class="hidden-sm"><a href="http://technology.stitchfix.com/blog/" title="Technology Blog">Tech Blog</a></li>
+          <li><a href="/affiliate_program" title="Affiliate Program">Affiliate Program</a></li>
           <li><a href="/privacy" title="Stitch Fix Privacy Policy">Privacy Policy</a>
           </li><li><a href="/terms" title="Stitch Fix Terms of Use">Terms of Use</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right copyright">
-          <li class="navbar-text">™ and © Stitch Fix, Inc. All Rights Reserved.</li>
+          <li class="navbar-text">Stitch Fix and Fix are trademarks of Stitch Fix, Inc.</li>
         </ul>
       </div>
     </div>
-    
+
   </footer>
 </div>
  
 
 
     </div>
-    <script src="https://d27bvhtwhzf6pr.cloudfront.net/assets/application-c71226173521134691e81f4b9d8b4f7e.js" type="text/javascript"></script>
+
+    <script src="https://d27bvhtwhzf6pr.cloudfront.net/assets/application-3cd2384ef2bc3ec035bd85ca81de5b15.js"></script>
 
 
 <div id="fb-root" class="dn"></div>
 <script type="text/javascript">
-  window.fbAsyncInit = function() {
-    // init the FB JS SDK
-    FB.init({
-      appId      : '377137202389790',
-      channelUrl : "//stitchfix.com/facebook-channel.html",
-      status     : true,
-      xfbml      : true
-    });
-  };
-  (function(d, s, id){
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) {return;}
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
+    window.fbAsyncInit = function () {
+        // init the FB JS SDK
+        FB.init({
+            appId: '377137202389790',
+            channelUrl: "//www.stitchfix.com/facebook-channel.html",
+            status: true,
+            xfbml: true
+        });
+    };
+    setTimeout(function () {
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    }, 500);
 </script>
+
+<!-- Pixels for tracking traffic on all pages -->
+<script>(function () {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+        _fbq.loaded = true;
+    }
+    _fbq.push(['addPixelId', '704793846262518']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none"
+               src="https://www.facebook.com/tr?id=704793846262518&amp;ev=PixelInitialized"/></noscript>
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+    twttr.conversion.trackPid('l532e');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l532e&p_id=Twitter" />
+    <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l532e&p_id=Twitter" />
+</noscript>
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1004127580;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004127580/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
+
 <!-- Begin Queued Content -->
 
 <!-- End Queued Content -->
@@ -367,7 +571,15 @@
   }
 </script>
 
+<!--[if lt IE 9]>
+  <script src="/respond.min.js"></script>
+  <link href="https://d27bvhtwhzf6pr.cloudfront.net/assets/respond-proxy-1fa688213710a3a5101f526b13936dc8.html" id="respond-proxy" rel="respond-proxy" />
+  <link href="/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+  <script src="/respond.proxy.js"></script>
+<![endif]-->
+<script type="text/javascript">LiveAddress.init('1164543176404189463');</script>
+
 
   
 
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
