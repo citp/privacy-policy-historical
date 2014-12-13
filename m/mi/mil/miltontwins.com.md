@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miltontwins.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015071109id_/http%3A//miltontwins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miltontwins.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213024213id_/http%3A//www.miltontwins.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
