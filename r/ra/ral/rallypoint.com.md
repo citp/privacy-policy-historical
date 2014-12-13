@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rallypoint.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213132452id_/https%3A//www.rallypoint.com/static_pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rallypoint.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213035249id_/https%3A//www.rallypoint.com/static_pages/privacy_policy) for the most accurate reproduction.*
 
-# RallyPoint
+# Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -16,6 +16,16 @@ _Web Tracking Information_ : We, and our third party service providers, may use 
 
 **How Do We Use the Information We Collect?**
 
+We collect information when you sync non-RallyPoint content – like your email address book or mobile device contacts – with your account. We use this information to improve your experience, help connect you with military or veterans organizations which we have vetted and which we believe to have the best interest of the member in mind, and allow you and your network to be better connected. You can remove your address book and any other synced information whenever you'd like.
+
+You may use the RallyPoint contacts importer (or other similar mechanisms provided by RallyPoint) to upload individual contacts or your entire address book into RallyPoint. RallyPoint stores this information and uses it to help you manage and leverage your contacts. We also use this information to enhance your RallyPoint experience by helping you to grow your network by: identifying your contacts already on RallyPoint; informing your contacts that you are building your RallyPoint network; providing a template to send invitations to your contacts that have not registered with RallyPoint; and suggesting people you may know but who may not be in your RallyPoint contacts. RallyPoint may also use this information to show you and other members that you share the same uploaded contacts who may or may not be members. Please note that when you send an invitation to connect to another individual (a “connection”), that person may have access to your email address or, for SMS invitations, mobile number because it may be displayed in the invitation. RallyPoint may also remind you of pending invitations. Your RallyPoint connections may also have access to your email address.
+
+RallyPoint may make other tools available to sync information with RallyPoint, and may also develop additional features that allow members to use their RallyPoint account in conjunction with other third-party services. For example, RallyPoint mobile applications may allow you to sync your device’s calendar, email and/or contacts apps with RallyPoint.
+
+Another example are software tools that allow you to see RallyPoint and other public social media information about the people you email or meet with and leverage RallyPoint to help you gain insights from and grow your network. If you grant these products (mobile applications or other RallyPoint services that sync external email and calendar services permission to access your email and calendar accounts, they will access and may store some of your email header and calendar history information in order to match it to RallyPoint and other public social media profiles. RallyPoint’s products that sync with external email services may also temporarily cache message content for performance reasons, in a way that is unreadable by RallyPoint and its service providers.
+
+Any information that you upload or sync with RallyPoint is covered by the User Agreement and this Privacy Policy. You can remove your information at your convenience using the features RallyPoint makes available. You can remove your address book and any other synced information at any time by requesting this.
+
 _Personal Information_ :  We will use and store Personal Information for the purpose of delivering the Website to you, and to enhance and analyze the operation of the Website.  RallyPoint uses Personal Information to provide better, more customized services such as visibility into career opportunities, allowing professional opportunities to find you, or for serving more relevant advertisements on RallyPoint.  We may also use Personal Information for the internal operational and administrative purposes of the Website.
 
 _Aggregate Information_ :  We will also use customer information to create aggregated data for analytical purposes.  This statistical information does not contain any Personal Information and is used to understand our customer base and to better serve our market.
@@ -24,17 +34,17 @@ _Web Tracking Information_ :  We use Web Tracking Information to administer the
 
 _Legal Exception_ :  Notwithstanding the above, we may in any event use Personal Information and other information collected through the Website to the extent required by law or legal process, to resolve disputes, to enforce our agreements (including this Privacy Policy and the _Terms of Service_ ) with you, or if in our reasonable discretion use is necessary to protect our legal rights or to protect third parties.
 
-_Email Communications_ :  If you create an account and provide your email address, we will send you administrative and promotional emails.  If you wish to opt out of promotional emails, you may do so by following the “unsubscribe” instructions in the email, or by editing your account settings as described below.  All users receive administrative emails, and so you cannot opt out of them while you remain an accountholder.
+_Email Communications_ :  If you create an account and provide your email address, we will send you administrative and promotional emails.  If you wish to opt out of promotional emails, you may do so by following the “unsubscribe” instructions in the email, or by editing your account settings as described below.  All users receive administrative emails, and so you cannot opt out of them while you remain an account holder.
 
 **What Information Do We Disclose to Third Parties?**
 
 _Personal Information_ _:   _We will not disclose your Personal Information to any third parties except as follows:
 
-(i)             we may disclose information you have chosen to enter into your profile or elsewhere on the Website to potential employers and recruiters who are looking to hire personnel with your skill sets; or to companies or organizations looking to provide custom services based on your unique accomplishments and background.
+(i) we may disclose information you have chosen to enter into your profile or elsewhere on the Website to potential employers and recruiters who are looking to hire personnel with your skill sets; or to companies,  or organizations looking to provide services based on your unique accomplishments or background.
 
 (ii) to third party contractors engaged to provide services on our behalf (“Contractors”), such as performing marketing services, analyzing data and usage of the Website, operating the Website or providing support and maintenance services for the Website, or providing customer service.  We use reasonable efforts to enter into agreements with all Contractors that require Contractors to use the Personal Information they receive only to perform services for us.
 
-(iii)      when we have your consent to share the information.
+(iii) when we have your consent to share the information.
 
 _Web Tracking Information_ :  We disclose Web Tracking Information to third party advertisers, advertising agencies and Contractors, in order for us and such third parties to analyze the performance of the Website and the behavior of users, to operate and improve the Website, and to target advertising to users.  We may also publish this information in order to promote the Website.  In addition, Ad Networks may collect and use Web Tracking Information about your use of the Website and other websites to provide you with advertisements about goods and services that may be of interest to you; we do not control the manner in which Ad Networks use and disclose Web Tracking Information they collect.
 
@@ -45,6 +55,8 @@ _Network Operators_ : Use of the Website may involve use of the services of thir
 _Additional Disclosures_ :  We reserve the right to disclose any information we collect in connection with the Website, including Personal Information, (a) to any successor to our business as a result of any merger, acquisition, asset sale or similar transaction; and (b) to any law enforcement, judicial authority, or governmental or regulatory authority, to the extent required by law or if in our reasonable discretion disclosure is necessary to enforce or protect our legal rights or to protect third parties.
 
 _RallyPoint Profile Privacy Settings_ :  You may choose which RallyPoint users can view your profile through your RallyPoint privacy settings.  You may choose to make your profile private so that it can only be seen by you.  If you set your profile as private, other RallyPoint users may not view your profile but your profile will be available to potential employers with access to RallyPoint.
+
+_Other_ : RallyPoint is a dynamic, innovative environment, which means we are always seeking to improve the services we offer you. We often introduce new features, some of which may result in the collection of new information (for example, when the Endorsements feature launched, we began collecting information about skills for which members were endorsed and the individuals who endorsed them). Furthermore, new partnerships or corporate acquisitions may result in new features, and we may potentially collect new types of information.
 
 **Notice of Privacy Rights to California Residents**
 
@@ -70,4 +82,4 @@ _Children:_   RallyPoint does not knowingly collect or maintain personally iden
 
 _Website Visitors from outside the United States_ :  RallyPoint and its servers are located in the United States and are subject to the applicable state and federal laws of the United States.  If you choose to access or use the Website, you consent to the use and disclosure of information in accordance with this privacy policy and subject to such laws.
 
-_Effective Date of this policy_ : August 1st, 2012
+_Effective Date of this policy_ : May 22nd, 2014
