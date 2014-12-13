@@ -1,100 +1,37 @@
-> *The following text is extracted and transformed from the audioboom.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioboom.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213144018id_/http%3A//audioboom.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# audioBoom: Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+audioBoom Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We care about your privacy and security. This privacy policy (the "Privacy Policy") sets out how any information, including personal information, that we collect from you or that you provide to us will be collected and used. Please read it carefully (it is part of our Terms and Conditions). If you don't agree to it and don't want to be bound by it, then you won't be able to use the parts of audioBoom that require registration. If you do register, we will assume that you accept this Privacy Policy. If you have any questions about this Privacy Policy, or would like to change or update the data we hold about you, please email us at support@audioboom.com
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We may have to make changes to this Privacy Policy from time to time. Any changes made will be posted on the following webpage http://audioboom.com/privacy and might also be communicated by e-mail or other means. Each change will become effective when posted and we will assume that your continued use of audioBoom after posting is your acceptance of the change.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+For registration, we ask you for a username (which may be your "Twitter" username) and a password. You can update this information at any time by emailing us at support@audioboom.com. We will take all reasonable steps to ensure that your information is treated securely and in accordance with this Privacy Policy. We will only hold your personal information on our systems for as long as is reasonably necessary.
 
-**Information Collection and Use**
+We will use the information you send us to:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+provide audioBoom to you and its various services as set out in our Terms and Conditions; contact you in response to your requests or to notify you of updates, new content, messages or other news relating to audioBoom; contact you about products and services we feel may be of interest to you; and process and deal with any other enquiries or complaints you make. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Before we stream audio, Content and/or User Content to you, we may log your IP address in order to confirm your location. An IP address does not include personal information about you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may collect information about your general usage of audioBoom by using "cookies" which allow us to collect certain information in order to help us monitor your use of audioBoom, so that we can contact you with audioBoom news (such as to inform you of new events, including new content or when you have received a message) and recommendations, and to provide generic, non-personal information to third parties. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies contain information that we can read when you revisit the audioBoom website. Although they do identify a user's computer, cookies do not personally identify users' passwords. Most web browsers automatically accept cookies, but if you prefer you can change your browser to prevent that. However, if you select this setting you may be unable to access certain parts of audioBoom. For more information on cookies and how to disable them you can consult the information provided by the Interactive Advertising Bureau at http://www.allaboutcookies.org/.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+When you send an email or other communication to us, we may keep the message in order to process your enquiries and to improve our services.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We promise to keep your information confidential except where we are compelled to disclose it by law (for example to government bodies and law enforcement agencies), or where you have given us your express consent to sharing the information with others.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We will not share your personal information with any third party (other than a third party engaged by the Company to operate the Site or any part of the Site or its function, including any processors) without your permission. We may sometimes want to share the information you give with others, such as companies who wish to provide goods and services to you so that they can contact you direct. Before we do that we will ask you to say if you're happy for us to do so via ticking an opt-in box. We will do our best to ensure that any such third parties follow our instructions and don't use your personal information in a way you haven't approved. Otherwise, we won't share your information with anyone else (except where the law requires).
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Please note that countries outside the European Economic Area ("EEA") may not have the same level of protection as countries within the EEA, but we shall ensure that any third parties to whom we transfer data adhere to the security measures set out in the Data Protection Act 1998 (as may be amended) (the "Act"). By registering to use the Site, you consent to us transferring and processing your personal information outside the EEA.
 
-**Security**
+You are welcome to see the information we hold about you at any time, but we might make a small charge to cover some of the cost of providing the information (but no more than allowed by law).
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We have installed security measures to make sure that any personal information you give us is protected against loss, misuse or alteration. However, due to the nature of the Internet, we cannot completely guarantee the safety of your personal information and cannot be responsible for any breach of security when audioBoom is used (except in the case of our negligence). We are, however, confident in our security measures, and it is always a top priority of ours to ensure that your information is kept confidential.
 
-**Updating Your Information**
+We will not hold personal information where the user has disclosed that he/she is under the age of 13.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Please remember that any personal data which you share in public areas will be available to third parties. This personal data may be listened to, viewed, collected and used by third parties over whom we have no control. We are not responsible for the information you make available in any public areas or for any use that any third party may make of such information.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This Privacy Policy does not cover the links within the Site to other websites.  We therefore encourage you to read the privacy policies of any third party websites.
