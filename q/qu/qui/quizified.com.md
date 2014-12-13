@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quizified.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092247id_/http%3A//quizified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizified.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213044540id_/http%3A//www.quizified.com/privacy) for the most accurate reproduction.*
 
-# Quizified
+# Quizified - #1 Online Personality and Trivia Quiz Website
 
 ## Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@anotherquiz.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at quizified @ quizified.com.
 
 At www.quizified.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.quizified.com and how it is used.
 
@@ -61,8 +61,3 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **Your Consent**
 
 By using our site, you consent to our privacy policy.
-
-  
-
-
-[**Quizified.com**](https://web.archive.org/index.html) © 2014 - All rights reserved. 
