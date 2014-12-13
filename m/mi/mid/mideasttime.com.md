@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mideasttime.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024021id_/http%3A//www.mideasttime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mideasttime.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213073948id_/http%3A//www.mideasttime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mideast Time
 
@@ -15,9 +15,9 @@ Like many other Web sites, this website makes use of log files. The information 
 This website does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 DoubleClick DART Cookie  
-\- Google, as a third party vendor, uses cookies to serve ads on this website.  
-\- Google’s use of the DART cookie enables it to serve ads to users based on their visit to this website and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+– Google, as a third party vendor, uses cookies to serve ads on this website.  
+– Google’s use of the DART cookie enables it to serve ads to users based on their visit to this website and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google AdSense, Tribal Fusion, AdBlade, NewsMax and Vibrant Media
 
