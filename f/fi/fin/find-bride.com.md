@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the find-bride.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040111id_/http%3A//find-bride.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-bride.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213224237id_/http%3A//find-bride.com/privacy) for the most accurate reproduction.*
 
 # Dating, Love, Wedding and Marriage with Russian and Ukrainian girls and women
-
-[Latest Blog Post](https://web.archive.org/blogs)
-
-[](http://find-bride.com/search/profile/all/14381)
-
-Elena, 27 years old
-
-Simferopol \ Ukraine
-
- I cannot imagine my life without sport.
-
-[](http://find-bride.com/mess/send/all/14381) [](http://find-bride.com/gift/read/all/14381) [](http://find-bride.com/profile/addfriends/addGirl/14381)
-
-Privacy Policy
 
 Please, read carefully the information below which continues the main statements of the privacy policy of Find-Bride.com including the information which will help you to make you own decisions about the personal privacy.  
 When you visit any website including Find-Bride.com you’re sharing your personal data with the sourse so it is necessary to read the information below.  
@@ -43,27 +29,4 @@ If you ever wish all your personal data to be deleted, please, contact us via th
 
 5\. Payment information  
 The secure of the payment information is guaranteed by our payment processor Multicards.com. As well as any other personal information it may never be shared with any third parties.  
-If you ever experience any payment issues with Find-Bride.com, please, contact us through the “help” form. 
-
-now online
-
-[](http://find-bride.com/photo/full/a2/1369828993hplf.jpg)
-
-now online
-
-[](http://find-bride.com/photo/full/mybride/1399301442hpqw.jpg)
-
-now online
-
-[](http://find-bride.com/photo/full/mybride/1400271024hp9u.jpg)
-
-now online
-
-[](http://find-bride.com/photo/full/mybride/1399880846hple.jpg)
-
-now online
-
-[](http://find-bride.com/photo/full/mybride/1401572742hppg.jpg)
-
-  
-
+If you ever experience any payment issues with Find-Bride.com, please, contact us through the “help” form.
