@@ -1,17 +1,11 @@
-> *The following text is extracted and transformed from the aq3d.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116055937id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aq3d.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213175544id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
 
 # Artix Entertainment Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.aq.com&sealid=105)
+**Artix Entertainment LLC** provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. **  
+**
 
-**Artix Entertainment LLC** provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. ****
-
-**Artix Entertainment, LLC**
-
-has been awarded **TRUSTe Children’s Privacy and Privacy Seal** signifying that this privacypolicy and practices have been reviewed by TRUSTe for compliance with TRUSTE's [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program covers the sites [www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), [www.herosmash.com](http://www.herosmash.com/), [www.artix.com](http://www.artix.com/), [www.epicduel.com](http://www.epicduel.com/), [www.aq3d.com](http://www.aq3d.com/), [www.ebilgames.com](http://www.ebilgames.com/) and [www.aq.com](http://www.aq.com/) and does not cover information that may be collected through downloadable software or through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trustsolutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at   
-. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-This privacy statement covers the Web Sites:[www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), [www.herosmash.com](http://www.herosmash.com/), [www.artix.com](http://www.artix.com/), [www.epicduel.com](http://www.epicduel.com/), [www.aq3d.com](http://www.aq3d.com/), [www.ebilgames.com](http://www.ebilgames.com/) and [www.aq.com](http://www.aq.com/). Because these Web Sites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. 
+This privacy statement covers the Web Sites: [www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), <http://herosmash.artix.com/>, [www.artix.com](http://www.artix.com/), <http://epicduel.artix.com/>, <http://oversoul.artix.com/>, [www.ebilgames.com](http://www.ebilgames.com/) and [www.aq.com](http://www.aq.com/). 
 
 Artix Entertainment LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Artix Entertainment LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Artix Entertainment LLC’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
@@ -115,9 +109,6 @@ Founded in 1998, PayPal, an eBay Company, enables any individual or business wit
 
 **PlaySpan**  
 Founded in 1998, PlaySpan offers over 100 methods of payment, including cash and money order methods (additional fees may apply). To find out more about PlaySpan and its privacy and security policies, please visit [www.playspan.com](http://www.playspan.com/)
-
-**ClickAndBuy**  
-Founded in 2001, ClickAndBuy enables individuals or businesses with an email address the ability to securely and easily send and receive payments online. To find out more about ClickAndBuy and its privacy and security policies, please visit [www.clickandbuy.com](http://www.clickandbuy.com/).
 
 **Cherry Credits**  
 Cherry Credits allows individuals or businesses to make payments without the dominant use of Credit Cards. To find out more about Cherry Credits and its privacy and security policies, please visit [www.cherrycredits.com](http://www.cherrycredits.com/).
