@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vaporzone.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001728id_/http%3A//www.vaporzone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporzone.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213111203id_/http%3A//www.vaporfi.com/privacy.html) for the most accurate reproduction.*
 
-# VaporZone | Privacy Policy
+# VaporFi | Privacy Policy
 
 Effective September 1, 2013
 
@@ -8,7 +8,7 @@ Effective September 1, 2013
 
 Click here for our Terms of Use
 
-VaporZone electronic cigarette products are intended for use exclusively by adult smokers and in no way ever intended for use by pregnant women or those who have nicotine sensitivities. Nicotine, as it is commonly known, is a highly addictive substance and may possess unknown health dangers. VaporZone electronic cigarettes are not intended for use as smoking cessation devices; they are merely alternatives for those who wish to use smoke-free, tobacco-free devices that provide utmost pleasure.
+VaporFi electronic cigarette products are intended for use exclusively by adult smokers and in no way ever intended for use by pregnant women or those who have nicotine sensitivities. Nicotine, as it is commonly known, is a highly addictive substance and may possess unknown health dangers. VaporFi electronic cigarettes are not intended for use as smoking cessation devices; they are merely alternatives for those who wish to use smoke-free, tobacco-free devices that provide utmost pleasure.
 
 #### SURGEON GENERAL'S WARNING: 
 
@@ -26,9 +26,9 @@ Your privacy is not something we take lightly, as we are committed to building s
 
 We wish to communicate what forms of information we collect from you, how this information can be used and protected, and you are able to control its use.
 
-This statement is designed to disclose the privacy practices of Cavo Partners, Inc. d/b/a VaporZone.* By using this website, you are agreeing to be bound by this Privacy Policy, without qualification or limitation.
+This statement is designed to disclose the privacy practices of Cavo Partners, Inc. d/b/a VaporFi.* By using this website, you are agreeing to be bound by this Privacy Policy, without qualification or limitation.
 
-The information contained within this Privacy Policy strictly applies to the collection and use of information by VaporZone on this website. It does not apply to any of the information you send to us by other means. Any alterations or modifications to this Privacy Policy will be communicated here on this page, so it is important to check back on occasion.
+The information contained within this Privacy Policy strictly applies to the collection and use of information by VaporFi on this website. It does not apply to any of the information you send to us by other means. Any alterations or modifications to this Privacy Policy will be communicated here on this page, so it is important to check back on occasion.
 
 #### Who is permitted to use this website. 
 
@@ -50,34 +50,34 @@ When you provide personal information, it is used to customize your online exper
 
 We use personal information to respond directly to requests you may make of us, as well as reference this information should we feel the need to better understand your needs and how we may be able to improve our services, products, and website. We may also be inclined to use this personal information to contact you and/ or provide information we deem may be useful to you such as promotions. There is a possibility that we may share this information with additional companies whose products and services may be of interest to you. There is also a possibility we may enhance or merge this information with data we obtain from third parties for these same intended purposes. Unless specified that you wish not to receive communications from us, we may also send you promotional and/or administrative communications via the email address you have provided. Terminating these communications typically takes a period of 48 hours to take hold from the time you give us notice.
 
-Information such as your computer’s IP address, the browser you use, and a navigation record are types of the information our system gathers, and it is used for purposes of improving our products, services, and website, enhancing convenience, and providing useful content to our audience. The collection of data is also done to further our goal of providing top service, as well as useful content, beneficial advertisements, and products that are going to appeal to you. In this manner, we may link information we have collected from you through a variety of means including automatically as well as through the use of cookies and personal information, and the information gathered via VaporZone’s Customer Care and Home Delivery Program.
+Information such as your computer’s IP address, the browser you use, and a navigation record are types of the information our system gathers, and it is used for purposes of improving our products, services, and website, enhancing convenience, and providing useful content to our audience. The collection of data is also done to further our goal of providing top service, as well as useful content, beneficial advertisements, and products that are going to appeal to you. In this manner, we may link information we have collected from you through a variety of means including automatically as well as through the use of cookies and personal information, and the information gathered via VaporFi’s Customer Care and Home Delivery Program.
 
 #### Your Options Regarding the Usage of Your Personal Information. 
 
-*You always hold the option to not provide personal information, even if it is necessary to take part in VaporZone offers or website features.
+*You always hold the option to not provide personal information, even if it is necessary to take part in VaporFi offers or website features.
 
 *You have the option to alter, add to, or update certain information you send to us. Let it be known however, when information is updated we usually retain a copy of the original version in our records.
 
-*If you wish not to receive email communications or other mail from us, of if you want to check your personal information, please feel free to contact us via email at service@vaporzone.com
+*If you wish not to receive email communications or other mail from us, of if you want to check your personal information, please feel free to contact us via email at service@vaporfi.com
 
 #### Access to Your Personal Information. 
 
-VaporZone may use your personal information to reply to you as well as to send information to you. In no way does VaporZone intend to disclose personal information to third parties except those explicitly stated in this Privacy Policy. It should be known that VaporZone will provide aggregated information, which we receive from you, to third parties. VaporZone takes commercially accepted precautions in efforts of preventing this information from including personal information.
+VaporFi may use your personal information to reply to you as well as to send information to you. In no way does VaporFi intend to disclose personal information to third parties except those explicitly stated in this Privacy Policy. It should be known that VaporFi will provide aggregated information, which we receive from you, to third parties. VaporFi takes commercially accepted precautions in efforts of preventing this information from including personal information.
 
-In the event that VaporZone, or our assets are sold, transferred, or used as security, the personal information we have collected through our website may become transferred to third parties in connection with that transaction. VaporZone may also give access to, or provide personal information to any of our business affiliates and/ or business partners.
+In the event that VaporFi, or our assets are sold, transferred, or used as security, the personal information we have collected through our website may become transferred to third parties in connection with that transaction. VaporFi may also give access to, or provide personal information to any of our business affiliates and/ or business partners.
 
-In the event that VaporZone is requested by law enforcement officials and/or judicial authorities to provide personal information on individuals who have used our system, VaporZone may, without your consent, provide any of this information. In matters that involve claims of public or personal safety or litigation where this data is considered pertinent, VaporZone may use or disclose your personal information without your consent or court process.
+In the event that VaporFi is requested by law enforcement officials and/or judicial authorities to provide personal information on individuals who have used our system, VaporFi may, without your consent, provide any of this information. In matters that involve claims of public or personal safety or litigation where this data is considered pertinent, VaporFi may use or disclose your personal information without your consent or court process.
 
 #### Will Your Personal Information Be Secure? 
 
-VaporZone recognizes and understands your concerns on the subject of safety and security regarding your personal information. We are 100% committed to using reasonable technology to protect your information as well as the overall security of our website. With that said, it should be noted that even with such advanced technology, no website is 100% secure. We take reasonable precautions and measures, which we firmly believe are appropriate for protecting your information from alteration, abuse, misuse, loss, and/ or destruction. We also request that any third parties we are affiliated with, whom we may transfer your information to take the same or comparable steps to protect your information and security.
+VaporFi recognizes and understands your concerns on the subject of safety and security regarding your personal information. We are 100% committed to using reasonable technology to protect your information as well as the overall security of our website. With that said, it should be noted that even with such advanced technology, no website is 100% secure. We take reasonable precautions and measures, which we firmly believe are appropriate for protecting your information from alteration, abuse, misuse, loss, and/ or destruction. We also request that any third parties we are affiliated with, whom we may transfer your information to take the same or comparable steps to protect your information and security.
 
-#### VaporZone Privacy Policy and Outside Links. 
+#### VaporFi Privacy Policy and Outside Links. 
 
-VaporZone Privacy Policy applies only to this website, however our website does contain links to outside sites that are beyond our control. Be advised that these sites have the potential to collect personal information about you, and they will operate according to their own privacy practices that may differ from our own Privacy Policy. It is advised that you consult any such websites’ privacy policies, as once you are no longer on VaporZone’s website, any of the information you submit is beyond our control.
+VaporFi Privacy Policy applies only to this website, however our website does contain links to outside sites that are beyond our control. Be advised that these sites have the potential to collect personal information about you, and they will operate according to their own privacy practices that may differ from our own Privacy Policy. It is advised that you consult any such websites’ privacy policies, as once you are no longer on VaporFi’s website, any of the information you submit is beyond our control.
 
 #### Questions Regarding This Privacy Policy. 
 
-Should you have any questions, concerns, or comments regarding our privacy practices, please do not hesitate to e-mail us at service@VaporZone.com
+Should you have any questions, concerns, or comments regarding our privacy practices, please do not hesitate to e-mail us at service@VaporFi.com
 
 This policy was last updated on September 1, 2013
