@@ -1,91 +1,79 @@
-> *The following text is extracted and transformed from the publicknowledge.org privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620093335id_/http%3A//www.publicknowledge.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicknowledge.org privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213141834id_/https%3A//www.publicknowledge.org/privacy) for the most accurate reproduction.*
 
-# Privacy - Public Knowledge
+# Privacy Policy - Public Knowledge
 
-**Our Commitment To Privacy**
+As a nonprofit organization that focuses on consumer and technology issues, we know that privacy is a concern for many visitors to our website. This page describes Public Knowledge's practices in collecting and using information from this website, and is intended to allow you to make informed choices about how you interact with it.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on the footer of every page on the site.
+## How we protect you when accessing our website
 
-**Information We Collect, How We Use It, and How You Can Change It**
+As you may know, surveillance of the Internet is a substantial problem, both as a policy matter for organizations such as Public Knowledge and as a practical matter for individual website viewers like you who may wish to maintain anonymity in browsing habits. To protect you from others eavesdropping on you when accessing our website, we implement [Transport Layer Security](http://en.wikipedia.org/wiki/Transport_Layer_Security) (commonly known as TLS or SSL), which encrypts the content of data transmitted to and from our website.
 
-This notice applies to all information collected or submitted on the Public Knowledge website.
+Encryption protects the information that you send to our site and that we send back to you. This means, for example, that an eavesdropper would not be able to determine which pages on our site you visit solely from your Internet traffic. However, it does not protect you from, for example, (1) others discovering that you have visited our site generally, (2) others determining which pages you have visited by obtaining logs from the website, and (3) others determining your interactions with our website based on interactions with services that we use, as described in the next section.
 
-**Support Pages**
+## What information do we collect?
 
-On some pages you can support Public Knowledge by making donations or purchasing merchandise. To facilitate fund transfers we use third-party payment services offered by Paypal and/or Google. These services maintain a separate relationship with you in order to safeguard your financial information. You may review Paypal's privacy policy here and Google's privacy policy here. These services will return the following information to us:
+**Web visit information.** Generally, we collect standard information about web visits to the site, www.publicknowledge.org and other sites operated by Public Knowledge. This information includes your IP address, the pages you visit, the time and date of your visit, the User-Agent identified by your web browser, and the referring page from which you accessed our site. Additionally, the site makes use of cookies designed to remain on your computer for a period of time, which contain information including unique identifiers that help us associate your multiple page visits into a single session.
 
-Name  
-Mailing address  
-E-Mail address  
-Phone number
+**Services that we use.** Public Knowledge believes in a rich ecosystem of Internet services that provide you with a multitude of experiences, and our website takes advantage of that Internet diversity. Our website uses various third-party services that assist us in providing you with useful content and features. These services may collect information from you, and may provide some or all of that information to us. By using our website, you will access some or all of these third-party services, possibly automatically. A listing of these services, along with their corresponding privacy policies, is provided below:
 
-We use this information to: ship merchandise you may order; send donation receipts for your tax records; and/or contact you via e-mail or telephone to request additional information required to complete your order. We do not share this information with outside parties except to the extent necessary to complete your order, or as required by law.
+  * Sunlight Foundation: [Privacy policy](http://sunlightfoundation.com/legal/privacy/)
+  * Google Analytics: [Privacy policy](http://www.google.com/intl/en/policies/privacy/)
+  * Nation Builder: [Privacy policy](http://nationbuilder.com/privacy) | [Confidentiality policy](http://nationbuilder.com/confidentiality)
+  * Facebook: [Data use policy](https://www.facebook.com/policy.php)
+  * Twitter: [Privacy policy](https://twitter.com/privacy)
+  * PopVox: [Privacy policy](https://www.popvox.com/legal)
+  * ConstantContact: [Privacy statement](http://www.constantcontact.com/legal/privacy-statement)
+  * PayPal: [Privacy policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
 
-**Action Alerts**
 
-On some pages you can respond to an Action Alert raised by Public Knowledge. On these pages we collect the following personal information:
 
-Name  
-E-Mail address  
-Mailing address  
-Your comments/views on the issue at hand
+This list will be kept up-to-date to the extent possible, but cannot be guaranteed to be complete.
 
-We use this information to forward your comments to your own elected representative(s) or to determine its eligibility for submission to regulatory agencies. We do share this information with those representatives or agencies and, in most cases, it becomes a matter of public record that can be accessed outside the scope of our site.
+### How can you change incorrect information?
 
-**User Registration**
+If you believe we have incorrect information about you, and the error in that information is causing problems for you or others, then you may contact us to have that information corrected. Where we are capable of correcting an error, we will try to do so. However, in some cases the error may lie with a third-party service as described above, and we may not have the ability to correct it, in which case we will refer you to the appropriate third-party service.
 
-If you want to post comments to selected items on the PK site you are required to register. When registering we collect the following information:
+### Can children access our site?
 
-Name  
-E-Mail address
+Public Knowledge is a nonprofit organization, so the Children's Online Privacy Protection Act of 1998 does not apply. Nevertheless, we strive to maintain the privacy of personal information of all visitors to our site, including children. As explained above, our website does not collect personal information directly from visitors. Information may be collected by third-party services, in which case their procedures will apply. If we become aware that we have personal information from a child under 13, we will take steps to remove it immediately.
 
-We also ask for, but do not require, the following information:
+## How do we use your information?
 
-Whether or not you wish to subscribe to our e-mail list  
-Affinity group  
-Whether or not you are a registered voter  
-Whether or not technology or intellectual property concerns have a major influence on who you vote for  
-Organization  
-Mailing address
+**Web visit information.** The information we collect on your web visits is primarily used for internal analytics. For example, we may use this data to:
 
-We use this information to learn about the characteristics of our website audience and to determine what kind of communications you wish to receive from us. We will not share personally identifiable information with third parties unless required by law. We may share, or publish, aggregate information (e.g. how many Libertarians participated in a particular action alert) to funders, policy makers, and the public. You may update this information at any time by logging into your account and choosing the edit tab displayed above the information you've entered. If you wish to have your account removed from the system please e-mail a request to pk@publicknowledge.org.
+  * fix problems with our website server
+  * identify popular or interesting content on our site
+  * monitor aggregate statistics about our site's visitors
 
-**Mailing List Subscriptions**
 
-If you wish to receive news and action alert items from us you may sign up for our e-mail mailing list. When signing up we collect the following information:
 
-Name  
-E-Mail Address
+**Services that we use.** We use data from third-party services for all of the purposes for which we use web visit information. We also use that data to perform actions that you request of us. These actions include, for example:
 
-We use this information to send e-mail notices to you. We will not share this information with third parties unless required by law. You may remove yourself from the list sending you the mailing at any time by selecting the unsubcribe link found at the end of every message we send you.
+  * joining our mailing list
+  * making a donation to us
+  * sending you merchandise you purchase from our site
+  * signing petitions or letters
+  * connecting you with members of Congress
 
-**Website Cookies**
 
-When you access pages on the PK website we send one or more cookies -- a short string of characters -- to your computer that uniquely identifies your browser. This identity is used to authenticate and authorize your access to services provided on the website. We will not share this identify information with third parties unless required by law.
 
-We use the Google Analytics service, which will also place cookies in your browser. This service allows us to analyze the performance of the website and make improvements where needed. We will not share any individually identifiable information collected with third parties unless required by law. We may share, or publish, aggregate information (e.g. number of unique visitors in a given month) to funders, policy makers, and the public.
+In cases where you provide personal information specifically in connection with a particular action or service we provide, we will not use your information for other purposes that you do not authorize.
 
-You may disallow cookies in your browser and still read our site anonymously, but you will not be able to post comments.
+## How do we share your information?
 
-**RSS Feeds**
+We generally do not share, rent, or sell information collected from this site with anyone outside of Public Knowledge, except in the manner described when you provide that information. We do not rent, sell, or share Web visit information collected as described above. We do use third-party services for managing information we collect, such as those described above, and some information is stored on servers outside of our control, but we believe that these services will maintain appropriate confidentiality of the information they receive from us, in accordance with their respective privacy policies or other policies.
 
-We use Google's FeedBurner service for publishing RSS feeds. This service embeds tracking images into the feeds and enables us to track how many individuals subscribe to each feed and how often feed item links are selected to access full articles on the PK site. We will not share any individually identifiable information collected with third parties unless required by law. We may share, or publish, aggregate information (e.g. number of unique visitors in a given month) to funders, policy makers, and the public.
+Of course, if you provide information to us that you intend to be shared, we will share it. For example, if you sign a petition to Congress, your name and geographic location may be shared with the member of Congress receiving the petition.
 
-You may disallow image loading in your RSS feed reader and still view our posts anonymously.
+We also will share information with others in particular circumstances:
 
-**Log Files**
+  * to comply with a law or legal order, such as a subpoena, that we believe to be valid and properly issued
+  * to protect the safety of a person or prevent serious harm
+  * to support internal operations of our website, such as maintaining or fixing it
+  * to provide aggregate information, such as numbers of visitors per month, in a manner that does not identify individuals
 
-Our web server generates a log entry for each item requested. Logs are reviewed daily to detect problems with the site (e.g. broken links) and vulnerability scans. Reports are generated weekly to quantify requests to resources that aren't trackable by Google Analytics (e.g., PDF documents, audio files, and video files.) We will not share any individually identifiable information collected with third parties unless required by law. We may share, or publish, aggregate information (e.g. number of unique visitors in a given month) to funders, policy makers, and the public.
 
-**Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+## How can you contact us?
 
-**How To Contact Us**
-
-Should you have other questions or concerns about these privacy policies, please send us an email at [pk@publicknowledge.org](mailto:pk@publicknowledge.org).
-
-Public Knowledge  
-1875 Connecticut Ave, NW  
-Suite 650  
-Washington, DC 20009
+If you have questions about this privacy policy, or wish to contact us for any of the reasons described above, you may reach Public Knowledge at the contact information on [this page](https://www.publicknowledge.org/about-us/contactus).
