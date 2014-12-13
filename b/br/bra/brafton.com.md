@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brafton.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015656id_/http%3A//www.brafton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brafton.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213193020id_/http%3A//www.brafton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ We are strongly committed to protecting users’ privacy, and this sets out our 
 
   2. ### Information collected:
 
-Brafton utilizes various Javascript-based tracking softwares (notably Google Analytics) to gauge demographics and other relevant data of our on-site web visitors. We do not install any type of software that tracks you or your browsing device “outside the walls” of Brafton.com. If you wish to opt-out of any type of visitor tracking, we recommend disabling Javascript in your browser options.
+Brafton utilizes various Javascript-based tracking softwares (notably Google Analytics) to gauge demographics and other relevant data of our on-site web visitors. If you wish to opt-out of any type of visitor tracking, we recommend disabling Javascript in your browser options.
 
   3. ### Use of information:
 
@@ -16,11 +16,11 @@ In general, we will only use the information you provide to us for the purpose f
 
   4. ### IP addresses:
 
-We use IP addresses to collect statistical information about the areas of the system that users are visiting, and general “traffic” data. Such information does not relate to the use being made of the system by a particular user in relation to identifiable items being viewed. This information allows us to determine what is most beneficial for its users, and facilitates us in continually improving the overall site for our users.
+We use IP addresses to collect statistical information about the areas of the system that users are visiting, and general “traffic” data and to identify a particular user in relation to items being viewed. This information allows us to determine what is most beneficial for users, and facilitates us in continually improving the overall site for our users.
 
   5. ### Cookies:
 
-A “cookie” is a small amount of data that is sent to a user’s browser from a web server and stored on a user’s computer, used to store and track information about the user. Brafton utilizes basic cookies to enable caching of our content in your browser to help accelerate page loading performance. You can disable cookie storage via your browser’s content settings.
+A “cookie” is a small amount of data that is sent to a user’s browser from a web server and stored on a user’s computer, used to store and track information about the user. When you visit our site, Brafton may use cookies containing information (such as a unique user ID) used to track your usage of our site, and may be used to send you ads or offers. Brafton also utilizes basic cookies to enable caching of our content in your browser to help accelerate page loading performance. You can disable cookie storage via your browser’s content settings.
 
   6. ### Customer Data Confidentiality:
 
@@ -56,5 +56,3 @@ Should we use e-mail news alerts or other services you sign up, you may opt-out 
     * visit brafton.com, and follow the on-screen instructions.
 
 
-
-Last revised 29th November 2011
