@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvids.net privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614011023id_/http%3A//www.tvids.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvids.net privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213112910id_/http%3A//www.tvids.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
