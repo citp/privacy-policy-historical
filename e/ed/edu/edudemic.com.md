@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edudemic.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527114844id_/http%3A//www.edudemic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edudemic.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213195229id_/http%3A//www.edudemic.com/privacy) for the most accurate reproduction.*
 
-# Terms & Privacy Policy - Edudemic
+# Terms & Privacy Policy | Edudemic
 
 Thank you for visiting Edudemic. This terms and conditions policy and privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. **By using the site, you are accepting the practices described in this privacy policy.**
 
