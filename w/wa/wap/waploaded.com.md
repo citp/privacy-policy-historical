@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the waploaded.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171351id_/http%3A//waploaded.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waploaded.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213062054id_/http%3A//www.waploaded.com/docs/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy
+# Privacy Policy - Waploaded
 
 ### We take your privacy seriously.
 
@@ -24,9 +22,14 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
+### Our Video Hosting Policy.
+
+All These Videos On Waploaded Are Hosted On Popular Video Hosting Websites, And Are Licensed To Different Channels. We Only Provide Them For streaming For Our Users By Carefully Under Acknowledging Copyright Rules Copy Them To Our Servers. You Can Read Our [Content Removal](http://www.waploaded.com/docs/content-removal) if anyOne Holds Bound to Run On Our Platform. 
+
 ### Contact Information
 
 Concerns or questions about this privacy policy can be directed to an Administrator at Waploaded.Com for further clarification.  
 1) A word filter has been put in place to prevent forum members from using sexually explicit words in their posts.   
-2) Our Members have been informed that they need to keep their words clean if the Website is to survive.   
-3) A privacy policy has been drafted for Waploaded. See: http://www.waploaded.com/privacy.php 
+2) Our Members have been informed that they need to keep their words clean if the Website is to survive. 
+
+Written: Aug 23; Updated: Dec 09; Read: 2893 times
