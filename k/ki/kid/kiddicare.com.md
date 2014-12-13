@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627070827id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213011354id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
 
 # Kiddicare - Privacy and Cookies| Online baby shop | Nursery Equipment
 
   
-KIDDICARE.COM LIMITED PRIVACY POLICY
+WORLDSTORES KIDDICARE LIMITED PRIVACY POLICY
 
 You should know what information about you we collect and how we use it. 
 
 This issue is very important to us, so we have set out full details in this policy. 
 
 Please take the time to read this policy in full and understand it. By using our websites and mobile apps, contacting us by telephone or otherwise providing information to us (for example through our stores or social media), you agree to its terms.
+
+Stopping our marketing. We provide the means for you to stop all email and test (SMS or MMS) communications you receive from us – please see the ‘unsubscribe’ link and ‘STOP’ details we include in each email and text respectively. If you don’t have an email to directly unsubscribe from then you can send an email to [hello@kiddicare.com](mailto:hello@kiddicare.com) stating that you wish to be unsubscribed from marketing communications. Alternatively you can call customer services on 0345 164 7000 and speak to one of our customer service reps who will be able to assist.
 
 To be helpful, we’ve included some links to other websites in this policy. Please note that these websites are controlled by other people, not us, and we are not responsible for them.
 
@@ -54,7 +56,7 @@ We use the information we collect for many different things:
   * To enable you to buy things from us both in store and over the internet, which again requires a certain amount of information to be collected, for example your payment card details so we can take payment and the things in your basket so we can provide you with a receipt;
   * To enable us to run competitions and offers for which you have signed up, about which we need to be able to communicate with you;
   * To gather feedback from you about our products, websites, mobile apps, other services and activities from time to time. We may invite you to provide this feedback on occassion, for example by emailing you to ask you if you would like to review a product you have bought or a service you have used. We may use independent research and feedback providers to do so on our behalf. 
-  * To contact you from time to time about things you have told us you want to hear about, for example our products, news, offers, new competitions and sponsored events; 
+  * To contact you from time to time about our products, news, offers, competitions and events - those of both WorldStores Kiddicare Ltd and other brands owned by WorldStores Ltd - and any other things you have told us you want to hear about.
   * To respond to any questions, suggestions, issues or complaints you have raised with us;
   * To respond to any social media posts or other public comments you make where these are made directly to or about us, our products, websites, mobile apps, services or other activities;
   * To communicate with you about operational changes to our products, services, websites and mobile apps, for example if we were to withdraw one of our apps, or change this privacy policy;
@@ -94,7 +96,6 @@ We only share your information where we can do so in accordance with our legal d
 
 We share the information we collect with:
 
-  * all of the Morrisons’ group companies, brands and business units that have relationships with our customers and users, for example, between Kiddicare and Morrisons, between our online business at Kiddicare.com, MorrisonsCellar and Morrisons.com, and between our store-based businesses. We do so because we hope to have a relationship with you across all of these different brands and businesses, if not now, then in the future, and we want to be able to provide you with the same value and high quality of experience wherever you choose to interact with us;
   * other people and businesses who help us provide our websites, mobile apps, in-store WIFI networks, stores and related services to you, for example, information technology companies who design and host our websites, and payment services companies who enable you to use credit or payment cards with us;
   * our insurers and insurance brokers where required in order for us to be able to obtain insurance against risks we face in running our business;
   * banks and finance companies where we have allowed them to offer you the possibility of purchasing products on credit or through a loan arranged through our stores or on online.
@@ -164,7 +165,7 @@ We need your help in doing so though. If you have any online account with us, pl
 You have a number of rights which we respect and aim to uphold in all that we do. These rights include:
 
   1. Correcting inaccurate information. If you have reason to believe any of the information we collect on you may be inaccurate, and you cannot correct such inaccuracy yourself through your registered accounts with us, please contact us (see below for how to do this). 
-  2. Stopping our marketing. We provide the means for you to stop all email and test (SMS or MMS) communications you receive from us – please see the ‘unsubscribe’ link and ‘STOP’ details we include in each email and text respectively. We also check all our post and telephone marketing activity against the UK mail and telephone preference services, so you can register with these services as one way of stopping any such communications from us. You can also contact us at any time using the details below and let us know what you would like us to change.
+  2. Stopping our marketing. We provide the means for you to stop all email and test (SMS or MMS) communications you receive from us – please see the ‘unsubscribe’ link and ‘STOP’ details we include in each email and text respectively. If you don’t have an email to directly unsubscribe from then you can send an email to [hello@kiddicare.com](mailto:hello@kiddicare.com) stating that you wish to be unsubscribed from marketing communications. Alternatively you can call customer services on 0345 164 7000 and speak to one of our customer service reps who will be able to assist.
   3. Asking us about your information. You have the right to ask us whether we hold information about you and if so, for us to give you certain details about that information and/or the information itself. This right is commonly known as a ‘subject access request’. Certain exemptions and conditions apply to this right, including that it should be in writing and that you give us reasonable details about the information you seek.
   4. Reviewing our use of automatic computer processing. You can ask us to have one of our staff review a decision about you which has been taken automatically by computer. One common example is if we decline an order you place with us online or through one of our mobile apps for anti-fraud or credit check reasons. Please note that these decisions can come about due to policy decisions taken by banks, card and payment processing companies, and credit reference agencies who separately hold information about you and to resolve them you may have to speak to them directly.
 
@@ -198,30 +199,13 @@ All CCTV footage is captured purely for your security and for the prevention and
 
 **ABOUT US**
 
-Our full legal name is Kiddicare.com Limited.
+Our full legal name is WorldStores Kiddicare Limited.
 
-We are a private limited company incorporated in England and Wales. Our registered company number is 07500101 and our registered address can be found through the ‘Contact us’ section.
+We are a private limited company incorporated in England and Wales. Our registered company number is 09237297 and our registered address can be found through the ‘Contact us’ section.
 
 We are what is known as the ‘data controller’ of the information you provide to us. This term is a legal phrase used to describe the person or entity who controls the way information is used and processed.
 
 We are registered under the Data Protection Act 1998 with the Information Commissioner’s Office in the UK. Our registration number is Z7411179. 
-
-**ABOUT MORRISONS**
-
-We are part of the group of companies owned by WM Morrison Supermarkets PLC. You can find more information about Morrisons and its group at its website [www.morrisons.com](http://www.morrisons.com/)
-
-WM Morrison Supermarkets PLC is a public limited company incorporated in England and Wales. Its registered company number is 358949 and our registered address can be found through the ‘Contact us’ section.
-
-It is registered under the Data Protection Act 1998 with the Information Commissioner’s Office in the UK. Its registration number is Z5225696. 
-
-As set out above, we share your information with the wider Morrisons group for the purposes set out in this policy. 
-
-In addition to the information set out above, you should also be aware that Morrisons collect:
-
-  * Your Morrisons Miles card number (if you have one) and related fuel transaction details such as the amount of fuel you bought, and the time and place you bought it;
-  * Additional basic background information on you available from government sources. Morrisons use the Driver Vehicle Licensing Agency to trace number plates and owners in the event of drive-offs from our stores or petrol-stations.
-
-
 
 **WHERE TO GO IF YOU WANT MORE INFORMATION ABOUT YOUR PRIVACY RIGHTS**
 
@@ -242,8 +226,6 @@ Our contact details are set out [here ](https://community.kiddicare.com/kiddicar
 Thank you for taking the time to visit read about how we use your information.
 
 Happy and safe browsing!
-
-Kiddicare is part of the WM Morrison Supermarkets PLC group of companies
 
 **Cookie Policy**
 
@@ -514,39 +496,5 @@ Some providers of third party cookies give you the means to opt-out of the servi
 The main way to manage all cookies and similar technologies that are set on your computer or mobile phone is through adjusting your web browser settings. In practice, this process will result in some or all of them being blocked.
 
 You'll need to consult your browser's user guide to see how you can use it to restrict or block cookies and similar technologies. Some browsers are more sophisticated than others in managing these technologies, so if you want greater controls, it would be worth comparing a few of them.
-
-Return to top of page
-
- **What will happen if you choose to restrict or block cookies?**
-
-If you choose to restrict or block cookies and similar technologies on your computer and/or mobile phone on average your browsing experience will change.
-
-The extent of the changes will differ from website to website, depending on how they use cookies and similar technologies. Some websites may be completely unaffected, but you may see great changes to others. Your browsing experience may become less interactive, less personal to you, contain more error messages, and certain websites may not work at all, or at least not as you have come to expect. For example, you may see fewer adverts, but you may not be able to buy as many things online because website shopping baskets are normally powered by cookies.
-
-Our website is designed to use cookies, so it may be affected by some or all of the issues set out above, as well as others not listed here. In particular, your shopping experience on our website will be limited to browsing and research, and you won't be able to add products to your basket or buy them.
-
-Return to top of page
-
-**Updates to this cookie policy**
-
-We review our use of cookies and similar technologies regularly (see our 'How do we use cookies' tab for full details). 
-
-In doing so, we may change the cookies and other technologies we use, and how we use them.
-
-As a result, we will need to change this policy from time to time to keep it accurate and up to date.
-
-If we change this policy, we will tell you when you next visit our website, and give you a link to our revised policy. That way you can check to see if you are happy with our new arrangements and adjust your browser settings if you want to, before proceeding any further. Entering the website will constitute your acceptance, whether or not you choose to review these changes.
-
-Please look out for these notices in future when you are using our website.
-
-Return to top of page
-
-**Contact us**
-
-If you want any further information about our approach to cookies and similar technologies, our websites in general or have any other privacy questions relating to us, we'd be happy to help you. Our contact details are Kiddicare.com, Club Way, Cygnet Park, Hampton, Peterborough, Cambridgeshire, England, PE7 8JA.
-
-Thank you for taking the time to visit our website and read about our use of cookies and similar technologies. 
-
-Happy and safe browsing!
 
 Return to top of page
