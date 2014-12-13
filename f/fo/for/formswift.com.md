@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the formswift.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114642id_/http%3A//formswift.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formswift.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214004806id_/http%3A//formswift.com/privacy.php) for the most accurate reproduction.*
 
 # FormSwift: Privacy Policy
 
 This privacy statement describes how King Street Labs, LLC ("KSL", "we", "us") collects and uses the Personal Information you willingly provide on our Web site: formswift.com. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. Personal Information is information about you, that is not otherwise available to the public, that you willingly provide to KSL in order to use or pay for our services.
 
-If you have questions or concerns regarding this policy, you should first contact us at [info@formswift.com](https://web.archive.org/web/20140625114642id_/http%3A//formswift.com/contactUs.php?subject=Privacy).
+If you have questions or concerns regarding this policy, you should first contact us at [info@formswift.com](https://web.archive.org/web/20141214004806id_/http%3A//formswift.com/contactUs.php?subject=Privacy).
 
 ## Collection and Use of Personal Information
 
@@ -32,7 +32,7 @@ As is true of most Web sites, we automatically gather information about your com
 
 ## Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@formswift.com](https://web.archive.org/web/20140625114642id_/http%3A//formswift.com/contactUs.php?subject=Unsubscribe).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@formswift.com](https://web.archive.org/web/20141214004806id_/http%3A//formswift.com/contactUs.php?subject=Unsubscribe).
 
 ## Information Sharing
 
@@ -60,13 +60,13 @@ Our Site may include links to other Web sites whose privacy practices may differ
 
 ## Security
 
-When we collect Personal Information directly from you, we follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@formswift.com](https://web.archive.org/web/20140625114642id_/http%3A//formswift.com/contactUs.php?subject=Security%20concern%20issue)
+When we collect Personal Information directly from you, we follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@formswift.com](https://web.archive.org/web/20141214004806id_/http%3A//formswift.com/contactUs.php?subject=Security%20concern%20issue)
 
 In order to make a purchase from us, you must use our third party credit processing vendor to finalize and pay for your order. Its privacy statement and security practices will also apply to your personal Information. We encourage you to read that privacy statement before providing your information.
 
 ## Additional Policy Information
 
-To review, correct and update your personal information to ensure it is accurate, contact us at [info@formswift.com](https://web.archive.org/web/20140625114642id_/http%3A//formswift.com/contactUs.php?subject=Update%20personal%20information).
+To review, correct and update your personal information to ensure it is accurate, contact us at [info@formswift.com](https://web.archive.org/web/20141214004806id_/http%3A//formswift.com/contactUs.php?subject=Update%20personal%20information).
 
 ## Notification of Privacy Statement Changes
 
@@ -79,5 +79,5 @@ You can contact us about this privacy policy by writing or emailing us at:
 **King Street Labs, LLC**   
 2 Townsend Street, Unit 3200   
 San Francisco CA 94107   
-Email: [info@formswift.com](https://web.archive.org/web/20140625114642id_/http%3A//formswift.com/contactUs.php?subject=Privacy)   
+Email: [info@formswift.com](https://web.archive.org/web/20141214004806id_/http%3A//formswift.com/contactUs.php?subject=Privacy)   
 
