@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101825id_/http%3A//www.chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213051047id_/http%3A//chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms and Privacy | Chuck E. Cheese's
 
@@ -7,7 +7,7 @@
 
 
 
-[ ](https://privacy.truste.com/privacy-seal/CEC-Entertainment-Concepts,-L-P/validation?rid=024515d0-e4d5-4473-9d21-d9a316d14fd6 "TRUSTe Children privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/CEC-Entertainment-Concepts,-L-P/validation?rid=baa26886-96f6-491a-9608-20fb05882d01 "TRUSTe online privacy certification")
 
 [Spanish Version](https://web.archive.org/privacidad)
 
@@ -89,7 +89,7 @@ We will share your personal information with third parties only in the ways that
 
 **Service Providers**
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer services such as our Chat Feature. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, processing your payment, or offering customer services such as our Chat Feature. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 **Legal Disclaimer**
 
