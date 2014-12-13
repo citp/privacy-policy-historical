@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site-connect.net privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126234654id_/http%3A//site-connect.net/site%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site-connect.net privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213210013id_/http%3A//site-connect.net/site%7Eprivacy) for the most accurate reproduction.*
 
 # site-connect.net Privacy Policy
 
