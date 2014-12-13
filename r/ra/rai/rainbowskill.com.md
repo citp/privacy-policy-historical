@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbowskill.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510131539id_/http%3A//www.rainbowskill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowskill.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213080159id_/http%3A//www.rainbowskill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
