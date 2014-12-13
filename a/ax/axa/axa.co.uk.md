@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011205143id_/http%3A//www.axa.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213034911id_/http%3A//www.axa.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AXA UK
 
-AXA UK plc (“AXA UK”) is part of the AXA Group of companies, which take your privacy very seriously. This  Privacy Policy  tells you, in broad terms, how we use personal information that we collect from your use of the domain http://www.axa.co.uk (the ” **Website** ”) and all sub-domains of  the Website.
+  * AXA UK plc (“AXA UK”) is part of the AXA Group of companies, which take your privacy very seriously. This  Privacy Policy  tells you, in broad terms, how we use personal information that we collect from your use of the domain http://www.axa.co.uk (the ” **Website** ”) and all sub-domains of  the Website.
 
 This Privacy Policy and the Terms and Conditions of Use (together the “ **Terms and Conditions** ”) apply to your use of the Website. Please read the Terms and Conditions carefully.
 
@@ -30,14 +30,12 @@ The personal information AXA UK collects through the Website may include details
 
 Personal information is collected by AXA UK on the Website:
 
-  * via enquiry, registration, claim forms, feedback forms and forums;
-  * when you purchase any of our products or services;
-  * when you fill out a survey, or vote in a poll on this website;
-  * through applications;
-  * through feedback forms and web analytics tags; and
-  * when you provide your details to us either online or offline.
-
-
+    * via enquiry, registration, claim forms, feedback forms and forums;
+    * when you purchase any of our products or services;
+    * when you fill out a survey, or vote in a poll on this website;
+    * through applications;
+    * through feedback forms and web analytics tags; and
+    * when you provide your details to us either online or offline.
 
 We may also use cookies or similar technologies to collect website usage information. For further information, please see the section on Cookies above. In addition we may also collect IP addresses via a web analytics package.
 
@@ -57,10 +55,8 @@ Any personal information you supply to AXA UK via the Website or via any third p
 
 AXA UK is committed to delivering the rights that the Data Protection Act 1998 and Privacy and Electronic Communications Regulations provides to individuals. Amongst these are:
 
-  * the right to object to your personal information being used for direct marketing. We will give you the ability to object to this, and where required we will ensure we obtain your consent before undertaking marketing; and
-  * the right to request a copy of the personal information AXA UK holds about you.  To do this, please write to us with full details of what you require enclosing a cheque or postal order for £10 payable to AXA UK plc, at the following address:
-
-
+    * the right to object to your personal information being used for direct marketing. We will give you the ability to object to this, and where required we will ensure we obtain your consent before undertaking marketing; and
+    * the right to request a copy of the personal information AXA UK holds about you.  To do this, please write to us with full details of what you require enclosing a cheque or postal order for £10 payable to AXA UK plc, at the following address:
 
    
 Data Protection Officer  
@@ -118,3 +114,6 @@ AXA Direct Limited, a private limited company incorporated in England and Wales 
 AXA UK plc  
 Registered Company Number: 02937724  
 Registered Office: 5 Old Broad Street London EC2N 1AD
+
+
+
