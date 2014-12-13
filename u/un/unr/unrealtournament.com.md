@@ -1,180 +1,160 @@
-> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223442id_/http%3A//us.infogrames.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213091915id_/http%3A//epicgames.com/privacynotice) for the most accurate reproduction.*
 
-# Atari - US - Privacy
+# Epic Games Privacy Notice | Epic Games
 
-|  |   
----  
-[Home](https://web.archive.org/us/) \- [Privacy Policy](https://web.archive.org/us/privacy/)  
-|  |  |   
----|---|---  
-| 
+Last updated on March 19, 2014
 
-|  |  |  |   
----|---|---  
-|    
-**ATARI ONLINE PRIVACY STATEMENT**
+Epic Games and its corporate subsidiaries and affiliates (Epic Games International, S.à r.l., Chair Entertainment, Epic Games Poland, Epic MegaGames UK Ltd, Epic Games Korea, and Epic Games Japan) (collectively, “Epic”) respect your concerns about privacy. We want our users to understand the types of information we collect, how we use that information, how we secure it, and whether we share it. Please contact us if you have any questions about our privacy practices. When you use our websites, games and applications, you agree to our collection, use, disclosure, and transfer of information as described in this Notice, so please review it carefully and ask us questions if you have any.
 
-Last updated October 6, 2006
+## Our Collection and Use of Information
 
-Welcome to Atari!
+We generally collect or receive information in three ways: (1) you voluntarily provide information to us, such as by signing up for email alerts or creating an account, (2) we collect information automatically, such as through the use of cookies, and (3) other parties, such as social networks, may provide information to us. Each of these methods is described in more detail below.
 
-**OUR PRIVACY COMMITMENT**
+**(1) Information You Voluntarily Choose to Provide**
 
-[](http://www.esrb.org/confirm/atari-confirmation.jsp) Atari, Inc., and its subsidiaries and affiliates (collectively, "Atari") respect the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
+You may choose to provide your personal information to us when you use our websites, games, or applications, although some of our website, games, and applications require you to provide personal information in order to use some or all of its features. Because we change our offerings and features from time to time, the options you have to provide us with information also may change. The following are some examples of situations in which you may provide information to us when you:
 
-This Privacy Statement and the certification seal shown on this page confirms that Atari is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/). ESRB's Privacy Online Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
+  * Register with our websites, such as our forums or blogs, to participate in the discussions or features available there;
+  * Download one of our commercial products, such as a game or one of our game development tools;
+  * Create an account;
+  * Subscribe to license a game engine or other content;
+  * Use a social feature of our games or applications (described further in the section of this Notice titled “When You Use Social Features of Our Games and Applications”); 
+  * Purchase something from us or otherwise engage in a transaction with us; 
+  * Enter online competitions or register for or participate in special events; 
+  * Enter contests or sweepstakes, participate in any of our promotions, or accept any prizes from us; 
+  * Sign up for email alerts or subscribe to receive other information from us; 
+  * Complete a survey; 
+  * Use a mobile device, such as a phone, to play our games or use our applications; 
+  * Contact us for any reason, such as by email, including for technical support or customer service; 
+  * Use our websites, online services, software, or applications.
 
-**TABLE OF CONTENTS
 
-Q1. What information does this Privacy Statement cover?  
-Q2. What types of personally identifiable information do we collect about our guests?  
-Q3. How is your personally identifiable information used and shared?  
-Q4. What choices do you have about the collection, use, and sharing of your personally identifiable information?  
-Q5. What kinds of security measures do we take to safeguard your personally identifiable information?  
-Q6. How can you update your personal information and profile?  
-Q7. How can you ask questions, or send us comments, about this Privacy Policy?  
-Q8. How will you know if we amend this Privacy Policy?
 
-**
+The personal information we collect from you will vary depending on the services you are using, the sites you are visiting, and how you access those services and websites. The information you provide to us may include your name, your user ID, and your email address(es). If you choose to make a purchase, we will collect payment card information such as your card’s payment account number and expiration date. Sometimes we ask for your phone number (which may include mobile phone number), your postal address (often postal or zip code only), your date of birth, and your gender. For example, we may ask for your phone number so we can contact you if you win a prize in one of our contests or promotions and your date of birth so we can verify that you are old enough to participate in our contests and promotions.
 
-|  **Q1.**|  **What information does this Privacy Statement cover?**  
----|---  
-**A1.**|  This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Atari through any other means.
+In all of these situations, we will ask you to provide the information to us, but you may choose not to do so. We try to ask for only the information we genuinely need to provide you with the services, features, or communications you are requesting. In some cases, if you decide not to provide the information we have requested we may not be able to fulfill your request.
 
-This Privacy Policy applies to use and sharing of personal information collected on and after the date that this Privacy Policy is posted.
+Some additional examples of why we ask for your information include:
 
-Please note that this Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by Atari offline. This Privacy Policy applies only to websites maintained by Atari, and not to our international affiliates (Atari in France, United Kingdom, Italy, etc.), or any websites maintained by other companies or organizations to which we link. Atari is therefore not responsible for the content or activities provided on those websites.
+  * To communicate with you, respond to your requests, or provide you with updates and information; 
+  * To better understand our users, their interests, and their preferences; 
+  * To develop, deliver, and improve our products, services, and other offerings; 
+  * To enforce our licenses, agreements, and terms of use; 
+  * For internal purposes such as auditing and data analysis. 
 
-Finally, the terms of this Privacy Policy are subject to all applicable laws.   
-  
-back to top  
-**Q2.**|  **What types of personally identifiable information do we collect about our guests?**  
----|---  
-**A2.**|  We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. Personal information is information that identifies you and may be used to contact you. To offer our guests certain features on our website, we collect several types of personal information.
 
-**Children**
 
-We don't knowingly collect personal information from children under 13. We take steps to ensure that those who wish to register personal information on our websites meet certain age requirements before they can do so. We take kids privacy seriously, and encourage parents to play an active role in their children's online experience at all times. 
+You may also choose to apply for a job through some of our websites. In cases where this feature is available, the information you submit, such as your resume, is provided to and controlled by our service provider. Please review their privacy notice for more information about their privacy practices. Our service providers are only authorized to use or disclose this information as necessary to provide services to us or to comply with law. Job applicant information that our service provider makes available to us will be treated in a manner consistent with this Notice.
 
-**Information You Provide to Us**
+**(2) Information Collected Automatically When You Use Our Sites, Games, and Applications**
 
-All of the personal information we receive comes directly from our guests. We collect personal information from our guests to:
+We collect some information automatically when you visit our sites or use our games and applications. Usually, this information does not identify you specifically as an individual. If a combination of information that we collect does identify you as an individual, we will treat the combined information as personal information. We typically aggregate the data that we collect automatically and use it in statistical form to determine trends among groups of users, rather than using it to identify individuals.
 
-1\. register for our website  
-2\. register our products  
-3\. subscribe to our newsletter  
-4\. register for community forum  
-5\. participate in polls, surveys, and questionnaires  
-6\. use e-cards, wish lists, and tell-a-friend features  
-7\. purchase a product at one of our online stores  
-8\. participate in contests, sweepstakes, or other promotions  
-9\. receive technical support
+The type of information that we automatically collect may vary, but generally includes:
 
-Typically, this information includes:
+  * Technical information about your computer, device, hardware, or software you use to access the Internet or our services, such as Internet Protocol (“IP”) address, a device identifier, MAC address, or other transactional or identifier information for your device (such as device make and model, information about device operating systems and browsers, or other device or system related specifications);
+  * Usage information and statistics about your interaction with our websites, games, and applications, which may include the URLs of our websites that users have visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, platform type, the application you used or the game you played, how long you used or played it and when, the application or game features that you used, and other usage statistics; 
+  * Your gamer tag or other user identification provided in connection with your application use or game play;
+  * The location of your device in cases where you use a mobile device to access our sites or use our games and applications. Your general location also may be discernible from your device’s IP address or the URLs we receive.
 
-1\. name  
-2\. email address  
-3\. telephone number  
-4\. shipping and billing address, and  
-5\. for those purchasing products online, credit card information.
 
-Additionally, we may also collect other types of non-personal information (known as demographic information) such as your age or date of birth, gender, hobbies, platform preferences, and other game ownership and preferences. This demographic information may be associated with your personal information.
 
-**Information Collected Through Technology**
+Please note that if certain features on our site are provided by third parties, those third parties may also use automated means of data collection and may record information about your use of our site or others’ sites over time. These features are subject to those third parties’ privacy notices and policies.
 
-We collect information through technology to make our websites more interesting and useful to you. For example, when you come to one of our websites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our websites. We may combine this information with personally identifiable information.
+We use information we automatically collect to understand our users as a group, sometimes based on group traits, such as demographics, in order to determine their preferences. As a result, we can develop and deliver new or modified offerings, improved with our users’ preferences in mind. As described below, we may also use such information to provide a more personalized user experience and to facilitate advertising. Some web browsers have incorporated “do not track” features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Our sites and online services do not currently respond to browser do not track signals.
 
-**Cookies**
+The following are some of the types of automated data collection that may occur when you use our sites, games, or applications:
 
-Our websites also use cookies. Cookies are pieces of information that a Website sends to your computer while you are viewing the Website. We and other companies use cookies for a variety of purposes. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You can do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your web experience smoother, like the features mentioned above, and some of our services may not function properly.
+_Web Browsers_
 
-**Web Beacons**
+When you visit one of our websites, your browser automatically sends us your IP address so that the web pages you request can be sent to your computer or device. We use your IP address to determine additional information, such as whether the computer or device has ever been used to visit our site before, which site features were used, and how much time was spent on a page.
 
-Our websites use a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyze the traffic patterns on our websites, such as the frequency with which our users visit various parts of our websites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
+_Cookies_
 
-**Network Advertisers**
+We may automatically collect information through “cookies,” which are text files placed on your device’s hard drive when you visit websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies, for example, for authentication purposes and to measure session activity on the site and determine which areas and features of the site are the most popular. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Without cookies, however, you may not be able to take full advantage of our site features.
 
-Many advertisements are managed and placed on our websites by third parties. These companies are called "network advertisers". Network advertisers who place advertisements on our websites may also use cookies and web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser.
+We may also use “flash cookies,” also called “local shared objects.” Like other cookies, flash cookies are files stored on your computer, but flash cookies can store information that is more complex than simple text. These cookies can be helpful by storing your preferences regarding feature settings, personalizing your experience, and tracking your progress in a game or application. In some cases, local shared objects also are used to prevent fraud. Unlike “regular” cookies, browsers generally cannot be used to manage flash cookie placement. To learn more about managing flash cookies, you may wish to review Adobe’s website and change the privacy settings they make available to users who wish to manage flash cookies. Like regular cookies, flash cookies improve your experience with our websites, games, and applications, so disabling them may limit or eliminate features we make available to you.
 
-Finally, once you've clicked on an advertisement and have left our Websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.   
-  
-back to top  
-**Q3.**|  **How is your personally identifiable information used and shared?**  
----|---  
-**A3.**|  We don't share, sell, or rent your personal information to third parties without your consent. We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website.
+_Web Beacons and Log Files_
 
-Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
+We may use “web beacons” (also known as Internet tags, pixel tags, tracking pixels, and clear GIFs) on pages of our website. These web beacons allow other organizations to collect information such as the IP address of the device, the URL of the web page, the time the page was viewed, the type of browser used, and any additional information in cookies that may have been set by the other party. This information is typically collected in log files, which generally track traffic on and to our websites. This information may be used for purposes including managing our online advertising, such as determining which advertisements brought users to our websites. The information is also used for analytical purposes and to manage technical issues. We do not attempt to identify individual users based on this information.
 
-**Atari Tools and Updates**
+**(3) Information We Receive from Others**
 
-Information collected from those who voluntarily submit it to us is used to provide services like updates on special events, game news, and email announcements of interest to our users. Occasionally, we share your personal information (e.g., email address) with a third party sponsor, co-sponsor, or other reputable third party that provides products or services that may be of interest to you. Moreover, if you register for access to our blogs or message boards, we will use your personal information to enable you to view and post messages on the boards. However, you should understand that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community. As such, whenever you give out personal information in public areas, that information can be collected and used by people you don't know.
+In some cases, other parties provide us with information about you, or allow us to collect information about you. We generally collect or receive information from other parties in three ways: (1) you use our games or applications at a site that is not controlled by us, such as a social network, (2) you choose to use a social feature of our games or applications, and (3) you purchase one of our games or applications from another party. In some cases, we are not able to control the amount or type of information that other parties like social networks, make available to us. In those cases, we use only the data that we need to provide the types of services we think our users want and expect. Although we cannot control your privacy settings at those sites or how those other parties protect your privacy, once we receive information about you through those sites, we will treat it as described in this Notice.
 
-**Operational Uses**
+## When You Use Our Games and Applications at Third Party Sites
 
-We may also use your personal information for other purposes such as "Operational Uses". For example, we may use your information to send you administrative communications either about your account with us or about features of our websites, including any future changes to this Privacy Policy.
+When you use any Epic game, application, or feature at a site not controlled by Epic, such as a social network like Facebook, that site may allow Epic access to certain information about you. For example, social networks may provide us with information from your profile on their site. Epic may access or receive contact information (such as your name and email address), demographic information (such as your gender and your date of birth), and other information you provided to that site such as your photo, user name, occupation, interests, hobbies, game preferences, biographical information, and potentially any and all information that you agreed the social network or other party could provide to us when you use our games and applications.
 
-We occasionally use other companies, agents or contractors to perform services necessary to our operations. For example, we have partnered with other companies to personalize our web pages, process credit card transactions, analyze customers. interaction with our website, and process consumer surveys. We also provide postal addresses to the U.S. Post Office for delivery purposes. In the course of providing such services, these companies may have contact with your personally identifying information. These entities have agreed to securely store and maintain the personal information received from us.
+## When You Use Social Features of Our Games and Applications
 
-**Aggregate Information**
+When you choose to use a social feature of our games and applications, you allow Epic to receive information about you from social networks. Our social features promote and facilitate interaction among players, such as by allowing you and your friends to work together to meet a shared challenge presented by our game or application. You may be able to use these features to find out if your friends are actively playing the game and using the feature, to find out if they used it in the past, and to invite them to join with you to meet a game challenge.
 
-Finally, we may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, no restrictions apply under this Privacy Policy on our right to aggregate or de-personalize your personal information, and we may use and share in any way with third parties the resulting non-personally identifiable information.
+If you choose (opt in) to use one of our social features, you may be asked to log into a social network, such as Facebook, through our game or application. The social network may then provide Epic with information such as the following:
 
-**Business Information**
+  * Your social network user ID; 
+  * Your profile picture or its URL (if available); 
+  * The user IDs and profile pictures of the people you are connected to on the social network, such as your Facebook friends. 
 
-For practical reasons, we treat personal information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal information submitted to us in a business capacity (e.g. resumes, event sponsorship, etc.) may be shared with third parties, depending on the nature of the inquiry.
 
-**Purchase or Sale of Businesses**
 
-From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. If we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. If we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
+We link this data to a user ID that Epic assigns to you. When a social network sends us the user IDs and profile pictures of your friends, we check to see which of your friends also have chosen to use the same Epic social feature you selected. If your friends have opted in to use the same social feature you selected, then we link that information to you so that you can enjoy Epic’s social features with those friends. We will update the list of friends linked to your user ID each time you log back into our social feature.
 
-**Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others**
+While using an Epic social feature, you may be able to see your friends’ profile pictures and their most recent use of the feature. Similarly, when your friends are using the feature, they may be able to see your profile picture and your most recent use of the feature. You may be able to invite your friends to join you in a social feature, such as by posting a message to your Facebook wall. You are never required to use Epic’s social features in order to play our games or use our applications. Further, if you have previously engaged in an Epic social feature, that feature will permit you to decline to participate in the future, deleting the personal data Epic stores regarding your participation with that feature.
 
-We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our websites or third parties.   
-  
-back to top  
-**Q4.**|  **What choices do you have about the collection, use, and sharing of your personally identifiable information?**  
----|---  
-**A4.**|  As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by emailing us at [webmaster@atari.com](mailto:webmaster@atari.com), or contacting us via the Atari mailing address.   
-back to top  
-**Q5.**|  **What kinds of security measures do we take to safeguard your personally identifiable information?**  
----|---  
-**A5.**|  The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.   
-back to top  
-**Q6.**|  **How can you update your personal information and profile?**  
----|---  
-**A6.**|  You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by emailing us at [webmaster@atari.com](mailto:webmaster@atari.com)  
-back to top  
-  
-**Q7.**|  **How can you ask questions, or send us comments, about this Privacy Policy?**  
----|---  
-**A7.**|  If you have questions or wish to send us comments about this Privacy Policy, please send us an e-mail us with your questions or comments to call or write us at:
+## When You Buy Our Games and Applications from Other Parties
 
-Atari, Inc.  
-Attn.: Webmaster  
-417 Fifth Avenue  
-New York, NY 10016  
-(212) 726-6500  
-[webmaster@atari.com](https://web.archive.org/web/20061116044018id_/http://www.atari.com/us/webmaster@atari.com)
+We may also receive information about you from the organizations that sell our applications or games or which provided the gaming system you use. Those parties may provide us with information regarding your account or registration, but they do not give us your payment information. Because those organizations determine what information they will collect from you, it may vary according to their services, but it is likely to include information such as your name, email address, user ID and gamer tag, location, and date of birth.
 
-Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
+We may use the information that we receive from others to understand our users and to help us develop, deliver, and improve our offerings. We may also use it to provide a more personalized user experience and to manage advertising. In some cases, we may use this information to contact you, provide you with technical support or customer service, and to enforce our licenses, agreements, and terms of use.
 
-Atari is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>
+## Information We Share
 
-ESRB  
-Attn.: Privacy Online Program  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
-212-759-0700  
-[privacy@esrb.org](mailto:privacy@esrb.org)  
-  
-back to top  
-**Q8.**|  **How will you know if we amend this Privacy Policy?**  
----|---  
-**A8.**|  We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
+We may share, or provide you with opportunities to share, information about you with other users of our websites, games and applications. For example, if you have a game engine subscription, information about your subscription level and status may be visible to others, such as the date you first subscribed or the date you terminated your subscription. We also provide services that allow our users to communicate with Epic and each other, in which case personal information may be shared and account IDs may be displayed.
 
-Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.   
-  
-back to top  
-|  |   
-  
-|  | 
+We may share personal information we collect within our family of companies and with our trusted business partners. We also will share information with service providers that perform services on our behalf. These partners and service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We also may share certain limited information, such as device identifiers, with advertisers and other marketing partners for purposes of gauging the effectiveness of advertising and other marketing strategies.
+
+We may share information about you with your social network contacts when you and they use the same social features of our games and applications.
+
+We may also disclose information about you: (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity, or (iv) if necessary to protect the vital interests of another individual (such as to prevent death, bodily harm, or serious damage to property) . We reserve the right to transfer information about our users in the event we sell or transfer all or substantially all our business or assets.
+
+When you use our websites, games or applications, you agree that we may share information about you as described in this Notice.
+
+## Your Choices
+
+In certain cases, you may have choices about how we use and disclose your information. For example, we have to ask you before we can use your personal information for any purpose incompatible with the purposes identified in this Notice. If we provide you with any marketing messages, we will give you an opportunity to opt out of receiving further messages.
+
+You can choose not to give us the information we request, as described in the “Information You Voluntarily Choose to Provide” section of this Notice. In some cases, if you decide not to provide the information we request, we will not be able to provide you with access to the site, game, or application you requested, or we may not be able to provide you with the service, feature, or information you requested. In some cases, you can stop or limit the information we automatically collect or that we receive from other parties, such as social networks. Please review the sections of this Notice titled “Information Collected Automatically When You Use Our Sites, Games, and Applications” and “Information We Receive from Others” to learn more about how you may be able to stop or limit our receipt of information that we automatically collect or that we receive from other parties. You also may exercise and amend your choices by sending an email to us as detailed in the “How to Contact Us” section below.
+
+In some cases, the information we receive is determined by the privacy settings or other preferences you have expressed or established at another party’s site, such as a social network. For example, if you use one of our applications or games at a social network or choose to use one of our social features, that social network will send us information that may vary depending on your privacy setting at that site. As another example, if you remove contacts from your social network profile, they also will be removed from your contacts profile in the social features of our games and applications (refer to the section of this Notice titled “When You Use Social Features of Our Games and Applications” for more information). To manage the information Epic receives about you from social networks, you should review the privacy notices and adjust the privacy settings provided by the social network. Although we cannot control your privacy settings at those sites or how those other parties protect your privacy, once we receive personal information about you through those sites, we will treat it as described in this Notice.
+
+## Access and Correction
+
+We will provide you with the ability to request access to and correction or deletion of certain information we have about you, such as your contact information. Your right to access, amend, or delete personal information may be limited in some circumstances. Please submit your request by sending an email to the address specified in the “How to Contact Us” section below. Please include your name, email address, and postal address in your request, and describe specifically the information that you would like to access, correct, or delete so that we may respond appropriately and promptly. To access or update the information you provide to others, including Epic, through other parties like social networking sites, you will need to follow the instructions provided by that other party to update your information or change your privacy settings.
+
+## How We Protect Personal Information
+
+We maintain appropriate administrative, technical, and physical safeguards to protect your personal information from accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use and other unlawful forms of processing. In some cases your information is accessible when you log into a feature we offer, and in those cases you need to keep your log in information, such as your password, confidential and secure so that your information is protected.
+
+## Links to Other Sites, Games, or Applications
+
+We may provide links to other sites, games, or applications for your convenience and information. These sites may be operated by organizations not affiliated with Epic, so we cannot control and are not responsible for their content, operation, or privacy practices. Those organizations may have their own privacy policies, which we strongly suggest you review if you use other sites, games, and applications. This Notice does not apply to sites, games, or applications not owned or controlled by Epic, even if we link to them or they link to us.
+
+## Children’s Privacy
+
+Epic does not direct its websites, games, or applications to children (usually considered to be under the age of 13, depending on the jurisdiction where you reside). We also do not intentionally collect personal information from children through our websites, games, or applications. If you are the parent or guardian of a child and you believe that we have inadvertently received personal information about that child, please contact us as described in the How to Contact Us section of this Notice and we will delete the information from our records.
+
+If you are under the age of 18 and have an account for our websites, mobile apps, games, or other online services, you may request that we remove certain content that you provided, such as deleting or editing comments you have posted. You also may ask us to assist you in removing or anonymizing content you have posted by contacting us as described in the How to Contact us section of this Notice. Please be aware that taking these steps may not ensure complete or comprehensive removal of the content or information posted on the our sites, online services, applications or games. We also may not be able to remove content you post if applicable law requires us to maintain the posting or if another party has re-posted the content to a site, app, game or other online service that we do not own or control.
+
+## Transfers of Information
+
+As part of our international operations, we may transfer information about you to any jurisdiction where we do business. Even if those jurisdictions do not have the same privacy laws as the jurisdiction where you reside, we will treat your information as subject to the protections described in this Notice. When you use our websites, games, or applications, you agree that we may transfer information about you as described in this Notice.
+
+## Updates to Our Privacy Notice
+
+This Notice may be updated periodically to reflect changes in our personal information practices or relevant laws. We will indicate at the top of this Notice when this Notice was last updated. Please review this Notice every time you access or use our websites, games, or applications to make sure that you have reviewed the most recent version.
+
+## How to Contact Us
+
+If you have any questions or comments about this Notice or if you would like us to update, amend, or request deletion of the information we have about you or your preferences, please [contact our privacy team](mailto:privacy@epicgames.com) or at Epic Games, Box 254, 2474 Walnut Street, Cary, NC 27518, USA, attn: Privacy Team.
