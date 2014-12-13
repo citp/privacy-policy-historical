@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115342id_/http%3A//blewpass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213070025id_/http%3A//blewpass.com/privacy.php) for the most accurate reproduction.*
 
 # BlewPass - Secure Proxy to Unblock Youtube
 
