@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dog-shaming.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517133140id_/http%3A//www.dogshaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dog-shaming.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213214024id_/http%3A//www.dogshaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,6 +23,8 @@ Links – We may present links in a format that enables us to keep track of whet
 Other sites – This Privacy Policy applies to web sites and services that are owned and operated by the Company. We do not exercise control over the sites displayed as links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
 The Company processes Personal Information on our servers in the United States and. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+
+At a minimum, Company’s privacy policy must (a) notify users if online behavioral advertising (“OBA”) and/or multi-site data gathering (as defined by the DAA at [aboutads.info](http://aboutads.info/)) is occurring; (b) notify users in plain English that information about the user’s internet use is being gathered through cookies, web beacons and similar means, and is being used to select advertisements so that they are more likely to be of interest to the user; (c) describe the types of data that are collected for OBA and/or multi-site purposes (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over); (d) explain how, and for what purpose, any data collected for OBA and/or multi-site purposes will be shared with and/or used by third parties; (e) contain a statement to the effect that third parties may also gather user data and that Company’s privacy policy may not describe the privacy practices of such third parties and (f) include a conspicuous mechanism by which users may opt out of such OBA. There must be a link to this privacy policy on each webpage where data gathering for OBA and/or multi-site purposes occurs.
 
 ### Choices for personal information
 
