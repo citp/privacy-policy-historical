@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603040252id_/http%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213044432id_/http%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
 
 # Privacy | National Theatre | South Bank, London
 
@@ -43,7 +43,7 @@ These cookies provide information on visitors to Twitter, checks whether users a
 
 We also use cookies to manage the shopping baskets on our ticketing pages and our Bookshop site, as well as logging in and using your MyNT account pages. The cookies used for these functions are temporary cookies that are removed once the transaction has been completed or you log out. It is not possible to purchase anything on our website without accepting these cookies.
 
-This website also uses advertising cookies, for our West End transfers, but we offer the option to opt out of these to prevent them being set on your computer if they are introduced in future.
+This website also uses advertising cookies and we offer the option to opt out of these to prevent them being set on your computer.
 
 **[You can review a full list of the cookies we use in this document](https://web.archive.org/sites/all/libraries/files/documents/Cookies-used-on-National-Theatre-website.pdf "Cookies used on the National Theatre website")**.
 
