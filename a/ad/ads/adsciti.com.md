@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsciti.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102207id_/http%3A//www.adsciti.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsciti.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213013014id_/http%3A//www.adsciti.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Classifieds, Free Classifieds, Online Classifieds, Free Ads | US Ads Citi
 
