@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328060733id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213055038id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Legal — Albuquerque Public Schools
 
-We at APS are committed to protecting the privacy and security of your visits to this website. Outlined below is our online privacy policy, acceptable use policy, and legal disclaimers. If you have questions about these policies, [please let us know](http://www.aps.edu/about-us/contact-us "Contact Us").
+We at APS are committed to protecting the privacy and security of your visits to this website. Outlined below is our online privacy policy, acceptable use policy, and legal disclaimers. If you have questions about these policies, [please let us know](http://www.aps.edu/contact-us "Contact Us").
 
 ## Privacy Policy
 
@@ -26,7 +26,7 @@ Session specific cookies may be used on aps.edu to improve the user experience 
 
 **Children's privacy:** Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13.
 
-It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent to retain the information or else delete the information from our servers. If you want to notify us of our receipt of information pertaining to children under 13, [please contact us](http://www.aps.edu/about-us/contact-us "Contact Us").
+It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent to retain the information or else delete the information from our servers. If you want to notify us of our receipt of information pertaining to children under 13, [please contact us](http://www.aps.edu/contact-us "Contact Us").
 
 ## Disclaimer: Limitation of Liability
 
