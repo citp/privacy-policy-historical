@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bust.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630032050id_/http%3A//www.bust.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bust.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213042020id_/http%3A//bust.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Info
 
@@ -50,7 +50,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain bysending an eamil to admin@bust.com. We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain bysending an eamil to [admin@bust.com](mailto:admin@bust.com). We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -58,4 +58,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 212 676 1707 or send us an email at admin@bust.com.
+Should you have other questions or concerns about these privacy policies, please call us at 212 676 1707 or send us an email at [admin@bust.com](mailto:admin@bust.com).
