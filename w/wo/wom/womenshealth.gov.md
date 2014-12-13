@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenshealth.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075703id_/http%3A//www.womenshealth.gov/about-us/website-policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealth.gov privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213082524id_/http%3A//www.womenshealth.gov/about-us/website-policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | womenshealth.gov
 
@@ -101,6 +101,6 @@ As part of the Open Government Directive, OWH uses a variety of new technologies
 
 
 
-Content last updated September 06, 2011\. 
+Content last updated: September 06, 2011\. 
 
 Return to top
