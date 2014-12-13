@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondresorts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155014id_/https%3A//www.diamondresorts.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondresorts.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213190927id_/https%3A//www.diamondresorts.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ We do not sell individual customer names or other private profile information to
 
 We may collect information from you that is not Personally Identifiable Information (“PII”) such as the date and time you visited the website, the web browser you used, and the page you visited that directed you to our website. This non-PII is collected and analyzed to determine how you found out about us, your interests in our products and services, and how to improve our website. We may also collect information from your activities on the website and other websites for the purpose of generating advertisements according to your interests and preferences. This may result in our ads being displayed on participating websites based on your browsing activity. This is achieved by allowing third party advertising companies to access things like cookies, IP addresses, and server logs.
 
-Some of the non-PII collected may be combined with your PII to further enhance your experience while on the website. Although we do not share your information with anyone other than those described above, external third parties may use their own tracking software which collects information about you through the website. WE HAVE NO CONTROL OVER WHAT INFORMATION SUCH THIRD PARTIES ACCESS, AND HAVE NO RESPONSIBILITY OR LIABLITY FOR ANY TRACKING, DATA COLLECTION, OR OTHER ACTIVITIES OF SUCH THIRD PARTIES.
+Some of the non-PII collected may be combined with your PII to further enhance your experience while on the website. Although we do not share your information with anyone other than those described above, external third parties may use their own tracking software which collects information about you through the website. WE HAVE NO CONTROL OVER WHAT INFORMATION SUCH THIRD PARTIES ACCESS, AND HAVE NO RESPONSIBILITY OR LIABILITY FOR ANY TRACKING, DATA COLLECTION, OR OTHER ACTIVITIES OF SUCH THIRD PARTIES.
 
 ### How to access your information (including how to update or correct inaccuracies)
 
