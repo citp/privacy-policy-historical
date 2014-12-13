@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boltaconsumer.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016195139id_/http%3A//www.boltaconsumer.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltaconsumer.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213235552id_/http%3A//www.boltaconsumer.com/privacy-policy) for the most accurate reproduction.*
 
 # BoltaConsumer - Voice of the Pakistani Consumer
 
