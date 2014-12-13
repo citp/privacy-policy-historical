@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617155555id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213210324id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.*
 
-# Bindass.com - Rest Less
-
-[Home ](http://www.bindass.com/)Privacy Policies
-
-PRIVACY POLICY
+# 
 
 The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that Disney has to offer on the platforms and devices they prefer.
 
@@ -413,4 +409,4 @@ Examples of online tracking technologies include:
 
 
 
-[Addendum to Privacy Policy - For Indian residents](https://web.archive.org/Addendum_to_Disney_Global_Privacy_Policy.pdf)
+[Addendum to Privacy Policy - For Indian residents](http://disney.in/Addendum_to_Disney_Global_Privacy_Policy.pdf)
