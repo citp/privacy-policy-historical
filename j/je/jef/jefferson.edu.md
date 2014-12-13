@@ -1,17 +1,27 @@
-> *The following text is extracted and transformed from the jefferson.edu privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514141939id_/http%3A//www.jefferson.edu/main/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jefferson.edu privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213133125id_/http%3A//www.jeffersonhospital.org/patients-and-visitors/patient-policies/online-privacy-statement) for the most accurate reproduction.*
 
-# Thomas Jefferson University
+# Online Privacy Statement | Jefferson University Hospitals | Serving Philadelphia, PA, NJ & the Delaware Valley
 
-| 
+Thomas Jefferson University Hospitals has created this statement to demonstrate our commitment to on-line privacy. It discloses our information-gathering and dissemination practices for this website.
 
-**PRIVACY STATEMENT**
+You may visit our website without submitting any information about yourself. If you send us e-mail or subscribe to one of our on-line publications, you will be asked to submit information about yourself. We will use this information for replying to your message or forwarding the requested material. We do not share this information with any other partners, affiliates or members of JHS. Our website may log the IP addresses of visitors, but only to administer the site and diagnose problems with our server. IP addresses are not used to identify individuals.
 
-Thomas Jefferson University has created this statement to demonstrate our commitment to on-line privacy. It discloses our information-gathering and dissemination practices for this website. 
+This site contains links to other sites. We are not responsible for their privacy practices or content.
 
-You may visit our website without submitting any information about yourself. For each visitor to our website, our web server automatically recognizes only the visitor's IP address. We do collect aggregate information on what pages are visited in order to assess and improve the content of our website. We will not, however, set any "cookies" to track visitor's identification or use of the site without prior notification. Our website may log the IP addresses of visitors, but only to administer the site and diagnose problems with our server. IP addresses are not used to identify individuals. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from our site. 
+Please note that TJUH will not respond to any question concerning a specific medical or health condition. If you submit such a request you will receive a standard response that you should consult with your own health care professional. Of course, we will not intentionally share the contents of this type of an e-mail with any third party. However, due to the nature of electronic communications, we cannot and do not provide any assurances that the contents of your e-mail will not become known or accessible to third parties. **WE URGE YOU NOT TO PROVIDE ANY CONFIDENTIAL INFORMATION ABOUT YOU OR YOUR HEALTH TO US VIA ELECTRONIC COMMUNICATION.** If you do so, it is at your own risk.
 
-If you send us e-mail or subscribe to one of our on-line publications, you will be asked to submit information about yourself. We will use this information to reply to your message or forward the requested material. We do not share this information with any other partners, affiliates, vendors, members of the Jefferson Health System, or other organizations.
+**Google AdWords and Analytics**
 
-This site contains links to other sites. We are not responsible for their privacy practices or content. Please note that Thomas Jefferson University will not respond to any question concerning a specific medical or health condition. If you submit such a request you will receive a standard response that you should consult with your own health care professional. Of course, we will not intentionally share the content of this type of an email with any third party. Due to the nature of electronic communications, however, we cannot and do not provide any assurances that the contents of your e-mail will not become known or accessible to third parties. **WE URGE YOU NOT TO PROVIDE ANY CONFIDENTIAL INFORMATION ABOUT YOU OR YOUR HEALTH TO US VIA ELECTRONIC COMMUNICATION.** If you do so, it is at your own risk.
+Thomas Jefferson Univeristy Hospitals utilizes Google Analytics on its web properties to track the effectiveness and relevance of our web site to visitors. Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of hospitals.jefferson.edu, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network.
 
-If our information practices change at some time in the future, we will post the policy changes to our website to notify you of these changes.
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to our website. Any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](https://support.google.com/ads/answer/2662922?hl=en), and you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
+
+Information about data collected by Google can be found by visiting <http://www.google.com/intl/en/policies/privacy/>.
+
+**Questions or Comments?**
+
+If you have any questions about this privacy statement or the practices of this site, [you can contact us](https://web.archive.org/about-us/contact-us/inquirejeff/).
+
+Also, please read the [terms of use for this Web site](https://web.archive.org/patients-and-visitors/patient-policies/terms-of-use/). 
