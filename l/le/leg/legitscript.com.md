@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the legitscript.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110849id_/http%3A//www.legitscript.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitscript.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213132114id_/http%3A//www.legitscript.com/privacy) for the most accurate reproduction.*
 
-# LegitScript - Privacy Policy
+# LegitScript Privacy Policy
 
 This Privacy Policy ("Privacy Policy") covers LegitScript's treatment of information that you provide to us or that we collect from you when you are visiting and/or use the Website. This policy does not apply to the practices of companies that LegitScript does not own or control or to individuals whom LegitScript does not employ or manage, including operators of sites you may link to or from the Website or from which you link to the Website. This Privacy Policy should be read in connection with our [Terms and Conditions](https://web.archive.org/account-terms).
 
