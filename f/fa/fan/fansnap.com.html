@@ -1,8 +1,17 @@
-<!--The following is the downloaded HTML source of the fansnap.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626110246id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fansnap.com privacy policy that was archived on 2014-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141213125853id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js"><!--<![endif]--><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/5189604989cc270002000132.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://assets.tapad.com/tapestry/tapestry-0.7.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQEOWFdaGwABUVBWAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html lang="en" class=" no-touch-events js"><!--<![endif]--><head><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/5189604989cc270002000132.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://assets.tapad.com/tapestry/tapestry-0.7.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+if (/*@cc_on (document && document.documentMode === 10) || @*/  false) {
+  document.documentElement.className += ' lt-ie12 lt-ie11 ie10 gt-ie9 gt-ie8';
+}
+
+if (navigator && navigator.userAgent.match(/Trident.+rv:11.0/)) {
+  document.documentElement.className += ' lt-ie12 ie11 gt-ie10 gt-ie9 gt-ie8';
+}
+</script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQEOWFdaGwABUVBWAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 <meta http-equiv="Content-Language" content="en">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -21,10 +30,9 @@
       (function (d) { d.className = d.className.replace(/\bno-js\b/,'') + ' js'; })(document.documentElement);
     </script>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="https://chairnerd.global.ssl.fastly.net/css/bundle_reset.adc83b19.css">
-<link rel="stylesheet" type="text/css" media="screen" href="https://chairnerd.global.ssl.fastly.net/css/bundle_common.cef3fb1e.css">
-<link rel="stylesheet" type="text/css" media="screen" href="https://chairnerd.global.ssl.fastly.net/css/bundle_customer-new.2e16f984.css">
-<link rel="stylesheet" type="text/css" media="screen" href="https://chairnerd.global.ssl.fastly.net/css/bundle_maps.189b7da0.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://chairnerd.global.ssl.fastly.net/css/bundle_common.6aaf5188.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://chairnerd.global.ssl.fastly.net/css/bundle_customer-new.42c173c8.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://chairnerd.global.ssl.fastly.net/css/bundle_maps.151f5453.css">
     <!--[if lt IE 9]>
 <style type="text/css">
   .meta-content { border: 1px solid #CCC !important; }
@@ -64,22 +72,24 @@
 <meta property="og:url" content="http://seatgeek.com/privacy/">
     <script type="text/javascript" src="//use.typekit.net/lpd6mqr.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_common.3dfa70f5.js"></script>
     <script type="text/javascript">
 var SG = window.SG || {};
-SG.user = {"location":null,"xsrf_token":"e1688c0c85345f82078430838e1f2bab0407869e1403780566"};
-
+SG.user = {"location":null,"access_token":null};
 
 
 SG.config = {"sixpack_base_url":"https:\/\/seatgeek.com\/sixpack","env":"prod","ubh":"https:\/\/uberseat.com","ubk":"MIIBCgKCAQEArf+u+W5PShbN8LjFT+posrxOyDYKepsqH3QzzERyXFaD\/qXqNze7psXp+5olTtmJapGWsQsKpAVP82D2bAZsOjKTOMLI0v6KpSXH0Od7xUWpW7NcAXs\/H961hVU0kPX42GNWr4PVFrztlEK94XYiTL4xMq8PYnx2ERIYU4dKS9qBKQhjCll8fc2KFG18IYmdj39\/hex1fZgJhg8T6mr7v\/v9yP6JRtvs4Ex62+w7qIQG1qcY48moiINltevAumfNzC1X1vV5lOEy0zTsv9LLS31U2e0oNjJKAEl\/nIJs3eXbLrieimg\/0YAbdSmZpKMqrbRNKazM+GJK1UWY\/4eRaQIDAQAB","host":"https:\/\/seatgeek.com","show_interstitial":false,"api_url":"api.seatgeek.com\/2","spreedly_env_key":"NUxn0YygG6PaIBtvNsWGB3VKWt4"};
 </script>
-    <script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_jquery-plugins.4af78c46.js"></script>
-<script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_maps_js.d364d62d.js"></script>
-<script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_customer.b8ca54ed.js"></script>
+    <script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_common.3e7ff915.js"></script>
+<script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_react.a2b514ed.js"></script>
+<script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_web-components.d4f2d42d.js"></script>
+    <script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_jquery-plugins.aa68fb5f.js"></script>
+<script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_maps_js.4fbf7610.js"></script>
+<script type="text/javascript" src="https://chairnerd.global.ssl.fastly.net/js/bundle_customer.adaad355.js"></script>
     <script type="text/javascript">
-
+var sgmap = sgmap || {};
 sgmap.SGMAP_URL = "https:\/\/seatgeek-tiles.global.ssl.fastly.net\/v3\/maps";
-sgmap.SGLISTINGS_URL = "/event/tickets";
+sgmap.SGMAPDATA_URL = "https:\/\/seatgeek-tiles.global.ssl.fastly.net\/v3\/maps";
+sgmap.SGLISTINGS_URL = "/listings";
 sgmap.SGSANDCRAB_URL = "/event/sandcrab";
 
 </script>
@@ -96,7 +106,8 @@ sgmap.SGSANDCRAB_URL = "/event/sandcrab";
 <meta name="twitter:site" content="@seatgeek">
 <meta name="twitter:domain" content="seatgeek.com">
 
-    <script type="text/javascript" async="" src="https://connect.facebook.net/en_US/all.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    
+    <script type="text/javascript" async="" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="layout-new "><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
     <!-- ga_header partial -->
 
@@ -111,7 +122,8 @@ sgmap.SGSANDCRAB_URL = "/event/sandcrab";
       ga("create", "UA-2380337-9", {
         siteSpeedSampleRate: 2,
         userId: null      });
-      ga("require", "ecommerce", "ecommerce.js");
+
+      ga('require', 'ec');
       ga("require", "displayfeatures");
 
                     ga("set", "contentGroup1", "Other Static");
@@ -123,17 +135,10 @@ sgmap.SGSANDCRAB_URL = "/event/sandcrab";
 
               ga("send", "pageview");
           })();
-    // TODO: what do we do with this?
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      /* allows list remarketing & demo info (good for ad sales). More info here: http://support.google.com/analytics/answer/2444872 */
-      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
   
 </script>
 
-<!-- TapAd GA Plugin -->
+  <!-- TapAd GA Plugin -->
 <script type="text/javascript">
   if ('localStorage' in window && window['localStorage'] !== null) {
     var _tapestry = _tapestry || [];
@@ -243,12 +248,24 @@ window._fbq.push(["track", "PixelInitialized", {}]);
 </script>
 <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=649348731779993&amp;ev=NoScript" /></noscript>
 
+<!-- Bing Conversion Tag -->
+<script>
+(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4001133"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+</script>
+<noscript><img src="//bat.bing.com/action/0?ti=4001133&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+<script>
+  if (window.console){
+    console.log('Hey you! We like your type. Come join us - https://seatgeek.com/jobs');
+  }
+</script>
+
     <script type="text/javascript">
 
   (function () {
     var root = document.createElement("div"); root.id = "fb-root";
     document.getElementsByTagName("body")[0].appendChild(root);
-    SG.load_script_async(('https:' == document.location.protocol ? 'https' : 'http') + "://connect.facebook.net/en_US/all.js");
+    SG.load_script_async(('https:' == document.location.protocol ? 'https' : 'http') + "://connect.facebook.net/en_US/sdk.js");
   })();
 
   window.fbAsyncInit = function () {
@@ -261,7 +278,8 @@ window._fbq.push(["track", "PixelInitialized", {}]);
       cookie: true,
       xfbml:  true,
       oauth:  true,
-      channelUrl: ('https:' == document.location.protocol ? 'https' : 'http') + "://" + "seatgeek.com" + "/channel.html"
+      channelUrl: ('https:' == document.location.protocol ? 'https' : 'http') + "://" + "seatgeek.com" + "/channel.html",
+      version: 'v2.1'
     });
 
     
@@ -271,39 +289,64 @@ window._fbq.push(["track", "PixelInitialized", {}]);
 </script><div id="fb-root"></div>
 
     <div class="wrapper ">
+
                 
-<div id="header" class="header ">
-  
-    <div class="nav-wrapper new-nav" ?="">
 
-      <ul class="nav">
-        <li class="sgLogoContainer"><a href="/" class="sgLogo" title="SeatGeek"></a></li>
-
-                <li class="search new-search">
-            <div class="search-bar">
-                <form action="/search" class="search-form" id="search-form" autocomplete="off" method="get">
-
-                  <div class="search-bg">
-                    <div class="search-icon"></div>
-                  </div>
-
-
-                  <input type="submit" class="search-submit" value="SEARCH">
-
-                  <div class="search-input-wrapper">
-                                        <div id="search-ghost" class="search-ghost" style="display: none;">Search for performers, events, or venues</div>
-                    <input type="text" id="search-input" class="search-input" name="search" autocomplete="off" value="Search for performers, events, or venues" rel="Search for performers, events, or venues">
-                    <div class="sg-loading-indicator"></div>
-                  </div>
-
-                </form>
-            </div>
-          </li>
-        
+<header class="seatgeek-header">
+  <div class="flex-items-wrapper">
+    <a href="/" class="seatgeek-logo">
+      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 422.367 141.772" enable-background="new 0 0 422.367 141.772" xml:space="preserve" class="seatgeek-svg-logo">
+<g id="Logo_1_">
+    <g>
+        <path class="seatgeek-element seatgeek-curve" d="M374.254,95.82c-12.159,19.345-33.691,32.202-58.227,32.202c-24.534,0-46.071-12.86-58.227-32.204h-0.004
+            l0,0l-7.647,4.794l-7.024,5.234l2.826,4.504l7.927-3.785l1.244-0.78c14.006,18.32,36.062,30.166,60.905,30.166
+            c27.366,0,51.385-14.342,64.945-35.918L374.254,95.82z"></path>
+    </g>
+    <path class="seatgeek-element seatgeek-s" d="M23.209,88.286c-4.916,0-9.73-0.603-13.644-1.606l0.5-8.827c3.915,1.406,9.233,2.509,13.948,2.509
+        c8.127,0,14.848-3.312,14.848-11.64c0-15.249-30.5-9.23-30.5-30.799c0-11.139,8.83-19.166,24.079-19.166
+        c4.115,0,8.225,0.402,12.24,1.206l-0.504,8.226c-3.911-1.102-8.226-1.805-12.238-1.805c-9.232,0-14.045,4.214-14.045,10.534
+        c0,14.646,30.601,9.331,30.601,30.5C48.494,79.556,38.962,88.286,23.209,88.286z"></path>
+    <path class="seatgeek-element seatgeek-e1" d="M99.867,61.899H67.259c-0.403,13.344,5.117,19.062,15.751,19.062c5.117,0,10.537-1.202,14.549-3.108
+        l0.8,7.322c-4.812,2.009-10.631,3.111-16.854,3.111c-15.352,0-23.578-8.027-23.578-25.583c0-14.949,8.127-26.087,22.274-26.087
+        c14.047,0,19.965,9.532,19.965,20.97C100.167,58.788,100.065,60.193,99.867,61.899z M79.801,43.238
+        c-6.521,0-11.137,4.916-12.139,12.241h23.275C91.136,48.154,86.824,43.238,79.801,43.238z"></path>
+    <path class="seatgeek-element seatgeek-a" d="M140.005,87.382c0-3.51,0-7.123,0.501-9.932h-0.201c-2.409,6.121-8.729,10.836-16.958,10.836
+        c-8.226,0-13.843-4.414-13.843-12.342c0-10.934,11.138-17.858,29.999-17.858v-3.71c0-6.925-2.708-10.637-10.934-10.637
+        c-4.717,0-10.735,1.505-15.052,4.116l-0.904-7.729c4.818-2.006,10.839-3.609,17.458-3.609c14.348,0,18.46,6.721,18.46,16.654v27.19
+        c2.409,0.401,5.819,0.802,8.729,1.004v5.314C152.243,87.282,145.322,87.684,140.005,87.382z M139.502,64.406
+        c-17.358,0-21.168,5.319-21.168,9.835c0,4.214,3.01,6.922,7.624,6.922c8.125,0,13.544-8.027,13.544-15.853V64.406z"></path>
+    <path class="seatgeek-element seatgeek-t" d="M183.029,88.185c-10.235,0-13.344-4.212-13.344-14.947V44.542h-10.233V37.52h10.233V21.368l9.029-2.51
+        V37.52h13.944v7.022h-13.944v25.486c0,8.225,1.505,10.433,7.124,10.433c2.308,0,4.817-0.401,6.821-0.905v7.628
+        C189.849,87.786,186.24,88.185,183.029,88.185z"></path>
+    <path class="seatgeek-element seatgeek-g" d="M254.969,30.295c-5.616-2.305-11.84-3.611-18.061-3.611c-13.942,0-25.885,9.031-25.885,27.088
+        c0,16.857,9.835,26.487,25.083,26.487c4.514,0,8.33-0.703,11.938-1.804V52.871h9.13v31.503c-6.721,2.508-14.949,3.912-22.372,3.912
+        c-20.467,0-33.61-12.441-33.61-33.409c0-20.769,13.845-36.121,36.618-36.121c6.423,0,12.543,1.005,18.562,2.91L254.969,30.295z"></path>
+    <path class="seatgeek-element seatgeek-e2" d="M309.652,61.899h-32.604c-0.401,13.344,5.115,19.062,15.75,19.062c5.117,0,10.534-1.202,14.547-3.108
+        l0.806,7.322c-4.818,2.009-10.638,3.111-16.856,3.111c-15.35,0-23.578-8.027-23.578-25.583c0-14.949,8.128-26.087,22.273-26.087
+        c14.046,0,19.964,9.532,19.964,20.97C309.953,58.788,309.854,60.193,309.652,61.899z M289.588,43.238
+        c-6.524,0-11.136,4.916-12.142,12.241h23.278C300.926,48.154,296.607,43.238,289.588,43.238z"></path>
+    <path class="seatgeek-element seatgeek-e3" d="M360.428,61.899h-32.608c-0.404,13.344,5.115,19.062,15.751,19.062c5.119,0,10.536-1.202,14.548-3.108
+        l0.802,7.322c-4.813,2.009-10.631,3.111-16.854,3.111c-15.354,0-23.578-8.027-23.578-25.583c0-14.949,8.129-26.087,22.272-26.087
+        c14.048,0,19.965,9.532,19.965,20.97C360.726,58.788,360.627,60.193,360.428,61.899z M340.361,43.238
+        c-6.521,0-11.137,4.916-12.141,12.241h23.276C351.695,48.154,347.384,43.238,340.361,43.238z"></path>
+    <path class="seatgeek-element seatgeek-k" d="M402.37,87.382l-18.461-25.684v25.684h-9.028V21.166c-2.408-0.4-5.819-0.803-8.73-1.004v-5.316
+        c5.019-0.601,11.941-1.004,17.759-0.702V59.39L401.47,37.52h11.034l-19.162,22.774l20.664,27.088H402.37z"></path>
+</g>
+</svg>
+    </a>
+          <form class="seatgeek-search search-structure new-search new-nav" action="/search?f=1" method="get">
+        <input type="hidden" name="f" value="1">
+        <div class="flex-child magnifying-glass"></div>
+        <input type="text" id="search-input" name="search" class="seatgeek-search-field flex-child" placeholder="Search for performers, events, or venues">
+        <div class="sg-loading-indicator">
+          <div class="spinner"></div>
+        </div>
+      </form>
+      <div class="header-tabs nav">
         
 <!-- Sports dropdown -->
 <li class="nav-container sports-nav-container first">
-    <a href="/sports" class="label" id="topbar-sports">Sports</a>
+    <a href="#" class="label" id="topbar-sports">Sports</a>
     <div class="combined-nav new-nav">
         <div class="category-column" role="menu">
                                               <a href="/mlb-tickets" class="hover current first2" attached="mlb"><span class="name">MLB</span></a>
@@ -433,6 +476,7 @@ window._fbq.push(["track", "PixelInitialized", {}]);
               <span id="nhl-sports-hover-list" class="sports-hover-list" attached="nhl" style="display: none;">
                   <div class="inner-column">
                                                                                                 <a href="/anaheim-ducks-tickets"><span class="name">Anaheim Ducks</span></a>
+                                                                                                                        <a href="/arizona-coyotes-tickets"><span class="name">Arizona Coyotes</span></a>
                                                                                                                         <a href="/boston-bruins-tickets"><span class="name">Boston Bruins</span></a>
                                                                                                                         <a href="/buffalo-sabres-tickets"><span class="name">Buffalo Sabres</span></a>
                                                                                                                         <a href="/calgary-flames-tickets"><span class="name">Calgary Flames</span></a>
@@ -447,14 +491,13 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                                                                                                                         <a href="/los-angeles-kings-tickets"><span class="name">Los Angeles Kings</span></a>
                                                                                                                         <a href="/minnesota-wild-tickets"><span class="name">Minnesota Wild</span></a>
                                                                                                                         <a href="/montreal-canadiens-tickets"><span class="name">Montreal Canadiens</span></a>
-                                                                                                                        <a href="/nashville-predators-tickets"><span class="name">Nashville Predators</span></a>
                                                                                                                           </div><div class="inner-column">
-                                                    <a href="/new-jersey-devils-tickets"><span class="name">New Jersey Devils</span></a>
+                                                    <a href="/nashville-predators-tickets"><span class="name">Nashville Predators</span></a>
+                                                                                                                        <a href="/new-jersey-devils-tickets"><span class="name">New Jersey Devils</span></a>
                                                                                                                         <a href="/new-york-islanders-tickets"><span class="name">New York Islanders</span></a>
                                                                                                                         <a href="/new-york-rangers-tickets"><span class="name">New York Rangers</span></a>
                                                                                                                         <a href="/ottawa-senators-tickets"><span class="name">Ottawa Senators</span></a>
                                                                                                                         <a href="/philadelphia-flyers-tickets"><span class="name">Philadelphia Flyers</span></a>
-                                                                                                                        <a href="/phoenix-coyotes-tickets"><span class="name">Phoenix Coyotes</span></a>
                                                                                                                         <a href="/pittsburgh-penguins-tickets"><span class="name">Pittsburgh Penguins</span></a>
                                                                                                                         <a href="/san-jose-sharks-tickets"><span class="name">San Jose Sharks</span></a>
                                                                                                                         <a href="/st-louis-blues-tickets"><span class="name">St. Louis Blues</span></a>
@@ -469,6 +512,7 @@ window._fbq.push(["track", "PixelInitialized", {}]);
           <!-- Auxiliary Dropdowns -->
                                                     <span id="ncaa_football2-sports-hover-list" class="sports-hover-list hover-list2" attached="ncaa_football" style="display: none;">
                   <div class="inner-column">
+                                        <a href="/2014-2015-college-football-playoff-tickets"><span class="name">National Championship</span></a>
                                         <a href="/alabama-crimson-tide-football-tickets"><span class="name">Alabama</span></a>
                                         <a href="/michigan-wolverines-football-tickets"><span class="name">Michigan</span></a>
                                         <a href="/florida-gators-football-tickets"><span class="name">Florida</span></a>
@@ -567,11 +611,11 @@ window._fbq.push(["track", "PixelInitialized", {}]);
         <div class="columns" id="concerts-link-list">
 
                                       <div class="column column-1">
-                <a href="/u2-tickets">U2</a><a href="/billy-joel-tickets">Billy Joel</a><a href="/the-rolling-stones-tickets">The Rolling Stones</a><a href="/justin-timberlake-tickets">Justin Timberlake</a>              </div>
+                <a href="/u2-tickets">U2</a><a href="/billy-joel-tickets">Billy Joel</a><a href="/one-direction-tickets">One Direction</a><a href="/justin-timberlake-tickets">Justin Timberlake</a>              </div>
                           <div class="column column-2">
-                <a href="/pharrell-williams-tickets">Pharrell Williams</a><a href="/coldplay-tickets">Coldplay</a><a href="/one-direction-tickets">One Direction</a><a href="/paul-mccartney-tickets">Paul McCartney</a>              </div>
+                <a href="/5-seconds-of-summer-tickets">5 Seconds of Summer</a><a href="/taylor-swift-tickets">Taylor Swift</a><a href="/pharrell-tickets">Pharrell</a><a href="/katy-perry-tickets">Katy Perry</a>              </div>
                           <div class="column column-3">
-                <a href="/beyonce-tickets">Beyonce</a><a href="/jay-z-tickets">Jay-Z</a><a class="blank">&nbsp;</a><a href="/concert-tickets" class="more-tickets">More Concerts →</a>              </div>
+                <a href="/bruno-mars-tickets">Bruno Mars</a><a href="/fleetwood-mac-tickets">Fleetwood Mac</a><a href="/concert-tickets" class="more-tickets">More Concerts →</a>              </div>
                         <div class="clear"></div>
 
         </div>
@@ -591,7 +635,7 @@ window._fbq.push(["track", "PixelInitialized", {}]);
 
     <div class="column-list column column-3">
                               <span id="top_events-hover-list" class="hover-list" attached="top_events">
-          <a href="/events/march-madness">March Madness</a><a href="/final-four-tickets">Final Four</a><a href="/bcs-national-championship-game-tickets">BCS Championship</a><a href="/events/super-bowl">Super Bowl</a><a href="/nba-finals-tickets">NBA Finals</a><a href="/wrestlemania-tickets">Wrestlemania</a><a href="/kentucky-derby-tickets">Kentucky Derby</a><a href="/ticket-search" class="more-tickets" id="more">More Top Events →</a>        </span>
+          <a href="/events/march-madness">March Madness</a><a href="/final-four-tickets">Final Four</a><a href="/2014-2015-college-football-playoff-tickets">College Football Playoff</a><a href="/super-bowl-tickets">Super Bowl</a><a href="/nba-finals-tickets">NBA Finals</a><a href="/wrestlemania-tickets">Wrestlemania</a><a href="/kentucky-derby-tickets">Kentucky Derby</a><a href="/ticket-search" class="more-tickets" id="more">More Top Events →</a>        </span>
                               <span id="theater-hover-list" class="hover-list" attached="theater" style="display: none;">
           <a href="/the-book-of-mormon-tickets">Book of Mormon</a><a href="/radio-city-christmas-spectacular-tickets">Radio City Christmas</a><a href="/lion-king-tickets">Lion King</a><a href="/wicked-tickets">Wicked</a><a href="/west-side-story-tickets">West Side Story</a><a href="/billy-elliot-tickets">Billy Elliot</a><a href="/jersey-boys-tickets">Jersey Boys</a><a href="/cirque-du-soleil-tickets">Cirque Du Soleil</a><a href="/rock-of-ages-tickets">Rock of Ages</a><a href="/hair-tickets">Hair</a><a href="/theater-tickets" class="more-tickets" id="more">More Theater →</a>        </span>
                               <span id="comedy-hover-list" class="hover-list" attached="comedy" style="display: none;">
@@ -656,97 +700,36 @@ else {
 }
 });
 
+// 'More' dropdown links
+$('.more-links .hover').live("mouseover ninja-select", function (e, elem) {
+  var hover = $(e.currentTarget);
+  if (hover.is(".hover")) {
+    $('.column-description a.hover').removeClass('current');
+    hover.addClass('current');
+    $('.hover-list').hide();
+    $('#' + hover.attr('attached') + '-hover-list').show();
+  }
+});
+
+// manual css adjustment for new nav bar on the columbus view
+$('#header.widerHeader').has('.new-nav').css('height', '58px');
+
 </script>
-
-        <!-- Account Dropdown -->
-        <li class="nav-container right last-nav" id="logged-in-nav" style="display:none;">
-          <label>
-    
-  Account 
-</label>          <div class="columns">
-            <div class="column column-3">
-              <a href="/account/index" rel="nofollow">Account Settings</a>
-              <a href="/account/tracker" rel="nofollow">Tracker</a>
-              <a href="/account/connections" rel="nofollow">Connections</a>
-              <a href="/logout" rel="nofollow" id="logout-link">Logout</a>
-            </div>
-          </div>
-        </li>
-
-        <!-- Show the promo in nav if not signed in and on the homepage -->
-        <div class="nav-container promo-button" onclick="SG.register(undefined, undefined, {promo:true}); return false;" style="display:none;">
-          <img class="radio-icon" src="https://chairnerd.global.ssl.fastly.net/images/new/static/icons/radio-icon.png">
-          <li class="nav-container left promo-nav">
-            Hear us on the Radio or TV?
-          </li>
-          <li class="nav-container left promo-arrow-right">▶</li>
-        </div>
-
-        <!-- Login/Register Links - without a border (event page one has a border) -->
-        <li class="nav-container nav-account right no-border" id="logged-out-nav">
-          <div class="account-divider"></div>
-          <a href="#" id="register-link">Sign up</a>
-          <a href="#" id="login-link">Log in</a>
-          <div id="inline-login" class="inline-login" style="display:none">
-  <div id="signup-button-area"></div>
-  <div id="inline-login-short">
-      <!-- Facebook Button -->
-      <div class="facebook-login">
-        <a class="facebook-button" href="#" onclick="SG.fb_login();  return false;"></a>
-        <div style="display: none;">
-          <form action="/fblogin/" method="post" id="fblogin"></form>
-        </div>
       </div>
-      <a href="#" class="login-toggle" id="alt-login">or log in with SeatGeek details</a>
+        <div class="separator "></div>
+    <div id="seatgeek-login-react"></div>
   </div>
-  <div id="inline-login-long" class="inline-login" style="display:none">
-    <div class="validation-errors">
-      <div style="display:none;" class="form-error" id="login-invalid">Your login is invalid. Please try again.</div>
-      <div style="display:none;" class="form-error" id="login-missing">Please enter both your email and password.</div>
-    </div>
+</header>
 
-    <!-- Login form -->
-    <form id="login-form" class="modal-form" method="post" action="/login/">      <div class="input">
-        <input type="text" class="text autofocus" name="email" value="" tabindex="20" id="login-email">
-        <label>Email address</label>
-      </div>
-      <div class="input">
-        <input type="password" class="text" name="password" tabindex="21" value="" id="login-pass">
-        <label>Password</label>
-      </div>
-
-      <div class="forget-password">
-        <a href="/forgot_password">forgot it?</a>
-      </div>
-      <div id="login-loader" class="account-loader form-loader">
-        <img alt="loading..." src="https://chairnerd.global.ssl.fastly.net/images/loaders/blueLoader_small.gif">      </div>
-
-            <input type="submit" name="Log in" class="light-login" tabindex="22" alt="Login" value="Log in" id="login-button">
-      <a id="toggle-facebook-login" class="login-toggle" href="#">or, log in with Facebook</a>
-    </form>
-  </div>
-</div>
-<div id="login_overlay" style="display: none;"></div>
-        </li>
-
-      </ul>
-
-    </div> <!--nav-wrapper-->
-
-</div><script type="text/javascript">
-  // 'More' dropdown links
-  $('.more-links .hover').live("mouseover ninja-select", function (e, elem) {
-    var hover = $(e.currentTarget);
-    if (hover.is(".hover")) {
-      $('.column-description a.hover').removeClass('current');
-      hover.addClass('current');
-      $('.hover-list').hide();
-      $('#' + hover.attr('attached') + '-hover-list').show();
-    }
-  });
-
-  // manual css adjustment for new nav bar on the columbus view
-  $('#header.widerHeader').has('.new-nav').css('height', '58px');
+<script>
+    var seatgeekLoginArea = React.renderComponent(
+    SeatgeekLogin({
+      username: "",
+      fbid: "",
+      email: "",
+      registerButtons: true    }),
+    document.getElementById('seatgeek-login-react')
+  );
 </script>
                           
             <!-- Center Container -->
@@ -807,7 +790,7 @@ else {
 		<h3>SeatGeek's Agents</h3>
 		<p>Many of the operations we perform require us to hire other companies to help us with these tasks. For example, SeatGeek hires companies to help us handle mail and email (including sending and delivering packages, postal mail and email), analyze the data we collect, market our products and services, handle credit card transactions and provide customer service. The companies we employ to help us with these tasks have access to Personal Data to perform their functions, but may not use it for other purposes. Also, SeatGeek requires all agents to whom Personal Data is disclosed to enter into confidentiality agreements to protect your Personal Data.</p>
 		<h3>External Service Providers</h3>
-		<p>When you use SeatGeek to take advantage of any of our products and services, we may provide Personal Data to the airline, travel agency or other involved third-party.</p>
+		<p>When you use SeatGeek to take advantage of any of our products and services, we may provide Personal Data to the ticket seller or other involved third-party.</p>
 		<h3>Email</h3>
 		<p>If you chose to opt in to receive promotional or information emails from SeatGeek, we will occasionally send advertisements, marketing material or other offers on behalf of other businesses that we think might be of interest to you. This material is sent by SeatGeek, and we do not give the other businesses your name or address. If you do not want to receive these advertisements, marketing material or other offers, please opt out of these communications by clicking on the unsubscribe link provided in each email.</p>
 		<h3>Tell a Friend</h3>
@@ -842,302 +825,174 @@ else {
             </div>
 
                       </div>
-    <!--footer begin-->
-<div class="footer">
-  <div class="center-container">
-    <div class="footer-left">
-      <div class="cols">
-        <h4 class="footer-header">LEARN MORE</h4>
-        <ul>
-          <li><a href="/about">About</a></li>
-          <li><a href="/faq">FAQ</a></li>
-          <li><a href="http://chairnerd.seatgeek.com/">Dev Blog</a></li>
-          <li><a href="http://tba.seatgeek.com/">Event News</a></li>
-        </ul>
-      </div>
-      <div class="cols priceRank">
-        <h4 class="footer-header">PLATFORM</h4>
-        <ul>
-          <li><a href="/build">Platform</a></li>
-          <li><a href="http://platform.seatgeek.com/">API Docs</a></li>
-          <li><a href="/partners/dashboard/" rel="nofollow">Partner program</a></li>
-          <li><a href="https://discussions.zoho.com/sgplatform#home" rel="nofollow" target="_blank">Dev community</a></li>
-        </ul>
-      </div>
-      <div class="cols">
-        <h4 class="footer-header">GET&nbsp;IN&nbsp;TOUCH</h4>
-        <ul>
-          <li><a href="/press/index">Press</a></li>
-          <li><a href="/jobs">Jobs</a></li>
-          <li><a href="http://twitter.com/seatgeek">Social</a></li>
-          <li><a href="/contact">Contact</a></li>
-        </ul>
-      </div>
-      <div class="cols">
-        <h4 class="footer-header">WHAT'S&nbsp;HOT&nbsp;</h4>
-        <ul>
-          <li><a href="/ticket-prices/">Ticket Price Data</a></li>
-          <li><a href="http://chairnerd.seatgeek.com/cross-event-search/">X-Event Search <span>New</span></a></li>
-        </ul>
-      </div>
-      <div class="cols">
-        <h4 class="footer-header">BORING&nbsp;STUFF</h4>
-        <ul>
-          <li><a href="/privacy" rel="nofollow">Privacy policy</a></li>
-          <li><a href="/terms" rel="nofollow">Terms of use</a></li>
-          <li><a href="/sitemap">Sitemap</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="footer-right">
-      <div id="fb-like-footer"></div>
-      <script type="text/javascript">
-        if (location.protocol != 'https:') {
-          $(document).bind("fb:init", function () {
-            SG.like_button($("#fb-like-footer"), {
-              "url":      "http://facebook.com/seatgeek",
-              "style":    "border:none; float:right; height:35px; padding-top:13px; width:90px;",
-              "track": {
-                "category":       "share:footer",
-                "detail":         "fb:like:footer:v1"
-              }
-            });
-          });
-        }
-      </script>
-      <div class="footer-logo">
-        <a href="/"><div class="footer-logo-image" alt="SeatGeek Footer Logo"></div></a>
-        <p class="footer-copyright">© 2014 SeatGeek. All rights reserved. <a rel="nofollow" href="http://nytm.org/made">Made in NYC.</a></p>
-      </div>
-    </div>
-    <div class="clear"></div>
-  </div>
-</div>
-<!--footer end-->
-    
-    
-    <div id="login-popup" class="popupv5 account-popup account-login" style="display:none">
-
-  <div class="header">
-    <div class="account-icon">
-      <div class="account-icon-inner">
-        <div class="account-icon-head"></div>
-        <div class="account-icon-body"></div>
-      </div>
-    </div>
-
-    <h2>Log Into SeatGeek</h2>
-    <a href="#" id="popup-close" class="close">×</a>
-  </div>
-  <div class="body" style="width:375px; height: auto;">
-
-    <div id="login-options">
-
-      <!-- Login -->
-      <div class="column-left account-form modal-form">
-        <div class="validation-errors">
-          <div style="display:none;" class="alert danger" id="login-invalid">Your login is invalid. Please try again.</div>
-          <div style="display:none;" class="alert danger" id="login-missing">Please enter both your email and password.</div>
+    <footer>
+  <div class="footer-header">
+    <div class="footer-group">
+      <div class="footer-cell learn-more">Learn More</div>
+      <div class="footer-cell platform">Platform</div>
+      <div class="footer-cell get-in-touch">Get in Touch</div>
+      <div class="footer-cell whats-hot">What's Hot</div>
+      <div class="download-container">
+        <h3>SeatGeek App</h3>
+        <p>Send a download link to your phone</p>
+        <div class="form-wrapper">
+          <input type="text" placeholder="Enter your number" class="download-input">
+          <span class="twilio-submit">Send</span>
+          <i class="icon-check is-hidden"></i>
+          <div class="sg-loading-indicator is-hidden"></div>
         </div>
-
-
-        <!-- Login form -->
-
-          <form id="login-form" method="post" action="/login/">
-            <div onclick="SG.fb_login(); return false;" class="fb-button btn primary">
-              <div class="fb-logo"></div>
-              Log in with <span>Facebook</span>
+        <div class="store-container">
+          <a href="https://itunes.apple.com/us/app/seatgeek-tickets-concerts/id582790430">
+            <div class="app-store">
+              <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="24px" viewBox="0 0 19 24" enable-background="new 0 0 19 24" xml:space="preserve">
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M9.333,5.708c0.316-5.213,4.886-5.709,4.886-5.709
+  C14.5,5.353,9.333,5.708,9.333,5.708z M15.52,12.853c0,2.249,1.463,4.132,3.476,4.788L19,17.695
+  c-1.266,3.475-3.797,5.639-3.797,5.639c-1.37,1.453-3.375,0.07-3.375,0.07c-1.581-1.135-4.007-0.035-4.007-0.035
+  c-1.863,1.312-3.198-0.035-3.198-0.035c-2.073-1.525-3.902-5.887-3.902-5.887C-1.88,9.291,3.393,6.629,3.393,6.629
+  c2.565-1.736,6.081,0.71,6.081,0.71c6.117-3.731,8.796,0.824,8.884,0.978C16.683,9.136,15.52,10.85,15.52,12.853z"></path>
+</svg>              <span>App Store</span>
             </div>
-            <div class="or-divider first"></div><div class="or">OR</div><div class="or-divider last"></div>
-            <div class="form-input">
-              <label class="ie-label">Email Address</label>
-              <input type="text" class="autofocus medium" name="email" value="" tabindex="20" id="register-email" placeholder="Email Address">
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=com.seatgeek.android">
+            <div class="play-store">
+              <svg class="android" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="21px" height="25px" viewBox="0 0 21 25" enable-background="new 0 0 21 25" xml:space="preserve">
+  <g>
+    <path fill="#D3D3D3" d="M8.003,4.051c-0.552,0-1.001,0.443-1.001,0.985c0,0.55,0.449,0.994,1.001,0.994
+      c0.554,0,1.002-0.443,1.002-0.994C9.006,4.494,8.557,4.051,8.003,4.051z M13.005,4.051c-0.552,0-1.001,0.443-1.001,0.985
+      c0,0.55,0.449,0.994,1.001,0.994c0.554,0,1.003-0.443,1.003-0.994C14.008,4.494,13.559,4.051,13.005,4.051z M3.994,7.997
+      c0,0,0.093-3.953,3.328-5.364C7.409,2.595,7.5,2.558,7.593,2.526c0.787-0.302,1.743-0.483,2.906-0.479
+      c1.159,0.005,2.113,0.191,2.896,0.493h0.002c0.092,0.037,0.18,0.075,0.269,0.114c3.213,1.422,3.342,5.343,3.342,5.343H3.994z
+       M1.491,17.985c-0.802,0-1.495-0.643-1.495-1.435v-6.091c0-0.792,0.693-1.434,1.495-1.434c0.803,0,1.508,0.545,1.508,1.338v6.092
+      C2.999,17.247,2.294,17.985,1.491,17.985z M4.015,14.27V9.001h12.984v5.269H4.015z M16.165,20.962H4.847
+      c-0.452,0-0.819-0.362-0.819-0.808V9.808c0-0.446,0.367-0.807,0.819-0.807h11.318c0.452,0,0.821,0.361,0.821,0.807v10.346
+      C16.986,20.6,16.617,20.962,16.165,20.962z"></path>
+  </g>
+  <g>
+    <path fill="#D3D3D3" d="M19.487,17.961c-0.802,0-1.494-0.642-1.494-1.435v-6.091c0-0.792,0.692-1.434,1.494-1.434
+      c0.804,0,1.509,0.545,1.509,1.338v6.092C20.996,17.223,20.291,17.961,19.487,17.961z"></path>
+  </g>
+  <g>
+    <path fill="#D3D3D3" d="M7.476,24.991c-0.802,0-1.495-0.642-1.495-1.434v-5.097c0-0.792,0.693-1.434,1.495-1.434
+      c0.803,0,1.508,0.545,1.508,1.338v5.096C8.984,24.253,8.279,24.991,7.476,24.991z"></path>
+  </g>
+  <g>
+    <path fill="#D3D3D3" d="M13.503,24.991c-0.802,0-1.494-0.642-1.494-1.434v-5.097c0-0.792,0.692-1.434,1.494-1.434
+      c0.804,0,1.509,0.545,1.509,1.338v5.096C15.012,24.253,14.307,24.991,13.503,24.991z"></path>
+  </g>
+  <g>
+    <line fill="#D3D3D3" x1="7.956" y1="3.065" x2="6.759" y2="0.489"></line>
+    <path fill="#D3D3D3" d="M7.956,3.563c-0.189,0-0.371-0.107-0.455-0.289L6.304,0.698c-0.116-0.25-0.006-0.545,0.245-0.661
+      C6.8-0.078,7.098,0.031,7.213,0.28L8.41,2.856c0.116,0.25,0.006,0.545-0.245,0.661C8.097,3.548,8.026,3.563,7.956,3.563z"></path>
+  </g>
+  <g>
+    <line fill="#D3D3D3" x1="12.007" y1="3.065" x2="13.203" y2="0.489"></line>
+    <path fill="#D3D3D3" d="M12.007,3.563c-0.071,0-0.143-0.015-0.211-0.046c-0.25-0.116-0.359-0.411-0.244-0.661l1.196-2.576
+      c0.116-0.25,0.414-0.356,0.665-0.243c0.25,0.115,0.359,0.411,0.244,0.661l-1.196,2.577C12.376,3.456,12.195,3.563,12.007,3.563z"></path>
+  </g>
+</svg>              <span>Play Store</span>
             </div>
-
-            <div class="form-input">
-              <label class="ie-label">Password</label>
-              <input type="password" class="medium" name="password" tabindex="21" value="" id="register-pass" placeholder="Password">
-              <span class="forgot-password"><a href="/forgot_password/">Forget?</a></span>
-            </div> 
-
-            
-            <input type="submit" name="Log in" class="btn primary" tabindex="22" alt="Log in" value="Log in with email" id="login-button">
-          </form>
-      </div>
-    </div>
-
-    <!-- Facebook loading popup -->
-
-    <div class="account-switch">
-      Don't have an account? <a href="#" onclick="SG.register(); return false;">Create one for free ›</a>
-    </div>
-    <div class="fb-loading login">
-      <div>Please wait while we log you in…<br><br><a href="#" onclick="$('.fb-loading').hide();">Close</a></div>
-    </div>
-
-    <div id="login-success" class="submit-success">
-      <img alt="Logged in" src="https://chairnerd.global.ssl.fastly.net/images/new/global/checkmark.png">      <p>Welcome back!</p>
-    </div>
-  </div>
-
-</div>
-
-<div id="register-popup" class="popupv5 account-popup" style="display:none">
-
-  
-  <div class="header">
-    <div class="account-icon">
-      <div class="account-icon-inner">
-        <div class="account-icon-head"></div>
-        <div class="account-icon-body"></div>
-      </div>
-    </div>
-
-    <h2>Sign up for SeatGeek</h2>
-    <p class="account-popup-message"></p>
-    <a href="#" id="popup-close" class="close">×</a>
-  </div>
-  <div class="body" style="width: 715px;">
-
-    <div id="register-options">
-
-      <div class="column-left account-form modal-form">
-        <div class="validation-errors">
-          <div style="display:none;" class="alert danger" id="register-invalid">Your login is invalid. Please try again.</div>
-          <div style="display:none;" class="alert danger" id="register-missing">Please enter both your email and password.</div>
+          </a>
         </div>
-
-        <form id="register-form" method="post" action="/register/">          <div onclick="SG.fb_login(); return false;" class="fb-button btn primary">
-            <div class="fb-logo"></div>
-            Log in with <span>Facebook</span>
-          </div>
-          <div class="or-divider first"></div><div class="or">OR</div><div class="or-divider last"></div>
-
-          <div class="form-input">
-            <label class="ie-label">Email Address</label>
-            <input type="text" class="autofocus medium" name="email" value="" tabindex="20" id="register-email" placeholder="Email Adddress">
-          </div>
-
-          <div class="form-input">
-            <label class="ie-label">Password</label>
-            <input type="password" class="medium" name="password" tabindex="21" value="" id="register-pass" placeholder="Password">
-          </div>
-
-          <div class="form-input promo-input">
-            <label class="ie-label">Promo Code (Optional)</label>
-            <input type="text" class="medium" name="promo" tabindex="21" value="" id="register-promo" placeholder="Promo Code (Optional)">
-          </div>
-
-                    <input type="submit" name="Log in" class="btn primary" tabindex="22" alt="Register" value="Sign up with email" id="register-button">
-
-        </form>
       </div>
-      <div class="column-right">
-        <ul>
-          <li>SeatGeek is forever free.</li>
-          <li>Be the first to know when games and concerts are coming up near you</li>
-          <li>Track ticket prices so you always get the best deal</li>
-          <li>Best of all, save money on tickets!</li>
-        </ul>
-        <a href="#" onclick="SG.register(undefined, undefined, {promo:true}); return false;" id="radio-tv">➜ Did you hear about us on radio or TV?</a>
-      </div>
-
-      <!-- Facebook loading popup -->
-      <div class="fb-loading register">
-        <div>Please wait while we log you in…<br><br><a href="#" onclick="$('.fb-loading').hide();">Close</a></div>
-      </div>
-
     </div>
-
-      <div id="register-success" class="submit-success">
-        <img alt="Logged in" src="https://chairnerd.global.ssl.fastly.net/images/new/global/checkmark.png">        <p>Registered!</p>
-      </div>
-      <div class="account-switch">
-        Already have a SeatGeek account? <a href="#" onclick="SG.login(); return false;">Log in here ›</a>
-      </div>
   </div>
+  <div class="footer-body">
+    <div class="footer-group">
+      <div class="footer-cell learn-more">
+        <a href="/about" class="footer-link">About</a>
+        <a href="/faq" class="footer-link">FAQ</a>
+        <a href="http://chairnerd.seatgeek.com/" class="footer-link">Dev Blog</a>
+        <a href="https://seatgeek.com/tba/" class="footer-link">Event News</a>
+      </div>
+      <div class="footer-cell platform">
+        <a href="/build" class="footer-link">Platform</a>
+        <a href="http://platform.seatgeek.com/" class="footer-link">API Docs</a>
+        <a href="/partners/dashboard" class="footer-link">Partner Program</a>
+        <a href="https://discussions.zoho.com/sgplatform#home" class="footer-link">Dev community</a>
+      </div>
+      <div class="footer-cell get-in-touch">
+        <a href="/press/index" class="footer-link">Press</a>
+        <a href="/jobs" class="footer-link">Jobs</a>
+        <a href="http://twitter.com/seatgeek" class="footer-link">Social</a>
+        <a href="/contact" class="footer-link">Contact</a>
+      </div>
+      <div class="footer-cell whats-hot">
+        <a href="/2014-2015-college-football-playoff-tickets" class="footer-link">College Football Playoff</a>
+        <a href="/super-bowl-tickets" class="footer-link">Super Bowl</a>
+        <a href="/ticket-prices" class="footer-link">Ticket Price Data</a>
+        <a href="http://chairnerd.seatgeek.com/cross-event-search/" class="footer-link">X-Event Search</a>
+      </div>
+      <div class="download-container"></div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="bottom-wrapper">
+      <div class="logo-cell">
+        <div class="logo">
+          <a href="/">
+            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 422.367 141.772" enable-background="new 0 0 422.367 141.772" xml:space="preserve" class="seatgeek-svg-logo">
+<g id="Logo_1_">
+    <g>
+        <path class="seatgeek-element seatgeek-curve" d="M374.254,95.82c-12.159,19.345-33.691,32.202-58.227,32.202c-24.534,0-46.071-12.86-58.227-32.204h-0.004
+            l0,0l-7.647,4.794l-7.024,5.234l2.826,4.504l7.927-3.785l1.244-0.78c14.006,18.32,36.062,30.166,60.905,30.166
+            c27.366,0,51.385-14.342,64.945-35.918L374.254,95.82z"></path>
+    </g>
+    <path class="seatgeek-element seatgeek-s" d="M23.209,88.286c-4.916,0-9.73-0.603-13.644-1.606l0.5-8.827c3.915,1.406,9.233,2.509,13.948,2.509
+        c8.127,0,14.848-3.312,14.848-11.64c0-15.249-30.5-9.23-30.5-30.799c0-11.139,8.83-19.166,24.079-19.166
+        c4.115,0,8.225,0.402,12.24,1.206l-0.504,8.226c-3.911-1.102-8.226-1.805-12.238-1.805c-9.232,0-14.045,4.214-14.045,10.534
+        c0,14.646,30.601,9.331,30.601,30.5C48.494,79.556,38.962,88.286,23.209,88.286z"></path>
+    <path class="seatgeek-element seatgeek-e1" d="M99.867,61.899H67.259c-0.403,13.344,5.117,19.062,15.751,19.062c5.117,0,10.537-1.202,14.549-3.108
+        l0.8,7.322c-4.812,2.009-10.631,3.111-16.854,3.111c-15.352,0-23.578-8.027-23.578-25.583c0-14.949,8.127-26.087,22.274-26.087
+        c14.047,0,19.965,9.532,19.965,20.97C100.167,58.788,100.065,60.193,99.867,61.899z M79.801,43.238
+        c-6.521,0-11.137,4.916-12.139,12.241h23.275C91.136,48.154,86.824,43.238,79.801,43.238z"></path>
+    <path class="seatgeek-element seatgeek-a" d="M140.005,87.382c0-3.51,0-7.123,0.501-9.932h-0.201c-2.409,6.121-8.729,10.836-16.958,10.836
+        c-8.226,0-13.843-4.414-13.843-12.342c0-10.934,11.138-17.858,29.999-17.858v-3.71c0-6.925-2.708-10.637-10.934-10.637
+        c-4.717,0-10.735,1.505-15.052,4.116l-0.904-7.729c4.818-2.006,10.839-3.609,17.458-3.609c14.348,0,18.46,6.721,18.46,16.654v27.19
+        c2.409,0.401,5.819,0.802,8.729,1.004v5.314C152.243,87.282,145.322,87.684,140.005,87.382z M139.502,64.406
+        c-17.358,0-21.168,5.319-21.168,9.835c0,4.214,3.01,6.922,7.624,6.922c8.125,0,13.544-8.027,13.544-15.853V64.406z"></path>
+    <path class="seatgeek-element seatgeek-t" d="M183.029,88.185c-10.235,0-13.344-4.212-13.344-14.947V44.542h-10.233V37.52h10.233V21.368l9.029-2.51
+        V37.52h13.944v7.022h-13.944v25.486c0,8.225,1.505,10.433,7.124,10.433c2.308,0,4.817-0.401,6.821-0.905v7.628
+        C189.849,87.786,186.24,88.185,183.029,88.185z"></path>
+    <path class="seatgeek-element seatgeek-g" d="M254.969,30.295c-5.616-2.305-11.84-3.611-18.061-3.611c-13.942,0-25.885,9.031-25.885,27.088
+        c0,16.857,9.835,26.487,25.083,26.487c4.514,0,8.33-0.703,11.938-1.804V52.871h9.13v31.503c-6.721,2.508-14.949,3.912-22.372,3.912
+        c-20.467,0-33.61-12.441-33.61-33.409c0-20.769,13.845-36.121,36.618-36.121c6.423,0,12.543,1.005,18.562,2.91L254.969,30.295z"></path>
+    <path class="seatgeek-element seatgeek-e2" d="M309.652,61.899h-32.604c-0.401,13.344,5.115,19.062,15.75,19.062c5.117,0,10.534-1.202,14.547-3.108
+        l0.806,7.322c-4.818,2.009-10.638,3.111-16.856,3.111c-15.35,0-23.578-8.027-23.578-25.583c0-14.949,8.128-26.087,22.273-26.087
+        c14.046,0,19.964,9.532,19.964,20.97C309.953,58.788,309.854,60.193,309.652,61.899z M289.588,43.238
+        c-6.524,0-11.136,4.916-12.142,12.241h23.278C300.926,48.154,296.607,43.238,289.588,43.238z"></path>
+    <path class="seatgeek-element seatgeek-e3" d="M360.428,61.899h-32.608c-0.404,13.344,5.115,19.062,15.751,19.062c5.119,0,10.536-1.202,14.548-3.108
+        l0.802,7.322c-4.813,2.009-10.631,3.111-16.854,3.111c-15.354,0-23.578-8.027-23.578-25.583c0-14.949,8.129-26.087,22.272-26.087
+        c14.048,0,19.965,9.532,19.965,20.97C360.726,58.788,360.627,60.193,360.428,61.899z M340.361,43.238
+        c-6.521,0-11.137,4.916-12.141,12.241h23.276C351.695,48.154,347.384,43.238,340.361,43.238z"></path>
+    <path class="seatgeek-element seatgeek-k" d="M402.37,87.382l-18.461-25.684v25.684h-9.028V21.166c-2.408-0.4-5.819-0.803-8.73-1.004v-5.316
+        c5.019-0.601,11.941-1.004,17.759-0.702V59.39L401.47,37.52h11.034l-19.162,22.774l20.664,27.088H402.37z"></path>
+</g>
+</svg>
+          </a>
+        </div>
+      </div>
+        <ul>
+          <a href="/privacy">Privacy policy</a>
+          <a href="/terms">Terms of use</a>
+          <a href="/sitemap">Site map</a>
+        </ul>
+      <div class="copyright">© 2014 SeatGeek. All rights reserved. <a rel="nofollow" href="http://nytm.org/made">Made in NYC.</a></div>
+    </div>
+  </div>
+</footer>
 
-
-</div>
-
-<script type="text/javascript">
-  $('#sglightbox_modal').live('closeModal',  function() { $('.fb-loading').hide(); });
-
-  $('#login-popup .close').on('click', function() {
-    SG.GA.sendEvent('sg_login', 'login-popup-close-wo-login', { label: 'click' });
-  });
-  $('#login-popup .facebook-button').on('click', function() {
-    SG.GA.sendEvent('sg_login', 'facebook-login-button', { label: 'click' });
-  });
-  $('#register-popup .close').on('click', function() {
-    SG.GA.sendEvent('sg_login', 'register-popup-close-wo-register', { label: 'click' });
-  });
-  $('#register-popup .facebook-button').on('click', function() {
-    SG.GA.sendEvent('sg_login', 'facebook-register-button', { label: 'click' });
-  });
+<script>
+  var footerController = new SGController.FooterController();
+  footerController.initialize();
 </script>
+    
+    
+    <div id="login-popup"></div>
 
-<script type="text/javascript" charset="utf-8">
-        var newwindow;
-    var intId;
-    function fbPopup() {
-        var  screenX    = typeof window.screenX != 'undefined' ? window.screenX : window.screenLeft,
-             screenY    = typeof window.screenY != 'undefined' ? window.screenY : window.screenTop,
-             outerWidth = typeof window.outerWidth != 'undefined' ? window.outerWidth : document.body.clientWidth,
-             outerHeight = typeof window.outerHeight != 'undefined' ? window.outerHeight : (document.body.clientHeight - 22),
-             width    = 500,
-             height   = 270,
-             left     = parseInt(screenX + ((outerWidth - width) / 2), 10),
-             top      = parseInt(screenY + ((outerHeight - height) / 2.5), 10),
-             features = (
-              'width=' + width +
-              ',height=' + height +
-              ',left=' + left +
-              ',top=' + top
-             );
-
-            newwindow=window.open('https://www.facebook.com/dialog/oauth?client_id=130121696309&redirect_uri=https%3A%2F%2Fseatgeek.com%2Ffbcallback%2F%3Floginsucc%3D1&state=78cfb1a6745858067a587d8958e62667&display=popup&cancel_url=https%3A%2F%2Fseatgeek.com%2Ffbcallback%2F%3Fcancel%3D1&scope=email%2Cuser_interests%2Cuser_likes%2Cuser_location','login_by_facebook',features);
-
-           if (window.focus) {newwindow.focus()}
-           return false;
-    }
-    </script>
-
-<div id="why-seatgeek-popup" class="popupv5 why-seatgeek-popup" style="display:none">
-  <div class="header">
-    <h2 id="why-seatgeek-popup-message">What is SeatGeek?</h2>
-    <a href="#" id="popup-close" class="close">×</a>
-  </div>
-  <div class="body">
-    <div id="register-options">
-
-      <!-- Register -->
-      <div class="column-left account-form modal-form">
-        <img src="https://chairnerd.global.ssl.fastly.net/images/new/team-show/modal-map.png">
-      </div>
-
-      <!-- Vertical Divider -->
-      <div class="why-seatgeek-divider"></div>
-
-      <!-- Why register? -->
-      <div class="column-right description">
-        <h3>The web's best ticket search engine</h3>
-        <ul>
-          <li>Tickets from hundreds of sites, all in one place</li>
-          <li>Deals automatically ranked from best to worst</li>
-          <li>Detailed interactive seating charts</li>
-          <li>Photo views from your seat</li>
-        </ul>
-        <a href="#" class="why-seatgeek-button">OK, Got It</a>
-        <span class="why-seatgeek-more-info">
-          Want more info?<br>Check out <a target="_blank" href="/faq/">our FAQ Page</a>.
-        </span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="clear"></div>
+<script>
+React.renderComponent(SeatgeekLoginRegisterPopup(),
+  document.getElementById("login-popup"));
+</script>
     <script type="text/javascript">
   (function() {
       if ('https:' != document.location.protocol) {
@@ -1179,6 +1034,6 @@ var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
 b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
 loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
 olark.identify('9704-840-10-9968');/*]]>*/</script><noscript><a href="https://www.olark.com/site/9704-840-10-9968/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"53a6a709f9","applicationID":"3151478","transactionName":"NVBbbBZVWhAAUUIMDAwaek0XQFsOTl9XDA1NRk1ZEF1X","queueTime":0,"applicationTime":43,"ttGuid":"","agentToken":"","atts":"GRdYGl5PSR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"53a6a709f9","applicationID":"3151478","transactionName":"NVBbbBZVWhAAUUIMDAwaek0XQFsOTl9XDA1NRk1ZEF1X","queueTime":0,"applicationTime":56,"atts":"GRdYGl5PSR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
