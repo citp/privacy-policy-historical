@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145621id_/http%3A//www.moodfabrics.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213113952id_/http%3A//www.moodfabrics.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
