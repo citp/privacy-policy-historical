@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143211id_/http%3A//globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214151331id_/http%3A//globalsurveygroup.com/privacy.php) for the most accurate reproduction.*
 
-# GLOBAL SURVEY GROUP: Get invitations to the best paid online surveys
+# Paid Surveys - GlobalSurveyGroup - Online Surveys for Making Money
 
-Effective Date January 1, 2004 
+Effective Date January 1, 2004
 
-This statement discloses the privacy practices for the GlobalSurveyGroup.com website. By visiting GlobalSurveyGroup.com, you are accepting the practices described herein. Because Global Survey Group wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and notify you of the following: 
+This statement discloses the privacy practices for the GlobalSurveyGroup.com website. By visiting GlobalSurveyGroup.com, you are accepting the practices described herein. Because Global Survey Group wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and notify you of the following:
 
 #### What information do we collect?
 
@@ -16,7 +16,7 @@ Contact information consists of the information that we can use to contact you i
 
 B. Other Information
 
-Profile data also is collected at our site. Depending on the specific Global Survey Group products for which a user ("User") registers, various information will be requested. We use this data to tailor the visitor's experience through our interest-focused e-mails. By obtaining this information, we can provide our Users with specific content that we think they might be interested in, according to their preferences and interests. The User may include only the information he or she feels comfortable including. However, the omission of certain information may limit the value of the experience for the User. As a result, the more information we have about a User, the more valuable the Global Survey Group experience will be for that User. In addition, GlobalSurveyGroup.com provides services for direct marketing applications including lookup and reference, data enhancement, suppression and validation. 
+Profile data also is collected at our site. Depending on the specific Global Survey Group products for which a user ("User") registers, various information will be requested. We use this data to tailor the visitor's experience through our interest-focused e-mails. By obtaining this information, we can provide our Users with specific content that we think they might be interested in, according to their preferences and interests. The User may include only the information he or she feels comfortable including. However, the omission of certain information may limit the value of the experience for the User. As a result, the more information we have about a User, the more valuable the Global Survey Group experience will be for that User. In addition, GlobalSurveyGroup.com provides services for direct marketing applications including lookup and reference, data enhancement, suppression and validation.
 
 #### How is User information used?
 
@@ -41,7 +41,7 @@ You can set your browser to not accept cookies. Please be aware that by doing so
 
 Global Survey Group uses cookies to collect and store certain types of information when you interact with us in order to (i) access your account information (stored on our computers) and keep track of your points or credits; and (ii) learn what you like and, hence, to provide a more personalized experience for you. In the future, Global Survey Group may use cookies to enable us or a merchant to track visits to and business at its store and process the items in your shopping basket. Global Survey Group strongly encourages all of its merchants to post their privacy policies on their sites and to adhere to the same high standards as stated herein.
 
-C. Log Files
+C. Log Files 
 
 We use IP addresses to analyze trends, administer the site, track User's movement, and gather broad demographic information for aggregate use. While we collect standard Apache log files, we do not use them for any purpose other than determining page views. We also collect pages visited within our database through cookies (as discussed above). This data is connected with registration information so we can determine site usage and for marketing research. Except in the case of domain name registrations, IP addresses are not linked to personally identifiable information.
 
@@ -75,7 +75,7 @@ Because we want our Users to feel completely comfortable using the Global Survey
 
 Please note once an account is created, we may send you a confirmation e-mail acknowledging your new account to the address that you supplied us. This e-mail will give you the option to unsubscribe your account, in case you change your mind or in case you were not the one who created it in the first place. You should keep the confirmation e-mail, as it will also contain information that will help you in case you run into problems accessing our services.
 
-B. Opting Out
+B. Opting Out 
 
 To remove your User information from our mailing list(s) so as not to receive future communications from us or to no longer receive our service, please go to: http://www.globalsurveygroup.com/unsub.php and enter your email address. If you have submitted personal information under more than one e-mail account, you must make this request from each account that you have used. Global Survey Group will use commercially reasonable efforts to delete records from our mailing list when we receive requests to do so. Please allow up to 48 hours to be completely removed from our database. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy.
 
@@ -99,6 +99,6 @@ We may sell, brand or share your personal information that you supply to us with
 
 #### Contact Information:
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20140626143211id_/http%3A//globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20141214151331id_/http%3A//globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed.
 
-If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20140626143211id_/http%3A//globalsurveygroup.com/contact.php) or write us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566.
+If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20141214151331id_/http%3A//globalsurveygroup.com/contact.php) or write us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566.
