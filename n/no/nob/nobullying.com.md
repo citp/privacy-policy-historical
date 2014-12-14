@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nobullying.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092129id_/http%3A//nobullying.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobullying.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214033511id_/http%3A//nobullying.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | No Bullying|Expert Advice On Cyber Bullying & School Bullying
+# Privacy Policy |NoBullying|Anti Bullying Information Center
 
 NoBullying.com cares about your personal information and we take your privacy very seriously. By using NoBullying.com you agree to the following Privacy Policy. This policy covers the treatment of personal information that NoBullying.com collects when you are using the NoBullying.com website. This policy does not apply to practices of third parties that NoBullying.com has no control over.
 
