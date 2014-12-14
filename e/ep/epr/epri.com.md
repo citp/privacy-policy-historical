@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epri.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331083150id_/http%3A//www.epri.com/Help/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epri.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214033435id_/http%3A//www.epri.com/Help/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # EPRI | Privacy Statement
 
