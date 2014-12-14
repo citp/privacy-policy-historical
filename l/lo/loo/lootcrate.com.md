@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503185242id_/http%3A//www.lootcrate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214213055id_/http%3A//www.lootcrate.com/privacy_policy) for the most accurate reproduction.*
 
 # Loot Crate - Monthly Geek and Gamer Subscription Box
 
@@ -65,8 +65,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 
 Loot Crate  
-8163 Melrose Ave.  
-Los Angeles, CA 90046
+3401 Pasadena Ave.  
+Los Angeles, CA 90031
 
 weloveyou@lootcrate.com  
 http://www.lootcrate.com 
