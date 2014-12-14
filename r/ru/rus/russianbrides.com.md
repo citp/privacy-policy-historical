@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301092040id_/http%3A//www.russianbrides.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214200431id_/http%3A//www.russianbrides.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - RussianBrides.com
 
@@ -67,7 +67,7 @@ We may use information to:
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use. 
 
-You will also receive our email newsletters, account updates and special offers targeted to your interests sent to you by Russian Brides. 
+You may also daily receive any combination of our email newsletters, account updates, or special offers targeted to your interests sent to you by Russian Brides.
 
 We will not use your address or other information to provide you with any unsolicited message or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use. 
 
@@ -88,6 +88,8 @@ Children under eighteen years of age are prohibited from using Our Websites. We 
 ### Choice/Opt-Out
 
 RussianBrides.com may periodically send you email messages describing updates, new features, or promotional offers related to this Website. You can choose to stop receiving this email at any time.
+
+To unsubscribe you can follow the 'unsubscribe' instructions and link provided at the bottom with each email or as we otherwise provide or you can also mail us at [unsubscribe@russianbrides.com](mailto:unsubscribe@russianbrides.com)
 
 ## III. Access
 
@@ -115,7 +117,11 @@ RussianBrides.com has VeriSign secure certificates demonstrating that the site i
 
 Please note that whenever you submit any information to us in connection with any RussianBrides.com related services, you consent to Russian Brides’ processing of this information in the United States/Russia as necessary to provide the services in which you are participating.
 
-If you have any questions, comments or complaints about Russian Brides’ privacy policy and/or the way it affects you, please feel free to contact our Customer Support
+If you have any questions, comments or complaints about Russian Brides’ privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/russian-dating-faq.htm)
+
+Email [support@russianbrides.com](mailto:support@russianbrides.com)
+
++1 (800) 480-8077
 
 ### Acceptance of Privacy Statement
 
@@ -129,4 +135,6 @@ RussianBrides.com reserves the right to change, modify or amend this policy at a
 
 ### Effective Date
 
-This privacy statement was last revised on December 1, 2011.
+This privacy statement was last revised on March 26, 2014.
+
+### Company address
