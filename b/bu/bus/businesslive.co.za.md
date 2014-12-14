@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the businesslive.co.za privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630124343id_/http%3A//www.bdlive.co.za/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslive.co.za privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214111257id_/http%3A//www.bdlive.co.za/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | BDlive
 
-## BDFM: Publishers: Privacy Policy
+## BDFM Publishers: Privacy Policy
 
-We are committed to protecting your privacy. We promise to use your personal information only in ways that are compatible with this privacy policy, which is in effect for the web pages, newsletters, applications and opt-in announcement lists owned and operated by the BDFM network, which includes Business Day, BDlive, Financial Mail and Summit TV.
+We are committed to protecting your privacy. We promise to use your personal information only in ways that are compatible with this privacy policy, which is in effect for the web pages, newsletters, applications and opt-in announcement lists owned and operated by the BDFM network, which includes Business Day, BDlive, Financial Mail and Business Day TV.
 
 #### What information do you collect and how are you collecting it?
 
