@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newamerica.net privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127171343id_/http%3A//www.newamerica.net/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newamerica.net privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214143546id_/http%3A//www.newamerica.net/about/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy for NewAmerica.net | NewAmerica.org
+# Privacy Policy for NewAmerica.net | New America Archives
 
 The New America Foundation is committed to protecting your online privacy. The following explains what information we collect about you, how we use it and what choices you have regarding this information. This policy applies to all information collected from or submitted to NewAmerica.net.
 
