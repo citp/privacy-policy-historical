@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001608id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214125328id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | What's On Dubai
+# Privacy Policy - What's On Dubai
 
 This Privacy Policy governs the manner in which Motivate Publishing collects, uses, maintains and discloses information collected from users (each, a “User”) of the Motivatepublishing.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Motivate Publishing.
 
