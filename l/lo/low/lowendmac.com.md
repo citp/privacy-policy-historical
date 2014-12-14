@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110422id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214060423id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -37,17 +37,17 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [600 MHz iMac G3](https://web.archive.org/2001/imac-g3-early-2001/), introduced 2001.02.22. The fastest iMac to date, the Early 2001 model introduced flowers and spots, hit 600 MHz mark.
-* List of the Day: [G4 'Books](http://lowendmac.com/lists/g4books.html) is our group for G4 iBook and PowerBook users.  
+* Mac of the Day: [Quadra 800](https://web.archive.org/1993/quadra-800/), introduced 1993.02.10. This minitower runs a 33 MHz 68040 and introduced a challenging new enclosure.
+* List of the Day: [Leopard GRoup](http://lowendmac.com/lists/leopard.html) Low End Mac's email list covering Mac OS X 10.5 on PowerPC and Intel Macs.  
 
  **Channels**  
- [Power Macs](https://web.archive.org/ppc/index.shtml)  
+ [Power Macs](https://web.archive.org/2005/power-mac-index/)  
  [iMac Channel](https://web.archive.org/imac/index.shtml)  
  [iBook/PowerBook](https://web.archive.org/ibook/index.shtml)  
  [MacInSchool](https://web.archive.org/macinschool/index.shtml)  
 **Computer Profiles**  
  [iMac](https://web.archive.org/imacs/index.shtml)  
- [Power Mac](https://web.archive.org/ppc/index.shtml)  
+ [Power Mac](https://web.archive.org/2005/power-mac-index/)  
  [PowerBook/iBook](https://web.archive.org/powerbooks.html)  
  [Performas](https://web.archive.org/performa.shtml)  
  [Mac Clones](https://web.archive.org/clones/index.shtml)  
@@ -61,8 +61,8 @@ Low End Mac is an independent publication and has not been authorized, sponsored
 [**Consumer**](https://web.archive.org/consumer.html)  
  advice, reviews  
  guides, deals  
-[**Software**](https://web.archive.org/sw.html)  
-[**Apple History**](https://web.archive.org/history/index.shtml)  
+[**Software**](https://web.archive.org/2013/mac-software-links/)  
+[**Apple History**](https://web.archive.org/2014/apple-and-macintosh-history/)  
 [**Best of the Web**](https://web.archive.org/links.shtml)  
  [Best of the Mac Web surveys](https://web.archive.org/botmw/index.html)  
 **Miscellaneous Links  
@@ -75,7 +75,7 @@ Low End Mac is an independent publication and has not been authorized, sponsored
 [**About Low End Mac**](https://web.archive.org/about.shtml)  
 [**Site Contacts**](https://web.archive.org/contact.html)
 
-### [Support LEM](https://web.archive.org/support.shtml)
+### [Support LEM](https://web.archive.org/2014/how-you-can-support-low-end-mac/)
 
 #### Affiliates
 
@@ -91,4 +91,4 @@ Low End Mac is an independent publication and has not been authorized, sponsored
 [PC Zone](http://clickserve.cc-dt.com/link/click?lid=41000000022216230)  
 [Crucial Memory](http://www.qksrv.net/click-272632-5032657)
 
-Our advertising is handled by [BackBeat Media](http://www.backbeatmedia.com/). For detailed price quotes and advertising information, please contact[Greg Snyder](mailto:lem@backbeatmedia.com)at BackBeat Media (646-546-5194). This number is for advertising only. 
+Our advertising is handled by [BackBeat Media](http://www.backbeatmedia.com/). For detailed price quotes and advertising information, please contact[Greg Snyder](mailto:lem@backbeatmedia.com)at BackBeat Media (646-546-5194). This number is for advertising only.
