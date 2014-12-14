@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the onlinemediamasters.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092436id_/http%3A//www.onlinemediamasters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemediamasters.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214040758id_/http%3A//www.onlinemediamasters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy • OMM
+
+This privacy policy sets out how Online Media Masters uses and protects any information that you give Online Media Masters when you use this website.
+
+Online Media Masters is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+Online Media Masters may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 **What we collect**  
 We may collect the following information:
