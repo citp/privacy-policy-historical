@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localbizbuilders.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510114855id_/http%3A//www.localmarketingsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbizbuilders.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214165425id_/http%3A//www.localmarketingsource.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Local Marketing Source
+# Privacy Policy - Local Marketing Source - Internet Marketing Education
 
 We at Local Marketing Source, LLC and our affiliated companies are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us.  We have created this Privacy Policy to demonstrate our firm commitment to privacy and security.  We request that you read this Privacy Policy carefully.
 
@@ -28,6 +28,6 @@ Upon request we offer visitors the ability to have inaccuracies corrected in com
 
 With respect to security: We have security measures in place to protect the information under our control.  While we make every effort to ensure the security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
 
-If you have any questions about this Privacy Policy, you may contact us via email at  [support@localmarketingsource.com](mailto:support@localmarketingsource.com)This e-mail address is being protected from spambots. You need JavaScript enabled to view it .
+If you have any questions about this Privacy Policy, you may contact us via our [Contact and Support Page](http://www.localmarketingsource.com/support/). 
 
 Copyright © Local Marketing Source, LLC, 70 Val Vista Dr. #181, Gilbert, AZ 85296
