@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the areacodehelp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080055id_/http%3A//www.areacodehelp.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areacodehelp.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214121907id_/http%3A//www.areacodehelp.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.areacodehelp.com/)
 
 At the same time that AreaCodeHelp.com is committed to bringing you information tailored to your individual needs, we recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. In adopting this customer privacy policy, our intent is to balance our legitimate business interests in collecting and using information with your reasonable expectations of privacy.
 
