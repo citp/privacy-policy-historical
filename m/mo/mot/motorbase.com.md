@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115226id_/http%3A//motorbase.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214190653id_/http%3A//www.motorbase.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Motorbase - Motorbase
+# Motorbase - The Encyclopedia of Motoring - Motorbase
 
 **Who we are  
 **  
-In this Privacy Policy references to “we” and “us” are to Classic Vehicles Limited trading as [www.motorbase.com](http://www.motorbase.com/)  Company Registration No.3840299 Reg. office: 20 Havelock Road, Hastings, TN34 1BP
+In this Privacy Policy references to “we” and “us” are to Classic Vehicles Limited trading as [v3.motorbase.com](http://v3.motorbase.com/)  Company Registration No.3840299 Reg. office: 20 Havelock Road, Hastings, TN34 1BP
 
 **What information we collect and how  
 **  
