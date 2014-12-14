@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bcci.tv privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326141606id_/http%3A//www.bcci.tv/about/2014/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcci.tv privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214140104id_/http%3A//www.bcci.tv/about/2014/privacy-policy) for the most accurate reproduction.*
 
-# BCCI.tv - Privacy Policy
+# The Board Of Control For Cricket In India
 
 At the Board of Control for Cricket in India ("BCCI") we are committed to respecting the privacy rights of our customers and all visitors to our website.
 
