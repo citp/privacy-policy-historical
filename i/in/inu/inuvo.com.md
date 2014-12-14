@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inuvo.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401030633id_/http%3A//www.inuvo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inuvo.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214210147id_/http%3A//www.inuvo.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY — Inuvo Inc: Targeted Internet Marketing
 
