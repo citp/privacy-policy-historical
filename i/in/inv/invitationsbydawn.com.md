@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614183505id_/http%3A//www.invitationsbydawn.com/custserv_content.jsp%3FpageName%3Dprivacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214112204id_/http%3A//www.invitationsbydawn.com/custserv_content.jsp%3FpageName%3Dprivacy_security) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Invitations By Dawn
 
@@ -51,4 +51,4 @@ We have taken certain physical, electronic, contractual, and managerial steps to
 The site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through our site.
 
 **Contact Us**  
-Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [contact@invitationsbydawn.com](mailto:contact@invitationsbydawn.com%22). Please include "Question or Comment" in the subject line.
+Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [contact@invitationsbydawn.com](mailto:contact@invitationsbydawn.com). Please include "Question or Comment" in the subject line.
