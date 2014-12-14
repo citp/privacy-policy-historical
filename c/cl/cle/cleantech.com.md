@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053935id_/http%3A//www.cleantech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214025827id_/http%3A//www.cleantech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Cleantech Group
 
 Cleantech Group – (“us,” “we” “our” or “Cleantech”) created this Web Site Privacy Policy (“Privacy Policy”) in order to ensure the confidence of visitors and customers (“you” or “your”) of and to our Web site (the “Site”), and to demonstrate our commitment to fair information practices and the protection of privacy.
 
