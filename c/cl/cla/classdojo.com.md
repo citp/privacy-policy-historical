@@ -1,162 +1,197 @@
-> *The following text is extracted and transformed from the classdojo.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224004020id_/http%3A//www.classdojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classdojo.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214133059id_/http%3A//www.classdojo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at ClassDojo
+# ClassDojo
 
-[](https://privacy.truste.com/privacy-seal/Class-Twist,-Inc/validation?rid=9942290d-9cbe-490a-9277-72f17594c0b3 "TRUSTe Children privacy certification")
+* * *
 
-[](https://privacy.truste.com/privacy-seal/Class-Twist,-Inc/validation?rid=35a28526-c90f-4929-b3bc-a335afcac007 "TRUSTe European Safe Harbor certification")
+### Overview of Privacy Policy
 
-## Privacy Policy
+Welcome and thank you for your interest in Class Twist, Inc. (dba ClassDojo) (“Company”, “we”, “us”) and the Service, as described in the Company Terms of Service [link to Terms] (the “Terms”). This Privacy Policy is incorporated into and is subject to the Terms, and capitalized terms used, but not defined in this Privacy Policy have the meanings given to them elsewhere in the Terms. 
 
-Class Twist, Inc. (the "Company," "we," "us," "our"), doing business as ClassDojo, knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Company's website at www.classdojo.com or any of Company's other websites, applications, domain names or other linked pages, (collectively the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. By using the Website, you are consenting to have your personal data transferred to and processed in the United States.
+This Privacy Policy describes what information we gather from you, how we use and disclose and store that information. By using the Service, you expressly consent to the information handling practices described in this policy. 
 
-You post any Content (as that term is defined in the Company's Terms of Service located at <http://www.classdojo.com/terms>) on the Website at your own risk. We cannot control the actions of other users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that Content you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached and archived pages or if other users have copied or stored your Content. If you are under 13 you must have your parent’s approval prior to posing any content on the site. This is either obtained through your school administrator or directly from your parents.
+The practices described in this policy apply only to our use of information which you provide us through the Service. Information collected from you by others, such as third party web sites that you access through links on the Service or features of the Service that you use to provide that information to third party services, are governed by those entities’ privacy policies. 
 
-Any improper collection or misuse of Content or other information accessible on the Website is a violation of the Company's Terms of Use and should be reported to [hello@classdojo.com](mailto:hello@classdojo.com).
+Basically, 
 
-Class Twist, Inc. has been awarded TRUSTe's Privacy and Children’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)  including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information collected on our site [www.classdojo.com](http://www.classdojo.com/)  and does not cover information that may be collected through the Company's other websites, applications, domain names, other linked pages, or downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [hello@classdojo.com](mailto:hello@classdojo.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+We take your privacy very seriously. This Privacy Policy explains how we treat how any personal information that you give us when you use ClassDojo. This policy does not apply to the practices of third parties that ClassDojo does not own or control – they’ll have their own privacy policies. 
 
-Class Twist, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Class Twist, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Class Twist, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
+* * *
 
-  
+### Our Certifications
 
+We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and our practices with respect to the operation of the Service have been reviewed by TRUSTe for compliance with its program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. More information on the details of TrustE’s Privacy Seal is available here. If you have questions or complaints regarding our privacy policy or practices, please contact us at hello@classdojo.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here. 
 
-## 1\. Overview of this Privacy Policy
+We also comply with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Class Twist, Inc.’s certification, please visit www.export.gov/safeharbor/. 
 
-This Privacy Policy explains how Company collects and uses information from its users who access the Website and use our services, including Company's treatment of personally identifiable information ("Personal Information"). Also, this Privacy Policy covers Company's treatment of any Personal Information that Company's business partners share with Company, or that you provide to the Company through a third party website using a Company application. This policy does not apply to websites or practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.
+Basically, 
 
-  
+ClassDojo has been awarded TRUSTe’s Privacy Seal for compliance with COPPA, and ClassDojo is also certified as an approved company under the US-EU and US-Swiss Safe Harbor framework. 
 
+* * *
 
-## 2\. Treatment of Children’s Personal Information
+### The Information We Collect
 
-If you are a minor (under the age of 18), you may only use this service and disclose Personal Information with your parent or guardian's express consent. Company collects limited Personal Information from students ("Children's Personal Information"), but only where that student's school, district, and/or teacher has contracted with Company to collect Children's Personal Information from students for the use and benefit of the learning environment. Company requires schools, districts, and/or teachers to obtain parental consent from students' parents before collecting any such Children's Personal Information. If you are a student, please do not send any Children's Personal Information about yourself to us, other than what we request from you when you sign up for the Services. In the event that we learn that we have collected Children's Personal Information from a student without parental consent being obtained by his or her school, district, and/or teacher, or if we learn a student has provided us Children's Personal Information beyond what we request when he or she signs up for the Website, we will delete that information as quickly as possible. If you believe that a student may have provided us Children's Personal Information beyond what is requested when signing up for the Website, or that a student's school, district, or teacher has not obtained parental consent, please contact us at [hello@classdojo.com](mailto:hello@classdojo.com).
+Generally speaking, the information we require users to provide is extremely limited. 
 
-Hereinafter, references to "Personal Information" shall apply to personal information of individual Website users who are not student registrants. References to "Children's Personal Information" shall only apply to personal information of student users of the Website. General references to "information" shall apply to all users.
+**User-Provided Personal Information** : When using the Service, such as when you register for an account, and when you post or submit User Submissions, you may provide us information that can be used to identify you on an individual basis (“Personal Information”). As used in this Policy, Personal Information is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address. 
 
-Notwithstanding anything to the contrary, if you are a student registrant and your parent has signed up for the Website with an access code provided by your teacher, you understand that your parent can view all information within or associated with your Website account, including without limitation messages between you and your teacher and grades you received on assignments.
+Basically, 
 
-  
+We generally collect a very limited set of information, only what we need to make ClassDojo useful to you and to other users: things like your registration and profile information. 
 
+* * *
 
-## 3\. Nature of Information Collected or Displayed by Company
+**Children's Personal Information** : As required by the law and our Terms, if you are under the age of 13, you may only use this service and disclose Personal Information with your parent or guardian's express consent. We ask users to verify their age when they sign up, and we collect only very limited Personal Information –users choose their own username and password, and provide a parent’s phone number or email address so that we can get their consent – from students under the age of 13 ("Children's Personal Information"). Use of the Service by students does not require sharing any additional Personal Information, and if you are a student under the age of 13, please do not send any other Personal Information about yourself to us. Parents, to obtain copies of all Children’s information we may have stored regarding your child under the age of 13, send an email to privacy@classdojo.com – before we can give you the information, we will need to verify your identity, such as by requiring that you send the request from the same email address you used to approve your child’s account. 
 
-When you use the Website, you may set up your personal profile, add classes and students, send messages, award points, and transmit information through various channels, depending on the category of user ("User Category") you are, and as permitted by the functionality of the Website. The information we gather from users enables us to personalize and improve our services, and, in some cases, to allow our users to set up a user account and profile through the Website. In most cases, we retain such information so that, for instance, you can return to view prior points you have given, or easily see your class lists. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. In addition to the foregoing, we collect the following types of information from our users.
+Teachers – using our Service does not require much if any personal information about students, and we prefer not to receive such information. 
 
-If you are under 13 you may only view other members of your class invited by your teachers, and if you are a parent you may review your child’s behavioral progress.
+Basically, 
 
- **Information You Provide to Us:**
+If you’re under 13, we’ll ask you for your parent’s permission before you can sign up. We’ll also collect even less information from you if you’re under 13 – usually we'll just ask you for a random username and a password. Please don’t share any other personal information with us! 
 
-We receive and store any information you knowingly enter on the Website, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. This information may include Personal Information such as your name, email address, photograph, Children's Personal Information (which could include your name, and the contact information necessary to receive notifications via the Website from your teacher, school, and/or district ("Notifications")), and any other information necessary for us to provide our services. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, customizing the content you see, and communicating with you about specials and new features. The Children's Personal Information you provide shall only be used for creating your individual account and for sending you Notifications. You may modify or remove your Personal Information or Children's Personal Information identified below at any time by logging into your account and accessing features to edit your profile and/or account information.
+* * *
 
-If you choose to invite other teachers to the site, we will ask for their name and email address. We will automatically send them a one-time email inviting them to visit the site. We store this information for the purpose of not sending multiple invitations to the same teacher from different users.
+**“Cookies” Information** : When you use the Service, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential. 
 
- **Information Collected Automatically:**
+Basically, 
 
-We receive and store certain types of information whenever you interact with the Website or our services. Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, and the page you requested. We also record the details of your activity on the Website. This information is not Personal Information or Children's Personal Information.
+To remember you, our system will give you a “cookie”. 
 
-Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Company only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to determine how often users use parts of the Website or services so that we can make the Website appealing to as many users as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use our partners' services and the Website to help provide you with an optimal online experience.
+* * *
 
- **Communications:**
+**“Automatically Collected” Information** : When you use the Service or open one of our HTML emails, we may automatically record certain information from your web browser by using different types of technology, including “clear gifs” or “web beacons.” This “automatically collected” information may include Internet Protocol address (“IP Address”) or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after the Service, the pages you view on the Service, and the dates and times that you visit, access, or use the Service. 
 
-If you provide us your email address and/or cell phone number, we may send you email or sms communications. If you are a student, we will only use your email address to send you Notifications. If you are not a student, we may receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help make emails more interesting and helpful. We also compare our non-student user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users. If you no longer wish to receive email communications or sms communications you may opt-out by following the link provided at the bottom of each communication, emailing us at [hello@classdojo.com](mailto:hello@classdojo.com), or by replying STOP to the sms message.
+Basically, 
 
-  
+Like most websites, our servers log technical information about service usage. 
 
+* * *
 
-## 4\. Treatment of Cookies
+### The Limited Ways We Use Information
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Company cookies do not collect Personal Information or Children's Personal Information, and we do not combine the general information collected through cookies with other Personal Information or Children's Personal Information to tell us who you are or what your screen name or email address is.
+We use your Personally Identifiable Information in a variety of ways in the operation of the Service and our business, such as: 
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because you will not be able to log in or use many of the Website's most attractive features without cookies enabled.
+We use the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Service, and personalizing the Service for your and other users’ specific preferences. We will use your email address to contact you for administrative purposes, for customer service purposes, to address intellectual property infringement, rights of privacy, or defamation issues, or any regarding content that you have posted to the Service. 
 
-The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+We use all of the information that you provide or that we collect and/or aggregate to understand and analyze the usage trends, interests, and preferences of our users, to improve the way the Service works and looks, and to create new features and functionality. 
 
-We employ or out third party tracking utility partner employs a software technology called web beacons, that help us better manage content on our site informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to any personal information you submit on the site.
+Various aspects of the Service and email messages we send you in connection with your use of the Service, may include relevant advertisements which may be selected based in part on your Personally Identifiable Information, including your preferences and usage patterns within the Service. 
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see section 8 below.
+We use “automatically collected” information and “cookies” information to: (a) personalize our services, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit the Service; (b) provide customized third party advertisements, content, and information; (c) monitor and analyze the effectiveness of our Service; (d) monitor aggregate usage metrics such as total number of visitors, pages viewed, Apps accessed, etc.; and (e) track your entries, submissions, and status in any promotions or other activities. 
 
-  
+We may use your email address or other Personally Identifiable Information to send promotional email related to the Service we think you may be interested in. You will have the ability to opt-out of receiving any such communications, either through links provided in the messages, or by updating your account preferences through the Service. 
 
+Basically, 
 
-## 5\. Sharing of Personal Information or Children’s Personal Information Received by Company
+We use information we collect from you internally to improve how ClassDojo works for you. We’ll also send you more useful emails based on your profile settings. From time to time, we may send emails to everyone using ClassDojo. 
 
-Personal Information and Children's Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information or Children's Personal Information to anyone. However, we share your Personal Information and Children's Personal Information in personally identifiable form as described below. Again, please note that references to "Personal Information" only apply to personal information of individuals who are not students.
+* * *
 
-Affiliated Businesses We Do Not Control: In certain situations, businesses or third party websites we're affiliated with may sell items or provide services to you through the Website (either alone or jointly with us). We may, for example, sell products or provide services jointly with affiliated businesses, or work with third party websites to enhance your online experience. These transactions or services may or may not be commercial in nature; if you are a student, we will not share your Children's Personal Information in connection with any commercial third party transaction or service. You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information or Children's Personal Information with that affiliated business only to the extent that it is related to such transaction or service. Such services may include the ability for you to automatically transmit information you input on the Website to your profile or account on a third party website, or to automatically transmit information you input on a third party website to your Website profile. We have no control over the policies and practices of third party websites as to privacy or anything else, so if you choose to allow the automatic transmissions discussed above, please review all third party websites' policies before disclosing any Personal Information or Children's Personal Information or other content on the Website or on any third party website.
+### How Company Shares Information
 
-Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing customer support and user services. Unless we tell you differently, Company's agents do not have any right to use Personal Information or Children's Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information and Children's Personal Information for the above purposes.
+We are not in the business of selling or leasing your information: **WE DO NOT SELL, LEASE, OR SHARE YOUR (OR CHILDREN'S) PERSONAL INFORMATION TO ANY THIRD PARTY FOR ADVERTISING OR MARKETING PURPOSES! WE DO NOT SHARE PERSONAL INFORMATION EXCEPT AS EXPRESSLY PROVIDED IN THIS POLICY.**
 
-User Profiles: If your User Category allows it, you may choose to populate your user profile on the Website with Personal Information, including, without limitation, your name, photograph, and school affiliation. If you are a student, your user profile will only include your name and photograph. This user profile information may be displayed to other users to facilitate user interaction within the Website or facilitate interaction with the Company. However, please keep in mind that information (whether Personal Information or Children's Personal Information or not) can be made publicly available and may be collected and used by others, in accordance with the privacy settings you select in your account preferences, or in accordance with the User Category to which you belong. Your display name may be displayed to other users when you upload images or videos or send messages through the Website and other users can contact you through messages and comments. Any images, captions or other content that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public
+There are, however, a few limited ways that we share some of the information we collect with others that you should be aware of, as follows: 
 
-Communication About the Website or in Response to User Requests: As part of the Website and our services, you may receive from Company (depending on your User Category) email or other types of communication relating to your use of the Website or your user profile. You acknowledge and agree that by posting information on the Website or otherwise using the Website, Company and its agents may send you email, contact you or engage in other communication that they determine in their sole discretion relate to your profile or use of the Website. If you disclose your email address to Company, depending on your User Category, we may use it to send updates, a newsletter or other news regarding the Website or Company services, or to simply send Notifications.
+The Service includes features that allow users to communicate in a variety of ways. Any Personally Identifiable Information that you voluntarily choose to share with another user through the Service, or in a publicly accessible area on the Service, such as by sharing User Submissions with another user, will be available to other users who access that content. Once you make your Personally Identifiable Information available in this way, we cannot control how the recipient uses that content. 
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Company may continue to use your Personal Information and Children's Personal Information as set forth in this policy. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your Personal Information and Children’s Personal Information.
+We work with third party service providers to provide website and application development, hosting, and maintenance as well as other services for us. To the extent it is necessary for these service providers to complete their contractual obligations to us, these third parties may have access to or process your personally identifiable information. Generally, our policy is to make these disclosures under limitations comparable to those in this policy, although certain large service providers, such as large hosting providers, do not expressly agree to such limitations in their contracts with us or their other customers. Many third parties who we provide your Personally Identifiable Information authorize certain government and law enforcement agencies access to information stored by such third parties without providing notice to us, in some cases as required by law and in other cases voluntarily, and we have no control over such activities. 
 
-Protection of Company and Others: We may release Personal Information or Children's Personal Information when we believe in good faith that release is necessary to comply with the law, such as to comply with a subpoena or similar legal process; investigate fraud, respond to a government request; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.
+We may make certain automatically collected and other aggregate non-personally-identifiable information to assist such parties in understanding our users’ interests, habits, and usage patterns for certain programs, content, services, promotions, and/or functionality available through the Service. 
 
-With Your Consent: Except as set forth above, you will be notified when your Personal Information or Children's Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information.
+We may also disclose your information if required to do so by law, such as in response to a subpoena or where a parent requests copies of Children’s Personal Information, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law), or in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with investigative or law enforcement activity. 
 
-Social Media (Features) and Widgets: Our Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+We also reserve the right to disclose your information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect us and others from fraudulent, abusive, or unlawful uses or activity; to investigate and defend ourselves against any third party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Service; or to protect our, our users’, and others’ rights, property, and security. 
 
-  
+Basically, 
 
+We do not sell or lease your personal information (or your children’s information) to anyone for any reason. We do, however, use trusted service providers (like our hosting company) to help provide the ClassDojo service, allow users to share certain information with each other when they want to, and share aggregated, non-personally identifiable information. We also may release other information to authorities when required by law or to prevent harm. 
 
-## 6\. Security of Information Collected
+* * *
 
-Your Company account Personal Information or Children's Personal Information is protected by a password for your privacy and security. You may help protect against unauthorized access to your account and Personal Information or Children's Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+### Your Choices
 
-Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Company uses in connection with the Website, please contact us at [hello@classdojo.com](mailto:hello@classdojo.com).
+You may, of course, decline to share certain Personally Identifiable Information with us, in which case we may not be able to provide to you some of the features and functionality found on the Service. You may update, correct, or delete your profile information and preferences, or change sharing preferences for User Submissions at any time by accessing your account preferences page through the Service. Please note that your device will need to have a current and active network connection to make such changes, and while your changes may be reflected promptly in active User Submissions bases, users that have previously accessed the content may still have access to copies cached on their device, and we may retain all information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics. 
 
-The Website contains links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES. 
 
-  
+Basically, 
 
+You can choose not to share information with us, but your experience of the service might be limited. 
 
-## 7\. Access to Information
+Your account is protected by an encrypted password - you should make sure you keep it secret! 
 
-Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list may change as the Website changes. You may currently access the following information, if your User Category allows you to input any of the following:
+You can update your account information and preferences or delete your account (or your child’s account) whenever you want, although there may be archived copies. 
 
-1\. Information in your user profile   
-2\. User preferences and settings, and   
-3\. Avatars, content and points records in your account.
+* * *
 
-  
+### Third Party Services
 
+The Service contains references and links to Web sites and services provided by third parties. Any Personally Identifiable Information you provide on third party sites or services is provided directly to that third party and is subject to that third party’s policies governing privacy and security. We are not responsible for the content or privacy and security practices and policies of third party sites or services to which links are displayed on the Service. We encourage you to learn about third parties’ privacy and security policies before providing them with personally identifiable information. 
 
-## 8\. Other Choices Available
+Basically, 
 
-As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Company features.
+If you go to a third party service not owned or operated by ClassDojo, you should check their privacy policies, too. 
 
-You are able to add or update certain information on pages, such as those listed in the "Access to Information" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. Certain types of communication you send to other users cannot be removed, such as messages.
+* * *
 
-You may request deletion of your Company account by emailing [hello@classdojo.com](mailto:hello@classdojo.com). Please note that some information may remain in our records after deletion of your account. Further, information may remain viewable elsewhere to the extent that it was copied or stored by other users. We may use any aggregated data derived from or incorporating your Personal Information after you delete your information, but not in a manner that would identify you personally.
+### Our Commitment to Children’s Privacy
 
-If your personal information changes or you no longer desire our service, you may correct, update, delete inaccuracies, or remove it by making the change within your profile settings or by contacting us at [hello@classdojo.com](mailto:hello@classdojo.com). We will respond to your access request within 30 days. You may access your child’s information to correct, update, request deletion or further collection and use of their information by contacting us at the email address provided above or by contacting their school administrator.
+Protecting the privacy of young children is especially important. For that reason, we perform age neutral verification, and require verifiable parental consent before collecting Children’s Personal Information. We do not knowingly collect or maintain Personally Identifiable Information from persons under 13 years-of-age without verifiable parental consent. If we learns that Personally Identifiable Information of children under the age of 13 has been collected on the Service without verifiable parental consent, then we reserves the right to take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an account on the Service, then you may alert us at privacy@classdojo.com and request that we delete that child’s personal information from its systems. If you are a parent of a student user under 13, and would like to review the information we have collected about your child, please send a request to that effect to privacy@classdojo.com. 
 
-If you do not wish to receive email or other communications or notifications from us, please email us at [hello@classdojo.com](mailto:hello@classdojo.com). Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
+Basically, 
 
-  
+We’re committed to children’s privacy. If a child under 13 signs up for a ClassDojo account, our signup flow requires parent permission to activate their account. 
 
+* * *
 
-## 9\. Changes to this Privacy Policy
+### Our Commitment to Data Security
 
-Company may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+It is important to understand that we are not an IT security services company. While we do employ certain physical, managerial, and technical safeguards designed to help improve the integrity and security of your personal information, no physical or technical system, process, transmission, or storage mechanism is completely secure or immune from outages, losses, attacks, circumvention, design or implementation flaws, and human error. We cannot warrant or ensure that information you transmit to us will not be lost or compromised, either during or after transmission. 
 
-If we make material changes to how we use Personal Information collected from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information.
+If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at privacy@classdojo.com. 
 
-  
+Basically, 
 
+Despite all our best efforts, things can go wrong. We’ll let you know if that happens; if you learn of something that seems wrong, you should let us know by emailing privacy@classdojo.com. 
 
-## 10\. Questions or Concerns
+* * *
 
-If you have any questions or concerns regarding privacy at ClassDojo or [http://www.classdojo.com](http://www.classdojo.com/), please contact us at [hello@classdojo.com](mailto:hello@classdojo.com). We will make every effort to address and resolve your concerns. Effective date: September 12, 2013
+### International Visitors
 
-Class Twist, Inc  
-735 Tehama Street  
-San Francisco, CA 94103  
-+1.650.503.DOJO (1.650.503.3656)
+The Service is hosted in the United States and other jurisdictions, and is generally intended for users in the United States. If you nonetheless choose to use the Service from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you may be transferring your Personally Identifiable Information outside of those regions to the United States or other jurisdictions for storage and processing, and by providing your Personally Identifiable Information on the Service you consent to that transfer, storage, and processing. 
 
-[](https://privacy.truste.com/privacy-seal/Class-Twist,-Inc/validation?rid=9942290d-9cbe-490a-9277-72f17594c0b3 "TRUSTe Children privacy certification")
+Basically, 
 
-[](https://privacy.truste.com/privacy-seal/Class-Twist,-Inc/validation?rid=35a28526-c90f-4929-b3bc-a335afcac007 "TRUSTe European Safe Harbor certification")
+We have servers in the US, so some of your data might be transferred here. 
+
+* * *
+
+### Affiliates; In the Event we are Acquired
+
+Over time, our company may grow and reorganize to include other affiliated entities, such parent and subsidiary companies, and we may share your Personally Identifiable Information to any of these affiliated companies for use as described in this policy. In the event that all or a portion of the Company or its assets is acquired by or merged with a third party entity or is subject to a change of control, we may transfer the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control to the acquiror or surviving entity. We will provide you with notice of an acquisition within thirty days following the completion of such a transaction, and this policy will continue to apply to your information, unless you give consent to a new policy. 
+
+Basically, 
+
+If ClassDojo gets bought, your information will still be protected by these terms. We’ll let you know if this ever happens. 
+
+* * *
+
+### Changes and Updates to this Privacy Policy
+
+Please revisit this page periodically to stay aware of any changes to this Privacy Policy, which may be revised periodically at our sole discretion, as provided in the Terms. If we modify the Privacy Policy, we will make it available through the Service, and indicate the date of the latest revision. In the event that the modifications materially alter your rights or obligations hereunder we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the Service for the first time after such material changes are made. Our amended Privacy Policy will automatically take effect 30 days after it is made available through the Service, except that (i) we generally only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information and (ii) if you do not agree with any changes to the Privacy Policy, you may terminate your account ceasing use of the Service. Your continued use of the Service after revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of the Privacy Policy. 
+
+Basically, 
+
+This privacy policy may change, and we’ll let you know if it does: we'll notify you, and give you a chance to opt out. 
+
+* * *
+
+### Company Contact Information
+
+Please contact us with any questions or comments about this Privacy Policy, your personal information, our third party disclosure practices, or your consent choices by email: privacy@classdojo.com. 
+
+Basically, 
+
+Questions? Let us know – we’re here to help! privacy@classdojo.com. 
