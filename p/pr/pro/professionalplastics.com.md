@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the professionalplastics.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629125059id_/http%3A//www.professionalplastics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the professionalplastics.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214155536id_/http%3A//www.professionalplastics.com/privacy) for the most accurate reproduction.*
 
 # Professional Plastics
 
@@ -13,6 +13,21 @@ We need your name, billing address, shipping address, e-mail address, billing ph
 
 **Contractors and Agents**  
 We may employ other companies and individuals to perform functions on our behalf, which may include assisting us in processing your information. We share personally identifiable information with such contractors in order to assist us in using the data for the purposes outlined in this Privacy Policy. These contractors are contractually required to maintain the confidentiality of the information and are restricted from using the information for any other unauthorized purpose.
+
+  * Google Analytics (Google)   
+Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.   
+Personal Data collected: Cookie and Usage Data.   
+Place of processing : USA - [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) \- [Opt Out](https://tools.google.com/dlpage/gaoptout/)
+  * Google AdWords conversion tracking (Google)   
+Google AdWords conversion tracking is an analytics service provided by Google, Inc. that connects data from the Google AdWords advertising network with actions performed on this Application.   
+Personal Data collected: Cookie and Usage Data.   
+Place of processing : USA - [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+  * AdWords Remarketing (Google)   
+AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the activity of this Application with the Adwords advertising network and the Doubleclick Cookie.   
+Personal Data collected: Cookie and Usage Data.   
+Place of processing : USA - [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) \- [Opt Out](http://www.google.com/settings/ads/onweb/optout)
+
+
 
 **Contacting Professional Plastics Customer Service**  
 If you contact Professional Plastics customer service, we will use your name, e-mail address, phone number and order history to answer your question or solve your problem quickly. On occasion, we may contact you later to verify information or to check on the quality of your Customer Service contact with Professional Plastics. We will not add your e-mail address to our newsletter mailing list if you contact customer service.
