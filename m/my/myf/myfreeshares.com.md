@@ -1,27 +1,23 @@
-> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326153801id_/http%3A//www.myfreeshares.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214073753id_/http%3A//myfreeshares.com/pages/privacy.php) for the most accurate reproduction.*
 
 # MyFreeShares.com
 
 | **Site Stats**  
 ---  
-**Total Affiliates: 12,651  
-Active Affiliates: 5,396  
-Total Payouts: 17,044.67  
+**Total Affiliates: 28,925  
+Active Affiliates: 13,549  
+Total Payouts: 43,214.49  
 Mails in queue 0  
-Ads in rotation 67  
-Paid-To-Clicks 157  
-Signups Today: 13  
-Members online: 81  
-Guests online: 105  
+Ads in rotation 683  
+Paid-To-Clicks 264  
+Signups Today: 24  
+Members online: 44  
+Guests online: 91  
 **  
   
   
   
 
-
-******News November 27. 2013  
-Today we have an announchement and an amazing program that brings you Free leads for all programs you wanted for LIFE! This program had as well an amazing pay system that can let you earn really big cash and the best they have a 7 days free Trial!  
-[Click here to join the 7 days free Trial](http://power.freepowerteam.com/) **
 
 ## We Respect Your Privacy!
 
@@ -54,13 +50,13 @@ Myfreeshares.com gives users the following options for changing and modifying in
 |  | **Sponsors**  
 ---  
   
-[](http://myfreeshares.com/scripts/runner.php?BA=211&hash=cbeaffe1de2a5acf98ec6d78e3cf2ea7&url=http%3A%2F%2Fwad.ojooo.com%2Fregister.php%3Fref%3Dedelweis)  
+[](http://myfreeshares.com/scripts/runner.php?BA=746&hash=da76af6d4ff14ccfa274f6bd31d4456d&url=http%3A%2F%2Fbtcclicks.com%2F%3Fr%3D04f8a507)  
   
   
 **Sponsor**  
 ---  
   
-[](http://myfreeshares.com/scripts/runner.php?BA=100&hash=34833b6409b7dc8f97c842b081b8ca11&url=http%3A%2F%2Fwww.apollo-affiliates.com%2Fidevaffiliate.php%3Fid%3D303%26tid1%3Dmfsbnr120)  
+[](http://myfreeshares.com/scripts/runner.php?BA=106&hash=b8b97a9ae59109356546e8b9247bee43&url=http%3A%2F%2Fwww.migcigs.net%2Fidevaffiliate%2Fidevaffiliate.php%3Fid%3D101%26tid1%3Dmfsbnr2)  
 
 
 * * *
