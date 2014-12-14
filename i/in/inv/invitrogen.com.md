@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitrogen.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626182136id_/https%3A//www.lifetechnologies.com/us/en/home/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitrogen.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214040340id_/https%3A//www.lifetechnologies.com/fr/fr/home/global/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Life Technologies
 
