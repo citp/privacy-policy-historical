@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325192401id_/http%3A//www.ultimateears.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214192018id_/http%3A//www.ultimateears.com/en-ca/privacy) for the most accurate reproduction.*
 
 # | Ultimate Ears
 
 ## YOUR PRIVACY & SECURITY
 
-Welcome! This Statement of Privacy and Security (“Statement”) governs the websites and online services for ultimateears.com and pro.ultimateears.com (“Site” or “Sites”) which are owned and operated by Logitech Europe S.A. (collectively referred to as “we,” “us,” “ours”). Please take the time to review this page and contact us at [privacy@logitech.com](mailto:privacy@logitech.com) with any questions or concerns.
+Welcome! This Statement of Privacy and Security (“Statement”) governs the websites and online services for ultimateears.com and MakeMusicSocial.com (“Site” or “Sites”) which are owned and operated by Logitech Europe S.A. (collectively referred to as “we,” “us,” “ours”). Please take the time to review this page and contact us at [privacy@logitech.com](mailto:privacy@logitech.com) with any questions or concerns.
 
 COLLECTION OF INFORMATION  
 HOW WE USE YOUR INFORMATION  
