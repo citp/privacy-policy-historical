@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the scrubsunlimited.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123160529id_/http%3A//www.scrubsunlimited.com/index.asp%3FPageAction%3DCustom%26ID%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsunlimited.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214040119id_/http%3A//www.scrubsunlimited.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Medline, Fashion Seal, Angelica, Urbane Essentials, Dickies by Scrubs Unlimited - Privacy Policy
 
 | 
 
+**Privacy Policy Statement**   
 This is the web site of **www.scrubsunlimited.com**.  
 
 
@@ -11,15 +12,13 @@ Our postal address is
  **10930 Weyburn Ave  
 Los Angeles, CA 90024**
 
-We can be reached via e-mail at[service@scrubsunlimited.com](mailto:service@scrubsunlimited.com)  
+We can be reached via e-mail at [service@scrubsunlimited.com](mailto:service@scrubsunlimited.com)  
 or you can reach us by telephone at (866) 267.3079
 
-This Policy is effective on 11/01/1998  
+This Policy has been active since November 11, 1998  
 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
-
-We collect the domain name and e-mail address (where possible) of visitors to our Web page.
+For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). We collect the domain name and e-mail address (where possible) of visitors to our Web page.
 
 The information we collect is used for internal review and is then discarded as well as it is used to improve the content of our Web page.
 
@@ -45,6 +44,6 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: We have appropriate security measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at[mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at<http://www.ftc.gov/ftc/complaint.htm>.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
 | 
