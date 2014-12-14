@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the taaz.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627201536id_/http%3A//www.taaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taaz.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214165408id_/http%3A//www.taaz.com/privacy.html) for the most accurate reproduction.*
 
 # TAAZ Privacy Policy
 
 [](http://privacy.truste.com/privacy-seal/Photometria/validation?rid=0e47bbae-b34f-4f20-a193-f6383bcd9496 "TRUSTe European Safe Harbor certification")
 
-Taaz, Inc. (the “Company”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site www.taaz.com and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions 
-
-If you have questions or concerns regarding this statement, you should first contact [ tou@taaz.com](mailto:tou@taaz.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Taaz, Inc. (the “Company”) has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site www.taaz.com and does not cover information that may be collected through our mobile applications. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
 Taaz, Inc. complies with the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Taaz, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Taaz, Inc. certification, please visit <http://www.export.gov/safeharbor/>
 
@@ -32,25 +30,19 @@ We may use a third party service provider to conduct these contests; that compan
 
 Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Website or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Company or on the Website. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at tou@taaz.com . 
 
-### Personal Information Collected Automatically:
-
-We receive and store certain types of information whenever you interact with the Website or obtain services from us. Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, and the page you requested. We also record the details of your activity on the Website. Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. 
-
-We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site. We have no access or control over these third party cookies. Company only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users use parts of the Website or services so that we can make the Website appealing to as many users as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and the Website, so that they, too, may provide you with an optimal online experience. Again, Company never discloses aggregate information to a partner in a manner that would identify you personally. 
-
 ### Email Communications:
 
 We often receive a confirmation when you open an email from Company by using clear gifs in our HTML-based emails. Company uses this confirmation to help us make emails more interesting and helpful. We also compare our user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users. If you would like to opt-out of these emails, please follow the unsubscribe instructions in the emails. 
 
 ### What About Cookies?
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Company cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is. 
+We use cookies to remember users’ settings and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. Technologies such as: cookies, beacons, tags and scripts are used by Taaz Inc. and our partners, affiliates, or analytics or service providers (e.g. Ad networks). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because you will not be able to log in or use many of the Website's most attractive features without cookies enabled. 
+**Log Files** \- As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We use Local Storage Objects (LSOs) such as HTML5 or Flash to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 ### Notice Regarding Online Behavioral Advertising
 
-Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies or web beacons. These cookies or web beacons allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies or web beacons by any advertisers. If you do not wish to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). 
+Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies or web beacons. These cookies or web beacons allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies or web beacons by any advertisers. If you do not wish to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/)
 
 We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
@@ -111,6 +103,14 @@ You are able to add, update or delete certain information on pages, such as thos
 
 You may request deletion of your Company account by sending an email to our webmaster at tou@taaz.com. Please note that some information may remain in our records after deletion of your account. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. 
 
+### Public Member Directory
+
+We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, you can contact us at [taaz-support@taaz.com](mailto:taaz-support@taaz.com) . 
+
+### Public Profiles
+
+The profile you create on our site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. 
+
 ### Facebook Connect
 
 You can log in to our site using sign-in services such as Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network 
@@ -137,4 +137,4 @@ San Diego, CA 92122
 
 We will make every effort to resolve your concerns.
 
-_Effective date: March 21, 2012_
+_Effective date: November 3, 2014_
