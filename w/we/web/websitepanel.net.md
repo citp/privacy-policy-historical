@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitepanel.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209105439id_/http%3A//www.websitepanel.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepanel.net privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214064703id_/http%3A//www.websitepanel.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WebsitePanel
 
