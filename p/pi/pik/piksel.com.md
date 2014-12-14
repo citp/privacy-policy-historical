@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the piksel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124018id_/http%3A//www.piksel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piksel.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214183116id_/http%3A//www.piksel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Innovative Streaming Video Solutions - Piksel - Piksel
 
 **Effective as of August 29, 2013**
 
-This online privacy policy (â€œPrivacy Policyâ€) describes the types of information Piksel, Inc. (â€œPikselâ€, â€œweâ€, or â€œusâ€) gathers from those persons visiting the Internet website www.piksel.com (the â€œSiteâ€) and how we use that information. By accessing this Site, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use this Site. Piksel reserves the right to modify this Privacy Policy from time to time. Changes to the Privacy Policy will be posted on the Site and the effective date of the most recent version of the Privacy Policy will be modified to reflect the effective date of the most recent version.
+This online privacy policy (Privacy Policy) describes the types of information Piksel, Inc. (Piksel, we, or us) gathers from those persons visiting the Internet website www.piksel.com (the Site) and how we use that information. By accessing this Site, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use this Site. Piksel reserves the right to modify this Privacy Policy from time to time. Changes to the Privacy Policy will be posted on the Site and the effective date of the most recent version of the Privacy Policy will be modified to reflect the effective date of the most recent version.
 
 ### 1\. GENERAL
 
-We may collect two types of information from users of our Site: â€œpersonally identifiable informationâ€ (such as name and e-mail address) and â€œaggregate informationâ€ (such as frequency of visits to the Site, search terms entered, Site pages most frequently accessed, browser type, etc.).
+We may collect two types of information from users of our Site: personally identifiable information (such as name and e-mail address) and aggregate information (such as frequency of visits to the Site, search terms entered, Site pages most frequently accessed, browser type, etc.).
 
 ### 2\. COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION
 
@@ -16,15 +16,15 @@ We collect personally identifiable information that is voluntarily provided by u
 
 ### 3\. COLLECTION AND USE OF AGGREGATE INFORMATION
 
-We also collect aggregate information, which is non-personally identifiable/anonymous information, from all users of the Site. Aggregate Information is used in a collective manner, and no single person can be identified by that compiled information. We use aggregate information to help us develop and improve our Site and to improve visitorsâ€™ experiences on the Site.
+We also collect aggregate information, which is non-personally identifiable/anonymous information, from all users of the Site. Aggregate Information is used in a collective manner, and no single person can be identified by that compiled information. We use aggregate information to help us develop and improve our Site and to improve visitors experiences on the Site.
 
 ### 4\. COLLECTION AND USE OF IP ADDRESSES
 
-In addition, we collect IP addresses to obtain aggregate information on the Site. An IP address is a number assigned to your computer by a web server when you are on the web. When you are on our Site, we have a back-end server that logs your computerâ€™s IP address. We only use the information we find out from tracking IP addresses in the aggregate, such as how many users entered a specific area of our Site, and not to track a specific IP address to identify an individual user. However, we may use such information to identify a user if we feel that there are or may be safety and/or security issues or to comply with legal requirements.
+In addition, we collect IP addresses to obtain aggregate information on the Site. An IP address is a number assigned to your computer by a web server when you are on the web. When you are on our Site, we have a back-end server that logs your computer’s IP address. We only use the information we find out from tracking IP addresses in the aggregate, such as how many users entered a specific area of our Site, and not to track a specific IP address to identify an individual user. However, we may use such information to identify a user if we feel that there are or may be safety and/or security issues or to comply with legal requirements.
 
 ### 5\. SHARING, SELLING, AND TRADING PERSONALLY IDENTIFIABLE INFORMATION COLLECTED ONLINE WITH THIRD PARTIES
 
-We will not share, rent, sell or otherwise disclose personally identifiable information collected on the Site to third parties for such partiesâ€™ own marketing and promotional purposes.
+We will not share, rent, sell or otherwise disclose personally identifiable information collected on the Site to third parties for such parties own marketing and promotional purposes.
 
 In the following circumstances we may share or transfer personally identifiable information collected on the Site to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on us, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of our company; or (iv) when we believe it is appropriate to do so to protect the rights, property, or safety of visitors to our Site or other persons.
 
@@ -40,7 +40,7 @@ When you post comments to the blog section of the Site, certain personally ident
 
 ### 8\. USE OF COOKIES
 
-Cookies are pieces of information that any website transfers to your computerâ€™s web browser for storage on your computerâ€™s hard drive. We use cookies to measure activity on our Site, which allows us to improve navigation throughout the Site. In addition, cookies on the Site may contain information (such as an unique user ID), which tracks the pages of the Site you have visited. This information allows us to make updates to enhance your experience. Parts of the Site will not function if you do not have cookies enabled. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you turn off cookies or refuse them, though, you will not be able to use every portion of our Site.
+Cookies are pieces of information that any website transfers to your computer’s web browser for storage on your computer’s hard drive. We use cookies to measure activity on our Site, which allows us to improve navigation throughout the Site. In addition, cookies on the Site may contain information (such as an unique user ID), which tracks the pages of the Site you have visited. This information allows us to make updates to enhance your experience. Parts of the Site will not function if you do not have cookies enabled. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you turn off cookies or refuse them, though, you will not be able to use every portion of our Site.
 
 ### 9\. CHILDREN AND PRIVACY
 
@@ -50,19 +50,19 @@ We are concerned about the safety of children when they use the Internet, and re
 
 We restrict access to personally identifiable information collected from visitors of our Site to our employees who need to know that information in order to provide services to you. In addition, we make reasonable efforts to follow generally accepted industry standards to protect the personally identifiable information submitted to us. No method of transmission over the Internet, or method of electronic storage, however, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
 
-IN NO EVENT WILL PIKSEL, OUR OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, SUPPLIERS OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THIS SITE (â€œRELEASED PARTIESâ€) BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF: (I) THIS SITE, YOUR ACCESS, USE OR INABILITY TO USE THIS SITE; (II) ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE); (III) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (IV) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL IDENTIFIABLE INFORMATION STORED THEREIN, (V) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY.
+IN NO EVENT WILL PIKSEL, OUR OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, SUPPLIERS OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THIS SITE (RELEASED PARTIES) BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF: (I) THIS SITE, YOUR ACCESS, USE OR INABILITY TO USE THIS SITE; (II) ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE); (III) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (IV) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL IDENTIFIABLE INFORMATION STORED THEREIN, (V) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY.
 
 THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE STRICT LIABILITY OR ANY OTHER BASIS, EVEN THE RELEASED PARTIES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, THE RELEASED PARTIESâ€™ LIABILITY IN SUCH JURISDICTIONS SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW.
+BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, THE RELEASED PARTIES LIABILITY IN SUCH JURISDICTIONS SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW.
 
 **11\. LINKS TO OTHER WEBSITES**
 
-This Site may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. We do not control the content of those websites and take no responsibility for their content, nor should it be implied that we endorse or otherwise recommend such sites or the products or services offered. We encourage you to review the privacy policies and terms of use of any third party sites.Â  We provide the links solely for the convenience of our visitors.
+This Site may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. We do not control the content of those websites and take no responsibility for their content, nor should it be implied that we endorse or otherwise recommend such sites or the products or services offered. We encourage you to review the privacy policies and terms of use of any third party sites.  We provide the links solely for the convenience of our visitors.
 
 ### 12\. BUSINESS TRANSFERS
 
-In the future we may sell, merge or otherwise reorganize our business. Â Piksel reserves the right to transfer and disclose personally identifiable information in this circumstance, but data collected by Piksel will be governed by the same privacy policy that existed prior to any change in business conditions unless you consent to the new privacy policy.
+In the future we may sell, merge or otherwise reorganize our business. Piksel reserves the right to transfer and disclose personally identifiable information in this circumstance, but data collected by Piksel will be governed by the same privacy policy that existed prior to any change in business conditions unless you consent to the new privacy policy.
 
 ### 13\. CHANGES TO THIS POLICY
 
@@ -70,7 +70,7 @@ We reserve the right to update or modify this Policy, at any time and without pr
 
 ### 14\. CORRECTIONS/INFORMATION REMOVAL/OPT-OUT
 
-If your name, e-mail address or other personally identifiable information collected during the registration process changes, you may update, correct or omit the relevant information by contacting us atÂ privacy@piksel.com
+If your name, e-mail address or other personally identifiable information collected during the registration process changes, you may update, correct or omit the relevant information by contacting us at privacy@piksel.com
 
 If you prefer not to receive marketing e-mails from us, please click on the unsubscribe link within any marketing e-mail you receive from us. Please note that such requests may take up to ten (10) days to become effective.
 
@@ -82,11 +82,12 @@ Sending postal mail to: Piksel Privacy Officer
 
 Piksel, Inc.  
 Attn: Privacy Officer  
-26 W. 17th Street, 2th Floor  
-New York, NY 10011
+1250 Broadway, Suite 1902  
+New York, NY 10001  
+USA
 
 **15\. CONTACT US**
 
 If you have questions regarding this Privacy Policy or the information collection and dissemination practices of this Site, please contact us at:
 
-E-mail:Â privacy@piksel.com
+E-mail: privacy@piksel.com
