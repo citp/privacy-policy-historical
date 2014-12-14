@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sixerr.com privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902022655id_/http%3A//www.sixerr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixerr.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214024048id_/http%3A//www.sixerr.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sixerr: services from $3 to $6
+# Privacy Policy - Sixerr: services from $1 to $6
 
 **PRIVACY STATEMENT**
 
