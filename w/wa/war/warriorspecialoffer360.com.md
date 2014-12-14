@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warriorspecialoffer360.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073302id_/http%3A//warriorspecialoffer360.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriorspecialoffer360.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214140424id_/http%3A//warriorspecialoffer360.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Warrior Special Offer 360
 
