@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222054959id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214221259id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
 
 # Jones Day | Privacy
 
@@ -38,4 +38,4 @@ Cleveland, OH  44114
 Attention: Business Development and Communications 
 
 **4\. Australian Privacy Act 1988  
-** In Australia, Jones Day is bound by the National Privacy Principles ( **NPPs** ) contained in the _Privacy Act 1988_ (Cth) ( **Privacy Act** ).  [Read More](http://www.jonesday.com/en-US/australianprivacyact/FooterContent.aspx)
+** In Australia, Jones Day is bound by the Australian Privacy Principles ( **APPs** ) contained in the _Privacy Act 1988_ (Cth) ( **Privacy Act** ).  [Read More](http://www.jonesday.com/en-US/australianprivacyact/FooterContent.aspx)
