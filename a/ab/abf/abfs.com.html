@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2014-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527005436id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2014-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141214194953id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy | abf.com</title>
 <meta name="description" content="ABF is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry.">
 <meta name="keywords" content="privacy policy, transportation privacy, shipment information privacy, security, cookies">
 
-      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Include/jQuery/jquery-1.8.2.min.js?V=1.0"></script>
+      <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Include/jQuery/jquery-1.8.2.min.js?V=1.1"></script>
       <script type="text/javascript" src="/Include/jQuery/jquery-ui-1.9.0.custom.min.js?V=1.0"></script>
    
    <script type="text/javascript" src="/Include/AllInclude-STC.js?V=3.3"></script>
@@ -15,11 +15,12 @@
 </script>
 
    <script src="/include/jQuery/Plugins/qTip2/jquery.qtip.min.js"></script>
+   <script src="/include/libraries/handlebars-v1.3.0.js"></script>
    <link href="/include/jQuery/Plugins/qTip2/jquery.qtip.min.css" rel="stylesheet" type="text/css">
    <link rel="shortcut icon" href="/favicon.ico?v=1.7">
    <link rel="icon" href="/favicon.ico?v=1.7" type="image/x-icon">
 
-   <script type="text/javascript" src="/Include/PrintEmail-STC.js?V=1.44"></script>
+   <script type="text/javascript" src="/Include/PrintEmail-STC.js?V=1.45"></script>
    
       <script type="text/javascript" src="/tools/js/accountinfo/login.js?V=1.7"></script>
    <script language="Javascript" src="/ABFGlobal/Include/ajax-STC.js?V=1.4"></script>
@@ -74,7 +75,7 @@ function jsEventTracking() {
 
    this.Track = function(category, event)
    {  _et.Display(category, event, this.Label); // For debugging only
-      _gaq.push(['_trackEvent', category, event, this.Label]);  // Sends to Google Analytics
+      ga('send', 'event', category, event, this.Label); // Sends to Google Analytics
    }
 
    this.Display = function(category, event, label) {
@@ -102,7 +103,8 @@ function jsEventTracking() {
 }
 
 // -->
-</script><script language="JavaScript">
+</script>
+<script language="JavaScript">
 <!--
  var jsBlnAutoFillOn = false;
  var jsBlnAutoFillReq= false;
@@ -242,20 +244,21 @@ function createElement(index,ver)
 <script type="text/javascript" src="/include/pop_msgs.js?V=1.77"></script>
 
 <link href="/style/main_style_new.css?V=1.25" rel="stylesheet" type="text/css">
-<link href="/style/ajax.css?v=0.02" rel="stylesheet" type="text/css">
+<link href="/style/ajax.css?V=0.04" rel="stylesheet" type="text/css">
 
 <script type="text/javascript">
    var bFreightForwarder = false;
-   var _gaq = _gaq || [];
-   _gaq.push(['_setAccount', 'UA-2086962-2']);
-   _gaq.push(['_setDomainName', '.abfs.com']);
-   _gaq.push(['_trackPageview']);
 
-   (function() {
-   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-   })();
+   // Google Analytics
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+   ga('create', 'UA-2086962-2', 'auto');
+   ga('send', 'pageview');
+   // End Google Analytics
+
 
    $(function () {
       // hide the error/warning/success message
@@ -358,11 +361,12 @@ function showElementsIE() {}
 
          <ul class="header-utilities">
             <li><a title="Get help" class="header-panel-quicknav" data-track="Help - Header" href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpmain.asp',725,500,true);">help</a></li>
-            <li><a title="Contact ABF" data-track="Contacts" href="/about/contact/">contacts</a></li>
+            <li><a title="Contact ABF" data-track="Contacts" href="/about/contact/">contact us</a></li>
             <li><a title="Send us a suggestion" data-track="Suggestions" href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpform.asp',725,500,true);">suggestions</a></li>
             <li><a title="Print this page" data-track="Print" href="javascript:PrintPage();">print</a></li>
-            <li><a title="E-mail this page" data-track="Email" href="javascript:EmailPage();">e-mail</a></li>
+            <li><a title="Email this page" data-track="Email" href="javascript:EmailPage();">email</a></li>
             <li><a title="Save this page" data-track="Save" href="javascript:SavePage();">save</a></li>
+            <li><a href="http://www.abf.jobs" target="_blank">careers <span class="new-window"></span></a></li>
          </ul>
 
    <div class="navbar-container">
@@ -377,7 +381,7 @@ function showElementsIE() {}
 <h4><span class="badge">1</span> Get a quote</h4>
 <ul class="menu-items shipping-steps">
 <li><a href="/tools/ltlquotes" data-track="Signed Out Toolkit Standard LTL">Standard LTL</a></li>
-<li><a href="/tools/timekeeper/" data-track="Signed Out Toolkit Timekeeper">Timekeeper</a></li>
+<li><a href="/tools/timekeeper/" data-track="Signed Out Toolkit Timekeeper">TimeKeeper</a></li>
 <li><a href="http://www.abfmultimodal.com/tools/quote/default.asp?refnum=ABFTOOL&amp;NLOView=1" target="_blank" data-track="Signed Out Toolkit Multimodal">Multimodal <span class="new-window"></span></a></li>
 <li><a href="http://www.upack.com/moving-quotes/quote.asp?refnum=ABFTOOL&amp;NLOView=1" target="_blank" data-track="Signed Out Toolkit U-Pack">U-Pack<sup>®</sup> <span class="new-window"></span></a></li>
 </ul>
@@ -424,7 +428,7 @@ function showElementsIE() {}
 <li><a href="/tools/preferences" data-track="Signed Out Toolkit myABF">myABF</a></li>
 </ul>
 
-   <button class="primary" onclick="window.location.href='/tools/accountinfo/acctpswd.asp'" data-track="Signed Out Toolkit Sign Inh"><a>Sign In</a></button>
+   <button class="primary" onclick="window.location.href='/tools/accountinfo/acctpswd.asp'" data-track="Signed Out Toolkit Sign In"><a>Sign In</a></button>
    <a href="/tools/accountinfo/password.asp" data-track="Signed Out Toolkit Need To Register">Need to register?</a>
 </div>
 
@@ -481,15 +485,14 @@ function showElementsIE() {}
                <div class="menu-content-section">
                   <h4>ABF Freight<span class="service-mark">SM</span></h4>
                   <ul class="menu-items primary">
-                     <li><a href="/ourcompanies/abffreight">About ABF Freight</a></li>
-                     <li><a href="http://www.abf.jobs" target="_blank">ABF Freight Careers <span class="new-window"></span></a></li>
+                     <li><a href="/abffreight">About ABF Freight</a></li>
                   </ul>
                </div>
                <div class="menu-content-section">
                   <h4>ABF Logistics<span class="service-mark">SM</span></h4>
                   <ul class="menu-items primary">
-                     <li><a href="/ourcompanies/abflogistics">About ABF Logistics</a></li>
-                     <li><a href="https://www.arkbest.jobs/AppSelectSpecificCompany.asp?companyNum=54" target="_blank">ABF Logistics Careers <span class="new-window"></span></a></li>
+                     <li><a href="/abflogistics">About ABF Logistics</a></li>
+                     <li><a href="https://arcb.jobs/AppSelectSpecificCompany.asp?companyNum=54" target="_blank">ABF Logistics Careers <span class="new-window"></span></a></li>
                   </ul>
                </div>
                <div class="menu-content-section">
@@ -497,15 +500,16 @@ function showElementsIE() {}
                   <ul class="menu-items primary">
                      <li><a href="/store/">Company Store</a></li>
                      <li><a href="http://www.abfusedequipment.com" target="_blank">ABF Freight Used Equipment <span class="new-window"></span></a></li>
+                     <li><a href="http://www.abf.jobs" target="_blank">Careers <span class="new-window"></span></a></li>
                   </ul>
                </div>
                <div class="menu-content-section newsfeed">
                   <h4>News</h4>
                   
 <ul class="newsfeed">
-<li class="newsfeed-article"><a href="/about/news/2014/p051214.asp" class="nav" title="ABF Freight service centers recognized with President’s Quality Awards.">ABF Freight service centers recognized with President’s Quality Awards.</a></li>
-<li class="newsfeed-article"><a href="/about/news/2014/p050114.asp" class="nav" title="ArcBest Corporation announces first quarter 2014 results.">ArcBest Corporation announces first quarter 2014 results.</a></li>
-<li class="newsfeed-article"><a href="/about/news/2014/p043014.asp" class="nav" title="Arkansas Best Corporation to become ArcBest Corporation.">Arkansas Best Corporation to become ArcBest Corporation.</a></li>
+<li class="newsfeed-article"><a href="/about/news/industry/iWinterWeather.asp" class="nav" title="ABF Freight closely monitors winter storms.">ABF Freight closely monitors winter storms.</a></li>
+<li class="newsfeed-article"><a href="/about/news/2014/p110314.asp" class="nav" title="ArcBest Corporation announces third quarter 2014 results.">ArcBest Corporation announces third quarter 2014 results.</a></li>
+<li class="newsfeed-article"><a href="/about/news/2014/p103114.asp" class="nav" title="ABF Freight awarded ATA President's Trophy an unprecedented seventh time.">ABF Freight awarded ATA President's Trophy an unprecedented seventh time.</a></li>
 </ul>
 
                </div>
@@ -610,6 +614,7 @@ function showElementsIE() {}
          <li><a href="http://www.abfusedequipment.com" target="_blank">Used Equipment</a></li>
          <li><a href="/store">Company Store</a></li>
          <li><a href="/about/contact">Contact Us</a></li>
+         <li><a href="http://www.abf.jobs" target="_blank">Careers <span class="new-window"></span></a></li>
       </ul>
       
    <div class="social-media-panel">
