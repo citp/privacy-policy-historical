@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006191327id_/http%3A//www.nflshop.com/helpdesk/Privacy%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214031618id_/http%3A//www.nflshop.com/helpdesk/Privacy%233) for the most accurate reproduction.*
 
 # Privacy Information
 
