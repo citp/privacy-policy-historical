@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133443id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214053614id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.*
 
 # Excite UK
 
@@ -52,12 +52,11 @@ Changing contact details
 
 You can update or amend your contact details at any time from within the Excite Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us at: 
 
-Excite Italia B.V.   
-Via Cristoforo Colombo 115   
-00147 Roma   
-Italy   
-Email: Please send your message through our feedback form   
-Fax: +39 06 455 52 009 
+Excite Online Publishing Ltd   
+11/12 Hogan Place   
+Dublin, 2   
+Irland   
+Email: Please send your message through our feedback form 
 
 #### Changes to the Policy 
 
