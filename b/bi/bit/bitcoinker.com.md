@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bitcoinker.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073845id_/http%3A//bitcoinker.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinker.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214183832id_/http%3A//bitcoinker.com/privacypolicy) for the most accurate reproduction.*
 
 # Bitcoinker - Privacy Policy
+
+Top payout increased to 600 satoshi - earn on average 300 satoshi every 15 minutes! 
 
 We take your privacy seriously. This policy describes what personal information we collect and how we use it.  
 (This privacy policy is applicable to the bitcoinker.com web site) 
