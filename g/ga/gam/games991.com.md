@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games991.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814045943id_/http%3A//www.games991.com/%3Fpage_id%3D4713) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games991.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214164224id_/http%3A//www.games991.com/%3Fpage_id%3D4713) for the most accurate reproduction.*
 
 # Privacy Policy | Games991.com
 
