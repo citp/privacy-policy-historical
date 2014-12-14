@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchealthboost.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420033710id_/http%3A//www.pchealthboost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchealthboost.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214161848id_/http%3A//www.pchealthboost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PC HealthBoost® — Clean Up Your PC
 
