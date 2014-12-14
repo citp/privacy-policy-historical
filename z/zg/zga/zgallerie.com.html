@@ -1,0 +1,1367 @@
+<!--The following is the downloaded HTML source of the zgallerie.com privacy policy that was archived on 2014-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141214134803id_/http%3A//www.zgallerie.com/t-privacy-terms.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="imagetoolbar" content="no"><title>
+	Privacy and Terms
+</title><meta name="description" content="Shop for Affordable Home Decor &amp; Stylish Chic Furniture at Z Gallerie. Browse Our Unique Collection of Furniture, Art, Lamps, Sofas, Dining, Kitchen, Beds, Tables &amp; More Today!"><meta name="keywords"><meta name="google-site-verification" content="pvjmBcmWsMmdySygOWI4hpkyD0v-rfuceBEAp3QTlLs"><meta name="fbimage" property="og:image"><meta name="fbdesc" property="og:description"><meta name="fbtitle" property="og:title">
+    
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-GSGF"></script><script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
+
+    
+<script type="text/javascript">
+    (function() {
+        var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+        sa.src = ('https:' == document.location.protocol ? 'https://cdn' : 'http://cdn') + '.ywxi.net/js/1.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
+    })();
+    var PDOPTS = PDOPTS || [];
+    PDOPTS['disablefloat'] = 1;
+    PDOPTS['disablefloathover'] = 1;
+</script>
+<script type="text/javascript" src="../../jscripts/jquery.cookie.js"></script>
+<script language="javascript" type="text/javascript">
+        var footerEmailid = "";
+        var isFooterSignUp = false;
+        function WatermarkFocus(txtElem, strWatermark) {
+            if (txtElem.value == strWatermark) txtElem.value = '';
+            $('#txtPopupEmail').css('color', '#000')
+        }
+        function WatermarkBlur(txtElem, strWatermark) {
+            if (txtElem.value == '') txtElem.value = strWatermark;
+        }
+        function SubmitEmail() {
+            footerEmailid = document.getElementById('txtFooterEmail').value;
+            if (validateEmail(footerEmailid)) {
+                //var redirectUrl = String.format("{0}?{1}={2}", "joinmaillist.aspx", "subscribeterm", footerEmailid);
+                //ShowSubmitEmailPopup(footerEmailid);
+                isFooterSignUp = true;
+                document.getElementById('ErrorEmailMessage').innerHTML = '';
+                document.getElementById('txtFooterEmail').value = 'Enter Email Address';
+                SubmitPopupEmail();
+
+            }
+            /*MXL-JAYP Email Signup Changes By JAYP 14-OCT-2014 */
+            else { document.getElementById('ErrorEmailMessage').innerHTML = 'Please enter a valid email address'; return false; }
+            return true;
+        }
+        function CloseMaskBackGround(ContentWindow) {
+            $("#ifSubmitEmail").attr('src', '');
+            $('#MaskBackGround').fadeOut(100);
+            $("." + ContentWindow).fadeOut(100);
+        }
+        //Function for OneTime Popup
+        function SubmitPopupEmail() {
+            if (isFooterSignUp == false) {
+                footerEmailid = document.getElementById('txtPopupEmail').value;
+            }
+            if (footerEmailid == "" || footerEmailid =="enter your email") {
+                document.getElementById('ErrorEmailMessage').innerHTML = 'Please enter email address';
+                return false; 
+            }
+            if (validateEmail(footerEmailid)) {
+                var Page = String.format("{0}?{1}={2}&mode=popup", "joinmaillist.aspx", "subscribeterm", footerEmailid);
+                $('#popupContact').html($("#popupliteral2").html().replace("{{email}}", footerEmailid));
+                var href = $(location).attr('href').substring(0, $(location).attr('href').lastIndexOf("/") + 1);
+                Page = href + Page;
+                $("#ifrmRequestCatalog").attr('src', Page);
+//                if ($.browser.mozilla) {
+//                    window.frames["ifrmRequestCatalog"].location.reload();
+//                }
+//                if ($.browser.msie) { }
+//                if ($.browser.safari) { }
+                dataLayer.push({ "event": "EmailSignup", "Email": footerEmailid });
+                //Creating Cookie 
+                var cookieMaterName = $("input[id$=OneTimePopupDesc]").val();
+                var cookieMasterExpire = parseInt($("input[id$=OneTimePopupExpire]").val());
+                $.cookie(cookieMaterName, "1", { expires: cookieMasterExpire });
+                if (isFooterSignUp == true) {
+                    $("#backgroundPopup").fadeIn("slow");
+                    $("#popupContact").fadeIn("slow");
+                    centerOneTimePopup();
+                }
+                return true;
+            }
+            else {
+                /*MXL-JAYP Email Signup Changes By JAYP 14-OCT-2014 */
+                document.getElementById('ErrorPopupEmailMessage').innerHTML = 'Please enter a valid email address';
+                $('#txtPopupEmail').val('');
+                return false;
+            }
+
+        }
+        //MXL-JAYP Added FOR EMAIL SIGNUP ON 20-OCT-2014 Start
+       
+        function disableOneTimePopup() {
+                $("#backgroundPopup").fadeOut("slow");
+                $("#popupContact").fadeOut("slow");
+        }
+        function centerOneTimePopup() {
+            //request data for centering
+            var windowWidth = document.documentElement.clientWidth;
+            var windowHeight = document.documentElement.clientHeight;
+            var popupHeight = $("#popupContact").height();
+            var popupWidth = $("#popupContact").width();
+            //centering
+            $("#popupContact").css({
+                "position": "absolute",
+                "top": windowHeight / 2 - popupHeight / 2,
+                "left": windowWidth / 2 - popupWidth / 2
+            });
+            //only need force for IE6  
+            $("#backgroundPopup").css({
+                "height": windowHeight
+            });
+            return false;
+        }
+        /*Cancels bubble events div/div onclick */
+        function cancelBubble(e) {
+            var evt = e ? e : window.event;
+            if (evt.stopPropagation) evt.stopPropagation();
+            if (evt.cancelBubble != null) evt.cancelBubble = true;
+        }
+        /*Popup positions in Zoom event */
+        $(window).resize(function() {
+            if ($('#backgroundPopup').css("display") == "block") {
+                centerOneTimePopup();
+            }
+        });
+        function CatalogSignup() {
+            var err = "";
+            if ($.trim($(".fullscreen input[name*='FirstName']").val()).length == 0)
+                err += "First Name,";
+            if ($.trim($(".fullscreen input[name*='LastName']").val()).length == 0)
+                err += "Last Name,";
+            if ($.trim($("input[name*='address1']").val()).length == 0)
+                err += "Address,";
+            if ($.trim($("input[name*='City']").val()).length == 0)
+                err += "City,";
+            if($.trim($("select[name*='State']").val()) == "Please Select")
+                err += "State,";
+            if ($.trim($("input[name*='ZipCode']").val()).length == 0)
+                err += "Zip Code,";
+            else if ($.trim($("input[name*='ZipCode']").val()).replace(/[^\d\.]/g, '').length != 5)
+                err += "valid Zip Code,";
+            if ($.trim($(".fullscreen input[name*='Email']").val()).length == 0)
+                err += "Email,";
+            else if (!validateEmail($.trim($(".fullscreen input[name*='Email']").val())))
+                err += "valid Email,";
+            if (err != "") {
+                $("#CatalogErrorMessage").html("Please enter " + err.substring(0,err.length-1));
+                return false;
+            }
+            else {
+                $("#CatalogErrorMessage").html("");
+                $(".fullscreen .GeneralButton").attr("disabled", "disabled");
+                var fn = $.trim($(".fullscreen input[name*='FirstName']").val());
+                var ln = $.trim($(".fullscreen input[name*='LastName']").val());
+                var a1 = $.trim($(".fullscreen input[name*='address1']").val());
+                var a2 = $.trim($(".fullscreen input[name*='address2']").val());
+                var em = $.trim($(".fullscreen input[name*='Email']").val());
+                var ci = $.trim($(".fullscreen input[name*='City']").val());
+                var st = $.trim($(".fullscreen select[name*='State']").val());
+                var zip = $.trim($(".fullscreen input[name*='ZipCode']").val());
+                //Validations passed - start Ajax Post
+                $.ajax(
+                    {
+                        type: "POST",
+                        url: "SearchResults.aspx/SubscribeCatalog",
+                        data: '{"fn":"' + fn + '","ln":"' + ln + '","em":"' + em + '","a1":"' + a1 + '","a2":"' + a2 + '","st":"' + st + '","ci":"' + ci + '","zip":"' + zip + '"}',
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json",
+                        async: "false",
+                        cache: "false",
+                        success: function(msg) {
+                            if (msg.d == "Success") {
+                                var Page = "";
+                                //Enable the Submit button 
+                                $(".fullscreen .GeneralButton").removeAttr("disabled");
+                                if ($("#formtype").length == 0) {
+                                    //OneTime & Footerpopup cases
+                                    $('#popupContact').html($("#popupliteral3").html());
+                                    $("#popupContactClose").show();
+                                    Page = "joinmaillist2.aspx?tFirstName=" + fn + "&tLastName=" + ln + "&txtEmail=" + em + "&tcity=" + ci + "&cboState=" + st + "&tZipCode=" + zip + "&cboBirthMonth=" + "01" + "&cboBirthDay=" + "01" + "&SignUpType=" + "website" + "&tAdd1=" + a1 + "&tAdd2=" + a2 + "&CatalogOptIn=Yes";
+
+                                }
+                                else {
+                                    //CatalogSignup Standalone Topic page (Catalogsignup.aspx)
+                                    Page = "joinmaillist3.aspx?tFirstName=" + fn + "&tLastName=" + ln + "&txtEmail=" + em + "&tcity=" + ci + "&cboState=" + st + "&tZipCode=" + zip + "&cboBirthMonth=" + "01" + "&cboBirthDay=" + "01" + "&SignUpType=" + "website" + "&tAdd1=" + a1 + "&tAdd2=" + a2 + "&CatalogOptIn=Yes";
+                                    $('.fullscreen').html($("#popupliteral3").html());
+                                }
+                                
+                                var href = $(location).attr('href').substring(0, $(location).attr('href').lastIndexOf("/") + 1);
+                                Page = href + Page;
+                                $("#ifrmRequestCatalog").attr('src', Page);
+                                if ($.browser.mozilla) {
+                                    window.frames["ifrmRequestCatalog"].location.reload();
+                                }
+                                if ($.browser.msie) { }
+                                if ($.browser.safari) { }
+                                dataLayer.push({ "event": "EmailSignup", "Email": em });
+                                return true;
+                            }
+                            else {
+                                $("#CatalogErrorMessage").html(msg.d);
+                                $(".fullscreen .GeneralButton").removeAttr("disabled");
+                                return false;
+                            }
+
+                        },
+                        failure: function(msg) { alert(msg); },
+                        error: function(x, e) {
+                            $(".fullscreen .GeneralButton").removeAttr("disabled");
+                            return false;
+                        }
+                    });
+                
+            }
+        }
+        var cookieName = $("input[id$=OneTimePopupDesc]").val();
+        var cookieExpire = parseInt($("input[id$=OneTimePopupExpire]").val());
+        var cookiedisplay = ($("input[id$=OneTimePopupDisplay]").val()) == "true";
+        //CLOSING POPUP
+        function closeEmailPopup() {
+            disableOneTimePopup();
+            $.cookie(cookieName, "1", { expires: cookieExpire });
+        }
+        $(document).ready(function() {
+            //Click the x event!
+        var cookieName = $("input[id$=OneTimePopupDesc]").val();
+        var cookieExpire = parseInt($("input[id$=OneTimePopupExpire]").val());
+        var cookiedisplay = ($("input[id$=OneTimePopupDisplay]").val()) == "true";
+        
+        $("#popupContactClose").click(function() {
+       
+                $.cookie(cookieName, "1", { expires: cookieExpire });
+                disableOneTimePopup();
+                //console.warn(cookieName);
+                //            $.cookie("anewsletter", "1", { expires: 1 });
+
+            });
+            //Click outside of window
+            $("#backgroundPopup").click(function() {
+                disableOneTimePopup();
+                // $.cookie("anewsletter", "1", { expires: 1 });
+                $.cookie(cookieName, "1", { expires: cookieExpire });
+            });
+            //Press Escape event- Template master
+            $(document).keydown(function(e) {
+                if (e.keyCode == 27) {
+                    disableOneTimePopup();
+                    //$.cookie("anewsletter", "1", { expires: 1 });
+                    $.cookie(cookieName, "1", { expires: cookieExpire });
+                }
+            });
+        });
+
+        var regxEmail = /^(([\w-]+\.)+[\w-]+|([a-zA-Z]{1}|[\w-]{2,}))@((([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\.([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\.([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\.([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])){1}|([a-zA-Z]+[\w-]+\.)+[a-zA-Z]{2,4})$/;
+        // Purpose: Verifying Email Id
+        function validateEmail(emailValue) {
+                if (regxEmail.test(emailValue) == false) {
+                    return false;
+                }
+                else
+                    return true;
+        }
+        
+        
+        //MXL-JAYP Added FOR EMAIL SIGNUP ON 20-OCT-2014 Start
+    </script>
+
+    <script type="text/javascript">
+        $(function() {
+            //debugger;
+            $("#txtSearchField").keyup(function() {
+                /*WEB-JAYP 28-MAR-2014 Eliminating Special Char's */
+                var inputSearch = $(this).val().replace(/[^a-zA-Z0-9$@ -]/g, "");
+                var dataString = 'Ntt=' + inputSearch;
+                if (inputSearch != '' && inputSearch.length >= 3) {
+                    $.ajax({
+                        type: "POST",
+                        url: "TypeAhead.aspx",
+                        data: dataString,
+                        cache: false,
+                        success: function(html) {
+                            //alert($(html).find(".typehead"));
+                            $("#TypeAheadResult").html(html).show();
+                        },
+                        error: function() {
+                        }
+                    });
+                }
+                else {
+                    jQuery("#TypeAheadResult").fadeOut();
+                    return false;
+                }
+            });
+            if ($(document).click(function(e) {
+                var $clicked = $(e.target);
+                if (!$clicked.hasClass("ClassForJQuery")) {
+                    $("#TypeAheadResult").fadeOut();
+                }
+            }));
+            $("#txtSearchField").click(function() {
+                $("#TypeAheadResult").fadeIn();
+            });
+        });
+    </script>
+
+<link href="App_Themes/Skin_1/DropshipProductStyle08092013.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/ImageVScroll.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/jquery.superbox.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/ProductPageStyle08092013.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/Style.v1.0.10152014.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/style08092013.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/yui-autocomplete.css" type="text/css" rel="stylesheet"></head>
+<body>
+    <!-- dataLayer for Google Tag Manager START-->
+    
+<script>
+var dataLayer=[];
+dataLayer.push({'UserID':'0'});
+</script>
+
+    <!-- dataLayer for Google Tag Manager END -->
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-GSGF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-GSGF');</script>
+<!-- End Google Tag Manager -->
+    <form name="aspnetForm" method="post" action="t-privacy-terms.aspx" id="aspnetForm">
+<div>
+
+</div>
+
+
+<script src="jscripts/formvalidate.js" type="text/javascript"></script>
+<script src="jscripts/core.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=BMzN5L4GpUsbDi4tBmKaFMuJ7p3CjIvKdFm3L-s1RadRfEMKUpisRIclXjCS5Y9iq0-Xl69zUDkoU_1W3mywYJIHfFxIoqRj8F7IcX7PBgMVqomCwyfPSJ-AzgXsdgqHHtsKXptfILNR41Z_ex1DEQG9pFs1&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="jscripts/minicart.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=GxdVworz-fBJaiLKjhEcHC92Y18NsgyOfSKbHS6weY-y2zECALrqUz9Sr1nGxuiKaJmExKzNSY5ilQH0BsECoTsOkpO4Lr1DxLiODUyEHApqZXmuPNhfDNggbLnANe-gmoAlAbv9A87rku_M2wAq5lWncQc1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=PIZIZfDJweLUlVTSHpAeKQ2oAaAsyZ7E4BuEdwA9NrHz7HRpsm8GAmmuKAlttCyaqMWKfSFYABgtNXt7uGBCskJqgkcsNrgLBMndhC8D1MbDWKygO8LyY6GF3nSofIl9C1TlwUhSg2_h2fwnX415PnSMos01&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tm7cZhI8tNgcNC2UjZkQqDDQdAKPD34mltzIo0jtQFHqAsQl1bWm1SE0qIr7EVZ_kt-vvui87vsbpgxxMbtgfKNXAOZm367FaGmthdIinjOkbUlbqrXVwM-bZlDJziKU7RlDNl0uH5Rx1ICCvvnw0C9XdNo1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tseSgyCa82jbKJR0mthea5tL1FNSVq-mUI1iN4zDy07f3RldvLuUIPeQ_1fUIBFgUM5nuwvqY-cwZRVvXIuGaOCkw6CTmRZMmzqFfGzAsBNB7jhxxndJlmioYkd7KJsns_JiQKrikYBK3ObNi0k6layQHes1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NKdMD_91yK1jEo3xhh39fLmclDAWVfb6B6Fs9GksZa_uVzfSsrGuJCqeM0MdhtpsrGk-akGKuWaKBf29DjFyOeew4T7rECp5l--LREhKPqYYHCV07wI2U-X7-pbC3BQ5swvk0e0hW8wzPiIeZ9Qzu9LIzrn5S90WxOIEATrpnEffJdYf0&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+    
+    
+    
+    <!--header starts here-->
+    <div id="header_container">
+        <!--Top Bar  starts here-->
+        <div class="top_bar">
+            <div class="container">
+                
+  <div class="top_bar">
+<div id="ctl00_ctl10_pnlMiniCart">
+	
+
+    <script type="text/javascript" language="javascript">
+        $(document).ready(function() {
+
+            $('.cspnldelUpdate input').addClass("QtyTextBox");
+            var txtInQtyBox = "";
+            $('.QtyTextBox').click(function() { txtQtyAtt = $(this).attr('readonly'); if (txtQtyAtt == "readonly") { $(this).val("1"); } else { if ($(this).val() != "") { txtInQtyBox = $(this).val(); $(this).val(""); } } });
+            //$('.QtyTextBox').mouseout(function() { if ($(this).val() == "") { $(this).val(txtInQtyBox) }; });
+            $('.QtyTextBox').focusout(function() { if (!isInteger($(this).val())) { $(this).val(""); alert("Please enter Integer only"); } });
+            $('a').click(function() { if ($(this).text().toLowerCase() == "update") { var txtVal = $($(this).parents('#ctl00_ctl10_ctrlMiniCart_pnlCartItems')[0]).find('.QtyTextBox')[0]; if (!isInteger(txtVal.value)) { txtVal.valuue = ""; alert("Please enter Integer only"); return false; } } });
+        })
+        function Close_Click() {
+            //$("#ctl00_ctl08_pnlMinicartControl").hide();
+            //$("#QuickCart").hide();
+            document.getElementById("QuickCart").style.display = "none";
+            $('.csMinCartFullview').hide();
+            doClose();
+        }
+        function btnContinueShopping_Click() {
+            //location.href = "default.aspx";
+            $('.csMinCartFullview').hide();
+            document.getElementById("QuickCart").style.display = "none";
+        }
+        function btnCheckout_Click() {
+            location.href = "shoppingcart.aspx";
+        }
+        function lnkViewMiniCart_Click() {
+
+            if (document.getElementById('ProgressbarID') == null || document.getElementById('ProgressbarID').style.display != "") {
+                document.getElementById("QuickCart").style.display = "none";
+                document.getElementById('ctl00_ctl10_pnlDetaildMiniCart').style.display = "";
+                cmCreatePageviewTag("MINICART", "999");
+                CallShopAction5Tags();
+            }
+            return true;
+        }
+        function ShowMiniCartAfterDeleteorUpdate() {
+            document.getElementById("QuickCart").style.display = "none";
+            document.getElementById('ctl00_ctl10_pnlDetaildMiniCart').style.display = "";
+        }
+        function doOpen() {
+            $find('ctl00_ctl10_extCollapseMinicart')._doOpen();
+        }
+        function doClose() {
+            $find('ctl00_ctl10_extCollapseMinicart')._doClose();
+        }
+        function doToggle() {
+            var cpe = $find('ctl00_ctl10_pnlDetaildMiniCart'); //cpe._toggle();
+            if (cpe.get_Collapsed()) {
+                cpe._doOpen();
+            }
+            else {
+                cpe._doClose();
+            }
+        }
+        function toggle() {
+            var MenuCollapser = $get('ctl00_ctl10_extCollapseMinicart');
+            MenuCollapser.togglePanel();
+        }
+        function ShowMiniCartAfterDelete() {
+            document.getElementById("QuickCart").style.display = "none";
+            document.getElementById('ctl00_ctl10_pnlDetaildMiniCart').style.display = "";
+        }
+
+        function getIEVersionNumber() {
+            var ua = navigator.userAgent;
+            var MSIEOffset = ua.indexOf("MSIE ");
+            if (MSIEOffset == -1) {
+                return 0;
+            } else {
+                return parseFloat(ua.substring(MSIEOffset + 5, ua.indexOf(";", MSIEOffset)));
+            }
+        }
+        
+        
+        
+    </script>
+
+    <style type="text/css">
+        /*Jayp Header Changes */
+      /*.topLinks
+        {
+        font-family: Verdana;
+        font-size: 11px;
+        color: #666666 !important;
+        padding-bottom: 15px;
+        padding: right:3px;
+        }*/
+
+        .MinicartControlDiv
+        {
+            width: 450px;
+            height: 220px;
+            border: solid 1px #CCCCCC;
+            position: absolute;
+            top: 200px;
+            left: -300px;
+            background-color: White;
+            text-align: justify;
+        }
+        .MinicartHeaderTextStyle
+        {
+            font-size: 12px;
+            color: #000000;
+            font-weight: bold;
+            width: 95%;
+            text-align: left;
+            vertical-align: sub;
+        }
+        .MinicartHeaderCountAndPriceTextStyle
+        {
+            font-size: 11px;
+            /*color: #666666;*/
+            text-transform: none;
+        }
+        .MinicartProductName
+        {
+            font-size: 13px;
+          /*color: #333333;*/
+        }
+        .MinicartProductDetails
+        {
+            font-size: 11px;
+            /*color: #666666;*/
+        }
+        .popup_block
+        {
+            width: 450px;
+            height: 220px;
+            padding: 20px;
+            float: left;
+            position: relative;
+            top: 200px;
+            right: 500px;
+            z-index: 99999;
+            text-align: center;
+            display: none;
+        }
+        .cspnldelUpdate
+        {
+            height: 30px;
+            line-height: 11px;
+            padding-top: 2px;
+            padding-left:10px;
+        }
+        .cspnldelUpdate input
+        {
+            float: left;
+            height: 22px;
+            border: solid 1px #000;
+            margin-right: 3px;
+            text-align: center;
+            
+        }
+        .cspnldelUpdate a
+        {
+            float: left;
+            width: 50px;
+            margin-bottom: 4px;
+            font-size: 10px !important;
+           /* color:#999999 !important;*/
+        }
+        .csSubMiniDelUpdate
+        {
+            font-size: 10px;
+            float: left;
+            height: 30px;
+            text-align: left;
+            width: 30px;
+        }
+    </style>
+    <style type="text/css">
+        #QuickCart
+        {           
+            width: 50px;
+            height: 50px;
+            background-color: White;            
+            position: relative;
+            top:150px;
+            left:600px;
+            text-align: justify;
+            line-height: normal;
+            text-transform: none;
+        }
+         .csMinCartFullview
+        {
+            z-index: 1001; /*Changed by Giri*/
+            height: 100%;
+            width: 100%;
+            display: none;
+            background-image: url(images/PopBG50.png);/*Changed By Jayp*/
+            position: fixed;
+            text-align: center;
+            margin: auto;
+            top: 0;
+            left: 0;
+            vertical-align: middle;
+            min-height: 250px;
+        }
+    </style>
+  
+                <div id="ctl00_ctl10_UpdatePanel1">
+		
+                        <input type="hidden" name="ctl00$ctl10$extCollapseMinicart_ClientState" id="ctl00_ctl10_extCollapseMinicart_ClientState">                       
+                         <div class="checkout"><a href="shoppingcart.aspx">Checkout</a></div>                         
+                         <div class="links">
+                         
+                         <a href="RESLogin.aspx">Customer Reservations</a> <span class="separator">|</span>
+                         <a href="t-shipping-handling.aspx#shipping06">International Shipping</a><span class="separator">|</span>
+                         <a href="signin.aspx">Sign In</a><span class="separator">|</span>
+                         <a onclick="return lnkViewMiniCart_Click();" id="ctl00_ctl10_lnkViewMiniCart" class="topLinks" href="javascript:__doPostBack('ctl00$ctl10$lnkViewMiniCart','')">View Cart (0)</a>
+                                </div>
+                        
+                        <div id="ctl00_ctl10_pnlMinicartControl" class="miniCartCollapseBody" style="display: none;text-transform: none;">
+			
+                            <div class="csMinCartFullview">
+                            <div id="QuickCart">
+                                <div style="border-bottom: 1px solid #CCCCCC; height: 52px;padding-left:10px;background: #E7E7E9;">                                    
+                                    <div style="float: left; margin-top: 9px; width: 350px; font-size: 12px; color: #000000;
+                                        font-weight: bold; text-align: left;">
+                                        
+                                        <img src="images/ErrCookies.png" style="float: left" alt="ErrCookies"><br>
+                                        
+                                    </div>
+                                    <div style="float: left; width: 350px;margin-top:4px;font-weight:bold">
+                                        <span id="ctl00_ctl10_ItemQuantityCount" class="MinicartHeaderCountAndPriceTextStyle"></span>
+                                        <span id="ctl00_ctl10_ItemsSubtotal" class="MinicartHeaderCountAndPriceTextStyle"></span><br>
+                                    </div>
+                                    <div class="quickcartclose">
+                                        <img src="//images.zgallerie.com/is/image/ZGallerie/button_close?$siteimage$" onclick="Close_Click()" style="cursor: pointer;"></div>
+                                </div>
+                                <div style="border-bottom: 1px solid #CCCCCC; height: 110px;">
+                                    <div style="margin-left: 14px; margin-top: 10px; float: left;">
+                                        <span class="productshot">
+                                          
+                                            </span></div>
+                                    <div style="float: left; margin-top: 9px; width: 300px; margin-left: 14px; font-size: 13px;">
+                                        <span id="ctl00_ctl10_lblName" style="font-weight:bold;"></span><br>
+                                    </div>
+                                    <div style="float: left; margin-top: 9px; width: 300px; margin-left: 14px; font-size: 11px;
+                                         text-align: left;font-weight:bold">
+                                        
+                                        <span id="ctl00_ctl10_lblSizeStyleText">Size/Style:</span>&nbsp;<span id="ctl00_ctl10_lblSizeStyle"></span><br>
+                                        
+                                            <div style="margin-top:-30px;width:400px;">
+                                                <span>To Continue shopping at Z Gallerie, Please <span id="SpnTooltip" name="SpnTooltip1" class="SpnclsTooltipCookie" style=""><a style="color:#000;" id="alinkEnable" href="javascript:return(0);"><u>enable cookies</u></a><span style="text-decoration: none !important;"><div class="new_spabdetail" style="text-decoration: none!important;"></div>Your browser is currently set to block cookies. Cookies are a short piece of data that are sent to your computer when you visit a website and stored in a user's web browser. Cookies allow us to recognize you automatically whenever you visit our site so that we can personalize your experience. In order to continue shopping your browser must allow cookies. To learn how to allow cookies, see online help in your web browser.</span></span> in your web browser </span>
+                                            </div>
+                                        <span id="ctl00_ctl10_lblSKU"></span><br>
+                                        <span id="ctl00_ctl10_lblAvailabilityText">Availability:</span>&nbsp;
+                                        <span id="ctl00_ctl10_lblAvailability"></span><br>
+                                    </div>
+                                    <div style="float: left; margin-top: 4px; width: 300px; margin-left: 14px; font-size: 11px;font-weight:bold">
+                                      
+                                    </div>
+                                </div>
+                                
+                            </div>
+                            </div>
+                            <div id="ctl00_ctl10_pnlDetaildMiniCart" class="miniCartCollapseBody" style="width:404px;background-color: White; border: 1px solid #CCC; float: right;position:absolute;z-index:9999;margin: 30px 0 0 534px;">
+				
+                                <div id="ctl00_ctl10_ctrlMiniCart" style="width:404px;">
+					<table style="width: 100%;border: solid 0px #444444" '="" cellpadding="0" cellspacing="0">  <tbody><tr>    <td class="mini_cart">      <table style="width : 100%;" cellpadding="0" cellspacing="0" border="0">        <tbody><tr>          <td style="width: 100%; padding-top: 20px; padding-bottom: 20px"><p style="text-align: center;">Currently there are no items in your shopping cart. </p>            </td>        </tr>      </tbody></table><div id="ctl00_ctl10_ctrlMiniCart_pnlCartItems" class="cart_items" style="max-height: 204px;min-height:0px;width:100%;overflow: hidden;overflow-y:auto;overflow-x: hidden;line-height: normal">
+
+					</div>      <table style="width : 100%;background-color:#E7E7E9; cellpadding=" 0'="" cellspacing="0" border="0">              </table>    </td>  </tr></tbody></table>
+				</div>
+                                
+                                <a id="ctl00_ctl10_lnkRefresh" href="javascript:__doPostBack('ctl00$ctl10$lnkRefresh','')" style="display:none">x</a>
+                            
+			</div>
+                        
+		</div>
+                        
+                    
+	</div>
+                  
+    
+
+</div>
+</div> 
+
+                
+            </div>
+        </div>
+        <!--Top Bar ends here-->
+        <div id="header">
+            <div class="container">
+                <div class="logo">
+                    <a href="/">
+                        <img src="App_Themes/Skin_1/images/zgallerie_logo.gif" alt="ZGallerie Logo"></a></div>
+                
+                    <div class="hdr_rgt">
+                        <a href="storelocations.aspx">STORES</a><br>
+                        <a href="t-customer-service.aspx">800.908.6748</a></div>
+                
+
+            </div>
+        </div>
+        <!--Navigation starts here-->
+        
+<div id="navigation" style="z-index: 0">
+    
+    <div class="container position">
+        <ul id="ctl00_supermenu_menu" class="menu">
+        <li><a href="/ViewNew.aspx">New</a><div class="dropdown onecolumn"><div class="dropdown_bg"><div class="col"><ul><p>New By Category</p><li><a href="/ViewNew.aspx?N=2000040+4294952729">Art</a></li><li><a href="/ViewNew.aspx?N=2000003+4294952729">Bedding</a></li><li><a href="/ViewNew.aspx?N=2000277+4294952729">Decor</a></li><li><a href="/ViewNew.aspx?N=2000053+4294952729">Furniture</a></li><li><a href="/ViewNew.aspx?N=2000110+4294952729">Gifts</a></li><li><a href="/c-63-mirrors.aspx?N=2000063+4294952729">Mirrors</a></li><li><a href="/ViewNew.aspx?N=2000026+4294952729">Tableware</a></li></ul></div></div></div></li><li><a href="/c-53-furniture.aspx">Furniture</a><div class="dropdown fourcolumns"><div class="dropdown_bg"><div class="col"><ul><p>15% off Furniture</p><li><a href="/c-172-chic-combos.aspx">Chic Combos</a></li></ul><ul><p>Living Room Furniture</p><li><a href="/c-74-benches.aspx">Benches</a></li><li><a href="/c-136-cabinets-chests.aspx">Cabinets &amp; Chests</a></li><li><a href="/c-59-chairs.aspx">Chairs</a></li><li><a href="/c-58-chaises.aspx">Chaises</a></li><li><a href="/c-403-game-tables.aspx">Game Tables</a></li><li><a href="/c-390-leather-furniture.aspx">Leather Furniture</a></li><li><a href="/c-181-mirrored-furniture.aspx">Mirrored Furniture</a></li><li><a href="/c-56-occasional-tables.aspx?N=2000056&amp;Ns=na">Occasional Tables</a></li><li><a href="/c-60-ottomans.aspx">Ottomans</a></li><li><a href="/c-248-sectionals.aspx">Sectionals</a></li><li><a href="/c-57-sofas.aspx">Sofas</a></li></ul></div><div class="col"><ul><p>Dining Room Furniture</p><li><a href="/c-76-bar-stools.aspx">Bar Stools</a></li><li><a href="/c-74-benches.aspx">Benches</a></li><li><a href="/c-73-buffets-cabinets.aspx">Buffets &amp; Cabinets</a></li><li><a href="/c-72-dining-chairs.aspx">Dining Chairs</a></li><li><a href="/c-71-dining-tables.aspx">Dining Tables</a></li></ul><ul><p>Bedroom Furniture</p><li><a href="/c-66-beds.aspx">Beds</a></li><li><a href="/c-74-benches.aspx">Benches</a></li><li><a href="/c-67-chests-dressers.aspx">Chests &amp; Dressers</a></li><li><a href="/c-183-headboards.aspx">Headboards</a></li><li><a href="/c-69-nightstands.aspx">Nightstands</a></li></ul></div><div class="col"><ul><p>Home Office Furniture</p><li><a href="/c-136-bookcases-cabinets.aspx">Bookcases &amp; Cabinets</a></li><li><a href="/c-279-desks.aspx">Desks</a></li><li><a href="/c-280-office-chairs.aspx">Office Chairs</a></li></ul><ul><p>Inspiration</p><li><a href="/c-256-bedroom.aspx">Bedroom</a></li><li><a href="/c-255-dining-room.aspx">Dining Room</a></li><li><a href="/c-366-entertaining.aspx">Entertaining</a></li><li><a href="/c-257-entryway.aspx">Entryway</a></li><li><a href="/c-409-game-room.aspx">Game Room</a></li><li><a href="/c-254-living-room.aspx">Living Room</a></li><li><a href="/c-360-office.aspx">Office</a></li></ul><ul><p>Featured</p><li><a href="/ViewNew.aspx?N=2000053+4294952729">New Furniture</a></li><li><a href="/ViewSale.aspx?N=2000053+4294952728">Sale Furniture</a></li></ul></div><div class="col"><div class="img"><a href="/c-257-entryway.aspx"><img src="//images.zgallerie.com/is/image/ZGallerie/ZProdGridImage/-fw14studiodesk.jpg" width="100%"></a></div><ul><p>Welcome Guests</p></ul><p class="normal">Create a warm and inviting entryway to welcome holiday guests.</p><p><a href="/c-257-entryway.aspx">Shop &gt;</a></p></div></div></div></li><li><a href="/c-40-art.aspx">Art</a><div class="dropdown fourcolumns"><div class="dropdown_bg"><div class="col"><ul><p>Shop by Category</p><li><a href="/ViewAll.aspx?N=2000040">All Art</a></li><li><a href="/c-40-art-under-100.aspx?N=4+5+201+202">Art Under $100</a></li><li><a href="/c-243-series.aspx">Series</a></li></ul><ul><p>Art by Type</p><li><a href="/c-209-acrylic.aspx">Acrylic</a></li><li><a href="/c-210-canvas.aspx">Canvas</a></li><li><a href="/c-211-dimensional.aspx">Dimensional</a></li><li><a href="/c-213-framed-art.aspx">Framed Art</a></li><li><a href="/c-214-glass-coat.aspx">Glass Coat</a></li><li><a href="/c-215-grand-scale.aspx">Grand Scale</a></li><li><a href="/c-365-high-gloss-canvas.aspx">High Gloss Canvas</a></li><li><a href="/c-244-small-scale.aspx">Small Scale</a></li><li><a href="/c-216-wood-mount.aspx">Wood Mount</a></li></ul></div><div class="col"><ul><p>Art Themes</p><li><a href="/c-218-abstract.aspx">Abstract</a></li><li><a href="/c-219-animals.aspx">Animals</a></li><li><a href="/c-221-beach.aspx">Beach</a></li><li><a href="/c-222-childrens-art.aspx">Children's Art</a></li><li><a href="/c-223-culinary.aspx">Culinary</a></li><li><a href="/c-220-destinations-cityscapes.aspx">Destinations &amp; Cityscapes</a></li><li><a href="/c-388-fashion-forward.aspx">Fashion Forward</a></li><li><a href="/c-224-figurative-nudes.aspx">Figurative &amp; Nudes</a></li><li><a href="/c-225-landscapes.aspx">Landscapes</a></li><li><a href="/c-226-museum.aspx">Museum</a></li><li><a href="/c-227-music.aspx">Music</a></li><li><a href="/c-228-nature-botanical.aspx">Nature &amp; Botanical</a></li></ul></div><div class="col"><ul><p>Art Themes Cont.</p><li><a href="/c-229-photography.aspx">Photography</a></li><li><a href="/c-230-planes-trains-machines.aspx">Planes Trains &amp; Machines</a></li><li><a href="/c-231-pop-art.aspx">Pop Art</a></li><li><a href="/c-232-typography.aspx">Typography</a></li><li><a href="/c-233-vintage.aspx">Vintage</a></li></ul><ul><p>Featured</p><li><a href="/SearchResults.aspx?Ntt=FRAMED GEODE">Geode Series</a></li><li><a href="/t-how-to-gallery-wall.aspx">How to Hang a Gallery Wall</a></li><li><a href="/ViewNew.aspx?N=2000040+4294952729">New Art</a></li><li><a href="/ViewSale.aspx?N=2000040+4294952728">Sale Art</a></li><li><a href="/c-204-original-art.aspx">Original Art</a></li></ul></div><div class="col"><div class="img"><a href="/t-how-to-gallery-wall.aspx"><img src="//images.zgallerie.com/is/image/ZGallerie/gallerywall%2D01?$ZProdGridImage$" width="100%"></a></div><ul><p>Gallery Wall Guide</p></ul><p class="normal">Use our step-by-step guide to create a curated wall of art.</p><p><a href="/t-how-to-gallery-wall.aspx">Shop &gt;</a></p></div></div></div></li><li><a href="/c-277-decor.aspx">Decor</a><div class="dropdown fourcolumns"><div class="dropdown_bg"><div class="col"><ul><p>Home Accents</p><li><a href="/c-149-accent-tables-stools.aspx">Accent Tables &amp; Stools</a></li><li><a href="/c-16-botanicals-plants.aspx">Botanicals &amp; Plants</a></li><li><a href="/c-13-candleholders.aspx">Candleholders</a></li><li><a href="/c-12-candle-home-fragrance.aspx">Candle &amp; Home Fragrance</a></li><li><a href="/c-14-clocks.aspx">Clocks</a></li><li><a href="/c-15-decorative-accessories.aspx">Decorative Accessories</a></li><li><a href="/c-22-frames.aspx">Frames</a></li><li><a href="/c-24-vases.aspx">Vases</a></li></ul><ul><p>Mirrors &amp; Wall Decor</p><li><a href="/c-320-fauxidermy.aspx">Fauxidermy</a></li><li><a href="/c-63-mirrors.aspx">Mirrors</a></li><li><a href="/c-23-sconces.aspx">Sconces</a></li><li><a href="/c-25-wall-decor.aspx">Wall Decor</a></li></ul></div><div class="col"><ul><p>Lighting</p><li><a href="/c-37-floor-lamps.aspx">Floor Lamps</a></li><li><a href="/c-38-hanging-lamps.aspx">Hanging Lamps</a></li><li><a href="/c-39-table-lamps.aspx">Table Lamps</a></li></ul><ul><p>Pillows &amp; Throws</p><li><a href="/c-7-pillows.aspx">Pillows</a></li><li><a href="/c-9-throws.aspx">Throws</a></li></ul><ul><p>Floors</p><li><a href="/c-33-rugs.aspx">Rugs</a></li></ul><ul><p>Windows</p><li><a href="/c-34-drapery-panels.aspx">Drapery Panels</a></li><li><a href="/c-385-window-hardware.aspx">Window Hardware</a></li></ul></div><div class="col"><ul><p>Storage &amp; Organization</p><li><a href="/c-109-bathroom.aspx">Bathroom</a></li><li><a href="/c-135-office.aspx">Office</a></li><li><a href="/c-152-trays.aspx">Trays</a></li></ul><ul><p>Novelty</p><li><a href="/c-194-books-stationery.aspx">Books &amp; Stationery</a></li><li><a href="/c-112-games-toys.aspx">Games &amp; Toys</a></li><li><a href="/c-196-jewelry-keychains.aspx">Jewelry &amp; Keychains</a></li><li><a href="/c-20-jewelry-boxes.aspx">Jewelry Boxes</a></li><li><a href="/c-106-travel.aspx">Travel</a></li></ul><ul><p>Featured</p><li><a href="/ViewNew.aspx?N=2000277+4294952729">New Decor</a></li><li><a href="/ViewSale.aspx?N=2000277+4294952728">Sale Decor</a></li></ul></div><div class="col"><div class="img"><a href="/p-13199-glisten-string-lights.aspx"><img src="//images.zgallerie.com/is/image/ZGallerie/ZProdGridImage/-decor_20141022.jpg" width="100%"></a></div><ul><p>A Warm Glow</p></ul><p class="normal">String our LED glisten lights around artful displays for a warm glow.</p><p><a href="/p-13199-glisten-string-lights.aspx">Shop &gt;</a></p></div></div></div></li><li><a href="/c-26-tableware.aspx">Tableware</a><div class="dropdown threecolumns"><div class="dropdown_bg"><div class="col"><ul><p>Shop by Category</p><li><a href="/c-30-bar-accessories.aspx">Bar Accessories</a></li><li><a href="/c-429-bar-carts.aspx">Bar Carts</a></li><li><a href="/c-27-dinnerware.aspx">Dinnerware</a></li><li><a href="/c-29-glassware.aspx">Glassware</a></li><li><a href="/c-182-napkin-rings.aspx">Napkin Rings</a></li><li><a href="/c-28-serveware.aspx">Serveware</a></li><li><a href="/c-31-table-linens-chargers.aspx">Table Linens &amp; Chargers</a></li><li><a href="/c-152-trays.aspx">Trays</a></li></ul></div><div class="col"><ul><p>Inspiration</p><li><a href="/c-255-dining-room.aspx">Dining Room</a></li></ul><ul><p>Related</p><li><a href="/c-55-dining-furniture.aspx">Dining Furniture</a></li></ul><ul><p>Featured</p><li><a href="/ViewNew.aspx?N=2000026+4294952729">New Tableware</a></li><li><a href="/ViewSale.aspx?N=2000026+4294952728">Sale Tableware</a></li><li><a href="/t-fw14cocktails.aspx">Cocktail Guide</a></li></ul></div><div class="col"><div class="img"><a href="/t-fw14-entertaining.aspx"><img src="//images.zgallerie.com/is/image/ZGallerie/ZProdGridImage/-fw14entertaining.jpg" width="100%"></a></div><ul><p>Fall Entertaining Guide</p></ul><p class="normal">Be inspired by fall place settings, tablesscapes and cocktail recipes.</p><p><a href="/t-fw14-entertaining.aspx">Shop &gt;</a></p></div></div></div></li><li><a href="/c-3-bedding.aspx">Bedding</a><div class="dropdown twocolumns"><div class="dropdown_bg"><div class="col"><ul><p>Shop by Category</p><li><a href="/c-6-bedding.aspx">Bedding</a></li><li><a href="/c-7-pillows.aspx">Pillows</a></li><li><a href="/c-5-poufs.aspx">Poufs</a></li><li><a href="/c-406-sheet-sets.aspx">Sheet Sets</a></li><li><a href="/c-9-throws.aspx">Throws</a></li></ul><ul><p>Related</p><li><a href="/c-54-bedroom-furniture.aspx">Bedroom Furniture</a></li><li><a href="/c-34-drapery-panels.aspx">Drapery Panels</a></li><li><a href="/c-385-window-hardware.aspx">Window Hardware</a></li></ul><ul><p>Inspiration</p><li><a href="/c-256-bedroom.aspx">Bedroom</a></li></ul><ul><p>Featured</p><li><a href="/ViewNew.aspx?N=2000003+4294952729">New Bedding</a></li><li><a href="/ViewSale.aspx?N=2000003+4294952728">Sale Bedding</a></li></ul></div><div class="col"><div class="img"><a href="/c-6-bedding.aspx"><img src="//images.zgallerie.com/is/image/ZGallerie/ZProdGridImage/-041831574.jpg" width="100%"></a></div><ul><p>New Marquesa Collection</p></ul><p class="normal">Elevate the comforts of your bedroom.</p><p><a href="/c-6-bedding.aspx">Shop &gt;</a></p></div></div></div></li><li><a href="/c-63-mirrors.aspx">Mirrors</a><div class="dropdown twocolumns"><div class="dropdown_bg"><div class="col"><ul><p>Shop by Category</p><li><a href="/c-63-mirrors.aspx">Mirrors</a></li></ul><ul><p>Related</p><li><a href="/c-181-mirrored-furniture.aspx">Mirrored Furniture</a></li></ul><ul><p>Featured</p><li><a href="/c-63-mirrors.aspx?N=2000063+4294952729">New Mirrors</a></li><li><a href="/c-63-mirrors.aspx?N=2000063+4294952728">Sale Mirrors</a></li></ul></div><div class="col"><div class="img"><a href="/c-63-mirrors.aspx"><img src="//images.zgallerie.com/is/image/ZGallerie/20141022mirrors?$ZProdGridImage$" width="100%"></a></div><ul><p>Glamorous Reflections</p></ul><p class="normal">Use mirrors to create light and movement throughout your home.</p><p><a href="/c-63-mirrors.aspx">Shop &gt;</a></p></div></div></div></li><li><a href="/t-fw14giftguide.aspx" style="color:#CC9933;">Holiday &amp; Gifts</a><div class="dropdown threecolumns"><div class="dropdown_bg"><div class="col"><ul><p>Holiday</p><li><a href="/c-324-harvest.aspx">Harvest</a></li><li><a href="/c-95-holiday-decor.aspx">Holiday Decor</a></li><li><a href="/c-423-ornaments.aspx">Ornaments</a></li><li><a href="/c-111-stocking-stuffers.aspx">Stocking Stuffers</a></li></ul><ul><p>Featured</p><li><a href="/c-444-brilliantly-gifted.aspx">Brilliantly Gifted</a></li><li><a href="/c-443-naturally-gifted.aspx">Naturally Gifted</a></li><li><a href="/c-445-soft-luxurious-gifts.aspx">Soft &amp; Luxurious Gifts</a></li><li><a href="/c-343-for-the-bar.aspx">For the Bar</a></li><li><a href="/t-giftcard.aspx">Gift Cards</a></li><li><a href="/ViewNew.aspx?N=2000110+4294952729">New Gifts</a></li><li><a href="/ViewSale.aspx?N=2000110+4294952728">Sale Gifts</a></li></ul></div><div class="col"><ul><p>Gifts by Price</p><li><a href="/ViewAll.aspx?N=2000110">All Gifts</a></li><li><a href="/c-340-25-and-under.aspx">$25 and Under</a></li><li><a href="/c-341-50-and-under.aspx">$50 and Under</a></li><li><a href="/c-339-100-and-under.aspx">$100 and Under</a></li></ul><ul><p>Gifts by Recipient</p><li><a href="/c-122-animal-lovers.aspx">Animal Lovers</a></li><li><a href="/c-125-for-her.aspx">For Her</a></li><li><a href="/c-123-for-him.aspx">For Him</a></li><li><a href="/c-124-host-hostess.aspx">Host &amp; Hostess</a></li></ul><ul><p>Gifts by Occasion</p><li><a href="/c-113-housewarming.aspx">Housewarming</a></li><li><a href="/c-178-wedding.aspx">Wedding</a></li></ul></div><div class="col"><div class="img"><a href="/c-95-holiday-decor.aspx"><img src="//images.zgallerie.com/is/image/ZGallerie/ZProdGridImage/-20141022_holiday.jpg" width="100%"></a></div><ul><p>Tis The Season</p></ul><p class="normal">Get ready for the season ahead with chic and festive holiday decor.</p><p><a href="/c-95-holiday-decor.aspx">Shop &gt;</a></p></div></div></div></li><li><a href="/ViewSale.aspx">Sale</a><div class="dropdown twocolumns"><div class="dropdown_bg"><div class="col"><ul><p>Limited Time Offers</p><li><a href="/c-172-15-off-furniture.aspx">15% Off Furniture</a></li><li><a href="/c-53-10-off-furniture.aspx">10% Off Furniture</a></li></ul></div><div class="col"><ul><p>Sale By Category</p><li><a href="/ViewSale.aspx?N=2000040+4294952728">Art</a></li><li><a href="/ViewSale.aspx?N=2000003+4294952728">Bedding</a></li><li><a href="/ViewSale.aspx?N=2000277+4294952728">Decor</a></li><li><a href="/ViewSale.aspx?N=2000053+4294952728">Furniture</a></li><li><a href="/ViewSale.aspx?N=2000110+4294952728">Gifts</a></li><li><a href="/c-63-mirrors.aspx?N=2000063+4294952728">Mirrors</a></li><li><a href="/ViewSale.aspx?N=2000026+4294952728">Tableware</a></li><li><a href="/Viewclearance.aspx" style="color:#EC1C24;font-family:arial;font-size:11px;font-style:normal;">Clearance</a></li></ul></div></div></div></li><li><a href="/c-253-Inspiration.aspx">Inspiration</a><div class="dropdown twocolumns"><div class="dropdown_bg"><div class="col"><ul><p>By Room</p><li><a href="/c-256-bedroom.aspx">Bedroom</a></li><li><a href="/c-255-dining-room.aspx">Dining Room</a></li><li><a href="/c-366-entertaining.aspx">Entertaining</a></li><li><a href="/c-257-entryway.aspx">Entryway</a></li><li><a href="/c-409-game-room.aspx">Game Room</a></li><li><a href="/c-254-living-room.aspx">Living Room</a></li><li><a href="/c-360-office.aspx">Office</a></li></ul><ul><p>Featured</p><li><a href="/t-fallentertaining.aspx">9 Fall Place Settings</a></li><li><a href="/t-fw14cocktails.aspx">Cocktail Guide</a></li><li><a href="/t-quiz.aspx">Design Style Quiz</a></li><li><a href="/t-how-to-gallery-wall.aspx">How to Hang a Gallery Wall</a></li><li><a href="/t-socialsnapshot.aspx">Social Snapshot</a></li></ul><ul><p>Lookbook</p><li><a href="/t-catalog.aspx">Holiday 2014 | Gift Guide</a></li><li><a href="/t-fw14-premierissue.aspx">Holiday 2014 | Premier Issue</a></li><li><a href="/t-fw14-entertaining.aspx">Fall Entertaining Guide</a></li><li><a href="/t-lookbook-fw-2014.aspx">Fall / Winter 2014</a></li></ul></div><div class="col"><div class="img"><a href="/t-fallentertaining.aspx"><img src="//images.zgallerie.com/is/image/ZGallerie/fw14%5F9fallplacesettings?$ZProdGridImage$" width="100%"></a></div><ul><p>9 Fall Placesettings</p></ul><p class="normal">Set the table with our most inspired looks for this entertaining season.</p><p><a href="/t-fallentertaining.aspx">Shop &gt;</a></p></div></div></div></li></ul>
+        <div class="search">
+            <input name="txtSearchField" class="ClassForJQuery" type="text" id="txtSearchField" style="-webkit-appearance: none;" value="Search" onfocus="if(this.value=='Search')value=''" onblur="if(this.value=='')value='Search'">
+            <a id="aSearch" href="javascript:void(0)" onclick="javascript:return SubmitSearch(); return false;">
+                <img src="/App_Themes/Skin_1/images/search_icon.gif" width="13" height="14" alt="Search"></a>
+            <div id="TypeAheadResult">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#txtSearchField").keypress(function(e) {
+            if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
+                SubmitSearch();
+            }
+        });
+    });
+    function SubmitSearch() {
+	/*WEB-JAYP 28-MAR-2014 Eliminating Special Char's */
+        var searchText = document.getElementById('txtSearchField').value.replace(/[^a-zA-Z0-9$@ -]/g, "");
+        if (searchText.trim().length == 0 || searchText.trim() == "Search") {
+            alert("- Please enter sku#/product/keyword");
+            return false;
+        }
+        else if (searchText.trim().length < 3) {
+            alert("- Invalid Search");
+            return false;
+        }
+        else {
+            var redirectUrl = String.format("SearchResults.aspx?Ntt={0}", searchText);
+            document.location.href = redirectUrl;
+            return true;
+        }
+    }
+</script>
+
+
+        
+    </div>
+    <!--header ends here-->
+    <!--main container starts here-->
+    <div id="main_container">
+        <div id="breadcrumb" style="width: 100%; display: none">
+            Privacy and Terms
+        </div>
+        <!--Body Container starts here-->
+        <!--<div id="body_container"><!-- CONTENTS START -->
+        <!--Giri-->
+        
+<style type="text/css">
+  /*GiftCardPopup Styles Add by Jayp on 04/22/2013*/
+        .closeBt4
+        {
+            position: relative;
+            z-index: 60;
+            float: right;
+            height: 0px;
+            cursor: pointer;
+            margin-top: -15px;
+            margin-right: 10px;
+            position: relative;
+        }
+
+        .PopupMain
+         {
+            z-index: 9003;
+            height: 100%;
+            width: 100%;
+            display: none;
+            background-image: url(images/PopBG50.png);
+            position: fixed;
+            margin: auto;
+            top: 0;
+            left: 0;
+            vertical-align: middle;
+        }
+
+         .Popup
+        {
+            z-index: 102;
+            background-color: #FFFFFF;
+            position: relative;
+            margin: auto;
+            float: left;
+        }
+        /*End GiftCard Styles Add by Jayp on 04/22/2013*/   
+</style>
+<script type="text/javascript">
+$(document).ready(function() {
+ $('div.footerbox:first').css("margin-left","0px");
+});
+ 
+function popup2(gcard, gpin)
+{
+    if (gcard.length < 16)
+    {
+        alert("Gift Card number must be 16 characters!");
+        return;
+    }
+    if (isNaN(gcard))
+    {
+        alert("Gift Card number must be numeric!");
+        return;
+    }
+    if (gpin.length < 8)
+    {
+        alert("Pin number must be 8 characters!");
+        return;
+    }
+    if (isNaN(gpin))
+    {
+        alert("Pin number must be numeric!");
+        return;
+    }
+    //Changed By Jayp for Giftcard popup on 04/22/2013
+    var popupURL = 'giftCardBalPop.aspx?GCard=' + gcard + '&GPin=' + gpin;
+    ShowPopup(popupURL);
+}
+
+/* Mxl add by  Jayp Giftcard Popup 04/22/2013*/
+function ShowPopup(url) {
+
+    var winH = $(window).height();
+    var winW = $(window).width();
+    $('.PopupMain').css("display", "block");
+    $('.Popup').css("top", ($(window).height() - $('.Popup').height()) / 2 + "px");
+    $(".Popup").css('left', winW / 2 - $(".Popup").width() / 2);
+    var href = $(location).attr('href').substring(0, $(location).attr('href').lastIndexOf("/") + 1) + url;
+    $("#giftCardFrame").attr('src', href);
+    if ($.browser.mozilla) {
+        window.frames["giftCardFrame"].location.reload();
+    }
+    else if ($.browser.msie) {
+        document.frames["giftCardFrame"].location.href = href;
+    }
+    else if ($.browser.safari) {
+        document.getElementById("giftCardFrame").reload(true);
+    }
+    else {
+        return false;
+    }
+}
+function closePopupWindowImagepopup() {
+    $("#giftCardFrame").attr('src', '');
+    $('.PopupMain').css("display", "none");
+}
+
+/*Cancels bubble events div/div onclick */
+function cancelBubble(e) {
+    var evt = e ? e : window.event;
+    if (evt.stopPropagation) evt.stopPropagation();
+    if (evt.cancelBubble != null) evt.cancelBubble = true;
+}
+/* Popup positions in Zoom event */
+$(window).resize(function() {
+    if ($('.PopupMain').css("display") == "block") {
+        var winH = $(window).height();
+        var winW = $(window).width();
+        $('.PopupMain').css("padding-bottom", "15px");
+        $('.Popup').css("top", ($(window).height() - $('.Popup').height()) / 2 + "px");
+        $(".Popup").css('left', winW / 2 - $(".Popup").width() / 2);
+    }
+});
+ 
+    </script>
+    <div id="ctl00_PageContent_pnlContent">
+	
+   
+    <!-- Mxl Popup Added By Jayp for GiftCard 04/22/2013-->
+            <div id="Div1" class="PopupMain" style="float: left;" onclick="closePopupWindowImagepopup()">
+        <div id="Div2" class="Popup" onclick="cancelBubble(event);" style="width: 450px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; border-top-color: #cccccc; border-right-color: #cccccc; border-bottom-color: #cccccc; border-left-color: #cccccc; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+        <div style="margin-right:3px; width: 15px; float: right; position: relative; z-index: 100;">
+            <img id="Img2" onclick="closePopupWindowImagepopup()" src="http://s7d1.scene7.com/is/image/ZGallerie/button_close?$siteimage$" style="cursor: pointer;">
+        </div>
+        <div style="width:450px; float:left; height:150px;">
+            <iframe id="giftCardFrame" frameborder="0" scrolling="no" style="width:100%"></iframe>
+         </div>         
+     </div>
+     </div>
+    <!-- End Popup Added By Jayp for GiftCard-->
+    
+        <style>    h2{font-weight:bold;}</style><div style="width: 100%; text-align: center;"><table style="text-align: left; width: 100%;" border="0" cellspacing="0" cellpadding="0">    <tbody>        <tr>            <td valign="top" style="width: 200px;">            <div class="NavBarTop">            <div id="pnlCateGories" class="NavBar">            <table border="0" cellspacing="0" cellpadding="0" width="190" style="padding: 10px;">                <tbody>                    <tr>                        <td style="width: 190px;" class="cattitle" valign="bottom">                        <h1><a href="t-customer-service.aspx" style="text-decoration: none;">Customer Service</a><a></a></h1>                        </td>                    </tr>                    <tr>                        <td>                        <p><a href="t-faq.aspx">General FAQ</a><br>                        <a href="t-dtp_faq.aspx">Designer Trade Program FAQ</a><br>                        <a href="storelocations.aspx">Find a Store</a><br>                        <a href="Joinmaillist.aspx">Sign up for Email</a><br>                        <a href="t-zgalleriecard.aspx">Z Gallerie Card</a><br>                        <a href="t-giftregistry.aspx">Gift Registry</a><br>                        <a href="t-giftservices.aspx">Gift Services</a><br>                        <a href="t-shipping-handling.aspx">Shipping &amp; Handling</a><br>                        <a href="t-shopping-online.aspx">Shopping Online</a><br>                        <a href="t-returns.aspx">Returns &amp; Exchanges</a><br>                        <a href="t-technical-requirements.aspx">Technical&nbsp;Requirements</a><br>                        <a href="t-privacy-terms.aspx"><strong>Privacy &amp; Terms</strong></a><br>                        <a href="t-CA-transparency-act.aspx">California Transparency in Supply Chains Act</a></p>                        <p></p>                        <div style="font-size: 14px;"><strong>Account Utilities</strong></div>                        <a href="createaccount.aspx?checkout=False">Create Account</a><a href="account.aspx"><br>                        Edit Profile</a>                        <p></p>                        </td>                    </tr>                </tbody>            </table>            </div>            </div>            </td>            <td valign="top">            <p class="pnfHeader" style="line-height: 0;"></p>            <h2>Privacy Statement</h2>            <p></p>            <p>              Z Gallerie is  committed to protecting your privacy. This policy applies to information  collected on zgallerie.com, computerized devices, in our stores, and through  any location where the policy is posted (collectively referred to herein as  "Sites”) and applies to data collection by Z Gallerie and/or its  subsidiary and affiliated entities. BY VISITING OUR SITES, YOU CONSENT TO THE  TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF  INFORMATION FOR THE PURPOSES STATED BELOW. <br>            We firmly believe the  continued success of the Internet is dependent on security and privacy. In  support of this, we will use the personal information you provide in accordance  with the terms outlined below. </p>            <p></p>            <h2>Information  We Gather </h2>            <p></p>            <p>We collect two types  of information from visitors to our Sites: (1) Personally Identifiable  Information; and (2) Non-Personally Identifiable Information, such as your IP address  or cookies. </p>            <p>(A) Personally  Identifiable Information </p>            <p>"Personally  Identifiable Information" is information that identifies you, such as your  name, address, telephone number, email address, or company name. Some examples  in which we may collect and store your personally identifiable information on  our Sites: </p>            <ul>                <li>We may collect your email address if you sign up to receive  email updates from us or contact us with a question;</li>                <li>We may collect your name, company name, business license number,  address, phone number, email address, and social media information if you apply  to participate in our Designer Trade Program; </li>                <li> We may collect your name, address, email address, credit card  and billing information if you make a purchase of a product; </li>                <li> We may collect your name and address if you request a catalog  from us; </li>                <li> We may collect your name, address, and email address if you  create a registry or other account on our Sites; and </li>                <li> We may collect your  name, date of birth, and email address if you choose to participate in a  contest or sweepstakes. </li>            </ul>            <p>The above list  provides an example of the personally identifiable information that may be  collected on our Sites. </p>            <p>(B) Non-Personally  Identifiable Information </p>            <p>"Non-Personally  Identifiable Information" can be technical information or it can be  demographic information, such as your age, gender or interests. Non-personally  identifiable information does NOT identify you personally. We’ve provided some  examples of the non-personally identifiable information collected via our Sites  and a description of how this information is used: </p>            <ul>                <li>              Internet Protocol (IP) address -- Your IP address is a number that  lets computers attached to the Internet know where to send you data -- such as  the webpages you view. We use this information to deliver our webpages to you  upon request, to tailor our Sites to the interests of our users and to measure  traffic.</li>                <li> Cookie -- A "cookie" is a small text file that may be  used to collect information about your activity on the Sites. You may set most  browsers to notify you if you receive a cookie, or you may choose to block  cookies, but if you do, you may not be able to take advantage of the  personalized features enjoyed by other users to our Sites. </li>                <li> Web  Beacons are tiny graphics with a unique identifier, similar in function to  cookies. In contrast to cookies, which are stored on a user's computer hard  drive, web beacons are embedded invisibly on web pages. </li>                <li> Demographic Information -- "Demographic Information" may  be your gender, age, zip code and interests, which you voluntarily provided to  us. We use this information to provide you with personalized services and to  analyze trends to ensure the information provided by our Sites meets your  needs. </li>                <li> Geolocation  Data --We may also collect your location if you allow us to track your location  through our Sites, or if your personally or non-personally identifiable  information indicates a certain geographic location. This information may help  us provide recommendations to you based on your location. </li>            </ul>            <p>The above list  provides an example of the non-personally identifiable information that is  collected via our Sites. Please note that we consider aggregated information,  which is not personally identifiable, to be non-personally identifiable  information. We may also tie non-personally identifiable information with  personally identifiable information in order to ensure that the Sites and our  services meet your needs. When we tie non-personally identifiable information  with personally identifiable information, it is considered “personally  identifiable information” for the purposes of this policy. That means that we  will be using and sharing this combined data in the ways described in that  section below. </p>            <p></p>            <h2>Use  of Gathered Information </h2>            <p></p>            <p>(A) Personally  Identifiable Information </p>            <ul>                <li> To provide personalized content and services; </li>                <li> To deliver your catalog to you; </li>                <li> To alert you to special offers and updated information; </li>                <li> To process requested commerce transactions or to contact you  regarding a specific transaction; </li>                <li> To fulfill the terms of a promotion; </li>                <li> To respond to your request or contact; </li>                <li> To allow you access to limited-entry areas of our Sites; and </li>                <li> To notify you of a  material change to this privacy policy or our other relevant terms. </li>            </ul>            <p>(B) Non-Personally  Identifiable Information </p>            <p>Non-personally  identifiable information is used as described above and in other ways as  permitted by applicable laws, including combining non-personally identifiable  information with personally identifiable information. </p>            <p></p>            <h2>Sharing  and Disclosure of Information </h2>            <p></p>            <p>(A) Personally  Identifiable Information </p>            <p>To better serve you we  may share or disclose your personally identifiable information in the following  instances: </p>            <ul>                <li> To fulfill your request. For example, if you request one of our  catalogs, we may share your information in order to fulfill your request. In  addition, if you email us a question, we may use your email address to respond  to your question. Also, if you are entering a sweepstakes or contest, we may  use it in order to fulfill the terms of that promotion. This means that we may  share the information for prize fulfillment purposes or with mail carriers. We  also may share your information with the co-sponsor of that promotion. </li>                <li> To affiliates, strategic partners, agents, third party marketers  or other unaffiliated parties who are offering products or services that we  believe may be of interest to you or who require your personally identifiable  information for research, administrative and/or internal business purposes. </li>                <li> To unaffiliated third-party service providers, agents or  independent contractors who help us maintain our Sites and provide other  administrative services to us (including, but not limited to, order processing  and fulfillment, providing customer service, maintaining and analyzing data,  sending customer communications on our behalf, and entry collection, winner  selection and prize fulfillment for contests, sweepstakes and other  promotions). </li>                <li> To complete your purchase. If you choose to make a purchase we  will share your information with unaffiliated third parties that assist us with  order fulfillment and with credit card processing. </li>                <li> To track and analyze non-identifying and aggregate usage and  volume statistical information from our visitors and customers and provide such  information to third parties. </li>                <li> To comply with the law or in the good faith belief that such  action is necessary in order to conform to the requirements of law or comply  with legal process served on us, protect and defend our rights or property,  including our rights and property and our Sites or act in urgent circumstances  to protect the personal safety of our end users. </li>                <li> To third parties as part of any corporate reorganization process  including, but not limited to, mergers, acquisitions, and sales of all or  substantially all of our assets. </li>                <li> To protect against  potential fraud, we may verify with third parties the information collected  from these Sites. In the course of such verification, we may receive personally  identifiable information about you from such services. In particular, if you  use a credit card or debit card to purchase services with us, we may use card  authorization and fraud screening services to verify that your card information  and address matches the information that you supplied to us, and that the card  has not been reported as lost or stolen. </li>            </ul>            <p>Except as described in  this Privacy Policy or at the time we request the information, we do not  otherwise use, share or otherwise disclose your personally identifiable  information to any third parties. </p>            <p>(B) Non-Personally  Identifiable Information </p>            <p>We use non-personally  identifiable information collected on the Sites in the manner disclosed above.  We may share this non-personal information with third parties. </p>            <p></p>            <h2>Minors </h2>            <p></p>            <p>Protecting the privacy  of children is extremely important to Z Gallerie. Our Sites are directed toward  a general audience and are not directed at nor intended for use by children. We  do not knowingly collect or intend to collect personally identifiable  information from anyone who is under the age of 13. If you are under the age of  13, you should not provide personal information to anyone. We encourage parents  and legal guardians to monitor their children's Internet usage and to help  enforce our Privacy Policy by instructing their children never to provide  personally identifiable information through our Sites. If you have reason to  believe a child under the age of 13 has provided personally identifiable  information to us, please contact us and we will delete their information from  our databases. </p>            <p></p>            <h2>International  Transfer of Information </h2>            <p></p>            <p>If you choose to  provide us with personally identifiable information, we may transfer that information  to affiliates and subsidiaries or to other third parties, across borders, and  from your country or jurisdiction to other countries or jurisdictions around  the world. If you are visiting from the European Union or other regions with  laws governing data collection and use that may differ from United States law,  please note that you are transferring your personally identifiable information  to the US which does not have the same data protection laws as the EU and by  providing your personally identifiable information you consent to: </p>            <ul>                <li> the use of your personally identifiable information as identified  above in accordance with this Privacy Policy; and </li>                <li> the  transfer of your personally identifiable information to the United States as  indicated above. </li>            </ul>            <p></p>            <h2>Opt-Out </h2>            <p></p>            <p>We communicate with  our customers and those individuals who subscribe to our services on a regular  basis via email. For example, we may use your email address to confirm your  request, to send you notice of payments, to send you information about changes  to our products and services, and to send notices and other disclosures as  required by law. Generally, users cannot opt-out of these communications, but  they will be primarily informational in nature rather than promotional. <br>            However, we provide  you the opportunity to exercise an opt-out choice if you do not want to receive  other types of communication from us, such as emails or updates from us  regarding new services and products offered on the Sites or if you do not want  us to share your personally identifiable information with third parties. The  opt-out choice may be exercised by ticking or un-ticking the appropriate box if  such checkbox is available at the points where personally identifiable  information is collected or by contacting us. We will process your unsubscribe  as soon as possible, but please be aware that in some circumstances you may  receive a few more messages until the unsubscribe is processed. You also may  opt-out of receiving such emails by clicking on the "unsubscribe" link  within the text of the email. Additionally, we support and adhere to the  guidelines and practices adopted by the Direct Marketing Association's Privacy  Promise to American Consumers. We have agreed to (1) provide customers with  notice of their ability to opt out of information rental, sale, or exchange  with other marketers; (2) honor customers' requests not to share their contact  information with other marketers; and (3) honor customers' requests not to  receive mail, telephone, or other solicitations from Z Gallerie. </p>            <p></p>            <h2>Forums,  Chat Rooms and Other Public Posting Areas </h2>            <p></p>            <p>Please note that any  information you include in a message you post to any chat room, forum or other  public posting area is available to anyone with Internet access. If you don't  want people to know your e-mail address, for example, please don't include it  in any message you post publicly. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS  OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC  POSTING AREAS. </p>            <p></p>            <h2>Third  Party Web Sites </h2>            <p></p>            <p>This statement applies  solely to information collected on our Sites. Our Sites may contain links to  other web sites. We are not responsible for the privacy practices or the  content of these other web sites. </p>            <p></p>            <a name="thirdparty"></a>            <h2>Third  Party Advertisers </h2>            <p></p>            <p>We may use  advertisers, third party ad networks, and other advertising companies, to serve  advertisements on the Sites. Please be advised that such advertising companies  may gather information about your visit to the Sites or other sites (such as  through cookies, web beacons and other technologies) to enable such advertising  companies to market products or services to you, to monitor which ads have been  served to your browser and which webpages you were viewing when such ads were  delivered. If you would like more information about this practice and to know  your choices please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" style="text-decoration: underline;"> http://www.networkadvertising.org/managing/opt_out.asp.</a> PLEASE NOTE THAT THIS  POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING  COMPANIES. </p>            <p></p>            <h2>Online  Tracking </h2>            <p></p>            <p>We do not support Do  Not Track browser settings and do not currently participate in any "Do Not  Track" frameworks that would allow us to respond to signals or other  mechanisms from you regarding the collection of your personally identifiable  information or non-personally identifiable information. </p>            <p></p>            <h2>Passwords </h2>            <br>            Your  account information and access to certain areas of our Sites are sometimes  accessible only through the use of an individual user ID and password. To  protect your confidentiality, you must keep your password confidential and not  disclose it to any other person. Please advise us immediately if you believe  the confidentiality of your password has been compromised or your password has  been misused. In addition, always log out and close your browser when you  finish your session. Please note we will never ask you to disclose your  password in an unsolicited phone call or email.            <p></p>            <p></p>            <h2>Accessing  Your Personally Identifiable Information and Privacy Preferences </h2>            <p></p>            <p>We provide you with an  opportunity to access your personal information to ensure it is correct,  accurate and current. You may update your information by accessing your  account, if you have an account with us. Alternatively, you may contact our  customer service representatives at (800) 908-6748 or <a href="mailto:customerservice@zgallerie.com" style="text-decoration: underline;">customerservice@zgallerie.com</a></p>            <p></p>            <h2>Assignment </h2>            <p></p>            <p>In the event that all  or part of our assets are sold or acquired by another party, or in the event of  a merger, you grant us the right to assign the personally identifiable and  non-personally identifiable information collected via our Sites. </p>            <p></p>            <h2>Changes  to this Privacy Policy </h2>            <p></p>            <p>We reserve the right  to change this privacy policy from time to time. When we do, we will also  revise the "last updated" date at the bottom of this privacy policy.  For changes to this privacy policy that may be materially less restrictive on  our use or disclosure of personally identifiable information you have provided  to us, we will attempt to obtain your consent before implementing the change by  sending a notice to the primary email address specified in your account or by  placing a prominent notice on our Sites. </p>            <p></p>            <h2>Security </h2>            <p></p>            <p>We consider the  confidentiality and security of your information to be paramount. We use  physical, technical and administrative security measures to keep your  personally identifiable information secure and confidential and will not  provide it to third parties except as required by law or as otherwise provided  in our Privacy Policy. All orders are transmitted over secure Internet  connections using SSL (Secure Sockets Layer) encryption technology. All of your  personally identifiable information, including your credit card information and  sign-in password, are stored in an unreadable, encrypted format at all times.  Our Sites and--more importantly--all user information are further protected by  a multi-layer firewall based security system. However, the Internet is not a  secure environment, and we cannot 100% guarantee the security of your personal  information; there is some risk that an unauthorized third party may find a way  to circumvent our security measures or that information transmitted over the  Internet may be intercepted. Protecting the security of your login information  is your responsibility. Additionally, email and other communication channels  may not be encrypted. <br>            If we learn of a  security systems breach we may attempt to notify you electronically so that you  can take appropriate protective steps. By using these Sites or providing  personally identifiable information to us you agree that we can communicate  with you electronically regarding security, privacy and administrative issues  relating to your use of these Sites. We may post a notice on our Sites if a  security breach occurs. We may also send an email to you at the email address  you have provided to us in these circumstances. Depending on where you live,  you may have a legal right to receive notice of a security breach in writing. </p>            <p></p>            <h2>YOUR  CALIFORNIA PRIVACY RIGHTS </h2>            <p></p>            <p>California Civil Code  Section 1798.83 permits our visitors who are California residents to request  certain information regarding our disclosure of personally identifiable  information to third parties for their direct marketing purposes. To make such  a request, please contact us at <a href="mailto:customerservice@zgallerie.com" style="text-decoration: underline;">customerservice@zgallerie.com</a>. </p>            <p>If you have any  questions about this Privacy Policy or our privacy practices, please contact  us. All information you provide in any written communication will also be  covered by this policy. </p>            <p>Customer Service Z  Gallerie 1855 West 139th Street Gardena, CA 90249 800.908.6748 <a href="mailto:customerrelations@zgallerie.com">customerrelations@zgallerie.com</a></p>            <p style="text-align: justify;">&nbsp;</p>            <p></p>            </td>        </tr>    </tbody></table></div>
+    
+</div>
+
+        <!-- CONTENTS END -->
+        
+        <!--</div>-->
+        <!--Giri-->
+        <!--Body Container ends here-->
+    </div>
+    <!--main container ends here-->
+    <!--footer starts here-->
+    
+<style type="text/css">
+    #MaskBackGround
+    {
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 9000;
+        display: none;
+        width: 100%;
+        height: 100%;
+        opacity: .80;
+        background-color: inherit;
+    }
+    #SubmitEmail .SubmitEmailWindow
+    {
+        position: fixed;
+        left: 0;
+        top: 25% !important;
+        width: 430px;
+        height: 220px;
+        display: none;
+        z-index: 9999;
+        border: 1px #CCCCCC solid;
+        background-color: White;
+    }
+    .LightboxPopup
+    {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 9999;
+        display: none;
+        background-image: url(images/PopBG50.png);
+        text-align: center;
+        vertical-align: middle;
+    }
+</style>
+
+<script language="javascript" type="text/javascript">
+
+    function ShowSubmitEmailPopup(footerEmailid) {
+        $("#ifSubmitEmail").attr('src', '');
+        var maskHeight = $(document).height();
+        var maskWidth = $(window).width();
+        $('#MaskBackGround').css({ 'width': maskWidth, 'height': maskHeight });
+        $('#MaskBackGround').fadeIn(100);
+        $('#MaskBackGround').fadeTo("slow", 0.8);
+        document.getElementById("DivLightboxPopup").style.display = "block";
+        
+        
+        var winH = $(window).height();
+        var winW = $(window).width();
+        //$("#SubmitEmailDialog").css('top', winH / 2- $("#SubmitEmailDialog").height() / 2);
+
+        if ((navigator.userAgent.match(/iPhone/i)) ||
+            (navigator.userAgent.match(/iPod/i))
+          || (navigator.userAgent.indexOf('iPad') != -1)) {
+            var settop = parseInt($('#txtFooterEmail').offset().top - 400);
+            $("#SubmitEmailDialog").css('top', settop + "px");
+        }
+        else {
+            $("#SubmitEmailDialog").css('top', '30%');
+        }
+
+        $("#SubmitEmailDialog").css('left', winW / 2 - $("#SubmitEmailDialog").width() / 2);
+        $("#SubmitEmailDialog").fadeIn(100);
+
+
+
+        var href = $(location).attr('href').substring(0, $(location).attr('href').lastIndexOf("/") + 1);
+        var Page = "SignupEmail.aspx?subscribeterm=" + footerEmailid;
+        //var Page = "NewsLetter_Confirm.aspx";
+        //var Page = "NewsLetter_preferences.aspx";
+        // var Page="newsletterthankyou.aspx";
+        Page = href + Page;
+        $("#ifSubmitEmail").attr('src', Page);
+        if ($.browser.mozilla) {
+            window.frames["ifSubmitEmail"].location.reload();
+        }
+        if ($.browser.msie) { }
+        if ($.browser.safari) { }
+        //IBMCoremetrics Phase II KIRAN START
+        //cmCreateConversionEventTag("EmailSignup", "1", "Newletter", "1", "'" + footerEmailid + "'");
+        dataLayer.push({ "event": "EmailSignup", "Email": footerEmailid });
+        //IBMCoremetrics Phase II KIRAN END
+        return false;
+    }
+    function closeLightboxPopup() {
+        $('.LightboxPopup').hide();
+    }
+                                                        
+</script>
+
+<div id="DivLightboxPopup" class="LightboxPopup" style="float: left;" onclick="closeLightboxPopup()">
+    <div id="SubmitEmail">
+        <div id="SubmitEmailDialog" class="SubmitEmailWindow">
+            <div style="width: 100%; height: 45px;">
+                <div style="width: 12px; margin-top: 11px; margin-left: 14px; margin-right: 9px;
+                    float: left;">
+                    </div>
+                <div style="float: left; margin-top: 5px; color: #000000; text-align: center; font-size: 23px;
+                    font-weight: bold; width: 80%">
+                    <div id="Signuptext">
+                        Thank You</div>
+                </div>
+                <div style="float: right; margin-top: 5px; margin-right: 5px;">
+                    <img class="SubmitEmailClose" id="SubmitEmailClose" src="//images.zgallerie.com/is/image/ZGallerie/button_close?$siteimage$" style="cursor: pointer;">
+                </div>
+            </div>
+            <div id="divSubmitEmail" style="width: 100%; border-top: 1px solid #CCCCCC; padding-top: 7px">
+                <iframe id="ifSubmitEmail" style="width: 425px; height: 160px;" frameborder="0" scrolling="no">
+                </iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div id="MaskBackGround">
+        <div style="position: relative; width: 100%; height: 100%" onclick="javascript:CloseMaskBackGround('SubmitEmailWindow');">
+        </div>
+    </div>
+    
+    
+<div id="footer">
+    <div class="social_media">
+        <div class="container">
+            
+            <div class="social_media_icons">
+                <a shape="rect" href="https://plus.google.com/111444114985630750796" rel="publisher" target="_blank">
+                    <img src="App_Themes/Skin_1/images/google_plus.png" alt="Google +"></a><a href="https://www.facebook.com/ZGallerie" target="_blank"><img src="App_Themes/Skin_1/images/facebook.png" alt="Facebook"></a><a shape="rect" href="http://twitter.com/zgallerie" target="_blank"><img src="App_Themes/Skin_1/images/twitter.png" alt="Twitter"></a>
+                            
+                            <a shape="rect" href="http://www.houzz.com/pro/zgallerie/" target="_blank"><img src="App_Themes/Skin_1/images/houzz.png" alt="houzz"></a>
+                            <a shape="rect" href="https://pinterest.com/zgallerie/" target="_blank"><img src="App_Themes/Skin_1/images/pinterest.png" alt="Pinterest"></a>
+                            <a href="http://instagram.com/zgallerie#" target="_blank"><img src="App_Themes/Skin_1/images/instagram.png" alt="Instagram"></a></div>
+        </div>
+    </div>
+    <!--footer nav starts here-->
+    <div class="container">
+        <div class="footer_links">
+            <ul>
+                <li>Z Gallerie
+                    <ul>
+                        <li><a href="t-about.aspx">About Us</a></li>
+                        <li><a href="t-careers.aspx">Careers</a></li>
+                        <li><a href="t-tothetrade.aspx" "="">Designer Trade Program</a></li>
+                        <li><a shape="rect" href="t-donation.aspx">In the Community</a></li>
+                        <li><a href="t-vendor-information.aspx">Vendor Information</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul>
+                <li>Shopping Info
+                    <ul>
+                        <li><a href="storelocations.aspx">Stores</a></li>
+                         <li><a href="javascript:return false;" onclick="javascript:LoadTopic('freeshiptostore.popup','386','601','1')">Free Ship to Stores</a></li>
+                       <li><a href="t-zgalleriecard.aspx">Z Gallerie Card</a></li>
+                        <li><a href="t-giftcard.aspx">Gift Cards</a></li>
+                        <li><a href="t-registry.aspx">Gift Registry</a></li>
+                        <li><a href="t-giftservices.aspx">Gift Services</a></li>
+                        <li><a href="sitemap2.aspx">Sitemap</a></li>
+                        <li><a href="RESLogin.aspx">Customer Reservations</a> </li>
+                    </ul>
+                </li>
+            </ul>
+            <ul>
+                <li>Customer Service
+                    <ul>
+                        <li><a href="t-shipping-handling.aspx">Shipping / Delivery</a></li>
+                        
+                        <li><a href="t-returns.aspx">Returns / Exchanges</a></li>
+                        
+                        <li><a href="#" onclick="javascript:window.open('furniturepolicy.aspx','newWin','width=550,height=600,location=no,menubar=no,scrollbars=yes,status=yes,toolbar=no,resizable=yes,screenx=20,screeny=20,left=20,top=20');">
+                            Furniture Policy</a></li>
+                        <li><a href="#" onclick="javascript:window.open('/images/pdfs/measuringfordelivery.pdf','newWin','width=550,height=600,location=no,menubar=no,scrollbars=yes,status=yes,toolbar=no,resizable=yes,screenx=20,screeny=20,left=20,top=20');">
+                            Measuring Furniture</a></li>
+                        <li><a href="t-shipping-handling.aspx#shipping06">International Shipping </a></li>
+                        <li><a href="t-safety-recalls.aspx">Safety Recalls</a></li>
+                        <li><a href="t-faq.aspx">General FAQs</a></li>
+                        <li><a href="OrderTracking.aspx">Order Tracking</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul>
+                <li>Connect With Us
+                    <ul>
+                        <li><a href="t-customer-service.aspx">800.908.6748</a></li>
+                        <li><a href="t-customer-service.aspx">Contact Us</a></li>
+                        <li><a href="t-catalog.aspx">Catalog</a></li>
+                        <li><a href="t-catalogsignup.aspx">Request a Catalog</a></li>
+                    </ul>
+                </li>
+            </ul>            
+            <!--MXL-Meraj 03-NOV-2014 Added [WEB-4919]/[WEB-4918] Footer Change -->
+            <div class="copyright_txt" style="margin-top:19px;">
+            <!--MXL-JAYP 09/01/2014 Copywrite year Change-->
+                 <a style="color:#000000 !important" href="t-privacy-terms.aspx" shape="rect">Privacy &amp; Terms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                  <!--MXL-JAYP 30-10-2014 Added Ad Choices Link-->
+                 <a style="color:#000000 !important" href="t-privacy-terms.aspx#thirdparty" shape="rect">Ad Choices</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                 <a style="color:#000000 !important" href="https://www.mcafeesecure.com/RatingVerify?ref=www.zgallerie.com" shape="rect">Security</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                 <a style="color:#000000 !important" href="t-CA-transparency-act.aspx">California Transparency in Supply Chains Act</a>
+                 <div style="color:#000000;margin-top:-10px;">© 2014 Z Gallerie, LLC, All Rights Reserved</div> 
+            </div>
+            <div class="mcafee_logo">
+<!-- McAfee Secure Trustmark for www.zgallerie.com -->
+<a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.zgallerie.com"><img class="mfes-trustmark" border="0" src="//cdn.ywxi.net/meter/www.zgallerie.com/101.gif" width="91" height="40" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- End McAfee Secure Trustmark -->
+<input name="ctl00$footerbox$hdnli" type="hidden" id="ctl00_footerbox_hdnli" value="1">
+            </div>            
+           
+        </div>
+        <div class="email_updates">
+            <p>
+                Sign Up for Email Updates</p>
+            <ul>
+                <li>Enter to win a $250 gift card.</li>
+                <li>Be the first to hear about new products,<br>
+                    design tips, special events and sales.</li>
+            </ul>
+            <div class="search1">
+                <input name="textfield2" type="text" id="txtFooterEmail" value="Enter Email Address" onfocus="if(this.value=='Enter Email Address')value=''" onblur="if(this.value=='')value='Enter Email Address'">
+                <a href="javascript:void(0)" onclick="javascript:return SubmitEmail(); return false;">
+                    <img src="images/email_arrow.png" alt="Search"></a>
+            </div>
+            <a href="t-updateemailpreferences.aspx">
+                Update Email Preferences</a>
+            <br>
+            <span id="ErrorEmailMessage" style="color: #ff0000;"></span>
+        </div>
+        <!--footer nav ends here-->
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#txtFooterEmail").keypress(function(e) {
+            if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
+                SubmitEmail();
+            }
+        });
+    });
+</script>
+
+   
+  <!--Footer Ligbtbox General Popup-->         
+     <div id="dd1" style="display:none">
+            <div id="dd2">
+            <div style="float:left;margin-top:0px;">
+            </div>
+             <div id="dd3" style="float:right;">
+                <img src="//images.zgallerie.com/is/image/ZGallerie/button_close?$siteimage$" alt="X"><br>
+                
+            </div>           
+            <div>           
+                <div id="Div3" class="csGuestAddressHeader">
+                    <div id="ctl00_footerbox_dvUserControl">                     
+                       <iframe id="ctl00_footerbox_ifrmTopic" height="100%" width="100%" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                </div>
+            </div>
+            </div>           
+</div>
+<script src="../jscripts/lightboxpopup.js" type="text/javascript" language="javascript"></script>
+<script language="javascript" type="text/javascript">
+    function LoadTopic(topic, height, width, close) {
+        var ifrm = $('iframe[id*="ifrmTopic"]');
+        ifrm.attr("src",  "showTopic.aspx?Topic=" + topic).attr("height",height).attr("width",width);
+        ShowDynamicPopup('dd1', 'dd2', 'dd3', height, width, close);
+        return false;
+    }
+</script>
+    
+    <!--footer ends here-->
+    
+<!--MXL Eswar COR 2-->
+
+
+    
+        <input type="hidden" name="ctl00$pcContentHolder$OneTimePopupDesc" id="ctl00_pcContentHolder_OneTimePopupDesc" value="anewsletter">
+        <input type="hidden" name="ctl00$pcContentHolder$OneTimePopupExpire" id="ctl00_pcContentHolder_OneTimePopupExpire" value="3650">
+    	 
+        
+       
+    
+      
+    
+
+<script type="text/javascript">
+//<![CDATA[
+    var fMnc = function() {
+        var minCart = $create(aspdnsf.Controls.MinicartControl, null, null, null, $get('ctl00_ctl10_pnlMiniCart'));
+        minCart.setRefreshDelegate( function(){ __doPostBack('ctl00$ctl10$lnkRefresh','') } );
+        minCart.setExtender( 'ctl00_ctl10_extCollapseMinicart' );
+        aspdnsf.Controls.Minicart.setInstance(minCart);
+        Sys.Application.remove_load(fMnc);
+    }
+    Sys.Application.add_load(fMnc);
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.CollapsiblePanelBehavior, {"ClientStateFieldID":"ctl00_ctl10_extCollapseMinicart_ClientState","CollapseControlID":"ctl00_ctl10_lnkViewMiniCart","Collapsed":true,"CollapsedText":"Shopping Cart","ExpandControlID":"ctl00_ctl10_lnkViewMiniCart","ExpandedText":"Shopping Cart","SuppressPostBack":true,"TextLabelID":"btnViewMiniCart","id":"ctl00_ctl10_extCollapseMinicart"}, null, null, $get("ctl00_ctl10_pnlMinicartControl"));
+});
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMTQ2MDgxODAPZBYCZg9kFgQCAw8WAh4EVGV4dAVLDQo8c2NyaXB0Pg0KdmFyIGRhdGFMYXllcj1bXTsNCmRhdGFMYXllci5wdXNoKHsnVXNlcklEJzonMCd9KTsNCjwvc2NyaXB0Pg0KZAIHD2QWBAIBD2QWAmYPZBYCAgIPZBYCZg9kFgJmD2QWBgIDDxYCHwAFITxhIGhyZWY9J3NpZ25pbi5hc3B4Jz5TaWduIEluPC9hPmQCBQ8PFgIfAAUNVmlldyBDYXJ0ICgwKWRkAgcPZBYCAg8PZBYEAgEPDxYCHgtEaXNwbGF5TW9kZQspf0FzcERvdE5ldFN0b3JlZnJvbnRDb250cm9scy5DYXJ0RGlzcGxheU1vZGUsIEFzcERvdE5ldFN0b3JlZnJvbnRDb250cm9scywgVmVyc2lvbj05LjAuMS4zLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEZGQCAw8PZBYCHgVzdHlsZQUMZGlzcGxheTpub25lZAIEDxYCHwAFEVByaXZhY3kgYW5kIFRlcm1zZGQKvJ0omXzez6nXodyVnD4SjviV/Q==">
+</form>
+
+    <script src="jscripts/refinements.js" type="text/javascript"></script>
+<style type="text/css">
+    #backgroundPopup{
+	display:none;
+	position:fixed;
+	_position:absolute; /* hack for internet explorer 6*/
+	height:100%;
+	width:100%;
+	top:0;
+	left:0;
+     background-image: url(images/PopBG50.png);
+	z-index:1001;
+}
+#popupContact{
+	display:none;
+	position:fixed;
+	_position:absolute;  /*hack for internet explorer 6*/
+	height:500px;/*height:470px;MXL-JAYP FOR EMAIL SIGNUP ADDED ON 20-OCT-2014*/
+	width:600px;
+	background:#FFFFFF;
+	 /*border:4px solid #ddd;  padding:8px; */
+	z-index:1002;
+	
+}
+
+#popupContactClose
+{
+	/*WEB-4163 ONETIMEPOPUP ISSUE FIX, http URL changed to images.zg.com BY JAYP ON 10-SEP-2014*/
+	background:url(//images.zgallerie.com/is/image/ZGallerie/button_close?$siteimage$) no-repeat;
+	width:16px;
+	height:16px;
+	display:inline;
+	z-index:3200;
+	position:absolute;
+	top:10px;
+	right:10px;
+	cursor:pointer;
+	text-indent: -99999px;
+}
+</style>
+       <iframe id="ifrmRequestCatalog" width="0px" height="0px" frameborder="0" scrolling="no"></iframe>
+
+
+ <!--div for onetime popup added by jayp on 05/14/2013-->
+              <div id="backgroundPopup">
+                <div id="popupContact" onclick="cancelBubble(event);">
+                  <div id="popupContactClose">x</div>
+                  <div style="width: 600px; height: 470px; float: left;"><div style="width: 100%; float: left;"><img alt="" src="//images.zgallerie.com/is/image/ZGallerie/siteimage/-emailSignup_20141028.jpg"></div><div style="width: 238px; float: left; margin-top: 20px; position: absolute; top: 340px; left: 355px; height: 31px; text-align: center;"><input type="text" value="enter your email" onfocus="javascript:WatermarkFocus(this,'enter your email');" class="FooterEmaintxtBox" name="txtPopupEmail" id="txtPopupEmail" style="height: 23px; padding: 0px 0px 0px 3px; color: rgb(0, 0, 0); vertical-align: top; line-height: 23px; border: 1px solid rgb(204, 204, 204); width: 150px !important;" onblur="javascript:WatermarkBlur(this,'enter your email');">  <input type="button" id="OneTimeSingup" value="Signup" onclick="javascript:return SubmitPopupEmail();" class="csSearchButton" style="width: 60px; height: 25px; font-size: 12px; margin-left: 1px;">  </div><div style="width: 239px; float: left; margin-top: 2px; position: absolute; left: 355px; top: 394px; height: 41px; text-align: left;"><p style="margin: 3px 0px 0px; text-align: center;">  <span id="ErrorPopupEmailMessage" style="color: rgb(255, 0, 0);"></span></p></div></div><input type="hidden" name="homepage.popup1" value="homepage.popup1">
+                </div>
+              </div>
+              <!--end div for onetime popup added by jayp on 05/14/2013-->
+    <div id="popupliteral2" style="display:none">
+          
+        <form id="myform" name="myform" action="SignupEmail2.aspx" method="post">
+            <div class="fullscreen">
+            <div style="font-size: 14px; padding: 15px; margin: 15px;">
+            <div id="popupContactClose" onclick="closeEmailPopup();">x</div>
+            <div style="font-size: 18px; font-weight: bold;">            Thank you for signing up            <hr>
+            <div style="padding-bottom: 20px; font-size: 14px; font-weight: normal;">Thank you for joining our email list. Please read our <a xt="SPCLICK" name="Privacy Policy" target="_blank" style="text-decoration: underline;" href="/t-privacy-terms.aspx">Privacy Policy</a>.            </div>
+            </div>
+            <div>
+            <div>
+            <div style="font-size: 18px; font-weight: bold;">Request a Catalog</div>
+            <div>            <hr>
+            </div>
+            <div style="color: red;" id="CatalogErrorMessage"></div>
+            <input type="hidden" value="receiveacatalog" name="receiveacatalog">
+            <div style="font-size: 12px;">
+            <table width="100%" border="0">
+                <tbody>
+                    <tr>
+                        <td valign="top" style="width: 60%;">
+                        <table width="100%" border="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td>First Name<span style="color: red;">*</span></td>
+                                    <td>Last Name<span style="color: red;">*</span></td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 25%;"><input type="text" label="First Name" maxlength="15" style="width: 140px; height: 20px;" name="FirstName"></td>
+                                    <td><input type="text" label="Last Name" maxlength="20" style="width: 140px; height: 20px;" name="LastName">                                    <input type="hidden" name="Email" value="{{email}}">                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">Address<span style="color: red;">*</span></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><input type="text" maxlength="30" label="Mail Address" style="width: 288px; height: 20px;" name="address1"></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">Apartment / Suite / Other</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><input type="text" maxlength="30" label="Mail Address2" style="width: 288px; height: 20px;" name="address2"></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">City<span style="color: red;">*</span></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><input type="text" label="City Name" maxlength="20" style="width: 288px; height: 20px;" name="City"></td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 25%;">State<span style="color: red;">*</span></td>
+                                    <td>Zip Code<span style="color: red;">*</span></td>
+                                </tr>
+                                <tr>
+                                    <td><select label="State Name" name="State" class="csAddState" style="width: 145px; height: 20px;">
+                                    <option selected="selected">Please Select</option>
+                                    <option value="AL">Alabama</option>
+                                    <option value="AK">Alaska</option>
+                                    <option value="AZ">Arizona</option>
+                                    <option value="AR">Arkansas</option>
+                                    <option value="CA">California</option>
+                                    <option value="CO">Colorado</option>
+                                    <option value="CT">Connecticut</option>
+                                    <option value="DE">Delaware</option>
+                                    <option value="DC">District of Columbia</option>
+                                    <option value="FL">Florida</option>
+                                    <option value="GA">Georgia</option>
+                                    <option value="HI">Hawaii</option>
+                                    <option value="ID">Idaho</option>
+                                    <option value="IL">Illinois</option>
+                                    <option value="IN">Indiana</option>
+                                    <option value="IA">Iowa</option>
+                                    <option value="KS">Kansas</option>
+                                    <option value="KY">Kentucky</option>
+                                    <option value="LA">Louisiana</option>
+                                    <option value="ME">Maine</option>
+                                    <option value="MD">Maryland</option>
+                                    <option value="MA">Massachusetts</option>
+                                    <option value="MI">Michigan</option>
+                                    <option value="MN">Minnesota</option>
+                                    <option value="MS">Mississippi</option>
+                                    <option value="MO">Missouri</option>
+                                    <option value="MT">Montana</option>
+                                    <option value="NE">Nebraska</option>
+                                    <option value="NV">Nevada</option>
+                                    <option value="NH">New Hampshire</option>
+                                    <option value="NJ">New Jersey</option>
+                                    <option value="NM">New Mexico</option>
+                                    <option value="NY">New York</option>
+                                    <option value="NC">North Carolina</option>
+                                    <option value="ND">North Dakota</option>
+                                    <option value="OH">Ohio</option>
+                                    <option value="OK">Oklahoma</option>
+                                    <option value="OR">Oregon</option>
+                                    <option value="PA">Pennsylvania</option>
+                                    <option value="RI">Rhode Island</option>
+                                    <option value="SC">South Carolina</option>
+                                    <option value="SD">South Dakota</option>
+                                    <option value="TN">Tennessee</option>
+                                    <option value="TX">Texas</option>
+                                    <option value="UT">Utah</option>
+                                    <option value="VT">Vermont</option>
+                                    <option value="VA">Virginia</option>
+                                    <option value="WA">Washington</option>
+                                    <option value="WV">West Virginia</option>
+                                    <option value="WI">Wisconsin</option>
+                                    <option value="WY">Wyoming</option>
+                                    <option value="AA">AA (Armed Forces Americas)</option>
+                                    <option value="AE">AE (Armed Forces Europe)</option>
+                                    <option value="AP">AP (Armed Forces Pacific)</option>
+                                    </select></td>
+                                    <td><input type="text" label="Zip" maxlength="5" style="width: 140px; height: 20px;" name="ZipCode"></td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><input type="button" onclick="javascript:CatalogSignup()" name="Submit" class="GeneralButton" value="Submit"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                        <td valign="top" align="center" style="width: 40%;"><img alt="" src="//images.zgallerie.com/is/image/ZGallerie/emailSignup_catalog?$siteimage$"></td>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </form>
+    
+        </div>
+        <div id="popupliteral3" style="display:none">
+          <div class="fullscreen">
+            <div style="font-size: 14px; padding: 15px; margin: 15px;">
+<div onclick="closeEmailPopup();" id="popupContactClose" style="display: none;">x</div>
+<div>
+<div style="font-size: 18px; font-weight: bold;">            Thank you
+  <hr>
+            <div style="padding-top: 10px; font-size: 14px; font-weight: normal;">Thank you for requesting a Z Gallerie catalog. You will receive our next catalog.&nbsp;<br>
+Until then, you can <a style="text-decoration: underline;" href="http://www.zgallerie.com/">shop online</a> or view our <a style="text-decoration: underline;" href="http://www.zgallerie.com/t-fw14-entertaining.aspx">catalog online</a>.</div>
+            </div>
+<br>
+<br>
+<br>
+<br>
+</div>
+</div>
+</div>
+        </div>
+
+
+</body></html>
