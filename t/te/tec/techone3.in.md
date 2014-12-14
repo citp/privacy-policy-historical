@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techone3.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175854id_/http%3A//techone3.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techone3.in privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214100646id_/http%3A//techone3.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TechOne3
+# Privacy Policy | Latest Tech News, Rumours, Reviews, Tutorials and Analysis
 
 This Privacy Policy governs the manner in which TechOne3 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [TechOne3.in](http://www.generateprivacypolicy.com/account/policies/edit/TechOne3.in) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechOne3.
 
