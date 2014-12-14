@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235110id_/http%3A//www.charitynavigator.org/index.cfm%3Fbay%3Dcontent.view%26cpid%3D1722) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214110503id_/http%3A//www.charitynavigator.org/index.cfm%3Fbay%3Dcontent.view%26cpid%3D1722) for the most accurate reproduction.*
 
 # Privacy : Charity Navigator
 
@@ -41,15 +41,22 @@ By visiting Charity Navigator and/or using our Services, you agree to the terms 
 **_The Information We Collect_**  
 Charity Navigator collects the following types of information, both directly from you and indirectly through the collection of information by third-party service providers and advertising partners (together, “Partners”).
 
-  
-1.         _Personal Information_  
-For purposes of this Privacy Policy, “ _Personal Information_ ” means any information or set of information that identifies or could be used by or on behalf of Charity Navigator, or any of our Partners to identify a natural person.  Personal Information does not include information regarding corporate entities or information that is encoded, aggregated, anonymized, or publicly available information that has not been combined with non-public Personal Information.  
+1.        
+
+_Personal Information_
+
+For purposes of this Privacy Policy, “
+
+ _Personal Information_
+
+” means any information or set of information that identifies or could be used by or on behalf of Charity Navigator, or any of our Partners to identify a natural person.  Personal Information does not include information regarding corporate entities or information that is encoded, aggregated, anonymized, or publicly available information that has not been combined with non-public Personal Information.
+
 Examples of different purposes for which we may collect Personal Information include, but are not limited to: 
 
   * The registration process for Registered Users;
-  * Donations made to the Network for Good
+  * Donations made to the Network for Good;
   * Job applications; and
-  * Voluntarily submissions    Charity Navigator requesting information about our products and services, signing up to receive information from us, or sending us an e-mail.
+  * Voluntarily submissions to Charity Navigator requesting information about our products and services, signing up to receive information from us, or sending us an e-mail.
 
 
 
@@ -75,10 +82,9 @@ _From Cookies, JavaScript Tags_
 
 .  Information that we or Partners automatically collect using technical methods, including but not limited to ”cookies”, JavaScript tags, web beacons, pixel gifs, Flash cookies, and other locally stored objects.  Cookies are small packets of data that a website stores on your computer’s hard drive so that your computer will “remember” information about your visit.  We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to enhance your experience using Charity Navigator and to allow us and our Partners to collect Non-Personal Information.   You may be able to disable cookies and/or other locally stored cookies by disabling them in your browser or on your device. Please consult your Internet browser’s documentation for information on how to do this and how to delete persistent cookies.  However, if you decide not to accept cookies from us, Charity Navigator may not function properly.  We use JavaScript tags to trigger a sequence of events that includes viewing a first-party cookie (or setting that cookie if it does not already exist) and to help us tailor and optimize Charity Navigator and provide you relevant with advertisements from our Partners.
 
-Do Not Track (“DNT”).  Charity Navigator assumes no responsibility for responding to “Do Not Track” web browser signals.    Consult external website polices regarding their responses to DNT signals. 
+Do Not Track (“DNT”).  Charity Navigator assumes no responsibility for responding to “Do Not Track” web browser signals. Consult external website polices regarding their responses to DNT signals. 
 
-**Advertising Partners**
-
+**Advertising Partners**  
 Charity Navigator has entered into agreements with certain Partners to deliver relevant, user-target, non-intrusive advertising to help fund the cost of maintain Charity Navigator’s operations.  These Partners do not have access to any Personal Information and only access Non-Personal Information.  These Partners have their own policies that should be reviewed in connection with your use of Charity Navigator.  Partners include, but are not limited to:
 
 Google Analytics.  Charity Navigator uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The Non-Personal Information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States.  Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
@@ -98,10 +104,10 @@ We may share Other Information about your activity on the Platform with third pa
 We use the Personal Information and the Other Information to provide you the Services, process your donations, solicit your feedback, inform you about our products and services and those of our third-party marketing partners, to administer our rewards and promotional programs, and to improve our Services to you.        
 We may also use and/or share the Personal Information, the Other Information, and the User Content as described below.  
 
-  * All of your User Content on the will be publicly viewable and shareable by other users both within and outside the
-  * We may from time to time share Charity Representative Users’  (“ _Charity Representative User” is the charity’s designated_  official representative to manage its Charity Navigator profile, ) Personal Information and Other Information with other companies who may provide such users information about the products and services they offer.  However, to the extent required by law, such users will be given the opportunity to opt-out of such sharing by contacting us as described in the “How to Contact Us” section below. Please  note that opting out ends that users’ status as charity representative. 
+  * All of your User Content on the Platform will be publicly viewable and shareable by other users both within and outside the Platform.
+  * We may from time to time share Charity Representative Users’  (“ _Charity Representative User” is the charity’s designated_  official representative to manage its Charity Navigator profile, ) Personal Information and Other Information with other companies who may provide such users information about the products and services they offer.  However, to the extent required by law, such users will be given the opportunity to opt-out of such sharing by contacting us as described in the “How to Contact Us” section below. Please note that opting out ends that users’ status as charity representative. 
   * We may employ other companies and individuals to perform functions on our behalf.  Examples may include providing technical assistance and customer service.  These other companies will have access to the Personal Information and the Other Information only as necessary to perform their functions and to the extent permitted by law. 
-  * In an ongoing effort to better understand visitors to our and our products and services, we may analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve our products and services.  This aggregate information does not identify individuals personally.  We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and services to current and prospective business partners and to other third parties for other lawful purposes.
+  * In an ongoing effort to better understand visitors to our site and our products and services, we may analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve our products and services.  This aggregate information does not identify individuals personally.  We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and services to current and prospective business partners and to other third parties for other lawful purposes.
   * We may share some or all of the Personal Information and Other Information with any of our parent companies, subsidiaries, or other companies under common control with us.
   * As we develop our businesses, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Personal Information and Other Information may be part of the transferred assets.
   * To the extent permitted by law, we may also disclose the Personal Information and the Other Information: (i) when required by law, court order, or other government or law enforcement authority or regulatory agency; or (ii) whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights, property, or safety of Charity Navigator or others.    
@@ -134,6 +140,6 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 If you have questions about this Privacy Policy, please contact Charity Navigator via:
 
   * e-mail at [privacy@charitynavigator.org](mailto:privacy@charitynavigator.org?subject=Privacy%20Policy) with “PRIVACY POLICY” in the subject line; or
-  * postal mail to: Privacy Administrator, Charity Navigator, 139 Harristown Road, Suite 201, Glen Rock, NJ 07452. 
+  * postal mail to: Privacy Administrator, Charity Navigator, 139 Harristown Road, Suite 101, Glen Rock, NJ 07452. 
 
 
