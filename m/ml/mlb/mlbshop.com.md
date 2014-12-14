@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521032350id_/http%3A//shop.mlb.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214131749id_/http%3A//shop.mlb.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Help
 
@@ -32,12 +32,13 @@ If we collect such information, in most instances, the applicable page(s) or loc
 
 **2\. How We Use and Share Your Personal Information**
 
-If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information. We will not sell, lease, publish or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and we may: 
+If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information or as permissible under applicable law. We will not sell, lease, publish or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and we may: 
 
   
 
 
   * Use your information to provide services you've requested or provide you with offers, promotions (e.g., a sweepstakes, fantasy game, subscription to goods or services, etc.) or content or add you to our postal mail list; 
+  * Use your information to send you electronic communications, including emails about the league or a club applicable to your interactions with our Website, and about products, services, sponsors, partners and affiliates when you make a purchase, agree to rules or terms, or otherwise engage with our Website, to the extent the sending of such electronic communication is permissible under applicable law; 
   * Share your information with certain third parties, including service providers, sponsors and promotional partners, so they may help us provide services, offers, promotions or content you've requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submit personal information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list;
   * Use and share your information with one or more MLB Clubs or entities, to the extent that you've submitted information or accessed functionality or content that relates specifically to such Club(s) or entities (e.g., you've asked to receive the newsletter of a Club or you've purchased Club-specific merchandise), so they may learn more about fans like you, add you to the Club's postal mail list and provide better services to you; 
   * Share your information upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party;
@@ -181,4 +182,4 @@ If we make an important change to this Privacy Policy, we will post a notificati
 
 
 
-LAST UPDATED AND EFFECTIVE DATE: May 24, 2013
+LAST UPDATED AND EFFECTIVE DATE: June 30, 2014
