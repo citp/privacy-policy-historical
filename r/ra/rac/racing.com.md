@@ -1,174 +1,226 @@
-> *The following text is extracted and transformed from the racing.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125162247id_/http%3A//racing.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racing.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214210315id_/http%3A//www.racing.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | RACING.COM
 
-### DARK BLUE SEA - PRIVACY POLICY
+This Privacy Policy applies to all personal information collected by racing.com Pty Ltd ( **Racing.com** ) in the operation of its website and mobile phone application.  This Privacy Policy will be reviewed regularly, and may be updated from time to time and published on Racing.com’s website - [http://www.racing.com](http://www.racing.com/) ( **Website** ).  Any changes to this Privacy Policy will become effective once published on the Website.
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+**Part A: Accessing the Website  **
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+The Website is the Victorian thoroughbred racing industry’s top level domain and is comprised of the Website and a Racing.com mobile phone application ( **App** ). This Privacy Policy only applies to the personal information collected by Racing.com in its operation of the Website and App.
 
-The Dark Blue Sea group comprises a number of companies that includes:
+The Website contains links to Club, Betting Partner and Affiliate websites (set out in Part G), amongst others.  Please note that these Club, Betting Partner, Affiliate and other websites have their own privacy policies and are not subject to this Privacy Policy.
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+The purpose of this Privacy Policy is to outline:
 
+  * the kind of information that Racing.com may collect about you, how it is collected and how it is held by Racing.com;
+  * the purposes for which Racing.com collects, holds, uses and discloses personal information;
+  * how Racing.com may disclose that information;
+  * how an individual can access the information held about him or her and seek correction of such information (if required);
+  * when Racing.com may use an individual’s information to contact them; and the protection of an individual’s personal information.
 
 
-#### ABOUT THIS PRIVACY POLICY
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+Racing.com will only collect personal information or sensitive information that it reasonably requires in order to carry out its functions and activities.  This Privacy Policy applies to all personal information collected by Racing.com, whether Racing.com has asked for the information or not.
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+Racing.com abides by the Australian Privacy Principles ( **APPs** ) under the Privacy Act 1988 (Cth) ( **Privacy Act** ). Further information in relation to Racing.com’s Privacy Policy can be obtained by contacting Racing.com’s Privacy Officer.
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+**Part B: How to contact us about privacy**
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+Your privacy is very important to us. For that reason, please read the following details carefully and contact the Racing.com Privacy Officer if you have any questions.
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+Racing.com Privacy Officer contact details:
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+**_Complaints_**
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+If you are concerned about a possible interference with your privacy, please contact the Racing.com Privacy Officer and Racing.com will investigate the matter.  Complaints to Racing.com must be made in writing.  If you do not receive a response within 30 days or your concern is not resolved to your satisfaction, you can refer the matter to the Office of the Australian Information Commissioner ( **OAIC** ).
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+Before you can lodge a complaint with the OAIC, you will generally need to complain directly to Racing.com.  Details on how to lodge a complaint with OAIC are set out on the OAIC’s website at <http://www.oaic.gov.au/privacy/making-a-privacy-complaint>.
 
-In order to do this, we share your personal information with our related companies.
+The OAIC can also be contacted on 1300 363 992.
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+For further information in relation to ‘Access to Personal Information and Correction’ please refer to Part F below.
 
-#### HOW WE COLLECT INFORMATION
+**Part C: Racing.com’s Purpose and Collection of Information**
 
-**Personal Information provided to us**
+Racing.com aims to provide a destination for racing fans with anywhere, anytime access to best practice aggregated racing data, information, news and video.
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+Racing.com’s functions and activities include:
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+  * promotion of the thoroughbred racing industry;
+  * targeted promotion of industry related events, promotions, competition and competitions;
+  * provision of information related to the thoroughbred racing industry;
+  * provision of aggregated data, industry related communications and a news service;
+  * digital services subscription;
+  * advertising services; and
+  * hosting competitions and promotions.
 
-**Website activity, cookies and related technology**
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+**_Personal Information_**
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+Personal information is information or an opinion about an identified individual or an individual who is reasonably identifiable, whether true or not, and whether recorded in a material form or not.  Personal information includes information such as:
 
-**IP Addresses**
+  * an individual’s name or address;
+  * an individual’s date of birth; or
+  * information about an individual’s opinions, likes and dislikes.
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+Racing.com will not collect personal information unless collection of such information is reasonably necessary to enable Racing.com to carry out one or more of its functions and/or activities.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+**Solicited Information**
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+Racing.com holds and uses personal information about its customers. Typically this information includes a person's name, email address, mobile number, date of birth, gender, post code or any other required information.
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+This information is needed to maintain Racing.com’s records in a format that identifies the person. These records are held by Racing.com for the purposes of enabling Racing.com to carry out its functions and activities.
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+Information is collected from the individual unless it is unreasonable or impracticable to do so. 
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+Racing.com may collect personal information from an individual in the course of an individual’s visit to the Website or App where that individual inputs personal information, which includes but is not limited to situations, where an individual:
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+  * registers to become a subscriber to Racing.com newsletters and communications; 
+  * enters a competition or participates in a promotion; 
+  * posts comments on the Website or App; or
+  * becomes an advertiser.
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+Please note that comments posted on the Website or App that are therefore published on the Website or App and accessible to the public, may contain your name and be displayed in search results on external world wide web search engines.
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+An individual may have the option of interacting on the Website or App on an anonymous basis.  Please note that Racing.com will place, use and read cookies and action tags from the computers of individuals that access the Website and record information about those computers, devices and browsers, which enables Racing.com to tell when a person uses a Website or the App and also helps customise an individual’s Website or App experience.  If an individual does not wish to receive cookies, it is that individual’s responsibility to set his or her browser to provide that the computer does not accept the cookies.
 
-#### EPP SHARING ARRANGEMENTS
+The purposes for which Racing.com collects personal information include:
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+  * measure and improve the services and features of the Website and App in order to provide the individual with the best service experience possible on the Website or App;
+  * promoting the thoroughbred racing industry;
+  * conducting competitions and promotions; and
+  * providing services related to the thoroughbred racing industry such as circulation of  newsletters and industry related news. 
 
-#### PROTECTING KIDS PRIVACY
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
 
-**Notice to Kids**
+**_Sensitive Information_**
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+  * Sensitive information is a subset of personal information that is generally afforded a higher level of privacy protection. Examples include information about an individual’s:
+  * racial or ethnic origin;
+  * health or medical information;
+  * membership of a political association, professional or trade association or trade union;
+  * criminal record; or
+  * genetic information.
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
 
-**Notice to Parents**
+Racing.com will not collect sensitive information unless the individual has consented to the collection of that information or the collection is required or authorised by law.
 
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+**Part D: How information is held by Racing.com and who has access to it**
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
+Racing.com has commercially reasonable processes in place to ensure the security of an individual’s personal information, including encryption of all data when it is transferred to Racing.com’s service providers and limitations on access to personal information within Racing.com.
 
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
+Only certain Racing.com employees, being those required to have access to personal information so that Racing.com is able to carry out its functions and activities will have access to information held by Racing.com, in order to protect the information from:
 
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
+> (a) misuse, interference and loss; and
 
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
+> (b) unauthorised access, modification or disclosure.
 
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
+Authorised Racing.com employees will require a password to access Racing.com’s database, where the information is held.
 
-#### LINKS TO OTHER WEBSITES
+If Racing.com no longer requires any information for any purpose for which the information may be used or disclosed in accordance with this Privacy Policy, Racing.com will take such steps as are reasonable in the circumstances to destroy the information or to ensure that the information is de-identified.
 
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
+**Part E: Use and Disclosure of Personal Information  **
 
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
+Racing.com may use or disclose personal information for the purpose for which it was collected and for other purposes permitted by the Privacy Act, including where:
 
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+  * the individual has consented; or
+  * the individual would reasonably expect Racing.com to use or disclose the information for that other purpose, in circumstances where it is:  
 
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
+    * (sensitive information) directly related to the purpose for which it was collected; or
+    * (personal information) related to the purpose for which it was collected;
+  * the information is provided to Racing.com’s existing or potential business partners or joint venture entities;
+  * use or disclosure is authorised by law or a court/tribunal order; or
+  * Racing.com reasonably believes that use or disclosure of the information is reasonably necessary for one or more enforcement related activities conducted by, or on behalf of, an enforcement body, as defined in the Privacy Act.
 
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
 
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
 
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
+It is not likely that Racing.com will disclose information to overseas recipients.
 
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
+Racing.com may disclose your personal information to third parties for the following purposes:
 
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
+  * to provide the service you wish to use;
+  * for research purposes relating to the thoroughbred racing industry;
+  * to customise and promote services and events related to the thoroughbred racing industry which may be of interest to you;
+  * if authorised or required by law; 
+  * with your consent; and/or
+  * as otherwise required to enable Racing.com to fulfill it functions and activities as outlined in Part C. 
+  * When personal information is disclosed to third parties, appropriate care is taken to ensure the information is protected from misuse.
 
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
 
-#### PRIVACY COMPLAINTS
 
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
+**_Direct marketing_**
 
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
+Racing.com may disclose personal information (not sensitive information) to third parties for the purposes of direct marketing services related to the thoroughbred racing industry.  An individual will be able to opt-out of direct marketing at any time if he or she chooses, by selecting the unsubscribe or opt out function at the bottom of a communication or in the absence of such a function by notifying the Racing.com Privacy Officer in writing to privacyofficer@racing.com.
 
+Racing.com will not use or disclose personal information about an individual for the purpose of direct marketing, unless:
 
+  * Racing.com collected the information directly from the individual;
+  * the individual would reasonably expect Racing.com to use or disclose the personal information for that purpose; and
+  * the individual has not opted out of receiving direct marketing.
 
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
 
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
 
+**_Disclosure_**
 
+Racing.com may disclose personal information to any third party engaged as service and content providers who may be required to assist in the operation of the Websites. 
 
-#### YOUR ACCEPTANCE OF THESE TERMS
+Racing.com will only disclose personal information to an unrelated third party (being a party not related to the thoroughbred racing industry) with the individual’s consent.
 
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+**_Transfer out of Australia_**
+
+Websites and App: not applicable – both the Website and App are hosted in Australia.
+
+**_Journalism_**
+
+The collection and handling of personal information collected by Racing.com in its role as a media organisation in the course of journalism/provision of the news service, is not covered under this Privacy Policy.  Personal information collected in the course of journalism activities will be handled in accordance with the Australian Press Council’s Privacy Standards.
+
+**Part F: Access to Personal Information and Correction**
+
+A person can access his or her own personal information by contacting the Racing.com Privacy Officer.  The Racing.com Privacy Officer will respond within a reasonable period after the request is made.  In order to access your personal information, you will be required to provide proof of identity.
+
+In some circumstances, a fee may apply.
+
+Racing.com will endeavour to take reasonable steps to ensure that the information it holds is accurate, up to date and complete.  If the information held by Racing.com is inaccurate, incomplete or not up to date, the individual may request that Racing.com correct the information.
+
+There are some circumstances in which Racing.com is entitled to deny a person access to information, in part or full.  These include, amongst others, circumstances where:
+
+  * Racing.com believes that giving access would pose a serious threat to the life, health or safety of any individual, or to public health or public safety;
+  * giving access would have an unreasonable impact on the privacy of other individuals;
+  * the request for access is frivolous or vexatious;
+  * the information relates to existing or anticipated legal proceedings between Racing.com and the individual, and would not be accessible by the process of discovery in those proceedings;
+  * giving access would reveal evaluative information generated within Racing.com in connection with a commercially sensitive decision-making process;
+  * giving access would be likely to prejudice one or more enforcement related activities conducted by, or on behalf of an enforcement body;
+  * giving access would be unlawful (for example, if providing the information would amount to a breach of legal professional privilege or a breach of confidence); or
+  * denying access is required or authorised by or under an Australian law or a court/tribunal order.
+
+
+
+If any request for access to information is to be denied in part or full or not provided in the manner requested by an individual, Racing.com will give the individual a written notice, setting out, amongst others, the reasons for the refusal except to the extent that, having regard to the grounds for the refusal, it would be unreasonable to do so.
+
+**Part G: Club, Betting Partner and Affiliate websites**
+
+The Website contains links to other websites, including the following, which have their own privacy policies.  Users that visit these websites should refer to their separate privacy policies.  As stated above in Part A, only the Website and App is subject to this Privacy Policy. 
+
+**_Clubs (and industry related organisations):_**
+
+Country Racing Victoria - [www.countryracing.com.au](http://www.countryracing.com.au/)   
+Melbourne Racing Club – [www.mrc.racing.com ](http://mrc.racing.com/)  
+Racing Victoria – [www.rv.racing.com ](http://rv.racing.com/)  
+Victoria Racing Club – [www.vrc.net.au   ](http://www.vrc.net.au/)   
+Victoria Owner – [www.owner.racing.com](http://owner.racing.com/)
+
+**_Betting Partner:_**
+
+Tabcorp - [www.tab.com.au/vic](http://www.tab.com.au/vic)
+
+**_Affiliates:_**
+
+RISA - [www.risa.com.au ](http://www.risa.com.au/)  
+RSN - [www.RSN.net.au](http://www.rsn.net.au/)  
+TVN - [www.tvn.com.au](http://www.tvn.com.au/)
