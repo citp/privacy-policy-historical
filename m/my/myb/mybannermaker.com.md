@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybannermaker.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044647id_/http%3A//mybannermaker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybannermaker.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214112526id_/http%3A//mybannermaker.com/privacy.php) for the most accurate reproduction.*
 
 # Banner Maker - Privacy Policy
 
@@ -10,4 +10,4 @@ We use cookies to track your changes to your banner in order to provide services
 
 
 All Content Copyright ©2005-2014. All Rights Reserved.   
-By using this website you agree to the [Terms of Service](https://web.archive.org/web/20140209044647id_/http%3A//mybannermaker.com/terms.php). [Privacy Policy](https://web.archive.org/web/20140209044647id_/http%3A//mybannermaker.com/privacy.php).
+By using this website you agree to the [Terms of Service](https://web.archive.org/web/20141214112526id_/http%3A//mybannermaker.com/terms.php). [Privacy Policy](https://web.archive.org/web/20141214112526id_/http%3A//mybannermaker.com/privacy.php).
