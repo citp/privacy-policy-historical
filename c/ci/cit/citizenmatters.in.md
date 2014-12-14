@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614170903id_/http%3A//bangalore.citizenmatters.in/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214111522id_/http%3A//bangalore.citizenmatters.in/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Citizen Matters, Bangalore
 
@@ -15,16 +15,3 @@ Oorvani Media will not sell or make available such information to unrelated thir
 We will occasionally analyse such information and we may share the results of such analyses with advertisers and other third parties. And under any circumstance, citizenmatters.in will refer only to general, aggregate usage data from these analyses - never specific identifying information.
 
 Oorvani Media may change the policy anytime by posting changes online.
-
-[](http://bangalore.citizenmatters.in/pages/buy-property-in-bengaluru)
-
-**Our Writers**
-
-Catch up on latest stories from over two dozen writers!
-
-See our complete [list of authors](https://web.archive.org/web/20140614170903id_/http%3A//authors) to spot your favourite!
-
- **Looking to advertise on our website?**  
-Contact us for more details.  
-[ ](mailto:adsales@oorvani.in)  
-**Call: 80-4173-7584**
