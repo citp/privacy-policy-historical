@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208203432id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214210145id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Maerskline Terms
 
@@ -36,7 +36,7 @@ Our websites use cookies. A cookie is a small text file, which is stored on your
 
 The following third parties store the following cookies on this website:
 
-  * Google Analytics (provided by Google Inc.) to enable us a) to perform statistical analyses of e.g. number of visitors, information on gender, age, location, interests and the like to learn about our visitors and b) to improve the website friendliness and usability, e.g. on the basis of website traffic measurements
+  * Google Analytics (provided by Google Inc.) and Eloqua (provided by Eloqua Limited) to enable us a) to perform statistical analyses of e.g. number of visitors, information on gender, age, location, interests and the like to learn about our visitors and b) to improve the website friendliness and usability, e.g. on the basis of website traffic measurements
   * Addthis (provided by AddThis, Inc.) to enable the visitors of our website to use social media features, like sharing, sending or recommending pages toothers
   * Youtube (provided by YouTube LLC.) to store session preferences (e.g. language) and suggest other content based on your previous uses (only activated when you are logged in to Youtube when visiting our website and only when clicking the YouTube button)
   * Facebook (provided by Facebook, Inc.) to identify users logged in to Facebook for the purpose of sharing content on Facebook (only when you are logged in to Facebook when visiting our website and only when clicking the Facebook button)
