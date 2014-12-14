@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecreditsolutionprogram.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630173243id_/http%3A//www.thecreditsolutionprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecreditsolutionprogram.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214112748id_/http%3A//www.thecreditsolutionprogram.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Credit Solution Program
+# The Credit Solution Program
 
 **A.** When accessing our _Website,_ **__ _The Credit Solution Program_** will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. If you visit our site to read or download information on our pages, we collect and store only the following information about you:
 
