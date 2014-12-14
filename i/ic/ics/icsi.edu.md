@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icsi.edu privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627064242id_/http%3A//www.icsi.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsi.edu privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214112101id_/http%3A//www.icsi.edu/privacy.aspx) for the most accurate reproduction.*
 
 # The Institute of Company Secretaries of India, The ICSI
 
