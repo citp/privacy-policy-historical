@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestyleliberationblueprint1.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307220616id_/http%3A//gkic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestyleliberationblueprint1.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214014321id_/http%3A//gkic.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
