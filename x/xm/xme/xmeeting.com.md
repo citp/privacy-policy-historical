@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmeeting.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424153350id_/http%3A//www.xmeeting.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmeeting.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214141334id_/http%3A//www.xmeeting.com/site/privacy) for the most accurate reproduction.*
 
 # XMeeting.com - Register now free for online dating and casual dates
 
@@ -94,10 +94,10 @@ You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom
 
 #### Our address:
 
-Service Development Limited   
-Island House  
-Grande Rue   
-GY4 6RU   
-St Martin   
-Guernsey   
+Service Development Limited  
+PO Box 440  
+Envoy House, La Vrangue  
+St Peter Port  
+Guernsey  
+GY1 3ZN  
 +1 661 705-5088 
