@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ondemonds.net privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917001110id_/http%3A//ondemonds.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondemonds.net privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214141625id_/http%3A//ondemonds.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OnDemonds.net-Free Article Directory » OnDemonds.net-Free Article Directory
-
-## Privacy Policy
+# Privacy Policy | OnDemonds.net
 
 OnDemonds.net-Free Article Directory owns and operates this website. We are committed to the privacy and security of our visitors' information. The following is a statement of our privacy practices:
 
