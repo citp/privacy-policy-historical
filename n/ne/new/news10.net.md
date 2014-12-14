@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602050930id_/http%3A//static.news10.net/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215002746id_/http%3A//static.news10.net/privacy-notice) for the most accurate reproduction.*
 
 # NEWS10 - Privacy Notice | News 10
 
