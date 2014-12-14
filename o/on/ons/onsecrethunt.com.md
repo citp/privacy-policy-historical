@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onsecrethunt.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615204204id_/http%3A//www.onsecrethunt.com/wallpaper/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsecrethunt.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214191540id_/http%3A//www.onsecrethunt.com/wallpaper/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | On Secret Hunt
 
