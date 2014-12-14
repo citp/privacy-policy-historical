@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogerfedererfans.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228054529id_/http%3A//www.rogerfedererfans.com/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogerfedererfans.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214033734id_/http%3A//www.rogerfedererfans.com/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Roger Federer Fans
 
@@ -12,7 +12,8 @@ Protecting the privacy of the very young is especially important. For that reaso
 **Cookies**  
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
-  1.  
-  2. Shorten URL
+[](http://www.jubeljahre.ch/index.php?menuid=1&getlang=en)
+
+  1.   2. Shorten URL
 
 
