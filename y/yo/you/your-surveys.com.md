@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-surveys.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053528id_/http%3A//www.your-surveys.com/partner_router/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-surveys.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214160518id_/http%3A//www.your-surveys.com/partner/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -16,7 +16,7 @@ Your_Surveys.com is based in United States and at the following postal address:
 3625 Brookside Parkway, # 300  
 Alpharetta, GA, 30022  
 United States of America  
-Points2shop LLC can be reached via e-mail at info@points2shop.com 
+Your Surveys can be reached via e-mail at info@your-surveys.com 
 
 * Anonymous Access
 
@@ -41,8 +41,6 @@ Additionally, we may share personal data and demographic information we collect 
 We reserve the right to share your identity with others within the stipulations of data protection in an attempt to prevent further fraudulent activity. We may also obtain information about you from third parties such as identity verification services 
 
 Access to collected personal data is available upon request. 
-
-We reserve the right to share your identity with others within the stipulations of data protection in an attempt to prevent further fraudulent activity. We may also obtain information about you from third parties such as identity verification services 
 
 * Sharing and Cookies
 
@@ -99,4 +97,4 @@ Enquiries or concerns about the Your-Surveys.co m privacy policy can be directed
 3625 brookside parkway, ste 300  
 Alpharetta, GA, 30022  
 United States of America  
-E-mail: info@Points2Shop.com 
+E-mail: info@your-surveys.com 
