@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogchannel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022920id_/http%3A//www.i5publishing.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogchannel.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214235820id_/http%3A//www.i5publishing.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | I-5 Publishing LLC
 
