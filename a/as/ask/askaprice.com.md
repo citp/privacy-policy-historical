@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330011758id_/http%3A//www.askaprice.com/about/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214024033id_/http%3A//www.askaprice.com/about/privacy-cookies) for the most accurate reproduction.*
 
 # Askaprice.com Privacy Statement & Cookie Policy
 
@@ -74,9 +74,11 @@ You do, however, have a choice regarding the type of cookies we can use so pleas
 
 **Please specify the level of cookie use you are willing to permit:**
 
-Strictly Necessary These cookies are strictly necessary to enable you to move about the site or to provide certain features you have requested.  
-Functional These cookies are required for the standard operation of our site, e.g. tracking your shopping basket.  
-Experiencial These cookies allow us to ensure content is applicable to you by remembering items you've already looked at. These cookies also track which pages you visit in order to help us improve our overall website experience.  
-Targeted These cookies allow integration with social media such as Facebook. These cookies also allow us to target applicable advertising to you.
+  * Strictly Necessary These cookies are strictly necessary to enable you to move about the site or to provide certain features you have requested.
+  * Functional These cookies are required for the standard operation of our site, e.g. tracking your shopping basket.
+  * Experiencial These cookies allow us to ensure content is applicable to you by remembering items you've already looked at. These cookies also track which pages you visit in order to help us improve our overall website experience.
+  * Targeted These cookies allow integration with social media such as Facebook. These cookies also allow us to target applicable advertising to you.
+
+
 
 Save Settings 
