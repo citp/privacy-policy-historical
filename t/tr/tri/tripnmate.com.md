@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripnmate.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215003913id_/http%3A//www.tripnmate.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripnmate.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215150015id_/http%3A//www.tripnmate.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -59,12 +59,6 @@ Any suggestions or complains? If you have any questions about this Privacy Polic
 
 Or Write us at - 
 
-V Dream Solutiod.ns Pvt Ltd   
-C-17 Turner road, Clement town   
+Tripnmate Stays   
+60, Shastri Nagar,   
 Dehradun, U.K- 248001, India
-
-V Dream Solutions Pvt Ltd   
-BLK 35, Sandilands Road #13-37 Mandalay Towers Singapore 546080
-
-  
-
