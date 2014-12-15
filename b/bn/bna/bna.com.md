@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060732id_/http%3A//www.bna.com/internet-privacy-policy-a4717) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215040904id_/http%3A//www.bna.com/internet-privacy-policy-a4717) for the most accurate reproduction.*
 
 # Privacy Policy | Bloomberg BNA
 
