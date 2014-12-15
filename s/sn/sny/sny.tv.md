@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sny.tv privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629180627id_/http%3A//web.sny.tv/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sny.tv privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215233649id_/http%3A//web.sny.tv/about/privacy.jsp) for the most accurate reproduction.*
 
-# SNY.tv Contact Us
-
-Privacy Statement
+# SNY.tv: About SportsNet New York
 
 ## SNY.tv Privacy Statement
 
@@ -85,5 +83,3 @@ If you have questions or concerns about this Privacy Policy, you can contact us 
 If we make an important change to this Privacy Policy, we will post a notification and link on the homepage of this Website so that you can review the updated policy.
 
 **LAST UPATED: July 20, 2010**
-
-| 
