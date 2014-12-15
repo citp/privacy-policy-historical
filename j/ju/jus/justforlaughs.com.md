@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justforlaughs.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619130629id_/http%3A//www.justforlaughs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justforlaughs.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216005338id_/http%3A//www.justforlaughs.com/about/privacy) for the most accurate reproduction.*
 
 # About: Privacy Policy | Just for Laughs
 
@@ -56,7 +56,7 @@ You may opt out of having your information shared with entities working on our b
 
 * ### OPT OUT PROCEDURES
 
-If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at [privacy@makerstudios.com.](mailto:privacy@makerstudios.com) To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice). Please allow a reasonable time for us to process your request. Please note that, although you can opt not to receive promotional messages, we reserve the right to send you informational email messages about any user account you establish on this Website or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).
+If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at [privacy@makerstudios.com](mailto:privacy@makerstudios.com). To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice). Please allow a reasonable time for us to process your request. Please note that, although you can opt not to receive promotional messages, we reserve the right to send you informational email messages about any user account you establish on this Website or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).
 
 Many browsers are offering “do no track” opt out options within their technology. As there is no standardized definition of what exactly ‘do not track' means or how the signals are transmitted, we are unable to honor “do not track” requests at this time. If you do not wish for us to share your personally-identifying information with any third parties working on our behalf to serve our customers, please let us know by sending your request to:
 
