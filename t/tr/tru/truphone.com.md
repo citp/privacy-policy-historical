@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322022715id_/http%3A//www.truphone.com/US/Legal/Privacy/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215173839id_/http%3A//www.truphone.com/us/Legal/Privacy/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,7 +82,7 @@ There are strict guidelines which define for how long we may hold personal data 
 
 8\. Can I see the data you hold about me?
 
-Yes. You may ask to see the information we hold on you by sending a letter to the Data Controller, Truphone, Inc., 4819 Emperor Boulevard, Suite 400, Durham, NC 27703 or via email to legal@truphone.com.
+Yes. You may ask to see the information we hold on you by sending a letter to the Data Controller, Truphone, Inc., 4309 Emperor Boulevard, Suite 325, Durham, NC 27703. or via email to legal@truphone.com.
 
 9\. What are cookies and how do we use them?
 
