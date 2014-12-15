@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gateworld.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628033618id_/http%3A//gateworld.net/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gateworld.net privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215155916id_/http%3A//www.gateworld.net/privacy_policy.shtml) for the most accurate reproduction.*
 
 # GateWorld - Privacy Policy
 
