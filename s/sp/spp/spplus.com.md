@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spplus.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616065852id_/http%3A//www.spplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spplus.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215231327id_/http%3A//www.spplus.com/privacy-policy) for the most accurate reproduction.*
 
 # SP Plus Corporation Privacy Policy - SP+
 
