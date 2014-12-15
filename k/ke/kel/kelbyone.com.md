@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kelbyone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052951id_/http%3A//kelbyone.com/privacypledge) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelbyone.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215211706id_/http%3A//kelbyone.com/privacypledge) for the most accurate reproduction.*
 
-# Privacy Pledge | KelbyOne
+# Privacy Pledge - KelbyOne
 
 **_Privacy Policy_**
 
@@ -12,15 +12,23 @@ This Privacy Policy applies to and is provided on behalf of the KelbyOne, LLC fa
 
 **_Definitions_**
 
-“Non-Personal Information” (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser. “Personally Identifiable Information” (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service. PII may include information such as your name, address, phone number, and other related information that you provide to us. 
+“Non-Personal Information” (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser.  
+“Personally Identifiable Information” (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service. PII may include information such as your name, address, phone number, and other related information that you provide to us. 
 
 **_Our Commitment to Your Privacy_**
 
-Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII. KelbyOne, LLC is committed to the security and privacy of all our customers. We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience. KelbyOne, LLC and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us. As a part of our commitment, we have adopted the guidelines used by the Direct Marketing Association Privacy Promise to American consumers. Other than as necessary to provide you with goods and services, we agree to (1) provide our customers with notice of their ability to opt out of information exchanges with our affiliates; (2) honor our customers’ requests not to have their information transferred to our affiliates; and (3) honor our customers’ requests not to receive solicitations from our affiliates.
+Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.
+
+KelbyOne, LLC is committed to the security and privacy of all our customers. We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience.
+
+KelbyOne, LLC and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
+
+As a part of our commitment, we have adopted the guidelines used by the Direct Marketing Association Privacy Promise to American consumers. Other than as necessary to provide you with goods and services, we agree to (1) provide our customers with notice of their ability to opt out of information exchanges with our affiliates; (2) honor our customers’ requests not to have their information transferred to our affiliates; and (3) honor our customers’ requests not to receive solicitations from our affiliates.
 
 **_Links to Other Websites_**
 
-Our Website may contain links to other websites. You understand that these websites are not under our control and are not subject to our Privacy Policy. These websites will likely have their own privacy policies. We have no responsibility for these websites and provide links to these websites solely for your convenience. You acknowledge that your use and access of these websites is solely at your own risk. It is your responsibility to check the privacy policies of these websites to see how they treat your personal information. 
+Our Website may contain links to other websites. You understand that these websites are not under our control and are not subject to our Privacy Policy. These websites will likely have their own privacy policies. We have no responsibility for these websites and provide links to these websites solely for your convenience.  
+You acknowledge that your use and access of these websites is solely at your own risk. It is your responsibility to check the privacy policies of these websites to see how they treat your personal information. 
 
 **_Information We Collect_**
 
@@ -82,6 +90,7 @@ If you have any questions about our Privacy Policy, please contact us using the 
 
 By accessing or using the Site, You agree to be bound by all of the Terms of this Privacy Policy as posted at the time of Your access or use. We reserve the right to contact Users of the Site regarding changes to the Terms and Conditions generally, this Privacy Policy specifically, or any other policies or agreements relevant to the Site’s Users. If You have any questions about this Policy, You may telephone, email, or write to:
 
-KelbyOne, LLCATTN: Privacy Policy Administrator333 Douglas Road EastOldsmar, FL – 34677 Tel. 813.749.4000 x152 
+KelbyOne, LLCATTN: Privacy Policy Administrator333 Douglas Road EastOldsmar, FL – 34677  
+Tel. 813.749.4000 x152
 
 [privacy@kelbymediagroup.com](mailto:privacy@kelbymediagroup.com)
