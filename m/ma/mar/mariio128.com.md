@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariio128.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120230600id_/http%3A//mariio128.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariio128.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215011458id_/http%3A//mariio128.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HELP CENTER :: PRIVACY POLICY - MARIIO128 GAMES & ENTERTAINMENT
 
