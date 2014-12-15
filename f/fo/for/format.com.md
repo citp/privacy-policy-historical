@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the format.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112745id_/http%3A//4ormat.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the format.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215030308id_/http%3A//format.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - 4ormat
+# Privacy Policy - Format
 
 **Last Updated on 15.February.2011**
 
-This is the Privacy Policy of the 4ormat website (together with our affiliates and subsidiaries, “Ideaform Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information
+This is the Privacy Policy of the Format website (together with our affiliates and subsidiaries, “Ideaform Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information
 
 By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://web.archive.org/terms_of_service)
 
-**How We Use Your Information**
+## How We Use Your Information
 
 We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to provide to you the services offered by the Site; resolve service disputes; troubleshoot problems; measure consumer interest in our products and services, inform you about online and offline offers, products, services, events and updates; deliver information to you that, in some cases, is relevant to your interests, such as product news; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our Terms of Use; provide you with system or administrative messages, and as otherwise described to you at the time of collection. 
 
@@ -16,7 +16,7 @@ We may also use personal information about you to improve our marketing and prom
 
 Please see our Terms of Use for information on what we do to account information when you terminate your account with us. 
 
-**What Information Do We Collect?**
+## What Information Do We Collect?
 
 Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose. 
 
@@ -32,7 +32,9 @@ We do not collect or save your credit card information when you use your credit 
 
 Following your registration on the Site, you can review and change your information in your account area. If you disclose personal information on the Site and wish to have it removed, please contact us at the support contact information posted on the Site. 
 
-**Our Disclosure of Your Information** We will not sell or rent your personally identifiable information to third parties without your explicit consent. The following describes some of the ways that your information may be disclosed in the normal scope of business to provide our services: 
+## Our Disclosure of Your Information
+
+We will not sell or rent your personally identifiable information to third parties without your explicit consent. The following describes some of the ways that your information may be disclosed in the normal scope of business to provide our services: 
 
 Anonymized Aggregated Data. We aggregate and anonymize data and use and disclose such information for a variety of purposes. However, in these situations, we do not disclose any information that could be used to identify you personally. 
 
@@ -44,14 +46,15 @@ Legal Requests; Emergencies; Jurisdictions. We cooperate with law enforcement in
 
 We may also disclose personal information to the acquiror or its agents in the course of the sale of our business. If we do this, the disclosure will be subject to confidentiality arrangements customary in such transactions. 
 
-**Security**
+## Security
 
 Ideaform Inc. strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any personal information you enter into registration forms on the Site. The encryption process protects your information, by scrambling it before it is sent to us from your computer. We also make commercially reasonable effort to ensure the security of your personal information on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. 
 
-**Other Information Collectors**
+## Other Information Collectors
 
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties through the Site, different rules may apply to their use, collection and disclosure of the personal information you disclose to them. Since we do not control the information use, collection or disclosure policies of third parties, you are subject to their privacy policies. We encourage you to ask questions before you disclose your personal information to others. 
 
 **Questions?**
 
-It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at [info@4ormat.com](mailto:info@4ormat.com)
+It is our goal to make our privacy practices easy to understand.   
+If you have questions, concerns or if you would like more detailed information, please email our privacy officer at [info@format.com](mailto:info@format.com)
