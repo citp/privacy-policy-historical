@@ -1,198 +1,182 @@
-> *The following text is extracted and transformed from the wedding.com.au privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216094802id_/http%3A//www.wedding.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.com.au privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215111922id_/http%3A//fairfax.com.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Wedding.com.au
+# Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
-Last updated: 4 February 2010
+You have come through to this page from a website which is owned and operated by Fairfax Media Limited. 
 
-**Introduction**
+In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate. 
 
-This Privacy Policy applies to this website which is operated by Online Marketing Group Pty Limited (ABN 14 116 080 043) or one of its subsidiary companies (the “ **Website** ”).
+This policy sets out: 
 
-In this Privacy Policy,
+  * what is considered personal information;
+  * what personal information we collect and hold;
+  * how we collect, hold, use or disclose personal information;
+  * the purposes for which we collect personal information;
+  * what happens if we are not able to collect personal information;
+  * how to seek access to and correct your personal information;
+  * whether we disclose personal information outside Australia; and
+  * how to contact us.
 
-  1. “ **we** ”, “ **us** ” or “ **our** ” means Online Marketing Group Pty Limited (ABN 14 116 080 043) or one of our subsidiary companies; and
 
-  2. “ **you** ” or “ **your** ” means visitors to the Website and our other websites, subscribers to and users of services provided by us, purchasers of our products and services and our advertising customers.
 
+We are bound by the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) (subject to exemptions that apply to us under that Act). However, due to the nature of some of our business activities, from time to time, we will handle personal information relying on the media exemption in the Act where appropriate. Where we do so, we will ensure that we comply with the Australian Press Council Privacy Standards. We may also rely on related bodies corporate and employee records exemptions in the Act. If you require more information on the collection and use of personal information in the course of journalism, please visit the Australian Press Council Privacy Standards at <http://www.presscouncil.org.au/privacy-principles>. 
 
+We may, from time to time, review and update this policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. Your privacy matters to us, so whether you are new to Fairfax or are a long time user, please take the time to get to know our practices. 
 
+## WHAT IS PERSONAL INFORMATION
 
-Any information that you provide through this Website may be collected and used by us, governed by this privacy policy. This statement sets out our policies relating to the collection and use of your personal information. It applies to your conduct on this Website. These policies are in addition to the Terms & Conditions governing the Website and should be read in conjunction with these Terms & Conditions. You must not use this Website if you do not accept this Privacy Policy.
+When used in this policy, the term “personal information” has the meaning given to it in the Act. In general terms, it is any information that can be used to personally identify you. This may include (but is not limited to) your name, age, gender, postcode and contact details (including phone numbers and email addresses) and possibly financial information, including your credit card, direct debit or PayPal account information. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information. 
 
-**Your personal information is important to us**
+## WHAT PERSONAL INFORMATION DO WE COLLECT AND HOLD
 
-We recognise that your privacy is very important and that you have a right to control personal information. We know that providing personal information is an act of trust and we take that seriously. Personal information is information or an opinion about an individual whose identity is apparent or can reasonably be ascertained. It includes all personal information regardless of its source.
+We may collect the following types of personal information: 
 
-**How we collect information about you**
+  * name;
+  * mailing or street address;
+  * email address;
+  * telephone number;
+  * age or birth date;
+  * profession, occupation or job title;
+  * details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries;
+  * any additional information relating to you that you provide to us directly through our websites or indirectly through use of our website or online presence through our representatives or otherwise;
+  * information you provide to us through our service centre, customer surveys or visits by our representatives from time to time.
 
-Whenever you visit this Website, our servers will automatically record information about your usage of this Website, such as the time of the visit, its duration and the pages you visit. This is to assist us in improving this Website and to ensure that advertisements on this Website are most directly relevant to your interests. In these instances, the information we collect about you remains anonymous.
 
-Collection of some of your personal information is essential for completion of some of the functions and activities of this Website. We will, if it is reasonable or practicable to do so, also collect your personal information directly from you. For instance, the collection of your personal information may happen when you:
 
-  1. click on a “Request more information” button and agree to proceed to fill out a “Request more information” form;
+## COOKIES
 
-  2. complete and submit a “Register” form, an “OMG Account Setup” form, an “Order Form” or similar form;
+In some cases we may also collect your personal information through the use of cookies. When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website, without bothering you with a request to register or log-in. It also helps us keep track of products or services you view, so that we can send you news about those products or services. We also use cookies to measure traffic patterns, to determine which areas of our websites have been visited, and to measure transaction patterns in the aggregate. We use this to research our users’ habits so that we can improve our online products and services. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user movements, and gather broad demographic information. 
 
-  3. submit an email or message to us through the Website; or
+We may also collect anonymous data (which is not personal information) relating to your activity on our websites (including IP addresses) via cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information because it does not identify you or anyone else, the Australian Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever. 
 
-  4. provide information by telephone after visiting the Website.
+## HOW WE COLLECT PERSONAL INFORMATION
 
+We collect your personal information directly from you unless it is unreasonable or impractical to do so.   
+We do this in ways including: 
 
+  * through your access and use of our website, apps or sending SMS/MMS to us;
+  * through someone else who has provided us with your information (e.g. a gift subscription);
+  * during conversations between you and our representatives; and
+  * when you complete an application or purchase order.
 
 
-The personal information we collect from you may include your name, postal address, email address, date of birth, phone number, mobile phone number and in some instances, your financial information, or other information considered necessary for any request, order or application process you may be undertaking.
 
-We may also collect personal information:
+We may also collect personal information from third parties including: 
 
-  * from third parties such as credit reporting agencies or your representatives;
+  * third party companies such as credit reporting agencies, law enforcement agencies and other government entities;
+  * advertisers;
+  * mailing lists;
+  * recruitment agencies;
+  * contractors and business partners.
 
-  * from publicly available sources of information;
 
-  * from our third party service partners;
 
-  * from our own records of how you use our services; or
+## WHY DO WE COLLECT, HOLD, USE AND DISCLOSE PERSONAL INFORMATION
 
-  * when legally required to do so.
+The primary purpose for which we collect information about you is to enable us to perform our business activities and functions and to provide best possible quality of customer service. We collect, hold, use and disclose your personal information for the following purposes: 
 
+  * to provide products and services to you;
+  * to provide you with news, information or advice about our existing and new products and services;
+  * to communicate with you including by email, mail or telephone;
+  * to manage and enhance our products and services;
+  * to personalise and customise your experience;
+  * to provide you with access to protected areas of our websites;
+  * to conduct competitions or promotions on behalf of Fairfax and selected third parties;
+  * to verify your identity;
+  * to provide as part of business data to third parties if you have authorised us to do so;
+  * to conduct business processing functions for operation of our websites or our business;
+  * for our administrative, marketing (including direct marketing), promotional, planning, product/service development, quality control and research purposes, or those of our contractors or external service providers;
+  * to provide your updated personal information to us, our contractors or external service providers;
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
+  * as required or permitted by any law (including the Privacy Act).
 
 
 
-No matter how your personal information is collected, it is dealt with by us in accordance with the National Privacy Principles.
+Your personal information will not be shared, sold, rented or disclosed other than as described in this Privacy Policy. 
 
-If you choose not to provide personal information to us, we may not be able to provide you with the products and services you require, or a high level of service.
+## WHAT HAPPENS IF WE CAN’T COLLECT YOUR PERSONAL INFORMATION
 
-**Using and Disclosing Personal Information**
+If you do not provide us with the personal information described in this policy, some or all of the following may happen: 
 
-We may use your personal information in order to:
+  * we may not be able to provide you with the products or services you requested, either to the same standard, or at all (for example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only);
+  * we may not be able to provide you with information about products and services that you may want, including information about discounts sales or special promotions; or
+  * we may be unable to tailor the content of our websites to your preferences and your experience of our websites may not be as enjoyable or useful.
 
-  1. verify your identity;
 
-  2. provide our products and services to you, including our directory listing services, lead generation services and advertising services;
 
-  3. administer and manage those products and services, including notifications, charging, billing and collecting debts;
+## HOW DO WE DISCLOSE YOUR PERSONAL INFORMATION
 
-  4. enter into contracts with you;
+We may disclose your personal information to: 
 
-  5. assist you to subscribe to our products and services;
+  * our employees, related bodies corporate, contractors or external service providers for the operation of our websites or our business, fulfilling requests by you, and otherwise provide products and services to you, including without limitation, web hosting providers, IT systems administrators, mailing houses, newsagents, couriers, payment processors, photographic analysers, data entry service providers, electronic network administrators, debt collectors, and professional advisers such as accountants, solicitors, business advisors and consultants;
+  * our existing or potential agents, business partners or joint venture entities or partners;
+  * our sponsors, or promoters of any competition that we conduct or promote via our services;
+  * specific third parties authorised by you to receive information held by us;
+  * the police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary;
+  * as required or permitted by any law (including the Privacy Act).
 
-  6. make changes to your profile;
 
-  7. respond to any queries or feedback you may have;
 
-  8. help us improve our products and services;
+## DIRECT MARKETING MATERIALS
 
-  9. provide relevant marketing information, including promotions or special offers;
+We may send you direct marketing communications and information about products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS or email, in accordance with applicable marketing laws, such as the Spam Act 2004 (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. 
 
-  10. conduct appropriate checks for creditworthiness and for fraud; and
+In addition, at any time, you may opt-out of receiving marketing communications from us by contacting us (details below) or by using the opt-out facilities provided (e.g. an unsubscribe link), or by updating your personal details on our Member Centre webpage using the link provided on this page (you may also cancel your profile using the Member Centre). We will then ensure that your name is removed from our mailing list. We do not provide your personal information to other organisations for the purposes of direct marketing unless expressly authorised by you. 
 
-  11. prevent and detect any misuse of, or fraudulent activities involving the Website.
+If you receive communications from us that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please contact us using the details provided below. 
 
+## ACCESSING AND CORRECTING YOUR PERSONAL INFORMATION
 
+You may request access to any personal information we hold about you at any time by contacting us (details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you. We will not charge for simply making a request and will not charge for making any corrections to your personal information. If you make an access request, we will ask you to verify your identity. There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others, or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal. 
 
+If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it. 
 
-We might contact you to let you know about products, services, promotions or special offers that may interest you. If you do not want us to contact you to promote and market our products, services, promotions and special offers, please email: _[privacy@omg.com.au](mailto:privacy@omg.com.au)_
+Members of our websites will generally be able to access and update their membership details online. We request that you keep your information as current as possible so that we may continue to improve our service to you. 
 
-In order to meet your specific needs or provide you with a service which you have requested, we may disclose your personal information in certain circumstances, to third party organisations whose products or services you may require. This may happen when you click on a “Request more information” button and complete and submit a “Request more information” form. We may also disclose your personal information to our third party service partners who are engaged to assist in facilitating the provision of the products or services you may require. These third party service partners may carry out marketing, telemarketing and sales services, customer enquiries, debt recovery functions, market research and website usage analysis.
+## HOW YOU CAN COMPLAIN ABOUT A BREACH OF PRIVACY
 
-We may also disclose your personal information if it is:
+If you believe your privacy has been breached by us, have any questions or concerns about our Privacy Policy please, contact us using the contact information below and provide details of the incident so that we can investigate it. 
 
-  1. Required or authorised by law or government and regulatory authorities;
+We have a formal procedure for investigating and dealing with privacy breaches. Once the Privacy Officer receives a complaint, whether it is in writing or verbal means, the Privacy Officer will commence an investigation with the relevant business unit from which the alleged breach stemmed. The investigator will endeavour to determine the nature of the breach and how it occurred. We may contact you during the process to seek any further clarification if necessary. If a breach is found, the Privacy Officer will escalate the matter to management so that the process can be rectified to prevent any further breaches from taking place. We will also contact you to inform you of the outcome of the investigation. We will endeavour to resolve all investigations within a reasonable time. 
 
-  2. We suspect that your use of this Website is in breach of the Terms & Conditions;
+We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in a timely and appropriate manner. 
 
-  3. To protect our rights or property;
+Please contact our Privacy Officer at: 
 
-  4. To lessen a serious threat to a person’s health or safety;
+Privacy Officer   
+Fairfax Media Limited   
+Post: GPO Box 506   
+Sydney NSW 2001   
+Tel: 02 9282 2040   
+Email: [privacy@fairfaxmedia.com.au](mailto:privacy@fairfaxmedia.com.au)
 
-  5. To credit reporting and fraud checking agencies;
+## DISCLOSURE OF PERSONAL INFORMATION OUTSIDE AUSTRALIA
 
-  6. To credit providers (for credit related purposes such as creditworthiness, credit rating, credit provision and financing); or
+We may disclose personal information to our related bodies corporate and external service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information. 
 
-  7. To our professional advisers, including our accountants, auditors and lawyers.
+We may disclose your personal information to entities located outside of Australia, including the following: 
 
+  * our related bodies corporate, located in New Zealand and South East Asia;
+  * our data hosting and Cloud-based IT service providers;
+  * other external service providers located in the Philippines and U.S.; and
+  * other third parties operating in jurisdictions including China, India, Indonesia, New Zealand, Hong Kong and the United States where you have authorised us to do so.
 
 
 
-Where your personal information is disclosed, we will seek to ensure that the information is held, used or disclosed consistently with the National Privacy Principles and other applicable privacy laws and codes.
+## SECURITY
 
-**Data Security – Protecting Your Personal Information**
+We will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, password access, secure servers and encryption of credit card transactions. 
 
-We store information in different ways, including in paper and electronic format. The security of your personal information is important to us and we take reasonable steps to protect it from misuse and loss and unauthorised access, modification or disclosure. Some of the ways we do this are:
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately. 
 
-  1. confidentiality agreements for our employees and contractors;
+## LINKS
 
-  2. security measures for systems access;
+Our website may contain links to other websites operated by third parties. We make no representations or warranties in relation to the privacy practices of any third party website and we are not responsible for the privacy policies or the content of any third party website. Third party websites are responsible for informing you about their own privacy practices. 
 
-  3. only allowing access to personal information where the individual seeking access has satisfied our identification requirements;
+## CHANGES TO OUR PRIVACY POLICY
 
-  4. access control;
+We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in February 2014. 
 
-  5. destroying or permanently de-identifying your personal information if it is no longer needed for the purpose which the information was originally collected, used or disclosed under National Privacy Policy Principles.
-
-
-
-
-However, we will not be held responsible for events arising from unauthorised access to your personal information.
-
-**Our use of cookies**
-
-Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. Most web browsers are set to accept cookies. However, if you do not wish to receive any cookies, you may set your browser to refuse them. In some instances this may mean you will not be able to take full advantage of parts of this Website.
-
-The use of cookies can enhance your enjoyment of this Website, because they can help us personalise your experience of this Website by providing information which is most relevant to your interests. Cookies provide us with aggregated information on how users interact on this Website, track which advertisements are effective and help us improve your experience this Website. Cookies do not personally identify you, but your browser.
-
-We may use independent companies to measure and analyse Internet usage across this Website. The tracking collects the following core information on usage of this Website:
-
-  1. The number of page views (or page impressions);
-
-  2. The number of unique visitors;
-
-  3. How long these unique visitors (on average) spend on the Website;
-
-  4. Common entry and exit points into the Website.
-
-
-
-
-This aggregate, non-personal information is collated and provided to us to assist in analysing usage of this Website. The data is also accessible by media organisations and research companies for the purpose of conducting industry comparisons with other Internet sites.
-
-Pages on this Website may be coded with tracking software. This is transparent to the user, as the software makes use of an invisible image (via Javascript) or an invisible Java Applet, at the bottom of the web page. This software stores a cookie in your browser, which contains a unique identifier. This enables tracking of the number of unique visitors to this Website. In no way does this unique identifier identify a user personally. We do not and will not marry any data collected by independent tracking software with any personal information collected on the website.
-
-**Advertisements**
-
-Some advertisements (such as “banner” advertisements) that you see displayed on this Website are delivered on our behalf by third party advertising companies. No personal data, for example your name, address, email address or telephone number are used during the course of serving our advertising, but, on our behalf, our third party advertisers may place or recognise a unique cookie on your browser. This cookie does not collect personal data about you nor is it linked to any personal data about you.
-
-**What happens on links to other websites**
-
-We provide links to websites which are not operated by us. You may be linked to websites which are not operated by us when you click on a URL, hyperlink, an “Apply” button or “More information” link. These linked sites are not under our control and we do not accept responsibility for the conduct of companies linked to this Website. Before disclosing your personal information on any other website, including as part of any application process for a particular product or service, we advise you to read the terms and conditions and privacy policy of that website.
-
-**What about information I provide in public areas such as ratings, reviews or forums?**
-
-Any information you post on the Website such as ratings, reviews and posts on bulletin boards and/or posts or communications in chat areas of the Website becomes public information by its nature. While we strive to protect and respect your privacy, we cannot guarantee the security of any information you disclose in these areas.
-
-**What else should I know about internet privacy?**
-
-Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or internet cafe. You as an individual are responsible for the security of and access to your own computer.
-
-Whenever you voluntarily disclose personal information over the internet this information can be collected and used by others. Therefore, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information.
-
-**Help us to ensure we hold accurate information**
-
-We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up to date. However, the accuracy of that information depends to a large extent on the information you provide. Therefore, we recommend that you:
-
-let us know if there are any errors in your personal information; and
-
-keep us up to date with changes to personal information such as your name or address,
-
-by contacting us at _[privacy@omg.com.au](mailto:privacy@omg.com.au)_
-
-**Resolving Your Privacy Issues**
-
-If you have any issues you wish to raise with us, or would like to discuss any issues about our Privacy Policy, then you are able to do so by emailing us at privacy@omg.com.au. We will endeavour to respond to your request within seven days. If investigation is required we will keep you advised of progress.
-
-**Changes to the Privacy Policy**
-
-We will be adding new pages and features to this Website. We will continuously review our Privacy Policy to ensure that it protects your privacy while supporting your user experience on this Website. We encourage you to keep visiting our Privacy Policy to see if any updates have been made.
-
-**Further information on privacy**
-
-For more information about privacy issues in Australia, visit the Australian Federal Privacy Commissioner’s website (www.privacy.gov.au).
+Fairfax Media Limited. ABN 15 008 663 161  
+1 Darling Island Road, Pyrmont, Sydney, NSW 2009. 1800 500 864.   
+[Contact us](https://membercentre.fairfax.com.au/ContactUs.aspx)
