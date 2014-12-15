@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615184738id_/http%3A//www.palacecinemas.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216003206id_/http%3A//www.palacecinemas.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Palace Cinemas | Share our passion.
 
@@ -156,8 +156,7 @@ Palace may from time to time employ subcontractors to provide services to it. In
 
 **10\. SECURITY POLICY**
 
-Palace When purchasing from Palace Cinemas your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact Palace Cinemas (see 11. WHO TO CONTACT)   
-
+Palace When purchasing from Palace Cinemas your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact Palace Cinemas (see 11. WHO TO CONTACT) 
 
 **11\. WHO TO CONTACT**
 
@@ -168,3 +167,7 @@ Palace may modify this Privacy Policy and the way it handles Personal Informatio
 **13\. FURTHER INFORMATION**
 
 Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/)
+
+**14\. GOOGLE ANALYTICS**
+
+We use Google Analytics data to helping us improve the offerings on the Palace Cinemas website. As part of that implementation we use _Google Analytics Demographics and Interest Reporting_ so that we know more general information about the users of our website. None of this data is personally identifiable, and we respect your need for privacy. As such, if you wish to opt-out of Google Analytics tracking, you can do so by following this link to Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/).
