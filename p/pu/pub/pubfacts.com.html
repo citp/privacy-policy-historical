@@ -1,0 +1,358 @@
+<!--The following is the downloaded HTML source of the pubfacts.com privacy policy that was archived on 2014-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215085348id_/http%3A//www.pubfacts.com/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js"><head>
+<title>Privacy Policy</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgAFU1RRGwADXVZWAwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:300,400,700&amp;subset=latin,latin-ext">
+<link rel="shortcut icon" href="http://www.pubfacts.com/favicon.ico">
+<link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" type="text/css">
+<link href="http://www.pubfacts.com/css/font-awesome.css" rel="stylesheet" type="text/css">
+<link href="http://www.pubfacts.com/css/font-awesome-ie7.css" rel="stylesheet" type="text/css">
+<link href="http://www.pubfacts.com/css/bootstrap.css" rel="stylesheet">
+<link href="http://www.pubfacts.com/css/bootstrap-responsive.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="http://www.pubfacts.com/css/reset.css">
+<link rel="stylesheet" type="text/css" href="http://www.pubfacts.com/css/style.css">
+<link rel="stylesheet" type="text/css" href="http://www.pubfacts.com/css/jquery.combosex.css">
+
+
+	<link rel="stylesheet" type="text/css" href="http://www.pubfacts.com/js/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen">
+    <!--
+	<link rel="stylesheet" type="text/css" href="http://www.pubfacts.com/js/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" />
+	<link rel="stylesheet" type="text/css" href="http://www.pubfacts.com/js/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" />
+-->
+<!--[if (lte IE 9)]>
+    <link rel="stylesheet" type="text/css" href="http://www.pubfacts.com/css/iefix.css"/>
+    <![endif]-->
+<script type="text/javascript" src="http://www.pubfacts.com/js/jquery.1.7.2.min.js"></script>
+<script type="text/javascript" src="http://www.pubfacts.com/js/jquery-ui.1.7.2.min.js"></script>
+
+<script type="text/javascript" src="http://www.pubfacts.com/js/jquery.combosex.min.js"></script>
+	<style type="text/css">
+		.fancybox-custom .fancybox-skin {
+			box-shadow: 0 0 50px #222;
+		}
+		
+		.fancyboxPop iframe.fancybox-iframe {
+    overflow:hidden;
+}
+
+
+	</style>
+<meta name="google-translate-customization" content="965d5c55e1f28d47-eb1ca6a7ad459531-g8ef57c276e2c87b7-c">
+<script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=r6zaouvpbfv2wrfrzg7vtde2am"></script>
+</head>
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46946402-1', 'pubfacts.com');
+  ga('send', 'pageview');
+
+</script>
+    
+
+            
+<!-- Bar -->
+<div id="bar">
+  <div class="inner"> 
+    
+
+    <!-- Language Menu -->
+
+    <ul id="lang-menu">
+         <li id="en" style="color:#FFF">Translate this Page: </li>    
+       <li id="fr" class="current"><div id="google_translate_element" style="padding-bottom:5px"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-46946402-1'}, 'google_translate_element');
+}
+</script><script async="" type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <style>
+    div#google_translate_element div.goog-te-gadget-simple{background-color:#999}
+    div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span{color:fff; padding-bottom:5px}
+</style>
+    </li>
+    </ul>
+
+    <!-- /Language Menu --> 
+    <!-- User Menu -->
+
+    <ul id="user-menu">
+              <li id="login" class="first"><a href="http://www.pubfacts.com/login?r=privacypolicy">Login</a></li>
+      <li id="register"><a href="http://www.pubfacts.com/register?r=privacypolicy">Register</a></li>
+      <li id="bookmarks" class="last"><a href="#">Bookmarks</a></li>
+          </ul>
+    
+       
+    
+
+    
+
+    <!-- /User Menu --> 
+
+  </div>
+</div>
+<!-- /Bar --> 
+
+            
+<!-- Header -->
+<div id="header">
+  <div class="inner"> 
+    
+    <!-- Logo -->
+    <div id="logo"> <a href="http://www.pubfacts.com/"><img src="http://www.pubfacts.com/images/Logo.png" width="205" height="50" alt="logo"></a><a class="menu-hider"></a></div>
+    <!-- /Logo -->
+    
+    <ul id="navigation">
+
+      <li> <a href="http://www.pubfacts.com/">Home</a></li>
+      
+      <li><a href="http://www.pubfacts.com/search">Search</a></li>
+      <li><a href="http://www.pubfacts.com/categories">Categories</a></li>
+ 
+      <li><a href="http://www.pubfacts.com/journals">Journals</a></li>
+   <!--   <li ><a href="http://www.pubfacts.com/popular">Popular</a></li> -->
+      <li><a href="http://www.pubfacts.com/jobs">Jobs</a></li>
+      <li><a href="http://www.pubfacts.com/about">About Us</a></li>
+    </ul>
+  </div>
+</div>
+<!-- /Header --> 
+
+<!-- Content -->
+<div id="content">
+  <div id="title">
+    <h1 class="inner title-2">Privacy Policy
+      <ul class="breadcrumb-inner">
+        <li> <a href="http://www.pubfacts.com/">Home</a></li>
+        <li> <a href="http://www.pubfacts.com/privacypolicy">Privacy Policy</a></li>
+      </ul>
+    </h1>
+  </div>
+  <div class="inner"> 
+    
+    <!-- Content Inner -->
+    <div class="content-inner"> 
+      <!-- Content Center -->
+      <div class="content-center" style="width:100%">
+        <div class="body">
+          <div class="clear"></div>
+          <div class="heading-l">
+            <h2>Privacy Policy for PubFacts</h2>
+          </div>
+          <div class="post-box box-1">
+          
+       The privacy of our visitors to PubFacts is important to us.
+<br><br>
+
+At PubFacts, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit PubFacts, and how we safeguard your information. We never sell your personal information to third parties.
+<br><br>
+<strong>Log Files</strong><br><br>
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+<br><br>
+<strong>Cookies and Web Beacons</strong>
+<br><br>
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+<br><br>
+We also use third party advertisements on PubFacts to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+<br><br>
+<strong>DoubleClick DART cookies</strong>
+<br><br>
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting").
+<br><br>
+The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
+<br><br>
+You can opt-out of this ad serving on all sites using this advertising by visiting <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx" target="_blank">http://www.doubleclick.com/privacy/dart_adserving.aspx</a>
+<br><br>
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+<br><br>
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+<br><br>
+<strong>National Center for Biotechnology Information Data</strong>
+<br><br>A great deal of scientific data and content on PubFacts is retrieved from the National Center for Biotechnology Information's PubMed and MEDLINE databases.  In using this site, please comply by <a href="http://www.ncbi.nlm.nih.gov/About/disclaimer.html" target="_blank" style="text-decoration:underline" "="">NCBI's Disclaimer and Copyright notice</a>.<br><br>
+          
+       
+      </div>
+    </div>
+     </div>
+    <!-- /Content Center --> 
+    
+
+    
+    <div class="clear"></div>
+    <!-- Clear Line --> 
+    
+  </div>
+  <!-- /Content Inner --> 
+  
+</div>
+</div>
+<!-- /Content --> 
+
+
+<!-- Footer -->
+<div id="footer">
+  <section class="row-fluid">
+      
+    <section class="footer-wrapper">
+      <section class="row-fluid">
+        <section class="inner">
+          <div id="site-description">
+            <h3><img src="http://www.pubfacts.com/images/Logo.png" width="205" height="50" alt=""></h3>
+            <p>In-depth data on over 20 million PubMed citations and scientific publication authors.</p>
+          </div>
+          <div id="footer-menu">
+            <div id="nav-menu" class="footer-menu">
+              <h2>Navigation</h2>
+              <div class="left">
+                <ul>
+    
+            <li class="current"> <a href="http://www.pubfacts.com/">Home</a></li>
+      
+      <li><a href="http://www.pubfacts.com/categories">Article Categories</a></li>
+ 
+      <li><a href="http://www.pubfacts.com/privacypolicy">Privacy Policy</a></li>
+      
+      
+                </ul>
+              </div>
+              <div class="right">
+                        <ul>
+      <li><a href="http://www.pubfacts.com/journals">Scientific Journals</a></li>
+    <!--  <li><a href="http://www.pubfacts.com/popular">Most Popular</a></li>-->
+      <li><a href="http://www.pubfacts.com/jobs">Lab and Research Jobs</a></li>
+      <li><a href="http://www.pubfacts.com/about">About Us</a></li>
+      
+      
+                </ul>
+              </div>
+            </div>
+            <div id="fol-menu" class="footer-menu">
+            <!--
+              <h2>Follow Us</h2>
+              <ul>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Youtube</a></li>
+              </ul>
+              -->
+            </div>
+            <div id="job-menu" class="footer-menu">
+            <!--
+              <h2>Popular Jobs</h2>
+              <ul>
+                <li><a href="#">Web Developer</a></li>
+                <li><a href="#">Web Designer</a></li>
+                <li><a href="#">UX Engineer</a></li>
+                <li><a href="#">Account Manager</a></li>
+              </ul>
+              -->
+            </div>
+          </div>
+        </section>
+      </section>
+    </section>
+  </section>
+</div>
+<div class="clearfix"></div>
+<!-- Copyright -->
+<div id="copyright">
+  <div class="inner">
+    <div class="row-fluid"> 
+      <!-- Copyright Text -->
+      <div id="copyright-text">Copyright 2014 <a href="http://www.pubfacts.coms">PubFacts</a> | All Rights Reserved</div>
+      <!-- /Copyright Text --> 
+      <!-- Copyright Social Link -->
+      <!--
+      <div id="copyright-link">
+        <div class="buttons">
+          <ul class="top_soical_icons pull-right	">
+            <li> <a href="#"> <i class="fa fa-facebook"></i> </a> </li>
+            <li> <a href="#"> <i class="fa fa-google-plus"></i> </a> </li>
+            <li> <a href="#"> <i class="fa fa-twitter"></i> </a> </li>
+            <li> <a href="#"> <i class="fa fa-linkedin-square"></i> </a> </li>
+            <li> <a href="#"> <i class="fa fa-pinterest"></i> </a> </li>
+            <li> <a href="#"> <i class="fa fa-dribbble"></i> </a> </li>
+          </ul>
+        </div>
+      </div>
+      -->
+      <!-- /Copyright Social Link --> 
+      
+      <a class="scrollTop" href="#header" style="display: none;">
+      <div id="up_container"> <span></span> </div>
+      </a> </div>
+  </div>
+</div>
+<!-- /Copyright -->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"7c9985c3c7","applicationID":"3397442","transactionName":"NFNbMEtRXhJVV0NcDQ0ZeAdNWV8PG2RFXBQCVUAUVlxZAk0bXlsGBk4=","queueTime":0,"applicationTime":29,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script async="" type="text/javascript" src="http://www.pubfacts.com/js/jquery.mousewheel.js"></script>
+<!--
+<script type="text/javascript" src="http://www.pubfacts.com/js/jquery.flexslider-min.js"></script>
+-->
+<script type="text/javascript" src="http://www.pubfacts.com/js/jquery.easytabs.min.js"></script>
+
+
+<script type="text/javascript" src="http://www.pubfacts.com/js/jquery.gmap.min.js"></script>
+<script type="text/javascript" src="http://www.pubfacts.com/js/jquery.scrollbar.min.js"></script>
+<script type="text/javascript" src="http://www.pubfacts.com/js/jQuery.menutron.js"></script>
+<script async="" type="text/javascript" src="http://www.pubfacts.com/js/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="http://www.pubfacts.com/js/custom.js"></script>
+
+
+
+	<!-- Add mousewheel plugin (this is optional)
+	<script type="text/javascript" src="http://www.pubfacts.com/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+ -->
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="http://www.pubfacts.com/js/fancybox/source/jquery.fancybox.js?v=2.1.5"></script>
+
+	<!-- Add Button helper (this is optional)
+	<script type="text/javascript" src="http://www.pubfacts.com/js/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+
+	<!-- Add Thumbnail helper (this is optional)  
+	<script type="text/javascript" src="http://www.pubfacts.com/js/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+	<!-- Add Media helper (this is optional)
+	<script type="text/javascript" src="http://www.pubfacts.com/js/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+    
+     -->
+     
+     
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancyboxPop').fancybox({
+ 'width'             : '550',
+        'height'            : '400',
+        'autoScale'         : false,
+        'autoDimensions'    : false,
+        'scrolling'         : 'no',
+        'transitionIn'      : 'none',
+        'transitionOut'     : 'none',
+        'type'              : 'iframe'  
+
+});
+			
+
+
+		});
+		function closeFancybox(){
+    $.fancybox.close();
+}
+	</script><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
