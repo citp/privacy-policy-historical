@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shopmadeinchina.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331054825id_/http%3A//www.shopmadeinchina.com/static/pages/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopmadeinchina.com privacy policy that was archived on 2014-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215223215id_/http%3A//www.shopmadeinchina.com/static/pages/privacy_policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="stylesheet" type="text/css" href="/static/web/css/site.css">
@@ -17,6 +17,7 @@
 <!--start topbox960-->
   <link rel="shortcut icon" href="/static/web/images/logo-ico.ico" type="image/ico">
 <link rel="stylesheet" type="text/css" href="/static/web/css/product_new_2012/index_new_2012.css">
+<link rel="stylesheet" type="text/css" href="/static/web/css/list_wholesale.css">
 <style>
 .sub-cate-list {
 	position:absolute;
@@ -685,10 +686,7 @@ If you no longer wish to receive the Company's promotional communications, you m
 </div>
     </div>
   </div>
-  <div id="split"><link rel="stylesheet" type="text/css" href="/static/web/css/list_wholesale.css">
-
-
-<div style="clear:both;"></div>
+  <div id="split"><div style="clear:both;"></div>
 <div class="page-inner mart20" style="text-align:left;">
 
 	<div class="foot_p">
@@ -746,6 +744,7 @@ If you no longer wish to receive the Company's promotional communications, you m
                 <li><a href="http://www.shopmadeinchina.com/about-us/en/right-owner.shtml">IPR Policy</a></li>
                 <li>Partners</li>
                 <li><a href="http://www.shopmadeinchina.com/static/help-whoselsale/contact_us.shtml">Contact Us</a></li>
+                <li><a href="http://www.shopmadeinchina.com/static/help-whoselsale/return_policy.shtml">Return Policy</a></li>
             </ul>
         </div>
         <div class=" foot_3" style="width:180px;">
@@ -792,6 +791,9 @@ If you no longer wish to receive the Company's promotional communications, you m
         <div class="verisign_out">
           <div class="verisign_inside"><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=secure.shopmadeinchina.com&amp;lang=en" target="_blank"><img src="/static/web/images/homepage-newstyle/verisignLogo.gif" width="92" height="46" border="0"></a></div>
         </div>
+
+        <div class="floatleft opus_out" style="width:116px;">
+			<img src="/static/web/images/index_new_12_11_12/powered_by_fulldol_116x40.gif" alt="Powered by Fulldol" title="Powered by Fulldol" height="40" width="116"></div>
 <!--        <div class="floatleft opus_out" style="width:115px;"><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.shopmadeinchina.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.shopmadeinchina.com/12.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a></div>
 -->          
         <div class="clear"></div>
@@ -823,11 +825,11 @@ function checkLogin() {
 						flag=3;
 					}
 					if(msg.messageType=='5' || msg.messageType=='6') {
-						jQuery("#message").append("<li><a href=\"/buyer/template/orders,OrderDispute.vm?orderNo="+msg.titleId+"\">"+msg.title.substr(0, 30)+"...</a></li>");
+						jQuery("#message").append("<li><a href=\"/buyer/template/orders,OrderDispute.vm?orderNo="+msg.titleId+"\">"+msg.title.substr(0,30)+"...</a></li>");
 					} else if(msg.messageType=='8') {
-						jQuery("#message").append("<li><a href=\"/buyer/template/message,serviceFeedbackDetail.vm?flag=3&messageId="+msg.messageId+"\">"+msg.title.substr(0, 30)+"...</a></li>");
+						jQuery("#message").append("<li><a href=\"/buyer/template/message,serviceFeedbackDetail.vm?flag=3&messageId="+msg.messageId+"\">"+msg.title.substr(0,30)+"...</a></li>");
 					} else {
-						jQuery("#message").append("<li><a href=\"/buyer/template/message,message.vm?flag="+flag+"&messageId="+msg.messageId+"\">"+msg.title.substr(0, 30)+"...</a></li>");
+						jQuery("#message").append("<li><a href=\"/buyer/template/message,message.vm?flag="+flag+"&messageId="+msg.messageId+"\">"+msg.title.substr(0,30)+"...</a></li>");
 					}
 				}
 			} else {
