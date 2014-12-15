@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the like-ex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122745id_/http%3A//like-ex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the like-ex.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215215350id_/http%3A//like-ex.com/privacy.php) for the most accurate reproduction.*
 
-# Like-Ex.com - Like Exchange - Free Facebook Likes, Like 4 Like Exchange, Free Likes
+# Like-Ex.com - Like Exchange - Like 4 Like Exchange - SEO - Social Media Exchange
 
 **LEGAL PRIVACY POLICY for Like-Ex.com**
 
@@ -42,4 +42,4 @@ We respond to subpoenas, court orders, or legal process, or to establish or exer
 **Contacting Us:**  
 If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact us at: Admin [at] Like-Ex.com 
 
-[_Contact Us_](https://web.archive.org/web/20140625122745id_/http%3A//like-ex.com/contact.php)
+[_Contact Us_](https://web.archive.org/web/20141215215350id_/http%3A//like-ex.com/contact.php)
