@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630193845id_/http%3A//www.whyy.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216001529id_/http%3A//www.whyy.org/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | About | WHYY
 
 Thank you for visiting WHYY Online (which includes, but is not limited to, whyy.org and newsworks.org) and any features of these sites, including, but not limited to, Content Feeds, Podcasts, and social networking features (collectively, the "WHYY Websites" or the "Service"). We know you don't want the information you provide us shared indiscriminately. Here we explain how the WHYY Websites collect information, what we do with it, and what controls you have. We're committed to ensuring the privacy of your personally identifiable information, and to protecting your ability to make financial transactions and transmit your personal data with full confidence.
 
-Read our [Membership List Policy](https://web.archive.org/web/20140630193845id_/http%3A//www.whyy.org/about/membershiplist.php) for information related to the privacy of our members.
+Read our [Membership List Policy](https://web.archive.org/web/20141216001529id_/http%3A//www.whyy.org/about/membershiplist.php) for information related to the privacy of our members.
 
 Please read our Privacy Policy carefully, and if you have any questions or concerns, please contact us. Also, note that the WHYY Websites link to numerous other sites. Please consult those sites to learn more about their policies.
 
