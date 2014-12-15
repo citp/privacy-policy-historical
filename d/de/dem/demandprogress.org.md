@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandprogress.org privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612164238id_/http%3A//www.demandprogress.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandprogress.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216000017id_/https%3A//demandprogress.org/privacy) for the most accurate reproduction.*
 
 # Demand Progress
 
