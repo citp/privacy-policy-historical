@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the greenpacks.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075840id_/http%3A//www.greenpacks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpacks.org privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215111806id_/http%3A//www.greenpacks.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GreenPacks.org
-
-## [Privacy Policy](http://www.greenpacks.org/privacy-policy/)
+# Privacy Policy - GreenPacks
 
 At www.greenpacks.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.greenpacks.org and how it is used.
 
@@ -13,9 +11,9 @@ Cookies and Web Beacons
 www.greenpacks.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 DoubleClick DART Cookie  
-\- Google, as a third party vendor, uses cookies to serve ads on www.greenpacks.org.  
-\- Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.greenpacks.org and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+– Google, as a third party vendor, uses cookies to serve ads on www.greenpacks.org.  
+– Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.greenpacks.org and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, TechnoratiMedia, Amazon or Kontera.
 
