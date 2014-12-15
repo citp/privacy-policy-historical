@@ -1,35 +1,12 @@
-> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429225838id_/http%3A//www.onestopphoneshop.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215091432id_/http%3A//www.onestopphoneshop.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy
-
-##  How your personal information is used by onestopphoneshop.co.uk
 
 When you place an order with onestopphoneshop.co.uk, we need to collect certain information to be able to process your order. What we need varies depending on the items you have ordered, and the pages you are asked to complete will vary accordingly. The information is sent to us via an SSL encrypted server. This information will form part of a permanent record of your dealings with onestopphoneshop.co.uk.
 
 When you email us, we may ask for certain information to be able to check this record and answer your questions quickly and accurately. When you contact us, in any way, we may make a note of this contact if it is relevant to your permanent record. This allows us to provide a higher level of ongoing customer care.
 
-We will keep your personal details, given to us by you or others during your relationship with us and other companies in the Carphone Warehouse Group plc group of companies.
-
-**These include:**
-
-  * details you give us on application forms or during conversations with you on the telephone or at any of our stores,
-  * details you give us so that we can provide you with goods and services,
-  * details we receive from credit reference and fraud detection agencies.
-
-
-
-**You agree that we may use and update this centrally held information:**
-
-  * for credit and credit related services and to manage your accounts;
-  * to provide you with other services;
-  * to identify other products and services which might be suitable for you;
-  * to recover debts;
-  * to prevent and detect fraud;
-  * to update our records about you;
-  * to prevent money laundering; and
-  * to check your identity.
-
-
+We will keep your personal details, given to us by you or others during your relationship with us and other companies in the Dixons Carphone Group plc group of companies.
 
 You agree that we may use your personal information to make a credit check on you before we provide you with any services. These searches will be recorded by the credit reference agencies. We may disclose information about how you run your accounts to the credit reference agencies. We and other organisations may also use credit reference agency and fraud prevention agency records that we receive about you, people financially linked to you and others in your household to help make decisions about you and them.
 
@@ -41,50 +18,34 @@ If you request it, on payment of a fee, which is currently Ten Pounds, we will p
 
 The information we hold about you is confidential. We will only disclose it outside the Carphone Warehouse Group when: 
 
-  * you give us your consent,
-  * it is needed by certain reputable third parties involved in running accounts and/or providing services for you (for example, credit reference agencies who do credit checks for us),
-  * in order to obtain professional advice,
-  * we or others need to investigate or prevent crime (e.g. to fraud prevention agencies),
-  * the law permits or requires it, or any regulatory or governmental body requests or requires it, even without your consent, or,
-  * there is a duty to the public to reveal the information.
+We may administer your account and provide other services from centres in countries outside Europe that do not always have the same standard of data protection laws as the UK. However, we will have a contract in place to ensure that your information is adequately protected, and we will remain bound by our obligations under the Data Protection Act even when your personal information is processed outside Europe.
 
+### How to access your personal file 
 
-
-We may administer your account and provide other services from centres in countries outside Europe that do not always have the same standard of data protection laws as the UK. However, we will have a contract in place to ensure that your information is adequately protected, and we will remain bound by our obligations under the Data Protection Act even when your personal information is processed outside Europe. 
-
-##  How to request a copy of the information we hold about you
-
-The Data Protection Act gives you the right to see personal information we hold about you.
-
-**If you want copies of this information you need to send us a written request with the following information:**
+The Data Protection Act (DPA) gives you the right to see personal information we hold about you. If you want copies of this information, please send us a written request with the following:
 
   * Your full name and address
   * Your Carphone Warehouse/onestopphoneshop.co.uk account number
-  * A cheque for Ten Pounds (admin charge) made payable to The Carphone Warehouse
-  * A copy of one these proofs of identity: 
-    * Birth certificate
-    * Passport
-    * Drivers licence
-    * Credit or debit card statement
-    * Utility bill showing the same name and address as on our records (but not a TalkTalk or Carphone Warehouse bill)
-    * Child benefit book
-    * Pension book
+  * A cheque for £10 (admin charge) made payable to The Carphone Warehouse
+  * Details of any specific information you require 
+  * One proof of identity - we can accept a photocopy of either your birth certificate, your passport, your driver's licence
+  * One proof of identity of address - we can accept a photocopy of a recent credit or debit card statement, a utility bill showing the same name and address as on your Carphone Warehouse account.
 
 
 
-**Please send your request, cheque and proof of identity to:**
+Please send your request, cheque and proof of identity to:
 
-**The Data Protection Office  
-The Carphone Warehouse  
-1 Portal Way  
-London  
-W3 6RS **
+**The Carphone Warehouse  
+Data Protection Office  
+PO Box 375  
+Southhampton  
+SO30 2PU **
 
-We recommend that the request is sent by Recorded Delivery, but this is not compulsory. We can accept postal orders but we do not take online payments.
+We recommend that the request is sent by Recorded Delivery, but this is not compulsory. Please note that we do not take online payments.
 
 **What happens next?**
 
-Once we receive your request, along with your cheque and proof of identity, we will get back to you within 40 days. 
+Once we receive your request, along with your cheque and proof of identity, we’ll get back to you within 40 days.
 
 ##  Use of cookies **Updated due to EU Cookie Privacy Law - Directive 2009/136/EC**
 
@@ -169,7 +130,7 @@ Belton Road Trading Estate
 Loughborough  
 LE11 5XH **
 
-or email us at our Help Desk at [http://www.onestopphoneshop.co.uk/helpdesk/](https://web.archive.org/web/20130429225838id_/http%3A//www.onestopphoneshop.co.uk/helpdesk/)
+or email us at our Help Desk at [http://www.onestopphoneshop.co.uk/helpdesk/](https://web.archive.org/web/20141215091432id_/http%3A//www.onestopphoneshop.co.uk/helpdesk/)
 
 ##  MEND/SEND
 
