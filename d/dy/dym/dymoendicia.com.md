@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dymoendicia.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216161017id_/http%3A//www.endicia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dymoendicia.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215095355id_/http%3A//www.endicia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Endicia
 
@@ -6,9 +6,9 @@ Your privacy is extremely important to us, and we are committed to protecting yo
 
 This policy is effective as of June 3, 2013. 
 
-## Information Collection and Use 
+## Information Collection and Use
 
-  1. When You Visit the Endicia Website 
+  1. **When You Visit the Endicia Website**
 
 When you visit and browse through our website, we automatically gather and store the following information about your visit (that does not identify you personally): 
 
@@ -24,7 +24,7 @@ We may use persistent cookies and session cookies to maintain your data while yo
 
 We only collect information that identifies you personally when you choose to share it with us by signing up for our service, purchasing products from our online store, or sending us an email message. 
 
-  2. When You Sign Up For Our Service 
+  2. **When You Sign Up For Our Service**
 
 To use Endicia products, you must register via our web-enabled online registration form. The U.S. Postal Service® must approve your registration. During the registration process, the following information is collected: 
 
@@ -36,7 +36,7 @@ To use Endicia products, you must register via our web-enabled online registrati
 
 This information is securely electronically transmitted to the U.S. Postal Service to complete the registration process. This information is primarily used to register you as an Endicia user, as well as for future account management activities associated with your normal day-to-day activities. 
 
-  3. When You Purchase Products at Our Online Store 
+  3. **When You Purchase Products at Our Online Store**
 
 We collect the following information when you make a purchase at our online store: 
 
@@ -46,19 +46,19 @@ We collect the following information when you make a purchase at our online stor
 
 This information is used to charge your credit card for store purchases and to fulfill your order. It is shared with our payment processors and companies that fulfill and ship our orders, with whom we have confidentiality agreements. It may be stored to provide customer support on your orders. 
 
-  4. When You Send Us an Email 
+  4. **When You Send Us an Email**
 
 We provide technical and pre-sales support through email. We include links on our website for you to send us email. If you send us an email message that includes personal information, we will use that information to respond to your inquiry. We will preserve the content of your email, your email address, and our response, so that we can more efficiently handle any follow-up questions. 
 
 Please remember that email is not necessarily secure against interception. If your communication is very sensitive or includes information such as your bank account number, charge card number, or social security number, do not use email, but call us instead. 
 
-  5. When You Purchase Postage With Endicia 
+  5. **When You Purchase Postage With Endicia**
 
 When you purchase postage using Endicia, we collect information about the amount and date of your postage purchase. 
 
     * If you use a credit card for postage payment, we share your credit card information with our credit card processor to authorize and process your payment every time you purchase postage 
     * If you use a checking account for postage payment, we share your checking account information with our direct debit processor to authorize and process your payment every time you purchase postage. 
-  6. When You Print Postage With Endicia 
+  6. **When You Print Postage With Endicia**
 
 When you print postage using Endicia, we collect the following information: 
 
@@ -71,7 +71,7 @@ The primary purpose of this information is to generate valid postage indicia in 
 
 When you use Endicia software to print electronic USPS Tracking (formerly Delivery Confirmation), Signature Confirmation™, or the electronic Priority Mail Express® label, we also collect complete return and destination address data, package descriptions, reference IDs, and delivery statuses for each label you print. We maintain this information for your accounting and reporting purposes in the account management section of our website. 
 
-  7. When You Provide Us Information to Download the Endicia XML Specifications for PC or Mac: 
+  7. **When You Provide Us Information to Download the Endicia XML Specifications for PC or Mac:**
 
 When you provide us with information to download Endicia's XML specifications for PC or Mac, we collect the following information: 
 
@@ -80,7 +80,7 @@ When you provide us with information to download Endicia's XML specifications fo
 
 This information is collected to identify you as an integrator. It may be stored to contact you and provide support for your integration.
 
-  8. When You Provide Us With Information to Access the Endicia Label Server API: 
+  8. **When You Provide Us With Information to Access the Endicia Label Server API:**
 
 When you provide us with information to access the Endicia Label Server API, we collect the following information:
 
@@ -91,7 +91,7 @@ When you provide us with information to access the Endicia Label Server API, we 
 
 The information is used to electronically enter into a Non-Disclosure Agreement between you and Endicia. It is also collected to identify you as an integrator and may be stored to contact you and provide support for your integration.
 
-  9. When You Provide Us With Information on Your U.S. Postal Service Rep Portal Account: 
+  9. **When You Provide Us With Information on Your U.S. Postal Service Rep Portal Account:**
 
 When you provide us with information on your U.S. Postal Service Rep Portal Account, we collect the following information: 
 
@@ -123,8 +123,15 @@ Endicia does not rent, sell, or trade your personal information with anyone for 
   4. Endicia may provide information to trusted partners or contractors working on our behalf, subject to confidentiality agreements that bar their use of this information for their own purposes. 
   5. If you have a DYMO Stamps account, Endicia may share certain information about your DYMO Stamps account, including your contact information, billing transactions, and usage data with DYMO Corporation. DYMO's usage of this information is governed by DYMO Corporation's Privacy Policy. For more information on DYMO's Privacy Policy, please visit [www.dymo.com](http://www.dymo.com/). 
   6. In the case of a merger or acquisition of our company, service, or assets, Endicia may share your information with the other company and will notify you on this site if your information is to be transferred. 
-  7. Endicia contracts with an online partner to help manage and optimize our Internet business and communications. We use the services of this company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by our marketing company. The type of information we collect includes information about your browser and which technologies you use, where in the world you are located, and how you interact with our site, including the product codes you use, the price for merchandise you purchase, and which pages you visit. We do not collect any personally identifiable information in this process. By supplementing our records, this information helps us learn things such as what pages are most attractive to our visitors, which of our products is of the most interest to our customers, and what kinds of offers our customers like to see. Our marketing partner logs the information coming from our site on our behalf, and we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers, and marketing strategy, you can opt-out of these website analysis tools by clicking these links: Google Analytics: <http://www.google.com/analytics/learn/privacy.html>, Omniture: <http://www.adobe.com/privacy.html>, Bizo: <http://www.bizo.com/privacy_policy>, AdRoll: <http://www.adroll.com/about/privacy>.
-  8.  Endicia also contracts with a company called Demandbase Data Management Platform. The Demandbase Data Management Platform (“DMP”) is the proprietary data platform linking over 3 Billion IP Addresses to 6.6 Million Companies worldwide. The DMP provides Audience Segments as well as B2B Company Profiles and Premium Information on an IP by IP basis to power the Demandbase Company-Targeted Advertising. This solution does not utilize cookies and so Demandbase does not collect, store, or share any contact or other data about individuals or data subjects. As a result, the DMP contains no Personally Identifiable Information. For more information visit their privacy policy: <http://www.demandbase.com/who-is-demandbase/about-demandbase/privacy>.
+  7. Endicia contracts with an online partner to help manage and optimize our Internet business and communications. We use the services of this company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by our marketing company. The type of information we collect includes information about your browser and which technologies you use, where in the world you are located, and how you interact with our site, including the product codes you use, the price for merchandise you purchase, and which pages you visit. We do not collect any personally identifiable information in this process. By supplementing our records, this information helps us learn things such as what pages are most attractive to our visitors, which of our products is of the most interest to our customers, and what kinds of offers our customers like to see. Our marketing partner logs the information coming from our site on our behalf, and we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers, and marketing strategy, you can opt-out of these website analysis tools by clicking these links: 
+    * Adobe Analytics: <http://www.adobe.com/privacy.html>
+    * AdRoll: <http://www.adroll.com/about/privacy>
+    * Bizo: <http://www.bizo.com/privacy_policy>
+    * Google Analytics Data Privacy & Security: <http://www.google.com/analytics/learn/privacy.html>
+    * Google Analytics Opt-out: <https://tools.google.com/dlpage/gaoptout>
+    * Quantcast: <http://www.quantcast.com/privacy>
+    * Trade Desk: <http://www.thetradedesk.com/privacy-policy>
+  8. Endicia also contracts with a company called Demandbase Data Management Platform. The Demandbase Data Management Platform (“DMP”) is the proprietary data platform linking over 3 Billion IP Addresses to 6.6 Million Companies worldwide. The DMP provides Audience Segments as well as B2B Company Profiles and Premium Information on an IP by IP basis to power the Demandbase Company-Targeted Advertising. This solution does not utilize cookies and so Demandbase does not collect, store, or share any contact or other data about individuals or data subjects. As a result, the DMP contains no Personally Identifiable Information. For more information visit their privacy policy: <http://www.demandbase.com/who-is-demandbase/about-demandbase/privacy>. 
 
 
 
@@ -154,4 +161,4 @@ Palo Alto, CA 94306
 
 Endicia may from time to time update its privacy policy. If we make changes to our privacy policy, the new privacy policy and new effective date will be posted on this website. 
 
-© Copyright 2013, Endicia, A Newell Rubbermaid Brand. All rights reserved.
+© Copyright 2014, Endicia, A Newell Rubbermaid Brand. All rights reserved.
