@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205648id_/http%3A//www.reference.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215090525id_/http%3A//www.reference.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Policy from Dictionary.com
 
@@ -23,7 +23,7 @@ We use your information to provide and improve our services, customize services 
 
 **Email Address** : We use your email address only to allow you to log in to your account, send you confirmations (of your registration, purchase, etc.), and to send you messages as part of our services. You may choose to stop receiving these emails by adjusting your email settings at [http://app.dictionary.com/users/settings](http://app.dictionary.com/users/settings) or by clicking on the "unsubscribe" link at the bottom of the email. For specific services, you can unsubscribe here: [Word of the Day unsubscribe](http://dictionary.reference.com/help/faq/wordoftheday/#unsubscribe) or [Reference of the Day unsubscribe](http://www.reference.com/thisday/list/). We will also use your email address to respond to your customer service inquiries. If you are under the age of 13, certain messaging and site functionality may be non-existent or limited.
 
-**Phone Number** : We use your mobile phone number only to send you SMS messages that you've requested. To stop receiving SMS messages, please text STOP to 44636.
+**Phone Number** : We use your mobile phone number only to send you SMS messages that you've requested. To stop receiving SMS messages, please enter your mobile number’s corresponding email address here: <http://dictionary.reference.com/help/faq/wordoftheday/index.html#unsubscribe>.
 
 **Credit Card Information** : We use your credit card information only to process your purchases and to detect and prevent fraud. 
 
@@ -53,7 +53,7 @@ Many ad companies are members of the Network Advertising Initiative. NAI members
 
 Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the NAI “Consumer Opt-out” link and the DAA opt-out link above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. 
 
-If you download the Dictionary.com Toolbar, we will send non-personal information about your use of the Toolbar to Ask.com, which powers the Toolbar's web search features. For more information, please see our Toolbar license agreement, <http://dictionary.reference.com/help/eula.html>. If you install one of our apps on your mobile device, your use of the app is subject to our app license agreement,[ http://dictionary.reference.com/help/dictionaryappeula.html](http://dictionary.reference.com/help/dictionaryappeula.html).
+If you install one of our apps on your mobile device, your use of the app is subject to our app license agreement,[ http://dictionary.reference.com/help/dictionaryappeula.html](http://dictionary.reference.com/help/dictionaryappeula.html).
 
 We do allow children under 13 to register for an account, but we do not knowingly collect any personally identifiable information from children under 13. Personally identifiable information, for example, includes a first and last name; a home or other physical address; an e-mail address; a telephone number; or a social security number.
 
