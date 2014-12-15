@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the openathens.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163935id_/http%3A//www.eduserv.org.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openathens.net privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215051426id_/http%3A//www.eduserv.org.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies
 
-We’re committed to protecting the privacy of people who use our products and services, or who visit our website. As part of our responsibility we let you know what information we collect, why we collect it and what we do to safeguard it.
+This Privacy and Cookie Policy explains how Eduserv uses personal information we collect, why we collect it, how we safeguard it, and how you can control that data. We are absolutely committed to protecting the privacy of people who use our products and services, or who visit our website.
 
-## Information we collect
+## What information do we gather?
 
 Essentially we collect two types of information:-
 
-  * Personal data that we request during registration for one of our services or attendance at an event, such as a person’s name, contact details (usually an email address), the organisation they belong to, their role in that organisation and other relevant information which helps us to deliver the services we offer. 
-  * Anonymous information about your computer and about your use of this website.
+  * Information that relates to and can identify you (eg. name, address, organisation) 
+  * Anonymous information that doesn’t identify you personally, for example about your computer and about your use of this website.  
 
 
 
@@ -20,24 +20,58 @@ We may collect personal information from you when you:
   * Sign up to an event or newsletter. 
   * Purchase any of our services. 
   * Become a user, administrator or editor of our Identity & Access and Licence Negotiation services. 
+  * Become a user of compute.cloud.eduserv.org.uk or dashboard.cloud.eduserv.org.uk
 
 
 
-So whenever we collect information about you personally, this is only done with your knowledge and consent and you have the right to ask us to stop using this information.
+Whenever we collect information about you personally, it is only done with your knowledge and consent and you have the right to ask us to stop using this information, for example by unsubscribing to an email newsletter by following a link.
 
-We collect anonymous information from visitors to our website using analytic tools, cookies and web logs. 
+If we collect any personal information (eg. through a form) we will be clear about it and draw your attention to our Privacy and Cookies Policy. 
 
-Cookies are small files containing strings of characters that uniquely identity your browser. You can disable cookies using your browser settings but you will not be able to use some parts of our website or services, or those from other providers. 
+We collect anonymous information from visitors to our website using analytics tools, cookies and web logs. 
 
-Find out more about the [Cookies](https://web.archive.org/legal/privacy-and-cookies/cookies) we set and how to control their use. 
+## Our use of cookies
+
+We want to make our online services as user-friendly and relevant as possible. To do this, we sometimes place small amounts of information on your device (eg. your computer or mobile phone), including small files known as cookies, to help us understand how you use our web services. 
+
+These files cannot identity you personally, but can be used by us to, for example: 
+
+  * Deliver a service that recognises your device so you don’t have to give the same information twice
+  * Personalise and improve your user experience 
+  * Measure how many people are using our services, the relevance of our web content and other performance-related data 
+
+
+
+Examples of cookies set by Eduserv: 
+
+**Name**
+
+| **Purpose**  
+---|---  
+Google Analytics | This is a web analytics tool provided by Google that enables us to evaluate how users (anonymously) use our site, which of our communications campaigns are working and which parts of the site need improvement. You can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout) to disable tracking by Google Analytics.  
+Google DoubleClick | Although we do not feature advertising on our site we have implemented Analytics Demographics and Interest Reporting in Google Analytics based on Display Advertising. This enables us to develop the site and content around our users’ interests using anonymous data. You can opt-out of [Google Analytics for Display Advertising](http://www.google.com/policies/privacy/ads/#toc-optout) and customize Google Display Network ads using the Ads Settings.  
+Identity_Session | Set by the web content management system to remember certain settings, such as which part of the site you were using. This session cookie is destroyed each time you close your browser.  
+WordPress | Our blog runs on the WordPress CMS and cookies are used to store basic data on your interactions with WordPress (for example commenting, sharing) and whether you have logged into WordPress. We use a session cookie to remember your log-in for you if you are a registered user and we deem these as being strictly necessary to the working of the website.  
+  
+In accordance with the latest guidance we have adopted an ‘implied consent’ policy. If you are not happy for cookies to be set on your device you can: 
+
+  * Discontinue use of the site
+  * Delete the cookies following your visit
+  * Browse the site using your browser’s anonymous usage setting (Incognito in Chrome, InPrivate for Internet Explorer, Private Browsing in Firefox, Safari, etc) 
+
+
+
+You can find out more about cookies and how to manage them at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 ## How we use your information
 
 ### Personal data 
 
-We may contact you with information about our products and services that we think you may be interested in. 
+If you have subscribed to any of our services we will use the information you have provided us to keep you updated unless you tell us otherwise. 
 
-We will also use your personal details if you have indicated that you wish to be sent communications about Eduserv news, events and services either when attending an event, or signing up to a newsletter. You can choose to unsubscribe at any time. 
+We may also contact you with information about our products and services that we think you may be interested in.
+
+We will also use your personal details if you have indicated that you wish to be informed of news, events and services either when attending an event, or signing up to a newsletter. You can choose to unsubscribe at any time. If there is no unsubscribe button in an email it is usually because it’s part of a service communication to customers. 
 
 We need personal data in order to confirm a user’s entitlement to parts of our Identity & Access Management services. 
 
@@ -45,7 +79,9 @@ We may need to provide service providers and suppliers that your organisation su
 
 ### Anonymous information
 
-We want to provide you with the best possible service. Anonymous information about the way people use our website can be aggregated into statistics that show us how our websites are used and help us improve user experience of the services we provide.
+Anonymous information about the way people use our website can be aggregated into statistics that show us how our websites are used and help us improve the user experience of the services we provide. 
+
+We use Google Analytics to collect information about use of our website. It helps us to understand how often users visit, what pages they view, their geographic location and so on. Google Analytics does not use personally identifiable information but instead allows us to see patterns and assess the effectiveness of our content. We can also place anonymous information into audience segments based on location and interests and serve relevant content that we think will be of interest to you. 
 
 Anonymous data may also be essential to the security of the services we offer or a necessary part of a service – for example, for certain Identity & Access Management customers. 
 
@@ -92,4 +128,4 @@ This privacy policy applies only to the use of your personal data by Eduserv. Th
 
 If you would like to contact us about any aspect of our Privacy Policy, please email [contact@eduserv.org.uk](mailto:contact@eduserv.org.uk) or write to us at the postal address above. 
 
-Nov 2012 
+November 2014 
