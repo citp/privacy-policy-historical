@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623234831id_/http%3A//www.fticonsulting.com/our-firm/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215063841id_/http%3A//www.fticonsulting.com/our-firm/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | FTI Consulting
+# Privacy Policy
 
-### FTI Consulting, Inc. Website Privacy Policy
-
-### PLEASE READ THIS POLICY CAREFULLY.
+FTI Consulting, Inc. Website Privacy Policy  
+PLEASE READ THIS POLICY CAREFULLY.
 
 FTI Consulting is committed to safeguarding the confidentiality and privacy of information entrusted to it, including any personal information (sometimes referred to as “personally identifiable information” or “PII”) collected through its websites. Your continued use of this website constitutes your agreement with this Privacy Policy and any subsequent updates.  Please see the additional information under the heading [[Legal](https://web.archive.org/our-firm/legal.aspx)] for more information about our on-line terms of use and policies in general.
 
@@ -54,97 +53,16 @@ For some of our cookies we use Google Analytics as a third party to provide us w
 
 The table below provides additional details on the specific cookies used on our website:
 
-**File name**
-
-| 
-
-**Type**
-
-| 
-
-**Description**  
-  
+File Name| Type| Description  
 ---|---|---  
-  
-**country-code**
-
-| 
-
-Persistent cookies
-
-| 
-
-Country code (used to store the default country of the user)  
-  
-**_session_id**
-
-| 
-
-Session cookies
-
-| 
-
-Hexadecimal hash (used to handle the session)  
-  
-**wco_data**
-
-| 
-
-Session cookies
-
-| 
-
-Hexadecimal hash (used to handle the session)  
-  
-**__atuvc**
-
-| 
-
-Third party cookies
-
-| 
-
-Addthis (marketing information)  
-  
-**__utma**
-
-| 
-
-Third party cookies
-
-| 
-
-Google Analytics (used for usage statistics)  
-  
-**__utmb**
-
-| 
-
-Third party cookies
-
-| 
-
-Google Analytics (used for usage statistics)  
-  
-**__utmc**
-
-| 
-
-Third party cookies
-
-| 
-
-Google Analytics (used for usage statistics)  
-  
-**__utmz**
-
-| 
-
-Third party cookies
-
-| 
-
-Google Analytics (used for usage statistics)  
+country-code | Persistent cookies | Country code (used to store the default country of the user)  
+_session_id | Session cookies | Hexadecimal hash (used to handle the session)  
+wco_data | Session cookies | Hexadecimal hash (used to handle the session)  
+__atuvc | Third party cookies | Addthis (marketing information)  
+__utma | Third party cookies | Google Analytics (used for usage statistics)  
+__utmb | Third party cookies | Google Analytics (used for usage statistics)  
+__utmc | Third party cookies | Google Analytics (used for usage statistics)  
+__utmz | Third party cookies | Google Analytics (used for usage statistics)  
   
   
 **By continuing to use this website you give your consent for us to use cookies as detailed above.** If the way we use cookies changes significantly (e.g. a new cookie being added with different functionality) we will inform you from the log in page. This detail will always be available to you from the navigation links at the bottom of all pages.
