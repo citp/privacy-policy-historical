@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shesnew.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106124109id_/http%3A//www.psmhelp.com/%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shesnew.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215173818id_/http%3A//www.psmhelp.com/privacy) for the most accurate reproduction.*
 
 # PSM-Help :: Privacy Policy
 
