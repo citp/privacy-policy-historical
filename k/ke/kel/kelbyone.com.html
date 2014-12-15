@@ -1,562 +1,589 @@
-<!--The following is the downloaded HTML source of the kelbyone.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625052951id_/http%3A//kelbyone.com/privacypledge) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kelbyone.com privacy policy that was archived on 2014-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215211706id_/http%3A//kelbyone.com/privacypledge) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><head>
+<!DOCTYPE html><html><head>
+<meta charset="UTF-8"><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMOVl5ACwcBUFBU"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Pledge - KelbyOne</title>
+<link rel="shortcut icon" href="//cdnsmall.kelbymediagroup.com/kelbyone/assets/images/favicon.ico">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<!--<link rel="pingback" href="http://kelbyone.com/xmlrpc.php" />-->
 
-    <meta charset="UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KHRGGS"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMOVl5ACwcBUFBU"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-    <title>Privacy Pledge | KelbyOne</title>
-    <meta name="viewport" content="width=1200px, initial-scale=1.0">
-    <meta name="author" content="">
+<script src="//cdnsmall.kelbymediagroup.com/kelbyone/assets/js/libs/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>var wpurl = 'http://kelbyone.com';</script>
 
-    <link rel="pingback" href="http://kelbyone.com/xmlrpc.php">
-    <link rel="shortcut icon" href="/favicon.ico">
-    
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.5 - http://yoast.com/wordpress/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://kelbyone.com/privacypledge/">
-<link rel="author" href="https://plus.google.com/+AlanHess">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Pledge - KelbyOne">
-<meta property="og:description" content="Privacy Policy The last update to our Privacy Policy was posted on January 3, 2014. This governs the privacy policy of our websites and properties owned by KelbyOne, LLC Our Privacy Pledge This Privacy Policy applies to and is provided on behalf of the KelbyOne, LLC family of companies (collectively referred to as “We,” “Us,” …">
+<meta property="og:description" content="Privacy Policy
+The last update to our Privacy Policy was posted on January 3, 2014. ...">
 <meta property="og:url" content="http://kelbyone.com/privacypledge/">
 <meta property="og:site_name" content="KelbyOne">
 <meta property="article:author" content="alanhessphotography">
-<meta property="article:published_time" content="2013-11-06T16:07:50-05:00">
-<meta property="article:modified_time" content="2014-05-20T09:11:14-04:00">
-<meta property="og:updated_time" content="2014-05-20T09:11:14-04:00">
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="KelbyOne » Feed" href="http://kelbyone.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="KelbyOne » Comments Feed" href="http://kelbyone.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="KelbyOne » Privacy Pledge Comments Feed" href="http://kelbyone.com/privacypledge/feed/">
+<link rel="stylesheet" id="smart-coupon-css" href="http://kelbyone.com/wp-content/plugins/woocommerce-smart-coupons/assets/css/smart-coupon.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="bp-legacy-css-css" href="http://kelbyone.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.min.css?ver=2.1.1" type="text/css" media="screen">
+<link rel="stylesheet" id="contact-form-7-css" href="http://kelbyone.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//kelbyone.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.2.8" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//kelbyone.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.2.8" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//kelbyone.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.2.8" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://kelbyone.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="videocaptions-css" href="http://kelbyone.com/wp-content/plugins/video-captions/public/styles/videocaptions.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="k1-bootstrap-css" href="http://kelbyone.com/wp-content/themes/kelbyone/css/libs/bootstrap.min.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="k1-bootstrap-theme-css" href="http://kelbyone.com/wp-content/themes/kelbyone/css/libs/bootstrap-theme.min.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="k1-scrollbar-css" href="http://kelbyone.com/wp-content/themes/k1/css/libs/jquery.mCustomScrollbar.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="k1-styles-css" href="http://kelbyone.com/wp-content/themes/kelbyone/css/styles.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="k1-qtip-css" href="http://kelbyone.com/wp-content/themes/k1/css/libs/jquery.qtip.min.css?ver=4.0.1" type="text/css" media="">
+<link rel="stylesheet" id="k1-kelbyone-css" href="http://kelbyone.com/wp-content/themes/k1/css/kelbyone.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="k1-kelbyone-pages-css" href="http://kelbyone.com/wp-content/themes/k1/css/page-customizations.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="wc-bundle-style-css" href="http://kelbyone.com/wp-content/plugins/woocommerce-product-bundles/assets/css/bundles-style.css?ver=4.7.4" type="text/css" media="all">
+<!-- This site uses the Yoast Google Analytics plugin v5.1.3 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-            <script type="text/javascript">//<![CDATA[
-            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-1544617-38']);
-				            _gaq.push(['_trackPageview']);
-            (function () {
-                var ga = document.createElement('script');
-                ga.type = 'text/javascript';
-                ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	__gaTracker('create', 'UA-1544617-41', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview');
 
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(ga, s);
-            })();
-            //]]></script>
-			<link rel="alternate" type="application/rss+xml" title="KelbyOne » Privacy Pledge Comments Feed" href="http://kelbyone.com/privacypledge/feed/">
-<link rel="stylesheet" id="contact-form-7-css" href="http://kelbyone.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="kelbytraining_ptsans-css" href="//fonts.googleapis.com/css?family=PT+Sans%3A400%2C400italic%2C700%2C700italic&amp;ver=3.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="kelbytraining_roboto-css" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C300italic%2C100italic%2C100&amp;ver=3.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="kelbytraining_style-css" href="http://kelbyone.com/wp-content/themes/kelbytraining/style.css?ver=3.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="kelbytraining_animate-css" href="http://kelbyone.com/wp-content/themes/kelbytraining/assets/stylesheets/animate.min.css?ver=3.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="taxonomy-image-plugin-public-css" href="http://kelbyone.com/wp-content/plugins/taxonomy-images/style.css?ver=0.8.0" type="text/css" media="screen">
-<script type="text/javascript" src="http://kelbyone.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
+</script>
+<!-- / Yoast Google Analytics --><script type="text/javascript" src="http://kelbyone.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
 <script type="text/javascript" src="http://kelbyone.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/modernizr.custom.js?ver=3.6.1"></script>
-<script type="text/javascript" src="http://kelbyone.com/wp-includes/js/comment-reply.min.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//ads.kelbymediagroup.com/www/delivery/spcjs.php?id=20&amp;ver=3.6.1"></script>
-<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/BuddyPress-Like/_inc/js/bp-like.min.js?ver=3.6.1"></script>
-<meta name="generator" content="WordPress 3.6.1">
+<script type="text/javascript">
+/* <![CDATA[ */
+var affwp_scripts = {"ajaxurl":"http:\/\/kelbyone.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/affiliate-wp/assets/js/jquery.cookie.js?ver=1.4.0"></script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/affiliate-wp/assets/js/tracking.min.js?ver=1.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?ver=2.1.1"></script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?ver=2.1.1"></script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?ver=2.1.1"></script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/buddypress/bp-core/js/jquery-cookie.min.js?ver=2.1.1"></script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/buddypress/bp-core/deprecated/js/jquery-scroll-to.min.js?ver=2.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js?ver=2.1.1"></script>
+<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbyone/assets/js/libs/modernizr-2.6.2-respond-1.1.0.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="//ads.kelbymediagroup.com/www/delivery/spcjs.php?id=20&amp;ver=4.0.1"></script>
+
+<link rel="shortlink" href="http://kelbyone.com/?p=130356">
+		<script type="text/javascript">
+		var AFFWP = AFFWP || {};
+		AFFWP.referral_var = 'ref';
+		AFFWP.expiration = 30;
+		</script>
 
 	<script type="text/javascript">var ajaxurl = 'http://kelbyone.com/wp-admin/admin-ajax.php';</script>
 
-<style type="text/css">
-	.bp-like.activity_liked .activity-meta,
-	.bp-like.blogpost_liked .activity-meta,
-	.users-who-like,
-	.mini a.view-likes,
-	.mini a.hide-likes {
-		display: none;
-	}
-	
-	/* To match the default theme */
-	#bp-default .users-who-like {
-		margin: 10px 0 -10px 0;
-		background: #F5F5F5;
-		-moz-border-radius: 4px;
-		-webkit-border-radius: 4px;
-		border-radius: 4px;
-		padding: 8px 8px 0px 12px;
-		color: #8C8A8F;
-	}
-	#bp-default .users-who-like a {
-		color: #777;
-		padding: 0;
-		background: none;
-		border: none;
-		text-decoration: underline;
-		font-size: 12px;
-	}
-	#bp-default .users-who-like a:hover { color: #222; }
-	#bp-default .mini .users-who-like {
-		width: 100%;
-		position: absolute;
-		top: 0;
-		left: 0;
-	}
-	#bp-default .users-who-like img.avatar {
-		float: none;
-		border: none;
-		width: 30px;
-		height: 30px;
-		padding: 0;
-		margin: 0;
-	}
-	ul#activity-stream li.bp-like .activity-inner {
-		border-left: 3px solid #ddd;
-		color: #888;
-		padding-left: 15px;
-		font-style: italic;
-	}
-	#bp-default div.post div.author-box, div.comment-avatar-box {
-	position: relative;
-	}
-	#bp-default div.like-box {
-		background: #f0f0f0;
-		width: 90px;
-		position: absolute;
-		bottom: -40px;
-		left: 0;
-		font-family: georgia, times, serif;
-		font-style: italic;
-		text-align: center;
-		padding: 5px 0;
-		-moz-border-radius: 3px;
-		-webkit-border-radius: 3px;
-		border-radius: 3px;
-	}
-	.activity-meta.view-likes, .activity-meta.like, .activity-meta.unlike {
-		background: #ededed;
-		background: -moz-linear-gradient(top, #ffffff 0%, #e0e0e0 100%);
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e0e0e0));
-		background: -webkit-linear-gradient(top, #ffffff 0%,#e0e0e0 100%);
-		background: -o-linear-gradient(top, #ffffff 0%,#e0e0e0 100%);
-		background: -ms-linear-gradient(top, #ffffff 0%,#e0e0e0 100%);
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e0e0e0',GradientType=0 );
-		background: linear-gradient(top, #ffffff 0%,#e0e0e0 100%);
-		border: 1px solid #bbb;
-		color: #777 !important;
-		outline: none;
-		text-decoration: none;
-		-moz-border-radius: 3px;
-		-webkit-border-radius: 3px;
-		border-radius: 3px;
-	}
-
-</style>
-<script type="text/javascript">
-/* <![CDATA[ */
-	var bp_like_terms_like = 'Like';
-	var bp_like_terms_like_message = 'Like this item';
-	var bp_like_terms_unlike_message = 'Unlike this item';
-	var bp_like_terms_view_likes = 'View likes';
-	var bp_like_terms_hide_likes = 'Hide likes';
-	var bp_like_terms_unlike_1 = 'Unlike (1)';
-/* ]]> */
-</script>
-
-	<script type="text/javascript">
-		jQuery( document ).ready( function() {
-			jQuery( 'a.confirm').click( function() {
-				if ( confirm( 'Are you sure?' ) )
-					return true; else return false;
-			});
-		});
-	</script>
+			<style>
+				#affwp-affiliate-dashboard-sharing { margin: 2em 0 4em 0; }
+				.affwp-sharing .share { display: inline-block; vertical-align: top; padding: 0 0.5em 0 0; }
+				.affwp-sharing .share iframe { max-width: none; }
+			</style>
+		</head>
+<body id="pg-privacypledge" class="page page-id-130356 page-template-default k1 no-js">
 
 
-            <script type="text/javascript">
-            var _prum = [['id', '52ccb9f0abe53dc01f000000'],
-                ['mark', 'firstbyte', (new Date()).getTime()]];
-            (function() {
-                var s = document.getElementsByTagName('script')[0]
-                    , p = document.createElement('script');
-                p.async = 'async';
-                p.src = '//rum-static.pingdom.net/prum.min.js';
-                s.parentNode.insertBefore(p, s);
-            })();
-        </script>
-    
-    <style>
-        h1,h2,h3,h4,h5,h6,p,a,span {
-            -webkit-font-smoothing: subpixel-antialiased !important;
-        }
+<header id="header">
 
-    </style>
-</head>
-
-<body class="page page-id-130356 page-template-default no-session">
-
-<!-- Google Tag Manager Data Layer -->
-<script type="text/javascript">
-    // URL Toolbox - helps grabbing elements in the URL
-
-    var _d = document;
-    var _dl = _d.location;
-    var _dlp = _dl.pathname;
-    var _dls = _dl.search;
-    var _dr = _d.referrer;
-
-    // Initialize data layer and start pushing variables from PHP data layer
-
-    /** Check if an order id is being passed. */
-    
-</script>
-<!-- END Google Tag Manager Data Layer
-
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHRGGS"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-KHRGGS');</script>
-<!-- End Google Tag Manager -->
-
-<!--  -->
-
-
-
+<div class="dropdownSale banner">
+<div class="dropContainer">
+<script type="text/javascript">/* <![CDATA[ */ OA_show([139]); /* ]]> */</script>
+</div>
+</div>
 <style>
-#dropClose {
-margin: 16px 12px 0 0;
-position: absolute;
-z-index: 9;
-top: 0;
-right: 0;
-width: 26px;
-height: 26px;
-background: url("//cdnsmall.kelbymediagroup.com/kelbytraining/assets/images/dropdown_close.png")no-repeat center;
+#main {padding: 15rem 0 0;}
+.page.featured-image #main, .page-template-store-php #main, .tax-product_cat #main {padding: 11.875rem 0 0}
+.home #main {padding: 10.875rem 0 0}
+#header_banner {
+    background: #bdc3dd url(//progressive.kelbymediagroup.com/kelbyone/assets/images/header_banners/KO_KrazyDeals_WebAd_Dropdown_990x64.jpg) no-repeat 50% center / contain;
+    height: 64px
+}
+#header_banner > img {display: none!important;}
+
+@media only screen and (max-width: 992px) {
+  .page.featured-image #main, .page-template-store-php #main, .tax-product_cat #main {padding: 9rem 0 0}  
 }
 </style>
-<div class="dropdownSale banner" style="display:none;"><div class="dropContainer"><a id="dropClose" class="close btn-delete" href="#"></a><script type="text/javascript">/* <![CDATA[ */ OA_show([139]); /* ]]> */</script></div></div>
-<header id="header">
-    <div class="row" style="background-color:#333; border-bottom:1px solid #222;">
-        <div class="container relative clear">
-            <div id="logo-wrap" class="absolute">
 
-                <div id="logo">
 
-                    <a title="KelbyOne" rel="home" href="http://kelbyone.com/">
-                        <img src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/images/kelbyonelogo.png" height="56" width="180" alt="">
-                    </a>
-
-                </div> <!-- #logo -->
-
-                <div id="site-switcher" class="dropdown more">
-
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                        <b class="caret yellow-caret"></b>
-                    </a>
-
-                    <ul class="dropdown-menu"><li id="menu-item-131813" class="first menu-item menu-item-type-custom menu-item-object-custom menu-item-131813"><a href="http://kelbyone.com/live">KelbyOne LIVE</a></li>
-<li id="menu-item-131814" class="last menu-item menu-item-type-custom menu-item-object-custom menu-item-131814"><a href="http://photoshopworld.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://photoshopworld.com']);">Photoshop World</a></li>
-</ul>
-                </div> <!-- #site-switcher -->
-
-            </div> <!-- #logo-wrap -->
-            <div class="s9of12 rt" id="sub-header">
-                <!-- Navigation -->
-                <ul id="top-nav" class="menu"><li id="menu-item-134174" class="first menu-item menu-item-type-post_type menu-item-object-page menu-item-134174"><a href="http://kelbyone.com/subscribe/">Pricing</a></li>
-<li id="menu-item-27505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27505"><a href="http://kelbyone.com/features">Features</a></li>
-<li id="menu-item-134201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134201"><a href="http://members.photoshopuser.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://members.photoshopuser.com']);">Community</a></li>
-<li id="menu-item-137271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137271"><a href="http://kelbyone.com/instructors/">Instructors</a></li>
-<li id="menu-item-128797" class="last menu-item menu-item-type-post_type menu-item-object-page menu-item-128797"><a href="http://kelbyone.com/store/">Store</a></li>
-</ul>                <div class="menuitem menu relative more"><a>More<span class="caret"></span></a>
-                    <ul id="header_more" class="dropdown-menu"><li id="menu-item-137263" class="first menu-item menu-item-type-post_type menu-item-object-page menu-item-137263"><a href="http://kelbyone.com/apps/">Apps</a></li>
-<li id="menu-item-137265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137265"><a href="http://kelbyone.com/books/">Books</a></li>
-<li id="menu-item-137261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137261"><a href="http://kelbyone.com/discounts/">Discounts</a></li>
-<li id="menu-item-137260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137260"><a href="http://kelbyone.com/magazine/">Magazine</a></li>
-<li id="menu-item-137264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137264"><a href="http://kelbyone.com/photoshopworld/">Photoshop World</a></li>
-<li id="menu-item-137262" class="last menu-item menu-item-type-post_type menu-item-object-page menu-item-137262"><a href="http://kelbyone.com/webcasts/">Webcasts</a></li>
-</ul>                </div>
-                                <script>
-                </script>
-                <div class="" id="userBar">
-                    <div class="userWrap">
-                                                    <div class="login-menu">
-                                <a href="javascript:void(0);" data-modal="login-menu">Login</a> <span class="login-or">or</span> <a href="http://kelbyone.com/subscribe/" class="login-subscribe">Join Now</a>
-                            </div>
-                            <div id="userMenu">
-                                <div id="userContainer">
-									<span id="userCart" onclick="window.location='http://kelbyone.com/checkout';">
-										<span id="notificationsCountWrapper" class="jewelCount">
-																					</span>
-									</span>
-                                </div>
-                            </div>
-                            <div id="cartView">
-                                 
-	<div id="cartViewContainer" class="dropdown more">
-		<span id="userCart" onclick="window.location='http://kelbyone.com/checkout';">
-			<span id="notificationsCountWrapper" class="jewelCount">
-									<span id="notificationsCountValue">0</span>
-							</span>
-		</span>
-		<span class="price">&nbsp;<a href="http://kelbyone.com/checkout"><span class="cart-subtotal"><sup>$</sup>0.00</span></a></span>
-		<span class="caret"></span>
-		<ul class="dropdown-menu right">
-					<li class="clear"><span>No items in cart.</span></li>
-				</ul>
-	</div>
-                            </div>
-                                            </div>
+	<div id="top">		
+        <div class="container">
+            <div class="row">
+            
+            	<!-- this div is only visible on mobile devices courses, logo, search & user -->
+                <div class="col-md-3 visible-sm visible-xs">
+                	<div class="row">
+                    	<div class="col-sm-1 col-xs-2 mobile-menu">
+                        	<a href="#" class="courses"><img src="//progressive.kelbymediagroup.com/kelbyone/assets/images/icons/ico-hamburger.png" width="31" height="26" alt="Browse our Courses"></a>
+                        </div>
+                        <div class="col-sm-7 col-xs-6">
+                                <a href="http://kelbyone.com"><img class="logo" src="//progressive.kelbymediagroup.com/kelbyone/assets/images/logo.png" alt="KelbyOne"></a>
+                         </div> 
+                        <div class="col-xs-4 mobile-search text-right">
+                            <a href="#" class="mobile-search"><img src="//progressive.kelbymediagroup.com/kelbyone/assets/images/icons/ico-search.png" width="31" height="31" alt="Search the site"></a>
+                            <a href="#" class="user-info"><img src="//progressive.kelbymediagroup.com/kelbyone/assets/images/icons/ico-user.png" width="32" height="32" alt="View your profile"></a>
+                        </div>
+                    </div>                    
                 </div>
-
-            </div> <!-- #sub-header -->
-        </div>
-    </div>
-    <div class="row" style="background-color:#4e4e4e;">
-        <div class="container clear">
-            <div class="s9of12 rt" id="main-header">
-                <ul id="main-nav" style="display:inline-block;" class="menu"><li id="menu-item-27504" class="first menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27504"><a href="http://kelbyone.com/photography/">Photography</a></li>
-<li id="menu-item-27584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27584"><a href="http://kelbyone.com/photoshop/">Photoshop</a></li>
-<li id="menu-item-27583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27583"><a href="http://kelbyone.com/lightroom/">Lightroom</a></li>
-<li id="menu-item-139827" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139827"><a href="http://kelbyone.com/design/">Design</a></li>
-<li id="menu-item-132928" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132928"><a href="http://kelbyone.com/allcourses/">All Courses</a></li>
-<li id="menu-item-139820" class="last menu-item menu-item-type-custom menu-item-object-custom menu-item-139820"><a href="http://kelbyone.com/cc-resources/live/">CC Resource Center</a></li>
-</ul>
                 
-                <div class="search-wrapper"><form method="get" id="searchform" action="http://kelbyone.com/" role="search">
-    <fieldset>
-        <input type="text" class="field" name="s" value="" id="s" placeholder="Search …">
-    </fieldset>
-</form>
+                <!-- this div is hidden on mobile devices -->
+                <div class="col-md-7">
+                        <a class="hidden-sm hidden-xs" href="http://kelbyone.com"><img class="logo" src="//progressive.kelbymediagroup.com/kelbyone/assets/images/logo.png" height="60" alt="KelbyOne"></a>
+                                        <span class="hidden-sm hidden-xs">
+                        <div id="search" role="form">
+    <form method="get" id="searchform" action="http://kelbyone.com">
+    	<div class="form-group">
+        	<label for="search">Search KelbyOne</label>
+    		<input type="text" value="I need help with..." name="s" id="search" class="form-control" onfocus="if (this.value == 'I need help with...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'I need help with...';}"><input type="image" src="http://kelbyone.com/wp-content/themes/k1/images/icons/ico-search.png" width="24" height="24">
+        </div>    	
+    </form>
 </div>
+
+                    </span>
+                                        
+                </div> 
+
+                <!-- this div is hidden on mobile devices -->
+                <div class="col-md-2 hidden-sm hidden-xs cart text-right">
+							                                
+				</div>  
+                
+                <!-- this div is hidden on mobile devices -->
+                <div class="col-md-3 hidden-sm hidden-xs user-info">
+                    						<a href="#" class="user-login">Sign up / Member Log in</a>
+					                </div>           
             </div>
         </div>
+		<!-- end .container -->	
     </div>
+    
+    <!-- this div is hidden on tablet & mobile devices -->
+    <div id="nav" class="hidden-sm hidden-xs">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                	<a href="#" class="courses">Browse our courses</a>
+                </div>
+                <div class="col-md-9 align-right">
+                    <nav id="nagivation" role="navigation">
+                        <div class="primary-menu"><ul id="menu-primary-menu" class="menu"><li id="menu-item-741580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741580"><a href="http://kelbyone.com/subscribe/">Become a member</a></li>
+<li id="menu-item-141716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141716"><a title="KelbyOne Instructors" href="http://kelbyone.com/instructors/">Instructors</a></li>
+<li id="menu-item-141719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141719"><a title="KelbyOne Store" href="http://kelbyone.com/marketplace/">Marketplace</a>
+<ul class="sub-menu">
+	<li id="menu-item-742008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742008"><a href="http://kelbyone.com/marketplace/books/">Books</a></li>
+	<li id="menu-item-742009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742009"><a href="http://kelbyone.com/marketplace/dvd-usbs/">DVDs / USBs</a></li>
+	<li id="menu-item-742010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742010"><a href="http://kelbyone.com/marketplace/mobile-apps/">Mobile Apps</a></li>
+</ul>
+</li>
+<li id="menu-item-741581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-741581"><a href="http://kelbyone.com/blog">Blog</a></li>
+<li id="menu-item-946378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-946378"><a href="http://kelbyone.com/live-events/">LIVE Events</a></li>
+<li id="menu-item-141729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141729"><a title="Group Memberships" href="http://kelbyone.com/group-memberships/">Group memberships</a></li>
+</ul></div>                        <div class="clearfix"></div>
+                    </nav>
+                    <!-- end nav -->
+                </div>
+            </div>
+        </div>
+        <!-- end .container -->	
+    </div>  
+    <!-- end #nav -->	 
+    <div id="border"></div>	  
 </header>
-	<div>
-		<div id="course-title" class="lightBg page-title">
-				
-				<div class="container">
-					
-						<div class="span12">
-						
-							<h1>Privacy Pledge</h1>
-							                            
-						</div>
-												
-				</div>
-				
-			</div> <!-- #course title -->
-	</div>
-<!--</header>-->
+<!-- end header#header -->
+<div id="main">
+<header class="page-header">
+    <!-- if there is a featured image, add it here -->
+    
+    <hgroup>
+                <h1 class="page-title container">Privacy Pledge</h1>        
+    </hgroup>
+</header>
 
-    <div id="content-wrapper" class="darkBg border-bottom">
-        <div id="content-container" class="container">
-            
-                <div id="page-default">
-                	<div class="span12">
-                        <p><strong><u>Privacy Policy</u></strong></p>
-
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+                        <article role="article"> 
+                 
+                      
+                    <div id="post-130356" class="post-130356 page type-page status-publish hentry">
+                        <div class="entry-content">
+                            <section class="entry-content clearfix">
+                                <p><strong><u>Privacy Policy</u></strong></p>
 <p>The last update to our Privacy Policy was posted on January 3, 2014.  This governs the privacy policy of our websites and properties owned by KelbyOne, LLC</p>
-
 <p><strong><u>Our Privacy Pledge</u></strong></p>
 <p>This Privacy Policy applies to and is provided on behalf of the KelbyOne, LLC family of companies (collectively referred to as “We,” “Us,” or “Our”) and describes Our information gathering practices and policies in connection with this Site. We value your (“User,” “You,” or “Your”) privacy and recognize the sensitivity of Your personal information. We are committed to protecting Your personal information and using it only as appropriate to provide You with the best possible service, products, and opportunities. Use of this Site constitutes consent to Our collection and use of personal data as outlined herein.</p>
-
 <p><strong><u>Definitions</u></strong></p>
-<p>“Non-Personal Information” (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser. 
+<p>“Non-Personal Information” (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser.<br>
 “Personally Identifiable Information” (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service.  PII may include information such as your name, address, phone number, and other related information that you provide to us. </p>
-
 <p><strong><u>Our Commitment to Your Privacy</u></strong></p>
-<p>Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.
-
-KelbyOne, LLC is committed to the security and privacy of all our customers.  We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience.
-
-KelbyOne, LLC and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
-
-As a part of our commitment, we have adopted the guidelines used by the Direct Marketing Association Privacy Promise to American consumers.  Other than as necessary to provide you with goods and services, we agree to (1) provide our customers with notice of their ability to opt out of information exchanges with our affiliates; (2) honor our customers’ requests not to have their information transferred to our affiliates; and (3) honor our customers’ requests not to receive solicitations from our affiliates.</p>
-
+<p>Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.</p>
+<p>KelbyOne, LLC is committed to the security and privacy of all our customers.  We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience.</p>
+<p>KelbyOne, LLC and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.</p>
+<p>As a part of our commitment, we have adopted the guidelines used by the Direct Marketing Association Privacy Promise to American consumers.  Other than as necessary to provide you with goods and services, we agree to (1) provide our customers with notice of their ability to opt out of information exchanges with our affiliates; (2) honor our customers’ requests not to have their information transferred to our affiliates; and (3) honor our customers’ requests not to receive solicitations from our affiliates.</p>
 <p><strong><u>Links to Other Websites</u></strong></p>
-<p>Our Website may contain links to other websites.  You understand that these websites are not under our control and are not subject to our Privacy Policy.  These websites will likely have their own privacy policies.  We have no responsibility for these websites and provide links to these websites solely for your convenience.  
+<p>Our Website may contain links to other websites.  You understand that these websites are not under our control and are not subject to our Privacy Policy.  These websites will likely have their own privacy policies.  We have no responsibility for these websites and provide links to these websites solely for your convenience.<br>
 You acknowledge that your use and access of these websites is solely at your own risk.  It is your responsibility to check the privacy policies of these websites to see how they treat your personal information. </p>
-
 <p><strong><u>Information We Collect</u></strong></p>
 <p>You can visit our Website without providing or revealing PII.  However, we may receive and store certain types of NPI when you interact with our Website.  We may analyze NPI for trends and statistics as to how people use our Website.  Unless you wish to acquire goods or services through our Website, we typically will not require you to provide PII.</p>
-
 <p>We receive and store PII that you provide to us when you place an order, register with us, send an email or call us, enter a contest, subscribe to a service, request to receive material, or participate in a promotion.  In addition to your PII, we may also collect PII that you submit to us about other people, such as the name and address of someone you are referring to us.  Ultimately, you have the choice in deciding whether or not to provide PII to us.</p>
-
 <p>How Information is Used</p>
 <p>We use PII that you provide for our internal purposes, such as confirming and tracking your order, subscription or registration; analyzing statistics and demographics; and informing you of new products, services, and offers as provided by us and/or our affiliates.</p>
-
 <p>Our affiliates may have products, services, or offers about which you may be interested in receiving information and they may use the PII we have for you to contact you.  If you don’t want to receive information from our affiliates, you may opt-out at that time and let us know so you’re no longer contacted by our affiliates about their products, services, or offers.</p>
-
 <p>We may also combine information you give us online or through printed forms; publicly available information; and information we receive from other parties.  We use this combined information for your online experience and to let you know about new products, services, offers, and other promotion.</p>
-
 <p>To give you the best possible service, we may use our affiliates to provide contracted services for our business, including, but not limited to processing credit cards, hosting our website, shipping products to you, or advertising.  In many cases, we will need to provide some if not all the PII you provide to use so our affiliates can perform these services.  Our affiliates are only authorized to use your PII as provided within this Privacy Policy.</p>
-
 <p>There are times that we may have to disclose your PII to comply with state and federal laws; to assist law enforcement and governmental agencies in preventing or investigating fraud or other crimes, or in response to a court order.  In such instances, we will only provide the PII requested and your PII will only be used for legal purposes as opposed to marketing.</p>
-
 <p><strong><u>Changing Your Information</u></strong></p>
 <p>You may change your PII at any time using our Website.  If you need assistance with updating your PII or removing yourself from our mailing lists, just send us an email with your request.</p>
-
 <p><strong><u>Opting Out of Sharing Information</u></strong></p>
 <p>You can always opt out of future unaffiliated third-party disclosures of your information.  Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept.</p>
-
 <p><strong><u>Protecting Your Child’s Privacy</u></strong></p>
-<p>We follow the Children’s Online Privacy Protection Act (COPPA).  Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website.  We do not knowingly collect PII from a child.  If you are a parent or guardian and believe your child is using our Website, please contact us.  We may ask for proof of identification before we remove any information to prevent malicious removal of account information.  If we discover on our own that an unauthorized child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties.  You acknowledge that we do not verify the age of our users nor do we have any liability to do so.  If you are a child, please seek the permission of a parent or guardian before accessing our Website. </p> 
-
+<p>We follow the Children’s Online Privacy Protection Act (COPPA).  Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website.  We do not knowingly collect PII from a child.  If you are a parent or guardian and believe your child is using our Website, please contact us.  We may ask for proof of identification before we remove any information to prevent malicious removal of account information.  If we discover on our own that an unauthorized child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties.  You acknowledge that we do not verify the age of our users nor do we have any liability to do so.  If you are a child, please seek the permission of a parent or guardian before accessing our Website. </p>
 <p><strong><u>Our Email Policy</u></strong></p>
 <p>Our affiliates and we fully comply with the federal CAN-SPAM Act.  You can always opt out of receipt of further email correspondence from us or affiliates.  We will not sell, rent, or trade your email address to any unaffiliated third-party without your permission.</p>
-
 <p><strong><u>Our Security Policy</u></strong></p>
 <p>We have taken steps to build our Website using sophisticated encryption and authentication tools to protect the security of your PII.   When we collect your PII through our Website, we will encrypt your PII before it travels over the Internet using industry standards as establishing for conducting secure online transactions.  We also use industry standard technologies such as secure routers and fire walls to make sure that your PII is safe.  Unfortunately, we cannot fully guarantee secure data transmission over the Internet because of its nature.  Once we receive your PII, we have industry standard security measures in place to protect against the loss or misuse of your PII, though again, we cannot fully guarantee against such loss or misuse.  We strongly urge you to protect any password you may have for our Website and not share it with anyone.  You should always log out of our Website when you are done using it, especially if you are sharing a computer with someone else or are using a computer in a public place.</p>
-
 <p><strong><u>Use of Credit Cards</u></strong></p>
 <p>You may have to provide a credit card to buy products and services from our Website.  We use third-party billing services and HAVE NO CONTROL over these services.  We use our commercially reasonable efforts to make sure that your credit card number is kept STRICTLY CONFIDENTIAL by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number. </p>
-
 <p><strong><u>Cookies</u></strong></p>
 <p>Our Website may send a “cookie” to your computer.  A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer’s hard drive.  A cookie cannot read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system.  We use cookies to identify which areas of our site you have visited, so the next time you visit the site, we can better personalize the content that you see on our Website.  Most browsers can be set to disable the use of Cookies.  However, if you disable Cookies, you may not be able to use certain functionality on our Website correctly or at all.  We never place PII in Cookies.</p>
-
 <p><strong><u>Web Beacons</u></strong></p>
 <p>We may also use web beacons to collect NPI about your use of our Website and those of our affiliates, and your use of special promotions or newsletters. The information we collect by Web Beacons allows us to statistically monitor the number of people that open our emails and why they opened our emails.  Our Web Beacons are not used to track your activity outside of our Website or those of our affiliates.  We do not link NPI from Web Beacons to PII without your permission.</p>
-
-
 <p><strong><u>Changes to Our Privacy Policy</u></strong></p>
 <p>As necessary to address changes in laws or our business practices, we may modify our Privacy Policy, in whole or in part, to address these changes.  We will typically notify users by some message on our Website home page that our Privacy Policy has changed.  We will also change the “Last Updated” date at the beginning of this Privacy Policy.  Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.  We encourage you to review our Privacy Policy periodically to make sure you still agree with it.</p>
-
 <p><strong><u>Questions about Our Privacy Policy</u></strong></p>
 <p>If you have any questions about our Privacy Policy, please contact us using the Contact us information found on our Website.</p>
-
 <p>By accessing or using the Site, You agree to be bound by all of the Terms of this Privacy Policy as posted at the time of Your access or use. We reserve the right to contact Users of the Site regarding changes to the Terms and Conditions generally, this Privacy Policy specifically, or any other policies or agreements relevant to the Site’s Users. If You have any questions about this Policy, You may telephone, email, or write to:</p>
-
-KelbyOne, LLCATTN: Privacy Policy Administrator333 Douglas Road EastOldsmar, FL – 34677
-Tel. 813.749.4000 x152
+<p>KelbyOne, LLCATTN: Privacy Policy Administrator333 Douglas Road EastOldsmar, FL – 34677<br>
+Tel. 813.749.4000 x152</p>
 <p><a href="mailto:privacy@kelbymediagroup.com">privacy@kelbymediagroup.com</a></p>
-                     </div>   
-            	<!--	div-->
-        </div> <!-- end #content-container  -->
-     </div>
+                            </section>
+                                                    </div>
+                    </div>    
+                        
+                  
+            </article>
+                          
+        </div>  
+    </div>   
+</div>
 
-        <div id="back_top" class="hidden-phone" title="Back to Top"> </div>
+</div> <!-- end #main -->
+    
+<footer id="footer">
+    
+    
+    <div id="pre-footer-box" class="trusted-partners-footer">
+        <div class="container">         
+            <div class="row">
+                <div class="col-md-12"><h4>Trusted Partners:</h4>			<div class="textwidget"><a href="http://www.bhphotovideo.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-bnh.png" width="41" height="29" alt="B&amp;H"></a>
 
-<script>
-			var $ = jQuery;
-			$('#featuresVideo').click(function() {
-				url = $(this).data("videourl")
-				startvideo = $(this).prev();
-				$(this).hide();
-				$('.youtube').show().html('<iframe width="650" height="378" src="//www.youtube.com/embed/cPtyIdXtucA?autoplay=1" frameborder="0" allowfullscreen></iframe>');
-			});
+<a href="http://www.adobe.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-adobe.png" width="35" height="27" alt="Adobe"></a>
+
+<a href="http://www.canon.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-canon.png" width="75" height="16" alt="Canon"></a>
+
+<a href="http://macphun.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-macphun.png" width="93" height="30" alt="Macphun Software"></a>
+
+<a href="http://www.peachpit.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-peachpit.png" width="31" height="37" alt="Peachpit Publishers"></a>
+
+<a href="http://www.mpix.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-mpix.png" width="48" height="23" alt="Mpix"></a>
+
+<a href="http://www.squarespace.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-squarespace.png" width="56" height="37" alt="Squarespace"></a>
+
+<a href="http://www.smugmug.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-smugmug.png" width="90" height="20" alt="SmugMug"></a>
+
+<a href="http://www.500px.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-500px.png" width="49" height="23" alt="500px"></a>
+
+<a href="http://www.bayphoto.com/" target="_blank"><img src="//progressive.kelbymediagroup.com/kelbyone/uploads/2014/09/partners-bayphoto.png" width="97" height="19" alt="bayphoto"></a></div>
+		</div>            </div>
+        </div> <!-- end .container -->
+    </div> <!-- end .trusted-partners-footer -->
+
+    
+    
+	<div id="pre-footer" class="stay-in-the-loop-footer">	
+        <div class="container">
+        	<div class="row">
+            	<form onsubmit="return submitIt(this)" class="input news-input" action="//app.subscribermail.com/add_mail.cfm">
+            	<div class="col-md-5">
+                    <h4>We send cool stuff. Want in?</h4>
+                    <p>We promise not to use your email for anything sneaky.</p>
+                </div>
+                <div class="col-md-7">                	
+                    <input type="hidden" value="PHOT67DA31B2" name="ppid">
+                    <input type="hidden" value="v3" name="version">
+                    <input type="hidden" value="FIRS720C6550" name="interest_group">
+                    <div class="login-username form-group col-md-7">
+                        <input type="text" name="email" class="form-control input news-input" placeholder="Enter your email address">
+                    </div>   
+                    <div class="col-md-5">
+                        <input class="btn btn-primary submit-button news-submit" type="submit" value="Sign Up for Updates">                    
+                    </div>
+                </div>
+                </form>
+            </div>
+            <div class="social-media row">               
+                <a style="background-image:url(http://kelbyone.com/wp-content/themes/k1/images/icons/social-facebook.svg);" href="https://www.facebook.com/KelbyOneOnline" target="_blank"></a><a style="background-image:url(http://kelbyone.com/wp-content/themes/k1/images/icons/social-twitter.svg);" href="https://twitter.com/kelbyone" target="_blank"></a><a style="background-image:url(http://kelbyone.com/wp-content/themes/k1/images/icons/social-instagram.svg);" href="http://instagram.com/kelbyonepics" target="_blank"></a><a style="background-image:url(http://kelbyone.com/wp-content/themes/k1/images/icons/social-pinterest.svg);" href="http://www.pinterest.com/kelbyone/" target="_blank"></a><a style="background-image:url(http://kelbyone.com/wp-content/themes/k1/images/icons/social-linkedin.svg);" href="http://www.linkedin.com/groups/KelbyOne-138766?home=&amp;gid=138766&amp;trk=anet_ug_hm" target="_blank"></a><a style="background-image:url(http://kelbyone.com/wp-content/themes/k1/images/icons/social-google-plus.svg);" href="https://plus.google.com/114365500417071523054/posts" target="_blank"></a><a style="background-image:url(http://kelbyone.com/wp-content/themes/k1/images/icons/social-youtube.svg);" href="https://www.youtube.com/user/kelbymediagroup" target="_blank"></a>            </div>
+        </div> <!-- end .container -->	
+    </div><!-- end .stay-in-the-loop-footer -->
+    
+	<div id="footer-box" class="main-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4"><img class="logo" src="//cdnsmall.kelbymediagroup.com/kelbyone/assets/images/logo.png" height="60" alt="KelbyOne"></div>
+                <div class="col-md-8">
+                    <div class="col-md-6"><div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-741590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741590"><a href="http://kelbyone.com/about/">About Us</a></li>
+<li id="menu-item-741591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741591"><a href="http://kelbyone.com/instructors/">Instructors</a></li>
+<li id="menu-item-741592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741592"><a href="http://kelbyone.com/affiliates/">Affiliates</a></li>
+<li id="menu-item-741593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-741593"><a href="http://kelbyone.com/blog">Blog</a></li>
+<li id="menu-item-741594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741594"><a href="http://kelbyone.com/group-memberships/">Group memberships</a></li>
+</ul></div></div><div class="col-md-6"><div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-741587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741587"><a href="http://kelbyone.com/support/">Member support</a></li>
+<li id="menu-item-1116868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1116868"><a href="http://kelbyone.com/discounts/">Member discounts</a></li>
+<li id="menu-item-769396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-769396"><a href="http://members.photoshopuser.com/">Community</a></li>
+<li id="menu-item-946379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-946379"><a href="http://kelbyone.com/live-events/">LIVE Events</a></li>
+<li id="menu-item-741721" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-130356 current_page_item menu-item-741721"><a href="http://kelbyone.com/privacypledge/">Privacy policy</a></li>
+<li id="menu-item-741722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741722"><a href="http://kelbyone.com/termsofuse/">Website use policy</a></li>
+</ul></div></div>                    <p class="copyright col-md-6">Copyright © 2014 KelbyOne, LLC</p>
+                </div>
+            </div>
+        </div><!-- end .container -->
+    </div> <!-- end .main-footer -->
+
+    <div id="scrolltop">
+        <img src="http://kelbyone.com/wp-content/themes/k1/images/back-to-top.png" alt="Back to top of page">
+    </div>
+</footer>
+
+<div id="left" class="slide">
+  <p class="clearfix"><a href="#" class="icon close"></a></p>
+
+  
+  <div class="widget"><div class="menu-course-categories-container"><ul id="menu-course-categories" class="menu"><li id="menu-item-1088122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088122"><a href="/courses/">All Courses</a></li>
+<li id="menu-item-1088123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088123"><a href="/courses/photoshop/">Photoshop</a></li>
+<li id="menu-item-1088124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088124"><a href="/courses/lightroom/">Lightroom</a></li>
+<li id="menu-item-1088125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088125"><a href="/courses/photography/">Photography</a></li>
+<li id="menu-item-1088126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088126"><a href="/courses/design/">Design</a></li>
+<li id="menu-item-1088127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088127"><a href="/courses/video/">Video</a></li>
+<li id="menu-item-1088128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088128"><a href="/courses/business/">Business</a></li>
+<li id="menu-item-1088129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088129"><a href="/courses/inspiration/">Inspiration</a></li>
+<li id="menu-item-1088130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088130"><a href="/courses/software/">Software</a></li>
+</ul></div></div> 
+
+  <ul id="menu-primary-menu-1" class="menu visible-sm visible-xs"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741580"><a href="http://kelbyone.com/subscribe/">Become a member</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141716"><a title="KelbyOne Instructors" href="http://kelbyone.com/instructors/">Instructors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141719"><a title="KelbyOne Store" href="http://kelbyone.com/marketplace/">Marketplace</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742008"><a href="http://kelbyone.com/marketplace/books/">Books</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742009"><a href="http://kelbyone.com/marketplace/dvd-usbs/">DVDs / USBs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742010"><a href="http://kelbyone.com/marketplace/mobile-apps/">Mobile Apps</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-741581"><a href="http://kelbyone.com/blog">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-946378"><a href="http://kelbyone.com/live-events/">LIVE Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141729"><a title="Group Memberships" href="http://kelbyone.com/group-memberships/">Group memberships</a></li>
+</ul></div> <!-- #left.slide -->
+<div id="right" class="slide">   
+  <p class="clearfix"><a href="#" class="icon close"></a></p>
+
+        <h4>Log In to KelbyOne</h4>
+
+      
+      <form name="loginform" id="loginform" action="/wp-login.php" method="post" role="form">
+          <div class="login-username form-group">
+              <input type="text" name="log" id="user-login" class="form-control" value="" placeholder="Enter your username or e-mail address">
+          </div>
+          <div class="login-password form-group">
+              <input type="password" name="pwd" id="user-pass" class="form-control" value="" placeholder="Enter your password">
+          </div>            
+          <div class="login-remember form-group"><input name="remember-me" type="checkbox" id="remember-me" value="forever" checked="checked" class="form-control">  <label for="remember-me">Remember Me</label></div>
+          <div class="forgot-password form-group"><a href="/account/lost-password/">Forgot Password?</a></div>
+          <div class="login-submit form-group">
+              <input type="submit" name="wp-submit" id="wp-submit" class="btn btn-primary" value="Login">
+              <input type="hidden" name="redirect_to" value="http://kelbyone.com/privacypledge/">
+          </div>            
+      </form>    
+
+      <hr>  
+
+      <h4>Not a Member?</h4>
+      <p><strong>YOU'RE MISSING OUT ON:</strong></p>
+      <ul class="small">
+          <li>World-class creative education</li>
+          <li>Discounts on industry-standard software</li>
+          <li>Discounts on cameras and creative equipment</li>
+          <li>Discounted admission to industry conferences</li>
+      </ul>
+
+      <p><a href="/subscribe/" class="btn btn-solid">Learn More</a></p>
+
+  
+	
+      
+
+</div> <!-- #right.slide -->
+<script type="text/javascript">
+// Create the tooltips only when document ready
+jQuery(document).ready(function () {
+    // This will automatically grab the 'title' attribute and replace
+    jQuery('a[rel=qtip]').qtip({
+		style: { classes: 'qtip-blue' }
+	});
+});
 </script>
 
-	</div>
-	
-	<footer id="footer">
-	
-		<div class="container">
-		
-			<div class="span5" id="newsletter-block">
-			
-				<h4>Be the first to know!</h4>
-				<p>Sign up to get the latest on new courses and more...</p>
-				
-				<div id="newsletter-block">
-					<form onsubmit="return submitIt(this)" class="input news-input" action="http://app.subscribermail.com/add_mail.cfm">
-					                <input type="hidden" value="PHOT67DA31B2" name="ppid">
-					                <input type="hidden" value="v3" name="version">
-					                <input type="hidden" value="FIRS720C6550" name="interest_group">
-					                <input type="text" name="email" class="input news-input" placeholder="Enter your email address...">
-					                <input class="submit-button news-submit" type="submit" value="Join">
-					                </form>
-					<!--<input type="text" name="email" class="input news-input" placeholder="Enter your email address..." />
-					<input type="button" name="submit" class="submit-button news-submit" value="Join" />-->
-				</div> <!-- #newsletter-block -->
-			
-			</div> <!-- #newsletter-block -->
-			<div class="span7" id="links-block">
-				<div class="links-wrapper">
-				<div class="link-row link-wide">
-					<h5>Get to know us</h5>
-					<ul>
-						<li><a href="http://kelbyone.com/features/">About</a></li>
-						<li><a href="http://kelbyone.com/subscribe/">Pricing</a></li>
-						<li><a href="http://kelbyone.com/instructors/">Instructors</a></li>
-						<!--<li><a href="#">Answers</a></li>-->
-						<li><a href="http://kelbyone.com/contact/">Contact</a></li>
-					</ul>
-				</div>
-				<div class="link-row link-wide">
-					<h5>KelbyOne</h5>
-					<ul>
-						<li><a href="https://itunes.apple.com/us/app/kelbytraining.com/id435998113?mt=8">Get the App</a></li>
-						<li><a href="http://kelbyone.com/affiliates/">Affiliate Program</a></li>
-						<!--<li><a href="">Press</a></li>-->
-						<li><a href="http://kelbyone.com/termsofuse/">Terms</a></li>
-						<li><a href="http://kelbyone.com/privacypledge/">Privacy</a></li>
-					</ul>
-				</div>
-				<div class="link-row link-wide">
-					<h5>Be social</h5>
-					 <ul id="socials">
-						<li><a href="https://www.facebook.com/KelbyOneOnline" target="_blank"><div id="icon"><div class="icon-social facebook"></div></div></a></li>
-						<li><a href="https://twitter.com/kelbyone" target="_blank"><div id="icon"><div class="icon-social twitter"></div></div></a></li>
-						<li><a href="http://kel.by/KOgplus" target="_blank"><div id="icon"><div class="icon-social google"></div></div></a></li>
-						<li><a href="http://instagram.com/KelbyOneOnline" target="_blank"><div id="icon"><div class="icon-social instagram"></div></div></a></li>
-						<li><a href="http://youtube.com/KelbyMediaGroup" target="_blank"><div id="icon"><div class="icon-social youtube"></div></div></a></li>
-					</ul>
-				</div>
-				</div>
-			</div> <!-- #links-block -->
-			<div id="copyright">
-				<p class="span6">Copyright © 2014 KelbyOne, LLC</p>
-				<p class="span6 text-right">Contact Us | 800-201-7323</p>
-			</div>
-		</div> <!-- .container -->
-	</footer>
+<!-- Generated in 1.560 seconds. (112 q) -->
 
-<!-- Generated in 0.531 seconds. (91 q) -->
+				<script>
+				var affwpds_ajaxurl = "http://kelbyone.com/wp-admin/admin-ajax.php";
+				jQuery(document).ready(function ($) {
+				  	
+				  $( '#affwp-generate-ref-url' ).append( '<div id="affwp-affiliate-dashboard-sharing"></div>' );
 
-	<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
+				   $( '#affwp-generate-ref-url' ).submit( function() {
+				    
+				      var url    = $('#affwp-referral-url').val();
+				      console.log( url );    
+				     
+				      var data   = {
+				          action: 'affiliate_share',
+				          url : url
+				      };
+
+				      $.ajax({
+				          type: "POST",
+				          data: data,
+				          dataType: "json",
+				          url: affwpds_ajaxurl,
+				          success: function (response) {
+
+				            if ( response.sharing ) {
+
+				               $( '#affwp-affiliate-dashboard-sharing' ).empty().append( response.sharing );
+
+                				// LinkedIn
+                				if ( typeof (IN) != 'undefined' ) {
+                				    IN.parse();
+                				} 
+                				else {
+                				   $.getScript("https://platform.linkedin.com/in.js");
+                				}
+
+								// Twitter
+								if ( typeof (twttr) != 'undefined' ) {
+									twttr.widgets.load();
+								} 
+								else {
+									$.getScript('http://platform.twitter.com/widgets.js');
+								}
+
+								// Facebook
+								if ( typeof (FB) != 'undefined' ) {
+									FB.init({ status: true, cookie: true, xfbml: true });
+								} 
+								else {
+									$.getScript("http://connect.facebook.net/en_US/all.js#xfbml=1", function () {
+										FB.init({ 
+											status: true, 
+											cookie: true, 
+											xfbml: true
+										});
+									});
+								}
+
+            				   // Google
+        				       if ( typeof (gapi) != 'undefined' ) {
+        				           $(".g-plusone").each(function () {
+        				           		gapi.plusone.render( $(this).get(0), { "size": "tall" } );
+        				           });
+        				       } else {
+        				           $.getScript('https://apis.google.com/js/plusone.js');
+        				       }
+
+				            }
+
+				          }
+				      }).fail(function (response) {
+				          console.log(response);
+				      }).done(function (response) {
+
+				      });
+
+				   });
+
+				});
+
+			</script>
+			<script type="text/javascript" src="http://kelbyone.com/wp-includes/js/comment-reply.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/kelbyone.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.2"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/bootstrap.js?ver=3.6.1"></script>
-<script type="text/javascript" src="http://kelbyone.com/wp-content/themes/kelbytraining/assets/js/kelbyModal.js?ver=3.6.1"></script>
-<script type="text/javascript" src="http://kelbyone.com/wp-content/themes/kelbytraining/assets/js/main.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/jquery.easing.1.3.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/jquery.cookie.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/jquery.mobilemenu.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/jquery.cycle2.min.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/jquery.cycle2.carousel.min.js?ver=3.6.1"></script>
-<script type="text/javascript" src="http://kelbyone.com/wp-content/themes/kelbytraining/assets/js/chosen.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/jquery.masonry.min.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/superfish.js?ver=3.6.1"></script>
-<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbytraining/assets/js/jquery.prettyPhoto.js?ver=3.6.1"></script>
-<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/banner-cookie/assets/js/public.js?ver=1"></script>
-<div id="back_top" class="hidden-phone" title="Back to Top"> </div>
-<div class="modal lightBg" id="login-menu" style="display: none;">
-	<h2>Login Now! <span>Not a subscriber? <a href="http://kelbyone.com/subscribe">Subscribe Now!</a></span></h2>
-	<div class="modal-content">
-		<form id="loginform" method="post" action="/wp-login" name="loginform">
-			<p class="login-username">
-				<input id="user_login" class="input" type="text" size="20" value="" name="log" placeholder="Username or Email Address">
-			</p>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/kelbyone.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/kelbyone.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/kelbyone.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/kelbyone.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//kelbyone.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.2.8"></script>
+<script type="text/javascript" src="//kelbyone.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/kelbyone.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/kelbyone.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//kelbyone.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.2.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//kelbyone.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.2.8"></script>
+<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbyone/assets//js/libs/bootstrap.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbyone/assets/js/libs/retina.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbyone/assets/js/libs/jquery.jcarousel.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbyone/assets/js/libs/jquery.qtip.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbyone/assets/js/libs/jquery.cookie.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbyone/assets/js/libs/jquery.touchwipe.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="//cdnsmall.kelbymediagroup.com/kelbyone/assets/js/libs/jquery.mCustomScrollbar.concat.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://kelbyone.com/wp-content/themes/k1/js/scripts.js?ver=4.0.1"></script>
 
-			<p class="login-password">
-				<input id="user_pass" class="input" type="password" size="20" value="" name="pwd" placeholder="Password">
-			</p>
-			<p class="login-remember">
-				<label>
-					<input id="rememberme" type="checkbox" value="forever" name="rememberme">
-Remember Me</label>
-			</p>
-			<p class="login-submit">
-				<input id="wp-submit" class="button-primary" type="submit" value="Log In" name="wp-submit">
-				<input type="hidden" value="/privacypledge/" name="redirect_to">
-			</p>
-		</form>
-	</div>
+<script type="text/javascript">
+    piAId = '40182';
+    piCId = '1756';
 
-</div>
+    (function() {
+        function async_load(){
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if(window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+</script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"12689f2dbc","applicationID":"341416","transactionName":"b1NWYBcDW0oAU0BcCVYZdVcRC1pXTkBVUgM=","queueTime":0,"applicationTime":537,"ttGuid":"","agentToken":"","atts":"QxRVFl8ZSEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"12689f2dbc","applicationID":"341416","transactionName":"b1NWYBcDW0oAU0BcCVYZdVcRC1pXTkBVUgM=","queueTime":0,"applicationTime":1591,"ttGuid":"","agentToken":"","atts":"QxRVFl8ZSEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
