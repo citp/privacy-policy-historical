@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasd.org privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528120748id_/http%3A//shq.lasdnews.net/pages/PageDetail.aspx%3Fid%3D1958) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasd.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216003723id_/http%3A//shq.lasdnews.net/pages/PageDetail.aspx%3Fid%3D1958) for the most accurate reproduction.*
 
 # LASD.org - Information Detail
 
