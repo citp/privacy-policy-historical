@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209031340id_/http%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215181515id_/http%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
 
 # FBI — Privacy Policy
 
@@ -26,7 +26,7 @@ You do not have to provide any personal information to visit this website. If yo
 
 We may share information you give us with contractors acting on our behalf or with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit. If you provide comments in response to a request for public comments, we may make those comments as well as your identity available to the public in a publication or by posting them on our website. Where possible, we may give you more specific guidance at the point of collection regarding how your personal information may be used or disclosed.
 
-Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found at <http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm>.
+Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found at <http://publications.usa.gov/USAPubs.php?PubID=6080>.
 
 Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information, you may prefer to send it by postal mail instead.
 
