@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521062646id_/http%3A//www.banks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215124517id_/http%3A//www.banks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Banks
+# Privacy Policy | Banks.com
 
 This Privacy Policy describes Remark Media’s policies on the collection and use of your information. Please review it carefully as it applies to those websites owned or controlled by Remark Media, Inc., its affiliates and subsidiaries (“Remark Media,” “us,” or “we”) on which it is posted (the “Sites”). This Privacy Policy does not apply to those of our websites that do not display or link to this Privacy Policy or that have their own privacy policy or to information we may collect from you or about you in other ways, including through emails you may send to us.
 
