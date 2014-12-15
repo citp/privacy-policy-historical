@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constitutioncenter.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141338id_/http%3A//constitutioncenter.org/about/terms-of-of-use-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitutioncenter.org privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215110931id_/http%3A//constitutioncenter.org/about/terms-of-of-use-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms of of Use and Privacy Policy - National Constitution Center
 
@@ -62,11 +62,11 @@ The National Constitution Center provides visitors with the opportunity to purch
 
 #### Other Online Transactions
 
-The NCC also provides visitors with an opportunity to make online purchases from the NCC retail store as well as purchase an NCC membership or make a contribution to our organization through an online donation/membership page. When visitors to the NCC website chooses to make an online purchase, they are linked to a website served by Aramark. Similarly, when visitors choose to purchase a membership online or make a donation to the NCC, they are linked to a website served by Blackbaud. Visitors to the Aramark or Blackbaud websites are subject to those sites' privacy policies and should refer to those policies for further information.
+The Constitution Center also provides visitors with an opportunity to make online purchases from the museum's retail store as well as purchase a museum membership or make a contribution to our organization through an online donation/membership page. When visitors to the Constitution website chooses to make an online purchase, they are linked to a website served by Aramark. Similarly, when visitors choose to purchase a membership online or make a donation to the NCC, they are linked to a website served by Blackbaud. Visitors to the Aramark or Blackbaud websites are subject to those sites' privacy policies and should refer to those policies for further information.
 
 #### Security
 
-All online transactions conducted on the NCC website are protected by industry-approved encryption techniques in the gathering, storage and transfer of financial data.
+All online transactions conducted on the Constitution Center website are protected by industry-approved encryption techniques in the gathering, storage and transfer of financial data.
 
 ### Changes to Our Web Policies
 
