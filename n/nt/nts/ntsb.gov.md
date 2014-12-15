@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ntsb.gov privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntsb.gov privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/policy/privacy.html) for the most accurate reproduction.*
 
 # Policy - NTSB - National Transportation Safety Board
 
-  * [Accessibility Policy](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/policy/accessibility.html)
-  * [Linking Policy](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/policy/linking.html)
-  * [Privacy](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/policy/privacy.html)
-    * [Privacy Impact Assessment(PIA) - Safety Recommendations Database](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/doclib/agency_reports/PIA_Proc_redacted_sign.pdf)
-    * [Privacy Impact Assessment(PIA) - Transportation Disaster Assistance Family Member Database](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/doclib/agency_reports/TDA_PIA.pdf)
-    * Privacy Impact Assessment - ADMS: [2008](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/doclib/agency_reports/r_PIA_2008_web.pdf), [2009](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/doclib/agency_reports/r_PIA_2009_web.pdf)
-    * [Systems of Records Notices](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/doclib/agency_reports/SORNs.pdf)
-  * [Schedule for Publishing Information](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/policy/schedule.html)
-  * [Information Quality](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/policy/quality.html)
+  * [Accessibility Policy](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/policy/accessibility.html)
+  * [Linking Policy](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/policy/linking.html)
+  * [Privacy](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/policy/privacy.html)
+    * [Privacy Impact Assessment(PIA) - Safety Recommendations Database](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/doclib/agency_reports/PIA_Proc_redacted_sign.pdf)
+    * [Privacy Impact Assessment(PIA) - Transportation Disaster Assistance Family Member Database](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/doclib/agency_reports/TDA_PIA.pdf)
+    * Privacy Impact Assessment - ADMS: [2008](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/doclib/agency_reports/r_PIA_2008_web.pdf), [2009](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/doclib/agency_reports/r_PIA_2009_web.pdf)
+    * [Systems of Records Notices](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/doclib/agency_reports/SORNs.pdf)
+  * [Schedule for Publishing Information](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/policy/schedule.html)
+  * [Information Quality](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/policy/quality.html)
 
 
 
@@ -56,7 +56,7 @@ We do not rent out or sell personal information for commercial purposes. We also
 
 **Contacting Us**
 
-Your comments, questions, and suggestions are extremely important to us. You may contact us electronically by completing the online request form on our [Contact page](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/about/contact.html). You may also contact us by using the telephone numbers, mailing addresses, and e-mail addresses provided on the web site. Before contacting us, there are a few things you should know. 
+Your comments, questions, and suggestions are extremely important to us. You may contact us electronically by completing the online request form on our [Contact page](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/about/contact.html). You may also contact us by using the telephone numbers, mailing addresses, and e-mail addresses provided on the web site. Before contacting us, there are a few things you should know. 
 
 You are not required to provide your name or any other personally-identifying information in order to contact us. If you want us to respond to a question or other place an inquiry, however, you will need to provide sufficient information for us to contact you. 
 
@@ -72,10 +72,10 @@ This Web site does not currently offer educational content created for children.
 
 When you access our site you are entering an Official United States Government System, which may be used only for authorized purposes. The Government may monitor and audit usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing. For Site Security purposes and to ensure that this service remains available to all users, we employ software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 
-To ensure the security and confidentiality of personally identifiable information, we use security software to prevent unauthorized access, and conduct periodic tests of security safeguards. Learn more about our [Security Policy](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/policy/policies.html).
+To ensure the security and confidentiality of personally identifiable information, we use security software to prevent unauthorized access, and conduct periodic tests of security safeguards. Learn more about our [Security Policy](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/policy/policies.html).
 
 **Links to Other Sites**
 
-Our Web site has links to the Web sites of other federal agencies, and in a few cases, links to private organizations. Learn more about our [Linking Policy](https://web.archive.org/web/20140627122343id_/http%3A//www.ntsb.gov/policy/linking.html) here. 
+Our Web site has links to the Web sites of other federal agencies, and in a few cases, links to private organizations. Learn more about our [Linking Policy](https://web.archive.org/web/20141215020404id_/http%3A//www.ntsb.gov/policy/linking.html) here. 
 
 Once you proceed to another Web site, you are subject to the privacy policy of the new site. Any link to another Web site is provided solely for the convenience of the user and does not constitute endorsement by the National Transportation Safety Board or the United States Government of that site or its information, products, or services. We assume no responsibility for the content or operation of other Web sites.
