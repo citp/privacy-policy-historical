@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adconductor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625184222id_/http%3A//www.adconductor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adconductor.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215063853id_/http%3A//www.adconductor.com/privacy) for the most accurate reproduction.*
 
 # Privacy | AdConductor
 
@@ -44,7 +44,7 @@ Burst Media collects this information via our technology and it may be stored fo
 
 We do not link the information we store in cookies to any personally identifiable information you submit while on our site or our member sites. We may obtain anonymous information about you – such as sites you have visited or products you have researched – from third-party sources, and combine it with data that we have collected to better target advertising that match your interests. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
 
-In an effort to respect your privacy, Burst Media gives all internet users the choice to opt-out of receiving Burst Media cookies. If you would like to opt out, please visit our Cookie Opt-out Program at [www.burstmedia.com/company/opt-out](https://web.archive.org/web/20140625184222id_/http://www.adconductor.com/privacy/index.php/company/opt-out). Alternatively, you may also choose to opt out of receiving Burst Media cookies through the Network Advertising Initiative’s [Consumer Opt-Out Program](http://www.networkadvertising.org/managing/opt_out.asp).
+In an effort to respect your privacy, Burst Media gives all internet users the choice to opt-out of receiving Burst Media cookies. If you would like to opt out, please visit our Cookie Opt-out Program at [www.burstmedia.com/company/opt-out](https://web.archive.org/web/20141215063853id_/http%3A//www.adconductor.com/index.php/company/opt-out). Alternatively, you may also choose to opt out of receiving Burst Media cookies through the Network Advertising Initiative’s [Consumer Opt-Out Program](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Third-Party Measurement Services
 
