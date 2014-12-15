@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hayden-mcneil.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512002511id_/http%3A//hmpublishing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hayden-mcneil.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215205146id_/http%3A//www.hmpublishing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ We at Hayden-McNeil, LLC ("we" or "HM") respect your concerns about privacy and 
   
 Click on one of the links below to jump to the listed section:
 
-  * [Information We Collect](http://www.hmpublishing.com/privacy.html#info) _
+  * [Information We Collect](http://www.hmpublishing.com/privacy.html#info)
     * [Examination Copies](http://www.hmpublishing.com/privacy.html#exam)
     * [Sweepstakes, Contests and Other Promotions](http://www.hmpublishing.com/privacy.html#sweeps)
     * [Surveys and Questionnaires](http://www.hmpublishing.com/privacy.html#surveys)
@@ -18,8 +18,6 @@ Click on one of the links below to jump to the listed section:
     * [Buying our Products](http://www.hmpublishing.com/privacy.html#buying)
     * [Cookies and Web Beacons](http://www.hmpublishing.com/privacy.html#cookies)
     * [Collection of Non-Personal Information](http://www.hmpublishing.com/privacy.html#passive)
-  
-_
   * [How We Use Information We Collect](http://www.hmpublishing.com/privacy.html#how)
 
   * [Information We Share](http://www.hmpublishing.com/privacy.html#share)
@@ -89,13 +87,13 @@ We provide links to other Web sites for your convenience.  Also, on occasion, w
 
 We use administrative, technical and physical safeguards to protect information in our possession and control against foreseeable hazards.  Please note, however, that perfect security does not exist on the Internet.
 
-We give you the option of requesting that we not share personal information about you with third parties for marketing use. [Click here](http://www.hmpublishing.com/about-hayden-mcneil/contact/contact-mkt.html) if you DO NOT want us to share your personal information with third parties for their own marketing use. (Keep in mind, however, that some of these companies may have independently obtained your information, in which case you may continue to receive communications from those companies, unless you opt out directly with them.)
+We give you the option of requesting that we not share personal information about you with third parties for marketing use. [Click here](http://www.hmpublishing.com/contact-marketing.html) if you DO NOT want us to share your personal information with third parties for their own marketing use. (Keep in mind, however, that some of these companies may have independently obtained your information, in which case you may continue to receive communications from those companies, unless you opt out directly with them.)
 
 Please be aware that we are able to effectuate an opt-out only for a specific e-mail address, or for a name and address or other identifying information. For example, we are unable to opt out "John Smith" by name alone, because of the large number of persons by that name in our databases. So, if you have more than one e-mail address, if you move or change jobs, or if the information you provide us when opting out doesn't match the information in our databases, your opt out request may not be effectuated properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under "How to Contact Us", below, and we will endeavor to resolve the issue.
 
 We may change or update portions of this Privacy Notice at any time and without prior notice to you.  Please check back from time to time so you are aware of any changes or updates to the Notice.  We will indicate above the effective date of the Notice.
 
-If you would like to update your contact information, click here. If you have any questions about our information practices or our products or services, please contact us by [clicking here](http://www.hmpublishing.com/about-hayden-mcneil/contact/contact-hm.html) or writing us at:
+If you would like to update your contact information, click here. If you have any questions about our information practices or our products or services, please contact us by [clicking here](http://www.hmpublishing.com/contact-hayden-mcneil.html) or writing us at:
 
 Hayden-McNeil, LLC  
 14903 Pilot Drive  
