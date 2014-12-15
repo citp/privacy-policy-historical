@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516165328id_/http%3A//www.mountainhardwear.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215084212id_/http%3A//www.mountainhardwear.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Mountain Hardwear | Privacy Policy
+# Privacy Policy
 
-## Last Updated: January 23, 2014
+## Mountain Hardwear Privacy Policy
 
 This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by Mountain Hardwear, Inc., its parent, subsidiaries or affiliated companies (“Mountain Hardwear” or “We”). Unless we otherwise indicate, this Policy applies to all personal information collected by Mountain Hardwear from any source, including information collected through our online services and activities, including this Website (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy.
 
-**PERSONAL INFORMATION COLLECTED**
+### PERSONAL INFORMATION COLLECTED
 
 We collect information from you in various ways. We collect personal information you directly provide to us online, in our stores and through your other interactions with us. For example, we collect your name, email address, postal address, phone number, fax number, demographics and other information you provide us or allow us to collect from you. We also collect credit card numbers if you purchase our products and services. We may also obtain information from other sources and combine that with information we collect from you.
 
@@ -18,7 +18,7 @@ Web Beacons. We may collect information using Web beacons. Web beacons, or "gifs
 
 While we and others give you choices described in this Policy, there are many ways Web browser signals and other similar mechanisms can indicate your choice to disable tracking, and we may not be aware of or honor every mechanism.
 
-**THIRD PARTY COOKIES AND ADS**
+### THIRD PARTY COOKIES AND ADS
 
 Third parties may also collect information about you through our Sites. For example, third party analytics services use cookies and web beacons to help us compile statistics about our Sites and visitors to our Sites. We receive assurances from those third party analytics services that they will not collect or access any information that directly identifies you on our Sites. Other third parties may also collect information about your online activities over time and across different websites when you visit our Site, for example, to display Mountain Hardwear ads to you on third party websites and to deliver third party ads to our Sites and others as described below.
 
@@ -26,7 +26,7 @@ Mountain Hardwear Ads on Third Party Websites. We and others may use information
 
 Third Party Advertisements. We may also use third parties to serve ads on our Sites. Certain third parties may automatically collect information about your visits to this and other Web sites, your IP address, your ISP, the browser you use to visit our Sites. They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
-**USE OF PERSONAL INFORMATION WE COLLECT**
+### USE OF PERSONAL INFORMATION WE COLLECT
 
 We use personal information we collect for purposes described in this Policy or as disclosed to you in other ways including on our Sites, in our stores, or in connection with our services. For example, we may use your information to:
 
@@ -43,7 +43,7 @@ We use personal information we collect for purposes described in this Policy or 
 
 Mountain Hardwear may store and process personal information in the United States and other countries.
 
-**SHARING OF PERSONAL INFORMATION**
+### SHARING OF PERSONAL INFORMATION
 
 Certain sections of our Sites are designed as open and public community areas for connecting and sharing with other people. When you sign up for or participate in these areas you will be asked to provide certain information that may be displayed publicly along with photos, stories, posts, and other information you choose to provide. We may also post or publish your information when you submit comments, stories, photos, and videos in connection with surveys, contests, sweepstakes, or promotions offered on the Sites.
 
@@ -57,21 +57,23 @@ We do not otherwise share your personal information with third parties except as
 
 
 
-**SECURITY OF YOUR PERSONAL INFORMATION**
+### SECURITY OF YOUR PERSONAL INFORMATION
 
 Mountain Hardwear takes reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-**YOUR INFORMATION CHOICES AND CHANGES**
+### YOUR INFORMATION CHOICES AND CHANGES
 
 You may opt out of receiving promotional emails from Mountain Hardwear by following the instructions in those emails. If you choose to opt out of promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your contact preferences, changes to your information or our Policy or privacy practices by writing us at:
 
-**Mountain Hardwear, Inc.  
+  * Mountain Hardwear, Inc.  
 Attn: Ecommerce  
 1414 Harbour Way South  
 Ford Point, Suite 1005  
-Richmond, CA 94804 **
+Richmond, CA 94804
 
-**CHANGES TO THIS POLICY**
+
+
+### CHANGES TO THIS POLICY
 
 Mountain Hardwear may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above.
 
