@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholiccourier.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526214859id_/http%3A//www.catholiccourier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholiccourier.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216002359id_/http%3A//www.catholiccourier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Catholic Courier
 
