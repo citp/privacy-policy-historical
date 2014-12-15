@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancer.net privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517011856id_/http%3A//www.cancer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancer.net privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215231449id_/http%3A//www.cancer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cancer.Net
 
@@ -79,7 +79,7 @@ If you are submitting PII on behalf of others in your family, business or other 
 
 Subject to this Privacy Policy, the Terms and Conditions of Use, and any other rules or policies applicable to the Website, ASCO collects the information described in this policy through the Website. 
 
-In addition, ASCO has engaged third party vendors to help us manage our web presence and allow us to better serve our web visitors. Personal information submitted to ASCO through third party managed pages may be shared with these vendors as necessary for completing authorized transactions.  These third-party managed pages include the _Journal of Clinical Oncology_ website ([jco.ascopubs.org](http://jco.ascopubs.org/)), the _Journal of Oncology Practice_ website ([jop.ascopubs.org](http://jop.ascopubs.org/)), the Oncology Career Centerâ¢ website ([www.careers.jco.org](http://www.careers.jco.org/)), portions of the Career Opportunities at ASCO page ([www.asco.org/ASCOv2/About+ASCO/Career+Opportunities+at+ASCO](http://www.asco.org/ASCOv2/About+ASCO/Career+Opportunities+at+ASCO)), and portions of ASCO in Action ([ascoaction.asco.org](http://ascoaction.asco.org/)).
+In addition, ASCO has engaged third party vendors to help us manage our web presence and allow us to better serve our web visitors. Personal information submitted to ASCO through third party managed pages may be shared with these vendors as necessary for completing authorized transactions.  These third-party managed pages include the _Journal of Clinical Oncology_ website ([jco.ascopubs.org](http://jco.ascopubs.org/)), the _Journal of Oncology Practice_ website ([jop.ascopubs.org](http://jop.ascopubs.org/)), the Oncology Career Centerâ¢ website ([www.careers.jco.org](http://www.careers.jco.org/)), portions of the Career Opportunities at ASCO page ([www.asco.org/about-asco/working-asco](http://www.asco.org/about-asco/working-asco%20)), and portions of ASCO in Action ([ascoaction.asco.org](http://ascoaction.asco.org/)).
 
 ASCO has also provided external links to other websites in order to provide those who use the Website with a better, more fulfilling experience. Once you enter another website (whether through an advertisement, service or content link), be aware that ASCO is not responsible for the privacy practices of such other sites (see also Section 10 of the Terms and Conditions of Use). We encourage you to look for and review the privacy statements of each and every website that you visit through a link or sponsorship notice.
 
@@ -153,13 +153,13 @@ ASCO will only disclose your PII to third parties under the following circumstan
   * disclosure at your request, such as to complete transactions you undertake on the Website;
   * disclosure to vendors engaged by ASCO to outsource one or more of our internal functions, products, or services, including but not limited to managing mailing lists, packaging, mailing and delivering purchases and promotional offers, consulting services, data modeling, printing, sending postal mail, and processing event registrations;
   * disclosure of contact information to other ASCO members via our membership directories (the information made available in directories will not include will not include financial information, such as credit card or bank information, or social security numbers);
-  * disclosure of contact information to the public if you elect to participate in the Find an Oncologist Database ([www.cancer.net/patient/Publications+and+Resources/Find+an+Oncologist/Find+an+Oncologist+Database](http://www.cancer.net/patient/Publications+and+Resources/Find+an+Oncologist/Find+an+Oncologist+Database));
+  * disclosure of contact information to the public if you elect to participate in the Find an Oncologist Database ([www.cancer.net/find-cancer-doctor](http://www.cancer.net/find-cancer-doctor));
   * limited disclosure of contact information to trusted third parties to offer products and services to our members; and
   * disclosure to private entities and law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate (a) to investigate or resolve possible problems or inquiries, (b) to conform to legal requirements or comply with legal process served on ASCO, (c) to protect our own business and assets, or (d) in special cases, such as a physical threat to you or others. 
 
 
 
-Please note that additional disclosure rules apply to information obtained by ASCO through the Oncology Career Centerâ¢, which is discussed further in Section 10.
+Please note that additional disclosure rules apply to information obtained by ASCO through the Oncology Career Center™, which is discussed further in Section 10.
 
 Whenever ASCO discloses your PII to third parties, we will make commercially reasonable efforts to limit the information to which third parties have access and the purposes for which they can use it, as well as to require that the recipients thereof apply the terms of this Privacy Policy to that information as if they were ASCO.
 
@@ -199,9 +199,9 @@ In addition, you may choose to use certain interactive content, tools, and servi
 
 Any chat room, message board, forum or similar interactive service is by design open to the public and is not a private, secure service. ASCO is not responsible for the privacy of information voluntarily provided by a user in interactive areas. You should think carefully before disclosing any PII in any public forum because what you have written may be seen, disclosed to, or collected by third parties and may be used by others in ways we are unable to control or predict, including to contact you for purposes unauthorized by you.
 
-** ** **10\. The Oncology Career Centerâ¢**
+** ** **10\. The Oncology Career Center™**
 
-Because the Oncology Career Centerâ¢ ([www.careers.jco.org](http://www.careers.jco.org/)) is a career site, it gives job seekers the option of posting their resumes to our database. There are two ways to post a resume.
+Because the Oncology Career Center™ ([www.careers.jco.org](http://www.careers.jco.org/)) is a career site, it gives job seekers the option of posting their resumes to our database. There are two ways to post a resume.
 
 Non-Searchable Submission. You can store your resume in our database, but elect during the registration process to exclude your resume from searches by potential employers. Excluding your resume from database searches means that you can use it to apply for and respond to individual job postings, but employers will not have the ability to search for it.
 
