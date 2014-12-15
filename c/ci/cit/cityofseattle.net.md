@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623232433id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215195355id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
 
 # About Seattle.gov - Policies and Planning - Legislation, Policies and Standards
 
@@ -7,7 +7,7 @@
 Department of Information Technology - _Originally posted on September 15, 2004; updated on December 16, 2004_
 
 [City of Seattle Online Privacy and Security Policy Summary  
-Available in 14 Languages](https://web.archive.org/web/20140623232433id_/http%3A//www.seattle.gov/pan/privacytrans.htm)
+Available in 14 Languages](https://web.archive.org/web/20141215195355id_/http%3A//www.seattle.gov/pan/privacytrans.htm)
 
 **Section A. Introduction**
 
@@ -32,13 +32,13 @@ This notice covers the following topics:
 
 Information collected if you only browse this site.
 
-If you do nothing during your visit to our web site but browse, read pages, or download information, we will gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store the following information about your visit:
+If you do nothing during your visit to our web site but browse, read pages, or download information, we will gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store the following information about your visit: 
 
-  1. The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu). Generally, the City only determines visitor domain names if a security issue is suspected;
+  1. The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu). Generally, the City only determines visitor domain names if a security issue is suspected; 
   2. The type of browser and operating system you used; 
   3. The date and time you visited this site; 
   4. The web pages or services you accessed at this site; and 
-  5. The web site you visited prior to coming to this web site.
+  5. The web site you visited prior to coming to this web site. 
 
 
 
@@ -48,12 +48,12 @@ For site security purposes and to ensure that this service remains available to 
 
 What we collect if you volunteer information.
 
-If during your visit to our web site you participate in a survey, send an e-mail, participate in a City hosted mailing list or web-based discussion, or perform some other transaction online, the following additional information will be collected:
+If during your visit to our web site you participate in a survey, send an e-mail, participate in a City hosted mailing list or web-based discussion, or perform some other transaction online, the following additional information will be collected: 
 
   1. The e-mail address, and contents of the e-mail, for those who communicate with us via e-mail or who participate in a City hosted mailing list or web-based discussion. 
-  2. Information volunteered in response to a survey.
-  3. Information volunteered through an online form for any other purpose.
-  4. Information volunteered by participating in an online transaction with the City.
+  2. Information volunteered in response to a survey. 
+  3. Information volunteered through an online form for any other purpose. 
+  4. Information volunteered by participating in an online transaction with the City. 
 
 
 
