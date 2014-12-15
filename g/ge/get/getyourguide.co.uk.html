@@ -1,443 +1,282 @@
-<!--The following is the downloaded HTML source of the getyourguide.co.uk privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629093540id_/http%3A//www.getyourguide.co.uk/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getyourguide.co.uk privacy policy that was archived on 2014-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215102528id_/http%3A//www.getyourguide.co.uk/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/8203.js?438998" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-3XTJ"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMBWVFACgYDUlVbAQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<meta name="description" content="The GetYourGuide Terms of Use govern the selling and booking of tours, attractions and activities, as well as user interaction and general conduct on the…">
-<meta name="author" content="GetYourGuide AG">
-<meta name="apple-mobile-web-app-title" content="GetYourGuide">
-<title>GetYourGuide Privacy Policy</title>
-<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico?3">
-<link rel="shortcut icon" href="/favicon.ico?3">
-<link rel="apple-touch-icon-precomposed" href="//cdn1.getyourguide.com/static/34ed8b45f5bbb02c64511300bb93181b2ae9176a/mobile/img/rebrand/gyg_iphone_icon_114.png">
-<link rel="image_src" href="//cdn1.getyourguide.com/static/34ed8b45f5bbb02c64511300bb93181b2ae9176a/customer/img/rebrand/gyg_logo_fb.png">
+<!DOCTYPE html><html lang="en" class="no-js"><head>
+<meta charset="utf-8">
+<title>GetYourGuide Privacy</title>
+<link rel="stylesheet" href="//cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/compiled/site.css">
+<link rel="stylesheet" href="//cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/compiled/legal.css">
+<link rel="icon" href="//cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/static/images/favicon.ico">
+<link rel="image_src" href="//cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/static/images/gyg_logo_fb.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/static/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/static/images/apple-touch-icon-144x144-precomposed.png">
 <link rel="canonical" href="http://www.getyourguide.co.uk/privacy_policy.php">
-<!-- links google+ page as publisher -->
-<link href="https://plus.google.com/103735262504614966727" rel="publisher">
-<link rel="stylesheet" href="//cdn1.getyourguide.com/static/34ed8b45f5bbb02c64511300bb93181b2ae9176a/customer/main.css" type="text/css" media="screen, projection, print">
-<!--[if lte IE 7]><link rel="stylesheet" href="//cdn1.getyourguide.com/static/34ed8b45f5bbb02c64511300bb93181b2ae9176a/customer/ie_warning.css" type="text/css" media="screen" /><![endif]-->
-<script type="text/javascript">
-			dataLayer = [];
-						var _gaq = _gaq || [];
-		</script>
-<script type="text/javascript"> var GYG = { 'tplc': {} }; </script>
-<script type="text/javascript" src="//cdn1.getyourguide.com/static/34ed8b45f5bbb02c64511300bb93181b2ae9176a/customer/env/en-GB.js"></script>
-<script type="text/javascript"> GYG.config.page_name = "privacy-policy"; GYG.hosts.assets = "//cdn1.getyourguide.com/static/34ed8b45f5bbb02c64511300bb93181b2ae9176a/customer/"; GYG.hosts.img = "//cdn2.getyourguide.com/"; </script>
-<script type="text/javascript" src="//cdn1.getyourguide.com/static/34ed8b45f5bbb02c64511300bb93181b2ae9176a/customer/require.js" data-main="//cdn1.getyourguide.com/static/34ed8b45f5bbb02c64511300bb93181b2ae9176a/customer/main"></script>
-<script type="text/javascript"> </script>
-<script type="text/javascript"> var b_initLiveChat = true; var __lc = {}; __lc.license = 1291321; __lc.skill = 1; </script>
+<meta content="en-GB" http-equiv="Content-Language">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="description" content="GetYourGuide collects and categorizes all the world’s things to do so you research less and do more. Africa to Oceania and back again, we make it simple for you to find and book the tour, activity, or attraction that will make your trip — or your day.">
+<meta name="apple-mobile-web-app-title" content="GetYourGuide">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-3XTJ"></script><script>dataLayer = [];  dataLayer.push({"user":{"customer_id":"","is_logged_in":false,"is_staff":false,"gyg_office":false}}); </script>
 </head>
-<body id="privacy-policy" class="en ">
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-3XTJ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-3XTJ');</script>
+<body>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-3XTJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-3XTJ');</script>
 <div id="fb-root"></div>
-<div id="domain-switch"></div>
-<div id="travelagent-notify"></div>
-<noscript><div id="noscript" class="notification">
+<div class="viewport viewport-offset--closed" id="top">
+<div class="notifications-container--top notification-container--closed">
+<script id="tpl_notifications" type="text/html"><div class="notification"><div><p class="<%= status %>"><span><%= message %></span></p></div><a class="close-btn <%= status %>" href="#">Close</a></div></script>
+</div>
 <div>
-<p class="error"><span>You have disabled Javascript. Please enable it to use GetYourGuide.</span></p>
+<noscript><p class="notification--static notification--error">You have disabled Javascript. Please enable it to use GetYourGuide.</p></noscript>
 </div>
-</div></noscript>
-<div id="top-nav-bars">
-<div id="header">
-<div id="header-container">
-<div id="gyg-logo"><a href="http://www.getyourguide.co.uk/">GetYourGuide</a></div>
-<div class="nav">
-<form id="head-search" action="http://www.getyourguide.co.uk/s/" method="get" name="head-search">
-<ul>
-<li class="input">
-<label id="search-q-label" for="search-q">
-Where are you going?
-</label>
-<input type="text" name="q" id="search-q" class="medium first  empty" autocomplete="off" value="">
-</li>
-<li class="last">
-<div>
-<a title="Search" id="head-search-submit">
-Search
-</a>
-</div>
-<input type="submit" id="head-search-submit-hide" value="Search">
-</li>
-</ul>
-</form>
-<ul class="gyg-nav">
-<li id="shoppingCartIcon">
-<a class="link cart empty" href="http://www.getyourguide.co.uk/shopping_cart.php" rel="nofollow">
-<span class="nav-icon shopping-cart-icon"></span>
-<span class="nav-count items"></span>
-Cart
-</a>
-</li>
-<li id="nav-help" class="fixPosition">
-<span class="nav-help link">
-<span class="nav-icon help-icon"></span>
-Help
-<span class="dropdown-arrow"></span>
-</span>
-<div id="help-menu">
-<ul>
-<li>
-<a href="http://www.getyourguide.co.uk/contact.php" class="menu-item">
-<span class="help-menu-icon contact-icon"></span> Contact
-</a>
-</li>
-<li>
-<a href="http://help.getyourguide.com/customer/en/portal/articles?lang=uk" class="menu-item">
-<span class="help-menu-icon faq-icon"></span> FAQ
-</a>
-</li>
-<li>
-<span class="menu-item">
-<span class="help-menu-icon phone-icon"></span>
-020 881 672 48
-(UK)
-</span>
-</li>
-</ul>
-</div>
-</li>
-<li id="nav-account" class="dropdown">
-<span class="signUpLink link">
-<span class="nav-icon sign-in-icon"></span>
-Log in
-<span class="dropdown-arrow"></span>
-</span>
-<div id="account-menu">
-<ul>
-<li>
-<a href="#" class="logInLink menu-item">
-<span class="sign-in-menu-icon log-in-icon"></span> Log in
-</a>
-</li>
-<li>
-<a href="#" class="signUpLink menu-item">
-<span class="sign-in-menu-icon sign-up-icon"></span> Sign up
-</a>
-</li>
-<li>
-<a href="#" class="ticketsLink menu-item">
-<span class="sign-in-menu-icon tickets-icon"></span> Bookings
-</a>
-</li>
-<li>
-<a href="#" class="wishlistLink menu-item">
-<span class="sign-in-menu-icon wishlist-icon"></span> Wishlist
-</a>
-</li>
-</ul>
-</div>
-</li>
-<script type="text/javascript"> (function () { var dummy, dropdown, html; try { html = window.localStorage.getItem('account_dropdown'); dropdown = document.getElementById("nav-account"); dummy = document.createElement("div"); dummy.innerHTML = html; dropdown.parentNode.replaceChild(dummy.firstChild, dropdown); } catch(e) { } })(); </script>
-</ul>
+<div class="spinner" style="display:none">
+<div class="spinner-container">
+<div class="spinner-message">
+<div class="spinner-image"></div>
+<p class="spinner-text">Fetching...</p>
 </div>
 </div>
-<hr class="clear">
 </div>
-</div>
-<div id="location-image-search" class="hidden intro">
+<header class="page-header" role="banner">
 <div class="container">
-<div class="intro-header left">
-<span class="intro-header-claim intro-header-claim--long">All the best tours &amp; things to do in</span>
-<span class="intro-header-location intro-header-location--long"></span>
+<a class="header-logo" href="http://www.getyourguide.co.uk/"><img src="https://cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/static/images/gyg-logo.png" onerror="if(!window.fallback_logo)this.src=this.src.replace('.svg', '.png');window.fallback_logo=true" alt="Home"></a>
+<div class="header-search">
+<form class="search-form search-form--docked" role="search" action="http://www.getyourguide.co.uk/s/">
+<input class="search-form-input" type="text" name="q" autocomplete="off" placeholder="Where are you going?">
+<button class="icon icon-reset" type="reset"></button>
+<button class="search-form-submit" type="submit">
+<span class="icon icon-search">Search</span>
+</button>
+</form>
 </div>
-</div>
-</div>
-<div id="content">
-<div id="breadcrumb">
-<a href="http://www.getyourguide.co.uk/">Home</a>
-»
-<h1>GetYourGuide Privacy Policy</h1>
-</div>
-<div id="static-pages-menu">
-<div class="top-image"></div>
-<ul>
-<li class="first">
-<a href="http://www.getyourguide.co.uk/contact.php">
-Contact
-</a>
+<nav>
+<ul class="header-navigation">
+<li id="cart">
+<a class="link icon icon-basket" href="http://www.getyourguide.co.uk/shopping_cart.php" rel="nofollow"><span class="shopping-cart-amount">&nbsp;</span><span class="shopping-cart-text">Cart</span></a>
 </li>
-<li class="first space">
-<a href="http://www.getyourguide.co.uk/impressum.php">
-Legal
-</a>
+<li id="help" class="header-navigation-submenu help-menu">
+<a href="http://help.getyourguide.com/customer/en/portal/articles?lang=uk" class="header-navigation-submenu-title link icon icon-help" aria-haspopup="true">Help</a>
+<ul class="header-navigation-submenu-items">
+<li class="header-navigation-submenu-item">
+<a class="icon icon-users" href="http://www.getyourguide.co.uk/contact.php">Contact</a>
 </li>
-<li class="first">
-<a href="http://www.getyourguide.co.uk/terms_of_use.php">
-Terms of Use
-</a>
+<li class="header-navigation-submenu-item">
+<a class="icon icon-info-circled" href="http://help.getyourguide.com/customer/en/portal/articles?lang=uk">FAQ</a>
 </li>
-<li class="first selected">
-<h3>                <a href="http://www.getyourguide.co.uk/privacy_policy.php">
-Privacy Policy
-</a>
-</h3>		</li>
-<li class="first">
-<a href="http://www.getyourguide.co.uk/terms_of_business.php">
-Terms of Business
-</a>
+<li class="header-navigation-submenu-item">
+<a class="icon icon-phone" href="tel:+442088167248">020 881 672 48(UK)</a>
 </li>
 </ul>
-<div class="bottom-image"></div>
+</li>
+<li id="user" class="login-state-unknown">
+<a class="link icon icon-user" href="https://www.getyourguide.co.uk/login/?next=http%3A%2F%2Fwww.getyourguide.co.uk%2Fprivacy_policy.php%3F">Log in</a>
+</li>
+</ul>
+<script id="tpl_user_logged_in" type="text/html"><a class="header-navigation-submenu-title link icon icon-user" href="http://www.getyourguide.co.uk/login.php"><%= first_name %></a><ul class="header-navigation-submenu-items"><li class="header-navigation-submenu-item"><a href="https://www.getyourguide.co.uk/customer_dashboard.php">Dashboard</a></li><li class="header-navigation-submenu-item"><a href="https://www.getyourguide.co.uk/customer_bookings.php">Bookings</a></li><li class="header-navigation-submenu-item"><a href="https://www.getyourguide.co.uk/customer_wishlists.php">Wishlist</a></li><li class="header-navigation-submenu-item"><a href="https://www.getyourguide.co.uk/customer_profile.php">Settings</a></li><li class="header-navigation-submenu-item"><a href="https://www.getyourguide.co.uk/logout/?next=http%3A%2F%2Fwww.getyourguide.co.uk%2Fprivacy_policy.php%3F" class="logout-link">Log out</a></li></ul></script>
+</nav>			
+<div class="header-breadcrumbs">
+<ul class="breadcrumbs hidden">
+<li class="breadcrumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.getyourguide.co.uk/" itemprop="url"><span itemprop="title">Home</span></a>
+</li>
+<li class="breadcrumb breadcrumb--current" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<span itemprop="title">GetYourGuide Privacy</span>
+</li>
+</ul>
 </div>
-<div id="static-pages-content">
-<h5>
-GetYourGuide Privacy
-<a class="print-version" href="http://www.getyourguide.co.uk/print_terms_and_conditions.php?file=privacy_policy" rel="nofollow" target="_blank">Print Version</a>
-</h5>
-<p class="complete-headline">
-GetYourGuide Privacy
-</p>
-<p>
-<em>Last updated: August 16th, 2013</em>
-</p>
-<p class="short-navigation">
-<strong>Navigation:</strong>
-</p>
-<ol class="shortcut-menue rnd-all">
-<li>
-<a href="#p_1">Scope and amendments</a>
+</div>
+</header>
+<main role="main">
+<div class="container mainContent">
+<div class="leftBar">
+<ul class="staticPagesNavigation">
+<li class="first ">
+<a href="http://www.getyourguide.co.uk/contact.php">Contact</a>
 </li>
-<li>
-<a href="#p_2">Information used for statistical and similar purposes</a>
+<li class="">
+<a href="http://www.getyourguide.co.uk/impressum.php">Legal</a>
 </li>
-<li>
-<a href="#p_3">Account information and bookings</a>
+<li class="">
+<a href="http://www.getyourguide.co.uk/terms_of_use.php">Terms of Use</a>
 </li>
-<li>
-<a href="#p_4">Sharing information with third parties</a>
+<li class=" selected">
+<a href="http://www.getyourguide.co.uk/privacy_policy.php">Privacy Policy</a>
 </li>
-<li>
-<a href="#p_5">Storage time</a>
+<li class="">
+<a href="http://www.getyourguide.co.uk/terms_of_business.php">Terms of Business</a>
 </li>
-<li>
-<a href="#p_6">Cookies</a>
-</li>
-<li>
-<a href="#p_7">GetYourGuide Apps</a>
-</li>
-<li>
-<a href="#p_8">Google Analytics</a>
-</li>
-<li>
-<a href="#p_9">Google Maps API</a>
-</li>
-<li>
-<a href="#p_10">Other locally stored information</a>
-</li>
-<li>
-<a href="#p_11">Data transfer through the internet</a>
-</li>
+</ul>
+</div>
+<div class="centerContent">
+<div class="termsHeader">
+<h1>GetYourGuide Privacy</h1>
+<a class="icon-print" href="http://www.getyourguide.co.uk/privacy_policy.print" rel="nofollow" target="_blank">
+Print Version
+</a>
+</div>
+<p class="complete-headline" id="privacyHeader">GetYourGuide Privacy</p>
+<p><em>Last updated: August 16th, 2013</em></p>
+<p class="short-navigation"><strong>Navigation:</strong></p>
+<ol class="shortcut-menue">
+<li><a href="#p_1">Scope and amendments</a></li>
+<li><a href="#p_2">Information used for statistical and similar purposes</a></li>
+<li><a href="#p_3">Account information and bookings</a></li>
+<li><a href="#p_4">Sharing information with third parties</a></li>
+<li><a href="#p_5">Storage time</a></li>
+<li><a href="#p_6">Cookies</a></li>
+<li><a href="#p_7">GetYourGuide Apps</a></li>
+<li><a href="#p_8">Google Analytics</a></li>
+<li><a href="#p_9">Google Maps API</a></li>
+<li><a href="#p_10">Other locally stored information</a></li>
+<li><a href="#p_11">Data transfer through the internet</a></li>
 </ol>
 <p class="point" id="p_1">1. Scope and amendments</p>
-<p class="point-text">This policy ("<strong>Privacy Policy</strong>") sets out how we process personal information that you share with us or that we may collect when you browse the Website. Capitalized terms in this Privacy Policy have the meanings defined in the <a href="terms_of_use.php">Terms of Use</a>.<br>
-<br>
-This Privacy Policy applies to any use of the Website. We may amend this Privacy Policy at any time and effective immediately, with effect for the future. If we make amendments, they apply as of the date of their publication on the Website. We expect you to regularly refer to this section to make sure you are familiar with the applicable Privacy Policy.</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_2">2. Information used for statistical and similar purposes</p>
-<p class="point-text">When you use the Site, we collect certain data (including your IP address, browser type and operating system, the number of sites you visit, the duration of your visits, if you are a returning visitor or not, from where you came to the Site, and other similar information). We use this information for statistical purposes, to improve your experience on the Site, to make it easier to use, to better tailor it to your interests and needs, or to speed up your future activities and experience on the Site. We use this information anonymously and in the aggregate.<br>
-<br>
-If you transfer additional information to us, for example when you carry out booking queries or fill data into forms, we may evaluate such information anonymously and in the aggregate for statistical purposes, even without prior registration and even if no booking takes place.</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_3">3. Account information and bookings</p>
-<p class="point-text">When you register an account with us, you will transfer personal information to us, such as your name, address, date of birth, phone number and e-mail address, and information relating to booked activities. By registering your account, you provide consent for us to send you messages and documents through electronic means. By registering an account with us, you also permit us to send you our regular newsletters and updates about specials and other announcements. You can at any time unsubscribe from receiving such messages through an included link. When you book an activity, personal information will be transmitted to the relevant supplier, who may be located abroad including in countries without an adequate level of data protection. When you book an activity you also permit the relevant supplier to send you related information. For details, please see our <a href="terms_of_business.php">General Terms of Business</a>. When you pay for booked activities using a credit card, the payment will be processed by a payment solution provider we select in our sole discretion, currently Concardis (<a href="http://www.concardis.com">http://www.concardis.com</a>). We do not store credit card information.</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_4">4. Sharing information with third parties</p>
-<p class="point-text">We and suppliers of booked activities may be obliged to pass on or make certain information available to authorities. Some data is also transmitted to Google, as set out in section 7 and 8. In case of payments carried out through the Website, relevant information will be passed on to our external payment provider (see section 3). When you permit us to send you newsletters and updates (see section 3), the required data will be hosted by an external e-mail marketing service provider. Moreover, we may pass on information to authorities, officials and other third parties if we are required to do so by law, and for legitimate business reasons.</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_5">5. Storage time</p>
-<p class="point-text">We store personal information for as long as reasonably required for its purpose. Account information is deleted when you or when we delete your account. We may store information longer for legitimate business reasons (for example, personal information may remain in backups for a reasonable period of time), or as legally required.</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_6">6. Cookies</p>
-<p class="point-text">Like most internet service providers, we use what is known as browser cookies to simplify the use of the Website and obtain information that can help us to improve the information and services made available through the Website. Cookies are small text files that your browser stores on your device (for example your computer). We use cookies to make the Website easy to use and to better tailor the Website and our products to your interests and needs. Cookies may also be used to help speed up your future activities and experience on the Website. We also use cookies to compile anonymous, aggregated statistics that allow us to understand how people use our Website and to help us improve their structure and content. One of the cookies we use has already been set. This site does not work without cookies. By using the Website, you agree to the use of cookies for this purpose. You can decide for yourself if our Website's server is allowed to save cookies on your device or not. You can opt to change your web browser settings so that your browser does not allow cookies to be accepted or saved at any time. Alternatively, you can opt to be shown a warning message every time before you accept cookies or you can set your browser up in such a way that it only accepts cookies from certain websites. You can also delete cookies that have already been saved at any time. This can be done through the settings of your web browser, and by deleting all cookies.&nbsp;To find how to manage and delete cookies, please visit the UK Information Commissioner’s Office website (<a href="http://www.ico.gov.uk">www.ico.gov.uk</a>). However, if you decline cookies on the Website, some functions on the Website may be limited or unavailable. As a result, to make it easier to use the Website, we recommend that your browser settings accept cookies on the Website.</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_7">7. GetYourGuide Apps</p>
-<p class="point-text">If you download and install a GetYourGuide App, all data that you transfer to Apple Inc., iTunes Store, Google Inc. or any other app provider, as applicable (together "App Provider"), will be collected, stored and otherwise processed by the App Providers according to their privacy term. App Provider provide their services independently from us.</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_8">8. Google Analytics</p>
-<p class="point-text">The Website uses Google Analytics, a web analytics service provided by Google, Inc. (“<strong>Google</strong>”). Google Analytics uses cookies (see above), to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. You may refuse the use of cookies (see above). You can also opt out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a></p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_9">9. Google Maps API</p>
-<p class="point-text">We use Google Maps on the Website through an interface provided by Google ("<strong>Google Maps API</strong>") to provide you with additional information. Through the Google Maps API, certain data can be transmitted to Google, but only in an anonymous form</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_10">10. Other locally stored information</p>
-<p class="point-text">When you browse the Website, information may be stored on your device (locally) through the "DOM Storage" process. DOM storage is used for storing data in a web browser, similar to cookies (see below), but with enhanced capacity. Locally stored information does not permit us to identify you, but the DOM storage process records information on how you browse the Website on your computer (the pages you have viewed, date and time of viewing, etc.) that we can read during your subsequent visits. You can delete that information manually. Please consult the user help section of your web browser.</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
-<p class="point" id="p_11">11. Data transfer through the internet</p>
-<p class="point-text">Data transmitted through an open network such as the internet or an email service can be accessed openly. We cannot guarantee the confidentiality of messages or materials sent through such open networks. When you share personal information through an open network, you should consider the fact that third parties may access this information and collect and use it for their purposes. Even where the sender and the recipient are in the same country, data may be routed through third countries including countries that do not have an adequate level of protection. Please use other means of communication where you consider this appropriate for security concerns.</p>
-<p class="back-to-top">
-<a href="#">Back to top</a>
-</p>
 <p class="point-text">
-GetYourGuide AG<br>
-Technoparkstrasse 1<br>
-8005 Zurich<br>
-Switzerland
+This policy ("<strong>Privacy Policy</strong>") sets out how we process personal information that you share with us or that we may collect when you browse the Website. Capitalized terms in this Privacy Policy have the meanings defined in the <a href="terms_of_use.php">Terms of Use</a>.<br>
+<br>
+This Privacy Policy applies to any use of the Website. We may amend this Privacy Policy at any time and effective immediately, with effect for the future. If we make amendments, they apply as of the date of their publication on the Website. We expect you to regularly refer to this section to make sure you are familiar with the applicable Privacy Policy.
 </p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_2">2. Information used for statistical and similar purposes</p>
+<p class="point-text">
+When you use the Site, we collect certain data (including your IP address, browser type and operating system, the number of sites you visit, the duration of your visits, if you are a returning visitor or not, from where you came to the Site, and other similar information). We use this information for statistical purposes, to improve your experience on the Site, to make it easier to use, to better tailor it to your interests and needs, or to speed up your future activities and experience on the Site. We use this information anonymously and in the aggregate.<br>
+<br>
+If you transfer additional information to us, for example when you carry out booking queries or fill data into forms, we may evaluate such information anonymously and in the aggregate for statistical purposes, even without prior registration and even if no booking takes place.
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_3">3. Account information and bookings</p>
+<p class="point-text">
+When you register an account with us, you will transfer personal information to us, such as your name, address, date of birth, phone number and e-mail address, and information relating to booked activities. By registering your account, you provide consent for us to send you messages and documents through electronic means. By registering an account with us, you also permit us to send you our regular newsletters and updates about specials and other announcements. You can at any time unsubscribe from receiving such messages through an included link. When you book an activity, personal information will be transmitted to the relevant supplier, who may be located abroad including in countries without an adequate level of data protection. When you book an activity you also permit the relevant supplier to send you related information. For details, please see our <a href="terms_of_business.php">General Terms of Business</a>. When you pay for booked activities using a credit card, the payment will be processed by a payment solution provider we select in our sole discretion, currently Concardis (<a href="http://www.concardis.com">http://www.concardis.com</a>). We do not store credit card information.
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_4">4. Sharing information with third parties</p>
+<p class="point-text">
+We and suppliers of booked activities may be obliged to pass on or make certain information available to authorities. Some data is also transmitted to Google, as set out in section 7 and 8. In case of payments carried out through the Website, relevant information will be passed on to our external payment provider (see section 3). When you permit us to send you newsletters and updates (see section 3), the required data will be hosted by an external e-mail marketing service provider. Moreover, we may pass on information to authorities, officials and other third parties if we are required to do so by law, and for legitimate business reasons.
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_5">5. Storage time</p>
+<p class="point-text">
+We store personal information for as long as reasonably required for its purpose. Account information is deleted when you or when we delete your account. We may store information longer for legitimate business reasons (for example, personal information may remain in backups for a reasonable period of time), or as legally required.
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_6">6. Cookies</p>
+<p class="point-text">
+Like most internet service providers, we use what is known as browser cookies to simplify the use of the Website and obtain information that can help us to improve the information and services made available through the Website. Cookies are small text files that your browser stores on your device (for example your computer). We use cookies to make the Website easy to use and to better tailor the Website and our products to your interests and needs. Cookies may also be used to help speed up your future activities and experience on the Website. We also use cookies to compile anonymous, aggregated statistics that allow us to understand how people use our Website and to help us improve their structure and content. One of the cookies we use has already been set. This site does not work without cookies. By using the Website, you agree to the use of cookies for this purpose. You can decide for yourself if our Website's server is allowed to save cookies on your device or not. You can opt to change your web browser settings so that your browser does not allow cookies to be accepted or saved at any time. Alternatively, you can opt to be shown a warning message every time before you accept cookies or you can set your browser up in such a way that it only accepts cookies from certain websites. You can also delete cookies that have already been saved at any time. This can be done through the settings of your web browser, and by deleting all cookies.&nbsp;To find how to manage and delete cookies, please visit the UK Information Commissioner’s Office website (<a href="http://www.ico.gov.uk">www.ico.gov.uk</a>). However, if you decline cookies on the Website, some functions on the Website may be limited or unavailable. As a result, to make it easier to use the Website, we recommend that your browser settings accept cookies on the Website.
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_7">7. GetYourGuide Apps</p>
+<p class="point-text">
+If you download and install a GetYourGuide App, all data that you transfer to Apple Inc., iTunes Store, Google Inc. or any other app provider, as applicable (together "App Provider"), will be collected, stored and otherwise processed by the App Providers according to their privacy term. App Provider provide their services independently from us.
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_8">8. Google Analytics</p>
+<p class="point-text">
+The Website uses Google Analytics, a web analytics service provided by Google, Inc. (“<strong>Google</strong>”). Google Analytics uses cookies (see above), to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. You may refuse the use of cookies (see above). You can also opt out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a>
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_9">9. Google Maps API</p>
+<p class="point-text">
+We use Google Maps on the Website through an interface provided by Google ("<strong>Google Maps API</strong>") to provide you with additional information. Through the Google Maps API, certain data can be transmitted to Google, but only in an anonymous form
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_10">10. Other locally stored information</p>
+<p class="point-text">
+When you browse the Website, information may be stored on your device (locally) through the "DOM Storage" process. DOM storage is used for storing data in a web browser, similar to cookies (see below), but with enhanced capacity. Locally stored information does not permit us to identify you, but the DOM storage process records information on how you browse the Website on your computer (the pages you have viewed, date and time of viewing, etc.) that we can read during your subsequent visits. You can delete that information manually. Please consult the user help section of your web browser.
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p>    <p class="point" id="p_11">11. Data transfer through the internet</p>
+<p class="point-text">
+Data transmitted through an open network such as the internet or an email service can be accessed openly. We cannot guarantee the confidentiality of messages or materials sent through such open networks. When you share personal information through an open network, you should consider the fact that third parties may access this information and collect and use it for their purposes. Even where the sender and the recipient are in the same country, data may be routed through third countries including countries that do not have an adequate level of protection. Please use other means of communication where you consider this appropriate for security concerns.
+</p>
+<p class="back-to-top"><a href="#privacyHeader">Back to top</a></p><p class="point-text">GetYourGuide GmbH<br>
+Erich-Weinert-Straße 145<br>
+10409 Berlin<br>
+Germany</p>
 </div>
-<hr class="clear">
 </div>
-<div id="footer">
-<ul class="gyg-social">
-<li>
-<a href="http://www.facebook.com/GetYourGuide" class="gyg-facebook" target="_blank">Facebook</a>
+</main>
+<footer class="page-footer container" role="contentinfo">
+<hr>
+<div class="media-and-content-settings row">
+<div class="col-sm-12">
+<ul class="social-media-networks">
+<li class="social-media-network">
+<a class="social-media-network-link icon-facebook" href="http://www.facebook.com/GetYourGuide" target="_blank">Facebook</a>
 </li>
-<li>
-<a href="http://www.twitter.com/GetYourGuide" class="gyg-twitter" target="_blank">Twitter</a>
+<li class="social-media-network">
+<a class="social-media-network-link icon-twitter" href="http://www.twitter.com/GetYourGuide" target="_blank">Twitter</a>
 </li>
-<li>
-<a href="#newsletter_signup" class="gyg-email" target="_blank">Email</a>
+<li class="social-media-network">
+<a class="social-media-network-link icon-gplus" href="https://plus.google.com/103735262504614966727/posts" target="_blank">Google+</a>
 </li>
-<li>
-<a href="https://plus.google.com/103735262504614966727/posts" class="gyg-gplus" target="_blank">Google+</a>
+<li class="social-media-network">
+<a class="social-media-network-link icon-pinterest" href="http://pinterest.com/getyourguide/?change_language=en" target="_blank">Pinterest</a>
 </li>
-<li>
-<a href="http://pinterest.com/getyourguide/?change_language=en" class="gyg-pinterest" target="_blank">Pinterest</a>
-</li>
-<li>
-<a href="http://www.linkedin.com/company/getyourguide-ag" class="gyg-linkedin" target="_blank">Linkedin</a>
+<li class="social-media-network">
+<a class="social-media-network-link icon-linkedin" href="http://www.linkedin.com/company/getyourguide-ag" target="_blank">Linkedin</a>
 </li>
 </ul>
-<ul class="localization-menu">
-<li class="gyg-dropdown" id="currency-dropdown">
-<span class="currency-icon c_2"></span>
-<span class="dd-text">
-British Pound
-</span>
-<span class="dropdown-arrow black"></span>
-<select class="cur-change-list">
-<option id="c_3" data-display="U.S. Dollar">
-(US$) U.S. Dollar
-</option>
-<option id="c_1" data-display="Euro">
-(€) Euro
-</option>
-<option id="c_5" data-display="Australian Dollar">
-(A$) Australian Dollar
-</option>
-<option id="c_2" data-display="British Pound" selected="">
-(£) British Pound
-</option>
-<option id="c_6" data-display="Canadian Dollar">
-(C$) Canadian Dollar
-</option>
-<option id="c_14" data-display="New Zealand Dollar">
-(NZ$) New Zealand Dollar
-</option>
-<option id="c_31" data-display="Singapore Dollar">
-(S$) Singapore Dollar
-</option>
-<option id="c_21" data-display="Swiss Franc">
-(CHF) Swiss Franc
-</option>
+<ul class="languages">
+<li class="language"><a href="http://www.getyourguide.de/privacy_policy.php" lang="de" class="language-link language-link--de-DE" title="Datenschutzrichtlinien von GetYourGuide">Datenschutzrichtlinien von GetYourGuide</a></li>
+<li class="language"><a href="http://www.getyourguide.at/privacy_policy.php" lang="de" class="language-link language-link--de-AT" title="Datenschutzrichtlinien von GetYourGuide">Datenschutzrichtlinien von GetYourGuide</a></li>
+<li class="language"><a href="http://www.getyourguide.ch/privacy_policy.php" lang="de" class="language-link language-link--de-CH" title="Datenschutzrichtlinien von GetYourGuide">Datenschutzrichtlinien von GetYourGuide</a></li>
+<li class="language"><a href="http://www.getyourguide.com/privacy_policy.php" lang="en" class="language-link language-link--en-US" title="GetYourGuide Privacy Policy">GetYourGuide Privacy Policy</a></li>
+<li class="language"><a href="http://www.getyourguide.es/privacy_policy.php" lang="es" class="language-link language-link--es-ES" title="Declaración de privacidad de GetYourGuide">Declaración de privacidad de GetYourGuide</a></li>
+<li class="language"><a href="http://www.getyourguide.fr/privacy_policy.php" lang="fr" class="language-link language-link--fr-FR" title="Politique de confidentialité GetYourGuide">Politique de confidentialité GetYourGuide</a></li>
+<li class="language"><a href="http://www.getyourguide.it/privacy_policy.php" lang="it" class="language-link language-link--it-IT" title="Normativa sulla privacy GetYourGuide">Normativa sulla privacy GetYourGuide</a></li>
+<li class="language"><a href="http://www.getyourguide.nl/privacy_policy.php" lang="nl" class="language-link language-link--nl-NL" title="GetYourGuide Privacyverklaring">GetYourGuide Privacyverklaring</a></li>
+</ul>
+<form method="post" class="currencies-form" action="http://www.getyourguide.co.uk/ajax/currency_change.php">
+<div class="currency-display" style="display:none;">
+<span class="currency-symbol currency-symbol--tiny">£</span>
+<span class="currency-name">British Pound</span>
+</div>
+<label class="currencies-label" for="currencies">Currency:&nbsp;</label>
+<select class="currencies-select" id="currencies">
+<option value="3" data-name="U.S. Dollar" data-symbol="$">U.S. Dollar</option>
+<option value="1" data-name="Euro" data-symbol="€">Euro</option>
+<option value="5" data-name="Australian Dollar" data-symbol="$">Australian Dollar</option>
+<option value="2" data-name="British Pound" data-symbol="£" selected="">British Pound</option>
+<option value="6" data-name="Canadian Dollar" data-symbol="$">Canadian Dollar</option>
+<option value="14" data-name="New Zealand Dollar" data-symbol="$">New Zealand Dollar</option>
+<option value="31" data-name="Singapore Dollar" data-symbol="$">Singapore Dollar</option>
+<option value="21" data-name="Swiss Franc" data-symbol="CHF">Swiss Franc</option>
 </select>
-</li>
-<li id="language-choice">
-<ul>
-<li class="language-choice-item">
-<a href="http://www.getyourguide.de/privacy_policy.php" class="de-DE" title="Datenschutzrichtlinien von GetYourGuide" alt="Datenschutzrichtlinien von GetYourGuide">Datenschutzrichtlinien von GetYourGuide</a>
-</li>
-<li class="language-choice-item">
-<a href="http://www.getyourguide.at/privacy_policy.php" class="de-AT" title="Datenschutzrichtlinien von GetYourGuide" alt="Datenschutzrichtlinien von GetYourGuide">Datenschutzrichtlinien von GetYourGuide</a>
-</li>
-<li class="language-choice-item">
-<a href="http://www.getyourguide.ch/privacy_policy.php" class="de-CH" title="Datenschutzrichtlinien von GetYourGuide" alt="Datenschutzrichtlinien von GetYourGuide">Datenschutzrichtlinien von GetYourGuide</a>
-</li>
-<li class="language-choice-item">
-<a href="http://www.getyourguide.com/privacy_policy.php" class="en-US" title="GetYourGuide Privacy Policy" alt="GetYourGuide Privacy Policy">GetYourGuide Privacy Policy</a>
-</li>
-<li class="language-choice-item">
-<a href="http://www.getyourguide.es/privacy_policy.php" class="es-ES" title="Declaración de privacidad de GetYourGuide" alt="Declaración de privacidad de GetYourGuide">Declaración de privacidad de GetYourGuide</a>
-</li>
-<li class="language-choice-item">
-<a href="http://www.getyourguide.fr/privacy_policy.php" class="fr-FR" title="Politique de confidentialité GetYourGuide" alt="Politique de confidentialité GetYourGuide">Politique de confidentialité GetYourGuide</a>
-</li>
-<li class="language-choice-item">
-<a href="http://www.getyourguide.it/privacy_policy.php" class="it-IT" title="Normativa sulla privacy GetYourGuide" alt="Normativa sulla privacy GetYourGuide">Normativa sulla privacy GetYourGuide</a>
-</li>
-<li class="language-choice-item">
-<a href="http://www.getyourguide.nl/privacy_policy.php" class="nl-NL" title="GetYourGuide Privacyverklaring" alt="GetYourGuide Privacyverklaring">GetYourGuide Privacyverklaring</a>
-</li>
-</ul>
-</li>
-</ul>
-<hr class="clear">
-<div id="footer-links">
-<ul>
-<li class="footer-links-title">Company</li>
-<li><a href="http://www.getyourguide.co.uk/company.php">About Us</a></li>
+</form>                </div>
+</div>
+<hr>
+<section class="meta-navigation row">
+<div class="company col-sm-3">
+<h3>Company</h3>
+<ul class="nav">
+<li><a href="http://www.getyourguide.co.uk/about/">About Us</a></li>
 <li><a href="http://www.getyourguide.co.uk/jobs.php">Careers</a></li>
-<li><a href="http://blog.getyourguide.com/" target="_blank">Blog</a></li>
-<li><a href="http://www.getyourguide.co.uk/press.php">Press</a></li>
+<li><a href="http://blog.getyourguide.com/">Blog</a></li>
+<li><a href="http://www.getyourguide.co.uk/press/">Press</a></li>
 </ul>
-<ul>
-<li class="footer-links-title">Support</li>
+</div>
+<div class="support col-sm-3">
+<h3>Support</h3>
+<ul class="nav">
 <li><a href="http://www.getyourguide.co.uk/contact.php">Contact</a></li>
 <li><a href="http://help.getyourguide.com/customer/en/portal/articles?lang=uk">FAQ</a></li>
 <li><a href="http://www.getyourguide.co.uk/impressum.php">Legal</a></li>
 <li><a href="http://www.getyourguide.co.uk/privacy_policy.php">Privacy Policy</a></li>
 <li><a href="http://www.getyourguide.co.uk/terms_of_use.php">Terms of use</a></li>
 </ul>
-<ul class="footer-mobile">
-<li>
-Mobile
-</li>
-<li class="footer-mobile-image">
-<a href="http://www.getyourguide.co.uk/apps/">
-Get the apps
-</a>
-</li>
-<li><a href="http://www.getyourguide.co.uk/apps/">Get the apps</a></li>
-</ul>
-<ul>
-<li class="footer-links-title">Work with us</li>
-<li><a href="https://supplier.getyourguide.com/en/" target="_blank">Offer Tours &amp; Activities</a></li>
-<li><a href="https://partner.getyourguide.com/en/" target="_blank">Become a Partner</a></li>
+</div>
+<div class="mobile col-sm-3">
+<h3>Mobile</h3>
+<a class="get-apps" href="http://www.getyourguide.co.uk/apps/">Get the apps</a>
+</div>
+<div class="collaboration col-sm-3">
+<h3>Work with us</h3>
+<ul class="nav">
 <li><a href="https://supplier.getyourguide.com/en/" target="_blank">Supplier Administration</a></li>
-<li><a href="https://partner.getyourguide.com/en/" target="_blank">Partner Administration</a></li>
+<li><a href="https://partner.getyourguide.com/en/" target="_blank">Become a Partner</a></li>
 </ul>
 </div>
-<hr class="clear">
-<p class="copyright ">
-© 2008-2014 GetYourGuide
-AG		</p>
+</section>
+<div class="row">
+<div class="col-sm-12"><p class="copyright">© <span class="copyright-years">2008–2014</span> GetYourGuide. Made with <span class="icon icon-heart"></span> in Zurich &amp; Berlin</p></div>
 </div>
-<script type="text/javascript">
-        setTimeout(function (){
-            var a = document.createElement("script");
-            var b = document.getElementsByTagName("script")[0];
-            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/8203.js?" + Math.floor(new Date().getTime()/3600000);
-            a.async = true;
-            a.type = "text/javascript";
-            b.parentNode.insertBefore(a,b);
-        }, 1);
-    </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"3d9c362956","applicationID":"2536496","transactionName":"NFVTZhNZDUcEABIKXg0fZEAIFxNGDBUHAEg8QF5eCFsaGhULFg==","queueTime":0,"applicationTime":131,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+</footer>
+</div>
+<script>var gyg = {"configuration": {"LANGUAGE_CODE": "en-GB","CURRENCY": {"id":2,"symbol":"\u00a3"},"CURRENCY_CHANGE_FORCES_PAGE_RELOAD": true,"LOCALE_HOST": "http://www.getyourguide.co.uk/","IMG_HOST": "//cdn2.getyourguide.com/","SECURE_HOST": "https://www.getyourguide.co.uk/","ASSET_PATH": "//cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/","FB_APP_ID": "272989966105721","FB_SCOPE": "email,user_birthday,user_location"},"dictionary": {"CURRENCY_CHANGE_SHOPPINGCART_WARNING": 'Careful! All items in your cart will be lost if you change the currency.',"LOGGING_OUT": 'Logging out'},"models": { }, "views": { }, "utils": { },"event_bus" : { }};</script>
+<script src="//cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/compiled/site.js"></script>
+<script>
+gyg.legal = gyg.legal || {};_.extend(gyg.legal, {'GETTEXT' : {'close' : 'Close'}});
+</script>
+<script src="//cdn1.getyourguide.com/static/5fa6461c157f2db719a51dbc9a3d275d7076b9bc/customer/desktop/compiled/legal.js"></script>
+<script>gyg.views.main = new gyg.Main(); if (gyg.hasOwnProperty('Page')) { gyg.views.page = new gyg.Page({event_bus: gyg.event_bus, configuration: gyg.configuration, dictionary: gyg.dictionary}); }</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
