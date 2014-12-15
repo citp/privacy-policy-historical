@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the carrotfry.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626072420id_/http%3A//www.carrotfry.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carrotfry.com privacy policy that was archived on 2014-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215063813id_/http%3A//www.carrotfry.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="Head1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" xml:lang="en-US"><head id="Head1">
     
 <title>
-	privacy
-</title><link href="favicon.ico" rel="icon" type="image/x-icon"><link rel="stylesheet" type="text/css" href="http://www.carrotfry.com/Styles/cfsite.css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.carrotfry.com/Scripts/jquery-1.7.2.js"></script>
+	Carrotfry privacy
+</title><link href="http://www.carrotfry.com/favicon.ico" rel="icon" type="image/x-icon"><link rel="stylesheet" type="text/css" href="http://www.carrotfry.com/Styles/cfsite.css">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ND26P3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.carrotfry.com/Scripts/jquery-1.7.2.js"></script>
     <script type="text/javascript">
         var GetLastCount = 0;
         var GetLastCountElement = 0;
@@ -29,6 +29,9 @@
         }
     </script>   
 	
+	<script type="text/javascript" src="http://www.carrotfry.com/slider/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="http://www.carrotfry.com/slider/jquery-ui.js"></script>
+    
     
 
   <style type="text/css">
@@ -57,7 +60,25 @@
                  
        </style>
 
-    <style type="text/css">   
+    <style type="text/css">  
+		.about_cf {
+			width: 100%;
+			float: left;
+			font-family: arial;
+			font-size: 14px;
+			line-height: 25px;
+			color: #000;
+		}  
+		.about_cf h3{
+			font-weight: bold;
+			color: #005387;
+			margin-bottom: 10px;
+			font-size: 16px;
+		}
+		.about_cf a{
+			color: #005387;
+			text-decoration:underline;
+		}
         .btnShopnow
         {
             width: 100px;
@@ -247,6 +268,44 @@ position: absolute;
 margin-left: 225px;
 margin-top: -32px;
 }
+.lihead{
+  color: #de3135;
+margin-top: 8px;
+font-size: 11px;
+font-weight: bold;
+padding: 0px 0px 0px 5px;
+}
+.about_cf_main{
+float:left;
+margin-top:0px;
+line-height:25px;
+padding-right:10px;
+background-color:#fff;
+}
+.about_cf h4{
+color:#005387;
+font-weight:bold;
+font-family:arial;
+font-size:13px;
+
+}
+.about_cf p{
+color:#000;
+font-family:arial;
+font-size:12px;
+
+}
+.about_cf p a{
+color:#0925EE;
+}
+.about_cf ul li
+{
+list-style-type: circle; margin-left: 40px;
+}
+.popupJoinUs p
+{
+color: #fff;text-align: center;margin-bottom: 10px;
+}
 </style>
     <script type="text/javascript">
         function isNumberPop(evt) {
@@ -257,29 +316,28 @@ margin-top: -32px;
             }
             return true;
         }
-        var nConf_form = jQuery.noConflict(true);
-        nConf_form(function(){
+        $(function(){
            openpopup('divJoinUsPopUp', '');
-            nConf_form('#txtSignUpEmailPop').focusout(function () {
-                if (nConf_form('#txtSignUpEmailPop').val() != "")
+            $('#txtSignUpEmailPop').focusout(function () {
+                if ($('#txtSignUpEmailPop').val() != "")
                     ValidateEmailPop();
             });
-            nConf_form('#txtMobilePop').focusout(function () {
-                if (nConf_form('#txtMobilePop').val() != "")
+            $('#txtMobilePop').focusout(function () {
+                if ($('#txtMobilePop').val() != "")
                     MobileVerificationPop();
             });
             var divbg = document.getElementById('bg');
             divbg.style.visibility = "hidden";
             document.getElementById('divJoinUsPopUp').style.display = "none";
             
-            nConf_form('#lbtnExpertSubmit').click(function () {
+            $('#lbtnExpertSubmit').click(function () {
                     var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test(nConf_form('#txtExpertEmail').val());
-                    if (nConf_form('#txtExpertMsg').val() == "") {
+                    var valid = emailReg.test($('#txtExpertEmail').val());
+                    if ($('#txtExpertMsg').val() == "") {
                         alert("Please enter your message and email. ");
                         return false;
                     }
-                    if (nConf_form('#txtExpertEmail').val() == "") {
+                    if ($('#txtExpertEmail').val() == "") {
                         alert("Please Enter Email.");
                         return false;
                     }
@@ -292,70 +350,63 @@ margin-top: -32px;
                 });
         }); 
         function ValidateEmailPop() {
-            nConf_form.ajax({
+            $.ajax({
                 cache: false,
                 type: "POST",
                 contentType: "application/json; charset=utf-8",
                 url: "http://www.carrotfry.com/Carrotfry.asmx/ValidateEmailID",
-                data: "{'strEmail':'" + nConf_form('#txtSignUpEmailPop').val() + "'}",
+                data: "{'strEmail':'" + $('#txtSignUpEmailPop').val() + "'}",
                 dataType: "json",
                 success: function (data) {
                     for (var e in data) {
                         if (data[e] != "") {
-                            alert(data[e]);
-                            nConf_form('#txtSignUpEmailPop').val('');
-                            nConf_form('#txtSignUpEmailPop').focus();
+                            $('#txtSignUpEmailPop').val('');
+                            $('#txtSignUpEmailPop').focus();
                         }
                     }
                 },
                 failure: function (msg) {
-                    alert(msg);
                 }
-
             });
         }
         function MobileVerificationPop() {
-            nConf_form.ajax({
+            $.ajax({
                 cache: false,
                 type: "POST",
                 contentType: "application/json; charset=utf-8",
                 url: "http://www.carrotfry.com/Carrotfry.asmx/MobileVerification",
-                data: "{'mobile':'" + nConf_form('#txtMobilePop').val() + "'}",
+                data: "{'mobile':'" + $('#txtMobilePop').val() + "'}",
                 dataType: "json",
                 success: function (data) {
                     for (var e in data) {
                         if (data[e] != "") {
-                            alert(data[e]);
-                            nConf_form('#txtMobilePop').val('');
-                            nConf_form('#txtMobilePop').focus();
+                            $('#txtMobilePop').val('');
+                            $('#txtMobilePop').focus();
                         }
-
                     }
                 },
                 failure: function (msg) {
-                    alert(msg);
                 }
-
             });
         }
         function CheckValidEmailOrNotPop() {
-            nConf_form.ajax({
+            $.ajax({
                 cache: false,
                 type: "POST",
                 contentType: "application/json; charset=utf-8",
                 url: "http://www.carrotfry.com/CarrotFry.asmx/ValidateEmailID",
-                data: "{'strEmail':'" + nConf_form('#txtForgotPwdEmailPop').val() + "'}",
+                data: "{'strEmail':'" + $('#txtForgotPwdEmailPop').val() + "'}",
                 dataType: "json",
                 success: function (data) {
                     for (var e in data) {
                         if (data[e] != "") {
                             window.event.returnValue = true;
-                            nConf_form("#lblForgotPwdEmailErrPop").html('An Email has been sent.').css({ 'color': 'green', 'display': 'block' });
+                            $("#lblForgotPwdEmailErrPop").html('An Email has been sent.').css({ 'color': 'green', 'display': 'block' });
                         }
                         else {
-                            nConf_form("#lblForgotPwdEmailErrPop").html('Email Doest Not Exist').css({ 'color': 'red', 'display': 'block' });
-                            if (nConf_form("#lblForgotPwdEmailErrPop").html() == "Email Doest Not Exist") {
-                                nConf_form("#txtForgotPwdEmailPop").after('<span id="spanFN" class="ValidationErrors"><img  style="margin-right: -18px;float: right;margin-top: -42px;" src="http://www.carrotfry.com/images/jquery.liveValidation-invalid.png" title="Please enter a valid Email id."></span>').next().next().css("display", "none");
+                            $("#lblForgotPwdEmailErrPop").html('Email Doest Not Exist').css({ 'color': 'red', 'display': 'block' });
+                            if ($("#lblForgotPwdEmailErrPop").html() == "Email Doest Not Exist") {
+                                $("#txtForgotPwdEmailPop").after('<span id="spanFN" class="ValidationErrors"><img  style="margin-right: -18px;float: right;margin-top: -42px;" src="http://www.carrotfry.com/images/jquery.liveValidation-invalid.png" title="Please enter a valid Email id."></span>').next().next().css("display", "none");
                             }
                             window.event.returnValue = false;
                             return false;
@@ -363,7 +414,6 @@ margin-top: -32px;
                     }
                 },
                 failure: function (msg) {
-                    alert(msg);
                 }
             });
             return true;
@@ -371,6 +421,7 @@ margin-top: -32px;
     </script>
     
 <script language="javascript">
+        
         function ValidSearch()
         {
           if(document.getElementById('txt_search').value=="")
@@ -427,104 +478,127 @@ margin-top: -32px;
             divbg.style.visibility = "hidden";
             var divobj = document.getElementById(id);
             divobj.style.visibility = "hidden";
+              document.getElementById('hdnStoreID').value ="";
+              document.getElementById('hdnCouponID').value ="";
+              document.getElementById('hdnDealID').value ="";
             document.getElementById('divLoginPopUp').style.display = "none";
             document.getElementById('divJoinUsPopUp').style.display = "none";
             document.getElementById('divForgotPopUp').style.display = "none";
         }
     </script>
-<script type="text/javascript">
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-40783751-1', 'carrotfry.com');
+  ga('create', 'UA-40783751-1', 'auto');
+
   ga('send', 'pageview');
 
 </script>
 
-
-<meta name="Description" content="privacy"><meta name="keywords" content="privacy"></head>
+<meta name="Description" content="Carrotfry privacy"><meta name="keywords" content="Carrotfry privacy"></head>
 <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND26P3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-ND26P3');</script>
+<!-- End Google Tag Manager -->
+
     <form method="post" action="privacypolicy" id="form1">
-<div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYEAgIPFgIeB1Zpc2libGVoZAIGDxYCHglpbm5lcmh0bWwFRzxhIGhyZWY9J2h0dHA6Ly93d3cuY2Fycm90ZnJ5LmNvbS9mYXRoZXJzZGF5ZGVhbHMgJz5GYXRoZXJzRGF5RGVhbHM8L2E+ZGS85E//ZiwjKJJTpFfsCq2794F4CrODlOiKao1t7Seg7w==">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form1'];
-if (!theForm) {
-    theForm = document.form1;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYIAgIPFgIeB1Zpc2libGVoZAINDxYCHwBoFgICAQ8WAh8AaGQCDg8WAh8AaGQCEA8WAh4JaW5uZXJodG1sBYUFPGEgaHJlZj0namF2YXNjcmlwdDo7Jz4gVHJhdmVsIE9mZmVycyA8L2E+PGRpdiBjbGFzcz0nZHJvcGRvd25fNGNvbHVtbnMnPjxkaXYgY2xhc3M9J2NvbF80Jz48L2Rpdj48ZGl2IGNsYXNzPSdjb2xfMic+PHVsPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmNhcnJvdGZyeS5jb20vb2ZmZXJzL2FsbC1kb21lc3RpYy1mbGlnaHQtb2ZmZXJzLWFuZC1mbGlnaHQtY291cG9ucy1pbi1pbmRpYSc+RG9tZXN0aWMgRmxpZ2h0IE9mZmVyczwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmNhcnJvdGZyeS5jb20vb2ZmZXJzL2FsbC1pbnRlcm5hdGlvbmFsLWZsaWdodC1vZmZlcnMtYW5kLWNoZWFwLWZsaWdodC10aWNrZXRzJz5JbnRlcm5hdGlvbmFsIEZsaWdodCBPZmZlcnM8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3d3dy5jYXJyb3RmcnkuY29tL29mZmVycy9hbGwtb25saW5lLWJ1cy10aWNrZXQtYm9va2luZy1vZmZlcnMtYm9vay1idXMtdGlja2V0cyc+QnVzIE9mZmVyczwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmNhcnJvdGZyeS5jb20vb2ZmZXJzL2FsbC1vbmxpbmUtaG90ZWwtY291cG9ucy1hbmQtaG90ZWwtYm9va2luZy1vZmZlcnMnPkhvdGVsIE9mZmVyczwvYT48L2xpPjwvdWw+PC9kaXY+PC9kaXY+ZGR9evRapNjdKqhXuF+oaOh8UweEIOl8GKoyNlatyfdcwg==">
 
 
-<script src="/WebResource.axd?d=ebO80QjwNLw3NRvKyVRABx1kOr3nbnFA8sjAA-lrigrK1VlJFkkkyIDEw9d9n1N4G2hkCPtZ-Fmi3BIecmta0N3-f533ZLo-Q7zVkptWhZc1&amp;t=634774064700000000" type="text/javascript"></script>
-
-
-<script src="/ScriptResource.axd?d=AuQ2aCnKoTWQ_A6MERMRvWqy_ImB2HtZj5qV_qnXplXPwZw2IS9Y94ufZ6jHJkslo2wvgIwscKFvQhLo1nbiYJQdHzJ-6OZHOCtWxW8sDchS_ZRmy8lUQjfuJVb8vpIQUzQT2vtnp8G8CFtqPUJ4YCh1Dqg8vD_aHVgzvbAAqpE1&amp;t=6119e399" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=Hl59NhpNW6HNWg2_ZgDmtRb3z2AcJ4I9Sop4OqqCHHSCF03tHns-jnFS7KIlCUqJiJYFa2U4EXXx065RatLd0mhiQh0kv2xfQEO7W3CfkcdnmHVbHidyMLUX6OW9FU4lbMcBMN8zUQ7VSVQgvM7JFVHMjbZ9fvnWdTuwPTIoPoZBVnBG5ZZBevcmsGWpIX9X0&amp;t=6119e399" type="text/javascript"></script>
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABQVhcMjwMRMoXZO7UbRVwcgqmnQWtWg89VPdDy9cmBZ4lV6RkAfufrqJa6LpqnGFgurso+AjPkYOyt7Lm7k63eI/vu0TsWzkZOFcMEFcDZTT1psT4BNIhlmelqFJFlk1aLtYOVF3oOoDqu5wlSRFn6OG8jycQxZVtiBF9whDSLEbo2OlE+CUr82FHXSLcPNjsZFvdgBKPDp5XjmjCN4o7aOqznenfX7IsEoK6qokDsYKrKQPOLERu2I4MkX2uwU1hHTQmnPkTGmVln2SWuOMX+fR1CJ86xNtNvRlDtB8YbkCMtgON7+UMMQCDg0WPKhvtIVDwTtSj0Po5RVQYQ27Pf0epdjl8rtA2xrnh/+bkTr7E9CIRLkeIP27F8p+7Zwq5yRvhwPGnPKPi9flNmaWqnhbwNwGa3j6kjaLcrZTmkHDrtranG3GFvDEJP81lEQi9teDiq5l4Zd0/xFImD95Fad">
-</div>
-         <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
-//]]>
-</script>
-
+<script src="/ScriptResource.axd?d=wF_tzjyejXG32oN2WL-a74NxVpoSrJAue5k_ExziaIs_TBKi_9uN-ct8ZGpNH2yjyBKlBQk4GUHYBP4k3nN9AYrRCgOGLHFkJ3LLsQE_UwJ9d338V1fHpSZwiSurXpc5xK-PUk7qPtmzkFJcqm9vArmC1Hhgyf3OwlBppgTlP9E1&amp;t=6119e399" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAB5zpOgWW8K5M9AjGbuIft6TqmnQWtWg89VPdDy9cmBZ4jWRnFSjzfR4BhwFYeKHakFykeKq0ccQrrSlXu1fHuRxU6DO1DAg9PDRGtVUTYwMtlV6RkAfufrqJa6LpqnGFgurso+AjPkYOyt7Lm7k63eI/vu0TsWzkZOFcMEFcDZTT1psT4BNIhlmelqFJFlk1aLtYOVF3oOoDqu5wlSRFn6OG8jycQxZVtiBF9whDSLEbo2OlE+CUr82FHXSLcPNjsZFvdgBKPDp5XjmjCN4o7aOqznenfX7IsEoK6qokDsYKrKQPOLERu2I4MkX2uwU1hHTQmnPkTGmVln2SWuOMX+fR1CJ86xNtNvRlDtB8YbkCMtgON7+UMMQCDg0WPKhvtIVDwTtSj0Po5RVQYQ27Pf0epdjl8rtA2xrnh/+bkTr7E9CIRLkeIP27F8p+7Zwq5yRvhwPGnPKPi9flNmaWqnhbwNwGa3j6kjaLcrZTmkHDrW2bajerCDxLy3KWhxd2dTu29GSv3umCGJAPv3x78luNsksK2ms9vbV6yF51ZWVTwTkOOHLo33kZS4COuwPAY+ToChVH+60E+JsLHC4hQPGktAT/H9h423+NcENWuYcC3IdovK9Qu56kT7bJ5QPUQozE22RToE416Gv3CrTM11uNo+acjpoDwp5X8q2eM1rXQ==">
+         
         <div class="headertop">
             <div class="head_socialicon">
-                <a href="http://wwww.facebook.com/carrotfry" class="head_facebook" rel="nofollow" target="_blank"></a>
-                <a href="http://www.twitter.com/carrotfry" class="head_twitter" rel="nofollow" target="_blank"></a>
-                <a href="http://www.pinterest.com/carrotfry/pins" class="head_pinterest" rel="nofollow" target="_blank"></a>
-                <a href="http://www.carrotfry.com/feed" class="head_rss" rel="nofollow" target="_blank"></a>
-                <a href="https://plus.google.com/+carrotfry" class="head_google_plus" rel="nofollow" target="_blank"></a>
+                <a href="http://wwww.facebook.com/carrotfry" class="head_facebook" target="_blank"></a>
+                <a href="http://www.twitter.com/carrotfry" class="head_twitter" target="_blank"></a>
+                <a href="http://www.pinterest.com/carrotfry/pins" class="head_pinterest" target="_blank"></a>
+                <a href="http://www.carrotfry.com/feed" class="head_rss" target="_blank"></a>
+                <a href="https://plus.google.com/+carrotfry" class="head_google_plus" target="_blank"></a>
             </div>
             <div id="WithOutLogin" class="user_auth">
-                <a href="http://www.carrotfry.com/forums" class="forum_btn">Deal Forums </a>
-                <a href="http://www.carrotfry.com/joinus" class="LoginBtn" onclick="openpopup('divLoginPopUp', '');return false;">Login</a>
-                <a href="http://www.carrotfry.com/joinus" class="JoinBtn" onclick="openpopup('divJoinUsPopUp', '');return false;">Join us</a>
+                <a href="http://www.carrotfry.com/forums" id="aHotDealForum" class="forum_btn">Hot Deal Forums </a>
+                <a href="javascript:void(0)" rel="nofollow" class="LoginBtn" onclick="openpopup('divLoginPopUp', '');return false;">Login</a>
+                <a href="javascript:void(0)" rel="nofollow" class="JoinBtn" onclick="openpopup('divJoinUsPopUp', '');return false;">Sign up</a>
             </div>
             
         </div>
         <header>
-            <div id="logo">
-                <a href="http://www.carrotfry.com"><img alt="Online Shopping Deals and Coupons india – Carrotfry.com" src="https://s3-ap-southeast-1.amazonaws.com/carrotfry-images/cflogonew.png"></a>
+            <div id="CFlogo">
+                <a href="http://www.carrotfry.com" id="aHomePage"><img alt="Online Coupons and Dealsfor Shopping" title="Online Coupons and Dealsfor Shopping" src="https://s3-ap-southeast-1.amazonaws.com/carrotfry-images/online-coupons-deals.png"></a>
             </div>
-            <div class="top_promotion_link" style="float:right;"></div>
+            
+            <div class="top_promotion_link" style="float:right;">
+            </div>
 <div id="nav">
 <ul>
 <li id="liDeals">
-<a href="http://www.carrotfry.com" class="drop">Deals </a>
-</li>
-<span class="span-sep"></span>
-<li id="liCoupons">
-<a href="http://www.carrotfry.com/coupons">Coupons </a>
-</li>
-<span class="span-sep"></span>
-<li id="liStores">
-<a href="http://www.carrotfry.com/online-shopping-stores">Shopping Stores </a>
-</li>
-<span class="span-sep"></span>
-    
-<li id="dmSpecial"><a href="http://www.carrotfry.com/fathersdaydeals ">FathersDayDeals</a></li>
+<a href="http://www.carrotfry.com" id="aDealsPage" class="drop">Deals </a>
+<div class="dropdown_4columns" style="margin: 2px auto;"><div class="col_4"></div><div class="col_2">
+<ul>
+   <li>
+   <a href="http://www.carrotfry.com/best-deals">Best Deals</a>
+   </li>
+   <li>
+     <a href="http://www.carrotfry.com/forums/hot-deals">Hot Deals</a>
+   </li>
 </ul>
+</div>
+</div>
+</li>
+
+
+<span class="span-sep"></span>
+
+<li id="liCouponsInDeals">
+<a href="http://coupons.carrotfry.com" id="aCouponsPageInDeals" rel="nofollow">Online Coupons </a>
+</li>
+
+
+
+<span class="span-sep"></span>
+
+<!--<li id="liOnam">
+<a href="http://www.carrotfry.com/local-coupons" id="aOnamPage">Local Coupons</a>
+</li>
+<span id="spanOnam" class="span-sep"></span>-->
+
+<li id="liDiwali">
+<a href="http://www.carrotfry.com/gosf-offers" id="aDiwali">Gosf 2014 Offers</a>
+</li>
+<span id="spanDiwali" class="span-sep"></span>
+
+
+
+
+
+<!--<li id="liStores">
+<a href="http://www.carrotfry.com/online-shopping-stores" id="aStoresPage">Shopping Stores </a>
+</li>
+<span class="span-sep"></span>-->
+    
+<li id="dmSpecial"><a href="javascript:;"> Travel Offers </a><div class="dropdown_4columns"><div class="col_4"></div><div class="col_2"><ul><li><a href="http://www.carrotfry.com/offers/all-domestic-flight-offers-and-flight-coupons-in-india">Domestic Flight Offers</a></li><li><a href="http://www.carrotfry.com/offers/all-international-flight-offers-and-cheap-flight-tickets">International Flight Offers</a></li><li><a href="http://www.carrotfry.com/offers/all-online-bus-ticket-booking-offers-book-bus-tickets">Bus Offers</a></li><li><a href="http://www.carrotfry.com/offers/all-online-hotel-coupons-and-hotel-booking-offers">Hotel Offers</a></li></ul></div></div></li>
+
+</ul>
+
 <div id="dd_search_filter">
 <input name="ctl00$txt_search" type="text" id="txt_search" class="nav_search1" placeholder="Search for">
-<select class="search-select" id="search_list" name="search_list"><option value="premium_deal">Deals</option>
+<select name="ctl00$ddlsearch" id="ddlsearch" class="search-select">
+	<option value="1">Best Deals</option>
+	<option value="2">Deal Forums</option>
+	<option value="3">Coupons</option>
 
 </select>
 <input type="submit" name="ctl00$btnSearch" value="" onclick="return ValidSearch();" id="btnSearch" class="searchclass">
@@ -532,55 +606,85 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
 </div>
 
 <div id="subnav">
-<ul>
+<ul id="ulfordeals" class="ulsubnav">
+
 <li>
-<a href="http://www.carrotfry.com">Home</a>
+<a href="http://www.carrotfry.com/category" title="All Categories">All Categories</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/mobiles-and-accessories/1">Mobiles</a>
+<a href="http://www.carrotfry.com/category/recharge-deals" title="Online Mobile Recharge Deals">Recharge</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/desktops-and-laptops/1">Computers</a>
+<a href="http://www.carrotfry.com/category/mobiles-and-accessories-deals" title="Mobiles &amp; Mobile Accessories Deals">Mobiles</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/electronics/1">Electronics</a>
+<a href="http://www.carrotfry.com/category/tablets-and-accessories-deals" title="Tablets Deals">Tablets</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/fashion/1">Fashion</a>
+<a href="http://www.carrotfry.com/category/desktops-and-laptops-deals" title="Computers and Laptop Deals">Computers</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/footwear/1">Footwear</a>
+<a href="http://www.carrotfry.com/category/electronics-deals" title="Electronics Deals">Electronics</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/books-and-music/1">Books</a>
+<a href="http://www.carrotfry.com/category/fashion-deals" title="Men Fashion Deals">Fashion</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/health-and-beauty/1">Health &amp; Beauty</a>
+<a href="http://www.carrotfry.com/category/footwear-deals" title="Footwear Deals">Footwear</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/home-and-kitchen/1">Kitchen</a>
+<a href="http://www.carrotfry.com/category/books-and-music-deals" title="Books Deals">Books</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/food/1">Food</a>
+<a href="http://www.carrotfry.com/category/health-and-beauty-deals" title="Health and Beauty Deals">Health &amp; Beauty</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/travels/1">Travel</a>
+<a href="http://www.carrotfry.com/category/home-and-kitchen-deals" title="Home and Kitchen Deals">Kitchen</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/hotels/1">Hotels</a>
+<a href="http://www.carrotfry.com/category/food-deals" title="Food and Restaurant Deals">Food</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/kids/1">Kids</a>
+<a href="http://www.carrotfry.com/category/travels-deals" title="Travel Deals">Travel</a>
+</li>
+
+<li>
+<a href="http://www.carrotfry.com/category/kids-deals" title="Kids Fashion Deals">Kids</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/women-exclusive/1">Women Exclusive</a>
+<a href="http://www.carrotfry.com/category/women-exclusive-deals" title="Women Fashion Deals">Women Exclusive</a>
 </li>
 <li>
-<a href="http://www.carrotfry.com/deals/accessories/1">Accessories</a>
+ <a href="javascript:;" rel="nofollow">More</a>
+	<ul>
+	<li>
+	<a href="http://www.carrotfry.com/category/sports-and-fitness-deals" title="Sports and Fitness Deals">Sports &amp; Fitness</a>
+	</li>
+	<li>
+	<a href="http://www.carrotfry.com/category/hotels-deals" title="Hotel Booking Deals">Hotels </a>
+	</li>
+	<li>
+	<a href="http://www.carrotfry.com/category/accessories-deals" title="Accessories Deals ">Accessories</a>
+	</li>
+	<li>
+	<a href="http://www.carrotfry.com/category/jewellery-and-gold-deals" title="Jewellery &amp; Gold Deals">Jewellery &amp; Gold</a>
+	</li>
+	<li>
+	<a href="http://www.carrotfry.com/category/freebies-deals" title="Freebies Deals">Freebies Online</a>
+	</li>
+	<li>
+	<a href="http://www.carrotfry.com/category/sitewide-deals" title="Sitewide Deals">Sitewide Deals</a>
+	</li>
+	<li>
+	<a href="http://www.carrotfry.com/category/others-deals" title="Other Deals">Other serivces</a>
+	</li>
+	</ul>
 </li>
 </ul>
+
+
 </div>
-<div class="expertdiv">
+<div id="expertdiv" class="expertdiv">
     <span id="lblExpert" class="expert-head">Expert Help</span>
     <span class="expert-sep"></span>
     <input name="ctl00$txtExpertMsg" type="text" id="txtExpertMsg" class="expetmsg" placeholder="Ask our experts for a Product( brand , model ) you want to Purchase for best Price(*)">
@@ -596,25 +700,31 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
         <!--PopUp-->
         <div id="divLoginPopUp" class="popup">
             <div class="login_head">Login to Carrotfry</div>
-            <div>
+            <p>Best Online Shopping Community in India</p>
+            <div style="margin-top:15px;float:left;">
                 <input name="ctl00$txtLoginEmailPopUp" type="text" id="txtLoginEmailPopUp" class="LogintextboxForLogin" placeholder="Email">
                 <label id="loginPop" class="error_star">*</label>
             </div>
-            <div>
+            <div style="float:left;">
                 <input name="ctl00$txtLoginPasswordPopUp" type="password" id="txtLoginPasswordPopUp" class="LogintextboxForLogin" placeholder="Password">
                 <label id="password" class="error_star">*</label>
             </div>
             <span id="lblMsgPOP" style="color: red; margin-left: 16px; margin-top: 3px; float: left;"></span>
             <a id="lbtnloginPopUp" class="loginbuttonForPopUp" href="javascript:__doPostBack('ctl00$lbtnloginPopUp','')">Login</a>
-            <div style="width: 100%; float: left; margin-top: 15px;">
-                <a href="http://www.carrotfry.com/joinus" id="lbtnForgotPasswordPOPUp" onclick="openpopup('divForgotPopUp','');return false;" style="float: left; color: #1322CC; margin-left: 20px;">Forgot Password?</a>
-                <a href="http://www.carrotfry.com/joinus" id="A1" onclick="openpopup('divJoinUsPopUp','');return false;" style="float: right; color: #1322CC; margin-left: 20px;">New Registration? Click here</a>
+            <div class="loginlinks_div">
+                <div class="inner_login_div">Forgot Password?<a href="http://www.carrotfry.com/joinus" id="lbtnForgotPasswordPOPUp" onclick="openpopup('divForgotPopUp','');return false;">Click here</a></div>
+                
             </div>
+            <div class="loginlinks_div">
+               <div class="inner_login_div">New Registration?<a href="http://www.carrotfry.com/joinus" id="A1" onclick="openpopup('divJoinUsPopUp','');return false;"> Click here</a></div>
+            </div>
+            <div class="div_caption">Unlock Badges and Earn Carrot Cash</div>
             
         </div>
 
         <div id="divJoinUsPopUp" class="popupJoinUs">
-            <div class="login_head">Signup to Carrotfry</div>
+            <div class="login_head">Sign up with Carrotfry</div>
+            <p>Best Online Shopping Community in India</p>
             <input name="ctl00$txtFirstNamePop" type="text" maxlength="16" id="txtFirstNamePop" class="LogintextboxForLogin" onkeypress="ValidateAlpha();" placeholder="First Name">
             <label id="fname" class="error_star">*</label>
             <input name="ctl00$txtLastNamePop" type="text" id="txtLastNamePop" class="LogintextboxForLogin" onkeypress="ValidateAlpha();" placeholder="Last Name">
@@ -626,10 +736,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
             <input name="ctl00$txtPasswordPop" type="password" id="txtPasswordPop" class="LogintextboxForLogin" placeholder="Password">
             <label id="spassword" class="error_star">*</label>
             <br>
-            <span style="margin-left: 45px;">I Agree to the </span><a href="TermsNConditions.aspx" target="_blank" style="color: #1322CC;">Terms &amp; Conditions</a>
-            <a id="btnJoinusPop" class="loginbuttonForJoinPopUp" href="javascript:__doPostBack('ctl00$btnJoinusPop','')">Join Us</a>
-            <div>
-                <a href="http://www.carrotfry.com/joinus" id="A2" onclick="openpopup('divLoginPopUp','');return false;" style="float: left; color: #1322CC; margin-left: 45px;">Already Registered? Login here</a>
+            <a id="btnJoinusPop" class="loginbuttonForJoinPopUp" href="javascript:__doPostBack('ctl00$btnJoinusPop','')">Sign up and Start Saving!</a>
+            <span style="margin-left: 75px;color: #fff;">I Agree to </span><a href="http://www.carrotfry.com/terms" target="_blank" style="color: #ba0000;">Terms &amp; Conditions</a>
+            
+            <div class="div_join">
+                <div class="inner_login_div">Already Registered?<a href="http://www.carrotfry.com/joinus" id="A2" onclick="openpopup('divLoginPopUp','');return false;"> Click here</a></div>
             </div>
         </div>
 
@@ -736,8 +847,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
           </div>
                 
                 <input type="hidden" name="ctl00$uid" id="uid">                
-        
-            <div class="footer-content">
+             <div class="about_cf_main">
+				<div id="divfootertext" class="about_cf">
+				</div>  
+			 </div>
+            <div id="divMainFooter" class="footer-content">
                 <div class="nav">
                     <ul id="ulCategory">
                     </ul>
@@ -745,38 +859,51 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                         <li style="margin-left: 90px;"><span class="orange-bold">Find Best Deals By Categories</span></li>
                         <li>
                           <ul>							
-							<li><a href="http://www.carrotfry.com/deals/books-and-music/1">Books &amp; Music Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/mobiles-and-accessories/1">Mobiles &amp; Accessories Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/electronics/1">Electronics Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/desktops-and-laptops/1">Desktops,Laptops &amp; Accessories Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/fashion/1">Fashion Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/jewellery-and-gold/1">Jewellery &amp; Gold Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/footwear/1">Footwear Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/accessories/1">Accessories Best Deals</a></li>							
+							<li><a href="http://www.carrotfry.com/category/recharge-deals">Mobile Recharge Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/mobiles-and-accessories-deals">Mobiles &amp; Accessories Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/tablets-and-accessories-deals">Tablets &amp; Accessories Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/electronics-deals">Consumer Electronics Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/desktops-and-laptops-deals">Desktops,Laptops &amp; Accessories Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/fashion-deals">Men Fashion Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/women-exclusive-deals">Women Fashion Anakarkali Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/kids-deals">Kids Fashion &amp; Toys Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/footwear-deals">Footwear Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/accessories-deals">Accessories Best Deals</a></li>	
+												
 						  </ul>
 						  <ul>
-						    <li><a href="http://www.carrotfry.com/deals/women-exclusive/1">Women Exclusive Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/kids/1">Kids Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/home-and-kitchen/1">Home &amp; Kitchen Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/health-and-beauty/1">Health &amp; Beauty Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/travels/1">Travels Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/food/1">Food Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/hotels/1">Hotels Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/freebies/1">Freebies &amp; Gifts Best Deals</a></li>
-							<li><a href="http://www.carrotfry.com/deals/others/1">Others Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/sports-and-fitness-deals">Sports &amp; Fitness Deals</a></li>	
+						    <li><a href="http://www.carrotfry.com/category/books-and-music-deals">Books &amp; Entertainment Best Deals</a></li>	
+							<li><a href="http://www.carrotfry.com/category/home-and-kitchen-deals">Home &amp; Kitchen Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/health-and-beauty-deals">Health &amp; Beauty Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/travels-deals">Travel Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/food-deals">Food Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/hotels-deals">Book Hotels Online Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/jewellery-and-gold-deals">Jewellery &amp; Gold Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/freebies-deals">Freebies &amp; Gifts Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/category/sitewide-deals">Sitewide Deals</a></li>
+							
 						  </ul>
                         </li>
                     </ul>
                     <ul style="margin-left: 25px;">
                         <li><span class="orange-bold">Ways to Earn Carrot Cash</span></li>
-                        <li><a href="http://www.carrotfry.com/online-shopping-stores">Shopping Stores</a></li>
-                        <li><a href="http://www.carrotfry.com/coupons">Coupons</a></li>
+                        <!--<li><a href="http://www.carrotfry.com/online-shopping-stores">Shopping Stores</a></li>
+                        <li><a href="http://coupons.carrotfry.com" rel="nofollow">Coupons</a></li>-->
                         
-                        <li><a href="http://www.carrotfry.com/forums">Post Deals &amp; Earn</a></li>
-                        
+                        <li><a href="http://www.carrotfry.com/forums">Post Deals &amp; Earn</a></li>                        
                         <li><span class="orange-bold">Company</span></li>
                         <li><a href="http://www.carrotfry.com/aboutus">About us</a></li>
-                        <li><a href="http://www.carrotfry.com/contactus">Contact us</a></li>    
+                        <li><a href="http://www.carrotfry.com/contactus">Contact us</a></li>
+                        
+                                                
+                        <li><span class="orange-bold">Special Occasions</span></li>
+                        <li><a href="http://www.carrotfry.com/diwali-offers">Diwali offers</a></li>
+                        <li><a href="http://www.carrotfry.com/dussehra-offers">Dussehra Offers</a></li>
+                        <li><a href="http://www.carrotfry.com/childrens-day-offers">Childrens Day Offers</a></li>
+                        <li><a href="http://www.carrotfry.com/gosf-offers">Gosf 2014 Offers</a></li>
+                        <li><a href="http://www.carrotfry.com/christmas-offers">Christmas Offers</a></li>
+                            
                     </ul>
                     <ul style="margin-left: 25px;">
                         <li><span class="orange-bold">Brands/Merchant</span></li>
@@ -788,25 +915,28 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                         <li><span class="orange-bold">Help</span></li>
                         <li><a href="http://www.carrotfry.com/howitworks">Howitworks</a></li>
                         <li><a href="http://www.carrotfry.com/forums/newbie-guide-or-announcements-or-website-queries/topics/new-user-guide-for-new-bunnys-500">NewUserGuide</a></li>
-                        <li><a href="http://www.carrotfry.com/faq">FAQ'S</a></li>
+                       <!-- <li><a href="http://www.carrotfry.com/faq">FAQ'S</a></li>-->
                         <li><a href="http://www.carrotfry.com/sitemap">Site Map</a></li>
                     </ul>                    
                 </div>
                 <div class="footer-logo">
-                    <a href="http://www.carrotfry.com">
-                        <img src="https://s3-ap-southeast-1.amazonaws.com/carrotfry-images/cflogonew-white.png" alt="CarrotFry footer logo" title="CarrotFry">
-                    </a>
+                    
                 </div>
                 <div class="copyright">
                     © Copyright 2012-2014 carrotfry.com or its affiliates.<br>
+                    Disclaimer : Carrotfry.com doesn't guarantee for every deal or coupon posted in our website. They are subjected to change with out our notice.
                 </div>                
-            </div></div>
+            </div>
             
             
-                 
             
+           </div>            
+         
                        
             <input type="hidden" name="ctl00$hdnPopUpUrl" id="hdnPopUpUrl">
+            <input type="hidden" name="ctl00$hdnStoreID" id="hdnStoreID">
+            <input type="hidden" name="ctl00$hdnCouponID" id="hdnCouponID">
+            <input type="hidden" name="ctl00$hdnDealID" id="hdnDealID">
         <!--[if IE 7]>
         <style>
         #menu li{float: left;position: relative;padding:0;}
@@ -816,6 +946,18 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
         <div id="bg" class="popup_bg"></div>
         <input type="hidden" id="hdnPop" value="0">
         <script type="text/javascript">
+             function SetStoreID(id)
+		      {
+               document.getElementById('hdnStoreID').value = id;
+		      }
+		      function SetCouponID(id)
+		      {
+               document.getElementById('hdnCouponID').value = id;
+		      }
+		      function SetDealID(id)
+		      {
+               document.getElementById('hdnDealID').value = id;
+		      }
             $(document).ready(function () {
                              
                 openpopup('divLoginPopUp', '');
@@ -1048,6 +1190,46 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                 //openpopup('divLoginPopUp', '');
             });
         </script>
+        
+        <script type="text/javascript">
+        $(function () {
+            $('#txt_search').autocomplete({
+                source: function (request, response) {
+                    $.ajax({
+                        url: "http://www.carrotfry.com/Carrotfry.asmx/GetAutoCompleteData",
+                        data: "{ 'MerchantName':'" + request.term + "'}",
+                        dataType: "json",
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",
+                        success: function (data) {
+                            response($.map(data.d, function (item) {
+                                return { value: item }
+                            }))
+                        },
+                        error: function (XMLHttpRequest, textStatus, errorThrown) {
+                            //alert(textStatus);
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+    
+    
+    <input type="hidden" name="ctl00$shieldsquare_response_PID" id="shieldsquare_response_PID" value="AE81E443-2bc5-C2FC-82DE-8800294124E5">
+<input type="hidden" name="ctl00$shieldsquare_response_url" id="shieldsquare_response_url" value="getData.ashx">
+<input type="hidden" name="ctl00$shieldsquare_response_js" id="shieldsquare_response_js" value="var __uzdbm_c = 2+2">
+<input type="hidden" name="ctl00$shieldsquare_response" id="shieldsquare_response" value="Allow User Request">
+    <!--<p> Shieldsquare TID AE81E443-2bc5-C2FC-82DE-8800294124E5 </p>
+    <p> Shieldsquare URL getData.ashx </p>
+    <p> Shieldsquare Dynamic JS var __uzdbm_c = 2+2 </p>
+    <p> Shieldsquare Response Allow User Request </p>-->
+<script type="text/javascript">  
+    var __uzdbm_a = "AE81E443-2bc5-C2FC-82DE-8800294124E5";
+    var __uzdbm_b = "getData.ashx";
+    eval("var __uzdbm_c = 2+2");
+</script>  
+<script type="text/javascript" src="http://cdn.perfdrive.com/static/browser_detect_min.js"></script>   
     </form>
 
 
