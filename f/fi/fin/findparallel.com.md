@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findparallel.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525024004id_/http%3A//findparallel.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findparallel.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215163030id_/http%3A//findparallel.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Findparallel.com | Privacy Policy
 
