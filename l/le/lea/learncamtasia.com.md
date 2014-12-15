@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learncamtasia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091407id_/http%3A//www.learncamtasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learncamtasia.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215022552id_/http%3A//www.learncamtasia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Learn Camtasia - Online Camtasia Training and Tutorials
 
 The following describes the Privacy Policy for our LEARNCAMTASIA.COM website.
 
