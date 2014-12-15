@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318065330id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215124518id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
 
 # American Standard
 
@@ -110,7 +110,7 @@ Items returned without authorization will be disposed of without credit being is
 Damaged or missing parts must be claimed within 7 days of receiving your product in order to ensure proper credit. Report your claim for lost items within 15 days from the order date in order to ensure proper credit. Please call **(800) 488-8049** to report your claims. 
 
 **WARRANTY:**   
-For American Standard Warranty information, please [click here.](http://www.americanstandard-us.com/customerservice/warranty/RepairParts1Year.aspx)
+For American Standard Warranty information, please [click here.](http://www.americanstandard-us.com/customerservice/warranty/)
 
 **VIII. MOBILE APPLICATION PRIVACY**
 
