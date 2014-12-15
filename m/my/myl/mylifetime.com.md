@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylifetime.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103003537id_/http%3A//www.aetn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifetime.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215063518id_/http%3A//www.aetn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | A+E Networks
 
@@ -36,6 +36,11 @@ For example:
   5. _Invitations_ – if you invite someone to use a feature of one of our Websites, we will disclose your real name as part of the invitation you send, as this information is necessary to ensure that the invited person knows who has sent the invitation.
   6. _Mobile_ – A+E collects information regarding your GPS location when you use the Websites and associated services from your mobile device if your device has location services enabled.
 
+
+* The Websites that enable you to view A+E’s video content feature proprietary measurement software from The Nielsen Company (“Nielsen”) which will allow you to contribute to market research, like Nielsen's TV Ratings. The Information is collected directly by Nielsen’s software within the applicable Website. Neither A+E nor Nielsen makes any representations or warranties to you regarding the Nielsen software. The Nielsen software is licensed solely for your use within the applicable Website, and Nielsen reserves all intellectual property rights and goodwill associated with such software. The Nielsen software also contains third party software that remains the property of its respective owners.
+
+To learn more about Nielsen’s digital measurement products and your choices in regard to them, please visit Nielsen’s Digital Measurement Privacy Policy page at [www.nielsen.com/digitalprivacy](http://www.nielsen.com/digitalprivacy) for more information. Once there, you can access more detailed information about the measurement software and learn about your choices with regard to Nielsen’s measurement. In the “Choices” section of the Digital Measurement Privacy Policy Page, you will have the opportunity to receive an opt-out cookie if you do not want to participate in Nielsen’s online measurement.  
+ 
 
 * Unless otherwise specified in this Privacy Policy or unless legally required to do so, A+E will not sell, rent or otherwise disclose your Personal Information to any outside company or organization.  This Privacy Policy excludes data that may be stored or transmitted to or from the service provider hosting the Websites.
 
