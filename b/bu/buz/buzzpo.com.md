@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the buzzpo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035911id_/http%3A//buzzpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzpo.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215133357id_/http%3A//buzzpo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BuzzPoBuzzPo
+# Privacy Policy - BuzzPo
 
-At BuzzPo.com we are committed to protecting your privacy. Generally, you may visit [www.BuzzPo.com](http://buzzpo.com/) (our “Site”) without giving us any information about yourself. However, there are times when we may need to obtain personal information from you in order to provide certain services that you may request. This Privacy Policy was developed to help you understand what information we collect as well as how we use and safeguard the information you provide to us on our Site. This Privacy Policy may be revised from time to time, so please revisit this page to remain fully informed of our privacy policy. INFORMATION WE COLLECT:  
+At BuzzPo.com we are committed to protecting your privacy. Generally, you may visit [www.BuzzPo.com](http://buzzpo.com/) (our “Site”) without giving us any information about yourself. However, there are times when we may need to obtain personal information from you in order to provide certain services that you may request. This Privacy Policy was developed to help you understand what information we collect as well as how we use and safeguard the information you provide to us on our Site. This Privacy Policy may be revised from time to time, so please revisit this page to remain fully informed of our privacy policy.
+
+###  INFORMATION WE COLLECT:
+
 You can access our home page at [www.BuzzPo.com](http://buzzpo.com/) and browse some areas of our Site without disclosing any personally identifiable information. We do track information provided to us by your browser, including the web site you came from (known as the referring URL), the type of browser you use, the time and date of access, and other information that does not personally identify you.
 
 In addition, we gather information about you that is automatically collected by our web server, such as your IP address, domain name and pages that you access. BuzzPo.com may use web server and browser information to individually customize its offerings and presentations if you submit your personal information.
