@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacrossepinnies.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506000641id_/http%3A//www.lacrossepinnies.com/Pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrossepinnies.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215061617id_/http%3A//www.lacrossepinnies.com/Pages/privacy.php) for the most accurate reproduction.*
 
 # Site Articles :: Lax Pinnies - Privacy Statement - Custom Lacrosse Reversible Jerseys Custom Tank Tops | Lacrosse Pinnies | Reversible Jerseys | Custom Lax Pinnie
 
