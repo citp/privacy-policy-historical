@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the infonigeria.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628065534id_/http%3A//www.infonigeria.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infonigeria.net privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215081850id_/http%3A//www.infonigeria.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info Nigeria
 
-Infonigeria.net is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.
+[Infonigeria.ng](http://www.infonigeria.ng/ "Info Nigeria") is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.
 
-In this Privacy Policy references to we, us and our, are to Info Ngeria. References to the Site are to www.infonigeria.net.
+In this Privacy Policy references to we, us and our, are to Info Nigeria. References to the Site are to [www.infonigeria.ng](http://www.infonigeria.ng/ "Info Nigeria").
 
 Certain expressions used in this Privacy Policy (such as User Content) have definitions which are set out in the Terms and Conditions for use of this Site.
 
@@ -62,3 +62,5 @@ Any personal information we collect from the Site we use for some or all of the 
 6.1 We reserve the right to change this Privacy Policy without notice. The new Privacy Policy will be posted upon the Site and your continued use of the Site will be considered acceptance of it. You are advised to check this Privacy Policy regularly.
 
 6.2 This Privacy Policy is subject to the Terms and Conditions for use of this Site which are situated elsewhere on the Site.
+
+Last updated 25 December, 2014.
