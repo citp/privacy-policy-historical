@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616052527id_/http%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215102608id_/http%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.*
 
 # Powerlinks | Privacy Policy
 
@@ -122,7 +122,7 @@ Contact and personal information (such as your name, gender, date of birth, addr
 
 Your Rights and Contacting Us
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by clicking certain boxes on the forms we use to collect your data or by changing preferences in your user account. You can also exercise the right at any time by contacting us at [info@PowerLinks.com](mailto:info@shopow.com). This address should also be used to send us any questions, comments and requests regarding this policy, or if you have any concerns relating to material on our sites.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by clicking certain boxes on the forms we use to collect your data or by changing preferences in your user account. You can also exercise the right at any time by contacting us at [info@PowerLinks.com](mailto:info@powerlinks.com). This address should also be used to send us any questions, comments and requests regarding this policy, or if you have any concerns relating to material on our sites.
 
 Our sites may, from time to time, contain links to and from the websites of others, such as our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
