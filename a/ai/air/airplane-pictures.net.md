@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airplane-pictures.net privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621135635id_/http%3A//www.airplane-pictures.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airplane-pictures.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216000454id_/http%3A//www.airplane-pictures.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | A-P.net
 
