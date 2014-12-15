@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dowjones.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616012507id_/http%3A//new.dowjones.com/abou/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dowjones.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215102404id_/http%3A//new.dowjones.com/abou/privacy) for the most accurate reproduction.*
 
 # Privacy - Dow Jones
 
