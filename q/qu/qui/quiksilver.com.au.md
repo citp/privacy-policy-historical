@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the quiksilver.com.au privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615145940id_/http%3A//www.quiksilver.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiksilver.com.au privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215221229id_/http%3A//www.quiksilver.com.au/privacy-policy) for the most accurate reproduction.*
 
 # QUIKSILVER™ Privacy Policy
 
-We, Ug Manufacturing Co Pty Ltd (ACN 005 047 941) and its Australian and New Zealand affiliates (collectively referred to as “Quiksilver”) are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality user experience to them. Because we gather certain types of information about and from you, our users and subscribers, in order to fulfil your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Quiksilver adheres to the Australian Privacy Principles in the Privacy Act 1988 (Cth). Please read the complete Privacy Policy below, as well as our Terms of Use, and contact us if you have any questions.
+We, Ug Manufacturing Co Pty Ltd (ACN 005 047 941) and its Australian and New Zealand affiliates (referred to herein as “Quiksilver,” “we,” “us” and “our”) are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality user experience to them. Because we gather certain types of information about and from you, our users and subscribers, in order to fulfil your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it and what steps we take to safeguard personal information provided to us both online and offline. Quiksilver strictly adheres to the Australian Privacy Principles in the Privacy Act 1988 (Cth). Please read the complete Privacy Policy below, as well as our Terms of Use, and contact us if you have any questions.
 
 ### What Information Do We Collect About You?
 
-You can visit our websites (“the Website”), read articles and other materials, browse merchandise and check on offerings without giving us any personally identifiable information. However, in order to provide users and subscribers with the most efficient and enhanced personalized service and attention, we may request information about you in certain circumstances and collect certain information automatically. We also use contact lists and other information which are obtained from third parties. For the convenience of all of our customers and to better serve you, we create and maintain a customer account that includes all the collected personal information we may have with respect to an individual. Nevertheless, you can update or correct your contact information or change your preferences about receiving offers and information from us at any time, including changing your preferences about sharing information with third parties. 
+You can use this website (www.quiksilver.com.au) without having an account. You can visit the Website, read articles and other materials, browse merchandise and check on offerings without giving us any personally identifiable information. Certain other activities on the Website, such as posting comments or product reviews and signing up to receive e-mail updates from Quiksilver and our affiliates and partners, do not require you to register for an account, but may require that you provide certain personal information such as your name and/or e-mail address. Other activities, including purchasing products through the Website, require you to register for a user account. To register, you must create a user account, which requires you to provide your e-mail address and select a password. The password you select is used to protect your account from unauthorized access.
 
 ### Information You Volunteer
 
-We collect personally identifiable information that you volunteer to us (such as your name, mailing address, e-mail address, phone number, age, gender, hobbies, family information and/or similar demographic information), when you subscribe to, or create an account with, the Website, (see the section below for more information on subscriptions and account management), join our loyalty program (if applicable), enter a competition through the Website, request a catalogue, place an order (if applicable), apply for a job or voluntarily register on the Website. Often this additional information is optional or requested anonymously in connection with a survey or a job application. Website visitors may register to receive our e-mail updates, or enter online competitions. Registration may also be required to participate in certain message boards, bulletin boards, chat rooms or surveys available on the Website. Sometimes registration can be accomplished by submitting only a user name and password. Other offerings may require the submission of additional information. For example, the Website may ask which disciplines you enjoy most, surfing, skating or snowboarding. Registration forms will indicate what information is required and what information (if any) is optional. 
+Whether or not you register, in order to provide users and subscribers with the most efficient and enhanced personalized service and attention, we may request information about you in certain circumstances and collect certain information automatically. We also use contact lists and other information which are obtained from third parties. For the convenience of all of our customers and to better serve you, we create and maintain a customer account that includes all the collected personal information we may have with respect to an individual. You can update or correct your contact information or change your preferences about receiving offers and information from us at any time, including changing your preferences about sharing information with third parties.
+
+This Privacy Policy also applies to your use of any Quiksilver page, platform or application owned, managed or run by a third party, subject to such third party's applicable policies. 
 
 ### Information Collected Automatically
 
@@ -19,6 +21,10 @@ We may also automatically collect your IP and referring Website addresses, brows
 ### Other Information
 
 We conduct market research so that we can continually improve our brands and Website and may purchase or rent lists of potential subscribers or customers from third parties. Those lists may include information on current subscribers or customers. This information may be included in our database in order to help us serve you better by, for example, minimizing multiple mailings and e-mailings and providing information tailored to your interests.
+
+### Publicly available information
+
+The name you provide (not your e-mail address) is displayed to other users when you post a comment or product review via our Website. Remember that any comments, product reviews or other information you post is publicly available. Any comments, product reviews or other information that you post or submit to the Website may be redistributed through the Internet and other media channels, and may be viewed by the general public.
 
 ### Unsolicited Information
 
@@ -42,7 +48,7 @@ Your personal information may be used by us in a number of ways, including (with
 
 
 
-You expressly consent to us using your personal information for the above purposes.
+By visiting the Website and submitting information you expressly consent to us using your personal information for the above purposes.
 
 Note, we may, from time to time, produce reports for advertisers, sponsors and vendors containing anonymous, aggregate information about our users and subscribers, such as demographic, age and online usage information. This information allows us to provide content and offers that are most relevant to our subscribers and users and to work more closely with advertisers and other partners. We do not include any personally identifiable information of our users in these reports.
 
@@ -54,13 +60,23 @@ Personal information is available to Quiksilver and the technical and fulfilment
 
 Quiksilver may access anonymous, aggregate demographic data and any personal information you provide for internal marketing purposes, including sending you notices of competition winners, new websites, services or products we offer and any other orders. To facilitate product orders (if they are available on the Website), Quiksilver will cache your order information, and create an authorization with a merchant account (e.g., your credit card company). Website hosting firms, technical and database consultants, advertising agencies, order processing partners, customer service partners and fulfilment firms, including firms assisting us in offering competitions and promotions, may have access to personally identifiable information in the course of making our products and services available. All companies working for and with Quiksilver to whom we provide such data must comply with our privacy policy, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law.
 
-### Cross-Border Disclosure
-
-We may disclose your personal information to our related companies and to various outside organisations (some of which may be located in foreign countries). In those circumstances we will take reasonable steps to ensure that those companies and organisations are committed to protecting your privacy and comply with a law or scheme which has the same or similar effect as the Australian Privacy Principles.
-
 ### Participating Vendors
 
-The Website may offer opportunities to make purchases online from special participating vendors. On Websites with these online purchase opportunities, we will also give participating manufacturers, retailers, wholesalers or distributors the order information and authorization for the merchant bank. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors have their own privacy policies, and they may use that information to advise you directly of other products and offerings that they provide. Quiksilver is not responsible for these third parties' respective privacy policies, and we urge you to inquire about their information collection and use practices. In addition, all vendors will receive the same anonymous, aggregate data that our advertisers receive.
+The Website may offer opportunities to make purchases online from special participating vendors. If we do so, we will also give participating manufacturers, retailers, wholesalers or distributors the order information and authorization for the merchant bank. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors have their own privacy policies, and they may use that information to advise you directly of other products and offerings that they provide. Quiksilver is not responsible for these third parties' respective privacy policies, and we urge you to inquire about their information collection and use practices. In addition, all vendors will receive the same anonymous, aggregate data that our advertisers receive.
+
+### Credit Card Companies
+
+As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. Quiksilver will not otherwise provide any personal data to your credit card company without your permission.
+
+### Advertisers, Sponsors and Promotional and Business Partners
+
+We may share anonymous, aggregate demographic information (such as gender, age, income, hobbies, interests, etc.), and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and participating vendors. No personally identifiable information will be disclosed to any of these third parties in providing these reports. Credit card numbers, bank account numbers and passwords are not shared with advertisers, sponsors or promotional partners, and are only shared with the specific vendors with whom you place an online order. 
+
+Information which we obtain in non-Internet transactions, promotions or competitions is handled differently. Depending on the nature of the transaction, promotion or competition we may share offline contact information with third parties, who may send you offers or information about their products or services. You must opt out if you do not wish to receive information from third-parties or us by mail.
+
+Sometimes we will give you the opportunity to opt in to receive e-mail offers from third parties not affiliated with Quiksilver. If you decide to accept these offers, we may provide links to other third party websites or, with your consent, we may provide your contact information to the third party. We may also provide Website visitors with opportunities to sign up directly with certain advertisers and sponsors to enter competitions or to receive e-mail updates and other information directly from them. If you submit Personal Information to or via any linked third party website, the privacy principles applying to the collection, use and disclosure of that information will be outside our control. Once you have left our Website via such a link, we advise you to examine the applicable terms and conditions or privacy policy of the third party website before disclosing any information to them. 
+
+You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through the Website or any other service available online), that information can be collected and used by others. For example, if you use chat, forums, bulletin boards, blogs or message boards, or if you post personal information online (such as your e-mail address), you may receive unsolicited messages from others. We have no control over this use of your personal information.
 
 ### Important Note
 
@@ -74,13 +90,9 @@ We reserve the right to use or disclose any information without notice or consen
 
 
 
-### Credit Card Companies
+### Cross-Border Disclosure
 
-As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. Quiksilver will not otherwise provide any personal data to your credit card company without your permission.
-
-### Advertisers, Sponsors and Promotional and Business Partners
-
-We share anonymous, aggregate demographic information (such as gender, age, income, hobbies, interests, etc.), and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and participating vendors. No personally identifiable information is disclosed to any of these third parties in providing these reports. Credit card numbers, bank account numbers and passwords are not shared with advertisers, sponsors or promotional partners, and are only shared with the specific vendors with whom you place an online order (if product orders are available on the Website). Information which we obtain in non-Internet transactions, promotion or competitions is handled differently. Depending on the nature of the transaction, promotion or competition we may share offline contact information with third parties, who may send you offers or information about their products or services. Sometimes we will give you the opportunity to opt in to receive e-mail offers from third parties not affiliated with Quiksilver. If you decide to accept these offers, we may provide links to other third party websites or, with your consent, we may provide your contact information to the third party. We may also provide Website visitors with opportunities to sign up directly with certain advertisers and sponsors to enter competitions or to receive e-mail updates and other information directly from them. If you submit Personal Information to or via any linked third party website, the privacy principles applying to the collection, use and disclosure of that information will be outside our control. Once you have left our Website via such a link, we advise you to examine the applicable terms and conditions or privacy policy of the third party website before disclosing any information to them. You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through the Website or any other service available online), that information can be collected and used by others. For example, if you use chat, forums, bulletin boards, blogs or message boards, or if you post personal information online (such as your e-mail address), you may receive unsolicited messages from others. We have no control over this use of your personal information.
+We may disclose your personal information to our related companies and to various outside organisations (some of which may be located in foreign countries). In those circumstances we will take reasonable steps to ensure that those companies and organisations are committed to protecting your privacy and comply with a law or scheme which has the same or similar effect as the Australian Privacy Principles.
 
 ### How Do We Use Cookies?
 
@@ -104,7 +116,7 @@ We believe that choice in how and when you are contacted is the key to customer 
 
 
 
-We take reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of the information we hold depends to a large extent on the information you provide. If you wish, you have the right to access the Personal Information we have about you at any time. In doing so, you may request that any errors are fixed or that we delete all or some of the personal information we hold about you. You may also opt out of any further contact from us. To protect your privacy and the privacy of others, we may ask you to put your request in writing and may require confirmation of your identity before providing any access to your information. We may charge a reasonable fee for searching for and providing access to your information. We will take reasonable steps to implement your requests promptly; but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail 
+We take reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of the information we hold depends to a large extent on the information you provide. If you wish, you have the right to access the Personal Information we have about you at any time. In doing so, you may request that any errors are fixed or that we delete all or some of the personal information we hold about you. You may also opt out of any further contact from us. To protect your privacy and the privacy of others, we may ask you to put your request in writing and may require confirmation of your identity before providing any access to your information. We may charge a reasonable fee for searching for and providing access to your information. We will take reasonable steps to implement your requests promptly; but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail. You may also continue to receive information from those third-parties to whom your information was previously disclosed pursuant to their respective privacy policies.
 
 ### Security Of Your Personal Information
 
@@ -112,15 +124,23 @@ We will take reasonable steps to maintain the security of and to prevent unautho
 
 ### Children’s Privacy
 
-Some Websites may include features or material that may be appealing to children under the age of 15. Quiksilver is strongly committed to protecting the safety and privacy of children who visit the Website. We do not knowingly collect personal information online from children under 15. The Website may include chat rooms, bulletin boards and other features that are unsuitable for children under 15 and which are not necessarily monitored. We encourage all parents to talk to their children about online safety and to monitor their children's use of the Internet.
+The Website may include features or material that may be appealing to children under the age of 13. Quiksilver is strongly committed to protecting the safety and privacy of children who visit the Website. We do not knowingly collect personal information online from children under 13. The Website may include material and features that are unsuitable for children under 13 and which are not necessarily monitored. We encourage parents to talk to their children about online safety and to monitor their children's use of the Internet. 
 
 ### Changes In Corporate Structure
 
 In developing our business, we may engage in the sale of certain assets and the company itself, or parts of it, may be sold, merged or otherwise transferred. In such transactions and changes in ownership, user information, whether personally identifiable or otherwise, may constitute one of the transferred assets. Quiksilver Australia will notify affected users in accordance with the procedure for changing this Privacy Policy described below.
 
-### Visitors And Subscribers Outside Australia
+### Server Location
 
-The servers that make the Website available worldwide are currently located in Australia. Australian law governs all matters relating to the Website and any information you provide in subscribing to the Website or ordering from the Website will be routed through, and stored on, those servers. By visiting the Website and submitting information, you authorize this transfer, processing and use and consent to the application of Australian laws and privacy standards including without limitation the Australian Privacy Principles. 
+The servers that make the Website available worldwide are located in Australia and other countries. Any information you provide in subscribing to the Website or ordering from the Website will be routed through, and stored on, those servers. By visiting the Website and submitting information, you authorize this transfer, processing and use.
+
+### Governing Law
+
+Australian law governs all matters relating to the Website. By visiting the Website and submitting information you consent to the application of Australian laws and privacy standards including without limitation the Australian Privacy Principles. 
+
+### Changes To Our Privacy Policy
+
+We may amend this Privacy Policy from time to time as necessary to protect our users and to comply with changes in the law, technology and market practice. We recommend that you check the Privacy Policy when you visit the Website to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Website visitors’ information on material changes to this Privacy Policy. If you would like any further information about your rights to privacy, please see the Australian Privacy Commissioner’s website – http://www.oaic.gov.au
 
 ### Contact Information
 
@@ -135,7 +155,3 @@ Attn: Privacy Compliance / Legal Department
 
 Fax +61 3 5261 5600 (Attn: Privacy Compliance / Legal Department)  
 Email privacy@quiksilver.com.au
-
-### Changes To Our Privacy Policy
-
-We may amend this Privacy Policy from time to time as necessary to protect our users and to comply with changes in the law, technology and market practice. We recommend that you check the Privacy Policy when you visit the Website to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Website visitors’ information on material changes to this Privacy Policy. If you would like any further information about your rights to privacy, please see the Australian Privacy Commissioner’s website – http://www.oaic.gov.au
