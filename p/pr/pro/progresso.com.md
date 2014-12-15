@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progresso.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132653id_/http%3A//www.generalmills.com/en/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progresso.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215142622id_/http%3A//generalmills.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # General Mills: Privacy policy
 
