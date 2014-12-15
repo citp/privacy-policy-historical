@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hattons.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628154326id_/http%3A//www.hattons.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hattons.co.uk privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215014528id_/http%3A//www.hattons.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Hattons.co.uk: Welcome to Hattons.co.uk
 
@@ -49,9 +49,9 @@ We do not partner with or have special relationships with any ad server companie
 ## Other uses of customer information
 
   * From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .
-  * Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us e-mail at the above address. 
+  * Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us e-mail at the above address.
   * Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
-  * Consumers can access this information by e-mailing us at the above address. Consumers can have this information corrected by sending us e-mail at the above address. 
+  * Consumers can access this information by e-mailing us at the above address.Consumers can have this information corrected by sending us e-mail at the above address.
 
 
 
@@ -60,3 +60,21 @@ We do not partner with or have special relationships with any ad server companie
 We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site/s.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+## Google Analytics
+
+We have implemented the following Google Analytics Advertising features
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * Google Analytics Demographics and Interest Reporting
+
+
+
+We use first-party cookies to anonymously track visitor sessions for marketing purposes
+
+Visitors can opt out of Google Analytics Advertising Features at:
+
+<https://tools.google.com/dlpage/gaoptout>
+
+Learn more about [Google Analytics Policy](http://www.google.com/intl/en/analytics/learn/privacy.html)
