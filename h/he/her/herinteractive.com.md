@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herinteractive.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628035135id_/http%3A//www.herinteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herinteractive.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215233127id_/http%3A//www.herinteractive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Her Interactive
+# Privacy Policy - Her Interactive
 
 The following provisions apply to information Her Interactive learns about or obtains from you when you visit the Her Interactive Web site (the “site”). By accessing and/or using the site, you agree to be bound by the provisions of this Privacy Policy.
 
