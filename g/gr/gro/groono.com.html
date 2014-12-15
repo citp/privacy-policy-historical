@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the groono.com privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325064333id_/http%3A//www.groono.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the groono.com privacy policy that was archived on 2014-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215071123id_/http%3A//www.groono.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">--> 
@@ -21,14 +21,17 @@
 
 
 
-<link href="http://www.groono.com/css/dropdownhead.css" rel="stylesheet">
 <link href="http://www.groono.com/css/jquery.fancybox-1.3.1.css" rel="stylesheet" type="text/css">
+<link href="http://www.groono.com/css/main_new.css" rel="stylesheet" type="text/css">
 <link href="http://www.groono.com/css/main.css" rel="stylesheet" type="text/css">
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.groono.com/js/jquery-1.4.2.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.groono.com/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="http://www.groono.com/js/jquery.single-ddm.js"></script>
 <script type="text/javascript" src="http://www.groono.com/js/base64.js"></script>
 <script type="text/javascript" src="http://www.groono.com/js/jquery.fancybox-1.3.1.pack.js"></script>
+<script type="text/javascript" src="http://www.groono.com/js/Placeholders.min.js"></script>
+
+
 <script type="text/javascript" id="phindittMainJs" src="http://www.groono.com/js/main.js?root=aHR0cDovL3d3dy5ncm9vbm8uY29tLw=="></script>
 
 <script type="text/javascript">
@@ -39,329 +42,17 @@ var isMemId = 0;
 
 <script type="text/javascript">
 
-function getCookie(c_name)
-{
-if (document.cookie.length>0)
-  {
-  c_start=document.cookie.indexOf(c_name + "=");
-  if (c_start!=-1)
-    {
-    c_start=c_start + c_name.length+1;
-    c_end=document.cookie.indexOf(";",c_start);
-    if (c_end==-1) c_end=document.cookie.length;
-    return unescape(document.cookie.substring(c_start,c_end));
-    }
-  }
-return "";
-}
-
-
-function setCookie(cookieName,cookieValue,nDays) {
- var today = new Date();
- var expire = new Date();
- if (nDays==null || nDays==0) nDays=1;
- expire.setTime(today.getTime() + 3600000*24*nDays);
- //expire.setTime(today.getTime() + 1000 * 2 * 60);
- document.cookie = cookieName+"="+escape(cookieValue)
-                 + ";expires="+expire.toGMTString();
-}
-
-function focusWindow(popUp) {
-
-}
-
-
-
-
-
-
-
-function openHomeOne(popUp) { 
-if(getCookie('homeDone') == ''){
-//setCookie ("homeDone", "roger",1);
-//open('http://www.groono.com/');
-}
-}
-
-
-
-
-
-
-
-
-
-
-
-
 </script>
 
-<script type="text/javascript">
 
-jQuery(document).ready(function(){
-var mainCat4meNeutral;
-var subCat4meNeutral;
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-jQuery("#phind4menoshow_newtral").click(function(){
-if(jQuery("#phind4menoshow_newtral").is(':checked')){
-setCookieP('noPhind4me','noShow',10,'/');
-$.fancybox.close();
-}
-});
-
-$(".phind4me_newtral").click(function(){
-									  
-if(!isMem){
-	window.location = "http://www.groono.com/cls_sign_up.php?notice=Please login before using Phind4me";
-}
-})
-
-$(".phind4me_newtral").fancybox({
-	"padding":0,
-	"centerOnScroll":true,
-	"margin":0
-});
-
-
-jQuery(".rdoLoc_newtral").change(function(){
-	//alert(jQuery(".rdoLoc:checked").val());
-	
-	if(jQuery(".rdoLoc_newtral:checked").val() == "USA"){
-		jQuery("#worlwide_newtral").fadeOut("normal",function(){
-		jQuery(".worldInp_newtral").attr("disabled","disabled");
-		jQuery(".usaInp_newtral").removeAttr("disabled");	
-		jQuery("#usa_newtral").fadeIn("normal");
-		});
-
-		jQuery(".emtire_state_newtral_JS").fadeIn("normal");
-		jQuery("#entire_state_alerts_newtral_JS").removeAttr("disabled");			
-
-	}
-	
-	if(jQuery(".rdoLoc_newtral:checked").val() == "world"){
-		jQuery("#usa_newtral").fadeOut("normal",function(){
-		jQuery(".usaInp_newtral").attr("disabled","disabled");	
-		jQuery(".worldInp_newtral").removeAttr("disabled");
-		jQuery("#worlwide_newtral").fadeIn("normal");
-		});
-		
-		jQuery(".emtire_state_newtral_JS").fadeOut("normal");		
-		jQuery("#entire_state_alerts_newtral_JS").attr("disabled","disabled");	
-	}
-
-});
-
-
-jQuery("#cmbCountry_newtral").change(function(){
-var CurVal = jQuery("#cmbCountry_newtral").val();
-
-
-if(CurVal == 2){
-	$("#cmbWOption_newtral").attr("name","phindOneState");
-}else if(CurVal == 8 || CurVal == 10){
-	$("#cmbWOption_newtral").attr("name","phindOneCity");
-}else{
-	$("#cmbWOption_newtral").attr("name","phindOneOption");	
-}
-
-$.post("http://www.groono.com/ajax_4_phind4_me.php", {worldSubPlace: CurVal},
-   function(data){
-		$("#cmbWOption_newtral").html(data);
-});
-});
-
-jQuery("#cmbWCategory_newtral").change(function(){
-var CurVal = jQuery("#cmbWCategory_newtral").val();
-mainCat4meNeutral = CurVal;
-
-if(mainCat4meNeutral == 8 || mainCat4meNeutral == 2)
-{
-	jQuery(".price_newtral_inp").removeAttr("disabled");
-	jQuery(".price_newtral").show();
-}else{
-	jQuery(".price_newtral_inp").attr("disabled","disabled");
-	jQuery(".price_newtral").hide();
-}
-
-if(mainCat4meNeutral == 6 || mainCat4meNeutral == 7)
-{
-jQuery("#include_remote_newtral").removeAttr("disabled");
-jQuery(".includeRemote_JS").show();
-}else{
-jQuery(".includeRemote_JS").hide();	
-jQuery("#include_remote_newtral").attr("disabled","disabled");
-}
-
-if(mainCat4meNeutral == 8){
-jQuery("#include_selling_online_newtral").removeAttr("disabled");	
-	jQuery(".includeselling_JS").show();
-}else{
-jQuery("#include_selling_online_newtral").attr("disabled","disabled");
-jQuery(".includeselling_JS").hide();
-}
-
-$.post("http://www.groono.com/ajax_4_phind4_me.php", {worldCat: CurVal},
-   function(data){
-		$("#cmbWSubCategory_newtral").html(data);
-});
-});
-
-
-jQuery("#cmbState_newtral").change(function(){
-
-var CurVal = jQuery("#cmbState_newtral").val();
-$.post("http://www.groono.com/ajax_4_phind4_me.php", {usState: CurVal},
-   function(data){
-		$("#cmbCity_newtral").html(data);
-});
-});
-
-jQuery("#cmbCategory_newtral").change(function(){
-var CurVal = jQuery("#cmbCategory_newtral").val();
-mainCat4meNeutral = CurVal;
-
-
-if(mainCat4meNeutral == 8 || mainCat4meNeutral == 2)
-{
-	jQuery(".price_newtral_inp").removeAttr("disabled");
-	jQuery(".price_newtral").show();
-}else{
-	jQuery(".price_newtral_inp").attr("disabled","disabled");
-	jQuery(".price_newtral").hide();
-}
-
-
-
-if(mainCat4meNeutral == 6 || mainCat4meNeutral == 7)
-{
-jQuery("#include_remote_newtral").removeAttr("disabled");
-jQuery(".includeRemote_JS").show();
-}else{
-jQuery(".includeRemote_JS").hide();	
-jQuery("#include_remote_newtral").attr("disabled","disabled");
-}
-
-if(mainCat4meNeutral == 8){
-jQuery("#include_selling_online_newtral").removeAttr("disabled");	
-	jQuery(".includeselling_JS").show();
-}else{
-jQuery("#include_selling_online_newtral").attr("disabled","disabled");
-jQuery(".includeselling_JS").hide();
-}
-
-$.post("http://www.groono.com/ajax_4_phind4_me.php", {usCat: CurVal},
-   function(data){
-		$("#cmbSubCategory_newtral").html(data);
-});
-});
-
-
-
-
-jQuery("#cmbSubCategory_newtral").change(function(){
-var CurVal = jQuery("#cmbSubCategory_newtral").val();
-subCat4meNeutral = CurVal;
-
-if(subCat4meNeutral == 152 || subCat4meNeutral == 142 || subCat4meNeutral == 11 || subCat4meNeutral == 17 || subCat4meNeutral == 23 || subCat4meNeutral == 25 || subCat4meNeutral == 26 || subCat4meNeutral == 29 || subCat4meNeutral == 31 || subCat4meNeutral == 34 || subCat4meNeutral == 35  || subCat4meNeutral == 37 || subCat4meNeutral == 39 || subCat4meNeutral == 40 || subCat4meNeutral == 41 || subCat4meNeutral == 124 || subCat4meNeutral == 130 || subCat4meNeutral == 153 || subCat4meNeutral == 148 || subCat4meNeutral == 144 || subCat4meNeutral == 146 || subCat4meNeutral == 145  || subCat4meNeutral == 147 || subCat4meNeutral == 125 || subCat4meNeutral == 131 || subCat4meNeutral == 66 || subCat4meNeutral == 67 || subCat4meNeutral == 70 || subCat4meNeutral == 71 || subCat4meNeutral == 72 || subCat4meNeutral == 76 || subCat4meNeutral == 79 || subCat4meNeutral == 12 || subCat4meNeutral == 14 || mainCat4meNeutral == 6 || mainCat4meNeutral == 7 )
-{
-jQuery("#include_remote_newtral").removeAttr("disabled");
-jQuery(".includeRemote_JS").show();	
-}else{
-jQuery("#include_remote_newtral").attr("disabled","disabled");
-jQuery(".includeRemote_JS").hide();	
-}
-
-});
-
-
-jQuery("#cmbWSubCategory_newtral").change(function(){
-var CurVal = jQuery("#cmbWSubCategory_newtral").val();
-subCat4meNeutral = CurVal;
-
-if(subCat4meNeutral == 152 || subCat4meNeutral == 142 || subCat4meNeutral == 11 || subCat4meNeutral == 17 || subCat4meNeutral == 23 || subCat4meNeutral == 25 || subCat4meNeutral == 26 || subCat4meNeutral == 29 || subCat4meNeutral == 31 || subCat4meNeutral == 34 || subCat4meNeutral == 35  || subCat4meNeutral == 37 || subCat4meNeutral == 39 || subCat4meNeutral == 40 || subCat4meNeutral == 41 || subCat4meNeutral == 124 || subCat4meNeutral == 130 || subCat4meNeutral == 153 || subCat4meNeutral == 148 || subCat4meNeutral == 144 || subCat4meNeutral == 146 || subCat4meNeutral == 145  || subCat4meNeutral == 147 || subCat4meNeutral == 125 || subCat4meNeutral == 131 || subCat4meNeutral == 66 || subCat4meNeutral == 67 || subCat4meNeutral == 70 || subCat4meNeutral == 71 || subCat4meNeutral == 72 || subCat4meNeutral == 76 || subCat4meNeutral == 79 || subCat4meNeutral == 12 || subCat4meNeutral == 14 || mainCat4meNeutral == 6 || mainCat4meNeutral == 7 )
-{
-jQuery("#include_remote_newtral").removeAttr("disabled");
-jQuery(".includeRemote_JS").show();	
-}else{
-jQuery("#include_remote_newtral").attr("disabled","disabled");
-jQuery(".includeRemote_JS").hide();	
-}
-
-});
-
-});
-
-
-
-function checkphind_four_newtral(f){
-
-var str = '';
-
-jQuery(document).ready(function(){
-								
-if($("#phindOneEmail_newtral").val() == ''){
-str += "Please mention your email.\n";
-}else if(!isEmail($("#phindOneEmail_newtral").val())){
-str += "Please mention valid email.\n";	
-}
-
-if($("#phindOneTitle_newtral").val() == ""){
-str += "Please mention title.\n";
-}								
-
-if((jQuery("#cmbState_newtral").val() == '' || jQuery("#cmbState_newtral").val() == 0) && jQuery("#cmbState_newtral").is(':disabled') == false){
-str += "Please select State\n";	
-}else{
-if((jQuery("#cmbCity_newtral").val() == '' || jQuery("#cmbCity_newtral").val() == 0) && jQuery("#cmbCity_newtral").is(':disabled') == false){
-str += "Please select city\n";	
-}
-}
-
-if((jQuery("#cmbCountry_newtral").val() == '' || jQuery("#cmbCountry_newtral").val() == 0) && jQuery("#cmbCountry_newtral").is(':disabled') == false){
-str += "Please select Region\n";	
-}else{
-if((jQuery("#cmbWOption_newtral").val() == '' || jQuery("#cmbWOption_newtral").val() == 0) && jQuery("#cmbWOption_newtral").is(':disabled') == false){
-
-if(jQuery("#cmbCountry_newtral").val() == 2){
-str += "Please select State\n";	
-}else if(jQuery("#cmbCountry_newtral").val() == 8 || jQuery("#cmbCountry_newtral").val() == 10){
-str += "Please select City\n";		
-}else{
-str += "Please select Country\n";		
-}
-
-}
-}
-
-if((jQuery("#cmbCategory_newtral").val() == '' || jQuery("#cmbCategory_newtral").val() == 0) && jQuery("#cmbCategory_newtral").is(':disabled') == false){
-str += "Please select Main category\n";	
-}
-
-if((jQuery("#cmbSubCategory_newtral").val() == '' || jQuery("#cmbSubCategory_newtral").val() == 0) && jQuery("#cmbSubCategory_newtral").is(':disabled') == false){
-str += "Please select Sub category\n";	
-}
-
-if((jQuery("#cmbWCategory_newtral").val() == '' || jQuery("#cmbWCategory_newtral").val() == 0) && jQuery("#cmbWCategory_newtral").is(':disabled') == false){
-str += "Please select Main category\n";	
-}
-
-if((jQuery("#cmbWSubCategory_newtral").val() == '' || jQuery("#cmbWSubCategory_newtral").val() == 0) && jQuery("#cmbWSubCategory_newtral").is(':disabled') == false){
-str += "Please select Sub category\n";	
-}
-
-
-});
-	
-if(str != ''){
-	alert(str);
-	return false;
-}else{
-	return true;	
-}
-
-
-}
-
+  ga('create', 'UA-54324651-1', 'auto');
+  ga('send', 'pageview');
 
 </script>
 
@@ -371,449 +62,72 @@ if(str != ''){
 
 
 
+<div id="header_block">
 
+<div id="header_block_inner">
 
-
-
-<link rel="stylesheet" type="text/css" href="http://www.groono.com/css/rallyhero_float.css">
-<script type="text/javascript">
-$(function(){
-	
-	OpenPopup(900, 618);
-	$("#pop-up-container").click(function(){
-		//ClosePoup();
-		});
-	
-	$(window).scroll(function(){
-		return false;
-		});
-		
-	$(window).resize(function(){ResizePopUp(900, 618);});
-	
-		
-	$("#js_float_join").click(function(){
-		ClosePoup();
-		
-		$.ajax({
-		type	: "POST",
-		url: "http://www.groono.com/rallyhero_float.php",
-		dataType: 'json',
-		data	: 'act=save_donation&was_yes=YES&website=Groono.com' ,
-		success: function(data){
-			window.location.href="http://groono.com/rallyhero/";
-			},
-		  error: function (xhr, ajaxOptions, thrownError) {
-        	window.location.href="http://groono.com/rallyhero/";
-      	}
-			});
-		});
-		
-		
-		$("#js_float_cancel").click(function(){
-		ClosePoup();
-		
-		$.ajax({
-		type	: "POST",
-		url: "http://www.groono.com/rallyhero_float.php",
-		dataType: 'json',
-		data	: 'act=save_donation&was_yes=NO&website=Groono.com',
-		success: function(data){
-			
-			
-		
-
-		//	var win=window.open('http://groono.com/rallyhero/', '_blank');
-//  win.focus();
-  
-			//window.location.href="http://groono.com/rallyhero/";
-				//window.open("", '_blank');
-			},
-			 error: function (xhr, ajaxOptions, thrownError) {
-        //window.location.href="http://groono.com/rallyhero/";
-      	}
-			});
-		});
-		
-		
-});
-	
-	
-	function ResizePopUp(width, height){
-		
-		$("#pop-up").css("width", width);
-		$("#pop-up").css("height", height);
-		
-		var width2 = window.innerWidth || document.documentElement.clientWidth;
-		var height2 = window.innerHeight || document.documentElement.clientHeight;
-		
-		$("#pop-up-container").width(width2);
-		$("#pop-up-container").height(height2);
-	
-		
-		$("#pop-up").css("top", (height2 - parseFloat(height))/2);
-		$("#pop-up").css("left", (width2 - parseFloat(width))/2);
-		//$("#pop-up").css("top", 20);
-		
-		}
-
-function OpenPopup(width, height)
-{
-	
-	ResizePopUp(width, height);
-	$("#pop-up-container").show();
-	$("#pop-up").show();
-	lockScroll();
-		
-}
-
-
-function ClosePoup(){
-	$("#pop-up-container").hide();
-	$("#pop-up").hide();
-	unlockScroll();
-		
-}
-
-
-
-function lockScroll(){
-    $html = $('html'); 
-    $body = $('body'); 
-    var initWidth = $body.outerWidth();
-    var initHeight = $body.outerHeight();
-
-    var scrollPosition = [
-        self.pageXOffset || document.documentElement.scrollLeft || document.body.scrollLeft,
-        self.pageYOffset || document.documentElement.scrollTop  || document.body.scrollTop
-    ];
-    $html.data('scroll-position', scrollPosition);
-   // $html.data('previous-overflow', $html.css('overflow'));
-    $html.css('overflow', 'hidden');
-    window.scrollTo(scrollPosition[0], scrollPosition[1]);   
-
-    var marginR = $body.outerWidth()-initWidth;
-    var marginB = $body.outerHeight()-initHeight; 
-    $body.css({'margin-right': marginR,'margin-bottom': marginB});
-} 
-
-function unlockScroll(){
-    $html = $('html');
-    $body = $('body');
-    $html.css('overflow', 'auto');
-    var scrollPosition = $html.data('scroll-position');
-    window.scrollTo(scrollPosition[0], scrollPosition[1]);    
-    $body.css({'margin-right': 0, 'margin-bottom': 0});
-}
-
-</script>
-
-<div id="pop-up-container">
-
-</div>
-<div id="pop-up">
-
-<div id="rallyhero_foat_logo"></div>
-<div id="rallyhero_float_head">
-Introducing Rallyhero
-</div>
-
-<div id="rallyhero_float_subhead">
-Create an Online Fundraiser for just about anything!
-</div>
-
-<div id="rallyhero_float_headtext">
-RallyHero is an online fundraising and crowdfunding site where you can create fundraisers for any cause and begin receiving donations instantly. You can raise money for music, business, tragedy, sports, personal needs, vacations, medical bills, tuition, and more. You can also donate to inspiring fundraisers.
-</div>
-
-<div style="height:27px;">
-</div>
-<div class="rallyhero_float_icon" id="rallyhero_float_create" style="">
-</div>
-
-<div class="rallyhero_float_icon_right">
-<div class="rallyhero_float_icon_head">
-Raise Money
-</div>
-
-<div class="rallyhero_float_icon_text">
-Starting a fundraiser only takes about 5 minutes. 
-</div>
-</div>
-
-<div style="height:20px;clear:both">
-</div>
-
-
-<div class="rallyhero_float_icon" id="rallyhero_float_donate" style="">
-</div>
-
-<div class="rallyhero_float_icon_right">
-<div class="rallyhero_float_icon_head">
-Donate
-</div>
-
-<div class="rallyhero_float_icon_text">
-Receive your donations instantly, also make quick and easy donations.
-</div>
-</div>
-
-
-<div style="height:20px;clear:both">
-</div>
-
-
-<div class="rallyhero_float_icon" id="rallyhero_float_share" style="">
-</div>
-
-<div class="rallyhero_float_icon_right">
-<div class="rallyhero_float_icon_head">
-Spread The Word
-</div>
-
-<div class="rallyhero_float_icon_text">
-If your inspired, get out and spread the word.
-</div>
-</div>
-
-<div style="height:33px;clear:both">
-</div>
-
-<div class="rallyhero_float_buttons" id="js_float_join" style="margin-left:73px; ">
-Learn More
-</div>
-
-<div id="rallyhero_float_round_gray">
-or
-</div>
-<a href="http://groono.com/rallyhero/" target="_blank">
-<div id="js_float_cancel" class="rallyhero_float_buttons" style="margin-left:19px; ">
-Not Interested
-</div>
+<div id="hbi_logo_block">
+<a href="http://www.groono.com/">
+<img src="http://www.groono.com/images/groono_head_logo.png">
 </a>
 
+</div>
 
-	
-    
-  </div>
-
+<div id="hbi_menu_block">
 
 
+<div class="hbi_menu_item">
+<a href="http://www.groono.com/classifieds/postad/selectcity/">
+Post Ad
+</a>
+</div>
 
+<div class="hbi_menu_item">
+<a id="inline" class="multiPostId" href="#multiPostDiv">
+Multi-post
+</a>
+</div>
 
-
-
-
-
-
-<div class="none">
-
-
-<div class="phindone1" id="phindOneDiv_newtral">
-<form method="get" name="frmPhind4me" action="http://www.groono.com/phind4me_activation.php" onsubmit="return checkphind_four_newtral(this);">
-<input type="hidden" name="act" value="phind4meValues">
-<div class="phindone1_txt">Let us find your classified ad!</div>
-
-<div class="clr"><!-- --></div>
-
-
-<div class="phindone1imp_txt">Your Email:  <span style="color:#F00;"> - (You will need to confirm your email address) </span></div>
-<div class="phindone1imp_txtimp inpbg"><input id="phindOneEmail_newtral" name="phindOneEmail" value="" type="text"></div>
-
-<div class="phindone1imp_txt2">Title:<span style="color:#03F;"> - (what are you searching for ?) </span></div>
-<div class="phindone1imp_txtimp inpbg"><input name="phindOneTitle" id="phindOneTitle_newtral" type="text" value=""></div>
-
-
-<div class="clr"></div>
-
-
-
-<div class="txtg58s m5b price_newtral none">&nbsp;&nbsp;&nbsp;Price</div>
-
-<div class="clr price_newtral none">
-<div class="left txf5s2 p10l m10l p5r ">$</div>
-<div class="left txf5s2inp p5r inpbg">&nbsp;&nbsp;<input disabled="" name="phindOneMin" id="" class="price_newtral_inp" type="text"></div>
-<div class="left txf5s2 p10l ">to</div><div class="left txf5s2 p5l p10r ">$</div>
-<div class="left txf5s2inp p10l inpbg ">&nbsp;&nbsp;<input disabled="" name="phindOneMax" id="" class="price_newtral_inp" type="text"></div>
-<div class="clr"><!-- --></div>
-
-<div class="txtg58s">minimum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maximum</div>
-
-<div class="clr"><!-- --></div>
+<div class="hbi_menu_item">
+Advertise
 </div>
 
 
-<div>
-
-<div class="div_lef left">
-<div class="txtvkd5e5">Select Location</div>
-<div class="txtvkd5"></div>
-<div style="margin-bottom:10px;"><input type="radio" name="rdoLoc" class="rdoLoc_newtral" value="USA" checked="checked"> Usa &nbsp;&nbsp;<input type="radio" name="rdoLoc" value="world" class="rdoLoc_newtral"> Worlwide</div>
-</div>
-
-
-<div class="left" style="width:240px;margin-top:15px;">
-<div class="txjd4">"Get email alerts"</div>
-
-<div class="txjd4grey">We'll notify you when we<br>
-find what  your looking for.</div>
-</div>
-
-<div class="clr"><!-- --></div>
-</div>
-
-
-<div style="margin-left:26px;">
-
-<div id="usa_newtral">
-<select name="phindOneState" id="cmbState_newtral" class="left m10r usaInp_newtral">
-<option value="0">-- Choose State --</option>
-<option value="1">Alabama</option><option value="2">Alaska</option><option value="3">Arizona</option><option value="4">Arkansas</option><option value="5">California</option><option value="6">Colorado</option><option value="7">Connecticut</option><option value="8">Delaware</option><option value="9">Florida</option><option value="10">Georgia</option><option value="11">Hawaii</option><option value="12">Idaho</option><option value="13"> Illinois</option><option value="14">Indiana</option><option value="15">Iowa</option><option value="16">Kansas</option><option value="17">Kentucky</option><option value="18">Louisiana</option><option value="19">Maine</option><option value="20">Maryland</option><option value="21">Massachusetts</option><option value="22">Michigan</option><option value="23">Minnesota</option><option value="24">Mississippi</option><option value="25">Missouri</option><option value="26">Montana</option><option value="27">Nebraska</option><option value="28">Nevada</option><option value="29">New Hampshire</option><option value="30">New Jersey</option><option value="31">New Mexico</option><option value="32">New York</option><option value="33">North Carolina</option><option value="34">North Dakota</option><option value="35">Ohio</option><option value="36">Oklahoma</option><option value="37">Oregon</option><option value="38">Pennsylvania</option><option value="39"> Rhode Island</option><option value="40">South Carolina</option><option value="41">South Dakota</option><option value="42">Tennessee</option><option value="43">Texas</option><option value="44">Utah</option><option value="45">Vermont</option><option value="46">Virginia</option><option value="47">Washington</option><option value="48">West Virginia</option><option value="49">Wisconsin</option><option value="50">Wyoming</option></select>
-
-<select name="phindOneCity" id="cmbCity_newtral" class="left m10r usaInp_newtral">
-<option value="0">-- Choose City --</option>
-</select>
-
-<div class="clr p5"><!-- --></div>
-
-<select name="phindOneMainCat" id="cmbCategory_newtral" class="left m10r usaInp_newtral">
-<option value="0">-- Main Category --</option>
-<option value="1">Jobs</option><option value="2">Real Estate/Housing</option><option value="3">Pets</option><option value="4">Community</option><option value="5">Services</option><option value="6">Musician XChange</option><option value="7">Filmmakers</option><option value="8">For Sale</option><option value="9">Gigs</option><option value="141">Resume</option><option value="143">Investments/funding</option></select>
-
- 
-<select name="phindOneSubCat" id="cmbSubCategory_newtral" class="left m10r usaInp_newtral">
-<option value="0">-- Sub Category --</option>
-</select>
- 
-
-</div>
-
-<div class="none" id="worlwide_newtral">
-<select name="phindOneRegion" id="cmbCountry_newtral" class="left m10r worldInp_newtral" disabled="disabled">
-<option value="0">-- Choose Region --</option>
-<option value="2">Canada</option><option value="3">Asia</option><option value="4">Americas</option><option value="5">Europe</option><option value="6">Africa</option><option value="7">AU / NZ</option><option value="8">Int'l Cities</option><option value="10">Ca Cities</option></select>
-
-<select name="phindOneOption" id="cmbWOption_newtral" class="left m10r worldInp_newtral" disabled="disabled">
-<option value="0">-- Choose Country --</option>
-
-</select>
-
-<div class="clr p5"><!-- --></div>
-
-<select name="phindOneMainCat" id="cmbWCategory_newtral" class="left m10r worldInp_newtral" disabled="disabled">
-<option value="0">-- Main Category --</option>
-<option value="1">Jobs</option><option value="2">Real Estate/Housing</option><option value="3">Pets</option><option value="4">Community</option><option value="5">Services</option><option value="6">Musician XChange</option><option value="7">Filmmakers</option><option value="8">For Sale</option><option value="9">Gigs</option><option value="141">Resume</option><option value="143">Investments/funding</option></select>
-
- 
-<select name="phindOneSubCat" id="cmbWSubCategory_newtral" class="left m10r worldInp_newtral" disabled="disabled">
-<option value="0">-- Sub Category --</option>
-</select>
-
-</div>
-
-</div>
-
-<div class="clr"><!-- --></div>
-
-
-<div class="dflcl4"><input type="submit" value="Submit"></div>
-
-<div class="phind4menoshow  p5"><input type="checkbox" class="link" id="phind4menoshow_newtral" value="">&nbsp;Don't show this again.</div>
-
-
-<div class="includeRemote includeselling_JS p5 none"><input name="include_selling_online" disabled="" id="include_selling_online_newtral" value="Y" type="checkbox" class="link">&nbsp;Include selling online ads</div>
-
-
-<div class="includeRemote includeRemote_JS p5 none"><input name="include_remote" disabled="" id="include_remote_newtral" value="Y" type="checkbox" class="link">&nbsp;Include remote ads</div>
-
-<div class="includeRemote emtire_state_newtral_JS p5"><input name="entire_state_alerts" id="entire_state_alerts_newtral_JS" value="Y" type="checkbox" class="link">&nbsp;Get alerts from entire state</div>
-
-<div class="clr"></div>
-<div>
-
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-0594947656324722";
-/* horizontal txt ads for skipnote ppl, */
-google_ad_slot = "4090011044";
-google_ad_width = 460;
-google_ad_height = 100;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-
-</div>
-
-
-</form>
-</div>
-
-</div>
-<a href="#phindOneDiv_newtral" class="phind4me_newtral"></a>
-
-<div class="sideTabsHober none">
-<div><a href="http://advertise.groono.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','http://www.groono.com/images/phinditads_rightlogo_ho.png',0)"><img src="http://www.groono.com/images/phinditads_rightlogo.png" name="Image10" width="55" height="169" border="0"></a></div><br>
-<div><a href="http://www.groono.com/ad_exchange.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','http://www.groono.com/images/bannerExchan587_ho.jpg',0)"><img src="http://www.groono.com/images/bannerExchan587.jpg" name="Image9" width="55" height="146" border="0"></a></div>
-<br>
-</div>
-
-
-
-<style type="text/css">
-.groono_donate_bar{
-	background:url(http://www.groono.com/images/donate_bar_bg.png) repeat-x;
-	height:38px;
-	position:fixed;
-	z-index:100;
-	width:100%;
-	top:0px;
-	left:0px;
-}
-
-.groono_donate_bar_content{
-	color:#FFFFFF;
-	line-height:36px;
-	text-align:center;	
-}
-
-.cls_btn_55{
-	background: url("http://www.groono.com/images/donate_btn_1.png") repeat-x scroll 0 0 transparent;
-    color: #FFFFFF;
-    font-size: 13px;
-    font-weight: bold;
-    height: 38px;
-    line-height: 25px;
-    margin-left: 10px;
-    margin-top: 5px;
-    padding-left: 27px;
-    text-align: center;
-    width: 71px;
-}
-</style>
-<!--<div class="groono_donate_bar">
-<div  style="width:615px;margin-left:auto;margin-right:auto;">
-<div class="left groono_donate_bar_content">Help keep Groono and it's other sites stay up and running view our donate page for more info</div>
-<a  class="left cls_btn_55 block" href="donate.php">Donate</a>
-<div class="clr"></div>
-</div>
+<!--<div class = "hbi_menu_item hbi_menu_item_more">
+More
 </div>-->
 
+</div>
 
-<div class="container" id="container">
 
 
-<table id="notice" border="0" cellspacing="0" align="center" class="noticeHold none" cellpadding="0.">
-  <tbody><tr><td><img src="http://www.groono.com/images/noticeL.png" class=""></td>
-    <td class="noticeM">
-		</td>
-<td><img onclick="fadeNotice();" src="http://www.groono.com/images/noticeR.png" class="link"></td>
-</tr></tbody></table>
+<div id="hbi_login_block">
 
-<script type="text/javascript">
 
- 
- 
-</script>
+<div id="hbi_sign_in">
+<a href="http://www.groono.com/cls_sign_up.php">
+SIGN IN
+</a>
+</div>
+
+<div id="hbi_sign_or">
+or
+</div>
+
+<div id="hbi_sign_in">
+<a href="http://www.groono.com/cls_sign_up.php">
+SIGN UP
+</a>
+</div>
+
+</div>
+
+
+</div>
+</div>
+
+<div id="head_pusher">
+</div>
 
 
 
@@ -834,249 +148,13 @@ google_ad_height = 100;
 
 </div>
 
-<div class="none">
 
-<div id="anthonyDiv" class="multiPostDivCls">
-<div class="multiPostDivClsHead">Add Anthony as a friend on Facebook.</div>
-<div class="multiPostDivClsWhite">Go to</div>
-<div class="multiPostDivClsGrey">
-<div class="" align="center"><div class="postBtnsAd"><a href="http://www.facebook.com/phinditt">Facebook</a></div></div>
+<div class="container" id="container">
 
-</div>
 
 
-<div style="text-align:center;background:#EAEAEA;" class="p5b">Encourage Andrew to join Facebook&nbsp;<img src="http://www.groono.com/images/smily.png"></div>
 
-</div>
 
-
-</div>
-
-<div class="none">
-
-<div id="meetownerdiv" class="multiPostDivCls">
-<div class="multiPostDivClsHead">Meet the owners</div>
-<div class="multiPostDivClsWhite">Go to</div>
-<div class="multiPostDivClsGrey">
-<div class="" style="padding-left:146px;" align="center">
-
-<div class="postBtnsAd left"><a href="http://www.groono.com/skipnote/anthony">Anthony</a></div>
-<div class="left orMulti" style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OR</div>
-<div class="postBtnsAd left"><a href="http://www.groono.com/skipnote/andrew">Andrew</a></div>
-
-<div class="clr"><!--  --></div>
-</div>
-
-</div>
-</div>
-
-
-</div>
-
-
-
-
-<div class="header">
-<div class="sharTabscls">
-
-<div class="left">
-	<a id="skipnote_invites" data-blink="true" data-image="http://www.groono.com/images/logo_btn_dk45.png" href="http://www.groono.com/" data-type="small_with_count"></a><script type="text/javascript" src="http://www.groono.com/skipnote/invites/js/skipnote_invites.js"></script>
-</div>
-
-<div class="left"><a href="http://twitter.com/share?url=http://www.groono.com/&amp;count=horizontal" class="twitter-share-button">Tweet</a>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
-
-<div class="left">
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-<fb:like href="http://www.groono.com/" layout="button_count" show_faces="false" width="50"></fb:like>
-</div>
-
-<div class="left">
-<a name="fb_share" rel="nofollow" share_url="http://www.groono.com/" style="width:57px;height:57px;" type="button_count"></a>
-</div>
-
-<script type="text/javascript" src="http://static.ak.fbcdn.net/connect.php/js/FB.Share"></script>
-
-<div class="left p10l">
-<!-- Place this tag in your head or just before your close body tag -->
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
-
-<!-- Place this tag where you want the +1 button to render -->
-<g:plusone href="http://www.groono.com/" size="medium"></g:plusone>
-</div>
-
-<div class="left p10l">
-
-
-<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.groono.com%2F&amp;media=http%3A%2F%2Fwww.groono.com%2Fimages%2Flogo_btn_dk45.png&amp;description=Free%20classified%20ads%20with%20photos.%20Find%20houses%20and%20apts%20for%20rent%2C%20personals%2C%20jobs%2C%20cats%20and%20dogs%20for%20sale%2C%20free%20local%20classified%20ads%2C%20free%20online%20classified%20ads%2C%20free%20classified%20ad%20sites%2C%20post%20free%20classified" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"></a>
-
-<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
-</div>
-
-<div class="clr"><!--  --></div>
-</div>
-
-
-
-<div class="headerTop">
-
-<div class="logo left"><a href="http://www.groono.com/"><img src="http://www.groono.com/images/logo_btn_dk45.png"></a></div>
-<div class="topTabs left">
-
-
-<div style="height:20px;"></div>
-
-<ul class="reltedCityTop">
-
-<li class="topHover topHoverSel" onmouseover="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)" onmouseout="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)">
- 
-<a href="http://www.groono.com/classifieds/postad/selectcity"><div class="btn_cd58_r"><div class="btn_cd58_l"><div class="btn_cd58_m">Post An Ad</div></div></div></a>
- 
-
-</li>
-
-
-<li class="topHover" onmouseover="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)" onmouseout="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)"><a class="multiPostId" href="#multiPostDiv">
-<div class="btn_cd58_r"><div class="btn_cd58_l"><div class="btn_cd58_m">
-Multi-Post
-</div></div></div>
-</a></li>
-<li class="topHover" onmouseover="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)" onmouseout="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)"><a href="http://www.groono.com/?show=usa#usa">
-<div class="btn_cd58_r"><div class="btn_cd58_l"><div class="btn_cd58_m">
-USA
-</div></div></div>
-</a></li>
-<li class="topHover" onmouseover="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)" onmouseout="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)"><a href="http://www.groono.com/#Worldwide">
-<div class="btn_cd58_r"><div class="btn_cd58_l"><div class="btn_cd58_m">
-Worldwide
-</div></div></div>
-</a></li>
-</ul>
-
- 
-<div class="left adTabLink"><a href="http://groono.com/rallyhero">RallyHero</a></div>
- 
-
-
-<div class="clr"></div></div>
-
-
-<div class="topHeadRightBox right">
-<div class="signInBox">
-<a href="http://www.groono.com/cls_sign_up.php">Sign in</a> or <a href="http://www.groono.com/cls_sign_up.php">Register</a>
-
-</div>
-
-
-<div class="tpSSerachForm right">
-
-<div style="display: none;margin:49px 0 0 34px;" id="suggestions" class="suggestionsBox">
-        <img alt="upArrow" style="position: relative; top: -22px; left: 0px;" src="http://www.groono.com/sayjoe/images/upArrow.png">
-<div class="suggestionList" id="autoSuggestionsList">
-            <div class="" id="suggestion_locals"></div>
-            <div class="" id="suggestion_ads"></div>
-</div>
-</div>
-
-<div>
-
-
-<form action="http://www.groono.com/sayjoe/sayjoesearchresultsadvertisementsponsored.php" method="get" name="frmTopSearch" id="frmTopSearch" onsubmit="return fnTopSearchform(document.frmTopSearch)">
-<input type="hidden" name="src" value="header">
-<input type="hidden" name="filter" value="all">
-<input type="hidden" name="searNum" value="3">
-
-<div class="left inline"><img src="http://www.groono.com/images/bdr_cls_s585_l.png"></div>
-
-<div class="tpSSerachFormOne left inline"><input type="text" name="q" onfocus="tempTxtFocus(this,'Begin Searching for classified Ads...');" onblur="tempTxtBlur(this,'Begin Searching for classified Ads...');" onkeyup="lookupSayjoe(this.value,'suggestions','suggestion_locals','suggestion_ads','http://www.groono.com/sayjoe/searchAjax.php','cls_header');" autocomplete="off" id="inputString" class="combonw" value="Begin Searching for classified Ads...">
-
-</div>
-
-<div class="left inline">
-<input type="submit" class="subHeaderBtn link" value="">
-</div>
-
-
-</form>
-</div>
-<div class="clr"></div></div>
-
-
-
-
-</div>
-
-
-
-<div class="clr"></div></div>
-
-
-
-<div class="mainNav">
-<div class="menu_fs_4_l"></div>
-<div class="menu_fs_4_m">
-<ul>  
-<li><a href="http://www.groono.com/" style="color:#FFFFFF;">Home</a></li>
-
-<li>
-
-<div class="dropBTnMyacc left">
-<ul class="ddmenu ddmenuHeader_new">
-<li> 
-
-<a style="" href="">All Groono <span style="color:#1b58fa;">Products</span></a>
-
-<ul>
-<li class="tobdr"></li>
-<li><a id="meetowner" href="#meetownerdiv"><img src="http://www.groono.com/images/moIcon.png" align="absmiddle">&nbsp; Meet the Owners</a></li>
-<li><a href="http://www.groono.com/ad_exchange.php"><img src="http://www.groono.com/images/beEx.png" align="absmiddle">&nbsp; Banner Exchange</a></li>
-<li><a href="http://www.groono.com/sayjoe/"><img src="http://www.groono.com/images/sayjowl.png" align="absmiddle">&nbsp; SayJoe</a></li>
-<li><a href="http://www.groono.com/myimportz/"><img src="http://www.groono.com/images/myImp.png" align="absmiddle">&nbsp; Myimportz</a></li>
-<li><a href="http://advertise.groono.com/"><img src="http://www.groono.com/images/PhinIm.png" align="absmiddle">&nbsp; GroonoAds</a></li>
-<li><a href="http://www.groono.com/phindservices/"><img src="http://www.groono.com/images/PhinServi.png" align="absmiddle">&nbsp; PhindServices</a></li>
-<li class="none"><a href="http://www.groono.com/phinditt_videos.php"><img src="http://www.groono.com/images/PhinVids.png" align="absmiddle">&nbsp; Groono Videos</a></li>
-<li><a href="http://www.groono.com/site_directory.php"><img src="http://www.groono.com/images/sdIcon.png" align="absmiddle">&nbsp; Site directory</a></li>
-<li><a href="#phindOneDiv_newtral" class="phind4me_newtral"><img src="http://www.groono.com/images/p4Icon.png" align="absmiddle">&nbsp; Phind4me</a></li>
-<li><a href="http://www.groono.com/investment.php"><img src="http://www.groono.com/images/investico.png" align="absmiddle">&nbsp; Invest</a></li>
-<li><a href="http://www.groono.com/archives_history.php"><img src="http://www.groono.com/images/phindarchive.png" align="absmiddle">&nbsp; Groono archives history</a></li>
-<li><a href="http://www.groono.com/submit_logo.php"><img src="http://www.groono.com/images/createLogo.png" align="absmiddle">&nbsp; Create Groono's logo</a></li>
-
-</ul>
-
-
-</li>
-</ul>
-</div>
-
-
-
-</li>
-
-<li><a href="http://www.groono.com/classifieds/postad/selectcity/">Post An Ad</a></li>
-
-<li><a href="http://www.groono.com/tell_friend.php">Tell A Friend</a></li>
-
-<li><a href="http://groono.com/rallyhero">RallyHero</a></li>
-
-<li><a href="http://www.groono.com/clsmyaccount.php">My Account</a></li>
-
-<li><a href="http://www.groono.com/promote.php">Promote</a></li>
-
-<li><a href="http://www.groono.com/?show=usa#usa">USA</a></li>
-<li><a href="http://www.groono.com/#Worldwide">Worldwide</a></li>
-
- 
-<li><a class="multiPostId" href="#multiPostDiv">Multipost</a></li>
- 
-
-</ul>
-</div>
-<div class="menu_fs_4_r"></div>
-</div>
-<div class="clr"></div></div><!--  Header block ends  -->
-
-
-<div class="content">
 
 
 <div class="hed5r5">Privacy policy</div>
@@ -1139,202 +217,111 @@ Worldwide
 
 </div>
 
-<div style="width:280px;" class="right m10t">
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-<div class="fb-like-box" data-href="https://www.facebook.com/groono1" data-width="280" data-height="330" data-show-faces="true" data-stream="false" data-header="false"></div>
-</div>
-
-
-
-<div class="p10"></div>
-<div class="clr"><!-- --></div>
-</div> <!--  Content ends  -->
-
-
-<div class="clr"><!-- --></div>
-</div>
-
-<div class="p10"></div>
-
-
-
-<script type="text/javascript" theme="red" scroll_type="yes" src="http://www.groono.com/bitlid/js/bitlid_bar.js"></script>
-
-<div class="container_mid">
-
-<div class="footer">
-
 
 
 
 
 <div class="p10"></div>
-
-
-
-
-
-<div class="">
-
-<div class="left cls_s5s7">
-
-<a class="sq_bg" target="_blank" href="http://advertise.groono.com/tripple_decker.php?act=counter_admin">
-<div class="sq_bg_in1">Advertise here</div>
-<div class="sq_bg_in3">Get Unlimited Clicks</div>
-</a>
-
-</div>
-
-<div class="left cls_s5s4">
-<a class="sq_bg" target="_blank" href="http://advertise.groono.com/tripple_decker.php?act=counter_admin">
-<div class="sq_bg_in1">Advertise here</div>
-<div class="sq_bg_in3">Get Unlimited Clicks</div>
-</a>
-</div>
-
-<div class="left cls_s5s7">
-
-<a class="sq_bg" target="_blank" href="http://advertise.groono.com/tripple_decker.php?act=counter_admin">
-<div class="sq_bg_in1">Advertise here</div>
-<div class="sq_bg_in3">Get Unlimited Clicks</div>
-</a>
-
-</div>
-
 <div class="clr"></div>
+<div class="p10"></div>
+<div id="footer_block">
+<div style="height:45px;"></div>
+
+<div id="footer_block_inner">
+
+<div id="footer_top_block">
+
+
+<div class="footer_col" style="width:251px;">
+
+<div class="footer_col_head">
+Company
+</div>
+
+<div class="footer_col_item">
+<a href="http://www.groono.com/about.php">
+About Us
+</a>
+</div>
+
+<div class="footer_col_item">
+<a href="http://www.groono.com/tell_friend.php">
+Tell A Friend
+</a>
+</div>
+
+<div class="footer_col_item">
+<a href="#">
+Advertising
+</a>
+</div>
+
+<div class="footer_col_item">
+<a href="http://www.groono.com/terms.php">
+Terms
+</a>
+</div>
+
+<div class="footer_col_item">
+<a href="http://www.groono.com/privacy.php">
+Privacy
+</a>
+</div>
+
+<div class="footer_col_item">
+<a href="http://www.groono.com/contact_us.php">
+Contact Us
+</a>
+</div>
+
+
+<div class="footer_col_item">
+<a href="mailto:press@groono.com">
+Press
+</a>
+</div>
+
+
+<div class="footer_col_item">
+<a href="http://www.groono.com/paid_services.php">
+Paid Services
+</a>
+</div>
+
+<div class="footer_col_item">
+<a href="http://www.groono.com/refund_policy.php">
+Refund Policy
+</a>
 </div>
 
 
 
 
-
-
-
-<div class="p10">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-0594947656324722";
-/* horizontal txt ads for skipnote ppl, */
-google_ad_slot = "4090011044";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 </div>
 
+<div class="footer_col" style="width:281px;">
 
-
-
-<div class="footer_links">
-   
-<div class="first_ul">
-<div class="left">
-        <div class="li_foo_link m5r" style="color: #989898;">© 2014 Groono</div>
-        <div class="li_foo_link" style="color: #989898;">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/">Free Classifieds</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/about.php">About Us</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/site_directory.php">Site Directory</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/terms.php" onclick="focusWindow('ON');">Terms</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/privacy.php">Privacy</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/tell_friend.php">Tell A Friend</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://advertise.groono.com/">Advertising</a></div>
-         <div class="clr_only"></div> 
+<div class="footer_col_head">
+More
 </div>
 
-<div class="right">
-		<div class="li_foo_link"><a href="http://www.groono.com/journal_entries.php">Journal Entries<span style="color:#FF0000;font-size:10px;">&nbsp;New</span></a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/contact_us.php">Contact Us</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/promote.php">Promote</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="mailto:press@groono.com">Press</a></div>
-    <div class="clr_only"></div>   
-    </div>     
-       <div class="clr_only"></div>    
-    </div>
-    
-<div class="clr"></div>   
-<div style="padding-top:10px;"></div>
-
-    
-<div class="third_ul left">
-        <div class="li_foo_link">Groono Products:</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/">Groono</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://advertise.groono.com/">Groono Ads</a></div>
-
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/skipnote/">Skipnote</a></div>        
-        
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/sayjoe/">Sayjoe</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/myimportz/">Myimportz</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/investment.php">Invest</a></div>        
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/ad_exchange.php">Banner exchange</a></div>
-        <div class="li_foo_link">•</div> 
-        <div class="li_foo_link"><a href="#phindOneDiv_newtral" class="phind4me_newtral">Phind4me</a></div>
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/phindservices/">Phindservices</a></div>                
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/bitlid/">Bitlid</a></div>                
-		<div class="clr"></div>
-        <div class="p10t"></div>
-        <div class="li_foo_link"><a class="nolp" href="http://www.groono.com/archives_history.php">Groono Archives</a></div>                
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/donate.php">Donate</a></div>
-         <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://www.groono.com/cropapic/">Cropapic</a></div>
-        
-        
-          <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://groono.com/rallyhero/">RallyHero<span style="color:#FF0000;font-size:10px;">&nbsp;New</span></a></div>
-        
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://groono.com/rallyhero/">Online Fundraising</a></div>
-        
-        <div class="li_foo_link">•</div>
-        <div class="li_foo_link"><a href="http://groono.com/rallyhero/">Crowdfunding</a></div>
-
-
-        <div class="clr_only"></div>
-    </div>
-
-<div class="right">
-	<div class="left m5r"><a href="http://www.groono.com/skipnote/andrew" target="_blank"><img src="http://www.groono.com/images/skipnote_small_ico.png"></a></div>
-	<div class="left"><a href="http://www.groono.com/skipnote/anthony" target="_blank"><img src="http://www.groono.com/images/skipnote_small_ico.png"></a></div>
-<div class="clr"></div> 
+<div class="footer_col_item">
+<a href="http://www.groono.com/">
+Free Classifieds
+</a>
 </div>
 
-<div class="clr"></div> 
-
-
-    
-    <div class="clr_only"></div>
+<div class="footer_col_item">
+<a href="http://www.groono.com/">
+Free Online Classifieds
+</a>
 </div>
 
-
-
+<div class="footer_col_item">
+    <a href="http://www.groono.com/view_worldwide.php">
+	    View worldwide classified ads
+    </a>
+</div>
 
 
 
@@ -1344,87 +331,49 @@ google_ad_height = 90;
 
 
 
+<!--<div class= "footer_col" style = "width:162px;">
 
-<div class="clr"><!-- --></div>
+<div class = "footer_col_head">
+Follow us
+</div>
+
+<div class = "footer_socila_icon fb">
+</div>
+
+<div class = "footer_socila_icon tw">
+</div>
+
+<div class = "footer_socila_icon gp">
 </div>
 
 
 
-<div class="none">
 
-<div id="viwDetDiv">
-<div id="discountHintFoo" class="discountHintImg2">
-<div class="clsorangeTxt">No other pay per click company gives you 15 days of free advertising</div>
-<div class="clsSubTxt">Save 50% by pre-purchasing a advertisment campaign for one month</div>
-<div class="txtprice"></div>
-</div>
-</div>
+
+</div>-->
+
+
 
 </div>
 
-
-
-<div class="viwDet"></div>
-
-
-
-	<div class="tranBarHold">
-<div class="tranBarLeft">
-
-<div class="tran_yel left">Click to</div>
-<div class="tran_whti left clr">Translate</div>
-
-<div id="translate_Div">
-<div class="transLate">
-<div id="google_translate_element" class="tranlatElem"></div>
-<script>
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'en'
-  }, 'google_translate_element');
-}
-</script>
-<script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-</div>
+<div id="footer_bootom_block">
+<div style="height:18px;">
 </div>
 
-<div class="clr"><!-- --></div>
-
-</div>
-
-<img id="translatecloese" src="http://www.groono.com/images/tranClose.png">
-<img id="translateSlideIn" src="http://www.groono.com/images/slideOut.png"></div>
-
-<script type="text/javascript">
-
-$(document).ready(function(){
-if(getCookie('botBarClose') != 'yes'){
-$("#bodyPhinditt").append('<div id="botClsUpDID" class="botClsUp"><div class="botRemoteBoxHold" id="botRemoteBoxHold" ><iframe id="botPhinditt" src="http://www.groono.com/bottomRemoteFrame.php" allowtransparency="true" scrolling="no" width="100%" height="94" frameborder="0" ></iframe></div></div>');						   
-}
-});
-
-</script>
-<div id="btnfooDiv" class="btnfooDiv">
-
-<div class="botTool" id="botTool">
-<div class="botTool_in">
-<div class="left p5l"><a target="_blank" href="http://advertise.groono.com/"><img src="http://www.groono.com/images/blank.gif" width="150" height="50"></a></div>
-
-<div class="right">
-<div class="right txtfoof58"><a target="_blank" href="http://advertise.groono.com/">15 Days Free advertising on<br>any Banner or text campaign</a></div>
-<div class="txtVeif58 clr"><a href="#viwDetDiv" class="viwDet">View details</a></div>
-</div>
-</div></div>
-</div>
-
-<!--<script src="http://cdn.wibiya.com/Toolbars/dir_0256/Toolbar_256555/Loader_256555.js" type="text/javascript"></script>-->
-
-
-<div class="none">
-<a href="http://www.alexa.com/siteinfo/"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/s/a?url="></script></a>
+<div id="fbb_copyright">
+ © 2014 Groono
 </div>
 
 
+
+</div>
+</div>
+
+
+
+
+
+</div>
 
 <script type="text/JavaScript">var TFN='';var TFA='';var TFI='0';var TFL='0';var tf_RetServer="rt.trafficfacts.com";var tf_SiteId="2a0665f28ab6aab492f113a08a3cd5a69be8dc39";var tf_ScrServer=document.location.protocol+"//rt.trafficfacts.com/tf.php?k=2a0665f28ab6aab492f113a08a3cd5a69be8dc39;c=s;v=5";document.write(unescape('%3Cscript type="text/JavaScript" src="'+tf_ScrServer+'">%3C/script>'));</script><script type="text/JavaScript" src="https://rt.trafficfacts.com/tf.php?k=2a0665f28ab6aab492f113a08a3cd5a69be8dc39;c=s;v=5"></script><noscript><img src="http://rt.trafficfacts.com/ns.php?k=2a0665f28ab6aab492f113a08a3cd5a69be8dc39" height="1" width="1" alt=""/></noscript>
 
@@ -1442,4 +391,4 @@ pageTracker._trackPageview();
 } catch(err) {}
 </script>
 
-                  </body></html>
+                  </div></body></html>
