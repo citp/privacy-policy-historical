@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberpowersystem.co.uk privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507101231id_/http%3A//www.cyberpowersystem.co.uk/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberpowersystem.co.uk privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215042525id_/http%3A//www.cyberpowersystem.co.uk/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,11 +8,18 @@ When you make purchase requests, we do collect and store the names, addresses, c
 
 ### Cookie Usage
 
-A "cookie" is a small piece of information which a web server can store temporarily with your web browser. This is useful for having your web browser remember some specific information which our web server can later retrieve. We use cookies to maintain the state of your shopping cart and the checkout process. We do not collect your personal information from your computer nor track your browsing behavior. We also never share any information about you and your orders with other parties.
+A "cookie" is a small piece of information which a web server can store information temporarily with your web browser. This is useful for having your web browser remember some specific information which our web server can later retrieve. One purpose of these technologies is to help us better understand the user’s behavior and which part of our website is frequented the most. Cyberpower and its partners use cookies to measure the effectiveness of our ad campaigns and promotions. This allows us to provide special promotions and deals that our customers would find the most interest in.
 
-The cookie file is NOT a secret way for our web server to find out everything about you and what is on your hard drive. There is absolutely no way for our web server to gain access to any private information about you or your computer system which you do not wish to reveal. There is no possible way that a virus could be spread through the use of cookies.
+Cyberpower and our partners also employ the use of cookies that are essential to the shopping experience of our website. These cookies are used to maintain the state of your shopping cart and to complete the checkout process. Our goal in these cases is to make your shopping experience with Cyberpower more convenient. For example, we use cookies to store the customer’s shopping cart so they may complete their shopping experience. If the customer leaves our website and comes back at a later time, we are able to restore any preexisting configurations that the customer has been working on and allows our customer resume where they left off. In addition, we also employ cookies from our partners to combat fraudulent charges during our checkout process. This allows us to expedite our order processing and verification process once your order is submitted to us.
 
-Please make sure your browser is able to accept cookies from our website (see your web browser's help or manual to learn how). Some programs you installed on your system might interfere/change the cookie management of your browser/system. Please make sure you set up those programs correctly to allow cookies from us. Please consult the program's help or manual on this matter.
+If you want to disable and delete cookies stored on your internet browser, we have provided below a list of links to most used internet browsers that explain how to disable and delete cookies. If your browser is not listed below, check with your provider to find out how to disable cookies. Please note that certain features of the Cyberpower website will not be available once cookies are disabled.
+
+• Chrome - <https://support.google.com/accounts/answer/61416?hl=en>  
+• Firefox - <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>  
+• Internet Explorer - <http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11>  
+• Opera - <http://www.opera.com/help/tutorials/security/privacy/>  
+• Safari - <http://support.apple.com/kb/ph11913>  
+
 
 ### Security
 
