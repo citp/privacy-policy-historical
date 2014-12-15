@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060551id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215195748id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
 
 # Freshershome.com - Privacy Policy!
 
 ## Privacy Policy
 
-Freshershome.com, is committed to safeguarding your privacy online. We will use our best efforts to ensure that the information you submit to us remains **private**. Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically.
-
-**FreshersHome.com** is/will not be reponsible for the illegal content published by the users, if some user posts any content in the Forum or a job ad with a company name and that is not posted by the real company representative or HR, to remove such content please kindly email to webmaster@freshershome.com, we will remove the content immediatly and take action against the user who posted the content by banning the user id and If possible iP address. We can only do this action if proper information is provided, please rest assured that we are monitoring the posts but we cannot guarantee 100% that the information is validated, hence please be cooperative and send a polite email with right information so that we can initiate the content removal or thread/post removal action.
-
-If you find any Fake or a Copied/Duplicate Content that you think is copied by users and posted here let us know we will make sure that such content is taken off.
+  
+Freshershome.com, is committed to safeguarding your privacy online. We will use our best efforts to ensure that the information you submit to us remains **private**. Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically. 
 
 **Access**
 
