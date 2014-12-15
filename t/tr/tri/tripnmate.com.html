@@ -1,12 +1,16 @@
-<!--The following is the downloaded HTML source of the tripnmate.com privacy policy that was archived on 2014-02-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140215003913id_/http%3A//www.tripnmate.com/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripnmate.com privacy policy that was archived on 2014-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215150015id_/http%3A//www.tripnmate.com/privacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><script type="text/javascript" charset="UTF-8" src="https://ssl.microsofttranslator.com/ajax/v2/widget.aspx?mode=manual&amp;from=en&amp;toolbar=none&amp;hidelanguages=bg,zh-cht,ca,cs,da,et,fi,fa,hu,ht,el,id,lv,lt,ms,mww,no,ro,sk,sl,sv,pl,hi,th,tr,uk,ur,vi,he,tlh&amp;layout=ts"></script><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 
-</title><link href="tnm/css/SubPage.css" rel="stylesheet" type="text/css"><link href="tnm/calenderControl/css/calendar-eightysix-v1.1-default.css" rel="stylesheet" type="text/css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="calenderControl/js/calendar-eightysix-v1.1.js" type="text/javascript"></script>
+</title><link href="tnm/css/SubPage.css" rel="stylesheet" type="text/css">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="js/libs/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="js/script.js" type="text/javascript"></script>
+    <link href="tnm/calenderControl/css/calendar-eightysix-v1.1-default.css" rel="stylesheet" type="text/css"><link href="tnm/css/LoginPopUp.css" rel="stylesheet">
+    <script src="calenderControl/js/calendar-eightysix-v1.1.js" type="text/javascript"></script>
     <script src="calenderControl/js/mootools-1.2.4-core.js" type="text/javascript"></script>
     <script src="calenderControl/js/mootools-1.2.4.4-more.js" type="text/javascript"></script>
+
     <!-- Start Alexa Certify Javascript -->
     <script type="text/javascript">
         _atrk_opts = { atrk_acct: "hr37i1aoZM002X", domain: "tripnmate.com", dynamic: true };
@@ -14,109 +18,295 @@
     </script>
     <noscript>
         <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=hr37i1aoZM002X" style="display: none"
-            height="1" width="1" alt="" /></noscript>
+            height="1" width="1" alt="" />
+    </noscript>
     <!-- End Alexa Certify Javascript -->
     <style type="text/css">
-        .style1
-        {
+        .style1 {
             width: 100%;
             height: 108px;
         }
-        .style2
-        {
+
+        .style2 {
             width: 438px;
         }
-        .style3
-        {
+
+        .style3 {
             width: 201px;
         }
-        .style4
-        {
+
+        .style4 {
             width: 132px;
         }
-        .style9
-        {
+
+        .style9 {
             height: 52px;
         }
+
+        .overlay {
+            background: #000000;
+            bottom: 0;
+            left: 0;
+            position: fixed;
+            right: 0;
+            top: 0;
+            z-index: 100;
+            opacity: 0.9;
+            display: none;
+        }
+
+        #traveler {
+            width: 500px;
+            position: absolute;
+            margin-left: -250px;
+            margin-top: -250px;
+            left: 50%;
+            top: 50%;
+            z-index: 200;
+            display: none;
+        }
+         #OwnerSignInContainer {
+            width: 500px;
+            position: absolute;
+            margin-left: -250px;
+            margin-top: -250px;
+            left: 50%;
+            top: 50%;
+            z-index: 200;
+            display: none;
+        }
+        .style10 {
+            width: 163px;
+        }
+
+        .auto-style1 {
+            width: 517px;
+        }
     </style>
+
+    <script type="text/javascript">
+        // --- owner sign in call to check
+        function OwnerSignIn() {
+            $('.OwnerSignInMessage').text('');
+            if ($('.OwnerLoginTextbox').val() == '') {
+                $('.OwnerSignInMessage').text('Please enter your login id');
+                return false;
+            }
+            if ($('.OwnerPasswordTextbox').val() == '') {
+                $('.OwnerSignInMessage').text('Please enter your password');
+                return false;
+            }
+            var paramList = '{"loginid":"' + $('.OwnerLoginTextbox').val() + '","password":"' + $('.OwnerPasswordTextbox').val() + '"}';
+            $.ajax({
+                type: "POST",
+                url: "index.aspx/CheckOwnerSignIn",
+                dataType: "json",
+                contentType: "application/json",
+                processData: false,
+                data: paramList,
+                success: function (msg) {
+                    debugger;
+                    if (msg.d == "True") {
+                        window.parent.location.href = "property/CustDashboard.aspx";
+                        return false;
+                    }
+                    else {
+                        $('.OwnerSignInMessage').text("You have entered wrong login details!");
+                    }
+                },
+                error: function (msg) {
+                    alert("error " + msg.responseText);
+                }
+            });
+            return false;
+        }
+    </script>
 </head>
 <body bgcolor="#00b1eb">
     <form method="post" action="privacyPolicy.aspx" id="form1">
-<div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRJjdGwwMCRJbWFnZUJ1dHRvbjEFEmN0bDAwJEltYWdlQnV0dG9uMg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZBOJiT7F32pPe8bqW6NBzPJDxMOP+CYH50uoqTV5w3Pe">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A6261B64">
+        <div id="overlay" class="overlay">
+        </div>
+        <div id="traveler">
+            
+
+<link href="../css/LoginPopUp.css" rel="stylesheet">
+
+<div class="login_pop_up">
+    <h1>Traveler Register / Login</h1>
+    <p>Email ID</p>
+    <p>
+      
+        <input name="ctl00$ucTravelerLogin1$txtEmailRegister" type="text" id="ucTravelerLogin1_txtEmailRegister">
+    </p>
+     <p>Password</p>
+    <p>
+        <input name="ctl00$ucTravelerLogin1$txtPasswordRegister" type="password" id="ucTravelerLogin1_txtPasswordRegister">
+
+    </p>
+
+    <p class="submit">
+        <input type="submit" name="ctl00$ucTravelerLogin1$btnTravelerSignIn" value="Sign In" id="ucTravelerLogin1_btnTravelerSignIn" class="travelerRegister">
+        &nbsp;<input type="submit" name="ctl00$ucTravelerLogin1$btnTravelerRegister" value="Register" onclick="return validateTReg();" id="ucTravelerLogin1_btnTravelerRegister" class="travelerRegister">
+
+        &nbsp;<input type="submit" name="ctl00$ucTravelerLogin1$Button1" value="Close" onclick="CloseTravelerPopUp();return false;" id="ucTravelerLogin1_Button1" class="clsBtnClose">
+    </p>
+
 </div>
+
+
+        </div>
+         <div id="OwnerSignInContainer">
+            
+<link href="../css/LoginPopUp.css" rel="stylesheet">
 
 <script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form1'];
-if (!theForm) {
-    theForm = document.form1;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
+    function OpenPopUpForgotPassword() {
+        debugger;
+       
+        $('.ForgotPasswordContainer').css('display', 'block');
+        $('.OwnerSignInControlsContainer').css('display', 'none');
+        $('.ForgotPasswordWarningMessage').html('');
+        $('.OwnerSignInForgotPasswordButtonCSS').val('');
+       
+        return false;
     }
-}
-//]]>
+    function ForgotPasswordCancel() {
+       
+        $('.ForgotPasswordContainer').css('display', 'none');
+        $('.OwnerSignInControlsContainer').css('display', 'block');
+        return false;
+    }
+    function OwnerSignInCloseButton() {
+       
+        $('#overlay').fadeOut('slow', function () {
+            $("#OwnerSignInContainer").toggle("slow");
+            $('.overlay').css('display', 'none');
+           
+        });
+        return false;
+    }
+
 </script>
+<style type="text/css">
+    .ForgotPasswordContainer {
+        display: none;
+    }
+</style>
 
+<div class="login_pop_up">
+    <div class="OwnerSignInControlsContainer">
+        <h1>Owner Sign In</h1>
+        <p>
+            <span id="ucOwnerSignIn_lblInvalidId" class="OwnerSignInMessage"><font color="Red"></font></span>
+        </p>
+        <p>Email/UserID/CustomerID</p>
+        <p>
 
-<script src="/tnm/WebResource.axd?d=jNQSEELuqcM2FpaMHSRa7M0pGtTbQBomu__yL654cNAtb_xtLhZXlZ2CN1cOfd8q4kT4uyMnvUT9VySVXnhC8FLxfPpEBCPAEvuxqTk9PCo1&amp;t=635089743480000000" type="text/javascript"></script>
+            <input name="ctl00$ucOwnerSignIn$txtUserId" type="text" id="ucOwnerSignIn_txtUserId" class="OwnerLoginTextbox">
+        </p>
+        <p>Password</p>
+        <p>
+            <input name="ctl00$ucOwnerSignIn$txtPassword" type="password" id="ucOwnerSignIn_txtPassword" class="OwnerPasswordTextbox">
 
-<div class="aspNetHidden">
+        </p>
 
-	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="I4J8Cbm__-7nFxWIAaw4jPoJuOzV0sE60ltoha0RbovsU5eQcSl5Fn6Kn81Wp2kDzubBeRl9TX8Z2LC3Etyn31r7GbZmmJOTjklHijkaW3g1">
-</div>
-    <div id="MicrosoftTranslatorWidget" style="top: 10px; left: 500px; text-align: center;
-        width: 200px; position: absolute; z-index: 110; min-height: 57px; border-color: #000033;
-        background-color: #003366; vis display: none;">
-        <noscript>
-            <a href="http://www.microsofttranslator.com/bv.aspx?a=http%3a%2f%2fwww.tripnmate.com%2f">
-                Translate this Page</a><br />
-            Powered by <a href="http://www.bing.com/translator">Microsoft® Translator</a></noscript>
+        <p class="submit">
+            <input type="submit" name="ctl00$ucOwnerSignIn$lnkBtnLogin" value="Login" onclick="return OwnerSignIn();" id="ucOwnerSignIn_lnkBtnLogin" class="OwnerSignInCheckButton">
+            &nbsp;<input type="submit" name="ctl00$ucOwnerSignIn$lnkBtnForgotPassword" value="Forgot Password" onclick="return OpenPopUpForgotPassword();" id="ucOwnerSignIn_lnkBtnForgotPassword">
+            &nbsp;<input type="submit" name="ctl00$ucOwnerSignIn$btnOwnerSignInCloseButton" value="Close" onclick="return OwnerSignInCloseButton();" id="ucOwnerSignIn_btnOwnerSignInCloseButton" class="btnOwnerSignInCloseButton">
+        </p>
     </div>
-    <script type="text/javascript"> /* <![CDATA[ */ setTimeout(function() { var s = document.createElement("script"); s.type = "text/javascript"; s.charset = "UTF-8"; s.src = ((location && location.href && location.href.indexOf('https') == 0) ? "https://ssl.microsofttranslator.com" : "http://www.microsofttranslator.com" ) + "/ajax/v2/widget.aspx?mode=manual&from=en&toolbar=none&hidelanguages=bg,zh-cht,ca,cs,da,et,fi,fa,hu,ht,el,id,lv,lt,ms,mww,no,ro,sk,sl,sv,pl,hi,th,tr,uk,ur,vi,he,tlh&layout=ts"; var p = document.getElementsByTagName('head')[0] || document.documentElement; p.insertBefore(s, p.firstChild); }, 0); /* ]]> */ </script>
-    <div id="header">
-        <div class="logo">
-            <table class="style1">
-                <tbody><tr>
-                    <td class="style2">
-                        <img alt="" src="images/logo.png">
-                    </td>
-                    <td class="style3">
-                        &nbsp;
-                    </td>
-                    <td class="style4">
-                        <input type="image" name="ctl00$ImageButton1" id="ImageButton1" src="tnm/images/new_res.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImageButton1&quot;, &quot;&quot;, false, &quot;&quot;, &quot;tnm/Cust_Register.aspx&quot;, false, false))">
-                    </td>
-                    <td>
-                        <input type="image" name="ctl00$ImageButton2" id="ImageButton2" src="tnm/images/owner_btn.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImageButton2&quot;, &quot;&quot;, false, &quot;&quot;, &quot;tnm/Sign-In.aspx&quot;, false, false))">
-                    </td>
-                </tr>
-            </tbody></table>
-            <table cellpadding="0" cellspacing="0" style="width: 940px; height: auto; background-image: url('images/content_bg.png');
-                background-repeat: repeat">
-                <tbody><tr>
-                    <td valign="top" class="style9">
-                        <div id="menu-bg">
+    <div class="ForgotPasswordContainer">
+        <h1>Reset Your Password</h1>
+        <p style="font-weight:bold;">
+            Enter email address to receive your new password. You will recieve your new
+                        password on your email box.
+        </p>
+        <p>
+            <span id="ucOwnerSignIn_lblForgotPasswordWarningMessage" class="ForgotPasswordWarningMessage"><font color="Red"></font></span>
+        </p>
+        <p>
+            <input name="ctl00$ucOwnerSignIn$txtEmailForgotPassword" type="text" id="ucOwnerSignIn_txtEmailForgotPassword" class="OwnerSignInForgotPasswordButtonCSS">
+        </p>
+        <p>
+            <input type="submit" name="ctl00$ucOwnerSignIn$btnSubmitForgotPassword" value="Your password will send on your mail" onclick="return ForgotPasswordSendEmail();" id="ucOwnerSignIn_btnSubmitForgotPassword" class="ForgotPasswordButton">
+            <input type="submit" name="ctl00$ucOwnerSignIn$btnSubmitForgotPasswordCancel" value="Cancel" onclick="return ForgotPasswordCancel();" id="ucOwnerSignIn_btnSubmitForgotPasswordCancel" class="ForgotPasswordButton">
+        </p>
+
+    </div>
+</div>
+
+            </div>
+        <div id="MicrosoftTranslatorWidget" style="width: 200px; margin-left:-180px; margin-top:0.5%; top: 0.5%; left: 50%; text-align: center; position: absolute; z-index: 110; min-height: 57px; border-color: #000033; background-color: #003366;">
+            <noscript>
+                <a href="http://www.microsofttranslator.com/bv.aspx?a=http%3a%2f%2fwww.tripnmate.com%2f">Translate this Page</a><br />
+                Powered by <a href="http://www.bing.com/translator">Microsoft® Translator</a>
+            </noscript>
+        </div>
+        <script type="text/javascript"> /* <![CDATA[ */ setTimeout(function () { var s = document.createElement("script"); s.type = "text/javascript"; s.charset = "UTF-8"; s.src = ((location && location.href && location.href.indexOf('https') == 0) ? "https://ssl.microsofttranslator.com" : "http://www.microsofttranslator.com") + "/ajax/v2/widget.aspx?mode=manual&from=en&toolbar=none&hidelanguages=bg,zh-cht,ca,cs,da,et,fi,fa,hu,ht,el,id,lv,lt,ms,mww,no,ro,sk,sl,sv,pl,hi,th,tr,uk,ur,vi,he,tlh&layout=ts"; var p = document.getElementsByTagName('head')[0] || document.documentElement; p.insertBefore(s, p.firstChild); }, 0); /* ]]> */ </script>
+        <div id="header">
+            <div class="logo">
+                <table class="style1">
+                    <tbody><tr>
+                        <td class="auto-style1">
+                            <a href="http://www.tripnmate.com/index.aspx">
+                                <img src="images/logo.png" width="234" height="58" border="0"></a>
+                        </td>
+                        <td>
                             
-                            <ul>
-                                <li class="selected"><a href="index.aspx">HOME</a></li>
-                                <li><a href="Offers.aspx">DEAL &amp; OFFERS </a></li>
-                                <li><a href="PropertySearchByBNB.aspx?BNB=BAndB">BnB</a></li>
-                                <li><a href="Blog/HolidayRentalsBlog.aspx">TRAVEL MAGAZINE</a></li>
-                                <li><a href="Advertise.aspx">ADVERTIZE</a></li>
-                            </ul>
-                        </div>
-                    </td>
-                </tr>
-                <tr>
-                    <td style="background-image: url('images/content_bg.png'); background-repeat: repeat" valign="top">
-                        
+<script type="text/javascript">
+    function openPopUpTraveler() {
+        $('#overlay').fadeIn('slow', function () {
+            $('.overlay').css('display', 'block');
+            $('#traveler').css('display', 'block');
+            $('#traveler').fadeIn('slow');
+        });
+    }
+    function openOwnerSignInPopUp() {
+        $('#overlay').fadeIn('slow', function () {
+            $('.overlay').css('display', 'block');
+            $("#OwnerSignInContainer").toggle("slow");
+            //$('#OwnerSignInContainer').css('display', 'block');
+            //$('#OwnerSignInContainer').fadeIn('slow');
+        });
+        
+        //$('.overlay').css('display', 'block');
+    }
+
+    
+</script>
+<div class="buttons">
+    <input type="submit" name="ctl00$ucHomeButtons1$reg" value="Register" id="ucHomeButtons1_reg" class="OwnerRegisterButton">
+    <input type="submit" name="ctl00$ucHomeButtons1$signin" value="Owner Sign-In" onclick="openOwnerSignInPopUp();return false;" id="ucHomeButtons1_signin" class="OwnerSignInButton">
+    <input type="submit" name="ctl00$ucHomeButtons1$TravelerLogin" value="Traveler" onclick="openPopUpTraveler();return false;" id="ucHomeButtons1_TravelerLogin" class="TravelerLoginButton">
+    
+    
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+                <table cellpadding="0" cellspacing="0" style="width: 940px; height: auto; background-image: url('images/content_bg.png'); background-repeat: repeat">
+                    <tbody><tr>
+                        <td valign="top" class="style9">
+                            <div id="menu-bg">
+                                
+                                <ul>
+                                    <li class="selected"><a href="index.aspx">HOME</a></li>
+                                    <li><a href="Offers.aspx">DEAL &amp; OFFERS </a></li>
+                                    <li><a href="PropertySearchByBNB.aspx?BNB=BAndB">BnB</a></li>
+                                    <li><a href="Blog/HolidayRentalsBlog.aspx">TRAVEL MAGAZINE</a></li>
+                                    <li><a href="Advertise.aspx">ADVERTIZE</a></li>
+                                </ul>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="background-image: url('images/content_bg.png'); background-repeat: repeat; height: 500px" valign="top">
+                            
     <link href="css/SubPage.css" rel="stylesheet" type="text/css">
     <div class="SubPageContainerRounded">
         <div class="subpagetexttop">
@@ -279,41 +469,48 @@ function __doPostBack(eventTarget, eventArgument) {
                 <p><br>
                 Or Write
                 us at - <br>
-                <br>V Dream Solutiod.ns Pvt Ltd
-                <br>C-17 Turner road, Clement town
+                <br>Tripnmate Stays
+                <br>60, Shastri Nagar, 
                 <br>Dehradun, U.K- 248001, India<br><br><br>
-                V Dream Solutions Pvt Ltd 
-                <br>BLK 35, Sandilands Road #13-37 Mandalay Towers
-                          Singapore 546080</p>
                 <br>
-          </div>
+          </p></div>
         </div>
         <div class="subpagetextbottom">
         </div>
     </div>
 
-                    </td>
-                </tr>
-                <tr>
-                    <td style="height: 50px; text-align: center;" bgcolor="#FBC03B">
-                        ALL Right Reserved
-                    </td>
-                </tr>
-            </tbody></table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="height: 50px; text-align: center;" bgcolor="#FBC03B">ALL Right Reserved
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
         </div>
-    </div>
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        <script type="text/javascript">
 
-        ga('create', 'UA-41054199-1', 'tripnmate.com');
-        ga('send', 'pageview');
+            function openPopUpNewListing() {
+                debugger;
+                $('#overlay').fadeIn('slow', function () {
+                    $('.overlay').css('display', 'block');
+                    $('#LoginPopUp').css('display', 'block');
+                    $('#LoginPopUp').fadeIn('slow');
+                });
+                return false;
+            }
 
-    </script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-41054199-1', 'tripnmate.com');
+            ga('send', 'pageview');
+
+        </script>
     </form>
 
 
