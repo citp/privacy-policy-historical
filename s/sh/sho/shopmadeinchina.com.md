@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopmadeinchina.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331054825id_/http%3A//www.shopmadeinchina.com/static/pages/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmadeinchina.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215223215id_/http%3A//www.shopmadeinchina.com/static/pages/privacy_policy.shtml) for the most accurate reproduction.*
 
 # ShopMadeInChina
 
