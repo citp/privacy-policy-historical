@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnblogger.com privacy policy that was archived on 2013-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130201010109id_/http%3A//www.earnblogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnblogger.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215143508id_/http%3A//www.earnblogger.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Earn Blogger
 
