@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jetsetfam.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511193823id_/http%3A//thejetsetfam.com/the-jet-set-family-travel-and-lifestyle/the-jet-set-family-media-kit/the-jetset-family-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetsetfam.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215061537id_/http%3A//jetsetfam.com/the-jet-set-family-travel-and-lifestyle/the-jet-set-family-media-kit/the-jetset-family-disclosure-privacy-policy) for the most accurate reproduction.*
 
-# Policies: Disclosure + Privacy | TheJetSetFamily
+# Disclosure + Privacy Policy | The JetSet Family
 
-**Terms and Conditions**
+## **Terms and Conditions**
 
 **The JetSet Family Disclosure**
 
@@ -16,9 +16,9 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 
 This blog does not contain any content which might present a conflict of interest.
 
-**The JetSet Family Privacy Policy**
+## **The JetSet Family Privacy Policy**
 
-This Privacy Policy governs the manner in which The JetSet Family collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.thejetsetfamily.com](http://www.thejetsetfamily.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The JetSet Family.
+This Privacy Policy governs the manner in which The JetSet Family collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.jetsetfam.com](http://www.thejetsetfamily.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The JetSet Family.
 
 **Personal identification information**
 
@@ -64,6 +64,6 @@ Changes to this privacy policy The JetSet Family has the discretion to update th
 
 Your acceptance of these terms By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-Contacting us If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [The JetSet Family](http://www.thejetsetfamily.com/) [http://www.thejetsetfamily.com](http://www.thejetsetfamily.com/) [info@jetsetfam.com](mailto:info@jetsetfam.com)
+Contacting us If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [The JetSet Family](http://www.thejetsetfamily.com/) [http://www.](http://www.thejetsetfamily.com/)jetsetfam.com  [info@jetsetfam.com](mailto:info@jetsetfam.com)
 
-_This document was last updated on July 05, 2013_
+_This document was last updated on July 01, 2014_
