@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwa.edu.au privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513225243id_/http%3A//www.uwa.edu.au/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwa.edu.au privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215102609id_/http%3A//www.uwa.edu.au/terms) for the most accurate reproduction.*
 
 # Terms of use : The University of Western Australia : The University of Western Australia
 
