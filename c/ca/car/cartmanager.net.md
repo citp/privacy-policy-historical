@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartmanager.net privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601024506id_/http%3A//cartmanager.net/administration/privacypolicy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartmanager.net privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215184707id_/http%3A//www.cartmanager.net/administration/privacypolicy.php3) for the most accurate reproduction.*
 
 # Online Shopping Carts, Shopping Cart Software - Privacy Policy
 
