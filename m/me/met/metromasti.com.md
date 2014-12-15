@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325021749id_/http%3A//www.metromasti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215122226id_/http%3A//www.metromasti.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MetroMasti
 
