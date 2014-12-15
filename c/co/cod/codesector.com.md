@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codesector.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072222id_/http%3A//codesector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesector.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216003517id_/http%3A//codesector.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Code Sector
 
@@ -10,11 +10,12 @@ Code Sector is the sole owner of the information collected on this site. We will
 
 ### Information collected during purchase
 
-When you place an order online with us, we use the online ordering services provided by PayPal and Avangate. Paypal is a respected and trusted Internet credit card merchant and is designed to protect both buyer and seller. You can review Paypal’s Privacy Policy [here](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).
+When you place an order online with us, we use the online ordering services provided by PayPal and Braintree. Paypal is a respected and trusted Internet credit card merchant and is designed to protect both buyer and seller. You can review Paypal’s Privacy Policy [here](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).
 
-Avangate is a trusted e-commerce provider with a solid reputation for professionalism and security. All order forms are secured with powerful SSL (Security Socket Layer) encryption technology. Please feel free to read more about [Avangate's Privacy Policy](http://www.avangate.com/online-payment-solutions/privacy.php).
+Braintree is a division of PayPal, Inc. All order forms are secured with powerful SSL (Security Socket Layer) encryption technology. 
 
-We do not keep credit card information as part of your product registration. We keep information about purchasers in our database (name, email address, mailing address, phone, etc.) to fulfill purchaser request only (lost program, keys, etc.) Code Sector may use purchaser information to send free upgrades, information about lifetime license or special rebates. We will not sell, share, or rent this information to third parties.
+We do not receive credit card information as part of your product registration.  
+Your credit card information securely sent directly from your browser to Braintree servers for processing. Our server keeps purchaser's name and email as a hash string, making it impossible to recover original data. This hash string allows the server to check purchaser's identity and resend a lost license key in the future.
 
 ### Log files
 
