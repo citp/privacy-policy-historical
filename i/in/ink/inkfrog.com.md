@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811203031id_/https%3A//inkfrog.com/index.php/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215051053id_/https%3A//www.inkfrog.com/index.php/about/privacy-policy) for the most accurate reproduction.*
 
 # Free eBay lister and manager - eBay templates, scheduling, automation, shipping, and more
 
