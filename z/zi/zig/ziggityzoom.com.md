@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziggityzoom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160332id_/http%3A//www.ziggityzoom.com/content/ziggity-zoom-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziggityzoom.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215224520id_/http%3A//ziggityzoom.com/content/ziggity-zoom-privacy-statement) for the most accurate reproduction.*
 
 # Ziggity Zoom Privacy Statement | Ziggity Zoom
 
@@ -61,5 +61,17 @@ If you have any questions regarding our privacy policy, please call, email or ma
 ZiggityZoom.com is committed to providing a fun, safe online environment for you and your children. Please note that we will update our privacy policy as needed, so please check back for any changes. We understand that your family's use of this site acknowledges your acceptance of our policy.
 The above privacy policy is effective as of January 30, 2008 and applies to all information collected by ZiggityZoom.com. ZiggityZoom.com reserves the right to change its privacy policy at its sole discretion.
 If our privacy policy changes in regards to how we collect or use personal information, we will contact those parents or guardians whose information is stored with the new or updated privacy policy.
+ 
+Ads on the site.  If you would like to opt-out of information from the ad networks please go to the follow urls.
+<http://burstmedia.com/index.php/company/opt-out> and the Network 
+
+Advertising Initiative opt-out located at <http://www.networkadvertising.org/choices> (and/
+
+or other URL that may be designated by VII, including, without limitation to the DAA opt-out
+
+page located at <http://www.aboutads.info/choices>).
+
+ 
+**Updated October 2014**
 
 
