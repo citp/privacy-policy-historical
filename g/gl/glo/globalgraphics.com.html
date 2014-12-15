@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalgraphics.com privacy policy that was archived on 2014-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140311043110id_/http%3A//www.globalgraphics.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgraphics.com privacy policy that was archived on 2014-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215182510id_/http%3A//www.globalgraphics.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -122,102 +122,6 @@ $(document).ready(function() {
 </style>
 </noscript>
 
-<style type="text/css">
-#RegCCO {
-	text-align: left;
-	font-size: 10px; /*$font-size-small*/
-	font-family: Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular,sans-serif; /*$font-family-default*/
-	bottom: 0;
-	position: fixed;
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  width: 100%;
-	z-index: 999999999;
-}
-
-
-#innerRegCCO {
-	color: #FFFFFF;
-	border: 1px solid #FFFFFF;
-	background-color: #666666;
-	width: 960px;
-	padding: 5px 12px;
-	margin: auto;
-	margin-bottom: 5px;
-	/* This works in IE 8 & 9 too */
-	/* ... but also 5, 6, 7 */
-	filter: alpha(opacity=90);
-	
-	/* Older than Firefox 0.9 */
-	-moz-opacity:0.9;
-	
-	/* Safari 1.x (pre WebKit!) */
-	-khtml-opacity: 0.9;
-    
-	/* Modern!
-	/* Firefox 0.9+, Safari 2?, Chrome any?
-	/* Opera 9+, IE 9+ */
-	opacity: 0.9;
-}
-
-#RegCCO input {
-    background-color: #666666;
-    border: 1px solid #FFFFFF;
-    color: #FFFFFF;
-    float: right;
-    font-weight: bold;
-    padding: 5px 10px;
-}
-
-#RegCCO input:hover {
-    background-color: #333333;
-    cursor: pointer;
-}
-
-#RegCCO p {
-    margin: 0;
-}
-
-#RegCCO a, #RegCCO a:visited {
-    color: #FFFFFF;
-    text-decoration: underline;
-}
-
-</style>
-
-<style>#RegCCO {display: normal;}</style>
-
-<div id="RegCCO">
-	<div id="innerRegCCO">
-	  <form action="/privacy/" method="POST" id="cookie"><input type="submit" value="I'm fine with this [X]" name="cookieconsent"></form>
-	  <p>The Global Graphics web site uses cookies and some may have been set already. <a href="/cookies/" target="_blank">Read about managing our cookies</a>.</p>
-	  <p>Please click the button to accept our cookies. If you continue to use the site, we'll assume you're happy to accept the cookies anyway.</p>
-	</div>
-</div>
-
-<script type="text/javascript">
-  /* attach a submit handler to the form */
-  $("#cookie").submit(function(event) {
-
-    /* stop form from submitting normally */
-    event.preventDefault();
-    
-    /* log consent event - has to be call to server */
-    
-    
-    /* set cookie to EXPLICIT */
-    /* should be easy to identify, and uniquely identify the consent (logged) give */
-    /* perhaps a hash of IP, time/date */
-    
-		$.cookie('cookieconsent', 'explicit', { expires: 365, path: '/', domain: 'globalgraphics.com' });
-		
-		$("#innerRegCCO").fadeOut(700);
-		
-		//alert($.cookie('cookieconsent'));
-  });
-</script>
-
 
 <div id="nonfooter">
   <!-- include header here -->
@@ -227,228 +131,232 @@ $(document).ready(function() {
 			<div id="name">Global Graphics Software</div>
 			<div id="strapline">Software platforms for printing and digital documents</div>
 		</div>
-	  <ul id="utilities">
-			<li><a href="http://www.globalgraphics.co.jp">日本語</a></li>
-			<li><a href="http://www.gdoc.com/">gDoc website</a></li>
-			<li><a href="/support/">Support</a></li>
-			<li><a href="/resources/">Resources</a></li>
-			<li><a href="/investors/">Investors</a> | <a href="/fr/investisseurs/">Investisseurs</a></li>
-			<li><form action="/search/" id="cse-search-box">
-				<input type="hidden" name="cx" value="000154451330821932588:kvntvauahgc">
-				<input type="hidden" name="cof" id="cse-search-cof" value="FORID:10;NB:1">
-				<input type="hidden" name="ie" value="UTF-8">
-				<input type="text" id="qt" name="q" class="field">
-				<input type="submit" name="sa" value="Search" id="button">
-			</form></li>
-		</ul>
-	  <script type="text/javascript">
-	  document.getElementById('cse-search-box').action='/search/';
-	  document.getElementById('cse-search-cof').value='FORID:10;NB:1';
-	  </script>
-	  <!-- include menu here -->
-	  <ul id="menu">
-  <li id="navHome" class="mega"><a class="linked" href="/">Home</a></li><!-- Hide whitespace 
-  --><li id="navTech" class="mega">
-  	<a href="#">Technology</a>
-	  <div class="rollMe">
-			<div class="navFauxColumn fauxTech">
-			  <div class="navColumn tech">
-					<div class="menu-category"><a href="/technology/digital-production-print/">Digital Production print</a></div>
-					<p>Drive high volume digital presses at full speed.</p>
-					<ul>
-					  <li><a href="/technology/rips-dfes-and-controllers/">RIPs, DFEs and controllers</a></li>
-					  <li><a href="/technology/variable-data-printing-and-pdfvt/">Variable data printing and PDF/VT</a></li>
-					  <li><a href="/technology/screening/">Screening</a></li>
-					  <li><a href="/technology/proofing-pre-flight-and-ink-estimation/">Proofing, pre-flight and ink estimation</a></li>
-					  <li><a href="/technology/font-technology/">Font technology</a></li>
-					  <li><a href="/technology/trapping/">Trapping</a></li>
-					  <li><a href="/technology/color-management/">Color management</a></li>
-					  <li><a href="/technology/pdfx/">PDF/X</a></li>
-					</ul>
-			  </div>
-			  <div class="navColumn tech">
-					<div class="menu-category"><a href="/technology/label-printing/">Label printing</a></div>
-					<p>Consistent high quality output for inkjet.</p>
-					<ul>
-					  <li><a href="/technology/label-printing/screening/">Screening</a></li>
-					  <li><a href="/technology/label-printing/color-management/">Color management</a></li>
-					  <li><a href="/technology/variable-data-printing-and-pdfvt/">Variable data printing and PDF/VT</a></li>
-					  <li><a href="/technology/trapping/">Trapping</a></li>
-					</ul>
-			  </div>
-			  <div class="navColumn tech">
-					<div class="menu-category"><a href="/technology/traditional-production-print/">Traditional Production print</a></div>
-					<p>Process PDF, PostScript and XPS natively in one engine.</p>
-					<ul>
-					  <li><a href="/technology/screening/">Screening</a></li>
-					  <li><a href="/technology/font-technology/">Font technology</a></li>
-					  <li><a href="/technology/trapping/">Trapping</a></li>
-					  <li><a href="/technology/color-management/">Color management</a></li>
-					  <li><a href="/technology/pdfx/">PDF/X</a></li>
-					</ul>
-			  </div>
-			  <div class="navColumn tech">
-					<div class="menu-category"><a href="/technology/wide-and-grand-format/">Wide and Grand format</a></div>
-					<p>Compact and configurable software that can be tailored to many rendering 
-					applications.</p>
-					<ul>
-					  <li><a href="/technology/screening/">Screening</a></li>
-					  <li><a href="/technology/color-management/">Color management</a></li>
-					  <li><a href="/technology/font-technology/">Font technology</a></li>
-					  <li><a href="/technology/pdfx/">PDF/X</a></li>
-					  <li><a href="/technology/proofing-pre-flight-and-ink-estimation/">Proofing, pre-flight and ink estimation</a></li>
-					</ul>
-			  </div>
-			  <div class="navColumn tech">
-					<div class="menu-category"><a href="/technology/electronic-documents/">Electronic documents</a></div>
-					<p>Easily integrate multi document functionality into your application or 
-					device.</p>
-					<ul>
-					  <li><a href="/technology/pdf-creation/">PDF creation</a></li>
-					  <li><a href="/technology/knowledge-management/">Knowledge management</a></li>
-					</ul>
-					<div class="menu-category"><a href="/technology/office-print/">Office print</a></div>
-					<p>Highly configurable support for a wide range of controllers and operating systems, SoHo to Enterprise.</p>
-					<ul>
-					  <li><a href="/technology/embedded-solutions/">Embedded solutions</a></li>
-					  <li><a href="/technology/mobile-printing/">Mobile printing</a></li>
-					  <li><a href="/technology/screening/">Screening</a></li>
-					  <li><a href="/technology/font-technology/">Font technology</a></li>
-					</ul>
-			  </div>
-			</div>
-	  </div>
-	</li><!-- Hide whitespace
-	--><li id="navProd" class="mega">
-		<a href="#">Products</a>
-	  <div class="rollMe">
-			<div class="navFauxColumn fauxProd">
-			  <div class="navColumn prod">
-					<div class="menu-category" style="line-height: 36px;"><img alt="harlequin icon" src="/images/menu-harlequin.png" style="float: left; margin-right: 9px;"><a href="/products/harlequin/">Harlequin Digital Hub</a></div>
-					<div style="margin-left: 48px;">
-						<p>Cross-platform, driver-based, embedded and server-based printing solutions 
-						based on a common architecture.</p>
+		<nav>
+			<ul id="utilities">
+				<li><a href="http://www.globalgraphics.co.jp">日本語</a></li>
+				<li><a href="http://www.gdoc.com/">gDoc website</a></li>
+				<li><a href="/support/">Support</a></li>
+				<li><a href="/resources/">Resources</a></li>
+				<li><a href="/investors/">Investors</a> | <a href="/fr/investisseurs/">Investisseurs</a></li>
+				<li><form action="/search/" id="cse-search-box">
+					<input type="hidden" name="cx" value="000154451330821932588:kvntvauahgc">
+					<input type="hidden" name="cof" id="cse-search-cof" value="FORID:10;NB:1">
+					<input type="hidden" name="ie" value="UTF-8">
+					<input type="text" id="qt" name="q" class="field">
+					<input type="submit" name="sa" value="Search" id="button">
+				</form></li>
+			</ul>
+		</nav>
+		<script type="text/javascript">
+		document.getElementById('cse-search-box').action='/search/';
+		document.getElementById('cse-search-cof').value='FORID:10;NB:1';
+		</script>
+		<!-- include menu here -->
+		<nav>
+	<ul id="menu">
+	  <li id="navHome" class="mega"><a class="linked" href="/">Home</a></li><!-- Hide whitespace 
+	  --><li id="navTech" class="mega">
+	  	<a href="#">Technology</a>
+		  <div class="rollMe">
+				<div class="navFauxColumn fauxTech">
+				  <div class="navColumn tech">
+						<div class="menu-category"><a href="/technology/digital-production-print/">Digital Production print</a></div>
+						<p>Drive high volume digital presses at full speed.</p>
 						<ul>
-						  <li><a href="/products/harlequin-host-renderer-sdk/">Host Renderer SDK</a></li>
-						  <li><a href="/products/harlequin-embedded-sdk/">Embedded SDK</a></li>
-						  <li><a href="/products/harlequin-multi-rip/">MultiRIP</a></li>
+						  <li><a href="/technology/rips-dfes-and-controllers/">RIPs, DFEs and controllers</a></li>
+						  <li><a href="/technology/variable-data-printing-and-pdfvt/">Variable data printing and PDF/VT</a></li>
+						  <li><a href="/technology/screening/">Screening</a></li>
+						  <li><a href="/technology/proofing-pre-flight-and-ink-estimation/">Proofing, pre-flight and ink estimation</a></li>
+						  <li><a href="/technology/font-technology/">Font technology</a></li>
+						  <li><a href="/technology/trapping/">Trapping</a></li>
+						  <li><a href="/technology/color-management/">Color management</a></li>
+						  <li><a href="/technology/pdfx/">PDF/X</a></li>
 						</ul>
-					</div>
-			  </div>
-			  <div class="navColumn prod">
-					<div class="menu-category" style="line-height: 36px;"><img alt="jaws icon" src="/images/menu-jaws.png" style="float: left; margin-right: 9px;">Jaws</div>
-					<div style="margin-left: 48px;">
-						<p>A configurable interpreter, designed to run on a wide variety of different 
-						platforms and operating systems.</p>
+				  </div>
+				  <div class="navColumn tech">
+						<div class="menu-category"><a href="/technology/label-printing/">Label printing</a></div>
+						<p>Consistent high quality output for inkjet.</p>
 						<ul>
-						  <li><a href="/products/jaws-pdf-and-postscript-rip-sdk/">PDF and PostScript RIP SDK</a></li>
+						  <li><a href="/technology/label-printing/screening/">Screening</a></li>
+						  <li><a href="/technology/label-printing/color-management/">Color management</a></li>
+						  <li><a href="/technology/variable-data-printing-and-pdfvt/">Variable data printing and PDF/VT</a></li>
+						  <li><a href="/technology/trapping/">Trapping</a></li>
 						</ul>
-					</div>
-			  </div>
-			  <div class="navColumn prod">
-					<div class="menu-category" style="line-height: 36px;"><img alt="gdoc icon" src="/images/menu-gdoc.png" style="float: left; margin-right: 9px;">gDoc</div>
-					<div style="margin-left: 48px;">
-						<p>Easily integrate PDF and multi document functionality into your application or device.</p>
+				  </div>
+				  <div class="navColumn tech">
+						<div class="menu-category"><a href="/technology/traditional-production-print/">Traditional Production print</a></div>
+						<p>Process PDF, PostScript and XPS natively in one engine.</p>
 						<ul>
-						  <li><a href="/products/gdoc-pdf-creator-platform/">PDF Creator platform</a></li>
-						  <li><a href="/products/gdoc-platform/">Platform</a></li>
+						  <li><a href="/technology/screening/">Screening</a></li>
+						  <li><a href="/technology/font-technology/">Font technology</a></li>
+						  <li><a href="/technology/trapping/">Trapping</a></li>
+						  <li><a href="/technology/color-management/">Color management</a></li>
+						  <li><a href="/technology/pdfx/">PDF/X</a></li>
 						</ul>
-					</div>
-			  </div>
-			  <div class="navColumn" style="width: 153px; margin-right: 9px; padding: 8px; border: 1px #aaaaaa solid; background: #ffffff;">
-					<div class="menu-category"><a href="/resources/">Resources</a></div>
-					<p>Select white papers, datasheets and case studies from our resources page.</p>
-			  </div>
-			</div>
-	  </div>
-  </li><!-- Hide whitespace
-		--><li id="navAbout" class="mega">
-		<a href="#">About us</a>
-		<div class="rollMe">
-			<div class="navFauxColumn fauxAboutUs">
-			  <div class="navColumn aboutUs1">
-					<div class="menu-category"><a href="/company/">Company</a></div>
-					<ul>
-					  <li><a href="/company/profile/">Profile</a></li>
-					  <li><a href="/company/history/">History</a></li>
-					  <li><a href="/company/executive-team/">Executive team</a></li>
-					  <li><a href="/company/customers/">Customers</a></li>
-					  <li><a href="/jobs/">Jobs</a></li>
-					</ul>
-			  </div>
-			  <div class="navColumn aboutUs1">
-					<div class="menu-category"><a href="/news/">Newsroom</a></div>
-					<ul>
-					  <li><a href="/news/">News</a></li>
-					  <li><a href="/events/">Events</a></li>
-					  <li><a href="/media-gallery/">Media gallery</a></li>
-					</ul>
-			  </div>
-			  <div class="navColumn aboutUs4">
-					<div class="menu-category"><a href="/investors/">Investors</a> | <a href="/fr/investisseurs/">Investisseurs</a></div>
-					<div class="aboutUs4Inner left">
-						<div>Financial information</div>
-					  <ul>
-							<li><a href="/investors/key-figures/">Key figures</a></li>
-							<li><a href="/investors/press-releases/">Press releases</a></li>
-							<li><a href="/investors/annual-financial-reports/">Annual financial reports</a></li>
-							<li><a href="/investors/calendar/">Financial calendar</a></li>
-					  </ul>
-					</div>
-					<div class="aboutUs4Inner">
-						<div>Shareholders' information</div>
-					  <ul>
-							<li><a href="/investors/annual-shareholders-meeting/">Annual shareholders' meeting</a></li>
-							<li><a href="/investors/company-statutes/">Company statutes</a></li>
-							<li><a href="/investors/shareholdings/">Shareholdings</a></li>
-							<li><a href="/investors/auditors-information/">Auditor's information</a></li>
-							<li><a href="/investors/financial-service/">Financial service</a></li>
-					  </ul>
-					</div>
-					<div class="aboutUs4Inner">
-					  <div>Corporate governance</div>
+				  </div>
+				  <div class="navColumn tech">
+						<div class="menu-category"><a href="/technology/wide-and-grand-format/">Wide and Grand format</a></div>
+						<p>Compact and configurable software that can be tailored to many rendering 
+						applications.</p>
 						<ul>
-							<li><a href="/investors/board-of-directors/">Board of directors</a></li>
-						  <li><a href="/investors/code-of-ethics/">Code of ethics</a></li>
-						  <li><a href="/investors/dealing-code/">Dealing code</a></li>
+						  <li><a href="/technology/screening/">Screening</a></li>
+						  <li><a href="/technology/color-management/">Color management</a></li>
+						  <li><a href="/technology/font-technology/">Font technology</a></li>
+						  <li><a href="/technology/pdfx/">PDF/X</a></li>
+						  <li><a href="/technology/proofing-pre-flight-and-ink-estimation/">Proofing, pre-flight and ink estimation</a></li>
 						</ul>
-					</div>
-				  <div class="navColumn" style="width: 133px; padding: 8px;border : 1px #aaaaaa solid; background: #ffffff;">
+				  </div>
+				  <div class="navColumn tech">
+						<div class="menu-category"><a href="/technology/electronic-documents/">Electronic documents</a></div>
+						<p>Easily integrate multi document functionality into your application or 
+						device.</p>
+						<ul>
+						  <li><a href="/technology/pdf-creation/">PDF creation</a></li>
+						  <li><a href="/technology/knowledge-management/">Knowledge management</a></li>
+						</ul>
+						<div class="menu-category"><a href="/technology/office-print/">Office print</a></div>
+						<p>Highly configurable support for a wide range of controllers and operating systems, SoHo to Enterprise.</p>
+						<ul>
+						  <li><a href="/technology/embedded-solutions/">Embedded solutions</a></li>
+						  <li><a href="/technology/mobile-printing/">Mobile printing</a></li>
+						  <li><a href="/technology/screening/">Screening</a></li>
+						  <li><a href="/technology/font-technology/">Font technology</a></li>
+						</ul>
+				  </div>
+				</div>
+		  </div>
+		</li><!-- Hide whitespace
+		--><li id="navProd" class="mega">
+			<a href="#">Products</a>
+		  <div class="rollMe">
+				<div class="navFauxColumn fauxProd">
+				  <div class="navColumn prod">
+						<div class="menu-category" style="line-height: 36px;"><img alt="harlequin icon" src="/images/menu-harlequin.png" style="float: left; margin-right: 9px;"><a href="/products/harlequin/">Harlequin Digital Hub</a></div>
+						<div style="margin-left: 48px;">
+							<p>Cross-platform, driver-based, embedded and server-based printing solutions 
+							based on a common architecture.</p>
+							<ul>
+							  <li><a href="/products/harlequin-host-renderer-sdk/">Host Renderer SDK</a></li>
+							  <li><a href="/products/harlequin-embedded-sdk/">Embedded SDK</a></li>
+							  <li><a href="/products/harlequin-multi-rip/">MultiRIP</a></li>
+							</ul>
+						</div>
+				  </div>
+				  <div class="navColumn prod">
+						<div class="menu-category" style="line-height: 36px;"><img alt="jaws icon" src="/images/menu-jaws.png" style="float: left; margin-right: 9px;">Jaws</div>
+						<div style="margin-left: 48px;">
+							<p>A configurable interpreter, designed to run on a wide variety of different 
+							platforms and operating systems.</p>
+							<ul>
+							  <li><a href="/products/jaws-pdf-and-postscript-rip-sdk/">PDF and PostScript RIP SDK</a></li>
+							</ul>
+						</div>
+				  </div>
+				  <div class="navColumn prod">
+						<div class="menu-category" style="line-height: 36px;"><img alt="gdoc icon" src="/images/menu-gdoc.png" style="float: left; margin-right: 9px;">gDoc</div>
+						<div style="margin-left: 48px;">
+							<p>Create new enterprise applications <strong>within weeks</strong> and make the move from <strong>paper to digital</strong> effortless.</p>
+							<ul>
+							  <li><a href="/products/gdoc-printer-platform/">gDoc Printer Platform</a></li>
+							  <li><a href="/products/gdoc-application-platform/">gDoc Application Platform</a></li>
+							</ul>
+						</div>
+				  </div>
+				  <div class="navColumn" style="width: 153px; margin-right: 9px; padding: 8px; border: 1px #aaaaaa solid; background: #ffffff;">
 						<div class="menu-category"><a href="/resources/">Resources</a></div>
 						<p>Select white papers, datasheets and case studies from our resources page.</p>
 				  </div>
 				</div>
-			</div>
-		</div>
-  </li><!-- Hide whitespace
-		--><li id="navContact" class="mega">
-		<a class="linked" href="/contact/">Contact us</a>
-	  <div class="rollMe">
-			<div class="navFauxColumn fauxContactUs">
-			  <div class="navColumn contactUs1">
-					<div class="menu-category"><a href="/contact/">Offices</a></div>
-					<p>Global Graphics Software has offices in the United States of America, 
-					Europe and Japan.</p>
+		  </div>
+	  </li><!-- Hide whitespace
+			--><li id="navAbout" class="mega">
+			<a href="#">About us</a>
+			<div class="rollMe">
+				<div class="navFauxColumn fauxAboutUs">
+				  <div class="navColumn aboutUs1">
+						<div class="menu-category"><a href="/company/">Company</a></div>
+						<ul>
+						  <li><a href="/company/profile/">Profile</a></li>
+						  <li><a href="/company/history/">History</a></li>
+						  <li><a href="/company/executive-team/">Executive team</a></li>
+						  <li><a href="/company/customers/">Customers</a></li>
+						  <li><a href="/jobs/">Jobs</a></li>
+						</ul>
+				  </div>
+				  <div class="navColumn aboutUs1">
+						<div class="menu-category"><a href="/news/">Newsroom</a></div>
+						<ul>
+						  <li><a href="/news/">News</a></li>
+						  <li><a href="/events/">Events</a></li>
+						  <li><a href="/media-gallery/">Media gallery</a></li>
+						</ul>
+				  </div>
+				  <div class="navColumn aboutUs4">
+						<div class="menu-category"><a href="/investors/">Investors</a> | <a href="/fr/investisseurs/">Investisseurs</a></div>
+						<div class="aboutUs4Inner left">
+							<div>Financial information</div>
+						  <ul>
+								<li><a href="/investors/key-figures/">Key figures</a></li>
+								<li><a href="/investors/press-releases/">Press releases</a></li>
+								<li><a href="/investors/financial-reports/">Financial reports</a></li>
+								<li><a href="/investors/calendar/">Financial calendar</a></li>
+						  </ul>
+						</div>
+						<div class="aboutUs4Inner">
+							<div>Shareholders' information</div>
+						  <ul>
+								<li><a href="/investors/annual-shareholders-meeting/">Annual shareholders' meeting</a></li>
+								<li><a href="/investors/company-statutes/">Company statutes</a></li>
+								<li><a href="/investors/shareholdings/">Shareholdings</a></li>
+								<li><a href="/investors/auditors-information/">Auditor's information</a></li>
+								<li><a href="/investors/financial-service/">Financial service</a></li>
+						  </ul>
+						</div>
+						<div class="aboutUs4Inner">
+						  <div>Corporate governance</div>
+							<ul>
+								<li><a href="/investors/board-of-directors/">Board of directors</a></li>
+							  <li><a href="/investors/code-of-ethics/">Code of ethics</a></li>
+							  <li><a href="/investors/dealing-code/">Dealing code</a></li>
+							</ul>
+						</div>
+					  <div class="navColumn" style="width: 133px; padding: 8px;border : 1px #aaaaaa solid; background: #ffffff;">
+							<div class="menu-category"><a href="/resources/">Resources</a></div>
+							<p>Select white papers, datasheets and case studies from our resources page.</p>
+					  </div>
+					</div>
 				</div>
-			  <div class="navColumn contactUs1">
-					<div class="menu-category"><a href="/support/">Support</a></div>
-					<p>Technical assistance for OEM and System Integrators.</p>
-			  </div>
-			  <div class="">
-				  <div style="border: solid #aaaaaa 1px; float: left; padding: 8px; width: 273px; margin-right: 9px; background: #ffffff;">
-						<div class="menu-category">Sales</div>
-						You can contact the <a href="mailto:sales@globalgraphics.com">Global Graphics sales group</a> here. 
-				  </div>
-				  <div style="border: solid #aaaaaa 1px; float: left; padding: 8px; width: 273px; margin-right: 9px; background: #ffffff;">
-						<div class="menu-category">Enquiries</div>
-						If you need more information about any of our products or technologies 
-						please <a href="mailto:info@globalgraphics.com">get in touch with one of our experts</a>.
-				  </div>
-			  </div>
 			</div>
-	  </div>
-  </li>
-</ul>
+	  </li><!-- Hide whitespace
+			--><li id="navContact" class="mega">
+			<a class="linked" href="/contact/">Contact us</a>
+		  <div class="rollMe">
+				<div class="navFauxColumn fauxContactUs">
+				  <div class="navColumn contactUs1">
+						<div class="menu-category"><a href="/contact/">Offices</a></div>
+						<p>Global Graphics Software has offices in the United States of America, 
+						Europe and Japan.</p>
+					</div>
+				  <div class="navColumn contactUs1">
+						<div class="menu-category"><a href="/support/">Support</a></div>
+						<p>Technical assistance for OEM and System Integrators.</p>
+				  </div>
+				  <div class="">
+					  <div style="border: solid #aaaaaa 1px; float: left; padding: 8px; width: 273px; margin-right: 9px; background: #ffffff;">
+							<div class="menu-category">Sales</div>
+							You can contact the <a href="mailto:sales@globalgraphics.com">Global Graphics sales group</a> here. 
+					  </div>
+					  <div style="border: solid #aaaaaa 1px; float: left; padding: 8px; width: 273px; margin-right: 9px; background: #ffffff;">
+							<div class="menu-category">Enquiries</div>
+							If you need more information about any of our products or technologies 
+							please <a href="mailto:info@globalgraphics.com">get in touch with one of our experts</a>.
+					  </div>
+				  </div>
+				</div>
+		  </div>
+	  </li>
+	</ul>
+</nav>
 	</div>
 </div>
 	<div id="content">
@@ -530,6 +438,105 @@ $(document).ready(function() {
 			</div>
 		</div>
 	</div>
+
+<style type="text/css">
+#RegCCO {
+	text-align: left;
+	font-size: 10px; /*$font-size-small*/
+	font-family: Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular,sans-serif; /*$font-family-default*/
+	bottom: 0;
+	position: fixed;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	width: 100%;
+	/*z-index: 999999999;*/
+}
+
+
+#innerRegCCO {
+	color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+	background-color: #666666;
+	width: 960px;
+	padding: 5px 12px;
+	margin: auto;
+	margin-bottom: 5px;
+	/* This works in IE 8 & 9 too */
+	/* ... but also 5, 6, 7 */
+	filter: alpha(opacity=90);
+	
+	/* Older than Firefox 0.9 */
+	-moz-opacity:0.9;
+	
+	/* Safari 1.x (pre WebKit!) */
+	-khtml-opacity: 0.9;
+    
+	/* Modern!
+	/* Firefox 0.9+, Safari 2?, Chrome any?
+	/* Opera 9+, IE 9+ */
+	opacity: 0.9;
+}
+
+#RegCCO input {
+    background-color: #666666;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    float: right;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+#RegCCO input:hover {
+    background-color: #333333;
+    cursor: pointer;
+}
+
+#RegCCO p {
+    margin: 0;
+}
+
+#RegCCO a, #RegCCO a:visited {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+</style>
+
+<style>#RegCCO {display: block;}</style>
+<aside>
+	<div id="RegCCO">
+		<div id="innerRegCCO">
+			<form action="/privacy/" method="POST" id="cookie"><input type="submit" value="I'm fine with this [X]" name="cookieconsent"></form>
+			<p>The Global Graphics web site uses cookies and some may have been set already. <a href="/cookies/" target="_blank">Read about managing our cookies</a>.</p>
+			<p>Please click the button to accept our cookies. If you continue to use the site, we'll assume you're happy to accept the cookies anyway.</p>
+		</div>
+	</div>
+</aside>
+
+<script type="text/javascript">
+  /* attach a submit handler to the form */
+  $("#cookie").submit(function(event) {
+
+    /* stop form from submitting normally */
+    event.preventDefault();
+    
+    /* log consent event - has to be call to server */
+    
+    
+    /* set cookie to EXPLICIT */
+    /* should be easy to identify, and uniquely identify the consent (logged) give */
+    /* perhaps a hash of IP, time/date */
+    
+		$.cookie('cookieconsent', 'explicit', { expires: 365, path: '/', domain: 'globalgraphics.com' });
+		
+		$("#innerRegCCO").fadeOut(700);
+		
+		//alert($.cookie('cookieconsent'));
+  });
+</script>
+
+
 
 
 </body></html>
