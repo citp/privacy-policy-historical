@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maxthon.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626210342id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxthon.com privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216002352id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -32,13 +32,48 @@
     <nav id="top-nav">
         <ul id="top-nav-menu">
             <li><a href="/?lang" id="nav-index">Home</a></li>
-            <li><a href="/?lang#product" id="nav-product">Product</a></li>
-            <li><a href="http://my.maxthon.cn/" target="_blank">Maxthon Passport</a></li>
+                            <li class="has-submenu">
+                    <a href="/?lang#product" id="nav-product">Product</a>
+                    <ul>
+                        <li><a href="http://i.maxthon.com/" target="_blank"></a></li>
+                    </ul>
+                </li>
+                        <li><a href="http://my.maxthon.cn/" target="_blank">Maxthon Passport</a></li>
             <li><a href="http://forum.maxthon.com/" id="nav-community">Community</a></li>
             <li><a href="/about-us" id="nav-about" class="current">About</a></li>
-        </ul>
+            <li><a href="http://usa.maxthon.com/support?utm_source=mainweb&amp;utm_medium=tab&amp;utm_campaign=helplink4" id="nav-support"></a></li>        </ul>
     </nav>
 </div>
+<script>
+    (function () {
+        var topNavLinks = $('#top-nav a');
+        var subMenuTarget = $('#top-nav .has-submenu > a');
+        subMenuTarget.each(function (i, target) {
+            target = $(target);
+            var menu = target.next();
+            var displayTimer;
+            target.hover(function (e) {
+            target.parent().css('position', 'relative'); // to fix ie6 position bug
+                clearTimeout(displayTimer);
+                target.addClass('current');
+                menu.addClass('hover');
+            }, function (e) {
+                displayTimer = setTimeout(function () {
+                    menu.removeClass('current');
+                    target.removeClass('hover');
+                }, 300);
+            });
+            menu.hover(function (e) {
+                clearTimeout(displayTimer);
+            }, function (e) {
+                displayTimer = setTimeout(function () {
+                    menu.removeClass('hover');
+                    target.removeClass('hover');
+                }, 300);
+            });
+        });
+    })();
+</script>
 <nav id="sub-nav">
     <ul id="sub-nav-community">
         <li><a href="http://forum.maxthon.com/" target="_blank">Maxthon Forum</a></li>
@@ -160,7 +195,7 @@
                 <a href="/press">Press</a><br>
                 <a href="/contact">Contact Us</a><br>
                 <a href="/privacy">Privacy Policy</a><br>
-            </div>
+                <a href="http://usa.maxthon.com/support?utm_source=mainweb&amp;utm_medium=tab&amp;utm_campaign=helplink4"></a>            </div>
         </nav>
         <div id="lang">
             <a class="country" href="#">
@@ -169,17 +204,22 @@
                 <img src="/images/arrow-down.png" data-retina="true" width="7" height="7">
             </a>
             <ul class="all-languages">
-                <li><a href="http://www.maxthon.cn/" title="Chinese">简体中文</a></li>
-                <li><a href="http://www.maxthon.com/?lang" title="English">English</a></li>
+                <li><a href="http://cs.maxthon.com/" title="Čeština">Čeština</a></li>
                 <li><a href="http://de.maxthon.com/" title="Deutsch">Deutsch</a></li>
+                <li><a href="http://www.maxthon.com/?lang" title="English">English</a></li>
+                <li><a href="http://www.maxthon.cn/" title="Chinese">简体中文</a></li>
+                <li><a href="http://es.maxthon.com/" title="Español">Español</a></li>
+                <li><a href="http://eu.maxthon.com/" title="Euskara">Euskara</a></li>
+                <li><a href="http://ar.maxthon.com/" title="العربية">العربية</a></li>
                 <li><a href="http://fr.maxthon.com/" title="Française">Française</a></li>
                 <li><a href="http://it.maxthon.com/" title="Italiano">Italiano</a></li>
-                <li><a href="http://es.maxthon.com/" title="Español">Español</a></li>
+                <li><a href="http://hu.maxthon.com/" title="Magyar">Magyar</a></li>
+                <li><a href="http://no.maxthon.com/" title="Norsk">Norsk</a></li>
                 <li><a href="http://ru.maxthon.com/" title="Русский">Русский</a></li>
                 <li><a href="http://tr.maxthon.com/" title="Türkçe">Türkçe</a></li>
-                <li><a href="http://cs.maxthon.com/" title="Čeština">Čeština</a></li>
-                <li><a href="http://eu.maxthon.com/" title="Euskara">Euskara</a></li>
-                <li><a href="http://hu.maxthon.com/" title="Magyar">Magyar</a></li>
+                <li><a href="http://vec.maxthon.com/" title="Vèneto">Vèneto</a></li>
+                <li><a href="http://ka.maxthon.com/" title="ქართული">ქართული</a></li>
+                <li><a href="http://bn.maxthon.com/" title="বাংলা">বাংলা</a></li>
                 <!--
                     <li><a href="http://pl.maxthon.com/" title="Polska" target="_blank">Polska</a></li>
                 -->
