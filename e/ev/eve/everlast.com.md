@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everlast.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824072700id_/http%3A//www.everlast.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everlast.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215024733id_/http%3A//www.everlast.com/privacypolicy) for the most accurate reproduction.*
 
 # 
 
@@ -65,9 +65,8 @@ From time to time, we may share your information, including, without limitation,
 
 You can also contact us via postal mail regarding any of the above by writing to:
 
-Everlast Worldwide   
-Attn: Customer Service   
-1900 HWY DD   
+Everlast Customer Service  
+1900 Highway DD   
 Moberly, MO 65270
 
 Or you may contact us by phone at 800-821-7930, Monday-Friday, 8 am - 5 pm CST
@@ -99,9 +98,8 @@ If you want to change your postal or email address, please send an email to [inf
 
 You will receive an email confirmation that your request has been received and processed. You can also contact us via postal mail regarding any of the above by writing to:
 
-Everlast Worldwide   
-Attn: Customer Service   
-1900 HWY DD   
+Everlast Customer Service  
+1900 Highway DD   
 Moberly, MO 65270
 
 Or you may contact us by phone at 800-821-7930, Monday-Friday, 8 am - 5 pm CST.
@@ -142,9 +140,8 @@ SDI collects various types of personal information about you both online and off
 
 To make such a request, please write to us at the following address:
 
-Everlast Worldwide   
-Attn: Customer Service   
-1900 HWY DD   
+Everlast Customer Service  
+1900 Highway DD   
 Moberly, MO 65270
 
 Alternatively, you may send us an email at [info@everlast.com](mailto:info@everlast.com) with the words "California Privacy Rights" in the subject line.
@@ -182,10 +179,10 @@ By phone: 800-821-7930, Monday-Friday, 8 am - 5 pm CST
 
 By fax: 800-480-0348
 
-By mail:   
-Everlast Worldwide   
-Attn: Customer Service   
-1900 HWY DD   
+By mail:
+
+Everlast Customer Service  
+1900 Highway DD   
 Moberly, MO 65270
 
 Effective as of 10/01/2009.
