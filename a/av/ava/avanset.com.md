@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avanset.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213221454id_/http%3A//www.avanset.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avanset.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215062927id_/http%3A//www.avanset.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Company - Avanset
+# Avanset | Leader in VCE Software | Privacy Policy
 
 Avanset has established this Online Privacy Policy to help you understand how we intend to treat your Personal Information. We are committed to respecting your online privacy and recognize the need for appropriate protection and management of personal identification information ("Personal Information") you share with us.
 
