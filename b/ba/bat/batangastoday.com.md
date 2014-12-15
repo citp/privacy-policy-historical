@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batangastoday.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628164440id_/http%3A//www.batangastoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batangastoday.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215122041id_/http%3A//www.batangastoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Batangas Today: Privacy Policy
 
