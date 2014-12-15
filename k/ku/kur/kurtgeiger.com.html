@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the kurtgeiger.com privacy policy that was archived on 2014-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140616161543id_/http%3A//www.kurtgeiger.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kurtgeiger.com privacy policy that was archived on 2014-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215051354id_/http%3A//www.kurtgeiger.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//s.btstatic.com/tag.js#site=ewz6mRP"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEEUVRUGwEAU1hUDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//s.btstatic.com/tag.js#site=ewz6mRP"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEEUVRUGwEAU1hUDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <title>Kurt Geiger |  Cookies &amp; Privacy</title>
 <meta name="description" content="Your one stop destination to see you stylishly through this season. Shop for shoes &amp; accessories from designer brands Carvela, KG Kurt Geiger &amp; more.">
 <meta name="robots" content="INDEX,FOLLOW">
@@ -20,35 +21,36 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/styles.css?v=b41fbb3c62821ab029b1043e919bd06f" media="all">
-<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/widgets.css?v=b41fbb3c62821ab029b1043e919bd06f" media="all">
-<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/print.css?v=b41fbb3c62821ab029b1043e919bd06f" media="print">
-<script type="text/javascript" src="http://static.kurtgeiger.com/js/prototype/proto-licious.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/js/lib/ccard.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/js/varien/js.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/js/varien/form.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/js/varien/menu.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/js/mage/translate.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/js/mage/cookies.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/scripts.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/modernizer.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/lightwindow.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/attribute-select.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/factfinder/jXHR.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/factfinder/suggest.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/siteswitcher.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/enterprise/catalogevent.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/enterprise/wishlist.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
+<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/styles.css?v=035ea76473720cfe4208097e8cb32e24" media="all">
+<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/widgets.css?v=035ea76473720cfe4208097e8cb32e24" media="all">
+<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/print.css?v=035ea76473720cfe4208097e8cb32e24" media="print">
+<script type="text/javascript" src="http://static.kurtgeiger.com/js/prototype/proto-licious.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/js/lib/ccard.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/js/varien/js.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/js/varien/form.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/js/jsoverride/menu.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/js/mage/translate.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/js/mage/cookies.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/scripts.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/modernizer.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/lightwindow.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/attribute-select.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/factfinder/jXHR.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/factfinder/suggest.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/siteswitcher.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/enterprise/catalogevent.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/enterprise/wishlist.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/js/jsoverride/base.js?v=035ea76473720cfe4208097e8cb32e24" name="js002_second"></script>
 <link href="http://www.kurtgeiger.com/blog/rss/index/store_id/1/" title="Blog" rel="alternate" type="application/rss+xml">
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/styles-ie.css?v=b41fbb3c62821ab029b1043e919bd06f" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/styles-ie.css?v=035ea76473720cfe4208097e8cb32e24" media="all" />
 <![endif]-->
 <!--[if IE 6]>
-<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/styles-ie6.css?v=b41fbb3c62821ab029b1043e919bd06f" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/css/styles-ie6.css?v=035ea76473720cfe4208097e8cb32e24" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://static.kurtgeiger.com/js/lib/ds-sleight.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
-<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/iehover-fix.js?v=b41fbb3c62821ab029b1043e919bd06f"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/js/lib/ds-sleight.js?v=035ea76473720cfe4208097e8cb32e24"></script>
+<script type="text/javascript" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/js/iehover-fix.js?v=035ea76473720cfe4208097e8cb32e24"></script>
 <![endif]-->
 <!-- Begin Hunt code -->
 <script src="https://international.kurtgeiger.com/assets/hunt-prototype.js"></script>
@@ -105,10 +107,10 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 			You must have JavaScript enabled in your browser to utilize the functionality of this website.		</p>
 	</div>
 </div>
-<div id="siteswitcher-banner" style="display: none;"></div><header>
+<div id="siteswitcher-banner" style="display: none;"></div><header class="dt">
 	<div class="inner-wrap">
-		<a href="http://www.kurtgeiger.com/" title="Kurt Geiger" id="logo" class="hide-text">Kurt Geiger</a>
-		<div id="skiptocontent">
+    		<a href="http://www.kurtgeiger.com/" title="Kurt Geiger" id="logo" class="hide-text">Kurt Geiger</a>
+			<div id="skiptocontent">
 			<a href="#search">Skip Navigation</a>
 		</div>
 				<ul class="nav-dropdown" id="nav-dropdown">
@@ -134,14 +136,14 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 			<div class="inner">
 				<h2>Customer Care</h2>
 				<p>Our Customer Service team are available 7 days a week.</p>
-				
-				<p><span class="phone-no">+44 (0) 845 257 2571</span></p>
-				<p><a class="special-price" href="mailto:customerservice@kurtgeiger.com">customerservice@kurtgeiger.com</a></p>
+				<a class="livechat hide" href="#" onclick="vee24.api.helpMe();return false;"><img src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/images/livechat.png" alt="Live chat"></a>
+				<p><span class="phone-no">+44 (0) 207 781 7480</span></p>
+				<p><a class="special-price" href="mailto:customerservice@kurtgeiger.com"><!--mp_trans_disable_start-->customerservice@kurtgeiger.com<!--mp_trans_disable_end--></a></p>
 				<p><strong>Customer Services Opening Hours (UK Time)</strong></p>
-				<p>Monday - Friday: 9am-8pm<br>
-				Saturday: 10am-5pm<br>
-				Sunday: 11am - 5pm<br>
-				Bank Holidays: 11am-5pm</p>
+				<p>Monday - Friday: <!--mp_trans_disable_start-->9am-8pm<!--mp_trans_disable_end--><br>
+				Saturday: <!--mp_trans_disable_start-->10am-5pm<!--mp_trans_disable_end--><br>
+				Sunday: <!--mp_trans_disable_start-->11am - 5pm<!--mp_trans_disable_end--><br>
+				Bank Holidays: <!--mp_trans_disable_start-->11am-5pm<!--mp_trans_disable_end--></p>
 				<!-- END ON CMS BLOCK -->
 	            <a href="http://www.kurtgeiger.com/customer-services/contact-us" title="Contact Us - Kurt Geiger | Contact Us" class=" btn-rounded btn-primary-cta customer-service-portal"><span><span>Contact Us</span></span></a>
 	        </div>
@@ -153,6 +155,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
     <div class="dropdown signin hide col2-set">
 	  <div class="half-drop col-1">
         <form class="login-form" action="https://www.kurtgeiger.com/customer/account/loginPost" method="post" id="header-login-form">
+            <input name="form_key" type="hidden" value="rx4aDUEabJPknnkX">
             <div class="inner clearfix">
                 <h2>Sign in as a registered customer</h2>
                 <label for="header-email">Email Address</label>
@@ -181,7 +184,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
     </div>
 </li>
 			
-			<li id="siteswitcherMenuItem" class="item"><!--{SITESWITCHER_COUNTRIES_5f6ad82d879ec27e444ffccec8bd1d3f}--><a href="javascript:void(0)" class="dropdown-trigger" id="siteswitcher-selected"><span class="icon-United-Kingdom_x16 icon-country_x16 siteswitcher-flag"></span><span class="country-label">UK</span></a>
+			<li id="siteswitcherMenuItem" class="item"><!--{SITESWITCHER_COUNTRIES_4d8d0eca85f31ee1151b5a112c32fd42}--><a href="javascript:void(0)" class="dropdown-trigger" id="siteswitcher-selected"><span class="icon-United-Kingdom_x16 icon-country_x16 siteswitcher-flag"></span><span class="country-label">UK</span></a>
 	<div id="country-dropdown" class="dropdown col2-set hide">
 		<div class="half-drop col-1">
 			<div class="inner">				
@@ -206,21 +209,23 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
             	</tbody></table>
             				<h2>We deliver to over 60 countries worldwide</h2>
 				<p>Choose your country from the list opposite in order to see the correct pricing, delivery times and costs.</p>
-				<p><small>Please note: Any items in your bag may be removed when you change your delivery country. Prices will change accordingly in certain countries where we sell in local currencies.</small></p>
+				<p><small><strong>Please note:</strong> Any items in your bag may be removed when you change your delivery country. Prices will change accordingly in certain countries where we sell in local currencies.</small></p>
 				<a class="special-price customer-service-portal" href="http://www.kurtgeiger.com/customer-services/delivery-and-services/">Find out more</a>
 			</div>
 		</div>
 		<div class="col-1"> 
 			<div class="inner">
 				<div class="delivery-destination-border">
-					<div class="delivery-destination" id="countryContainerSelected">
-						<h2>Your Country</h2>
+					
+					
+					<div class="delivery-destination tab tab-active" id="countryContainerSelected">
+						<h2>Your Country <span>(UK)</span></h2>
 						<span class="icon" data-icon=""></span>
 						<form><input id="delivery-destination" class="input-text" type="search" placeholder="Search for your country" autocomplete="off"></form>
 						<div><span class="icon-United-Kingdom icon-country_x10 siteswitcher-flag"></span><span class="country-name">United Kingdom</span><span class="tick"></span></div>
 					</div>
 					<div class="country-container" id="countryContainer">
-						<div>					
+						<div>
 							<ul>
 																								<li data-country="AR" data-alt="AR "><a href="http://www.kurtgeiger.com/siteswitcher/switch/country/code/AR/"><span class="icon-Argentina icon-country_x10"></span><span class="country-name">Argentina</span><span class="hollow-arrow "></span></a></li>
 																								<li data-country="AU" data-alt="AU "><a href="http://www.kurtgeiger.com/siteswitcher/switch/country/code/AU/"><span class="icon-Australia icon-country_x10"></span><span class="country-name">Australia</span><span class="hollow-arrow "></span></a></li>
@@ -292,17 +297,84 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 															</ul>
 						</div>
 						<p id="no-results" class="hidden">No results found</p>
+					</div>					
+					
+					<div class="delivery-destination tab tab-language" id="tab-language">
+						<h2>Your Language <span>
+						(English)</span>
+					</h2>
 					</div>
+					<div class="language-container" style="display: none;">
+						<div>					
+							<ul class="your-language">
+								<!-- <li class="" onClick="return switchLanguage('uk');">English</li>
+								<li class="" onClick="return switchLanguage('fr');">French</li>
+								<li class="" onClick="return switchLanguage('de');">German</li> -->
+								
+								<li class="selected"><a href="http://www.kurtgeiger.com">English</a></li>
+								<li class=""><a href="http://www.kurtgeiger.fr">French</a></li>
+								<li class=""><a href="http://www.kurtgeiger.de">German</a></li>
+							</ul>
+							
+							<p><small><strong>Please note:</strong> Any items in your bag may be removed when you change your delivery country. Prices will change accordingly in certain countries where we sell in local currencies.</small></p>
+						</div>
+					</div>
+
+					<script type="text/javascript">
+					//<![CDATA[
+							
+						var hideLanguageTabs = {
+							init: function() {
+								$('tab-language').hide();
+							}
+						};
+						
+						//tab swapping						
+						var languageTabs = {
+							init: function() {
+								
+								$$('.delivery-destination h2').invoke('observe', 'click', function(event){
+									var element = Event.element(event);
+									if (!element.up('div').hasClassName('tab-active')) {
+										$$('.delivery-destination').each(function(el){
+											el.removeClassName('tab-active');
+											if(el.next(0)){
+												el.next(0).hide();	
+											}
+										})
+										
+										element.up('div').addClassName('tab-active');
+										if(element.up('div').next(0)){
+											element.up('div').next(0).show();
+										}
+									}
+								})
+								
+								$$('.your-language li').invoke('observe', 'click', function(event){								
+									event.toElement.addClassName('pressed-li');
+								});
+							}
+						};
+						
+						document.observe("dom:loaded", function() {
+							
+							languageTabs.init();
+							
+						});
+					//]]>
+					</script>
+					
 				</div>
 				<a href="http://www.kurtgeiger.com/customer-services/delivery-and-services/" class="special-price customer-service-portal">Can’t find your country?</a>
 			</div>
 		</div>
 	</div>	
-	<!--/{SITESWITCHER_COUNTRIES_5f6ad82d879ec27e444ffccec8bd1d3f}--></li>			<!--{CART_SIDEBAR_66b2507bafc3a732d1fda05573b068ac}-->
+	<!--/{SITESWITCHER_COUNTRIES_4d8d0eca85f31ee1151b5a112c32fd42}--></li>			<!--{CART_SIDEBAR_38dc2c0e1555173b4feec9703fb59cc9}-->
 
-<li class="top-cart">
+<li class="item top-cart">
 
-        <div class="block-title no-items">
+
+    <div class="block-title no-items">
         <a id="cartHeader" class="my-bag-link" href="http://www.kurtgeiger.com/checkout/cart/">
             <p><span class="bag">0</span>My Bag</p>        </a>
     </div><!-- end of block-title with with items -->
@@ -313,7 +385,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 <p>Kurt Geiger offer a variety of delivery methods to suit your preference.</p>                                <h2>Click &amp; Collect</h2>
                 <p>Kurt Geiger is pleased to offer a new <span class="special-price">FREE</span> delivery service Click &amp; Collect, available in Kurt Geiger stand alone stores.</p>
                                 <h2>Free Returns</h2>
-<p>Returns are free for all UK Customers.</p>                <ul class="payment-method-icons hide-text payment-icons-large clearfix payment-two-rows">
+<p>Returns are free for all UK Customers.</p>                <!--mp_trans_disable_start--><ul class="payment-method-icons hide-text payment-icons-large clearfix payment-two-rows">
         <li class="american-express">American Express</li>
         <li class="visa">Visa</li>
         <li class="mastercard">MasterCard</li>
@@ -322,7 +394,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
         <li class="ssl-secure-card">SSL Secure Global Sign</li>
     <li class="verified-by-visa">Verified by Visa</li>
     <li class="mastercard-secure-code">MasterCard SecureCode</li>
-</ul>                </div>
+</ul>    <!--mp_trans_disable_end-->            </div>
         </div>
         <div class="wide">
             <div class="inner">
@@ -351,282 +423,456 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
     </script>
 
 </li>
-<!--/{CART_SIDEBAR_66b2507bafc3a732d1fda05573b068ac}-->		</ul>
+<!--/{CART_SIDEBAR_38dc2c0e1555173b4feec9703fb59cc9}-->		</ul>
 		
 	</div><!-- end of inner-wrap --> 
 </header><!-- end of header -->
 
-<div class="hide">Cached page from: 16-06-2014 16:15:18</div>
+<div class="hide">Cached page from: 15-12-2014 05:14:32</div>
 
 <div id="highlightCode" class="hide"></div>
 
-<nav class="primary-nav" id="header">
+<nav class="primary-nav uk-nav" id="header">
 	<div class="inner-wrap">
+		
 		<ul id="nav">
-			<li class="level-top parent women"><a class="level-top" href="/women.html"> <span>Women</span> </a>
-				<div class="sub-nav-container women">
-					<div class="inner">
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/women/shoes.html">Shoes</a></li>
-							<li><a href="/women/shoes/sandals.html">Sandals</a></li>
-							<li><a href="/women/shoes/courts.html">Courts</a></li>
-							<li><a href="/women/shoes/occasion.html">Occasion</a></li>
-							<li><a href="/women/shoes/boots.html">Boots</a></li>
-							<li><a href="/women/shoes/flats.html">Flats</a></li>
-							<li><a href="/women/shoes/wedges.html">Wedges</a></li>
-							<li><a href="/women/shoes/platforms.html">Platforms</a></li>
-							<li><a href="/women/shoes/trainers.html">Trainers</a></li>
-						</ul>
-					      <!-- end of sub-nav -->
-						<ul class="sub-nav">
-                            <li class="highlight-bold"><a href="/be-inspired/shop-by-size">Shop by</a></li>
-                            <li><a href="/be-inspired/shop-by-size">Shop by Size</a></li>
-                            <li><a href="/be-inspired/shop-by-brand#women">Shop by Brand</a></li>
-                            <li><a href="/women/best-sellers.html">Bestsellers</a></li>
-                            <li><a href="/kurt-geiger-london-limited-edition-womens-shoes.html">Online Exclusives</a></li>
-                            <li><a href="/womens-back-in-stock.html">Back in Stock</a></li>
-                            <li><a href="/britton-and-the-b-series.html">B Series Collection</a></li>
-                            <li><a href="/women.html?shop_by=sort_by%7CSale">Shop Sale</a></li>
-                            							<li><a href="/gift-cards">Gift Cards</a></li>
-													</ul>
-						<!-- end of sub-nav -->
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/women.html">New This Week</a></li>
-                            <li><a href="/women.html?shop_by=sort_by%7CNew+In">New In</a></li>
-							<li><a href="/women/shoes-promotion/carvela-kurt-geiger.html">Carvela New Season Offers</a></li>
-                            <li><a href="/women/summer-holiday-shop.html?limit=120">Holiday Shop</a></li>
-							<li><a href="/women-pool-slide-sandals.html">Footbed Sandals</a></li>
-                            <li><a href="/women-occasion-evening-wear.html">Summer Event Styles</a></li>
-                            <li><a href="/women/mid-heel-shoes.html">Mid Heels</a></li>
-                            <li><a href="/women/high-heels.html">High Heels</a></li>
-							<li><a href="/women/shoes/sandals/flip-flops.html">Flip Flops</a></li>
-						</ul>
-						<div class="sub-nav-banner banner-block">
-                            <!--  Womens top nav drop down -->
-<span class="banner-blocks banner-block-one">
-    <a title="Super Sandals - Shop Now" href="/women/shoes/sandals/flats.html">Super Sandals - Be sunshine ready with our edit of must-have flat sandals - Shop Now</a>
-</span>						</div><!-- sub-nav-banner -->
-						<ul class="sub-nav-footer">
-							<li class="first"><a href="/women/shoes.html">Shop all Styles</a></li>
-							<li><a href="/be-inspired/shop-by-brand">View Brand A-Z</a></li>
-							<li class="last"><a href="/women.html?shop_by=sort_by%7CNew+In">Shop New In</a></li>
-						</ul>
-					</div>
+	<li class="level-top parent women"><a class="level-top" href="/women.html"> <span>Women</span> </a>
+		<div class="sub-nav-container women">
+			<div class="inner">
+				
+				<ul class="sub-nav show-au">
+					<li class="highlight-bold"><a href="/women/shoes.html">Shoes</a></li>
+					<li><a href="/women/shoes/sandals.html">Sandals</a></li>
+					<li><a href="/women/shoes/courts.html">Courts</a></li>
+					<li><a href="/women/shoes/occasion-party-shoes.html">Occasion</a></li>
+					<li><a href="/women/shoes/boots.html">Boots</a></li>
+					<li><a href="/women/shoes/flats.html">Flats</a></li>
+					<li><a href="/women/shoes/wedges.html">Wedges</a></li>
+					<li><a href="/women/shoes/platforms.html">Platforms</a></li>					
+					<li><a href="/women/shoes/trainers.html">Trainers</a></li>
+					<li><a href="/bags-accessories/accessories/slippers.html">Slippers</a></li>
+				</ul>
+				
+				<ul class="sub-nav show-uk show-eu show-us">
+					<li class="highlight-bold"><a href="/women/shoes.html">Shoes</a></li>
+					<li><a href="/women/shoes/boots.html">Boots</a></li>
+					<li><a href="/women/shoes/flats.html">Flats</a></li>
+					
+					<li class="show-uk show-eu"><a href="/women/shoes/courts.html">Courts</a></li>
+					<li class="show-us"><a href="/women/shoes/pumps.html">Pumps</a></li>
+					
+					<li><a href="/women/shoes/occasion-party-shoes.html">Occasion</a></li>
+					<li><a href="/women/shoes/sandals.html">Sandals</a></li>
+					<li><a href="/women/shoes/wedges.html">Wedges</a></li>
+					<li><a href="/women/shoes/platforms.html">Platforms</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/women/shoes/trainers.html">Trainers</a></li>
+					<li class="show-us"><a href="/women/shoes/sneakers.html">Sneakers</a></li>
+					<li><a href="/bags-accessories/accessories/slippers.html">Slippers</a></li>
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/women/shoes/boots.html">Boots</a></li>
+					<li><a href="/women/shoes/boots/knee-boot.html">Knee High Boots</a></li>
+					<li><a href="/women/shoes/boots/over-the-knee-boots.html">Over The Knee Boots</a></li>
+					<li><a href="/women/shoes/boots/flat.html">Flat Boots</a></li>
+					<li><a href="/women/shoes/boots/ankle.html">Ankle Boots</a></li>					
+					<li><a href="/women/shoes/boots/chelsea-boots.html">Chelsea Boots</a></li>
+					<li><a href="/women/shoes/boots/shoe-boot.html">Shoe Boots</a></li>
+					<li><a href="/women/shoes/boots/wedges.html">Wedge Boots</a></li>
+					<li><a href="/women/shoes/boots/ugg-boots.html">UGG Boots</a></li>
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/women.html">New This Week</a></li>
+					<li><a href="/women.html?shop_by=sort_by%7CNew+In">New In</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/women/shoes-promotion.html">New Season Offers</a></li>
+					
+					<li class="text-red show-uk"><a href="/christmas-gift-ideas-guide.html">Gift Guide</a></li>
+					
+					<li class="show-uk show-eu show-us"><a href="/aw14/ladies-autumn-winter-boots-guide.html">Boots Guide</a></li>
+					
+					<li><a href="/women/bond-britton-heels-pouches.html">Britton &amp; Bond</a></li>
+					<li><a href="/bags-accessories/saffiano-leather.html">Saffiano Collection</a></li>
+
+					<li><a href="/celebrities-wearing-kurtgeiger.html">Celebrity Favourites</a></li>
+					
+					<li class="show-uk show-eu show-us"><a href="/women-occasion-evening-wear.html">Winter Wedding</a></li>
+					
+					<li class="show-au"><a href="/women/shoes/flats/sandals.html">Flat Sandals</a></li>
+					
+					<li class="show-au show-us"><a href="/bags-accessories/bags.html?limit=120&amp;shop_by=sort_by%7CNew+In">Bag Collection</a></li>
+				</ul>
+		
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/be-inspired/shop-by-size">Shop by</a></li>
+					
+											<li><a href="/gift-cards">Gift Cards</a></li>
+										
+					<li><a href="/be-inspired/shop-by-size">Shop by Size</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/be-inspired/shop-by-brand#women">Shop by Brand</a></li>
+					
+					<li><a href="/women/best-sellers.html">Bestsellers</a></li>
+					<li><a href="/kurt-geiger-london-limited-edition-womens-shoes.html">Online Exclusives</a></li>
+					<li><a href="/womens-back-in-stock.html">Back in Stock</a></li>
+					
+					<li class=""><a href="/women.html?shop_by=sort_by%7CSale">Sale</a></li>
+				</ul>
+
+				<ul class="sub-nav-footer">
+					<li class="first"><a href="/women/shoes.html">Shop all Styles</a></li>
+					<li><a href="/women/shoes/boots.html">Shop all Boots</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/be-inspired/shop-by-brand">View Brand A-Z</a></li>
+					<li class="show-us"><a href="/be-inspired/shop-by-size">Shop by Size</a></li>
+					
+					<li class="last"><a href="/women.html?shop_by=sort_by%7CNew+In">Shop New In</a></li>
+				</ul>
+			</div>
+			<div class="sub-nav-banner banner-block">
+				<!--  Womens top nav drop down -->
+<span class="banner-bottom banner-block-women-long">
+    <a href="/women/shoes/occasion-party-shoes.html">
+		<span class="main-text too-much-content">Party Heels</span>
+		<span class="small-text smaller">Get ready for the New Year with our new collection of occasion heels</span>
+	</a>
+</span>    
+
+
+			</div>
+		</div>
+	</li>
+
+	<!-- MEN -->
+	<li class="level-top parent men "><a class="level-top" href="/men.html"> <span>Men</span> </a>
+		<div class="sub-nav-container men">
+			<div class="inner">
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/men/shoes.html">Shoes</a></li>
+					<li><a href="/men/shoes/boots.html">Boots</a></li>
+					<li><a href="/men/shoes/brogues-lace-ups.html">Formals &amp; Brogues</a></li>
+					<li><a href="/men/shoes/loafers-slip-ons.html">Slip Ons &amp; Loafers</a></li>
+					<li><a href="/men/shoes/drivers-boat-shoes.html">Drivers &amp; Boat Shoes</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/men/shoes/trainers.html">Trainers</a></li>
+					<li class="show-us"><a href="/men/shoes/sneakers.html">Sneakers</a></li>
+					
+					<li><a href="/men/shoes/sandals.html">Sandals</a></li>
+					<li><a href="/men/shoes/slippers.html">Slippers</a></li>
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/men/shoes/boots.html">Boots</a></li>
+					<li><a href="/men/shoes/boots/chelsea.html">Chelsea Boots</a></li>
+					<li><a href="/men/shoes/boots/smart-boots.html">Smart Boots</a></li>					
+					<li><a href="/men/shoes/boots/casual-boots.html">Casual Boots</a></li>
+					<li><a href="/men/shoes/boots/desert.html">Desert Boots</a></li>
+					<li><a href="/men/shoes/boots/biker.html">Biker Boots</a></li>
+					<li><a href="/men/shoes/boots.html?brand=brand%7CUGG+Australia">UGG Boots</a></li>
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/men.html">New this week</a></li>
+					
+					<li class="text-red show-uk show-eu show-us"><a href="/aw14/mens-autumn-winter-shoe-guide.html">Shoe Guide</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/men/shoes-promotion.html">New Season Offers</a></li>
+					
+					<li><a href="/men.html?shop_by=sort_by%7CNew+In">New In</a></li>
+					<li><a href="/men/best-sellers.html">Bestsellers</a></li>
+					
+
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/be-inspired/shop-by-size">Shop by</a></li>
+					<li><a href="/be-inspired/shop-by-size">Shop by Size</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/be-inspired/shop-by-brand#men">Shop by Brand</a></li>
+					
+					<li><a href="/men.html?shop_by=sort_by%7CSale">Shop by Sale</a></li>
+										<li><a href="/gift-cards">Gift Cards</a></li>
+										<li class=""><a href="/men.html?shop_by=sort_by%7CSale">Sale</a></li>
+				</ul>
+				<!-- sub-nav-banner -->
+				<ul class="sub-nav-footer">
+					<li><a href="/men.html">Shop all styles</a></li>
+					<li><a href="/men/shoes/boots.html">Shop all boots</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/be-inspired/shop-by-brand">View Brand A-Z</a></li>
+					<li class="show-us"><a href="/be-inspired/shop-by-size">Shop by Size</a></li>
+
+					<li class="last"><a href="/men.html?shop_by=sort_by%7CNew+In">Shop New In</a></li>
+				</ul>
+			</div>
+			<div class="sub-nav-banner banner-block">
+				<!-- Mens top nav drop down -->
+<span class="banner-bottom banner-block-men-long">
+    <a href="/men/shoes.html">
+		<span class="main-text too-much-content">Men's</span>
+		<span class="small-text smaller">Smart styles for the everyday man's wardrobe</span>
+	</a>
+</span>			</div>
+		</div>
+	</li>
+
+	<!-- Bags & Accessories -->
+	<li class="level-top parent bags"><a class="level-top" href="/bags-accessories.html"> <span>Bags &amp; Accessories</span> </a>
+		<div class="sub-nav-container accessories">
+			<div class="inner">
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/bags-accessories/bags.html">Bags</a></li>
+					<li><a href="/bags-accessories/bags/shoulder.html">Shoulder Bags</a></li>
+					<li><a href="/bags-accessories/bags/clutch.html">Clutch Bags</a></li>
+					<li><a href="/bags-accessories/bags/totes.html">Totes</a></li>
+					<li><a href="/bags-accessories/bags/cross-body.html">Cross Body Bags</a></li>
+					<li><a href="/bags-accessories/bags/purses.html">Purses</a></li>
+					<li><a href="/bags-accessories/bags/ipad-covers.html">Ipad Covers &amp; Tech Acc</a></li>
+					<li class="text-red"><a href="/bags-accessories/saffiano-leather.html">Saffiano Collection</a></li>
+					
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/bags-accessories/accessories.html">Accessories</a></li>
+					
+					<li><a href="/bags-accessories/bags/purses.html">Purses</a></li>
+					<li class="show-uk show-eu"><a href="/bags-accessories/accessories/slippers.html">Slippers</a></li>
+					<li class=""><a href="/bags-accessories/accessories/hats.html">Hats</a></li>
+					<li><a href="/bags-accessories/accessories/scarves.html">Scarves</a></li>
+					<li><a href="/women/accessories/gloves.html">Gloves</a></li>
+					<li class="show-uk show-eu show-au"><a href="/women/accessories/jewellery.html">Jewellery</a></li>
+					<li class="show-uk show-eu show-au"><a href="/women/accessories/sunglasses.html">Sunglasses</a></li>
+					
+					<li class="show-us show-au"><a href="/bags-accessories/bags/travel.html">Travels</a></li>
+					<li class="show-au"><a href="/bags-accessories/bags/travel/snake-print-bikini-nude-polyamide-s-m-kurt-geiger-london-accessory.html">Bikini</a></li>
+					
+					<li><a href="/bags-accessories/accessories/shoe-care.html">Shoe Care</a></li>
+				</ul>
+				<!-- sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/be-inspired/shop-by-brand#bags-accessories">Brands</a></li>
+					<li><a href="/women.html?brand=brand%7CKurt+Geiger+London&amp;category=categoryROOT%2FWomen%7CAccessories">Kurt Geiger London</a></li>
+					<li><a href="/women.html?brand=brand%7CKG+Kurt+Geiger&amp;category=categoryROOT%2FWomen%7CAccessories">KG Kurt Geiger</a></li>
+					<li><a href="/women.html?brand=brand%7CCarvela+Kurt+Geiger&amp;category=categoryROOT%2FWomen%7CAccessories">Carvela Kurt Geiger</a></li>
+					<li><a href="/women.html?brand=brand%7CMiss+KG&amp;category=categoryROOT%2FWomen%7CAccessories">Miss KG</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/women.html?brand=brand%7CNine+West&amp;category=categoryROOT%2FWomen%7CAccessories">Nine West</a></li>
+					<li class="show-uk show-eu show-au"><a href="/women.html?brand=brand%7CUGG+Australia&amp;category=categoryROOT%2FWomen%7CAccessories">Ugg Australia</a></li>
+					<li class="show-uk show-eu show-au"><a href="/women.html?brand=brand%7CVince+Camuto&amp;category=categoryROOT%2FWomen%7CAccessories">Vince Camuto</a></li>
+				</ul>
+				<!-- sub-nav -->
+				<div class="sub-nav-banner banner-block">
+					<span class="banner-blocks banner-block-six">
+						<a title="Bags - Shop Now" href="/bags-accessories/bags.html">From carry-all totes to embellished clutches; the new season collection is here - Shop Now</a>
+					</span>
 				</div>
-			</li>
+				<!-- sub-nav-banner -->
+								<ul class="sub-nav-footer">
+					<li class="first"><a href="/gift-cards">Gift Cards</a></li>
+				</ul>
+							</div>
+			<div class="sub-nav-banner banner-block">
+				<span class="banner-bottom banner-block-bags-long">
+					<a href="/bags-accessories.html">
+						<span class="main-text too-much-content">Bags &amp; Accessories</span>
+						<span class="small-text">Shop the collection of adorned clutches and must-have bags</span>
+					</a>
+				</span>
+			</div>
+		</div>
+	</li>
 
-			<!-- MEN -->
-			<li class="level-top parent men "><a class="level-top" href="/men.html"> <span>Men</span> </a>
-				<div class="sub-nav-container men">
-					<div class="inner">
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/men/shoes.html">Shoes</a></li>
-							<li><a href="/men/shoes/boots.html">Boots</a></li>
-							<li><a href="/men/shoes/brogues-lace-ups.html">Formals &amp; Brogues</a></li>
-		                    <li><a href="/men/shoes/loafers-slip-ons.html">Slip Ons &amp; Loafers</a></li>
-		                    <li><a href="/men/shoes/drivers-boat-shoes.html">Drivers &amp; Boat Shoes</a></li>
-		                    <li><a href="/men/shoes/trainers.html">Trainers</a></li>
-                            <li><a href="/men/shoes/sandals.html">Sandals</a></li>
-		                    <li><a href="/men/shoes/slippers.html">Slippers</a></li>
-						</ul>
-						<!-- end of sub-nav -->
-						<ul class="sub-nav">
-                            <li class="highlight-bold"><a href="/be-inspired/shop-by-size">Shop by</a></li>
-                            <li><a href="/be-inspired/shop-by-size">Shop by Size</a></li>
-                            <li><a href="/be-inspired/shop-by-brand#men">Shop by Brand</a></li>
-                            <li><a href="/men.html?shop_by=sort_by%7CSale">Shop by Sale</a></li>
-						</ul>
-						<!-- end of sub-nav -->
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/men.html">New this week</a></li>
-							<li><a href="/men.html?shop_by=sort_by%7CNew+In">New In</a></li>
-                            <li><a href="/men/shoes-promotion/kg-kurt-geiger.html">KG New Season Offers</a></li>
-                            <li><a href="/men/best-sellers.html">Bestsellers</a></li>
-														<li><a href="/gift-cards">Gift Cards</a></li>
-													</ul>
-						<div class="sub-nav-banner banner-block">
-                            <!-- Mens top nav drop down -->
-<span class="banner-blocks banner-block-five">
-    <a title="Sharp Thinking - Shop now" href="/men/shoes/brogues-lace-ups.html">Sharp Thinking - Anchor your look with our edit of smart footwear - Shop now</a>
-</span>
-						</div><!-- sub-nav-banner -->
-						<ul class="sub-nav-footer">
-							<li><a href="/men.html">Shop all styles</a></li>
-							<li><a href="/be-inspired/shop-by-brand">View Brand A-Z</a></li>
-							<li class="last"><a href="/men.html?shop_by=sort_by%7CNew+In">Shop New In</a></li>
-						</ul>
-					</div>
+	<!-- BRANDS UK EU AU !US below! -->
+	<li class="level-top parent brands show-uk show-eu show-au"><a class="level-top" href="/be-inspired/shop-by-brand"> <span>Brands</span> </a>
+		<div class="sub-nav-container accessories">
+			<div class="inner">
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/be-inspired/shop-by-brand#women">Women's Brands</a></li>
+					<li><a href="/women.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London</a></li>
+					<li><a href="/women.html?brand=brand%7CKG+Kurt+Geiger">KG Kurt Geiger</a></li>
+					<li><a href="/women.html?brand=brand%7CCarvela+Kurt+Geiger">Carvela Kurt Geiger</a></li>
+					<li><a href="/women.html?brand=brand%7CMiss+KG">Miss KG</a></li>
+					<li><a href="/women.html?brand=brand%7CNine+West">Nine West</a></li>
+					<li><a href="/women.html?brand=brand%7CCONVERSE">Converse</a></li>
+					<li><a href="/women.html?brand=brand%7CVince+Camuto">Vince Camuto</a></li>
+					<li><a href="/women.html?brand=brand%7CCarvela+Comfort">Carvela Comfort</a></li>
+					<li><a href="/women.html?brand=brand%7CUGG+Australia">UGG Australia</a></li>
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/be-inspired/shop-by-brand#men">Men's Brands</a></li>
+					<li><a href="/men.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London</a></li>
+					<li><a href="/men.html?brand=brand%7CKG+Kurt+Geiger">KG Kurt Geiger</a></li>
+					<li><a href="/men.html?brand=brand%7CPolo+Ralph+Lauren">Polo Ralph Lauren</a></li>
+					<li><a href="/men.html?brand=brand%7CHugo+Boss">Hugo Boss</a></li>
+					<li><a href="/men.html?brand=brand%7CPaul+Smith">Paul Smith</a></li>
+					<li><a href="/men.html?brand=brand%7CConverse">Converse</a></li>
+					<li><a href="/men.html?brand=brand%7CUGG+Australia">UGG Australia </a></li>
+					<li><a href="/men.html?brand=brand%7CGrenson">Grenson</a></li>
+					<li><a href="/men/shoes.html?brand=brand%7CVans">Vans</a></li>
+				</ul>
+				<!-- sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/be-inspired/shop-by-brand#women">Designer Brands</a></li>
+					<li><a href="/women/shoes.html?brand=brand%7CMICHAEL+MICHAEL+KORS">Michael Michael Kors</a></li>
+					<li><a href="/women.html?brand=brand%7CB+Brian+Atwood">B Brian Atwood</a></li>
+					<li><a href="/men.html?brand=brand%7CCHURCH">Church</a></li>
+					<li><a href="/women/shoes.html?brand=brand%7CAsh">Ash</a></li>
+					<li><a href="/women.html?brand=brand%7CACNE">Acne</a></li>
+					<li><a href="/women/shoes.html?brand=brand%7CMarc+by+Marc+Jacobs">Marc by Marc Jacobs</a></li>
+					<li><a href="/women.html?brand=brand%7CDKNY">DKNY</a></li>
+					<li><a href="/women/shoes.html?brand=brand%7CMc+Q">Mc Q</a></li>
+				</ul>
+				<!-- sub-nav -->
+				<div class="sub-nav-banner banner-block">
+					<span class="banner-blocks banner-block-seven">
+						<a title="We now stock over 70 brands including - View Brands" href="/be-inspired/shop-by-brand">We now stock over 70 brands including - Michael Michael Kors, Toms, Lucy Choi, Vans, See By Chloe, Converse - View Brands</a>
+					</span>
 				</div>
-			</li>
+				<!-- sub-nav-banner -->
+				<ul class="sub-nav-footer">
+					<li class="first"><a href="/be-inspired/shop-by-brand#women">Women's brands</a></li>
+					<li><a href="/be-inspired/shop-by-brand#men">Men's brands</a></li>
+				</ul>
+			</div>
+			<div class="sub-nav-banner banner-block">
+				<span class="banner-bottom banner-block-brands-long right-text">
+					<a href="/brands/ugg-australia.html">
+						<span class="main-text">Brands</span>
+						<span class="small-text">Shop UGG Australia</span>
+					</a>
+				</span>
+			</div>
+		</div>
+	</li>
 
-			<!-- Bags & Accessories -->
-			<li class="level-top parent bags"><a class="level-top" href="/bags-accessories.html"> <span>Bags &amp; Accessories</span> </a>
-				<div class="sub-nav-container accessories">
-					<div class="inner">
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/bags-accessories/bags.html">Bags</a></li>
-							<li><a href="/bags-accessories/bags/shoulder.html">Shoulder Bags</a></li>
-							<li><a href="/bags-accessories/bags/clutch.html">Clutch Bags</a></li>
-							<li><a href="/bags-accessories/bags/totes.html">Totes</a></li>
-							<li><a href="/bags-accessories/bags/cross-body.html">Cross Body Bags</a></li>
-							<li><a href="/bags-accessories/bags/purses.html">Purses</a></li>
-							<li><a href="/bags-accessories/bags/ipad-covers.html">Ipad Covers &amp; Tech Acc</a></li>
-						</ul>
-						<!-- end of sub-nav -->
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/bags-accessories/accessories.html">Accessories</a></li>
-                            <li><a href="/women/accessories/sunglasses.html">Sunglasses</a></li>
-                            <li><a href="/women/accessories/jewellery.html">Jewellery</a></li>
-							<li><a href="/bags-accessories/bags/purses.html">Purses</a></li>
-							<li><a href="/bags-accessories/bags/travel.html">Travel</a></li>
-							<li><a href="/bags-accessories/bags/travel/snake-print-bikini-nude-polyamide-s-m-kurt-geiger-london-accessory.html">Bikini</a></li>
-							<li><a href="/bags-accessories/accessories/hats.html">Hats</a></li>
-							<li><a href="/bags-accessories/accessories/scarves.html">Scarves</a></li>
-							<li><a href="/women/accessories/gloves.html">Gloves</a></li>
-							<li><a href="/bags-accessories/accessories/shoe-care.html">Shoe Care</a></li>
-						</ul>
-					    <!-- sub-nav -->
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/be-inspired/shop-by-brand#bags-accessories">Brands</a></li>
-							<li><a href="/women.html?brand=brand%7CKurt+Geiger+London&amp;category=categoryROOT%2FWomen%7CAccessories">Kurt Geiger London</a></li>
-		                    <li><a href="/women.html?brand=brand%7CKG+Kurt+Geiger&amp;category=categoryROOT%2FWomen%7CAccessories">KG Kurt Geiger</a></li>
-		                    <li><a href="/women.html?brand=brand%7CCarvela+Kurt+Geiger&amp;category=categoryROOT%2FWomen%7CAccessories">Carvela Kurt Geiger</a></li>
-		                    <li><a href="/women.html?brand=brand%7CMiss+KG&amp;category=categoryROOT%2FWomen%7CAccessories">Miss KG</a></li>
-		                    <li><a href="/women.html?brand=brand%7CNine+West&amp;category=categoryROOT%2FWomen%7CAccessories">Nine West</a></li>
-		                    <li><a href="/women.html?brand=brand%7CUGG+Australia&amp;category=categoryROOT%2FWomen%7CAccessories">Ugg Australia</a></li>
-		                    <li><a href="/women.html?brand=brand%7CVince+Camuto&amp;category=categoryROOT%2FWomen%7CAccessories">Vince Camuto</a></li>
-						</ul>
-						<!-- sub-nav -->
-						<div class="sub-nav-banner banner-block">
-							<span class="banner-blocks banner-block-six">
-								<a title="Sunglasses - Shop Now" href="/women/accessories/sunglasses.html">Sunglasses - Invest in a pair of cool shades this summer - Shop Now</a>
-							</span>
-						</div>
-						<!-- sub-nav-banner -->
-	    				<ul class="sub-nav-footer">
-							<li class="first"><a href="/bags-accessories/bags.html">Shop Bags</a></li>
-							<li><a href="/bags/best-sellers.html">Bestsellers</a></li>
-						</ul>
-					</div>
+	
+	<!-- BRANDS US -->
+	<li class="level-top parent brands show-us"><a class="level-top" href="javascript:void(0)"> <span>Brands</span> </a>
+		<div class="sub-nav-container accessories">
+			<div class="inner">
+				<ul class="sub-nav">
+					<li class="highlight-bold"><span class="nonLink">Women's Brands</span></li>
+					<li><a href="/women.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London</a></li>
+					<li><a href="/women.html?brand=brand%7CKG+Kurt+Geiger">KG Kurt Geiger</a></li>
+					<li><a href="/women.html?brand=brand%7CCarvela+Kurt+Geiger">Carvela Kurt Geiger</a></li>
+					<li><a href="/women.html?brand=brand%7CMiss+KG">Miss KG</a></li>
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><span class="nonLink">Men's Brands</span></li>
+					<li><a href="/men.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London</a></li>
+					<li><a href="/men.html?brand=brand%7CKG+Kurt+Geiger">KG Kurt Geiger</a></li>
+				</ul>
+				<!-- sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><span class="nonLink">Accessories Brands</span></li>
+					<li><a href="/women.html?brand=brand%7CKurt+Geiger+London&amp;category=categoryROOT%2FWomen%7CAccessories">Kurt Geiger London</a></li>
+					<li><a href="/women.html?brand=brand%7CKG+Kurt+Geiger&amp;category=categoryROOT%2FWomen%7CAccessories">KG Kurt Geiger</a></li>
+					<li><a href="/women.html?brand=brand%7CCarvela+Kurt+Geiger&amp;category=categoryROOT%2FWomen%7CAccessories">Carvela Kurt Geiger</a></li>
+					<li><a href="/women.html?brand=brand%7CMiss+KG&amp;category=categoryROOT%2FWomen%7CAccessories">Miss KG</a></li>
+
+				</ul>
+				<!-- sub-nav -->
+				<div class="sub-nav-banner banner-block">
+					<span class="banner-blocks banner-block-brand-us">
+						<a title="Kurt Geiger London" href="/women.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London - Instinctively chic and sophisticated with design authority for the fashionista - Shop Now</a>
+					</span>
 				</div>
-			</li>
-
-			<!-- BRANDS -->
-			<li class="level-top parent brands"><a class="level-top" href="/be-inspired/shop-by-brand"> <span>Brands</span> </a>
-				<div class="sub-nav-container accessories">
-					<div class="inner">
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/be-inspired/shop-by-brand#women">Women's Brands</a></li>
-							<li><a href="/women.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London</a></li>
-							<li><a href="/women.html?brand=brand%7CKG+Kurt+Geiger">KG Kurt Geiger</a></li>
-							<li><a href="/women.html?brand=brand%7CCarvela+Kurt+Geiger">Carvela Kurt Geiger</a></li>
-							<li><a href="/women.html?brand=brand%7CMiss+KG">Miss KG</a></li>
-							<li><a href="/women.html?brand=brand%7CNine+West">Nine West</a></li>
-							<li><a href="/women.html?brand=brand%7CCONVERSE">Converse</a></li>
-							<li><a href="/women.html?brand=brand%7CVince+Camuto">Vince Camuto</a></li>
-							<li><a href="/women.html?brand=brand%7CBirkenstock">Birkenstock</a></li>
-							<li><a href="/women.html?brand=brand%7CUGG+Australia">UGG Australia</a></li>
-						</ul>
-						<!-- end of sub-nav -->
-                        <ul class="sub-nav">
-                            <li class="highlight-bold"><a href="/be-inspired/shop-by-brand#men">Men's Brands</a></li>
-							<li><a href="/men.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London</a></li>
-							<li><a href="/men.html?brand=brand%7CKG+Kurt+Geiger">KG Kurt Geiger</a></li>
-							<li><a href="/men.html?brand=brand%7CPolo+Ralph+Lauren">Polo Ralph Lauren</a></li>
-							<li><a href="/men.html?brand=brand%7CHugo+Boss">Hugo Boss</a></li>
-							<li><a href="/men.html?brand=brand%7CPaul+Smith">Paul Smith</a></li>
-							<li><a href="/men.html?brand=brand%7CConverse">Converse</a></li>
-							<li><a href="/men.html?brand=brand%7CUGG+Australia">UGG Australia </a></li>
-							<li><a href="/men.html?brand=brand%7CGrenson">Grenson</a></li>
-							<li><a href="/men/shoes.html?brand=brand%7CVans">Vans</a></li>
-						</ul>
-						<!-- sub-nav -->
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/be-inspired/shop-by-brand#women">Designer Brands</a></li>
-		                    <li><a href="/women/shoes.html?brand=brand%7CMICHAEL+MICHAEL+KORS">Michael Michael Kors</a></li>
-		                    <li><a href="/women.html?brand=brand%7CB+Brian+Atwood">B Brian Atwood</a></li>
-		                    <li><a href="/men.html?brand=brand%7CCHURCH">Church</a></li>
-		                    <li><a href="/women/shoes.html?brand=brand%7CAsh">Ash</a></li>
-							<li><a href="/women.html?brand=brand%7CACNE">Acne</a></li>
-		                    <li><a href="/women/shoes.html?brand=brand%7CMarc+by+Marc+Jacobs">Marc by Marc Jacobs</a></li>
-		                    <li><a href="/women.html?brand=brand%7CDKNY">DKNY</a></li>
-		                    <li><a href="/women/shoes.html?brand=brand%7CMc+Q">Mc Q</a></li>
-						</ul>
-						<!-- sub-nav -->
-						<div class="sub-nav-banner banner-block">
-							<span class="banner-blocks banner-block-seven">
-								<a title="We now stock over 70 brands including - View Brands" href="/be-inspired/shop-by-brand">We now stock over 70 brands including - Michael Michael Kors, Toms, Lucy Choi, Vans, See By Chloe, Converse - View Brands</a>
-							</span>
-						</div>
-						<!-- sub-nav-banner -->
-						<ul class="sub-nav-footer">
-							<li class="first"><a href="/be-inspired/shop-by-brand#women">Women's brands</a></li>
-		                    <li><a href="/be-inspired/shop-by-brand#men">Men's brands</a></li>
-						</ul>
-					</div>
+			</div>
+			<div class="sub-nav-banner banner-block">
+				<span class="banner-bottom banner-block-US-brands-long right-text">
+					<a href="/women.html?brand=brand%7CKG+Kurt+Geiger">KG Kurt Geiger</a>
+					<a href="/women.html?brand=brand%7CCarvela+Kurt+Geiger">Carvela Kurt Geiger</a>
+					<a href="/women.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London</a>
+					<a href="/women.html?brand=brand%7CMiss+KG">Miss KG</a>
+				</span>
+			</div>
+		</div>
+	</li>
+	
+	
+	<!-- SALE -->
+	<li class="level-top parent sale">
+		<a class="level-top" href="/women.html?shop_by=sort_by%7CSale"> <span>Sale</span> </a>
+		<div class="sub-nav-container sale">
+			<div class="inner">
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/women.html?shop_by=sort_by%7CSale">Women</a></li>
+					
+					<li class="show-au"><a href="/women/shoes/sandals.html?shop_by=sort_by%7CSale">Sandals</a></li>
+					
+					<li class="show-uk show-eu show-us"><a href="/women/shoes/boots.html?shop_by=sort_by%7CSale">Boots</a></li>
+					<li><a href="/women/shoes/flats.html?shop_by=sort_by%7CSale">Flats</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/women/shoes/courts.html?shop_by=sort_by%7CSale">Courts</a></li>
+					<li class="show-us"><a href="/women/shoes/pumps.html?shop_by=sort_by%7CSale">Pumps</a></li>
+					
+					<li><a href="/women/shoes/occasion-party-shoes.html?shop_by=sort_by%7CSale">Occasion</a></li>
+					
+					<li class="show-au"><a href="/women/shoes/boots.html?shop_by=sort_by%7CSale">Boots</a></li>
+					
+					<li class="show-uk show-eu show-us"><a href="/women/shoes/sandals.html?shop_by=sort_by%7CSale">Sandals</a></li>
+					<li><a href="/women/shoes/wedges.html?shop_by=sort_by%7CSale">Wedges</a></li>
+					<li><a href="/women/shoes/platforms.html?shop_by=sort_by%7CSale">Platforms</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/women/shoes/trainers.html?shop_by=sort_by%7CSale">Trainers</a></li>
+					<li class="show-us"><a href="/women/shoes/sneakers.html?shop_by=sort_by%7CSale">Sneakers</a></li>
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/men.html?shop_by=sort_by%7CSale">Men</a></li>
+					<li><a href="/men/shoes/boots.html?shop_by=sort_by%7CSale">Boots</a></li>
+					<li><a href="/men/shoes/brogues-lace-ups.html?shop_by=sort_by%7CSale">Formals &amp; Brogues</a></li>
+					<li><a href="/men/shoes/loafers-slip-ons.html?shop_by=sort_by%7CSale">Slip Ons &amp; Loafers</a></li>
+					<li><a href="/men/shoes/drivers-boat-shoes.html?shop_by=sort_by%7CSale">Drivers &amp; Boat Shoes</a></li>
+					
+					<li class="show-uk show-eu show-au"><a href="/men/shoes/trainers.html?shop_by=sort_by%7CSale">Trainers</a></li>
+					<li class="show-us"><a href="/men/shoes/sneakers.html?shop_by=sort_by%7CSale">Sneakers</a></li>
+				</ul>
+				<!-- end of sub-nav -->
+				<ul class="sub-nav">
+					<li class="highlight-bold"><a href="/bags-accessories.html?shop_by=sort_by%7CSale">Accessories</a></li>
+					<li><a href="/bags-accessories/bags.html?shop_by=sort_by%7CSale">Bags</a></li>
+					<li><a href="/women/accessories/jewellery.html?shop_by=sort_by%7CSale">Jewellery</a></li>
+					<li><a href="/women/accessories/sunglasses.html?shop_by=sort_by%7CSale">Sunglasses</a></li>
+					<li><a href="/women/accessories/purses.html?shop_by=sort_by%7CSale">Purses</a></li>
+					<li class="show-uk show-eu show-au"><a href="/women/accessories/hats.html?shop_by=sort_by%7CSale">Hats</a></li>
+					<li><a href="/women/accessories/scarves.html?shop_by=sort_by%7CSale">Scarves</a></li>
+					<li><a href="/women/accessories/gloves.html?shop_by=sort_by%7CSale">Gloves</a></li>
+					<li><a href="/women/accessories/travel.html?shop_by=sort_by%7CSale">Travel</a></li>
+				</ul>
+				<div class="sub-nav-banner banner-block">
+					<span class="banner-blocks banner-block-eight">
+						<a title="Shop our new outlet" href="women.html?shop_by=sort_by%7CSale">Occasion - Shop the latest occasion styles to arrive this week at Kurt Geiger…just in time for the office party - Shop Now</a>
+					</span>
+					<!--?php //echo $this->getChildHtml('catalog.topnav.bannerad.five'); ?-->
 				</div>
-			</li>
+				<!-- sub-nav-banner -->
+				<ul class="sub-nav-footer">
+					<li class="first"><a href="/women.html?shop_by=sort_by%7CSale">Shop Women's Sale</a></li>
+					<li><a href="/men.html?shop_by=sort_by%7CSale">Shop Men's Sale</a></li>
+					<li class="last"><a href="/bags-accessories.html?shop_by=sort_by%7CSale">Shop Accessories Sale</a></li>
+				</ul>
+			</div>
+			<div class="sub-nav-banner banner-block">
+				<span class="banner-bottom banner-block-sale-long white">
+					<a href="/women.html?shop_by=sort_by%7CSale">
+						<span class="main-text">SALE</span>
+						<span class="small-text">Shop sale</span>
+					</a>
+				</span>
+			</div>
+		</div>
+	</li>
 
-			<!-- SALE -->
-			<li class="level-top parent sale">
-				<a class="level-top" href="/women.html?shop_by=sort_by%7CSale"> <span>Sale</span> </a>
-				<div class="sub-nav-container sale">
-					<div class="inner">
-						<ul class="sub-nav">
-							<li class="highlight-bold"><a href="/women.html?shop_by=sort_by%7CSale">Women</a></li>
-							<li><a href="/women/shoes/boots.html?shop_by=sort_by%7CSale">Boots</a></li>
-							<li><a href="/women/shoes/courts.html?shop_by=sort_by%7CSale">Courts</a></li>
-							<li><a href="/women/shoes/occasion.html?shop_by=sort_by%7CSale">Occasion</a></li>
-							<li><a href="/women/shoes/flats.html?shop_by=sort_by%7CSale">Flats</a></li>
-							<li><a href="/women/shoes/sandals.html?shop_by=sort_by%7CSale">Sandals</a></li>
-							<li><a href="/women/shoes/wedges.html?shop_by=sort_by%7CSale">Wedges</a></li>
-							<li><a href="/women/shoes/trainers.html?shop_by=sort_by%7CSale">Trainers</a></li>
-							<li><a href="/women/shoes-promotion/carvela-kurt-geiger.html">Carvela New Season Offers</a></li>
-						</ul>
-						<!-- end of sub-nav -->
-						<ul class="sub-nav ">
-							<li class="highlight-bold"><a href="/men.html?shop_by=sort_by%7CSale">Men</a></li>
-                            <li><a href="/men/shoes/brogues-lace-ups.html?shop_by=sort_by%7CSale">Formals &amp; Brogues</a></li>
-                            <li><a href="/men/shoes/loafers-slip-ons.html?shop_by=sort_by%7CSale">Slip Ons &amp; Loafers</a></li>
-                            <li><a href="/men/shoes/drivers-boat-shoes.html?shop_by=sort_by%7CSale">Drivers &amp; Boat Shoes</a></li>
-							<li><a href="/men/shoes/trainers.html?shop_by=sort_by%7CSale">Trainers</a></li>
-							<li><a href="/men/shoes/boots.html?shop_by=sort_by%7CSale">Boots</a></li>
-                            <li><a href="/men/shoes-promotion/kg-kurt-geiger.html">KG New Season Offers</a></li>
-						</ul>
-						<!-- end of sub-nav -->
-						<ul class="sub-nav ">
-							<li class="highlight-bold"><a href="/women/accessories.html?shop_by=sort_by%7CSale">Accessories</a></li>
-							<li><a href="/bags.html?shop_by=sort_by%7CSale">Bags</a></li>
-							<li><a href="/women/accessories/jewellery.html?shop_by=sort_by%7CSale">Jewellery</a></li>
-							<li><a href="/women/accessories/sunglasses.html?shop_by=sort_by%7CSale">Sunglasses</a></li>
-							<li><a href="/women/accessories/purses.html?shop_by=sort_by%7CSale">Purses</a></li>
-							<li><a href="/women/accessories/hats.html?shop_by=sort_by%7CSale">Hats</a></li>
-							<li><a href="/women/accessories/scarves.html?shop_by=sort_by%7CSale">Scarves</a></li>
-							<li><a href="/women/accessories/gloves.html?shop_by=sort_by%7CSale">Gloves</a></li>
-							<li><a href="/women/accessories/travel.html?shop_by=sort_by%7CSale">Travel</a></li>
-						</ul>
-						<div class="sub-nav-banner banner-block">
-                            <!-- Sale top nav drop down -->
-<span class="banner-blocks banner-block-eight">
-    <a title="Shop our new outlet" href="http://www.shoeaholics.com/?&amp;utm_source=KGonline&amp;utm_medium=topnav&amp;utm_campaign=SAHinternalad">Shop our new outlet - shoeaholics.com</a>
-</span>
-						</div>
-						<!-- sub-nav-banner -->
-						<ul class="sub-nav-footer">
-							<li class="first"><a href="/women.html?shop_by=sort_by%7CSale">Shop Women's Sale</a></li>
-							<li><a href="/men.html?shop_by=sort_by%7CSale">Shop Men's Sale</a></li>
-							<li class="last"><a href="/women/accessories.html?shop_by=sort_by%7CSale">Shop Accessories Sale</a></li>
-						</ul>
-					</div>
-				</div>
-			</li>
+	<!-- BE INSPIRED -->
+	<li class="level-top parent be-inspired"><a class="level-top" href="/be-inspired/aw14"> <span>Be Inspired</span></a></li>
 
-			<!-- BE INSPIRED -->
-			<li class="level-top parent be-inspired"><a class="level-top" href="/be-inspired/ss14"> <span>Be Inspired</span></a></li>
-
-		</ul>
-		<!-- END OF NAV -->
-
+</ul>
+<!-- END OF NAV -->		
 		<div class="quick-access">
 			<form id="search_mini_form" action="http://www.kurtgeiger.com/catalogsearch/result/" method="get">
 	<div class="form-search">
@@ -645,25 +891,25 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 		</div><!-- end of quick-access -->
     </div><!-- end of inner-wrap -->
 </nav><!--end of primary-nav -->
-<!--{GLOBAL_MESSAGES_88d42b2f1ce883fb74d29886e2fb7374}--><!--/{GLOBAL_MESSAGES_88d42b2f1ce883fb74d29886e2fb7374}--><div class="outer-wrap">
+<!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><div class="outer-wrap">
 	<div class="main col2-left-layout inner-wrap">
 				<div class="col-main">
-			<!--{POPUP_VIEW_ff8e87bce8c41e4a48af8f0e0d4ce1be}-->
+			<!--{POPUP_VIEW_ce0b8b0c10e772e1ccbac3762c459e14}-->
 <div id="welcome_blackout"></div>
 
 <div id="welcome_content">
 	<a id="welcome_close_link" class="right" href="javascript:void(0)">Close Window</a>
 	<div class="clearfix">
 
-		<img class="welcome_image" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/images/siteswitcher/decorSS14.jpg" alt="" width="220" height="355">
+		<img class="welcome_image" src="http://static.kurtgeiger.com/skin/frontend/kurtgeiger/default/images/siteswitcher/decorAW14_240x330.jpg" alt="welcome" width="220" height="355">
 		<div id="welcome_end" style="display:none">
-			<h1><div id="response_title">Thank you</div></h1>
+			<h2><div id="response_title">Thank you</div></h2>
 			<div id="coupon_response"></div>
 			<button type="button" id="welcome_finish" title="Close popup" class="button btn-rounded med"><span><span>Close this window</span></span></button>
 		</div>
 		<div id="welcome_start">
 
-	   		<h1>Enjoy <strong>10% off</strong> your first order by<br>signing up to our newsletter</h1>
+	   		<h2>Enjoy <strong>10% off</strong> your first order by<br>signing up to our newsletter</h2>
 			<br>
 			<!-- // do not change this text -->
             <p>Get 10% Off your first order <br>10% Off applies to full price products only, <br>exclusions include sale products and gift cards. <br>Code valid for 14 days from the date of sign up. <br>See <a class="customer-service-portal" href="/customer-services/competitions/?navhide=true">Terms and Conditions</a> for more information</p>
@@ -683,7 +929,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 							<div class="field">
 								<label for="country" class="required">Country<em>*</em></label>
 								<div class="input-box required-entry">
-									<select name="country_id" id="country" class="validate-select" title="Country"><optgroup label="----------------------------------"><option value=""> </option><option value="GB">United Kingdom</option><option value="GG">Guernsey</option><option value="IE">Ireland</option><option value="JE">Jersey</option></optgroup><optgroup label="----------------------------------"><option value="AR">Argentina</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="BH">Bahrain</option><option value="BE">Belgium</option><option value="BR">Brazil</option><option value="CA">Canada</option><option value="CN">China</option><option value="HR">Croatia</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="EE">Estonia</option><option value="FI">Finland</option><option value="FR">France</option><option value="DE">Germany</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GG">Guernsey</option><option value="HK">Hong Kong SAR China</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IE">Ireland</option><option value="IT">Italy</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="KW">Kuwait</option><option value="LV">Latvia</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macau SAR China</option><option value="MK">Macedonia</option><option value="MY">Malaysia</option><option value="MT">Malta</option><option value="MX">Mexico</option><option value="MC">Monaco</option><option value="ME">Montenegro</option><option value="NL">Netherlands</option><option value="NZ">New Zealand</option><option value="NO">Norway</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="QA">Qatar</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="SM">San Marino</option><option value="SA">Saudi Arabia</option><option value="RS">Serbia</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="ES">Spain</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="TW">Taiwan</option><option value="TH">Thailand</option><option value="TR">Turkey</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US">United States</option><option value="VN">Vietnam</option></optgroup></select>								</div>
+									<select name="country_id" id="country" class="validate-select" title="Country"><optgroup label="----------------------------------"><option value="GB">United Kingdom</option><option value="GG">Guernsey</option><option value="IE">Ireland</option><option value="JE">Jersey</option></optgroup><optgroup label="----------------------------------"><option value="AR">Argentina</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="BH">Bahrain</option><option value="BE">Belgium</option><option value="BR">Brazil</option><option value="CA">Canada</option><option value="CN">China</option><option value="HR">Croatia</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="EE">Estonia</option><option value="FI">Finland</option><option value="FR">France</option><option value="DE">Germany</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GG">Guernsey</option><option value="HK">Hong Kong SAR China</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IE">Ireland</option><option value="IT">Italy</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="KW">Kuwait</option><option value="LV">Latvia</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macau SAR China</option><option value="MK">Macedonia</option><option value="MY">Malaysia</option><option value="MT">Malta</option><option value="MX">Mexico</option><option value="MC">Monaco</option><option value="ME">Montenegro</option><option value="NL">Netherlands</option><option value="NZ">New Zealand</option><option value="NO">Norway</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="QA">Qatar</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="SM">San Marino</option><option value="SA">Saudi Arabia</option><option value="RS">Serbia</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="ES">Spain</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="TW">Taiwan</option><option value="TH">Thailand</option><option value="TR">Turkey</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US">United States</option><option value="VN">Vietnam</option></optgroup></select>								</div>
 							</div>
 						</li>
 						<li class="fields gender-fields">
@@ -791,7 +1037,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 </script>
 
 
-  <!--/{POPUP_VIEW_ff8e87bce8c41e4a48af8f0e0d4ce1be}--><div class="std"><!--{MESSAGES_abf8cfcc9fa9f85e45db73bb5631c52f}--><!--/{MESSAGES_abf8cfcc9fa9f85e45db73bb5631c52f}--><img src="//staging.kurtgeiger.com/media/kg-112/SS14/AW13_726x248_privacypage.jpg" alt="Kurt Geiger">
+  <!--/{POPUP_VIEW_ce0b8b0c10e772e1ccbac3762c459e14}--><div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><img src="//static.kurtgeiger.com/media/kg-112/AW14/privacypage.jpg" alt="Kurt Geiger">
 <article>
 <h1>Cookies &amp; Privacy Policy</h1>
 <p>Kurt Geiger Limited ("we" and "us") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you to process orders and to provide an improved shopping experience, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. You can visit the Website without disclosing any personally identifiable information about yourself. This notice should be read in conjunction with the terms &amp; conditions of use for Kurt Geiger Ltd (the "Website") of which it forms part (the "Terms"). By using this Website or submitting information to us through or in connection with this Website, you signify your consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, you must not use this Website or submit information to us through or in connection with this Website.</p>
@@ -806,7 +1052,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 	<li>Maintaining information as a reference tool or general resource.</li>
 	<li>Carrying out market research campaigns.</li>
 </ul>
-<p>We also gather this information and statistics for the purposes of monitoring Website usage and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify you. You may from time to time wish us to provide you with information about our Website or any other service or products including those of third parties which we think may be of interest to you. Please tick the appropriate box if you wish to receive information about: our products and services services offered jointly with or on behalf of other organisations. Alternatively, you may ask us to provide you with information about our products and services, or services offered jointly with or on behalf of other organisations, by sending us an e-mail at <a href="mailto:customerservice@kurtgeiger.com">customerservice@kurtgeiger.com</a>, calling us on <a href="tel:+44 (0) 845 257 2571">+44 (0) 845 257 2571</a> or writing to us at the following address: Kurt Geiger Limited, 24 Britton Street, London, EC1M 5UA. You may also visit your account details and change your communications options. Click here to go to your account. If you stop using the Website or your permission to use the Website is terminated, we may continue to use and disclose your personal information in accordance with this Privacy Policy (as amended from time to time) and as permitted by law. However, if you wish us to stop e-mailing you with information in connection with the Website, please send your request in accordance with paragraph 4 below. </p>
+<p>We also gather this information and statistics for the purposes of monitoring Website usage and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify you. You may from time to time wish us to provide you with information about our Website or any other service or products including those of third parties which we think may be of interest to you. Please tick the appropriate box if you wish to receive information about: our products and services services offered jointly with or on behalf of other organisations. Alternatively, you may ask us to provide you with information about our products and services, or services offered jointly with or on behalf of other organisations, by sending us an e-mail at <a href="mailto:customerservice@kurtgeiger.com">customerservice@kurtgeiger.com</a>, calling us on <a href="tel:+44 (0) 207 781 7480">+44 (0) 207 781 7480</a> or writing to us at the following address: Kurt Geiger Limited, 24 Britton Street, London, EC1M 5UA. You may also visit your account details and change your communications options. Click here to go to your account. If you stop using the Website or your permission to use the Website is terminated, we may continue to use and disclose your personal information in accordance with this Privacy Policy (as amended from time to time) and as permitted by law. However, if you wish us to stop e-mailing you with information in connection with the Website, please send your request in accordance with paragraph 4 below. </p>
 <h2>Information security </h2>
 <p>The Internet is not a secure medium. However, we have put in place various security procedures as set out in this policy. All your card details are passed from your browser to [SECPay] using secure server software (ssl) encryption. [SECPay] use secure server software (ssl) encryption systems. Your user account area is protected by your user name and password, which you should never divulge to anyone else. Please be aware that communications over the Internet, such as emails/webmails are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. We believe that we have appropriate policies, rules and technical measures to protect the personal data that we have under our control (having regard to the type and amount of that data) from unauthorised access, improper use or disclosure, unauthorised modification, unlawful destruction or accidental loss. All of our employees and data processors that have access to, and are associated with, the processing of your personal information are obliged to respect the confidentiality of our visitors' information. We ensure that your information will not be disclosed to government institutions or authorities except if required by law or when requested to by regulatory bodies or law enforcement organisations.</p>
 <h2>To whom will your information be disclosed?</h2>
@@ -939,13 +1185,13 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 		<div class="col-left sidebar">
 			    <ul class="cms-menu"><li class="parent"><a href="http://www.kurtgeiger.com/legal"><span>Legal</span></a><ul><li><a href="http://www.kurtgeiger.com/legal/terms-and-conditions"><span>Terms &amp; Conditions</span></a></li><li><strong>Cookies &amp; Privacy</strong></li></ul></li></ul><ul class="banner-block">
     <li class="banner-blocks banner-block-one">
-        <a title="Super Sandals - Shop now" href="/women/shoes/sandals/flats.html">Super Sandals - Be sunshine ready with our edit of must-have flat sandals - Shop Now</a>
+        <a title="Party Heels - Shop Now" href="/women/shoes/occasion-party-shoes.html">Party Heels - Get ready for the New Year with our new collection of occasion heels - Shop Now</a>
     </li>
-    <li class="banner-blocks banner-block-two">
-        <a title="Holiday Shop - Shop Now" href="/women/summer-holiday-shop.html">Holiday Shop - Master jet-set chic with this summer's holiday heroes - Shop Now</a>
+	<li class="banner-blocks banner-block-two">
+        <a title="Bags &amp; Accessories - Shop Now" href="/bags-accessories.html">Bags &amp; Accessories - Shine bright this season with our collection of embellished clutches - Shop Now</a>
     </li>
     <li class="banner-blocks banner-block-three">
-        <a title="The Summer Event Edit - Shop Now" href="/women-occasion-evening-wear.html">The Summer Event Edit - Work our game-changing accessories for the perfect event style - Shop Now</a>
+        <a title="UGG Australia - Shop Now" href="/brands/ugg-australia.html">UGG Australia - Warm up this winter in a pair of new season UGG's  - Shop Now</a>
     </li>
 </ul>		</div><!-- end of col-left-sidebar -->
 	</div><!-- end of main col2-left-layout inner-wrap -->
@@ -957,7 +1203,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 			<div class="footer-nav-block brand">
 				<h4>Shop</h4>
 				<ul>
-					<li class="highlight-bold"><a href="http://www.kurtgeiger.com/brand-az/brand-az-women">Women's Brands</a></li>
+					<li class="highlight-bold"><a href="http://www.kurtgeiger.com/be-inspired/shop-by-brand#women">Women's Brands</a></li>
                     <li><a href="http://www.kurtgeiger.com/women.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London</a></li>
 			        <li><a href="http://www.kurtgeiger.com/women.html?brand=brand%7CKG+Kurt+Geiger">KG Kurt Geiger</a></li>
 			        <li><a href="http://www.kurtgeiger.com/women.html?brand=brand%7CCarvela+Kurt+Geiger">Carvela Kurt Geiger</a></li>
@@ -966,7 +1212,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 			        <li><a href="http://www.kurtgeiger.com/women.html?brand=brand%7CUGG+Australia">UGG Australia</a></li>
 				</ul>
 				<ul>
-					<li class="highlight-bold"><a href="http://www.kurtgeiger.com/brand-az/brand-az-men">Men's Brands</a></li>
+					<li class="highlight-bold"><a href="http://www.kurtgeiger.com/be-inspired/shop-by-brand#men">Men's Brands</a></li>
 					<li><a href="http://www.kurtgeiger.com/men.html?brand=brand%7CKurt+Geiger+London">Kurt Geiger London</a></li>
 			        <li><a href="http://www.kurtgeiger.com/men.html?brand=brand%7CKG+Kurt+Geiger">KG Kurt Geiger</a></li>
 			        <li><a href="http://www.kurtgeiger.com/men.html?brand=brand%7CConverse">Converse</a></li>
@@ -974,7 +1220,7 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
 			        <li><a href="http://www.kurtgeiger.com/men.html?brand=brand%7CHugo+Boss">Hugo Boss</a></li>
 			        <li><a href="http://www.kurtgeiger.com/men.html?brand=brand%7CPaul+Smith">Paul Smith</a></li>
 				</ul>
-                <ul>
+                <ul class="this-week">
 					<li class="highlight-bold">This week</li>
                     <li><a href="http://www.kurtgeiger.com/women.html?shop_by=sort_by%7CNew+In">New in</a></li>
 			        <li><a href="http://www.kurtgeiger.com/women/best-sellers.html">Bestsellers</a></li>
@@ -1005,7 +1251,9 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
                                 <li><a href="/legal/privacy-policy/" title="Cookies and Privacy Policy - Kurt Geiger | Cookies and Privacy Policy">Cookies and Privacy Policy</a></li>
                                 <li class=" last"><a href="/site-map/" title="Sitemap - Kurt Geiger | Sitemap">Sitemap</a></li>
             </ul>
-                <a id="switch-to-mobile-link" href="http://www.kurtgeiger.com/core/switch/tomobile">Mobile Site</a>
+                <a id="switch-to-mobile-link" href="http://www.kurtgeiger.com/core/switch/tomobile">
+					<button type="button" class="btn-rounded btn-primary-cta">Mobile Site</button>
+				</a>
 			</div><!-- end of company -->
 		</div><!-- end of footer-nav -->
 
@@ -1100,6 +1348,6 @@ optionalZipCountries = ["HK","IE","MO","PA","QA","SA","ZA","AE"];
                             
 						<script type="text/javascript" src="/skin/frontend/kurtgeiger/default/js/prototype-image-slider.js"></script>
 						<script type="text/javascript" src="/skin/frontend/kurtgeiger/default/js/selectBox.js"></script>
-					<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"69f341a3ee","applicationID":"2079692","transactionName":"MV1WbUQHCBBQVxJfVwgXdVpCDwkNHlcLRRcWWVNcGRAPBkY=","queueTime":0,"applicationTime":749,"ttGuid":"","agentToken":"","atts":"HRpVGwwdGx4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+					<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"69f341a3ee","applicationID":"2079692","transactionName":"MV1WbUQHCBBQVxJfVwgXdVpCDwkNHlcLRRcWWVNcGRAPBkY=","queueTime":0,"applicationTime":612,"ttGuid":"","agentToken":"","atts":"HRpVGwwdGx4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body><!--end of body --></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body><!--end of body --></html>
