@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codexcoder.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611115013id_/http%3A//www.codexcoder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codexcoder.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215230208id_/http%3A//www.codexcoder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CodexCoder
+# Privacy Policy - CodexCoder
 
 **Our commitment to your privacy.**
 
@@ -18,11 +18,11 @@ We collect our visitor personal information because it helps us deliver expected
 
 [CodexCoder](http://www.codexcoder.com/ "CodexCoder") may use cookies throughout its websites. A cookie is a small data file sent to visitors PC that identifies his/her computer to a specific web site. A cookie will not provide any personally identifiable information about visitor, nor will it read data off of any visitor’s hard disk, or read cookie files created by other websites.
 
- **CodexCoder** uses the information provided by a cookie for targeting of advertising and tracking site usage. This allows CodexCoder to customize your visit and save you time during next visits.
+**CodexCoder** uses the information provided by a cookie for targeting of advertising and tracking site usage. This allows CodexCoder to customize your visit and save you time during next visits.
 
- **Sharing of Information Collected by CodexCoder:**
+**Sharing of Information Collected by CodexCoder:**
 
- **CodexCoder** does not share or exchange the personal information of our PAID SERVICES customers with third parties without the specific permission of the customer.
+**CodexCoder** does not share or exchange the personal information of our PAID SERVICES customers with third parties without the specific permission of the customer.
 
 ##  Storage and Security
 
@@ -36,9 +36,9 @@ As a visitor you should verify the privacy policies of these websites or their t
 
 ## Privacy Contact information:
 
-If you have any query, [questions](http://www.codexcoder.com/questions/ "questions"), comments or concerns about our privacy policy, feel free to contact with us using the details below:
+If you have any query, questions, comments or concerns about our privacy policy, feel free to contact with us using the details below:
 
- _  11/C, Shatabdi Center, 292 Inner Circular Road_  
+_  11/C, Shatabdi Center, 292 Inner Circular Road_  
 _Fokirapul, Motijheel, Dhaka – 1000_  
 _Mobile: 01919-264687,_
 
