@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084801id_/http%3A//www.birst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217004610id_/http%3A//www.birst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birst BI
 
-Last Updated: August 12, 2013.
+Last Updated: October 2, 2014.
 
 [](http://privacy.truste.com/privacy-seal/Birst,-Inc-/validation?rid=9ee07ace-2290-4378-a2a7-21da77aadc70 "TRUSTe European Safe Harbor certification")
 
@@ -10,10 +10,11 @@ Birst Inc. is committed to customer privacy. This Privacy Policy communicates ou
 
 This privacy policy covers the site [www.birst.com](http://www.birst.com/) as well as the Birst services.
 
-[Validate TRUSTe privacy certification](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.birst.com&sealid=102)  
 [TRUSTe European Safe Harbor certification](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.birst.com&sealid=102)
 
-Birst has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance withTRUSTe's [Web Privacy](http://www.truste.com/privacy-program-requirements/) and [TRUSTed Cloud](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at the address below. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe programs only cover information collected through the Birst Web site and the Birst services platform. The TRUSTe programs do not cover information that may be collected from mobile devices.
+Birst Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.birst.com](http://www.birst.com/) and the Birst service platform and does not cover information that may be collected from mobile devices. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Birst Inc.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 _Birst complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Birst has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Birst’s certification, please visit<http://www.export.gov/safeharbor/>._  
 
@@ -30,9 +31,11 @@ When registering to receive more information or registering for demos, we requir
 
 When registering for a free or paid account (the "Online Service"), we require users to give us personal information, such as their name, company name, title, address, phone number, and e-mail address. Registered users can update this information at any time by logging into our website and editing their profile.
 
+You can also log in to our site using sign-in services such as an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like this may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
 We also may collect third party personal information such as the email, name and address of a colleague. This information is only used for the purpose for which it is collected.
 
-Customers of the Online Service will be using our website to host data and information ("Hosted Data"). As part of our Online Service, Birst collects information under the direction of its Customers. In this capacity, our Customer is the controller of the data and Birst acts as a data processor.
+Customers of the Online Service will be using our website to host data and information ("Hosted Data"). As part of our Online Service, Birst collects information under the direction of its Customers. In this capacity, our Customer is the controller of the data and Birst acts as a data processor. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers.
 
 ### How the Collected Information Is Used
 
@@ -44,7 +47,9 @@ We use anonymous information about your interaction with our service platform fo
 
 To review and update your personal information to ensure it is accurate, you can log into your account and update your information under “Account”. Additionally, if you would like to request to have your personal information deleted and discontinued from use, please contact us as described below. We will respond to your request within 30 business days.
 
-We have testimonials on our site. For which the individuals have given permission for us to post their personal information.
+We have testimonials on our site. For which the individuals have given permission for us to post their personal information. If you wish to update or delete your testimonial, you can contact us at [webmaster@birst.com](mailto:webmaster@birst.com).
+
+We also have blog which is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
 For access to the data controlled by our Customers, that Customer will need to be contacted directly with any access requests. If the Customer subsequently requests us to remove the data, we will respond within 30 days.
 
@@ -53,6 +58,8 @@ Out of respect for your privacy, you may choose to stop receiving our newsletter
 ### Data Retention
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [operations@birst.com](mailto:operations@birst.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+We will retain personal data we process on behalf of our Customer for as long as needed to provide services to our Customer. Birst will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Links to Other Sites
 
@@ -82,7 +89,17 @@ Flash cookies are different from browser cookies because of the amount of, type 
 
 The Company does not share, sell, rent, or trade PII with third parties for their promotional purposes.
 
-We may provide your information to companies that provide services to help us with our marketing and sales activities, such as submitting email communications to you on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us. Note that we never provide data from the online service to other companies.
+Technologies such as: cookies, beacons, tags and scripts are used by Birst and our partners , affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. Our cookies are not linked to personal information.
+
+We use cookies for improving user experience, displaying relevant content to users, tracking marketing campaigns, and providing functionality (e.g. Integrating with other software)] Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, and the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+We use Local Storage Objects (LSOs) such as HTML5 to provide certain features on our site. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity also use LSOs such as HTML 5 to collect and store information.
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 We may disclose the information we receive:
 
