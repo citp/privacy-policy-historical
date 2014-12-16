@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frip.in privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623132918id_/http%3A//www.frip.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frip.in privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216140524id_/http%3A//www.frip.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frip.in
 
