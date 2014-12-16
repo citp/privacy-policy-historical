@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the gagein.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627132049id_/http%3A//www.gagein.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagein.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/privacy) for the most accurate reproduction.*
 
-# Gagein - Competitive Intelligence, Business Intelligence
+# Gagein | The New Standard for B2B Prospecting
 
-Gagein ("Gagein") has created this privacy policy (the "Policy") so you will understand when and how personal and business information is collected, used, disclosed and protected with respect to your use of our Website ("Site") located at [http://www.gagein.com](http://www.gagein.com/).
+Gagein (“Gagein”) has created this privacy policy (the “Policy”) so you will understand when and how personal and business information is collected, used, disclosed and protected with respect to your use of our Website (“Site”) located at [http://www.gagein.com](http://www.gagein.com/).
 
 We reserve the right to change this privacy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our home page. By continuing to use the Gagein service after notice of changes have been sent to you or published on the Gagein website, you are consenting to the changes.
 
 ###### Personal Information Collection
 
-The purpose of the Gagein website is to allow Gagein users ("Users") to voluntarily provide information about themselves and their businesses for the purposes of building, maintaining and enhancing a business network to discover business opportunities and achieve business goals. You willingly provide us certain personal and business information, which we collect in order to allow you to benefit from the Gagein website. If you have any hesitation about providing such information to us and/or having such information displayed on the Gagein website or otherwise used in any manner permitted in this Privacy Policy and the [User Agreement](https://web.archive.org/web/20140627132049id_/http://www.gagein.com/privacy/terms/), you should not become a member of the Gagein community.
+The purpose of the Gagein website is to allow Gagein users (“Users”) to voluntarily provide information about themselves and their businesses for the purposes of building, maintaining and enhancing a business network to discover business opportunities and achieve business goals. You willingly provide us certain personal and business information, which we collect in order to allow you to benefit from the Gagein website. If you have any hesitation about providing such information to us and/or having such information displayed on the Gagein website or otherwise used in any manner permitted in this Privacy Policy and the [User Agreement](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/terms/), you should not become a member of the Gagein community.
 
-We collect your personal and business information in the following ways: 
+We collect your personal and business information in the following ways:
 
 ###### Registration
 
@@ -18,13 +18,13 @@ When you register an account to become User, we may collect various kinds of con
 
 ###### Profile Information
 
-Once you become a User, you may provide additional information in "My Profile" such as Department, Office Address, and Zip Code. Providing additional information beyond what is required at registration to become a User is entirely optional, but enables you to better identify yourself and find new opportunities in the Gagein system to build and leverage your business network. Any information you provide at registration or in the "My Profile" section that is not personally identifiable may be used in the same manner and extent to which other information that is not personally identifiable is permitted to be used.
+Once you become a User, you may provide additional information in “My Profile” such as Department, Office Address, and Zip Code. Providing additional information beyond what is required at registration to become a User is entirely optional, but enables you to better identify yourself and find new opportunities in the Gagein system to build and leverage your business network. Any information you provide at registration or in the “My Profile” section that is not personally identifiable may be used in the same manner and extent to which other information that is not personally identifiable is permitted to be used.
 
 ###### Contact Information
 
 In order to invite others to connect with you directly in Gagein, you may use the Gagein services to invite them if they are a User, or enter their names and email addresses. This information will be used by Gagein to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders.
 
-You may also choose to manually enter or upload data about your contacts into the private "Connections" section of the Gagein website. You may not invite anyone to connect with you whom you do not know. All information entered there will only be viewable by you and will not be searchable by others in the Gagein network without your permission. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own information.
+You may also choose to manually enter or upload data about your contacts into the private “Connections” section of the Gagein website. You may not invite anyone to connect with you whom you do not know. All information entered there will only be viewable by you and will not be searchable by others in the Gagein network without your permission. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own information.
 
 ###### Submissions and Use of Services and Interactive Areas of Site
 
@@ -36,15 +36,15 @@ We automatically receive certain types of information whenever you interact with
 
 ###### Consent to Gagein Processing Information About You
 
-Please be aware that in providing information to Gagein for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and Gagein's [User Agreement](https://web.archive.org/web/20140627132049id_/http://www.gagein.com/privacy/terms/). The supplying of all such information by you to Gagein, including all information deemed "sensitive" by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the [User Agreement](https://web.archive.org/web/20140627132049id_/http://www.gagein.com/privacy/terms/), but please note that your withdrawal of consent will not be retroactive.
+Please be aware that in providing information to Gagein for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and Gagein’s [User Agreement](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/terms/). The supplying of all such information by you to Gagein, including all information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the [User Agreement](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/terms/), but please note that your withdrawal of consent will not be retroactive.
 
 ###### Cookies
 
-We may also use cookie technology to collect information. Among other things, the use of cookies enables us to improve our Site by seeing which areas and features are most popular; to count the number of computers accessing the Site; to personalize the Site and improve the Site experience; to potentially record your preferences and track the ads you view; and to allow you to visit the Site without re-entering your member ID and/or password. A cookie is a small amount of data, often including an anonymous unique identifier, which is sent to your browser from a web site's computers and stored on your computer's hard drive. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Site and the Service may not function properly. For example, you may not be able to sign in and may not be able to access certain Site features or services.
+We may also use cookie technology to collect information. Among other things, the use of cookies enables us to improve our Site by seeing which areas and features are most popular; to count the number of computers accessing the Site; to personalize the Site and improve the Site experience; to potentially record your preferences and track the ads you view; and to allow you to visit the Site without re-entering your member ID and/or password. A cookie is a small amount of data, often including an anonymous unique identifier, which is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Site and the Service may not function properly. For example, you may not be able to sign in and may not be able to access certain Site features or services.
 
 ###### Web Beacons
 
-"Web beacons" (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and web bugs) are tiny graphic files placed on a Web page which send a signal when a user has visited that page, allowing the site to collect standard access information, such as time and date of a page view, and a description of the page on which the web beacon resides. We use web beacons to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about site usage; our web beacons do not contain any personal information and we do not link web beacons to personal information about you.
+“Web beacons” (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and web bugs) are tiny graphic files placed on a Web page which send a signal when a user has visited that page, allowing the site to collect standard access information, such as time and date of a page view, and a description of the page on which the web beacon resides. We use web beacons to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about site usage; our web beacons do not contain any personal information and we do not link web beacons to personal information about you.
 
 ###### Rights to Access, Correct and Eliminate Information About You
 
@@ -54,7 +54,7 @@ We take your rights seriously and encourage you to use them if you deem this to 
 
 ###### Customer Service
 
-Gagein may collect information through the Gagein website in order to, among other things, accurately categorize and respond to a client's inquiry and deliver appropriate service levels.
+Gagein may collect information through the Gagein website in order to, among other things, accurately categorize and respond to a client’s inquiry and deliver appropriate service levels.
 
 ###### Uses of Personal Information
 
@@ -74,9 +74,9 @@ We do not rent, sell, or share personal information about you with other people 
 
     * Consent. Unless you give us your consent, we will not disclose your personal information to third parties for their direct marketing purposes. With your consent, we may disclose your personal information to third parties so that they may provide you with products and services that you have requested.
 
-    * Public Profile. Gagein offers a "Public Profile" feature which allows Users to publish their Gagein profile, including their "name", but not their "email address" or "phone number" to the public Internet. Users may opt-out of this feature by checking the "Opt Out" box in "Profile" tab in "Settings." Gagein does not warrant how often third-party search engines will update their cache.
+    * Public Profile. Gagein offers a “Public Profile” feature which allows Users to publish their Gagein profile, including their “name”, but not their “email address” or “phone number” to the public Internet. Users may opt-out of this feature by checking the “Opt Out” box in “Profile” tab in “Settings.” Gagein does not warrant how often third-party search engines will update their cache.
 
-    * Aggregated Anonymous Data. We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on Gagein. We may segment our Users by role (i.e. product managers, vice presidents), industry, geographic location, or business. If you would like to be excluded from the aggregated research or products based upon aggregated data about our Users" activities on the site, please email [info@gagein.com](mailto:info@gagein.com).
+    * Aggregated Anonymous Data. We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on Gagein. We may segment our Users by role (i.e. product managers, vice presidents), industry, geographic location, or business. If you would like to be excluded from the aggregated research or products based upon aggregated data about our Users” activities on the site, please email [info@gagein.com](mailto:info@gagein.com).
 
     * Service Providers. We may share personal information with third party vendors, consultants, and other service providers who assist us in operating and managing the Site, the Service or our business and who need access to such information to carry out their work for us. For example, we may share your personal information with companies who are fulfilling orders, processing payment or other information, or administering contests or surveys on our behalf. We may also share personal information with service providers who are performing internal analysis of the Site on our behalf, such as to estimate our audience size, measure aggregate traffic patterns as well as to understand demographic, client interest, and other trends among our users. In the event that we use third party vendors to assist us in performing these functions, the third parties may not use or disclose your personal information for any other purpose.
 
@@ -91,7 +91,7 @@ We do not rent, sell, or share personal information about you with other people 
 
 ###### Communications to other Users
 
-Many emails you initiate through Gagein, e.g., an invitation sent to a non-User, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many businesses you are following and how many people are in your network), but will not list the people to whom you're directly connected. Other communications that you initiate through the Gagein website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other.
+Many emails you initiate through Gagein, e.g., an invitation sent to a non-User, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many businesses you are following and how many people are in your network), but will not list the people to whom you’re directly connected. Other communications that you initiate through the Gagein website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other.
 
 ###### Legal Disclaimer
 
@@ -99,18 +99,15 @@ It is possible that we may need to disclose personal information when required b
 
 ###### Disclosures to others
 
-We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Gagein corporation division or company. Any third party to which we transfer or sell Gagein's assets will have the right to continue to use the personal and other information that you provide to us.
+We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Gagein corporation division or company. Any third party to which we transfer or sell Gagein’s assets will have the right to continue to use the personal and other information that you provide to us.
 
 ###### 2\. Important Information
-
-  
-
 
 ###### Access and Control of Personal Information
 
 If you are a registered user of our Service, you may view, correct, and delete your personal information simply by logging into your account. Generally, you should be careful when making any personal information available to the public.
 
-Users may "opt in" or "opt out" to receive marketing or promotional communications or solicitations from Gagein on our behalf or on behalf of third parties. Users may also "opt in" or "opt out" of receiving communications directly from third parties. However, this shall not affect our ability to send you service and account related emails or to use your personal information as otherwise described in this Policy.
+Users may “opt in” or “opt out” to receive marketing or promotional communications or solicitations from Gagein on our behalf or on behalf of third parties. Users may also “opt in” or “opt out” of receiving communications directly from third parties. However, this shall not affect our ability to send you service and account related emails or to use your personal information as otherwise described in this Policy.
 
 ###### Closing Your Account
 
@@ -120,7 +117,7 @@ You can also close your account through the Gagein website. If you close your Ga
 
 As a User, you have certain obligations toward the other Users with whom you will be communicating. Certain of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities like Gagein:
 
-    * You must, at all times, respect the terms and conditions of the then-current [Privacy Policy](https://web.archive.org/web/20140627132049id_/http://www.gagein.com/privacy/privacy/) and the [User Agreement](https://web.archive.org/web/20140627132049id_/http://www.gagein.com/privacy/terms/).                                                
+    * You must, at all times, respect the terms and conditions of the then-current [Privacy Policy](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/privacy/) and the [User Agreement](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/terms/).                                                
 
     * You must not download or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of Gagein and its community of Users.
 
@@ -149,7 +146,7 @@ If you use the Gagein service after notice of changes have been sent to you or p
 
 ###### California Privacy Rights
 
-California Civil Code section 1798.83 permits clients who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to any third party for their direct marketing purposes without your consent. If you would like more information with respect to your privacy rights under California law, you may contact us at the contact point below. Please reference your request as "California Disclosure Information."
+California Civil Code section 1798.83 permits clients who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to any third party for their direct marketing purposes without your consent. If you would like more information with respect to your privacy rights under California law, you may contact us at the contact point below. Please reference your request as “California Disclosure Information.”
 
 ###### International Users
 
@@ -157,7 +154,7 @@ By using our Site and providing us with data, you acknowledge and agree that due
 
 ###### How to Contact Us
 
-If you have questions or comments about this privacy policy, please email us at [info@gagein.com](mailto:info@gagein.com) or contact us by mail at: Gagein, Inc.   
+If you have questions or comments about this privacy policy, please email us at [info@gagein.com](mailto:info@gagein.com) or contact us by mail at:  
+Gagein, Inc.   
 2077 Gold Street, Suite 208  
-San Jose, CA 95002  
-
+San Jose, CA 95002 
