@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kinguin.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626105030id_/http%3A//www.kinguin.net/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinguin.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216081452id_/http%3A//www.kinguin.net/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the Privacy Policy governing your use of the Kinguin.net (a " **Site** ") and the collection, use, transfer and processing of your Collected Information by 7 Entertainment Hong Kong Limited and our affiliates (collectively referred to as "Kinguin.net", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Kinguin.net which by use of this Site you agree to accept.
+This is the Privacy Policy governing your use of the Kinguin.net (a " **Site** ") and the collection, use, transfer and processing of your Collected Information by Kinguin Limited and our affiliates (collectively referred to as "Kinguin.net", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Kinguin.net which by use of this Site you agree to accept.
 
 ## The Information We Collect
 
