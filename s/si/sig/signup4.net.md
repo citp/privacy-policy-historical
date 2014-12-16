@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signup4.net privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620042111id_/http%3A//www.signup4.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signup4.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216112959id_/http%3A//www.signup4.com/privacy-policy) for the most accurate reproduction.*
 
 # Event Management Software | SignUp4 | Privacy Policy
 
@@ -21,7 +21,7 @@ User entered return email addresses are utilized to respond to generated request
 SignUp4 complies with the provisions of the U.S.-EU Safe Harbor Framework and the Safe Harbor privacy principles governing the transfer of personal data from the European Union as set forth by the U.S. Department of Commerce. Said framework is found at: [The U.S.- EU & Swiss Safe Harbor Website ](http://export.gov/safeharbor)
 
 [We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
-
+[](http://www.export.gov/safeharbor/)
 
 Clients are encouraged to register with SignUp4’s web site in order to receive updates on our new products and services. Information submitted on the web site will not be used for this purpose unless you fill out the registration form requesting additional information.
 
