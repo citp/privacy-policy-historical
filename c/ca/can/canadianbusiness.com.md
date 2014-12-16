@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianbusiness.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618032838id_/http%3A//www.rogersmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianbusiness.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216161735id_/http%3A//www.rogersmedia.com/privacy) for the most accurate reproduction.*
 
 # Rogers Media Privacy FAQ - Rogers Media Inc.
 
