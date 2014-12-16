@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120635id_/http%3A//greatist.com/greatist-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216164756id_/http%3A//greatist.com/greatist-privacy-policy) for the most accurate reproduction.*
 
-# Greatist Privacy Policy | Greatist
+# Greatist Privacy Policy
 
-At Greatist, the go-to source for all things fitness, health, and happiness you can trust!, we respect your privacy and have established this Privacy Policy to describe our policies and practices with respect to the information that we collect from users of our website at [www.greatist.com](http://www.greatist.com/).  Please review this Privacy Policy before you use our site or any of the services or features offered on or through our site.  By using our site and its services and features, you agree to be bound by this Privacy Policy.  If you do not agree to this Privacy Policy, please do not use our site or its services and features.
+At Greatist, the go-to source for all things fitness, health, and happiness you can trust!, we respect your privacy and have established this Privacy Policy to describe our policies and practices with respect to the information that we collect from users of our website at [greatist.com](http://greatist.com/).  Please review this Privacy Policy before you use our site or any of the services or features offered on or through our site.  By using our site and its services and features, you agree to be bound by this Privacy Policy.  If you do not agree to this Privacy Policy, please do not use our site or its services and features.
 
 **1.          What information do we collect?**
 
