@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-ibex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073131id_/http%3A//www.red-ibex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-ibex.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216190419id_/http%3A//red-ibex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Red Ibex Web Directory - Privacy Policy
 
