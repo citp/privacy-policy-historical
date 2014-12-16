@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330063002id_/http%3A//www.group.com/customer-support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216205117id_/http%3A//www.group.com/customer-support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Group
 
