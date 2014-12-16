@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerouv.myshopify.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045751id_/http%3A//www.shopzerouv.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerouv.myshopify.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216224834id_/http%3A//www.shopzerouv.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | zeroUV
 
@@ -79,5 +79,5 @@ QUESTIONS AND CONTACT INFORMATION
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at shop@zerouv.com or by mail at   
 zerouv  
 [Re: Privacy Compliance Officer]   
-[17150 Newhope St #807, Fountain Valley CA. 92708]  
+[16792 Burke Lane, Huntington Beach CA. 92647]  
 \---- 
