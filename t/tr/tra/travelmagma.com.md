@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmagma.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628004222id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmagma.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216064414id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,15 +6,11 @@ PRIVACY POLICY
 
 TravelMagma.Com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
- **
-
-How we gather information from users
-
-**
+ **How we gather information from users**
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in message boards and chat rooms, and other interactive areas of our site. Like most Web sites, TravelMagma.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
- **
+**
 
 What we do with the information we collect
 
@@ -28,7 +24,7 @@ We may use Personally Identifiable Information collected on TravelMagma.com to c
 
 Personally Identifiable Information collected by TravelMagma.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
- **
+**
 
 Affiliated sites, linked sites and advertisements
 
@@ -40,7 +36,7 @@ While on our site, our advertisers, promotional partners or other third parties 
 
 You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of TravelMagma.com and this policy.
 
- **
+**
 
 Children
 
@@ -60,4 +56,4 @@ Changes to this Policy
 
 TravelMagma.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-**You can choose to opt out from any service of TravelMagma at any time and stop completely the delivery of emails by logging into your account, going to[your profile](http://travelmagma.com/profile/) and pressing the link "Delete this account". **
+**You can choose to opt out from any service of TravelMagma at any time and stop completely the delivery of emails by logging into your account, going to[your profile](http://www.travelmagma.com/profile/) and pressing the link "Delete this account". **
