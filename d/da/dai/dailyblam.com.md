@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyblam.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525193117id_/http%3A//dailyblam.com/node/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyblam.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216034931id_/http%3A//gotham-news.com/node/2) for the most accurate reproduction.*
 
-# Privacy Policy | The Daily BLAM!
+# Privacy Policy | Gotham News
 
 ### What information do we collect?
 
@@ -73,5 +73,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**www.dailyblam.com  
-[admin@dailyblam.com](mailto:admin@dailyblam.com)**
+**www.gotham-news.com  
+[admin@gotham-news.com](mailto:admin@gotham-news.com)**
