@@ -1,64 +1,218 @@
-> *The following text is extracted and transformed from the thegreatcourses.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204225543id_/http%3A//www.thegreatcourses.com/tgc/About%2520Us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreatcourses.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216220320id_/http%3A//www.thegreatcourses.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Personal Information and Privacy Policy
+# Privacy Policy
+
+### The Great Courses Privacy Policy Effective Date:
+
+July 15, 2014 
+
+Welcome to thegreatcourses.com (“The Great Courses”) Website (“Website”). The Great Courses, its subsidiaries and affiliates, or other members of our family of companies value your participation and loyalty. We are committed to the protection of member and community privacy. The Great Courses has created this Privacy Policy in order to demonstrate its commitment to the privacy and protection of your personal information. To better protect your privacy, The Great Courses provides this notice explaining our information practices and the choices you can make about the way your information is collected and used. 
+
+**Information about Us**
+
+Our Website is operated by The Teaching Company, LLC, 4840 Westfields Blvd., Suite 500, Chantilly, VA 20151-2299 (under the trading name of The Great Courses). If you would like information on how to contact us, click Contact Us. 
+
+  * ######  What Information Is Collected 
+
+  * ######  How Do We Collect Information 
+
+  * ######  How Is your Information Used
+
+  * ###### Shared Information
+
+  * ######  Links To Third-party Websites 
+
+  * ###### Information Security
+
+  * ######  Data Retention Periods
+
+  * ######  Other Social Media Websites, Blogs, Message Boards 
+
+  * ######  General Audience Website Not Directed Toward Children 
+
+  * ######  Consent to Privacy Policy
+
+  * ######  Access to Personal Information 
+
+  * ######  Your California Privacy Rights 
+
+  * ######  Questions About This Privacy Policy 
+
+
+
+
+##### **1.What Information Is Collected**
+
+The following are the types of information we may collect: 
+
+The Great Courses may collect personal information like name, telephone number, email address, date of birth, home or business mailing address, and details regarding your mode of payment, _e.g._ , credit/debit card or account information, when you access certain areas of the Website that require registration or payment for products and services, or if you require more information about those services. 
+
+**Non-Personal Information**
+
+At other times, The Great Courses may collect information that cannot be used to directly identify you, such as browser type, Dynamic Internet Protocol (IP) address, “click stream” data, and similar non-personally identifiable information. For example, we may aggregate non-personal information about you and other customers who visit certain areas of our Website. Aggregated information will not contain any information that can be linked directly back to you. 
+
+While we take all reasonable steps to protect the privacy of our Website visitors, we cannot promise that the current limitations of our online applications programming will address every browser setting or honor every personal browser preference. In particular, we have not implemented the necessary program changes to honor “Do Not Track” or “DNT” browser signals. As our online applications programming is refined, we will take all reasonable steps to honor such requests in the future. Please return to this Privacy Policy for further updates on this topic. 
+
+Further, our online service providers or business partners may implement technologies that allow for the collection of personally identifiable information over time and across Websites. We recommend that you review each privacy policy posted on the Websites that you visit to better understand privacy practices on those Websites. 
+
+**Electronic Communications**
+
+When you open emails from us or engage in SMS or MMS communications, we may log and store such information. We may also keep records of various communications regarding the types of products and services that you indicate are of interest to you via your response to email and text messaging. You will always have the option to opt-out of such communications by clicking an “unsubscribe” link or replying “STOP” to our text messages. 
 
   
 
 
-## How we use or disclose your name, address, and e-mail address
+######## Back
 
-We use your name and address to send you course materials you order, our catalogs, and newsletters. 
+###### **2.How Do We Collect Information**
 
-Here's what we do with your e-mail address: 
+We may collect information from you in several different areas on the Website, including, without limitation, those described below: 
 
-  * **Send you order confirmations.** You should receive via e-mail an order confirmation within moments of placing your order. 
-  * **Send you course starter materials.** Designed to supplement your learning experience, you'll receive course starter materials for every course you purchase. These materials include the professor's summary of the course, links to recommended websites, and recommended readings. 
-  * **Send you free articles.** Occasionally, you'll receive interesting and compelling articles of interest on the subjects covered by our courses. 
-  * **Collect your feedback on courses and professors.** You'll receive e-mail surveys to vote for the Great Courses you want us to make, to rate the quality of Great Courses you've purchased, to tell us what improvements to make to The Great Courses and our services, and to tell us which professors we should choose to make the next Great Course. 
-  * **Notify you of special sale offers.** You'll receive e-mails notifying you when courses featured in our print catalogs and newsletters go on sale. These e-mails also make ordering extremely simple—if you see courses that interest you, simply click on the links in the e-mail to find out more. 
+**Registration**
+
+You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features on the Website or digital messaging services, such as newsletters or contests. Your decision to register is voluntary and you will have the opportunity to decide whether or not to disclose information to us and what communications you would like to receive; however, please be advised that many products and services available on the Website require registration and if you elect not to provide such information, you will not be able to take advantage of those products and services. 
+
+**Contests or Sweepstakes**
+
+We periodically operate contests and sweepstakes through the Website and messaging services that will require registration or the submission of personal information. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes (see the rules of each contest for details about how your personal information will be used, including postings to the Website). 
+
+**Surveys and Games**
+
+From time-to-time we may request personally identifiable information from you in conjunction with a survey or games, such as quizzes. Participation is voluntary, and you will have the opportunity to decide whether or not to disclose information to the Website. At times, you may have to register to vote or to take part in a survey. When you register to play games on our Website, you may be asked to provide personally identifiable information. 
+
+**Cookies and Tracking Technology**
+
+We may use any number of tools to collect information about you, your computer access points, and the web browser that you use to connect to our Website. For example, “cookies” are tiny text files that we place on your computer’s hard drive when you visit our Website. We may use cookies to personalize your Website experience. You do not have to accept our cookies and you may delete them after they have been placed on your hard drive. If you do not accept or delete our cookies, some areas of our Website that you access may take more time to work, or may not function properly. For more information about cookies, visit: http://www.allaboutcookies.org. 
+
+The Great Courses may also collect additional information from your web browser each time you visit our Website. We may collect information on the pages that you visit, the promotions or advertisements that you click on, and other actions that you take while using our Website. This information may include your IP address, the type of browser, the time that your browser was used to access our Website, and the referring Website address. 
+
+Our Internet Service Providers (defined below) may also use other standard web-based technologies to analyze your movements while accessing our Website. The technologies include analytic solutions, web “beacons,” “pixel tags,” and “clear gifs.” These technologies help us ascertain the effectiveness of our product and service campaigns and marketing programs, allow us to customize the services offered on or through our Website, and help determine the best use for Website content, and product and service offerings. Some of this information, including the IP address, may be stored on our Internet service provider’s server logs, and may be available for extended periods of time. 
+
+**Transaction Information**
+
+If you conduct a financial or other transaction with the Website, such as subscribe to a Subscription Product or other products/services offered on the Website, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and/or financial information. Even though the collection form may have the look and feel of thegreatcourses.com, please be aware you may be giving your information directly to the third party Internet Service Provider, and that in some instances such third party Internet Service Provider's Privacy Policy will govern the collection of your personal information. Please reference the privacy policies available from these pages for any privacy related concerns. 
+
+We and/or our Internet Service Providers will use this information to complete the financial or other transaction that you have requested, _i.e.,_ to deliver the information, products or other services that you request or purchase, to invoice you, and in a manner consistent with this Privacy Policy. For your protection, financial information is collected and stored through encrypted means. 
+
+  
 
 
+######## Back
+
+###### **3.How Is your Information Used**
+
+Thegreatcourses.com uses the services of independent companies to provide certain services to you, including, without limitation, Website hosting services, credit and debit card processing, order fulfilment, contest and sweepstakes processing, and Internet connectivity services (“Internet Service Providers”). 
+
+We use your personal information to send you order confirmations. In such cases, you should receive via e-mail an order confirmation within moments of placing your order. Designed to supplement your learning experience, you will receive course starter materials for every course you purchase. These materials include the professor's summary of the course, links to recommended websites, and recommended readings. Occasionally, you will receive interesting and compelling articles of interest on the subjects covered by our courses. From time-to-time you may receive e-mail surveys to vote for The Great Courses you want us to make, to rate the quality of The Great Courses you have purchased, to tell us what improvements to make to The Great Courses and our services, and to tell us which professors we should choose to make the next Great Course. We may also use your personal information to notify you of special offers. You will receive e-mails notifying you when courses featured in our print catalogs and newsletters go on sale. These e-mails also make ordering extremely simple—if you see courses that interest you, simply click on the links in the e-mail to find out more. 
+
+We may also use your IP address to help protect us and our Internet Service Providers from fraud. Additional uses of your non-personal and personal information will allow us to tailor products and services specific to your needs, to help organize and manage your customer relationship and our business, to conduct business, to provide you with customer and member support, to perform functions that are described to you at the time of collection, and to enforce our Website’s Terms and Conditions of Use. 
+
+We may also use non-personal aggregate information to improve our Website. For example, our Internet Service Providers may report to us that there were a particular number of visitors to a certain area of our Website, or that a certain number of men or a certain number of women completed our registration form in particular areas of our Website. Such information may also be used to analyze the effectiveness of our business and advertising models. 
+
+  
+
+
+######## Back
+
+###### **4\. Shared Information**
+
+We may share your personal information with the Internet Service Providers as appropriate. For personal information collected after the effective date of this Privacy Policy, we may also share personally identifiable information with outside, non-affiliated third parties that offer products and services that are complementary to our product lines. However, such collection and use of personal information will not be retroactively applied to personal information collected before the effective date of this Privacy Policy, without your consent. We may also disclose your personal information as is necessary to: (a) comply with a subpoena or court order; (b) cooperate with law enforcement or other government agency; (c) establish or exercise our legal rights; (d) protect the property or safety of our company and employees, contractors, vendors, and suppliers; (e) defend against legal claims; (f) help with internal and external investigations; or (g) as otherwise required by law or permitted by law. We may disclose your information in connection with the sale or merger of The Great Courses or any transaction that involves the sale or assignment of some or all of our assets. 
+
+Third-Party ad serving, analytics, and audience and traffic measurement services: We may use a third-party network advertiser to serve the advertisements on the Website or may use a traffic measurement service to analyze the traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to this Website and other Websites you have visited. Third-party ad serving enables us to target advertisements to you for products or Websites you might be interested in. audience and traffic measurement services allow us to collect anonymous traffic and behavior information from the Website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Website cookies, the Website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third-party advertisers to show you advertisements or content you might be interested in. Note that any images (or any other parts of a web page) served by third parties in association with third-party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Other companies' uses of their cookies are subject to their own privacy policies, not this one. Please visit http://www.networkadvertising.org/optout_nonppii.asp in order to learn more about the information collection practices and "opt-out" procedures of third-party ad servers we may use. 
 
 With regard to name and postal address only, from time to time, we may make our mailing list available to carefully screened companies. If you prefer we don’t share your name and postal address, please call our Customer Care team at 1-800-832-2412 or write to us at The Great Courses, 4840 Westfields Blvd., Suite 500, Chantilly, VA, 20151-2299. (However, because this reflects a change in practice, the new policy applies only to the names and postal addresses of new customers added to our mailing list after October 1, 2013.) 
 
-## How we protect your billing information
-
-When you order from us online, we protect your information by using Secure Sockets Layer (SSL) protocol. We are secured by Comodo, the leading provider of SSL encryption keys. SSL encryption electronically masks any information you send us. With this state-of-the-art system, you can enter your credit card number and delivery and billing information safely. The encryption process protects the information by scrambling it before it is sent to us.
-
-You can verify our compliance at any time by clicking on the Comodo logo located on our Shopping Cart page or any page in the checkout process. 
-
-If you feel uncomfortable buying through our site, we'd be delighted to take your orders via: 
-
-**Phone:** 1-800-832-2412 
-
-Office hours: 9:00 a.m. to 12 midnight eastern time Monday through Friday; and 9:00 a.m. to 5:00 p.m. eastern time   
-Saturday and Sunday. After hours, an automated voice mail system is available. 
-
-**Fax:** 703-378-3819
-
-**Mail:**|  The Great Courses   
----|---  
-| 4840 Westfields Blvd., Suite 500   
-| Chantilly, VA 20151  
   
 
 
-## How we use "cookies" information
+######## Back
 
-We use cookies, a technology widely used on the Internet, to make your visit to The Great Courses website more effective. 
+###### **5.Links To Third-party Websites**
 
-The information that cookies provide us helps us to
+Links of this Website may allow you to directly access Websites operated by third parties, including, without limitation, our service providers (such as third-party shopping cart service provider) or marketing providers. Some of these third-party marketing channels may be “co-branded” with our logo; even so, these third-party channels are not operated, controlled or maintained by The Great Courses. These channels or links are provided for your convenience only and should be used with your discretion and prudent judgment. Links from our Website to third-party Websites do not constitute sponsorship, endorsement, or approval of the content, policies or practices of such third-party Websites. The collection and use of your information by such co-branding third parties is the responsibility of the co-branding partner, and they may use your personal information for their direct marketing purposes. We are not responsible for any information these Websites or digital channels may obtain and we do not oversee their policies or practices. This Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. The privacy policies of these third-party Websites may differ from ours. These Websites may ask you for Personal Information. Please review the privacy policy on third-party channels before submitting information, because we do not have control over the use of information collected on these Websites. Please review the privacy policies and practices of these digital channels before providing any Personal Information. 
 
-  * offer you special sale opportunities, 
-  * allow you to navigate our website more easily and faster, and 
-  * provide you with lower prices by better understanding what interests you. 
+  
 
 
+######## Back
 
-No personal information is stored in long-term cookies. And we do not sell or redistribute cookie-based information to anyone. Period.
+###### **6.Information Security**
 
-## How Can I Change My Personal Information?
+The Great Courses makes reasonable efforts to ensure that our Internet Service Providers have implemented physical, electronic, and procedural security measures to assist with safeguarding your personal information, and to help protect against unauthorized access and disclosure. Only our authorized personnel and our Internet Service Providers who perform legitimate business functions for The Great Courses are authorized to access your personal information. 
 
-If you are a registered user of our website, you can correct or update your personal information on the [My Account](https://web.archive.org/tgc/accounts/home.aspx) page of our website.
+Notwithstanding our efforts, the Internet and online services have inherent security risks. The Great Courses cannot promise, and you should not expect, that your personal information, personal searches, and other communications will always remain secure. You should take care with regard to how you handle and disclose your personal information or any username or password that you are required to use to access services on this Website or online service. 
 
-If you are not a registered user of our website, [Contact Us](https://web.archive.org/tgc/About-Us/contactus.aspx), and we can correct or update your personal information. If you have multiple addresses, we ask that you please send us the multiple address references.
+  
+
+
+######## Back
+
+###### **7.Data Retention Periods**
+
+We will retain your personally identifiable information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [customerservice@thegreatcourses.com](mailto:customerservice@thegreatcourses.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+  
+
+
+######## Back
+
+###### **8.Other Social Media Websites, Blogs, Message Boards**
+
+The Website and The Great Courses Mobile application ("The Great Courses Mobile") may make chat rooms, forums, commenting and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. In addition, when you post a comment to The Great Courses Mobile, the user name with which you registered for the Website and your current location will be made publicly available on the Website and through The Great Courses Mobile. By using the commenting features of the Website and The Great Courses Mobile, you acknowledge that your user name and location information will be disclosed. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our blog or community forum, contact us at: [customerservice@thegreatcourses.com](mailto:customerservice@thegreatcourses.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+
+  
+
+
+######## Back
+
+###### **9.General Audience Website Not Directed Toward Children**
+
+This Website is a general audience Website. Our content is neither directed toward minors nor children who are under the age of 13. We do not knowingly collect personal information from children under the age of 13. If The Great Courses or our Internet Service Providers become aware that a minor or a child under the age of 13 has provided us with personal information without the parental consent, that information will be deleted from our databases. Parents who have questions about personal information that may have been submitted by a child under the age of 13 should email us at: [customerservice@thegreatcourses.com](mailto:customerservice@thegreatcourses.com). 
+
+  
+
+
+######## Back
+
+###### **10.Consent to Privacy Policy**
+
+By using the Website, you signify your agreement to the terms of this Privacy Policy. We may amend this Privacy Policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on the Website and/or send an email to users who have provided an email address. Please note that you should always update your personal information to provide us with a current email address. 
+
+  
+
+
+######## Back
+
+###### **11.Access to Personal Information and Consent to Transfer**
+
+The first time that you provide us with registration information through our Website, you may be offered the opportunity to subscribe to and receive additional information about our products and services. After your first use, you can make changes to your personal information and your initial choices by accessing your account or by contacting customer service e-mail at [customerservice@thegreatcourses.com](mailto:customerservice@thegreatcourses.com). 
+
+The United States may not have data privacy laws that are deemed to afford an equal level of protection for your Personal Information as those laws legislated at the direction of the European Union or similar geopolitical, national or regional legislative bodies. However, please be assured that The Great Courses will continue to adhere to the principles stated in this Privacy Policy and will make reasonable efforts to comply with applicable international, national, regional, territorial, and provincial laws in connection with any information collected through the Website. The Great Courses will endeavor to preserve the integrity, confidentiality, and security of personal information and afford such personal information reasonable level of protection. 
+
+For those Website users located outside the United States, we advise you that your information may at times be accessible by individuals who are located worldwide including in countries that the European Commission or other geopolitical regions have not been determined to provide the same level of data protection as in your country, province, territory or geopolitical region. By providing us with your Personal Information, you consent to our use of it in accordance with The Great Courses’ Privacy Policy, including the transfer of your information across international boundaries to jurisdictions anywhere in the world as permitted by local law. 
+
+  
+
+
+######## Back
+
+###### **12.Your California Privacy Rights**
+
+Other than as is stated by this Privacy Policy, the Great Courses will not share any personal information about you with outside third-parties for their direct marketing purposes to the extent prohibited by California law, unless you agree otherwise as authorized by your prior written consent. 
+
+California residents have the right to request information from The Great Courses regarding the manner that we may share personal information with affiliated companies and third parties for their direct marketing purposes. To find out what and how we share such information, you may send us an e-mail request at: [customerservice@thegreatcourses.com](mailto:customerservice@thegreatcourses.com) or mail a request to: Privacy Officer, The Great Courses 4840 Westfields Blvd. Suite #500 Chantilly, VA 20151-2299, and receive the following information: 
+
+**A.** The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year, if any; 
+
+**B.** The names and addresses of the third parties who received information for their direct marketing purposes; and 
+
+**C.** Examples of the products and services subject to the third-parties’ direct marketing programs, if the nature of the third parties’ business cannot be determined from their names. 
+
+  
+
+
+######## Back
+
+###### **13.Questions About This Privacy Policy**
+
+If you have any questions about this Privacy Policy or the privacy practices of this Website, please contact us by email at [customerservice@thegreatcourses.com](mailto:customerservice@thegreatcourses.com). 
