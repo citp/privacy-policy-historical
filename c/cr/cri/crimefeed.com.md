@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimefeed.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130127id_/http%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimefeed.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216110640id_/http%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Discovery Communications
 
