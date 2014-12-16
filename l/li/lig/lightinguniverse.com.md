@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lightinguniverse.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812062044id_/http%3A//www.lightinguniverse.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightinguniverse.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216124842id_/http%3A//www.atgstores.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Lighting Universe
+# Privacy Policy
 
 Effective Date: 9/21/2012
 
-Allied Trade Group (“ATG”) respects your concerns about privacy. This Privacy Notice applies to personal information we collect on ATG. The term “Site” refers to the areas of ATG that are covered by this Privacy Notice. 
+ATGStores.com respects your concerns about privacy. This Privacy Notice applies to personal information we collect on ATGStores.com. The term “Site” refers to the areas of ATGStores.com that are covered by this Privacy Notice. 
 
 This Privacy Notice describes the types of personal information we collect on the Site, how we may use that information and with whom we may share it. The Privacy Notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to update your preferences regarding how we communicate with you or answer any questions you may have about our privacy practices. 
 
@@ -34,7 +34,7 @@ Here are the types of information you may submit:
   * Contact information, such as your name, postal address, telephone number, and email address. 
   * Login and access credentials (such as username and password) for accounts maintained on our Site. 
   * Payment information, such as your payment card number and expiration date. 
-  * Detailed information about your ATG purchases. 
+  * Detailed information about your ATGStores.com purchases. 
   * Questions, communications and other content you submit, such as photographs, product information and details about your projects. 
   * Other personal information, via voluntary survey including but not limited to, your occupation, gender or age. 
 
@@ -59,7 +59,7 @@ Data about your activities online is being collected on our Site for use in prov
 
 You may see certain ads on other websites because we participate in advertising networks administered by a third party such as Omniture and Google Analytics. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, Web server l
 
-ogs and Web beacons, and they use this information to show you advertisements for ATG that are tailored to your individual interests. The information they collect includes information about your visit to our Site, such as the pages you have viewed. This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network. This process also helps us track the effectiveness of our marketing efforts. To learn more about ad networks, including how to opt out, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+ogs and Web beacons, and they use this information to show you advertisements for ATGStores.com that are tailored to your individual interests. The information they collect includes information about your visit to our Site, such as the pages you have viewed. This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network. This process also helps us track the effectiveness of our marketing efforts. To learn more about ad networks, including how to opt out, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ## How We Use the Information We Collect
 
@@ -94,7 +94,7 @@ You may amend your preferences regarding how we communicate with you by clicking
 
 Subject to certain limitations under California Civil Code § 1798.83, if you are a California resident, you may ask us to provide you with (i) a list of certain categories of personal information that we have disclosed to certain third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of certain third parties that received personal information from us for their direct marketing purposes during that calendar year. To make such a request, please contact us as follows:
 
-ATG Privacy Office  
+ATGStores.com Privacy Office  
 Allied Trade Group, Inc.  
 11410 N.E. 122nd Way, Suite 200  
 Kirkland, WA 98034
@@ -105,7 +105,7 @@ We maintain administrative, technical and physical safeguards to protect the per
 
 ## Links to Other Sites
 
-This Site contains links to other websites for your convenience and information. These websites may be operated by companies not affiliated with us. Linked websites, including those operated by ATG’s, may have their own privacy notices, which we strongly suggest you review if you visit them. We are not responsible for the content of any websites that we do not control, any use of those websites, or the privacy practices of those websites.
+This Site contains links to other websites for your convenience and information. These websites may be operated by companies not affiliated with us. Linked websites, including those operated by ATGStores.com’s, may have their own privacy notices, which we strongly suggest you review if you visit them. We are not responsible for the content of any websites that we do not control, any use of those websites, or the privacy practices of those websites.
 
 ## Updates to Our Privacy Notice
 
@@ -115,7 +115,7 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us using on of the methods indicated below. “Contact us” form available at <http://www.atgstores.com/support/support.aspx>
 
-ATG Privacy Office  
+ATGStores.com Privacy Office  
 Allied Trade Group, Inc.  
 11410 N.E. 122nd Way, Suite 200  
 Kirkland, WA 98034
