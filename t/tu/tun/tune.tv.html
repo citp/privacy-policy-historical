@@ -1,0 +1,1177 @@
+<!--The following is the downloaded HTML source of the tune.tv privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216174212id_/http%3A//tune.tv/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- ClipBucket v2 -->
+    <meta name="copyright" content="ClipBucket - PHPBucket ClipBucket 2007 - 2014">
+    <meta name="author" content="Arslan Hassan - http://clip-bucket.com/arslan-hassan">
+    <link rel="shortcut icon" href="http://tune.tv/favicon.ico">
+    <link rel="icon" type="image/ico" href="http://tune.tv/favicon.ico">
+
+    <!-- RSS FEEDS -->
+    <link rel="alternate" type="application/rss+xml" title="Recently added videos" href="http://tune.tv/rss/recent">
+<link rel="alternate" type="application/rss+xml" title="Most Viewed Videos" href="http://tune.tv/rss/views">
+<link rel="alternate" type="application/rss+xml" title="Top Rated Videos" href="http://tune.tv/rss/rating">
+<link rel="alternate" type="application/rss+xml" title="Videos Being Watched" href="http://tune.tv/rss/watching">
+
+
+    <meta name="keywords" content="dramas, online, watch, premium content, licensed content">
+    <meta name="description" content="Tune.tv is a prime online destination which provides you with premium quality legal content. Watch all your favorite T.V drama serials and shows online with us.">
+    <meta name="distribution" content="global">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Tune.tv - privacy</title>
+
+    <link href="http://tune.tv/styles/tunemedia/theme/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="http://tune.tv/styles/tunemedia/theme/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://tune.tv/styles/tunemedia/theme/main.css" rel="stylesheet" type="text/css">
+    <link href="http://tune.tv/styles/tunemedia/theme/css/all.css" rel="stylesheet" type="text/css">
+    <link href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css">
+        <link href="http://tune.tv/styles/tunemedia/theme/css/less.css?v=7152014" rel="stylesheet" type="text/css">
+        <!-- <link href='http://fonts.googleapis.com/css?family=Lily+Script+One' rel='stylesheet' type='text/css'> -->
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Rochester|Roboto:400,300,300italic,500,700|Varela+Round" rel="stylesheet" type="text/css">
+
+
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script>
+var baseurl = 'http://tune.tv';
+var imageurl = 'http://tune.tv/styles/tunemedia/images';
+</script>
+<!-- <link rel="stylesheet" href="http://tune.tv/styles/global/jquery_ui.css" type="text/css" media="all" /> -->
+<script type="text/javascript" src="http://tune.tv/js/jquery.migrate.js"></script>
+<!-- <script type="text/javascript" src="http://tune.tv/js/ui/jquery-ui.js"></script> -->
+ 
+<script type="text/javascript">
+var embedPlayerWidth = '300';
+var embedPlayerHeight = '250';
+var autoPlayEmbed = 'yes';
+
+
+
+function updateEmbed(width,height,autoplay)
+{
+	$('#embed_code').val( $('#embed_code').val().replace(/width=\"([0-9]+)\"/g,'width="'+width+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/width\:([0-9]+)px/g,'width:'+width+'px') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height=\"([0-9]+)\"/g,'height="'+height+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height\:([0-9]+)px/g,'height:'+height+'px') );
+}
+
+function switchEmbedCode(type)
+{
+	if(embed_type==type)
+		return false;
+	else
+	{
+		embed_type = type;
+		
+		var alt_embed =$('#alternate_embed_code').val();
+		$('#alternate_embed_code').val($('#embed_code').val());
+		$('#embed_code').val(alt_embed);
+		
+	}
+}
+
+
+
+</script>
+
+
+<!-- Including JS Files-->
+   <script src="http://tune.tv/js/jquery_plugs/cookie.js" type="text/javascript"></script>
+    <script src="http://tune.tv/js/functions.js" type="text/javascript"></script>
+ <!-- Including JS Files-->
+<script type="text/javascript">
+	callURLParser();
+</script>
+<!-- Including Plugin Headers -->
+	<script type="text/javascript">
+
+
+	var download = 0;
+	var total_size = 0;
+	var cur_speed = 0;
+	
+	var status_refesh = 1 //in seconds
+	var result_page = '';
+	var download_page = 'http://tune.tv/plugins/cb_multi_server/api/remote_upload.php';
+	var server_path = '';
+	var count = 0;
+	
+	
+	var force_stop = false;
+	var remoteObjID = randomString();
+	
+	
+	function ms_remote_upload()
+	{
+		
+		
+		$('#remoteUploadBttn').attr("disabled","disabled").hide();
+		$('#ytUploadBttn').attr("disabled","disabled");
+		$('#remoteUploadBttnStop').show();
+		var file = $("#remote_file_url").val();
+		force_stop = false;		
+		var theError = false;
+		
+		$.post(baseurl+'/actions/file_downloader.php',
+			{check_url:file},function(data)
+			 {
+				  if(data.err)
+				  	theError = true;
+			  },"json"
+		);
+			
+			
+		if(!file || file=='undefined' || theError)
+		{
+			alert("Please enter file url");
+			$('#remoteUploadBttn').removeAttr('disabled').show();
+			$('#remoteUploadBttnStop').attr("disabled","disabled").hide();
+			$('#ytUploadBttn').removeAttr("disabled");
+			return false;
+		}
+		
+		
+		var remoteFileName = getName(file);
+		$("#loading").html('<div style="float: left; display: inline-block;"><img src="'+imageurl+'/ajax-loader.gif"></div><div style="float: left; line-height: 16px; padding-left:5px">'+lang.remoteUploadFile+'</div><div class="clear"></div>');
+		$('#remoteFileName').replaceWith('"'+remoteFileName+'"');
+				 
+		var ajaxCall = $.ajax({
+			  url: download_page,
+			  type: "POST",
+			  data: ({file:file,file_name:file_name,server_path:server_path}),
+			  dataType : 'json',
+			  beforeSend : function()
+			  {
+				  
+				  ms_status_update();
+			  },
+			  success: function(data)
+			  {
+				  
+				  if(data.error)
+				  {		  
+					force_stop = true;
+					$('#remoteUploadBttn').removeAttr('disabled');
+					$('#ytUploadBttn').removeAttr("disabled");
+					alert(data.error);
+					$("#loading").html('');$('#remoteDownloadStatus').hide(); 
+					$('#remoteUploadBttnStop').hide();
+					$('#remoteUploadBttn').removeAttr('disabled').show();
+					return false;
+				  }				  
+				  $("#loading").html('');
+				  var vid = data.vid;
+				  var embed_code = data.embed_code;
+				  var video_link = data.video_link;
+				  
+				   $.post(baseurl+'/actions/file_uploader.php',
+				  {"getForm":"get_form","title":$("#remote_file_url").val(),"objId":remoteObjID},
+				  function(data)
+				  {
+					    $('#remoteUploadBttnStop').hide();
+						$('#ytUploadBttn').hide();
+						$('#remoteFormMS').append(data);
+							$('#cbSubmitUpload'+remoteObjID)
+							.before('<span id="updateVideoDataLoading" style="margin-right:5px"></span>')
+							.removeAttr("disabled")
+							.attr("value",lang.saveData)
+							.attr("onClick","doUpdateVideo('#uploadForm"+remoteObjID+"','"+remoteObjID+"')")
+							.after('<input type="hidden" name="videoid" value="'+vid+'" id="videoid" />')
+							.after('<input type="hidden" name="updateVideo" value="yes" id="updateVideo" />');
+							
+							
+							$('#video_link_'+remoteObjID)
+							.removeAttr('disabled')
+							.val(video_link);
+							
+							//Add video embed code
+							$('#video_embed_'+remoteObjID)
+							.removeAttr('disabled')
+							.val(embed_code);
+							
+							force_stop = true;
+							
+							
+				  },'text');
+			  }
+		   }
+		);
+		
+		$('#remoteUploadBttnStop').click(function() { 
+		ajaxCall.abort(); force_stop=true; $("#loading").html('');$('#remoteDownloadStatus').hide(); $(this).hide();$('#remoteUploadBttn').attr('disabled','').show(); });
+		
+		
+	}
+        
+        
+        
+        function ms_yt_upload()
+	{
+		
+		
+		$('#remoteUploadBttn').attr("disabled","disabled").hide();
+		//$('#ytUploadBttn').attr("disabled","disabled");
+		$('#remoteUploadBttnStop').show();
+		var file = $("#remote_file_url").val();
+		force_stop = false;		
+		var theError = false;
+			
+			
+		if(!file || file=='undefined' )
+		{
+			alert("Please enter file url");
+			$('#remoteUploadBttn').removeAttr('disabled').show();
+			$('#remoteUploadBttnStop').attr("disabled","disabled").hide();
+			$('#ytUploadBttn').removeAttr("disabled");
+			return false;
+		}
+		
+		
+		var remoteFileName = getName(file);
+		$("#loading").html('<div style="float: left; display: inline-block;"><img src="'+imageurl+'/ajax-loader.gif"></div><div style="float: left; line-height: 16px; padding-left:5px">'+lang.remoteUploadFile+'</div><div class="clear"></div>');
+		$('#remoteFileName').replaceWith('"'+remoteFileName+'"');
+				 
+		var ajaxCall = $.ajax({
+			  url: download_page,
+			  type: "POST",
+			  data: ({file:file,file_name:file_name,server_path:server_path,youtube:'yes'}),
+			  dataType : 'json',
+			  beforeSend : function()
+			  {
+				  
+				 // ms_status_update();
+			  },
+			  success: function(data)
+			  {
+				  
+				  if(data.error)
+				  {		  
+					force_stop = true;
+					$('#remoteUploadBttn').removeAttr('disabled');
+					$('#ytUploadBttn').removeAttr("disabled");
+					alert(data.error);
+					$("#loading").html('');$('#remoteDownloadStatus').hide(); 
+					$('#remoteUploadBttnStop').hide();
+					$('#remoteUploadBttn').removeAttr('disabled').show();
+					return false;
+				  }				  
+				  $("#loading").html('');
+				  var vid = data.vid;
+				  var embed_code = data.embed_code;
+				  var video_link = data.video_link;
+				  
+				   $.post(baseurl+'/actions/file_uploader.php',
+				  {"getForm":"get_form",
+                                  "title":data.title,"tags":data.tags,"description":data.description,
+                                  "objId":remoteObjID
+                                      
+                                      
+                                  },
+				  function(data)
+				  {
+					    $('#remoteUploadBttnStop').hide();
+						$('#ytUploadBttn').hide();
+						$('#remoteFormMS').append(data);
+							$('#cbSubmitUpload'+remoteObjID)
+							.before('<span id="updateVideoDataLoading" style="margin-right:5px"></span>')
+							.removeAttr("disabled")
+							.attr("value",lang.saveData)
+							.attr("onClick","doUpdateVideo('#uploadForm"+remoteObjID+"','"+remoteObjID+"')")
+							.after('<input type="hidden" name="videoid" value="'+vid+'" id="videoid" />')
+							.after('<input type="hidden" name="updateVideo" value="yes" id="updateVideo" />');
+							
+							
+							$('#video_link_'+remoteObjID)
+							.removeAttr('disabled')
+							.val(video_link);
+							
+							//Add video embed code
+							$('#video_embed_'+remoteObjID)
+							.removeAttr('disabled')
+							.val(embed_code);
+							
+							force_stop = true;
+							
+							
+				  },'text');
+			  }
+		   }
+		);
+		
+		$('#remoteUploadBttnStop').click(function() { 
+		ajaxCall.abort(); force_stop=true; $("#loading").html('');$('#remoteDownloadStatus').hide(); $(this).hide();$('#remoteUploadBttn').attr('disabled','').show(); });
+		
+		
+	}
+	
+	
+	function ms_status_update()
+	{
+		
+
+		$.getJSON(result_page+"?file_name="+file_name+"&jsoncallback=?", function(data)
+	{
+				
+				  if(data)
+				  {
+					  var total = data.total_size;
+					  var download = data.downloaded;
+					  var total_fm = data.total_size_fm;
+					  var download_fm = data.downloaded_fm;
+					  var speed = data.speed_download;
+					  var eta = data.time_eta;
+					  var eta_fm = data.time_eta_fm;
+					  var time_took = data.time_took;
+					  var time_took_fm = data.time_took_fm;
+					   
+					  if(speed/1024/1024>1)
+					  {
+						var theSpeed = Math.round(speed / 1024/1024) + " Mbps";
+					  }else
+						var theSpeed = Math.round(speed/ 1024 ) + " Kbps";
+					  
+					perc_download = Math.round(download/total*100);
+					
+					$('#remoteDownloadStatus').show();
+					//$('#prog_bar').width(perc_download+'%');
+					$('#prog_bar').animate({width:perc_download+'%'},1000);
+					$('#prog_bar').html(perc_download+'%');
+					$('#dspeed').html(theSpeed);
+					$('#eta').html(eta_fm);
+					$('#status').html(download_fm+' of '+total_fm);
+				  }
+					
+					var intval = status_refesh*1000;
+					
+					if(perc_download<100 && !force_stop)
+					setTimeout(function(){ms_status_update()},intval);
+					
+					else if(perc_download==100 && total>1)
+					{
+						
+						$('#time_took').html('Time Took : '+time_took_fm);
+					}
+			}
+			);
+		
+	}
+	
+	
+</script>
+	<script>
+ 
+ var RecaptchaOptions = {
+    theme : 'white'
+	
+ };
+ 
+</script>
+
+	<script type="text/javascript" src="http://tune.tv/player/cbplayer/cbplayer.js"></script>
+<!-- Ending Plugin Headers -->
+
+
+
+<script type="text/javascript">
+
+window.onload = function() {
+		ini_cookies();
+}
+
+</script>
+
+
+
+
+
+
+
+<script>
+$(function() {
+
+	$( ".date_field" ).datepicker({ 
+		dateFormat: 'yy-mm-dd',
+		changeMonth: true,
+		changeYear: true,
+		yearRange : "1901 : c"
+		});
+});
+</script>
+
+
+
+
+<!-- ClipBucket version 2.7 -->
+
+    <script type="text/javascript" src="http://tune.tv/styles/tunemedia/theme/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://tune.tv/styles/tunemedia/theme/js/jquery.lazyload.min.js"></script>
+    <script type="text/javascript" src="http://tune.tv/styles/tunemedia/theme/js/jquery.slimscroll.min.js"></script>
+    <script type="text/javascript" src="http://tune.tv/styles/tunemedia/theme/js/jquery.main.js"></script>
+    <script type="text/javascript" src="http://tune.tv/styles/tunemedia/theme/js/jquery.tagsinput.js"></script>
+    <!-- <script type="text/javascript" src="http://tune.tv/styles/tunemedia/theme/js/jquery.min.js"></script> -->
+            <script type="text/javascript">
+
+        function lazyload_reposition( elements_left, settings, image ) {
+
+            if ( image.hasClass( 'lazyload-reposition-deprecated' ) ) {
+
+                image.css({
+                    'position' : ( image.data( 'css-position' ) ? image.data( 'css-position' ) : 'relative' ),
+                    'top' : '50%',
+                    'left' : '50%',
+                    'margin-left' : '-'+( image.width() / 2 )+'px',
+                    
+                    'margin-top' : '-'+( image.height() / 2 )+'px'
+                });
+
+                console.log( 'SRC', image.attr( 'src' ) );
+                console.log( 'WIDTH', image.width() );
+                console.log( 'HEIGHT', image.height() );
+            }
+        }
+
+        var tunemedia_toggle_configs = {
+          'more_text' : 'More',
+          'less_text' : 'Less',
+          'truncate' : ' ... ',
+          'content' : '.tunemedia-toggle-content',
+          'button' : '.tunemedia-toggle-button',
+          'open' : 'show'
+      };
+
+      function test_function_called_by_call( var1 ) {
+        alert( var1 );
+    }
+
+    $( document ).ready( function(){
+
+        var images = $('img.lazyload-reposition-deprecated');
+
+        if ( images.length > 0 ) {
+
+            $.each( images, function( index, value ){
+                var _this = $( value );
+                _this.on( 'load', function( event ){
+                    lazyload_reposition( null, [], _this );
+                });
+            });
+        }
+
+        /*$( 'img.lazy' ).lazyload({
+            data_attribute : "src",
+            placeholder : "data:image/gif;base64,R0lGODlhAQABAIAAAP%2F%2F%2FwAAACH%2FC1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFOUQyNTgxODU5QTgxMUUzQTE2ODg0QjVDRTgwMEJBNSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFOUQyNTgxOTU5QTgxMUUzQTE2ODg0QjVDRTgwMEJBNSI%2BIDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkU5RDI1ODE2NTlBODExRTNBMTY4ODRCNUNFODAwQkE1IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkU5RDI1ODE3NTlBODExRTNBMTY4ODRCNUNFODAwQkE1Ii8%2BIDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY%2BIDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8%2BAf%2F%2B%2Ffz7%2Bvn49%2Fb19PPy8fDv7u3s6%2Brp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR0M%2FOzczLysnIx8bFxMPCwcC%2Fvr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ%2BenZybmpmYl5aVlJOSkZCPjo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQT05NTEtKSUhHRkVEQ0JBQD8%2BPTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAAAAAsAAAAAAEAAQAAAgJEAQA7",
+            effect : "fadeIn",
+            skip_invisible : false,
+            load : lazyload_reposition
+        });*/
+
+var remove_lazy_load = $( 'img.lazy' );
+
+if( remove_lazy_load.length > 0 ) {
+    $.each( remove_lazy_load, function( index, value ){
+        var _this = $( value );
+
+        _this.attr( 'src', _this.attr( 'data-src' ) );
+    }); 
+}
+
+$( '.scroller' ).slimScroll({
+    color : '#c1272d',
+    alwaysVisible : true,
+            //height : '200px',
+            railOpacity : 0.3
+        })
+
+
+
+ 
+
+$( document ).on( 'click', '#btn-create-account', function( event ) {
+
+    var _self = $( this );
+
+    $.ajax( baseurl+'/ajax.php', {
+        'type' : 'POST',
+        'dataType' : 'json',
+        'data' : $( '#signup_form_id' ).serialize(),
+        beforeSend : function () {
+
+            _self.attr( 'disabled', 'disabled' );
+            _self.button( 'loading' );
+
+
+            $( '#signup_form_id' ).find( 'input' ).attr( 'disabled', 'disabled' );
+        },
+        success : function ( data ) {
+
+            if ( 'err' in data ) {
+
+                var msgs = '<div id="cbMessages" class="wrap" >';
+                msgs += '<div class="cb_errors alert alert-error">';
+                
+                msgs += '<button type="button" class="close" data-dismiss="alert">&times;</button>';
+                msgs += '<h5>Oops,please check following errors.</h5>';
+                msgs += '<ul id="messages" class="unstyled" style="margin: 0px">';
+                
+                
+                $.each(data.err,function(index,msg){
+                            //$('#'+index).trigger('focus');
+                            //$('#'+index).parents('.control-group').addClass('error');
+                            msgs += "<li>"+msg+"</li>";
+                            
+                        });
+                
+                msgs += '</ul>';
+                msgs += '</div>';
+                msgs += '</div>';
+
+                $( '#signup_form_id' ).find( 'input' ).removeAttr( 'disabled' );
+
+                _self.removeAttr( 'disabled' );
+                _self.button( 'reset' );
+
+                $( '#tune_msgs' ).html(msgs);
+
+                if ( Recaptcha != undefined ) {
+                    Recaptcha.reload();
+                }
+
+
+            } else if ( 'success' in data ) {
+
+                if ( 'redirect_to' in data ) {
+                    redirect = data.redirect_to;
+                } else {
+                    redirect = baseurl;
+                }
+
+                _self.val( 'Redirecting ...' );
+
+                window.location.href = redirect;
+
+            } else {
+                alert( 'Unknown Response' );
+            }
+            
+        }
+    });
+
+});
+
+$( document ).on( 'change keyup', '[data-watch-this=true]', function( event ){
+
+    if ( ( event.ctrlKey == true && event.which == 65 /* a */ ) || event.which == 17 ) {
+        return false;
+    }
+
+    var input = $( this ), seo_field = $( input.data( 'update-element' ) ),
+    updated_value = input.val().replace( /[\s\_]/g, '-'),
+    updated_value = updated_value.replace( /[^-A-Za-z0-9]/g, '').toLowerCase(),
+    updated_value = updated_value.replace( /--+/, '-' );
+
+    if ( !seo_field.data( 'permanent' ) ) {
+        seo_field.val( updated_value );
+    }
+});
+
+$( document ).on( 'change keyup', '[data-update-field=true]', function( event ){
+
+    if ( ( event.ctrlKey == true && event.which == 65 /* a */ ) || event.which == 17 ) {
+        return false;
+    }
+
+    var input = $( this ),
+    updated_value = input.val().replace( /[\s\_]/g, '-'),
+    updated_value = updated_value.replace( /[^-A-Za-z0-9]/g, '').toLowerCase(),
+    updated_value = updated_value.replace( /--+/, '-' );
+
+    if ( !input.data( 'permanent' ) ) {
+        input.val( updated_value );
+    }
+});
+
+$( document ).on( 'cb_rating_before', function( event, self, rating, id, type ) {
+
+    var href = self;
+
+    if ( self.hasClass( 'glyphicon' ) ) {
+        href = self.parent();
+    }
+
+    href.data( 'span_icon', self.find( 'i' ) );
+    href.find( 'i' ).remove();
+    href.prepend( '<i class="fa fa-refresh fa-spin"></i>' );
+
+});
+
+$( document ).on( 'cb_rating_after', function( event, self, rating, id, type ) {
+    var href = self;
+
+    if ( self.hasClass( 'glyphicon' ) ) {
+        href = self.parent();
+    }
+
+    href.find( 'i.fa' ).remove();
+    href.prepend( self.data( 'span_icon' ) );
+
+});
+
+$( document ).on( 'cb_rating_success', function( event, self, rating, id, type, data ){
+    var rating_container = self.parents( 'div#rating_container'),
+    ajax_response = rating_container.find( '#playlist-rating-ajax-response' );
+
+
+    console.log( rating_container, 'rating_container' );
+    console.log( ajax_response, 'ajax_response' );
+
+    ajax_response.delay( 1500 ).fadeOut( 'slow' );
+});
+
+
+$( tunemedia_toggle_configs.button ).html( tunemedia_toggle_configs.more_text );
+$( tunemedia_toggle_configs.content ).after( '<span class="tunemedia-toggle-truncate">'+tunemedia_toggle_configs.truncate+'</span>' );
+
+$( document ).on( 'click', '.tunemedia-toggle-button', function( event ){
+
+    var content = $( tunemedia_toggle_configs.content ),
+    button = $( tunemedia_toggle_configs.button),
+    button_node = button.get(0).nodeName.toLowerCase();
+
+    if ( content.hasClass( tunemedia_toggle_configs.open ) ) {
+
+        content.removeClass( tunemedia_toggle_configs.open );
+
+        if ( button_node == 'input') {
+            button.val( tunemedia_toggle_configs.more_text );
+        } else {
+            button.html( tunemedia_toggle_configs.more_text );
+        }
+
+        content.next( '.tunemedia-toggle-truncate' ).show();
+    } else {
+        content.addClass( tunemedia_toggle_configs.open );
+        if ( button_node == 'input' ) {
+            button.val( tunemedia_toggle_configs.less_text );
+        } else {
+            button.html( tunemedia_toggle_configs.less_text );
+        }
+        content.next( '.tunemedia-toggle-truncate' ).hide();
+    }
+
+});
+
+$( window ).on( 'resize', function( event ){
+
+    var images = $('img.lazyload-reposition-deprecated');
+
+    if ( images.length > 0 ) {
+
+        $.each( images, function( index, value ){
+            lazyload_reposition( null, [], $( value ) );
+        });
+
+    }
+});
+});
+
+
+var carouselHeight = 0;
+var navBarHeight = 0;
+
+var navBar = $('#tunemedia-content-wrapper .navbar');
+$(document).ready(function(){ carouselHeight=$(".change-navbar").height(); })
+
+$(window).resize(function(){
+    carouselHeight=$(".change-navbar").height();
+})
+
+$(window).scroll(function(){
+
+ if($(window).scrollTop() >= carouselHeight - $('#tunemedia-content-wrapper .navbar').height())
+    $('#tunemedia-content-wrapper .navbar').removeClass('transparent');
+else
+    $('#tunemedia-content-wrapper .navbar').addClass('transparent');
+})
+
+</script>
+
+<script type="text/javascript">
+
+    function open_first_playlist_video( parent_selector ) {
+        var _this = $( parent_selector ), _link = _this.find( '.watch-video-link:first' ),
+        _href = _link.attr( 'href' );
+
+        if ( _href != undefined ) {
+            window.location.href = _href;
+        }
+    }
+
+    function create_new_playlist( event, input ) {
+        if ( event.which == 13 ) {
+
+            event.preventDefault();
+
+            var _this = $( input ), posted_value = _this.val(), error_handle = _this.next( '.inline-help' ),
+            _parent = _this.parent();
+
+            if ( _parent.hasClass( 'active' ) || _parent.hasClass( 'unactive' ) ) {
+                error_handle.addClass( 'playlist-create-error' ).html( 'Please wait, we are working on an other thing' );
+                return false;
+            }
+
+            if ( error_handle.html() != '' ) {
+                error_handle.removeClass( 'playlist-create-error' ).html( '' );
+            }
+
+            error_handle.show();
+
+            if ( !posted_value || jQuery.trim( posted_value ).length == 0 ) {
+                _this.val( '' );
+                error_handle.addClass( 'playlist-create-error' ).html( 'Please write playlist\'s name ' );
+            } else {
+                
+                $.ajax({
+
+                    url : baseurl+"/ajax.php",
+                    type : "POST",
+                    dataType : "json",
+                    data : {
+                        mode : "create_playlist",
+                        name : _this.val(),
+                        id : _this.data( 'object-id' ),
+                        type : _this.data( 'object-type' )
+                    },
+                    beforeSend : function(){
+                        _this.attr( 'disabled', 'disabled' );
+                        error_handle.html( loading_img );
+                    },
+                    success : function( data ) {
+
+                        if ( 'error' in data ) {
+
+                            error_handle.addClass( 'playlist-create-error' ).html( data.message );
+
+                        } else if ( 'success' in data ) {
+
+                            error_handle.addClass( 'playlist-create-success' ).html( data.message )
+                            .delay( 4000 ).fadeOut( 'fast', function(){
+                                error_handle.empty();
+                            });
+
+                        } else {
+                            error_handle.addClass( 'playlist-create-error' ).html( 'Strange response returned' );
+                        }
+
+                        if ( 'playlist' in data ) {
+
+                            var all_playlists = $('ul[data-custom-made-playlists=true]');
+
+                            if ( all_playlists.length > 0 ) {
+
+                                $.each( all_playlists, function( index, ul ){
+                                    var _ul = $( ul ),
+                                    li = $('<li />').attr({
+                                        'id' : 'playlist_'+data.playlist.playlist_id,
+                                        'data-add-to-playlist' : 'true',
+                                        'data-playlist' : data.playlist.playlist_id,
+                                        'data-type' : _this.data( 'object-type' )
+                                    }).html( data.playlist.playlist_name );
+
+                                    object_id = _ul.find( 'li:first' ).data( 'object' );
+
+                                    li.attr( 'data-object', object_id );
+
+                                    _ul.prepend( li );
+                                });
+                            }
+                        }
+
+                        _this.removeAttr( 'disabled' ).focusout().val( '' );
+                    }
+                });
+
+}
+}
+}
+
+$( document ).ready( function() {
+    
+    $( 'img' ).error( function(){
+        $( this ).attr( 'src', "http://tune.tv/image.php?src=http%3A%2F%2Ftune.tv%2Fstyles%2Ftunemedia%2Fimages%2Fthumbs%2F404.png&w=640&h=360&a=c" );
+    });
+
+    $( document ).on( 'click', '[data-add-to-playlist=true]', function(){
+        var _this = $( this );
+
+        if ( _this.hasClass( 'active' ) || _this.hasClass( 'unactive' ) ) {
+            return false;
+        }
+
+        if ( _this.data( 'playlist' ) ) {
+
+            $.ajax({
+                url : baseurl+"/ajax.php",
+                type : "POST",
+                dataType : "json",
+                data : {
+                    mode : "add_to_playlist",
+                    playlist : _this.data( 'playlist' ),
+                    type : _this.data( 'type' ),
+                    object : _this.data( 'object' )
+                },
+                beforeSend : function () {
+
+                    _this.addClass( 'active' )
+                    .siblings().addClass( 'unactive' );
+
+                    _this.append( '<span id="play-loader">   '+loading_img+'</span>' )
+
+                },
+                success : function( data ) {
+
+                    _this.removeClass( 'active' )
+                    .siblings().removeClass( 'unactive' );
+                    _this.find( 'span#play-loader' ).html( '   ( '+data.message+' )' ).delay( 4000 ).fadeOut( 'fast', function(){
+                        _this.find( 'span#play-loader' ).remove();
+                    });
+
+                }
+            });
+
+}
+});
+});
+</script>
+
+
+<script>
+    $(document).ready(function(){
+
+        show_ads();
+
+    })
+
+    function show_ads()
+    {
+        var ad_units = new Array();
+
+        
+        
+        
+        
+                
+
+
+
+        var ad_unit_string = "";
+
+        $.each(ad_units,function(key,value){
+            if(ad_unit_string)
+                ad_unit_string += ',';
+
+            ad_unit_string += value;
+        })
+
+
+            /**
+             * Adding Categories 
+             */
+             var category="";
+             var categories = new Array();
+
+             
+             
+
+             $.each(categories,function(key,value){
+                if(category)
+                    category += ',';
+
+                category += value;
+            })
+
+             
+                          
+             $.getJSON( "http://ads.tunenerve.com/get_ads.php?ad_units="+ad_unit_string+"&category="+category, function( data ) {
+                $.each(data,function(key,value){
+
+                    var iframe= '<iframe id="tune_ads_iframe_'+value.ad_unit+'" ' +
+                    'width="'+value.width+'" height="'+value.height+'" scrolling="no"' +
+                    ' marginwidth="0" marginheight="0" ' +
+                    'frameborder="0" src="'+value.banner_path+'" style="border:' +
+                    ' 0px;"></iframe>';
+
+                    $('#tune_ad_'+value.ad_unit).html(iframe);
+                })
+            });
+         }
+
+
+     </script>
+
+
+
+ </head>
+
+<!-- Global Header Ends Here -->
+<body class="fixed-navbar var-2 tunemedia-body page-">
+  <div id="wrapper">
+    <div class="clearfix tunemedia-container">
+      <div id="tunemedia-content-wrapper">
+        <header id="header" class="">
+    <div class="container">
+        <div class="row">
+            <nav class="navbar navbar-default navbar navbar-inverse" role="navigation">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <h1 class="logo pull-left">
+                            <a href="http://tune.tv">tune.tv</a>
+                        </h1>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav main-nav">
+                                                                                                                
+                            <li class="dropdown" ''="">
+                                <a href="http://tune.tv/serials.php?category=4">Dramas</a>
+                                <ul class="dropdown-menu" aria-labelledby="logged-in-user-action-links" role="menu">
+                                                                                                        </ul>
+                            </li>
+                                                                                                                
+                            <li class="dropdown" ''="">
+                                <a href="http://tune.tv/serials.php?category=11" data-toggle="dropdown" class="dropdown-toggle">show <b class="caret"></b></a>
+                                <ul class="dropdown-menu" aria-labelledby="logged-in-user-action-links" role="menu">
+                                                                        <li class="ttn">
+                                        <a href="http://tune.tv/serials.php">All</a>
+                                    </li>
+                                                                                                                                                <li class="ttn" ''="">
+                                        <a href="http://tune.tv/serials.php?category=12">Talk show</a>
+                                    </li>
+                                                                        <li class="ttn" ''="">
+                                        <a href="http://tune.tv/serials.php?category=13">Award Shows</a>
+                                    </li>
+                                                                        <li class="ttn" ''="">
+                                        <a href="http://tune.tv/serials.php?category=14">Game Shows</a>
+                                    </li>
+                                                                        <li class="ttn" ''="">
+                                        <a href="http://tune.tv/serials.php?category=15">Morning Shows</a>
+                                    </li>
+                                                                        <li class="ttn" ''="">
+                                        <a href="http://tune.tv/serials.php?category=16">Comedy Shows</a>
+                                    </li>
+                                                                        <li class="ttn" ''="">
+                                        <a href="http://tune.tv/serials.php?category=22">Religious Shows</a>
+                                    </li>
+                                                                                                        </ul>
+                            </li>
+                                                                                                                
+                            <li class="dropdown" ''="">
+                                <a href="http://tune.tv/serials.php?category=10">Cooking</a>
+                                <ul class="dropdown-menu" aria-labelledby="logged-in-user-action-links" role="menu">
+                                                                                                        </ul>
+                            </li>
+                                                                                                                                                                                                                                                            <li class="dropdown" ''="">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">More <b class="caret"></b></a>
+                                <ul class="dropdown-menu font-black" aria-labelledby="logged-in-user-action-links" role="menu">
+                                   
+                                                                                                                                                                                                                                                                                                                                                        <li class="ttn" ''="">
+                                        <a href="http://tune.tv/serials.php?category=17">Films</a>
+                                    </li>
+                                                                                                                                                         <li class="ttn" ''="">
+                                        <a href="http://tune.tv/serials.php?category=9">Music</a>
+                                    </li>
+                                                                                                                                                         <li class="ttn" ''="">
+                                        <a href="http://tune.tv/serials.php?category=18">Fashion</a>
+                                    </li>
+                                                                                                                
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right right-menu">
+                            <li class="hidden-xs">
+                                <button class="visible-sm btn btn-primary btn-togglesearch"></button>
+                            </li>
+                            <li class="search">
+                                <form action="http://tune.tv/search_result.php" class="search-form pull-left" role="search">
+                                    <input type="hidden" name="type" id="search_type" value="playlists">
+                                    <input type="text" name="query" id="query" class="form-control pull-left" placeholder="Search" maxlength="50" value="" autocomplete="false">
+                                    <input class="btn-search pull-right" type="submit" value="Go!">
+                                </form>
+                            </li>
+                            <li class="dropdown user-area">
+                                                            </li>
+                            <li class="login-out pull-right">
+                                
+                            </li>
+                        </ul>
+                    </div><!--navbar-collapse-->
+                </div><!--container-fluid-->
+            </nav>
+        </div>
+    </div>
+</header>
+<div id="tune_msgs"></div>
+
+        
+
+        
+
+
+
+
+
+                <div id="main">
+	<div class="container content-wrapper">
+		<div class="row tune_box top-box"> 
+
+			<p>This Privacy Policy governs the manner in which Tune.tv collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://tune.tv website (“Site”). This privacy policy applies to the Site and all products and services offered by Tune.tv.</p>
+
+			<h4>Personal identification information</h4>
+
+			<p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+				</p><h4>Non-personal identification information</h4>
+
+				<p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
+
+				<h4>Web browser cookies</h4>
+
+				<p>Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
+
+				<h4>How we use collected information</h4>
+
+				<p>Tune.tv may collect and use Users personal information for the following purposes:</p>
+
+				<p>- To improve customer service</p>
+
+				&nbsp;<p>Information you provide helps us respond to your customer service requests and support needs more efficiently.</p>
+
+				<p>- To personalize user experience</p>
+
+				&nbsp;<p>We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</p>
+
+				<p>- To improve our Site</p>
+
+				&nbsp;<p>We may use feedback you provide to improve our products and services.</p>
+
+				<p>- To run a promotion, contest, survey or other Site feature</p>
+
+				&nbsp;<p>To send Users information they agreed to receive about topics we think will be of interest to them.</p>
+
+				<p>- To send periodic emails</p>
+				
+			<p></p>
+
+			<p>
+				We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+			</p>
+
+			<h4>How we protect your information</h4>
+
+			<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
+
+			<h4>Sharing your personal information</h4>
+
+			<p>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.</p>
+
+			<h4>Third party websites</h4>
+
+			<p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.</p>
+
+			<h4>Advertising</h4>
+
+			<p>Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.</p>
+
+			<h4>Google Adsense</h4>
+
+			<p>Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html</p>
+
+			<h4>Compliance with children’s online privacy protection act</h4>
+
+			<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13</p>.
+
+			<h4>Changes to this privacy policy</h4>
+
+			<p>Tune.tv has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+
+			<h4>Your acceptance of these terms</h4>
+
+			<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+
+			<h4>Contacting us</h4>
+
+			<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</p>
+
+			<h4>Tune.tv</h4>
+
+			http://tune.tv
+
+			Suite 17 | 3rd floor | Hilltop Arcade | Main Gizri Blvd. | Phase IV, DHA | Karachi
+
+			support@tune.tv
+
+		</div>
+	</div>
+</div>
+              </div>
+    </div>
+  </div>
+  <div id="tunemedia-footer-wrapper">
+    <footer id="footer" style="padding-top:0px !important;">
+  <div class="container">
+    <div class="row">
+      <ul class="col-lg-7 col-md-7 col-sm-7 col-xs-6 pull-left">
+        <li><a href="http://tune.tv/licensed_content.php">Licensed<span>Content</span></a></li>
+        <li><a href="http://tune.tv/about_us.php">About Us</a></li>
+        <li><a href="http://tune.tv/contact.php">Contact Us</a></li>
+      </ul>
+      <ul class="col-lg-5 col-md-5 col-sm-5 col-xs-6 pull-right">
+        <li><a href="http://tune.tv/privacy.php">Privacy Policy</a></li>
+        <li>© 2014 Leapmedia</li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+<!-- Analytics
+<script>
+  (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+    (i[r].q=i[r].q||[]).push(arguments) },i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46217291-1', 'tunemedia.tv');
+  ga('send', 'pageview');
+
+</script> -->
+  </div>
+  <!--  -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-53131582-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <!--  -->
+
+</body></html>
