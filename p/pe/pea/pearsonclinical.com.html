@@ -1,30 +1,32 @@
-<!--The following is the downloaded HTML source of the pearsonclinical.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629140508id_/http%3A//www.pearsonclinical.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pearsonclinical.com privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216230049id_/http%3A//www.pearsonclinical.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" class="no-js"><!--<![endif]--><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    
-    
     <meta name="keywords" content="">
     <meta name="description" content="Effective: October 1, 2013">
     
-    
 
+
+
+
+<link href="//fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/etc/clientlibs/granite/jquery-ui.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/ani/clinicalassessments/us/clientlibs.css" type="text/css">
 
 <meta name="segmentid" content="not.found">
 
 
+
+ 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery-ui.js"></script>
 <script type="text/javascript" src="/etc/designs/ani/clinicalassessments/us/clientlibs.js"></script>
 
-
  
-    
+
     
     
     <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/ani/clinicalassessments/us/favicon.ico">
@@ -41,21 +43,54 @@
         }
     </script>
     
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <!-- Start: Video Component Assets -->
+    
+    <!-- End: Video Component Assets -->
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		ga('create', 'UA-43434408-4', 'pearsonclinical.com');
-		ga('send', 'pageview');
+        ga('create', 'UA-43434408-4', 'pearsonclinical.com');
+        ga('send', 'pageview');
 
-	</script>
-</head>
-
-<body class="site-CA theme-default">
+    </script>
     <script language="JavaScript" type="text/javascript" src="/etc/designs/ani/clinicalassessments/us/clientlibs/js/adobe/s_code.js"></script>
     
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body class="site-CA theme-default">
+
+
+
+<!-- user IP detection, country location detection, country redirect dialog -->
+
+
+    
+
 
 
 <div class="w100percent posRel brandBarWrap">
@@ -81,6 +116,8 @@
 
 
 <div class="securityContext security">
+
+
 
 
 
@@ -158,18 +195,16 @@
             jQuery("#country").show();
              jQuery("#countryinternationalsiteslink").hide();
             jQuery("#countryLink").hide();
-            jQuery(".dropdown img.flag").addClass("flagvisibility");
+            jQuery("#country img.flag").addClass("flagvisibility");
     
-            jQuery(".dropdown dt a").click(function() {
-                jQuery(".dropdown dd ul").toggle();
-    
-    
+            jQuery("#country dt a").click(function() {
+                jQuery("#country dd ul").toggle();    
             });
     
-            jQuery(".dropdown dd ul li a").click(function() {
+            jQuery("#country dd ul li a").click(function() {
                 var text = jQuery(this).html();
-                jQuery(".dropdown dt a span").html(text);
-                jQuery(".dropdown dd ul").hide();
+                jQuery("#country dt a span").html(text);
+                jQuery("#country dd ul").hide();
                 window.open(getSelectedValue("country"));
                 location.reload(true);
             });
@@ -182,19 +217,19 @@
                 var jQueryclicked = jQuery(e.target);
                 if (! jQueryclicked.parents().hasClass("dropdown"))
                 {
-                    jQuery(".dropdown dd ul").hide();
+                    jQuery("#country dd ul").hide();
                 }
     
             });
     
             jQuery("#flagSwitcher").click(function() {
-                jQuery(".dropdown img.flag").toggleClass("flagvisibility");
+                jQuery("#country img.flag").toggleClass("flagvisibility");
             });
         });
     </script>
     
     <dl id="country" class="dropdown" style="display: none">
-        <dt><a class="clinicalButton clinicalButtonArrowRight clinicalButtonFlag" style=" height: 26px;"><span class="clinicalButtonFlagSpan"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/us.png"> United
+        <dt><a class="clinicalButton clinicalButtonArrowRight clinicalButtonFlag" style=" height: 26px;" id="selectedCountryId"><span class="clinicalButtonFlagSpan"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/us.png"> United
         States </span></a></dt>
         <dd>
             <ul>
@@ -218,7 +253,7 @@
     </dl>
     <span id="result"></span>
     <span id="countryinternationalsiteslink">
-        <a href="/about/internationalSites.html" sref="true" class="clinicalButton clinicalButtonArrowRight" id="countryLink">International Sites</a>
+        <a href="/about/internationalSites.html" class="clinicalButton clinicalButtonArrowRight" id="countryLink">International Sites</a>
     </span>
 </div>
 
@@ -230,11 +265,16 @@
     
         <div class="floatRight clinicalTopNavLinkList">
            
-<div class="parsys iParTopNav iparlist_topnav iparsys"><div class="section" id="iv3"><div class="new"></div>
+<div class="parsys iParTopNav iparlist_topnav iparsys">
+
+
+<div class="section" id="iv3"><div class="new"></div>
 </div><div class="iparys_inherited" id="iv4"><div class="parsys iParTopNav iparlist_topnav iparsys"><script>jQuery(document).ready(function(){
     	    jQuery('#topNav a').attr('target', '_self');
 		  });</script><ul id="topNav" class="horizontalList">
            <div class="parsys welcome">
+
+
 
 
 <style>.welcome{display:inline;}</style>
@@ -261,6 +301,10 @@ checkCookie();
 </div>
 
            
+           <li id="personalizedWelcomeMessageItem" class="firstInList" style="display: inline;">
+             <a href="/" class="footerHomeLink"> &nbsp; &nbsp;</a>
+           </li> 
+        
 
 
 
@@ -307,6 +351,9 @@ checkCookie();
         <div class="floatRight clinicalTopNavButtons">
             <div class="clinicalTopNavButtonWrap clinicalTopNavButtonWrapCart">
                 <div class="cartcount">
+
+
+
 <script>
 function retrieveCartCount() {
     jQuery.ajax({
@@ -353,7 +400,7 @@ jQuery(document).ready(function() {
 });
 
 </script>
-<a id="cartLink" class="peBtn btnIcons-cart" style="display:none;" title="Cart" href="/services/ecommerce/ped/ani/cart/v1?segmentName=&amp;siteContext=ani.clinicalassessment.us.clinicalassessment&amp;cartRequest=true">
+<a id="cartLink" class="peBtn btnIcons-cart" style="display:none;" title="Cart" href="/services/ecommerce/ped/ani/cart/v1?segmentName=not.found&amp;siteContext=ani.clinicalassessment.us.clinicalassessment&amp;cartRequest=true">
     <span class="buttonLeftIcon">
         <span class="buttonRightIcon">
             <span class="buttonText">
@@ -364,7 +411,7 @@ jQuery(document).ready(function() {
 </a>
 
 <!-- SI added the cartRequest=true parameter to differentiate whether a user is requesting cart page or updating cart within the checkout flow -->
-<a id="cartButton" class="peBtn btnIcons-cart" title="Cart" href="/services/ecommerce/ped/ani/cart/v1?segmentName=&amp;siteContext=ani.clinicalassessment.us.clinicalassessment&amp;cartRequest=true">
+<a id="cartButton" class="peBtn btnIcons-cart" title="Cart" href="/services/ecommerce/ped/ani/cart/v1?segmentName=not.found&amp;siteContext=ani.clinicalassessment.us.clinicalassessment&amp;cartRequest=true">
     <span class="buttonLeftIcon">
         <span class="buttonRightIcon">
             <span class="buttonText">
@@ -389,6 +436,8 @@ jQuery(document).ready(function() {
                 </a>
                 <div class="topNavPopUpHolder posRel">
                     <div class="accountOptions accountPopup">
+
+
 
 
 <div class="topNavPopUpWrap posAbsolute" id="accountOptionsPop" style="display: none;">
@@ -439,59 +488,224 @@ jQuery(document).ready(function() {
             <div class="segementTopNav floatLeft w70percent"><div class="segmentName">
 
 
+
+
 <div class="title">
     <h1><a href="/">Clinical Assessment</a></h1>
 </div></div>
 
             </div>
-            <div class="orderByProduct orderByProd">
+            
+                  <div class="communityDropDown">
+
+
+
+
+
 
 
 <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var currentHREF = window.location.href;  //read current request page URL we are on
+            var longpath = "\/content\/ani\/clinicalassessments\/us\/en";
+
+            jQuery("#segmentSites").show();  //javascript section
+            jQuery("#segmentslinks").hide(); //non-js section
+            jQuery("#segmentLink").hide();   //non-js section
+
+            jQuery("#selectedSegmentId, #closeChangeCommunityPopup").click(function() { 
+                jQuery("#segmentSites dd ul").toggle();    
+            });
+
+            jQuery("#segmentSites dd ul li a").click(function() {
+                var text = jQuery(this).html();
+                var url    = jQuery(this).find("span.value").html();
+                var modUrl = jQuery(this).find("span.value").html();
+
+                jQuery("#selectedSegmentId dt a span").html(text);
+                jQuery("#selectedSegmentId dd ul").hide();
+
+                //check if current request URL contains the long Auth URL, if so do not string replace
+                if(currentHREF.indexOf(longpath) == -1){
+                   modUrl = url.replace('\/content\/ani\/clinicalassessments\/us\/en', '');
+                }
+
+                window.location.replace(modUrl);
+            });
+
+            jQuery(document).bind('click', function(e) {
+                var jQueryclicked = jQuery(e.target);
+                if (! jQueryclicked.parents().hasClass("cdropdown"))
+                {
+                    jQuery("#selectedSegmentId dd ul").hide();
+                }
+            });
+        });
+    </script>
+
+
+<div class="communityDropDown floatLeft">
+  <dl style="display: none;" class="dropdown" id="segmentSites">
+    <dt><a id="selectedSegmentId"><span class="clinicalButtonFlagSpan">Change Community</span></a>
+    </dt>
+    <dd>
+      <ul class="topNavPopUp">
+      <div class="close-btn" id="closeChangeCommunityPopup">
+      </div>
+      
+        <li><a href="#">Clinical Psychology<span class="value">/content/ani/clinicalassessments/us/en/psychology.html</span></a></li>
+      
+      
+        <li><a href="#">PreK-16 Education and Special Needs<span class="value">/content/ani/clinicalassessments/us/en/education.html</span></a></li>
+      
+      
+        <li><a href="#">Speech and Language<span class="value">/content/ani/clinicalassessments/us/en/language.html</span></a></li>
+      
+      
+        <li><a href="#">Occupational and Physical Therapy<span class="value">/content/ani/clinicalassessments/us/en/therapy.html</span></a></li>
+      
+      
+        <li><a href="#">Early Childhood<span class="value">/content/ani/clinicalassessments/us/en/childhood.html</span></a></li>
+      
+      
+        <li><a href="#">Talent Assessment<span class="value">/content/ani/clinicalassessments/us/en/talent.html</span></a></li>
+      
+      </ul>
+    </dd>
+  </dl>
+</div>
+
+<span id="result">
+</span>
+<span id="segmentslinks"><br>&nbsp;
+    <a href="/about/communityList.html" id="segmentLink">Change Community</a>
+</span>
+</div>
+
+               
+            <div class="orderByProduct orderByProd">
+
+
+
+
+
+
+
+<script type="text/javascript">
+
 function displayOrderByProduct() {
-    displayDiv('orderPop');
-    jQuery('#orderByProductNumberPopError').hide();
-    var frm = jQuery('#orderByProduct_Form');
-    frm.find('[name="quantity"]').val("");
-    frm.find('[name="prod_id"]').val("");
-if(frm.find("input[name=prod_id]").hasClass("ani_form_error")){
-        frm.find("input[name=prod_id]").removeClass("ani_form_error");
-    }
+   displayDiv('orderPop');
+   jQuery('#orderByProductNumberPopError').hide();
+   var frm = jQuery('#orderByProduct_Form');
+
+   var prodIdIter = "empty";
+   var quantityIter = "empty";
+
+   //if prod 1 thru 5 has values, remove them because we're redrawing the order page, if a field has error outline style, remove it
+   for(i = 1; i < 6; i++)
+   {
+      prodIdIter   = "[name=\"prod_id" + i + "\"]";
+      quantityIter = "[name=\"quantity" + i + "\"]";
+      frm.find(prodIdIter).val("");
+      frm.find(quantityIter).val("");
+      if(frm.find("input" + prodIdIter).hasClass("ani_form_error")){
+         frm.find("input" + prodIdIter).removeClass("ani_form_error");
+      }
+      if(frm.find("input" + quantityIter).hasClass("ani_form_error")){
+         frm.find("input" + quantityIter).removeClass("ani_form_error");
+      }
+   }
 }
 
-function validateOrderByProduct(inputField, isAlpha) {
-        var temp = "";
-        for (var i=0; i < inputField.value.length; i++) {
-            if ("0123456789".indexOf(inputField.value.charAt(i)) != -1 || (isAlpha && inputField.value.charAt(i).match("[a-zA-Z-]") != null)) {
-                temp = temp + inputField.value.charAt(i);
-            }
-        }
-        inputField.value = temp;
-    }
-    function orderByProductFormSubmit() {
-        var frm = jQuery('#orderByProduct_Form');
-        if (frm.find('[name="prod_id"]').val() == null || frm.find('[name="prod_id"]').val() == "") {
-            jQuery('#orderByProductNumberPopError').html("You have not specified a product number. Please try again.");
-            jQuery('#orderByProductNumberPopError').show();
-            jQuery("input[name=prod_id]").addClass("ani_form_error");
-            return false;
-        } else if(jQuery("input[name=prod_id]").hasClass("ani_form_error")){
-            jQuery("input[name=prod_id]").removeClass("ani_form_error");
-        }
-        var quantity = frm.find('[name="quantity"]').val();
-        if (quantity == null || quantity == "" || !quantity.match(/^\d+$/) || quantity.match(/^0+$/)) {
+
+function validateOrderByProduct(inputField, isAlpha){
+   var temp = "";
+   for(var i=0; i < inputField.value.length; i++){
+      if("0123456789".indexOf(inputField.value.charAt(i)) != -1 || (isAlpha && inputField.value.charAt(i).match("[a-zA-Z-]") != null)) {
+         temp = temp + inputField.value.charAt(i);
+      }
+   }
+   inputField.value = temp;
+}
+
+
+function orderByProductFormSubmit(){
+   var prodidlist ="";
+   var qtylist="";
+   var frm = jQuery('#orderByProduct_Form');
+
+   var prodIdIter = "empty";
+   var quantityIter = "empty";
+
+   //if user has not entered any value in first field show error
+   prodIdIter   = "[name=\"prod_id1" + "\"]";
+   if(frm.find(prodIdIter).val() == null || frm.find(prodIdIter).val() == "")
+   {
+      jQuery('#orderByProductNumberPopError').html("You have not specified a product number. Please try again.");
+      jQuery('#orderByProductNumberPopError').show();
+      jQuery("input" + prodIdIter).addClass("ani_form_error");
+      return false;
+   }
+
+   for(i = 1; i < 6; i++)
+   {
+      prodIdIter   = "[name=\"prod_id" + i + "\"]";
+      quantityIter = "[name=\"quantity" + i + "\"]";
+
+      //if any of prod 1-5 have a value but corresponding quantity does not.  show error
+      if(frm.find(prodIdIter).val() != null && frm.find(prodIdIter).val() != "")
+      {
+         if(frm.find(quantityIter).val() == null || frm.find(quantityIter).val() == "")
+         {
             jQuery('#orderByProductNumberPopError').html("You have not specified a quantity. Please try again.");
             jQuery('#orderByProductNumberPopError').show();
-            jQuery("input[name=quantity]").addClass("ani_form_error");
+            jQuery("input" + quantityIter).addClass("ani_form_error");
             return false;
-        } else if(jQuery("input[name=quantity]").hasClass("ani_form_error")){
-            jQuery("input[name=quantity]").removeClass("ani_form_error");
-        }
-        jQuery.ajax({
-            type: 'POST',
-            url: '/content/ani/clinicalassessments/us/en/search/orderByProduct.html',
-            data: frm.serialize(),
-            statusCode: {
+         }
+         if(jQuery("input" + prodIdIter).hasClass("ani_form_error")){
+            jQuery("input" + prodIdIter).removeClass("ani_form_error");
+         } 
+      }
+      //if any of quantity 1-5 have a value but corresponding prodId does not.  show error
+      if(frm.find(quantityIter).val() != null && frm.find(quantityIter).val() != "")
+      {
+         if(frm.find(prodIdIter).val() == null || frm.find(prodIdIter).val() == "")
+         {
+            jQuery('#orderByProductNumberPopError').html("You have not specified a product number. Please try again.");
+            jQuery('#orderByProductNumberPopError').show();
+            jQuery("input" + prodIdIter).addClass("ani_form_error");
+            return false;
+         } //(!frm.find('[name="quantity2"]').match(/^\d+$/) && frm.find('[name="quantity2"]').match(/^0+$/)) )
+         if(jQuery("input" + quantityIter).hasClass("ani_form_error")){
+            jQuery("input" + quantityIter).removeClass("ani_form_error");
+         } 
+
+      }
+   }
+
+
+   //build list of all product field values
+   prodidlist =   frm.find('[name="prod_id1"]').val()  + "|" +
+                  frm.find('[name="prod_id2"]').val()  + "|" +
+                  frm.find('[name="prod_id3"]').val()  + "|" +
+                  frm.find('[name="prod_id4"]').val()  + "|" +
+                  frm.find('[name="prod_id5"]').val();
+
+   //build list of all quantity field values
+   qtylist    =   frm.find('[name="quantity1"]').val() + "|" +
+                  frm.find('[name="quantity2"]').val() + "|" +
+                  frm.find('[name="quantity3"]').val() + "|" +
+                  frm.find('[name="quantity4"]').val() + "|" +
+                  frm.find('[name="quantity5"]').val();
+
+   frm.find('[name="prodlist"]').val(prodidlist);
+   frm.find('[name="prodlistqty"]').val(qtylist);
+
+   jQuery.ajax({
+      type: 'POST',
+       url: "/content/ani/clinicalassessments/us/en/search/orderByProduct.html",
+      data: frm.serialize(),
+               statusCode: {
                 0: function() {
                     //alert("status of zero");
                 }
@@ -504,9 +718,14 @@ function validateOrderByProduct(inputField, isAlpha) {
 
                 if (errorMsg && errorMsg.indexOf("<h1>") > 0) {
                     errorString = "You have submitted an invalid product number. Please try again.";
+
+                    var fieldid= errorMsg.substring(errorMsg.indexOf("prabhu")+6,errorMsg.indexOf("prabhu")+7);
+
                     jQuery('#orderByProductNumberPopError').html(errorString);
                     jQuery('#orderByProductNumberPopError').show();
-                    jQuery("input[name=prod_id]").addClass("ani_form_error");
+
+                    var fieldid= errorMsg.substring(errorMsg.indexOf("prabhu"),errorMsg.indexOf("prabhu")+8);
+                    jQuery("input[name="+fieldid+"]").addClass("ani_form_error");
 
                 } else {
                     if (/cart.html/.test(window.location.href)) {
@@ -516,51 +735,108 @@ function validateOrderByProduct(inputField, isAlpha) {
                     jQuery('#orderPop').hide();
                     retrieveCartCount();
                 }
-
             }
         });
         return false;
     };
 </script>
 
-        <div class="orderByWrapper floatRight w30percent">
-            <div class="clinicalTopNavOrderProducts clinicalTopNavLinkList textRight">
-                <ul class="horizontalList" id="orderByProduct">
-                    <li class="lastInList"><a class="linkWithArrow" href="/search/orderByProduct.html" onclick="javascript: displayOrderByProduct(); customLinkTrack('Order by Product Number');return false;" title="Order by Product Number">Order by Product Number</a></li>
-                </ul>
-                <div class="topNavPopUpHolder posRel">
-                    <div class="topNavPopUpWrap posAbsolute" id="orderPop" style="display: none;">
-                        <div class="topNavPopUp">
-                            <div class="topNavPopUpIDS" id="orderByPopup">
-                                <div class="close-btn" id="closeOrderByPopup"></div>
 
-                                <span class="orderbyProductTitle">Order by Product Number</span>
-                                <div class="topNavPopUpError" id="orderByProductNumberPopError" style="display: none;"></div>
-                                <p>Enter the product number (catalog code or ISBN<br>
-                                    number) and select the quantity you wish to purchase.</p>
-                                <form name="orderByProduct_Form" id="orderByProduct_Form" onsubmit="return orderByProductFormSubmit();">
-                                    <table class="orderByProductActionTable">
-                                        <tbody><tr>
-                                            <th>Product Number</th>
-                                            <th>Qty</th>
-                                            <th><input type="hidden" value="/content/ani/clinicalassessments/us/en/search/orderByProduct/jcr:content/par/start" name=":formstart"><input type="hidden" value="true" name="ajaxForm"></th>
-                                        </tr>
-                                        <tr>
-                                            <td><input type="text" name="prod_id" size="12" maxlength="25" onkeyup="validateOrderByProduct(this, true)"></td>
-                                            <td><input type="text" name="quantity" size="3" maxlength="3" onkeyup="validateOrderByProduct(this, false)"></td>
-                                            <td><button type="submit" class="peBtn btnIcons-cart"><span class="buttonLeftIcon"><span class="buttonRightIcon"><span class="buttonText">Add To Cart</span></span></span></button>
-                                            
-                                            </td>
-                                        </tr>
-                                    </tbody></table>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<!-- HTML -->
+<style>
+.clinicalTopNavOrderProducts .linkWithArrow.colorPrimary {
+white-space: nowrap;
+padding-right: 10px;
+}
+</style>
+
+<div class="orderByWrapper floatRight w30percent">
+   <div class="clinicalTopNavOrderProducts clinicalTopNavLinkList textRight">
+      <ul class="horizontalList" id="orderByProduct">
+         <li class="lastInList bold">
+             <a class="linkWithArrow colorPrimary" href="/search/orderByProduct.html" onclick="javascript: displayOrderByProduct(); customLinkTrack('Order by Product Number');return false;" title="Order by Product Number">Order by Product Number
+             </a>
+         </li>
+      </ul>
+      <div class="topNavPopUpHolder posRel">
+         <div class="topNavPopUpWrap posAbsolute" id="orderPop" style="display: none;">
+            <div class="topNavPopUp">
+               <div class="topNavPopUpIDS" id="orderByPopup">
+                  <div class="close-btn" id="closeOrderByPopup">
+                  </div>
+                  <span class="orderbyProductTitle"><b>Order by Product Number</b>
+                  </span>
+                  <div class="topNavPopUpError" id="orderByProductNumberPopError" style="display: none;">
+                  </div>
+                  <p>Enter the product number (catalog code or ISBN<br>
+                     number) and select the quantity you wish to purchase.
+                  </p>
+                  <form name="orderByProduct_Form" id="orderByProduct_Form" onsubmit="return orderByProductFormSubmit();">
+                     <table class="orderByProductActionTable">
+                        <tbody><tr>
+                           <th>Product Number</th>
+                           <th>Quantity</th>
+                           <th><input type="hidden" value="/content/ani/clinicalassessments/us/en/search/orderByProduct/jcr:content/par/start" name=":formstart">
+
+                               <input type="hidden" value="true" name="ajaxForm">
+                           </th>
+                        </tr>
+                        <tr>
+                           <td><input type="text" name="prod_id1" size="12" maxlength="25" onkeyup="validateOrderByProduct(this, true)">
+                           </td>
+                           <td><input type="text" name="quantity1" size="3" maxlength="3" onkeyup="validateOrderByProduct(this, false)">
+                           </td>
+                        </tr>
+                        <tr>
+                           <td><input type="text" name="prod_id2" size="12" maxlength="25" onkeyup="validateOrderByProduct(this, true)">
+                           </td>
+                           <td><input type="text" name="quantity2" size="3" maxlength="3" onkeyup="validateOrderByProduct(this, false)">
+                           </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><input type="text" name="prod_id3" size="12" maxlength="25" onkeyup="validateOrderByProduct(this, true)">
+                           </td>
+                           <td><input type="text" name="quantity3" size="3" maxlength="3" onkeyup="validateOrderByProduct(this, false)">
+                           </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><input type="text" name="prod_id4" size="12" maxlength="25" onkeyup="validateOrderByProduct(this, true)">
+                           </td>
+                           <td><input type="text" name="quantity4" size="3" maxlength="3" onkeyup="validateOrderByProduct(this, false)">
+                           </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td><input type="text" name="prod_id5" size="12" maxlength="25" onkeyup="validateOrderByProduct(this, true)">
+                           </td>
+                           <td><input type="text" name="quantity5" size="3" maxlength="3" onkeyup="validateOrderByProduct(this, false)">
+                           </td>
+                           <td> </td>
+                        </tr>
+                        <tr>
+                           <td>
+                               <button type="submit" class="peBtn btnIcons-cart btn-primary">
+                               <span class="buttonLeftIcon"><span class="buttonRightIcon"><span class="buttonText">Add To Cart</span></span></span></button>
+                           </td>
+                           <td>
+                              &nbsp;
+                           </td>
+                           <td>
+                              &nbsp;
+                           </td>
+                        </tr>
+                     </tbody></table>
+                     <input type="hidden" name="segmentName" value="not.found">
+                  </form>
+               </div>
             </div>
-            <div class="clear"></div>
-        </div></div>
+         </div>
+      </div>
+   </div>
+   <div class="clear"></div>
+</div></div>
 
         </div>
         <div class="clear"></div>
@@ -568,10 +844,12 @@ function validateOrderByProduct(inputField, isAlpha) {
 </div>
     <div class="clinicalPageWrap clinicalFullPageWidth clinicalPageBody">
         
-
 <div class="content">
- 
- <div class="search">
+    
+    <div class="fullWidthBar">
+        <div class="search">
+
+
 
 
 
@@ -627,11 +905,29 @@ jQuery(window).load(function(){
   
   function validateSearchTerm() {
       var str = document.quicksearch.searchText.value;
-      
-	  if ((str == "Search") || (str == "keyword or product name") || (/^([A-Za-z0-9-:&.,+/ ]*)$/.test(str))) {
-	  	if (str == "Search" || str == "keyword or product name") {
+      var effortcodes = ["A9B","A9F","A9H","CAA","CBA","CEA","CFB","CFC","CFD","CFE","CFG","CFH","CFJ","CFK","CFM","CGV","CGW","CGX","CGY","CGZ","CHA","CNP","CPA","CRC","CSA","CSW","D21","D22","D23","D24","D25","D28","D2A","D2B","D2C","D2E","D2F","D2G","D2M","D2N","D2Q","D2R","D2S","D2Z","D34","D35","D37","D3A","D3B","D3C","D3F","D3G","D3J","D3K","D3M","D3N","D3P","D3Q","D3R","D3S","D3T","D3X","D3Y","D42","D43","D45","D4A","D4B","D4D","D4E","DBB","DBC","DBD","DBE","DBF","DPN","DSN","DSX","DTD","DTL","DTM","DTN","DTS","DTU","DTV","DTW","DTY","DUC","DUG","DUN","DUP","DVQ","DVR","DVS","DWL","DWS","DXF","DXH","DXJ","DXK","DXQ","DXR","DYH","DYJ","DYK","DYL","DYM","DYN","DYP","DYQ","DYR","DYT","DYU","DZD","DZH","DZK","DZM","DZR","DZT","DZU","DZV","DZW","DZZ","CFB","CFC","CFD","CFE","CFG","CFH","CFJ","CFK","CFM","CGV","CGW","CGX","CGY","CGZ","CHA","CRC","CSW","DPN","DSN","DSX","DTD","DTL","DTM","DTN","DTS","DTU","DTV","DTW","DTY","DUC","DUG","DUP","DVQ","DVR","DVS","DWL","DWS","DXH","DXJ","DXK","DXQ","DYH","DYJ","DYK","DYL","DYM","DYN","DYP","DYQ","DYR","DYT","DYU","DZD","DZH","DZK","DZM","DZR","DZT","DZU","DZV","DZW","EXD","EXI","EXP","EXT","EXW","I7S","I8C","ICN","ICP","ICQ","ICR","ICS","ICT","ICU","ICV","ICW","ICX","ICY","ICZ","IDS","IDT","IDU","IDV","IDW","IDX","IDY","IDZ","IEQ","IER","IES","IET","IEW","IEX","IEY","IEZ","IFJ","IFK","IFM","IFN","IFQ","IFR","IFS","IFT","IFW","IFX","IFY","IFZ","IGJ","IGK","IGM","IGN","IGP","IGQ","IGR","IGS","IGT","IGW`","IGX","IGY","IGZ","IHJ","IHK","IHM","IHN","IHP","IHQ","IHR","IHS","IHT","IHW","PCR","T1T","T1V","T2B","T2F","T2I","T2J","T2K","T2L","T2M","T2N","T2P","T2S","T2T","T2W","T2X","T2Z","T34","T3B","T3D","T3K","T3L","T3M","T3T","T3W","T3Z","T4L","T4W","T5A","T5H","T5I","T5J","T5K","T5R","T5U","T5W","T63","T6C","T6K","T6M","T6T","T6Y","T7E","T7G","T7H","T7K","T7O","T7R","T7W","T7X","T8A","T8C","T8F","T8L","T8O","T8T","T8X","T8Y","T9C","T9D","T9F","T9G","T9H","T9J","T9K","T9M","T9N","T9O","T9S","T9T","T9W","T9Y","TB1","TB2","TB3","TB5","TB7","TB8","TB9","TC3","TC8","TD2","TD7","TD8","TD9","TE8","TF3","TG2","TG3","TG6","TH5","TH7","THS","TI3","TI5","TI7","TI8","TJ4","TJ5","TJ6","TJ7","TJP","TJS","TJX","TJZ","TK2","TK3","TK7","TKZ","TL3","TL4","TL8","TM3","TM4","TM6","TM8","TMB","TMS","TMU","TMV","TN2","TN3","TN5","TN7","TNA","TNE","TO1","TO2","TO4","TO7","TOS","TP1","TP2","TP3","TP4","TPQ","TPS","TQ2","TQ3","TQ6","TQ7","TQC","TQD","TQF","TQN","TQR","TQS","TR3","TR5","TR6","TS6","TSA","TSH","TSJ","TT5","TU4","TU5","TUJ","TUK","TV2","TV4","TV7","TV8","TVB","TWA","TWB","TWC","TWF","TX2","TX8","TX9","TXY","TY2","TYC","TYQ","TZ9","TZB","TZF","TZP","TZT","UAD","WG9","WH6","WJ4","WJ9","WM4","WSP","WVL","WVM","XB6","XC4","XC8","XCA","XCB","XE2","XE3","XE4","XE5","XF3","XG4","XG9","XGB","XGC","XTZ","XUC"];
+
+
+      if (str!= null && str.length > 1 && (/^([A-Za-z0-9-:&.,+/ ]*)$/.test(str))) 
+      {
+    	   if(/^\d+$/.test(str.substr(0,str.length-1).replace(new RegExp( "-", "gi" ),"")))
+           {
+              str = str.replace(new RegExp( "-", "gi" ),"");
+           }
+      }
+      document.quicksearch.searchText.value = str.toString();
+
+	  if ((str == "Search") || (str == "keyword, assessment or product code") || (/^([A-Za-z0-9-:&.,+/ ]*)$/.test(str))) {
+	  	if (str == "Search" || str == "keyword, assessment or product code") {
 	  		document.quicksearch.searchText.value = "";
 	  	}
+        if (str!= null && str.length > 6)
+        {
+        	if (effortcodes.indexOf(str.toUpperCase().substr(str.length-3))!=-1)
+            {
+               document.quicksearch.searchText.value = str.substr(0,str.length-3);
+            }
+        }
 		return true;
       } else {
           alert ("Please enter valid search term.");
@@ -657,15 +953,13 @@ jQuery(window).load(function(){
     </div>
 </div></div>
 
-   
+    </div>
     
-	   
+    
 	    <div class="title"><div class=""><h1 class="programTitle">Privacy Policy</h1>
     <h3></h3></div></div>
 
     
-    
-	
 	<div class="par parsys"><div class="text parbase section"><p><b>Effective: October 1, 2013</b></p>
 <ul>
 <li><a href="#1">Applicability of Privacy Policy and Privacy Policy Statement</a></li>
@@ -717,13 +1011,15 @@ jQuery(window).load(function(){
         
 
 
+
 <div class="clear">&nbsp;</div>
 <div class="footer">
 
     <div class="footerSection footerSectionBottom">
         <div class="footerSectionIDS">
             <div class="floatLeft w40percent paddingBottom">
-                <div class="parsys iparsys iparsys_footerImg"><div class="section"><div class="new"></div>
+    
+    <div class="parsys iparsys iparsys_footerImg"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys iparsys_footerImg"><div class="parbase image section">
     
     <div style="float:left" id="cq-image-jsp-/content/ani/clinicalassessments/us/en/jcr:content/iparsys_footerImg/image"><img title="PsychCorp" alt="PsychCorp" class="cq-dd-image" src="/content/ani/clinicalassessments/us/en/_jcr_content/iparsys_footerImg/image.img.png/1384401271101.png"></div>
@@ -749,6 +1045,7 @@ jQuery(window).load(function(){
 </div>
 </div>
 
+
             </div>
             <div class="floatRight w40percent textRight">
                 <div class="footerOtherPearsonSites">
@@ -769,7 +1066,7 @@ jQuery(window).load(function(){
 		    });
 		</script>
 		<select class="" id="pearsonSites" name="pearsonSites" onchange="javascript:navigateToUrl(this);" style="padding: 2px; display:none">
-		    <option value=".html">Other Pearson Sites</option><option value="http://www.pearsonassessments.com/">Assessment</option><option value="http://www.pearsonclinical.com/">Clinical Assessments</option><option value="http://www.pearsonassessments.com/largescaleassessment.html">Large-Scale Assessment</option><option value="http://www.pearsonassessments.com/learningassessments.html">Learning Assessment</option><option value="http://www.pearsonassessments.com/postsecondaryeducation.html">Post-Secondary Education</option><option value="http://www.pearsonassessments.com/talentassessment.html">Talent Assessment</option><option value="http://www.pearsonassessments.com/teacherlicensure.html">Teacher Licensure Testing And Performance Assessment</option>
+		    <option value=".html">Other Pearson Sites</option><option value="/content/ped/ani/pa/us/en.html">Assessment</option><option value="/content/ani/clinicalassessments/us/en.html">Clinical Assessments</option><option value="/content/ped/ani/pa/us/en/largescaleassessment.html">Large-Scale Assessment</option><option value="/content/ped/ani/pa/us/en/learningassessments.html">Learning Assessment</option><option value="/content/ped/ani/pa/us/en/postsecondaryeducation.html">Post-Secondary Education</option><option value="/content/ani/clinicalassessments/us/en/talent.html">Talent Assessment</option><option value="/content/ped/ani/pa/us/en/teacherlicensure.html">Teacher Licensure Testing And Performance Assessment</option>
 			</select>
 			<a href="/about/pearsonSites.html" id="pearsonSitesLink">Other Pearson Sites</a>
 			
@@ -786,7 +1083,10 @@ jQuery(window).load(function(){
                 <div class="footerLegalLinks">
                     
 
-<div class="iparsys_footerlinks parsys iparsys iParBottomNav"><div class="section" id="iv3"><div class="new"></div>
+<div class="iparsys_footerlinks parsys iparsys iParBottomNav">
+
+
+<div class="section" id="iv3"><div class="new"></div>
 </div><div class="iparys_inherited" id="iv4"><div class="iparsys_footerlinks parsys iparsys iParBottomNav"><script>jQuery(document).ready(function(){
     	    jQuery('#bottomNav a').attr('target', '_self');
 		  });</script><ul id="bottomNav" class="horizontalList">
@@ -794,13 +1094,6 @@ jQuery(window).load(function(){
 
 
 <li class="firstInList">
-    <a href="/legal.html" title="Legal Policies">Legal Policies</a>
-     | 
-</li>
-
-
-
-<li class="item">
     <a href="/contact/permissions.html" title="Permissions and Licensing">Permissions and Licensing</a>
      | 
 </li>
@@ -816,6 +1109,13 @@ jQuery(window).load(function(){
 
 <li class="item">
     <a href="/ordering/returns.html" title="Returns">Returns</a>
+     | 
+</li>
+
+
+
+<li class="item">
+    <a href="/legal.html" title="Legal Policies">Legal Policies</a>
      | 
 </li>
 
@@ -853,10 +1153,10 @@ jQuery(window).load(function(){
     </div>
     <div class="analytics">
 
+
+
                 
 
-
-<!-- Begin Paste the SiteCatalyst JavaScript Page code here -->
         
 <!-- SiteCatalyst code version: H.22.1.
 Copyright 1996-2011 Adobe, Inc. All Rights Reserved
@@ -864,7 +1164,102 @@ More info available at http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript"><!--
 var console=console||{"log":function(){}};
 var scpath=location.pathname;
-function getStaticPageName()
+s.pageName=getCustomPageName(getStaticPageName(scpath));
+	
+console.log(s.pageName);
+s.channel = "";
+if(false){
+    s.channel="not.found";
+} else {
+	s.channel = "main";
+}
+
+jQuery(document).ready(function() {
+    jQuery("button#registerLink").click(function() {
+        s.linkTrackVars='eVar4,events';
+        s.linkTrackEvents='event2';
+        s.eVar4 = s.eVar21;
+        s.events = 'event2';
+        customLinkTrack("Registration Initiated");
+    }),
+    jQuery("#loginButton").click(function() {
+        s.linkTrackVars='events,eVar16';
+        s.linkTrackEvents='event15';
+        s.events='event15';
+        s.eVar16=jQuery('#login_form2_username').val();
+        customLinkTrack("Login");
+    })
+});
+
+var requestFrom = getParam("requestFrom");
+var searchText = getParam("searchText");
+var searchContext = getParam("searchContext");
+
+if(searchText != ""){
+    if(searchContext == "content"){
+        s.prop1 = "content:"+unescape(searchText);
+    } else {
+        s.prop1 = "program:"+unescape(searchText);
+    }
+}
+
+if(requestFrom == "quickSearch"){
+	setFacets(getParam("categoryId"),getParam("subCategoryId"),getParam("productTypeFacet"),getParam("assessmentTypeFacet"),getParam("languageFacet"),getParam("ageFacet"),getParam("administrationFacet"),getParam("scoringOptionFacet"),getParam("normsFacet"),getParam("usageApplicationFacet"));
+} 
+
+function getFacetsPageName(category, subcategory, product, assessment, language, age, admin, scoring, norms, usage){
+    var pageName="";
+    if(category != ""){
+        pageName += ":category";
+    }
+    if(subcategory != ''){
+        pageName += ":subCategoryId";
+    }
+    if(product != ""){
+        pageName += ":productType";
+    }
+    if(assessment != ""){
+        pageName += ":assessmentType";
+    }
+    if(language != ""){
+        pageName += ":language";
+    }
+    if(age != ""){
+        pageName += ":age";
+    }
+    if(admin != ""){
+        pageName += ":testCompletion";
+    }
+    if(scoring != ""){
+        pageName += ":scoringOption";
+    }
+    if(norms != ""){
+        pageName += ":norms";
+    }
+    if(usage != ""){
+        pageName += ":usage";
+    }
+    return pageName;
+}
+function getCustomPageName(pageName)
+{
+	if(pageName.indexOf("add qualified clinical user")!=-1){
+		pageName = "Add Qual User:add qualified clinical user";
+	} else if(pageName.indexOf("add qualified talent user")!=-1){
+	    pageName = "Add Qual User:add qualified talent user";
+	} else if(pageName.indexOf("login")!=-1){
+	    s.events = "event7";
+	} else if (pageName.indexOf("thank-you")!=-1){
+	    //form submission tracking
+	    var prevPageName = s.getPreviousValue(s.pageName,'gpv_p20','');
+	    if( prevPageName != s.pageName){
+	        s.eVar6=prevPageName; //form name
+	        s.events="event18"; //submit counter
+	    }
+	}
+	return pageName;
+}
+function getStaticPageName(scpath)
 {
     var segment = getSegmentName();
     var prodId = "null";
@@ -872,58 +1267,71 @@ function getStaticPageName()
     var pageType = "null";
     if(s.events=="purchase"){
         return segment+"ecommerce:checkout:PlaceOrder";
-    }
-    if(scpath == "/content/ani/clinicalassessments/us/en.html" || scpath == "/content/ped/ani/pa/us/en.html" ||  scpath == "/" || scpath == ""){
+    } else if(scpath == "/content/ani/clinicalassessments/us/en.html" || scpath == "/content/ped/ani/pa/us/en.html" ||  scpath == "/" || scpath == ""){
         return document.title.toLowerCase();
-    }    
-    if (location.search) {
-        if(getParam("categoryId") != ""){
-            return segment+"category:"+document.title.toLowerCase();
-        } else if(getParam("requestFrom") == "quickSearch"){
-            return segment+"search page";
+    } else if (location.search || scpath.indexOf("/services/solr/search/.POST.api") != -1) {
+    	if(getParam("requestFrom") == "categoryLanding"){  //category landing page
+            var pageName = segment+"category:";
+            pageName += document.title.toLowerCase();
+            pageName += getFacetsPageName("", getParam("subCategoryId"), getParam("productTypeFacet"), getParam("assessmentTypeFacet"), getParam("languageFacet"), getParam("ageFacet"), getParam("administrationFacet"), getParam("scoringOptionFacet"), getParam("normsFacet"), getParam("usageApplicationFacet"));
+            return pageName;
+        } else if(getParam("requestFrom") == "quickSearch" && getParam("searcSubmit.x")!="" && getParam("searcSubmit.y")!=""){
+			return segment+"search results";
+        } else if(getParam("requestFrom") == "quickSearch" || scpath.indexOf("/services/solr/search/.POST.api")!=-1){ //faceted search
+            var pageName = segment+"faceted search";
+            pageName += getFacetsPageName(getParam("categoryId"), getParam("subCategoryId"), getParam("productTypeFacet"), getParam("assessmentTypeFacet"), getParam("languageFacet"), getParam("ageFacet"), getParam("administrationFacet"), getParam("scoringOptionFacet"), getParam("normsFacet"), getParam("usageApplicationFacet"));
+            return pageName;
         } else if(getParam("requestFrom") == "discoBox"){
             return segment+"browse assessments";
+        } else {
+            return segment+document.title.toLowerCase();
         }
-    }
-    if(prodId != "" && scpath.indexOf("products")!=-1){
+    } else if(prodId != " " && prodId != "null" && prodId != "" && scpath.indexOf("products")!=-1){ //product page
         s.products = prodId;
         s.events = "prodView,event3,event25";
         return segment+"product details page";
+    } else if(scpath.indexOf("error/404") != -1){ //404 error page
+        s.pageType="errorPage";
+        return ""; //pagename has to be null to appear in pages not found report
+    } else {  //authoring environment
+        scpath = scpath.replace("/content/ani/clinicalassessments/us/en/","");
+        scpath = scpath.replace("/content/ped/ani/pa/us/en/","");
+        scpath = scpath.replace(/\//g,':').replace(/%20/g,' ').replace(/.html/,'');
+        if(scpath.charAt(0)==':'){
+            scpath = scpath.substring(1,scpath.length);
+        }
+        return scpath;
     }
-    if(scpath.indexOf("error") != -1){
-        return "";
-    }
-    if(scpath == "/services/solr/search/.POST.api"){
-        return segment+"faceted search";
-    }
-    scpath = scpath.replace("/content/ani/clinicalassessments/us/en/","");
-    scpath = scpath.replace("/content/ped/ani/pa/us/en/","");
-    scpath = scpath.replace(/\//g,':').replace(/%20/g,' ').replace(/.html/,'');
-    if(scpath.charAt(0)==':'){
-        scpath = scpath.substring(1,scpath.length);
-    }
-    return scpath;
 }
+function getParam(name) {
+   qs = location.search;
 
-function getParam( name )
-{
-    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-    var regexS = "[\\?&]"+name+"=([^&#]*)";
-    var regex = new RegExp( regexS );
-    var results = regex.exec( window.location.href );
-    if( results == null )
-        return "";
-    else
-        return results[1];
+   var params = [];
+   var tokens;
+   var re = /[?&]?([^=]+)=([^&]*)/g;
+
+   while (tokens = re.exec(qs))
+   { 
+       if (decodeURIComponent(tokens[1]) == name)
+       params.push(decodeURIComponent(tokens[2]));
+   }
+
+   return params;
 }
 
 function getSegmentName()
 {
     var segment = "";
-    if(segment != ""){
-        segment += ':';
-    }
+    if(false)
+        segment = "not.found:";
     return segment;
+}
+
+function trackCustomLinkWithProg(program, linkName)
+{
+	s.linkTrackVars = 'prop3';
+	s.prop3 = program;
+	s.tl(this, 'o', linkName);
 }
 
 function customLinkTrack(linkName)
@@ -980,93 +1388,15 @@ function scAddToCart(prodId)
     s.tl(true,'o','Add to Cart');
 }
 
-s.pageName=getStaticPageName();
-
-if(s.pageName.indexOf("login")!=-1){
-    s.events = "event7";
-}
-jQuery(document).ready(function() {
-    jQuery("button#registerLink").click(function() {
-        s.linkTrackVars='eVar4,events';
-        s.linkTrackEvents='event2';
-        s.eVar4 = s.eVar21;
-        s.events = 'event2';
-        customLinkTrack("Registration Initiated");
-    }),
-    jQuery("#loginButton").click(function() {
-        s.linkTrackVars='events,eVar16';
-        s.linkTrackEvents='event15';
-        s.events='event15';
-        s.eVar16=jQuery('#login_form2_username').val();
-        customLinkTrack("Login");
-    })
-});
-
-    
-console.log(s.pageName);
-s.channel="";
-if(scpath.indexOf("error") != -1){
-    s.pageType="errorPage";
-}
-var requestFrom = getParam("requestFrom");
-var searchText = getParam("searchText");
-var searchContext = getParam("searchContext");
-var segmentName = getParam("segmentName");
-var categoryId = getParam("categoryId");
-var subCategoryId = getParam("subCategoryId");
-var productType = getParam("productTypeFacet");
-var assessmentType = getParam("assessmentTypeFacet");
-var language = getParam("languageFacet");
-var age = getParam("ageFacet");
-var admin = getParam("administrationFacet");
-var scoring = getParam("scoringOptionFacet");
-
-if(searchText != ""){
-    if(searchContext == "content"){
-        s.prop1 = "content:"+unescape(searchText);
-    } else {
-        s.prop1 = "program:"+unescape(searchText);
-    }
-}
-s.prop7 = '';
-if(requestFrom == "quickSearch"){
-	if(segmentName!=''){
-		s.prop7 += segmentName+'|';
-	}
-	if(categoryId !=''){
-		s.prop7 += categoryId+'|';
-	}
-	if(subCategoryId != ''){
-		s.prop7 += subCategoryId+'|';
-	}
-	if(productType != ''){
-		s.prop7 += productType+'|';
-	}
-	if(assessmentType != ''){
-		s.prop7 += assessmentType+'|';
-	}
-	if(language != ''){
-		s.prop7 += language+'|';
-	}
-	if(age != ''){
-        s.prop7 += age+'|';
-    }
-	if(admin != ''){
-        s.prop7 += admin+'|';
-    }
-	if(scoring != ''){
-        s.prop7 += scoring+'|';
-    }
-}
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://pearsonnorthamerica.122.2O7.net/b/ss/pearsonclinical/1/H.19.4--NS/0" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
+//--></script><noscript><img src="//pearsonnorthamerica.122.2O7.net/b/ss/pearsonclinical/1/H.19.4--NS/0" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.22.1. -->
         
-<!-- End Paste the SiteCatalyst JavaScript Page code here --></div>
+</div>
 
 
 
