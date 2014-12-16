@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rustconsulting.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100608id_/http%3A//www.rustconsulting.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustconsulting.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216053205id_/http%3A//www.rustconsulting.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Rust Consulting Inc., the Leader in Class Action Settlement Administration > Privacy
 
