@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erotic-massage-osaka.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427205112id_/http%3A//www.erotic-massage-osaka.com/company/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erotic-massage-osaka.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217005047id_/http%3A//www.erotic-massage-osaka.com/company/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy Osaka Escort Erotic Massage Club
 
@@ -44,7 +44,7 @@ The purpose of collecting personal information or use club by Osaka Escort Eroti
 
 ２\. If you want to these claims, please contact:. 
 
-Contact:Osaka Escort Erotic Massage Club  
+Contact:Japan Escort Erotic Massage Club  
 e-mail :front@tomato-club.net
 
 ■ The security of personal information
