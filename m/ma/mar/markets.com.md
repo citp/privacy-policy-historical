@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markets.com privacy policy that was archived on 2013-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130224142658id_/http%3A//www.markets.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markets.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216060446id_/http%3A//www.markets.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY STATEMENT
 
@@ -71,6 +71,10 @@ You acknowledge that in order to provide services to you, it may be necessary fo
 **REGULATORY DISCLOSURE**
 
 Safecap reserves the right to disclose personal information to third parties where required by law, regulatory, law enforcement or other government authority of a competent jurisdiction in order to protect our rights and/or to comply with such legal proceedings. Such disclosure shall occur on a ‘need-to-know’ basis, unless otherwise instructed by a regulatory or other government authority. Under such circumstances, Safecap shall expressly inform the third party regarding the confidential nature of the information.
+
+Without limiting the foregoing, the Company, a regulated Cyprus Investment Firm, is required to comply based on the Intergovernmental Agreement between Cyprus and the United States and has taken all reasonable steps to be considered in compliance with FATCA.
+
+The Client acknowledges and accepts that the Company, as an FFI, is required to disclose information in relation to any US reportable persons to the relevant authorities, as per the reporting requirements of FATCA. The Client may contact the Company for additional information and/or clarifications prior to the signing of this Agreement.
 
 **RESTRICTION OF RESPONSIBILITY**
 
