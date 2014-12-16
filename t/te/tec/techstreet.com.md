@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327142757id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216061549id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy & Practices
 
@@ -44,7 +44,7 @@ More Details
 
 ### How may I correct, amend or delete my personal information, or update my preferences?
 
-  * You may update your preferences at any time on the Communication Preferences page, accessible by [logging in](https://web.archive.org/sessions/new) and then going to "My Account" 
+  * You may update your preferences at any time on the Communication Preferences page, accessible [here](http://www.techstreet.com/account/users/edit)
   * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us. 
   * If you have any additional questions or concerns related to this statement and/or our practices, please contact us via email at [techstreet.service@thomsonreuters.com](mailto:techstreet.service@thomsonreuters.com) or via phone at 1-734-780-8000. 
 
@@ -101,7 +101,7 @@ The use of cookies is relatively standard. Most browsers are initially set up to
 
 Back To Top
 
-### HOW DOES TECHSTSREET PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
+### HOW DOES TECHSTREET PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
 
 We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a date center with restricted access and appropriate monitoring and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures. 
 
@@ -133,7 +133,7 @@ Back To Top
   
 
 
-  * You may update your preferences at any time on the Communications Preferences page, accessible by [logging in](https://web.archive.org/sessions/new) and then going to "My Account" 
+  * You may update your preferences at any time on the Communications Preferences page, accessible [here](http://www.techstreet.com/account/users/edit). 
 
 
 
