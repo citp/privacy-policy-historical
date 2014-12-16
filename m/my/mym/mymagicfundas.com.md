@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mymagicfundas.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621232857id_/http%3A//www.mymagicfundas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymagicfundas.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216134233id_/http%3A//www.mymagicfundas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My Magic Fundas
+# Privacy Policy
 
-This **Privacy Policy** governs the manner in which Mymagicfundas collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.mymagicfundas.com website (“Site”). This _privacy policy_ applies to the Site and all products and services offered by Mymagicfundas.
+This Privacy Policy governs the manner in which Mymagicfundas collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.mymagicfundas.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Mymagicfundas.
 
 ## Personal identification information
 
@@ -37,7 +37,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ### Advertising
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This _privacy policy_ does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 ### Google Adsense
 
