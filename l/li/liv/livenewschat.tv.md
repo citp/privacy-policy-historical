@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenewschat.tv privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626155333id_/http%3A//www.livenewschat.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenewschat.tv privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216151543id_/http%3A//www.livenewschat.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LNC – Live News Cloud Stream
 
@@ -64,7 +64,3 @@ Contacting Us
 If there are any questions regarding this privacy policy you may contact us using email below. 
 
 mail(at)livenewschat(dot)tv
-
-Chrome Users [Click Here To Get The Free **LNC CHROME APP**](http://bit.ly/1uQZELA)
-
-FireFox Users [Click Here to Install the Free **LNC FIREFOX APP**](http://mzl.la/1goFIvJ "Install Firefox App")
