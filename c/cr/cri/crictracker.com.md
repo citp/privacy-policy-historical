@@ -1,63 +1,35 @@
-> *The following text is extracted and transformed from the crictracker.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611013519id_/http%3A//www.crictracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictracker.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216012832id_/http%3A//www.crictracker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cricket Tracker
+# Privacy Policy - Cricket Tracker
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact@crictracker.com](mailto:contact@crictracker.com).
+[Home](http://www.crictracker.com/) Privacy Policy
 
-At www.crictracker.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.crictracker.com and how we use it.
+**Privacy Policy**  
+This Privacy Policy was last modified on Nov 9, 2014.  
+Crictracker (“us”, “we”, or “our”) operates www.crictracker.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-**Log Files**  
-Like many other Web sites, www.crictracker.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.crictracker.com.
 
-**Cookies and Web Beacons**  
-www.crictracker.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+**Information Collection And Use**  
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
 
-**DoubleClick DART Cookie**
+**Log Data**  
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-→ Google, as a third party vendor, uses cookies to serve ads on www.crictracker.com.
+**Cookies**  
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.  
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.crictracker.com and other sites on the Internet.
+**Security**  
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+**Links To Other Sites**  
+Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.  
+Crictracker has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
-**Our Advertising Partners**
+**Changes To This Privacy Policy**  
+Crictracker may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
-
-  * edomz
-
-
-
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
-
-You may consult this listing to find the privacy policy for each of the advertising partners of www.crictracker.com.
-
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.crictracker.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
-
-www.crictracker.com has no access to or control over these cookies that are used by third-party advertisers.
-
-**Third Party Privacy Policies**
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.crictracker.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
-
-**Children’s Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
-www.crictracker.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.crictracker.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
-
-**Online Privacy Policy Only**
-
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
-This policy does not apply to any information collected offline or via channels other than this website.
-
-**Consent**
-
-By using our website, you hereby consent to our privacy policy and agree to its terms.
-
-**Update**  
-This Privacy Policy was last updated on: Tuesday, October 1st, 2013.
-
-_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
-
-Share 
+**Contact Us**  
+If you have any questions about this Privacy Policy, please contact us.  
+Generated with permission from TermsFeed Generator.
