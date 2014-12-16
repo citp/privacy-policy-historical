@@ -1,97 +1,39 @@
-> *The following text is extracted and transformed from the aplus.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218031732id_/http%3A//www.aplus.com/about/pri.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216140940id_/https%3A//aplus.com/privacy) for the most accurate reproduction.*
 
-# A+ California Casualty Auto & Home Insurance: Privacy Policy
+# 
 
-In this section
+A+ operates several websites including [aplus.com](https://aplus.com/). It is A+’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-[» Get a Quote](https://quoting.aplus.com/autoquote)  
-[» Contact Us](https://web.archive.org/about/askus.asp)  
-[» Privacy](https://web.archive.org/about/pri.asp)  
-[» Locate Us](https://web.archive.org/about/loc.asp)  
-[» Site Map](https://web.archive.org/about/sitemap.asp)
+## Website Visitors
 
-From Our Customers
+Like most website operators, A+ collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. A+’s purpose in collecting non-personally identifying information is to better understand how A+’s visitors use its website. From time to time, A+ may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-|    
-  
-**Your privacy is important to us!** This Privacy Notice applies to all information collected or submitted on our www.californiacasualty.com, www.calcas.com, www.APlus.com and www.MyAPlus.com Web sites ("our A+ Web sites"). We have established strict standards to maintain the privacy and security of information we collect over the Internet. In addition to Internet privacy and security, California Casualty Management Company is also committed to general consumer privacy and security. California Casualty Management Company has taken the necessary action to ensure our compliance with the federal privacy requirements of the Gramm-Leach-Bliley Act by the Act's mandated compliance deadline of July 1, 2001.
+A+ also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. A+ only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
-**What types of personally identifiable information do we collect on our A+ Web sites?**
+## Gathering of Personally-Identifying Information
 
-"Personally identifiable information" means information, collected on our A+ Web sites, that is linked to an individual identifier, such as name or e-mail address, and can be retrieved and associated with a specific individual during the ordinary course of business.
+Certain visitors to A+’s websites choose to interact with A+ in ways that require A+ to gather personally-identifying information. The amount and type of information that A+ gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [aplus.com](https://aplus.com/) to provide a username and email address. Those who engage in transactions with A+ – by purchasing access to our service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, A+ collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with A+. A+ does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-We may collect personally identifiable information on our A+ Web sites from you if you ask to receive a policy quote, request a policy change, pay a bill, process a claim, or send us feedback. We may collect information about you, other drivers in your household, your vehicles and your home to provide a basis for underwriting, rating, servicing, adjusting claims and collecting premium for A+/California Casualty insurance.
+## Aggregated Statistics
 
-Specific types of general information that we may collect online for both auto and property insurance include: 
+A+ may collect statistics about the behavior of visitors to its websites. A+ may display this information publicly or provide it to others. However, A+ does not disclose personally-identifying information other than as described below.
 
-  * Applicant name, address, home and work phone, fax, e-mail address 
-  * Social security number 
-  * Information about your current insurance 
-  * Types of coverages and limits desired 
-  * Credit card number, bank account number, payroll number [depending upon the payment plan you select] 
+## Protection of Certain Personally-Identifying Information
 
-Specific types of additional information that we may collect online for auto insurance include: 
-  * Names of other drivers in household 
-  * Driver information for applicant and household members, including:
-    * gender, marital status, relationship to applicant, birth date 
-    * occupation, employer, year hired, trade association membership 
-    * driver's license number/state, licensing dates 
-    * accidents/claims/moving violations 
-    * existence of prior insurance coverage (including dates, policy number, carrier)
+A+ discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on A+’s behalf or to provide services available at A+’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using A+’s websites, you consent to the transfer of such information to them. A+ will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, A+ discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when A+ believes in good faith that disclosure is reasonably necessary to protect the property or rights of A+, third parties or the public at large. If you are a registered user of an A+ website and have supplied your email address, A+ may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with A+ and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. A+ takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Specific types of additional information that we may collect online for property insurance include: 
-  * Property information, including
-    * Property address, county, fire district, distance to fire hydrant/fire station, within city limits?
-  * Household members, including
-    * Are all household members non-smokers? Is applicant 55 or older and retired? What is the applicant's age? 
-    * How many non-relatives are living on the property? 
+## Cookies
 
-Whenever we collect sensitive personally identifiable information on our A+ Web sites, we use secure socket layer "SSL" encryption. 
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. A+ uses cookies to help A+ identify and track visitors, their usage of A+ website, and their website access preferences. A+ visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using A+’s websites, with the drawback that certain features of A+’s websites may not function properly without the aid of cookies.
 
-**What is our policy about sharing personally identifiable information collected on our A+ Web sites with third parties?**
+## Business Transfers
 
-We do not share, without your permission, personally identifiable information collected on our A+ Web sites about you and other members of your household with [ outside parties](https://web.archive.org/web/20081218031732id_/http%3A//www.aplus.com/about/pri.asp#OutsideParty) who might use the information to market their products or services to you.
+If A+, or substantially all of its assets, were acquired, or in the unlikely event that A+ goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of A+ may continue to use your personal information as set forth in this policy.
 
-As a necessary part of our business of providing auto and home insurance, we do share such information with selected [agents](https://web.archive.org/web/20081218031732id_/http%3A//www.aplus.com/about/pri.asp#Agent), [ contractors](https://web.archive.org/web/20081218031732id_/http%3A//www.aplus.com/about/pri.asp#Contractor) and outside parties, including our trade association partners, who provide services that support core functions our company performs in the course of operating our auto and home insurance business, including sales, marketing, underwriting, claims and premium collection. 
+## Ads
 
-We will also share information necessary to comply with an order issued by a court or governmental agency of competent jurisdiction.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by A+ and does not cover the use of cookies by any advertisers.
 
-We require our agents and contractors to hold the personally identifiable information we share with them in the strictest confidence, and to agree not to disclose any personally identifiable information except to carry out the purposes for which we disclosed the information to them.
+## Privacy Policy Changes
 
-Exceptions are as follows: 
-
-  1. We submit individual claim information to insurance database services that maintain automobile and property claims data. These database services make this historical claims data available to participating insurers for underwriting purposes and fraud detection. 
-  2. Where we are unable to collect earned premium due us, we will authorize, on a customer by customer basis, our collection agency vendor to submit personally identifiable information including name, address, policy number and past due premium amount to one or more of the following credit reporting agencies: Equifax, Experian, TransUnion. 
-  3. During the course of adjusting and paying claims, a function integral to our business, we do not require our field personnel to execute or maintain contracts or confidentiality agreements with certain classes of vendors, including body shops, building contractors, independent medical examiners, attorneys, independent adjusters/appraisers, specialty vendors (glass shops, replacement services, tow services, car rental companies, restoration services, appraisers), private investigators and PPO providers. 
-  4. During the course of underwriting insurance policies, a function integral to our business, we do not require our field personnel to execute or maintain contracts or confidentiality agreements with state motor vehicle departments. 
-
-Only by choosing not to do business with us can this necessary information sharing be avoided. 
-
-**What is our policy about using personally identifiable information collected on our A+ Web sites to market our own auto and home insurance products?**
-
-With respect to direct mail and telephone marketing, if you do not want information collected on our A+ Web sites to be used by us to market our own auto and home insurance products to you, then you can instruct us to remove you from our marketing lists: 
-
-  * If you receive a direct mail piece from A+/California Casualty, you can request to be removed from our direct mail list by contacting California Casualty Management Company's Marketing Services Department at 650-574-4000 x4453. 
-  * If you are contacted by phone by an A+/California Casualty representative, you can request that the representative remove you from our telephone marketing list. 
-
-**What type of security do we maintain?**
-
-To prevent unauthorized access, maintain data security, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-**How can you access or correct your information?**
-
-You can access your personally identifiable information that we collect and maintain online by contacting us via e-mail at [contact@calcas.com](mailto:contact@calcas.com) You can request that factual errors in your personal information be corrected by sending us a request that shows the factual error. You may e-mail your correction request to the email address above; you may call a customer service representative with your request; or you may mail us your request. You can find the telephone number and address of our office serving your state on the [Locate Us](http://www.aplus.com/Corporate/about/loc.asp) page of our Web site. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. 
-
-Should you have other questions or concerns about our privacy policy, please call our privacy manager at 650-572-4342 or send us an e-mail at the email address listed above. 
-
-**Effective: July 31, 2002**
-
-© 2006 California Casualty Management Company. All rights reserved. 
-
-**Definitions**
-
-**Agent**: An agent is any person or organization (other than an employee) that performs services for CCMC under an express or implied agreement and is subject to CCMC's control or right to control in the manner and means of providing the service. 
-
-**Contractor**: A contractor is any person or entity who, as part of an independent business, becomes obligated to provide goods and/or services to CCMC. 
-
-**Outside Party**: An outside party is any party that is not an agent or contractor. 
+Although most changes are likely to be minor, A+ may change its Privacy Policy from time to time, and in A+’s sole discretion. A+ encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have an aplus.com account, you should also check your feed for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
