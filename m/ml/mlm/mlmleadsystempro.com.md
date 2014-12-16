@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmleadsystempro.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628025059id_/http%3A//mlmleadsystempro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmleadsystempro.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216162051id_/http%3A//www.mlmleadsystempro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO™
 
