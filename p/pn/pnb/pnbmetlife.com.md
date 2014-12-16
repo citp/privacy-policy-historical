@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnbmetlife.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615060327id_/http%3A//www.pnbmetlife.com/MetLifePrivacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnbmetlife.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217000230id_/http%3A//pnbmetlife.com/MetLifePrivacy_policy.aspx) for the most accurate reproduction.*
 
 # PNB MetLife – Privacy Policy
 
@@ -62,9 +62,9 @@ Bangalore 560 004
 Email us at [india_grievancecell@pnbmetlife.co.in](mailto:india_grievancecell@pnbmetlife.co.in)
 
 5\. Updation of Personal Information.   
-The Company strives to keep it’s records updated with customers latest information. To this end, if any discrepancy are found in a customer’s Personal Information, either in part or as a whole, the customer is requested to visit the Company’s office or contact its customer service at 1800 425 6969(toll free) / +91 80 2650 2244 (User paid) or write to the Company at [india_grievancecell@pnbmetlife.co.in.](mailto:india_grievancecell@pnbmetlife.co.in)
+The Company strives to keep it’s records updated with customers latest information. To this end, if any discrepancy are found in a customer’s Personal Information, either in part or as a whole, the customer is requested to visit the Company’s office or contact its customer service at 1800 425 6969(toll free) / +91 80 2650 2244 (User paid) or write to the Company at [ india_grievancecell@pnbmetlife.co.in.](mailto:india_grievancecell@pnbmetlife.co.in)
 
-In case a customer wishes withdraw his/her consent for usage of the personal information so collected by the Company, the customer can write to the Company at [indiaprivacyoffice@metlife.com.](mailto:indiaprivacyoffice@metlife.com) However, in such an event the Company reserves the right to discontinue/cancel the insurance policy /services for which, the Personal Information was sought. 
+In case a customer wishes withdraw his/her consent for usage of the personal information so collected by the Company, the customer can write to the Company at [ indiaprivacyoffice@metlife.com.](mailto:indiaprivacyoffice@metlife.com) However, in such an event the Company reserves the right to discontinue/cancel the insurance policy /services for which, the Personal Information was sought. 
 
 6\. Changes to Company’s Privacy Policy   
 The Company reserves the right to update this Policy as necessary from time to time. Please check Company’s websites periodically for changes to this Policy. 
