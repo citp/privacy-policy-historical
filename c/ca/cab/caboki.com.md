@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618211533id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216105840id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
 
 # Caboki.com Privacy Policy
 
