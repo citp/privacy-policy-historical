@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326213026id_/http%3A//www.ozlotteries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216201345id_/https%3A//www.ozlotteries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -151,8 +151,8 @@ Melbourne
 Victoria 3001   
 
 
-+61 3 9821 2800 (phone)   
-+61 3 9821 2801 (fax)   
++61 3 9321 2888 (phone)   
++61 3 9321 2801 (fax)   
 1800 774 137 
 
 [privacy@tmsglobal.com.au](mailto:privacy@tmsglobal.com.au)
