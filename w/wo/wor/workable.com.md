@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071652id_/http%3A//workable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217002845id_/https%3A//www.workable.com/privacy) for the most accurate reproduction.*
 
 # Workable - Privacy policy
 
