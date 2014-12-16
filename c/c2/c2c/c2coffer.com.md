@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c2coffer.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627011929id_/http%3A//www.c2coffer.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2coffer.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216230659id_/http%3A//www.c2coffer.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - www.c2coffer.com
 
