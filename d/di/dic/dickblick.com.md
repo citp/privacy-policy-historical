@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627205318id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216085943id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
 
 # Security and Privacy - BLICK art materials
 
@@ -25,14 +25,26 @@ Dick Blick uses VeriSign, the industry leader, as it's security verification ser
 
 Only those web pages where you actually enter your credit card and billing information pass encrypted information. When you request one of these checkout screens, the page's URL begins with `https` instead of `http`, and the "security" icon on your browser has the appearance of a closed padlock. 
 
+Return to Top
+
 ###  Privacy Statement  
 
 
 This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
-Dick Blick, like all companies that sell through a catalog or through an online store, maintains a list of current and potential customers. If you order from us, or if you request a catalog, then we will send you a new catalog from time to time, depending on the amount of business you do with us. We like to have email as well as postal addresses if possible. It's our best way of staying in touch. 
+Blick Art Materials, like all companies that sell through a catalog or through an online store, maintains a list of current and potential customers. If you order from us, or if you request a catalog, then we will send you a new catalog from time to time, depending on the amount of business you do with us. We like to have email as well as postal addresses if possible. It's our best way of staying in touch. 
 
-We recognize that you may or may not want to receive future catalogs and offers. If you don't want either catalogs or email from us, let us know and we will follow your wishes. If you're an on-line customer, you can tell us your wishes on this website, by clicking on "My Account" (located on every page of our site, in the upper right corner) and clicking on the link to "Update your Account Preferences". 
+We recognize that you may or may not want to receive future catalogs and offers. If you don't want either catalogs or email from us, let us know and we will follow your wishes. If you're an online customer, you can tell us your wishes on this website, by clicking on "My Account" (located on every page of our site, in the upper right corner) while logged in. 
+
+Click the "Account Preferences" option to manage your catalog subscriptions. On this page, you will find a series of checkboxes. Use these checkboxes to tell us whether you are interested in receiving mailings from us and/or mailings from other companies that may be interested in contacting you. 
+
+Click the "Email Preferences" link to access and edit your email subscription status.
+
+Alternatively, you may adjust your catalog or email preferences by contacting us via email at [info@dickblick.com](mailto:info@dickblick.com), by phone at 1-800-828-4548, or by mail at: 
+
+Blick Art Materials  
+P.O. Box 1267  
+Galesburg, IL 61402-1267 
 
 Like other companies in our industry, we sometimes rent or exchange names and mailing addresses with companies that offer catalogs in related fields. If you do not wish to receive other catalogs, please call 1-800-828-4548 or email us at [info@dickblick.com](mailto:info@dickblick.com). 
 
@@ -40,24 +52,36 @@ We do not rent or exchange email addresses or telephone numbers, and we have no 
 
 We do no "direct telemarketing" by telephone or fax, and we will never offer your name and phone number to any company that does. We occasionally call our customers to ask them how our service is. For example, we sometimes monitor the shippers we use to make sure that orders are delivered in a timely manner, and without damages. However, we do no telephone marketing and we do not sell information to companies that do. 
 
-If you are on online customer and you have created an account on this website, you can notify us automatically through the Internet, by clicking on "My Account" (located on every page of our site, in the upper right corner) and clicking on the link to "Update your Account Preferences". If you have never been our customer, but you request a catalog, we offer you the same options on our Catalog Request page. 
+If you are on online customer and you have created an account on this website, you can notify us automatically through the Internet, by clicking on "My Account" (located on every page of our site, in the upper right corner) and clicking on the link to "Account Preferences". If you have never been our customer, but you request a catalog, we offer you the same options on our Catalog Request page. 
 
 In the event DickBlick.com or substantially all of its assets are acquired or merged with another company, all of the customer information that we have collected may be transferred to the new company. 
+
+Return to Top
 
 ###  What if I don't want e-mail or catalogs?  
 
 
-At Dick Blick, we give you the option to change your privacy settings once you have logged into our website. While logged in, click on "My Account" (located on every page of our site, in the upper right corner), then click on the link to "Update your Account Preferences". 
+At Blick Art Materials, we give you the option to change your privacy settings once you have logged into our website. While logged in, click on "My Account" (located on every page of our site, in the upper right corner). 
 
-On the "Your Account Preferences" page, you will find a series of checkboxes. Use these checkboxes to tell us whether you are interested in receiving email promotions from us, mailings from us, or mailings from other companies that may be interested in contacting you. 
+Click the "Account Preferences" option to manage your catalog subscriptions. On this page, you will find a series of checkboxes. Use these checkboxes to tell us whether you are interested in receiving mailings from us and/or mailings from other companies that may be interested in contacting you. 
 
-If you've never ordered online, but you are already a customer of ours, please feel free to write us and let us know your wishes. Write to us at [info@dickblick.com](mailto:info@dickblick.com), or send us an ordinary letter. It helps to include your customer number (available on any recent invoice, or on the address label of a recent catalog) so that we can match your request with information in our records. Although we try hard to avoid it, we sometimes end up with duplicate records for a customer. 
+Click "Email Preferences" to access and edit your email subscription status.
+
+If you do not have a registered account on our website, but you are already a customer of ours, please feel free to write us and let us know your wishes. Write to us at [info@dickblick.com](mailto:info@dickblick.com), call us at 1-800-828-4548, or send us an ordinary letter at: 
+
+Blick Art Materials  
+P.O. Box 1267  
+Galesburg, IL 61402-1267 
+
+It helps to include your customer number (available on any recent invoice, or on the address label of a recent catalog) so that we can match your request with information in our records. Although we try hard to avoid it, we sometimes end up with duplicate records for a customer. 
 
 If you have asked us not to send catalogs, but you still receive one, you may be on other mailing lists. We periodically rent and exchange names with a few other companies that offer similar products and services. We try hard not to send anybody a catalog unnecessarily, and we seek your help in avoiding duplicate accounts and unnecessary mailings. 
 
 If you are interested in avoiding catalog mailings in general, the Direct Marketing Association and the United States Postal Service maintain a list of consumers who do not want to receive unsolicited catalogs. If you put your name on the DMA list and keep your mailing information on that list up to date, we will not rent your name or mail you a catalog unless you request it. 
 
 We try hard not to mail unnecessarily to current and prospective customers who do not want to receive catalogs. Unsolicited and unwanted catalogs are very costly to us. We really appreciate your help in avoiding unwanted mailings. 
+
+Return to Top
 
 ###  What are cookies, and do you use them?  
 
@@ -74,6 +98,8 @@ You can refuse all cookies, 1st party cookies, and/or 3rd party cookies by turni
 
 If you are concerned about cookies and want to avoid keeping them on your machine, we urge you to use or purchase one of the many excellent "Cookie Eliminator" programs readily available. Alternatively, many modern web browsers allow you to configure your preferred "Privacy" settings as they relate to cookies. For example, you may choose to not accept "3rd party cookies" or you may wish to "delete" all cookies upon closing/exiting the browser application. Other than forcing you to log in again, using any or all of these methods will not affect your use of dickblick.com. 
 
+Return to Top
+
 ###  What other information do you collect?  
 
 
@@ -81,12 +107,18 @@ As you browse and order on our site, our servers log your activity and your path
 
 We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
+Return to Top
+
 ###  Ecommerce Disclosure  
 
 
 In accordance with industry practices, our affiliates are compensated for links to our website. [Click here](https://web.archive.org/affiliates/) to learn more about our Affiliates Program. 
 
+Return to Top
+
 ###  Policy Changes  
 
 
 Dick Blick provides its services to you subject to the preceeding policies which may be updated and/or revised from time to time by Dick Blick without notice to you, and which become effective when posted. Please refer to this page to review our most current policies and terms of use. 
+
+Return to Top
