@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comscore.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624032202id_/http%3A//www.comscore.com/About_comScore/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comscore.com privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216050808id_/http%3A//www.comscore.com/About-comScore/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         
@@ -24,7 +24,7 @@
 				
 			    											<meta name="description" content="This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com.">
 							
-			    											<meta name="keywords" content="online market research, mobile market research, media research, online media research, internet trends, online measurement, online analysis, mobile media, comscore, comscore networks, media metrix, ad metrix, market intelligence, copy testing, audience measurement, business analytics, digital analytics, comScore ARS, ARS Group, Nedstat, Sitestat, social media measurement,">
+			    											<meta name="keywords" content="analytics, audience analytics, enterprise analytics, advertising analytics, digital market intelligence, internet measurement, internet audience measurement, web site usage, internet trends, online behavior, online marketing strategies, online buying activity, digital analytics, web analytics, SCOR, comScore">
 							    	
 	
 	
@@ -38,7 +38,7 @@
     <meta property="og:description" content="This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com.">
 	<meta property="og:type" content="article">
 	<meta property="og:image" content="http://www.comscore.com/var/comscore/storage/images/design/comscore_inc/483231-121-eng-US/comScore_Inc.png">
-	<meta property="og:url" content="http://www.comscore.com/About_comScore/Privacy_Policy">	<meta property="og:site_name" content="comScore, Inc">
+	<meta property="og:url" content="http://www.comscore.com/About-comScore/Privacy-Policy">	<meta property="og:site_name" content="comScore, Inc">
 	<meta property="fb:app_id" content="368907079829413">
 
 	<link rel="Shortcut icon" href="/extension/comscore/design/site/images/favicon.ico" type="image/x-icon">
@@ -57,11 +57,12 @@
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/ezfind.css">
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/mq.css">
 
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lobster">
 
 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_ie6.css" media="screen" /><![endif]-->
 <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_ie7.css" media="screen" /><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_ie8.css" media="screen" /><![endif]-->
+
+
 
 
 
@@ -167,7 +168,9 @@ if ( window.XMLHttpRequest && window.ActiveXObject )
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/megamenu_plugins.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/megamenu.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.cycle.core.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.scroll.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/base.js" charset="utf-8"></script>
+
 
 
 
@@ -191,19 +194,41 @@ if ( window.XMLHttpRequest && window.ActiveXObject )
 <script type="text/javascript">
 <!--//
 function SetElqContent(){ 
-	/* WRITE LEAD SOURCE */
+	/* WRITE LEAD SOURCE - consider writing to cookie */
 	var patt1 = /^[-_a-zA-Z0-9]+$/;
 	if(getUrlVars()['ns_mchannel'])
 		{
 			var chan = getUrlVars()['ns_mchannel'].match(patt1);
-			if (chan != null && this.GetElqContentPersonalizationValue && GetElqContentPersonalizationValue('V_ElqEmailAddress')!=""){
-			  	var email = GetElqContentPersonalizationValue('V_ElqEmailAddress');
-				var xhr = new XMLHttpRequest();
-				xhr.open("POST", "http://s118899503.t.eloqua.com/e/f2.aspx?elqFormName=master_blind_submit&elqSiteID=118899503&C_EmailAddress="+email+"&ls="+chan+"", true);
-				xhr.send();			  
-		  	}
+			//alert("Trigger form submit based on ns_mchannel label");
 		}
-	}
+		
+	else if(document.referrer.indexOf(window.location.hostname)<=0)
+		{
+    		if(document.referrer.length>0){
+			//alert("Trigger form submit"+ document.referrer+" vs "+window.location.hostname+" vergelijkingswaarde:"+document.referrer.indexOf(window.location.hostname));
+			}
+			else{/*alert("Do not trigger form submit - no referrer info");*/}
+			
+			//var chan =  document.referrer;
+		}
+	else if(document.referrer.indexOf(window.location.hostname)>0)
+		{
+    		//alert("Do not trigger form submit - own domain "+document.referrer+" vs "+window.location.hostname+" vergelijkingswaarde:"+document.referrer.indexOf(window.location.hostname));
+			//var chan =  document.referrer;
+		}
+
+	/*
+	if (chan != null && this.GetElqContentPersonalizationValue && GetElqContentPersonalizationValue('V_ElqEmailAddress')!="")
+		{
+			var email = GetElqContentPersonalizationValue('V_ElqEmailAddress');
+			var xhr = new XMLHttpRequest();
+			xhr.open("POST", "http://s118899503.t.eloqua.com/e/f2.aspx?elqFormName=master_blind_submit&elqSiteID=118899503&C_EmailAddress="+email+"&ls="+chan+"", true);
+			xhr.send();			  
+		}
+	*/	
+}
+
+	
 _elqQ.push(['elqDataLookup', escape('c2f8212331474576a25d168667165d12'),'']);
 //-->
 </script>	
@@ -345,14 +370,14 @@ function iopen(){open($("#fullResImage").attr("src"));
     <div id="mastHead" class="cfx">
 
     <div id="logo">
-            <h1><a href="/" title="comScore, Inc"><img src="/var/comscore/storage/images/design/comscore_inc/172-106-eng-US/comScore_Inc.png" alt="comScore, Inc."></a></h1>
+            <h1><a href="/" title="comScore, Inc"><img src="/var/comscore/storage/images/design/comscore-inc/172-106-eng-US/comScore-Inc.png" alt="comScore, Inc."></a></h1>
     	      
     </div>
 
     <div id="eNav">
 
 	
-	<a id="login" rel="nofollow" target="_blank" title="login" href="https://auth.comscore.com/login/" class="button orange">Login</a>
+	<a id="login" rel="nofollow" target="_blank" title="login" href="https://auth2.comscore.com/" class="button orange">Login</a>
 	
 	
 	
@@ -454,7 +479,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/ger/Ueber_Uns/Datenschutzerklaerung" title="Deutsch">Deutsch</a></li>
+											<li><a href="/ger/Ueber-Uns/Datenschutzerklaerung" title="Deutsch">Deutsch</a></li>
 									
 																															
 																			
@@ -462,7 +487,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/lat/Sobre_comScore/Politica_de_privacidad" title="Español (América Latina)">Español (América Latina)</a></li>
+											<li><a href="/lat/Sobre-comScore/Politica-de-privacidad" title="Español (América Latina)">Español (América Latina)</a></li>
 									
 																															
 																			
@@ -470,7 +495,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/esl/Sobre_comScore/Politica_de_privacidad" title="Español (España)">Español (España)</a></li>
+											<li><a href="/esl/Sobre-comScore/Politica-de-privacidad" title="Español (España)">Español (España)</a></li>
 									
 																															
 																			
@@ -478,7 +503,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/fre/A_propos_de_comScore/Declaration_de_confidentialite" title="Français">Français</a></li>
+											<li><a href="/fre/A-propos-de-comScore/Declaration-de-confidentialite" title="Français">Français</a></li>
 									
 																															
 																			
@@ -486,7 +511,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/ita/Chi_siamo/Privacy_Policy" title="Italiano">Italiano</a></li>
+											<li><a href="/ita/Chi-siamo/Privacy-Policy" title="Italiano">Italiano</a></li>
 									
 																															
 																														
@@ -494,7 +519,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/por/About_comScore/Privacy_Policy" title="Português">Português</a></li>
+											<li><a href="/por/About-comScore/Privacy-Policy" title="Português">Português</a></li>
 									
 																															
 																			
@@ -502,7 +527,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/dut/Over_comScore/Privacy_Policy" title="Nederlands">Nederlands</a></li>
+											<li><a href="/dut/Over-comScore/Privacy-Policy" title="Nederlands">Nederlands</a></li>
 									
 																															
 																			
@@ -510,7 +535,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/jpn/About_comScore/Privacy_Policy" title="日本語">日本語</a></li>
+											<li><a href="/jpn/About-comScore/Privacy-Policy" title="日本語">日本語</a></li>
 									
 																															
 																			
@@ -518,7 +543,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/chi/About_comScore/Privacy_Policy" title="中文 (简体)">中文 (简体)</a></li>
+											<li><a href="/chi/About-comScore/Privacy-Policy" title="中文 (简体)">中文 (简体)</a></li>
 									
 													</ul>
 		</li>
@@ -554,9 +579,8 @@ $(document).ready(function($){
 
 
     <div class="megamenu_container megamenu_dark_bar megamenu_light"><!-- BEGIN MENU WRAPPER -->
-  
-      
-        
+		
+      	<div class="container">
       
         <ul class="megamenu">
 	        <li class="megamenu_button" style="display: none;"><a href="#_"><em></em><em></em><em></em><em></em></a></li>
@@ -604,7 +628,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="sf-with-ul " href="/Products/Audience_Analytics" title="Audience Analytics ">Audience Analytics <span class="sf-sub-indicator"></span></a>
+                                    <a class="sf-with-ul " href="/Products/Audience-Analytics" title="Audience Analytics ">Audience Analytics <span class="sf-sub-indicator"></span></a>
 
 									                                    	</h3>
 									
@@ -618,7 +642,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Audience_Analytics/Media_Metrix_Multi-Platform" title="Media Metrix Multi-Platform">Media Metrix Multi-Platform</a></li>
+																									<li><a href="/Products/Audience-Analytics/Media-Metrix-Multi-Platform" title="Media Metrix Multi-Platform">Media Metrix Multi-Platform</a></li>
                                                 																									
                                                                                     											
 												
@@ -626,7 +650,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Audience_Analytics/Media_Metrix" title="Media Metrix">Media Metrix</a></li>
+																									<li><a href="/Products/Audience-Analytics/Media-Metrix" title="Media Metrix">Media Metrix</a></li>
                                                 																									
                                                                                     											
 												
@@ -634,7 +658,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Audience_Analytics/Video_Metrix" title="Video Metrix">Video Metrix</a></li>
+																									<li><a href="/Products/Audience-Analytics/Video-Metrix" title="Video Metrix">Video Metrix</a></li>
                                                 																									
                                                                                     											
 												
@@ -642,7 +666,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Audience_Analytics/Mobile_Metrix" title="Mobile Metrix">Mobile Metrix</a></li>
+																									<li><a href="/Products/Audience-Analytics/Mobile-Metrix" title="Mobile Metrix">Mobile Metrix</a></li>
                                                 																									
                                                                                     											
 												
@@ -650,8 +674,9 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Audience_Analytics/Ad_Metrix" title="Ad Metrix">Ad Metrix</a></li>
+																									<li><a href="/Products/Audience-Analytics/Ad-Metrix" title="Ad Metrix">Ad Metrix</a></li>
                                                 																									
+                                                                                    	
                                                                                     	
                                                                                     	
                                                                                     	
@@ -673,7 +698,7 @@ $(document).ready(function($){
 													
 																																																					
 													<li class="t3">
-                                                    	<a href="/Products/Audience_Analytics/Product_Index" title="More Audience Analytics Products">More Audience Analytics Products</a>
+                                                    	<a href="/Products/Audience-Analytics/Product-Index" title="More Audience Analytics Products">More Audience Analytics Products</a>
                                                     </li>
 
 																						
@@ -710,7 +735,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="sf-with-ul " href="/Products/Advertising_Analytics" title="Advertising Analytics">Advertising Analytics<span class="sf-sub-indicator"></span></a>
+                                    <a class="sf-with-ul " href="/Products/Advertising-Analytics" title="Advertising Analytics">Advertising Analytics<span class="sf-sub-indicator"></span></a>
 
 									                                    	</h3>
 									
@@ -724,7 +749,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Advertising_Analytics/validated_Campaign_Essentials" title="validated Campaign Essentials">validated Campaign Essentials</a></li>
+																									<li><a href="/Products/Advertising-Analytics/validated-Campaign-Essentials" title="validated Campaign Essentials">validated Campaign Essentials</a></li>
                                                 																									
                                                                                     											
 												
@@ -732,7 +757,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Advertising_Analytics/Action_Lift" title="Action Lift">Action Lift</a></li>
+																									<li><a href="/Products/Advertising-Analytics/Action-Lift" title="Action Lift">Action Lift</a></li>
                                                 																									
                                                                                     											
 												
@@ -740,7 +765,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Advertising_Analytics/Brand_Survey_Lift" title="Brand Survey Lift">Brand Survey Lift</a></li>
+																									<li><a href="/Products/Advertising-Analytics/Brand-Survey-Lift" title="Brand Survey Lift">Brand Survey Lift</a></li>
                                                 																									
                                                                                     											
 												
@@ -748,7 +773,7 @@ $(document).ready(function($){
                                                 
                                                 
                                                 
-																									<li><a href="/Products/Advertising_Analytics/Brand_Survey_Lift_Pulse" title="Brand Survey Lift Pulse">Brand Survey Lift Pulse</a></li>
+																									<li><a href="/Products/Advertising-Analytics/Brand-Survey-Lift-Pulse" title="Brand Survey Lift Pulse">Brand Survey Lift Pulse</a></li>
                                                 																									
                                                                                     											
 												
@@ -756,9 +781,8 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Advertising_Analytics/Offline_Sales_Lift" title="Offline Sales Lift">Offline Sales Lift</a></li>
+																									<li><a href="/Products/Advertising-Analytics/Offline-Sales-Lift" title="Offline Sales Lift">Offline Sales Lift</a></li>
                                                 																									
-                                                                                    	
                                                                                     	
                                                                                     	
                                                                                     	
@@ -769,7 +793,7 @@ $(document).ready(function($){
 													
 																																																					
 													<li class="t3">
-                                                    	<a href="/Products/Advertising_Analytics/Product_Index" title="More Advertising Analytics Products">More Advertising Analytics Products</a>
+                                                    	<a href="/Products/Advertising-Analytics/Product-Index" title="More Advertising Analytics Products">More Advertising Analytics Products</a>
                                                     </li>
 
 																						
@@ -806,7 +830,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="sf-with-ul " href="/Products/Enterprise_Analytics" title="Enterprise Analytics">Enterprise Analytics<span class="sf-sub-indicator"></span></a>
+                                    <a class="sf-with-ul " href="/Products/Enterprise-Analytics" title="Enterprise Analytics">Enterprise Analytics<span class="sf-sub-indicator"></span></a>
 
 									                                    	</h3>
 									
@@ -820,7 +844,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Enterprise_Analytics/Digital_Analytix_Enterprise" title="Digital Analytix Enterprise">Digital Analytix Enterprise</a></li>
+																									<li><a href="/Products/Enterprise-Analytics/Digital-Analytix-Enterprise" title="Digital Analytix Enterprise">Digital Analytix Enterprise</a></li>
                                                 																									
                                                                                     											
 												
@@ -828,7 +852,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Enterprise_Analytics/validated_Media_Essentials" title="validated Media Essentials">validated Media Essentials</a></li>
+																									<li><a href="/Products/Enterprise-Analytics/validated-Media-Essentials" title="validated Media Essentials">validated Media Essentials</a></li>
                                                 																									
                                                                                     											
 												
@@ -836,7 +860,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Enterprise_Analytics/Subscriber_Analytix" title="Subscriber Analytix">Subscriber Analytix</a></li>
+																									<li><a href="/Products/Enterprise-Analytics/Subscriber-Analytix" title="Subscriber Analytix">Subscriber Analytix</a></li>
                                                 																									
                                                                                     											
 												
@@ -844,7 +868,7 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Enterprise_Analytics/Subscriber_Analytix_Marketing" title="Subscriber Analytix Marketing ">Subscriber Analytix Marketing </a></li>
+																									<li><a href="/Products/Enterprise-Analytics/Subscriber-Analytix-Marketing" title="Subscriber Analytix Marketing ">Subscriber Analytix Marketing </a></li>
                                                 																									
                                                                                     											
 												
@@ -852,8 +876,9 @@ $(document).ready(function($){
                                                                                                                                                     
                                                 
                                                 
-																									<li><a href="/Products/Enterprise_Analytics/Subscriber_Analytix_Care" title="Subscriber Analytix Care ">Subscriber Analytix Care </a></li>
+																									<li><a href="/Products/Enterprise-Analytics/Subscriber-Analytix-Care" title="Subscriber Analytix Care ">Subscriber Analytix Care </a></li>
                                                 																									
+                                                                                    	
                                         										
                                         
 																																
@@ -935,7 +960,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Industries/Consumer_Packaged_Goods" title="CPG">CPG</a>
+                                    <a class="" href="/Industries/Consumer-Packaged-Goods" title="CPG">CPG</a>
 
 																			</li>
 									
@@ -1013,7 +1038,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Industries/Financial_Services" title="Financial Services">Financial Services</a>
+                                    <a class="" href="/Industries/Financial-Services" title="Financial Services">Financial Services</a>
 
 																			</li>
 									
@@ -1091,7 +1116,33 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Industries/Investment_Research" title="Investment Research ">Investment Research </a>
+                                    <a class="" href="/Industries/Investment-Research" title="Investment Research ">Investment Research </a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/Industries/Manufacturing" title="Manufacturing">Manufacturing</a>
 
 																			</li>
 									
@@ -1143,32 +1194,6 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Industries/Manufacturing" title="Manufacturing">Manufacturing</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                                                                                        
-                            
-                            
-                                
-                                
-                                
-
-                                
-                                
-                                
-                                                                                                    
-
-								                                	<li>
-									
-								
-                                
-                                    
                                     <a class="" href="/Industries/Pharmaceutical" title="Pharmaceutical ">Pharmaceutical </a>
 
 																			</li>
@@ -1195,7 +1220,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Industries/Professional_Services" title="Professional Services">Professional Services</a>
+                                    <a class="" href="/Industries/Professional-Services" title="Professional Services">Professional Services</a>
 
 																			</li>
 									
@@ -1351,7 +1376,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Insights/Press_Releases" title="Press Releases">Press Releases</a>
+                                    <a class="" href="/Insights/Press-Releases" title="Press Releases">Press Releases</a>
 
 																			</li>
 									
@@ -1377,7 +1402,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Insights/Presentations_and_Whitepapers" title="Presentations &amp; Whitepapers">Presentations &amp; Whitepapers</a>
+                                    <a class="" href="/Insights/Presentations-and-Whitepapers" title="Presentations &amp; Whitepapers">Presentations &amp; Whitepapers</a>
 
 																			</li>
 									
@@ -1386,7 +1411,7 @@ $(document).ready(function($){
                             
                                                     
                                                                                         
-                            
+                                                                                        
                             
                             
                                 
@@ -1455,7 +1480,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Insights/Data_Mine" title="Data Mine">Data Mine</a>
+                                    <a class="" href="/Insights/Data-Mine" title="Data Mine">Data Mine</a>
 
 																			</li>
 									
@@ -1481,7 +1506,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Insights/Market_Rankings" title="Market Rankings">Market Rankings</a>
+                                    <a class="" href="/Insights/Market-Rankings" title="Market Rankings">Market Rankings</a>
 
 																			</li>
 									
@@ -1511,7 +1536,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/Insights/Events_and_Webinars" title="Events &amp; Webinars">Events &amp; Webinars</a>
+                                    <a class="" href="/Insights/Events-and-Webinars" title="Events &amp; Webinars">Events &amp; Webinars</a>
 
 																			</li>
 									
@@ -1606,7 +1631,7 @@ $(document).ready(function($){
 				<li id="mInsights">
                 
  
-                      <a href="/comScore_Academy" title="Academy" class="megamenu_drop">Academy</a>
+                      <a href="/comScore-Academy" title="Academy" class="megamenu_drop">Academy</a>
 
                       
                       
@@ -1635,7 +1660,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/comScore_Academy/About_comScore_Academy" title="About comScore Academy">About comScore Academy</a>
+                                    <a class="" href="/comScore-Academy/About-comScore-Academy" title="About comScore Academy">About comScore Academy</a>
 
 																			</li>
 									
@@ -1661,7 +1686,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/comScore_Academy/Course_Catalog" title="Course Catalog">Course Catalog</a>
+                                    <a class="" href="/comScore-Academy/Course-Catalog" title="Course Catalog">Course Catalog</a>
 
 																			</li>
 									
@@ -1687,7 +1712,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/comScore_Academy/Certified_Expert_Program" title="Certified Expert Program">Certified Expert Program</a>
+                                    <a class="" href="/comScore-Academy/Certified-Expert-Program" title="Certified Expert Program">Certified Expert Program</a>
 
 																			</li>
 									
@@ -1713,7 +1738,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/comScore_Academy/Partner_Accreditation_Program" title="Partner Accreditation Program">Partner Accreditation Program</a>
+                                    <a class="" href="/comScore-Academy/Partner-Accreditation-Program" title="Partner Accreditation Program">Partner Accreditation Program</a>
 
 																			</li>
 									
@@ -1739,148 +1764,6 @@ $(document).ready(function($){
                                                     
                             
                             
-                            
-                                                    						
-													</ul></div>
-						                        
-					                </li>
-
-            
-                                                
-                                                    
-                                                            
-				<li id="mCareers">
-                
- 
-                      <a href="/Careers" title="Careers" class="megamenu_drop">Careers</a>
-
-                      
-                      
-                        						
-                        
-													<div class="dropdown_2columns dropdown_container nopadding" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
-                            	 <ul class="levels">
-                            
-												
-                        
-                                                                                        
-                            
-                            
-                            
-                                
-                                
-                                
-
-                                
-                                
-                                
-                                                                                                    
-
-								                                	<li>
-									
-								
-                                
-                                    
-                                    <a class="" href="/Careers/Job_Opportunities" title="Job Opportunities">Job Opportunities</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                            
-                            
-                                                    
-                                                                                        
-                                                                                        
-                            
-                            
-                                
-                                
-                                
-
-                                
-                                
-                                
-                                                                                                    
-
-								                                	<li>
-									
-								
-                                
-                                    
-                                    <a class="" href="/Careers/Life_at_comScore" title="Life at comScore">Life at comScore</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                            
-                            
-                            
-                                
-                                
-                                
-
-                                
-                                
-                                
-                                                                                                    
-
-								                                	<li>
-									
-								
-                                
-                                    
-                                    <a class="" href="/Careers/Message_from_the_CEO" title="Message from the CEO">Message from the CEO</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                            
-                            
-                            
-                                
-                                
-                                
-
-                                
-                                
-                                
-                                                                                                    
-
-								                                	<li>
-									
-								
-                                
-                                    
-                                    <a class="" href="/Careers/Campus_Recruiting" title="Campus Recruiting">Campus Recruiting</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                            
-                            
-                                                    
-                                                                                        
-                            
-                            
-                                                    
-                                                                                        
-                                                                                        
                             
                                                     						
 													</ul></div>
@@ -1894,7 +1777,7 @@ $(document).ready(function($){
 				<li id="mAbout">
                 
  
-                      <a href="/About_comScore" title="About Us" class="megamenu_drop">About Us</a>
+                      <a href="/About-comScore" title="About Us" class="megamenu_drop">About Us</a>
 
                       
                       
@@ -1927,7 +1810,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/About_comScore/comScore_Fact_Sheet" title="comScore Fact Sheet">comScore Fact Sheet</a>
+                                    <a class="" href="/About-comScore/comScore-Fact-Sheet" title="comScore Fact Sheet">comScore Fact Sheet</a>
 
 																			</li>
 									
@@ -1953,7 +1836,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/About_comScore/Privacy" title="Privacy">Privacy</a>
+                                    <a class="" href="/About-comScore/Privacy" title="Privacy">Privacy</a>
 
 																			</li>
 									
@@ -2005,7 +1888,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/About_comScore/Media_Kit" title="Media Kit">Media Kit</a>
+                                    <a class="" href="/About-comScore/Media-Kit" title="Media Kit">Media Kit</a>
 
 																			</li>
 									
@@ -2031,7 +1914,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/About_comScore/Management" title="Management">Management</a>
+                                    <a class="" href="/About-comScore/Management" title="Management">Management</a>
 
 																			</li>
 									
@@ -2057,7 +1940,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/About_comScore/Patents" title="Patents">Patents</a>
+                                    <a class="" href="/About-comScore/Patents" title="Patents">Patents</a>
 
 																			</li>
 									
@@ -2083,7 +1966,7 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/About_comScore/office-locations" title="Locations">Locations</a>
+                                    <a class="" href="/About-comScore/office-locations" title="Locations">Locations</a>
 
 																			</li>
 									
@@ -2096,7 +1979,7 @@ $(document).ready(function($){
                             
                                                     
                                                                                         
-                            
+                                                                                        
                             
                                                     
                                                                                         
@@ -2121,12 +2004,172 @@ $(document).ready(function($){
 								
                                 
                                     
-                                    <a class="" href="/About_comScore/Third-Party_Review" title="Third-Party Accreditation, Certification and Review">Third-Party Accreditation, Certification and Review</a>
+                                    <a class="" href="/About-comScore/Third-Party-Review" title="Third-Party Accreditation, Certification and Review">Third-Party Accreditation, Certification and Review</a>
 
 																			</li>
 									
                                     
                                                                         
+                            
+                                                    						
+													</ul></div>
+						                        
+					                </li>
+
+            
+                                                
+                                                    
+                                                            
+				<li id="mCareers">
+                
+ 
+                      <a href="/Careers" title="Careers" class="megamenu_drop">Careers</a>
+
+                      
+                      
+                        						
+                        
+													<div class="dropdown_2columns dropdown_container nopadding" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
+                            	 <ul class="levels">
+                            
+												
+                        
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/Careers/Job_Opportunities" title="Job Opportunities">Job Opportunities</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/Careers/Life-at-comScore" title="Life at comScore">Life at comScore</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/Careers/Teams-and-Roles" title="Teams and Roles">Teams and Roles</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/Careers/The-comScore-Vision" title="The comScore Vision">The comScore Vision</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/Careers/Campus-Recruitment" title="Campus Recruitment">Campus Recruitment</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                            
+                            
+                                                    
+                                                                                        
+                            
                             
                                                     						
 													</ul></div>
@@ -2162,19 +2205,11 @@ $(document).ready(function($){
 
 
 
-		
-  
+      		</div> 
 		</div>
 
     <!-- /mNav -->
     
-        
-  <div id="contentBounds" class="container cfx">
-    <div class="hr">
-      <hr>
-    </div>
-    <!-- /Global Template Items -->
-
     
 	
         
@@ -2182,10 +2217,16 @@ $(document).ready(function($){
     
         
 
+	
+				
+		
+	
+
 
 
 		
 			<div id="titleHolder">
+			<div class="container">
 				<div class="grid_12 alpha">
 				
 					<!-- DISPLAY CONTAINING FOLDER IF NOT ON HOMEPAGE -->	
@@ -2202,13 +2243,14 @@ $(document).ready(function($){
 				
 						
 				
+
 						
 			
 		
 		
 		
 		
-<div class="breadcrumbs"><a href="/About_comScore">About Us /</a></div>
+<div class="breadcrumbs"><a href="/About-comScore">About Us /</a></div>
 
 					</div>		
 				
@@ -2222,12 +2264,13 @@ $(document).ready(function($){
 					
 				</div><!-- /grid 5 -->
 				<div class="clear"></div>
-			</div>	<!-- /titleHolder -->
+			</div>	<!-- /container -->
+            </div>	<!-- /titleHolder -->
 		
 		
 		
 		<div id="mainColumn">
-		
+			<div class="container">
 			
 				
 			
@@ -2237,11 +2280,8 @@ $(document).ready(function($){
 				
 				<div class="grid_10 suffix_14 alpha omega">
 			
-                					
-		
-				
-			
-			
+
+	
             
                                                 <div class="intro_paragraph">
                         
@@ -2262,11 +2302,12 @@ $(document).ready(function($){
 <b>Contacting Us</b><br>If you have questions regarding our Privacy Statement as it relates to your use of this site or comScore’ products and services, please submit a privacy inquiry.</p>                	
             </div>
           
-            			  
-
+            
   
 	  	</div><!-- /grid 10 -->		
 	</div><!-- /grid 12 -->	
+
+</div><!-- /container -->
 </div><!-- /mainColumn -->
  
 
@@ -2286,8 +2327,8 @@ $(document).ready(function($){
 
 	
 											<ul>		
-						<li class="orange"><a class="demos popup" href="/layout/set/popup/Request/Contact/Contact_Us" title="Contact Us Online">Contact us</a></li>
-						<li class="orange"><a class="demos" href="/About_comScore/comScore_Fact_Sheet" title="comScore Fact Sheet">comScore Fact Sheet</a></li>
+						<li class="orange"><a class="demos popup" href="/layout/set/popup/Request/Contact/Contact-Us" title="Contact Us Online">Contact us</a></li>
+						<li class="orange"><a class="demos" href="/About-comScore/comScore-Fact-Sheet" title="comScore Fact Sheet">comScore Fact Sheet</a></li>
 					</ul>
 				
 						  </div>
@@ -2296,16 +2337,33 @@ $(document).ready(function($){
 			<!--/module-->	
 				
 		<!-- IF SUB MENU ID IS SET AND NOT 0, DISPLAY IT HERE -->
-					
 		
+		
+		<div class="module Module">
+			<div>
+				
+
+		
+			
+
+				
+		
+							
+				
+		
+			</div>
+			<!-- /sNav -->
+		</div>
+		<!--/module-->
+			
+
 	  </div>
 	  <!-- /sideColumn -->
 	</div>
-	<!-- /grid_4-->
+	<!-- /grid_4-->	  
+
         
 	
-  </div>
-  <!-- /contentBounds -->
 
 </div>
 <!-- /pageBounds -->
@@ -2341,7 +2399,7 @@ $(document).ready(function($){
 				
 																																	
 				
-											<a href="/About_comScore">About Us</a>
+											<a href="/About-comScore">About Us</a>
 													
 							&gt;				
 				
@@ -2379,7 +2437,7 @@ $(document).ready(function($){
 														
 								</li><li>
 									
-								  	<a href="/Products/Audience_Analytics" title="Audience Analytics ">Audience Analytics </a>
+								  	<a href="/Products/Audience-Analytics" title="Audience Analytics ">Audience Analytics </a>
 								</li>
 									
 													
@@ -2389,7 +2447,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Products/Advertising_Analytics" title="Advertising Analytics">Advertising Analytics</a>
+								  	<a href="/Products/Advertising-Analytics" title="Advertising Analytics">Advertising Analytics</a>
 								</li>
 									
 													
@@ -2399,7 +2457,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Products/Enterprise_Analytics" title="Enterprise Analytics">Enterprise Analytics</a>
+								  	<a href="/Products/Enterprise-Analytics" title="Enterprise Analytics">Enterprise Analytics</a>
 								</li>
 									
 													
@@ -2437,7 +2495,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Industries/Consumer_Packaged_Goods" title="CPG">CPG</a>
+								  	<a href="/Industries/Consumer-Packaged-Goods" title="CPG">CPG</a>
 								</li>
 									
 													
@@ -2467,7 +2525,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Industries/Financial_Services" title="Financial Services">Financial Services</a>
+								  	<a href="/Industries/Financial-Services" title="Financial Services">Financial Services</a>
 								</li>
 									
 													
@@ -2497,7 +2555,17 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Industries/Investment_Research" title="Investment Research ">Investment Research </a>
+								  	<a href="/Industries/Investment-Research" title="Investment Research ">Investment Research </a>
+								</li>
+									
+													
+														    														
+																													
+							
+														
+								<li>
+									
+								  	<a href="/Industries/Manufacturing" title="Manufacturing">Manufacturing</a>
 								</li>
 									
 													
@@ -2517,16 +2585,6 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Industries/Manufacturing" title="Manufacturing">Manufacturing</a>
-								</li>
-									
-													
-														    														
-																													
-							
-														
-								<li>
-									
 								  	<a href="/Industries/Pharmaceutical" title="Pharmaceutical ">Pharmaceutical </a>
 								</li>
 									
@@ -2537,7 +2595,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Industries/Professional_Services" title="Professional Services">Professional Services</a>
+								  	<a href="/Industries/Professional-Services" title="Professional Services">Professional Services</a>
 								</li>
 									
 													
@@ -2605,7 +2663,7 @@ $(document).ready(function($){
 														
 								</li><li>
 									
-								  	<a href="/Insights/Press_Releases" title="Press Releases">Press Releases</a>
+								  	<a href="/Insights/Press-Releases" title="Press Releases">Press Releases</a>
 								</li>
 									
 													
@@ -2615,12 +2673,12 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Insights/Presentations_and_Whitepapers" title="Presentations &amp; Whitepapers">Presentations &amp; Whitepapers</a>
+								  	<a href="/Insights/Presentations-and-Whitepapers" title="Presentations &amp; Whitepapers">Presentations &amp; Whitepapers</a>
 								</li>
 									
 													
 														    														
-														
+																													
 							
 														
 								<li>
@@ -2645,7 +2703,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Insights/Data_Mine" title="Data Mine">Data Mine</a>
+								  	<a href="/Insights/Data-Mine" title="Data Mine">Data Mine</a>
 								</li>
 									
 													
@@ -2655,7 +2713,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Insights/Market_Rankings" title="Market Rankings">Market Rankings</a>
+								  	<a href="/Insights/Market-Rankings" title="Market Rankings">Market Rankings</a>
 								</li>
 									
 													
@@ -2670,7 +2728,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/Insights/Events_and_Webinars" title="Events &amp; Webinars">Events &amp; Webinars</a>
+								  	<a href="/Insights/Events-and-Webinars" title="Events &amp; Webinars">Events &amp; Webinars</a>
 								</li>
 									
 													
@@ -2726,7 +2784,7 @@ $(document).ready(function($){
 																		
 				<li class="main">
 
-					  <a href="/comScore_Academy" title="Academy" class="main">Academy</a>
+					  <a href="/comScore-Academy" title="Academy" class="main">Academy</a>
 					  
 					  					  
 						
@@ -2738,7 +2796,7 @@ $(document).ready(function($){
 														
 								</li><li>
 									
-								  	<a href="/comScore_Academy/About_comScore_Academy" title="About comScore Academy">About comScore Academy</a>
+								  	<a href="/comScore-Academy/About-comScore-Academy" title="About comScore Academy">About comScore Academy</a>
 								</li>
 									
 													
@@ -2748,7 +2806,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/comScore_Academy/Course_Catalog" title="Course Catalog">Course Catalog</a>
+								  	<a href="/comScore-Academy/Course-Catalog" title="Course Catalog">Course Catalog</a>
 								</li>
 									
 													
@@ -2758,7 +2816,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/comScore_Academy/Certified_Expert_Program" title="Certified Expert Program">Certified Expert Program</a>
+								  	<a href="/comScore-Academy/Certified-Expert-Program" title="Certified Expert Program">Certified Expert Program</a>
 								</li>
 									
 													
@@ -2768,7 +2826,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/comScore_Academy/Partner_Accreditation_Program" title="Partner Accreditation Program">Partner Accreditation Program</a>
+								  	<a href="/comScore-Academy/Partner-Accreditation-Program" title="Partner Accreditation Program">Partner Accreditation Program</a>
 								</li>
 									
 													
@@ -2804,80 +2862,7 @@ $(document).ready(function($){
 																		
 				<li class="main">
 
-					  <a href="/Careers" title="Careers" class="main">Careers</a>
-					  
-					  					  
-						
-						
-													
-														    														
-														
-							
-														
-								</li><li>
-									
-								  	<a href="/Careers/Job_Opportunities" title="Job Opportunities">Job Opportunities</a>
-								</li>
-									
-													
-														    														
-														
-							
-									
-													
-														    														
-																													
-							
-														
-								<li>
-									
-								  	<a href="/Careers/Life_at_comScore" title="Life at comScore">Life at comScore</a>
-								</li>
-									
-													
-														    														
-														
-							
-														
-								<li>
-									
-								  	<a href="/Careers/Message_from_the_CEO" title="Message from the CEO">Message from the CEO</a>
-								</li>
-									
-													
-														    														
-														
-							
-														
-								<li>
-									
-								  	<a href="/Careers/Campus_Recruiting" title="Campus Recruiting">Campus Recruiting</a>
-								</li>
-									
-													
-														    														
-														
-							
-									
-													
-														    														
-														
-							
-									
-													
-														    														
-																													
-							
-									
-																	  				
-			</ul>	
-						
-							<ul>
-												
-																		
-				<li class="main">
-
-					  <a href="/About_comScore" title="About Us" class="main">About Us</a>
+					  <a href="/About-comScore" title="About Us" class="main">About Us</a>
 					  
 					  					  
 						
@@ -2894,7 +2879,7 @@ $(document).ready(function($){
 														
 								</li><li>
 									
-								  	<a href="/About_comScore/comScore_Fact_Sheet" title="comScore Fact Sheet">comScore Fact Sheet</a>
+								  	<a href="/About-comScore/comScore-Fact-Sheet" title="comScore Fact Sheet">comScore Fact Sheet</a>
 								</li>
 									
 													
@@ -2904,7 +2889,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/About_comScore/Privacy" title="Privacy">Privacy</a>
+								  	<a href="/About-comScore/Privacy" title="Privacy">Privacy</a>
 								</li>
 									
 													
@@ -2924,7 +2909,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/About_comScore/Media_Kit" title="Media Kit">Media Kit</a>
+								  	<a href="/About-comScore/Media-Kit" title="Media Kit">Media Kit</a>
 								</li>
 									
 													
@@ -2934,7 +2919,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/About_comScore/Management" title="Management">Management</a>
+								  	<a href="/About-comScore/Management" title="Management">Management</a>
 								</li>
 									
 													
@@ -2944,7 +2929,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/About_comScore/Patents" title="Patents">Patents</a>
+								  	<a href="/About-comScore/Patents" title="Patents">Patents</a>
 								</li>
 									
 													
@@ -2954,7 +2939,7 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/About_comScore/office-locations" title="Locations">Locations</a>
+								  	<a href="/About-comScore/office-locations" title="Locations">Locations</a>
 								</li>
 									
 													
@@ -2964,7 +2949,7 @@ $(document).ready(function($){
 									
 													
 														    														
-														
+																													
 							
 									
 													
@@ -2979,8 +2964,81 @@ $(document).ready(function($){
 														
 								<li>
 									
-								  	<a href="/About_comScore/Third-Party_Review" title="Third-Party Accreditation, Certification and Review">Third-Party Accreditation, Certification and Review</a>
+								  	<a href="/About-comScore/Third-Party-Review" title="Third-Party Accreditation, Certification and Review">Third-Party Accreditation, Certification and Review</a>
 								</li>
+									
+																	  				
+			</ul>	
+						
+							<ul>
+												
+																		
+				<li class="main">
+
+					  <a href="/Careers" title="Careers" class="main">Careers</a>
+					  
+					  					  
+						
+						
+													
+														    														
+																													
+							
+														
+								</li><li>
+									
+								  	<a href="/Careers/Job_Opportunities" title="Job Opportunities">Job Opportunities</a>
+								</li>
+									
+													
+														    														
+																													
+							
+														
+								<li>
+									
+								  	<a href="/Careers/Life-at-comScore" title="Life at comScore">Life at comScore</a>
+								</li>
+									
+													
+														    														
+																													
+							
+														
+								<li>
+									
+								  	<a href="/Careers/Teams-and-Roles" title="Teams and Roles">Teams and Roles</a>
+								</li>
+									
+													
+														    														
+																													
+							
+														
+								<li>
+									
+								  	<a href="/Careers/The-comScore-Vision" title="The comScore Vision">The comScore Vision</a>
+								</li>
+									
+													
+														    														
+																													
+							
+														
+								<li>
+									
+								  	<a href="/Careers/Campus-Recruitment" title="Campus Recruitment">Campus Recruitment</a>
+								</li>
+									
+													
+														    														
+														
+							
+									
+													
+														    														
+														
+							
 									
 																	  				
 			</ul>	
@@ -3011,7 +3069,7 @@ $(document).ready(function($){
 																							
 																									
 						<li>
-							<a href="/About_comScore/Privacy_Policy" title="Privacy Policy">
+							<a href="/About-comScore/Privacy-Policy" title="Privacy Policy">
 								Privacy Policy
 							</a> - 	
 						</li>
@@ -3045,7 +3103,7 @@ $(document).ready(function($){
     			
 				    
                 	<a href="http://www.twitter.com/comScore" title="Twitter" class="footersocial twitter" rel="nofollow"></a><div class="container_social" id="ftwitter" style="display:none; width:270px;"><strong>Twitter<div class="social_close">X</div></strong><div class="sc"></div></div>
-								<a href="http://www.linkedin.com/company/comscore-inc." title="LinkedIn" class="footersocial linkedin" rel="nofollow"></a><div class="container_social" style="display:none; width:240px;"><strong>LinkedIn<div class="social_close">X</div></strong><div class="sc"></div></div>
+								<a href="http://www.linkedin.com/company/comscore" title="LinkedIn" class="footersocial linkedin" rel="nofollow"></a><div class="container_social" style="display:none; width:240px;"><strong>LinkedIn<div class="social_close">X</div></strong><div class="sc"></div></div>
 				<a href="http://www.facebook.com/comScoreInc" title="Facebook" class="footersocial facebook" rel="nofollow"></a><div class="container_social" style="display:none; width:324px;"><strong>Facebook<div class="social_close">X</div></strong><div class="sc"></div></div>
 				<a href="http://www.youtube.com/comscore" title="YouTube" class="footersocial youtube" rel="nofollow"></a><div class="container_social" style="display:none; width:270px;"><strong>YouTube<div class="social_close">X</div></strong><div class="sc"></div></div>
 				<a href="/int/Insights/Communications-Preference-Center" title="Email" class="footersocial email" rel="nofollow"></a><div class="container_social" style="display:none; width:355px;"><strong>Email<div class="social_close">X</div></strong><div class="sc"></div></div>
@@ -3064,8 +3122,10 @@ $(document).ready(function($){
 
 
 	    <div class="hdn" id="geo" data-cntry="US" data-cnt="NA"></div>
-			
-
+    
+    		<!-- SURVEY SCRIPT -->
+		<script src="//siterecruit.comscore.com/sr/cs/broker.js?cs=US"></script>
+    
 
 <!-- comscore beacon -->
 <script>
@@ -3112,10 +3172,10 @@ $(document).ready(function($){
 		<script type="text/javascript">
 		// <![CDATA[
 		function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);var m=u.lastIndexOf("&");if(u.length>2000&&m>=0){u=u.substring(0,m+1)+"ns_cut="+u.substring(m+1,u.lastIndexOf("=")).substring(0,40)}(d.images)?new Image().src=u:d.write('<'+'p><'+'img src="'+u+'" height="1" width="1" alt="*"'+'><'+'/p>');};
-		sitestat("//int.sitestat.com/comscore/int/s?name=comScore_default&eznode=230&pagename=int/About_comScore/Privacy_Policy&lang=en-US&ns_ilevel=3&ns_m_exp="+experimentId+"&ns_m_chs="+variationIndex+""); 
+		sitestat("//int.sitestat.com/comscore/int/s?name=comScore_default&eznode=230&pagename=int/About-comScore/Privacy-Policy&lang=en-US&ns_ilevel=3&ns_m_exp="+experimentId+"&ns_m_chs="+variationIndex+""); 
 		// ]]>
 		</script>
-		<noscript><p><img src="//int.sitestat.com/comscore/int/s?name=comScore_default&eznode=230&pagename=About_comScore/Privacy_Policy&lang=en-US&ns_ilevel=3" height="1" width="1" alt="*"/></p></noscript>
+		<noscript><p><img src="//int.sitestat.com/comscore/int/s?name=comScore_default&eznode=230&pagename=About-comScore/Privacy-Policy&lang=en-US&ns_ilevel=3" height="1" width="1" alt="*"/></p></noscript>
 		<!-- End CMC -->
 		
 		
