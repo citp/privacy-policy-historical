@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the web2feel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063650id_/http%3A//www.web2feel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2feel.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216141612id_/http%3A//www.web2feel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | web2feel.com
+# Privacy policy | web2feel
 
 This Privacy Policy governs the manner in which web2feel.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [web2feel.com.com](http://www.web2feel.com.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by web2feel.com.
 
@@ -59,7 +59,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[web2feel.com.com](http://www.web2feel.com.com/)
+[web2feel.com](http://www.web2feel.com/)
 
 web2feel@gmail.com
 
