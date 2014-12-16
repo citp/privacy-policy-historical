@@ -1,1352 +1,1368 @@
-<!--The following is the downloaded HTML source of the chiefs.com privacy policy that was archived on 2004-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041012064746id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chiefs.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217005944id_/http%3A//www.kcchiefs.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-
-<title>NFL.com -  Privacy Policy</title>
-<script language="javascript">
-var NS4 = (document.layers) ? 1 : 0;
-var IE = (document.all) ? 1 : 0;
-var DOM = (document.getElementById) ? 1 : 0;
-var MAC = ((navigator.appVersion.indexOf("PPC") >0) || (navigator.appVersion.indexOf("Mac") >0)) ? 1 : 0;
-
-//-- begin AOL Frameset code --
-var ua = 'ia_archiver';
-
-if (ua.indexOf("AOL") > 0) {
-        var s_prop9="AOL"; // for Omniture
-        var dclk_seg="aol"; // for Doubleclick
-	if (!parent.frames[1]) {
-		var thePage=new String(unescape(location.href)); 
-		window.location.replace('http://www.nfl.com/partners/aol?' + thePage);
-		}
-	}
-//-- end AOL Frameset code --
-
-
-var my_team_days = 60; // days till expires
-var domain = ".nfl.com";
-
-function myteam_life() {
-        var myteamExpires=new Date();
-        myteamExpires.setTime(myteamExpires.getTime() +  (my_team_days * 86400000));
-        return myteamExpires.toGMTString();
-        }
-
-function setTeamBox(team) {
-        if (team != "") {
-                document.cookie=("home_team=" + team +";expires=" +myteam_life() +";domain=" + domain + ";path=/" );
-                window.location.reload();
-                }
-        }
-
-
-</script>
-<style type="text/css">
-.null {}
-BODY, TD, TH, P {font-family:Verdana, Geneva, Arial, Helvetica, sans-serif; color:#484848; font-size:12px;}
-A:link {color:#001A79;}
-A:hover {}
-.page {background-color:#FFFFFF;}
-.SLTables, .SLTables TD, .SLTables TH {font-size:16px; font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;}
-.SLTables2, .SLTables2 TD, .SLTables2 TH {font-size:13px; font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;}
-.SLTables1, .SLTables1 TD, .SLTables1 TH, FORM {font-size:10px; font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;}
-DIV.spacer5 {font-size:5px; line-height:5px; font-family:Arial, Helvetica;}
-DIV.spacer10 {font-size:10px; line-height:10px; font-family:Arial, Helvetica;}
-FORM {display:inline;}
-H1, H2, H3, H4, H5, H6 {font-family:Verdana, Geneva, Arial, Helvetica, sans-serif; text-transform:uppercase; margin-top:2px; margin-bottom:2px;}
-H1 {font-size:18px;}
-H2 {font-size:16px;}
-H3 {font-size:14px;}
-H4 {font-size:12px;}
-H5 {font-size:11px;}
-H6 {font-size:10px;}
-.opt, A.opt {color:#40557A;}
-.opt2 , A.opt2 {font-size:11px; color:#40557A;}
-.optwhite, A.optwhite {color:#FFFFFF;}
-A.optsel {color:#40557A;}
-.optsel {font-weight:bold; text-decoration:none;}
-A.optsel2, .optsel2 {font-size:11px; color:#40557A;}
-.optsel2 {font-weight:bold; text-decoration:none;}
-A.optselwhite {color:#FFFFFF;}
-.optselwhite {font-weight:bold; text-decoration:none;}
-.bg0 {background-color:#8E9FBC; font-weight:bold; color:#FFFFFF;}
-.bg1 {background-color:#B9B9B9; font-weight:bold;}
-.bg2 {background-color:#E8E8EA;}
-.bg3 {background-color:#FFFFFF;}
-.bg4 {background-color:#CCCCCC;}
-.bg5 {background-color:#FFFFAB;}
-.bgF {background-color:#D1EFE3;}
-.bgP {background-color:#FBFBE3;}
-.bgH {background-color:#E9DDC3;}
-.bg0font, .bg0font A, A.bg0font {color:#FFFFFF; font-weight:bold;}
-
-/* form components */
-.dialog {background-color:#cccccc;}
-.dialogborder {background-color:#999999;}
-.formdef {font-size:10px; font-family:verdana,geneva,arial,helvetica,sans-serif;}
-.formdefError {background-color:#ffff99; font-size:10px; font-family:verdana,geneva,arial,helvetica,sans-serif;}
-.formdefLabelError {color:#cc0000; font-size:10px; font-family:verdana,geneva,arial,helvetica,sans-serif;}
-.formdefsm {font-size:9px; font-family:arial,helvetica,sans-serif;}
-.formdefsmError {background-color:#ffff99; font-size:9px; font-family:arial,helvetica,sans-serif;}
-.formdefthin {width:25px; font-size:10px; font-family:verdana,geneva,arial,helvetica,sans-serif;}
-.formdefthinError {background-color:#ffff99; width:25px; font-size:10px; font-family:verdana,geneva,arial,helvetica,sans-serif;}
-.formopt {font-size:12px; font-family:verdana,geneva,arial,helvetica,sans-serif; color:#0D0082; text-decoration:underline;}
-.formoptsel {font-size:12px; font-family:verdana,geneva,arial,helvetica,sans-serif; font-weight:bold;}
-.formlabel {font-size:12px; font-family:verdana,geneva,arial,helvetica,sans-serif; color:#FFFFFF; font-weight:bold;}
-.formlabelbg {background-color:#181861;}
-
-/* feature components */
-.fctitle, .fctitle TR, .fctitle TD {font-size:10px; font-weight:bold; color:#FFFFFF; background-color:#8E9FBC; text-align:center; text-decoration:none; text-transform:uppercase;}
-.fchdr {font-size:12px; font-weight:bold} 
-.fcbody, .fcbody TD, .fcbody TH, .fcbody A, .fclabel, fclabel A, .fclabelwhite {font-size:11px;}
-.fcbodywhite, .fcbodywhite TD, .fcbodywhite, .fcbodywhite A, .fclabelwhite, .fclabelwhite A {font-size:11px; color:#FFFFFF;}
-.fcbodysm, .fcbodysm TD, .fcbodysm TH, .fcbodysm A {font-size:10px;}
-.fcbodysm2, .fcbodysm2 TD, .fcbodysm2 TH, .fcbodysm2 A {font-size:11px;}
-.fcdesc  {font-size:10px;}
-.fclabel, .fclabelwhite, .fclabelwhite A, .fclabel A {font-weight:bold;}
-.fcbg0 {background-color:#000175;}
-.fcbg1 {background-color:#b6b6b6; font-weight:bold;}
-.fcbg2 {background-color:#ececec;}
-.fcbg3 {background-color:#ffffff;}
-.fcbg4 {background-color:#d6d6d6;}
-.fcborder {border:solid 1px #000175;}
-
-/*global nav: left and top*/
-.ln, .ln A, .lnOn, .lnOn A, .ln2, .ln2 A, .lndraft, .lndraft A {height:16px; font-size:10px; font-weight:bold; color:#FFFFFF; text-decoration:none; padding:1px 2px 0px 5px;}
-.ln {border-bottom:1px solid #0C134B; background-color:#172693;}
-.ln2 {border-bottom:1px solid #c3878b; background-color:#CB0000;}
-.lndraft {border-bottom:1px solid #B9D1E3; background-color:#005899;}
-.lnOn, .lnOn A {color:#FFFF00;}
-.lnbg {background-color:#172693;}
-.gnbg {background-color:#172693; border-right:1px solid #000000;}
-.gn, .gn A {font-size:11px; font-weight:bold; color:#FFFFFF; text-decoration:none;}
-.gnOn A, A.gnOn {font-size:11px; font-weight:bold; color:#FEE901; text-decoration:none;}
-.gnpipe {color:#8B9FD2;}
-.gn A:hover, .gnOn A:hover, .ln A:hover, .lnOn A:hover, .lndraft A:hover {color:#FEE901; text-decoration:none;}
-.grayshadow {background-image:url(http://images.nfl.com/images/globalnav-shadow-gray.gif); background-repeat:repeat-x; height:10px; line-height:10px; background-color:#DFE2E8;}
-.whiteshadow {background-image:url(http://images.nfl.com/images/globalnav-shadow-white.gif); background-repeat:repeat-x; height:10px; line-height:10px; background-color:#ffffff;}
-
-/*right rail*/
-.rightrail {background-color:#DFE2E8; color:#000000; border-left:1px solid #000000; border-right:1px solid #000000;}
-.rightrail A {color:#0001A79;}
-.rightrail2 {border-right:1px solid #000000;}
-.rightrailhome {background-color:#A3A5B2; border-left:1px solid #000000; border-right:1px solid #000000;}
-.rightrailhome2 {background-color:#DFE2E8;}
-#railrelated {padding:5px 4px 0px 4px;}
-#railrelated, #railrelated A, #railrelated TD {color:#001A79; font-size:11px; font-weight:bold;}
-
-/*footer*/
-#footer {width:770; height:60; text-align:center; padding:10px 40px 10px 40px;}
-.footerborder {border-top: 1px solid #000000;}
-.ftr, .ftr A {font-size:10px; color:#000000;}
-
-/*media breaking news - used different names since fantasy renders red txt */
-#breakingnews {margin:0px 10px 10px 10px; padding:5px;}
-.breakingnewsbg {background-color:#fffbb3;}
-.breakingnewstxt {font-size:12px;color:#001A79;}
-.breakingnewslbl {font-size:12px;color:#000000;font-weight:bold;text-decoration:none;}
-.breakingnewshdl {font-size:14px;color:#000000;font-weight:bold}
-
-/*content*/
-#centerhome {color:#cc0000;}
-#slamspot {padding:0px 5px 10px 5px;}
-#extrastories {padding:3px 10px 5px 10px; background-color:#EFF0F3;}
-.moreanalysis {line-height:16px;}
-.nflnetwork, .nflnetwork TD {font-size:10px; color:#000000;}
-
-#pollcontainer {margin:10px; padding:5px; background-color:#E5E5E5; border:1px solid #000000;}
-.poll, .poll TD {text-align:left; color:#484848; font-size:10px}
-
-#nflshop ul {margin-top:0px; margin-left:1.5 em; padding-left:0px; text-align:left; border:0;}
-#nflshop li {font-size:12px; list-style-type:disc;}
-.shopboxrt {color:#000000; border-right:1px solid #000000;}
-.shopboxrt A {color:#0001A79;}
-
-.pt {font-size:17px; color:#40557A; font-weight:bold; text-transform:uppercase;}
-.pt2nd {font-size: 14px; color:#40557A; font-weight:bold;}
-.head, .head A {color:#484848; font-size:22px; text-decoration:none; padding-bottom:2px;}
-.head2, .head2 A {color:#484848; font-size:18px; text-decoration:none;}
-.cap, .cap A, .adlabel {font-size:10px; font-weight:bold;}
-.headlines, .headlines td, .headlines A, rightrail.headlines {color:#001A79; font-size:11px; font-weight:bold;}
-.extra, .extra A {font-size:11px; font-weight:bold;}
-.breadcrumb {font-size:10px; font-weight:bold;}
-.featbox, .featbox td, .featbox A {}
-.afc, .afc TD, .afc TH  {color:#FFFFFF; background-color:#B50023;}
-.nfc, .nfc TD, .nfc TH  {color:#FFFFFF; background-color:#004079;}
-.smlfont {font-family:verdana, arial, helvetica, sans-serif; font-size:10px;}
-
-/* classes for Fantasy */
-.arena1, .arena1 A:link, .arena1 A:visited { font-family:arial, helvetica, sans-serif; font-size:12px; font-weight:bold;  text-decoration:none; color:#000000}
-.arena2, .arena2 A:link, .arena2 A:visited { font-family:arial, helvetica, sans-serif; font-size:22px; font-weight:bold; text-decoration:none; color:#000000}
-.gnsbhl {background-color:#dddddd;}
-.cbreakbg0 {background-color:#fffbb3}
-.cbreaktxt {font-size:12px;font-family:verdana,arial,helvetica,sans-serif;}
-.cbreaklbl {font-size:12px;font-family:verdana,arial,helvetica,sans-serif;color:#A50000;font-weight:bold;text-decoration:none;}
-.crelatedhdl {font-size:12px; font-family:verdana, arial, helvetica, sans-serif; color:#A50000; font-weight:bold; text-decoration:none;}
-.ff, .ff A, .ff A:link, .ff A:visited, .ff TD {font-size:11px; font-family:arial, helvetica, sans-serif; color:#000175; font-weight:bold; text-decoration:none;}
-.ff A:hover {color:#a50000;}
-.ffbg {background-color:#dddddd;}
-.cmLff, .cmLff A, .cmLff A:link, .cmLff A:visited {font-size:10px; font-family:verdana, arial, helvetica, sans-serif; font-weight:bold; color:#234A6C; text-decoration:none; background-color:#E7E7E7;}   
-.cmLff A:hover {color:#a50000;}   
-.cmFAN  {visibility :hidden; padding :0; layer-background-color :#FFFFFF; background-color :#FFFFFF; z-Index :2000; font-family:Arial, Helvetica, sans-serif; border:0;}
-.cmFAN DIV {border:1px solid #000000;}
-.cmFAN DIV A {color:#A50000;}
-.cmFAN DIV A:hover {color:#A50000;}
-.cmFAN DIV A:link {color:#000175;}
-.lnbg0 {background-color:#dddddd;}
-.lnhdg {font-size:10px; font-family:verdana, arial, helvetica, sans-serif;color:#A50000;font-weight:bold;text-decoration:none;}
-.lntxt {font-size:13px; font-family:arial, helvetica, sans-serif; color:#000000;}
-.lbbc {font-size:10px;font-family:verdana, arial, helvetica, sans-serif;color:#ffffff; background-color:#8E9FBC;text-align:center;font-weight:bold;text-decoration:none;}
-.ctophdl {font-size:32px;color:#000000;font-weight:bold;}
-.ctopcap {font-size:10px; font-family:verdana, arial, helvetica, sans-serif;color:#777777;font-weight:bold;}
-.cexclusivehdl {font-size:18px; font-family:verdana, arial, helvetica, sans-serif; color:#A50000; font-weight:bold; text-decoration:none; }
-.hrcolor0 {background-color:#A50000;}
-.cexclusivetxt {font-size:13px; font-family:arial, helvetica, sans-serif;color:#000000;}
-.lbbo, .cmarkbg0 {background-color:#000175;}
-.cmarktxt {font-size:10px; font-family:verdana, arial, helvetica, sans-serif;color:#000000;background-color:#ffffee;}
-.cshoptxt2 {font-size:10px; font-family:verdana, arial, helvetica, sans-serif; color:#000248;background-color:#ececec; line-height:12px;}
-.cnewshdl {font-size:18px; font-family:verdana, arial, helvetica, sans-serif; color:#A50000; font-weight:bold; text-decoration:none;}
-.cnewstxt2 {font-size:13px; font-family:arial, helvetica, sans-serif;color:#000000;color:#000175;}
-.PUPlayer {font-family:arial,verdana,sans-serif;font-size:12px;color:#000175;text-decoration:underline;cursor:pointer;cursor:hand;}
-.PUNews {font-family:arial,verdana,sans-serif;font-size:12px;color:black;padding:0px 15px 10px 10px}
-A:link.commish {color:#cc0000 !important;}
-A:visited.commish {color:#cc0000 !important;}
-A.optselcommish {color:#cc0000; font-weight:bold; text-decoration:none}
-A.optcommish {color:#cc0000}
-option.commish {color:#cc0000;}
-select.commish {color:#cc0000; font-size:10px; font-family:arial, helvetica, sans-serif; }
-.lpad {background-color:#172693;}
-/* end classes for Fantasy */ 
-
-
-/*Classes not being used and/or legacy:still need to double-check */
-/*found on homepage-matchup.html doc */
-.time {font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;font-size:10px;font-weight:bold;}
-.prev {font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;font-size:10px;font-weight:bold;}
-.links  {font-family:Arial, Helvetica; font-size:10px;}
-.prev a:link, .prev a:visited {color:#0000CC}
-.time a:link, .time a:visited  {color:#000000}
-.links a:link, .links a:visited  {color:#000000}  
-/*used in previous left nav:not sure if used anywhere else */
-.dot {list-style-image:url(http://images.nfl.com/images/ln_arrow.gif);} 
-.not {list-style-image:url(http://images.nfl.com/images/spacer10.gif);} 
-/* team page html form pulldown class - need to use formdef */
-.dd {}
-.rrail {background-color:#e5e5e5;}
-/*now located in style-team*/
-.playernumber {}
-.player, .player TD {}
-.playerbio, .playerbio TD {}
-.biokey {color:#CCCCCC; font-size:10px; font-weight:bold; font-family:Verdana, Arial, Helvetica, Geneva, sans-serif;}
-/*other*/
-.lnteam TD, .lnteam TH {color:#FFFFFF; font-size:12px; font-weight:bold; font-family:Arial, Helvetica, sans-serif;}
-.lnteam a:link {color:#FFFFFF; text-decoration:underline;}
-.lnteam a:visited {color:#CCCCCC; text-decoration:underline;}
-.teamnews {font-family:arial, helvetica, sans-serif; font-size:11px;}
-B.films {color:#CB0000;}
-.index {color:#000000; font-size:13px; font-weight:bold; font-family:Verdana, Arial, Helvetica, Geneva, sans-serif;}
-.index A {color:#000000; font-size:10px; font-family:Arial, Helvetica, Geneva, sans-serif;}
-.table, .table A {color:#000000; font-size:7.5pt; font-family:Arial, Helvetica, Geneva, sans-serif;}			
-.white, .white TD {color:#FFFFFF; font-size:7.5pt; font-weight:bold; line-height:9pt; font-family:Verdana, Tahoma, Arial, Helvetica, Geneva, sans-serif;}	
-.white A {color:#ffffff; font-weight:bold; line-height:11px; text-decoration:underline; font-size:7.5pt; font-family:Verdana, Tahoma, Arial, Helvetica, Geneva, sans-serif;}
-.blk, .blk A {color:#000000; font-size:10px; font-family:Verdana, Arial, Helvetica, Geneva, sans-serif;}
-</style>
-
-<script language="JavaScript" type="text/javascript"> 
-// Browser / OS Detection
-var IE = (document.all) ? 1 : 0;
-var DOM = (document.getElementById) ? 1 : 0;
-var NS4 = (document.layers) ? 1 : 0;
-var MAC = ((navigator.appVersion.indexOf("PPC") >0) || (navigator.appVersion.indexOf("Mac") >0)) ? 1 : 0;
-
-function RedirectOldPages() {
-	// redirect old pages to new normandy pages
-	var current_url, result, _CUR_URL, new_url;
-	var current_url = location.pathname;
-	_CUR_URL = new String(current_url);
-	
-	// redirect the player pages
-	result = _CUR_URL.match(/\/players\/(\d+)\.htm/);
-	if (result != null) {
-		new_url = "http://www.nfl.com/players/playerpage/" + result[1];
-		location.replace(new_url);
-        }
-	
-	// redirect the team pages
-	result = _CUR_URL.match(/\/teams\/([A-Z]{2,3})\.html/);
-	if (result != null) {
-		new_url = "http://www.nfl.com/teams/news/" + result[1];
-		location.replace(new_url);		
-        }	
-	return;
-    }
-RedirectOldPages();
-
-if(!window.saveInnerWidth) {
-  window.onresize = resize;
-  window.saveInnerWidth = window.innerWidth;
-  window.saveInnerHeight = window.innerHeight;
+<!DOCTYPE html SYSTEM "about:legacy-compat"><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:nflcs="http://clubs.nfl.com" xmlns="http://www.w3.org/1999/xhtml" xmlns:pas="http://www.nfl.com/2009/pluckApplicationServer"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>KCChiefs.com | Privacy and Security Statement</title><!--ls:begin[stylesheet]--><style type="text/css">.centerComponents
+{
+  margin:auto;
+  text-align:left;
 }
 
-function resize() {
-    if (saveInnerWidth < window.innerWidth || saveInnerWidth > window.innerWidth || saveInnerHeight > window.innerHeight || saveInnerHeight < window.innerHeight ) {
-        window.history.go(0);
-    	}
+#element1
+{
+  width:990px;
+}
+
+#element2
+{
+  width:990px;
+  display:inline;
+  float:left;
+}
+
+#c1259229983304
+{
+  width:728px;
+  min-height:90px;
+  height:auto !important;
+  height:90px;
+  margin:10px 0 0 10px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#c1259229983302
+{
+  width:230px;
+  min-height:90px;
+  height:auto !important;
+  height:90px;
+  margin:10px 10px 0 12px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#c1259229983301
+{
+  width:990px;
+  min-height:100px;
+  height:auto !important;
+  height:100px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#c1259229983306
+{
+  width:990px;
+  min-height:100px;
+  height:auto !important;
+  height:100px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#c1410081669234
+{
+  width:990px;
+  min-height:20px;
+  height:auto !important;
+  height:20px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#element3
+{
+  width:990px;
+  display:inline;
+  float:left;
+}
+
+#element4
+{
+  width:670px;
+  margin:0 0 0 10px;
+  display:inline;
+  float:left;
+}
+
+#c1407403252774
+{
+  width:660px;
+  min-height:40px;
+  height:auto !important;
+  height:40px;
+  margin:0 10px 0 0;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#c1259229983311
+{
+  width:670px;
+  min-height:860px;
+  height:auto !important;
+  height:860px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#element5
+{
+  width:310px;
+  display:inline;
+  float:left;
+}
+
+#c1407403252773
+{
+  width:310px;
+  min-height:260px;
+  height:auto !important;
+  height:260px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#c1407403252778
+{
+  width:310px;
+  min-height:640px;
+  height:auto !important;
+  height:640px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#c1259229983300
+{
+  width:990px;
+  min-height:200px;
+  height:auto !important;
+  height:200px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#c1259229983304{background-color: transparent; min-height: 0;}#c1259229983302{background-color: transparent; min-height: 0;}#c1259229983301{background-color: transparent; min-height: 0;}#c1259229983306{background-color: transparent; min-height: 0;}#c1410081669234{background-color: transparent; min-height: 0;}#c1407403252774{background-color: transparent; min-height: 0;}#c1259229983311{background-color: transparent; min-height: 0;}#c1407403252773{background-color: transparent; min-height: 0;}#c1407403252778{background-color: transparent; min-height: 0;}#c1259229983300{background-color: transparent; min-height: 0;}</style><!--ls:end[stylesheet]--><!--ls:begin[meta-keywords]--><meta name="keywords" content=""><!--ls:end[meta-keywords]--><!--ls:begin[meta-description]--><meta name="description" content=""><!--ls:end[meta-description]--><!--ls:begin[meta-vpath]--><meta name="vpath" content=""><!--ls:end[meta-vpath]--><meta name="og:title" content="KCChiefs.com | Privacy and Security Statement"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<script type="text/javascript">
+    var nflcsAssetPath='http://prod.static.chiefs.clubs.nfl.com/';
+    var nflcsImgAssetPath='http://prod.images.chiefs.clubs.nflcdn.com:80/image-web/NFL/CDA/data/deployed/prod/CHIEFS/';
+    var nflcsAVAssetPath='http://prod.video.chiefs.clubs.nfl.com/';
+    var nflcsClubCode='KC';
+    var nflcsIsIntlDateFormat = !!(nflcsClubCode == 'NFLUK');
+    var nflcomCombinatorAVP='http://combine.nflcdn.com/yui/min2/index.php?g=video';
+    var nflcomYuiBase='http://combine.nflcdn.com/yui/';
+    var nflcsAVDefaults={
+        id:"avplayer",
+        width:"410",
+        config:"http://prod.static.chiefs.clubs.nfl.com/assets/vp/prod/config.json",
+        autoplay:false,
+        pr:3,
+        offset:0,
+        playername: "player_default"
     }
+    // omniture account VAR instantiated here to provide data to media player
+    var s_account, s_analytics, s;
+    s_account ='nflclubschiefs,nflglobal';
+    if(!window.jsRand) window.jsRand = Math.floor(Math.random()*10000000);
+    var isSplashPage = false;
+</script>
+<script type="text/javascript" src="http://prod.static.chiefs.clubs.nfl.com/nfl-assets/js/shims.js"></script>
+<script type="text/javascript" src="http://prod.static.chiefs.clubs.nfl.com/nfl-assets/js/nflcs-main.js"></script>
+<link type="text/css" href="http://prod.static.chiefs.clubs.nfl.com/nfl-assets/css/nflcs-league.css" rel="stylesheet">
+<link type="text/css" href="http://prod.static.chiefs.clubs.nfl.com/nfl-assets/css/nflcs-print.css" rel="stylesheet" media="print">
+<link type="text/css" href="http://prod.static.chiefs.clubs.nfl.com/assets/nflcss/club-main.css" rel="stylesheet">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@kcchiefs">
+
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://prod.static.chiefs.clubs.nfl.com/nfl-assets/img/gbl-ico-team/KC/logos/home/large.png">
+        <meta property="og:url" content="http://www.kcchiefs.com/privacy-policy.html?campaign=kc:fanshare:facebook">
+        <meta property="twitter:url" content="http://www.kcchiefs.com/privacy-policy.html?campaign=kc:fanshare:twitter">
+    <link rel="alternate" type="application/rss+xml" title="News RSS Feed" href="/cda-web/rss-module.htm?tagName=News">
+<link rel="alternate" type="application/rss+xml" title="Videos RSS Feed" href="/cda-web/rss-module.htm?tagName=Videos">
+<link type="text/css" href="http://prod.static.chiefs.clubs.nfl.com/assets/css/chiefs-style.css" rel="stylesheet">
+        <link type="text/css" href="http://prod.static.chiefs.clubs.nfl.com/assets/css/gbl-template-160-bg.css" rel="stylesheet">
+        <meta property="fb:admins" content="1616473962,17210038,1551810016,138700572,500603598">
+<meta property="fb:app_id" content="169881043057838">
+
+<script type="text/javascript">
+    // Conversion Name: KC Chiefs RT Container
+    // INSTRUCTIONS
+    // The Conversion Tags should be placed at the top of the <BODY> section of the HTML page.
+    // In case you want to ensure that the full page loads as a prerequisite for a conversion
+    // being recorded, place the tag at the bottom of the page. Note, however, that this may
+    // skew the data in the case of slow-loading pages and in general not recommended.
+    //
+    // NOTE: It is possible to test if the tags are working correctly before campaign launch
+    // as follows:  Browse to http://bs.serving-sys.com/Serving/adServer.bs?cn=at, which is
+    // a page that lets you set your local machine to 'testing' mode.  In this mode, when
+    // visiting a page that includes an conversion tag, a new window will open, showing you
+    // the data sent by the conversion tag to the MediaMind servers.
+    //
+    // END of instructions (These instruction lines can be deleted from the actual HTML)
+    var ebRand = Math.random()+'';
+    ebRand = ebRand * 1000000;
+    //<![CDATA[
+    document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=512827&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+    //]]>
+</script><script src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=512827&amp;rnd=625561.7540779604"></script>
+<noscript>
+    <img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=512827&amp;ns=1"/>
+</noscript><!--ls:begin[head-injection]--><!--ls:end[head-injection]--><!--ls:begin[script]--><!--ls:end[script]--></head><body><!--ls:begin[body]--><div class="gbl-wrp-1"><div class="gbl-wrp-2"><div class="gbl-wrp-3"><div class="gbl-wrp-4"><div class="gbl-wrp-5"><div id="element1"><div id="element2"><div class="iw_component" id="c1259229983304"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+<div class="ad-top" rev="">
+            <nflcs:ad data-adtype="adj" data-width="728" data-height="90" data-suite="nfl.clubsites" data-customparams="club=kc" class="ad-top">
+                <param name="dcopt" value="ist">
+                <param name="nfl" value="ad">
+            </nflcs:ad>
+        </div>
+    
+</div>
+</div><div class="iw_component" id="c1259229983302"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+
+</div>
+</div></div><div class="iw_component" id="c1259229983301"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+
+
+
+
+
+
+
+    
+        
+            
+                
+                
+                
+                    
+                        <style type="text/css">.centerComponents
+{
+  margin:auto;
+  text-align:left;
+}
+
+#mid-header-frag_element1
+{
+  width:930px;
+}
+
+#mid-header-frag_element2
+{
+  width:930px;
+  display:inline;
+  float:left;
+}
+
+#mid-header-frag_c1407921647610
+{
+  width:5px;
+  min-height:45px;
+  height:auto !important;
+  height:45px;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#mid-header-frag_c1407921647611
+{
+  width:555px;
+  min-height:15px;
+  height:auto !important;
+  height:15px;
+  margin:45px 0 0 0;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#mid-header-frag_c1407921647613
+{
+  width:155px;
+  min-height:30px;
+  height:auto !important;
+  height:30px;
+  margin:30px 0 0 0;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#mid-header-frag_c1407921647614
+{
+  width:215px;
+  min-height:30px;
+  height:auto !important;
+  height:30px;
+  margin:30px 0 0 0;
+  display:inline;
+  float:left;
+  background-color:#FFFFFF;
+}
+
+#mid-header-frag_c1407921647610{background-color: transparent; min-height:0;}#mid-header-frag_c1407921647611{background-color: transparent; min-height:0;}#mid-header-frag_c1407921647613{background-color: transparent; min-height:0;}#mid-header-frag_c1407921647614{background-color: transparent; min-height:0;}</style><div id="mid-header-frag_element1"><div id="mid-header-frag_element2"><div class="iw_component" id="mid-header-frag_c1407921647610"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+
+
+
+
+
+
+
+    
+        
+            
+                
+                
+                
+                    
+                        <span id="header-logo-link"><a href="http://www.kcchiefs.com/index.html" title="Chiefs Home Page"><img src="http://prod.static.chiefs.clubs.nfl.com/assets/img/gbl-header-logo.png"></a></span>
+                    
+                
+            
+        
+    
+    
+
+</div>
+</div><div class="iw_component" id="mid-header-frag_c1407921647611"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+
+
+
+
+
+
+
+    
+        
+            
+                
+                
+                
+                    
+                        <div id="social-buttons"><a id="foursquare-button" href="http://www.kcchiefs.com/chiefs-mobile/" target="_blank">&nbsp;</a> <a id="googleplus-button" href="http://www.kcchiefs.com/newsletter.html" target="_blank">&nbsp;</a> <a id="pinterest-button" href="http://pinterest.com/chiefsnfl" target="_blank">&nbsp;</a> <a id="instagram-button" href="http://instagram.com/kcchiefs" target="_blank">&nbsp;</a> <a id="twitter-button" href="http://twitter.com/kcchiefs" target="_blank">&nbsp;</a> <a id="facebook-button" href="http://www.facebook.com/KansasCityChiefs" target="_blank">&nbsp;</a></div>
+                    
+                
+            
+        
+    
+    
+
+</div>
+</div><div class="iw_component" id="mid-header-frag_c1407921647613"><div class="gbl-nfl-network">
+<div class="nfl-network-btn">
+<a href="#" class="gbl-nfl-network-btn"></a>
+</div>
+</div>
+</div><div class="iw_component" id="mid-header-frag_c1407921647614"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0" xmlns:xalan="http://xml.apache.org/xalan" id="gbl-hd-search">
+<div>
+<input value="" type="hidden">
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+<div class="module search ramp">
+            <div class="hd empty">
+                        </div>
+                    <div class="bd">
+                        
+<div id="search">
+	<form method="get" name="search-form" action="http://www.KCChiefs.com/search-results">
+		<fieldset title="Search the site">
+            <div class="search-text-wrp-1"><div class="search-text-wrp-2"><div class="search-text-wrp-3"><div class="search-text-wrp-4"><div class="search-text-wrp-5">
+					<input type="text" name="q" class="search-autocomplete" data-search-text="Search KCChiefs.com" data-publish-url="http://Chiefs.ramp.com/" data-search-url="http://www.KCChiefs.com/" data-search-path="search-results" id="search-text" value="Search KCChiefs.com" autocomplete="off">
+			</div></div></div></div></div>
+			<input name="Go" type="image" value="" width="0" class="go">
+
+		</fieldset>
+	</form>
+        <div id="list-autocomplete"></div>
+</div>
+</div>
+                    <div class="ft empty">
+                        </div>
+                    </div>
+    
+
+    
+    
+
+</div>
+</div>
+</div></div></div>
+                    
+                
+            
+        
+    
+    
+
+</div>
+</div><div class="iw_component" id="c1259229983306"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+
+<div id="main-nav-ribbon" data-options="{navType='ribbon', effect='jswing',duration=500}">
+    <ul class="root-menu-items">
+            <li id="main-nav-team">
+                <a class="root-node-link" target="" title="Team" href="http://www.kcchiefs.com/team/index.html">
+                    <span>Team</span>
+                </a>
+            </li>
+            <li id="main-nav-news">
+                <a class="root-node-link" target="" title="News" href="http://www.kcchiefs.com/news/index.html">
+                    <span>News</span>
+                </a>
+            </li>
+            <li id="main-nav-tickets">
+                <a class="root-node-link" target="" title="Tickets" href="http://www.kcchiefs.com/tickets/index.html">
+                    <span>Tickets</span>
+                </a>
+            </li>
+            <li id="main-nav-media">
+                <a class="root-node-link" target="" title="Media" href="http://www.kcchiefs.com/media-center/index.html">
+                    <span>Media</span>
+                </a>
+            </li>
+            <li id="main-nav-schedule">
+                <a class="root-node-link" target="" title="Schedule" href="http://www.kcchiefs.com/schedule-and-events/season-schedule.html">
+                    <span>Schedule</span>
+                </a>
+            </li>
+            <li id="main-nav-arrowhead">
+                <a class="root-node-link" target="" title="Arrowhead" href="http://www.kcchiefs.com/arrowhead/index.html">
+                    <span>Arrowhead</span>
+                </a>
+            </li>
+            <li id="main-nav-cheerleaders">
+                <a class="root-node-link" target="" title="Cheerleaders" href="http://www.kcchiefs.com/cheerleaders/cheer-2014.html">
+                    <span>Cheerleaders</span>
+                </a>
+            </li>
+            <li id="main-nav-fan-zone">
+                <a class="root-node-link" target="" title="Fan Zone" href="http://www.kcchiefs.com/fan-zone/index.html">
+                    <span>Fan Zone</span>
+                </a>
+            </li>
+            <li id="main-nav-community">
+                <a class="root-node-link" target="" title="Community" href="http://www.kcchiefs.com/community/index.html">
+                    <span>Community</span>
+                </a>
+            </li>
+            <li id="main-nav-shop">
+                <a class="root-node-link" target="_blank" title="Shop" href="http://shop.kcchiefs.com/source/bm-chi-SHOP">
+                    <span>Shop</span>
+                </a>
+            </li>
+    </ul>
+
+    <div id="ribbon-container">
+	
+		<div class="ribbon-container-wrp-1">
+	
+		<div class="ribbon-container-wrp-2">
+	
+		<div class="ribbon-container-wrp-3">
+	
+		<div class="ribbon-container-wrp-4">
+	
+            <div class="fragment-container" parent="main-nav-team" rel="/nav-ribbon/team.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-news" rel="/nav-ribbon/news.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-tickets" rel="/nav-ribbon/tickets.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-media" rel="/nav-ribbon/media.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-schedule" rel="/nav-ribbon/schedule.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-arrowhead" rel="/nav-ribbon/arrowhead.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-cheerleaders" rel="/nav-ribbon/cheerleaders.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-fan-zone" rel="/nav-ribbon/fan-zone.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-community" rel="/nav-ribbon/community.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-shop" rel="/nav-ribbon/shop.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+	
+		</div>
+	
+		</div>
+	
+		</div>
+	
+		</div>
+	
+    </div>
+</div>
+<script type="text/javascript">
+        s_analytics_channel     = '';
+        s_analytics_hier1       = 'Chiefs|';
+</script>
+
+</div>
+</div><div class="iw_component" id="c1410081669234"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+
+
+
+
+
+
+
+    
+        
+            
+                
+                
+                
+                    
+                        <style type="text/css">.centerComponents
+{
+  margin:auto;
+  text-align:left;
+}
+
+#mid-header-frag_element1
+{
+  width:1px;
+}
+
+</style><div id="mid-header-frag_element1"></div>
+                    
+                
+            
+        
+    
+    
+
+</div>
+</div><div id="element3"><div id="element4"><div class="iw_component" id="c1407403252774"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+
+
+
+
+
+
+
+	<div class="pg-hdr pg-hdr-privacypolicy">
 		
-function closeWindow() {window.close();}
-function donothing() {}
-function gotosite(site) {
-    if (site != "") {self.location=site; }
-    }
-				
-// used for newsletter form on team pages
-function replaceString(oldstr,newstr,fullstr) {
-   for (var i=0; i<fullstr.length; i++) {
-      if (fullstr.substring(i, i + oldstr.length) == oldstr) {
-         fullstr = fullstr.substring(0,i)+newstr+fullstr.substring(i+oldstr.length,fullstr.length);
-		  }
-	   }
-   return fullstr;
-}
+		<h1><span>Privacy Policy</span></h1>
+	</div>
 
-function openwin() {
-	var permission = "";
-	var name = document.nflup.aa_FirstName.value;
-	var lastname = document.nflup.ad_LastName.value;
-	var email = document.nflup.ag_Email.value;
-	var soac = document.nflup.ak_SOAC.value;
-	var team = document.nflup.ap_FavoriteTeam.value;
-	var teamfield = document.nflup.xx_teamfield.value;
-	var imgsrc = document.nflup.zz_imgsrc.value;
-	if (document.nflup.gx_EmailUsePermission.checked) {permission="&gx_EmailUsePermission=1"; }
-	var querystring = "http://newsletter.nfl.com/signupsmall?aa_FirstName=" + name + "&a" +"d_LastName=" + lastname + "&ag_Email=" + email + "&zz_imgsrc=" + imgsrc + "&ak_SOAC=" + soac + "&ap_FavoriteTeam=" + team + "&xx_teamfield=" + teamfield + permission; 
-	querystring = replaceString(" ", "+", querystring);
-	querystring = replaceString("\"", "", querystring);
-	// alert(querystring);
-	win1 = window.open(querystring,1,'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=2,resizable=1,copyhistory=0,width=300,height=625');
-}
 
-// to pop photo viewer from any location
-function openPViewer(url) {
-  if ((!NS4) && (!IE) && (!DOM)) {
-  	alert('This Application requires version 4 or higher of\nInternet Explorer or Netscape Navigator');
-	return;
-  }
-  ViewerPlus = window.open(url, 'viewerplus', 'menubar=0,toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,width=475,height=470,left=50,top=50')
-}
-
-function openGDL(url) {
-var height=(ua.indexOf('AOL') > -1)?'600':'550';
-var width=(ua.indexOf('AOL') > -1)?'775':'770';
-//openPopup(url, width, height);
-  popupWin = window.open(url, 'GameDayLive', 'menubar=0,toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,width='+width +',height=' +height +',left=50,top=50');
-}
-
-function openPopup(arg1,arg2,arg3,arg4) {
-	if (arguments.length == 3) {var url = arg1; var name='NFLPopup'; var width = arg2; var height = arg3;	}
-	if (arguments.length == 4) {var url = arg1; var name=arg2; var width = arg3; var height = arg4;}
-	popupWin = window.open(url, name, 'menubar=0,toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,width=' +width +',height=' +height +',left=50,top=50');
-}
-
-function SW(url, name, type){//translate legacy popup function to new openPopup
-var swArray = new Array([],[547,431],[494,331],[550,400],[523,362],[532,412],[610,550],[603,501],[573,458]);
-	for (var i=0; i < swArray.length; i++) {
-  		var swWidth = swArray[type][0];
-		var swHeight = swArray[type][1];
-	}
-  openPopup(url,swWidth,swHeight);
-}
-
-//global cookie functions
-function setCookie (name, value, expires) {
-	if (!expires) expires = new Date();
-	document.cookie = name + "=" + value + "; expires=" + expires.toGMTString() +";domain=.nfl.com; path=/";
-} 
-
-function readCookie(name) {
-    if(document.cookie == '') { 
-	return false; 
-    } else { 
-	var firstChar, lastChar;
-	var theBigCookie = document.cookie;
-	name = name + '=';
-	firstChar = theBigCookie.indexOf(name);	
-	if (firstChar != -1) {
-	    firstChar += name.length;
-	    lastChar = theBigCookie.indexOf(';', firstChar); 
-	    if(lastChar == -1) lastChar = theBigCookie.length;
-	    return unescape(theBigCookie.substring(firstChar, lastChar));
-	} else {return false;}
-    }	
-} 
-
-function killCookie(name, path, domain) {
-  var theValue = readCookie(name);
-  if(theValue) {
-      document.cookie = name + '=' + theValue + '; expires=Fri, 13-Apr-1970 00:00:00 GMT' + ((path)?';path=' + path:'') + ((domain)?';domain=' + domain:''); // set an already-expired cookie
-  }
-} 
-
-function getValue(cookieName,name) {
-	cookieValue=readCookie(cookieName)
-	findString=name;
-	if (cookieValue) {
-		namePos=cookieValue.indexOf(findString,0);
-		if (namePos==-1) {return false;}
-		valueStart=(cookieValue.indexOf('&',namePos+1)+1);
-		valueEnd=cookieValue.indexOf('&',valueStart+1);
-		if (valueEnd==-1)  valueEnd=cookieValue.length;
-		valueIs=cookieValue.substring(valueStart,valueEnd)
-		if (namePos!=null) {return valueIs;}
-	}
-	else {return false;}
-}
-
-</script>
-<script language="JavaScript" type="text/javascript"> 
-
-// Begin RealOne
-// All window.location URL's are using var realPremURL per NFL request 
-//var realPremURL = "http://www.nfl.com/partners/real/premium";
-var realPremURL = "http://www.real.com/partners/nfl/fieldpass.html";
-var realFreeURL = "http://www.nfl.com/partners/real/free";
-var realAolURL = "http://www.nfl.com/partners/real/aol";
-var realOtherURL = "http://www.nfl.com/partners/real/otherOS";
-
-document.write('<OBJECT ID="IERPCtl" WIDTH=0 HEIGHT=0 CLASSID="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></OBJECT>');
-
-function isRealOne() {
-	RealOneInst = 'undetermined';
-	var agt=navigator.userAgent.toLowerCase();
-	var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
-		&& (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
-		&& (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1));
-	if (is_nav) {IERPCtl = 0;}
-	
-	if (navigator.plugins) {
-		if ((navigator.userAgent.charAt(8)) >= ('3')) {
-			var nPlayerInstalled=2;
-			var i=0;
-			while (navigator.plugins[i]){
-                if ((navigator.plugins[i].name=='RealOne Player Version Plugin')||(navigator.plugins[i].name=='RealPlayer Version Plugin')){
-					nPlayerInstalled=1;
-					szPlayerVersion=navigator.plugins[i].description;
-					break;
-					}
-				i++;
-			}
-			if ( nPlayerInstalled == 2 ){
-				var nRPVersion = IERPCtl.RealPlayerVersion;
-				if ( nRPVersion == null ){nPlayerInstalled=2;} 
-				else {nPlayerInstalled=1;}
-				}
-			}       
-			if (nPlayerInstalled == 1){RealOneInst = 'installed';} 
-			if (nPlayerInstalled == 2){RealOneInst = 'notinstalled';}
-			} 
-			else {RealOneInst = 'undetermined';}
-			if (RealOneInst == 'installed') {
-				if (agt.indexOf("(r1 ") != -1) {RealOneInst = 'using';}
-				}
-			return RealOneInst;
-			}
-
-function loadlink(page,premium) {
-
-    page = page + "&nflreferer=" + escape(document.location.href);
-
-	var agt=navigator.userAgent.toLowerCase();
-	var is_aol = (agt.indexOf("noaol") != -1);
-
-	if (is_aol){window.open(realPremURL,'r1popup','menubar=1,toolbar=1,location=1,directories=0,status=1,scrollbars=1,resizable=1,width=675,height=540,left=5,top=5');}
-	else{
-		var checkbrowser = isRealOne(); 
-
-		if (checkbrowser == 'using') {window.location = (page+"&has-player=true");}
-		if (checkbrowser == 'installed') {window.location = (page+"&has-player=true");}
-		if (checkbrowser =='undetermined' || checkbrowser =='notinstalled') {
-
-			numPlugins = navigator.plugins.length;
-			oldRealPlayer = 'false';
-			for (i = 0; i < numPlugins; i++) {
-				plugin = navigator.plugins[i];
-				if (plugin.name.substring(0,10)=="RealPlayer") {oldRealPlayer = 'true';}
-				}	
-			}		
-		if (navigator.userAgent.indexOf("Mac") != -1) {
-			if (oldRealPlayer == 'true'){window.location = (page+"&has-player=true");}
-			else {
-
-				if (premium == 'yes' || premium == 'no') {openPopup(realPremURL,'r1popup','menubar=1,toolbar=1,location=1,directories=0,status=1,scrollbars=1,resizable=1,width=675,height=540,left=5,top=5');}
-
-				}
-			}
-		else {
-			if (navigator.userAgent.indexOf("95") != -1) {
-				oldRealPlayer = 'false';
-
-				var realVB = '<script language="VBscript">'
-				+'on error resume next'
-				+'RealPlayerG2 = not IsNull(CreateObject("rmocx.RealPlayer G2 Control"))'
-				+'if (RealPlayerG2) then oldRealPlayerIE=\"true\"'
-				+'else oldRealPlayerIE=\"false\"'
-				+'end if'
-				+'</scr' + 'ipt>';
-				document.writeln(realVB);
-			
-				numPlugins = navigator.plugins.length;
-				for (i = 0; i < numPlugins; i++) {
-					plugin = navigator.plugins[i];
-					if (plugin.name.substring(0,10)=="RealPlayer")	{oldRealPlayer = 'true';}
-				}
-				if (oldRealPlayer == 'true' || oldRealPlayerIE == 'true'){window.location = (page+"&has-player=true"); }
-				else {
-
-					if (premium == 'yes' || premium == 'no') {openPopup(realPremURL,'r1popup','menubar=1,toolbar=1,location=1,directories=0,status=1,scrollbars=1,resizable=1,width=675,height=540,left=5,top=5');}
-
-					}	 	
-				}	
-			else {if (navigator.userAgent.indexOf("Win") != -1) {
-				if (checkbrowser == 'using' || checkbrowser =='installed') {window.location = (page+"&has-player=true");}
-				else {
-
-					if (premium == 'yes' || premium == 'no') {openPopup(realPremURL,'r1popup','menubar=1,toolbar=1,location=1,directories=0,status=1,scrollbars=1,resizable=1,width=675,height=540,left=5,top=5');}
-
-			  		}
-				}
-
-			else {openPopup(realPremURL,'r1popup','menubar=1,toolbar=1,location=1,directories=0,status=1,scrollbars=1,resizable=1,width=675,height=540,left=5,top=5');}
-			}
-		}
-	}
-}
-
-</script></head><body bgcolor="#FFFFFF" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" text="#000000" link="#000a78"><object id="IERPCtl" width="0" height="0" classid="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></object>
-<script language="JavaScript" type="text/javascript"> 
-
-function getEl(el) {
-        return document.all ? document.all[el] : document.getElementById(el);
-}
-
-function psuedoGetElementById(elm,d){ 
-    var p,i,x; if(!d) d=document; if((p=elm.indexOf("?"))>0&&parent.frames.length) {
-        d=parent.frames[n.substring(p+1)].document; elm=elm.substring(0,p);
-        }
-    if(!(x=d[elm])&&d.all) x=d.all[elm]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][elm];
-    for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=document.getElementById(elm,d.layers[i].document);
-    return x;
-	}
-	
-function getCoordinates(obj) {
-    var point = { x: 0, y: 0 };
-    while(obj) {
-        point.x += obj.offsetLeft;
-        point.y += obj.offsetTop;
-        obj = obj.offsetParent;
-        }
-    return point;
-    }
-
-function whereami(anchorid) {
-    var locarr = new Array();
-    if(NS4) {
-        if (document.anchors[anchorid]){
-            locarr[0] = document.anchors[anchorid].x;
-            locarr[1] = document.anchors[anchorid].y;
-            }
-        }
-    else if(DOM) {
-        var myanchor = document.getElementById(anchorid);
-        var coordinates = getCoordinates(myanchor)
-        if (myanchor){
-            locarr[0] = coordinates.x;
-            locarr[1] = coordinates.y;
-            }
-        }
-    else {
-	var myanchor = psuedoGetElementById(anchorid);
-    var coordinates = getCoordinates(myanchor)
-    if(myanchor.offsetLeft&&myanchor.offsetTop){
-        locarr[0] = coordinates.x;
-        locarr[1] = coordinates.y;
-        }
-    }
-	return locarr;
-	}
-
-var ddTimer = null;
-var dd_ns4 = (document.layers) ? 1 : 0;
-var dd_ie4 = (document.all) ? 1 : 0;
-var dd_dom = ((document.getElementById) && (!dd_ie4)) ? 1 : 0; // ns6
-
-function ShowLayerFF(showEl,event) {
-    if (showEl == "gnddhome") return;
-    clearTimeout(ddTimer);
-    HideAllLayers();
-
-    if(NS4){var whichEl = document.layers[showEl]}
-    else if(DOM){var whichEl = document.getElementById(showEl);}
-    else {var whichEl = psuedoGetElementById(anchorid);}
-
-    whichAnchor = showEl + "A";
-
-    var coor= new Array();
-    corr = whereami(whichAnchor);
-    cmLeft = corr[0];
-    cmTop = corr[1];
-
-	if (whichEl.style) {
-		if(MAC && IE){
-		cmLeft = whichEl.offsetLeft;
-		cmTop = 4;
-		}
-		if (showEl != 'gnddmore' && showEl != 'gnddfantasy') {
-			if((cmLeft+whichEl.clientWidth)>770){
-			cmLeft=(770-whichEl.clientWidth);
-			}
-		}
-		whichEl.style.left = cmLeft;	
-		whichEl.style.top = cmTop + 18;
-		whichEl.style.visibility = "visible";
-	}
-	else {	
-		whichEl.visibility = "visible";
-		whichEl.top = cmTop + 18;
-                if (showEl != 'gnddmore' && showEl != 'gnddfantasy') {
-			    if((cmLeft+whichEl.width)>770){
-				cmLeft=(770-whichEl.width);
-				}
-                }
-		whichEl.left = cmLeft;
-	} 	
-	cmTop = 0; cmLeft = 0;
-}
-
-
-function HideAllLayers() {
-	if (dd_dom) {
-		var divTemp = document.getElementsByTagName('div');
-		for (i = 0; i < divTemp.length; i++) { 
-			var divString = new String(divTemp[i].id);
-			if (divString.indexOf('gndd') != -1) divTemp[i].style.visibility = "hidden";
-		}
-	}	
-	if (dd_ie4) {
-		var divTemp = document.all.tags("div");
-		for (i = 0; i < divTemp.length; i++) { 
-			var divString = new String(divTemp[i].id);
-			if (divString.indexOf('gndd') != -1) divTemp[i].style.visibility = "hidden";
-		}
-	}
-	if (dd_ns4) {
-		for (i = 0; i < document.layers.length; i++) { 
-			var divString = new String(document.layers[i].name);
-			if (divString.indexOf('gndd') != -1) document.layers[i].visibility = "hidden";
-		}
-	}
-}
-
-function OverLayer() { clearTimeout(ddTimer); isOver = true; }
-
-
-function OutLayer() { 
-	clearTimeout(ddTimer);
-	isOver = false; 
-	ddTimer = setTimeout("HideAllLayers()",300);
-    }
-
-</script>
-
-
-
-
-
-
-
-<link rel="SHORTCUT ICON" href="http://images.nfl.com/favicon.ico">
-
-
-
-	<script language="JavaScript"><!--
-	/*  */
-        var switchDclk="on";
-        var switchOmni="on";
-        var switchVp="on";
-        var switchPu="on";
-        var switchDl="on";
-        var switchOvert="on";
-	var random="75481097563664";
-	var vTag = "helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous";
-        var vTarget = "cust=no;vip=no";
-        var pTag = "pop=off";
-        var adExclude = "none";
-        var uID = "u=";
-	if (!_mlc) {var _mlc="/nflcom;/other/helpcenter";}
-	if (!_aff) {var _aff="1,59";}else{_aff +=",1,59";}
-	var _acct="DM51072221AE95EN3;DM5108274LMR95EN3";
-	var s_pageName="/help/privacy";
-	var s_server="www.nfl.com";
-	var s_pageType="";
-        var s_hier1="NFL.com:Other:Help Center:/help/privacy";
-	var s_prop1="NFL.com";
-	var s_prop2="Other";
-	var s_prop3="Help Center";
-	var s_prop4="";
-	var s_prop5="";
-	var s_prop6="";
-	var s_prop7="";
-	var s_prop8="NFL.com:Other:Help Center:/help/privacy";
-	if (!s_prop9) {var s_prop9="Other";}
-	var s_prop10="Media-Anonymous";
-	var s_prop11="Unknown";
-	var s_prop12="Unknown";
-        var s_prop13="Unknown";
-	var s_prop14="Unknown";
-        var s_prop15="Unknown";
-	var s_prop16="Unknown";
-	var s_prop17="Anonymous";
-        var s_prop18="";
-        var s_prop19="";
-        var s_prop20="";
-	//--></script>
-<div style="position:absolute; width:1; height:1; left:-49; top:-49; z-index:4;"><table width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#000248">
-<script language="JavaScript"><!--
-	var adLookup="media/nfl/nfl/reg/free/help";
-	if (!dclk_seg) {var dclk_seg='nonaol';}
-	if (dclk_seg != 'NUL') {vTag += ';seg='+dclk_seg;}
-	if (!document.layers) {
-        	if (document.body.addBehavior) {
-                	document.body.addBehavior("#default#clientCaps");
-
-                	dclk_TempStr =  ";ctype=" + document.body.connectionType +
-                                ";lang=" + document.body.systemLanguage +
-                                ";lang=" + document.body.userLanguage;
-        	}
-	}
-	if (!dclk_TempStr) {var dclk_TempStr='NUL';}
-	if (dclk_TempStr != 'NUL') {vTag +=dclk_TempStr;}
-	if (!vTarget) {var vTarget='vt=null';}
-/* begin VP detection */
-Vd=document
-VwN=navigator
-Vap=VwN.appName
-VwUa=VwN.userAgent.toLowerCase()
-VwBv=parseInt(VwN.appVersion.substring(0,1))
-VwMc=VwUa.indexOf("mac")!=-1
-function VwOSX(){if(VwUa.indexOf("mac")==-1)return false;if(VwUa.indexOf("mac os x")!=-1)return true;if(navigator.plugins)for(var i=0;i<navigator.plugins.length;i++){if(navigator.plugins[i].name.toLowerCase()=="default plugin carbon.cfm")return true}return false}
-VwMcX=VwOSX()
-VwWin=navigator.platform=='Win32'
-VwN4=Vap=="Netscape"&&VwBv==4
-VwC="AxMetaStream.MetaStreamCtl"
-Vwrf=window.location.href
-VwIE=Vap=="Microsoft Internet Explorer"&&VwBv>=4&&VwUa.indexOf("opera")==-1
-VwIx=VwN.appVersion.indexOf("MSIE ")+5
-VwIv=VwIx!=-1?parseInt(VwN.appVersion.substring(VwIx,VwIx+1)):VwBv
-VwIE4=VwIE&&VwIv==4
-VwGk=VwUa.indexOf("gecko")!=-1
-VwCS=VwUa.indexOf("cs 2000 7")!=-1
-VwN6=VwUa.indexOf("netscape6")!=-1
-VwN7=VwGk&&parseInt(VwN.vendorSub)==7&&!VwCS
-VwSf=((VwUa.indexOf("safari")!=-1)&&(parseInt(VwUa.substring(VwUa.indexOf("safari/")+7,VwUa.length))>=100))
-VwMoz=VwGk&&!VwN7&&!VwN6&&!VwCS&&VwUa.indexOf("rv:1")!=-1
-VwFox=VwUa.indexOf("firefox")!=-1
-VwOpr=VwUa.indexOf("opera")!=-1
-VwID="03F998B2-0E00-11D3-A498-00104B6EB52E"
-VwVBS='<script LANGUAGE="VBScript">'
-VwOER='on error resume next'
-VwSupBr=((VwWin&&(VwIE||VwN7||VwCS))||(VwMcX&&(VwIE||VwSf)))&&!VwOpr&&!VwFox&&!VwMoz
-VwVv='No_VMP'
-function VwNp(p){return VwN.plugins[p]}
-if(VwIE&&!VwMc)
-	Vd.write(VwVBS+"Dim p_o:Function VwAx(n):VwAx=1:"+VwOER+":Set p_o=CreateObject(n):if IsObject(p_o)then:VwAx=0:end if:End Function:<\/SCRIPT>")
-function VwComp(w,v){return p_o.PluginCommand("GetVersion("+w+")",0,0)>=v}
-function VwIn(){var i,m="MetaStream"+(VwMc?"3":" 3 Plugin")
-	if(VwIE&&!VwMc){
-		i=(VwAx(VwC)==0)
-		if(i){VwVv='0.0.0.0'
-			var x=p_o.PluginCommand("GetVersion(SWFVIEW.DLL)",0,0)
-			if(!(x=="No base control"||x>0))i=false
-			x=p_o.PluginCommand("GetVersion(SceneComponent.dll)",0,0)
-			if(x!="No base control"&&x>0){var f=""
-				var b=new Array(4)
-				for(var z=0;z<4;z++){
-					b[z]=x%256
-					f=(b[z]+f)
-					if(z<3)f=("."+f)
-					x>>=8
-				}
-				VwVv=f
-			}
-		}
-	}else{
-		i=VwNp(m)?true:false
-		if(VwN6||VwN4||(VwMcX&&!(VwIE||VwSf))||(VwMc&&!VwMcX))
-			i=false
-		if(i)VwVv='0.0.0.0'
-	}
-	return i
-}
-VwVt=VwIn()
-
-/* section for Omniture tracking and Doubleclick and targeting */
-var dclk_vp=(VwVt)?'yes':'no';
-if (dclk_vp!='NUL') vTag+=';vpmp='+dclk_vp;
-var omni_vp=(VwVt)?'Installed-'+VwVv:'Not Installed';
-if (omni_vp!='NUL') s_prop20+=omni_vp;
-//-->
-</script>
-</td></tr></tbody></table></div>
-<div style="position:absolute; width:1; height:1; left:-50; top:-50; z-index:5;"><table width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
-<!-- SiteCatalyst code version: G.2-Custom. 
-Copyright 1997-2003 Omniture, Inc. More info available at
-http://www.omniture.com --><script language="JavaScript"><!--
-/*************** DO NOT ALTER THE FOLLOWING 2 LINES ! ***************/
-var s_code=' '//--></script>
-<script language="JavaScript"><!--
-/************************** CONFIG SECTION **************************/
-var s_account="cbsnfl"
-if (!parent.s_account) {parent.s_account=s_account}
-var s_linkInternalFilters="javascript:,nfl,superbowl,playfootball,probowl,sundayticket,nfleurope"
-var s_linkExternalFilters="sportsline,ncaasports,golfweb,pgatour"
-
-var s_linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,doc,pdf,xls,ram"
-var s_linkLeaveQueryString=false
-var s_linkTrackVars="None"
-var s_linkTrackEvents="None"
-var s_trackDownloadLinks=true
-var s_trackExternalLinks=true
-var s_trackInlineStats=true
-var s_disableLegacyVars=true
-var s_dynamicAccountSelection=false
-var s_dynamicAccountList=""
-var s_eVarCFG=""
-var s_usePlugins=true
-function s_doPlugins() {
-}
-
-/************************** PLUGINS SECTION *************************/
-function s_vp_getValue(vs)
-	{var k=vs.substring(0,2)=='s_'?vs.substring(2):vs;return s_wd[
-	's_vpm_'+k]?s_wd['s_vpv_'+k]:s_gg(k)}
-
-function s_vp_getCGI(vs,k)
-	{var v='';if(k&&s_wd.location.search){var q=s_wd.location.search,
-	qq=q.indexOf('?');q=qq<0?q:q.substring(qq+1);v=s_pt(q,'&',s_cgif,
-	k)}s_vpr(vs,v)}function s_cgif(t,k){if(t){var te=t.indexOf('='),
-	sk=te<0?t:t.substring(0,te),sv=te<0?'True':t.substring(te+1);if(
-	sk==k)return s_epa(sv)}return ''}
-
-function s_vp_getFormAbandonState(vs,lt,ln)
-	{if(!s_wd.s_vp_faolr){s_wd.s_vp_faol=s_wd.onload;s_wd.onload=
-	s_vp_fas;s_wd.s_vp_favs=vs;s_wd.s_vp_falt=lt;s_wd.s_vp_faln=ln
-	s_wd.s_vp_faolr=1}}var s_vp_faolr=0;function s_vp_fas(e){var r=
-	true;if(s_wd.s_vp_faol)r=s_wd.s_vp_faol(e);if(s_d.forms&&
-	s_d.forms.length>0){var vs=s_wd.s_vp_favs,p=s_gg('pageName'),fn,
-	f,en,el,t,oc,och;for(fn=0;fn<s_d.forms.length;fn++){f=s_d.forms[
-	fn];if(vs&&!s_wd[vs])s_wd[vs]=(f.name?f.name:(p?p:''))
-	+':No Data Entered';for(en=0;en<f.elements.length;en++){el=
-	f.elements[en];t=el.type;if(t&&t.toUpperCase){t=t.toUpperCase()
-	oc=el.onclick?el.onclick.toString():'';och=el.onchange?
-	el.onchange.toString():'';if(oc.indexOf("s_vp_fac(")<0&&
-	och.indexOf("s_vp_fac(")<0){if(t=='BUTTON'||t=='CHECKBOX'||t==
-	'RADIO'||t=='RESET'||t=='SUBMIT'||t=='IMAGE'){el.s_vp_faoc=
-	el.onclick;if(((f.name&&oc.indexOf(f.name)>=0)||(oc.indexOf(
-	'form.')>=0))&&oc.indexOf("submit(")>=0)el.onclick=s_vp_fasu;else
-	el.onclick=s_vp_fac}else{el.s_vp_faoch=el.onchange;if(((f.name&&
-	och.indexOf(f.name)>=0)||(och.indexOf('form.')>=0))&&och.indexOf(
-	"submit(")>=0)el.onchange=s_vp_fasu;else el.onchange=s_vp_fac }}}
-	}f.s_vp_faos=f.onsubmit;f.onsubmit=s_vp_fasu}s_wd.s_vp_faul=
-	s_wd.onunload;s_wd.onunload=s_vp_fa}return r}function s_vp_fa(e){
-	var vs=s_wd.s_vp_favs;if(vs&&s_wd[vs]){s_lnk=new Object
-	s_linkType=s_wd.s_vp_falt;s_linkName=s_wd.s_vp_faln;s_gs('')
-	s_lnk=''}if(s_wd.s_ful)return s_wd.s_ful(e);return true}
-	function s_vp_fasu(e){var vs=s_wd.s_vp_favs;if(vs)s_wd[vs]='';if(
-	this.s_vp_faos)return this.s_vp_faos(e);if(this.s_vp_faoc)
-	return this.s_vp_faoc(e);if(this.s_vp_faoch)
-	return this.s_vp_faoch(e);return true}function s_vp_fac(e){var b=
-	"s_gs(",vs=s_wd.s_vp_favs,f=this.form,p=s_gg('pageName');if(vs)
-	s_wd[vs]=(f.name?f.name:(p?p:''))+':'+(this.name?this.name:'')
-	if(this.s_vp_faoc)return this.s_vp_faoc(e);if(this.s_vp_faoch)
-	return this.s_vp_faoch(e);return true}
-
-function s_vpr(vs,v){if(s_wd[vs])s_wd[vs]=s_wd[vs];else s_wd[vs]=''
-if(vs.substring(0,2) == 's_')vs=vs.substring(2);s_wd['s_vpv_'+vs]=v
-s_wd['s_vpm_'+vs]=1}function s_dt(tz,t){var d=new Date;if(t)d.setTime(
-t);d=new Date(d.getTime()+(d.getTimezoneOffset()*60*1000))
-return new Date(Math.floor(d.getTime()+(tz*60*60*1000)))}
-function s_vh_gt(k,v){var vh='|'+s_c_r('s_vh_'+k),vi=vh.indexOf('|'+v
-+'='),ti=vi<0?vi:vi+2+v.length,pi=vh.indexOf('|',ti),t=ti<0?'':
-vh.substring(ti,pi<0?vh.length:pi);return t}function s_vh_gl(k){var
-vh=s_c_r('s_vh_'+k),e=vh?vh.indexOf('='):0;return vh?(vh.substring(0,
-e?e:vh.length)):''}function s_vh_s(k,v){if(k&&v){var e=new Date,st=
-e.getTime(),y=e.getYear(),c='s_vh_'+k,vh='|'+s_c_r(c)+'|',t=s_vh_gt(k,
-v);e.setYear((y<1900?y+1900:y)+5);if(t)vh=s_rep(vh,'|'+v+'='+t+'|','|'
-);if(vh.substring(0,1)=='|')vh=vh.substring(1);if(vh.substring(
-vh.length-1,vh.length)=='|')vh=vh.substring(0,vh.length-1);vh=v
-+'=[PCC]'+(vh?'|'+vh:'');s_c_w(c,vh,e);if(s_vh_gt(k,v)!='[PCC]')
-return 0;vh=s_rep(vh,'[PCC]',st);s_c_w(c,vh,e)}return 1}
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_un,s_ios=0,s_q='',s_code='',code='',s_bcr=0,s_lnk='',s_eo='',
-s_vb,s_pl,s_tfs=0,s_etfs=0,s_wd=window,s_d=s_wd.document,s_ssl=(
-s_wd.location.protocol.toLowerCase().indexOf('https')>=0),s_n=
-navigator,s_u=s_n.userAgent,s_apn=s_n.appName,s_v=s_n.appVersion,
-s_apv,s_i,s_ie=s_v.indexOf('MSIE '),s_ns6=s_u.indexOf('Netscape6/')
-if(s_v.indexOf('Opera')>=0||s_u.indexOf('Opera')>=0)s_apn='Opera';var
-s_isie=(s_apn=='Microsoft Internet Explorer'),s_isns=(s_apn==
-'Netscape'),s_isopera=(s_apn=='Opera'),s_ismac=(s_u.indexOf('Mac')>=0)
-if(s_ie>0){s_apv=parseInt(s_i=s_v.substring(s_ie+5));if(s_apv>3)s_apv=
-parseFloat(s_i)}else if(s_ns6>0)s_apv=parseFloat(s_u.substring(s_ns6
-+10));else s_apv=parseFloat(s_v);function s_fl(s,l){return (s+''
-).substring(0,l)}function s_co(o){if(!o)return o;var n=new Object
-for(x in o)n[x]=o[x];return n}function s_num(x){var s=x.toString(),g=
-'0123456789',p,d;for(p=0;p<s.length;p++){d=s.substring(p,p+1);if(
-g.indexOf(d)<0)return 0}return 1}function s_rep(s,o,n){var i=
-s.indexOf(o),l=n.length>0?n.length:1;while(s&&i>=0){s=s.substring(0,i)
-+n+s.substring(i+o.length);i=s.indexOf(o,i+l)}return s}function s_ape(
-s){return s?s_rep(escape(''+s),'+','%2B'):s}function s_epa(s){
-return s?unescape(s_rep(''+s,'+',' ')):s}function s_pt(s,d,f,a){var t=
-s,x=0,y,r;while(t){y=t.indexOf(d);y=y<0?t.length:y;t=t.substring(0,y)
-r=f(t,a);if(r)return r;x+=y+d.length;t=s.substring(x,s.length);t=x<
-s.length?t:''}return ''}function s_isf(t,a){if(t.substring(0,2)=='s_')
-t=t.substring(2);return (t!=''&&t==a)}function s_fsf(t,a){if(s_pt(a,
-',',s_isf,t))s_fsg+=(s_fsg!=''?',':'')+t;return 0}var s_fsg
-function s_fs(s,f){s_fsg='';s_pt(s,',',s_fsf,f);return s_fsg}var
-s_c_d='';function s_c_gdf(t,a){if(!s_num(t))return 1;return 0}
-function s_c_gd(){var d=s_wd.location.hostname,n=s_gg(
-'cookieDomainPeriods'),p;if(d&&!s_c_d){n=n?parseInt(n):2;n=n>2?n:2;p=
-d.lastIndexOf('.');while(p>=0&&n>1){p=d.lastIndexOf('.',p-1);n--}
-s_c_d=p>0&&s_pt(d,'.',s_c_gdf,0)?d.substring(p):''}return s_c_d}
-function s_c_r(k){k=s_ape(k);var c=' '+s_d.cookie,s=c.indexOf(' '+k
-+'='),e=s<0?s:c.indexOf(';',s),v=s<0?'':s_epa(c.substring(s+2
-+k.length,e<0?c.length:e));return v}function s_c_w(k,v,e){var d=
-s_c_gd(),l=s_gg('cookieLifetime');v=''+v;l=l?(''+l).toUpperCase():''
-if(e&&l!='SESSION'&&l!='NONE'){l=parseInt(l);if(l){e=new Date
-e.setTime(e.getTime()+(parseInt(l)*1000))}}if(k&&l!='NONE'){
-s_d.cookie=k+'='+s_ape(v)+'; path=/;'+(e&&l!='SESSION'?' expires='
-+e.toGMTString()+';':'')+(d?' domain='+d+';':'');return s_c_r(k)==v}
-return 0}function s_cet(f,a,et,oe,fb){var r,d=0
-/*@cc_on@if(@_jscript_version>=5){try{return f(a)}catch(e){return et(e)}d=1}@end@*/
-if(!d){if(s_ismac&&s_u.indexOf('MSIE 4')>=0)return fb(a);else{
-s_wd.s_oe=s_wd.onerror;s_wd.onerror=oe;r=f(a);s_wd.onerror=s_wd.s_oe
-return r}}}function s_gtfset(e){return s_tfs}function s_gtfsoe(e){
-s_wd.onerror=s_wd.s_oe;s_etfs=1;var code=s_gs(s_un);if(code)s_d.write(
-code);s_etfs=0;return true}function s_gtfsfb(a){return s_wd}
-function s_gtfsf(w){var p=w.parent,l=w.location;s_tfs=w;if(p&&
-p.location!=l&&p.location.host==l.host){s_tfs=p;return s_gtfsf(s_tfs)}
-return s_tfs}function s_gtfs(){if(!s_tfs){s_tfs=s_wd;if(!s_etfs)s_tfs=
-s_cet(s_gtfsf,s_tfs,s_gtfset,s_gtfsoe,s_gtfsfb)}return s_tfs}
-function s_ca(un){un=un.toLowerCase();var ci=un.indexOf(','),fun=ci<0?
-un:un.substring(0,ci),imn='s_i_'+fun;if(s_d.images&&s_apv>=3&&
-!s_isopera&&(s_ns6<0||s_apv>=6.1)){s_ios=1;if(!s_d.images[imn]&&(
-!s_isns||(s_apv<4||s_apv>=5))){s_d.write('<im'+'g name="'+imn
-+'" height=1 width=1 border=0 alt="">');if(!s_d.images[imn])s_ios=0}}}
-function s_it(un){s_ca(un)}function s_mr(un,sess,q,ta){un=
-un.toLowerCase();var ci=un.indexOf(','),fun=ci<0?un:un.substring(0,ci
-),unc=s_rep(fun,'_','-'),imn='s_i_'+fun,im,b,e,rs='http'+(s_ssl?'s':''
-)+'://'+(s_ssl?'102':unc)+'.112.2O7.net/b/ss/'+un+'/1/G.5-Pd-F/'
-+sess+'?[AQB]&ndh=1'+(q?q:'')+(s_q?s_q:'')+'&[AQE]';if(s_ios){im=s_wd[
-imn]?s_wd[imn]:s_d.images[imn];if(!im)im=s_wd[imn]=new Image;im.src=rs
-if(rs.indexOf('&pe=')>=0&&(!ta||ta=='_self'||ta=='_top'||(s_wd.name&&
-ta==s_wd.name))){b=e=new Date;while(e.getTime()-b.getTime()<500)e=
-new Date}return ''}return '<im'+'g sr'+'c="'+rs
-+'" width=1 height=1 border=0 alt="">'}function s_gg(v){var g='s_'+v
-return s_wd[g]||s_wd.s_disableLegacyVars?s_wd[g]:s_wd[v]}var s_qav=''
-function s_havf(t,a){var b=t.substring(0,4),s=t.substring(4),n=
-parseInt(s),k='s_g_'+t,m='s_vpm_'+t,q=t,v=s_gg('linkTrackVars'),e=
-s_gg('linkTrackEvents');if(!s_wd['s_'+t])s_wd['s_'+t]='';s_wd[k]=s_wd[
-m]?s_wd['s_vpv_'+t]:s_gg(t);if(s_lnk||s_eo){v=v?v+',pageName,charSet,'
-+'cookieDomainPeriods,cookieLifetime,eVarCFG,purchaseID':'';if(v&&
-!s_pt(v,',',s_isf,t))s_wd[k]='';if(t=='events'&&e)s_wd[k]=s_fs(s_wd[k
-],e)}s_wd[m]=0;if(t=='charSet')q='ce';else if(t=='cookieDomainPeriods'
-)q='cdp';else if(t=='cookieLifetime')q='cl';else if(t=='channel')q=
-'ch';else if(t=='campaign')q='v0';else if(s_num(s)){if(b=='prop')q='c'
-+n;else if(b=='eVar')q='v'+n;else if(b=='hier')q='h'+n}if(s_wd[k]&&t!=
-'linkName'&&t!='linkType')s_qav+='&'+q+'='+s_ape(s_wd[k]);return ''}
-function s_hav(){var n,av='charSet,cookieDomainPeriods,cookieLifetime'
-+',pageName,channel,server,pageType,campaign,state,zip,events,product'
-+'s,purchaseID,eVarCFG,linkName,linkType';for(n=1;n<26;n++)av+=',prop'
-+n+',eVar'+n+',hier'+n;s_qav='';s_pt(av,',',s_havf,0);return s_qav}
-function s_lnf(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';var
-te=t.indexOf('=');if(t&&te>0&&h.indexOf(t.substring(te+1))>=0)
-return t.substring(0,te);return ''}function s_ln(h){if(s_gg(
-'linkNames'))return s_pt(s_gg('linkNames'),',',s_lnf,h);return ''}
-function s_ltdf(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';var
-qi=h.indexOf('?');h=qi>=0?h.substring(0,qi):h;if(t&&h.substring(
-h.length-(t.length+1))=='.'+t)return 1;return 0}function s_ltef(t,h){
-t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';if(t&&h.indexOf(t)>=0)
-return 1;return 0}function s_lt(h){var lft=s_gg(
-'linkDownloadFileTypes'),lef=s_gg('linkExternalFilters'),lif=s_gg(
-'linkInternalFilters')?s_gg('linkInternalFilters'):
-s_wd.location.hostname;h=h.toLowerCase();if(s_gg('trackDownloadLinks'
-)&&lft&&s_pt(lft,',',s_ltdf,h))return 'd';if(s_gg('trackExternalLinks'
-)&&(lef||lif)&&(!lef||s_pt(lef,',',s_ltef,h))&&(!lif||!s_pt(lif,',',
-s_ltef,h)))return 'e';return ''}function s_lc(e){s_lnk=s_co(this)
-s_gs('');s_lnk='';if(this.s_oc)return this.s_oc(e);return true}
-function s_ls(){var l,ln,oc;for(ln=0;ln<s_d.links.length;ln++){l=
-s_d.links[ln];oc=l.onclick?l.onclick.toString():'';if(oc.indexOf(
-"s_gs(")<0&&oc.indexOf("s_lc(")<0){l.s_oc=l.onclick;l.onclick=s_lc}}}
-function s_bc(e){s_eo=e.srcElement?e.srcElement:e.target;s_gs('')
-s_eo=''}function s_ot(o){var x=o.type,y=o.tagName;return (x&&
-x.toUpperCase?x:y&&y.toUpperCase?y:o.href?'A':'').toUpperCase()}
-function s_oid(o){var t=s_ot(o),p=o.protocol,c=o.onclick,n='',x=0;if(
-!o.s_oid){if(o.href&&(t=='A'||t=='AREA')&&(!c||!p||p.toLowerCase(
-).indexOf('javascript')<0))n=o.href;else if(c){n=s_rep(s_rep(s_rep(
-s_rep(c.toString(),"\r",''),"\n",''),"\t",''),' ','');x=2}else if(
-o.value&&(t=='INPUT'||t=='SUBMIT')){n=o.value;x=3}else if(o.src&&t==
-'IMAGE')n=o.src;if(n){o.s_oid=s_fl(n,100);o.s_oidt=x}}return o.s_oid}
-function s_rqf(t,un){var e=t.indexOf('='),u=e>=0?','+t.substring(0,e)
-+',':'';return u&&u.indexOf(','+un+',')>=0?s_epa(t.substring(e+1)):''}
-function s_rq(un){var c=un.indexOf(','),v=s_c_r('s_sq'),q='';if(c<0)
-return s_pt(v,'&',s_rqf,un);return s_pt(un,',',s_rq,0)}var s_sqq,s_squ
-function s_sqp(t,a){var e=t.indexOf('='),q=e<0?'':s_epa(t.substring(e
-+1));s_sqq[q]='';if(e>=0)s_pt(t.substring(0,e),',',s_sqs,q);return 0}
-function s_sqs(un,q){s_squ[un]=q;return 0}function s_sq(un,q){s_sqq=
-new Object;s_squ=new Object;s_sqq[q]='';var k='s_sq',v=s_c_r(k),x,c=0
-s_pt(v,'&',s_sqp,0);s_pt(un,',',s_sqs,q);v='';for(x in s_squ)s_sqq[
-s_squ[x]]+=(s_sqq[s_squ[x]]?',':'')+x;for(x in s_sqq)if(x&&s_sqq[x]&&(
-x==q||c<2)){v+=(v?'&':'')+s_sqq[x]+'='+s_ape(x);c++}return s_c_w(k,v,0
-)}function s_wdl(e){s_wd.s_wd_l=1;var r=true;if(s_wd.s_ol)r=s_wd.s_ol(
-e);if(s_wd.s_ls)s_wd.s_ls();return r}function s_wds(un){un=
-un.toLowerCase();s_wd.s_wd_l=1;if(s_apv>3&&(!s_isie||!s_ismac||s_apv>=
-5)){s_wd.s_wd_l=0;if(!s_wd.s_unl)s_wd.s_unl=new Array;s_wd.s_unl[
-s_wd.s_unl.length]=un;if(s_d.body&&s_d.body.attachEvent){if(
-!s_wd.s_bcr&&s_d.body.attachEvent('onclick',s_bc))s_wd.s_bcr=1}
-else if(s_d.body&&s_d.body.addEventListener){if(!s_wd.s_bcr&&
-s_d.body.addEventListener('click',s_bc,false))s_wd.s_bcr=1}else{var
-ol=s_wd.onload?s_wd.onload.toString():'';if(ol.indexOf("s_wdl(")<0){
-s_wd.s_ol=s_wd.onload;s_wd.onload=s_wdl}}}}function s_iepf(i,a){if(
-i.substring(0,1)!='{')i='{'+i+'}';if(s_d.body.isComponentInstalled(i,
-'ComponentID')){var n=s_pl.length;s_pl[n]=new Object;s_pl[n].name=i
-+':'+s_d.body.getComponentVersion(i,'ComponentID')}return 0}
-function s_vs(un,x){var s=s_gg('visitorSampling'),g=s_gg(
-'visitorSamplingGroup'),k='s_vsn_'+un+(g?'_'+g:''),n=s_c_r(k),e=
-new Date,y=e.getYear();e.setYear(y+10+(y<1900?1900:0));if(s){s*=100
-if(!n){if(!s_c_w(k,x,e))return 0;n=x}if(n%10000>s)return 0}return 1}
-function s_gs(un){un=un.toLowerCase()
-s_un=un;var trk=1,tm=new Date,sed=Math&&Math.random?Math.floor(
-Math.random()*10000000000000):tm.getTime(),sess='s'+Math.floor(
-tm.getTime()/10800000)%10+sed,yr=tm.getYear(),t,ta='',q='',qs='';yr=
-yr<1900?yr+1900:yr;t=tm.getDate()+'/'+tm.getMonth()+'/'+yr+' '
-+tm.getHours()+':'+tm.getMinutes()+':'+tm.getSeconds()+' '+tm.getDay()
-+' '+tm.getTimezoneOffset();if(!s_q){var tfs=s_gtfs(),tl=tfs.location,
-r=tfs.document.referrer,s='',c='',v='',p='',bw='',bh='',j='1.0',g=
-s_wd.location,k=s_c_w('s_cc','true',0)?'Y':'N',hp='',ct='',iepl=s_gg(
-'iePlugins'),pn=0,ps;if(s_apv>=4)s=screen.width+'x'+screen.height;if(
-s_isns||s_isopera){if(s_apv>=3){j='1.1';v=s_n.javaEnabled()?'Y':'N'
-if(s_apv>=4){j='1.2';c=screen.pixelDepth;bw=s_wd.innerWidth;bh=
-s_wd.innerHeight;if(s_apv>=4.06)j='1.3'}}s_pl=s_n.plugins}else if(
-s_isie){if(s_apv>=4){v=s_n.javaEnabled()?'Y':'N';j='1.2';c=
-screen.colorDepth;if(s_apv>=5){bw=s_d.documentElement.offsetWidth;bh=
-s_d.documentElement.offsetHeight;j='1.3';if(!s_ismac&&s_d.body){
-s_d.body.addBehavior("#default#homePage");hp=s_d.body.isHomePage(tl)?
-"Y":"N";s_d.body.addBehavior("#default#clientCaps");ct=
-s_d.body.connectionType;if(iepl){s_pl=new Array;s_pt(iepl,',',s_iepf,
-'');}}}}else r='';if(!s_pl&&iepl)s_pl=s_n.plugins}if(s_pl)while(pn<
-s_pl.length&&pn<30){ps=s_fl(s_pl[pn].name,100)+';';if(p.indexOf(ps)<0)
-p+=ps;pn++}s_q=(g?'&g='+s_ape(s_fl(g,255)):'')+(r?'&r='+s_ape(s_fl(r,
-255)):'')+(s?'&s='+s_ape(s):'')+(c?'&c='+s_ape(c):'')+(j?'&j='+j:'')+(
-v?'&v='+v:'')+(k?'&k='+k:'')+(bw?'&bw='+bw:'')+(bh?'&bh='+bh:'')+(ct?
-'&ct='+s_ape(ct):'')+(hp?'&hp='+hp:'')+(s_vb?'&vb='+s_vb:'')+(p?'&p='
-+s_ape(p):'')}if(s_gg('usePlugins'))s_wd.s_doPlugins();q+=(t?'&t='
-+s_ape(t):'')+s_hav();if(s_lnk||s_eo){var o=s_eo?s_eo:s_lnk;if(!o)
-return '';var p=s_wd.s_g_pageName,w=1,t=s_ot(o),n=s_oid(o),x=o.s_oidt,
-h,l,i,oc;if(s_eo&&o==s_eo){while(o&&!n&&t!='BODY'){o=o.parentElement?
-o.parentElement:o.parentNode;if(!o)return '';t=s_ot(o);n=s_oid(o);x=
-o.s_oidt}oc=o.onclick?o.onclick.toString():'';if(oc.indexOf("s_gs(")>=
-0)return ''}ta=o.target;h=o.href?o.href:'';i=h.indexOf('?');h=s_gg(
-'linkLeaveQueryString')||i<0?h:h.substring(0,i);l=s_gg('linkName')?
-s_gg('linkName'):s_ln(h);t=s_gg('linkType')?s_gg('linkType'
-).toLowerCase():s_lt(h);if(t&&(h||l))q+='&pe=lnk_'+(t=='d'||t=='e'?
-s_ape(t):'o')+(h?'&pev1='+s_ape(h):'')+(l?'&pev2='+s_ape(l):'');else
-trk=0;if(s_gg('trackInlineStats')){if(!p){p=s_wd.location.href;w=0}p=
-p?s_fl(p,255):'';t=s_ot(o);i=o.sourceIndex;if(s_gg('objectID')){n=
-s_gg('objectID');x=1;i=1}if(p&&n&&t)qs='&pid='+s_ape(p)+(w?'&pidt='+w:
-'')+'&oid='+s_ape(n)+(x?'&oidt='+x:'')+'&ot='+s_ape(t)+(i?'&oi='+i:'')
-}s_wd.s_linkName=s_wd.s_linkType=s_wd.s_objectID=s_lnk=s_eo='';if(
-!s_wd.s_disableLegacyVars)s_wd.linkName=s_wd.linkType=s_wd.objectID=''
-}if(!trk&&!qs)return '';var code='';if(un){if(trk&&s_vs(un,sed))code+=
-s_mr(un,sess,q+(qs?qs:s_rq(un)),ta);s_sq(un,trk?'':qs)}else if(
-s_wd.s_unl)for(var unn=0;unn<s_wd.s_unl.length;unn++){un=s_wd.s_unl[
-unn];if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)),ta)
-s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
-s_wds(un);s_ca(un);return s_gs(un)}
-s_code=s_dc(s_account);if(s_code)document.write(s_code)
-//--></script><img name="s_i_cbsnfl" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cbsnfl/1/G.5-Pd-F/s62711388729243?[AQB]&amp;ndh=1&amp;t=31/0/2020%200%3A3%3A30%205%200&amp;pageName=/help/privacy&amp;server=www.nfl.com&amp;c1=NFL.com&amp;h1=NFL.com%3AOther%3AHelp%20Center%3A/help/privacy&amp;c2=Other&amp;c3=Help%20Center&amp;c8=NFL.com%3AOther%3AHelp%20Center%3A/help/privacy&amp;c9=Other&amp;c10=Media-Anonymous&amp;c11=Unknown&amp;c12=Unknown&amp;c13=Unknown&amp;c14=Unknown&amp;c15=Unknown&amp;c16=Unknown&amp;c17=Anonymous&amp;c20=Not%20Installed&amp;g=https%3A//web.archive.org/web/20041012064746id_/http%253A//www.nfl.com/help/privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
-if (switchOmni != 'off') {
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-}
-//--></script><noscript><img src="http://cbsnfl.112.2O7.net/b/ss/cbsnfl/1/G.3--NS/0?" height="1" width="1" border="0" alt=""></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: G.3. --></td></tr></tbody></table></div>
-
-<table width="770" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-<tbody><tr align="center">
-<td height="1"></td>
-</tr></tbody></table>
-
-
-
-<!-- _nfl_banner_ad --><table width="770" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff"><tbody><tr><td width="770" height="15" align="right" valign="bottom" class="breadcrumb"><a href="http://www.cbs.com" target="_blank">CBS</a> - <a href="http://www.sportsline.com" target="_blank">CBS SportsLine</a> - <a href="http://www.aol.com" target="_blank">AOL</a></td></tr><tr><td height="10"><spacer type="block" width="1" height="10"></spacer></td></tr><tr><td valign="top" align="center"><script language="JavaScript"><!--//
-var dclkBanner='http://ad.doubleclick.net/adj/banners.nfl.com/'+vTag+';'+vTarget+';'+pTag+';'+uID+';sz=728x90;tile=1;ord='+random+'?';
-if (switchDclk != 'off') {
-    if (location.search.substring(1).indexOf('DCLK')>-1) document.write('<input type="text" value="'+dclkBanner+'" style="width:720px"><br>');
-    document.write('<script src="'+dclkBanner+'"><\/script>');
-    }
-// --></script><script src="http://ad.doubleclick.net/adj/banners.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;seg=nonaol;vpmp=no;cust=no;vip=no;pop=off;u=;sz=728x90;tile=1;ord=75481097563664?"></script><noscript><a href="http://ad.doubleclick.net/jump/banners.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;cust=no;vip=no;sz=728x90;tile=1;ord=75481097563664?" target="_blank"><img src="http://ad.doubleclick.net/ad/banners.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;cust=no;vip=no;sz=728x90;tile=1;ord=75481097563664?" width="728" height="90" border="0"></a></noscript>
-</td></tr><tr><td height="5"><spacer type="block" width="1" height="5"></spacer></td></tr></tbody></table>
-             <!-- _nfl_header --><map name="header"><area shape="rect" coords="603,24,771,48" href="http://www.sportsline.com" alt="Powered by CBS SportsLine.com" target="_blank"><area shape="rect" coords="1,3,69,56" href="http://www.nfl.com" alt="NFL.com"></map><table width="770" cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="top"><td><img src="http://images.nfl.com/images/hdr-top.jpg" alt="NFL.com Official Site of the National Football League" width="770" height="52" border="0" usemap="#header"></td></tr></tbody></table>
-             <!-- begin layout_type: content-start-rail-both -->
-<a name="hdrIMG"></a>
-<table width="770" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr valign="top">
-<td width="140"><a href="/"><img src="http://images.nfl.com/images/hdr-bottom.jpg" alt="" width="140" height="19" border="0"></a></td>
-<td width="630" height="20" valign="bottom" class="gnbg" colspan="4">
-<!-- top-nav.html -->
-<table cellpadding="0" cellspacing="0" border="0"><tbody><tr align="center" class="gnbg"><td width="5">&nbsp;</td><td height="20" class="gn"><a href="http://www.nfl.com/home">Home</a></td><td width="13"><span class="gnpipe">|</span></td><td height="20" class="gn"><a href="http://www.nfl.com/news">News</a></td><td width="13"><span class="gnpipe">|</span></td><td height="20" class="gn"><a href="http://www.nfl.com/scores.shtml">Scores</a></td><td width="13"><span class="gnpipe">|</span></td><td height="20" class="gn"><a href="http://www.nfl.com/stats">Stats</a></td><td width="13"><span class="gnpipe">|</span></td><td height="20" class="gn"><a href="http://www.nfl.com/schedules">Schedules</a></td><td width="13"><span class="gnpipe">|</span></td><td height="20" class="gn"><a href="http://www.nfl.com/standings">Standings</a></td><td width="13"><span class="gnpipe">|</span></td><td height="20" class="gn"><a href="http://www.nfl.com/teams">Teams</a></td><td width="13"><span class="gnpipe">|</span></td><td height="20" class="gn"><a href="http://www.nfl.com/players">Players</a></td><td width="13"><span class="gnpipe">|</span></td><td height="20" class="gn"><a href="http://www.nfl.com/rosters">Rosters</a></td><td width="13"><span class="gnpipe">|</span></td><td height="20" class="gn"><a href="http://www.nfl.com/depthcharts">Depth&nbsp;Charts</a></td></tr></tbody></table>
-</td></tr>
-<tr valign="top">
-<td width="140" class="lnbg">
-<!-- left-nav1.html -->
-
-<div class="ln2"><a href="http://www.nfl.com/fantasy">Fantasy</a></div>
-<div class="ln2">&nbsp;&nbsp;<a href="http://www.nfl.com/fantasy/football">Sign Up</a></div>
-<div class="ln2">&nbsp;&nbsp;<a href="http://www.nfl.com/fantasy/features">Fantasy News</a></div>
-<div class="ln2">&nbsp;&nbsp;<a href="http://www.nfl.com/fantasyreport/">Fantasy Report</a></div>
-<div class="ln"><a href="http://www.nfl.com/nflnetwork">NFL Network</a></div>
-<div class="ln"><a href="http://www.nfl.com/tvradio">TV &amp; Radio</a></div>
-<div class="ln"><a href="http://www.nfl.com/fieldpass">Field Pass</a></div>
-<div class="ln"><a href="http://www.nfl.com/nflnewsletter/">Newsletter</a></div>
-<div class="ln"><a href="http://www.nfl.com/youth">Youth Football</a></div>
-<div class="ln"><a href="http://www.nfl.com/history">History</a></div>
-<div class="ln"><a href="http://www.nfl.com/tickets">Tickets</a></div>
-<div class="ln"><a href="http://www.nfl.com/auctions">Auctions</a></div>
-<div class="ln"><a href="http://www.nflextrapoints.com" target="_blank">NFL Extra Points</a></div>
-<div class="ln"><a href="http://www.jointheteam.com">In The Community</a></div>
-<div class="ln"><a href="http://www.nflshop.com/home/default.cfm?SID=7193">NFL Shop</a></div>
-
-<div class="spacer10">&nbsp;</div>
-<div align="center">
-<a href="http://www.nflshop.com/home/default.cfm?SID=7126" target="_blank"><img src="http://images.nfl.com/images/store/nflshop_120x60.gif" height="60" width="120" border="0"></a><!-- AD for NFL  NFL -->
 </div>
-<div class="spacer10">&nbsp;</div>
-<!-- left-nav2.html -->
-<div align="center"><a href="http://www.jointheteam.com" target="_blank"><img src="http://images.nfl.com/images/jointheteam.gif" alt="Join the Team" width="122" height="30" border="0"></a></div>
-<div class="spacer10">&nbsp;</div>
-<img src="http://images.nfl.com/images/labels/nfl-sites.gif" width="140" height="20" alt="NFL Sites" border="0">
-<div class="space5">&nbsp;</div>
-<div class="ln"><a href="http://www.playfootball.com">Kids</a></div>
-<div class="ln"><a href="http://www.nflplayers.com">NFLPlayers.com</a></div>
-<div class="ln"><a href="http://www.profootballhof.com">Hall of Fame</a></div>
-<div class="ln"><a href="http://www.superbowl.com">Superbowl.com</a></div>
-<div class="ln"><a href="http://www.nfl.com/probowl">Pro Bowl</a></div>
-<div class="ln"><a href="http://www.nfl.com/draft">NFL Draft</a></div>
-<div class="ln"><a href="http://www.nfleurope.com/">NFL Europe</a></div>
-<div class="ln"><a href="http://www.nflalumni.org/">NFL Alumni</a></div>
-<div class="spacer10">&nbsp;</div>
-<div class="spacer5">&nbsp;</div>
-<img src="http://images.nfl.com/images/labels/more-nfl.gif" width="140" height="20" alt="More NFL" border="0">
-<div class="space5">&nbsp;</div>
-<div class="ln"><a href="http://www.nfl.com/redir?url=2689">Contests</a></div>
-<div class="ln"><a href="http://www.nflplayerdevelopment.com">Player Programs</a></div>
-<div class="ln"><a href="http://www.usafootball.com">USA Football</a></div>
-<div class="ln"><a href="http://www.nfl.com/redir?url=3692" target="_blank">NFL Sunday Drive</a></div>
-<div class="ln"><a href="http://www.nfl.com/ticket">NFL Sunday Ticket</a></div>
-<div class="ln"><a href="http://www.nfl.com/international">International</a></div>
-<div class="ln"><a href="http://www.nfl.com/wireless">Wireless</a></div>
-<div class="ln"><a href="http://www.nfl.com/rookies">Rookies</a></div>
-<div class="spacer10">&nbsp;</div>
-<div class="spacer5">&nbsp;</div>
-<img src="http://images.nfl.com/images/labels/about-us.gif" width="140" height="20" alt="About Us" border="0">
-<div class="space5">&nbsp;</div>
-<div class="ln"><a href="http://www.nfl.com/help">NFL.COM Help Section</a></div>
-<div class="ln"><a href="http://www.nfl.com/help/privacy">Privacy Policy</a></div>
-<div class="ln"><a href="http://www.nfl.com/help/terms">Terms and Conditions</a></div>
-<div class="ln"><a href="http://footballjobs.teamworkonline.com" target="_blank">Team Employment</a></div>
-<div class="ln"><a href="http://footballjobs.teamworkonline.com" target="_blank">Opportunities</a></div>
-
-<div class="spacer10">&nbsp;</div>
-</td>
-<td width="5"><div class="whiteshadow">&nbsp;</div></td>
-<td width="450">
-<div class="whiteshadow">&nbsp;</div>
-
-<!-- page-title.html -->
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="bottom">
-<td height="30"><img src="http://images.nfl.com/images/pagetitles/2004/nfl-help.gif" border="0" alt="Privacy Policy"></td>
-<td width="3">&nbsp;</td>
-<td></td></tr>
-<tr><td height="10" colspan="3"><div class="spacer10">&nbsp;</div></td></tr>
-</tbody></table>
-
-<a href="http://www.playfootball.com/site/privacy.html">Play football Privacy Policy</a> <b>·</b> 
-<a href="http://www.nflshop.com/content/help_privacy.cfm">NFL Shop Privacy Policy</a>
-<p></p>
-
-<font class="lead">
-<b>PRIVACY POLICY</b><br>
-Effective Date: Aug. 16, 2001
-</font>
-<p>
-<font class="lead">
-</font></p><p><font class="lead">
-This privacy policy is applicable to the Website[s] accessible at universal resource locators NFL.com and Superbowl.com (collectively the "Site"), which is operated pursuant to a strategic relationship among National Football League Enterprises, L.P. on behalf of the National Football League, SportsLine.com, Inc., America Online, Inc., and CBS Broadcasting, Inc. (collectively, the "NFL PARTNERS", "we", "our", or "us"). <b>Note: <a href="/help/prior">Click here</a> if you disclosed personally identifiable information via the the NFL.com and/or Superbowl.com Web sites (individually or collectively, as applicable, the "NFL Sites") prior to Aug. 16, 2001.</b> This privacy policy shall be prominently published on the Site.  The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
-</font></p><p><font class="lead">
-Please read the following to learn more about our data collection policies and practices.  
-</font></p><p><font class="lead">
-</font></p><ul><font class="lead">
-<li><a href="#types">Types of information that may be collected</a>
-</li><li><a href="#info">How information may be collected</a>
-</li><li><a href="#use">How we use the information collected</a>
-</li><li><a href="#share">With whom the information may be shared</a>
-</li><li><a href="#security">Security</a>
-</li><li><a href="#chatrooms">Chat Rooms, Forums, and Message Boards</a>
-</li><li><a href="#links">Links to Other Web Sites</a>
-</li><li><a href="#note">A special note for parents concerning privacy</a>
-</li><li><a href="#changes">Notification of changes and your acceptance of the Privacy Policy</a>
-</li><li><a href="#correction">Correcting/updating personal information</a>
-</li></font></ul><font class="lead">
+</div><div class="iw_component" id="c1259229983311"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
 
 
 
 
 
-<a name="types"></a><b>TYPES OF INFORMATION THAT MAY BE COLLECTED</b>
-<p>
-The following are the types of information we may collect:
-</p><p>
-<b><i>Information You Provide Us</i></b><br>
-Personal information such as your user ID and password, name, email address, telephone number, physical address, birth date, gender or zip code or other information may be collected via the Site.  
-</p><p>
 
-<b><i>Site Usage Information</i></b><br>
-We may receive and store certain types of information whenever you visit the Site. For example, we may collect click-stream data and your IP address.
-</p><p>
-<b><i>Email Communications</i></b><br>
-When you open emails from the Site, we may receive a confirmation noting you opened an email from us, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from the NFL PARTNERS and our subsidiaries and affiliates.  Additionally, we keep a record of what emails you have opted to and not to receive.
-</p><p>
-<b><i>Information from Other Sources</i></b><br>
-We may receive information about you from other sources and add it to your personal information. 
-</p><p>
-<a name="info"></a><b>HOW INFORMATION MAY BE COLLECTED </b><br>
-We may collect information from you in several different areas on the Site, including but not limited to those described below:
-</p><p>
-<b><i>Registration</i></b><br>
-You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums, Fantasy or other subscription based services.
-</p><p>
-<b><i>Newsletters and Site Emails</i></b><br>
-We may offer free newsletters to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site.  You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails. 
-</p><p>
-<b><i>Contests or Sweepstakes</i></b><br>
-We may operate contests and sweepstakes through the Site which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes.  We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission.    In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information.  In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
-</p><p>
-<b><i>Surveys or Voting</i></b><br>
-From time-to-time we may request personally identifiable information from you via surveys or voting polls.  Participation is voluntary and you will have the opportunity to decide whether or not to disclose information.  At times, you may have to register to vote or to take part in a survey.
-</p><p>
-<b><i>Cookies</i></b><br>
-As with many Web sites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies.  Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences.  By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies.  Accepting cookies allows you, among other things, to personalize your experience on the Site.  Cookies may also allow the Site to present to you advertising which may be of interest to you . If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies.  
-</p><p>
-<b><i>IP Addresses and Click-stream Data</i></b><br>
-We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors.  An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address.  When you request Web pages from the Site, our computers log your IP address. 
-</p><p>
-Click-stream data is information collected by our computers when you request Web pages from the Site.  Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information.  When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.  
-</p><p>
-<b><i>Transaction Information</i></b>
-</p><p>
-If you order any information from our Site, buy any of our products or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information.  We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you.  Such information is collected and stored through encrypted means for your protection.
-</p><p>
-<b><i>Fantasy Games</i></b><br>
-When you register to play Fantasy games, you may be asked to provide personally identifiable information. 
-</p><p>
-<a name="use"></a><b>HOW WE USE THE INFORMATION COLLECTED</b><br>
-Each of the NFL PARTNERS own the information collected via this Site.  As applicable, the information you provide to us may be used to:
-</p><ul>
-<li>contact you about the Site;
-</li><li>contact you relating to your membership status;
-</li><li>confirm or fulfill an order you have made;
-</li><li>monitor or improve the use of the Site;
-</li><li>customize the advertising and content you see;
-</li><li>monitor compliance with our terms and conditions of use of the Site;
-</li><li>provide special offers to you from the NFL PARTNERS and/or their respective affiliates and subsidiaries and other third parties;
-</li><li>send you promotional material on behalf of our partners;
-</li><li>inform you of a prize you have won.
-</li></ul>
-<a name="share"></a><b>WITH WHOM THE INFORMATION MAY BE SHARED</b><br>
-At times, we may share your personally identifiable information with others for various purposes.  The following outlines the ways in which your information may be shared with others:
+
+    
+        
+            
+                
+                    <div class="module ">
+        <div class="custom-module">
+            <div class="">
+                <div class="mod-wrp-1"><div class="mod-wrp-2"><div class="mod-wrp-3"><div class="mod-wrp-4"><div class="mod-wrp-5">
+                        <div id="maincontainer">
+<div id="contentcontainer">
+<div id="727b4044-1fb0-4703-a32a-fa87c955e971">
+<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/National-Football-League/asc?rid=727b4044-1fb0-4703-a32a-fa87c955e971"></script>
+<a href="//privacy.truste.com/privacy-seal/National-Football-League/validation?rid=ebe8da98-4504-4a3f-b943-c79a95b528f9" title="TRUSTe online privacy certification" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/National-Football-League/seal?rid=ebe8da98-4504-4a3f-b943-c79a95b528f9" alt="TRUSTe online privacy certification"></a></div>
+<p align="center"><b>The Kansas City Chiefs Football Club Privacy Policy</b></p>
+<p align="center"><a href="http://www.kcchiefs.com/privacy-policy.html">http://www.kcchiefs.com/privacy-policy.html</a></p>
+<p align="center"><b>Effective: March 26, 2014</b></p>
+<p>This privacy policy applies to the Kansas City Chiefs websites, including the site located at www.kcchiefs.com (the "Website"), the Kansas City Chiefs mobile application(s) (the “App”), and all other electronic services, websites, or applications offered by the Kansas City Chiefs for their fans. The Website, the App, and any other services are referred to collectively herein as the Services. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.&nbsp;</p>
+<p>The Website is owned by the Kansas City Chiefs Football Club, Inc. (the “Club”, “we”, “our”, or “us”). We have contracted with various third party service providers to operate and manage specific sections or applications of the Services on our behalf including the App, the Chiefs Pro Shop at shop.kcchiefs.com, the Chiefs Kids Club, and certain other applications or segments of the Services provided to you by the Chiefs (the “Contracted Applications”) that may provide additional privacy policies and practices with respect to information you provide through such Contracted Applications. In particular, the Chiefs Kids Club, and any information collected through the Chiefs Kids Club, is governed by a separate privacy policy as outlined below. Unless otherwise stated, we own the information collected via the Services and we may use it for our own business purposes, including marketing.</p>
+<p>The Club has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.</p>
+<p>The TRUSTe program covers only information that is collected through this Web site www.kcchiefs.com and does not cover information that may be collected through our mobile applications.&nbsp;</p>
+<p><strong>If you have questions or complaints regarding our privacy policy or practices please contact us at customerrelations@kcchiefs.com.</strong><strong>&nbsp;</strong>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.</p>
+<p>When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address, social media account name, or email address. When other information, such as a favorite team, player, or your seat location, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.&nbsp;</p>
+<p>Please read the information below to learn more about our data collection policies and practices.</p>
 <ul>
-<li><b>Agents:</b> We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for other purposes. 
-</li><li><b>Promotional Offers:</b> We may send offers to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in the email or change your preferences. 
-</li><li><b>Aggregate Information:</b> We may share aggregate information such as demographics and Site usage statistics to advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information. 
-</li><li><b>Opt-in and Opt-out Programs:</b> Throughout the Site you may be presented with opportunities to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, in an effort to protect you, third parties who have access to personally identifiable information must abide by the current Site privacy policy.  However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information.
-
-</li><li><b>Third-Party Ad Serving &amp; Audience and Traffic Measurement Services:</b> The Site may use a third party network advertiser to serve the advertisements on the Site or may use a traffic measurement service to analyze the traffic on the Site.    Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited.  Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Site by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Site cookies, the Site's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.   Please <a href="http://www.networkadvertising.org/optout_nonppii.asp">click here</a>  in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use.  
-</li><li><b>NFL Partners Subsidiaries and Affiliates:</b>  We may share your information (including, without limitation, personally identifiable information) with subsidiaries and affiliates of NFL PARTNERS.
-
-</li><li><b>Business Transfers:</b> The Site or an NFL PARTNER may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets we transfer.
-</li><li><b>Legal Process:</b> In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you. 
-</li></ul>
-<p>
-<a name="chatrooms"></a><b>CHAT ROOMS, FORUMS, AND MESSAGE BOARDS</b><br>
-The Site may make chat rooms, forums and message boards available to its users.  You are not required to provide any personal information when using these areas but you may choose to do so.  If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties.  The NFL PARTNERS cannot ensure the security of any information you choose to make public in a chat room, forum, or message board.  Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy.  Please exercise caution when deciding to disclose personal information in these areas.
-</p><p>
-<a name="links"></a><b>LINKS TO OTHER WEB SITES</b><br>
-You should be aware that when you are on the Site you could be directed to other sites  beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies.  If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information.
-</p><p>
-<a name="security"></a><b>SECURITY</b><br>
-This Site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration.  Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access.  Our security policies are reviewed periodically and revised as required.
-</p><p>
-
-<a name="note"></a><b>A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY</b><br>
-The Site is a general audience site.  We do not currently collect any personal information from children under the age of thirteen on the Site.  If in the future, the NFL PARTNERS collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent.  For more information about the privacy practices for our affiliated children's sites such as NFLPlayFootball.com, please consult the privacy policy at the children's site in which you are interested.  The Internet offers children wonderful educational and entertainment resources.  Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience.  We encourage you to visit the Direct Marketing Association's Web site (<a href="http://www.the-dma.org">www.the-dma.org</a>) and explore the Get CyberSavvy! Program as well as the GetNetWise Web site (<a href="http://www.getnetwise.org">www.getnetwise.org</a>) to learn more about parental control tools.
-</p><p>
-<a name="changes"></a><b>NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY</b><br>
-By using this Site, you signify your agreement to the terms of our privacy policy.  If we decide to change or update this privacy policy, we will give you notice of the changes made so you can be aware of such revised privacy policy.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email or some other means.  Your continued use of the Site shall constitute your acceptance of such revised privacy policy. 
-</p><p>
-<a name="correction"></a><b>CORRECTING/UPDATING PERSONAL INFORMATION</b><br>
-If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us.  This can be done by making changes to your profile, by using an opt out message in an email, or by emailing Member Services at <a href="mailto:nflprivacy@nfl.sportsline.com">nflprivacy@nfl.sportsline.com</a>.  Please <a href="http://newsletter.nfl.com/profile/">click here</a> to make any changes to your profile and/or opt out of the NFL.com Newsletter. To opt out of Fantasy emails, simply respond to <a href="mailto:remove@commissioner.com">remove@commissioner.com</a>. To edit your fantasy E-Report settings, go to your team, league or pool web site and select Options, then E-Reports. 
-</p><p>
-
-If you have any questions about this privacy policy or the privacy practices of this Site, contact <a href="mailto:nflprivacy@nfl.sportsline.com">nflprivacy@nfl.sportsline.com</a>
-</p><p>
-
-</p><p></p>
-Questions regarding this statement should be directed to:
-</font><p><font class="lead">
-SportsLine.com, Inc.<br>
-Attn: Customer Service - Privacy<br>
-2200 W. Cypress Creek Road<br>
-Ft. Lauderdale, Florida 33309 
-
-<!-- CONTENT AREA ENDS -->
-</font><br>&nbsp;
-<!-- begin content-end-rail-both -->
-</p><div class="spacer10">&nbsp;</div>
-</td>
-<td width="5"><div class="whiteshadow">&nbsp;</div></td>
-<td width="170" align="center" class="rightrail">
-<div class="grayshadow">&nbsp;</div>
-<div class="spacer5">&nbsp;</div>
-<script language="JavaScript"><!--//
-var dclkSkyscraper='http://ad.doubleclick.net/adj/skyscrapers.nfl.com/'+vTag+';'+vTarget+';'+uID+';sz=160x600;tile=7;ord='+random+'?';
-if (switchDclk != 'off') {
-    if (location.search.substring(1).indexOf('DCLK')>-1) document.write('<input type="text" value="'+dclkSkyscraper+'" style="width:160px"><br>');
-    document.write('<script src="'+dclkSkyscraper+'"><\/script>');
-    }
-// --></script><script src="http://ad.doubleclick.net/adj/skyscrapers.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;seg=nonaol;vpmp=no;cust=no;vip=no;u=;sz=160x600;tile=7;ord=75481097563664?"></script><noscript><a href="http://ad.doubleclick.net/jump/skyscrapers.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;cust=no;vip=no;sz=160x600;tile=7;ord=75481097563664?" target="_blank"><img src="http://ad.doubleclick.net/ad/skyscrapers.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;cust=no;vip=no;sz=160x600;tile=7;ord=75481097563664?" width="160" height="600" border="0"></a></noscript>
-
-<div class="spacer10">&nbsp;</div>
-</td></tr>
-<tr><td colspan="5"><div class="footerborder">&nbsp;</div></td></tr>
-</tbody></table>
-<!-- end content-end-rail-both --><div id="footer" class="ftr">
-© 2004, NFL Enterprises, L.P. NFL and the NFL shield design are registered trademarks of the National Football League.<br>The team names, logos and uniform designs are registered trademarks of the teams indicated.<br>NFL footage © NFL Productions LLC.
+<li>Types Of Information That May Be Collected</li>
+<li>How Information May Be Collected</li>
+<li>How We Use The Information Collected</li>
+<li>With Whom The Information May Be Shared</li>
+<li>Links To Other websites</li>
+<li>Security</li>
+<li>Data Retention</li>
+<li>Chat Rooms, Forums, and Message Boards</li>
+<li>Your Acceptance Of This Privacy Policy And Notification Of Changes To This Policy</li>
+<li>Correcting/Updating Personal Information</li>
+<li>Your California Privacy Rights</li>
+<li>Questions About This Privacy Policy</li>
+</ul>
+<p>Types Of Information That May Be Collected</p>
+<p>The following are the types of information we may collect through the Services:</p>
+<p><b>Information You Provide Us</b>: In the course of using the Services, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, seat location, user ID, user password, geolocation, email address, social media information, phone number, or fax number, unique identifiers, your demographic information: such as your date of birth, age, gender, education, household income, occupation, ticket holder status, game attendance, home ownership, marital status, or number of children, financial information, such as your credit card number or similar information.</p>
+<p><b>Site Usage Information</b>: We may receive and store certain types of usage information whenever you visit the Services, such as your click-stream data and your IP address or device ID. (See “Persistent Identifiers and Click Stream Data” section below)</p>
+<p><b>Email Communications</b>: When you open emails from us, we may receive a confirmation notifying us that you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have subscribed to receive or not to receive. If you would like to opt-out of receiving such emails, please click on the "unsubscribe" link in the email and follow the instructions.</p>
+<p><b>Information from Other Sources</b>: We may receive information about you (e.g., missing street number) from other sources, including commercial sources, and add it to your personal information.</p>
+<p>How Information May Be Collected</p>
+<p>We may collect information from you in several different areas through the Services, including but not limited to those described below:</p>
+<p><b>Registration:</b> You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Services may offer, such as newsletters, contests, stadium amenity maps, or social media integration. Your decision to register is voluntary and you will have the opportunity to decide whether or not to disclose information to us and what communications you would like to receive; however, please be advised that many products and services available on the Services require registration and if you elect not to provide such information, you will not be able to take advantage of those products and services.</p>
+<p><b>Newsletters and Emails:</b> We offer free newsletters to share information with you about the Services, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Services. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Services. You may also cancel your free email subscription by following the instructions provided on the Website, in the App, or in the newsletter or email.</p>
+<p><b>Tell-A-Friend:</b>&nbsp;If you choose to use our referral service to tell a friend about season tickets, we will ask you for your friend’s name and email address. We may send your friend a one-time email inviting him or her to visit the site. Kansas City Chiefs stores this information for the sole purpose of sending an email and tracking the success of our referral program.&nbsp;Your friend may contact us at <a href="http://www.kcchiefs.com/contact-us.html">http://www.kcchiefs.com/contact-us.html</a> to request that we remove this information from our database.</p>
+<p><b>Contests or Sweepstakes:</b> We periodically operate contests and sweepstakes through the Services that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Services. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used).</p>
+<p><b>Surveys or Voting:</b> From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Services. Our fan polls are anonymous and do not collect any personal information.</p>
+<p><b>Location Data:</b> If you use a device with a Global Positioning System ("GPS") or other location detection functionality, then we may collect precise information about the location of your device during your use of our sites and applications. We may use your location information to provide any requested location services and we may provide alternate functionality in your use of our sites and applications based on your location. You may opt-out from further allowing us to have any access to your location data by disabling your device's location detection functionality or GPS system.</p>
+<p><b>Games:</b> When you register to play games on the Services, you may be asked to provide personally identifiable information.</p>
+<p><b>Cookies:</b> As with many websites and apps, our Services use a technology called "cookies." A cookie is a collection of information that gets stored on the hard drive of your computer when browsing the Internet. These small bits of code automatically identify your browser to the Website whenever your computer is used to visit or use the Services. Cookies automatically identify your browser to the Services whenever your device is used with the Services. Cookies also let us know how many times a user has been on certain pages and where visitors go on the Website and App. In addition, cookies can let us know non-personally identifiable information, like what web browser or operating system is being used to access the Services. For registered users, cookies can make using the Services easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Services, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Services are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Services. Cookies may also allow the Services to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Services, however, may not provide you with a personalized experience if you have disabled the use of cookies. You can opt out of some, but not all, third-party advertiser cookies in one location at the Network Advertising Initiative opt-out website, located at <a href="http://www.networkadvertising.org/managing/opt_out.asp">www.networkadvertising.org/managing/opt_out.asp</a>. You may block all browser cookies by following the instructions applicable to your browser at <a href="http://www.aboutcookies.org/page-1">http://www.aboutcookies.org/page-1</a>.</p>
+<p><b>Third Party Cookies: </b>The use of cookies by our tracking utility company, and service providers are not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company and service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.</p>
+<p><b>Web beacons and Other Tracking Technology: </b>Our Services use a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyze the traffic patterns on the Services, such as the frequency with which our users visit various parts of the Services. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML emails that we send to determine whether the recipients have opened those emails and/or clicked on links in those emails. The information from use of these technical methods may be collected in a form that is personally identifiable.</p>
+<p><b>Persistent Identifiers and Click-Stream Data:</b> We may collect persistent identifiers and/or click-stream data. Persistent identifiers include device IDs and IP addresses. A device ID is a number associate with a particular device that can identify that device across multiple visits. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address or device ID is not personally identifiable. At times, we also use such persistent identifiers for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information we obtain from you directly through the Services or otherwise, including from third parties.</p>
+<p>Click-stream data is information collected by our computers when you request data from the Services. Click-stream data may include such information as the data served, the time, the source of the request, the type of device or browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising.</p>
+<p><b>Transaction Information:</b> If you conduct any transaction with the Services, such as such as ordering information, buying our products, or subscribing to programs offered through the Services, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. In some instances, we may direct you to a third party vendor site to collect this information from you directly. Even though the collection form may have the look and feel of the Website or other Services provided by the Club, please be aware you will be giving your information directly to the third party vendor, and that, generally in such instances, such third party vendor's privacy policy will govern the collection of your personal information. Please reference the privacy policies available from these pages for any privacy related concerns.</p>
+<p>We and/or our vendor will use this information to complete the transaction that you have requested, i.e. to deliver the information, products or other services that you request or purchase, to invoice you, and in a manner consistent with this Privacy Policy. For your protection, financial information you provide through the Services is collected and stored through encrypted means.</p>
+<p>How We Use the Information Collected</p>
+<p>We own the information collected on or through the Services. As applicable, the information you provide to us may be used to:</p>
+<ul>
+<li>contact you about the Services;</li>
+<li>provide you with services or information you have requested or products or services you have ordered, such as subscription plans or other products and services;</li>
+<li>contact you relating to your membership status;</li>
+<li>confirm or fulfill an order you have made;</li>
+<li>inform you of a prize you have won or been deemed a finalist for;</li>
+<li>monitor or improve the use of the Services;</li>
+<li>customize the advertising and content you see;</li>
+<li>monitor compliance with the terms and conditions of use of the Services, as applicable; and</li>
+<li>send you promotional materials or special offers on our behalf or on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.</li>
+</ul>
+<p>With Whom The Information May Be Shared</p>
+<p>At times, as described below we may share your personal information with others for various purposes.</p>
+<p><b>Agents:</b> We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, publishing and maintaining the App, removing repetitive information from customer lists, Website and App analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. We may frame pages within certain sections of the site (examples include: the Pro Shop and ticket purchases) that will have the look and feel of the Website or App; however, please be aware that you are entering your information on 3rd party agent websites and not directly to the Club. The Third Parties in such integrated situations may have access to personally identifiable information needed to perform their functions, but may not use or disclose it for their own purposes, like sending you marketing offers about their products.</p>
+<p><b>Aggregate or De-Identified Information:</b> We may share aggregate or de-identified information, such as demographics and usage statistics, with advertisers, sponsors or other organizations other parties that we partner with from time to time. When this type of information is shared, the other parties do not have access to your personally identifiable information.</p>
+<p>Social Media: Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and&nbsp;may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<p><b>Option to Receive Third Party Offers:</b> Throughout the Services you may be presented with an opportunity to receive information and/or marketing offers sent from third party(s). Such opportunities will give you the choice to share your personally identifiable information with such third party(s) as necessary to receive such information or marketing offers. If you do not elect to have your personally identifiable information shared, your personally identifiable information will not be shared with such third party(s). If you do choose to have your personally identifiable information shared, your personally identifiable information will be transferred to such third party(s) solely for the purpose of permitting such third party(s) to provide you with such information and marketing offers. Such third party(s) is/are not authorized by us to disclose your personally identifiable information to any other third parties. Please be advised that if you elect to provide your personally identifiable information in response to such third party(s) marketing offers or otherwise, all information you disclose to such third party(s) will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information to such third party(s).</p>
+<p><b>Products or Services Offered in Partnership with Third-Party(s):</b> Certain products and/or services may appear to be available from the Club but are actually provided to you in partnership with third party(s) and may require you to disclose personally identifiable information in order to register for and access such products and/or services, including the App. Such products and/or services shall identify the third party partners prior to or at the point of registration. If you elect to register for such products and/or services your personally identifiable information will be transferred to such third party(s) and will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information in connection with such products and/or services.</p>
+<p><b>Subsidiaries and Affiliates:</b> We may share your information (including, without limitation, personally identifiable information) with all members of the Club’s family, including, without limitation, our subsidiaries and other affiliated entities with your prior consent to do so.</p>
+<p><b>Third-Party Ad Serving and Audience and Traffic Measurement Services:</b> We may use a third-party network advertiser to serve the advertisements on the Services or may use a traffic measurement service to analyze the traffic on the Services. Network advertisers are third parties that display advertisements based on your visits or use of the Services and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. Audience and traffic measurement services allow us to collect anonymous traffic and behavior information from the Services by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Services’ cookies, the advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third-party advertisers to show you advertisements or content you might be interested in. Note that any images (or any other parts of a web page) served by third parties in association with third-party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Other companies' uses of their cookies are subject to their own privacy policies, not this one. Please visit <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a> in order to learn more about the information collection practices and "opt-out" procedures of third-party ad servers we may use. You may block all browser cookies by following the instructions applicable to your browser at <a href="http://www.aboutcookies.org/page-1">http://www.aboutcookies.org/page-1</a>.</p>
+<p><b>Business Transfers:</b> In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. Please see “Your Acceptance Of This Privacy Policy And Notification Of Changes To This Policy” below.</p>
+<p><b>E-mail Deployment:</b> We may share email activity data with our agents to help such agents better target email deployments sent on behalf of us and such agent's other clients. While such third party may have access to your email addresses and email activity, and may share bulk/non-specific activity data with third parties, no email addresses or specific email activity will be shared. If you wish to opt out of this sharing, please opt-out of receiving emails from us by clicking on the "unsubscribe" link in the email and following the instructions.</p>
+<p><b>Administrative or Legal Process:</b> We or others may disclose your personal information may be transferred to third parties without notice to you in order to comply with applicable law, such as to comply with a subpoena, law enforcement agencies, to protect our or third parties’ rights, or to protect the rights of other users of the Services.</p>
+<p>Links to Other Websites or Apps</p>
+<p>You should be aware that when you use the Services you could be directed to other websites or applications beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Services onto different websites or apps. This includes links from advertisers, sponsors and marketing partners that may use the Club’s logo as part of a co-branding agreement. These other websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a website that is linked to our Services, you should consult that website's privacy policy before providing any personal information.</p>
+<p>Security</p>
+<p>The Services incorporate commercially reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. We may permanently delete or destroy any and all personal information at any time as determined by us.</p>
+<p>Data Retention</p>
+<p>We will retain your information for as long as your account is active or as needed to provide you services or as long as permitted under applicable law. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at the address below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p>Chat Rooms, Forums, and Message Boards</p>
+<p>The Services may make chat rooms, forums, commenting and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. In addition, when you post a comment on the App, the user name with which you registered for the Services and your current location may be made publicly available on the Website, the App, or otherwise through the Services. By using the commenting features of the Services, you acknowledge that your user name, location information, and any information you provide in the body of such comment may be disclosed to the public. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our blog or community forum, contact us at the address set below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p>Your Acceptance Of This Privacy Policy And Notification Of Changes To This Policy</p>
+<p>By using the Services, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a prominent notice on the Services and / or send an email to users who have provided an email address prior to the change becoming effective. <span style="text-decoration: line-through;">&nbsp;</span>We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<p>Correcting/Updating Personal Information</p>
+<p>If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access the Services, we will endeavor to provide a way to correct, update, delete &nbsp;or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing us at&nbsp;<a href="mailto:customerrelations@kcchiefs.com">customerrelations@kcchiefs.com</a>.</p>
+<p>Your California Privacy Rights</p>
+<p>California Civil Code Section 1798.83 permits customers of the Club who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to <a href="mailto:CAPrivacy@kcchiefs.com">CAPrivacy@kcchiefs.com</a> or write to us at The University of Kansas Hospital Training Complex | ATTN: CA Privacy Rights |1 Arrowhead Drive | Kansas City, MO 64129.</p>
+<p>Questions About This Privacy Policy</p>
+<p>If you have any questions about this privacy policy or our privacy practices, contact <a href="mailto:customerrelations@kcchiefs.com">customerrelations@kcchiefs.com</a> or write to us at The University of Kansas Hospital Training Complex | ATTN: Chiefs Privacy Policy |1 Arrowhead Drive | Kansas City, MO 64129.</p>
 </div>
-    
+</div>
+                    </div></div></div></div></div></div>
+        </div>
+    </div>
+
+                
+                
+                
+            
+        
     
     
 
+</div>
+</div></div><div id="element5"><div class="iw_component" id="c1407403252773"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+<div class="ad-right" rev="">
+            <nflcs:ad data-adtype="adj" data-width="300" data-height="250" data-suite="team.kc" data-customparams="" class="ad-right">
+                <param name="nfl" value="ad">
+            </nflcs:ad>
+        </div>
+    
+</div>
+</div><div class="iw_component" id="c1407403252778"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
 
 
-</body></html>
+<div class="module ">
+        <div class="content-list">
+            <div class="content-list-variation-2">
+                <div class="mod-wrp-1"><div class="mod-wrp-2"><div class="mod-wrp-3"><div class="mod-wrp-4"><div class="mod-wrp-5"><div class="mod-title"><h2><span>Features</span></h2></div>
+                                
+
+
+<form action="/cda-web/content-list-dynamic-module.htm" method="get" class="ajaxForm" onsubmit="return(false);">        <input type="hidden" name="previewMode" value="false"><input type="hidden" name="numberPerPage" value="6"><input type="hidden" name="showImage" value="Yes"><input type="hidden" name="showPagination" value="No"><input type="hidden" name="contentType" value="ARTICLE"><input type="hidden" name="showPagerStatus" value="No"><input type="hidden" name="sortField" value="DATE"><input type="hidden" name="year" value=""><input type="hidden" name="moreLinkText" value="MORE NEWS"><input type="hidden" name="showContentType" value="Yes"><input type="hidden" name="showByline" value="No"><input type="hidden" name="clubRelatedTerms" value="News - Features"><input type="hidden" name="moreLinkURL" value="http://www.kcchiefs.com/news/index.html"><input type="hidden" name="showRSS" value="Yes"><input type="hidden" name="showDescription" value="No"><input type="hidden" name="showPublicationDate" value="Yes"><input type="hidden" name="showTitleStyle" value="Yes"><input type="hidden" name="showFilterType" value="No"><input type="hidden" name="contentListType" value="internal"><input type="hidden" name="showViewCount" value="No"><input type="hidden" name="showRelatedToContent" value="Yes"><input type="hidden" name="numberOfResults" value="6"><input type="hidden" name="relatedToId" value=""><input type="hidden" name="month" value=""><input type="hidden" name="view" value="content-list-variation-2"><input type="hidden" name="displayName" value="Features">    
+
+
+    <a name="cltop_1418777808028"></a>
+    <div class="hd">
+    
+    </div>
+</form>
+    <div id="dynamic-body-id1418777808028">
+    
+        
+        
+          
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+
+	<div class="bd">
+	<ul>
+    
+	
+
+			
+
+				
+				
+				
+					
+					
+						
+					
+				
+
+				<li class="content-type-club-article
+					   
+				      loop-first  loop-odd">
+
+                <div class="itm-wrp-1"><div class="itm-wrp-2"><div class="itm-wrp-3"><div class="itm-wrp-4"><div class="itm-wrp-5">
+				
+					<div class="thumb"><a href="/news/article-2/Chiefs-vs-Raiders-Top-Defensive-Plays/e7d9f3de-f6cf-4177-99ca-e72e6db026fa" title="Chiefs vs. Raiders: Top Defensive Plays">
+					<img src="http://prod.static.chiefs.clubs.nfl.com//assets/images/imported/KC/photos/videos/121614-TopDefPlays-Thumb--nfl_medium_540_360.jpg" alt="Chiefs vs. Raiders: Top Defensive Plays"><span></span>
+					
+                        
+                        
+                    </a></div>
+				 
+					<h3><a href="/news/article-2/Chiefs-vs-Raiders-Top-Defensive-Plays/e7d9f3de-f6cf-4177-99ca-e72e6db026fa" title="Chiefs vs. Raiders: Top Defensive Plays">
+                        <span>Chiefs vs. Raiders: Top Defensive Plays</span>
+					</a></h3>
+				
+
+                
+				<div class="details">
+                
+                 
+					<span class="date"><span class="highlight">Posted 6 hours ago</span></span>
+				</div>
+
+				
+                
+                </div></div></div></div></div>
+				</li>
+			
+
+				
+				
+				
+					
+					
+						
+					
+				
+
+				<li class="content-type-club-article
+					   
+				      loop-even">
+
+                <div class="itm-wrp-1"><div class="itm-wrp-2"><div class="itm-wrp-3"><div class="itm-wrp-4"><div class="itm-wrp-5">
+				
+					<div class="thumb"><a href="/news/article-2/Chiefs-vs-Raiders-Top-Offensive-Plays/25f1df57-5782-4a59-849b-ba4ee2ec60e8" title="Chiefs vs. Raiders: Top Offensive Plays">
+					<img src="http://prod.static.chiefs.clubs.nfl.com//assets/images/imported/KC/photos/121614-TopOffPlays-Thumb--nfl_medium_540_360.jpg" alt="Chiefs vs. Raiders: Top Offensive Plays"><span></span>
+					
+                        
+                        
+                    </a></div>
+				 
+					<h3><a href="/news/article-2/Chiefs-vs-Raiders-Top-Offensive-Plays/25f1df57-5782-4a59-849b-ba4ee2ec60e8" title="Chiefs vs. Raiders: Top Offensive Plays">
+                        <span>Chiefs vs. Raiders: Top Offensive Plays</span>
+					</a></h3>
+				
+
+                
+				<div class="details">
+                
+                 
+					<span class="date"><span class="highlight">Posted 7 hours ago</span></span>
+				</div>
+
+				
+                
+                </div></div></div></div></div>
+				</li>
+			
+
+				
+				
+				
+					
+					
+						
+					
+				
+
+				<li class="content-type-club-article
+					   
+				      loop-odd">
+
+                <div class="itm-wrp-1"><div class="itm-wrp-2"><div class="itm-wrp-3"><div class="itm-wrp-4"><div class="itm-wrp-5">
+				
+					<div class="thumb"><a href="/news/article-2/NFL-Announces-Team-Nominees-for-Walter-Payton-Man-of-the-Year-Award-Presented-by-Nationwide/b9811a41-f4db-4979-890d-cd7c5eeff1d5" title="NFL Announces Team Nominees for Walter Payton Man of the Year Award, Presented by Nationwide">
+					<img src="http://prod.static.chiefs.clubs.nfl.com//assets/images/imported/KC/photos/placeholder-thumbnail-new--nfl_medium_540_360.jpg" alt="NFL Announces Team Nominees for Walter Payton Man of the Year Award, Presented by Nationwide"><span></span>
+					
+                        
+                        
+                    </a></div>
+				 
+					<h3><a href="/news/article-2/NFL-Announces-Team-Nominees-for-Walter-Payton-Man-of-the-Year-Award-Presented-by-Nationwide/b9811a41-f4db-4979-890d-cd7c5eeff1d5" title="NFL Announces Team Nominees for Walter Payton Man of the Year Award, Presented by Nationwide">
+                        <span>NFL Announces Team Nominees for Walter Payton Man of the Year Award, Presented by Nationwide</span>
+					</a></h3>
+				
+
+                
+				<div class="details">
+                
+                 
+					<span class="date"><span class="highlight">Posted 9 hours ago</span></span>
+				</div>
+
+				
+                
+                </div></div></div></div></div>
+				</li>
+			
+
+				
+				
+				
+					
+					
+						
+					
+				
+
+				<li class="content-type-club-article
+					   
+				      loop-even">
+
+                <div class="itm-wrp-1"><div class="itm-wrp-2"><div class="itm-wrp-3"><div class="itm-wrp-4"><div class="itm-wrp-5">
+				
+					<div class="thumb"><a href="/news/article-2/Chiefs-Break-Out-of-Slump-with-Scoring-Flurry-/1ffbb92a-6f5f-4dd2-b46f-388f9fb11787" title="Chiefs Break Out of Slump with Scoring Flurry ">
+					<img src="http://prod.static.chiefs.clubs.nfl.com//assets/images/imported/KC/photos/121614-ScoringFlurryAP-Thumb--nfl_medium_540_360.jpg" alt="Chiefs Break Out of Slump with Scoring Flurry "><span></span>
+					
+                        
+                        
+                    </a></div>
+				 
+					<h3><a href="/news/article-2/Chiefs-Break-Out-of-Slump-with-Scoring-Flurry-/1ffbb92a-6f5f-4dd2-b46f-388f9fb11787" title="Chiefs Break Out of Slump with Scoring Flurry ">
+                        <span>Chiefs Break Out of Slump with Scoring Flurry </span>
+					</a></h3>
+				
+
+                
+				<div class="details">
+                
+                 
+					<span class="date"><span class="highlight">Posted 10 hours ago</span></span>
+				</div>
+
+				
+                
+                </div></div></div></div></div>
+				</li>
+			
+
+				
+				
+				
+					
+					
+						
+					
+				
+
+				<li class="content-type-club-article
+					   
+				      loop-odd">
+
+                <div class="itm-wrp-1"><div class="itm-wrp-2"><div class="itm-wrp-3"><div class="itm-wrp-4"><div class="itm-wrp-5">
+				
+					<div class="thumb"><a href="/news/article-2/Top-5-Headlines-1216-Examining-the-Playoff-Picture/de70b4e1-389c-42cf-8ff0-33b0ad5b2656" title="Top 5 Headlines 12/16: Examining the Playoff Picture">
+					<img src="http://prod.static.chiefs.clubs.nfl.com//assets/images/imported/KC/photos/121614-Headlines-Thumb--nfl_medium_540_360.jpg" alt="Top 5 Headlines 12/16: Examining the Playoff Picture"><span></span>
+					
+                        
+                        
+                    </a></div>
+				 
+					<h3><a href="/news/article-2/Top-5-Headlines-1216-Examining-the-Playoff-Picture/de70b4e1-389c-42cf-8ff0-33b0ad5b2656" title="Top 5 Headlines 12/16: Examining the Playoff Picture">
+                        <span>Top 5 Headlines 12/16: Examining the Playoff Picture</span>
+					</a></h3>
+				
+
+                
+				<div class="details">
+                
+                 
+					<span class="date"><span class="highlight">Posted 12 hours ago</span></span>
+				</div>
+
+				
+                
+                </div></div></div></div></div>
+				</li>
+			
+
+				
+				
+				
+					
+					
+						
+					
+				
+
+				<li class="content-type-club-article
+					   
+				      loop-even  loop-last">
+
+                <div class="itm-wrp-1"><div class="itm-wrp-2"><div class="itm-wrp-3"><div class="itm-wrp-4"><div class="itm-wrp-5">
+				
+					<div class="thumb"><a href="/news/article-2/Chiefs-vs-Raiders-Game-Takeaways/861961c7-793c-42dd-9d6b-15fc2a2fb860" title="Chiefs vs. Raiders: Game Takeaways">
+					<img src="http://prod.static.chiefs.clubs.nfl.com//assets/images/imported/KC/photos/videos/121514-GameTakeaways-Thumb--nfl_medium_540_360.jpg" alt="Chiefs vs. Raiders: Game Takeaways"><span></span>
+					
+                        
+                        
+                    </a></div>
+				 
+					<h3><a href="/news/article-2/Chiefs-vs-Raiders-Game-Takeaways/861961c7-793c-42dd-9d6b-15fc2a2fb860" title="Chiefs vs. Raiders: Game Takeaways">
+                        <span>Chiefs vs. Raiders: Game Takeaways</span>
+					</a></h3>
+				
+
+                
+				<div class="details">
+                
+                 
+					<span class="date"><span class="highlight">Posted 12 hours ago</span></span>
+				</div>
+
+				
+                
+                </div></div></div></div></div>
+				</li>
+			
+
+	
+	
+    
+	</ul>
+	</div>
+
+
+        
+    
+    </div>
+
+	<div class="ft">
+        
+        
+        
+        
+		<div class="action-bar">
+			<a href="/news/rss.html" class="gbl-ico-rss" title="Subscribe"><span>Subscribe</span></a>
+		    
+            
+			<a href="http://www.kcchiefs.com/news/index.html" class="content-more" title="MORE NEWS"><span>MORE NEWS <span>»</span></span></a>
+		    
+        </div>
+	    
+    </div>
+    
+        
+        
+        
+        
+        <script type="text/javascript">
+        $nflcs(document).ready( nflcs.gbl.mod.ContentListDynamic.init );
+        </script>
+        
+        
+    
+</div></div></div></div></div></div>
+        </div>
+    </div>
+
+
+
+</div>
+</div></div></div><div class="iw_component" id="c1259229983300"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+<input value="" type="hidden">
+
+
+
+
+
+
+
+    
+        
+            
+                
+                
+                
+                    
+                        <div id="footer"><a class="footer-logo-link" href="/#"></a>
+<ul class="main-footer-links" editor_id="mce_editor_0">
+<li editor_id="mce_editor_0"><a id="attend-game" class="null" href="http://www.kcchiefs.com/contact-us.html" mce_real_href="http://www.kcchiefs.com/contact-us.html"><span editor_id="mce_editor_0">Contact Us</span></a></li>
+<li editor_id="mce_editor_0"><a class="null" href="http://www.kcchiefs.com/faq.html" mce_real_href="http://www.kcchiefs.com/faq.html"><span editor_id="mce_editor_0">FAQ</span></a></li>
+</ul>
+<ul class="main-footer-links" editor_id="mce_editor_0">
+<li editor_id="mce_editor_0"><span editor_id="mce_editor_0"><a href="http://goarrowhead.com/game-day-employment/" mce_href="http://goarrowhead.com/game-day-employment/">Game Day Employment</a><br></span></li>
+<li editor_id="mce_editor_0"><a class="null" href="http://footballjobs.teamworkonline.com/teamwork/jobs/jobskey.cfm?s=chiefs" target="_blank" mce_real_href="http://footballjobs.teamworkonline.com/teamwork/jobs/jobskey.cfm?s=chiefs"><span editor_id="mce_editor_0">Employment</span></a></li>
+</ul>
+<ul class="main-footer-links" editor_id="mce_editor_0">
+<li editor_id="mce_editor_0"><a class="null" href="http://www.kcchiefs.com/privacy-policy.html" mce_real_href="http://www.kcchiefs.com/privacy-policy.html"><span editor_id="mce_editor_0">Privacy Statement</span></a></li>
+<li editor_id="mce_editor_0"><a class="null" href="http://www.kcchiefs.com/legal.html" mce_real_href="http://www.kcchiefs.com/legal.html"><span editor_id="mce_editor_0">Legal</span></a></li>
+</ul>
+<ul class="main-footer-links" editor_id="mce_editor_0">
+<li editor_id="mce_editor_0"><span editor_id="mce_editor_0"><a href="http://www.kcchiefs.com/arrowhead/wifi-policy.html" mce_href="http://www.kcchiefs.com/arrowhead/wifi-policy.html">Arrowhead Wifi Policy</a><br></span></li>
+<li editor_id="mce_editor_0"><span editor_id="mce_editor_0"><a href="http://shop.kcchiefs.com/?sourceid=footer" mce_href="http://shop.kcchiefs.com/?sourceid=footer">Pro Shop</a><br></span></li>
+</ul>
+<p>Copyright © 2014 Kansas City Chiefs</p>
+<script type="text/javascript">// <![CDATA[
+var versaTag = {};
+versaTag.id = "250";
+versaTag.sync = 1;
+versaTag.dispType = "js";
+versaTag.ptcl = "";
+versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
+//versaTag.mobile = 1;
+versaTag.activityParams = {}; //"Param1":"[value]" , "Param2":"[value]" ,"Param3":"[value]", "Param4":"[value]"
+versaTag.retargetParams = {}; //"TagID":"[value]", "TagID":"[value]"
+versaTag.conditionalParams = {}; //"1":"[value]","2":"[value]","3":"[value]","4":"[value]","a":"[value]","b":"[value]","c":"[value]", "d":"[value]","e":"[value]","f":"[value]","g":"[value]","h":"[value]"
+// ]]></script>
+<div class="ad-no-style" rev="">
+            <nflcs:ad data-adtype="adj" data-width="1" data-height="3" data-suite="team.kc" data-customparams="" class="ad-no-style">
+                <param name="nfl" value="ad">
+            </nflcs:ad>
+        </div>
+    </div>
+                    
+                
+            
+        
+    
+    
+
+</div>
+</div></div></div></div></div></div></div>
+            <div class="netfooter2">
+    <div class="netfooter-content">
+        <div class="netfooter-icon-league"></div>
+        <div class="netfooter-list">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.nfl.com">NFL.com</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://nflrush.com/?campaign=NFL_footer">NFLRush.com</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://nflplayers.com">NFLPlayers.com</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.ticketexchangebyticketmaster.com/nfl?intcmp=tm105445&amp;wt.mc_id=NFL_LEAGUE_TE_FOOTER">NFL Ticket Exchange</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.nflyouthpd.com/">NFL Youth Tackle</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://profootballhof.com">Profootballhof.com</a>
+                </li>
+            </ul>
+        </div>
+        <div class="netfooter-list">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.nflshop.com/source/bm-nflcom-TeamSite_NFL_SHOP_TAB_BOTTOM_BANNER?utm_source=TeamSite_NFL_SHOP_TAB_BOTTOM_BANNER&amp;utm_medium=bm_referral&amp;utm_term=kw--TeamSite|cpn-no_coupon|offerno_offer&amp;utm_content=lNFL|tall_NFL_teams|pall_NFL_players|pcall_product_categories|agNoGender&amp;utm_campaign=destNFL_Shop|creatvTeamSite_NFL_SHOP_TAB_BOTTOM_BANNER|date111914|geo-NoGeo">NFL Shop</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.nflauction.nfl.com/">NFL Auction</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.nfl.com/nflnetwork">NFL Network</a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.nfl.info/nflol/index.html">NFL On Location</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.jointheteam.com/">In The Community</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.nflhealthandsafety.com/">NFLHealthandSafety.com</a>
+                </li>
+            </ul>
+        </div>
+        <div class="netfooter-icon-afc"></div>
+        <div class="netfooter-list-division">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.buffalobills.com/">Bills</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.miamidolphins.com/">Dolphins</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.patriots.com/">Patriots</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.newyorkjets.com/">Jets</a>
+                </li>
+            </ul>
+        </div>
+        <div class="netfooter-list-division">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.baltimoreravens.com/">Ravens</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.bengals.com/">Bengals</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.clevelandbrowns.com/">Browns</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.steelers.com/">Steelers</a>
+                </li>
+            </ul>
+        </div>
+        <div class="netfooter-list-division">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.houstontexans.com/">Texans</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.colts.com/">Colts</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.jaguars.com/">Jaguars</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.titansonline.com/">Titans</a>
+                </li>
+            </ul>
+        </div>
+        <div class="netfooter-list-division">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.denverbroncos.com/">Broncos</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.kcchiefs.com/">Chiefs</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.raiders.com/">Raiders</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.chargers.com/">Chargers</a>
+                </li>
+            </ul>
+        </div>
+        <div class="netfooter-icon-nfc"></div>
+        <div class="netfooter-list-division">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.dallascowboys.com/">Cowboys</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.giants.com/">Giants</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.philadelphiaeagles.com/">Eagles</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.redskins.com/">Redskins</a>
+                </li>
+            </ul>
+        </div>
+        <div class="netfooter-list-division">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.chicagobears.com/">Bears</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.detroitlions.com/">Lions</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.packers.com/">Packers</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.vikings.com/">Vikings</a>
+                </li>
+            </ul>
+        </div>
+        <div class="netfooter-list-division">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.atlantafalcons.com/">Falcons</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.panthers.com/">Panthers</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.neworleanssaints.com/">Saints</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.buccaneers.com/">Buccaneers</a>
+                </li>
+            </ul>
+        </div>
+        <div class="netfooter-list-division">
+            <ul>
+                <li>
+                    <a target="_blank" href="http://www.azcardinals.com/">Cardinals</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.stlouisrams.com/">Rams</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.sf49ers.com/">49ers</a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.seahawks.com/">Seahawks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+            <!-- SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://prod.static.chiefs.clubs.nfl.com/nfl-assets/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://prod.static.chiefs.clubs.nfl.com/nfl-assets/js/nflcs-lib.js"></script>
+<script language="JavaScript" type="text/javascript">
+    /* sets reporting filters */
+    s_analytics.linkInternalFilters='javascript:,kcchiefs.com';
+    /* You may give each page an identifying name, server, and channel on the next lines. */
+    s_analytics.pageName="";
+    s_analytics.server="";
+    s_analytics.channel="";
+    s_analytics.hier1="";
+    s_analytics.pageType="";
+    s_analytics.prop1="";
+    s_analytics.prop2="";
+    s_analytics.prop3="";
+    s_analytics.prop4="";
+    s_analytics.prop5="";
+    /* Conversion Variables */
+    s_analytics.campaign="";
+    s_analytics.state="";
+    s_analytics.zip="";
+    s_analytics.events="";
+    s_analytics.products="";
+    s_analytics.purchaseID="";
+    s_analytics.eVar1="";
+    s_analytics.eVar2="";
+    s_analytics.eVar3="";
+    s_analytics.eVar4="";
+    s_analytics.eVar5="";
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+//--></script>
+<!-- /DO NOT REMOVE/ End SiteCatalyst code version: H.17. -->
+<div data-adtype="adi" data-width="1" data-height="4" data-suite="team.kc" data-customparams="interstitial=true" data-cookie-duration="3" data-servicelist="INT" class="geo-interstitial interstitial_container modal-window jqmWindow"></div>
+<script type="text/javascript">
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 53847;
+    _sf_async_config.domain = 'kcchiefs.com';
+    _sf_async_config.useCanonical = true;
+    var section = document.URL.split('/')[3] || "homepage";
+    _sf_async_config.sections = section; //CHANGE THIS Change this to your Section name
+    _sf_async_config.authors = ''; //CHANGE THIS Change this to your Author name
+    /** CONFIGURATION END **/
+    (function(){
+        function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script><!--ls:end[body]--><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
