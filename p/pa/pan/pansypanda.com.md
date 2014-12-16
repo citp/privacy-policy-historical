@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pansypanda.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626125127id_/http%3A//pansypanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pansypanda.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216211444id_/http%3A//pansypanda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pansy Panda
+# Privacy Policy - Pansy Panda
 
 Pansy Panda(s) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at pansypanda.com (collectively the “Site”).
 
