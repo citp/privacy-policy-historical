@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genpact.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531192042id_/http%3A//www.genpact.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genpact.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216220104id_/http%3A//www.genpact.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
