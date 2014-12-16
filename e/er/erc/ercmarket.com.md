@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ercmarket.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606144849id_/http%3A//www.ercmarket.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ercmarket.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216214755id_/http%3A//www.ercmarket.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - RCMarket B.V.B.A
 
