@@ -1,73 +1,41 @@
-> *The following text is extracted and transformed from the eyeopening.info privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304080826id_/http%3A//www.eyeopening.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeopening.info privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216091511id_/http%3A//www.eyeopening.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Eye Opening
+# Privacy Policy - Eye Opening Info | Eye Opening Info
 
-We understand how important it is to keep your personal information confidential. The following privacy policy outlines what information we collect through our website, how we deal with it, and what we do to ensure it is secure.
+This privacy policy sets out how Eye Opening Info uses and protects any information that you give us when you use this website.
 
-Throughout this policy, we refer to your 'personal information' which means information which identifies you as an individual or from which your identity can be reasonably ascertained. Your address is an example of personal information.
+Eye Opening Info  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
+Eye Opening Info may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 24 Decmber 2013.
 
-The personal information we collect through this website usually comes from any comments or messages you submit to us. We automatically collect and record this information with our server logs from your browser. Generally, we obtain your IP address, cookie information and the page you requested.
+**What we collect**  
+We may ask to collect the following information:
 
-**Changes to Policies**
+  * e-mail address (for use to send you the daily Eye Opening Info newsletter, which you can unsubscribe from at any time)  
+**  
+**
 
-In addition to the conditions of this privacy policy, there are occasionally specific and additional privacy conditions that pertain to specific sections of our site. These specific and additional provisions have an impact on your privacy protection so we strongly suggest that you assess them wherever they show up. If you find that the conditions of this privacy policy and those other specific and additional conditions contradict one another, the specific and additional provisions will prevail.
 
-If we make any changes to our privacy policy, we will post them on our website so you are aware of them. It is recommended that you visit this website privacy policy from time to time to keep up to date with the latest version.
 
 **Security**
 
-We have numerous security systems in place and our aim is to protect the security and integrity of your personal information. Once we get possession of any personal information, we take reasonable steps to protect that information from misuse and loss and from unauthorized access, modification or disclosure.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Unfortunately, when it comes to the internet, nothing is guaranteed to be entirely safe. So although we make every effort to protect your personal information, you need to be careful because anything can happen.
+**How we use cookies**  
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**Cookies**
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-These days, it is not uncommon for sites to use "cookies" to identify and learn about site visitors. Cookies are miniature identifiers that work as a license plate because they help us to identify you if you visit our site again. These identifiers are sent from a web server and are stored on your computer's hard drive. We may set and access cookies on your computer because they help us to see how you found our website. Under no circumstances would we ever use them to get data from your hard drive, your email or any other personal information about you.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-To ensure your privacy is secure, we do not use cookies to pass on or store any personally identifiable information about you online. You have the option of rejecting cookies by changing your browser settings but this can cause some web pages not to load properly and can result in denied access to certain information.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Use and disclosure of information**
+**Third Party Vendors**
 
-We share your personal information with a third party because they assist us with managing and hosting. We may also share your personal information with service providers that help us with:
-
-  * consulting;
-  * archiving;
-  * auditing;
-  * technology;
-  * security services;
-  * mailhouse; and
-  * delivery
+  * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Eye Opening Info and/or other sites on the Internet.
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
 
 
 
-We do not disclose your personal information for our own benefit. The reasons why we may use or disclose personal information that we collect about you are:
-
-  * if you provided it for a certain purpose;
-  * to uphold our relationship with you;
-  * if you have agreed to the use or disclosure;
-  * for examination or for marketing use;
-  * where a third party acquires, shows interest in acquiring, or makes inquiries in relation to acquiring, an interest in this website;
-  * if we are required or authorized by law to do so; or
-  * for website usage/user statistics
-
-
-
-We also like to keep our site visitors updated on our services, progress and any other relevant matters. When we do this, we filter out the irrelevant information and invitations and only send what we believe is relevant for your company. If you would prefer that no contact was made, please let us know using the contact details set out below.
-
-**Links**
-
-Many websites these days contain links to external sites. Our site has links to the websites of other organizations which we believe could potentially be of interest to you.
-
-We are not responsible for the content or practices of these linked sites. They are separate businesses and they have their own privacy practices which are not identical to ours. If you want to find out more about them, check those websites for their respective privacy statements.
-
-**Accessing your information**
-
-You have the right to request access to any personal information which we hold about you. All you need to do is use the 'Contact Us' set out below. Be as detailed as possible about which information you seek, so we can help you as soon as possible. In order to cover our costs of providing this information to you, an access fee may be charged.
-
-**Contact details**
-
-If you have any queries or concerns about privacy, or you would like to file a complaint about the way in which we have handled your personal information, you should [contact us](https://web.archive.org/contact-us).
-
-© 2008. All rights reserved.
-
-Last updated: [09/09/08]
+**Links to other websites**  
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
