@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourrelease.org privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605202102id_/http%3A//ourrelease.org/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourrelease.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216143402id_/http%3A//ourrelease.org/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - OurRelease.Org
 
