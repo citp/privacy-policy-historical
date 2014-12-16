@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funbrain.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216152112id_/http%3A//fen.com/resources/privacy-policy-children.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funbrain.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216105105id_/http%3A//fen.com/resources/privacy-policy-children.html) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
@@ -167,6 +167,10 @@ We specifically recommend that children check with their parents, guardians, or 
 ## Security, Purchases and Credit Card Use: 
 
 FEN has security measures in place to protect the loss, misuse, and alteration of the information under our control. Essentially, we encrypt all transmission of sensitive data and secure all of our repositories of data. When you use your credit card to make a purchase transaction with FEN, your transaction is secure. Our servers use encryption technology to safeguard your personal information and privacy. However, you should understand that "perfect security" cannot be guaranteed.
+
+* * *
+
+© 2000-2014 Pearson Education, Inc. All rights reserved 
 
   
   | 
