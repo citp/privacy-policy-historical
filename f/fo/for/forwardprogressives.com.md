@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forwardprogressives.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625182944id_/http%3A//www.forwardprogressives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forwardprogressives.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216220154id_/http%3A//www.forwardprogressives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Forward Progressives
 
@@ -46,9 +46,13 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
+**Comments**
+
+Comments by readers on our site are submitted through the Disqus platform. Please take a moment to familiarize yourself with our commenting policy, located [here](http://www.forwardprogressives.com/commenting-policy/). 
+
 **Changes to this privacy policy**
 
-Forward Progressives LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Forward Progressives LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect and helping to protect our users as a whole. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -60,4 +64,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 editor@forwardprogressives.com
 
-This document was last updated on November 2, 2013
+This document was last updated on October 31, 2014 at 3:30 PM (PDT)
