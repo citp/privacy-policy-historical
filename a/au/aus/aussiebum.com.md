@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the aussiebum.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327180742id_/http%3A//www.aussiebum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiebum.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216033509id_/http%3A//www.aussiebum.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY
 
 Effective starting: March 26, 2014
 
-##  Introduction 
-
-This Privacy Policy explains what information aussieBum Pty Ltd collect about you and why, what we do with that information, how we share it, and how we handle the content you place in our online and offline systems. By providing your Personal Information, you consent to any transfer and processing in accordance with this Policy. 
+This Privacy Policy explains what information aussieBum collects about you and why, what we do with that information, how we share it, and how we handle the content you place in our online and offline systems. By providing your Personal Information, you consent to any transfer and processing in accordance with this Policy. 
 
 ##  Scope of Privacy Policy 
 
@@ -175,21 +173,3 @@ Websites:
 We may change this Privacy Policy from time to time. If we make any changes, we will notify you by revising the "Last Updated" date at the top of this Privacy Policy and, in some cases, where appropriate we may provide you with additional notice (such as adding a statement to the login screen or sending you an email notification). We encourage you to review our Privacy Policy whenever you use aussieBum Services to stay informed about our information practices and the ways you can help protect your privacy. 
 
 If you disagree with any changes to this Privacy Policy, you will need to stop using aussieBum Services and deactivate your account(s). 
-
-## Contacting us:
-
-If you have any questions, comments or concerns regarding our privacy policy, please contact us at the following email address, mailing address or telephone number: 
-
-Email - [help@aussiebum.com](mailto:help@aussiebum.com)
-
-Mail: 
-
-aussieBum   
-PO Box 125   
-CAMPERDOWN NSW 1450   
-AUSTRALIA 
-
-Phone: 
-
-Telephone Int +61 2 9560 2626   
-Facsimile Int +61 2 9572 9270 
