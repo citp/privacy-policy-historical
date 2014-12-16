@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the appfolio.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231152id_/http%3A//www.appfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appfolio.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216210942id_/http%3A//www.appfolio.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | AppFolio.com
+# Privacy Policy
 
 **PRIVACY POLICY**
 
-(Last Updated: December 17, 2012)
+(Last Updated: July 3, 2014)
 
 **Information Collection & Use**
 
-This policy describes the privacy practices for AppFolio, Inc. (“AppFolio,” “us,” “we”) and the ways we collect store, use and protect your personal and non-personal information on our web sites, which link to this Privacy Policy including, without limitation, AppFolio.com, RentApp.com, propertymanager.com, greenpropertymanagement.com, and securedocs.com (the “web sites”).
+This policy describes the privacy practices for AppFolio, Inc. (“AppFolio,” “us,” “we”) and the ways we collect store, use and protect your personal and non-personal information on our web sites, which link to this Privacy Policy including, without limitation, AppFolio.com, MyCase.com, info.appfolio.com, info.mycase.com, propertymanager.com, greenpropertymanagement.com (the “web sites”).
 
 AppFolio offers web-based business management software solutions (the “services”). For questions or feedback on this policy or our privacy practices, please email us at privacy@AppFolio.com.
 
