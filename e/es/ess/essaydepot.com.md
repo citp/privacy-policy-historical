@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essaydepot.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616175453id_/http%3A//www.essaydepot.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essaydepot.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216161955id_/http%3A//www.essaydepot.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - EssayDepot.com
 
@@ -65,8 +65,8 @@ privacy@essaydepot.com
 **By mail:**
 
 EssayDepot.com  
-8939 1/2 Santa Monica Blvd  
-West Hollywood, CA 90069 USA 
+1680 Vine Street Suite 1200  
+Hollywood, CA 90028 
 * ### If You Are a Resident of California
 
 If you are a California resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your personal information with third parties, for the third parties' direct marketing purposes. California law provides that you have the right to submit a request to us at the designated address and receive the following information:
