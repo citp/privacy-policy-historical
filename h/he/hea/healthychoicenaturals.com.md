@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthychoicenaturals.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084505id_/http%3A//shop.healthychoicenaturals.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthychoicenaturals.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216173100id_/http%3A//shop.healthychoicenaturals.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -44,18 +44,18 @@ To delete all of your online account information from our database, sign into th
 
 Changes to our policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on March 25, 2010.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on November 10, 2014.
 
 Questions and feedback
 
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-Website: http://shop.healthychoicenaturals.com
+Website: shop.healthychoicenaturals.com
 
 Mailing Address:  
 Healthy Choice Naturals  
-23322 Madero Road, Suite D  
-Mission Viejo, CA 92691
+23151 Alcalde Drive, Suite C3  
+Laguna Hills, CA 92653
 
 Customer Service Telephone: (800) 541-7318  
 Email: cs@healthychoicenaturals.com
@@ -66,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20140625084505id_/http%3A//shop.healthychoicenaturals.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20141216173100id_/http%3A//shop.healthychoicenaturals.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
