@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093439id_/http%3A//www.yodle.com/legal/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216144817id_/http%3A//www.yodle.com/legal/policies/privacy-policy) for the most accurate reproduction.*
 
 # Internet Marketing Essentials | Yodle
 
@@ -8,7 +8,7 @@ _Effective May 3, 2012_
 
 Yodle, Inc. and its subsidiary ProfitFuel, Inc. (collectively, "Yodle") are committed to protecting and respecting your privacy. Yodle has developed this Privacy Policy (the "Policy") to advise you of (i) the information Yodle may collect from you on the Yodle.com website (the "Site"), via e-mail and via telephone calls and (ii) the ways in which Yodle may collect, use, share and protect that information. Any person (x) accessing, browsing or otherwise using the Site either manually or via an automated device or program or (y) communicating with Yodle agents, employees and/or affiliates by e-mail or by telephone shall be considered a "User."
 
-If you are interested in Yodle's privacy practices with respect to its advertising services, please click here to review the [Advertiser Privacy Policy](https://web.archive.org/legal/policies/advertiser-privacy-policy).
+If you are interested in Yodle's privacy practices with respect to its advertising services, please click here to review the [Advertiser Privacy Policy](http://www.yodle.com/legal/policies/advertiser-privacy-policy).
 
 ## User Consent to Policy
 
