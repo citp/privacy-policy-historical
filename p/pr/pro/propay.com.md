@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514123245id_/http%3A//www.propay.com/legal-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216223912id_/http%3A//www.propay.com/legal-agreements/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ When the registration form or a transaction form asks you to enter sensitive inf
 
 While we use VeriSign encryption to protect sensitive information transferred online, we also take additional reasonable commercial measures to protect your information offline. All your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (such as ProPay's database administrators, security department employees, and customer service representatives) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Periodically, as well as any time new policies are added, our employees are notified and/or reminded about the importance of privacy and what they can do to ensure our customers' information is protected. The servers that store personally identifiable information are kept in a secure environment. 
 
-If you have any questions about the security at ProPay's web site, please contact us at ProPay [Customer Service. ](https://web.archive.org/web/20140514123245id_/http://www.propay.com/propay-support/)
+If you have any questions about the security at ProPay's web site, please contact us at ProPay [Customer Service. ](https://web.archive.org/web/20141216223912id_/http://www.propay.com/propay-support/)
 
 Back to top  
  **  
@@ -83,7 +83,7 @@ If your ProPay Merchant Account has a Vermont billing address, we will automatic
 **  
 How to Access and Update Your Personal Information  
 **  
-You may access your personal information by clicking the Edit My Profile link after you log on to your ProPay Account. You may also make any necessary changes there. You can help ProPay maintain the accuracy of your personal information by updating your personal profile when you change your e-mail address, mailing address, or phone numbers. You may also contact ProPay with any questions you may have by contacting us at ProPay [Customer Service](https://web.archive.org/web/20140514123245id_/http://www.propay.com/propay-support/) or by postal mail at: 
+You may access your personal information by clicking the Edit My Profile link after you log on to your ProPay Account. You may also make any necessary changes there. You can help ProPay maintain the accuracy of your personal information by updating your personal profile when you change your e-mail address, mailing address, or phone numbers. You may also contact ProPay with any questions you may have by contacting us at ProPay [Customer Service](https://web.archive.org/web/20141216223912id_/http://www.propay.com/propay-support/) or by postal mail at: 
 
 ProPay, Inc.  
 3400 N Ashton Blvd.  
@@ -103,6 +103,6 @@ ProPay, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independe
 6.    The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ProPay control.   
 7.    How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this Notice, you should first contact ProPay [Customer Service](https://web.archive.org/web/20140514123245id_/http://www.propay.com/propay-support/). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://forms.truste.com/go/truste/search_mvt_speak_with_an_expert-formright?campaign_tactic=AMER_Brand_Brand_Search&campaign_theme=Privacy&gclid=CMLBnLfGvqMCFRkBiQodMFkneg). TRUSTe will then serve as a liaison with ProPay to resolve your concerns.
+If you have questions or concerns regarding this Notice, you should first contact ProPay [Customer Service](https://web.archive.org/web/20141216223912id_/http://www.propay.com/propay-support/). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://forms.truste.com/go/truste/search_mvt_speak_with_an_expert-formright?campaign_tactic=AMER_Brand_Brand_Search&campaign_theme=Privacy&gclid=CMLBnLfGvqMCFRkBiQodMFkneg). TRUSTe will then serve as a liaison with ProPay to resolve your concerns.
 
 Back to top
