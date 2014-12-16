@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the invigoratenow.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402013356id_/http%3A//invigoratenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invigoratenow.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216204903id_/http%3A//invigoratenow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - InvigorateNOW
 
 **InvigorateNOW – PRIVACY POLICY**
 
-This is the Privacy Policy for Invigorate Now, Inc. and this Website [www.invigoratenow.com](https://web.archive.org/web/20140402013356id_/http://invigoratenow.com/privacy-policy/www.invigoratenow.com) (individually and collectively the “Company”). When you use this Website, you agree to the Privacy Policy that follows. If you do not agree with this Privacy Policy you should immediately stop using this Website.
+This is the Privacy Policy for Invigorate Now, Inc. and this Website [www.invigoratenow.com](https://web.archive.org/web/20141216204903id_/http://invigoratenow.com/privacy-policy/www.invigoratenow.com) (individually and collectively the “Company”). When you use this Website, you agree to the Privacy Policy that follows. If you do not agree with this Privacy Policy you should immediately stop using this Website.
 
 **Information The Company Collects**
 
@@ -41,6 +41,10 @@ The cookies the Company uses do not collect any personally identifying informati
 
 Information recorded through web beacons is used to report anonymous individual and/or aggregate information about our users. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners or third parties from this research. You may choose to opt-out of our using this information.
 
+**Advertising Policy**
+
+This product (and all other products by Invigorate Now, Inc.) are advertised online and offline in various media outlets. You may see our ads on Facebook, Google, Bing, Yahoo, Taboola, Content.ad and various other online advertising providers. Web viewers may be tracked via cookies, and served ads on numerous occasions via retargeting pixels. You may stop temporarily stop historical tracking/cookies by clearing your browser cache. Offline advertising will be done through print mail to customers or through rented mailing list. We never share or sell your information. 
+
 **Security**
 
 The Company uses a variety of security measures including encryption and authentication to protect the loss, misuse and alteration of your personal information under our control. Registered accounts are secured by your created passwords and the Company takes precautions to insure that member account information is kept private. The Company uses reasonable measures to protect member information that is stored within our database, and the Company restricts access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. 
@@ -65,7 +69,7 @@ The Company reserves the right, at our complete discretion, to change this Priva
 
 **How to Contact Us**
 
-If you have any questions about this Privacy Policy, Please contact us by emailing us at: [customerservice@invigoratenow.com.](https://web.archive.org/web/20140402013356id_/http://invigoratenow.com/privacy-policy/customerservice@invigoratenow.com)
+If you have any questions about this Privacy Policy, Please contact us by emailing us at: [customerservice@invigoratenow.com.](https://web.archive.org/web/20141216204903id_/http://invigoratenow.com/privacy-policy/customerservice@invigoratenow.com)
 
 **Miscellaneous**
 
