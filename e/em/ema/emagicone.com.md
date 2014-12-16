@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emagicone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100327id_/http%3A//emagicone.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagicone.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216222152id_/http%3A//emagicone.com/privacy-statement) for the most accurate reproduction.*
 
-# eMagicOne » Privacy Statement
+# Privacy Statement | eMagicOne
 
 **eMagicOne** takes your privacy very seriously. We gathered here clear, easy-to-read information about our privacy commitments and policy.
 
