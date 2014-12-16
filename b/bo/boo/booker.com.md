@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the booker.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523211047id_/http%3A//www.booker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booker.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216122934id_/http%3A//www.booker.com/privacy-policy) for the most accurate reproduction.*
 
-# Booker | Privacy Policy
+# Privacy Policy
 
 **Booker Privacy Statement**  
 Booker has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy, and as a means to communicate our information gathering and dissemination practices for the information we obtain from individuals interacting with Booker and its services, and applications. We reserve the right to change this Statement from time to time and will always have available the most up-to-date version of this Statement. As defined herein, Customer or customer (“customer”) is any business subscriber or user of the Booker Service.
