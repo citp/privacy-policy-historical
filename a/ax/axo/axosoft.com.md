@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axosoft.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528052532id_/http%3A//privacy-policy.truste.com/verified-policy/www.axosoft.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axosoft.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216082336id_/http%3A//privacy-policy.truste.com/verified-policy/www.axosoft.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.axosoft.com
 
