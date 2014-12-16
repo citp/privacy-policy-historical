@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adishofdailylife.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629021329id_/http%3A//www.adishofdailylife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adishofdailylife.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216100518id_/http%3A//www.adishofdailylife.com/privacy) for the most accurate reproduction.*
 
 # Privacy - A Dish of Daily Life
 
@@ -14,9 +14,9 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To administer a contest, promotion, survey or other site feature
+– To administer a contest, promotion, survey or other site feature
 
-\- To send periodic emails
+– To send periodic emails
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
