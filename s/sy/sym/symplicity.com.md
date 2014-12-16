@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122019id_/http%3A//www.symplicity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216204112id_/http%3A//symplicity.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Symplicity Corporation
 
@@ -24,7 +24,7 @@ Colleges and universities may use student or alumni data they obtain from the Si
 
 We collect personally identifiable information through the Site in connection with the purpose of connecting employers with students and alumni to enable students and alumni to conduct business processes related to the college and university department which is utilizing a Symplicity product. We use such information in accordance with this Privacy Policy.
 
-Symplicity uses CyberSource to verify your credit card information. CyberSource may use your credit card information only for those purposes. CyberSource will have access to your credit card number as necessary to perform the verification function, but it is required to maintain the confidentiality of your information and is prohibited from using your credit card information except to provide services to Symplicity. Symplicity encrypts all credit card information, deletes your credit card information after the relevant transaction is completed and does not intentionally store such information on our servers.
+Symplicity uses CyberSource or Stripe to verify your credit card information. CyberSource or Stripe may use your credit card information only for those purposes. CyberSource or Stripe will have access to your credit card number as necessary to perform the verification function, but it is required to maintain the confidentiality of your information and is prohibited from using your credit card information except to provide services to Symplicity. Symplicity encrypts all credit card information, deletes your credit card information after the relevant transaction is completed and does not intentionally store such information on our servers.
 
 Symplicity may use personally identifiable information to communicate regarding use of the Site and its services or to advise of the system or Site changes or other events or occurrences that may affect access to or use of the Site. We also use such information to provide customer and technical services upon request by the user. Employers may access and use various tools, features, and functionality of the Site, such as posting jobs and reviewing student and alumni resumes and other job application materials.
 
