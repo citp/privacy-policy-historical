@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collins.co.uk privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611144610id_/http%3A//www.collins.co.uk/page/Privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collins.co.uk privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216024728id_/http%3A//www.collins.co.uk/page/Privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Collins for Education, Revision, ELT, Dictionaries & Atlases - Privacy policy
 
