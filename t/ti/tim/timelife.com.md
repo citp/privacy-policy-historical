@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the timelife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163959id_/http%3A//timelife.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timelife.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216213611id_/http%3A//timelife.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Time Life
 
 ### The Site
 
-Timelife.com (the "Site") is operated by Direct Holdings Americas Inc. Time Life is a registered trademark of Time Warner Inc. or an affiliated company used under license by Direct Holdings Americas Inc., which is not affiliated with Time Inc. or Time Warner Inc. The effective date of this Privacy Policy is April 12, 2006.
+Timelife.com (the "Site") is operated by Direct Holdings Americas Inc. StarVista is a registered trademark of Direct Holdings Americas, Inc. Time Life is a registered trademark of Time Warner Inc. or an affiliated company used under license by Direct Holdings Americas Inc., which is not affiliated with Time Inc. or Time Warner Inc. The effective date of this Privacy Policy is September 2, 2014.
 
 ### Our Privacy Policy
 
@@ -13,7 +13,7 @@ Direct Holdings Americas Inc. values its customers and respects their need to fe
 If you still have privacy concerns that you feel are not addressed in this information, please contact a Direct Holdings Americas Inc. Customer Care Representative at:
 
 Customer Care  
-Time Life  
+StarVista Entertainment / Time Life  
 P.O. Box 8788  
 Pueblo, CO 81008 
 
@@ -25,18 +25,18 @@ We collect the personal information that you provide us while on the Site such a
 
 When purchasing from the Site, you have the option to log in as a "Registered User" or shop as a guest. Although optional, registration allows us to personalize your shopping experience. Registration also offers a number of convenience features such as stored billing and shipping and credit card information, and allows access to members-only areas.
 
-We may also use your email address to send you emails about hot products, specials and online promotions. From time to time, we may also use your email address to send you information about selected third party products, services or offers we think may be of interest to you. Each email you receive from us provides a link to unsubscribe to future mailings by following the unsubscribe directions that appear at the bottom of each email. If you do not want to receive emails about our offers or products or those of these selected third parties, just contact a Direct Holdings Americas Inc. Customer Care Representative via email or by phone at 1-800-950-7887, 9 AM to 9 PM, EST, seven days a week. If you are a Registered User, you can also choose not to receive marketing emails from us or these selected third parties by simply logging in and going to your Personal Profile. There you can UNCHECK the boxes giving us permission to continue emailing you about our offers or third party offers.
+We may also use your email address to send you emails about hot products, specials and online promotions. From time to time, we may also use your email address to send you information about selected third party products, services or offers we think may be of interest to you. Each email you receive from us provides a link to unsubscribe to future mailings by following the unsubscribe directions that appear at the bottom of each email. If you do not want to receive emails about our offers or products or those of these selected third parties, just contact a Direct Holdings Americas Inc. Customer Care Representative via [email](https://web.archive.org/contact) or by phone at 1-800-950-7887, 9 AM to 9 PM, EST, seven days a week. If you are a Registered User, you can also choose not to receive marketing emails from us or these selected third parties by simply logging in and going to your Personal Profile. There you can UNCHECK the boxes giving us permission to continue emailing you about our offers or third party offers.
 
 Please note that even if you choose not to receive marketing emails from us, you may still hear from us regarding your order status.
 
-We may also use your name, postal delivery information and phone number to contact you offline. From time-to-time, we may also share your name and mailing address with certain direct marketing companies so that they may contact you about products, services or offers that we think would be of interest to you. If you do not wish us to contact you offline, receive such mailings, or allow us to share your information with these direct marketing companies, please contact us via email, by phone at 1-800-950-7887, 9 AM to 9 PM EST, seven days a week, or write to us at:
+We may also use your name, postal delivery information and phone number to contact you offline. From time-to-time, we may also share your name and mailing address with certain direct marketing companies so that they may contact you about products, services or offers that we think would be of interest to you. If you do not wish us to contact you offline, receive such mailings, or allow us to share your information with these direct marketing companies, please contact us via [email](https://web.archive.org/contact), by phone at 1-800-950-7887, 9 AM to 9 PM EST, seven days a week, or write to us at:
 
 Customer Care  
-Time Life  
+StarVista Entertainment / Time Life  
 P.O. Box 8788  
 Pueblo, CO 81008 
 
-Notwithstanding that you may have previously opted out, if you subsequently accept a third party’s marketing offer on our Site, we will share your contact information (and your billing information) with that specific third party.
+Notwithstanding that you may have previously opted out, if you subsequently accept a third party's marketing offer on our Site, we will share your contact information (and your billing information) with that specific third party.
 
 Direct Holdings Americas Inc. gives Registered Users the opportunity to review and update the personal information that you have provided to us by visiting your Personal Profile. Please note that deletions of your personal information or changes in your Personal Profile may not be effective immediately.
 
@@ -46,10 +46,10 @@ We may collect your financial information such as credit and debit card numbers 
 
 ### When You Ship to Another Recipient
 
-We only collect the name(s) and postal delivery information necessary to fulfill your requests to ship to alternate addresses. We never share this information with third parties, except those third parties contractors providing fulfillment services as described above. If necessary, we may use this information to contact these individual with service issues relating to the order. We may also use these names and postal delivery information to send mailings, such as Direct Holdings catalog mailings. If you do not wish us to send these individuals such mailings, please contact us via email, by phone at 1-800-950-7887, 9 AM to 9 PM EST, seven days a week or write to us at:
+We only collect the name(s) and postal delivery information necessary to fulfill your requests to ship to alternate addresses. We never share this information with third parties, except those third parties contractors providing fulfillment services as described above. If necessary, we may use this information to contact these individual with service issues relating to the order. We may also use these names and postal delivery information to send mailings, such as Direct Holdings catalog mailings. If you do not wish us to send these individuals such mailings, please contact us via [email](https://web.archive.org/contact), by phone at 1-800-950-7887, 9 AM to 9 PM EST, seven days a week or write to us at:
 
 Customer Care  
-Time Life  
+StarVista Entertainment / Time Life  
 P.O. Box 8788  
 Pueblo, CO 81008 
 
@@ -79,7 +79,7 @@ We use cookies to understand site usage and to improve the content and offerings
 
 Third parties present on the Site, such as advertisers, may also place cookies on your browser.
 
-If you wish to prevent cookies from being accepted, most Internet browsers allow you to do so- e.g., in Internet Explorer, click “Tools,” then “Internet Options” and adjust your cookie settings on the “Privacy” tab (e.g.: the “Block All Cookies” setting blocks all future cookies and renders all existing cookies unreadable by websites). For more information, please check your browser’s technical information. Preventing your browser from accepting cookies may disable or interfere with shopping features on our sites or other sites that you may visit.
+If you wish to prevent cookies from being accepted, most Internet browsers allow you to do so- e.g., in Internet Explorer, click “Tools,” then “Internet Options” and adjust your cookie settings on the “Privacy” tab (e.g.: the “Block All Cookies” setting blocks all future cookies and renders all existing cookies unreadable by websites). For more information, please check your browser's technical information. Preventing your browser from accepting cookies may disable or interfere with shopping features on our sites or other sites that you may visit.
 
 ### Sale of Our Corporation
 
@@ -101,4 +101,4 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
 ### Changes to the Direct Holdings Americas Inc. Privacy Pledge
 
-We reserve the right to update and modify this Privacy Policy at any time. Your use of the Site constitutes your agreement to the policies and procedures set forth in this Privacy Policy. If our information practices change, we will post these changes on the Site. Your use of the Site following the posting of such changes to the Privacy Policy will constitute your acceptance of such changes on the Site. We encourage you to review our Privacy Policy periodically. You may determine when this policy was last updated by referring to the effective date found at the top of this Privacy Policy. If you have any additional questions, please contact a Direct Holdings Americas Inc. Customer Care Representative via email or call: 1-800-950-7887 from 9 AM to 9 PM EST, seven days a week.
+We reserve the right to update and modify this Privacy Policy at any time. Your use of the Site constitutes your agreement to the policies and procedures set forth in this Privacy Policy. If our information practices change, we will post these changes on the Site. Your use of the Site following the posting of such changes to the Privacy Policy will constitute your acceptance of such changes on the Site. We encourage you to review our Privacy Policy periodically. You may determine when this policy was last updated by referring to the effective date found at the top of this Privacy Policy. If you have any additional questions, please contact a Direct Holdings Americas Inc. Customer Care Representative via [email](https://web.archive.org/contact) or call: 1-800-950-7887 from 9 AM to 9 PM EST, seven days a week.
