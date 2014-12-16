@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617103624id_/http%3A//www.lightingshowplace.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216171702id_/http%3A//www.lightingshowplace.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# Security & Privacy
+# Lighting - Chandeliers, Bathroom Lights & Wall Lights - LightingShowPlace.com
 
 Our postal address is:  
 402 Otterson Drive, Suite 100  
