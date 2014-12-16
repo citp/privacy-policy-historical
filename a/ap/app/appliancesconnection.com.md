@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628095215id_/http%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216185512id_/http%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AppliancesConnection
 
