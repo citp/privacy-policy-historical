@@ -1,75 +1,75 @@
-> *The following text is extracted and transformed from the myjournalcourier.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211235620id_/http%3A//www.freedom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjournalcourier.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216075231id_/http%3A//www.myjournalcourier.com/section/privacypolicy) for the most accurate reproduction.*
 
-# Freedom Communications, Inc. - Privacy Policy
+# Privacy Policy | My Journal Courier - myjournalcourier.com
 
-[en Español](https://web.archive.org/web/20121211235620id_/http%3A//www.freedom.com/privacidad.html)
+We consider your privacy important. We do not sell or rent your personal information to third parties without your explicit consent. Please read this Privacy Policy that you may understand how we use and protect your personal information. 
 
-Freedom Communications, Inc. (“Freedom”) has agreed to sell the assets of the Lima News, Sedalia Democrat, Jacksonville Journal Courier and Alton Telegraph (the “Properties”) to an affiliate of Ohio Community Media, an Ohio-based publisher of community newspapers. This affiliate, called Testor FCI Acquisition, LLC (“Publisher”), plans to continue the Properties’ operations uninterrupted after the sale to provide readers with high quality local news services. 
+**Overview**
 
-As part of this sale, Freedom will be transferring to Publisher customer data collected from users of the Properties’ websites. Customer data transferred to Publisher will be held and maintained by Publisher pursuant to Publisher’s respective privacy policies, which can be found at the following: [http://lima.ohcommedia.com](http://lima.ohcommedia.com/), [http://sedalia.ohcommedia.com](http://sedalia.ohcommedia.com/), [http://jacksonville.ohcommedia.com](http://jacksonville.ohcommedia.com/) and [http://alton.ohcommedia.com](http://alton.ohcommedia.com/). Please do not register or submit information to any of the Properties’ websites if you do not want your customer data transferred to Publisher. 
+This Privacy Policy describes the information we collect from you and what may happen with that information. 
 
-This is the Privacy Policy for all Web sites owned or operated by Freedom Communications, Inc. ("Freedom" "we" or "our"), including, without limitation the Web sites listed [here](https://web.archive.org/web/20121211235620id_/http%3A//www.freedom.com/ppsites.html) (collectively, the "Site"). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20121211235620id_/http%3A//www.freedom.com/eula.html) posted on the Site.
+By accepting the Privacy Policy and the End user Terms of Service in the registration process, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the End user Terms of Service. This Privacy Policy is effective upon acceptance of registration for new registering users, and is otherwise effective on November 01, 2008 for all users. 
 
-**Managing Information Preferences**
+**1\. Your Personal Information we collect.**
 
-We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 
+The primary purpose in collecting your personal information is to provide you with an effective, customized, and safe experience on our marketplace and forum network. Once you give us your personal information, you are not anonymous to us or the specific business entity which you have registered with. Should you choose to use our services, you may be required to provide contact information, mailing information, billing information and other information as indicated on the on-line forms throughout the website. Where possible, we indicate which fields are required and which fields are optional. 
 
-17666 Fitch  
-Irvine , CA 92614  
-E-mail: [pp@freedom.com](mailto:pp@freedom.com)
+We use your financial information, including credit card number, credit card billing address, expiration date, checking account name, address, bank routing number and bank account number to verify the accuracy of your name, address, and other information, as well as to bill you for your use of our services. 
 
-If you would like to correct, update, or change your personal information with us please contact us the same way.
+We use data collection devices such as "cookies" on certain pages of our website(s) to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies", meaning that they are automatically deleted from your hard drive at the end on a session. You are always free to decline our cookies if your browser permits, although in that case you may mot be able to use certain features on the Site and you may be required to reenter your password more frequently. 
 
-**What Types Of Information Do We Collect?**
+You may also encounter "cookies" or other similar devices on certain pages that are placed by third parties. We do not control the use of cookies by third parties. 
 
-We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
+If you choose to post messages in our message area or leave feedback for other users, we will collect that information you provide us. We retain this information to provide customer support and empower users as they use the network. 
 
-We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data.
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on this website(s), we may collect such information into a file specific for you. 
 
-We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving. 
+**2\. Our Use of Your Personal Information.**
 
-**How Do We Use The Information We Collect?**
+We use the information you give to us to facilitate the services that you request. We use your personal information to: facilitate purchases on the website(s); troubleshoot account problems; collect the purchase of services and upgrade listing packages; inform you about online and offline offers, product, services, and updates; detect and protect against error, fraud and other criminal activity; enforce our user terms and agreement; comply with any government regulation; facilitate use of discussion, chat or forum venues on the website(s); measure consumer interest in our products and services; and as otherwise described to you at the time of information collection. We may compare and review your personal information for errors, omissions and for accuracy. 
 
-We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy.
+You agree that should you choose to purchase products and services on our website(s) 
 
-We use personal information and non-personal information for internal purposes, including: 
+You agree that we may use your personal information to benefit our marketing and promotional efforts, to analyze site usage, improve our content, product and services offerings, and customize our website(s) with respect to content, layout and other services. 
 
-  * enhancing your experience at the Site;
-  * performing administration and technical support for the Site; 
-  * enabling you to enter sweepstakes, contests and other promotions;
-  * enabling you to use certain services and features available on or through the Site;
-  * creating aggregate information about demographics and usage patterns; 
-  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products and services that may be of interest to you; and 
-  * enabling purchases of goods and services.
+You agree that we may use your information to contact you and deliver information to you, in some cases targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the End user Terms of Service and Privacy Policy, you expressly agree to receive this information. 
 
+**3\. Our Disclosure of Your Personal Information.**
 
+We do not sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent. The following describes some of the ways in which your personal information may be disclosed in the normal course of business as we provide our users with our services. 
 
-We may use aggregate information to measure general Site usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personal information, and it is not traceable to a specific recipient or user e-mail address. 
+**Internal Service Providers.**
 
-We also may share personal information with entities controlling, controlled by, or under common control with Freedom. In the event that Freedom is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information and non-personal information in connection with such transaction. 
+We may use third parties to help facilitate certain aspects of our business that we provide for you and therefore we may provide some of your personal information directly to these internal 
 
-From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure. 
+service providers. These internal service providers are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose or reason other than the specific service they are providing for us. If you provide additional information to an internal service provider directly, then their use of your personal information is regulated by their applicable privacy policy. 
 
-We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to "opt-out" of the collection of information from such cookies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+**Third Party Advertisers**
 
-Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Freedom or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org 
 
-**Security**
+Due to subpoenas, court orders, government regulations and our rights to defend against legal claims, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Although we strive to protect your privacy, we cannot guarantee, nor should you expect, that your personal information or private communications will always remain private. 
 
-We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
+**4\. Knowledge and use of other usersâ€™ information.**
 
-**Links To Third-Party Web Sites**
+Because our service allows users to freely exchange information with one another, by entering into our End user Terms of Service Agreement, you agree, with respect to other usersâ€™ personal information that you obtain through this website(s), that the Company hereby grants to you the right to use such information only for: (a) Company related communications that are not unsolicited commercial messages, and (b) any other purpose that a user expressly agrees to after you tell them the purpose you would like to use it for. Under no circumstances, except as defined in this section, can you disclose information about another user to any third party without the consent of that user. You agree that other users may use your personal information to communicate with you in accordance with this section. You agree to give users an opportunity to remove themselves from your database and review what information you may have collected about them. 
 
-The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
+The Company will not tolerate spam. You are not authorized to add a user or users to your mailing list or other databases without their express consent. 
 
-**Discussion Board, Forums and Other User Generated Content**
+**5\. Control of your Password.**
 
-Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
+You are responsible for all actions taken with your User ID and password. We recommend that you do not disclose your User ID or password to any third parties. Should you share your User ID and password or your personal information with third parties, you are responsible for all 
 
-**Children's Privacy Statement**
+actions taken with your account. We recommend that you review any third party Privacy Policies. If your password has been compromised, you should immediately change your password. If you lose control of your password you may lose control of your personal information and may be subject to legally binding actions taken on your behalf. 
 
-We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
+**6\. Removal of Information**
 
-**Policy Changes**
+In our sole discretion, we will comply with requests to remove content if the content is requested to be removed to prevent fraud, assist with any investigations, enforce our policies and comply with any legal requirements as permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to a request. However, such personal information will be deactivated from public and user viewing. 
 
-If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
+**7\. Security.**
+
+Your personal information is stored on servers located in the United States of America. We use a variety of safeguards to protect your personal information against loss or theft as well as unauthorized access, including encryption, "firewalls" and Secure Socket Layers. However, 100% totally secure and safe protection does not exist on the Internet. 
+
+**8\. Notice of Policy Amendment.**
+
+We reserve the right to amend this Privacy Policy at any time by posting the amended terms on this website(s). All amended terms shall automatically be effective after they are initially posted. 
