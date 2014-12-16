@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihop.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135014id_/http%3A//www.ihop.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihop.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216184418id_/http%3A//www.ihop.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# IHOP Customer Privacy Policy | IHOP
+# IHOP Customer Privacy Policy
 
   * 1880 West Slauson Avenue  
 Los Angeles, CA 90047
