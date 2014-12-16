@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 2insure4less.com privacy policy that was archived on 2014-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140422170620id_/http%3A//www.2insure4less.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2insure4less.com privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216050949id_/http%3A//www.2insure4less.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="http://awlcontent.cachefly.net/prod/assets/presentation/shared/css/landingPage_default_theme.less">
     <link rel="stylesheet" href="http://awlcontent.cachefly.net/prod/assets/presentation/sites/2insure4less.com/css/master_theme.less" id="styleTheme">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://awlcontent.cachefly.net/prod/assets/application/js/lib/modernizr/modernizr-2.5.3.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://awlcontent.cachefly.net/prod/assets/application/js/lib/modernizr/modernizr-2.5.3.min.js"></script>
 	<script type="text/javascript" src="http://awlcontent.cachefly.net/prod/assets/application/js/lib/jquery/jquery-1.7.2.min.js"></script>
     
     
@@ -33,11 +33,26 @@
         
     <script type="text/javascript">
         var Awl = {
-            sessionId: "w0t1x5bxjbngqbn0bpz5uxap",
-            oldSessionId: "w0t1x5bxjbngqbn0bpz5uxap",
+            sessionId: "fzx2qllw4xr5qwd4rsec1tcs",
+            oldSessionId: "fzx2qllw4xr5qwd4rsec1tcs",
             domainName: "2insure4less.com"
         }
     </script>
+          
+    <!-- Begin comScore Tag -->
+    <script>
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "9544829" });
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=9544829&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
 
     
 	
@@ -66,7 +81,8 @@
 <body id="body-default" class="">
     <form method="post" action="privacy-policy" id="MainForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY5Njg5NzgxNQ9kFgoCBw9kFgJmDxYCHgdWaXNpYmxlaGQCCA9kFgJmDxYCHwBoZAIMD2QWAgICDxYCHwBoZAIUD2QWAmYPFgIfAGhkAhcPZBYGZg8WAh8AaGQCAg8WAh8AaGQCBA8WAh8AaGRkglIWudFDli1J4eLYp7GN9hBDH58=">
-</form>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AE6921F0"></form>
     <div id="main-container" class="">
         <header id="header-container" class="">
             <div id="logo"><a href="/"><img src="~/media/Leadgen/Sites/0-9/2insure4less_com/logo.ashx" alt="2insure4less" width="251" height="44"></a></div><nav id="main-nav"><ul><li><a href="/insurance-quotes">Insurance Quotes</a></li><li><a href="/auto-insurance-quotes">Auto Insurance</a></li><li><a href="/health-insurance-quotes">Health Insurance</a></li><li><a href="/business-insurance-quotes">Business Insurance</a></li></ul></nav>
@@ -131,14 +147,39 @@
 </div>
 
 
+
+
 <script type="text/javascript">
-    $('#cta-button a').live('click', function(e) {
+    $('#cta-button a').on('click', function (e) {
         e.preventDefault();
-        $('#hiddenSubmit').click();
+        var action = $("#getQuote").prop('action');
+        window.open(buildUrl(action));
+        leaveBehind(action);
     });
+
+    $("#getQuote input").keypress(function (event) {
+        if (event.which == 13) {
+            event.preventDefault();
+            var action = $("#getQuote").prop('action');
+            window.open(buildUrl(action));
+            leaveBehind(action);
+        }
+    });
+
+    function leaveBehind(action) {
+        setTimeout(function () {
+            window.location.replace(buildUrl(action.replace('?', '/PreQuoteSubmit?')));
+        }, 20);
+    }
+
+    function buildUrl(target) {
+        var zipCode = $('#zipCode').val();
+        var prePopQueryString = '';
+        var quoteType = $('#quoteType').val();
+        return target + '&quoteType=' + quoteType + '&zipcode=' + zipCode + prePopQueryString;
+    }
+
 </script>
-
-
 
 
 
@@ -257,7 +298,7 @@ If you are not satisfied with our response you can contact <a href="http://watch
         <footer id="footer-container" class="">
             
 <nav id="footer-links">
-    <section id="footer-nav-list-insurance-types" class="first-child"><header><h4>Insurance Quotes</h4></header><ul><li id="footer-nav-list-insurance-types-auto-insurance-quotes" class="nth-child-1 first-child"><a href="/auto-insurance-quotes">Auto Insurance</a></li><li id="footer-nav-list-insurance-types-health-insurance-quotes" class="nth-child-2"><a href="/health-insurance-quotes">Health Insurance</a></li><li id="footer-nav-list-insurance-types-home-insurance-quotes" class="nth-child-3"><a href="/home-insurance-quotes">Home Insurance</a></li><li id="footer-nav-list-insurance-types-life-insurance-quotes" class="nth-child-4"><a href="/life-insurance-quotes">Life Insurance</a></li><li id="footer-nav-list-insurance-types-business-insurance-quotes" class="nth-child-5"><a href="/business-insurance-quotes">Business Insurance</a></li><li id="footer-nav-list-insurance-types-renters-insurance-quotes" class="nth-child-6"><a href="/renters-insurance-quotes">Renters Insurance</a></li><li id="footer-nav-list-insurance-types-disability-insurance-quotes" class="nth-child-7"><a href="/health-insurance-quotes/disability-insurance-quotes">Disability Insurance Quotes</a></li><li id="footer-nav-list-insurance-types-long-term-care-insurance-quotes" class="nth-child-8"><a href="/health-insurance-quotes/long-term-care-insurance-quotes">Long Term  Care Insurance</a></li><li id="footer-nav-list-insurance-types-annuity-quotes-understanding-annuities" class="nth-child-9 last-child"><a href="/life-insurance-quotes/annuity-quotes-understanding-annuities">Annuity Insurance Quotes</a></li></ul></section><section id="" class=""><header><h4>About</h4></header><ul><li id="-privacy-policy" class="nth-child-1 first-child"><a href="/privacy-policy">Privacy Policy</a></li><li id="-terms" class="nth-child-2"><a href="/terms">Terms Of Use</a></li><li id="-testimonials" class="nth-child-3"><a href="/testimonials">Customer Testimonials</a></li><li id="-sitemap" class="nth-child-4"><a href="/sitemap">Sitemap</a></li><li id="-insurance-quotes-process" class="nth-child-5 last-child"><a href="/insurance-quotes-process">Insurance Quotes Process in 4 Simple Steps </a></li></ul></section><section id="footer-nav-list-resources" class=""><header><h4>Resources</h4></header><ul><li id="footer-nav-list-resources-media" class="nth-child-1 first-child"><a href="/media">Media</a></li><li id="footer-nav-list-resources-insurance-quotes-by-state" class="nth-child-2"><a href="/insurance-quotes-by-state">Insurance Quotes By State</a></li><li id="footer-nav-list-resources-faqs" class="nth-child-3"><a href="/faqs">Online Insurance FAQs</a></li><li id="footer-nav-list-resources-how-it-works" class="nth-child-4"><a href="/how-it-works">How It Works</a></li><li id="footer-nav-list-resources-insurance-quotes-blog" class="nth-child-5"><a href="/insurance-quotes-blog">Insurance Quotes Blog</a></li><li id="footer-nav-list-resources-insurance-videos" class="nth-child-6"><a href="/insurance-videos">Insurance Videos</a></li><li id="footer-nav-list-resources-saving-money-on-insurance" class="nth-child-7"><a href="/saving-money-on-insurance">Saving Money On Insurance</a></li><li id="footer-nav-list-resources-finding-the-right-insurance" class="nth-child-8"><a href="/finding-the-right-insurance">Finding the Right  Insurance</a></li><li id="footer-nav-list-resources-insurance-blog" class="nth-child-9"><a href="/insurance-quotes-blog/insurance-blog">Latest Insurance Articles</a></li><li id="footer-nav-list-resources-insurance-leads" class="nth-child-10"><a href="/insurance-leads">Insurance Leads  </a></li><li id="footer-nav-list-resources-Affiliates" class="nth-child-11 last-child"><a target="_blank" href="http://affiliates.usinsuranceonline.com/">Affiliates</a></li></ul></section><section id="" class="last-child"><header><h4>Stay Connected</h4></header><ul><li id="-facebook" class="nth-child-1 first-child"><a target="_blank" href="http://www.facebook.com/2InsureforLess">Facebook</a></li><li id="-twitter" class="nth-child-2 last-child"><a target="_blank" href="http://twitter.com/#!/tips4_insurance">Twitter</a></li></ul></section>
+    <section id="footer-nav-list-insurance-types" class="first-child"><header><h4>Insurance Quotes</h4></header><ul><li id="footer-nav-list-insurance-types-auto-insurance-quotes" class="nth-child-1 first-child"><a href="/auto-insurance-quotes">Auto Insurance</a></li><li id="footer-nav-list-insurance-types-health-insurance-quotes" class="nth-child-2"><a href="/health-insurance-quotes">Health Insurance</a></li><li id="footer-nav-list-insurance-types-home-insurance-quotes" class="nth-child-3"><a href="/home-insurance-quotes">Home Insurance</a></li><li id="footer-nav-list-insurance-types-life-insurance-quotes" class="nth-child-4"><a href="/life-insurance-quotes">Life Insurance</a></li><li id="footer-nav-list-insurance-types-business-insurance-quotes" class="nth-child-5"><a href="/business-insurance-quotes">Business Insurance</a></li><li id="footer-nav-list-insurance-types-renters-insurance-quotes" class="nth-child-6"><a href="/renters-insurance-quotes">Renters Insurance</a></li><li id="footer-nav-list-insurance-types-disability-insurance-quotes" class="nth-child-7"><a href="/health-insurance-quotes/disability-insurance-quotes">Disability Insurance Quotes</a></li><li id="footer-nav-list-insurance-types-long-term-care-insurance-quotes" class="nth-child-8"><a href="/health-insurance-quotes/long-term-care-insurance-quotes">Long Term  Care Insurance</a></li><li id="footer-nav-list-insurance-types-annuity-quotes-understanding-annuities" class="nth-child-9 last-child"><a href="/life-insurance-quotes/annuity-quotes-understanding-annuities">Annuity Insurance Quotes</a></li></ul></section><section id="" class=""><header><h4>About</h4></header><ul><li id="-privacy-policy" class="nth-child-1 first-child"><a href="/privacy-policy">Privacy Policy</a></li><li id="-terms" class="nth-child-2"><a href="/terms">Terms Of Use</a></li><li id="-testimonials" class="nth-child-3"><a href="/testimonials">Customer Testimonials</a></li><li id="-sitemap" class="nth-child-4"><a href="/sitemap">Sitemap</a></li><li id="-insurance-quotes-process" class="nth-child-5 last-child"><a href="/insurance-quotes-process">Insurance Quotes Process in 4 Simple Steps </a></li></ul></section><section id="footer-nav-list-resources" class=""><header><h4>Resources</h4></header><ul><li id="footer-nav-list-resources-media" class="nth-child-1 first-child"><a href="/media">Media</a></li><li id="footer-nav-list-resources-insurance-quotes-by-state" class="nth-child-2"><a href="/insurance-quotes-by-state">Insurance Quotes By State</a></li><li id="footer-nav-list-resources-faqs" class="nth-child-3"><a href="/faqs">Online Insurance FAQs</a></li><li id="footer-nav-list-resources-how-it-works" class="nth-child-4"><a href="/how-it-works">How It Works</a></li><li id="footer-nav-list-resources-insurance-quotes-blog" class="nth-child-5"><a href="/insurance-quotes-blog">Insurance Quotes Blog</a></li><li id="footer-nav-list-resources-insurance-videos" class="nth-child-6"><a href="/insurance-videos">Insurance Videos</a></li><li id="footer-nav-list-resources-saving-money-on-insurance" class="nth-child-7"><a href="/saving-money-on-insurance">Saving Money On Insurance</a></li><li id="footer-nav-list-resources-finding-the-right-insurance" class="nth-child-8"><a href="/finding-the-right-insurance">Finding the Right  Insurance</a></li><li id="footer-nav-list-resources-insurance-blog" class="nth-child-9"><a href="/insurance-quotes-blog/insurance-blog">Latest Insurance Articles</a></li><li id="footer-nav-list-resources-insurance-leads" class="nth-child-10"><a href="/insurance-leads">Insurance Leads  </a></li><li id="footer-nav-list-resources-Affiliates" class="nth-child-11 last-child"><a target="_blank" rel="nofollow" href="http://affiliates.usinsuranceonline.com/">Affiliates</a></li></ul></section><section id="" class="last-child"><header><h4>Stay Connected</h4></header><ul><li id="-facebook" class="nth-child-1 first-child"><a target="_blank" href="http://www.facebook.com/2InsureforLess">Facebook</a></li><li id="-twitter" class="nth-child-2 last-child"><a target="_blank" href="http://twitter.com/#!/tips4_insurance">Twitter</a></li></ul></section>
     <div class="clearfix"></div>
 </nav>
 <div id="footer-logo"><a href="/"><img src="~/media/Leadgen/Sites/0-9/2insure4less_com/footer-logo.ashx" alt="2insure4less" width="241" height="150"></a></div><div id="copyright">© 2005 - 2014 2Insure4Less, all rights reserved. | 7300 FM 2222, Bldg. 2, Suite 100, Austin, TX 78730 | Phone: 512-279-3113</div>
@@ -268,18 +309,17 @@ If you are not satisfied with our response you can contact <a href="http://watch
     
 	<div id="bottom-js">
         
-    <img src="https://quotes.2insure4less.com/session/?wsc=557&amp;webID=306914556&amp;PHPSESSID=w0t1x5bxjbngqbn0bpz5uxap&amp;rusid=1&amp;LeadMasterCreated=true" id="UserSessionBridgePixel" alt="" width="1" height="1">
+    <img src="https://quotes.2insure4less.com/session/?wsc=557&amp;refID=14063&amp;refCampaign=2InsureLP_Tourney_10CPM&amp;brand=12&amp;webID=381288188&amp;PHPSESSID=fzx2qllw4xr5qwd4rsec1tcs&amp;rusid=1&amp;LeadMasterCreated=true" id="UserSessionBridgePixel" alt="" width="1" height="1">
 
 <script type="text/javascript" src="http://awlcontent.cachefly.net/prod/assets/application/js/dynamicreplace.js"></script>
 
 <script type="text/javascript">
     UserSessionInfo = {
         "replacementTargets": [
-            {"tagClass":"geo-city",       "text":"San Francisco"},
-            {"tagClass":"geo-location",       "text":"San Francisco"},
-            {"tagClass":"geo-state",       "text":"California"},
-            {"tagClass":"geo-stateCode",       "text":"CA"},
-            {"tagClass":"geo-zip",       "text":"94118"}
+            {"tagClass":"geo-city",       "text":"Ashburn"},
+            {"tagClass":"geo-location",       "text":"Ashburn"},
+            {"tagClass":"geo-state",       "text":"Virginia"},
+            {"tagClass":"geo-stateCode",       "text":"VA"}
     ]};
     $(document).ready(function() {
 		scriptReplaceTags(["h1", "span"], UserSessionInfo);
@@ -287,14 +327,14 @@ If you are not satisfied with our response you can contact <a href="http://watch
 </script>
 
 <script type="text/javascript">
-    replaceQuoteLinks("https://quote.2insure4less.com", "w0t1x5bxjbngqbn0bpz5uxap", "/launch/", false, "");
+    replaceQuoteLinks("https://quote.2insure4less.com", "fzx2qllw4xr5qwd4rsec1tcs", "/launch/", true, "");
 </script>
 
         
         <script type="text/javascript">
             $(document).ready(function () {
                 $("a").each(function () {
-                    var sessionId = "w0t1x5bxjbngqbn0bpz5uxap";
+                    var sessionId = "fzx2qllw4xr5qwd4rsec1tcs";
                     if (sessionId.length > 0) {
                         if (this.href.indexOf("as=") >= 0) return true;
                         if (this.href.indexOf("truste.com") >= 0) return true;
@@ -305,8 +345,10 @@ If you are not satisfied with our response you can contact <a href="http://watch
                 });
                 $("#getQuote").each(function () {
                     
-                        var sessionId = "w0t1x5bxjbngqbn0bpz5uxap";
-                        this.action += (this.action.indexOf("?") >= 0 ? "&" : "?") + "as=" + sessionId;
+                        if (typeof QuoteX == "undefined") {
+                            var sessionId = "fzx2qllw4xr5qwd4rsec1tcs";
+                            this.action += (this.action.indexOf("?") >= 0 ? "&" : "?") + "as=" + sessionId;
+                        }
                     
                     
                 });
