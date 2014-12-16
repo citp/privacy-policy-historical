@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forum-software.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214143435id_/http%3A//www.forum-software.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forum-software.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216024618id_/http%3A//www.forum-software.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forum Software Reviews
 
