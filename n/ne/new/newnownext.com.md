@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the newnownext.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519012527id_/http%3A//www.newnownext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnownext.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216015403id_/http%3A//relaunch.newnownext.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NewNowNextNewNowNext
+# Privacy Policy // NewNowNext
 
 ## Privacy Policy & Your California Privacy Rights
 
-_Last modified: December 23, 2013_
+_Click here to learn about the most recent significant updates._
+
+_Last modified: August 15, 2014_
 
 Go to **[Terms of Use Agreement](http://www.newnownext.com/terms-of-use/ "NNN Terms of Use Agreement")**.
 
@@ -57,7 +59,7 @@ We use Tracking Technologies to help tailor our content, allow users to move bet
 
 By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you.
 
-This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “Third Party Advertising Service Providers”) to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (“Targeting Services”). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
+This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “Third Party Advertising Service Providers”) to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (“Targeting Services”). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.See Section 4(b)(i) for more information on this Site’s use of Nielsen’s proprietary measurement software to collect and use video viewing metrics and other information.
 
 These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
 
@@ -114,6 +116,7 @@ For other purposes disclosed at the time you provide the Other Information.
   * Third Party Advertising Service Providers and Advertisers may collect Other Information about you when you visit this Site to help identify products and services that may interest you and deliver advertising tailored to your interests.
   * You can opt-out of the use of Other Information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe AudienceManager (formerly known as Demdex) and DoubleClick/Google, by using those Third Party Advertising Service Providers' opt-out tools. You can access Adobe Audience Manager/Demdex's tool at <http://www.donottarget.com/> and DoubleClick's tool at <http://isaaccesstest.test.com/intl/en/privacy/ads/> or as described in the next bullet point.
   * We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Other Information on the Site. Some of these Third Party Advertising Service Providers and Advertisers may participate in the Network Advertising Initiative's Opt-Out Tool [<http://www.networkadvertising.org/managing/opt_out.asp>] and/or the Self Regulatory Program for Online Behavioral Advertising [<http://www.aboutads.info/choices/>] Please click on the links to these tools to learn more about your choices.
+  * Nielsen Measurement: The player on this website may feature Nielsen’s proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen’s digital measurement privacy policy. For more information about Nielsen’s measurement software, see <http://www.nielsen.com/digitalprivacy> and see the “Choices” section of that digital measurement privacy policy to learn about your choices with respect to Nielsen’s measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options.
   * Please note the following with respect to opting out:
 
 
@@ -228,7 +231,7 @@ While no data transmission over the Internet is 100% secure from intrusion, we m
 
 NewNowNext.com  
 c/o Privacy Administrator  
-1540 Broadway, 31st Floor  
+1515 Broadway, 29th Floor  
 New York, NY 10036
 
 ### 9\. Your California Privacy Rights.
@@ -239,7 +242,7 @@ If you are a California resident and request information about how to exercise y
 
 NewNowNext.com  
 c/o Privacy Administrator  
-1540 Broadway, 31st Floor  
+1515 Broadway, 29th Floor  
 New York, NY 10036
 
 **All requests must be labeled “Your California Privacy Rights” on the email subject line or envelope or post card.**  For all requests, please clearly state that the request is related to “Your California Privacy Rights”, include your name, street address, city, state, zip code and e-mail address. (Your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). **We will not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
@@ -259,7 +262,7 @@ Further, if you use any of the Communities features and functions made available
 **b. Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to the Site’s Privacy Administrator at [logoproducer@gmail.com](mailto:logoproducer@gmail.com), or by sending a letter to:
 
 NewNowNext.com  
-1540 Broadway  
+1515 Broadway, 29th Floor  
 New York, NY 10036  
 c/o Privacy Administrator
 
@@ -268,4 +271,4 @@ c/o Privacy Administrator
 **d. Other:** Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2013 Viacom Media Networks, a division of Viacom International Inc. – All Rights Reserved.
+Copyright © 2014 Viacom Media Networks, a division of Viacom International Inc. – All Rights Reserved.
