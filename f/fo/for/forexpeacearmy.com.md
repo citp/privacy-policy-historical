@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexpeacearmy.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429093229id_/http%3A//www.forexpeacearmy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexpeacearmy.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216043543id_/http%3A//www.forexpeacearmy.com/privacy) for the most accurate reproduction.*
 
 # ForexPeaceArmy Privacy Policy
 
@@ -31,6 +31,12 @@ Advertisements
 
 > A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
+> #### Note regarding Google Analytics Advertising Features
+
+> To better understand who our users are we enabled "Demographics and Interest Reports" - the part of Google Analytics Advertising Features. Google Analytics does not collect any Personally Identifiable Information including (but not limited to) names, email addresses or billing information. 
+> 
+> ForexPeaceArmy.com users that don't want their data reported by the Google can install the Google Analytics opt-out browser add-on available [here >>](https://tools.google.com/dlpage/gaoptout)
+
 > #### Links to other websites
 
 > Our website contains links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
@@ -52,6 +58,3 @@ Advertisements
 > In order to defend the integrity of the Forex Peace Army's forums and reviews, we reserve the right reveal the location information and IP of any site users who engage in the following activities: Violating site rules by promoting products or services in the forums outside of areas that explicitly permit commercial postings (SPAM), company representatives posting as if they are customers, company representatives providing potentially misleading location information, users found to be controlling multiple forums account without prior authorization from Forex Peace Army management.
 > 
 > Per Forex Peace Army policy, any legal threats made against the Forex Peace Army by any means may be published in part or in whole. We reserve the right to edit these, and may include the name, IP, location, and other contact information of the person making the threat. We are always willing to discuss how to deal with any incorrect information that may get posted on our site. Please use the "Contact Us" link and open a civilized dialog with us instead of making threats.
-
-|  |  |  |  |  |   
----|---|---|---|---|---
