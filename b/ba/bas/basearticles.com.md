@@ -1,50 +1,70 @@
-> *The following text is extracted and transformed from the basearticles.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327063402id_/http%3A//www.basearticles.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basearticles.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217000135id_/http%3A//www.basearticles.com/privacy.php) for the most accurate reproduction.*
 
-# Base Articles | Free Articles Directory, Free Reprint Articles
+# Base Articles | Free Articles Directory, Free Social Media Publishing
 
-We at Basearticles.com treasure your loyalty so we make sure that we protect your privacy. BaseArticles.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+This Privacy Policy governs the manner in which Base Articles collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.basearticles.com](http://www.basearticles.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Base Articles.
 
-The privacy policy of Basearticles.com is exclusive to our website, and does not apply nor guarantee the privacy policies of the people we deal with, including writers who contribute in our article directories, employees, and the people and companies that we deal with through our article directories site. 
+ **Personal identification information**
 
-### How we gather information from users
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, BaseArticles.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
+ **Non-personal identification information**
 
-### What we do with the information we collect
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.  
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+ **Web browser cookies**
 
-We may use Personally Identifiable Information collected on www.BaseArticles.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.BaseArticles.com and other topics we think you might find of interest.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Personally Identifiable Information collected by BaseArticles.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+ **How we use collected information**
 
-Basearticles.com subscribes to the ethics of online marketing by allowing our partners to opt-in for any of our services that they want to receive. It is only after we have received an email reply from you that we start sending you our offers and announcements. We believe in transparency in all our dealings so expect to see a valid email address in all our communications. All communications will also come with a link, in case you want to unsubscribe from our list. 
+Base Articles may collect and use Users personal information for the following purposes:
 
-### Affiliated sites, linked sites and advertisements
+  * To improve customer service
+    * Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize user experience
+    * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site
+    * We may use feedback you provide to improve our products and services.
+  * To process payments
+    * We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * To run a promotion, contest, survey or other Site feature
+    * To send Users information they agreed to receive about topics we think will be of interest to them.
+  * To send periodic emails
+    * We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-BaseArticles.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.BaseArticles.com page, certain content that is actually created or hosted by a third party. Also, through BaseArticles.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. BaseArticles.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+**How we protect your information**
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. BaseArticles.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of BaseArticles.com and this policy. 
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-### Children
+**Sharing your personal information**
 
-BaseArticles.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe BaseArticles.com has any information from or about anyone under 13, please contact us at the address listed below. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-### Contacting Us
+ **Third party websites**
 
-We can be reached by emailing us through contact us page. 
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-### Changes to this Policy
+ **Advertising**
 
-BaseArticles.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-### Governing law
+ **Google Adsense**
 
-This policy and the use of this Site are governed by laws of Ontario. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Toronto. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Toronto, under the rules of the Canadian Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+**Changes to this privacy policy**
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party,
+Base Articles has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+ **Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+ **Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [contact@basearticles.com](mailto:contact@basearticles.com)
+
+This document was last updated on **May 27, 2014**
