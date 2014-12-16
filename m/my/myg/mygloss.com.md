@@ -1,32 +1,57 @@
-> *The following text is extracted and transformed from the mygloss.com privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314153838id_/http%3A//mygloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygloss.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216122037id_/http%3A//mygloss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | myGLOSS.com
+# Privacy Policy | Natural Cosmetics Brands
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+1\. Our Commitment to Privacy. This notice describes our Privacy Policy. Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy.
 
-**Collection of Personal Information**
+2\. What Information is Collected.
 
-When visiting MyGloss, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+(a) Information You Provide to Us:
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+We collect the Personally Identifiable Information you choose to enter on various pages of our site, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our site, sign up for newsletters or mailings, or make a purchase.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+The categories of Personally Identifiable Information we collect are your first and last name, e-mail address, physical address, and telephone number.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+You can choose not to provide certain information, but you may not be able to take advantage of our services and features.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, MyGloss has no access or control over these cookies that may be used by third party advertisers.
+(b) Automatic Information:
 
-**Our Commitment To Childrens Privacy**
+When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site.
 
-Protecting the privacy of the very young is especially important. For that reason, MyGloss will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.  
-Under our Terms of Service, children under 18 are not allowed to access our service.
+(c) “Cookies”:
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
+Cookies are pieces of information that are transferred to your computer from a web server.
 
-If you have any questions regarding the privacy policy of MyGloss then you may contact us at feedback@mygloss.com
+We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
-Last updated Sat, 22 Aug 2009 02:38
+Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies.
+
+3\. How and When the Information is Used. The information we collect is used for administering our business activities as follows:
+
+(a) to improve the content of our site;
+
+(b) to customize the content and/or layout of site pages for each individual visitor;
+
+(c) used to notify consumers about updates to our Web site;
+
+(d) shared with other reputable organizations to help them contact consumers for marketing purposes;
+
+(e) used by us to contact consumers for marketing purposes.
+
+4\. How We Protect Your Information. The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy.
+
+5\. Who Has Access to the Information. Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure.
+
+6\. Methods We Use to Protect Your Information. We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons.
+
+7\. Children. This website does not provide services or sell products to children under the age of 18. If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below.
+
+8\. How You Can Access Your Information. You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below.
+
+9\. Consent. By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
+
+10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
+
+11\. Effective Date. This Privacy Policy is effective as of August 26, 2013.
+
+12\. Contact E-Mail. You may contact us concerning this Privacy Policy by using any of the contact options show on this site.
