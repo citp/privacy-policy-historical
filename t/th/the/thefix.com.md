@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330100748id_/http%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216173703id_/http%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Fix
+
+  1. [Home](https://web.archive.org/)
+  2. Privacy Policy
+
+
+
+Submitted by Allison Floam on Fri, 03/25/2011 - 17:04 
 
 **Last Updated: March 8, 2011**
 
