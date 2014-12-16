@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the marketingrebel.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601230805id_/http%3A//www.marketingrebel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingrebel.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216171600id_/http%3A//www.marketingrebel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Marketing Rebel
+# Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
-**We recognizes the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
+We recognizes the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
 **Sharing and Selling Information**
 
-We **do not** share, trade, rent, lend, lease, or sell any of the information that uniquely identify a subscriber (such as email addresses or personal details) to or with anyone except to the extent it is necessary to process transactions or provide services that you have requested. **We hate junk email, too.**
+We do not share, trade, rent, lend, lease, or sell any of the information that uniquely identify a subscriber (such as email addresses or personal details) to or with anyone except to the extent it is necessary to process transactions or provide services that you have requested. We hate junk email, too.
 
 **Choice/Opt-In/Opt-Out**
 
-If you choose to provide us your email address, we may at times email you information and/or offers we think you might find interesting.  You can Opt-Out / Unsubscribe from these emails at any time and you will not receive future messages.  Every email we send comes with an Opt-Out / Unsubscribe link.  Click that link, and we will discontinue sending you messages as soon as technically feasible.
+If you choose to provide us your email address, we may at times email you information and/or offers we think you might find interesting. You can Opt-Out / Unsubscribe from these emails at any time and you will not receive future messages. Every email we send comes with an Opt-Out / Unsubscribe link. Click that link, and we will discontinue sending you messages as soon as technically feasible.
 
 **What Information Do We Collect?**
 
@@ -30,7 +30,7 @@ If you choose to correspond with us through email, we may retain the content of 
 
 **Credit Card Information**
 
-We do not collect or store any credit card information.  We use secure 3rd party vendors, such as PayPal, to process payments.  They do not share any of your credit card information with us.  They just tell us if your payment was successfully processed.
+We do not collect or store any credit card information. We use secure 3rd party vendors, such as PayPal, to process payments. They do not share any of your credit card information with us. They just tell us if your payment was successfully processed.
 
 **2\. Web Site Use Information**
 
@@ -46,7 +46,7 @@ Occasionally, we may also use the information we collect to notify you about imp
 
 **What Are Cookies?**
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users who allow cookies.  **A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.**
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users who allow cookies. **A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.**
 
 **How Do We Use Information We Collect from Cookies?**
 
@@ -58,7 +58,7 @@ IP addresses are used by your computer every time you are connected to the Inter
 
 **How Can You Access and Correct Your Information?**
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us.  However, the only personally identifiable information we might have would be your first name and email address, so we don’t see the point.
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us. However, the only personally identifiable information we might have would be your first name and email address, so we don’t see the point.
 
 **What About Legally Compelled Disclosure of Information?**
 
@@ -91,8 +91,8 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 **Policy Modifications**
 
-We may change this Privacy Policy from time to time.  We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
 This policy was created February 26, 2006.
 
-If you have any questions or concerns regarding our privacy policy please go to   [www.MarketingRebelSupport.com](http://www.marketingrebelsupport.com/) and open a ticket.
+If you have any questions or concerns regarding our privacy policy please go to [www.MarketingRebelSupport.com ](http://marketingrebelsupport.com%20/)and open a ticket.
