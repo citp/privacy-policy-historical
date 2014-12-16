@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504235227id_/http%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216142425id_/http%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
 
 # Georgia-Pacific Privacy Notice
 
