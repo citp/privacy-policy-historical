@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankbazaar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150853id_/http%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankbazaar.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216045921id_/http%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Commitment - BankBazaar.com
 
@@ -146,3 +146,5 @@ BankBazaar.com (A & A Dukaan Financial Services Private Limited),
 Chennai - 600006,India
 
 Phone: +91-44-66511800-99 
+
+reTH65gcmBgCJ7k - pingdom check string. 
