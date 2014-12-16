@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberhumor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105730id_/http%3A//uberhumor.com/new-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberhumor.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216145941id_/http%3A//uberhumor.com/new-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Funny Pictures, Quotes, Pics, Photos, Images. Videos of Really Very Cute animals.
 
