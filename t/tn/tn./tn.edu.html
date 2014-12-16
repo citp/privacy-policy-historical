@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the tn.edu privacy policy that was archived on 2013-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210205423id_/http%3A//www.southwest.tn.edu/policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tn.edu privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216012040id_/http%3A//www.southwest.tn.edu/policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!-- InstanceBegin template="/Templates/Template.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width">
  
@@ -22,9 +23,15 @@
 <!-- Blackberry ... maybe -->
 <link href="/css/phone.css" rel="stylesheet" type="text/css" media="handheld">
 <!-- for jQueryUI -->
-<link href="/css/jqueryUI/custom.css" rel="stylesheet" type="text/css">
+<!--<link href="/css/jqueryUI/custom.css" rel="stylesheet" type="text/css" />-->
 <!-- old stuff brought over from the previous version of the site -->
 <link href="/css/legacy.css" rel="stylesheet" type="text/css">
+<!-- Megamenu Styling -->
+<link href="/css/megamenu.css" rel="stylesheet" type="text/css">
+<!--New Jquery UI CSS-->
+<link href="/css/jquery-ui.css" rel="stylesheet" type="text/css">
+<!-- Old Custom Jquery UI -->
+<link rel="stylesheet" type="text/css" href="/css/jqueryUI/custom.css">
 
 <!--[if gte IE 8]>
 <link href="/css/desktop.css" rel="stylesheet" type="text/css">
@@ -42,42 +49,41 @@ text-align:center; line-height:100%; font-size: .9em; color:#fff;
 }
 </style>
 
+
 <!--jQuery elements -->
-<script type="text/JavaScript" src="/js/jquery-1.6.1.min.js"></script>
-<script type="text/JavaScript" src="/js/jquery-ui-1.8.13.custom.min.js"></script>
-<script type="text/JavaScript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/scripts.js"></script><!--  Newest Global jQuery -->
+<!--Commented Out as of 20March 2014 to see if needed -->
+<!--<script type="text/JavaScript" src="/js/jquery-1.6.1.min.js"></script>-->
+<!--<script type="text/JavaScript" src="/js/jquery-ui-1.8.13.custom.min.js"></script>-->
+<!--<script type="text/JavaScript" src="/js/jquery.cookie.js"></script>-->
+
+<!--Add This Individually Where needed -->
+<!--<script type="text/JavaScript" src="/js/backToTop.js"></script>-->
+
 <script type="text/JavaScript" src="/js/courseLib.js"></script>
 <script type="text/javascript" src="/js/jClassConstructor.js"></script>
 <script type="text/JavaScript" src="/js/extendga.js"></script>
 <script type="text/JavaScript" src="/js/CSSurvey.js"></script>
 
-<script type="text/javascript"><!--//--><![CDATA[//><!--
-
-$(document).ready(function(){
-   $("#nav > li > ul").fadeOut("fast");
-   $("#nav li").hover(
-      function(){ $(this).find("ul:first").fadeIn("fast"); }, 
-      function(){ $(this).find("ul:first").fadeOut("fast"); } 
-   );
-   if (document.all) {
-      $("#nav li").hoverClass ("sfHover");
-   }
+<!-- Megamenu Javascript -->
+<script>
+$(document).ready(function($){
+    $('.megamenu').megaMenuCompleteSet({
+        menu_speed_show : 300, // Time (in milliseconds) to show a drop down
+        menu_speed_hide : 200, // Time (in milliseconds) to hide a drop down
+        menu_speed_delay : 200, // Time (in milliseconds) before showing a drop down
+        menu_effect : 'hover_fade', // Drop down effect, choose between 'hover_fade', 'hover_slide', etc.
+        menu_click_outside : 1, // Clicks outside the drop down close it (1 = true, 0 = false)
+        menu_show_onload : 0, // Drop down to show on page load (type the number of the drop down, 0 for none)
+        menu_responsive:1 // 1 = Responsive, 0 = Not responsive
+    });
 });
-$.fn.hoverClass = function(c) {
-   return this.each(function(){
-      $(this).hover( 
-         function() { $(this).addClass(c);  },
-         function() { $(this).removeClass(c); }
-      );
-   });
-};
-/* Code found at: http://be.twixt.us/jquery/suckerFish.php
-Date: unknown
-Tweaked by: Ethan Kent - http://www.ethanmultimedia.com/
-For jQuery version: 1.2.6
-Date: June 19th, 2008
-*/
-//--><!]]></script>
+</script>
+<!-- End of Megamenu Javascript -->
+
+<!-- Start of Jquery that powers the lower accordion and tabs -->  
+	<script src="/js/jquery-ui.js"></script> 
+<!-- End of Jquery that powers the lower accordion and tabs -->
 
 <!-- InstanceBeginEditable name="head2" --><!-- InstanceEndEditable -->
 </head>
@@ -95,230 +101,629 @@ Date: June 19th, 2008
 <div class="container">
 
 <!-- begin .header -->
-<div id="header-container">
-  <div class="header">
+<div class="header">
 
-<div id="searchContainer"><a href="/events/">Calendar</a> · <a href="http://elearn.southwest.tn.edu">Paws</a> · <a href="search.htm">Search</a> · <a href="http://connect.southwest.tn.edu/">Webmail</a><br>
-  <a href="http://my.southwest.tn.edu"><img src="images/MySouthwest.gif" alt="My.Southwest Online Services" style="border:none;" id="TopMySouthwestButton"></a>
+<a href="/"><img src="/images/swLogo.png" alt="Southwest Tennessee Community College" id="Logo"></a>
+
+<div id="searchContainer"><a href="a-z.htm">A-Z Listing</a> · <a href="/events/">Calendars</a> · <a href="http://elearn.southwest.tn.edu">Paws</a> · <a href="search.htm">Search</a> · <a href="http://connect.southwest.tn.edu/">Webmail</a><br>
+  <!--<a href="http://my.southwest.tn.edu"><img src="../images/MySouthwest.gif" alt="My.Southwest Online Services" style="border:none;" id="TopMySouthwestButton" />-->
+  <a href="ApplyOnline.htm"><img src="images/applyNow.png" alt="Apply Now Graphic" title="Apply Now Graphic" class="applyPortalButton"></a>
+  <a href="http://my.southwest.tn.edu/" target="_blank" title="LINK Opens in a new window"><img src="images/mySwButton.png" alt="My Southwest College Portal" title="My Southwest College Portal" class="applyPortalButton"></a>
 </div>
 
-<a href="/"><img src="images/swLogo.png" alt="Southwest Tennessee Community College" id="Logo"></a> 
-  <!-- end top.header -->
  
-<div id="topNavBar"><a id="MainNav"></a>
-<ul id="nav">
-  <li><a href="/ce/Community.htm">Community</a>
-      <ul>
-      <li><a href="/crm/">Communications and Marketing</a></li>
-      <li><a href="/Consumer/default.htm">Consumer Information</a></li>
-      <li><a href="/ce/">Continuing Education and Business Training Services</a></li>	
-      <li><a href="/crossroads/">Crossroads</a></li>  	  
-	  <li><a href="/partnerships/dualenrol.htm">Dual Enrollment</a></li>
-      <li><a href="/extended/">Extended Programs</a></li>
-      <li><a href="/facilities/">Facility Use</a></li>
-	  <li><a href="/construction/new_construction.htm">New Construction</a></li>  
-      <li><a href="/partnerships/tech_prep.htm">Tech Prep</a></li>
-      <li><a href="/tecta/">TECTA</a></li>
-      <li><a href="/testing/">Testing</a></li>
-    </ul>
-  </li>
+  <!-- end .header -->
+ 
+<!--<div id="topNavBar"><a id="MainNav"></a>
+
+</div>--> <!-- End of Old Menu -->
+
+<!--Beginning of Megamenu -->
+<div class="megamenu_container megamenu_dark_bar megamenu_light"><!-- Begin Menu Container -->
+
+        <ul class="megamenu"><!-- Begin Mega Menu -->
+           
+
+            <li class="megamenu_button"><a href="#_">Site Navigation</a></li>
+
+        
+            <li><a href="#_" class="megamenu_drop">About Southwest</a><!-- Begin Item -->
+            
+            
+                <div class="dropdown_fullwidth"><!-- Begin Item Container -->
+                
+            
+                    <div class="col_12">
+
+                        <h1>Southwest: It's Your Best Choice</h1>
+                        <hr>
+
+                    </div>
+
+                    <div class="col_3">
+
+                        <p class="megaH3">About</p>
+                        <ul>
+                        	<li><a href="/a-z.htm">A-Z Listing</a></li>
+                        	<li><a href="/about.htm">Administration</a></li>
+                            <li><a href="/about.htm">Advantages</a></li>
+							<li><a href="/mission_statement.htm">Mission and Vision</a></li>
+							<li><a href="/essex_welcome.htm">President's Welcome</a></li>
+                            <li><a href="/documents/CommunicationsMarketing/FastFactsFeb2014.pdf">Fast Facts</a></li>
+                          <li><a href="/alumni/">Alumni Testimonials</a></li>
+							<li><a href="/locations.htm">Site Locations</a></li>
+                            <li><a href="/foundation/OnlineGivingOpen.htm">Give to Southwest</a></li>
+                            <li><a href="/construction/new_construction.htm">New Construction</a></li>
+                            <li><a href="/events/press-releases/">Press Releases</a></li>
+                            <li><a href="/futurestudents/campusVisit.htm">Schedule a Campus Visit</a></li>
+                          <li><a href="/events/">Southwest News</a></li>
+                          <li><a href="http://eas.southwest.tn.edu/plansys/v8/docs/Str_Goals_Summary-for_2014-15.pdf" target="_blank" title="Link opens in a new window">Strategic Plan</a></li>
+                          <li><a href="/cashier/tuition.htm">Tuition</a></li>		
+                      </ul>
+
+                    </div>
+                    
+                    <div class="col_3">
+
+                         <p class="megaH3">Resources</p>
+                        <ul>
+                        <li><a href="/catalog/">Academic Catalog</a></li>
+                            <li><a href="/Consumer/">Consumer Information</a></li>
+                            <li><a href="/currentstudents/">Current Students</a></li>
+                            <li><a href="https://mafa1033ssbp.southwest.tn.edu/PROD/bwpkedir.P_DisplayDirectory" target="_blank" title="Link opens in a new window">Directory</a></li>
+                            <li><a href="http://jobs.southwest.tn.edu/" target="_blank" title="Links opens in a new window">Employment</a></li>
+                          	<li><a href="/events/">Event Calendars</a></li>
+							<li><a href="/facilities/">Facility Usage and Rental</a></li>
+                            <li><a href="/futurestudents/">Future Students</a></li>
+                            <li><a href="/hr/">Human Resources</a></li>
+                            <li><a href="/library/">InfoNet Library</a></li>
+						  <li><a href="http://my.southwest.tn.edu/" target="_blank" title="Links opens in a new window">My.Southwest</a></li>
+                            <li><a href="/documents/Policy_Manual/">Policy Manual</a></li>
+                            <li><a href="https://eas.southwest.tn.edu/mycampus/redirect_mycampus.aspx" target="_blank" title="Links opens in a new window">Self Service</a></li>
+                            <li><a href="/counseling/Transfer.htm">Transfer Programs</a></li>	
+                          	
+                      </ul>
+
+                    </div>
+
+                    <div class="col_6">
+                    
+
+                      <img src="/images/megamenu/southwestView.jpg" alt="Southwest Tennessee Community College Macon Cove Campus" title="Southwest Tennessee Community College Macon Cove Campus" class="imgborder"> 
+                      
+                    </div>
+				<div class="col_12">
+					<hr>
+                        <p style="text-align: center;"><em>If you cannot locate the information you are looking for please visit the <a href="a-z.htm">A-Z Listing</a>.</em></p>
+                        
+
+                  </div>
+                          
+                
+              </div><!-- End Item Container -->
+                
+            
+            </li><!-- End Item -->
+ 
+            
+            
+            
+            <li><a href="#_" class="megamenu_drop">Academics</a><!-- Begin Item -->
+            
+            
+               <div class="dropdown_fullwidth"><!-- Begin Item Container -->
+                
+            
+                    <div class="col_12">
+
+                        <h1>Academic Areas</h1>
+                        <hr>
+
+                    </div>
+
+                    <div class="col_3">
+
+                        <!--<h3></h3>-->
+                        <ul>
+							<li><a href="/accountancy/">Accountancy</a></li>
+                            <li><a href="/aiit/"><abbr title="Advanced Integrated Industrial Technology">(AIIT)</abbr> Industrial Technology </a></li>
+                            <li><a href="/allied_health/">Allied Health</a></li>
+                            <li><a href="/architectural/">Architectural Engr Tech</a></li>
+                            <li><a href="/automotive/">Automotive Service</a></li>
+                            <li><a href="/biotech/">Biotechnology</a></li>
+                            <li><a href="/FastTrackManagement/">Business Management (Fast Track)</a></li>
+                            <li><a href="/computer/">Computer Engr Tech</a></li>
+                            <li><a href="/ce/">Corporate Training &amp; Continuing Education</a></li>
+                            <li><a href="/court_rt/">Court Reporting</a></li>
+                            <li><a href="/crim_just/">Criminal Justice</a></li>
+                            <li><a href="/culinary/">Culinary Institute</a></li>
+                            <li><a href="/dietetic/">Dietetic Technician</a></li>
+                      </ul>
+
+                    </div>
+                    
+                    <div class="col_3">
+
+                         <!--<h3>Non-traditional</h3>-->
+                        <ul>
+                                                        <li><a href="http://catalog.southwest.tn.edu/content.php?catoid=12&amp;navoid=324">Directory of Programs</a></li>
+                            <li><a href="https://deit.southwest.tn.edu/" target="_blank" title="LINK OPENS IN NEW WINDOW">Distance Education</a></li>
+                            <li><a href="/electrical/">Electrical Engr Tech</a></li>
+                            <li><a href="/electronics/">Electronic Technology</a></li>
+                            <li><a href="/emt/"><abbr title="Emergency Medical Technology">EMT</abbr></a></li>
+                            <li><a href="/engineering/">Engineering Technologies</a></li>
+                            <li><a href="/FastTrackManagement/">Fast Track Programs</a></li>
+                            <li><a href="/flex/">FLEX Term</a></li>
+                            <li><a href="http://catalog.southwest.tn.edu/content.php?catoid=12&amp;navoid=352">General Education</a></li>
+                            <li><a href="/graphart/">Graphic Arts Technology</a></li>
+                            <li><a href="/honors/">Honors Academy</a></li>
+                            <li><a href="/hospitality/">Hospitality Management</a></li>
+							<li><a href="/it/">Information Technology</a></li>
+                            <li><a href="/intStudies/">International Studies</a></li>
+                      </ul>
+
+                    </div>
+
+                    <div class="col_3">
+
+                         <!--<h3>Arts and Sciences</h3>-->
+                        <ul>
+                            <li><a href="/langlit/">Languages and Literature</a></li>
+                            <li><a href="/math/">Mathematics</a></li>
+                            <li><a href="/mechanical/">Mechanical Engr Tech</a></li>
+                          <li><a href="/mlt/">MLT/Phlebotomy</a></li>
+                          <li><a href="/nscience/">Natural Sciences</a></li>
+                            <li><a href="/nursing/">Nursing</a></li>
+                            <li><a href="/office_admin/">Office Technology</a></li>
+                            <li><a href="/paralegal/">Paralegal Studies</a></li>
+                            <li><a href="/pharmacy/">Pharmacy Technician</a></li>
+                          <li><a href="/pta/">Physical Therapy Assistant (PTA)</a></li>
+                            <li><a href="/radiology/">Radiologic Technology</a></li>
+                            <li><a href="/service/">Service Learning</a></li>
+                            <li><a href="/intStudies/">Study Abroad</a></li>
+                          <li><a href="/perkins/">Tech Prep/Perkins IV-Tech Prep</a></li>
+                            
+                            
+
+
+                      </ul>
+
+                    </div>
+
+<div class="col_3">
+
+                         <p class="megaH3">Academic Resources</p>
+                        <ul>
+							<li><a href="/events/">Academic Calendar</a></li>
+                            <li><a href="/catalog/">Academic Catalog</a></li>
+                            <li><a href="/admissions/">Admissions</a></li>
+                            <li><a href="/counseling/">Advising and Counseling</a></li>
+                          <li><a href="/ApplyOnline.htm">Apply Online</a></li>
+                            <li><a href="/schedule/">Course Schedules</a></li>
+                            <li><a href="/currentstudents/">Current Students</a></li>
+                            <li><a href="/financial_aid/">Financial Aid</a></li>
+                            <li><a href="/futurestudents/">Future Students</a></li>
+                            <li><a href="/international/">International Students</a></li>
+                            <li><a href="/registration/">Registration</a></li>
+                            <li><a href="/counseling/Transfer.htm">Transfer Programs</a></li>
+                      </ul>
+
+                    </div>
+<div class="col_12">
+					<hr>
+                        <p style="text-align: center;"><em>If you cannot locate the information you are looking for please visit the <a href="a-z.htm">A-Z Listing</a>.</em></p>
+                        
+
+                  </div>
+                          
+                
+                </div><!-- End Item Container -->
+                
+            
+            </li><!-- End Item --> 
+            
+            <li><a href="#_" class="megamenu_drop">College Services</a><!-- Begin Item -->
+            
+            
+                <div class="dropdown_fullwidth"><!-- Begin Item Container -->
+                
+            
+                    <div class="col_12">
+
+                        <h1>College Services</h1>
+                        <hr>
+
+                    </div>
+
+                    <div class="col_3">
+
+                        <!--<h3></h3>-->
+                        <ul>
+                        <li><a href="/bookstore/">Bookstore</a></li>
+                        <li><a href="/cafeteria/">Cafeteria</a></li>
+                        <li><a href="/childcare/">Campus Child Care</a></li>
+                        <li><a href="/career-services/">Career Services</a></li>
+                        <li><a href="/cashier/">Cashier's Office</a></li>
+                        <li><a href="/ems/">Emergency Messaging System</a></li>
+                      </ul>
+                      
+                    </div>
+                    
+                    <div class="col_3">
+
+                         <!--<h3></h3>-->
+                        <ul>
+                        	<li><a href="/facilities/">Facility Usage and Rental</a></li>
+                            <li><a href="/financial_aid/">Financial Aid</a></li>
+                            <li><a href="/library/">InfoNet Library</a></li>
+                            <li><a href="/infosys/">Information Technology Services</a></li>
+                            <li><a href="/retention/">Office of Retention/Graduation</a></li>
+                            <li><a href="/clubs/">Student Activities</a></li>
+                      </ul>
+
+                    </div>
+
+                    <div class="col_3">
+
+                         <!--<h3></h3>-->
+                        <ul>
+							
+                          <li><a href="/dss/">Student Disability Services</a></li>
+                            <li><a href="https://eas.southwest.tn.edu/request/stutech/student-request.aspx" target="_blank" title="Link opens in a new window">Student Technical Support Request</a></li>
+                            <li><a href="/testing/">Testing Center</a></li>
+                            <li><a href="/veterans/">Veterans Affairs</a></li> 
+                      </ul>
+
+                    </div>
+
+<div class="col_3">
+
+                         <p class="megaH3">Student Support</p>
+                        <ul>
+							<li><a href="/asc/">Academic Support Center</a></li>
+                            <li><a href="/crossroads/">Crossroads</a></li>
+                            <li><a href="/most/"><abbr title="Men of Southwest Tennessee">M.O.S.T.</abbr></a></li>
+                            <li><abbr title="Southwest Mentors Advancing Retention, Teamwork, and Success"><a href="/retention/SMARTS/">SMARTS</a></abbr></li>
+                            <li><a href="/ssc/">Student Success Center</a></li>
+                          <li><abbr title="Tennessee Early Childhood Training Alliance"><a href="/tecta/">TECTA</a></abbr></li>
+                            <li><a href="/upward/">Upward Bound</a></li>
+                      </ul>
+
+                    </div>
+                    
+                    <div class="col_12">
+					<hr>
+                        <p style="text-align: center;"><em>If you cannot locate the information you are looking for please visit the <a href="a-z.htm">A-Z Listing</a>.</em></p>
+                        
+
+                  </div>
+
+                          
+                
+                </div><!-- End Item Container -->
+                
+            
+            </li><!-- End Item -->
+                      
+            
+            <li><a href="#_" class="megamenu_drop">Student Services</a><!-- Begin Item -->
+            
+            
+                <div class="dropdown_fullwidth"><!-- Begin Item Container -->
+                
+            
+                    <div class="col_12">
+
+                        <h1>Student Services</h1>
+                        <hr>
+
+                    </div>
+
+                    <div class="col_SS">
+
+                        <p class="megaH3">Enrollment</p>
+                        <ul>
+                        <li><a href="/admissions/">Admissions</a></li>
+                        <li><a href="/counseling/">Advising and Counseling</a></li>
+                        <li><a href="/graduation/">Graduation</a></li>
+                        <li><a href="/clubs/identification.htm">Identification Cards</a></li>
+						<li><a href="/records/">Records</a></li>
+                        <li><a href="/registration/">Registration</a></li>
+						<li><a href="/admissions/transcripts.htm">Transcripts</a></li>
+							
+                      </ul>    
+
+                    </div>
+                    
+                    <div class="col_SS">
+
+                         <p class="megaH3">Student Life</p>
+                        <ul>
+                        <li><a href="/asc/">Academic Support Center</a></li>
+                        	<li><a href="/ems/">Emergency Messaging System</a></li>
+							<li><a href="/clubs/clubs.htm">Clubs and Organizations</a></li>
+                            <li><a href="/most/"><abbr title="Men of Southwest Tennessee">M.O.S.T.</abbr></a></li>
+                            <li><abbr title="Southwest Mentors Advancing Retention, Teamwork, and Success"><a href="/retention/SMARTS/">SMARTS</a></abbr></li>
+                            <li><a href="/clubs/">Student Activities</a></li>
+							<li><a href="/dss/">Student Disability Services</a></li>
+                            <li><a href="/events/StuCalendar.htm">Student Events</a></li>
+                            <li><a href="/ssc/">Student Success Center</a></li>
+							<li><a href="/veterans/">Veterans Affairs</a></li>
+                      </ul>
+
+                    </div>
+
+                    <div class="col_SS">
+
+                         <p class="megaH3"><a href="/recruitment/default.htm">Recruitment</a></p>
+                        <ul>
+							<li><a href="/international/">International Student Affairs</a></li>
+                            <li><a href="/orientation/">Orientation and Advising</a></li>
+							<li><a href="/recruitment/">Recruitment</a></li>
+                            <li><a href="/futurestudents/campusVisit.htm">Schedule a Campus Visit</a></li>
+							<li><a href="/ambassadors/">Student Ambassadors</a></li>
+							<li><a href="/upward/">Upward Bound</a></li>
+                      </ul>
+
+                    </div>
+
+					<div class="col_SS">
+
+                         <p class="megaH3"><a href="/career-services/">Career Services</a></p>
+                        <ul>
+                        <li><a href="/career-services/">Overview</a></li>
+                        <li><a href="/career-services/specevents.htm">Event Calendar</a></li>
+							<li><a href="/career-services/kuder.htm">Career Planning</a></li>
+                            <li><a href="/career-services/optimalResume.htm">Create A Resume</a></li>
+                            <li><a href="http://southwest.biginterview.com/" target="_blank" title="Links opens in a new window">Interview Help</a></li>
+                            <li><a href="http://networkingroundtable.net/" target="_blank">Career Transition Group</a></li>
+                          <li><span style="font-weight:bold; color: #000;">Job Listings</span><br>
+						    <a href="/career-services/fulltime.htm">Full Time</a> | <a href="/career-services/parttime.htm">Part Time</a></li>
+                      </ul>
+
+                    </div>
+                    <div class="col_3">
+
+                         <p class="megaH3"><a href="/testing/">Testing Center</a></p>
+                        <ul>
+							<li><a href="/testing/act.htm"><abbr title="American College Test">ACT</abbr><sup>®</sup></a></li>
+                            <li><a href="/testing/clep.htm"><abbr title="College-Level Examination Program">CLEP</abbr><sup>®</sup> Exam</a></li>
+                          <li><a href="/testing/compass.htm">Compass<sup>®</sup>/ESL</a></li>
+                            <li><a href="/testing/ged.htm"><abbr title="General Educational Development">GED<sup>®</sup></abbr></a></li>
+                            <li><a href="/testing/disabilities.htm">Special Accommodations Testing</a></li>
+							<li><span style="font-weight:bold; color: #000;">Departmental Tests/Exams</span></li>
+                            <li><a href="/testing/health.htm">Health (<abbr title="Health Occupations Aptitude Examination">HOAE</abbr>)</a></li>
+                            <li><a href="/testing/nln.htm"><abbr title="National League for Nursing">NLN</abbr></a></li>
+                            <li><a href="/testing/tabe.htm"><abbr title="Test of Adult Basic Education">TABE</abbr></a></li>
+                            <li><span style="font-weight:bold; color: #000;">Exit Tests/Exams</span></li>
+							<li><a href="/testing/ets.htm"><abbr title="Educational Testing Service">ETS<sup>®</sup></abbr></a></li>
+                            <li><a href="/testing/majorfield.htm">Major Field</a></li>					
+							<li><span style="font-weight:bold; color: #000;">Proctored Tests/Exams</span></li>
+							<li><a href="/testing/distlearn.htm">Distance Learning</a></li>
+                            <li><a href="/testing/preParamedicMMPI.htm">Pre-Paramedic/<abbr title="Minnesota Multiphasic Personality Inventory">MMPI</abbr></a></li>
+                            <li><a href="/testing/rodp.htm"><abbr title="Regents Online Degree Program">RODP</abbr></a></li>
+							
+							
+                      </ul>
+
+                    </div>
+                    
+                    <div class="col_12">
+					<hr>
+                        <p style="text-align: center;"><em>If you cannot locate the information you are looking for please visit the <a href="a-z.htm">A-Z Listing</a>.</em></p>
+                        
+
+                  </div>
+
+                          
+                
+                </div><!-- End Item Container -->
+                
+            
+            </li><!-- End Item -->
+                          
+            
+            
+            
+            <li><a href="#_" class="megamenu_drop">Community</a><!-- Begin Item -->
+            
+            
+                <div class="dropdown_fullwidth"><!-- Begin Item Container -->
+                
+            
+                    <div class="col_12">
+
+                        <h1>Community Resources</h1>
+                        <hr>
+
+                    </div>
+
+                    <div class="col_3">
+
+                        <!--<h3></h3>-->
+                        <ul>
+                        <li><a href="/career-services/">Career Services</a></li>
+                        <li><a href="/crm/">Communications and Marketing</a></li>
+                        <li><a href="/consumer/">Consumer Information</a></li>
+                        <li><a href="/ce/">Corporate Training &amp; Continuing Education</a></li>
+                        <li><a href="/crossroads/">Crossroads</a></li>
+                        </ul>
+
+                                  
+                        
+
+                    </div>
+                    
+                    <div class="col_3">
+
+                         <!--<h3></h3>-->
+                        <ul>
+                        
+                 			<li><a href="/dualEnrollment/">Dual Enrollment</a></li>
+                            <li><a href="/ems/">Emergency Messaging System</a></li>
+                            <li><a href="/extended/">Extended Programs</a></li>
+                            <li><a href="/facilities/">Facility Usage and Rental</a></li>
+                            <li><a href="/testing/ged.htm">GED<sup>®</sup> Testing</a></li>
+                            <li><a href="/library/">InfoNet Library</a></li>
+                      		
+                      </ul>
+
+                    </div>
+
+                    <div class="col_3">
+
+                         <!--<h3></h3>-->
+                        <ul> 
+							
+                            <!--<li><a href="http://www.msqpc.com/" target="_blank" title="Links opens in a new window">MSQPC - Quality Vendor</a></li>-->
+                            <li><a href="/construction/new_construction.htm">New Construction</a></li>
+                            <li><a href="/police/">Police Services/Public Safety</a></li>
+                            <li><a href="/events/press-releases/">Press Releases</a></li>
+                            <li><a href="/purchasing/">Purchasing and Auxiliary Services</a></li>
+                            <li><a href="/events/special-events.htm">Special Events Calendar</a></li>
+                          <li><a href="/perkins/">Tech Prep</a></li>
+                      </ul>
+
+                    </div>
+
+<div class="col_3">
+
+                         <!--<h3></h3>-->
+                        <ul>	
+                          <li><a href="https://www.tsbdc.org/swtcc/" target="_blank" title="LINK OPENS IN NEW WINDOW">Tennessee Small Business Development Center</a></li>
+							<li><a href="/testing/">Testing Center</a></li>	
+                      </ul>
+
+                    </div>
+                    
+                    <div class="col_12">
+					<hr>
+                        <p style="text-align: center;"><em>If you cannot locate the information you are looking for please visit the <a href="a-z.htm">A-Z Listing</a>.</em></p>
+                        
+
+                  </div>
+
+                          
+                
+                </div><!-- End Item Container -->
+                
+            
+            </li><!-- End Item -->
+            
+            
+            <li><a href="#_" class="megamenu_drop">Faculty/Staff</a><!-- Begin Item -->
+            
+            
+               <div class="dropdown_fullwidth"><!-- Begin Item Container -->
+                
+            
+                    <div class="col_12">
+
+                        <h1>Faculty and Staff Resources</h1>
+                        <hr>
+
+                    </div>
+
+                    <div class="col_3">
+
+                        <!--<h3></h3>-->
+                        <ul>
+                        <li><a href="https://deit.southwest.tn.edu/cfd/" target="_blank">Center for Faculty Development</a></li>
+                        <li><a href="https://mafa1033ssbp.southwest.tn.edu/PROD/bwpkedir.P_DisplayDirectory" target="_blank" title="Link opens in a new window">Directory</a></li>
+                        <li><a href="/documents/">Document Library</a></li>
+                        <li><a href="/ems/">Emergency Messaging System</a></li>
+                        <li><a href="/safety/">Environmental Health and Safety</a></li>
+                        
+                      </ul>
+
+                                  
+                        
+
+                    </div>
+                    
+                    <div class="col_3">
+
+                         <!--<h3></h3>-->
+                        <ul>
+                        	<li><a href="/facilities/">Facility Usage and Rental</a></li>
+							<li><a href="/FacStaff/">Faculty and Staff Resources</a></li>
+                            <li><a href="/facultySenate/">Faculty Senate</a></li>
+                            <li><a href="/documents/Financial_Administration/">Financial Administration</a></li>
+                      		<li><a href="/hr/">Human Resources</a></li>
+                      </ul>
+
+                    </div>
+
+                    <div class="col_3">
+
+                        <!-- <h3></h3>-->
+                        <ul>
+                        	
+							
+                            <li><a href="https://eas.southwest.tn.edu/plansys/v7/default.asp" target="_blank" title="LINK OPENS IN A NEW WINDOW"><abbr title="Institutional Effectiveness">IE</abbr> Planning System</a></li>
+							<li><a href="/infosys/">Information Technology Services</a></li>
+                            <li><a href="/multimedia/">Multimedia Services</a></li>
+                            <li><a href="/documents/Policy_Manual/">Policy Manual</a></li>
+                            <li><a href="/purchasing/">Purchasing and Auxiliary Services</a></li>
+                      </ul>
+
+                    </div>
+
+					<div class="col_3">
+
+                         <!--<h3></h3>-->
+                        <ul>
+                        	<li><a href="https://eas.southwest.tn.edu/request/work/work-request.aspx" target="_blank" title="Link opens in a new window">Service Desk Express</a></li>
+							<li><a href="/wellness/">Wellness Program</a></li>
+                      </ul>
+
+                    </div>
+                    
+                    <div class="col_12">
+					<hr>
+                        <p style="text-align: center;"><em>If you cannot locate the information you are looking for please visit the <a href="a-z.htm">A-Z Listing</a>.</em></p>
+                        
+
+                  </div>
+
+                          
+                
+                </div><!-- End Item Container -->
+                
+            
+            </li><!-- End Item -->
+            
   
- <li><a href="/partnerships/">Business Solutions</a>
-   <ul>
-      <li><a href="/career-services/">Career Services</a></li>
-      <li><a href="/ce/">Continuing Education</a></li>
-      <li><a href="/crossroads/">Crossroads</a></li>      
-      <li><a href="http://www.msqpc.com/">MSQPC - The Quality Center </a></li>
-      <li><a href="/purchasing/vendor.htm">Vendor Information</a></li>
-    </ul>
-  </li>
+        
+        </ul><!-- End Mega Menu -->
 
-  <li><a href="/FacStaff/">Faculty and Staff</a>
 
-    <ul>
-      <li><a href="http://www.southwest.tn.edu/facstaff">College Intranet</a></li>
-      <li><a href="/documents/">Document Library</a></li>
-	  <li><a href="/ems/">Emergency Messaging System</a></li>
-      <li><a href="/safety/">Environmental Health and Safety</a></li>	  
-	  <li><a href="/evening/">Evening and Weekend Program</a></li>
-      <li><a href="https://deit.southwest.tn.edu/cfd/">Faculty Development</a>
-	  </li>
-      <li><a href="/facultysenate/">Faculty Senate</a></li>
-	  <li><a href="/documents/Financial_Administration/">Financial and Administrative Services</a></li>
-      <li><a href="/hr/">Human Resources</a></li>	  
-	  <li><a href="/infosys/" class="daddy">Information Technology Services</a>
-	  <ul>
-	  <li><a href="/infosys/helpdsk-inst.htm">Helpdesk Instructions</a></li>	  
-	  <li><a href="https://eas.southwest.tn.edu/request/email/email-request.aspx">Employee Email Request</a></li>
-	  </ul>
-	  </li>
-	  <li><a href="/multimedia/">Media Services</a></li>	  
-      <li><a href="https://eas.southwest.tn.edu/request/work-request.aspx">Magic Helpdesk</a></li>
-      <li><a href="/documents/policy_manual/">Policy Manual</a></li>	  
-      <li><a href="/purchasing/">Purchasing and Auxiliary Services </a></li>
-      <li><a href="/wellness/">Wellness Program</a></li>
-
-    </ul>
-  </li>
-<li><a href="/currentStudents/">Current Students</a>
-    <ul>
-      <li><a href="http://my.southwest.tn.edu">My.Southwest Login</a></li>
-      <li><a href="/asc/">Academic Support Center</a></li>
-	  <li><a href="/admissions/" class="daddy">Admissions</a>
-	  	<ul>
-	  	<li><a href="/graduation">Graduation Information</a></li>
-		<li><a href="/admissions/grades.htm">Grades</a></li>
-        <li><a href="/registration">Registration</a></li>
-		<li><a href="/admissions/transcripts.htm">Transcripts</a></li>
-		<li><a href="/admissions/transfer.htm">Transfer Credit</a></li>
-		<li><a href="/admissions/faq.htm">FAQ</a></li>
-		</ul>
-	  </li>
-      <li><a href="/counseling/">Advising &amp; Counseling</a></li>	
-	    <li><a href="http://catalog.southwest.tn.edu/content.php?catoid=6&amp;navoid=152" class="daddy">Areas of Study</a>
-
-	  	<ul>
-		<li><a href="/academics">Academics Home</a></li>
-		<li><a href="http://catalog.southwest.tn.edu/">Catalog</a></li>
-		<li><a href="http://catalog.southwest.tn.edu/content.php?catoid=6&amp;navoid=152">Degrees and Certificates</a></li>
-		<!--<li><a href="http://catalog.southwest.tn.edu/preview_program.php?catoid=1&amp;poid=132">Developmental Studies</a></li>-->
-		<li><a href="http://catalog.southwest.tn.edu/content.php?catoid=6&amp;navoid=179">General Education</a></li>
-
-		<li><a href="/honors">Honors Academy</a></li>
-		<li><a href="/intstudies/">International Studies</a></li>				
-        <li><a href="/service/">Service Learning</a></li>
-		</ul>
-	  </li>
-      <li><a href="/bookstore/">Bookstore</a></li>
-      <li><a href="/events/">Calendars</a></li>      
-      <li><a href="/cafeteria/">Cafeteria</a></li>
-      <li><a href="/childcare/">Campus Child Care</a></li>
-      <li><a href="/police/" class="daddy">Campus Police</a>
-	  <ul>
-	  <li><a href="/ems/">Emergency Messaging System</a></li>
-	  </ul>
-	  </li>
-      <li><a href="/career-services/">Career Services</a></li>
-	  <li><a href="/cashier/" class="daddy">Cashier's Office</a>
-	  	<ul>
-          <li><a href="/cashier/payment_options.htm#dpp">Deferred Payment</a></li>
-		  <li><a href="/cashier/feeWaiverDiscount.htm">Early Registration</a></li>
-          <li><a href="/cashier/fees.htm">Fees</a></li>
-
-		  <li><a href="/cashier/fines.htm">Fines </a></li>
-          <li><a href="/cashier/payment_options.htm">Payment Options</a></li>
-		  <li><a href="/cashier/importantDates.htm">Important Dates</a></li>		  
-		  <li><a href="/cashier/refunds.htm">Refund Policy</a></li>
-          <li><a href="/cashier/tuition.htm">Tuition</a></li>
-		</ul>
-      </li>	
-  	  <li><a href="http://catalog.southwest.tn.edu/">Catalog</a></li>
-
-  	  <li><a href="https://mafa1033ssbp.southwest.tn.edu/PROD/bwckschd.p_disp_dyn_sched">Course Schedules</a></li>	
-	  <li><a href="/library/">InfoNet Library</a></li>
-	  <li><a href="/locations.htm">Locations</a></li>
-	  <li><a href="/events/">News and Events</a></li>
-      <li><a href="/records/">Records and Registration</a></li>
-	  <li><a href="/retention/">Retention and Graduation</a></li>
-      <li><a href="https://eas.southwest.tn.edu/mycampus/redirect_mycampus.aspx">Self Service</a></li>      
-	  <li><a href="http://www.southwest.tn.edu/clubs">Student Activities</a></li>
-	  <li><a href="/dss/">Student Disability Services</a></li>
-	  <li><a href="/testing/">Testing</a></li>
-	  <li><a href="/veterans/">Veterans Affairs</a> </li>
-    </ul>
-  </li> 
-
-  <li><a href="/futureStudents/">Future Students</a>
-    <ul>
-	  <li><a href="/about.htm" class="daddy">About Southwest</a>
-      	<ul>
-        <li><a href="/asc/">Academic Support Center</a></li>
-		<li><a href="/administration/">Administration</a></li>
-		<li><a href="/alumni/testimonials">Alumni Videos</a></li>        		
-		<li><a href="/mission_statement.htm">Mission and Vision</a></li>
-		<li><a href="/essex_welcome.htm">President's Welcome</a></li>
-		</ul>
-
-	  </li>
-      <li><a href="/ApplyOnline.htm">Apply Online</a></li>
-      <li><a href="/admissions/" class="daddy">Admissions</a>
-	  	<ul>
-		<li><a href="/recruitment/">Meet Your Recruiters</a></li>
-        <li><a href="/registration">Registration</a></li>
-		<li><a href="/admissions/faq.htm">FAQ</a></li>
-		</ul>
-	  </li>
-      <li><a href="/counseling/">Advising &amp; Counseling</a></li>	
-	  <li><a href="http://catalog.southwest.tn.edu/content.php?catoid=6&amp;navoid=152" class="daddy">Areas of Study</a>
-
-	  	<ul>
-		<li><a href="/academics">Academics Home</a></li>
-		<li><a href="http://catalog.southwest.tn.edu/">Catalog</a></li>
-		<li><a href="http://catalog.southwest.tn.edu/content.php?catoid=6&amp;navoid=152">Degrees and Certificates</a></li>
-		<!--<li><a href="http://catalog.southwest.tn.edu/preview_program.php?catoid=1&amp;poid=132">Developmental Studies</a></li>-->
-		<li><a href="http://catalog.southwest.tn.edu/content.php?catoid=6&amp;navoid=179">General Education</a></li>
-
-		<li><a href="/honors">Honors Academy</a></li>
-		<li><a href="/intstudies/">International Studies</a></li>				
-        <li><a href="/service/">Service Learning</a></li>
-		</ul>
-	  </li>
-      <li><a href="/events/">Calendars</a></li>
-
-	  <li><a href="/cashier/" class="daddy">Cashier's Office</a>
-	  	<ul>
-          <li><a href="/cashier/payment_options.htm#dpp">Deferred Payment</a></li>
-		  <li><a href="/cashier/feeWaiverDiscount.htm">Early Registration</a></li>
-          <li><a href="/cashier/fees.htm">Fees</a></li>
-		  <li><a href="/cashier/fines.htm">Fines </a></li>
-
-          <li><a href="/cashier/payment_options.htm">Payment Options</a></li>
-		  <li><a href="/cashier/importantDates.htm">Important Dates</a></li>		  
-		  <li><a href="/cashier/refunds.htm">Refund Policy</a></li>
-          <li><a href="/cashier/tuition.htm">Tuition</a></li>
-		</ul>
-      </li>	
-  	  <li><a href="http://catalog.southwest.tn.edu/">Catalog</a></li>
-
-	  <li><a href="/ce/">Continuing Education</a></li>
-  	  <li><a href="https://mafa1033ssbp.southwest.tn.edu/PROD/bwckschd.p_disp_dyn_sched">Course Schedules</a></li>	  
-      <li><a href="/partnerships/dualenrol.htm">Dual Enrollment</a> </li>
-      <li><a href="/financial_aid/">Financial Aid</a></li>
-	  <li><a href="/locations.htm">Locations</a></li>
-	  <li><a href="/events/">News and Events</a></li>
-      <li><a href="/records/">Records and Registration</a></li>
-	  <li><a href="/recruitment/">Recruitment</a></li>
-      <li><a href="/dss/">Student Disability Services</a></li>
-	  <li><a href="/testing/">Testing</a></li>	  
-      <li><a href="/upward/">Upward Bound</a> </li>
-      <li><a href="/veterans/">Veterans Affairs</a> </li>
-    </ul>
-
-  </li>
-</ul>
-</div>
+    </div><!-- End Menu Container -->
+    
+    <!-- Megamenu End -->
 
   </div>
-  
-  </div>
+<!-- Header End -->
+
+<!--<div style="background-color: #00AE00; height: 20px; border-top: 1px solid #; "></div>-->
   
   <!-- end header container-->
   <!-- InstanceBeginEditable name="SlideshowHolder" --><!-- InstanceEndEditable -->
 <div class="sidebar1"><a id="sidebar"></a>
 <ul class="nav">
-  <li><a href="http://catalog.southwest.tn.edu/content.php?catoid=6&amp;navoid=152">Areas of Study</a></li>
+  <li><a href="http://catalog.southwest.tn.edu/content.php?catoid=12&amp;navoid=324">Directory of Programs</a></li>
   <li><a href="https://mafa1033ssbp.southwest.tn.edu/PROD/bwckschd.p_disp_dyn_sched">Class Schedules</a></li>
+  <li><a href="/catalog/">Academic Catalog</a></li>
   <li><a href="/financial_aid/">Financial Aid</a></li>
   <li><a href="/cashier/payment_options.htm">How to Pay</a></li>
   <li><a href="/scholarships/">Scholarships</a></li>
   <li><a href="/ce">Continuing Education</a></li>
-  <li><a href="http://deit.southwest.tn.edu/">Distance Education</a></li>
+  <li><a href="http://deit.southwest.tn.edu/" target="_blank" title="Link opens in a new window">Distance Education</a></li>
   <li><a href="/library/">Library</a></li>
   <li><a href="/alumni/">Alumni and Friends</a></li>
   <li><a href="http://athletics.southwest.tn.edu">Athletics</a></li>
   <li><a href="/hr/">Human Resources</a></li>
   <li><a href="/foundation/">Give to Southwest</a></li>
-  <li><a href="/about.htm">About Southwest</a></li>
 </ul>
  
  
@@ -334,34 +739,6 @@ Date: June 19th, 2008
 <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
 <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=southwesttn"></script>
 <!-- AddThis Button END -->
-
-<!-- Helpfulness Survey Block -->
-
-<div id="helpful" class="helpfulnessSurvey">
-Was this page helpful?<br>
-<form>
-<input id="helpYes" name="rdoYesNo" type="radio" value="yes">Yes
-<input name="rdoYesNo" id="helpNo" value="no" type="radio">No
-</form>
-</div>
-
-<div id="waiting" class="helpfulnessSurvey" style="display:none;">
-<p style="text-align:center;"><img src="Templates/images/ajax-loader.gif" alt=""></p>
-</div>
-
-<div id="commentsDiv" class="helpfulnessSurvey" style="display:none;">
-Do you have a suggestion for improving this page?<br><br>
-<form><textarea cols="15" rows="4" id="comments"></textarea>
-<div style="text-align:right;">
-<input type="button" value="Submit" id="commentButton">
-</div>
-</form>
- </div>
-
-<div id="thankYou" class="helpfulnessSurvey" style="display:none;">
-<p style="text-align:center;"><strong>Thank you!</strong></p>
-</div>
-<!-- END Helpfulness Survey Block --> 
   
   <!-- end .sidebar1 -->
   </div>
@@ -410,51 +787,66 @@ Do you have a suggestion for improving this page?<br><br>
   
   <!-- InstanceEndEditable -->
 
-
- 
-<p>&nbsp;</p>
     <!-- end .content --></div>
 <div class="footer" style="height: 210px; padding: 0; text-align: left;">
 
-<div style="margin:10px 0 ; height: 2.5em; background-color:#DC291E; box-shadow: 0 0 2px 1px #999999;">
+
+<!-- Div Below "redbar" Needs to be made an id/css later
+	7.Feb2014 - Took these styles away when testing nav menu matching
+(background-color:#DC291E; box-shadow: 0 0 2px 1px #999999)
+-->
+
+<div style="margin:10px 0 ; height: 2.5em; ;
+
+	background: #DC291E;
+	background: -webkit-linear-gradient(top,#dc291e 0%,#450e0b);
+	background: -moz-linear-gradient(top,#dc291e 0%,#450e0b);
+	background: -o-linear-gradient(top,#dc291e 0%,#450e0b);
+	background: -ms-linear-gradient(top,#dc291e 0%,#450e0b);
+	background: linear-gradient(top,#dc291e 0%,#450e0b);	
+	border: 1px solid #171717;
+	-webkit-box-shadow:inset 0px 0px 2px rgba(40,40,40,0.7);
+	-moz-box-shadow:inset 0px 0px 2px rgba(40,40,40,0.7);
+	box-shadow:inset 0px 0px 2px rgba(40,40,40,0.7);
+    
+    ">
 
 </div>
 
 
-<div id="footercenter" style="float: left;
+<div id="footercenter" style="
     text-align: center;
-    width: 960px;
     margin: 5px 0 5px 0;">
 
-<p><a href="http://www.southwest.tn.edu/locations.htm">Directions &amp; Maps</a> •
+<a href="http://www.southwest.tn.edu/a-z.htm">A-Z Listing</a> •
+<a href="http://www.southwest.tn.edu/locations.htm">Directions &amp; Maps</a> •
 <a href="http://www.southwest.tn.edu/contactUs.htm">Contact Us</a> •
-<a href="http://www.southwest.tn.edu/Consumer/Default.htm">Consumer Information</a> •
-<a href="http://www.southwest.tn.edu/ems/">Emergency Messaging System</a> •
+<a href="http://www.southwest.tn.edu/Consumer/">Consumer Information</a> •
+<a href="http://www.southwest.tn.edu/ems/">Rave System</a> •
 <a href="http://www.msqpc.com/">MSQPC</a> •
 <a href="http://www.southwest.tn.edu/policy.htm">Privacy Policy</a> •
 <a href="http://www.southwest.tn.edu/notices.htm">Notices</a><br>
 <span style="font-size: 1.0em;">Southwest Tennessee Community College, a Tennessee Board of Regents  
 Institution, is an affirmative action equal opportunity college</span><br>
-    (901) 333-5000 · 5983 Macon Cove, Memphis, TN 38134 <br>
-    ©  2013   All Rights Reserved</p>
+    901-333-5000 · 5983 Macon Cove, Memphis, TN 38134 <br>
+    ©  2014   All Rights Reserved</div>
 
 <div style="clear: both;"></div>
 
-<div style="background-color: #FFF; background-image: url(images/bg_socmedia_footer.png);padding-top: 5px;">
+<div style="background-color: #FFF; background-image: url(images/bg_socmedia_footer.png);padding-top: 5px; text-align: center;">
+
 
 <a href="http://communitycolleges.tbr.edu/" target="_blank" title="TBR Community College System"><img src="images/social/tbrCcLogo.png" alt="Regents Online Campus Collaborative" style="border:none; margin-right: 
 
 15px;"></a>
 
+
 <a href="http://www.rodp.org/" target="_blank" title="This will take you to an external website"><img src="images/social/rodp.png" alt="Regents Online Degree Program" title="Regents Online Degree 
 
 Program" style="border:none; margin-right: 15px; padding-top: 8px;"></a>
 
-<a href="http://www.facebook.com/pages/Southwest-Tennessee-Community-College/88196989620" target="_blank" title="Southwest Tennessee Community College Facebook Page" alt="Southwest Tennessee Community College Facebook 
 
-Page"><img src="images/social/facebookNew.png" alt="Find us on Facebook!" style="border:none; margin-right: 
-
-15px;;"></a>
+<a href="http://www.facebook.com/pages/Southwest-Tennessee-Community-College/88196989620" target="_blank"><img src="images/social/facebookNew.png" title="Southwest Tennessee Community College Facebook Page" alt="Southwest Tennessee Community College Facebook Page" style="border:none; margin-right: 15px;"></a>
 
 <a href="http://www.youtube.com/southwesttn" target="_blank" title="Southwest Tennessee Community College YouTube 
 
@@ -471,8 +863,9 @@ right: 15px;;"></a>
 </div>
   
 
- <!-- end .footer --></div>
-  <!-- end .container --></div>
+ <!-- end .footer -->
+ </div>
+  <!-- end .container -->
 
 <!-- google analytics code -->
 <script type="text/javascript">
