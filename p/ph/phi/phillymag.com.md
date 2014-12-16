@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630193853id_/http%3A//www.phillymag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216010240id_/http%3A//www.phillymag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Philadelphia Magazine
+# Privacy Policy - Philadelphia Magazine
 
-Welcome to the  _Philadelphia Magazine_ sWeb-Site (the “Site”)!  _Philadelphia Magazine_  is committed to protecting your privacy and trust and will only use your data as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for Philadelphia Magazine and Metro Corporation (collectively “Philadelphia” of “We”) and explains how we collect information and how we use the information that we collect.
+Welcome to the  _Philadelphia_ magazine’s website (the “Site”)!  _Philadelphia_ magazine is committed to protecting your privacy and trust and will use your data only as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for _Philadelphia_ magazine and Metro Corporation (collectively “Philadelphia” or “We”) and explains how we collect information and how we use the information that we collect.
 
 Please read this information carefully before accessing the Site. The privacy statement may be amended at any time, with or without notice to users. You should periodically visit this page to review the then current Privacy Policy. Your use of the Site constitutes your consent and agreement to abide by this Privacy Policy and your consent to the use of the information that we collect, including personally identifiable information, as set forth in this Privacy Policy. Please regularly consult this Privacy Policy in order to be aware of updated practices.
 
@@ -10,7 +10,7 @@ Should you not wish  _Philadelphia_  to collect and use your personal informat
 
 ## Personally Identifiable Collection of Information
 
-You may voluntarily provide  _Philadelphia_  with personally identifiable information such as your name, email address, mailing address, telephone number, fax number, credit card information and information about your interest in various products, programs and services (“Personal Information”). Examples of how you may provide this information are: volunteering your email address in order to sign up for newsletters, volunteering your information when you subscribe to _Philadelphia Magazine_  or an affiliated publication, volunteering your ISP address, purchasing products or services from the Site, participating in blogs, posting comments, participating in forums, chat rooms or message boards on the Site, sending a letter to the editor, express an opinion on the Site, enter a sweepstakes or contest, or complete a survey.
+You may voluntarily provide  _Philadelphia_  with personally identifiable information such as your name, email address, mailing address, telephone number, fax number, credit card information and information about your interest in various products, programs and services (“Personal Information”). Examples of how you may provide this information are: volunteering your email address in order to sign up for newsletters, volunteering your information when you subscribe to _Philadelphia_ magazine or an affiliated publication, volunteering your ISP address, purchasing products or services from the Site, participating in blogs, posting comments, participating in forums, chat rooms or message boards on the Site, sending a letter to the editor, expressing an opinion on the Site, entering a sweepstakes or contest, or completing a survey.
 
 Additionally, in order to participate in various forums and portions of the Site, users may be required to submit a valid email address, demographic details and areas of interest. Such information may be used to select editorial topics and for screening out users who leave comments prohibited by the Terms and Conditions of this Site.
 
@@ -22,7 +22,7 @@ If you should make a purchase on the Site, including a subscription for a magazi
 
 ## Promotions and Contests
 
-_Philadelphia_  may from time to time sponsor sweepstakes, contests or other events (“Promotions”) which require the collection, processing, and storage of individual contact information plus demographic information. These Promotions may also ask registrants to answer survey questions. Any personally identifiable information collected through Promotions will be treated as personal information. No purchase is ever necessary to enter a  _Philadelphia  _Promotion _._
+_Philadelphia_  may from time to time sponsor sweepstakes, contests or other events (“Promotions”) which require the collection, processing, and storage of individual contact information plus demographic information. These Promotions may also ask registrants to answer survey questions. Any personally identifiable information collected through Promotions will be treated as personal information. No purchase is ever necessary to enter a  _Philadelphia_ Promotion.
 
 _Philadelphia_  may co-sponsor Promotions with other companies, in which case any information collected is likely to be shared with other participating sponsors, who may use this information. A registrant’s personal contact and demographic information will not be released to any third party organization other than named sponsors without the registrant’s consent.
 
@@ -65,11 +65,11 @@ We may also use and disclose Personal Information to comply with any court order
 
 ## Disclaimers
 
-**While Philadelphia has taken reasonable steps to limit the uses of information provided by you, we cannot guarantee that the information will remain permanently secure. There is always a possibility that your information could be lost due to technical problems or stolen from our databases. Philadelphia is not responsible for any such loss or theft or any other unanticipated security breach**.
+**While _Philadelphia_ has taken reasonable steps to limit the uses of information provided by you, we cannot guarantee that the information will remain permanently secure. There is always a possibility that your information could be lost due to technical problems or stolen from our databases. Philadelphia is not responsible for any such loss or theft or any other unanticipated security breach**.
 
 ## Cookies
 
-_Philadelphia_  does not use Cookies at the present time. In the future, however, users to this Site may be issued a “cookie,” a small text file placed on the user’s hard drive to track usage of the Site. Cookies help to prevent you from having to register or re-enter your information every time you visit the Site. Cookies are also used to authenticate your identity. Cookies from our Site provide us with certain information about your computer, but will not interfere with the operation of your computer.  _Philadelphia_  may use cookies to gain knowledge of Internet usage, improve content and advertisements.
+Users to this Site may be issued a “cookie,” a small text file placed on the user’s hard drive to track usage of the Site. Cookies help to prevent you from having to register or re-enter your information every time you visit the Site. Cookies are also used to authenticate your identity. Cookies from our Site provide us with certain information about your computer, but will not interfere with the operation of your computer.  _Philadelphia_  may use cookies to gain knowledge of Internet usage, improve content and advertisements.
 
 Some cookies that are issued may contain your personally identifiable information, and such cookies may be shared with the affiliates of  _Philadelphia_.
 
