@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s2member.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208042827id_/http%3A//www.s2member.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s2member.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216110454id_/http%3A//www.s2member.com/privacy) for the most accurate reproduction.*
 
 # s2Member® | Privacy Policy
 
@@ -95,4 +95,4 @@ By using our site, you consent to our Privacy Policy.
 
 s2Member® reserves the right to change or modify our Privacy Policy with no prior notice. If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on: August 23rd 2013.
+This policy was last modified on: Jan 10th, 2014.
