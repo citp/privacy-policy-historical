@@ -1,95 +1,206 @@
-> *The following text is extracted and transformed from the mysupermarket.co.uk privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518221045id_/http%3A//www.mysupermarket.co.uk/Administration/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysupermarket.co.uk privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216180959id_/http%3A//www.mysupermarket.co.uk/Content/Privacy) for the most accurate reproduction.*
 
-# Privacy policy | mySupermarket
+# mySupermarket.co.uk - Compare supermarket prices | Online supermarket shopping | Save Money on Top Offers
 
-**A. Protecting You**
+**Please note that any words which are capitalised have the same meaning as in the[Terms and Conditions](http://www.mysupermarket.co.uk/content/termsandconditions) for use of the Website/App, the Browser Extension and the Service. **
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and other applicable data protection laws in the UK).
+### A. Introduction
 
-We collect information about you to provide you with the best possible service and to provide you with, and tell you about, related services from us and marketing about ourselves and third parties (but we will not give your details to those third parties without your consent) , all as further explained in this policy.
+We are mySupermarket Limited, Company No 5920495 registered in England with our registered office at Lower Ground Floor, 1 Great Cumberland Place, London, W1H 7AP, England (and we refer to ourselves as "mySupermarket", "we" or "us" or "our" in this document). 
 
-Also, if you agree to register or sign-in to participate in the Maximiles Programme on or through the Website, then you agree that you will provide the data that you give to us (and that we accrue for that purpose) to Maximiles for Maximiles' own marketing activities to you 
+We are committed to protecting your privacy. We ask that you please read the following carefully to understand our views and practices regarding your personal data and how we, as data controller of your personal data, will treat it. 
 
-, as further explained in this policy. 
+We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and other applicable data protection laws in the UK). 
 
-**B. The Information We Collect**
+### B. The Information We Collect
 
-Our privacy policy ensures that any information you provide us remains private and secure. To reassure you, below we provide details of the information you provide to us, and how it will, and more importantly, will not be used. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting us (and there may be an administrative fee payable for this). If you find any inaccuracies we will delete or correct it promptly.
+### Data we collect from you directly
 
-Here are some examples of the data we collect and reasons why:
+When you register we will ask for the following information: your name, email address, password, IP address and postcode. We may also ask you to provide your age, your phone number, your street address and possibly certain other personal details such as gender or where you heard about us. 
 
-  * During the course of using the Service, you may be asked to provide your postcode for delivery - this allows us to identify which supermarkets deliver in your area and the products in particular supermarkets may vary by locality. 
-  * When you register for the Service you are asked to provide your name, email address and password - this helps us recognise you when you return so that we can provide you with a faster service. 
-  * We may also ask you to provide your age and possibly certain other personal details such as gender or where you heard about us. We collect these types of details for marketing purposes but we will never provide these details to third parties outside our group unless in anonymous form or as we say elsewhere in this policy. 
-  * If you give us your email address when you register with us (or at any other time) **you are giving us your consent to receive emails from us** , which can be about: 
-    * Information to do with the services we offer;
-    * Marketing (being details of either our own or third party promotions, vouchers or special deals - although we will never pass your email address to those third parties). (You always have the option to later unsubscribe from certain types of (or all) marketing emails, although if you do this, we may keep your email address on our files for analysis purposes or because you use other of our services.)
-  * When you register or sign-in for participation in the Maximiles Programme on or through the Website, you need to provide us with your email address, password for your participation in the Maximiles Programme, first name, last name, address and postcode, which we will pass on to Maximiles for your participation in the Maximiles Programme. We will receive a reference from Maximiles that identifies you uniquely, and we use that reference in order to inform Maximiles how many points should be attributed to your Maximiles Programme account. 
-  * We keep a record of items you purchased in your favourites list, thus allowing you to shop more quickly on future visits. 
-  * We keep a record of the contents of your Trolleys between shopping sessions. This allows you to continue shopping sessions that you may have stopped midway with no need to add again all the items that you already placed in your Trolley. 
-  * We may also keep a record of the contents of your Trolley after you have sent it to a Supermarket. This is to ensure that you receive the allocation of points attributed by us for your participation within the Maximiles Programme. 
-  * We keep a record of your preferences such as sorting order of items and last shelf you bought in, so you don't need to reset these preferences every time you start shopping. 
-  * We keep track of your emails and contacts with customer support, so that we can provide you with a responsive and efficient service. 
-  * If you import favourites from one of the Supermarkets or if you book a delivery slot from one of the Supermarkets or when you place an order with the Supermarkets (using the Service), we ask you to enter your login details for that Supermarket (usually email and password). You may authorise us to save your Supermarket password access details. If so, we will retain these only to facilitate your speedier interaction with a Supermarket (so that you do not continually have to re-enter such details) and we will not use this information for any other purpose. 
-  * We keep details of your favourites from Supermarkets and details of previous Trolley you have ordered so that we can better display your favourite items to you as part of the Service. 
-  * At times (although not always) we also offer a free newsletter. You may sign up to receive our free newsletter when we offer it and you do this by providing your email address to us for this purpose. (You always have the option to later unsubscribe, although if you do this, we may keep your email address on our files for analysis purposes or because you use other of our services.) 
-  * We collect and may display or use for the purposes of marketing and advertising the Website, Service or ourselves, any testimonials you provide us with about the Website, the Service or ourselves - and we may append to the testimonial your first name (but not your surname) and general geographic location (e.g. City or locale). 
-  * If you have been referred to us by another website, we may keep a record of the website that referred you so that we may work out which websites refer more or less users to mysupermarket.co.uk. We may also have referral arrangements with websites and referrers and we may use this data to fulfil obligations that we may have to these websites or referrers. 
-  * We collect and track statistical non-personal information about shopping habits, goods and service preferences and selections which customers have made and the likes for the purpose of business research and for the general improvement of the Service. 
+In addition, you will be able to register for the third-party website of a Supermarket via mySupermarket. If you insert any information in such third party registration form we may use such information in accordance with this Privacy Policy. However if such third party registration form includes payment information, this will not be retained and we shall not make any use of such information except to submit such information to the applicable third party together with the entire registration form. 
+
+We will also ask you to provide data as you use the Website/App so that we can provide the certain aspects of the Service. For example:
+
+  * If you place an order for one of the Supermarkets, we will ask you for your login details for that Supermarket (or you can register for that Supermarket via our Website). 
+  * If you participate in our Cashback Programme, we will collect and retain your PayPal or bank account information so we can pay you and we may use your Supermarket login details to verify and confirm completion of your order (or to check other eligibility criteria) before paying Cashback earned. In simple terms, we may need to check you have actually bought certain goods, before paying out under the Cashback Programme for those goods. 
 
 
 
-**C. Third parties**
+### Data we collect from your activity on the Website/App
 
-**We will never give your personal data over to any third party (whether by giving it, selling it or renting) for their marketing purposes without your consent.**
+As you use the Website/App and personalise your account, we collect data about your activity on the Website/App. This includes things like: 
 
-We may use your personal data ourselves to let you know about third party offers, promotions, vouchers or special deals (e.g. by us sending you emails) but we will never give your personal data to those third parties without your consent. Also, you will be able to unsubscribe from such emails at any time.
-
-We may pass your details to our agents and subcontractors to help us with any of our uses of your data set out in this Privacy Policy. For example, we may use third parties to provide us with marketing or customer service assistance.
-
-We may send your information internationally including to countries outside the European Economic Area. Some places outside of the EEA may not have adequate data protection laws at all or may offer differing levels of protection of personal information which are not as high as in the UK. By submitting your data to us, you acknowledge that provided we have used your data in the ways set out in this Privacy Policy, we cannot be held responsible for any use of your data by third parties who receive and process your data. 
-
-We may exchange information with third parties (including but not limited to Supermarkets and Maximiles) for the purposes of fraud protection.
-
-We may transfer our databases containing your personal information if we sell our business or part of it. 
-
-We may disclose your personal data to third parties without obtaining your prior consent if we are required to do so by law. 
-
-The Site may contain advertising of third parties and reference to third party service providers (such as Maximiles). Please be aware that we are not responsible for the privacy practices or content of any third parties or other sites, nor for any third party to whom we transfer your data in accordance with this Privacy Policy.
-
-**D. Affiliate Networks**
-
-We may be member of affiliate networks who make a small payment to us if people visit certain websites from our Website or certain parts of websites (such as websites of the Supermarkets or certain parts of mySupermarket.co.uk) (which we call "Visited Websites"). None of your personal details will be passed to any such affiliate network. However, to record that you have visited a Visited Website from our Website, the affiliate network may place a "cookie" (i.e. a small text file) on your computer. That cookie lasts about a month. See the section of this Privacy Policy entitled "Technology" for more details.
-
-**E. E-mails we send you**
-
-Please note that we may e-mail for the following purposes: 
-
-  * as part of the Service. For example, we send (or may send) emails to you in some of the following example circumstances: 
-    * after registration for the Service, notifying you of your registration details;
-    * as reminder emails about the services we offer (particularly if you have not used them yet or not used them for a while;
-    * after you have sent a Trolley, giving you details about that;
-    * with details of how to register or sign-in for your participation in the Maximiles Programme;
-    * to send you information which you have asked for (for example, you may have elected to receive newsletters or information on offers from Supermarkets), although we will always give you the chance to unsubscribe from these; and
-  * to offer related services to you. However, in terms of any marketing emails we may send, we will always give you the chance to opt-out (or unsubscribe) from any marketing email from us in the future.  
-Click here to unsubscribe. 
+  * Information on what you buy and how you use the Website/App, such as information on Baskets you have sent on to a Supermarket items you have purchased, your favourites, your sorting preferences, your product swaps, basket 'splits' and store 'switches', your selection of Savvy Buys and Top Offers, and other details about your shops and how you have used the Website/App 
+  * Information about your use of various Website/App services, such as your use of the Rating and Reviews Service or the Price Alert feature or the Cashback amounts you have received from our Cashback Programme. 
+  * Your communications with mySupermarket and your use of the Support Machines Support service.
+  * Information about your current location (for users of the App). You may opt out of having this data collected at any time by managing your smartphone location services settings.
+  * Other information related to your activity, such as which site referred you to us. 
 
 
 
-**F. Security**
+### Data we collect from your activity using the Companion Service via the Browser Extension
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law. For example, where we hold passwords (e.g. the password allocated as part of the registration process - which may later be changed); your Supermarket access password - if you allow us to do so; your Maximiles password – which we send to Maximiles; etc.) we hold them using secure encryption. See our [Security section](https://web.archive.org/Administration/Security.aspx) for more details. 
+The Companion Service is provided by means of the Browser Extension. As you use the Companion Service, we collect data about your use of the Companion Service and your activity on the third-party Supermarket website. This includes things like: 
 
-**G. Technology**
+  * For each page viewed on the third-party Supermarket website we collect information on the page visited (page URL and title) and information as to how you used the Companion Service on that page. 
+  * Information and statistics about your use of the Companion Service features, such as the ability to swap products, split baskets, switch stores, view Cashback offer details or set and view Price Alerts by means of the Companion Service (via the Browser Extension ) 
+  * Information about your purchase from the third-party Supermarket website, including the items you purchased, item prices, special offers and the basket total. 
+  * Your communications with mySupermarket in respect of the Browser Extension and/or the Companion Service 
+  * Other information related to your activity using the Browser Extension and the Companion Service. 
 
-Our Website and Service use "cookies" (and, in certain circumstances, “flash cookies”) technology to store data in your computer using the functionality of your browser. A lot of websites do this, because cookies allow the website publisher to do useful things like find out whether the computer (and probably its user) has visited the site before. For example (and as detailed in the section of this Privacy Policy called "Affiliate Networks"), affiliate networks may place a limited life cookie (i.e. a small text file which "expires" after a certain time) in your computer to record that have visited our Website before visiting a Visited Website.
 
-You can usually modify your browser to prevent cookie use - but if you do this the Service (and the Website) will not work properly. The information stored in the cookie is used to identify you. This enables us to operate an efficient service and to track the patterns of behaviour of visitors to the website.
 
-**H. This Privacy Policy**
+Except as it may be requested from you as part of the Companion Service, we do not collect any personal data about you from the third-party Supermarket website and/or from your activity on it while you are using the Browser Extension and Companion Service. Additionally, although you have the option to authorize us to save your Supermarket login details (as discussed above) we will not collect this information from your activity using the Browser Extension and/or the Companion Service. 
 
-Please note that this Privacy Policy forms part of the [Terms & Conditions](https://web.archive.org/Administration/TermsAndConditions.aspx) for use of this Website and forms part of the Agreement between you and us. The terms defined in those [Terms & Conditions](https://web.archive.org/Administration/TermsAndConditions.aspx) are used in the same way in this Privacy Policy. Updates to this Privacy Policy are dealt with in the same way as in those Terms & Conditions. 
+### Data we collect from other sources
 
-**I. Questions or Comments?**
+We may receive information about you from third party sources, such as data aggregators and from third parties to whom you have given permission to share your information. For instance, by registering for the Website/App using Facebook or another social network, you grant permission to that network to share your details. Depending on the network rules and your settings on it, this may include data such as your date of birth, your marital status, the number of people in your household and other information. 
 
-If you have any further questions about our privacy policy, please refer to our [Terms & Conditions](https://web.archive.org/Administration/TermsAndConditions.aspx) or contact our [Customer Support](https://web.archive.org/Administration/ContactUs.aspx).
+### Sensitive Personal Data
+
+Sensitive personal data is defined by the Data Protection Act and includes details such as information related to your health, sexual orientation, religion, race or ethnic origin. For the most part, we will not need any Sensitive Personal Data in order to provide our services and we will not request it. However, we may be able to assume sensitive personal data about you from the information you provide. By letting us have any sensitive personal data, you expressly consent to us using and telling others about any of your sensitive personal data so we can provide you with the goods or services requested by you and engage in commercial activities in the way set out in this Privacy Policy. 
+
+###  C. How We Use the Information We Collect 
+
+We use the personal data we collect to provide the Service, to customise and improve your mySupermarket experience, to make your experience as enjoyable and efficient as possible and for commercial purposes. 
+
+### Use of Information to Provide the Service
+
+Certain information is required in order for the Service, or certain features of the Service, to operate. 
+
+Here are some specific examples of information used to provide the Service. 
+
+  * Your email address and password allows us to recognise you when you return so that we can provide you with a faster service and a personal user account. 
+  * Your postcode allows us to identify which Supermarkets deliver to your area and what products are available at those Supermarkets. Products in particular Supermarkets do sometimes vary by locality. 
+  * We use your IP address to prevent any spam, fraud or abuse of our site. 
+  * We use your login data for Supermarkets to allow you to place an order or book a delivery slot with one of the Supermarkets, to import your favourites from any given Supermarket and to confirm completion of orders placed (including collecting information about your purchase from the third-party Supermarket website, such as the items you ultimately received, the basket total and delivery date) to work out whether you may be eligible for Cashback on one of our Cashback Programmes or for other verification reasons. 
+  * To facilitate your registration to a Supermarket, we may provide you with the ability to register for a relevant third party website of a Supermarket through the Website/App. If so, we may pre-populate certain fields in the registration form for that third party website for you. If we do so, it will be for fields for which we already hold your information, such as your name, postcode and email address. You always have the opportunity delete any fields that we pre-populate.
+
+
+
+### Use of Information to Customise and Improve the mySupermarket Experience 
+
+We want your shopping experience on mySupermarket to be as enjoyable as possible. We will collect the data about your shopping activities and preferences to customise your account (in addition to how you customise it yourself) and to enable us to provide an efficient and user-friendly service. We will also use it to improve the quality of the site. 
+
+Here are some specific examples of how we use your data: 
+
+  * We keep details of your favourites from any of the Supermarkets (if you have chosen to import them to your mySupermarket account), details of items you have added to favourites and details of previous Baskets you have ordered in your favourites list. This will allow you to shop more efficiently on future visits. 
+  * We keep a record of the contents of your Baskets between shopping sessions. This allows you to continue shopping sessions that you may have stopped midway with no need to add again all the items that you already placed in your Basket.
+  * We keep a record of your preferences such as sorting order of items and the last shelf you bought from, so you don't need to reset these preferences every time you start shopping.
+  * We keep a record of your login details for the Supermarkets to make it faster for you to place orders or book delivery slots in the future so that you do not continually have to re-enter such details.We also keep these details to ensure you are able to benefit from our Cashback Programmes as we use them to verify your eligibility, as we set out above.
+  * Paying attention to how you use the Website/App help us to develop improvements to the Website/App and the Service.
+  * We use information about your current location in order to provide you with information about Savvy Buys, Offers and Top Offers available at a certain Supermarket when you are at that Supermarket (for users of the App). You may opt out of this at any time by managing your smartphone location services settings.
+  * If you have been referred to us by a third-party website, we may keep a record of the website that referred you so that we may work out which websites refer more or less users to our Website/App. We may also have referral arrangements with certain third-party websites and referrers and we may use this data to fulfil obligations that we may have to these third-party websites or referrers. 
+  * We collect and track individual and aggregate information about shopping habits, products and service preferences and selections which users have made and the like. We use this information for the personalisation or general improvement of the Service, but also for the purpose of business research. You can see more about aggregate information below. 
+
+
+
+### Use of Information for Commercial Purposes
+
+mySupermarket does not charge users for use of the website or App. We earn revenues (which allows us to keep the website/App online and totally free to our users) through advertising sales, including online behavioural advertising, and through the sale of business intelligence data. 
+
+Here is how your information is used for this: 
+
+  * We use information about your activity on our site, including information about your current location when using the App, in order to present you with targeted advertising-that is, product information, offers and promotions that we think may be interesting to you and that you might like. Without targeting, you will still see advertisements; they are just less likely to be relevant. 
+  * We share information with certain carefully selected third party partners so that they can present you with advertisements and promotional offers that are relevant to you and your interests on other sites based on your activity on mySupermarket or, alternatively, to present you with advertisements on mySupermarket based on your activity on other websites. For more information on data sharing, please see the "Data Sharing" section. 
+  * We collect and may display or use for the purposes of marketing and advertising the Website/App, Service or ourselves, any testimonials you provide us with about the Website/App, the Service or ourselves - and we may append to the testimonial your first name (but not your surname) and general geographic location (e.g. City or locale). 
+
+
+
+### Use of Your Email Address
+
+We use your email address to communicate with you. Some of these are service emails and are so we can communicate with you about Website/App updates or your activity on the Website/App. For instance, we may send you service emails: 
+
+  * after registration for the Service or the Cashback Programme, notifying you of your registration details;
+  * after you have sent a Basket, giving you details about that including regarding applicable Cashback Amounts;
+  * to send you information which you have asked for; and
+  * to contact you about the status of ratings or reviews you have submitted using our Rating and Review Service or other Services
+
+
+
+In addition, from time to time we may email you marketing emails with Website/App news and updates or details of sales offers or promotions. These may be marketing for the Website/App itself or on behalf of third parties. We may also contact you for market research purposes, either for commercial purposes or so we can get feedback about the Website/App. 
+
+Your acceptance of the mySupermarket Terms and Conditions means that you are giving us consent to send you these emails. However, you can easily opt out of receiving marketing emails by clicking "unsubscribe" in the relevant email or by updating your email preferences in the "[My Account](http://www.mysupermarket.co.uk/YourAccount/Default.aspx)" section of the Website/App at any time. Even if you opt out, we will still send you service emails about the Website/App itself, your account and your activities on the Website/App. 
+
+### Aggregate Information
+
+Aggregate information is data we collect about a group or category of products, services or users, from which individual user identities have been removed and from which it is not possible to work out individual customer identities. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but all such information will be anonymised and no identifying information will be included in the resulting data. 
+
+Aggregate data helps us to understand trends and customer needs so that new products and services can be considered and so that existing products and services can be tailored to customer desires. We use and disclose anonymised aggregate information to provide other products and services, as well for the purposes of evaluating and improving our existing products and services. We also sell such aggregate information, both via our [business insights website](http://www.mysupermarket-insights.co.uk/) and through other channels. 
+
+### D. Security Measures
+
+All of the information we collect about you is stored on our secure servers and will be held securely in accordance with our internal security policy and the law. For example, we use secure encryption to hold passwords (e.g. the password allocated as part of the registration process - which may later be changed) or your login details for a Supermarket (if you authorise us to save this information). 
+
+We may send your information internationally including to countries outside the European Economic Area. While we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy, some places outside of the EEA may not have adequate data protection laws at all or may offer differing levels of protection of personal information which are not as high as in the UK. By submitting your data to us, you acknowledge that provided we have used your data in the ways set out in this Privacy Policy, we cannot be held responsible for any use of your data by third parties who receive and process your data. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### E. Technology
+
+mySupermarket and its partners and service providers use cookies to provide the Service, to customise and improve your mySupermarket experience and for commercial purposes. You can find more information on the cookies used by mySupermarket, our partners, service providers and other third parties as well as how to manage your cookie choices in our [Cookie Policy](https://web.archive.org/Content/CookiePolicy). 
+
+### E. Data Sharing
+
+There are a number of instances in which mySupermarket may share your personal information. This may be in order to allow us to operate the website/App, for corporate or statutory purposes or as part of a partnership with a third party. All recipients of your personal data are required to treat it in accordance with the Data Protection Act 1998 and other applicable data protection laws in the UK and this Privacy Policy. 
+
+Your acceptance of the mySupermarket Terms and Conditions means that you are giving us consent to share your personal information with our carefully selected third party partners. However, you can easily opt out of this sharing of your personal information by updating your preferences in the ["My Account"](http://www.mysupermarket.co.uk/YourAccount/Default.aspx) section of the Website/App at any time. Even if you opt out, we will still share your personal information as needed to operate the Website/App or as is needed for corporate or statutory purposes. 
+
+### Operating Purposes
+
+  * We may share your personal information to any member of our group of companies, which means any subsidiaries of mySupermarket Limited, or its ultimate holding company and its subsidiaries. 
+  * At times we work with other companies who help us to provide the Services to you or provide other support services pertaining to the operation of the Website/App. These companies receive only the personal information required in order to provide services, and are not allowed to use that information for anything aside from providing the services. 
+  * We reserve the right to investigate suspected violations of the Terms & Conditions of the Website/App or illegal, fraudulent or inappropriate behaviour on the Website/App; and to engage in activities needed to protect the rights, property, or safety of ourselves, of our users, or of others. To that end, and to the extent necessary to achieve the forgoing, we may exchange information with other companies and organisations, including but not limited to Supermarkets, our affiliates and partners and law enforcement agencies.
+
+  
+
+
+### Corporate and Statutory Purposes
+
+  * We may transfer our databases containing your personal information if we sell our business or part of it and engage in another similar corporate transaction.
+  * We will share personal information where we are required to share your personal data in order to comply with any legal obligation.
+
+
+
+### Third Party Partnerships
+
+We may share your personal information with other third parties with whom we have a partnership. 
+
+Datalogix  | 
+
+mySupermarket engages in online behavioural advertising audience creation in partnership with Datalogix 
+
+What information we give them: your hashed (encrypted) email address and information regarding your activity on our Website 
+
+What they do: Datalogix is a data aggregator that creates "audience segments" used in online behavioural advertising. These audiences are pools of web users who have been grouped together based upon previous web browsing activity and are then served advertising which matches their shared interests and preferences. Datalogix endeavours to anonymise the data used to create online audiences so as to help ensure that individuals cannot be personally identified. These anonymous audiences are then made available to marketers for use in online behavioural advertising campaigns and to measure the effectiveness of their online advertising. 
+
+In addition, Datalogix uses anonymised aggregate information as a basis for market research both to improve its own services and as a service to third parties. 
+
+Based on your activity on mySupermarket and on other websites with whom they have partnerships, Datalogix will add you to audience segments which are used by marketers to serve you with online advertisements and promotional offers that are relevant to you and your interests on different sites on the Internet or on mySupermarket. 
+
+You can read Datalogix's privacy policy at <http://eu.datalogix.com/uk-privacy/>. 
+
+If you would like to learn more about behavioural advertising, please visit (<http://www.youronlinechoices.com/uk/>). 
+
+If you wish to manage your other online behavioural advertising choices, you may do so at <http://www.youronlinechoices.com/uk/your-ad-choices>  
+  
+---|---  
+  
+### F. Obtaining Your Personal Information
+
+You can request a copy of the personal information that we hold about you. Please note that we will need to see proof of identity before processing your request and that there may be an administrative fee (not exceeding the maximum permitted by law) for this. If you find any inaccuracies we will delete or correct them promptly. 
+
+Please direct your inquiries to:   
+mySupermarket Inquiries  
+Lower Ground Floor,   
+1 Great Cumberland Place, London  
+W1H 7AP 
+
+### G. This Privacy Policy
+
+Please note that this Privacy Policy forms part of the [Terms & Conditions](https://web.archive.org/Content/termsandconditions) for use of the Website/App, Browser Extension and the Service and forms part of the Agreement between you and us. The terms defined in those [Terms & Conditions](https://web.archive.org/Content/termsandconditions) are used in the same way in this Privacy Policy. Updates to this Privacy Policy are dealt with in the same way as in those Terms & Conditions. 
+
+### H. Questions or Comments?
+
+If you have any further questions about our Privacy Policy, please refer to our [Terms & Conditions](https://web.archive.org/Content/termsandconditions) or contact our [Customer Support](mailto:customerhelp@mysupermarket.com). (We're located at Lower Ground Floor, 1 Great Cumberland Place, London, W1H 7AP.) 
