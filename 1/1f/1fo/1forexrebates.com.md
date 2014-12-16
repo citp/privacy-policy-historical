@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1forexrebates.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625192155id_/http%3A//www.1forexrebates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1forexrebates.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216115706id_/http%3A//www.1forexrebates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Forex Rebates Site | 1ForexRebates.com
 
