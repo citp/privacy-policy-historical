@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorving.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623121046id_/http%3A//gorving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorving.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216024922id_/http%3A//gorving.com/privacy-policy) for the most accurate reproduction.*
 
 # Go RVing Privacy Policy | Go RVing
 
@@ -18,4 +18,4 @@ Lastly, under certain rare circumstances, we may need to disclose personal infor
 
 Please keep in mind that whenever you provide personal information online, there is a risk that it may illegally be accessed, compromised or otherwise used by unauthorized persons. Go RVing believes that the safeguards it and its contractees have in place to prevent unauthorized uses meets or exceeds the industry standards for such protections.  
 
-If you later change your mind and decide that you no longer want your personal information made available to Go RVing or RV industry partners, please contact Margie Craig via telephone at (703) 620-6003 ext. 357, or via email at [mcraig@rvia.org](mailto:mcraig@rvia.org).
+If you later change your mind and decide that you no longer want your personal information made available to Go RVing or RV industry partners, please contact Greg Johnson via telephone at (703) 620-6003 ext. 332, or via email at [gjohnson@rvia.org](mailto:gjohnson@rvia.org)[.](mailto:gjohnson@rvia.org)
