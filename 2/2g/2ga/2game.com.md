@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2game.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326220536id_/http%3A//2game.com/usa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2game.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216161846id_/http%3A//2game.com/privacy) for the most accurate reproduction.*
 
 # 2game.com privacy policy
 
