@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupons-bar.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630040903id_/http%3A//www.coupons-bar.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupons-bar.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216165135id_/http%3A//www.coupons-bar.com/privacy_policy) for the most accurate reproduction.*
 
 # coupons-bar.com :: Privacy Policy
 
