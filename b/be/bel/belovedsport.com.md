@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belovedsport.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817053608id_/http%3A//www.belovedsport.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belovedsport.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216112703id_/http%3A//www.belovedsport.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Schedule - Live Sports | Football, Basketball, Hockey, Baseball, Rugby, Tennis
 
