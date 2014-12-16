@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funcage.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209063714id_/http%3A//www.funcage.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funcage.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216204400id_/http%3A//www.funcage.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FunCage.com
 
@@ -51,5 +51,5 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](https://web.archive.org/web/20140209063714id_/http%3A//www.funcage.com/contact-us.php).   
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](https://web.archive.org/web/20141216204400id_/http%3A//www.funcage.com/contact-us.php).   
 This document was last updated on June 05, 2013
