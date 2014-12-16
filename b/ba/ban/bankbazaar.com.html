@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankbazaar.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625150853id_/http%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankbazaar.com privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216045921id_/http%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <title>Privacy Commitment - BankBazaar.com</title>
@@ -10,45 +10,116 @@
 <!-- Prevents caching at the Proxy Server -->
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="//dvlv8cymbx5mz.cloudfront.net/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
+<link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
 
-<link rel="stylesheet" type="text/css" media="screen" href="http://dvlv8cymbx5mz.cloudfront.net/2084242337/bundles/main.css">
+</head><body class="" onunload=""><div id="ajax-content">
+</div>
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TRB8XL"></script><script type="text/javascript">
+    // Javascript Ajax support implementation
+
+    function getNewImage() {
+        return (window.Image ? new Image() : document.createElement('img'));
+    }
+
+    //Gets the browser specific XmlHttpRequest Object
+    function getXmlHttpRequestObject() {
+        if (window.XMLHttpRequest) {
+            return new XMLHttpRequest(); //Not IE
+        } else if (window.ActiveXObject) {
+            return new ActiveXObject("Microsoft.XMLHTTP"); //IE
+        } else {
+            // TODO: What should i do here if the ajax is not supported?
+            // Shouldn't happen for any of the supported browser currently
+        }
+        return false;
+    }
+
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+
+    window.onerror = function(msg, url, linenumber) {
+        var errdt = new Date();
+        // Ajax get call implemented in javascript as jquery libraries would not be loaded before this call
+        var receiveReq = getXmlHttpRequestObject();
+        //If our XmlHttpRequest object is not in the middle of a request, start the new asyncronous call.
+        // TODO: need to verify if the parameters should be converted to utf8 format
+        if (receiveReq.readyState == 4 || receiveReq.readyState == 0) {
+            //Setup the connection as a GET call
+            //True explicity sets the request to asyncronous (default).
+            // This replace is to replace all possible attack words to some other by changing major vowels to numbers
+            // otherwise the session will be expired and the customer is punished.
+            if (msg != null && typeof(msg) == "string") {
+                msg = msg.replace(/a/gi, "@");
+                msg = msg.replace(/e/gi, "3");
+                msg = msg.replace(/i/gi, "1");
+                msg = msg.replace(/o/gi, "0");
+            }
+            receiveReq.open("GET", ctx + "images/jserror.gif?linenumber=" + linenumber + "&url=" + url + "&msg=" + msg + "&dt=" + errdt, true);
+            //Make the actual request.
+            receiveReq.send(null);
+        }
+        return false;
+    };
+
+    var st = new Date();
+    var loc = escape(window.location);
+    var ctx = "/";
+    var unique_id = "null";
+    var start_time = "";
+    var req = ctx + "images/started.gif?id=" + unique_id + "&t=" + start_time;
+    getNewImage().src = req;
+
+    
+        var pt = '';
+        var url = pt + "/ajax-content.html?ajax=true";
+
+        var variant = getParameterByName('variant');
+        var isSentence = false;
+        if(variant != 'slide' && (window.location.pathname == '/home-loan.html' || window.location.pathname == '/personal-loan.html' || window.location.pathname == '/car-loan.html'))
+            isSentence = true;
+
+        
+
+        if(isSentence == true) {
+            url = url + "&eligSentenceForm=true";
+        }
+
+        if(window.location.search.indexOf('?') != -1) {
+            url = url + "&" + window.location.search.split("?")[1];
+        }
+
+        setTimeout(function() {
+            var request = getXmlHttpRequestObject();
+            request.open('POST', url);
+            request.setRequestHeader('BB_Referer', document.referrer);
+            request.onreadystatechange = function (data) {
+                if (request.readyState == 4 && request.status == 200) {
+                    document.getElementById("ajax-content").innerHTML = request.responseText;
+                }
+            };
+            request.send();
+            
+        }, 1000);
+    </script>
+<link rel="stylesheet" type="text/css" media="screen" href="https://cdn1.bankbazaar.com/gzip_N1622537139/bundles/main.css">
 <!--[if IE]>
-<link rel="stylesheet" type="text/css" media="screen" href="http://dvlv8cymbx5mz.cloudfront.net/1342851963/bundles/ie.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="https://cdn1.bankbazaar.com/gzip_N382106564/bundles/ie.css" />
 <![endif]-->
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<!-- Facebook start -->
+<meta property="og:description" content="Get special discounts, lowered interest rates, lowered processing fees and save thousands on your home loan, personal loan and car loan only on BankBazaar.com">
+<meta property="og:image" content="//bb-image.s3.amazonaws.com/mp/social-share/bb-social-share.jpg">
+<meta property="og:image:secure_url" content="//bb-image.s3.amazonaws.com/mp/social-share/bb-social-share.jpg">
+<meta property="og:url" content="http://www.bankbazaar.com">
+<!-- Facebook end -->
 
-    var _gaq = _gaq || [];
-    if(("prod").toLowerCase() == "prod" ){
-        _gaq.push(['_setAccount', 'UA-5152316-1']);
-    }else{
-//        todo change this account later to a bankbazaar id
-        _gaq.push(['_setAccount','UA-50431922-1']);
-    }
-    _gaq.push(['_setAllowLinker', true]);
-    _gaq.push(['_trackPageview']);
-    (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
 
-    })();
-    function BB_trackGoogleEventWithLabelAndValue(category, action, label, value) { //prefixing BB so that fn name do not clash [just in case]
-        _gaq.push(['_trackEvent', category, action, label, value]);
-    }
-    function BB_trackGoogleEventWithLabel(category, action, label) { //prefixing BB so that fn name do not clash [just in case]
-        _gaq.push(['_trackEvent', category, action, label]);
-    }
-    function BB_trackGoogleEvent(category, action) { //prefixing BB so that fn name do not clash [just in case]
-        _gaq.push(['_trackEvent', category, action]);
-    }
-</script>
 
-<!-- Google Analytics Social Button Tracking -->
 <script type="text/javascript">
      /**
      * Namespace.
@@ -79,7 +150,7 @@
      *    and calls the _trackSocial method.
      * @private
      */
-    _ga.getSocialActionTrackers_ = function(
+    /*_ga.getSocialActionTrackers_ = function(
             network, socialAction, opt_target, opt_pagePath) {
         return function() {
             var trackers = _gat._getTrackers();
@@ -87,7 +158,7 @@
                 tracker._trackSocial(network, socialAction, opt_target, opt_pagePath);
             }
         };
-    };
+    };*/
 
 
     /**
@@ -101,16 +172,13 @@
         try {
             if (FB && FB.Event && FB.Event.subscribe) {
                 FB.Event.subscribe('edge.create', function(opt_target) {
-                    _gaq.push(_ga.getSocialActionTrackers_('facebook', 'like',
-                            opt_target, opt_pagePath));
+                    BB_trackGoogleSocialEventWithPath('facebook', 'like', opt_target, opt_pagePath);
                 });
                 FB.Event.subscribe('edge.remove', function(opt_target) {
-                    _gaq.push(_ga.getSocialActionTrackers_('facebook', 'unlike',
-                            opt_target, opt_pagePath));
+                    BB_trackGoogleSocialEventWithPath('facebook', 'unlike', opt_target, opt_pagePath);
                 });
                 FB.Event.subscribe('message.send', function(opt_target) {
-                    _gaq.push(_ga.getSocialActionTrackers_('facebook', 'send',
-                            opt_target, opt_pagePath));
+                    BB_trackGoogleSocialEventWithPath('facebook', 'send', opt_target, opt_pagePath);
                 });
             }
         } catch (e) {}
@@ -138,8 +206,7 @@
             }
             var socialAction = intent_event.type + ((intent_event.type == 'click') ?
                     '-' + intent_event.region : ''); //append the type of click to action
-            _gaq.push(_ga.getSocialActionTrackers_('twitter', socialAction, opt_target,
-                    opt_pagePath));
+            BB_trackGoogleSocialEventWithPath('twitter', socialAction, opt_target, opt_pagePath);
         }
     };
 
@@ -181,102 +248,63 @@
         return;
     };
 
-</script><script type="text/javascript">
-    // Javascript Ajax support implementation
+</script><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TRB8XL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TRB8XL');</script>
+<!-- End Google Tag Manager -->
 
-    function getNewImage() {
-        return (window.Image ? new Image() : document.createElement('img'));
-    }
-
-    //Gets the browser specific XmlHttpRequest Object
-    function getXmlHttpRequestObject() {
-        if (window.XMLHttpRequest) {
-            return new XMLHttpRequest(); //Not IE
-        } else if (window.ActiveXObject) {
-            return new ActiveXObject("Microsoft.XMLHTTP"); //IE
-        } else {
-            // TODO: What should i do here if the ajax is not supported?
-            // Shouldn't happen for any of the supported browser currently
-        }
-        return false;
-    }
-    window.onerror = function(msg, url, linenumber) {
-        var errdt = new Date();
-        // Ajax get call implemented in javascript as jquery libraries would not be loaded before this call
-        var receiveReq = getXmlHttpRequestObject();
-        //If our XmlHttpRequest object is not in the middle of a request, start the new asyncronous call.
-        // TODO: need to verify if the parameters should be converted to utf8 format
-        if (receiveReq.readyState == 4 || receiveReq.readyState == 0) {
-            //Setup the connection as a GET call
-            //True explicity sets the request to asyncronous (default).
-            // This replace is to replace all possible attack words to some other by changing major vowels to numbers
-            // otherwise the session will be expired and the customer is punished.
-            if (msg != null && typeof(msg) == "string") {
-                msg = msg.replace(/a/gi, "@");
-                msg = msg.replace(/e/gi, "3");
-                msg = msg.replace(/i/gi, "1");
-                msg = msg.replace(/o/gi, "0");
-            }
-            receiveReq.open("GET", ctx + "images/jserror.gif?linenumber=" + linenumber + "&url=" + url + "&msg=" + msg + "&dt=" + errdt, true);
-            //Make the actual request.
-            receiveReq.send(null);
-        }
-        return false;
-    };
-
-    var st = new Date();
-    var loc = escape(window.location);
-    var ctx = "/";
-    var unique_id = "U6rmBn8AAQEAAAwfzxMAAAAm";
-    var start_time = "1403708934060523";
-    var req = ctx + "images/started.gif?id=" + unique_id + "&t=" + start_time;
-    getNewImage().src = req;
-</script>
-<!-- Facebook start -->
-<meta property="og:description" content="Get special discounts, lowered interest rates, lowered processing fees and save thousands on your home loan, personal loan and car loan only on BankBazaar.com">
-<!-- Facebook end -->
-</head>
-<body class="">
-<div id="fb-root"></div>
+<!-- Google Analytics Social Button Tracking -->
 <script type="text/javascript">
-    window.fbAsyncInit = function() {
-        FB.init({
-            appId      : '473486006089780', // app id as present in the fb developer dashboard.
-            status     : true, // check login status
-            cookie     : true, // enable cookies to allow the server to access the session
-            xfbml      : true,  // parse XFBML
-            oauth      : true
+    function BB_trackGoogleEventWithLabel(category, action, label) { //prefixing BB so that fn name do not clash [just in case]
+        //_gaq.push(['_trackEvent', category, action, label]);
+        dataLayer.push({
+            'event': 'sendEvent',
+            'eventCategory': category,
+            'eventAction': action,
+            'eventLabel': label // Optional: only include if label needs to be sent
         });
-    };
 
-    (function(d, s, id){
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) {return;}
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-</script>
-<script type="text/javascript">
-    if (typeof _ga != "undefined") {
-        _ga.trackFacebook();
+    }
+
+    function BB_trackGoogleEvent(category, action) { //prefixing BB so that fn name do not clash [just in case]
+        //_gaq.push(['_trackEvent', category, action]);
+        dataLayer.push({
+            'event': 'sendEvent',
+            'eventCategory': category,
+            'eventAction': action
+        });
+    }
+
+    function BB_trackGoogleSocialEvent(network, action, target) {
+        dataLayer.push({
+            'event': 'sendSocial',
+            'socialNetwork': network,
+            'socialAction': action,
+            'socialTarget': target
+        });
+    }
+
+    function BB_trackGoogleSocialEventWithPath(network, action, target, path) {
+        dataLayer.push({
+            'event': 'sendSocial',
+            'socialNetwork': network,
+            'socialAction': action,
+            'socialTarget': target,
+            'pagePath': path
+        });
+    }
+
+    function BB_trackGoogleVirtualPageView(pagePath){
+        dataLayer.push({
+            'event': 'sendVirtualPage',
+            'pagePath': pagePath
+        });
     }
 </script>
-
-<script type="text/javascript">
-    (function() {
-        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        po.src = 'https://apis.google.com/js/client:plusone.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-    })();
-</script>
-
-<script src="//platform.linkedin.com/in.js" type="text/javascript">
-    api_key: 77m6enmavtqgpa
-    authorize: true
-    onLoad: SocialLogin.LINKEDIN.init
-</script>
-
 <div id="wrapper" class=" marketplace
       single-offer-page">
     <div itemscope="" itemtype="//schema.org/Product">
@@ -287,13 +315,13 @@
 </div><div class="bbheader-right" id="bbheader-right">
         <div class="bbheader-top">
             <div class="dontshow fb-like-header lazy-load {src : '/social-tools/fb-like-header.html'}"></div>
-                <div id="login-status" class="inline-block">
+            <div id="login-status" class="inline-block">
                 <a href="javascript:void(0)" class="dropdown-toggle menu-login social-sign-in blockUIGeneral {defaultParam:'_592_auto_5pc_bd156_'}" executeafter="SocialLogin.init();" rel="#sign-in-box" data-toggle="modal" data-target="#sign-in-box">
         Sign in
     </a>
     <input type="hidden" name="" value="false" id="logged-in-status"></div>
         </div>
-        <div class="topnav">
+            <div class="topnav">
                 <ul class="topmenu">
                     <li class="dropdown first loan_link">
                         <a href="/loan.html" target="_parent" class="first" title="Apply Loan Online">Loans</a>
@@ -302,7 +330,6 @@
                             <li class="hl_link"><a href="/home-loan.html" title="Apply Home Loan Online">Home Loan</a></li>
                             <li class="cl_link"><a href="/car-loan.html" title="Apply Car Loan Online">Car Loan</a></li>
                             <li class="el_link"><a href="/education-loan.html" title="Apply Education Loan Online">Education Loan</a></li>
-                            <li class="cdl_link"><a href="/consumer-durable-loan.html" title="Consumer Durable Loans India">Consumer Durable Loan</a></li>
                         </ul>
                     </li>
                     <li class="dropdown cc_link">
@@ -317,9 +344,8 @@
                             <li><a href="/axis-credit-card.html" title="Apply Axis Bank Credit Card">Axis Bank Credit Card</a></li>
                             <li><a href="/citibank-credit-card.html" title="Apply Citi Bank Credit Card">Citibank Credit Card</a></li>
                             <li><a href="/hdfc-credit-card.html" title="Apply HDFC Bank Credit Card">HDFC Bank Credit Card</a></li>
-                            <li><a href="/icici-credit-card.html" title="Apply ICICI Bank Credit Card">ICICI Bank Credit Card</a></li>
                             <li><a href="/indusind-credit-card.html" title="Apply IndusInd Bank Credit Card">IndusInd Bank Credit Card</a></li>
-
+                            <li><a href="/sbi-credit-card.html" title="Apply SBICredit Card">SBI Credit Card</a></li>
                         </ul>
                     </li>
                     <li class="dropdown fd_link">
@@ -339,7 +365,7 @@
                             <li class="icici_fd_link"><a href="/fixed-deposit/icici-fixed-deposit-rate.html" title="Open ICICI Bank FD Account Online">ICICI Bank FD Rates</a></li>
                             <li class="indus_fd_link"><a href="/fixed-deposit/indusind-fixed-deposit-rate.html" title="Open INDUSIND Bank FD Account Online">INDUSIND Bank FD Rates</a></li>
                             <li class="indian_fd_link"><a href="/fixed-deposit/indian-bank-fixed-deposit-rate.html" title="Open Indian Bank FD Account Online">Indian Bank FD Rates</a></li>
-                            <li class="ing_fd_link"><a href="/fixed-deposit/ing-fixed-deposit-rate.html" title="Open ING Vysya Bank FD Account Online">ING Vysya Bank FD Rates</a></li>
+                            <li class="ing_fd_link"><a href="/fixed-deposit/ing-vysya-fixed-deposit-rate.html" title="Open ING Vysya Bank FD Account Online">ING Vysya Bank FD Rates</a></li>
                             <li class="kyb_fd_link"><a href="/fixed-deposit/karur-vysya-bank-fixed-deposit-rate.html" title="Open Karur Vysya Bank FD Account Online">Karur Vysya Bank FD Rates</a></li>
                             <li class="pnb_fd_link"><a href="/fixed-deposit/punjab-national-bank-fixed-deposit-rate.html" title="Open Punjab National Bank Bank FD Account Online">PNB FD Rates</a></li>
                             <li class="sbi_fd_link"><a href="/fixed-deposit/sbi-fixed-deposit-rate.html" title="Open State Bank Of India Bank FD Account Online">SBI FD Rates</a></li>
@@ -350,9 +376,11 @@
                     </li>
 
                     <li class="dropdown in_link">
-                        <a href="/insurance/term-insurance.html" alt="Compare Insurance Plans Online" title="Compare Insurance Plans Online" target="_parent">Insurance</a>
+                        <a href="/insurance/life-insurance.html" alt="Compare Insurance Plans Online" title="Compare Insurance Plans Online" target="_parent">Insurance</a>
                         <ul class="dropdown-menu">
-                            <li class="tli_link"><a href="/insurance/term-insurance.html" title="Compare Life Insurance Plans &amp; Apply Online">Term Insurance</a></li>
+                            <li class="tli_link"><a href="/insurance/life-insurance.html" title="Compare Life Insurance Plans &amp; Apply Online">Life Insurance</a></li>
+                            <li class="tli_link"><a title="Compare Car Insurance Plans &amp; Apply Online" href="/insurance/car-insurance.html">Car Insurance</a></li>
+                            <li class="hi_link"><a title="Compare Health Insurance Plans &amp; Apply Online" href="/insurance/health-insurance.html">Health Insurance</a></li>
                         </ul>
                     </li>
                     <li class="dropdown fin_link">
@@ -372,7 +400,7 @@
                     <li class="dropdown resource_link">
                         <a target="_parent" title="Resources" href="javascript:void(0)">Resources</a>
                         <ul class="dropdown-menu">
-                            <li class="guide_link"><a href="http://www.bankbazaar.com/guide/" title="Guide">Guide</a></li>
+                            <li class="guide_link"><a href="http://blog.bankbazaar.com/" title="Blog">Blog</a></li>
                             <li class="forum_link"><a href="http://forums.bankbazaar.com/" title="Forum">Forum</a></li>
                             <li class="randr_link"><a href="/reviews.html" title="Ratings &amp; Reviews">Ratings &amp; Reviews</a></li>
                             <li class="reviewlink"><a href="/customer-review.html" title="Write a Review">Write a Review</a></li>
@@ -391,10 +419,10 @@
                         </li>
                 </ul>
             </div>
-        </div>
-    <div class="bankf">
-        <img src="/images/bb-investors.png" alt="">
     </div>
+    <div class="bankf">
+        <img src="https://cdn5.bankbazaar.com/images/bb-investors.png">
+</div>
     <div class="clear"></div>
 </div>
 
@@ -749,7 +777,7 @@
             <li><h2>Other</h2></li>
             <li><a href="https://associates.bankbazaar.com/" target="_blank">BankBazaar Associates
                     Program</a></li>
-            <li><a href="/guide">Guide</a></li>
+            <li><a href="/guide">Blog</a></li>
             <li><a href="/conditionsofuse.html">Conditions of Use </a></li>
             <li><a href="/careers.html">Careers at BankBazaar.com</a></li>
             <li><a href="/privacy-policy.html">Privacy Policy</a></li>
@@ -804,7 +832,8 @@
                     </span>
                 </li>
                 <li>
-                    <textarea name="feedbackcontent" cols="" rows="" id="feedbackcontent"></textarea></li>
+                    <textarea name="feedbackco ntent" cols="" rows="" id="feedbackcontent"></textarea>
+</li>
                 <li>
                     <div id="recaptcha_widget" style="display:none;">
     <div>
@@ -852,8 +881,10 @@
                 <li class="mar">
                     <div class="fb_share">
                         Broadcast your feedback via
-                        <input type="checkbox" name="fb" value="true" id="fb"><input type="hidden" id="__checkbox_fb" name="__checkbox_fb" value="true"><span class="gb follow-fb"></span> Facebook
-                        <input type="checkbox" name="tweet" value="true" id="tweet"><input type="hidden" id="__checkbox_tweet" name="__checkbox_tweet" value="true"><span class="gb follow-tweet"></span> Twitter
+                        <input type="checkbox" name="fb" value="true" id="fb"><input type="hidden" id="__checkbox_fb" name="__checkbox_fb" value="true">
+<span class="gb follow-fb"></span> Facebook
+                        <input type="checkbox" name="tweet" value="true" id="tweet"><input type="hidden" id="__checkbox_tweet" name="__checkbox_tweet" value="true">
+<span class="gb follow-tweet"></span> Twitter
                     </div>
                 </li>
                 <li>
@@ -873,16 +904,17 @@
     </div>
 </div>
 </div>
-<input type="hidden" id="showFbGplusLayover" value="false">
+<input type="hidden" id="showFbGplusLayover" value="">
 <input type="hidden" id="fBLayover_StartTime" value="0">
 </div>
         </div>
         </div>
 </div>
   <div style="display: none" class="preload-image">
-    <img src="//dvlv8cymbx5mz.cloudfront.net/images/bb-logo-new-v2.png" alt="">
-    <img src="//dvlv8cymbx5mz.cloudfront.net/images/bank-logo-v22.png" alt="">
-    <img src="//dvlv8cymbx5mz.cloudfront.net/images/car-strip.jpg" alt="">
+
+    <img data-original="https://cdn3.bankbazaar.com/images/bb-logo-new-v2.png" src="" class="lazy">
+<img data-original="https://cdn5.bankbazaar.com/images/bank-logo-v28.png" src="" class="lazy">
+<img data-original="https://cdn5.bankbazaar.com/images/car-strip.jpg" src="" class="lazy">
 </div>
 
 <div class="dontshow">
@@ -892,14 +924,14 @@
         <div class="sign-in-title">Sign in</div>
         <div class="sign-in-subtitle">Great to connect with you!</div>
 
-        <a class="sign-in-link-bg sign-in-google" alt="" href="javascript:void(0)">Sign in with Google</a>
+        <a class="sign-in-link-bg sign-in-google" href="javascript:void(0)">Sign in with Google</a>
         <div class="centered">
             <a class="sign-in-link-bg sign-in-fb" href="javascript:void(0)">Facebook</a>
 <a class="sign-in-link-bg sign-in-linked" href="javascript:void(0)">LinkedIn</a>
 </div>
     </div>
 </div>
-</div><script type="text/javascript" src="/1403474897667/jawr_loader.js"></script>
+</div><script type="text/javascript" src="https://cdn1.bankbazaar.com/1418660626107/jawr_loader.js"></script>
 <script type="text/javascript">
     JAWR.loader.getURLs = function (path, ptype) {
         var paths = [];
@@ -937,18 +969,64 @@
         return paths;
     }
 
-</script><input type="hidden" name="isTrackingRequired" value="false" id="isTrackingRequired"><script type="text/javascript" src="http://dvlv8cymbx5mz.cloudfront.net/N2010838975/bundles/site-wide.js"></script>
-<script type="text/javascript" src="http://dvlv8cymbx5mz.cloudfront.net/N222780046/bundles/site-wide-lazy.js"></script>
-<div class="lazyloadcss" rel="/bundles/lazyLoadImages.css"></div>
-<input type="hidden" name="" value="4DC16075FA1EDF75A68A3BF83FE3B39D.bankbazaar2" id="sessionId"><input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="" id="mcIdVal"><script type="text/javascript">
-isMobileReceived = 'false';
-mcId = "";
-product = '';
-pTypeId = '97';
-</script>
+</script><script type="text/javascript" src="https://cdn1.bankbazaar.com/1418660626107/jawr_loader.js"></script>
 <script type="text/javascript">
+    JAWR.loader.getURLs = function (path, ptype) {
+        var paths = [];
+        var type = ptype;
+        if (ptype == null) {
+            type = 'js';        //settting JS as default type
+        }
+        var bundles = [];
+        if (type.toString().toLowerCase() == 'css') {
+            bundles = this.cssbundles;
+        }
+        if (type.toString().toLowerCase() == 'js') {
+            bundles = this.jsbundles
+        }
+        var mappingToUse = this.mapping;
+        for (var x = 0; x < bundles.length; x++) {
+            var bundle = bundles[x];
+            if (bundle.belongsToBundle(path) && !this.usedBundles[bundle.name]) {
+                this.usedBundles[bundle.name] = true;
+                var pathtoRender;
+                if (isJawrDebug() && isDevelopmentEnv()) {
+                    pathtoRender = bundle.itemPathList;
+                    paths = paths.concat(pathtoRender);
+                } else {
+                    pathtoRender = bundle.alternateProductionURL ? bundle.alternateProductionURL : this.normalizePath(mappingToUse + '/' + bundle.prefix + bundle.name);
+                    if (typeof pathtoRender != undefined) {
+                        /*Replacing both http and https to use // to use the page's security  protocol*/
+                        pathtoRender = pathtoRender.replace(/http:\/\//gi, "//");
+                        pathtoRender = pathtoRender.replace(/https:\/\//gi, "//");
+                        paths.push(pathtoRender);
+                    }
+                }
+            }
+        }
+        return paths;
+    }
+
+</script><input type="hidden" name="isTrackingRequired" value="false" id="isTrackingRequired"><script type="text/javascript" src="https://cdn1.bankbazaar.com/gzip_1231977116/bundles/site-wide.js"></script>
+<script type="text/javascript" src="https://cdn1.bankbazaar.com/gzip_N1939980524/bundles/site-wide-lazy.js"></script>
+<script type="text/javascript">
+if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
+  window.onpageshow = function(evt) {
+    // If persisted then it is in the page cache, force a reload of the page.
+    if (evt.persisted) {
+      document.body.style.display = "none";
+      location.reload();
+    }
+  };
+}
+</script>
+
+<div class="lazyloadcss" rel="/bundles/lazyLoadImages.css"></div>
+<input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="bbcampaign_sem_CL|CL_Quality|CL-QualityMainExact|cheap-Car-loan|c|Exact" id="mcIdVal"><input type="hidden" name="" value="false" id="isMobileReceived"><input type="hidden" name="" value="bbcampaign_sem_CL|CL_Quality|CL-QualityMainExact|cheap-Car-loan|c|Exact" id="mcId"><input type="hidden" name="" value="97" id="pTypeId"><script type="text/javascript">
 
     var sokrati_tracked = 'false';
+    var mcId = document.getElementById("mcId").value;
+    var pTypeId = document.getElementById("pTypeId").value;
 
     _sokClient = '124';
     var sokrati = {
@@ -1018,7 +1096,7 @@ pTypeId = '97';
             try {
                 sokrati.trackParams('link', pTypeId, paramList);
                 sokrati_tracked = true;
-                $.get("/pixelTracked.html",{adProvider: "sokrati" , product : product})
+                $.get("/pixelTracked.html",{adProvider: "sokrati" , product : document.getElementById("productNameSpace").value})
             }
             catch(err) {
                 var sokrati_error_pixel = "/images/sokrati_error.gif?item_identifier=" + pTypeId + paramStr + "&t=" + (new Date()).getTime();
@@ -1034,12 +1112,12 @@ pTypeId = '97';
 
     function callSokrati() {
         // if not already tracked and if mobile is present in session and if  channel is sokrati, fire pixel on page load
+        var isMobileReceived = $("#isMobileReceived").val();
         if (isMobileReceived == 'true' && mcId.startsWith("SOKRATI") && sokrati_tracked == 'false') {
             var paramListMobile = {};
             paramListMobile['lead_mode'] = 'eligform';
             paramListMobile['lead_step'] = 'mobile_provided';
             paramListMobile['lead_eligibility'] = 'yes';
-            paramListMobile['user_id'] = '4DC16075FA1EDF75A68A3BF83FE3B39D.bankbazaar2';
             var pixelType = "sokrati";
 
             $.get("/pixelLog.html",{step: "Step1", pTypeId: pTypeId, pixelType: pixelType});
@@ -1101,22 +1179,24 @@ pTypeId = '97';
     }
 </script>
 
-<script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
-        var _weq = _weq || {};
-        _weq['webengage.licenseCode'] = '~13410604b';
-        _weq['webengage.widgetVersion'] = "4.0";
+<script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><div id="_webengage_script_tag">
+        <script type="text/javascript">
+            var _weq = _weq || {};
+            _weq['webengage.licenseCode'] = '~13410604b';
+            _weq['webengage.widgetVersion'] = "4.0";
 
-        (function(d){
-            var _we = d.createElement('script');
-            _we.type = 'text/javascript';
-            _we.async = true;
-            _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
-            var _sNode = d.getElementById('_webengage_script_tag');
-            _sNode.parentNode.insertBefore(_we, _sNode);
-        })(document);
-    </script>
+            (function(d){
+                var _we = d.createElement('script');
+                _we.type = 'text/javascript';
+                _we.async = true;
+                _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+                var _sNode = d.getElementById('_webengage_script_tag');
+                _sNode.parentNode.insertBefore(_we, _sNode);
+            })(document);
+        </script>
+    </div>
 <noscript>
-    <img src="//dvlv8cymbx5mz.cloudfront.net/images/no-javascript.gif" alt="JS is not enabled in browser"/>
+    <img src="https://cdn1.bankbazaar.com/images/no-javascript.gif" alt="JS is not enabled in browser"/>
 </noscript>
 
 
@@ -1152,11 +1232,21 @@ pTypeId = '97';
         }
     });
 
+    window.onpageshow = function(event) {
+        if (event.persisted) {
+            window.location.reload()
+        }
+    };
+
 </script>
-<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="" id="jawrDebug"><input type="hidden" name="mobilePixelSession" value="4DC16075FA1EDF75A68A3BF83FE3B39D.bankbazaar2" id="tyrooSession"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="MARKETPLACE" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><div class="dontshow">
+
+<div class="dontshow">
+
+        reTH65gcmBgCJ7k - pingdom check string.
     </div>
-<div class="dontshow" style="display:none">
-    reTH65gcmBgCJ7k - pingdom check string. TODO: Move this to string Item / MD.
+<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="" id="jawrDebug"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="MARKETPLACE" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><input type="hidden" name="cdnDomain" value="https://cdn1.bankbazaar.com" id="cdnDomain"><input type="hidden" name="isBootstrapPage" value="" id="isBootstrapPage"><input type="hidden" name="mobileSite" value="false" id="mobileSite"><input type="hidden" name="" value="false" id="internalAccess"><div class="dontshow" style="display:none">
+    <div class="dontshow">
+    </div>
 </div>
 
 
