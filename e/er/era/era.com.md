@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130131731id_/http%3A//www.era.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216171915id_/http%3A//www.era.com/privacy-policy) for the most accurate reproduction.*
 
-# ERA Real Estate
-
-ERA® PRIVACY STATEMENT
+# Privacy Policy - ERA Real Estate
 
 _Last modified May 16, 2012_
 
@@ -10,9 +8,11 @@ _Last modified May 16, 2012_
 
 **BY REGISTERING FOR OR USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT. IF YOU DO NOT AGREE TO THIS PRIVACY STATEMENT, YOU CANNOT USE THE SITE.** We reserve the right to modify this statement at any time by posting a notice on the Site's home page. (If we consider it appropriate, we may also provide additional notice of significant changes.) Your use of the Site after the date of the last modification listed at the beginning of this Privacy Statement indicates to us that you agree to the changes.
 
+## Scope of this Privacy Statement
+
 This Privacy Statement applies to your use of this Site only. We do not own, operate or control the web sites of our Franchisees or sales associates. Accordingly, this Statement does not apply to a Franchisee's or sales associate's web site or to a Franchisee's or sales associate's collection, use, storage and disclosure of your Personal Information.
 
-The Site contains links to third-party web sites, including a mortgage company, our independent Franchisees, our advertisers, or banner advertising. When you click on those links, you will go to a third-party site where you will be subject to that site's privacy statement and we encourage you to read that policy statement. Please be aware that we are not responsible for the privacy practices of those other web sites and we expressly disclaim any liability for their actions, including actions relating to the use and disclosure of Personal Information by those third parties. 
+The Site contains links to third-party web sites, including a mortgage company, our independent Franchisees, our advertisers, or banner advertising. When you click on those links, you will go to a third-party site where you will be subject to that site's privacy statement and we encourage you to read that policy statement. Please be aware that we are not responsible for the privacy practices of those other web sites and we expressly disclaim any liability for their actions, including actions relating to the use and disclosure of Personal Information by those third parties.
 
 ### 1\. What is Personal Information?
 
@@ -25,10 +25,10 @@ Personal Information is information collected online by ERA that identifies the 
 We collect your Personal Information on the Site in order to enhance the services we offer you. We collect Personal Information from you only when you voluntarily submit it in order to obtain certain services or information. The instances where you may provide ERA with Personal Information, and how ERA uses it, are as follows:
 
 **Registration for Personalized Services**  
-If you wish to use ERA's personalized services, you will be asked to create and account in ERA.com. The process of creating this account necessitates that you provide Personal Information about yourself. This information is only used in connection with your ERA.com account. 
+If you wish to use ERA's personalized services, you will be asked to create and account in ERA.com. The process of creating this account necessitates that you provide Personal Information about yourself. This information is only used in connection with your ERA.com account.
 
 **Requests for Periodic Industry Updates**  
-If you request Periodic Industry Updates, we collect Personal Information, which is submitted directly to our web hosting services vendor's system to create automatic e-mails to people who choose to subscribe. The information we collect is not used in any other way and is not retained once you end your subscription to Periodic Industry Updates. 
+If you request Periodic Industry Updates, we collect Personal Information, which is submitted directly to our web hosting services vendor's system to create automatic e-mails to people who choose to subscribe. The information we collect is not used in any other way and is not retained once you end your subscription to Periodic Industry Updates.
 
 **Requests to Find or List a Property and to Find a Sales Associate**  
 If you submit a request through this Site to find or list a property or to find a sales associate (including a relocation specialist), you will be asked to provide Personal Information and we refer this information to Franchisees or sales associates to respond to your request. For example, if you ask that we list your property or if you ask to see more listings in a given area, you will be directed to a Franchisee in that area.
@@ -102,4 +102,4 @@ We will respond to such requests within 30 days of receipt. Please note that we 
 
 ### 9\. Comments and Questions
 
-If you have any questions or concerns about this Privacy Statement, please contact us by using the "[Contact Us](https://web.archive.org/contactus)" feature or by postal mail at **ERA, Attn: Interactive Marketing, 1 Campus Drive, Parsippany, NJ 07054**. 
+If you have any questions or concerns about this Privacy Statement, please contact us by using the "[Contact Us](https://web.archive.org/contactus)" feature or by postal mail at **ERA, Attn: Interactive Marketing, 1 Campus Drive, Parsippany, NJ 07054**.
