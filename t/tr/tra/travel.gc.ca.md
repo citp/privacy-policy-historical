@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the travel.gc.ca privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531222452id_/http%3A//canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.gc.ca privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216214217id_/http%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Canada.ca
 
 ## Disclaimer
 
-Some of the information and services found on this website have been provided by Government of Canada departments and agencies. Human Resources and Skills Development Canada (HRSDC) is not responsible for the accuracy, reliability or currency of the information or services provided by other departments and agencies of the Government of Canada. Users wishing to rely on this information or these services should consult directly with the appropriate source.
+Some of the information and services found on this website have been provided by Government of Canada departments and agencies. Employment and Social Development Canada (ESDC) is not responsible for the accuracy, reliability or currency of the information or services provided by other departments and agencies of the Government of Canada. Users wishing to rely on this information or these services should consult directly with the appropriate source.
 
 The Government of Canada is committed to protect the privacy of its visitors on its websites. This Privacy Notice summarizes the privacy policy and practices on Government of Canada websites.
 
 ## Your Privacy and the Internet
 
-Specific personal information, such as your name, phone number or email address, is not automatically gathered. HRSDC would only obtain this type of information if you supply it by email or by registering in a secure portion of the site for a program or service (e.g. personal information provided voluntarily when you complete an online form or request for service).
+Specific personal information, such as your name, phone number or email address, is not automatically gathered. ESDC would only obtain this type of information if you supply it by email or by registering in a secure portion of the site for a program or service (e.g. personal information provided voluntarily when you complete an online form or request for service).
 
 The nature of the Internet is such that Web servers automatically collect certain information about a visit to a website, including the visitor's Internet Protocol (IP) address. IP addresses are unique numbers assigned by Internet Service Providers (ISP) to all devices used to access the Internet. Web servers automatically log the IP addresses of visitors to their sites. The IP address, on its own, does not identify an individual. However, in certain circumstances, such as with the co-operation of an ISP for example, it could be used to identify an individual using the site. For this reason, the Government of Canada considers the IP address to be personal information, particularly when combined with other data automatically collected when a visitor requests a Web page such as the page or pages visited, date and time of the visit.
 
@@ -18,15 +18,15 @@ In cases where services are provided by organizations outside of the Government 
 
 All personal information created, held or collected by the Government of Canada is protected under the federal [_Privacy Act_](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html). At any point of collection, you will be asked for consent to collect your information or you will be advised of the authority for such collection. You will also be informed of the purpose for which the personal information is being collected, and how to exercise your right of access to, and correction of, that information. In such cases, how your personal information is handled is described in a Personal Information Collection Statement.
 
-Visitors' personal information is not usually disclosed to anyone except Government of Canada personnel who need the information to carry out their responsibilities. Any further disclosure of the personal information you provide would be in accordance with the federal [_Privacy Act_](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html) and Part 4 of the _Department of Human Resources and Skills Development Act (DHRSDA)_ if applicable once you have selected a program or service offered by another Government of Canada department or agency, you are subject to the terms of that institution's privacy notice.
+Visitors' personal information is not usually disclosed to anyone except Government of Canada personnel who need the information to carry out their responsibilities. Any further disclosure of the personal information you provide would be in accordance with the federal [_Privacy Act_](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html) and Part 4 of the _Department of Employment and Social Development Act ( DESDA)_ if applicable once you have selected a program or service offered by another Government of Canada department or agency, you are subject to the terms of that institution's privacy notice.
 
 ## Communicating with Government of Canada
 
-If you choose to send Canada.ca an email or complete a feedback form online, your personal information may be used in order to respond to your inquiry. HRSDC does not use the information to create individual profiles. Any disclosure of your personal information is in accordance with the _Privacy Act and Part 4 of the DHRSDA_ if applicable.
+If you choose to send Canada.ca an email or complete a feedback form online, your personal information may be used in order to respond to your inquiry. ESDC does not use the information to create individual profiles. Any disclosure of your personal information is in accordance with the _Privacy Act and Part 4 of the DESDA_ if applicable.
 
 Emails and other electronic methods used to communicate with the Government of Canada are not secure unless it is specifically stated on a Web page. Therefore, it is recommended that you **do not** send sensitive personal information, such as your Social Insurance Number or your date of birth, through non-secure electronic means.
 
-Personal information from emails or completed feedback forms is collected pursuant to section 5 of the _Department of Human Resources and Skills Development Act_ and section 4 of the _Privacy Act_. Such information may be used for statistical, evaluation and reporting purposes and is included in Personal Information Bank [_Public Communications ( PSU 914)_](http://www.infosource.gc.ca/emp/emp03-eng.asp#psu914).
+Personal information from emails or completed feedback forms is collected pursuant to section 5 of the _Department of Employment and Social Development Act_ and section 4 of the _Privacy Act_. Such information may be used for statistical, evaluation and reporting purposes and is included in Personal Information Bank [_Public Communications ( PSU 914)_](http://www.infosource.gc.ca/emp/emp03-eng.asp#psu914).
 
 ## Third-Party Social Media
 
@@ -51,7 +51,7 @@ You may adjust your browser settings to reject digital markers, including cookie
 
 Web analytics is the collection, analysis, measurement, and reporting of data about Web traffic and visits for purposes of understanding and optimizing Web usage. Information in digital markers may be used in conjunction with computer request data to identify and track your online interactions with the Canada.ca website.
 
-Canada.ca uses Google Analytics and log file analysisto improve Canada.ca. When your computer requests a Canada.ca Web page, the following types of information are collected and used for Web analytics:
+Canada.ca uses Google Analytics and log file analysis to improve Canada.ca. When your computer requests a Canada.ca Web page, the following types of information are collected and used for Web analytics:
 
   * the originating IP address
   * the date and time of the request
@@ -67,7 +67,7 @@ Canada.ca uses log file analysis internally and retains information collected fo
 
 Data collected for Web analytics purposes goes outside of Canada to Google servers and may be processed in any country where Google operates servers. Data may be subject to the governing legislation of that country, [for example the [_USA Patriot Act_](http://www.fincen.gov/statutes_regs/patriot/)]. For further information about Google Analytics, please refer to the [Google Analytics terms of service](http://www.google.ca/analytics/terms/us.html).
 
-Information used for the purpose of Web analytics is collected pursuant to section 5 of the _Department of Human Resources and Skills Development Act_ and section 4 of the _Privacy Act_. Such data may be used for communications and information technology statistical purposes, audit, and evaluation, research, planning and reporting. For more information on how your privacy is safeguarded in relation to web analytics, see the _Standard on Privacy and Web Analytics_.
+Information used for the purpose of Web analytics is collected pursuant to section 5 of the _Department of Employment and Social Development Act_ and section 4 of the _Privacy Act_. Such data may be used for communications and information technology statistical purposes, audit, and evaluation, research, planning and reporting. For more information on how your privacy is safeguarded in relation to web analytics, see the _Standard on Privacy and Web Analytics_.
 
 ## Protecting the Security of Government of Canada Websites
 
@@ -89,13 +89,13 @@ When a threat to the Canada.ca site or computer systems of the Government of Can
 
 ## Inquiring about these Practices
 
-Any questions, comments, concerns or complaints you may have regarding the administration of the _Privacy Act_ , the _Department of Human Resources and Skills Development Act_ and privacy policies regarding Canada.ca's website may be directed to [HRSDC](http://www.hrsdc.gc.ca/eng/home.shtml)'s Access to Information and Privacy Coordinator.
+Any questions, comments, concerns or complaints you may have regarding the administration of the _Privacy Act_ , the _Department of Employment and Social Development Act_ and privacy policies regarding Canada.ca's website may be directed to [ESDC](http://www.esdc.gc.ca/eng/home.shtml)'s Access to Information and Privacy Coordinator.
 
-If you are not satisfied with HRSDC's response to your privacy concern, you may wish to contact the [Office of the Privacy Commissioner](http://www.priv.gc.ca/index_e.asp) by telephone at 1-800-282-1376.
+If you are not satisfied with ESDC's response to your privacy concern, you may wish to contact the [Office of the Privacy Commissioner](http://www.priv.gc.ca/index_e.asp) by telephone at 1-800-282-1376.
 
 Date modified: 
-    2014-03-31
-  *[HRSDC]: Human Resources and Skills Development Canada
+    2014-09-30
+  *[ESDC]: Employment and Social Development Canada
   *[IP]: Internet Protocol
   *[ISP]: Internet Service Providers
-  *[ DHRSDA]: Department of Human Resources and Skills Development Act
+  *[ DESDA]: Department of Employment and Social Development Act
