@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponfactory.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401063119id_/http%3A//www.couponfactory.com/fraud) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponfactory.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216133810id_/http%3A//www.couponfactory.com/fraud) for the most accurate reproduction.*
 
-# Fraud Protection & Privacy | CouponFactory
+# Fraud Protection & Privacy
 
 ## Nobody likes a fraud
 
