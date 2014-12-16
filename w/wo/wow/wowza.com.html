@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the wowza.com privacy policy that was archived on 2014-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213040752id_/http%3A//www.wowza.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wowza.com privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216032108id_/http%3A//www.wowza.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
-	<script id="hs-analytics" src="//js.hubspot.com/analytics/1580463000000/229276.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/116869283.js"></script>
+	<script id="hs-analytics" src="//js.hubspot.com/analytics/1580463000000/229276.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//cdn.optimizely.com/js/116869283.js"></script>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
@@ -10,12 +10,12 @@
 <meta name="keywords" content="wowza">
 <meta name="description" content="Wowza Media Systems">
 
-    <link rel="shortcut icon" href="/favicon.ico">
+		<link rel="shortcut icon" href="/favicon.ico">
 	
 	<link href="/min/5fad398e1c670e940148bae31f1361fe.css?modified=1390456246" type="text/css" title="default" rel="stylesheet" media="screen">
 	
-	    
-    <!-- Wowza4 -->
+		
+	<!-- Wowza4 -->
 	<link rel="stylesheet" href="/css/wowza4/main.css">
 	<script src="/js/wowza4/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 	<script src="//use.typekit.net/soj4wsj.js"></script>
@@ -46,26 +46,72 @@
 		<script type="text/javascript" src="/js/players/swfobject.js?1"></script>
 		<script type="text/javascript" src="/js/wowza4/jquery.validate.js"></script>
 		<script type="text/javascript" src="/js/wowza4/additional-methods.js"></script>
+		<script type="text/javascript" src="/js/wowza4/jquery.ddslick.js"></script><style id="css-ddslick" type="text/css">.dd-select{ border-radius:2px; border:solid 1px #ccc; position:relative; cursor:pointer;}.dd-desc { color:#aaa; display:block; overflow: hidden; font-weight:normal; line-height: 1.4em; }.dd-selected{ overflow:hidden; display:block; padding:10px; font-weight:bold;}.dd-pointer{ width:0; height:0; position:absolute; right:10px; top:50%; margin-top:-3px;}.dd-pointer-down{ border:solid 5px transparent; border-top:solid 5px #000; }.dd-pointer-up{border:solid 5px transparent !important; border-bottom:solid 5px #000 !important; margin-top:-8px;}.dd-options{ border:solid 1px #ccc; border-top:none; list-style:none; box-shadow:0px 1px 5px #ddd; display:none; position:absolute; z-index:2000; margin:0; padding:0;background:#fff; overflow:auto;}.dd-option{ padding:10px; display:block; border-bottom:solid 1px #ddd; overflow:hidden; text-decoration:none; color:#333; cursor:pointer;-webkit-transition: all 0.25s ease-in-out; -moz-transition: all 0.25s ease-in-out;-o-transition: all 0.25s ease-in-out;-ms-transition: all 0.25s ease-in-out; }.dd-options > li:last-child > .dd-option{ border-bottom:none;}.dd-option:hover{ background:#f3f3f3; color:#000;}.dd-selected-description-truncated { text-overflow: ellipsis; white-space:nowrap; }.dd-option-selected { background:#f6f6f6; }.dd-option-image, .dd-selected-image { vertical-align:middle; float:left; margin-right:5px; max-width:64px;}.dd-image-right { float:right; margin-right:15px; margin-left:5px;}.dd-container{ position:relative;}​ .dd-selected-text { font-weight:bold}​</style>
+		<script type="text/javascript" src="/js/wowza4/bootstrap-hover-dropdown.js"></script>
 		<script type="text/javascript" src="/js/jquery.collapse.js"></script>
 	
-    
+
+	<script type="text/javascript">
+		function openSearch() {
+			if (!$('#search-bar').is(':visible')) {
+				$('#search-bar').animate({width: 'toggle'}, 250);
+			}
+			else {$('#search-form').submit();}
+
+			return false;
+		}
+
+		$(document).ready(function() {
+			$('#search-engine').ddslick({
+				background: 'white',
+				width: '120px',
+				imagePosition: 'left',
+				defaultSelectedIndex: 0,
+				onSelected: function () {
+				    var ddData = $('#search-engine').data('ddslick');
+				    if (ddData.selectedData.value == "site") {
+						$('#search-form').attr('action', '/search');
+						$('#search-query').attr('placeholder', 'Search Wowza.com');
+					}
+					else {
+						$('#search-form').attr('action', '/forums/google.php');
+						$('#search-query').attr('placeholder', 'Search Support');
+					}
+				}
+			});
+		});
+	</script>
+	
 	<!-- Google Analytics -->
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-411633-2']);
-		_gaq.push(['_setDomainName', 'none']);
+		_gaq.push(['_setDomainName', 'wowza.com']);
 		_gaq.push(['_setAllowLinker', true]);
 		_gaq.push(['_trackPageview']);
-		
+		 
 		(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
 
 		
-    <!-- ShareThis -->
+		
+		
+	
+	
+		
+		
+		
+		
+	
+	
+		
+		
+		
+	<!-- ShareThis -->
 	<script type="text/javascript">var switchTo5x=true;</script>
 	
 					<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
@@ -81,45 +127,149 @@
 	var WRInitTime=(new Date()).getTime();
 	</script>
 	
+		
 	<div class="container">
 	
 		<div class="masthead" role="banner">
-		
 			<div class="row">
-			    <div class="col-xs-12">
-			    	<nav class="user-nav pull-right" role="navigation">
-			    	    <ul class="clearfix">
-			    	    	<li class="pull-left contact-btn"><a href="http://www.wowza.com/contact">Contact</a></li>
-			    	    	
-			    	    	    			    	    	    	<li class="pull-left cart-total"><a href="/store/cart">Cart (<span id="cart_total">0</span>)</a></li>
-			    	    	    	<li class="pull-left login-btn"><a href="/portal/account">Login</a></li>
-			    	    	    			    	    	
-			    	    </ul>
-			    	</nav>
-			    </div>
+				<div class="col-xs-12.col-md-12 clearfix">
+					<nav class="user-nav pull-right" role="navigation">
+						<ul class="clearfix">
+							<li class="pull-left searchoptions-btn" style="margin-right: 0; white-space: nowrap;">
+								<span id="search-bar" style="display: none;">
+									<div id="search-engine" class="dd-container" style="width: 120px;"><div class="dd-select" style="width: 120px; background: white;"><input class="dd-selected-value" type="hidden" value="site"><a class="dd-selected"><img class="dd-selected-image" src="/images/search-icon-wowza.png"><label class="dd-selected-text" style="line-height: 0px;">Wowza.com</label></a><span class="dd-pointer dd-pointer-down"></span></div><ul class="dd-options dd-click-off-close" style="width: 120px;"><li><a class="dd-option dd-option-selected"> <input class="dd-option-value" type="hidden" value="site"> <img class="dd-option-image" src="/images/search-icon-wowza.png"> <label class="dd-option-text">Wowza.com</label></a></li><li><a class="dd-option"> <input class="dd-option-value" type="hidden" value="forums"> <img class="dd-option-image" src="/images/search-icon-support.png"> <label class="dd-option-text">Support</label></a></li></ul></div>
+									<form id="search-form" action="/search" method="get" style="display: inline;">
+										<input id="search-query" type="text" style="color: #000000; width: 150px; height: 23px; font-style: italic;" name="query" placeholder="Search Wowza.com">
+									</form>
+								</span>
+							</li>
+							<li class="pull-left">
+								<a href="#" onclick="openSearch();"><img src="/images/search-icon-blue.png" width="32" height="23" border="0"></a>
+							</li>
+							<li class="pull-left support-btn"><a href="http://www.wowza.com/forums/content.php">Support</a></li>
+							<li class="pull-left contact-btn"><a href="http://www.wowza.com/contact">Contact</a></li>
+							
+																	<li class="pull-left login-btn"><a href="/portal/account">Sign In</a></li>
+									<li class="pull-left cart-total"><a href="/store/cart">Cart (<span id="cart_total">0</span>)</a></li>
+															
+						</ul>
+					</nav>
+				</div>
 			</div>
 			<!-- // .row -->
 			
 			<div class="row">
 				<div class="col-xs-12 col-md-3">
-					<a href="/" class="home-btn"><img src="/images/wowza4/wowza-logo.png" alt="Wowza Media Systems" class="img-responsive"></a>
+					<a href="http://www.wowza.com/" class="home-btn"><img src="/images/wowza4/wowza-logo@2x.png" alt="Wowza Media Systems" class="img-responsive" width="198" height="57"></a>
 				</div>
-				<div class="col-xs-12 col-md-6">
+				<div class="col-xs-12 col-md-7">
 					<nav class="global-nav" role="navigation">
-					    <ul class="clearfix">
-					    	<li class="pull-left products-btn"><a href="/products">Products</a></li>
-					    	<li class="pull-left pricing-btn"><a href="/pricing">Pricing</a></li>
-					    	<li class="pull-left downloads-btn"><a href="/pricing/installer">Downloads</a></li>
-					    	<li class="pull-left customers-btn"><a href="/customers">Customers</a></li>
-					    	<li class="pull-left support-btn"><a href="/forums">Support</a></li>
-					    </ul>
+						<ul class="clearfix">
+					   <li class="pull-left streaming-btn dropdown">
+								<a href="http://www.wowza.com/streaming" data-hover="dropdown" data-delay="250" id="streaming-label">Streaming</a>
+								<ul class="dropdown-menu streaming-dropdown" role="menu" aria-labelledby="streaming-label" style="width: 335px;">
+									<li class="column">
+										<ul>
+											<li><h4>By Use</h4></li>
+											<li><a href="http://www.wowza.com/streaming/live">Live Streaming</a></li>
+											<!--<li><a href="#">Webcasting</a></li>-->
+											<li><a href="http://www.wowza.com/streaming/on-demand">On-Demand</a></li>
+											<li><a href="http://www.wowza.com/streaming/record">Record</a></li>
+											<li><a href="http://www.wowza.com/streaming/chat">Chat</a></li>
+										</ul>
+									</li>
+									<li class="column column-last">
+										<ul>
+											<li><h4>Info &amp; Help</h4></li>
+											<li><a href="http://www.wowza.com/streaming/what-is-streaming">What Is Streaming?</a></li>
+											<li><a href="http://www.wowza.com/streaming/videos">Tutorials and Webinars</a></li>
+										</ul>
+									</li>
+								</ul>
+					   </li>
+							<li class="pull-left products-btn dropdown">
+								<a href="http://www.wowza.com/products" data-hover="dropdown" data-delay="250" id="products-label">Products</a>
+								<ul class="dropdown-menu products-dropdown" role="menu" aria-labelledby="products-label" style="width: 660px;">
+									<li class="column">
+										<ul>
+											<li><h4>Server Software</h4></li>
+											<li><a href="http://www.wowza.com/products/streaming-engine">Wowza Streaming Engine</a></li>
+											<li style="display: inline-block; margin-left: 20px;"><a href="http://www.wowza.com/pricing/trial" class="blue-button">Free Trial</a></li>
+											<li style="display: inline-block; margin-right: 20px; margin-bottom: 1em;"><a href="http://www.wowza.com/pricing" class="orange-button">Buy Now</a></li>		
+											<li><a href="http://www.wowza.com/products/streaming-engine/deployment-options/aws">Wowza Streaming Engine<br>for Amazon EC2</a></li>
+										</ul>
+									</li>
+									<li class="column">
+										<ul>
+											<li><h4>AddOns</h4></li>
+											<li><a href="http://www.wowza.com/products/addons/wowza-transcoder-addon">Wowza Transcoder AddOn</a> </li>
+											<li><a href="http://www.wowza.com/products/addons/wowza-ndvr-addon">Wowza nDVR AddOn</a> </li>
+											<li><a href="http://www.wowza.com/products/addons/DRM">Wowza DRM AddOn</a></li>
+										</ul>
+									</li>
+									<li class="column column-last">
+										<ul>
+											<li><h4>Mobile</h4></li>
+											<li><a href="http://www.wowza.com/products/gocoder">Wowza GoCoder for<br>Android and iOS</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li class="pull-left pricing-btn dropdown">
+							  <a href="http://www.wowza.com/pricing" data-hover="dropdown" data-delay="250" id="pricing-label">Pricing</a>
+							  <ul class="dropdown-menu pricing-dropdown" role="menu" aria-labelledby="pricing-label" style="width: 540px;">
+									<li>
+										<ul>
+											<li><h4>Wowza Streaming Engine</h4></li>
+										</ul>
+									</li>
+									<li class="column monthly">
+										<ul>
+										  <li><h5>Monthly Edition</h5></li>
+											<li class="price">$55</li>
+											<li class="unit">per month/<br>instance</li>
+											<li class="btn"><a href="http://www.wowza.com/pricing" class="orange-button">Buy Now</a></li>	
+										</ul>
+									</li>
+									<li class="column column-last perpetual">
+										<ul>
+											<li><h5>Perpetual Edition</h5>
+											</li><li>A lifetime license is available for <br>a one-time payment; no monthly fees</li>
+											<li><a href="http://www.wowza.com/pricing/perpetual-edition" class="blue-button">Learn More</a></li>
+										</ul>
+									</li>
+								</ul>
+              </li>
+							<li class="pull-left downloads-btn"><a href="http://www.wowza.com/pricing/installer">Downloads</a></li>
+							<li class="pull-left customers-btn dropdown">
+								<a href="http://www.wowza.com/customers" data-hover="dropdown" data-delay="250" id="customers-label">Customers</a>
+								<ul class="dropdown-menu" role="menu" aria-labelledby="customers-label">
+									<li><a href="/customers#broadcasters">Broadcasters</a></li>
+									<li><a href="/customers#education">Education</a></li>
+									<li><a href="/customers#service-providers">Service Providers</a></li>
+									<li><a href="/customers#media-social-websites">Media &amp; Social</a></li>
+									<li><a href="/customers#enterprises">Enterprises</a></li>
+									<li><a href="/customers#government">Government</a></li>
+									<li><a href="/customers#houses-of-worship">Houses of Worship</a></li>
+								</ul>
+							</li>
+							<li class="pull-left partners-btn dropdown">
+								<a href="http://www.wowza.com/partners" data-hover="dropdown" data-delay="250" id="partnern-label">Partners</a>
+								<ul class="dropdown-menu" role="menu" aria-labelledby="partners-label">
+									<li><a href="http://www.wowza.com/partners/works-with-wowza">Works With Wowza</a></li>
+									<li><a href="http://www.wowza.com/partners/technology-alliance">Technology Alliance</a></li>
+									<li><a href="http://www.wowza.com/streaming/developers">Developers</a></li>
+									<li><a href="http://www.wowza.com/partners/preferred-international-resellers">Preferred International Resellers</a></li>
+									<li><a href="http://www.wowza.com/partners/resources">Reseller Portal</a></li>
+								</ul>							
+							</li>
+						</ul>
 					</nav>
 				</div>
-				<div class="col-xs-12 col-md-3">
+				<div class="col-xs-12 col-md-2">
 					<nav class="pull-right product-nav" role="navigation">
 						<ul class="clearfix">
-							<li class="pull-left trial-btn"><a href="/pricing/trial">Free Trial</a></li>
-							<li class="pull-left purchase-btn"><a href="/pricing">Purchase</a></li>
+							<li class="pull-left trial-btn"><a href="http://www.wowza.com/pricing/trial">Free Trial</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -131,15 +281,15 @@
 		
 		<div class="content" role="main">
 		
-            
+			
 	
 		<div class="row">
 		    <div class="col-xs-12">
 		    	<nav class="breadcrumb-nav">
-		            <ul class="clearfix">
-		            	<li class="pull-left"><a href="/">Home</a></li>
-		            	<li class="pull-left">&nbsp;/&nbsp;Privacy</li>
-		            </ul>
+		    	  <ul class="clearfix">
+		          <li class="pull-left"><a href="/">Home</a></li>
+		            		              <li class="pull-left">&nbsp;<span class="separator">&gt;</span>&nbsp;Privacy</li>
+		            					</ul>
 		        </nav>
 		    </div>
 		</div>
@@ -155,6 +305,7 @@
 		    <div class="col-xs-12 col-md-9">
 		    	<div class="primary-content">
 		    		
+		    		  <div class="standard-body">
 		    	    	<p>
 	<strong>What information does Wowza gather/track about you?</strong><br>
 	Wowza requires that you supply personal information, including name, company, telephone number and email address, prior to receiving license keys and other specific corporate and informational materials. Wowza also logs IP addresses, Web browser information, referral information, and pages visited for the purposes of improving both the navigation and marketing of the website.<br>
@@ -179,7 +330,9 @@
 	<br>
 	Please contact us at <a href="mailto:sales@wowza.com">sales@wowza.com</a> if you have any questions about this privacy statement.</p>
 
-					
+		    		  </div>
+            
+            
 		    	</div>
 		    </div>
 		    <div class="col-xs-12 col-md-3">
@@ -205,34 +358,39 @@
 
 
 		    		
-		    				    	</div>
+		    				    		
+		    	</div>
 		    </div>
 		</div>
 	
 
-            
-        </div>
-        <!-- // .content -->
-        
+			
+		</div>
+		<!-- // .content -->
+		
 		<div class="addendum" role="complementary">
 		
 			<div class="row">
 				<div class="col-xs-12 col-md-9">
 					<nav class="footer-global-nav" role="navigation">
 						<ul class="clearfix">
-							<li class="pull-left products-btn"><a href="/products">Products</a></li>
-					    	<li class="pull-left pricing-btn"><a href="/pricing">Pricing</a></li>
-					    	<li class="pull-left downloads-btn"><a href="/pricing/installer">Downloads</a></li>
-					    	<li class="pull-left customers-btn"><a href="/customers">Customers</a></li>
-					    	<li class="pull-left support-btn"><a href="/forums">Support</a></li>
+							<li class="pull-left streaming-btn"><a href="http://www.wowza.com/streaming">Streaming</a></li>
+							<li class="pull-left products-btn"><a href="http://www.wowza.com/products">Products</a></li>
+							<li class="pull-left pricing-btn"><a href="http://www.wowza.com/pricing">Pricing</a></li>
+							<li class="pull-left downloads-btn"><a href="http://www.wowza.com/pricing/installer">Downloads</a></li>
+							<li class="pull-left customers-btn"><a href="http://www.wowza.com/customers">Customers</a></li>
+							<li class="pull-left partners-btn"><a href="http://www.wowza.com/partners">Partners</a></li>
+							<li class="pull-left support-btn"><a href="http://www.wowza.com/forums/content.php">Support</a></li>
 						</ul>
 					</nav>
 				</div>
-				<div class="col-xs-12 col-md-3">
+				<div class="col-xs-12 col-md-3 clearfix">
 					<nav class="pull-right footer-product-nav" role="navigation">
 						<ul class="clearfix">
-							<li class="pull-left trial-btn"><a href="/pricing/trial">Free Trial</a></li>
-							<li class="pull-left purchase-btn"><a href="/pricing">Purchase</a></li>
+							<li class="pull-left trial-btn"><a href="http://www.wowza.com/pricing/trial">Free Trial</a></li>
+							
+																	<li class="pull-left purchase-btn"><a href="http://www.wowza.com/pricing">Buy Now</a></li>
+															
 						</ul>
 					</nav>
 				</div>
@@ -244,22 +402,22 @@
 					<div class="news">
 						<h5>Latest News</h5>
 						<ul>
-						    
-						    							        	<li class="clearfix entry">
-						        		<span class="pull-left entry-date">Feb 11, 2014</span>
-						        		<span class="pull-left entry-title"><a href="http://www.wowza.com/news/new-wowza-streaming-engine-simplifies-live-and-vod-broadcasting">New Wowza Streaming Engine Simplifies Live and VOD Broadcasting</a></span>
-						        	</li>
-						    							    
-						    							        	<li class="clearfix entry">
-						        		<span class="pull-left entry-date">Jan 07, 2014</span>
-						        		<span class="pull-left entry-title"><a href="http://www.wowza.com/news/wowza-and-divx-debut-new-divx-live-streaming-with-hevc-over-mpeg-dash">Wowza and DivX Debut New DivX Live Streaming with HEVC Over MPEG-DASH</a></span>
-						        	</li>
-						    							    
-						    							        	<li class="clearfix entry">
-						        		<span class="pull-left entry-date">Jan 06, 2014</span>
-						        		<span class="pull-left entry-title"><a href="http://www.cioreview.com/news/media-entertainment/Making-Customers-Thrive-nid-51-cid-6.html">Making Customers Thrive</a></span>
-						        	</li>
-						    							    
+							
+																	<li class="clearfix entry">
+										<span class="pull-left entry-date">Dec 10, 2014</span>
+										<span class="pull-left entry-title"><a href="http://provideocoalition.com/pvcexclusive/story/helping-video-professionals-reach-new-audiences-for-their-customers">Helping Video Professionals Reach New Audiences for their Customers</a></span>
+									</li>
+															
+																	<li class="clearfix entry">
+										<span class="pull-left entry-date">Dec 05, 2014</span>
+										<span class="pull-left entry-title"><a href="http://www.wowza.com/news/free-webinar-connecting-colleagues-with-video-a-look-at-cerns-webcasting">Free webinar: Connecting Colleagues with Video: A Look at CERN’s Webcasting Solution</a></span>
+									</li>
+															
+																	<li class="clearfix entry">
+										<span class="pull-left entry-date">Dec 01, 2014</span>
+										<span class="pull-left entry-title"><a href="http://www.huffingtonpost.com/andre-bourque/top-10-streaming-video-tr_b_6215246.html">Top 10 Streaming Video Trends You Can Expect in 2015</a></span>
+									</li>
+															
 						</ul>
 						<p><a href="/news">View All News &gt;</a></p>
 					</div>
@@ -268,29 +426,42 @@
 					<div class="row">
 						<div class="col-xs-12 col-md-6">
 							<div class="about">
-								<h5>Company</h5>
+								<h5>Products</h5>
 								<ul>
-									<li><a href="/about-us">About Us</a></li>
-									<li><a href="/about-us/management-team">Management Team</a></li>
-									<li><a href="/about-us/wowza-history">Wowza History</a></li>
-									<li><a href="/careers">Careers</a></li>
-									<li><a href="/news">News &amp; Press</a></li>
-									<li><a href="/blog">Blog</a></li>
+									<li><a href="http://www.wowza.com/products/streaming-engine">Wowza Streaming Engine</a></li>
+									<li><a href="http://www.wowza.com/products/addons/wowza-transcoder-addon">Wowza Transcoder</a></li>
+									<li><a href="http://www.wowza.com/products/addons/wowza-ndvr-addon">Wowza nDVR</a></li>
+									<li><a href="http://www.wowza.com/products/addons/DRM">Wowza DRM</a></li>
+									<li><a href="http://www.wowza.com/products/gocoder">Wowza GoCoder</a></li>
+									<li><a href="http://www.wowza.com/products/addons">All AddOns</a></li>
 								</ul>
 							</div>
 						</div>
 						<div class="col-xs-12 col-md-6">
 							<div class="partners">
-								<h5>Partners</h5>
+								<h5>Streaming</h5>
 								<ul>
-									<li><a href="/partners">Partners Overview</a></li>
-									<li><a href="/partners/cloud-hosting-partners">Cloud and Hosting Partners</a></li>
-									<li><a href="/partners/solution-partners">Solution Partners</a></li>
-									<li><a href="/partners/technology-alliance">Technology Alliance</a></li>
-									<li><a href="/partner-programs">Become a Partner</a></li>								
+									<li><a href="http://www.wowza.com/streaming">Overview</a></li>
+									<li><a href="http://www.wowza.com/streaming/live">Live</a></li>
+									<li><a href="http://www.wowza.com/streaming/on-demand">On-demand</a></li>
+									<li><a href="http://www.wowza.com/streaming/record">Record</a></li>
+									<li><a href="http://www.wowza.com/streaming/chat">Chat</a></li>
+									<li><a href="http://www.wowza.com/media-servers">Media Servers</a></li>
+									<li><a href="http://www.wowza.com/streaming/videos">Videos</a></li>							
 								</ul>
 							</div>
 						</div>
+					</div>
+					<div class="row">
+					  <div class="col-xs-12">
+					    <div class="resellers">
+					      <h5>Resellers</h5>
+					      <ul>
+					        <li><a href="http://www.wowza.com/partners/preferred-international-resellers">Preferred International Resellers</a></li>
+					        <li><a href="http://www.wowza.com/partners/resources">Reseller Portal</a></li>
+					      </ul>
+					    </div>
+					  </div>
 					</div>
 					<div class="row">
 						<div class="col-xs-12">
@@ -300,35 +471,54 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-md-4">
-					<div class="inquiries">
-						<h5>Have a question?</h5>
-						<p>Reach out to us on our <a href="http://www.wowza.com/contact">contact page</a></p>
-						<p>or email us at <span data-eeencemail_cpgayesllb="1"><a href="mailto:info@wowza.com">info@wowza.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 97',' 122',' 119',' 111',' 119',' 64',' 111',' 102',' 110',' 105','>','\"',' 109',' 111',' 99',' 46',' 97',' 122',' 119',' 111',' 119',' 64',' 111',' 102',' 110',' 105',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0){out += unescape(l[i].replace(/^\s\s*/, '&#'));}while (--j >= 0){/**/if (el[j].getAttribute('data-eeEncEmail_CpGAYesllB')){el[j].innerHTML = out;}}/*]]>*/</script>.</p>
-						<p>Need to manage StreamLock™ SSL certificates? <a href="http://www.wowza.com/streamlock">Go here</a>.</p>
+					<div class="row">
+						<div class="col-xs-12 col-md-6">
+							<div class="partners">
+								<h5>Partners</h5>
+								<ul>
+									<li><a href="http://www.wowza.com/partners">Partners Overview</a></li>
+									<li><a href="http://www.wowza.com/partners/works-with-wowza">Works With Wowza</a></li>
+									<li><a href="http://www.wowza.com/partners/technology-alliance">Technology Alliance</a></li>
+									<li><a href="http://www.wowza.com/streaming/developers">Developers</a></li>
+									<li><a href="http://www.wowza.com/partner-programs">Become a Partner</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-xs-12 col-md-6">
+							<div class="about">
+								<h5>Company</h5>
+								<ul>
+									<li><a href="http://www.wowza.com/about-us">About Us</a></li>
+									<li><a href="http://www.wowza.com/about-us/management-team">Management Team</a></li>
+									<li><a href="http://www.wowza.com/about-us/wowza-history">Wowza History</a></li>
+									<li><a href="http://www.wowza.com/careers">Careers</a></li>
+									<li><a href="http://www.wowza.com/news">News &amp; Press</a></li>
+									<li><a href="http://www.wowza.com/blog">Blog</a></li>
+								</ul>
+							</div>
+						</div>
 					</div>
-					<div class="subscription-form">
-						<h5>Stay Informed</h5>
-						<form action="http://www.wowza.com/?ACT=26" accept-charset="utf-8" id="stayinformed-form" method="post" novalidate="novalidate"><div style="display:none">
-<input type="hidden" name="params_id" value="107011">
-<input type="hidden" name="XID" value="fe3836a74f26282dd0fc05ec85ee18e391d3d58c">
-</div>
-							<fieldset class="form-group">
-								<input type="hidden" name="source" value="Footer Subscription Form">
-								<input type="hidden" name="subscribe" value="Yes">
-							    <input type="text" name="email" id="stayinformed-email" class="form-control pull-left" placeholder="Enter your email address">
-							    <input type="submit" class="btn btn-default pull-right submit" value="Submit">
-							</fieldset>
-						</form>
-					</div>
-					<div class="social-links">
-						<h5>Follow Us</h5>
-						<ul class="clearfix">
-						    <li class="pull-left"><a href="http://www.linkedin.com/company/wowza-media-systems" target="_blank"><img src="/images/social-linked-in.png"></a></li>
-						    <li class="pull-left"><a href="https://twitter.com/wowzamedia" target="_blank"><img src="/images/social-twitter.png"></a></li>
-						    <li class="pull-left"><a href="http://www.youtube.com/wowzamedia" target="_blank"><img src="/images/social-youtube.png"></a></li>
-						    <li class="pull-left"><a href="http://www.gplus.to/wowza" target="_blank"><img src="/images/social-google.png"></a></li>
-						    <li class="pull-left"><a href="http://www.facebook.com/Wowza" target="_blank"><img src="/images/social-facebook.png"></a></li>
-						</ul>
+					<div class="row">
+						<div class="subscription-form">
+							<h5>Stay Informed</h5>
+							<script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
+							<script>
+							  hbspt.forms.create({ 
+								portalId: '229276',
+								formId: 'a86ca9cc-88eb-4688-87a8-d6c2d08da897'
+							  });
+							</script>
+						</div>
+						<div class="social-links">
+							<h5>Follow Us</h5>
+							<ul class="clearfix">
+								<li class="pull-left"><a href="http://www.linkedin.com/company/wowza-media-systems" target="_blank"><img src="/images/social-linked-in.png"></a></li>
+								<li class="pull-left"><a href="https://twitter.com/wowzamedia" target="_blank"><img src="/images/social-twitter.png"></a></li>
+								<li class="pull-left"><a href="http://www.youtube.com/wowzamedia" target="_blank"><img src="/images/social-youtube.png"></a></li>
+								<li class="pull-left"><a href="https://plus.google.com/+wowza/posts" target="_blank"><img src="/images/social-google.png"></a></li>
+								<li class="pull-left"><a href="http://www.facebook.com/Wowza" target="_blank"><img src="/images/social-facebook.png"></a></li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -343,64 +533,33 @@
 			
 		</div>
 		<!-- // .addendum -->
+		
+				
 	</div>
 	<!-- // .container -->
 	
 	<!-- Wowza4 -->
 	<script src="/js/wowza4/jquery.tools.min.js"></script>
+	<script src="/js/wowza4/isotope.pkgd.min.js"></script>
 	<script src="/js/wowza4/main-ck.js"></script>
 	
 	
-	<script type="text/javascript">
-		$('#stayinformed-form').validate({
-            errorClass: "error",
-            showErrors: function(errorMap, errorList) {
-				// Clean up any tooltips for valid elements
-				$.each(this.validElements(), function (index, element) {
-					var $element = $(element);
-
-					$element.data("title", "") // Clear the title - there is no error associated anymore
-					.removeClass("error")
-					.tooltip("destroy");
-				});
-
-				// Create new tooltips for invalid elements
-				$.each(errorList, function (index, error) {
-					var $element = $(error.element);
-
-					$element.tooltip("destroy") // Destroy any pre-existing tooltip so we can repopulate with new tooltip content
-					.data("title", error.message)
-					.addClass("error")
-					.tooltip({trigger: 'manual', placement: 'bottom'}) // Create a new tooltip based on the error messsage we just set in the title
-					.tooltip('show');
-
-				});
-			},
-            highlight: function(element, errorClass, validClass) {$(element).addClass(errorClass).removeClass(validClass);},
-            unhighlight: function(element, errorClass, validClass) {$(element).removeClass(errorClass).addClass(validClass);}
-        });
-        $('#stayinformed-email').rules("add", {
-            required: true,
-            minlength: 2,
-            email: true
-        });	
-    </script>
 
 	<!-- WebEngage embed-code -->
 	<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
-	    window.webengageWidgetInit = window.webengageWidgetInit || function(){
-	        webengage.init({licenseCode:"14507cb04"}).onReady(function(){webengage.render();});
-	    };
+		window.webengageWidgetInit = window.webengageWidgetInit || function(){
+			webengage.init({licenseCode:"14507cb04"}).onReady(function(){webengage.render();});
+		};
 	
-	    (function(d){
-	        var _we = d.createElement('script');
-	        _we.type = 'text/javascript';
-	        _we.async = true;
-	        _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") +
-	                            "/js/widget/webengage-min-v-3.0.js";
-	        var _sNode = d.getElementById('_webengage_script_tag');
-	        _sNode.parentNode.insertBefore(_we, _sNode);
-	    })(document);
+		(function(d){
+			var _we = d.createElement('script');
+			_we.type = 'text/javascript';
+			_we.async = true;
+			_we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") +
+								"/js/widget/webengage-min-v-3.0.js";
+			var _sNode = d.getElementById('_webengage_script_tag');
+			_sNode.parentNode.insertBefore(_we, _sNode);
+		})(document);
 	</script>
 
 	<!-- ClickTale -->
@@ -424,14 +583,14 @@
 	</script>
 
 	<!-- Async HubSpot Analytics -->
-    <script type="text/javascript">
-        (function(d,s,i,r) {
-            if (d.getElementById(i)){return;}
-            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
-            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/229276.js';
-            e.parentNode.insertBefore(n, e);
-        })(document,"script","hs-analytics",300000);
-    </script>
+	<script type="text/javascript">
+		(function(d,s,i,r) {
+			if (d.getElementById(i)){return;}
+			var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+			n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/229276.js';
+			e.parentNode.insertBefore(n, e);
+		})(document,"script","hs-analytics",300000);
+	</script>
 
 	<!-- Web Engage -->
 	<script id="_webengage_script_tag" type="text/javascript">
@@ -440,21 +599,60 @@
 	  _weq['webengage.widgetVersion'] = "4.0";
 	  
 	  (function(d){
-	    var _we = d.createElement('script');
-	    _we.type = 'text/javascript';
-	    _we.async = true;
-	    _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
-	    var _sNode = d.getElementById('_webengage_script_tag');
-	    _sNode.parentNode.insertBefore(_we, _sNode);
+		var _we = d.createElement('script');
+		_we.type = 'text/javascript';
+		_we.async = true;
+		_we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+		var _sNode = d.getElementById('_webengage_script_tag');
+		_sNode.parentNode.insertBefore(_we, _sNode);
 	  })(document);
 	</script>
+
+	<!-- Google Code for Remarketing Tag -->
+
+	<!--------------------------------------------------
+
+	Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+
+	--------------------------------------------------->
+
+	<script type="text/javascript">
+
+		/* <![CDATA[ */
+
+		var google_conversion_id = 1067980474;
+
+		var google_custom_params = window.google_tag_params;
+
+		var google_remarketing_only = true;
+
+		/* ]]> */
+
+	</script>
+
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+
+	</script>
+
+	<noscript>
+
+		<div style="display:inline;">
+
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067980474/?value=0&amp;guid=ON&amp;script=0"/>
+
+		</div>
+
+	</noscript>
+	
+		
+
+
+
+
+
+
+
+
 	
 
-
-
-
-
-
-
-	
 </body></html>
