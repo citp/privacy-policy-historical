@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044521id_/http%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216074208id_/https%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
 
 # CheapOair.com Privacy Policy
 
@@ -10,7 +10,7 @@ Cheapoair has been awarded TRUSTe's Privacy Seal signifying that this privacy po
 
 Please read this privacy policy ("Privacy Policy") to learn about our information collection and dissemination practices in connection with the CheapOair.com website and mobile application (collectively, the "Site"). By visiting any section of the Sites you agree to the practices described herein. If you do not agree to this Privacy Policy, you should not use the Site.
 
-If you have questions or concerns regarding our privacy policy, you should first contact customer service at [cservice@CheapOair.com](mailto:cservice@CheapOair.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding our privacy policy, you should first contact customer service at [Feedback@CheapOair.com ](mailto:Feedback@CheapOair.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Cheapoair.com use of your private information.
 
@@ -49,7 +49,7 @@ Save for the above mentioned situations, you will be notified when your personal
 
 Changing an updating your private information.
 
-You may access your private information through your account on our website, if you created one. You can close your account or change your personal information by sending us an e-mail at [cservice@CheapOair.com](mailto:cservice@CheapOair.com). We may retain some of your personal information for record keeping integrity or for statistical purposes.We may retain your personal information to comply with our legal obligations, resolve disputes, and enforce our agreements.   
+You may access your private information through your account on our website, if you created one. You can close your account or change your personal information by sending us an e-mail at [Feedback@CheapOair.com](mailto:Feedback@CheapOair.com). We may retain some of your personal information for record keeping integrity or for statistical purposes.We may retain your personal information to comply with our legal obligations, resolve disputes, and enforce our agreements.   
   
    
 | **AGENTS**  
@@ -87,7 +87,7 @@ If you receive browser warnings when going from secure mode pages to non-SSL pag
 
 We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. No method of transmission over the Internet, or method of electronic storage is 100% secure. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-If you have any questions about security on our Web site, you can send email us at [[cservice@CheapOair.com](mailto:cservice@cheapoair.com)]  
+If you have any questions about security on our Web site, you can send email us at [[Feedback@CheapOair.com](mailto:Feedback@CheapOair.com)]  
   
   
 **GOVERNMENT AND LEGAL**  
@@ -102,12 +102,12 @@ ll the terms used herein are to be interpreted as defined under our [Terms and C
 **ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
 ---  
   
-If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [cservice@CheapOair.com](mailto:cservice@cheapoair.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your access request within 30 days.  
+If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [Feedback@CheapOair.com](mailto:Feedback@CheapOair.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your access request within 30 days.  
   
 **PUBLIC FORUMS**  
 ---  
   
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [cservice@CheapOair.com](mailto:cservice@cheapoair.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [Feedback@CheapOair.com](mailto:Feedback@CheapOair.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
   
 **Social Media (Features) and Widgets**  
 ---  
@@ -131,11 +131,24 @@ CheapOair.com,
 135 W 50th Street  
 Suite 500  
 New York, NY 10020  
-[cservice@CheapOair.com](mailto:cservice@cheapoair.com)**  
+[Feedback@CheapOair.com](mailto:Feedback@CheapOair.com)**  
   
   
    
 If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will serve as a liaison with us to resolve your concerns.  
   
    
- 
+   
+|   
+---  
+  
+| 
+
+Be the first to get our latest flight deals and discounts! 
+
+PLUS, save $20** instantly  
+  
+---  
+  
+   
+ADVERTISEMENT
