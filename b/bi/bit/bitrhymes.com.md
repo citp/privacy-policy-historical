@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrhymes.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429214223id_/http%3A//www.bashgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrhymes.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216105328id_/http%3A//www.bashgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # BASH Gaming › Privacy Policy
 
