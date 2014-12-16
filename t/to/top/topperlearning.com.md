@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626221940id_/http%3A//www.topperlearning.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216165221id_/http%3A//www.topperlearning.com/home/privacy_policy) for the most accurate reproduction.*
 
-# Online Study Material - CBSE, ICSE, Kerala, Tamil Nadu Boards,IIT JEE Test Papers, Video Tutorials, Online Education, TextBook Solutions All Classes - Topperlearning
+# Privacy Policies - Topperlearning
 
 General
 
