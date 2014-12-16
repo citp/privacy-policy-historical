@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsonaplane.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074203id_/http%3A//kidsonaplane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsonaplane.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216162213id_/http%3A//kidsonaplane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kids On A Plane - A Family Travel Blog
 
@@ -35,3 +35,7 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 **Information collected by third-parties.**
 
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20141216162213id_/http://www.kidsonaplane.com/privacy-policy/We%20use%20third-party%20advertising%20companies%20to%20serve%20ads%20when%20you%20visit%20our%20Web%20site.%20These%20companies%20may%20use%20aggregated%20information%20\(not%20including%20your%20name,%20address,%20email%20address%20or%20telephone%20number\)%20about%20your%20visits%20to%20this%20and%20other%20Web%20sites%20in%20order%20to%20provide%20advertisements%20about%20goods%20and%20services%20of%20interest%20to%20you.%20If%20you%20would%20like%20more%20information%20about%20this%20practice%20and%20to%20know%20your%20choices%20about%20not%20having%20this%20information%20used%20by%20these%20companies,%20please%20see:%20http://www.networkadvertising.org/managing/opt_out.asp)
