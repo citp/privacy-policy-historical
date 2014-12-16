@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the starcasm.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093831id_/http%3A//starcasm.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcasm.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216210853id_/http%3A//starcasm.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - starcasm.net
 
 Nov - 03 | AUTHOR: | Related : 
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fstarcasm.net%2Fprivacy-policy&media=)
 
 Effective **November 1, 2008**
 
@@ -38,3 +40,5 @@ Six Apart Media third party advertising networks and advertisers
 <http://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html>
 
 Some of these third party advertising networks are participants in the Network Advertising Initiative (“NAI”), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may “opt out” of targeted advertising delivered by NAI member ad networks here. [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fstarcasm.net%2Fprivacy-policy&media=)
