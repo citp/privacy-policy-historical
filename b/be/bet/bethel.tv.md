@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethel.tv privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616012003id_/http%3A//www.bethel.tv/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethel.tv privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216162004id_/http%3A//www.bethel.tv/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Bethel.TV
 
