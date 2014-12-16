@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011849id_/http%3A//www.blurtit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216154834id_/http%3A//www.blurtit.com/privacy_policy) for the most accurate reproduction.*
 
 # Blurtit - Support
 
