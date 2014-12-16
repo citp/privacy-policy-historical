@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperswala.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619161656id_/http%3A//www.wallpaperswala.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperswala.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217002806id_/http%3A//www.wallpaperswala.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WallpapersWala.com
 
