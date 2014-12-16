@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinchofyum.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120640id_/http%3A//pinchofyum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinchofyum.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216101109id_/http%3A//pinchofyum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pinch of Yum
 
@@ -14,7 +14,19 @@ Like many other Web sites, www.pinchofyum.com makes use of log files. The inform
 
 ## Cookies and Web Beacons
 
-www.pinchofyum.com does not use cookies. 
+Cookies are very small text files that are stored on your computer when you visit some websites. Cookies are used by most websites to tailor content and marketing messages to better suit your needs.
+
+We use cookies on the website to track visitor behavior. If you prefer not to allow the use of cookies, you can change the configuration of your browser to warn you when you receive a cookie or automatically reject them.
+
+If you would like to find out more about cookies you can visit [http://www.aboutcookies.org](http://www.aboutcookies.org/).
+
+### Types of cookie used
+
+**Google Analytics** – We use Google Analytics to understand how the website is being used in order to improve the user experience. User data is anonymous.
+
+**Google Remarketing** — Google uses these cookies to show relevant adverts to users who have previously visited our website, as they browse other websites. You can opt-out from Google’s remarketing program, by changing your [](https://www.google.com/settings/ads)Google Ad Settings.
+
+**Facebook** – Cookies and pixels are used to understand and deliver ads and make them more relevant to you. We may also use a cookie to learn whether someone who saw an ad on Facebook later visited our website.
 
 ## DoubleClick DART Cookie
 
@@ -22,10 +34,16 @@ Google, as a third party vendor, uses cookies to serve ads on www.pinchofyum.com
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.pinchofyum.com and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include…  
+BlogHer  
+ShareASale  
 Google Adsense  
+ZipList  
+sovrn  
+Yellow Hammer Media  
 Commission Junction  
-Amazon
+Amazon  
+The Blogger Network
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pinchofyum.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
