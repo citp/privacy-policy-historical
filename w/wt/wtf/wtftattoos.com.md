@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtftattoos.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101935id_/http%3A//wtftattoos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtftattoos.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216162121id_/http%3A//wtftattoos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WTF Tattoos
 
