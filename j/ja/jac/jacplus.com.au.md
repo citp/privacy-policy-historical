@@ -1,88 +1,36 @@
-> *The following text is extracted and transformed from the jacplus.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082814id_/http%3A//jacplus.com.au/jsp/general-nav/copyright/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacplus.com.au privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216113759id_/http%3A//www.jacplus.com.au/jsp/general-nav/copyright/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Wiley Australia - Copyright
 
-John Wiley & Sons Australia, Ltd recognises the importance of protecting the information collected from Users in the operation of this website, and takes all reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy Policy and the Australian National Privacy Principles. __ By submitting your information to Wiley Australia you consent to the practices described herein. 
+## **JACARANDA PRIVACY POLICY**
 
-Wiley Australia will ensure that any identifiable personal information it collects during the registration and purchasing processes will be adequate, relevant and not excessive for purposes of operating this website or any of the services operated hereunder, it will be kept accurate and up-to-date based on information provided and it will be deleted when no longer needed. Except where necessary in connection with services provided by appropriate intermediaries, who will be required to comply with the confidentiality provisions of this policy, Wiley will not disclose __ any personal information identifying Users to any third party, unless required by law or otherwise needed in connection with legal proceedings or unless we have received your consent.   Wiley Australia protects the security of User Information by using an advanced encryption technology software program for secure internet transactions.
+John Wiley & Sons Australia, Ltd (trading as “Jacaranda”) is a member of the John Wiley & Sons Inc group of companies. We recognize the importance of protecting the information collected from Users in the operation of the JacPLUS website and through other means, and we take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy Policy and the Australian Privacy Principles. By submitting your information to Jacaranda you consent to the practices described in this policy. If you are less than 18 years of age, then you should first seek the consent of your parent or guardian prior to submitting any personal information to Jacaranda.
 
-Wiley may disclose to carefully chosen third parties navigational and transactional information in the form of anonymous, aggregate usage statistics (including "page views" on this website and the products herein) and demographics but only in forms that do not reveal a User's identity or confidential information, except as required by law, as needed in connection with legal proceedings, or unless we have received your consent. 
+Jacaranda will seek to ensure that any identifiable personal information it collects during the registration and purchasing processes, through any customer service interactions and by any use of our products on JacPLUS will be adequate, relevant and not excessive for the purposes of providing the products and services and it will be kept accurate and up-to-date based on information provided. The kinds of personal information that Jacaranda may collect includes your name, contact information and school information as well as other information that may assist us with providing our products and services to you. Jacaranda also collects information that is not personal information, such as your IP address, details of your computer browser and other software, data on the use of our websites or your opinion of our services or products in one of our surveys.
 
-Links may be provided from this website to other third party websites. In using such links, Users should be aware that each third party website will vary in terms of its privacy and data protection policies, and Wiley does not take responsibility for the privacy policies of, and usage of, personal information collected by others. 
+Jacaranda uses your information in order to supply or market our products or services to you, to communicate with you, to enable us to administer accounts, manage our business and comply with all other legal or regulatory requirements. Personal information and any other communications or information supplied to Jacaranda may be used by Jacaranda for internal business and research purposes and to help enhance and develop our websites and other products and services.
 
-You should be aware that identifiable personal information--such as your name or e-mail address--that you voluntarily disclose that are accessible to others in the public domain (e.g. on bulletin boards or in chat areas) could be collected and disclosed by others. Wiley cannot take any responsibility for such collection and disclosure. 
+Except as expressly provided in this policy or, unless we have received your consent, Jacaranda will not disclose any personal information identifying users to any third party except where necessary in connection with services provided by appropriate intermediaries, who will be required to comply with strict confidentiality provisions in accordance with this policy and the Australian Privacy Principles. These intermediaries and service providers provide us with information technology services (e.g. hosting and development services), production services and provision of customer services. Some of these service providers may be located in other countries, such as the United States of America or India. Personal information may also be provided to other Jacaranda affiliates in other countries as part of our obligation to contribute to global reporting requirements. Jacaranda is part of the Wiley group of companies and has servers and major office locations in the United States, the United Kingdom, Singapore and Germany amongst other countries.
 
-Please note that Wiley Australia's Privacy Policy is reviewed periodically. Wiley Australia reserves the right to modify its Privacy Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this website will be deemed conclusive acceptance of such modification. Any comments, questions or complaints concerning this policy should be addressed by entering your comments through our Contact Us page. If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, or (3) correct, supplement or modify your information, you may either  Contact Us via email, or make in a written request to John Wiley & Sons, Australia Ltd, PO Box 1226, Milton, Queensland, 4064. If you wish to modify your shopping account, you can do it directly in the My Account section. 
+In addition, Jacaranda may disclose personally identifiable information to third parties in order to comply with the law or requests by law enforcement agencies, to enforce our Terms and Conditions or to protect the rights, property or safety of our Web site, users or others.
 
-## National Privacy Principles
+If use of an electronic product, feature or service offered by Jacaranda on this website requires a User to provide a name and password or other personally identifiable information, the User will have the option to opt in or out of providing such information and using the product, feature or service.
 
-The National Privacy Principles were adopted in the private sector in Australia in December 2001, subsequent to the introduction of _The Privacy Amendment (Private Sector) Act 2000_ , (Cwlth).
+Jacaranda may disclose to carefully chosen third parties navigational and transactional information in the form of anonymous, aggregate usage statistics (including "page views" on this website and the products herein) and demographics but only in forms that do not reveal a User's identity or confidential information, unless we have received your consent.
 
-The National Privacy Principles outline the major activities that apply to the life cycle of personal information, from the time information is collected, stored, used and subsequently discarded. 
+Cookies are small bits of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are when you return. Cookies remember information about your activities on the site and enable the operator of the site to make your visits more enjoyable or customize your experience. We may use cookies in a variety of ways, such as to collect information to help us learn things like what kinds of customers our site attracts and which of our products most interest our customers. We don't use cookies to collect and store individually-identifiable information. You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely.
 
-### Collection of Personal Information
+Links may be provided from this website to other third party websites. In using such links, Users should be aware that each third party website is subject to its own privacy and data protection policies and is not covered by our privacy policy.
 
-Wiley Australia collects and uses Personal Information for the purposes of supplying customers with products and services.  The company also collects Personal Information for related purposes such as:
+You should be aware that identifiable personal information--such as your name or e-mail address--that you voluntarily disclose that is accessible to other users (e.g. in ProjectsPlus, LearnOn or other bulletin boards or in shared group areas) could be collected and disclosed by others. Jacaranda cannot take any responsibility for such collection and disclosure.
 
-  * Account administration
-  * Credit applications
-  * Marketing analysis
-  * Web-based product services
-  * Product development
-  * To provide customers with promotional information.
+Please note that Jacaranda's Privacy Policy is reviewed periodically. Jacaranda reserves the right to modify its Privacy Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this website and our services will be deemed conclusive acceptance of such modification.
 
+You have the right to request access to your personal information and to request its correction. We will require you to verify your identity before proceeding.
 
+You can update your personal information at any time by logging into your account. However, if at any point you wish to contact us to access or correct your personal information or to lodge a complaint about the way in which Jacaranda collects, uses or discloses your personal information you may either enter the details of your request through the [Contact Us](http://www.jacplus.com.au/jsp/contact.jsp) page; make a request via email to [support@wiley.com](mailto:support@wiley.com) or contact us at:
 
-Wiley Australia will take all reasonable steps to ensure customers are aware of the reason Personal Information is collected.
-
-### Use and Disclosure of Personal Information
-
-Wiley Australia will not use or disclose Personal Information about a Customer for any purpose other than the primary purpose of collection unless the Customer would reasonably expect Wiley Australia to do so.
-
-Wiley Australia may disclose Personal Information for purposes other than the primary purpose by obtaining the Customer’s consent. 
-
-Any other secondary use of Personal Information must relate to the primary purpose of collection, other than a disclosure required under law or relating to the life or health of any individual.
-
-Wiley Australia will not sell personal information for marketing purposes under any circumstances.
-
-### Information Quality
-
-Wiley Australia will take all reasonable steps to ensure that personal information collected, used or disclosed is accurate, complete and up-to-date.
-
-Wiley Australia will regularly review procedures on its collection and maintenance of Personal Information with the aim of achieving best practice procedures.
-
-The Company will undertake to delete, destroy and de-identify Personal Information as soon as the information is no longer relevant for the purpose it was collected, unless prevented from doing so by law.
-
-### Information Security
-
-Wiley Australia requires all employees to adhere to the National Privacy Principles and procedures established by the Company.  Employees may make recommendations to improve privacy procedures.
-
-Wiley Australia will take all reasonable steps to properly maintain paper and electronic systems and procedures and store your Personal Information in a secure manner.  Such systems will be restricted to authorised employees. 
-
-Personal Information submitted by Customers via [www.johnwiley.com.au](http://www.johnwiley.com.au/) will be protected by advanced encryption technology.
-
-### Openess
-
-Wiley Australia publishes this Privacy Policy on our web site to ensure all who access [www.johnwiley.com.au](http://www.johnwiley.com.au/) are aware of the company’s Privacy Policy.
-
-Further information about privacy may be obtaining by contacting us with your query.
-
-### Information Access and Correction
-
-Wiley Australia will make available to Customers their Personal Information held by the company, on request.
-
-If a Customer believes their Personal Information is incorrect they may contact us to update their Personal Information.  Wiley Australia will then update the Personal Information held at the earliest practicable time.
-
-### Anonymity
-
-Wiley Australia will provide Customers with an opportunity to enter our web site without providing Personal Information.  However, Wiley Australia reserves the right to request relevant Personal Information to answer a query or to provide a service.
-
-### Sending Personal Information Overseas
-
-Wiley Australia is a subsidiary of a U.S. parent company (John Wiley & Sons, Inc., Hoboken, New Jersey, United States).  There may be occasions where Personal Information is provided to the parent company as part of our obligation to contribute to global reporting requirements.
-
-John Wiley & Sons, Inc., United States, are bound by similar [privacy principles](http://www.wiley.com/WileyCDA/Section/id-301465.html) as those reflected in the Australian National Privacy Principles, and are therefore bound by privacy restrictions in relation to Personal Information.
-
-### Questions or Complaints
-
-Questions or complaints about how Personal Information is managed at Wiley Australia may be lodged in writing by contacting us via email.  Alternatively, complaints may be lodged, in writing and sent to the Managing Director, John Wiley & Sons Australia, Ltd, PO Box 1226, Milton, Queensland, 4064
+Attn: Legal Services  
+John Wiley & Sons Australia, Ltd  
+155 Cremorne Street, Richmond, VIC 3121  
+(03) 9274 3100
