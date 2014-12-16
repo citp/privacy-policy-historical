@@ -1,0 +1,695 @@
+<!--The following is the downloaded HTML source of the koeitecmoamerica.com privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216122810id_/http%3A//www.koeitecmoamerica.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+        <title>KOEI TECMO AMERICA CORP</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="keywords" content="KOEI TECMO AMERICA CORP">
+        <meta name="description" content="KOEI TECMO AMERICA CORP. invites everyone to be a part of our ever growing and vibrant family.">
+        <meta name="author" content="Jellymedia">
+        <meta name="og:image" content="http://www.koeitecmoamerica.com/images/kt_logo_us.png">
+        <meta name="og:title" content="KOEI TECMO AMERICA CORP">
+        <meta name="og:site_name" content="KOEI TECMO AMERICA CORP">
+        <meta name="og:description" content="KOEI TECMO AMERICA CORP. invites everyone to be a part of our ever growing and vibrant family.">
+
+        <!-- Google Analytics -->
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+              
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+        ga('create', 'UA-51806259-1', 'auto');
+        ga('send', 'pageview');
+
+        var ts = (new Date()).getTime();
+        var swiped = false;
+
+        function importjs(src, test)
+        {
+          if(!test()) {
+            var s = document.createElement('script');
+            s.setAttribute('src', src);
+            s.setAttribute('type', 'text/javascript');
+            document.getElementsByTagName('head')[0].appendChild(s);
+          }
+        }
+
+        function importcss(src)
+        {
+            var s = document.createElement("link");
+            s.setAttribute("type", "text/css");
+            s.setAttribute("rel", "stylesheet");
+            s.setAttribute("href", src);
+            s.setAttribute("media", "screen");
+            document.getElementsByTagName('head')[0].appendChild(s);
+        }
+
+        function deferload(tasks, dependency)
+        {
+          if(tasks)
+          {
+            if(dependency())
+              for (var func in tasks) tasks[func]();
+            else
+              setTimeout(function(){deferload(deferload(tasks,dependency))},10);
+
+          }
+        }
+
+        function ploadmedia(target,callback)
+        {
+          ploadimages(target,callback);
+          ploadvideos(target);
+        }
+
+        function ploadimages(target,callback)
+        {
+          
+            $('.vload.'+target).css({'border':'1px solid red'});
+          
+            $('.pload.'+target).each(function(idx, elt){
+              var iu = $(elt).attr('rel');
+              var ic = $(elt).attr('class').replace('pload','');
+              var id = $(elt).attr('id')?$(elt).attr('id'):"";
+              var it = $(elt).attr('data-thumb');
+              if(it) {
+                
+                if(callback)
+                {
+                  var img = $('<img />', {
+                    load:function(){callback($(this));},
+                    'src':it,
+                    'class':ic,
+                    'id':id
+                  });
+                }
+                else
+                {
+                  var img = $('<img />', {
+                    'src':it,
+                    'class':ic,
+                    'id':id
+                  });
+                }
+                
+                var ahref = $('<a />',{
+                  'rel':'images',
+                  'class':'fancybox',
+                  'href':iu,
+                  html:img
+                });
+                
+                $(elt).replaceWith(ahref);
+                
+              } else {
+                
+                var img = $('<img />', {
+                  'src':iu,
+                  'class':ic,
+                  'id':id
+                });
+                
+                $(elt).replaceWith(img);
+                
+              }
+            });
+
+            $('.ploadbg.'+target).each(function(idx, elt){
+              var iu = $(elt).attr('rel');
+              var ic = $(elt).removeClass(target).removeClass('ploadbg');
+              $(elt).css({'background-image':'url(\''+iu+'\')'});
+            });
+        }
+        
+        function loadScript(url, callback)
+        {
+          var head = document.getElementsByTagName('head')[0];
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url + '?' + ts;
+          
+          if (navigator.appVersion.indexOf("MSIE") != -1) 
+            script.onreadystatechange = callback;
+          else
+            script.onload = callback;
+
+          head.appendChild(script);
+         
+          /* 
+          script.onload=script.onreadystatechange=function()
+          {
+            console.log('['+(this.src)+'] script onload called');
+            if(!this.readyState||this.readyState=='loaded'||this.readyState=='complete')
+            {
+              console.log('['+(this.src)+'] ready to do callback');
+              if(callback && callback.call && callback.apply)
+              {
+                console.log('['+(this.src)+'] doing callback');
+                callback();
+              }
+            }
+            
+          }
+          head.appendChild(script);
+          */
+          
+          
+        }
+        
+        function ploadvideos(target)
+        {
+            $('.vload.'+target).each(function(idx, elt){
+              var iu = $(elt).attr('rel');
+              var ic = $(elt).attr('class').replace('vload','');
+              var id = $(elt).attr('id')?$(elt).attr('id'):"";
+              $(elt).replaceWith('<iframe src="http://www.youtube.com/embed/'+iu+'/" frameborder="0" allowfullscreen class="'+ic+'" id="'+id+'"></iframe>');
+            });
+        }
+
+        function ploadxhr(target)
+        {
+          $('.pxhr.'+target).each(function(idx,elt){
+              var iu = $(elt).attr('rel');
+              var ic = $(elt).attr('class').replace('pxhr','').replace(target,'');
+              var id = $(elt).attr('id')?$(elt).attr('id'):"";
+              $(elt).html('<div style="text-align:center;width:100%"><img src="/images/loading_lge.gif" /></div>');
+              $(elt).load(iu);
+          });
+        }
+
+        function removemarkup(target)
+        {
+          $('.'+target).remove();
+        }
+
+        function menufromselect()
+        {
+          
+          var menu = '';
+
+          $('#menu select option').each(function(){
+            
+            if($(this).is(':selected'))
+              menu += ('<li class="selected"><a href="'+ $(this).val() +'">'+ $(this).text() +'</a></li>');  // $(this).text()
+            else
+              menu += ('<li><a href="'+ $(this).val() +'">'+ $(this).text() +'</a></li>');  // $(this).text()
+              
+          });
+
+          $('#menu').html('<ul>'+ menu +'</ul>');
+
+        }
+
+        function addswipe(target,ishtml)
+        {
+          
+          //if(typeof jQuery!='function'||typeof $!='function')return;
+
+          if(typeof ishtml === 'undefined')
+            ishtml = false;
+            
+          if(!ishtml)
+          {
+            
+            var html = '';
+
+            $('#'+target+' div[rel]').each(function(){
+              var data = $.parseJSON($(this).attr('rel'));
+              html += '<li><a href="'+ data.url +'" target="_blank"><img src="'+ data.img +'" class="full" /></a></li>';
+              $(this).remove();
+            });
+
+            var after = $('#'+target).html();
+
+            $('#'+target).html('<ul>'+ html +'</ul>' + after);
+
+            if(!(window.swipes instanceof Object)) window.swipes = new Object();
+
+            window.swipes[target] = new Swipe(
+              document.getElementById(target),{
+                callback:function(evt,idx,elt)
+                {
+                  swiped = true;
+                }
+              }
+            );
+
+            $('#'+target+' .prev').click(function(){
+              window.swipes[target].prev();
+            });
+
+            $('#'+target+' .next').click(function(){
+              window.swipes[target].next();
+            });
+
+          }
+          else
+          {
+            
+            var html = '';
+            
+            var oic = $('#'+target).attr('class');
+            var oid = $('#'+target).attr('id');
+            
+            $('#'+target+' > div').each(function(){
+              var data = $(this).html();
+              var ic = $(this).attr('class');
+              html = html + '<li class="'+ic+'">'+data+'</li>';
+            });
+            
+            html = '<ul>'+html+'</ul>';
+            
+            $('#'+target).html(html);
+            
+            if(!(window.swipes instanceof Object)) window.swipes = new Object();
+
+            window.swipes[target] = new Swipe(
+              document.getElementById(target),{
+                callback:function(evt,idx,elt)
+                {
+                  swiped = true;
+                }
+              }
+            );
+
+            $('#'+target+' .prev').click(function(){
+              window.swipes[target].prev();
+            });
+
+            $('#'+target+' .next').click(function(){
+              window.swipes[target].next();
+            });
+            
+          }
+          
+          setTimeout(function(){swipeIndicator()},'1000');
+
+        }
+        
+        function swipeIndicator()
+        {
+          
+          var p = $('#gamelistings li:first-child img').offset();
+          if(!p) return;
+          var s = {
+            'width':$('#gamelistings').width(),
+            'height':$('#gamelistings').height()
+          }
+          
+          var ind = $('<div class="swipeindicator"><img src="/images/swipe.png" /></div>');
+          
+          ind.css({
+            'top':p.top,
+            'left':p.left
+          });
+          
+          ind.find('img').css({
+            'width':s.width / 2
+          });
+          
+          ind.click(function(){
+            $(this).remove();
+          });
+          
+          ind.appendTo($('body'));
+          
+          swipeIndicatorLoop(ind,0);
+          
+        }
+		
+		
+        
+        function swipeIndicatorLoop(ind,c)
+        {
+          if(c >= 49 || swiped) {
+            ind.hide();
+            return;
+          }
+          
+          ind.delay(200).fadeIn(300,function(){
+            $(this).fadeOut(200,function(){
+              $(this).fadeIn(200,function(){
+                $(this).animate({
+                  left: '-=25%',
+                  opacity: '0.35'
+                },400,function(){
+                  $(this).animate({
+                    opacity: '0'
+                  },500,function(){
+                    $(this).animate({
+                      left: '+=25%'
+                    },1000,function(){
+                      ind.css({'opacity':'1'});
+                      c++;
+                      swipeIndicatorLoop(ind,c);
+                    });
+                  });
+                });
+              });
+            });
+          });
+        }
+          
+        function fixheights(target)
+        {
+          
+          if(typeof target === 'undefined')
+            target = '';
+          
+          if(target!='') target = '.' + target;
+          
+          target = target + '.wscn';
+          
+          $('img'+target).each(function(){
+            var w = $(this).width();
+            $(this).height(parseInt(w * 9 / 16));
+          });
+          $('iframe'+target).each(function(){
+            var w = $(this).width();
+            $(this).height(parseInt(w * 9 / 16));
+          });
+        }
+        
+        function scalenewsimages()
+        {
+          
+          $(document).ready(function(){
+          
+            var cw = $('#content').width();
+
+            $('.newsbody img').each(function(){
+
+              if($(this).height() > cw/2)
+                $(this).css({'height':cw/2});
+              else if($(this).width() > cw/2)
+                $(this).css({'width':cw/2})
+
+            });
+          
+          });
+          
+        }
+        
+        /* 
+         * Some feature detection
+        */
+        function isMobile()
+        {
+          return (Boolean)('ontouchstart' in document.documentElement)||/iphone|ipad|ipod|android/i.test(navigator.platform)||/iphone|ipod|ipad|android|blackberry/i.test(navigator.userAgent);
+        }
+
+        function isTablet()
+        {
+          var viewportWidth=getVpWidth();
+          return (Boolean)((viewportWidth==1024||viewportWidth==768)&&isMobile());
+        }
+
+        function isDesktop()
+        {
+          return (Boolean)(!isMobile());
+        }
+
+        function getVpWidth()
+        {
+          if (document.body && document.body.offsetWidth)
+            return document.body.offsetWidth;
+          else if (document.compatMode=="CSS1Compat" && document.documentElement && document.documentElement.offsetWidth )
+            return document.documentElement.offsetWidth;
+          else if (window.innerWidth && window.innerHeight)
+            return window.innerWidth;
+          else (document.documentElement&&document.documentElement.clientWidth)
+            return document.documentElement.clientWidth;
+        }
+
+        function getplevel()
+        {
+          
+          if(isTablet())
+            return 2;
+          else if(isMobile())
+            return 1;
+          else if(isDesktop())
+            return 3;
+          else
+            return 0;
+
+        }
+		
+		setInterval(function(){addswipe(1,1)},3000);
+        
+        var plevel = getplevel();
+    
+        </script>
+        <style type="text/css">
+
+          .clearfix:after {
+            content: ".";
+            display: block;
+            height: 0;
+            clear: both;
+            visibility: hidden;
+            }
+            
+            
+        </style>
+        <!--[if IE]>
+        <style type="text/css"> .clearfix { zoom: 1; } </style>
+        <link rel="stylesheet" type="text/css" href="/css/ie.css" />
+        <![endif]-->
+    <link type="text/css" rel="stylesheet" href="/css/format_full.css" media="screen"><script type="text/javascript" src="/js/jquery.min.js?1580413659357"></script><script type="text/javascript" src="/js/jquery.min.js?1580413659357"></script></head>
+    <body id="staticpage">
+            
+      <div id="outer">
+        <div id="header">
+          <a href="/"><img src="/images/kt_logo_us.png" class="mobile">
+          <div class="pload tablet desktop logo" rel="/images/kt_logo_large_us.png"></div></a>
+          <div class="ploadbg tablet desktop search" rel="/images/header_search_bg.png">
+            <form method="post" action="/games/#s" id="Form1" name="Form1"><input type="hidden" id="hidden_value" name="hidden_value" value="Form1">            <input type="hidden" id="gameformat" name="gameformat" value="-1">            <input type="hidden" id="gamegenres" name="gamegenres" value="-1">            <input type="hidden" id="search" name="search" value="search">            <input type="text" id="gametitle" name="gametitle" value="">
+            <input type="submit" id="go" name="go" value="go">            <input type="hidden" id="token" name="token" value="fbed7beafdaebc5aa635cd9ca8255a8bd8039559"></form>          </div>
+        </div>
+
+            <script type="text/javascript">
+        if(plevel==0)
+        {
+          document.write('<style type="text/css">@import url(\'/css/format_small_low.css\');</style>');
+        }
+        else if(plevel==1)
+        {
+          importcss('/css/format_small_average.css');
+          loadScript('/js/jquery.min.js',function(){
+            ploadimages('mobile');
+          });
+          
+        }
+        else if(plevel==2)
+        {
+          importcss('/css/format_medium_average.css');
+          loadScript('/js/jquery.min.js',function(){
+            menufromselect();
+            ploadimages('tablet');
+          });
+        }
+        else if(plevel==3)
+        {
+          importcss('/css/format_full.css');
+          loadScript('/js/jquery.min.js',function(){
+            menufromselect();
+            ploadimages('desktop');
+            removemarkup('notdesktop');
+            ploadxhr('desktop')
+          });
+        }
+</script>  
+
+<script type="text/javascript">
+/*  
+  if(plevel==2||plevel==3)if(!window.Swipe){
+    loadScript('/js/swipe.min.js', function(){addswipe('attraction');});
+  }else{
+    addswipe('attraction');
+  }
+  */
+if(plevel==2||plevel==3)
+{
+  loadScript('/js/jquery.min.js', function(){
+    loadScript('/js/swipe.min.js', function(){addswipe('attraction')});
+  });
+} 
+</script>
+<div id="attraction">
+  
+  <div rel="{&quot;img&quot;:&quot;\/images\/headers\/us\/1395652430532ff74ead281.jpg&quot;,&quot;url&quot;:&quot;http:\/\/www.koei.com\/dw8xl&quot;}"></div>  
+  <div rel="{&quot;img&quot;:&quot;\/images\/headers\/us\/140598912853cdb10844673.jpg&quot;,&quot;url&quot;:&quot;http:\/\/koeitecmoamerica.com\/sw4&quot;}"></div>  
+  <div rel="{&quot;img&quot;:&quot;\/images\/headers\/us\/1416532202546e90ea97063.jpg&quot;,&quot;url&quot;:&quot;http:\/\/www.koeitecmoamerica.com\/dw8e\/&quot;}"></div>  
+  <div class="prev"></div>
+  <div class="next"></div>
+</div>
+<div id="menu">
+  <select onchange="document.location.href=this.options[this.selectedIndex].value;">
+    <option value="/" selected="">News</option>    <option value="/games/">Games</option>    <option value="/onlinegames/">Online Games</option>    <option value="http://forum.koeitecmoeurope.com/forumdisplay.php?80-America-American-Embassy">Forum</option>    <option value="/company/">Company</option>    <option value="/support/">Support</option>  </select>
+</div>
+<div class="pload full mobile" rel="/images/headers/us/141462797154518283e1624.JPG"></div>
+
+<div id="tabletheader">
+  <div id="titleimage" class="pload tablet" rel="/images/headers/us/141462797154518283e1624.JPG"></div>
+  
+    <div class="listpanel">
+    <h2>Recent Releases</h2>
+    <ol>
+            <li><a href="#">Atelier Meruru</a></li>
+            <li><a href="#">Dead or Alive 5</a></li>
+            <li><a href="#">Warriors Orochi 3</a></li>
+          </ol>
+  </div>
+    <div class="listpanel">
+    <h2>Coming Soon</h2>
+    <ol>
+          </ol>
+  </div>
+  
+</div>
+
+<div id="content_container" class="clearfix">
+  <div id="content">
+  
+  <h1>KOEI TECMO AMERICA&nbsp;Corporation Online Privacy Policy</h1>
+<p><strong>At KOEI TECMO AMERICA&nbsp;Corporation ("KOEI TECMO"), we are dedicated to protecting the privacy of those who visit us online. </strong></p>
+<p>For your privacy, we do not collect or maintain data that personally identifies you without your consent. Also, we will never collect or maintain data that personally identifies children under 13 years of age without the express consent of a parent or guardian.</p>
+<p>Please read on to learn more about KOEI TECMO's commitment to your privacy.</p>
+<h2>Websites covered by the TECMO KOEI AMERICA&nbsp;Corporation Online Privacy Policy:</h2>
+<p><a href="http://www.koei.com/">http://www.koei.com</a><br>
+<a href="http://www.koeireg.com/">http://www.koeireg.com</a><br>
+<a href="http://www.fatalinertia.com/">http://www.fatalinertia.com</a><br>
+<a href="http://www.swpsp.com/">http://www.swpsp.com</a><br>
+<a href="http://www.samurai-warriors.com/">http://www.samurai-warriors.com</a><br>
+<a href="http://www.dw4xl.com/">http://www.dw4xl.com</a><br>
+<a href="http://www.dw5xl.com/">http://www.dw5xl.com</a><br>
+<a href="http://ka.gamecity.ne.jp/dw4">http://ka.gamecity.ne.jp/dw4</a><br>
+<a href="http://ka.gamecity.ne.jp/dw3">http://ka.gamecity.ne.jp/dw3</a><br>
+<a href="http://ka.gamecity.ne.jp/dw3x">http://ka.gamecity.ne.jp/dw3x</a><br>
+<a href="http://ka.gamecity.ne.jp/dw3el">http://ka.gamecity.ne.jp/dw3el</a><br>
+<a href="http://ka.gamecity.ne.jp/mh">http://ka.gamecity.ne.jp/mh</a></p>
+<p>Additionally, TECMO KOEI may own several other domain names that link to the addresses above. TECMO KOEI may occasionally add new websites that are covered by our Privacy Policy, and we will make every effort to update this list in a timely manner.</p>
+<p>This Privacy Policy covers only websites administered by KOEI TECMO AMERICA&nbsp;Corporation, and not those of our Parent Company, KOEI TECMO GAMES&nbsp;Co., Ltd., or any of its other international affiliates. This Policy does not cover information that is collected offline via postal mail or other forms of communication.</p>
+<h2>What kind of information does KOEI TECMO collect on its website, and how will it be used?</h2>
+<p>TECHNICAL INFORMATION AND TRAFFIC DATA<strong><br>
+</strong>Every time a guest visits KOEI TECMO's website, our server tracks technical information. This tells us the domain name of your Internet Service Provider, your Internet Protocol address (a series of numbers which is unique to your computer), referral data (for example, the website you were looking at when you clicked to our site), as well as which web browser and computer platform you are using. KOEI TECMO may track and use this data for security purposes and to improve our website.</p>
+<p>PERSONAL INFORMATION<br>
+In order to give you a better online experience, KOEI&nbsp;TECMO may collect information about you, but ONLY if you provide it to us voluntarily. We may use the information you provide for the following purposes: 1) to send e-mail updates about KOEI TECMO products; 2) to respond to specific questions about KOEI TECMO products; 3) to protect the security and integrity of our website; 4) to allow registration for the KOEI TECMO forum/discussion board; 5) to fulfill orders placed for goods and services in the event that KOEI TECMO launches an online store.</p>
+<h2>Forum registration</h2>
+<p>In order to participate in KOEI&nbsp;TECMO's forum (discussion board), we may ask you to create a user name and password, at which time we may request personal information such as your email address. The information that you submit is used to give you access to KOEI&nbsp;TECMO's forum.</p>
+<p>To login as a member of the forum, we may ask that you enter your username and password. This information is collected so that you may participate in the forum without having to re-register.</p>
+<p>REMEMBER, if you give out personal information in a discussion board, or any public setting, it can be collected and used by people you don't know. Please use caution. We make every reasonable attempt to protect those who participate in the forum, but we cannot guarantee the security of information you post there. When you register for the discussion board, you will have the option to make your e-mail address inaccessible to others. If you don't want to be contacted by people you don't know, please take advantage of that option.</p>
+<h2>Email to Webmaster</h2>
+<p>In various locations on KOEI TECMO's website, there are links for users who wish to send an email inquiry to our Webmaster. KOEI TECMO may collect the personal information in these email inquiries for the sole purpose of responding to them. In most cases, we delete emails after responding to them. However, we reserve the right to maintain hard copies of these messages for security purposes. Such messages are stored in a secure location and are never used for marketing activities.</p>
+<h2>Online Store</h2>
+<p>In the event that KOEI TECMO launches an online store, visitors who wish to buy goods and services may be asked to provide a valid credit card number and expiration date, name, billing and mailing address, phone number, and email address.</p>
+<h2>Promotions</h2>
+<p>From time to time, KOEI&nbsp;TECMO may hold promotions during which we award KOEI&nbsp;TECMO game-related products to our online guests. In order to register for a promotion, we may ask you to provide us with personally identifying contact information, such as full name, address, and e-mail address.</p>
+<p>When you register for a promotion, we may ask if you wish to be contacted with more information about KOEI&nbsp;TECMO products. If you decline to receive more information about KOEI&nbsp;TECMO, we will discard all of your contact information at the end of the promotion. If you accept, we may maintain your email address for the purpose of sending information to you in the future; all other contact information will be discarded.</p>
+<p>You may participate in KOEI&nbsp;TECMO promotions whether you choose to receive additional information about KOEI&nbsp;TECMO products or not.</p>
+<h2>What if I don't wish to give out my personal information?</h2>
+<p>If you do not wish to submit personal information, you will not have access to some of the features of our website. For example, you may not use the forum without providing an email address.</p>
+<p>You do not need to share personal information to browse our website.</p>
+<h2>Does KOEI&nbsp;TECMO use cookies, track IP addresses or use other passive means to collect information?</h2>
+<p>KOEI&nbsp;TECMO uses cookies on its website. Cookies allow a website to recognize a computer and 'remember' things about the user's visit. They do not include names, email addresses or other personally identifying information.</p>
+<p>As mentioned above, KOEI&nbsp;TECMO may maintain IP addresses, but only for purposes related to the safety and security of our website.</p>
+<h2>Who collects my personal information?</h2>
+<p>Information you submit to our website is collected by KOEI&nbsp;TECMO AMERICA&nbsp;Corporation and is used only in the manner expressed above in the section "What kind of information does TECMO&nbsp;KOEI collect on its website, and how will it be used?"</p>
+<h2>Will KOEI&nbsp;TECMO share my personal information with anyone?</h2>
+<p>In the course of normal business, KOEI TECMO will not share your personal information with anyone.</p>
+<p>The only exception shall be in the event that disclosure of information is required by law enforcement or other government officials in connection with investigation of fraud, intellectual property infringements, or other activity that is illegal or that may expose you or us to legal liability.</p>
+<h2>Can I choose how my personal information is used?</h2>
+<p>If you do not want to be contacted by KOEI&nbsp;TECMO about our products or services, you may opt out at the time your information is collected. You may also call us at (650) 692-9080 between the hours of 9:30 am and 6:00 pm Pacific Time. Or contact us by postal mail at KOEI TECMO AMERICA&nbsp;Corporation, 1818 Gilbreth RD Suite 211, Burlingame, CA 94010. Mark envelopes ATTN: Customer Database.</p>
+<h2>Can I access my personal information?</h2>
+<p>Yes. If you would like to view or correct information that you previously submitted to our customer database, you may access it by phone or postal mail.</p>
+<p>You may call us at (650) 692-9080 between the hours of 9:30 am and 6:00 pm Pacific Time. Or contact us by postal mail at KOEI TECMO AMERICA&nbsp;Corporation, 1818 Gilbreth RD Suite 211, Burlingame, CA 94010. Mark envelopes ATTN: Customer Database.</p>
+<h2>There are links to other websites within the KOEI TECMO website. Does KOEI&nbsp;TECMO's Privacy Policy apply to those sites?</h2>
+<p>No. While visiting the KOEI TECMO website, you may be directed to a third-party website for which we are not responsible. We cannot guarantee that those websites will guard your privacy to the same high KOEI&nbsp;TECMO AMERICA&nbsp;Corporation standard. Please read the privacy statement of any third-party website before you submit any personal information.</p>
+<h2>A MESSAGE TO ALL PARENTS</h2>
+<p>KOEI TECMO AMERICA&nbsp;Corporation adheres to the Children's Online Privacy Protection Act (COPPA), which took effect April 2000. This law protects the personal information of children younger than 13 years of age.</p>
+<p>Please supervise the time that your child spends online to ensure their safety and security.</p>
+<p>KOEI&nbsp;TECMO AMERICA&nbsp;Corporation does not collect information that personally identifies children younger than 13 years of age without the express consent of a parent or guardian. If your child wishes to use features of our website that require personal information, he/she will be asked to print out a consent form that must be signed by a parent or guardian before we will accept any personal information.</p>
+<p>With your Verifiable Consent, we may collect Personal Information from your child such as a last name or email address when the information is needed for a website feature, for example, to participate in the forum. We will not ask a child to give out more information than is necessary to participate in a website activity.</p>
+<p>We will also ask your child for your email or mailing address so we can contact you as needed regarding your child's participation in our website. We do not keep your email address or your child's email address without your permission. When we ask for your consent, we will tell you what we will do with the information your child provides us. We will tell you how you can review your child's information and how you can request that it be deleted. We will delete your child's information from our database when it is no longer needed (for example, after a direct inquiry, emails will be deleted).</p>
+<h2>Notice to parents regarding third-party websites.</h2>
+<p>The KOEI TECMO AMERICA&nbsp;Corporation websites may contain links to third-party websites, such as game retailer and game-related media websites. KOEI TECMO strives to include links only to websites with content appropriate to children, however, please be aware that KOEI TECMO AMERICA&nbsp;Corporation is not responsible for the content of such websites, nor does KOEI&nbsp;TECMO's Online Privacy Policy cover those websites. For your peace of mind and your children's safety, please supervise your children when they are browsing the web, and always read the privacy policy of any third-party website.</p>
+<h2>How can I review information that my child has submitted on the TECMO&nbsp;KOEI website?</h2>
+<p>You may review or request to have deleted any information your child has submitted to us. You may also request that we not collect any personal information about your child in the future. To do this, send a written request including your child's email address for verification.</p>
+<p>Children's Online Privacy <br>
+KOEI TECMO AMERICA&nbsp;Corporation <br>
+1818 Gilbreth RD <br>
+Suite 211<br>
+Burlingame, CA 94010</p>
+<p>&nbsp;</p>
+<h2>What if I have a question or complaint?</h2>
+<p>Feel free to write us at KOEI&nbsp;TECMO AMERICA&nbsp;Corporation, 1818 Gilbreth RD Suite 211, Burlingame, CA 94010. Mark envelopes ATTN: Online Privacy.</p>
+<p>You can also call us at (650) 692-9080 between the hours of 9:30am and 5:00pm Pacific Time. Ask to speak with a Customer Service Representative and please state the nature of the call.</p>
+<p>By using this site, you signify your assent to the KOEI&nbsp;TECMO AMERICA&nbsp;Corporation Online Privacy Policy. If you do not agree to this policy, please do not use any KOEI TECMO site. We reserve the right to make changes in this policy at any time. Please check the policy each time you use our web site to ensure you are aware of any changes in our privacy practices. Our privacy policy will indicate the date it was last updated.</p>
+<p>Updated 10/26/06</p>
+    <br><br>
+    
+  </div>
+  <div class="lshad"></div>
+  <div class="rshad pxhr desktop" rel="/index/sidebar/"></div>
+</div>
+
+
+
+
+<div id="footer" class="clearfix">
+  
+  <div class="links">
+  <a href="http://twitter.com/KoeiTecmoUS" class="boxlink">Follow Us On Twitter</a>
+  <a href="https://www.facebook.com/KoeiTecmoUS" class="boxlink">Like Us On Facebook (TECMO)</a>
+  <a href="http://facebook.com/koeigames" class="boxlink">Like Us On Facebook (KOEI)</a>
+  </div>
+  
+  <div class="logo pload desktop tablet" rel="/images/kt_footer.png"></div>
+  
+  <div class="companyinfo">
+    The KT logo is a registered trademark of KOEI TECMO HOLDINGS CO., LTD.  </div>
+  
+</div>
+        
+        <div id="footerlinks" class="clearfix">
+          <div class="col">
+            <h3>Games</h3>
+            <ul class="links">
+              <li><a href="/">News</a></li>
+              <li><a href="/games/">Games</a></li>
+              <li><a href="/onlinegames/">Online Games</a></li>
+              <li><a href="http://forum.koeitecmoeurope.com/forumdisplay.php?64-TECMO-Games">Game Discussions (Tecmo)</a></li>
+              <li><a href="http://forum.koeitecmoeurope.com/forumdisplay.php?4-KOEI-Games">Game Discussions (Koei)</a></li>
+            </ul>
+          </div>
+          <div class="col">
+            <h3>Forum</h3>
+            <ul>
+              <li><a href="http://forum.koeitecmoeurope.com/">Forum Index</a></li>
+              <li><a href="http://forum.koeitecmoeurope.com/register.php">Register</a></li>
+              <li><a href="http://forum.koeitecmoeurope.com/faq.php">FAQ</a></li>
+              <li><a href="http://forum.koeitecmoeurope.com/search.php?do=getnew&amp;contenttype=vBForum_Post">New Posts</a></li>
+            </ul>
+          </div>
+          <div class="col">
+            <h3>Company</h3>
+            <ul>
+              <li><a href="/company/">Company Information</a></li>
+              <li><a href="/support/">Support</a></li>
+              <li><a href="/privacy/">Privacy Policy</a></li>
+              <li><a href="/jobs/">Jobs @ KOEI TECMO</a></li>
+            </ul>
+          </div>
+          <div class="designby">
+            © 2014 KOEI TECMO AMERICA CORP.<br>
+            <a href="http://jellymedia.com/">designed by Jellymedia</a>
+          </div>
+        </div>
+      </div>
+    
+
+</body></html>
