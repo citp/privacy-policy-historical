@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the edison.edu privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623152134id_/http%3A//www.edison.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edison.edu privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216181956id_/http%3A//www.fsw.edu/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Edison State College
+# Privacy Policy | Florida SouthWestern State College
 
-[Home](https://web.archive.org/) » Privacy Policy
-
-Thank you for visiting the Edison State College website. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our website unless you affirmatively choose to make such information available to us.
+Thank you for visiting the Florida SouthWestern State College website. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our website unless you affirmatively choose to make such information available to us.
 
 When you visit our website, our Web server automatically recognizes only the Internet domain and IP address from which you accessed our website. This information does not result in the identification of your personal email address or other personal information.
 
@@ -16,4 +14,4 @@ If you choose to share personal information with us - by sending us a message or
 
 Under Florida law, e-mail addresses are public records. By entering your email address on any form or document on this website, it is possible for your email address to be released in response to an official public records request. If you do not want your e-mail address released in a specific situation, please call the appropriate department at the college. We use email addresses only for their intended purpose and do not give them out unless required by law.
 
-If you have any questions about our privacy policies, or have ideas about improving our policies, please feel free to contact us at [webmaster@edison.edu](mailto:webmaster@edison.edu)
+If you have any questions about our privacy policies, or have ideas about improving our policies, please feel free to contact us at [webmaster@fsw.edu](mailto:webmaster@fsw.edu)
