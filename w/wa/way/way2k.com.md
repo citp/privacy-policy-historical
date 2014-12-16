@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2k.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082931id_/http%3A//www.way2k.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2k.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216073627id_/http%3A//way2k.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Your privacy is important to us. To better protect your privacy, we provide this
 
 1\. How is the personal information collected? 
 
-[www.way2k.com](https://web.archive.org/web/20140625082931id_/http%3A//www.way2k.com/default.aspx) uses the personal information from you only if you provide it voluntarily. This includes your economic details, contact details, academic details, personal details, current qualification, future interest in the course, personalized alerts. You might also enter another person’s email address and name when you use our ‘Invite your friend’ feature. This information is passed to the institutes and organizations of your interest and benefit. The kind of information that is gathered automatically includes the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, EarthLink). All such usage data shall be the exclusive property of this way2k.com used for their research, analysis and as statistical presentation. 
+[www.way2k.com](https://web.archive.org/web/20141216073627id_/http%3A//way2k.com/default.aspx) uses the personal information from you only if you provide it voluntarily. This includes your economic details, contact details, academic details, personal details, current qualification, future interest in the course, personalized alerts. You might also enter another person’s email address and name when you use our ‘Invite your friend’ feature. This information is passed to the institutes and organizations of your interest and benefit. The kind of information that is gathered automatically includes the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, EarthLink). All such usage data shall be the exclusive property of this way2k.com used for their research, analysis and as statistical presentation. 
 
 2\. How does way2k.com use the information? 
 
