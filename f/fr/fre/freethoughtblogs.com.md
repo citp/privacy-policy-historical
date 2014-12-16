@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freethoughtblogs.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222160746id_/http%3A//freethoughtblogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freethoughtblogs.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216153924id_/http%3A//freethoughtblogs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Freethought Blogs
+# Privacy Policy
 
 The privacy of our visitors to freethoughtblogs.com is important to us.
 
