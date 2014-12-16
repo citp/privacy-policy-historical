@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidblog.org privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515023402id_/http%3A//kidblog.org/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidblog.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216160327id_/http%3A//kidblog.org/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kidblog
 
@@ -82,8 +82,12 @@ This Service does not currently contain links to other websites. Kidblog is not 
 
 7) How to Contact Us
 
-If you have questions or concerns about our privacy practices or this Privacy Policy, please call send an email to privacy@kidblog.org or contact us by regular postal mail at Kidblog, Inc., 2869 W. 71 1/2 Street, Richfield, Minnesota 55423.
+If you have questions or concerns about our privacy practices or this Privacy Policy, please call send an email to privacy@kidblog.org or contact us by regular postal mail at Kidblog, Inc., 212 Third Avenue North, Suite 390, Minneapolis, MN 55401.
 
 Last revised: May 16, 2012.
 
-Copyright 2012 © Kidblog, Inc. All rights reserved.
+Copyright 2014 © Kidblog, Inc. All rights reserved.
+
+## Join 5 million students, teachers & parents.
+
+Students all over the world are using Kidblog in their classrooms. Create your own conversation today. 
