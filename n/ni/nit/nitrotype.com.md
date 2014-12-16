@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrotype.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606111259id_/http%3A//www.nitrotype.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrotype.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216190016id_/http%3A//www.nitrotype.com/support/privacy) for the most accurate reproduction.*
 
 # Nitro Type | Competitive Typing Game | Race Your Friends
 
