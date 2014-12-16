@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohvines.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825183104id_/http%3A//www.ohvines.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohvines.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216120743id_/http%3A//www.ohvines.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.ohvines.com
 
