@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetair.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627104316id_/http%3A//www.budgetair.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetair.co.uk privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216022531id_/http%3A//www.budgetair.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | BudgetAir.co.uk
 
