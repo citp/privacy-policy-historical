@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juiceplus.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208083119id_/http%3A//www.juiceplus.com/content/JuicePlus/en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juiceplus.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216235815id_/http%3A//www.juiceplus.com/content/JuicePlus/en/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,13 +6,13 @@
 
 We appreciate your business … and value your privacy and security.
 
-  NSA, the maker of Juice Plus+, is committed to safeguarding your privacy both online and off, and takes every step possible to ensure that your personal information is secure.
+  The Juice Plus+ Company, is committed to safeguarding your privacy both online and off, and takes every step possible to ensure that your personal information is secure.
 
 Privacy:
 
 We collect personal information from you only when you choose to provide information to us, such as by purchasing our products.
 
-Any personal information that you share with NSA will only be used by us to assist you in conducting business with us.
+Any personal information that you share with The Juice Plus+ Company will only be used by us to assist you in conducting business with us.
 
 We will not share any of your personal information with any third party other than service partners under contract to us who help us serve you better in areas such as fraud prevention, special customer service matters, and technology services. Our contracts dictate that our service partners only use your information in connection with the services they perform for us.
 
@@ -32,4 +32,4 @@ If you purchase our products online, your name, address, and credit card or bank
 
 In fact, we take all possible organizational, technical and administrative measures to protect your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure, even by a company such as ours that goes to the lengths we do to ensure your privacy and security. In short, we cannot absolutely ensure or warrant the security of any information you transmit to us – no one can – and therefore ultimately you do so at your own risk.
 
-Copyright© 2013, NSA. All rights reserved.
+Copyright© 2013, The Juice Plus+ Company. All rights reserved.
