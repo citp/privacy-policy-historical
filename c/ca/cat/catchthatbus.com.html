@@ -1,0 +1,696 @@
+<!--The following is the downloaded HTML source of the catchthatbus.com privacy policy that was archived on 2014-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216171818id_/http%3A//catchthatbus.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>
+Privacy Policy - CatchThatBus.com
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="copyright" content="CatchThatBus © 2012">
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+ 
+ 
+ 
+<link rel="stylesheet" href="/resources/css/bootstrap.min.css" type="text/css" media="screen">
+ 
+<link rel="stylesheet" href="/resources/css/layout.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/resources/css/theme.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/resources/css/jquery-ui.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/resources/css/offcanvas.css" type="text/css" media="screen">
+ 
+<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1vZxLOeMNOq50NtpWQSsLRiXQuRoilXC" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NMB6N7"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="/resources/js/jquery.js"></script>
+<script type="text/javascript" src="/resources/js/bootstrap.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/resources/js/home.js"></script>
+<script type="text/javascript" src="/resources/js/handlebars.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/resources/js/offcanvas.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.ddslick.min.js"></script><style id="css-ddslick" type="text/css">.dd-select{ border-radius:0px!important; border:solid 1px #ccc!important; position:relative!important; cursor:pointer!important;}.dd-desc { color:#aaa!important; display:block!important; overflow: hidden; font-weight:normal; line-height: 1.4em; }.dd-selected{ overflow:hidden; display:block; padding:10px; font-weight:bold;}.dd-pointer{ width:0; height:0; position:absolute; right:10px; top:50%; margin-top:-3px;}.dd-pointer-down{ border:solid 5px transparent; border-top:solid 5px #000; }.dd-pointer-up{border:solid 5px transparent !important; border-bottom:solid 5px #000 !important; margin-top:-8px;}.dd-options{ border:solid 0px #ccc; border-top:none; list-style:none; box-shadow:0px 1px 5px #ddd; display:none; position:absolute; z-index:2000; margin:0; padding:0;background:#fff; overflow:auto;}.dd-option{ padding:8px 10px 2px 10px; display:block; border-bottom:solid 0px #ddd; overflow:hidden; text-decoration:none; color:#333; cursor:pointer;-webkit-transition: all 0.25s ease-in-out; -moz-transition: all 0.25s ease-in-out;-o-transition: all 0.25s ease-in-out;-ms-transition: all 0.25s ease-in-out; }.dd-options > li:last-child > .dd-option{ border-bottom:none;}.dd-option:hover{ background:#f3f3f3; color:#000;}.dd-selected-description-truncated { text-overflow: ellipsis; white-space:nowrap; }.dd-option-selected { background:#f6f6f6; }.dd-option-image, .dd-selected-image { vertical-align:middle; float:left; margin-right:5px; max-width:64px;}.dd-image-right { float:right; margin-right:15px; margin-left:5px;}.dd-container{ position:relative;} .dd-selected-text { font-weight:bold}</style>
+</head><body style=""><div id="fb-root"></div>
+<script>
+
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '474099482700566',
+    status     : true, // check login status
+    cookie     : true, // enable cookies to allow the server to access the session
+    xfbml      : true  // parse XFBML
+  });
+
+
+
+
+  // Here we subscribe to the auth.authResponseChange JavaScript event. This event is fired
+  // for any authentication related change, such as login, logout or session refresh. This means that
+  // whenever someone who was previously logged out tries to log in again, the correct case below 
+  // will be handled. 
+  FB.Event.subscribe('auth.authResponseChange', function(response) {
+
+
+
+    // Here we specify what we do with the response anytime this event occurs. 
+    if (response.status === 'connected') {
+      // The response object is returned with a status field that lets the app know the current
+      // login status of the person. In this case, we're handling the situation where they 
+      // have logged in to the app.
+      $('#facebookBtn').remove();
+      $('.facebookInline').remove();
+	  if( $('.hdrQckLks').find("li#fbLogout").length < 1 )
+	  {
+      	 //$('.hdrQckLks').append("<li id='fbLogout' class='hidden-xs' onClick='FB.logout()' style='cursor:pointer;line-height:30px;'><strong class='login'>Sign Out</strong></li>");
+	  }
+      $('.hdrQckLks .glyphicon-user').css({"color":"#2ecc71"});
+      testAPI();
+    } else if (response.status === 'not_authorized') {
+      // In this case, the person is logged into Facebook, but not into the app, so we call
+      // FB.login() to prompt them to do so. 
+      // In real-life usage, you wouldn't want to immediately prompt someone to login 
+      // like this, for two reasons:
+      // (1) JavaScript created popup windows are blocked by most browsers unless they 
+      // result from direct interaction from people using the app (such as a mouse click)
+      // (2) it is a bad experience to be continually prompted to login upon page load.
+      FB.login();
+    } else {
+      // In this case, the person is not logged into Facebook, so we call the login() 
+      // function to prompt them to do so. Note that at this stage there is no indication
+      // of whether they are logged into the app. If they aren't then they'll see the Login
+      // dialog right after they log in to Facebook. 
+      // The same caveats as above apply to the FB.login() call here.
+      FB.login();
+    }
+  });
+  };
+
+  // Load the SDK asynchronously
+  (function(d){
+   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+   if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   ref.parentNode.insertBefore(js, ref);
+  }(document));
+
+  // Here we run a very simple test of the Graph API after login is successful. 
+  // This testAPI() function is only called in those cases. \
+
+      function testAPI() {
+        FB.api('/me', function(response) {
+          console.log(response.name);
+          console.log(response.email);
+          $('#customerName').val(response.name);
+          $('#paxName0').val(response.name);
+          $('#customerEmail, #customerEmail2').val(response.email);
+        });
+      }
+</script>
+ 
+<script type="text/javascript">(function(d,n){var s,a,p;s=document.createElement("script");s.type="text/javascript";s.async=true;s.src=(document.location.protocol==="https:"?"https:":"http:")+"//cdn.nudgespot.com"+"/nudgespot.js";a=document.getElementsByTagName("script");p=a[a.length-1];p.parentNode.insertBefore(s,p.nextSibling);window.nudgespot=n;n.init=function(t){function f(n,m){var a=m.split('.');2==a.length&&(n=n[a[0]],m=a[1]);n[m]=function(){n.push([m].concat(Array.prototype.slice.call(arguments,0)))}}n._version=0.1;n._globals=[t];n.people=n.people||[];n.params=n.params||[];m="track register unregister identify set_config people.delete people.create people.update people.create_property people.tag people.remove_Tag".split(" ");for(var i=0;i<m.length;i++)f(n,m[i])}})(document,window.nudgespot||[]);nudgespot.init("60944c5ea47f03b63bbceb1d34f39ac0");</script><script type="text/javascript" async="" src="https://cdn.nudgespot.com/nudgespot.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="http://",c="www.catchthatbus.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NMB6N7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NMB6N7');</script>
+ 
+ 
+<style type="text/css">body{background:#f1f1f1!important;}.stepIndicators{position:relative;float:left;background:transparent;border:0;color:black;height:30px;width:150px;margin-top:0px;font-weight:bold;color:#e0e0e0;font-weight:normal;}.stepIndicators.active{position:relative;float:left;background:#d1343f;border:0;color:white;font-weight:bold;border-top-right-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-bottom-left-radius:0px;}.stepIndicators.done{background:#2a2a2a;color:white;border-top-left-radius:3px;border-bottom-left-radius:3px;font-weight:bold;}.stepIndicators.active:after,.stepIndicators.active:before{content:"";position:absolute;top:50%;margin-top:-15px;border-top:15px solid transparent;border-bottom:15px solid transparent;border-left:1em solid;right:-1em;}.stepIndicators.done:after,.stepIndicators.done:before{z-index:999;content:"";position:absolute;top:50%;margin-top:-15px;border-top:15px solid transparent;border-bottom:15px solid transparent;border-left:1em solid #2a2a2a;right:-1em;}.stepIndicators.active:after{z-index:2;border-left-color:#d1343f;}#bookNow,#mdProceed{}.row{background:transparent;border:0!important;}.Confirmation-details{background:white!important;}.journey{background:white!important;padding:10px!important;}.filter-blocks{border:0!important;}.filter-accor{border:0!important;}.scsMsg{border:0;background:transparent!important;font-weight:bold;}.help{margin-top:47px;}.btn-default{background:#2a2a2a;color:white;margin-top:5px;}.table{border:0!important;}.psg-details{border:0!important;}th{border-bottom:0!important;}.depDetails{margin-bottom:50px;}.btn-primary{background:#2a2a2a;border:0;}#mdProceed,#bookNow{font-weight:bold;}.time{font-size:20px;}.dd-selected-text{color:black!important;}#bookNow,#mdProceed,#paycd{background:#27ae60;border-radius:3px!important;}#bookNow:hover,#mdProceed:hover,#paycd:hover{background:#1abc9c;}.footer{width:1210px;}.displayNone{display:none}.display{display:block}.chill{pointer-events:none;}#menuClick .glyphicon-align-justify{font-size:12px;top:0;}@media (max-width:767px) {.logo img{max-height:20px;}}</style>
+<div class="new-header">
+<div class="col-sm-4 col-xs-4 menuRelative">
+<div id="menuIconContainer">
+<a id="menuClick" href="#">
+<span class="glyphicon glyphicon-align-justify"></span>
+</a>
+</div>
+<div class="countryCode hidden-xs">
+<div id="countryCode"><img src="resources/images/flg-eng.png"> <span class="hidden-xs" id="countryName">ENG</span></div>
+<ul id="countryCodeSub" class="displayNone">
+<li><a><img src="resources/images/flg-eng.png"> <span class="hidden-xs">ENG</span></a></li>
+<li><a><img src="resources/images/flg-mly.png"> <span class="hidden-xs">MLY</span></a></li>
+</ul>
+</div>
+ 
+<div id="menuAbsolute" class="displayNone" style="height: 708px;">
+<ul>
+<li><a href="/">Express</a></li>
+<li><a href="/rent-a-bus" target="_blank">Charter</a></li>
+<li class="small"><a href="/about">About Us</a></li>
+<li class="small"><a href="/contact">Contact Us</a></li>
+</ul>
+</div>
+</div>
+<div class="col-sm-4 col-xs-4" style="margin-top:10px; text-align:center;">
+<a style="text-align:center;" class="logo hidden-xs" href="/">
+<img src="resources/images/logo.jpg" alt="CatchThatBus">
+</a>
+<a class="logo visible-xs" style="text-align:center;" href="/">
+<img src="resources/images/logo-mobile.png" alt="CatchThatBus">
+</a>
+</div>
+<div class="col-sm-4 col-xs-4 menuRelative">
+<ul class="hdrQckLks">
+<li id="hdSamePrice"><span class="dollarCircle visible-md visible-lg">$</span> <span class="visible-lg">Same as Counter Price!</span></li>
+<li id="hdCallUs"><a href="tel:+60173235000"><span class="glyphicon glyphicon-earphone"></span> <span class="visible-sm visible-md visible-lg">+603 2630 8311</span></a></li>
+ 
+<span class="clearfix"></span>
+</ul>
+ 
+</div>
+<div class="clearfix"></div>
+</div>
+ 
+<script>
+  $(document).ready(function(){
+    //to hide the currency list option on payment and confirmation page.
+    var urlString = window.location.href;
+    if(urlString.indexOf("payment") !== -1 || urlString.indexOf("confirmItinerary") !== -1 ){
+        $(".countryCurrency").hide();
+      }
+    var currencyCode;
+    currencyCode = getCookie("currencyCode");
+    //alert(currencyCode);
+    if(currencyCode == '')
+    {
+      document.cookie = "currencyCode=MYR;";
+    }
+    else
+    {
+      //document.cookie = currencyCode;
+      $("#countryCurrency").text(currencyCode);
+    }
+    
+    $("#menuAbsolute").css("height",$(window).height()- 60);
+    $("#menuClick").click(function(){
+      $("#menuAbsolute").toggleClass("display");
+    });
+    
+    //Updated code
+    
+    //var currencyFromCookie = getCookie("currencyCode");
+    if(currencyCode !=null){
+      console.log("currency read from cookie if present:" + currencyCode);
+      var curr = new Object();
+      curr.currencyCode = currencyCode;
+      $.ajax({
+        url : location.protocol + "//" + location.host + "/changeCurrency",
+        datatype:"json",
+        contentType:"application/json; charset=utf-8",
+        type: 'POST',
+        data: JSON.stringify(curr),
+        success : function(){console.log('ajax call successfull');}
+      });
+    }
+    //the else block in the below code is not required because the default value is being
+    //set in the session in the controller itself.
+    else{
+      var curr = new Object();
+      curr.currencyCode = "MYR"; //defualt currency option
+      console.log("before making ajax call currency is:default");
+      $.ajax({
+        url : location.protocol + "//" + location.host + "/changeCurrency",
+        datatype:"json",
+        contentType:"application/json; charset=utf-8",
+        type: 'POST',
+        data: JSON.stringify(curr),
+        success : function(){
+          console.log('ajax call successfull');
+        }
+      });
+      setCookie(curr.currencyCode);
+    } 
+
+    var showHide=false;
+    $("#countryCurrency").on("click", function(){
+      showHide = !showHide;
+      if(showHide){
+        $("#countryCurrencySub").show();
+      }else{
+        $("#countryCurrencySub").hide();
+      }
+      $("#countryCurrencySub").toggleClass("display");
+      
+    });
+    
+    $("#countryCurrencySub li").on("click", function(e){
+      //e.preventDefault();
+      e.stopPropagation();
+      //var imgName = $(this).find("img").attr("src");
+      //$("#countryCurrency").find("img").attr('src', imgName);
+      var textString = $(this).text();
+      var currentText = $("#countryCurrency").text();
+      var newText = textString;
+      $("#countryCurrency").text(textString);
+      document.cookie = "currencyCode="+textString+";";
+      $("#countryCurrencySub").hide();
+      showHide = !showHide;
+      
+      if( currentText != textString )
+      {
+        console.log("currency code on changing the drop down :"+ textString+"$(this).val()" +" and page is :" + window.location.href);
+        var urlPathString = window.location.href;
+        var curr = new Object();
+        curr.currencyCode = textString; //$(this).val();
+        $.ajax({
+            url : location.protocol + "//" + location.host + "/changeCurrency",
+            datatype:"json",
+            contentType:"application/json; charset=utf-8",
+            type: 'POST',
+            data: JSON.stringify(curr),
+            success : function(){console.log('ajax call successfull on change event');}
+          });
+        setCookie(textString);
+        var urlString = getRedirectURL(urlPathString);
+        console.log("url: "+ urlString);
+        if(urlPathString.indexOf("express") != -1){
+          console.log('url extract is:'+urlString);
+          window.location.href = urlString;
+        }
+  
+      }
+    });
+    
+    // End of updated code
+    
+    /*function getCookie(currCode)
+    {
+      var code = currCode + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0; i<ca.length; i++) 
+        {
+        var c = ca[i].trim();
+        if (c.indexOf(code)==0) return c.substring(code.length,c.length);
+        }
+      return "";
+    }*/
+    function setCookie(val){
+          console.log("displayed again: in setCookie method" + val);
+          var expires = new Date();
+          expires.setMinutes(expires.getMinutes() + 2);
+          var d = "expires = " + expires;
+          console.log("expriry time set as:" + d);
+          document.cookie = "currencyCode=" + val + ";"; 
+      }
+      function getCookie(cookieName){
+        console.log("in the getCookie");
+        var name = cookieName + "=";
+        var cookieValue = document.cookie.split(";");
+        for(var i = 0; i < cookieValue.length; i++){
+          var c = cookieValue[i].trim();
+          if(c.indexOf(name) == 0){
+             return (c.substring(name.length , c.length)); 
+          }
+        }
+      }
+    function getRedirectURL(urlString){
+      if(urlString.indexOf("express") !== -1){
+          var url = location.protocol + "//" + location.host  + "/" + urlString.substring(urlString.indexOf("express"), urlString.length);
+          return url;
+        }
+
+      } 
+    function GetURLParameter(sParam)
+    {
+      var sPageURL = window.location.search.substring(1);
+      var sURLVariables = sPageURL.split('&');
+      for (var i = 0; i < sURLVariables.length; i++) 
+      {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam) 
+        {
+          return sParameterName[1];
+        }
+      }
+    }
+    var locale = GetURLParameter('locale');
+      //alert(locale);
+      if(locale=="my_my")
+      {
+        $("#countryCode").find("img").attr('src', 'resources/images/flg-mly.png');
+        var textString = "MLY"; //$(this).text();
+        $("#countryCode #countryName").text(textString);
+      }
+      else
+      {
+        if(locale=="en_us")
+        {
+          $("#countryCode").find("img").attr('src', 'resources/images/flg-eng.png');
+          var textString = "ENG"; //$(this).text();
+          $("#countryCode #countryName").text(textString);
+        }
+        else
+        {
+          var cntryCode = getCookie("countryCode");
+          imgSrc = (cntryCode=="my_my")?"resources/images/flg-mly.png":"resources/images/flg-eng.png";
+          cntryTxt = (cntryCode=="my_my")?"MLY":"ENG";
+          $("#countryCode").find("img").attr('src', imgSrc);
+          $("#countryCode #countryName").text(cntryTxt);
+        }
+      }
+      
+    $("#countryCode").on("click", function(){
+      $("#countryCodeSub").toggleClass("display");
+    });
+    
+    $("#countryCodeSub").on("click", "li", function(e){
+      //e.preventDefault();
+      var imgName = $(this).find("img").attr("src");
+      //alert(imgName);
+      
+      $("#countryCodeSub").css('display','none');
+      
+      if(imgName=="resources/images/flg-mly.png")
+      {
+      //alert("my"); toLocale == "my_my" 
+        if( (window.location.search).length == 0)
+        {
+          window.location = window.location+"?locale=my_my";  
+        }
+        else
+        {
+          var url = document.URL
+          var newAdditionalURL = "";
+          var tempArray = url.split("?");
+          var baseURL = tempArray[0];
+          var aditionalURL = tempArray[1]; 
+          var temp = "";
+          if(aditionalURL)
+          {
+          var tempArray = aditionalURL.split("&");
+          for ( var i in tempArray ){
+            if(tempArray[i].indexOf("locale") == -1){
+                newAdditionalURL += temp+tempArray[i];
+                  temp = "&";
+                }
+              }
+          }
+          var rows_txt = temp+"locale=my_my";
+          var finalURL = baseURL+"?"+newAdditionalURL+rows_txt;
+          window.location = finalURL;
+        }
+        document.cookie = "countryCode=my_my;expires="+((15*60)+(new Date()).getTime());
+      }
+      else
+      {  
+      //alert("us");toLocale="en_us";  
+        if( (window.location.search).length == 0)
+        {
+          window.location = window.location+"?locale=en_us";  
+        }
+        else
+        {
+          var url = document.URL
+          var newAdditionalURL = "";
+          var tempArray = url.split("?");
+          var baseURL = tempArray[0];
+          var aditionalURL = tempArray[1]; 
+          var temp = "";
+          if(aditionalURL)
+          {
+          var tempArray = aditionalURL.split("&");
+          for ( var i in tempArray ){
+            if(tempArray[i].indexOf("locale") == -1){
+                newAdditionalURL += temp+tempArray[i];
+                  temp = "&";
+                }
+              }
+          }
+          var rows_txt = temp+"locale=en_us";
+          var finalURL = baseURL+"?"+newAdditionalURL+rows_txt;
+          window.location = finalURL;
+        }
+        document.cookie = "countryCode=en_us;expires="+((15*60)+(new Date()).getTime());
+      }
+      $("#countryCodeSub").css('display','none');
+      //var temp = window.location.search;
+      /*if( temp.indexOf("?")==-1)
+      {
+        window.location.search = "?locale="+toLocale;
+      }*/
+    });
+    
+    
+  });
+  
+  
+    function VerifyEmail(szString) {
+        if(szString=='') return false;
+        
+        var szValid = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-._";
+        
+        var nPos;
+        nPos = szString.indexOf('@');
+        if(nPos==-1) return false;
+        if(!VerifyStringwKey(szString.substring(0, nPos), szValid))
+            return false;
+        szTmp = szString.substring(nPos+1, szString.length);
+        if(!VerifyStringwKey(szTmp, szValid))
+            return false;
+        nPos = szTmp.length;
+        if(szTmp.charAt(0)=='.')
+            return false;
+        // check for a . 2/3/4 places b4 the end of string
+        if(szTmp.charAt(nPos-3)!='.' && szTmp.charAt(nPos-4)!='.' && szTmp.charAt(nPos-5)!='.')
+            return false;
+        return true;
+    }
+    function VerifyStringwKey(szString, szKey) {
+        if(szString=='') return true;
+        
+        var i;
+        
+        for(i=0;i<szString.length;i++) {
+            if(szKey.indexOf(szString.charAt(i))==-1)
+                return false;
+        }
+        return true;
+    }
+</script>
+<meta charset="utf-8">
+<meta name="description" content="The CatchThatBus Privacy Policy describes the privacy practices of our websites, products, online services, and apps. Learn more.">
+<meta name="keyword" content="">
+<link rel="stylesheet" href="&lt;c:url value=&quot;/resources/static-pages/css/bootstrap.css&quot;/&gt;" type="text/css" media="screen">
+<style type="text/css">.steps{vertical-align:initial;}.num{padding:0 5px 0 10px;}@media (min-width: 900px) {.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12{float:left;}.col-md-12{padding:0px 0px;}.col-md-6{padding-left:0px;padding-right:0px;}}.logo img{height:20px;}.container{padding:0px;}.blue{color:#0066FF;font-size:16px;font-family:Avenir Black;}td{padding:6px;}@font-face{font-family:Avenir Roman;src:url(/resources/fonts/avenir-55-roman.woff);}@font-face{font-family:Avenir Light;src:url(/resources/fonts/avenir-35-light.woff);}@font-face{font-family:Avenir Medium;src:url(/resources/fonts/avenir-65-medium.woff);}@font-face{font-family:Avenir Black;src:url(/resources/fonts/avenir-95-black.woff);}</style>
+<div class="col-xs-12" style="display:block; margin:auto auto; font-family: Avenir Roman, Geneva, sans-serif; background-color:#eeeeee;">
+<div class="container" style="max-width:900px;">
+<div class="col-xs-12 col-md-8">
+<img src="resources/images/PrivacyPolicy.png" class="img-responsive" style="display:block; margin:auto auto;" alt="bus and phone">
+</div>
+<div class="col-xs-12 col-md-4" style="display:block; margin: auto auto; font-family:Avenir Roman, Geneva, sans-serif; font-size:15px;">
+<p style="font-family:Avenir Black; font-size:25px; padding:25px 0 5px 0;">Privacy Policy</p>
+<a href="#information"><p>What do we do with your information?</p></a>
+<a href="#consent"><p>Consent</p></a>
+<a href="#disclosure"><p>Disclosure</p></a>
+<a href="#third_party"><p>Third-party services</p></a>
+<a href="#security"><p>Security</p></a>
+<a href="#cookies"><p>Cookies</p></a>
+<a href="#age"><p>Age of consent</p></a>
+<a href="#changes"><p>Changes to this Privacy Policy</p></a>
+<a href="#question"><p>Question and Contact Information</p></a>
+</div>
+</div>
+</div>
+
+<div class="col-xs-12 " style="padding:30px; font-family:Avenir Roman, Geneva, sans-serif; background:#fff;">
+<div class="container" style="max-width:900px;">
+<div class="col-xs-12" style="padding-top:20px;">
+<p class="blue" id="information">What do we do with your information?</p>
+<p>
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
+<br><br>
+When you browse our store, we also automatically receive your computer's internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
+<br><br>
+Email marketing (if applicable): With your permission, wemay send you emails about our store, new products and other updates.</p>
+</div>
+<div class="col-xs-12" style="padding-top:20px;">
+<p class="blue" id="consent">Consent</p>
+<p>
+<b> How do you get my consent?</b>
+<br><br>
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to us collecting it and using it for that specific reason only.
+<br><br>
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+<br><br>
+<b>How do I withdraw my consent? </b>
+<br><br>
+If after you opt-in, you change your mind, you may withdraw your consent to us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at admin@catchthatbus.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> or mailing us at: Catch That Bus Sdn. Bhd. A-32 Menara Nu, 50470 Kuala Lumpur, Wilayah Persekutuan, Malaysia.
+</p>
+</div>
+<div class="col-xs-12" style="padding-top:20px;">
+<p class="blue" id="disclosure">Disclosure</p>
+<p>
+<b>Payment:</b>
+<br><br>
+If you choose a direct payment gateway to complete your purchase, then the respective bank stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+<br><br>
+All direct payment dateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
+<br><br>
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and it's service provider
+<br><br>
+For more insight, you may also want to read Catch That Bus Terms of Service <a href="">here</a> or Privacy Statement <a href="">here</a>.
+</p>
+</div>
+<div class="col-xs-12" style="padding-top:20px;">
+<p class="blue" id="third_party">Third-party Services</p>
+<p>
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+<br><br>
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+<br><br>
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+<br><br>
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+<br><br>
+As an example, if you are located in Singapore and your transaction is processed by a payment gateway located in the Malaysia, then your personal information used in completing that transaction may be subject to disclosure under Malaysian legislation.
+<br><br>
+Once you leave our storeâs website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our websiteâs Terms of Service.
+<br><br>
+<b>Links</b>
+<br><br>
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+</p>
+</div>
+<div class="col-xs-12" style="padding-top:20px;">
+<p class="blue" id="security">Security</p>
+<p>
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+<br><br>
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-128 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+</p>
+</div>
+<div class="col-xs-12" style="padding-top:20px;">
+<p class="blue" id="cookies">Cookies</p>
+<p>
+Here is a list of cookies that we use. Weâve listed them here so you that you can choose if you want to opt-out of cookies or not.
+<br><br>
+JSESSIONID, currencyCode, departDate, returnDate, from, toCity are the cookies used by <a href="http://www.catchthatbus.com">www.catchthatbus.com</a>. All of them are session related cookies and store the information related to your search query. JSESSIONID is the unique session identifier cookie.
+</p>
+</div>
+<div class="col-xs-12" style="padding-top:20px;">
+<p class="blue" id="age">Age of consent</p>
+<p>
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+</p>
+</div>
+<div class="col-xs-12" style="padding-top:20px;">
+<p class="blue" id="changes">Changes to this Privacy Policy</p>
+<p>
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+<br><br>
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+</p>
+</div>
+<div class="col-xs-12" style="padding-top:20px;">
+<p class="blue" id="question">Question and Contact information</p>
+<p>
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at admin@catchthatbus.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> or by mail at Catch That Bus Sdn. Bhd.
+<br><br>
+[Re: Privacy Compliance Officer]
+<br><br>
+[A-32, Menara Nu Kuala Lumpur Wilayah Persekutuan Malaysia 50470]
+</p>
+</div>
+</div>
+</div>
+ 
+
+<div id="footer">
+<div class="container">
+<div class="hidden-sm hidden-xs">
+<div class="col-md-3">
+<h5>Top Destinations</h5>
+<ul>
+<li><a href="/kualalumpur-to-singapore">Kuala Lumpur to Singapore</a></li>
+<li><a href="/kualalumpur-to-penang">Kuala Lumpur to Penang</a></li>
+<li><a href="/kualalumpur-to-kuantan">Kuala Lumpur to Kuantan</a></li>
+<li><a href="/kualalumpur-to-melaka">Kuala Lumpur to Melaka</a></li>
+<li><a href="/kualalumpur-to-ipoh">Kuala Lumpur to Ipoh</a></li>
+<li><a href="/kualalumpur-to-johorbahru">Kuala Lumpur to Johor Bahru</a></li>
+<li><a href="/kualalumpur-to-kualaterangganu">Kuala Lumpur to Kuala Terengganu</a></li>
+</ul>
+</div>
+<div class="col-md-2">
+<h5>Operators</h5>
+<ul>
+<li><a href="/bus-operator-nice">Nice</a></li>
+<li><a href="/bus-operator-nice-imperial">Nice Imperial</a></li>
+<li><a href="/bus-operator-plusliner">Plusliner</a></li>
+<li><a href="/bus-operator-transnasional">Transnasional</a></li>
+<li><a href="/bus-operator-starmart">Starmart Express</a></li>
+<li><a href="/bus-operator-airport-coach">Airport Coach</a></li>
+<li><a href="/bus-operator-suasana-edaran">Suasana Edaran</a></li>
+<li><a href="/bus-operator-intercity-coach">Intercity Coach</a></li>
+<li><a href="/bus-operator-perak-transit">Perak Transit</a></li>
+<li><a href="/bus-operator-eagle-ekspres">Eagle Ekspres</a></li>
+<li><a href="/all-express-bus-operators-malaysia">More...</a></li>
+</ul>
+</div>
+<div class="col-md-2">
+<h5>Company Info</h5>
+<ul>
+<li><a href="/about">About Us</a></li>
+<li><a href="/contact">Contact Us</a></li>
+<li><a href="http://blog.catchthatbus.com" target="_blank">Blog</a></li>
+</ul>
+</div>
+<div class="col-md-2">
+<h5>Learn More</h5>
+<ul>
+<li><a href="/how-it-works" class="">How it works</a></li>
+<li><a href="/android" target="_blank">Mobile</a></li>
+<li><a href="/faqs" class="">FAQs</a></li>
+<li><a href="/privacy-policy" class="">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h5>Follow Us</h5>
+<ul class="socialIcons">
+<li><a href="http://facebook.com/catchthatbus"><img src="resources/images/icon-facebook.png" alt="Connect to CatchThatBus"></a></li>
+<li><a href="http://twitter.com/catchthatbusmy"><img src="resources/images/icon-twitter.png" alt="Connect to CatchThatBus"></a></li>
+<li><a href="#" class="chill"><img src="resources/images/icon-kakaotalk.png" alt="Connect to CatchThatBus"></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="tandc col-lg-12">
+<p>© 2014 CatchThatBus&nbsp;&nbsp;|&nbsp;&nbsp;Hotline: +603-2630 8311 (Mon-Fri 9am-6pm) <a href=""></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=""></a></p>
+</div>
+ 
+
+ 
+ 
+<script type="text/javascript" id="inspectletjs">
+	window.__insp = window.__insp || [];
+	__insp.push(['wid', 251756279]);
+	(function() {
+		function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
+		if (window.attachEvent){
+			window.attachEvent('onload', __ldinsp);
+		}else{
+			window.addEventListener('load', __ldinsp, false);
+		}
+	})();
+</script>
+ 
+ 
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?1vZxLOeMNOq50NtpWQSsLRiXQuRoilXC';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+ 
+
+
+</div></body></html>
