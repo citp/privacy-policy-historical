@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindshareworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171136id_/http%3A//mindshareworld.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindshareworld.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216205731id_/http%3A//www.mindshareworld.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mindshare World
 
