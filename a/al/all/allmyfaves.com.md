@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmyfaves.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615140914id_/http%3A//www.allmyfaves.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmyfaves.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216155825id_/http%3A//www.allmyfaves.com/policy/privacy) for the most accurate reproduction.*
 
 # All My Faves | My Homepage
 
@@ -18,8 +18,9 @@ Our privacy policy covers All My Faves Inc. and its website:
 
 **Organisation Name:** | **All My Faves Inc.**  
 ---|---  
-**City:** | **Tel Aviv**  
+**City:** | **Tel Aviv, Bilu 39**  
 **Country:** | **Israel**  
+**Tel:** | **+972-3-5250755**  
 **Web Sites(s):** | **http://www.allmyfaves.com**  
   
 At All My Faves, we recognize that your privacy and that of your personal information is important. Below we provide information on what types of personal information we receive and maintain in our company's records when you use/visit All My Faves, and how we safeguard that information. 
