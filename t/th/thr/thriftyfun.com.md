@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftyfun.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625224140id_/https%3A//www.thriftyfun.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftyfun.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216021517id_/https%3A//www.thriftyfun.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ThriftyFun
 
