@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ontimenow.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022064353id_/http%3A//privacy-policy.truste.com/verified-policy/www.ontimenow.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontimenow.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216082336id_/http%3A//privacy-policy.truste.com/verified-policy/www.axosoft.com) for the most accurate reproduction.*
 
-# Privacy Policy for www.ontimenow.com
+# Privacy Policy for www.axosoft.com
 
-Effective on May 7, 2012 
+Effective on April 29, 2010 
 
-This privacy statement describes how Axosoft, LLC collects and uses the personal information you provide on our Web site: [www.ontimenow.com ](http://www.ontimenow.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Axosoft, LLC collects and uses the personal information you provide on our Web site: [www.axosoft.com ](https://www.axosoft.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collection and Use of Personal Information
 
@@ -13,13 +13,13 @@ We collect the following personal information from you
   * Contact Information such as name, email address, mailing address, phone number
   * Billing Information such as credit card number, and billing address
   * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
 
 
 
 We also collect the following information from you
 
   * Information about your business such as company name, company size, business type
-  * Demographic information such as age, education, gender, interests and zip code
 
 
 
@@ -40,17 +40,15 @@ We use this information to
   * Respond to your questions and concerns
   * Improve our Web site and marketing efforts
   * Conduct research and analysis
-  * Enable you to post your resume, search job postings, and contact or be contacted by prospective employers
+  * Display content based upon your interests
 
 
 
 **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [axosoft@axosoft.com ](mailto:axosoft@axosoft.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@axosoft.com ](mailto:support@axosoft.com).
 
-**Information Obtained from Third Parties**
-
-We purchase marketing data about our customers from third parties and combine it with information we already have about you, to create more tailored advertising and products.
+We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
 
 ## Information Sharing
 
@@ -91,15 +89,19 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at [axosoft@axosoft.com ](mailto:axosoft@axosoft.com)
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@axosoft.com](mailto:support@axosoft.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+If you have any questions about security on our Web site, you can contact us at [support@axosoft.com ](mailto:support@axosoft.com)
 
 ## Additional Policy Information
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [axosoft@axosoft.com ](mailto:axosoft@axosoft.com).
+To review and update your personal information to ensure it is accurate, contact us at [support@axosoft.com ](mailto:support@axosoft.com).
 
 **Notification of Privacy Statement Changes**
 
@@ -109,8 +111,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 Axosoft, LLC 
 
-13835 N. NORTHSIGHT BLVD Suite 205 
+13835 N. Northsight Blvd Suite 205 
 
 Scottsdale, AZ, United States 85260
 
-Phone: 480.362.1900 x680
+Phone: 480.362.1900 ext. 3
