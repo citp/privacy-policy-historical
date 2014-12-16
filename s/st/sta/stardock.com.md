@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153649id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216085843id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
 # Stardock Corporation - Privacy
 
@@ -15,7 +15,7 @@ Stardock Activation
 
 Some Stardock products require activation over the Internet to use their enhanced versions. Depending on if your order was directly through Stardock or through a third-party, we may ask for your first name, last name, email address, and the serial number/activation code for the product you have purchased. 
 
-Your IP address and number of activation attempts will also be logged. There are reasonable limits on how often you can activate a given product to help deter piracy, but for most users, this limit will not be reached. If you have difficulties, please contact support@stardock.com. This information will not be used by third parties, but may be used by Stardock to contact you about updates or other Stardock-related news. 
+Unique identifying information about your personal computer and/or network such as; IP address, MAC address, SID, Motherboard ID, hard disk ID, OS Version and number of activation attempts may also be collected and logged. There are reasonable limits on how often you can activate a given product to help deter piracy, but for most users, this limit will not be reached. If you have difficulties, please contact support@stardock.com. This information will not be used by third parties, but may be used by Stardock to contact you about updates or other Stardock-related news. 
 
 Cookies
 
