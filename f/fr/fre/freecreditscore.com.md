@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the freecreditscore.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629185953id_/http%3A//www.freecreditscore.com/privacy-policy-nbw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecreditscore.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216145547id_/http%3A//www.freecreditscore.com/privacy-policy-nbw) for the most accurate reproduction.*
 
 # Explanation of Terms: Credit Report Accounts Tab
 
 Last revised: 9/20/2012
 
-ConsumerInfo.com, Inc. ("we" or "us") wants you to be familiar with what information we collect about you, how the information is being used and what choices you have regarding the collection and use of the information. This Privacy Policy (the "Policy") describes our practices in connection with information that we collect through our websites (collectively, the "Site"). Please take a moment to review this Policy and feel free to contact us with any questions at (877) 300-2506.
+ConsumerInfo.com, Inc. ("we" or "us") wants you to be familiar with what information we collect about you, how the information is being used and what choices you have regarding the collection and use of the information. This Privacy Policy (the "Policy") describes our practices in connection with information that we collect through our websites (collectively, the "Site"). Please take a moment to review this Policy and feel free to contact us with any questions at 1-877-300-2506.
 
 By using the Site, you agree to the terms of this Policy. If you do not agree to the terms of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You agree to obtain annual notices of, and changes to, this Policy electronically by visiting this Site. You can determine when this Policy was last revised by referring to the "Last Revised" legend at the top of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect. Therefore, we encourage you to review this Site from time to time for changes to our Policy.
 
-### WHAT TYPES OF INFORMATION DO WE COLLECT ABOUT YOU?
+## WHAT TYPES OF INFORMATION DO WE COLLECT ABOUT YOU?
 
 We collect personal information and non-personal information through the Site. Personal information is information that identifies you as an individual. Non-personal information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
 
@@ -38,7 +38,7 @@ We collect personal information and non-personal information through the Site. P
 
 Please note that if we combine any non-personal information with personal information, the combined information will be treated by us as personal information as long as it is so combined.
 
-### HOW DO WE USE THE INFORMATION COLLECTED?
+## HOW DO WE USE THE INFORMATION COLLECTED?
 
 **_Personal Information._ ** We may use personal information we collect in the following ways:
 
@@ -60,7 +60,7 @@ In some instances, we may combine non-personal information with personal informa
 
 We may, along with our affiliates and marketing partners enhance and/or merge personal information about you with data collected from other sources and use it in direct and/or online marketing and, to the extent permitted by law, individual reference and look-up service programs. In the event we enhance and/or merge such personal information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information.
 
-### DO WE DISCLOSE INFORMATION TO THIRD PARTIES?
+## DO WE DISCLOSE INFORMATION TO THIRD PARTIES?
 
 We may disclose information about you to affiliated and non-affiliated third parties.
 
@@ -76,34 +76,34 @@ We may disclose information about you to affiliated and non-affiliated third par
 
 **Aggregate, Non-Personal, or De-identified Information.** We may share aggregated information (i.e., information about you and other customers collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect with third parties, including affiliates to develop and deliver targeted advertising on our Site and on the websites of third parties. If you would prefer that we do not utilize cookies with your website experience, or would prefer to restrict the use of cookies with network advertising partners, please see the "Your Choices" section below.
 
-### YOUR CHOICES
+## YOUR CHOICES
 
 You have choices when it comes to updating your information, learning about new offers or products offered by us, our partners or affiliates. If you do not wish to receive offers of products from us, our partners or affiliates, here are the methods in which you can opt out:
 
-ConsumerInfo.com, Inc. Commercial Email. If you prefer not to receive emails from us about offers and Promotions please unsubscribe via the unsubscribe link in an email, or contact us at (877) 300-2506. Alternatively, you may opt-out of commercial email directly on the order form while placing a new order.
+ConsumerInfo.com, Inc. Commercial Email. If you prefer not to receive emails from us about offers and Promotions please unsubscribe via the unsubscribe link in an email, or contact us at 1-877-300-2506. Alternatively, you may opt-out of commercial email directly on the order form while placing a new order.
 
 **Cookies.** Subject to the section above pertaining to cookies and similar technologies, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser's instructions to perform this task. Additionally, the Network Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. We may share anonymous or de-identified information with such member networks for the purposes of delivering targeted advertising; however you may visit the NAI opt-out page and opt-out of this cookie tracking if you do not wish to receive targeted advertising. Please visit: <http://www.networkadvertising.org/optout_nonppii.asp> for more information.
 
-**Changing information.** Corrections or updates to your information including your email address, phone number, mailing address, credit card information or password reminder phrase can be made through the edit profile section of your account on the Site. If necessary, other corrections or updates to your information can be made by contacting a customer care representative at (877) 300-2506. For your protection, our customer care representatives may request supporting documents before making any changes or updates to your membership information.
+**Changing information.** Corrections or updates to your information including your email address, phone number, mailing address, credit card information or password reminder phrase can be made through the edit profile section of your account on the Site. If necessary, other corrections or updates to your information can be made by contacting a customer care representative at 1-877-300-2506. For your protection, our customer care representatives may request supporting documents before making any changes or updates to your membership information.
 
 We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove personal information about you from the databases of third parties with which we have already disclosed personal information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related emails.
 
-### HOW DO WE PROTECT YOUR INFORMATION?
+## HOW DO WE PROTECT YOUR INFORMATION?
 
 We have security measures and tools, such as firewalls, in place to help protect against the loss, misuse and alteration of the information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please notify us of the problem as soon as possible by contacting us in accordance with the Section "Contacting Us" below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
 
-### LINKS
+## LINKS
 
 The Site may contain links to third-party websites. These linked sites are not under our control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by us. If you provide any personal information through any such third-party website, your transaction will occur on the third party's website (not the Site) and the personal information you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
 
-### LOCATION
+## LOCATION
 
 We control and operate the Site from the United States, and the Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. We do not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.
 
-### A SPECIAL NOTE REGARDING INDIVIDUALS UNDER 18 YEARS OLD
+## A SPECIAL NOTE REGARDING INDIVIDUALS UNDER 18 YEARS OLD
 
 The Site is not directed to individuals under the age of eighteen (18), and we request that such individuals not provide personal information through the Site. If you are under 18 years of age, you may browse our Site; however, you may not provide personal information to us such as name, address, or email address, and you may not register for, enroll in, and/or make product purchases.
 
-### CONTACTING US
+## CONTACTING US
 
-If you have any questions regarding this Policy, please contact us at (877) 300-2506. Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us.
+If you have any questions regarding this Policy, please contact us at 1-877-300-2506. Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us.
