@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325021732id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216175009id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
