@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsestimator.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619203933id_/http%3A//windowsestimator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsestimator.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216215035id_/http%3A//windowsestimator.com/privacy) for the most accurate reproduction.*
 
 # Windowsestimator.Com Privacy Policy
 
