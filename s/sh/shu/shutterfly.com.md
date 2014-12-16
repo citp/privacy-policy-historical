@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413022816id_/http%3A//shutterfly-inc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216231059id_/http%3A//shutterfly-inc.com/privacy.html) for the most accurate reproduction.*
 
 # Shutterfly, Inc. - Privacy Policy
 
@@ -123,7 +123,7 @@ ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CON
 
 ## 13\. Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20140413022816id_/http%3A//shutterfly-inc.com/contact.html) page of any of our brands.
+If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20141216231059id_/http%3A//shutterfly-inc.com/contact.html) page of any of our brands.
 
 ## 14\. Updates to Privacy Policy
 
