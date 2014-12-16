@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typeracer.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209070754id_/http%3A//www.typeracer.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typeracer.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216132856id_/http%3A//www.typeracer.com/docs/privacy.html) for the most accurate reproduction.*
 
 # TypeRacer Privacy Policy
 
