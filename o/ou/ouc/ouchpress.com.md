@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouchpress.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022915id_/http%3A//www.ouchpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouchpress.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216150657id_/http%3A//www.ouchpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
