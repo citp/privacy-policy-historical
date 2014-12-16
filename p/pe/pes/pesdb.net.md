@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pesdb.net privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506055015id_/http%3A//pesdb.net/pes2014/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesdb.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216154221id_/http%3A//pesdb.net/pes2015/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# PES Database 2014
+# PES Database 2015
 
 **Privacy Policy for pesdb.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [clicking here](https://web.archive.org/web/20140506055015id_/http%3A//pesdb.net/pes2014/contact.php).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by [clicking here](https://web.archive.org/web/20141216154221id_/http%3A//pesdb.net/pes2015/?page=contact).
 
 At pesdb.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by pesdb.net and how it is used.
 
@@ -30,4 +30,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-[Return to Home Page](https://web.archive.org/web/20140506055015id_/http%3A//pesdb.net/pes2014/index.php)
+[Return to Home Page](https://web.archive.org/web/20141216154221id_/http%3A//pesdb.net/pes2015/)
