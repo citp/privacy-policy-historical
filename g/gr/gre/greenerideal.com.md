@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenerideal.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506052306id_/http%3A//www.greenerideal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenerideal.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216222211id_/http%3A//www.greenerideal.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Greener Ideal
+# Privacy – Greener Ideal
 
 We only collect personal information that you choose to give us (e.g. your e-mail address when you e-mail us or submit a contact form). We use the information we collect to provide the services you request, to tell you about other products and services offered by Greener Ideal, and to manage our sites and services.
 
