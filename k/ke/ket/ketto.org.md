@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622215358id_/http%3A//ketto.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216084628id_/http%3A//www.ketto.org/privacy_policy.php) for the most accurate reproduction.*
 
 # | Ketto.org
 
@@ -27,7 +27,7 @@ We also use cookies to allow you to enter your password less frequently during a
 
 Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of cookies by third parties.
 
-If you choose to donate or contribute on or through the Website, we collect information about your donations patterns and generally your usage behaviour.
+If you choose to donate or contribute on or through the Website, we collect information about your donations patterns and generally your usage behavior.
 
 If you transact with us (through making donations / contributions), we collect some additional information, such as a billing address, a credit / debit card number and a credit / debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders.
 
@@ -47,14 +47,13 @@ We identify and use your IP address to help diagnose problems with our server, a
 
 ### 3\. Sharing of personal information
 
-The following is information that we will not share with any third parties or disclose to any person other than as required by law;  
-Sensitive Personal Data or Information of any person being the password, financial information such as Bank account or credit card or debit card or other payment instrument details, sexual orientation or any other sensitive personal information not essential for the continued use of the Website.
+The following is information that we will not share with any third parties or disclose to any person other than as required by law; Sensitive Personal Data or Information of any person being the password, financial information such as Bank account or credit card or debit card or other payment instrument details, sexual orientation or any other sensitive personal information not essential for the continued use of the Website.
 
 We may share personal information with our other corporate and /or associate entities and affiliates to help detect and prevent identity theft, fraud and other potentially illegal acts and cyber security incidents; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one associate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
 
 We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to summons, courtorders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith and belief that such disclosure is reasonably necessary to: enforce our Terms of Use or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
 
-We and our affiliates will share / sell some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
+We and our affiliates will share, part with and allow any other business entity to use the personal information provided by the User to Ketto, in the event we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
 
 ### 4\. Links to Other Sites
 
@@ -86,6 +85,8 @@ By using the Website and/ or by providing your information, you consent to the c
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
+The donors/contributors hereby permit Ketto to share their personal information such as name, email address, contact information to the respective campaigners and beneficiaries of the donations made by the donors via Ketto.org
+
 ### 9\. Retention of Information
 
 Information provided by you to Ketto is processed, stored and retained through our servers and web hosts being Amazon Web Services.  
@@ -97,11 +98,9 @@ In accordance with Information Technology Act 2000 and rules made there under, t
 
 Varun Sheth  
 Ketto Online Ventures Private Limited  
-GB-4, Virwani Industrial estate,  
-Off Western Express Highway,  
-Goregoan East,  
-Mumbai -400063
-
+Office Number 636, Laxmi Plaza,  
+Sab TV Lane, Off Link Road.  
+Andheri West, Mumbai- 400 053 (India)  
 Phone: +91- 022 - 65702567  
 Email: [info@ketto.org](mailto:info@ketto.org)  
 Time: Mon – Sat (9:00 – 18:00) 
