@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentairevolt.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620012400id_/http%3A//www.hentairevolt.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentairevolt.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216010632id_/http%3A//www.hentairevolt.com/pp.html) for the most accurate reproduction.*
 
 # Hentai Revolt - Privacy Policy
 
