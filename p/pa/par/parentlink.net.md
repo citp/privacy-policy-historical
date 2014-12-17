@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parentlink.net privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530155307id_/http%3A//www.parentlink.net/privacy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentlink.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217121738id_/http%3A//www.parentlink.com/privacy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy & Terms of Use | ParentLink
 
-## [](http://www.parentlink.net/wp-content/uploads/2014/01/lock.png) Privacy, Security and Terms of Use
+## [](http://www.parentlink.com/wp-content/uploads/2014/01/lock.png) Privacy, Security and Terms of Use
 
 Maintaining your privacy, and the confidentiality of the data you provide us is among our top concerns. To ensure the highest levels of privacy we actively maintain and enforce the following policies and procedures.
 
@@ -66,6 +66,10 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, [your company
 
 Parlant has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the EU Data Protection Authorities, which is administered by the U.S. Council for International Business. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Parlant, please visit [http://ec.europa.eu/justice/data-protection/document/international-transfers/adequacy/files/ussh/complaint_form_20130206_en.pdf](http://ec.europa.eu/justice/data-protection/document/international-transfers/adequacy/files/ussh/complaint_form_20130206_en.pdf) for more information about submitting a complaint.
 
+**[We self-certify compliance with:](http://safeharbor.export.gov/list.aspx)**
+
+[](http://www.export.gov/safeharbor)
+
 **12\. Summary of Safe Harbor Compliance.**  
 Schools and entities located in the European Union (EU) must indicate consent for the transfer and storage of personal information to sites that are located outside of the EU. Parlant complies with the Safe Harbor policies of collection, use, and distribution of data from the EU. Parlant complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Parlant has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/.
 
@@ -92,7 +96,7 @@ You agree that you will not use the Services for any illegal purpose. In additio
 
 The documents may be used solely for personal, noncommercial and informational purposes. The documents may be posted to a private intranet that is accessible to authorized Users so long as the documents are still used solely for personal, noncommercial and informational purposes.
 
-The documents may not be modified. The following copyright notice and permission notice must appear in each document: “© Copyright 2013 Parlant Technology, Inc. All rights reserved. Documents available from this Parlant Technology, Inc. websites and presented through Parlant Technology, Inc.’s products and services are protected by the copyright laws of the United States and international treaties. All use of the documents are subject to the Terms of Use Agreement set forth at http://www.parentlink.net/company/privacy-and-security.”
+The documents may not be modified. The following copyright notice and permission notice must appear in each document: “© Copyright 2013 Parlant Technology, Inc. All rights reserved. Documents available from this Parlant Technology, Inc. websites and presented through Parlant Technology, Inc.’s products and services are protected by the copyright laws of the United States and international treaties. All use of the documents are subject to the Terms of Use Agreement set forth at http://www.parentlink.com/company/privacy-and-security.”
 
 Commercial Use of Parlant Product Materials and Screen Shots. Reproduction, copying or redistribution of materials on the Parlant web site or presented through the Services for commercial purposes is prohibited without the express written permission of Parlant. To obtain permission to copy portions of this site, please send an email to our Legal Department at legal@parentlink.net and provide the following information in the body of the email:
 
@@ -130,6 +134,6 @@ In addition, you may not use Parlant trademarks, whether design or word marks, i
 
 **10\. Trademarks**. ParentLink®, Parlant™, Attendance Discovery™, Teacher Reach™ and the logo (“circle with three arrows logo”) are trademarks of Parlant Technology, Inc.
 
-**11\. Pending Patents.**  Technology contained within the Teach Reach solution and the Attendance Discovery solution are the subjects of one or more pending patent applications.
+**11\. Pending Patents.**  Technology contained within the Teach Reach solution and the Attendance Discovery solution are the subjects of one or more pending patent applications. Technology contained within the Teach Reach solution and the Attendance Discovery solution are the subjects of one or more pending patent applications including, but not limited to, Patent US 8832301 B2.
 
 © 2014 Parlant Technology, Inc.
