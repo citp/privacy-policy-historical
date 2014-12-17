@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robolinux.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131212id_/http%3A//www.robolinux.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robolinux.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083052id_/http%3A//www.robolinux.org/privacy.html) for the most accurate reproduction.*
 
 # Robolinux.org Privacy Statement
 
