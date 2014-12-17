@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsfnetwork.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630071810id_/http%3A//www.gearylsf.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsfnetwork.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083650id_/http%3A//www.gearylsf.com/privacy_policy) for the most accurate reproduction.*
 
 # Geary LSF - Privacy Policy
 
