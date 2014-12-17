@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corepoweryoga.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085153id_/http%3A//corepoweryoga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corepoweryoga.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217123253id_/http%3A//www.corepoweryoga.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CorePower Yoga
 
@@ -55,4 +55,4 @@ By using this site, you signify your acceptance of our Privacy Policy. If you do
 
 Last Updated:  12/10/2013
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 866.441.9642 or via[email](https://web.archive.org/web/20140625085153id_/http%3A//corepoweryoga.com/contact-us).**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 866.441.9642 or via[email](https://web.archive.org/web/20141217123253id_/http%3A//www.corepoweryoga.com/contact-us).**
