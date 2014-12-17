@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063605id_/http%3A//boomerang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217140956id_/http%3A//boomerang.com/privacy-policy) for the most accurate reproduction.*
 
-# Email Marketing | Privacy Policy | Boomerang.com
+# Privacy Policy | Online Services | Boomerang
 
 Boomerang provides email marketing, fax communication services, as well as other digital marketing services for business. Privacy is a fundamental consideration in our interaction with clients and visitors to our web site. This section explains our information gathering and retention practices.
 
-## BlastWizard
+**BlastWizard**
 
 The Boomerang web site includes a link to a web-based, self-service system called BlastWizard. This part of the site is restricted to Boomerang’s clients and is not available to the general public. In order to access BlastWizard, we require a client to enter a valid user name and password. We use a cookie on the client’s system to verify their identity and permit access. This is the only use we make of a cookie on our web site.
 
@@ -18,27 +18,27 @@ None of the data required on the BlastWizard site are ever shared, sold or rente
 
 Boomerang keeps the information that is collected in Blast Wizard indefinitely.
 
-## More Information/Newsletter
+**More Information/Newsletter**
 
 At our web site we offer visitors the opportunity to fill out an online form in order to receive more information about the company and its services, or to sign up to receive our newsletter. We collect contact information, such as name and email address, in order to provide these services. Boomerang is the sole owner of the information collected at our site. This data will be not shared with, or sold to third parties.
 
-## Surveys
+**Surveys**
 
 Periodically, we may request contact and/or demographic information from site visitors via surveys. These surveys are completely voluntary and the visitor always has the option to decline. Any data collected will be used to evaluate the effectiveness of our web site or specific Boomerang services.
 
-## Web Site Traffic Analysis
+**Web Site Traffic Analysis**
 
 Boomerang uses IP address data for site administration purposes, troubleshooting, and to assess visitor traffic patterns and the effectiveness of our web site.  In addition to explicitly collecting information on forms, Boomerang adds tracking services to it’s various websites and services to better understand our customers.  These services include, but are not limited to, Google and FaceBook tracking codes.  We use the information generated from this tracking information to better understand the demographics and behavior of our site visitors in order to fine tune our marketing and promotions.
 
-## Client and Web Site Visitor Provided Information
+**Client and Web Site Visitor Provided Information**
 
-Boomerang may collect personally identifiable information such as name, title, business name and address, e-mail address, and telephone number, for the purpose of providing promotional services to clients and web site visitors. Such personally identifiable information is only collected if voluntarily provided by the client or web site visitor. Clients and web site visitors may change or review personally identifiable information provided to Boomerang by contacting Boomerang at [sitevisitorinfo@boomerang.com](mailto:sitevisitorinfo@boomerang.com).
+Boomerang may collect personally identifiable information such as name, title, business name and address, e-mail address, and telephone number, for the purpose of providing promotional services to clients and web site visitors. Such personally identifiable information is only collected if voluntarily provided by the client or web site visitor. Clients and web site visitors may change or review personally identifiable information provided to Boomerang by contacting Boomerang at [sitevisitorinfo@boomerang.com](mailto:sitevisitorinfo@boomerang.com).
 
-## Trademarks
+**Trademarks**
 
 The name “Boomerang” is a registered trademark owned by Boomerang.com, Inc. The trademarks, trade-names, service marks and logos (“Trademarks”) used and displayed on this Web site are registered and unregistered Trademarks of Boomerang.com, Inc. and others in the United States and other countries. No display or use of such Trademarks may be made without the express prior written permission of Boomerang.com, Inc. or other Trademark owner, as the case may be.
 
-## Security
+**Security**
 
 In providing services to our clients transacting business with their customers and prospects, we may take orders from them at our web site on behalf of our clients. To fulfill those orders, we may collect personal information about the end-users. We will share this information only with our client. The information will be treated as private and will not be disclosed to any third party or used for improper purposes. Except as noted above, we do not request or collect sensitive personal information at our web site.
 
@@ -48,14 +48,14 @@ We treat all information provided to us by our clients for their mailings as con
 
 Transmission of information through our web site can be unstable, unreliable and insecure. There is a risk that information may be intercepted illegally.
 
-## Special Offers
+**Special Offers**
 
 We send all new clients a letter that verifies their user name and password. Occasionally we may send special offers from Boomerang or third parties to our clients. We will always provide a way for them to opt-out of similar promotional mailings in the future.
 
-## Notice
+**Notice**
 
 Boomerang reserves the right to change its Privacy Policy at any time. Any changes to this policy will be posted on our web site.
 
 _**Last updated and effective as of February 12, 2014.**_
 
-**Please send any questions about our privacy policy to[privacy@boomerang.com](mailto:privacy@boomerang.com).**
+**Please send any questions about our privacy policy to  [privacy@boomerang.com](mailto:privacy@boomerang.com).**
