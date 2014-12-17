@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerblocktv.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507085353id_/http%3A//www.powerblocktv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerblocktv.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217104207id_/http%3A//www.powerblocktv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PowerBlockTV
 
@@ -6,7 +6,7 @@
 
 * * *
 
-Your right to privacy is very important to RTM Productions, Inc. (“RTM”). We are committed to helping you maintain control over your personal data while fostering the growth of a more interactive, engaging, and personalized web and wireless experience. RTM respects your right to control how much information you provide about yourself. The following Privacy Policy (this “Policy”) describes how RTM collects, protects, and uses information we receive from visitors to our web sites, including PowerBlocktv.com, PowerNationTV.com, and RTMTV.com (the “Site(s)”), and from users of our wireless services via cellphones or other wireless devices (the “Service(s)”). By using one of our Sites or Services, you agree to the terms of this Policy. This Policy applies only to information collected through our Sites and Services and not to information collected offline.
+Your right to privacy is very important to RTM Productions, LLC (“RTM”). We are committed to helping you maintain control over your personal data while fostering the growth of a more interactive, engaging, and personalized web and wireless experience. RTM respects your right to control how much information you provide about yourself. The following Privacy Policy (this “Policy”) describes how RTM collects, protects, and uses information we receive from visitors to our web sites, including PowerBlocktv.com, PowerNationTV.com, and RTMTV.com (the “Site(s)”), and from users of our wireless services via cellphones or other wireless devices (the “Service(s)”). By using one of our Sites or Services, you agree to the terms of this Policy. This Policy applies only to information collected through our Sites and Services and not to information collected offline.
 
 _Last Updated: Dec. 6, 2013_
 
@@ -115,7 +115,7 @@ Please bear in mind that we may change the content or design of any of our Sites
 
 RTM welcomes comments and questions about this Policy and about any of our Sites or Services. We are dedicated to protecting your personal information while providing a robust and friendly web environment. Any comments or questions regarding RTM's electronic information privacy practices may be directed to our Webmaster at [info@rtmtv.com](mailto:info@rtmtv.com).com. You may also send a letter to:
 
-  * RTM Productions, Inc.
+  * RTM Productions, LLC
   * 130 Southeast Parkway Court
   * Franklin, TN 37064
   * 615-503-9700
