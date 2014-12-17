@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc12.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626132031id_/http%3A//www.abc12.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc12.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217021241id_/http%3A//www.abc12.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - ABC 12 – WJRT – Flint, MI
 
