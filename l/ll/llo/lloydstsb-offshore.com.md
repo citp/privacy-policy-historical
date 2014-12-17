@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606025009id_/http%3A//international.lloydsbank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217070336id_/http%3A//international.lloydsbank.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Lloyds Bank International - Lloyds International
 
@@ -52,7 +52,7 @@ We will always ensure your information remains safe and secure.
 
   * We are also required to comply with regulatory requirements to screen applications that are made to us to ensure we are complying with the international fight against terrorism and other criminal activities. As a result of this we may need to disclose information to government bodies.
 
-  * Lloyds Banking Group companies may in the future wish to sell, transfer or merge part or all of their business or assets, or any associated rights or interests, or to acquire a business or enter into a merger with it. If so, they may disclose your personal information to a potential buyer, transferee, or merger partner or seller and their advisers so long as they agree to keep it confidential and to use it only to consider the possible transaction. If the transaction goes ahead, the buyers, transferee or merger partner may use or disclose your personal information in the same way as set out in this notice.
+  * Lloyds Banking Group companies may in the future wish to sell, transfer or merge part or all of their business or assets, or any associated rights or interests, or to acquire a business or enter into a merger with it. If so, they may disclose your personal information to a potential buyer, transferee, or merger partner or seller and their advisers so long as they agree to keep it confidential and to use it only to consider the possible transaction. If the transaction goes ahead, the buyers, transferee or merger partner may use or disclose your personal information in the same way as set out in this statement.
 
   * If you hold a credit or debit card with us, we will share transaction details with our scheme providers (e.g. Visa or Mastercard).
 
@@ -60,7 +60,7 @@ We will always ensure your information remains safe and secure.
 
   * If you have a secured loan or mortgage with us, we may need to share information with other lenders who also hold a charge on your property.
 
-  * If you give personal information about someone else (such as a joint applicant) then you should not do so without their permission. Where information is provided by you about someone else, or someone discloses information about you, it may be added to any personal information that is already held by us and it will be used in the ways described in this privacy notice.
+  * If you give personal information about someone else (such as a joint applicant) then you should not do so without their permission. Where information is provided by you about someone else, or someone discloses information about you, it may be added to any personal information that is already held by us and it will be used in the ways described in this privacy statement.
 
   * Sometimes, when you open a joint account or product, this may mean that your personal data will be shared with the other applicant. For example, transactions made by you will be seen by your joint account holder and vice versa.
 
@@ -109,10 +109,9 @@ For Channel Islands and Isle of Man their addresses are:
     * Equifax plc, Credit File Advice Centre, PO Box 1140, Bradford BD1 5US or log on to [www.myequifax.co.uk](http://www.myequifax.co.uk/ "www.myequifax.co.uk")
     * CallCredit, Consumer Services Team, PO Box 491, Leeds LS3 1WZ or call 0870 060 1414 or log on to [www.callcredit.plc.uk](http://www.callcredit.plc.uk/ "www.callcredit.plc.uk")
 
-For Jersey and Guernsey we may also use one of the following:
+For Jersey and Guernsey we may also use the following:
 
-    * TABS (Trades Advisory Bureau Services), PO Box 4, 54-58 King Street, St Helier, Jersey JE4 8NB. Telephone: 01534 508855
-    * Chancellor’s Debt Recovery Limited, 2nd Floor, Derek Warwick House, Longueville Road, St Saviour, Jersey JE2 7WF. Telephone: 01534 880190 
+    * Integricheck Limited, 3 Le Clos Des Blanches, St Clement, Jersey, JE2 6PB. Telephone: 01865 461533 
 
   * We have systems that protect our customers and ourselves against fraud and other crime. Customer information can be used to prevent crime and trace those responsible. We will share your personal information from your application with fraud prevention agencies. If false or inaccurate information is provided and fraud is identified, details of this fraud will be passed to these agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
 
@@ -157,7 +156,10 @@ We promise not to contact you about everything - only if we think it could be ap
 
 Visit our [cookie notice page](http://international.lloydsbank.com/cookies/ "cookie notice page") for access to our cookie notice.
 
-  *   * We keep our privacy notice under regular review and we will reflect any updates within this notice. This privacy notice was last updated on 24 March 2014.
+  *   *     * We keep our privacy statement under regular review and we will reflect any updates within this statement. This privacy statement was last updated on 08 September 2014. 
+
+September 2014  
+“How we use Credit Reference Agencies”: The additional credit reference agencies that we may use in Jersey and Guernsey have changed as follows: TABS (Trades Advisory Bureau Services) and Chancellor’s Debt Recovery Limited are replaced with Integricheck. 
 
 
 
