@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musicaneo.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625155204id_/http%3A//www.musicaneo.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicaneo.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217120731id_/http%3A//www.musicaneo.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>MusicaNeo Website Privacy Policy</title>
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="ru" href="http://www.musicaneo.com/ru/privacypolicy.html">
 <link rel="alternate" hreflang="pt" href="http://www.musicaneo.com/pt/privacypolicy.html">
 
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/includes/player/player.css"></head>
 <body>
 	
@@ -258,18 +258,29 @@
 	<g:plusone size="medium"></g:plusone>
 
 	<div id="fb-root" style="display:none;"></div>
-	<fb:like href="http://www.musicaneo.com/privacypolicy.html" send="false" show_faces="false" action="like" width="150" font="" layout="button_count"></fb:like>
+	<div class="fb-like" data-href="/privacypolicy.html" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+
 
 </div>
+
+<script>
+//<![CDATA[
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+//]]>
+</script>
+
 
 <script type="text/javascript">
 	//<![CDATA[
 	$(document).ready(function() {
 		$.getScript("http://platform.twitter.com/widgets.js");
-		$.getScript("https://apis.google.com/js/plusone.js");
-		$.getScript('http://connect.facebook.net/en_US/all.js', function() {
-			try { FB.XFBML.parse(); } catch (ex) { }
-		});
+		$.getScript("https://apis.google.com/js/plusone.js");		
 	});
 	//]]>
 </script>
