@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appcues.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625182858id_/http%3A//appcues.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcues.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034040id_/http%3A//appcues.com/privacy) for the most accurate reproduction.*
 
 # Appcues Privacy Policy — Appcues
 
@@ -50,4 +50,4 @@ We never sell or rent your (or your customers') personal information. Email addr
 
 ### Questions?
 
-Please don't hesitate to [contact us](mailto:team@appcues.com).
+Please don't hesitate to [contact us](mailto:folks@appcues.com).
