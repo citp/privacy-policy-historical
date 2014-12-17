@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the therabreath.com privacy policy that was archived on 2014-02-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140216182900id_/http%3A//www.therabreath.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the therabreath.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217010533id_/http%3A//www.therabreath.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-	<link rel="STYLESHEET" type="text/css" href="/main.css">
 	<link rel="STYLESHEET" type="text/css" href="/new.css">
 		
-		<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WNHVJ4"></script><script src="/scripts/jquery/jquery-1.9.1.min.js" type="text/javascript"></script>      
+	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WNHVJ4"></script><script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script> 
   	<script src="/scripts/jquery-plugins/jquery.placeholder.min.js" type="text/javascript"></script>    
 
 
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/scripts/jquery-ui/ui/jquery-ui.js"></script>
+<script src="/bootstrap/3.1.0/modified/js/bootstrap.min.js"></script>
 <script language="javascript">
 
 $(document).ready(function(){
@@ -16,51 +19,88 @@ $(document).ready(function(){
 		$("a").on('click', function(){
 				var href = $(this).attr('href');
 				if( href.indexOf( "://" ) !== -1 ) {
-					if (href.indexOf("therabreath.com") !== -1 || href.indexOf("devtb.com") !== -1) {
+					if (href.indexOf("therabreath.com") !== -1 || href.indexOf("devtb.com") !== -1 || href.indexOf("liveperson") !== -1 || href.indexOf("addthis") !== -1) {
 						return true;
 					}
 					else {
 						
 						//alert("You are about to visit an external link: " + href);
 						//setTimeout(function() {
-						window.open(href,"newwin","toolbar=yes,location=yes,directories=yes,resizable=yes,menubar=yes,scrollbars=yes,status=yes,width=800,height=500,left=0,top=0");
+						////window.open(href,"newwin","toolbar=yes,location=yes,directories=yes,resizable=yes,menubar=yes,scrollbars=yes,status=yes,width=800,height=500,left=0,top=0");
 						//}, 100);
-						return false;
+						$(this).removeAttr("target").attr("target", "_blank");
+						return true;
 					}
 				}
 				
 			});
 	}catch(e){};
 });
-</script><!--script src="/facefiles/jquery-1.2.2.pack.js" type="text/javascript"></script-->
-<link href="/facefiles/facebox.css" media="screen" rel="stylesheet" type="text/css">
-<script src="/facefiles/facebox.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--
-    jQuery(document).ready(function($) {
-      $('a[rel*=facebox]').facebox() 
-    });
--->		
 </script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]--><!--script src="/facefiles/jquery-1.2.2.pack.js" type="text/javascript"></script
+link href="/facefiles/facebox.css" media="screen" rel="stylesheet" type="text/css" 
+script src="/facefiles/facebox.js" type="text/javascript"></script-->
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen">
+<script type="text/javascript" src="/jquery/jquery-cookie.js"></script>
+<script type="text/javascript" src="/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('a#ShowPopupWebForm').fancybox({
+			padding		: 10,
+			aspectRatio	: true
+	  	});
+		
+		$("a[rel*='facebox']").fancybox({
+			padding		: 10,
+			arrows		: false,
+			type		: 'ajax',
+			autoHeight	: true,
+			maxWidth	: 600,
+			topRatio	: 0.2
+			
+	  	});
+		
+		$(".fancybox-product-image").fancybox({
+			padding		: 10,
+			arrows		: false,
+			type		: 'image',
+			width		: 321,
+			height		: 450,
+			topRatio	: 0.2
+			
+	  	});
+		
+		$(".fancybox").fancybox({
+			padding		: 10,
+			
+			autoHeight	: true,
+			maxWidth	: 600,
+			topRatio	: 0.2
+		});
 	
+
+	});
+   	
+	  
+	  
+	  
+	  
+    		
+</script>	
 	<title>Privacy Policy</title>
 	<meta name="description" content="TheraBreath's privacy policy details how we protect your privacy when using our website.">
 	<meta name="msvalidate.01" content="6A3A54D111C44272AB72AC40FD7CCB31">
-    
-<style type="text/css">
-#printReady ul li { padding-left:10px;margin-left:0px;}
-#TheraBreathContent {display:block;float:left;width:498px;padding:10px;border:1px solid #666;background:#EFEFEF;font:normal 12px/16px Arial, Helvetica, sans-serif;}
-h2.art-summary p {padding:0;margin:0}
-h1, h2 {font:bold 16px Arial, Helvetica, sans-serif;color:#000;text-decoration:none;border:none;background:none;text-transform:none;font-variant:normal;}
-h2 {font-size:13px;}
-</style>
-
-<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=42376652" async=""></script></head>
-
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=42376652" async=""></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
-
 <div class="wrappertop">
-	<!-- Google Tag Manager Added 11-21-2013/RB -->
+	
+<!-- Google Tag Manager Added 11-21-2013/RB -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNHVJ4"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -69,7 +109,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WNHVJ4');</script>
 <!-- End Google Tag Manager -->
-
 <!-- BEGIN: Google Trusted Store -->
 <script type="text/javascript">
   var gts = gts || [];
@@ -118,16 +157,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
-
-<script language="JavaScript" type="text/javascript">
-<!-- Yahoo! Inc.
-var ysm_accountid  = "1HO23QSQRQB74I4V5V6IJV8PPT0";
-document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
-+ "SRC=//" + "srv2.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
-+ "></SCR" + "IPT>");
-// -->
-</script><script language="JavaScript" type="text/javascript" src="//srv2.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1HO23QSQRQB74I4V5V6IJV8PPT0"></script><!-- BEGIN LivePerson Monitor. -->
+</script><!-- BEGIN LivePerson Monitor. -->
 <script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "42376652",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);s.async=true;document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
 <!-- END LivePerson Monitor. -->
 <script language="javascript">
@@ -383,29 +413,36 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 			if (url != "")
 				redirectURL = "<BR><center><a href=\""+url+"\">I have read the statement; continue...</a></center>";		
 			else
-				redirectURL = "<BR><center><a href=\"#\" Onclick='javascript: $.facebox.close();' class='close'>I have read the statement; continue...</a></center>";			
+				redirectURL = "<BR><center><a href=\"#\" Onclick='javascript: $.fancybox.close();' class='close'>I have read the statement; continue...</a></center>";			
 			if (brand == "") 
 			{ 
 				brand = CountryBrandList[country].brand;
 			}
 			if(noRedirect == 1)
 			{
-				msg="<div style=\"width:370px; text-align:left; line-height:1.5em\">Dr Harold Katz, LLC distributes its formulas Internationally through  Independent Distributors under several other brand names. In <b>"+ getPrefix(country) + country + "</b> our products are sold under the <b>" + brand + "</b> brand name.</div>";					
+				msg="<div style=\"text-align:left; line-height:1.5em\">Dr Harold Katz, LLC distributes its formulas Internationally through  Independent Distributors under several other brand names. In <b>"+ getPrefix(country) + country + "</b> our products are sold under the <b>" + brand + "</b> brand name.</div>";					
 			}
 			else
 			{	
 				if (country == "Mexico") {
-					msg="<div style=\"width:370px; text-align:left; line-height:1.5em\">Dr. Harold Katz, LLC distribuye sus productos atravez de distribuidores independientes en varios paises. En <b>M&eacute;xico</b>, nuestra marca se vende como <b>TheraBreath</b>. Ahora te vamos a redirigir a las oficinas de <b>TheraBreath M&eacute;xico</b>. De estas oficinas se distribuye a todo M&eacute;xico. En este momento estas saliendo del sitio web de TheraBreath (US) y enti&eacute;ndase que Dr. Harold Katz, LLC no se hace responsable del contenido en otros sitios. Gracias por tu visita.<BR><center><a href=\""+url+"\">He le&iacute;do la declaraci&oacute;n; haz click para continuar...</a></center><br/><br/>Dr. Harold Katz, LLC distributes its formulas Internationally through Independent Distributors under several other brand names. In <b>"+ getPrefix(country) + country + "</b> our products are sold under the <b>" + brand + "</b> brand name. We  will now redirect you to your regional distributors web site. You are  now leaving the TheraBreath (US) Web Site and understand Dr. Harold  Katz, LLC is not responsible for further content. " + redirectURL + "</div>"
+					msg="<div style=\"text-align:left; line-height:1.5em\">Dr. Harold Katz, LLC distribuye sus productos atravez de distribuidores independientes en varios paises. En <b>M&eacute;xico</b>, nuestra marca se vende como <b>TheraBreath</b>. Ahora te vamos a redirigir a las oficinas de <b>TheraBreath M&eacute;xico</b>. De estas oficinas se distribuye a todo M&eacute;xico. En este momento estas saliendo del sitio web de TheraBreath (US) y enti&eacute;ndase que Dr. Harold Katz, LLC no se hace responsable del contenido en otros sitios. Gracias por tu visita.<BR><center><a href=\""+url+"\">He le&iacute;do la declaraci&oacute;n; haz click para continuar...</a></center><br/><br/>Dr. Harold Katz, LLC distributes its formulas Internationally through Independent Distributors under several other brand names. In <b>"+ getPrefix(country) + country + "</b> our products are sold under the <b>" + brand + "</b> brand name. We  will now redirect you to your regional distributors web site. You are  now leaving the TheraBreath (US) Web Site and understand Dr. Harold  Katz, LLC is not responsible for further content. " + redirectURL + "</div>"
 				}
 				else
 				{
-				msg="<div style=\"width:370px; text-align:left; line-height:1.5em\">Dr. Harold Katz, LLC distributes its formulas Internationally through Independent Distributors under several other brand names. In <b>"+ getPrefix(country) + country + "</b> our products are sold under the <b>" + brand + "</b> brand name. We will now redirect you to your regional distributors web site. You are  now leaving the TheraBreath (US) Web Site and understand Dr. Harold Katz, LLC is not responsible for further content. " + redirectURL + "</div>";			
+				msg="<div style=\"text-align:left; line-height:1.5em\">Dr. Harold Katz, LLC distributes its formulas Internationally through Independent Distributors under several other brand names. In <b>"+ getPrefix(country) + country + "</b> our products are sold under the <b>" + brand + "</b> brand name. We will now redirect you to your regional distributors web site. You are  now leaving the TheraBreath (US) Web Site and understand Dr. Harold Katz, LLC is not responsible for further content. " + redirectURL + "</div>";			
 				}
 			}
 			if (country.toLowerCase().indexOf("europe")>=0 || overideHide == 1 || CountryBrandList[country].hide == 0)		
 			{
 				//jQuery.facebox(msg);		
-				$.facebox(msg);	
+				$.fancybox({
+					padding		: 15,
+					arrows		: false,
+					autoHeight	: true,
+					maxWidth	: 470,
+					topRatio	: 0.2,
+					content		: msg
+				});	
 				//facebox(msg);	
 			}
 //		}catch(e){alert(e);};
@@ -413,7 +450,15 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 	-->
 </script><script language="javascript" type="text/javascript">
 	$(document).ready(function(e) {
-
+		//Highlight buttons on touchstart and onmousedown
+		$("input[type=button], input[type=submit], .featured-item .featured-link > a, .homepage-retailer-button > a, #mobile-shop-now-button a, #mobile-nav-cart-checkout").on('touchstart mousedown', function() {
+			$(this).addClass("bg-dark-orange");
+		}).on('touchend mouseup', function() {
+			$(this).removeClass("bg-dark-orange");
+		});
+		
+		
+		
 		//country select dropdown function
 		$("#sitecountryinfo, #sitecountryselect").mouseenter(function(){
     		clearTimeout($(this).data('timeoutId'));
@@ -544,10 +589,23 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 		//placeholder
 	    $(":input[placeholder]").placeholder();
 
-		$("body").append($("#footernav"));
+		//$("body").append($("#footernav"));
+		
 });
 
 $(window).load(function(){
+	
+	//if($(window).width() < 850) {
+		
+	
+		
+	//	$(".content").after($("#footernav"));	
+		
+	//} else {
+		
+		$("body").append($("#footernav"));
+	
+	
 	//adjust leftnav height to have gradient border continue to bottom of page (above footer)
 	var docHeight = $(document).height();
 	var bgColor = "#FFFFFF";
@@ -555,10 +613,12 @@ $(window).load(function(){
 	//if ($("#about-drkatz").length) {
 	//	bgColor = "#FFFFFF";
 	//}
-		
-	$("#leftnav").height(docHeight - 590).css("background-color", bgColor);
+	if ($("#leftnav").length) {	
+		$("#leftnav").height(docHeight - 570).css("background-color", bgColor);
+	}
+	//}
 	
-	
+
 });
 	
 	
@@ -581,7 +641,7 @@ $(window).load(function(){
 <![endif]-->
 
 <!--Drop Down Country Select -->
-<div class="absoluterow">
+<div class="absoluterow hidden-xs hidden-sm">
 	<div id="sitecountryselect" class="rounded-bottom-left-corner-5px rounded-bottom-right-corner-5px topmenu-box-shadow">
 	<ul>
     	<li class="us">US</li>
@@ -594,7 +654,7 @@ $(window).load(function(){
 	</div>
 </div>
 <!-- Top Navigation Bar -->
-<div id="topnav">
+<div id="topnav" class="hidden-xs hidden-sm hidden-print">
 	<div class="topbar">
     	<div class="row">
         <div id="navsearch">
@@ -611,7 +671,7 @@ $(window).load(function(){
             <ul id="myaccount-dropdown" class="topnav-dropdown-menu rounded-top-left-corner-5px rounded-top-right-corner-5px rounded-bottom-left-corner-5px rounded-bottom-right-corner-5px topmenu-box-shadow">
     			
                 <li class="signin"><div class="input-orange-button" title="Sign In">Sign In</div></li>
-                <li><a href="https://www.therabreath.com/my-account/signin.asp" title="Register">Not Registered? Start Here</a></li>
+                <li><a href="https://www.therabreath.com/my-account/register.asp" title="Register">Not Registered? Start Here</a></li>
                 <li class="divider-top"> </li>
                 <li><a href="https://www.therabreath.com/my-account/order-history.asp" title="My Orders">My Orders</a></li>
                 <li><a href="https://www.therabreath.com/my-account/address-book.asp" title="My Addresses">My Addresses</a></li>
@@ -622,11 +682,11 @@ $(window).load(function(){
          </div>
         <div class="contactinfo rounded-bottom-left-corner-5px rounded-bottom-right-corner-5px">
          	<div class="livechat">
-            <!-- BEGIN LivePerson Button Code -->
-<span id="lpButDivID-1369253769411"></span>
-<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/42376652/?cmd=mTagRepstate&amp;site=42376652&amp;buttonID=16&amp;divID=lpButDivID-1369253769411&amp;bt=3&amp;c=1" async=""></script>
-<!-- END LivePerson Button code -->
-</div>
+            	<!-- BEGIN LivePerson Button Code -->
+				<span id="lpButDivID-1411591214"></span>
+				<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/42376652/?cmd=mTagRepstate&amp;site=42376652&amp;buttonID=16&amp;divID=lpButDivID-1411591214&amp;bt=3&amp;c=1"></script>
+				<!-- END LivePerson Button code -->
+			</div>
             
             <div class="phonenumber">800.973.7374</div>
             
@@ -638,6 +698,7 @@ $(window).load(function(){
     </div>
     <div class="bottombar">
     	<div class="row">
+        	
     		<div id="therabreath-logo" class="topmenu-box-shadow"><a href="http://www.therabreath.com/"><img src="/images/new/therabreath-logo.png" alt="TheraBreath" title="TheraBreath" border="0"></a></div>
             <div class="navlinks">
             	<a href="http://www.therabreath.com/articles.html"><img src="/images/new/research-tab.png" alt="Research" title="Research" border="0" class="topmenu-box-shadow"></a>
@@ -657,20 +718,79 @@ $(window).load(function(){
                     
             	</div>
             </div>
+            
+            
     	</div>
     </div>
+	
 </div>
+<div id="print-logo" class="visible-print"><img src="/images/new/bg/mobile.png" border="0" width="100%" height="60"><div style="position:absolute;top:0;left:0;z-index:4;"><img src="/images/new/therabreath-logo.jpg" border="0" alt="TheraBreath"></div></div>
+
+<!-- Mobile Only Navigation -->
+<div id="mobile-nav-container" class="hidden-md hidden-lg hidden-print" style="border-top:10px solid #1eb53a;">
+	
+	<div id="mobile-nav" class="topmenu-box-shadow">
+    	<div id="mobile-menu"><a href="http://www.therabreath.com"><img src="/images/new/therabreath-logo.jpg" border="0"></a></div>        
+        <div class="mobile-nav-link mobile-menu" data-toggle="list-group"><span class="glyphicon glyphicon-align-justify"> </span></div>
+        <div class="mobile-nav-link mobile-search"><span class="glyphicon glyphicon-search"> </span></div>
+        <div class="mobile-nav-link mobile-cart hide"><span class="glyphicon glyphicon-shopping-cart"> </span></div>
+        <div class="mobile-shop-now visible-sm">Shop Now</div>
+       <!-- <div class="mobile-nav-link mobile-phone"><span class="glyphicon glyphicon-earphone"> </span></div>
+		<div class="mobile-nav-link mobile-home"><span class="glyphicon glyphicon-home"> </span></div>-->
+        	<div class="visible-xs clearfix" id="mobile-shop-now-button">
+        		<a href="http://www.therabreath.com/category.asp" class="input-checkout-button full-width-xs white">Shop Now</a>                    
+        	</div>
+			<div id="mobile-search-menu">
+            	<div class="row">
+                	<div class="col-xs-12 col-sm-6 col-sm-offset-6">
+    					<div class="input-group">
+      						<input type="text" class="form-control" id="mobile-search-term">
+      						<span class="input-group-btn" style="font-size:1em!important;">
+        						<button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search white"> </span></button>
+     						</span>
+    					</div><!-- /input-group -->
+  					</div><!-- /.col-lg-6 -->
+				</div><!-- /.row -->
+			</div>            
+            <div class="list-group" id="mobile-top-menu">  		
+            			
+  				<a class="list-group-item" href="#" id="mobile-show-categories">Shop Now <span class="glyphicon glyphicon-plus pull-right dark-grey"> </span></a>
+                	<div id="mobile-categories">                    	               	
+                    	<a class="list-group-item" href="http://www.therabreath.com/toothpaste/" title="Toothpaste">Toothpaste</a>                        
+        				<a class="list-group-item" href="http://www.therabreath.com/mouthwash/" title="Mouthwash">Mouthwash</a>
+        				<a class="list-group-item" href="http://www.therabreath.com/sprays-drops/" title="Sprays and Drops">Sprays and Drops</a>
+                        <a class="list-group-item" href="http://www.therabreath.com/starter-kits/" title="Starter Kits">Starter Kits</a>        				    
+        				<a class="list-group-item" href="http://www.therabreath.com/family-size-paks/" title="Family Size Paks">Family Size Paks</a>
+                        
+                        <a class="list-group-item" href="http://www.therabreath.com/money-saving-bonus-paks/" title="Money-Saving Bonus Paks">Money-Saving Bonus Paks</a>    
+                            
+        				<a class="list-group-item" href="http://www.therabreath.com/gum-mints-strips/" title="Gum and Mints">Gum and Mints</a>   
+        				<a class="list-group-item" href="http://www.therabreath.com/oral-care-probiotics/" title="Oral Care Probiotics">Oral Care Probiotics</a>
+        				<a class="list-group-item" href="http://www.therabreath.com/teeth-whitening/" title="Teeth Whitening">Teeth Whitening</a>
+                        <a class="list-group-item" href="http://www.therabreath.com/travel-size/" title="Travel Size">Travel Size</a>
+         				<a class="list-group-item" href="http://www.therabreath.com/special-offers/" title="Special Offers">Special Offers</a> 
+                        <a class="list-group-item" href="http://www.therabreath.com/accessories-and-more/" title="Accessories and More">Accessories and More</a>
+        				       				
+                    </div>
+  				<a class="list-group-item" href="http://www.therabreath.com/coupons.asp">Discount Coupons</a>
+                <a class="list-group-item" href="http://www.therabreath.com/loc_retail.asp">Find in Stores</a>
+                <a class="list-group-item" href="http://www.therabreath.com/articles.html">Research Articles</a>
+  				<a class="list-group-item" href="http://www.therabreath.com/about/">About Us</a>
+  				<a class="list-group-item" href="http://www.therabreath.com/about/faq.asp">FAQs</a>
+                <a class="list-group-item" href="https://www.therabreath.com//my-account">My Account</a>
+			</div> 
+     </div>
+</div>           
 </div>
-<!-- WrapperMain includes include to set width of leftnav bg color image for FF and IE -->
 <div class="wrappermain">
 	<div class="leftnav">
 		
-<!-- The SIGN UP Box -->
+<!-- The SIGN UP Box 
 <script type="text/javascript" src="/includes/js/YUI/yahoo/yahoo.js"></script>
-<script type="text/javascript" src="/includes/js/YUI/connection/connection.js"></script>
+<script type="text/javascript" src="/includes/js/YUI/connection/connection.js"></script>-->
 <!--script src="/Ajax/EmailList_Subscribe.js" type="text/javascript"></script-->
-<script src="/AJAX/engine.js" type="text/javascript"></script>
-<script src="/Ajax/bbb_download.js" type="text/javascript"></script>
+<!--<script src="/AJAX/engine.js" type="text/javascript"></script>
+<script src="/Ajax/bbb_download.js" type="text/javascript"></script>-->
 <script language="JavaScript">
 <!--	
 	function changeCase(frmObj)
@@ -713,9 +833,8 @@ $(window).load(function(){
 //-->	
 </script>
 
-
-
-<div id="leftnav" style="height: 2925px; background-color: rgb(255, 255, 255);">
+<div id="leftnav" role="navigation" class="hidden-print">
+	
 	<div class="menuheader"><a href="/category.asp">Shop By Category</a></div>
     <ul class="menuitems">
 
@@ -755,8 +874,21 @@ $(window).load(function(){
 
 	</ul>
 
+<style type="text/css">
+.savings-link {margin:0 auto;text-align:center;}
+.savings-link a {font:bold 16px Arial, Helvetica, sans-serif;color:white;margin:0px auto 0px;text-align:center;padding:7px 17px 6px 17px;background:#f47c00;text-decoration:none;vertical-align:middle;-webkit-border-radius: 4px;-moz-border-radius: 4px;-khtml-border-radius: 4px;border-radius: 4px;}
+.savings-link a img {margin-top:-2px;}
+.savings-link a:hover {background:#f86800;text-decoration:none;color:#FFF!important;}
+</style>
+<div class="menuheader"><a href="/newsletter.asp">Exclusive Savings!</a></div>
+	<ul class="menuitems">
+    	<li>Our newsletter readers get exclusive coupons!</li>
+    </ul>    
+<div class="savings-link"><a href="/newsletter.asp">Sign Up <img src="/images/new/glyphicon-play.png" height="14" border="0"></a></div>
+<div class="hidden-xs hidden-sm padding-top-lg">
+
 <div class="menuheader">Also Available At</div>
-<ul class="menuitems menuwhite padding-bottom-40px">
+<ul class="menuitems menuwhite padding-bottom-lg">
 	<li><img src="/images/new/available-at-walgreens.jpg" alt="Walgreens" title="Walgreens" border="0"></li>
 	<li><img src="/images/new/available-at-walmart.jpg" alt="Walmart" title="Walmart" border="0"></li>
 	<li><img src="/images/new/available-at-cvs-pharmacy.jpg" alt="CVS Pharmacy" title="CVS Pharmacy" border="0"></li>
@@ -765,7 +897,7 @@ $(window).load(function(){
 	<li><img src="/images/new/available-at-rite-aid.jpg" alt="Rite Aid" title="Rite Aid" border="0"></li>
     <li class="nopadding button"><a href="/loc_retail.asp">View All Stores</a></li>
 </ul>
-<div class="menuheader" style="border-bottom:0px;"><a href="/about/bio.asp" class="h4">Dr. Harold Katz</a></div>
+<div class="menuheader margin-top-lg" style="border-bottom:0px;"><a href="/about/bio.asp" class="h4">Dr. Harold Katz</a></div>
 <div id="about-drkatz" class="nopadding">
 	<div class="dk-title"><div>TheraBreath Founder<br>and Developer</div></div>
 	<!--<div class="header">Meet<br/><span class="title">Dr. Harold Katz</span></div>
@@ -787,6 +919,8 @@ $(window).load(function(){
     <li><img src="/images/new/the-view.jpg" alt="The View" title="The View" border="0"></li>
 </ul>
 
+</div>
+<div id="leftnav-offset-value"></div>
 </div>
 
 <!-- This page adds the appropriate Google Remarketing Code to every web page //RB -->
@@ -812,21 +946,16 @@ $(window).load(function(){
 	
 	</div>
 	<div class="content">
-    		<!-- Banner also sets width of content -->
-		<!-- <div class="sidepromo">
-	&nbsp;
-</div> -->
 	  <div class="maincontent">
-			<div>
-
-					<div class="ros-banner margin-bottom-xs" align="center">
-                    	<a href="http://www.therabreath.com/facefiles/product-freeshipping.asp" rel="facebox[.fbpopup]">
+			
+	<div class="ros-banner margin-bottom-xs text-center" align="center">
+	
+                    	<a href="/facefiles/product-freeshipping.asp" rel="facebox[.fbpopup]" onclick="_gaq.push(['_trackEvent', 'ROS Banners', 'Clicked', 'Free Shipping']);">
                         	<img src="/images/free-shipping-usa-canada-99-dollars.gif" border="0" alt="Free Ground Shipping on All Orders over $99 to anywhere in the USA and Canada">
                         </a>
-                    </div>
-
 	
-</div>
+    </div>
+
        	<h1>Your Privacy</h1>
 								
 				
@@ -858,9 +987,10 @@ $(window).load(function(){
                       We may personalize your shopping experience by using your purchase  and site behavior to shape our recommendations about our other products and  merchandise that might be of interest to you. We also monitor customer traffic  and patterns and site usage to help us develop the design and layout of the  site</p>
                       <p>
                       We may also use the information we collect to occasionally notify  you about important functionality changes to the web site, new Dr. Harold Katz,  LLC/ TheraBreath products, and special offers we think you'll find valuable. If  you would rather not receive this information, visit <a href="/emailoptions.asp">http://www.therabreath.com/emailoptions.asp</a> and enter your email address. If you have more than one  email address, please include the others in your email. Please note that you  will be removed from our email distribution list and will no longer receive any  promotional emails from us. If you place an order with us, you will still  receive emails pertaining to any purchases you make from us.</p>
-        <p>We will never share  your personal information with any third-party. On rare occasions we may notify  you (with your permission) about a new product or service from a third-party  that we endorse. However this contact will always initiate from us and your  information will &nbsp;&nbsp;&nbsp;never be passed to that third party.</p>
+        <p>We will never share  your personal information with any third-party. On rare occasions we may notify  you (with your permission) about a new product or service from a third-party  that we endorse. However this contact will always initiate from us and your  information will never be passed to that third party.</p>
+        <p>Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for our Service. Non-personally identifiable information may be stored indefinitely.</p>
                   <h4><a name="Question2" id="Question2"></a>How does Dr.  Harold Katz, LLC/ TheraBreath protect customer information?</h4>
-                    <p>                      Dr. Harold Katz, LLC/ TheraBreath uses the latest encryption technology to keep  your personal information safe. All your ordering information -- including your  name, address, and credit card number — is encrypted using a secure server for  maximum security. Your credit card and billing information cannot be read as it  travels to our ordering system. We're so certain that our online order systems  are secure that we back it up with a guarantee. In the unlikely event that you  are subject to fraudulent charges, remember to first notify your credit card  provider in accordance with its reporting rules and procedures. If, for  whatever reason, you are held responsible for any fraudulent charges made on our  site, Dr. Harold Katz, LLC/ TheraBreath will cover the entire liability for  you, up to $50, as long as the unauthorized use of your credit card resulted  through no fault of your own from purchases made from Dr. Harold Katz, LLC/  TheraBreath while using our secure server.</p>
+                    <p>                      Dr. Harold Katz, LLC/ TheraBreath uses the latest encryption technology to keep  your personal information safe. All of your ordering information -- including your  name, address, and credit card number — is encrypted using a secure server for  maximum security. Your credit card and billing information cannot be read as it  travels to our ordering system. We're so certain that our online order systems  are secure that we back it up with a guarantee. In the unlikely event that you  are subject to fraudulent charges, remember to first notify your credit card  provider in accordance with its reporting rules and procedures. If, for  whatever reason, you are held responsible for any fraudulent charges made on our  site, Dr. Harold Katz, LLC/ TheraBreath will cover the entire liability for  you, up to $50, as long as the unauthorized use of your credit card resulted  through no fault of your own from purchases made from Dr. Harold Katz, LLC/  TheraBreath while using our secure server.</p>
                     <p>
                       Credit card transactions are handled by a third-party financial institution,  which receives the credit card number and other personal identifying  information only to verify the credit card numbers and process transactions. If  you feel more comfortable doing so, you are welcome to call in your credit card  information and complete your purchase by phone. Please call 1 (800) 973-7374  between the hours of 8:00 - 5:00 PST Monday - Friday.</p>
           <h4><a name="Question3" id="Question3"></a>What cookies are and do?</h4>
@@ -869,6 +999,7 @@ $(window).load(function(){
                       Many improvements and updates to our site are based on the data derived from  these cookies, such as total number of visitors, pages viewed, and the total  number of ads served. Most browsers are initially set to accept cookies. If you  would prefer, you can set yours to refuse cookies however you will not be able  to take advantage of all the features and pages with Dr. Harold Katz, LLC/  TheraBreath's website.</p>
           <h4><a name="Question4" id="Question4"></a>Will Dr.  Harold Katz, LLC/ TheraBreath disclose the information it collects to  outside parties?</h4>
           <p>            We will never share your personal information with any third-party. On rare  occasions we may notify you (with your permission) about a new product or  service from a third-party that we endorse. However this contact will always  initiate from us and your information will never be passed to that third party.</p>
+          <p>Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for our Service. Non-personally identifiable information may be stored indefinitely.</p>
           <h4><a name="Question5" id="Question5"></a>How does Dr.  Harold Katz, LLC/ TheraBreath allow customers be removed from  promotional emails?</h4>
           <p>            To unsubscribe from our emails, simply visit <a href="/emailoptions.asp">http://www.therabreath.com/emailoptions.asp</a> and enter your email address. If you have more than one  email address, please include the others in your email. Please note that you  will be removed from our email distribution list and will no longer receive any  promotional emails from us. If you place an order with us, you will still  receive emails pertaining to any purchases you make from us. <br>
           </p>
@@ -877,45 +1008,25 @@ $(window).load(function(){
           <p>            Dr. Harold Katz, LLC/ TheraBreath is concerned about the privacy of young  children and does not knowingly collect any personal information from a child  under 13. We suggest that you become involved with your child's access to the  Internet and to our site to ensure that his or her privacy is well protected. </p>
         <h4><a name="Question7" id="Question7"></a>Your consent</h4>
           <p>            By using our web site, you consent to the collection and use of this  information by Dr. Harold Katz, LLC/ TheraBreath. If we decide to change our  privacy policy, we will post those changes on this page so that you are always aware  of what information we collect, how we use it, and under what circumstances we  disclose it.</p>
-          <p><em>This privacy policy was last modified on March 1, 2012. </em>
-          <!--<br />
-          <img border="0" width="10" height="1" src="privacy-new_clip_image003.png" alt="Description: http://www.therabreath.com/images/blank.gif" />--></p>
-				
+          <p><em>This privacy policy was last modified on June 9, 2014. </em></p>
+         		
       </div>
             <div align="center">
 
-<!-- Affiliate Click Tracking -->
-
-
-<!-- Begin MediaForge tracking code -->
-
-<script type="text/javascript" src="//tags.mediaforge.com/js/759"></script>
-
-<!-- End MediaForge tracking code -->
-<!-- Start Google Code for Remarketing Tag 01-30-2014 -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1072670900;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072670900/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- End Google Code for Remarketing Tag 01-30-2014 -->
-</div>
-	</div>	
-	<div class="footer"></div>
-</div>
-
-  <div id="facebox" style="display:none;">     <div class="popup">       <table>         <tbody>           <tr>             <td class="tl"></td><td class="b"></td><td class="tr"></td>           </tr>           <tr>             <td class="b"></td>             <td class="body">               <div class="content">               </div>               <div class="faceboxfooter">                 <a href="#" class="close">                   <img src="../facefiles/closelabel.gif" title="close" class="close_image">                 </a>               </div>             </td>             <td class="b"></td>           </tr>           <tr>             <td class="bl"></td><td class="b"></td><td class="br"></td>           </tr>         </tbody>       </table>     </div>   </div><div id="footernav">
+<div id="footernav">
 	
-	<div class="footer-top">
+	<div class="footer-mid hidden-md hidden-lg">
+		<div class="footer-content no-margin-top no-margin-bottom">
+			<div class="col-xs-12 text-left no-padding-left-desktop">	
+			<div class="guarantee no-margin-bottom">		
+			<h4 class="dark-grey"><strong>Have questions?</strong> <a href="tel:18009737374"><strong class="light-green">Call 1-800-97-FRESH</strong></a></h4>
+			(Mon - Fri 8am - 5pm PT)
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="footer-top visible-md visible-lg hidden-print">
 		<div class="footer-content">
         	<p>Featured On</p>
 			<table cellpadding="0" cellspacing="0" border="0" align="center">
@@ -934,7 +1045,7 @@ var google_remarketing_only = true;
 	
 	<div class="footer-mid">
 		<div class="footer-content">
-			<div class="footer-links">
+			<div class="footer-links visible-md visible-lg">
        	  	<ul>
    				<li><a href="/">Home</a></li>                
    				<li><a href="/category.asp">Products</a></li>                              
@@ -961,22 +1072,22 @@ var google_remarketing_only = true;
        	  	</ul>
 			<ul>
 				<li><a href="http://blog.therabreath.com/" target="_blank">Bad Breath Blog</a></li> 
-			  	<li><a href="/loc_distributor.asp">TheraBreath Global</a></li>
+			  	<li><a href="/philanthropy.asp">Philanthropy</a></li>
 				<li><a href="/associate/">Affiliate/Partner Programs</a></li>                
    				<li><a href="/my-account/">My Account</a></li>
        	  	</ul>
 			</div>
-            <div>
-				<div class="content-block-left">
+            <div class="hidden-print">
+				<div class="col-xs-12 col-sm-6 col-md-8 no-padding-left-desktop">
             	<div class="guarantee">
                 	<h5 class="title">100% Satisfaction Guarantee</h5>
                     All TheraBreath formulas are backed by a 100% 30-Day Money Back Guarantee. If for any reason you're not satisfied, let us know and we'll promptly refund your product cost.
               	</div>
 				</div>
-				<div class="content-block-right">
-                <div class="social-networks">
-                CONNECT WITH US
-				<div class="social-icons">
+				<div class="col-xs-12 col-sm-6 col-md-4 no-padding-left-desktop no-padding-right-desktop">
+                <div class="guarantee">
+                <h5 class="title">CONNECT WITH US</h5>
+				<div class="social-icons no-margin-top">
 					<a href="http://www.pinterest.com/therabreath" target="_blank" title="Pinterest"><img src="/images/new/pinterest.png" alt="Pinterest"></a>
 					<a href="http://www.twitter.com/therabreath" target="_blank" title="Twitter"><img src="/images/new/twitter.png" alt="Twitter"></a>
 					<a href="http://www.viddler.com/channel/drkatz" target="_blank" title="Viddler"><img src="/images/new/viddler.png" alt="Viddler"></a>
@@ -991,37 +1102,204 @@ var google_remarketing_only = true;
       	</div>
 	</div>
 	
-	<div class="footer-btm">
+	<div class="footer-btm visible-md visible-lg hidden-print">
 		<div class="footer-content">
 			<table cellpadding="0" cellspacing="0" border="0" align="center">
 			<tbody><tr>
-				<td align="center" valign="center" height="100">
+				<td align="left" valign="middle" height="100">
+					<img src="/images/icons/adea-member-logo.png" alt="Member of ADEA | The Voice of Dental Education" border="0">
+				</td>
+				<td align="center" valign="middle" height="100">
 				<!-- BEGIN: BizRate Medal (125x73 pixels) --><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--174262.html" target="_blank"><img src="https://medals.bizrate.com/medals/dynamic/174262_medal.gif" alt="BizRate Customer Certified (GOLD) Site - TheraBreath Reviews at Bizrate" width="125" height="73" align="top" border="0"></a><!-- END: BizRate Medal (125x73 pixels) -->
 				</td>
-				<td align="center" valign="center">
-				<!-- START MCAFEESECURE CODE --><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.therabreath.com"><img width="115" height="32" border="0" src="//images.mcafeesecure.com/meter/www.therabreath.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;" style="padding:3px;background:#FFF;border:1px solid #DDD;border-radius:3px;"></a><!-- END MCAFEESECURE CODE -->
-				</td>
-				<td align="center" valign="center" nowrap="nowrap">
+				<!--<td align="center" valign="middle">
+				 START MCAFEESECURE CODE <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.therabreath.com"><img width="115" height="32" border="0" src="//images.mcafeesecure.com/meter/www.therabreath.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;" style="padding:3px;background:#FFF;border:1px solid #DDD;border-radius:3px;"></a> END MCAFEESECURE CODE 
+				</td>-->
+				<td align="center" valign="middle" nowrap="nowrap">
 			    <script src="https://seal.verisign.com/getseal?host_name=www.therabreath.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
 <a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>
 				</td>
-				<td align="center" valign="center">
-				<!-- Begin Official PayPal Seal --><a href="https://www.paypal.com/us/verified/pal=payment%40drkatz%2ecom" target="_blank"><img src="/images/paypal-seal.png" border="0" alt="Official PayPal Seal" height="72"></a><!-- End Official PayPal Seal -->
+				<td align="center" valign="middle">
+				 <!-- Begin Official PayPal Seal --><a href="https://www.paypal.com/us/verified/pal=payment%40drkatz%2ecom" target="_blank"><img src="/images/paypal-seal.png" border="0" alt="Official PayPal Seal" height="72"></a><!-- End Official PayPal Seal -->
 				</td>
-				<td align="center" valign="center">
-			    <!-- (c) 2005, 2010. Authorize.Net is a registered trademark of CyberSource Corporation --><div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="3a045436-6196-49cb-90b1-93352a4726d3";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script><!--a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Credit Card Merchant Services</a--></div>
+				<!--<td align="center" valign="middle">
+			    <div class="AuthorizeNetSeal">
+					<script type="text/javascript">
+					//seal updated 2014-04-16/RB
+					var ANS_customer_id="7683c8fd-dded-4468-a951-a10793c9a20b";
+                    </script> 
+					<script type="text/javascript" src="https://verify.authorize.net/anetseal/seal.js">
+                    </script>
+                </div>
+				</td>-->
+				<td align="center" valign="middle">
+			    <!--<a href="http://www.bbb.org/los-angeles/business-reviews/clinics/dr-harold-katz-in-los-angeles-ca-13032493" title="View this business review" target="_blank"><img src="https://www.bbb.org/us/wwwroot/images/cibr3/ab-seal-horizontal.gif" alt="BBB Accredited Business Seal" border="0"></a>-->
 				</td>
-				<td align="center" valign="center">
-			    <a href="http://www.bbb.org/los-angeles/business-reviews/clinics/dr-harold-katz-in-los-angeles-ca-13032493" title="View this business review" target="_blank"><img src="https://www.bbb.org/us/wwwroot/images/cibr3/ab-seal-horizontal.gif" alt="BBB Accredited Business Seal" border="0"></a>
-				</td>
-				</tr>
-				</tbody></table>
+			</tr>
+			</tbody></table>
 		</div>	
 	</div>
 	
 	<div class="copyright">
 		<div class="footer-content">
 		© 2014 Dr. Harold Katz, LLC. All International Rights Reserved.
+		
 		</div>
 	</div>
-</div></body></html>
+</div>
+
+<!-- Affiliate Click Tracking -->
+
+<script language="javascript">
+	
+	var mobilenavcartheight = 0;
+	
+	
+	var mobilenavheight = 80 + parseInt(mobilenavcartheight);
+	var wrappermainheight = 130 + parseInt(mobilenavcartheight); 
+		
+	if ($(window).width() < 546) {
+		//mobilenavheight = 130 + parseInt(mobilenavcartheight);
+		mobilenavheight = parseInt(wrappermainheight);
+	}
+
+$(document).ready(function() {    
+	if ($(window).width() < 768) {
+	$(".wrappermain").css("margin-top", mobilenavheight);
+	}
+	
+	$("#mobile-top-menu").css("max-height", $(window).height() - mobilenavheight);
+	//$(".mobile-home").click(function(){
+	//	window.location = "/";
+	//});
+		
+	$(".mobile-cart").click(function(){
+		window.location = "https://www.therabreath.com/shop/cart.asp";
+	});
+	
+	if ($("#mobile-nav-cart").length) {
+		$("#mobile-nav-cart-items").click(function() {
+			window.location = "https://www.therabreath.com/shop/cart.asp";
+		});
+		$("#mobile-nav-cart-checkout").click(function() {
+			window.location = "https://www.therabreath.com/shop/checkout.asp";
+		});	
+	}
+	
+	$(".mobile-menu").click(function() {
+		$("#mobile-search-menu").slideUp();
+		$("#mobile-top-menu").slideToggle();
+		
+	});
+	
+	$("#mobile-show-categories").click(function() {
+		$("#mobile-categories").slideToggle();
+		$("#mobile-show-categories span").toggleClass("glyphicon-minus", "glyphicon-plus");
+		
+	});
+	
+	//$(".mobile-phone").click(function() {
+	//	window.location = "tel:8009737374";
+	//});
+	
+	$(".mobile-search").click(function() {
+		$("#mobile-top-menu").slideUp();
+		$("#mobile-search-menu").slideToggle();
+		if ($("#mobile-search-menu").is(":visible")) {
+			$("#mobile-search-term").focus();
+		} else {
+			$("#mobile-search-term").blur();
+		}
+	});
+	
+	$(".mobile-shop-now").click(function() {
+		window.location = "http://www.therabreath.com/category.asp";
+	});
+	
+	$("#mobile-search-menu button").click(function() {
+		window.location = "http://www.therabreath.com/results.asp?q=" + $("#mobile-search-term").val();
+	});
+	
+	$('#mobile-search-term').on('keypress', function (event) {
+         if(event.which == '13'){
+			 window.location = "http://www.therabreath.com/results.asp?q=" + $("#mobile-search-term").val();
+		 }
+	});
+});
+
+$(window).resize(function(){
+	
+	$("#mobile-top-menu").css("max-height", $(window).height() - mobilenavheight);
+	
+	if ($("#homepage-slider").length) {
+		swidth = $(".maincontent").width();
+		var originalsdwidth = 545;
+		var originalsdheight = 209;
+		if (swidth > (originalsdwidth)) {
+			swidth = originalsdwidth;
+		} 
+		var newheight = (swidth * originalsdheight) / originalsdwidth;
+			//if (newheight > 209) {
+			//	newheight = 209;
+			//}
+		$("#homepage-slider, .slidedeck dd img").width(swidth).height(newheight).css("margin", "0 auto");
+		$('.slidedeck').slidedeck().goTo(1);restartSlide();
+	}
+});
+</script>
+<!-- Begin MediaForge tracking code -->
+
+<script type="text/javascript" src="//tags.mediaforge.com/js/759"></script>
+
+<!-- End MediaForge tracking code -->
+<!-- Start Google Dynamic Remarketing Tags 03-22-2014/RB -->
+
+<script type="text/javascript">
+var google_tag_params = {
+	ecomm_prodid: '',
+	ecomm_pagetype: 'siteview',
+	ecomm_totalvalue: ''
+};
+</script>
+
+<!-- Start Google Code for Remarketing Tag 01-30-2014 -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072670900;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1072670900/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Google Code for Remarketing Tag 01-30-2014 -->
+
+<!--AdRoll Marketing Script //08-21-2014-->
+<script type="text/javascript">
+adroll_adv_id = "2DJ2UJ5PN5BITIT27SLMUU";
+adroll_pix_id = "IBULGGNERFGQNMCIC5W35J";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+</div>
+	</div>	
+	<div class="footer"></div>
+</div>
+
+</body></html>
