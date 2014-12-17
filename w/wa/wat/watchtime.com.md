@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchtime.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623174317id_/http%3A//www.watchtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchtime.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217023104id_/http%3A//www.watchtime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WATCHTIME.COM
+# Privacy Policy | WatchTime - USA's No.1 Watch Magazine
 
 WatchTime.com (“We”) are committed to protecting and respecting your privacy.
 
