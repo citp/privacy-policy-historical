@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animalpetitions.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150746id_/http%3A//animalpetitions.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalpetitions.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217030018id_/http%3A//animalpetitions.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
