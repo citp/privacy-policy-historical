@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecinemasource.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502192723id_/http%3A//www.thecinemasource.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecinemasource.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217163435id_/http%3A//www.thecinemasource.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cinema Source
 
@@ -6,7 +6,7 @@
 
 ### Information Automatically Logged
 
-We use your IP address[](http://www.thecinemasource.com/v3/list/privacy.php#) to administer our website. The IP address is only employed to help identify the user when problems occur and when solving the problem. The IP address will not be used for any other means.
+We use your IP address to administer our website. The IP address is only employed to help identify the user when problems occur and when solving the problem. The IP address will not be used for any other means.
 
 ### Third Party Advertising
 
@@ -14,7 +14,7 @@ We use Gorilla Nation and other third-party advertising companies to serve ads w
 
 ### Third Party Cookies
 
-In the course of serving advertisements to this website, our third-party ad server[](http://www.thecinemasource.com/v3/list/privacy.php#), Gorilla Nation or their affiliates, or individual advertisers may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this website, our third-party ad server, Gorilla Nation or their affiliates, or individual advertisers may place or recognize a unique “cookie” on your browser.
 
 ### Personal Information
 
