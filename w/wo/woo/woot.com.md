@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the woot.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627134047id_/http%3A//www.woot.com/privacy%3Fref%3Dft_mj_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woot.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217153134id_/http%3A//www.woot.com/privacy%3Fref%3Dft_mj_pp) for the most accurate reproduction.*
 
 # Privacy Policy - Woot
 
-We gave in and let the lawyers work over our privacy policy. But we think it's still pretty simple, straightforward, and clear. If you think we left anything out, or have any questions about any of this, [ let us know.](mailto:privacy@woot.com)
+We gave in and let the lawyers work over our privacy policy. But we think it's still pretty simple, straightforward, and clear. If you think we left anything out, or have any questions about any of this, [let us know.](mailto:info@woot.com)
 
 ## And it goes a little something like this:
 
@@ -23,4 +23,4 @@ Woot may share information collected by us with third parties to help process yo
 
 Woot will not share, rent, lease, or sell your personal information (e.g. your email address, your credit card information, your name, your address, etc.) to any third party for their independent use or benefit. Never. Ever. 
 
-Future changes to this Privacy Policy may be made at any time by sending you an email or posting notice of the changes on the site, with the changes effective 30 days after Woot’s dispatch of the email or posting of the notice. To ask questions about this policy or to remove your personal information from our database, write us at [privacy@woot.com](mailto:privacy@woot.com). 
+Future changes to this Privacy Policy may be made at any time by sending you an email or posting notice of the changes on the site, with the changes effective 30 days after Woot’s dispatch of the email or posting of the notice. To ask questions about this policy or to remove your personal information from our database, write us at [info@woot.com](mailto:info@woot.com). 
