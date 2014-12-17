@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forzamotorsport.net privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622122805id_/http%3A//www.microsoft.com/privacystatement/en-us/xbox/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzamotorsport.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217150714id_/http%3A//www.microsoft.com/privacystatement/en-us/xbox/default.aspx) for the most accurate reproduction.*
 
 # Microsoft Privacy Statement
 
-Last Updated: June 2014
+Last Updated: November 2014
 
 Xbox Privacy Statement
 
@@ -10,11 +10,15 @@ This privacy statement applies to Xbox products and services ("Services"), which
 
 Please read the summaries below and click "Learn More" for more details. Some products, services or features mentioned in this statement may not be available in all markets. You may find still more information about Microsoft’s commitment to protecting your privacy at <http://www.microsoft.com/privacy>. 
 
-User Accounts
+Microsoft account
 
 Summary 
 
-Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into your Xbox Live account plus other Microsoft products, web sites and services, as well as those of select Microsoft partners. When you create a Microsoft account, we ask you to provide certain information. When you sign in to Xbox using your Microsoft account, we collect certain information in order to verify your identity, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service. If you choose to link your Microsoft account with your account with a partner company, Microsoft may share limited account information with that company. Such account information may include name, address, email and date of birth but will not include any credit card or other payment information.  For games that enable in-game communications, the game publisher may also have access to the content of in-game communications when you are signed into your account with the publisher.
+Microsoft account is a service that lets you sign in to Microsoft products, web sites and services, as well as those of select Microsoft partners. When you create a Microsoft account, we ask you to provide certain information. When you sign in to a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage and to protect the efficiency and security of the Microsoft account service.  We also send some of this information to sites and services that you sign in to with your Microsoft account.
+
+We use demographic information – gender, country, age and postal code but not your name or contact information – from your Microsoft account to provide personalized ads to you. **You may opt out of receiving targeted ads from Microsoft Advertising by visiting our** **[ **opt-out page**](https://choice.live.com/AdvertisementChoice/). **
+
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More.
 
 Also, some of the applications on Xbox Live are delivered by a partner company, which may require that you create an account and sign-in credentials to use that application. You should read the application’s privacy statement to understand how your data will be managed. None of this separate account credential information will be shared with Microsoft. 
 
@@ -22,37 +26,47 @@ When you create an account (on Xbox Live), we auto-generate a nickname for the a
 
 Full text 
 
-Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners. 
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign in to Microsoft products, web sites and services, as well as those of select Microsoft partners.
 
-**Creating a Microsoft account.**
+ **Creating a Microsoft account**
 
-You can create a Microsoft account [here](https://signup.live.com/ "here") by providing an email address, a password and other "account proofs", such as an alternate email address, a phone number, and a question and secret answer. We will use your "account proofs" for security purposes only - for instance, to verify your identity in the event that you cannot access your Microsoft account and need assistance, or to reset your password if you cannot access the email address associated with your Microsoft account. Some services may require added security, and in those cases, you may be asked to create an additional security key. The email address and password that you use to sign up for your Microsoft account are your "credentials" that you will use to authenticate with our network. Furthermore, a 64-bit unique ID number will be assigned to your credentials and will be used to identify your credentials and associated information. 
+You can create a Microsoft account [here](https://signup.live.com/ "here") by providing an email address, a password and other security information, such as an alternate email address and a phone number. We will use your security information for security purposes only - for instance, to verify your identity or to reset your password if you cannot access your Microsoft account. Some services may require added security, and in those cases, you may be asked to provide additional information. The email address and password that you use to sign up for your Microsoft account are your "credentials" that you will use to authenticate with our network. We assign a unique ID number to your credentials to identify your credentials and associated information. 
 
-When you create a Microsoft account, we will also ask you to provide the following demographic information: gender; country; birthdate; and postal code. We may use birthdate to verify that children obtain appropriate consent from a parent or guardian to use a Microsoft account, as required by local law. In addition, this demographic information is used by our online advertising systems to provide you with personalized advertisements about products and services you might find useful, but our advertising systems never get your name or contact information. In other words, our advertising systems do not contain or use any information that can personally and directly identify you (such as your name, email address and phone number). If you prefer not to receive personalized ads, you may register your preference with your Microsoft account by visiting [this page](http://choice.live.com/advertisementchoice/ "this page") so that whenever you sign into web sites or services with your Microsoft account, our advertising systems will not serve you personalized ads. For more information about how Microsoft uses information for advertising, please see the [Microsoft Advertising Privacy Supplement](http://privacy.microsoft.com/en-us/AdDisplay.mspx "Microsoft Advertising Privacy Supplement"). 
+You can use an email address provided by Microsoft (such as those ending in outlook.com, live.com, hotmail.com or msn.com) or an email address provided by a third party (such as those ending in gmail.com or yahoo.com) when signing up for your Microsoft account.  You must use an email address that you own on an email service that you have access to. 
 
-You can use an email address provided by Microsoft (such as those ending in live.com, hotmail.com, or msn.com) or an email address provided by a third party (such as those ending in gmail.com or yahoo.com) when signing up for your Microsoft account. 
+When you create a Microsoft account, we will also ask you to provide the following demographic information: gender, country, birthdate and postal code. We may use birthdate to verify that children obtain appropriate consent from a parent or guardian to use a Microsoft account, as required by local law. We use this demographic information for market research.  This demographic information also is used by our online advertising systems to provide you with personalized advertisements about products and services you might find useful, but our advertising systems do not receive or use any information that can personally and directly identify you (such as your name, email address or phone number). If you prefer not to receive personalized ads, you may register your preference with your Microsoft account by visiting our [opt-out page ](http://go.microsoft.com/fwlink/?LinkID=286759)so that whenever you sign in to web sites or services with your Microsoft account, our advertising systems will not serve you personalized ads. For more information about how Microsoft uses information for advertising, please see the [Microsoft Advertising Privacy Statement](http://go.microsoft.com/fwlink/?linkid=248689). 
 
-Upon creating a Microsoft account, we will send you an email asking you to verify that you are the owner of the email address associated with your Microsoft account. This is designed to verify the validity of the email address and help prevent email addresses from being used without the permission of their owners. Thereafter, we will use that email address to send you communications relating to your use of Microsoft products and services; we may also send you promotional emails about Microsoft products and services as permitted by local law. For information about managing your receipt of promotional communications, please visit [Communications](http://www.microsoft.com/privacystatement/EN-US/xbox/default.aspx?componentid=pspxboxCommunications&view=Description). 
+Upon creating a Microsoft account using an email address provided by a third party, we will send you an email asking you to verify that you are the owner of the email address associated with your Microsoft account. This is designed to verify the validity of the email address and help prevent email addresses from being used without the permission of their owners. 
 
-If you attempt to register for a Microsoft account and find that another individual has already created credentials with your email address as the user name, you may contact us and request that the other individual adopt a different user name so that you may use your email address when creating your credentials. 
+We will use the email address you used to create your Microsoft account to send you communications relating to your use of Microsoft products and services and to the security of your account. We may also send you promotional emails about Microsoft products and services as permitted by local law. For information about managing your receipt of promotional communications, please visit [Communications](http://www.microsoft.com/privacystatement/en-us/core/default.aspx?componentid=pspCommunicationModule&View=description). ****
 
-**Signing into software, sites or services with your Microsoft account.**
+**Signing into software, sites or services with your Microsoft account**
 
-When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service. For instance, when you sign in, the Microsoft account service receives and logs your credentials and other information, such as the 64-bit unique ID number assigned to your credentials, your IP address, your web browser version and a time and date. Further, if you use a Microsoft account to sign into a device or into software that is installed on a device, a random unique ID is assigned to the device; this random unique ID will be sent as part of your credentials to the Microsoft account service when you subsequently sign into a site or service with your Microsoft account. The Microsoft account service sends the following information to the site or service that you have signed into: a unique ID number that permits the site or service to determine whether you are the same person from one sign-in session to the next; the version number assigned to your account (a new number is assigned each time you change your sign-in information); whether your email address has been confirmed; and whether your account has been deactivated. 
+When you sign in to a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage and to protect the efficiency and security of the Microsoft account service. For instance, when you sign in, the Microsoft account service receives your credentials and logs your sign-in name and other information, such as the unique number assigned to your credentials, your IP address, your operating system and web browser version and a time and date. If you use a Microsoft account to sign in to a device or software that is installed on a device, a random unique ID is assigned to the device; this random unique ID will be sent as part of your credentials to the Microsoft account service when you sign in to a site or service with your Microsoft account and will be used to help protect your account. The Microsoft account service sends the following limited verification information to the site or service that you have signed in to: the unique ID number assigned to your credentials that permits the site or service to determine whether you are the same person from one sign-in session to the next; the version number assigned to your account (a new number is assigned each time you change your sign-in information); whether your email address has been confirmed; and whether your account has been deactivated. 
 
-Some third party sites and services that permit you to sign in with your Microsoft account require your email address in order to provide you with their services. In those cases, when you sign in, Microsoft will provide your email address but not your password to the site or service. However, if you created your credentials with the site or service, it may have limited access to information associated with your credentials in order to help you reset your password or provide other support services. 
+When you sign in to Windows with a Microsoft account, Windows will send standard computer information to Microsoft as well as your device’s manufacturer, model name and version.  We may use this to personalize certain communications to you, such as emails intended to help you get started with your device.  If you sign in to your Windows 8.1 device with your Microsoft account, Windows uses your Microsoft account information to sign you in to Microsoft applications, web sites and services.  To learn more about signing in to Windows with a Microsoft account, please see the [Windows 8.1 Privacy Statement](http://go.microsoft.com/fwlink/?linkid=280262).
 
-If you received your account from a third party, like a school, a business, an internet service provider, or the administrator of a managed domain, that third party may have rights over your account, including the ability to reset your password, view your account usage or profile data, read or store content in your account, and suspend or cancel your account. In these cases, you are subject to the [Microsoft Service Agreement](http://explore.live.com/microsoft-service-agreement?ref=none "Microsoft Service Agreement") and to any additional terms of use from that third party. If you are the administrator of a managed domain and have provided your users with Microsoft accounts, you are responsible for all activity that takes place within such accounts. 
+Some third-party sites and services that permit you to sign in with your Microsoft account require your email address in order to provide you with their services. In those cases, when you sign in, Microsoft will provide your email address but not your password to the site or service. If you created your Microsoft account credentials with the site or service, it may have limited access to information associated with your credentials and profile as noted during account creation. 
 
-Please note that sites and services that permit you to sign in with your Microsoft account can use or share your email address or other personal information that you provide to them as described in their privacy statements. However, they can share the unique ID number provided to them by the Microsoft account service with third parties only in order to fulfill a service or transaction that you may have requested. All sites or services that use the Microsoft account are required to have a posted privacy statement, but we do not control or monitor the privacy practices of those sites, and their privacy practices will vary. **_You should carefully review the privacy statement for each site you sign into in order to determine how each site or service will use the information it collects._**
+If you received your account from a third party, like a school, a business, an internet service provider or the administrator of a managed domain, that third party may have rights with respect to your account, including the ability to reset your password, view your account usage or profile information, read or store content in your account, and suspend or cancel your account. In these cases, you are subject to the [Microsoft Services Agreement](http://go.microsoft.com/fwlink/?LinkID=397551 "Microsoft Service Agreement") and to any additional terms of use from that third party. If you are the administrator of a managed domain and have provided your users with Microsoft accounts, you are responsible for all activity that takes place within those accounts. 
 
- **Accessing your personal information.**
+Please note that sites and services that permit you to sign in with your Microsoft account can use or share your email address or other personal information that you provide to them as described in their privacy statements. They can share the unique ID number the Microsoft account service provides them only in order to fulfill a service or transaction that you may have requested. All sites or services that use the Microsoft account are required to have a posted privacy statement, but we do not control or monitor the privacy practices of those sites, and their privacy practices will vary. **You should carefully review the privacy statement for each site you sign in to in order to determine how each site or service will use the information it collects.**
 
-You can access your personal information by going to [account](https://account.live.com/ "account"). You can change your user name if your Microsoft account does not belong to a managed domain. You can always change your password, alternate email address, phone number, and question and secret answer. You may also close your Microsoft account by going to [account](https://account.live.com/ "account"), and then "Close your account." If your account is in a managed domain, as described above, there may be a special process for closing your account. Please note that if you are an MSN or a Windows Live user, if you go to account, you may be redirected to account for those sites. 
+ **Connecting your Microsoft account to your social network accounts**
 
-More information about Microsoft account is available at the [Microsoft account web site](http://go.microsoft.com/fwlink/?LinkId=98604 "Microsoft account web site"). 
+You may connect your Microsoft account to your account on a social network such as Facebook, Twitter or LinkedIn in order to access information from that social network in your Microsoft account.  For example, connecting your Microsoft account to your social network account lets you see status updates or messages from people you have friended or are following on the social network in your Outlook.com inbox; include them in your Microsoft account address book; and view their birthdays in your Microsoft account calendar.  If you choose to connect your Microsoft account to your account on a social network, we will cache certain information about your social network account on our servers so that we can display updated information from your social network account.
 
-**Non-Microsoft Account**
+You can see a list of the social networks that offer accounts to which you can connect your Microsoft account, as well as the social network accounts that you’ve actually connected to your Microsoft account, by signing in and going to profile.live.com/services. You can disconnect a social network account from your Microsoft account at any time at profile.live.com/services.  If you disconnect a social network account, we will no longer cache information from that account.
+
+Microsoft is not responsible for content originating from non-Microsoft services or for information you share with or send to those services.  If you use a third-party service, its use of your information is subject to its privacy practices. **You should carefully review the privacy statement for each social network account you connect to your Microsoft account to determine how it will use the information it collects.**
+
+ **Accessing your personal information and closing your account**
+
+You can access the personal information in your Microsoft account by going to the Microsoft [account summary page](https://account.live.com/). You can change your username if your Microsoft account does not belong to a managed domain. And you can change your password, alternate email address and phone number. You may also close your Microsoft account by going to [account](https://account.live.com/ "account") and then "Close your account." If your Microsoft account is within a managed domain, there may be a special process for closing your Microsoft account. Please note that if you are an Outlook.com user or have a billing account with Microsoft, if you go to account, you may be redirected to your [account](https://account.live.com/) page for those services.
+
+If you use an email address provided by Microsoft (such as those ending in outlook.com, live.com, hotmail.com or msn.com) when signing up for your Microsoft account, that email address will be unique to you for as long as your Microsoft account is active.  If you or Microsoft close your Microsoft account as provided in the [Microsoft Services Agreement](http://go.microsoft.com/fwlink/?LinkID=397551), that email address or username (but not the Microsoft account itself) may be recycled into our system and assigned to another user.  More information about Microsoft account is available at the Microsoft account web site
+
+ **Non-Microsoft Account**
 
 Some of the applications found on Xbox Live are delivered by a partner company, which may require that you create an account and sign-in credentials to use that application. You should read the application’s privacy statement to understand how your data will be managed. None of this separate account credential information will be shared with Microsoft. If you choose to link your Microsoft account with your account with a partner company, Microsoft may share limited account information with that company. Such account information may include name, address, email and date of birth but will not include any credit card or other payment information.  For games that enable in-game communications, the game publisher may also have access to the content of in-game communications when you are signed into your account with the publisher.
 
@@ -82,8 +96,8 @@ What we collect:
   * Service statistics - We may collect information about your use of Xbox Services. This information can include such activities as: number of times you sign into and sign-off from the Services; games you have played on the Services; content you obtain on the Services; and game-score statistics. If you use an Xbox console that includes a storage device (hard drive or memory unit), and if you play offline or have never signed into the Services on the console, usage data will be stored on the storage device and sent to Microsoft the next time you sign into the Services.  We also may collect and automatically upload certain information about the Services’ performance and your device. Such data may include Xbox console hardware and operating performance data, manufacturing codes from game discs, network performance data, and Service quality data. If you use the Xbox console with Kinect, we may also collect data about how you use the Kinect to access the Services. Any software or hardware errors - may be uploaded and reported to Microsoft, either at the time the error occurs or the next time you are online. All such data may be stored with the Xbox console's unique identifier and may be associated with personally identifiable information.  When your Xbox is connected to the Internet, Microsoft is able to identify which console and which version of the Xbox operating system you are currently using. In addition, when you access the Services via a personal computer, Microsoft will collect information about the Xbox Live software version you are using. This information alerts Microsoft to provide you with appropriate auto-updates and to protect the security of the Services. Additionally, game publishers may receive usage information when you interact with their titles. 
   * Anti-cheating - In order to create a fair gaming experience for all users by detecting cheating, Microsoft will periodically collect the following information about your device when you sign on to Xbox Live: your IP address, operating system and Xbox Live software version, and other non-personally identifiable system information. In addition Microsoft may also collect information about other software running on your device, or hardware connected to it that based on Microsoft’s analysis is suspected to be used for cheating. Microsoft will use this information to protect the security of the Services and may take enforcement action against an account (on Xbox Live) and/or Xbox Live connected device; however, we will not use this information in any way that disables any other software running on a device. 
   * Search and browser - You may be able to search for Xbox applications, content or services using voice or text commands on the Xbox console or on a mobile phone using a search module powered by Bing. To learn how Bing protects your privacy, read the [Bing Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=248686). You may choose to use the Internet Explorer application on Xbox. To learn how Internet Explorer protects your privacy, read the [Internet Explorer Privacy Statement](http://windows.microsoft.com/en-US/internet-explorer/ie10-win8-privacy-statement).  When you search on Xbox, Microsoft will collect and store your search terms in order to provide you search results and improve Microsoft products. We store search terms separately from any account information that directly identifies you. If you use your voice to enter search terms on Xbox, we will convert your voice to text in order to provide you search results. Whether we can also use your voice data for product improvement is controlled separately. To learn more, see the [Kinect](http://www.microsoft.com/privacystatement/EN-US/xbox/default.aspx?componentid=pspxboxKinect&view=Description) section. 
-  * Live television - If you have an adult account and choose to watch live television via the Xbox TV App on your Xbox One, we may ask your permission to collect information about television programming you watch in order to provide you with content recommendations, to provide other Xbox users anonymous aggregate data about what is being watched via Xbox One, and to improve the Xbox One live television feature. You can control whether we collect this programming information. We may also collect TV viewing history from your console in a way that doesn’t identify you or others. We do not collect this information for child and teen accounts. 
-  * Xbox Music and Video - We may also collect information about music and videos you purchase or stream from Microsoft through Xbox; this information is used to provide you recommendations, to provide Xbox users anonymous aggregate data about what others are listening to or watching on Xbox, and to improve the Xbox Music and Xbox Video services. 
+  * Live television - If you have an adult account and choose to watch live television via the Xbox TV App on your Xbox One, we may ask your permission to collect information about television programming you watch in order to provide you with content recommendations, to provide other Xbox users anonymous aggregate data about what is being watched via Xbox One, and to improve the Xbox One live television feature. You can control whether we collect this programming information. We do not collect this information for child and teen accounts. 
+  * Xbox Music and Video - We may also collect information about music and videos you purchase or stream from Microsoft through Xbox; this information is used to provide you recommendations, to provide Xbox users anonymous aggregate data about what others are listening to or watching on Xbox, and to improve the Xbox Music and Xbox Video services. If you enable Cortana on your Windows Phone, Microsoft will collect and use information related to the music you play via Xbox Music to provide personalized experiences, relevant suggestions, and to improve Cortana and other Microsoft products and Services. 
   * Third-party video services-You can choose whether to allow us to know information about videos you purchase or view through third-party apps on Xbox. 
   * Data from other sources-We may get additional information about you, such as demographic data we purchase from other companies. In addition, since Xbox gives you access to applications and game titles that may be provided by a partner company, the partner may send us information on how you use its service, subject to that partner’s privacy statement.  It may also deliver information to enable us to provide you recommendations. 
 
@@ -124,24 +138,24 @@ Reasons We Share Your Personal Information
 
 Summary 
 
-Except as described in this privacy statement, we won’t disclose your personal information to a third party without your consent.
-
-Please see [Other Important Privacy Information](http://www.microsoft.com/privacystatement/en-us/xbox/default.aspx?componentid=pspOtherInformationModule&view=Description) for details about when we may disclose information, including with Microsoft affiliates and vendors; when required by law or to respond to legal process; to combat fraud or protect our interest; or to protect lives. 
+We will share your personal information with your consent.  We may also share or disclose information with Microsoft affiliates and vendors; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our services; and to protect the rights or property of Microsoft.
 
 Full text 
 
-Except as described in this privacy statement, we won’t disclose your personal information to a third party without your consent.
+We will share your personal information with your consent.  For example, we share your content with third parties when you tell us to do so, such as when you send an email to a friend, share photos and documents on OneDrive or link accounts with another service. 
 
-Click [here](http://www.microsoft.com/privacystatement/en-us/xbox/default.aspx?PrintView=true "here") for more information on sharing or disclosing personal information: 
+We may share or disclose personal information with other Microsoft controlled subsidiaries and affiliates, and with vendors or agents working on our behalf.  For example, companies we've hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal information in order to provide those functions.  In such cases, these companies must abide by our data privacy requirements and are not allowed to use the information for any other purpose.  We may also disclose personal information as part of a corporate transaction such as a merger or sale of assets.
 
-  * Within Microsoft affiliates and subsidiaries 
-  * As part of a merger or sale of a business 
-  * With vendors and agents of Microsoft 
-  * When required by law or to respond to legal process or lawful requests, including from law enforcement or other government agencies 
-  * When required to combat fraud or protect our interests 
-  * To protect life and safety 
+Finally, we may access, disclose and preserve your personal information, including your private content (such as the content of your emails, other private communications or files in private folders), when we have a good faith belief that doing so is necessary to:
+
+  1. comply with applicable law or respond to valid legal process from competent authorities, including from law enforcement or other government agencies; 
+  2. protect our customers, for example to prevent spam or attempts to defraud users of the services, or to help prevent the loss of life or serious injury of anyone; 
+  3. operate and maintain the security of our services, including to prevent or stop an attack on our computer systems or networks; or 
+  4. protect the rights or property of Microsoft, including enforcing the terms governing the use of the services – however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer’s private content ourselves, but we may refer the matter to law enforcement. 
 
 
+
+Please note that some of our sites and services include links to sites or services of third parties that have privacy practices different from those of Microsoft. If you submit personal information to any of those sites or services, your information is governed by the privacy statements of those third parties. 
 
 Accessing Your Personal Information
 
@@ -173,7 +187,7 @@ Full text
 
 The Kinect sensor is a combination of camera, microphone, and infrared sensor. It enables you to be the controller, using voice, gestures or body movements. 
 
-Kinect’s camera and infrared sensor can be used to track your gestures or body movements as you control games or apps, or to navigate through Xbox. The camera can be used to sign you into the Services on the console using facial recognition technology if you choose. To do this it takes an image of your face and then measures distances between key points on your face to create a numeric value that represents only you. This value is stored as a very long set of numbers.  No one could look at the numbers and know they represent you. This information stays on the console and is not shared with anyone.  If you choose to sign in using Kinect, it looks at your face and if it recognizes you, you will be signed in to your profile. It also allows you to join a game in progress and be signed in automatically
+Kinect’s camera and infrared sensor can be used to track your gestures or body movements as you control games or apps, or to navigate through Xbox. The camera can be used to sign you into the Services on the console using facial recognition technology if you choose. To do this it takes an image of your face and then measures distances between key points on your face to create a numeric value that represents only you. This value is stored as a very long set of numbers.  No one could look at the numbers and know they represent you. This information stays on the console and is not shared with anyone.  If you choose to sign in using Kinect, it looks at your face and if it recognizes you, you will be signed in to your profile. It also allows you to join a game in progress and be signed in automatically. You can choose to delete this information on your console.  And you can always choose to sign in using the controller instead of Kinect.
 
 Infrared helps services function in low-light settings and can be used for gameplay as needed. 
 
@@ -183,13 +197,13 @@ Kinect is also tracking hand gestures. When the sensor detects specific hand ges
 
 Some game titles may take advantage of a new Xbox capability called expressions. This feature allows you to use your facial expressions to control or influence a game. This data does not identify you, stays on the console and is destroyed once your session ends. 
 
-Kinect games may photograph you while you are engaging in game play. You can view your photographs and decide whether to keep, transfer them off the console, or discard them. These photographs do not leave the console unless you choose to share them.
+Some Kinect games include a feature to photograph you while you are engaging in game play. Games must let you know if they are taking photos; they must tell you where the images are being stored and how to access them.  You can view your photographs and decide whether to keep, transfer them off the console, or discard them. These photographs do not leave the console unless you choose to share them.
 
-Kinect’s microphones help enable chat and audio.  Chat includes online voice talk between players during gameplay or talking to others using services such as Skype.  You should not expect any level of privacy concerning your use of the live communication features such as voice chat, video and communications in live-hosted gameplay sessions offered through the Services. We may monitor these communications to the extent permitted by law, but we cannot monitor the entire Service and make no attempt to do so.  You understand that others can record and use these communications. Communications in live-hosted gameplay sessions may also be broadcast to others. Please note that Xbox does not listen in on Skype calls. 
+Kinect’s microphones help enable chat and audio.  Chat includes online voice talk between players during gameplay or talking to others using services such as Skype.  We monitor a portion of communications in live-hosted multiplayer gameplay sessions offered through the Services to the extent permitted by law. It is not feasible for us to monitor the entire Service, and we make no attempt to do so.  You understand that others can record and use these communications. Communications in live-hosted gameplay sessions may also be broadcast to others. Please note that Xbox does not listen in on Skype calls. 
 
 Audio includes commands for voice control of the console (for example, “Xbox Play”), using the Xbox voice search service, or altering the dynamic of gameplay  (for example, menu navigation or interacting with the game environment).  ). If you use your voice to enter search terms on Xbox, we will collect your voice snippet and convert your voice to text in order to provide you search results.
 
-Voice Data for Product Improvement – You control whether Microsoft can use your Kinect voice data for product improvement. With user consent, samples of voice commands or voice search requests occurring while using Kinect may be collected and periodically sent to Microsoft for product improvement.   You can view the settings related to voice data use, both voice commands and voice search data, via the Settings. If you change your choice around the use of this data for product improvement from Allow to Block, this will delete any voice samples stored on the console awaiting upload, not what has already been sent to Microsoft. We store voice data used for product improvement separately from any account information that directly identifies you.
+Voice Data for Product Improvement – You control whether Microsoft can use your Kinect voice data for product improvement. With user consent, samples of voice commands or voice search requests occurring while using Kinect may be collected and periodically sent to Microsoft for product improvement.   You can view the settings related to voice data use, both voice commands and voice search data, via the Settings. If you change your choice around the use of this data for product improvement from Allow to Block, this will stop collection of voice samples and delete any voice samples stored on the console awaiting upload. It will not delete what has already been sent to Microsoft. We store voice data used for product improvement separately from any account information that directly identifies you.
 
 Managing your Kinect experience 
 
@@ -200,7 +214,7 @@ Managing your Kinect experience
 
 
 
-To learn more about Kinect, please visit the [Kinect FAQ](http://www.xbox.com/kinectprivacy).
+To learn more about Kinect, please visit the [Kinect FAQ](http://http//www.xbox.com/kinectprivacy).
 
 Exercise Information – If you use Xbox Fitness on Xbox One, or certain games and apps on Xbox 360, Xbox can use the Kinect sensor to estimate your exercise info, including estimates such as your heart rate during a certain activity or the number of calories burned during a workout. To improve the accuracy of your exercise info, you can enter attributes such as your height, weight, age, and gender. To share your accomplishments and participate in Xbox Live Fitness challenges, you can share your exercise info on Xbox Live. You can also choose to keep your exercise info private. New accounts created on the Xbox One have a have privacy defaults on exercise info set to block, which means it’s stored online and kept private. On Xbox 360, you can store your exercise info online or offline, on that Xbox 360. Children’s exercise info settings are controlled by adults in their Xbox families. To delete exercise info, do so through the apps or games you used to create it.
 
@@ -212,7 +226,7 @@ To enable a sharing experience on Xbox Music and Xbox Video and help you discov
 
 Full text 
 
-To enable the sharing experience on Xbox Music and Xbox Video and help you discover content that may interest you, Microsoft will collect information about what content you play, the length of play, and the rating you give in Xbox Music and Xbox Video. This information is sent to Microsoft directly from the device using the Xbox Music and Xbox Video service.
+To enable the sharing experience on Xbox Music and Xbox Video and help you discover content that may interest you, Microsoft will collect information about what content you play, the length of play, and the rating you give in Xbox Music and Xbox Video. This information is sent to Microsoft directly from the device using the Xbox Music and Xbox Video service. If you enable Cortana on your Windows Phone, Microsoft will collect and use information related to the music you play via Xbox Music to provide personalized experiences, relevant suggestions, and to improve Cortana and other Microsoft products and Services. 
 
 There is a privacy setting for your music history that lets you control whether other Xbox Live users can see what music you have listened to via Xbox. There is a privacy setting for your live TV and video history which allows you to control whether other Xbox Live users can see what live TV and on-demand videos you watched via Xbox.
 
@@ -268,7 +282,7 @@ Full text
 
 With Xbox Live you can send messages, play games with people, and share your status and activities. You can choose to share different types of information with everybody or friends, or choose to keep some information private (block). You can view and change your current sharing status within Settings. Adults in the family manage the default settings for child and teen accounts. 
 
-Some information is shared automatically with other Xbox Live users, including gamertag and some game statistics on leaderboards. This also includes Achievements, depending on your Game DVR privacy settings,  title created Game DVR clips. Achievements are awarded for doing something cool in games or other parts of Xbox Live. title created Game DVR clips are brief recordings automatically created by titles that share the moment when some cool thing was accomplished, such as a perfect dance routine. Title created Game DVR clips will be shared in Xbox Live based on your Game DVR privacy control. For more information see [GameDVR](http://#domainname#/privacystatement/EN-US/xbox/default.aspx?componentid=pspxboxGameDVRModule&view=Description).  
+Some information is shared automatically with other Xbox Live users, including gamertag and some game statistics on leaderboards. This also includes Achievements, depending on your Game DVR privacy settings,  title created Game DVR clips. Achievements are awarded for doing something cool in games or other parts of Xbox Live. title created Game DVR clips are brief recordings automatically created by titles that share the moment when some cool thing was accomplished, such as a perfect dance routine. Title created Game DVR clips will be shared in Xbox Live based on your Game DVR privacy control. For more information see [GameDVR](http://www.microsoft.com/privacystatement/EN-US/xbox/default.aspx?componentid=pspxboxGameDVRModule&view=Description).  
 
 If you use an Xbox console, your personal computer, or SmartGlass, your gamertag will be automatically linked with your authentication network credentials, to personalize your experience.   Your gamertag and credentials will also be linked so that when you sign into Xbox.com or other related gaming sites your experience will be personalized and you will have access to additional features. The linkage between your gamertag and Microsoft account may also be shared with third-party game sites in order for those sites to provide you with a personalized experience when you sign in. 
 
@@ -290,31 +304,27 @@ When a parent grants consent, the child's account is treated much like any other
 
 Adults in the family can change or revoke the consent choices previously made on [Xbox.com](http://www.xbox.com/). Parents can look in [User Accounts](http://www.microsoft.com/privacystatement/EN-US/xbox/default.aspx?componentid=pspxboxAccountsModule&view=Description) for more information on how to review or edit their children's personal information. Parents can contact support [here](http://support.xbox.com/pages/contact-us.aspx "here") to request the deletion of their children's personal information.
 
-If you have privacy questions about Xbox, you can contact us as described in the [Other Important Privacy Information section](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspOtherInformationModule&view=Description). Below are third-party game publishers and app developers that may also collect personal information through Xbox: 
-
-  * Electronic Arts 
-  * Xseed Games 
-  * Disney Interactive 
-
-
+If you have privacy questions about Xbox, you can contact us as described in the [Other Important Privacy Information section](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspOtherInformationModule&view=Description). 
 
 Display of Advertising
 
 Summary 
 
-Xbox Services are supported by advertising. Because Microsoft serves advertisements on the console and on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about your use of Xbox services and the types of pages, content and ads you visited or viewed online.  This information is used for many purposes, including to help select and display targeted advertisements that we believe may be of interest to you. When we display online advertisements to you, we will place one or more persistent cookies on your computer in order to recognize your computer each time we display an ad to you. 
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description) in order to recognize your computer when we display an ad to you. Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads. 
 
-You may [opt out](http://choice.live.com/advertisementchoice "opt out") of targeted ads from Microsoft and may choose to opt out on any device after you’ve signed in to Microsoft account.
+**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our**[ **opt-out page**](http://go.microsoft.com/fwlink/?LinkID=286759) **.**
 
 Full text 
 
-Many of our web sites and online services are supported by advertising.
+Many of our sites and services are supported by advertising.
 
-Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more persistent [cookies](http://www.microsoft.com/privacystatement/en-us/xbox/default.aspx?PrintView=true "cookies") on your computer in order to recognize your computer each time we display an ad to you. Because we serve advertisements on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you. 
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description) on your computer in order to recognize your computer each time we display an ad to you. Because we serve advertisements on our own websites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information helps us select the ads we show you. For example, it helps us try to ensure that you do not see the same advertisements repeatedly. It also helps us select and display targeted advertisements that we believe may be of interest to you. 
 
-You may opt out of receiving targeted ads from Microsoft Advertising by visiting our [opt-out page](https://choice.live.com/AdvertisementChoice/ "opt-out page"). For more information about how Microsoft Advertising collects and uses information, please see the [Microsoft Advertising Privacy Statement](http://privacy.microsoft.com/en-us/AdDisplay.mspx "Microsoft Advertising Privacy Statement"). 
+You may opt out of receiving targeted ads from Microsoft Advertising by visiting our [opt-out page](http://go.microsoft.com/fwlink/?LinkID=286759). For more information about how Microsoft Advertising collects and uses information, please see the [Microsoft Advertising Privacy Statement](http://go.microsoft.com/fwlink/?LinkID=248689). 
 
-We also allow third-party ad companies, including other ad networks, to display advertisements on our sites. In some cases, these third parties may also place cookies on your computer. These companies currently include, but are not limited to: [24/7 Real Media](http://www.247realmedia.com/ "24/7 Real Media"), [adblade](http://www.adblade.com/ "adblade"), [AdConion](http://www.adconion.com/ "AdConion"), [AdFusion](http://www.adfusion.com/ "AdFusion"), [Advertising.com](http://advertising.com/ "Advertising.com"), [AppNexus](http://www.appnexus.com/ "AppNexus"), [Bane Media](http://www.banemedia.com/ "Bane Media"), [Brand.net](http://www.brand.net/ "Brand.net"), [CasaleMedia](http://www.casalemedia.com/ "CasaleMedia"), [Collective Media](http://www.collective.com/ "Collective Media"), [InMobi](http://www.inmobi.com/ "InMobi"), [Interclick](http://www.interclick.com/ "Interclick"), [Jumptap](http://www.jumptap.com/ "Jumptap"), [Millennial Media](http://www.millennialmedia.com/ "Millennial Media"), [nugg.adAG](http://ad-choices.nuggad.net/ "nugg.adAG"), [Mobclix](http://www.mobclix.com/ "Mobclix"), [Mojiva](http://www.mojiva.com/ "Mojiva"), [SpecificMedia](http://www.specificmedia.com/ "SpecificMedia"), [Tribal Fusion](http://www.tribalfusion.com/ "Tribal Fusion"), [ValueClick](http://www.valueclickmedia.com/ "ValueClick"), [Where.com](https://advertising.paypal.com/terms-and-use/ "Where.com"), [Yahoo!](http://advertising.yahoo.com/ "Yahoo!"), [YuMe](http://www.yumenetworks.com/ "YuMe"), [Zumobi](http://www.zumobi.com/ "Zumobi"). These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the web sites of each company. Many of them are also members of the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp "Network Advertising Initiative") or the [Digital Advertising Alliance](http://www.aboutads.info/choices/ "Digital Advertising Alliance"), which each provide a simple way to opt out of ad targeting from participating companies. 
+We also allow third-party ad companies, including other ad networks, to display advertisements on our sites. In some cases, these third parties may also place cookies on your computer, and may collect information about your online activities across websites or online services. These companies currently include, but are not limited to: [24/7 Real Media](http://www.247realmedia.com/), [adblade](http://www.adblade.com/), [AdConion](http://www.adconion.com/), [AdFusion](http://www.adfusion.com/), [Advertising.com](http://advertising.com/), [AppNexus](http://www.appnexus.com/), [Atlas](http://atlassolutions.com/), [Bane Media](http://www.banemedia.com/), [Brand.net](http://www.brand.net/), [CasaleMedia](http://www.casalemedia.com/), [Collective Media](http://www.collective.com/), [InMobi](http://www.inmobi.com/), [Interclick](http://www.interclick.com/), [Jumptap](http://www.jumptap.com/), [Millennial Media](http://www.millennialmedia.com/), [nugg.adAG](http://ad-choices.nuggad.net/), [Mobclix](http://www.mobclix.com/), [Mojiva](http://www.mojiva.com/), [SpecificMedia](http://www.specificmedia.com/), [Tribal Fusion](http://www.tribalfusion.com/), [ValueClick](http://www.valueclickmedia.com/), [Where.com](https://advertising.paypal.com/terms-and-use/), [Yahoo!](http://advertising.yahoo.com/), [YuMe](http://www.yumenetworks.com/), [Zumobi](http://www.zumobi.com/). These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the websites of each company. Many of them are also members of the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) or the [Digital Advertising Alliance](http://www.aboutads.info/choices/), which each provide a simple way to opt out of ad targeting from participating companies. 
+
+You should also be aware that some browsers have incorporated “Do Not Track” (DNT) features that, when turned on, send a signal in the browser header to websites and online services indicating that you do not wish to be tracked.  It is up to the website or online service you visit (and any third parties providing advertising, content, or other functionality on the website or online service) to decide how it will interpret and treat the signal.  However, there is not yet a common understanding of how to interpret the DNT signal.  As a result, Microsoft does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where Microsoft provides advertisements, content or is otherwise able to collect information.  We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, users may continue to opt-out of targeted ads from Microsoft as set forth above.
 
 Communication Preferences
 
@@ -344,30 +354,103 @@ Cookies & Similiar Technologies
 
 Summary 
 
-When you use Xbox websites, including Xbox.com and the Rewards site, we place one or more "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive, on your machine.  We may use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. You can manage those cookies through your browser settings. Microsoft does not deploy cookies on the Xbox console. The browser on Xbox does allow cookies to be set, and you can manage those cookies through browser settings.  You can also use advertising controls, including Microsoft’s controls at <http://choice.microsoft.com/advertisementchoice/>, to opt out of receiving behaviorally targeted ads.
+Most Microsoft websites use "cookies," which are small text files stored on your device, to help operate the sites and collect information about online activity. For instance, we use cookies to store your preferences and settings; help with sign-in; provide targeted ads; combat fraud; and analyze site operations. 
+
+We also use web beacons to help deliver cookies and compile analytics. These may include web beacons from third-party service providers.
+
+You have a variety of tools to control cookies and similar technologies, including:
+
+  * Browser controls to block and delete cookies; 
+  * Advertising controls, including Microsoft's controls at <http://choice.live.com/advertisementchoice/>, to opt out of receiving behaviorally targeted ads; and 
+  * Controls from some analytics service providers to opt out of data collection through web beacons. 
+
+
 
 Full text 
 
-**_Microsoft Use of Cookies_**
+Most Microsoft websites use "cookies," which are small text files stored on your device, to help operate the sites and collect information about online activity.  The text in a cookie often consists of a string of numbers and letters that uniquely identifies your computer, but it may contain other information as well. Here is an example of a unique ID number stored in a cookie that we might place on your device when you visit one of our websites: E3732CA7E319442F97EA48A170C99801.  Our websites may also contain web beacons or other similar technologies.  Microsoft uses cookies and similar technologies for a variety of purposes, described in more detail below. 
 
-Most Microsoft web sites use "cookies," which are small text files placed on your hard disk by a web server. Cookies contain text that can be read by a web server in the domain that issued the cookie to you. That text often consists of a string of numbers and letters that uniquely identifies your computer, but may contain other information as well. Here is an example of the text stored in a cookie that Microsoft might place on your hard disk when you visit one of our web sites: E3732CA7E319442F97EA48A170C99801 
+**How to Control Cookies and Similar Technologies**
 
-We may use cookies for: 
+Microsoft provides browser controls to help you manage cookies.  You can also accept cookies but opt out of their use to behaviorally target advertisements.  For instance, Microsoft’s advertising preference and opt-out controls are available at <http://choice.live.com/advertisementchoice/>.
+
+ **Browser Controls to Block Cookies.**
+
+Most web browsers automatically accept cookies but allow you to modify your browser setting to block cookies.  For example, in Internet Explorer 11, you can block cookies by taking the following steps: 
+
+  1. Click "Tools" and then select "Internet Options" 
+  2. Click the "Privacy" tab at the top of the window 
+  3. Move the slider up or down to indicate the rules you want to apply for blocking cookies 
+
+
+
+Instructions for blocking cookies in other browsers are available at each browser’s privacy statement.   
+
+Please be aware that if you choose to block cookies, you may not be able to sign in or use other interactive features of Microsoft sites and services that depend on cookies, and any advertising preferences that are dependent on cookies may be lost. 
+
+**Browser Controls to Delete Cookies.**
+
+If you accept cookies, you can delete them later.  For example, in Internet Explorer 11, you can delete cookies by taking the following steps: 
+
+  1. Click "Tools" and then select "Internet Options" 
+  2. On the "General" tab, under "Browsing History," click the "Delete" button 
+  3. On the pop-up, select the box next to “Cookies” 
+  4. Click the "Delete" button 
+
+
+
+Instructions for deleting cookies in other browsers are available at each browser’s privacy statement. 
+
+Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and will need to be recreated. 
+
+**Browser Controls for “Do Not Track” and Tracking Protection.**
+
+Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third-party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where Microsoft provides advertisements, content or is otherwise able to collect information.  We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, users may continue to opt out of targeted ads from Microsoft as set forth below.
+
+Internet Explorer (versions 9 and up) have a feature called Tracking Protection that helps prevent the websites you go to from automatically sending details about your visit to third-party content providers. When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you. For more information about Tracking Protection Lists and Do Not Track, please see the [Internet Explorer Privacy Statement](http://go.microsoft.com/fwlink/?linkid=280122) or [Internet Explorer Help](http://go.microsoft.com/fwlink/?LinkId=298947). 
+
+**Advertising Opt-Out Controls.**
+
+Because cookies can be used for many purposes, users who do not want to receive behaviorally targeted advertising can choose to accept cookies but opt out from that particular use. Companies in the online advertising industry have developed guidelines and programs to help protect users’ privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft). These pages include: 
+
+  * Digital Advertising Alliance (DAA) Consumer Choice Page: <http://www.aboutads.info/choices/>
+  * Network Advertising Initiative (NAI) Opt-Out Page: <http://www.networkadvertising.org/managing/opt_out.asp>
+  * In Europe, you can also visit Your Online Choices: <http://www.youronlinechoices.com/>
+
+
+
+Individual advertising companies may also offer their own opt-out capabilities plus more advanced advertising choices. For instance, Microsoft’s advertising preference and opt-out controls are available at <http://choice.live.com/advertisementchoice/>. Please note that opting out does not mean that you will stop getting ads or see fewer ads; however, if you do opt out, the ads that you receive will no longer be behaviorally targeted. In addition, opting out does not stop information from going to our servers, but it does stop our creation or updating of profiles that might be used for behavioral advertising. 
+
+**Third-Party Analytics Controls.**
+
+As described in more detail below, many websites and online services from Microsoft and other companies use third-party analytic services, which use cookies and web beacons to compile aggregated statistics regarding the effectiveness of promotional campaigns or other website operations.  You can opt out of data collection or use by some of these analytics providers by clicking the following links: 
+
+  * Omniture (Adobe): <http://www.d1.sc.omtrdc.net/optout.html>
+  * Nielsen: [http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices)
+  * Coremetrics: <http://www.coremetrics.com/company/privacy.php#optout>
+  * Visible Measures: <http://corp.visiblemeasures.com/viewer-settings>
+  * Google Analytics: <http://tools.google.com/dlpage/gaoptout> (requires you to install a browser add-on) 
+
+
+
+**Our Use of Cookies**
+
+Microsoft websites use cookies for several purposes, including: 
 
   * **Storing your Preferences and Settings.** If you enter your city or postal code to get local news or weather information on a Microsoft site, we may store that city or postal code in a cookie so that you will see the relevant local information when you return to the site. This can save you time by eliminating the need to repeatedly enter the same information every time you visit the site. 
-  * **Sign-in and Authentication.** When you sign in to a site or service using your Microsoft account, we store your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to sign in again on each page. When you sign out, these cookies are deleted from your computer. We also use cookies to improve the sign-in experience. For example, your e-mail address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your e-mail address to be pre-populated, so that you will only need to type your password the next time you sign in. If you are using a public computer or do not want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used. 
-  * **Targeted Advertising.** When we display online advertisements to you, we will place one or more persistent cookies on your device in order to recognize your device each time we display an ad to you. Because we serve advertisements on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you. You can find more information about this use of cookies, including how to opt out of receiving targeted advertising from Microsoft, in [Microsoft Advertising Privacy Statement](http://privacy.microsoft.com/en-us/AdDisplay.mspx "Microsoft Advertising Privacy Statement"). 
+  * **Sign-in and Authentication.** When you sign in to a site or service using your Microsoft account, we store a unique ID number, and the time you signed in, in an encrypted cookie on your device. This cookie allows you to move from page to page at the site without having to sign in again on each page. 
+  * **Targeted Advertising.** When we display online advertisements to you, we will place one or more cookies on your device in order to recognize it each time we display an ad to you. Because we serve advertisements on the websites of our advertising and publisher partners, as well as our own, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information helps us select the ads we show you.  For example, it helps us try to ensure that you do not see the same advertisements repeatedly. It also helps us select and display targeted advertisements that we believe may be of interest to you. You can find more information about this use of cookies, including how to opt out of receiving targeted advertising from Microsoft, in the [Microsoft Advertising Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=248689). 
   * **Site Analytics.** We may use cookies to count the number of unique visitors to a web page or service or to develop other aggregate statistics about the operations of our sites and services. These analytics help us operate and improve the performance of these sites and services. 
 
 
 
-Some of the cookies we commonly use are listed in the following chart. This list is not exhaustive, but it is intended to illustrate some of the reasons we set cookies. If you visit one of our web sites, the site may set some or all of the following cookies: 
+Some of the cookies we commonly use are listed in the following chart. This list is not exhaustive, but it is intended to illustrate the main reasons we typically set cookies. If you visit one of our websites, the site may set some or all of the following cookies: 
 
-**Cookie name**
+Cookie name 
 
 | 
 
- **Description**  
+Description   
   
 ---|---  
   
@@ -375,13 +458,13 @@ MUID
 
 | 
 
-Identifies unique browsers to Microsoft sites. It is used for advertising, site analytics and other operational purposes.  
+Identifies unique browsers visiting Microsoft sites. It is used for advertising, site analytics and other operational purposes.  
   
 ANON 
 
 | 
 
-Contains the ANID, a unique identifier used to help identify which ads a user may like. It is also used to preserve a user’s choice to opt out of behaviorally targeted ads from Microsoft, if the user has chosen to associate the opt-out with his or her Microsoft account.   
+Contains the ANID, a unique identifier used to help identify which ads a customer may like. It is also used to preserve your choice to opt out of behaviorally targeted ads from Microsoft, if you have chosen to associate the opt-out with your Microsoft account.   
   
 CC 
 
@@ -393,101 +476,51 @@ Microsoft account authentication
 
 | 
 
-Authentication cookies (e.g., RPSTAuth, MSNRPSAuth, KievRPSAuth) used when a user signs in with a Microsoft account.   
+Authentication cookies (e.g., RPSTAuth, MSNRPSAuth, KievRPSAuth) used when you sign in with your Microsoft account.   
   
 NAP 
 
 | 
 
-Contains an encrypted version of the user’s country, ZIP code, age, gender, language and occupation, if known, based on the user’s Windows Live profile.   
+Contains an encrypted version of your country, postal code, age, gender, language and occupation, if known, based on your Microsoft account profile.   
   
 MH 
 
 | 
 
-Appears on co-branded sites where Microsoft is partnering with an advertiser, this cookie identifies the advertiser so the right ad is selected.   
+Appears on co-branded sites where Microsoft is partnering with an advertiser.  This cookie identifies the advertiser so the right ad is selected.   
   
 ACH01 
 
 | 
 
-Maintains information about which ad and where the user clicked on the ad.   
+Maintains information about which ads you clicked on and where you clicked on the ad.   
   
 TOptOut 
 
 | 
 
-Indicates that the user has indicated he or she does not want to receive behaviorally targeted ads delivered by Microsoft.   
+Records your decision not to receive behaviorally targeted ads delivered by Microsoft.   
   
-In addition to the cookies Microsoft may set when you visit our web sites, third parties may also set certain cookies on your hard drive when you visit Microsoft sites. In some cases, that is because we have hired the third party to provide certain services on our behalf, such as site analytics. In other cases, it is because our web pages contain content or ads from third parties, such as videos, news content or ads delivered by other ad networks. Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your hard drive. 
+In addition to the cookies Microsoft may set when you visit our websites, third parties may also set cookies when you visit Microsoft sites. In some cases, that is because we have hired the third party to provide services on our behalf, such as site analytics. In other cases, it is because our web pages contain content or ads from third parties, such as videos, news content or ads delivered by other ad networks. Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your device and may collect information about your online activities across websites or online services. 
 
 Microsoft does not deploy cookies on the Xbox console. The browser on Xbox does allow cookies to be set, and you can manage those cookies through browser settings.  Third party applications accessed through the console may set cookies.  Consult the application’s privacy statement for more information.
 
- ** _How to Control Cookies_**
+ **Our Use of Web Beacons**
 
-  *  **Browser Controls to Block Cookies.** Most web browsers automatically accept cookies, but you can usually modify your browser setting to block cookies.
+Microsoft web pages may contain electronic images known as web beacons - sometimes called single-pixel gifs - that may be used to help deliver cookies on our sites, count users who have visited those pages and deliver co-branded services. Sometimes we include web beacons in our promotional email messages or newsletters to determine whether messages have been opened and acted upon. 
 
-For example, in Internet Explorer 9, you may block cookies by taking the following steps: 
+We sometimes work with other companies that advertise on Microsoft sites to place web beacons on their sites or in their advertisements to let us develop statistics on how often clicking on an advertisement on a Microsoft site results in a purchase or other action on the advertiser's site. 
 
-    1. Click "Tools" and then select "Internet Options"
-    2. Click the "Privacy" tab at the top of the window
-    3. Move the slider up or down to select the types of cookies you wish to block
+Finally, Microsoft sites may contain web beacons from third parties to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other web site operations. These web beacons may allow the third parties to set or read a cookie on your computer. These companies may collect information about your online activities across websites or online servers, however, we prohibit third parties from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You may be able to opt out from data collection or use by these third-party analytics companies as described under “Third-Party Analytics Controls” above. 
 
-Instructions for blocking cookies in other browsers are available at <http://www.allaboutcookies.org/manage-cookies/>. 
+**Other Similar Technologies**
 
-Please be aware that if you choose to block cookies, you may not be able to sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected. 
+In addition to standard cookies and web beacons, websites can use other technologies to store and read data files on your computer. This may be done to maintain your preferences or to improve speed and performance by storing certain files locally. But, like standard cookies, these technologies can also be used to store a unique identifier for your computer, which can then be used to track online activity. These technologies include Local Shared Objects (or "Flash cookies"), HTML5 Local Storage and Silverlight Application Storage. 
 
-  * **Browser Controls to Delete Cookies**. If you accept cookies, you can delete them later.
+Local Shared Objects or "Flash cookies." Websites that use Adobe Flash technologies may use Local Shared Objects or "Flash cookies" to store data on your computer. To manage or block Flash cookies when using Windows, go to the Control Panel and select Flash Player. For other operating systems, learn more at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. 
 
-For example, in Internet Explorer 9, you may delete cookies by taking the following steps: 
-
-    1. Click "Tools" and then select "Internet Options"
-    2. On the "General" tab, under "Browsing History," click the "Delete" button
-    3. On the pop-up, select the box next to “Cookies”
-    4. Click the "Delete" button
-
-Instructions for deleting cookies in other browsers are available at <http://www.allaboutcookies.org/manage-cookies/>. 
-
-Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated. 
-
-  * **Browser Controls for “Do Not Track” and Tracking Protection.** Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked. Those sites may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.
-
-Internet Explorer 9 has a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers. When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you. And when you have a Tracking Protection List enabled, Internet Explorer will send a Do Not Track signal or preference to the web sites you visit. For more information about Tracking Protection Lists and how to find them, please see the [Internet Explorer privacy statement](http://windows.microsoft.com/en-US/internet-explorer/products/ie-9/windows-internet-explorer-9-privacy-statement "Internet Explorer privacy statement") or [Internet Explorer Help](http://windows.microsoft.com/en-US/internet-explorer/help "Internet Explorer Help"). 
-
-  * **Advertising Opt-Out Controls.** Because cookies may be used for many purposes, users who object to behaviorally targeted advertising may choose to accept cookies but opt out from that particular use. Companies in the online advertising industry have developed guidelines and programs to help protect users’ privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft). These pages include:
-    * Digital Advertising Alliance (DAA) Consumer Choice Page: <http://www.aboutads.info/choices/>
-    * Network Advertising Initiative (NAI) Opt-Out Page: <http://www.networkadvertising.org/managing/opt_out.asp>
-    * In Europe, you may also visit Your Online Choices: <http://www.youronlinechoices.com/>
-
-Individual advertising companies may also offer their own opt-out capabilities plus more advanced advertising choices. For instance, Microsoft’s advertising preference and opt-out controls are available at <http://choice.microsoft.com/advertisementchoice/>. Please note that opting out does not mean that you will stop getting ads or see fewer ads; however, if you do opt out, the ads that you receive will no longer be behaviorally targeted. In addition, opting out does not stop information from being collected. 
-
-
-
-
-**_Our Use of Web Beacons_**
-
-Microsoft web pages may contain electronic images known as web beacons - sometimes called single-pixel gifs - that may be used to help deliver cookies on our sites, let us count users who have visited those pages and deliver co-branded services. We may include web beacons in our promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. 
-
-We may also work with other companies that advertise on Microsoft sites to place web beacons on their sites or in their advertisements to let us develop statistics on how often clicking on an advertisement on a Microsoft site results in a purchase or other action on the advertiser's site. 
-
-Finally, Microsoft sites may contain web beacons from third parties to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other web site operations. These web beacons may allow the third parties to set or read a cookie on your computer. We prohibit third parties from using web beacons on our sites to collect or access your personal information. Nevertheless, you may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers: 
-
-  * Omniture (Adobe): <http://www.d1.sc.omtrdc.net/optout.html>
-  * Nielsen: [http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices "http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices")
-  * Coremetrics: <http://www.coremetrics.com/company/privacy.php#optout>
-  * Visible Measures: <http://corp.visiblemeasures.com/viewer-settings>
-  * Google Analytics: <http://tools.google.com/dlpage/gaoptout> (requires you to install a browser add-on) 
-
-
-
-**_Other Similar Technologies_**
-
-In addition to standard cookies and web beacons, web sites can use other technologies to store and read data files on your computer. This may be done to maintain your preferences or to improve speed and performance by storing certain files locally. But, like standard cookies, it can also be used to store a unique identifier for your computer, which can then be used to track behavior. These technologies include Local Shared Objects (or "Flash cookies") and Silverlight Application Storage. 
-
-  * **Local Shared Objects or "Flash cookies."** Web sites that use Adobe Flash technologies may use Local Shared Objects or "Flash cookies" to store data on your computer. Note that the ability to clear Flash cookies may or may not be controlled by your browser setting for standard cookies as that may vary by browser. To manage or block Flash cookies, go to <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. 
-  * **Silverlight Application Storage.** Web sites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, visit [Silverlight](http://www.microsoft.com/getsilverlight/get-started/install/privacy.aspx "Silverlight"). 
-
-
+Silverlight Application Storage. Websites or applications that use Microsoft Silverlight technology can store data on your device using Silverlight Application Storage. To learn how to manage or block such storage, visit the [Silverlight Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=117119). 
 
 Payment Data
 
@@ -501,7 +534,7 @@ Payment Data is the information that you provide when you make online purchases.
 
 Payment Data is used to complete your transaction, as well as for the detection and prevention of fraud. In support of these uses, Microsoft may share your Payment Data with banks and other entities that process payment transactions or other financial services, and for fraud prevention and credit risk reduction.
 
-When you provide Payment Data while logged in with your Microsoft or organizational account we will store that data to help you complete future transactions. 
+When you provide Payment Data while logged in with your Microsoft or organizational account we will store some of that data to help you complete future transactions. 
 
 You may update or remove the payment instrument information associated with your Microsoft account by logging in at [https://commerce.microsoft.com](https://commerce.microsoft.com/ "https://commerce.microsoft.com/"). You may remove the payment instrument information associated with your organizational account by contacting [Customer Support](http://go.microsoft.com/fwlink/?LinkId=266728 "Customer Support"). After you close your account or remove a payment instrument, however, Microsoft may retain your payment instrument data for as long as reasonably necessary to complete your existing transaction, to comply with Microsoft’s legal and reporting requirements, and for the detection and prevention of fraud. 
 
@@ -523,7 +556,14 @@ Summary
   * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
   * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
     * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
-    * By Phone: 425-882-8080 
+    * By Phone: 425-882-8080
+  * Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
+
+> Microsoft Ireland Operations, Ltd.  
+>  Attn: Data Protection  
+>  Carmenhall Road  
+>  Sandyford, Dublin 18, Ireland
+
   * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
 
 
@@ -551,8 +591,6 @@ If a password is used to help protect your accounts and personal information, it
 
 Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Economic Area and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>. 
 
-As part of Microsoft’s participation in the Safe Harbor program, we use TRUSTe, an independent third party, to resolve disputes you have with us in connection with our policies and practices. If you would like to contact TRUSTe, please visit <https://feedback-form.truste.com/watchdog/request>. 
-
 Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services. To learn how to access your personal information, visit [Accessing Your Information](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspAccessingInformationModule&view=Description). 
 
 **Changes to Our Privacy Statements**
@@ -565,7 +603,7 @@ We will occasionally update our privacy statements to reflect customer feedback 
   * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
   * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
     * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
-    * By Phone: 425-882-8080 
+    * By Phone: 425-882-8080
   * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
 
 
