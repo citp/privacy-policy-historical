@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortwayne.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212232545id_/http%3A//egen.fortwayne.com/fwngeneral/text/index.php%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortwayne.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218005525id_/http%3A//egen.fortwayne.com/fwngeneral/text/index.php%3Fq%3Dprivacy) for the most accurate reproduction.*
 
 # FortWayne.com Privacy Policy
 
