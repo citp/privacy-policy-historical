@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latex-tutorial.com privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323012830id_/http%3A//www.latex-tutorial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latex-tutorial.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217135437id_/http%3A//www.latex-tutorial.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -29,15 +29,3 @@ You can opt-out of this ad serving on all sites using this advertising by visiti
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-## Use of social media plugins
-
-This Website uses social media plugins of the social networks below:
-
-  * https://twitter.com/privacy
-
-
-
-The use of such plugins requires your web browser to open a direct connection to the respective service. This connection may be used to transfer user-related data to the respective companies as listed above.
-
-* * *
