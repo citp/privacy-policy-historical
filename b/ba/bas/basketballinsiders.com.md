@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basketballinsiders.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213211748id_/http%3A//www.basketballinsiders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basketballinsiders.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217092234id_/http%3A//www.basketballinsiders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Basketball Insiders | NBA Rumors And Basketball News
 
