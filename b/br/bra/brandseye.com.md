@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the brandseye.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128194424id_/http%3A//www.brandseye.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandseye.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217064215id_/http%3A//www.brandseye.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BrandsEye
 
-## Privacy Policy
-
-BrandsEye respects your privacy and cares how information about you is used and shared. We appreciate your trust in this regard and assure you that we will make every reasonable effort to manage your personal information carefully, securely and sensibly. When visiting and/or interacting with the BrandsEye Site and using the Services (as defined in the BrandsEye Terms and Conditions [BrandsEye Terms and Conditions](http://www.brandseye.com/terms-and-conditions)) you are expressly consenting to the collection, collation, processing or disclosure of your personal information for the purposes and in the manner described in this Privacy Policy without qualification, so please read it carefully.
+BrandsEye respects your privacy and cares how information about you is used and shared. We appreciate your trust in this regard and assure you that we will make every reasonable effort to manage your personal information carefully, securely and sensibly. When visiting and/or interacting with the BrandsEye Site and using the Services (as defined in the BrandsEye Terms and Conditions [BrandsEye Terms and Conditions](http://www.brandseye.com/terms-and-conditions)) you are expressly consenting to the collection, collation, processing or disclosure of your personal information for the purposes and in the manner described in this Privacy Policy without qualification, so please read it carefully.
 
 Information about our customers is an important part of our business. Such information may be collected, collated, processed or disclosed for the purposes set out hereunder. Where we intend using your information for any alternative purpose, we will first obtain your written consent to do so.
 
@@ -20,7 +18,7 @@ We employ other companies and individuals to perform functions on our behalf. Ex
 
 **Business transfers:**
 
-In the event of the purchase or restructuring of the whole or part of our business, certain intellectual property, including our customer's information, may be transferred to another party in the normal course of business.
+In the event of the purchase or restructuring of the whole or part of our business, certain intellectual property, including our customer’s information, may be transferred to another party in the normal course of business.
 
 **Credit purposes:**
 
@@ -32,8 +30,8 @@ If we receive, compile, retain or report any account or personal information per
 
   1. to the extent permitted or required by the National Credit Act, other national legislation or applicable provincial legislation; or
   2. as directed by: 
-    1. your instructions; or
-    2. an order of a court or the South African National Credit Tribunal.
+    1.      a.         your instructions; or
+    2.      b.         an order of a court or the South African National Credit Tribunal.
 
 
 
@@ -63,7 +61,7 @@ We receive and store any information you enter on Site or provided by you in any
 
 **Information automatically gathered:**
 
-We receive and store certain types of information whenever you interact with the web site. For example, like many web sites, we use "cookies", and we obtain certain types of information when your web browser accesses our web sites. The "cookies" often transfer security related information, so this facility must be activated on your browser whilst accessing our web sites or they may malfunction.
+We receive and store certain types of information whenever you interact with the web site. For example, like many web sites, we use “cookies”, and we obtain certain types of information when your web browser accesses our web sites. The “cookies” often transfer security related information, so this facility must be activated on your browser whilst accessing our web sites or they may malfunction.
 
 **E-mail communications:**
 
@@ -79,7 +77,7 @@ You agree to act responsibly when using the site.
 
 Your use of the site may not be for any purpose that may be illegal in South Africa or within the jurisdiction from which you are accessing the site.
 
-You may not introduce viruses or code with destructive or contaminating properties or any-thing of a nature that may damage, place unreasonable burdens on, or interfere with, the op-eration of the site or the systems on which it runs, nor may you attempt to gain access to any restricted areas of the site without BrandsEye's permission.
+You may not introduce viruses or code with destructive or contaminating properties or any-thing of a nature that may damage, place unreasonable burdens on, or interfere with, the op-eration of the site or the systems on which it runs, nor may you attempt to gain access to any restricted areas of the site without BrandsEye’s permission.
 
 You may not collect any information about other users of the site without their consent.
 
