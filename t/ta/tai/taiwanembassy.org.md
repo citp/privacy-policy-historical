@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taiwanembassy.org privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323070444id_/http%3A//www.taiwanembassy.org/content.asp%3Fmp%3D1%26CuItem%3D215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taiwanembassy.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217011313id_/http%3A//www.taiwanembassy.org/content.asp%3Fmp%3D1%26CuItem%3D215) for the most accurate reproduction.*
 
 # Privacy Policy - Document - Overseas Office Republic Of China ( Taiwan ) 中華民國（台灣）駐外單位聯合網站
 
