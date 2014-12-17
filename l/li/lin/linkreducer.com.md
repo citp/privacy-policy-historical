@@ -1,19 +1,88 @@
-> *The following text is extracted and transformed from the linkreducer.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211172245id_/http%3A//linkpayer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkreducer.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217143010id_/http%3A//www.goodposts.com/page/19/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Free Articles Directory | Submit Articles - GoodPosts.com
 
-LinkPayer takes your privacy seriously, the following will clearly explain our privacy policy, addressing issues such as how your information is treated whilst you participate with our services. We suggest you read through our policy before you decide to request a free LinkPayer account, requesting a free LinkPayer account signifies your acceptance of our privacy policy along with our [ Terms and Conditions](https://web.archive.org/web/20090211172245id_/http%3A//linkpayer.com/terms.cfm). We recommend that you periodically review this page as any amendments to our policy will be posted here, continued use of our site constitutes your agreement to any changes posted within our privacy policy. 
+BuxUp Limited we are committed to protecting and respecting your privacy.
 
-**What personally identifiable information do you collect?** In order for you to participate with LinkPayer you must supply personal information including your full name, the name of the payment system you wish to use and the name of the account along with a valid email address. For recovery of your account we also request you select a question, from a selection of available questions and provide an answer to the selected question. 
+This policy (together with our terms of use <http://buxup.co.uk/terms-of-use> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
-**Server Log Files** Our servers may at some time collect information sent from your browser/ISP, such as IP number, the version of your browser, and any other standard information which is sent along with your browsers request for data. This information will be used to help us in the continued development of our web site to allow us to avoid incompatibilities in our code with various browsers. It may also be used to generate reports to allow us to produce demographics, allow us to analyze trends and also assist us in fraud prevention. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is BuxUp Limited of 401 Marshal Building, 3 Hermitage Street, London, W2 1PB (registration number [REG NO.]).
 
-**What personally identifiable information is disclosed to third parties?** LinkPayer does not disclose any of your information to any 3rd parties. 
+This policy only applies to our site. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
 
-**How secure is my personally identifiable information?** LinkPayer will ensure that your information is treated in accordance with this privacy policy, however due to the nature of the Internet it is not possible to guarantee that your data transmission is totally secure. We are unable to fully guarantee the security of any data transmitted between our sites, or stored in our databases, **use of this site is at your own risk.**
+##### INFORMATION WE MAY COLLECT FROM YOU
 
-**How are cookies/sessions used?** Cookies are small text files that allow us to store information on your computer so that we may pass information which we already hold in our database from data supplied by you and/or data which you have entered using our web site. We only retrieve information that was originally stored in the cookie by ourselves, these cookies can not be used to retrieve information from anywhere else on your computer. Our site may not function correctly without the use of the cookies and therefore you must accept these in order to utilize our service. 
+We may collect and process the following data about you:
 
-**Your privacy vs compliance with law** LinkPayer may disclose your personally identifiable information if we believe in good faith that we are required to do so in order to comply with applicable law, a subpoena, or other legal process. LinkPayer may also disclose information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating any policies, or to protect the safety of our users and/or the general public. In addition, LinkPayer may disclose or access personally identifiable information for: administrative purposes; in the context of a sale of the site, the assets or a portion of the assets of Aspire Communication Services, LLC, or for other purposes that we believe are necessary to develop, maintain and improve our products and services. 
+  * Information that you provide by filling in forms on our site Goodposts.com. This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
 
-**What if I have a question about your policies?** If you have any questions about any of our policies please feel to contact us using the '[contact us](https://web.archive.org/web/20090211172245id_/http%3A//linkpayer.com/contact.cfm)' form. If you have already participated with any part of our site we recommend that you delete your account by Logging in and going to profile and do not continue to use our site if you disagree with part of our privacy policy, find it to be unclear or questionable to you, if you have not participated we ask that you do not until you are in full agreement with all of our policies. 
+
+
+##### IP ADDRESSES AND COOKIES
+
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual and we will not collect personal information in this way.
+
+We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to our site. 
+
+
+
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+
+##### WHERE WE STORE YOUR PERSONAL DATA
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+_All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone._
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+##### USES MADE OF THE INFORMATION
+
+We use information held about you in the following ways:
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
+
+
+
+_We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by [post or telephone]._
+
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+
+##### DISCLOSURE OF YOUR INFORMATION
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+##### YOUR RIGHTS
+
+You have the right to ask us not to process your personal data for marketing purposes. We may inform you upon your written request if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can also exercise the right at any time by contacting us at [info@goodposts.com](mailto:info@goodposts.com).
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+##### ACCESS TO INFORMATION
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £100 to meet our costs in providing you with details of the information we hold about you.
+
+##### CHANGES TO OUR PRIVACY POLICY
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. However, we advise that you check this page regularly to keep up to date with any necessary changes.
+
+##### CONTACT
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@goodposts.com](mailto:info@goodposts.com).
