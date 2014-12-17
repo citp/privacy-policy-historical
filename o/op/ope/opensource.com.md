@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419074540id_/http%3A//opensource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217212829id_/http%3A//opensource.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | opensource.com
+# Privacy Policy | Opensource.com
 
 The [Red Hat, Inc. Privacy Statement](http://www.redhat.com/legal/privacy_statement.html "Red Hat, Inc. Privacy Statement") (the “Privacy Statement”) describes how Red Hat treats personal information when you use our products and services, including information collected when you use opensource.com.  By accessing and using opensource.com, you are accepting the practices described in the Privacy Statement, as well as the following privacy practices that are specific to opensource.com:
 
