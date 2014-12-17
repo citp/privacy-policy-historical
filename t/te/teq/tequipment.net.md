@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tequipment.net privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616170820id_/http%3A//www.tequipment.net/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tequipment.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217152402id_/http%3A//www.tequipment.net/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TEquipment.NET
 
-####  + Why We Collect Information
+#### + Why We Collect Information
 
 We collect personal information because it helps us deliver products and services. For example, if you order a product, we need to have information such as your billing address, age, product choice, delivery information, and payment processing information. In addition, your personal information helps us communicate to you our latest products, special offers, and information and events about which you might like to hear. We also collect your personal information to help us design and deliver our website, and to deliver targeted marketing to you. We also may correlate your personal information obtained from you with information from other sources. For example, if you provide us with your personal information, we may cross-check that against information that might be otherwise available through other entities such as when you, or a business with which you are affiliated, seeks to open a credit account with us.
 
-####  + Information We Collect
+#### + What We Collect
 
 The following generally describes the type of information we may collect about you. Those who wish to communicate with us but do not wish to provide personally identifiable information online may contact us through the address or phone numbers provided on our website. However, you should note that if you contact us by phone, or if you contact us via postal mail, you may still be submitting personally identifiable information to us.
 
@@ -16,7 +16,7 @@ General Browsing. We do not automatically collect your home address, email addre
 
 Even if you do not submit personal information through the website, we gather navigational information about where visitors go on the website and information about the technical efficiencies of our website and services (i.e., time to connect to the website, time to download pages, etc.). This information allows us to see which areas of our website are most visited and helps us better understand the user experience. This helps us improve the quality of the website by recognizing and delivering more of the features, areas, and services our visitors prefer. In this process of gathering information, we may collect personally identifiable and non-personally identifiable information (for example, domain type, browser type and version, service provider and IP address, referring/exit pages, operating system, date/time stamp, and click-stream data). We may also create and use electronic records to compile statistics about how our visitors collectively interact with our website.
 
-####  + How We Collect Information
+#### + How We Collect Information
 
 We collect information in three primary ways:
 
@@ -36,7 +36,7 @@ Search Queries on Our Website. We may provide you with options to search for inf
 
 Surveys and contests. From time to time, we may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, email and shipping address) and demographic information (such as postal code, age level). This information will be used to process the contests or surveys and notify the winners and award prizes. If your information gathered via a survey or contest will be used in a manner different from that described in this privacy policy, such use will be detailed in the survey or contest instructions or rules. For example, the instructions or rules will alert you if the information will be shared with anyone in addition to those identified in this privacy policy, such as a third party sponsoring the survey or contest.
 
-####  + How We Collect Information
+#### + The Information We Collect
 
 We use the information we collect in a variety of ways. Generally, using all of the above mentioned, and similar type tools, we may collect, aggregate, and use information from or about you such as data about the type of browser and operating system used, which web pages you view, the time and duration or you vists to our site, the search queries you may use on this site, whether you clicked on any items or links on the site, whether you have clicked on any links in any e-mails sent from us, or third-parties on our behalf, whether you have chosen to opt-out of certain services or information sharing, and whether you have viewed or ordered certain products or services.
 
@@ -48,7 +48,13 @@ We may also use your personally identifiable information to contact you in ways 
 
 Some elements on our website, such as promotional videos, are supplied to us by third parties under contract. We may supply some of the information we collect from you to those third parties so that they can provide those elements for display on the sites. We may share the following information with such third parties: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited prior to clicking through to our site; (c) your browser and platform type; (d) your browser language; (e) the data in any undeleted cookies that your browser previously accepted from us; and (f) the search queries or word look-ups you submit.
 
-####  + Your Choices About The Information We Collect
+#### + Google AdWords Remarketing
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on past visits to TEquipment.NET. Of course, any data collect will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences](https://www.google.com/settings/ads) page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
+
+#### + Your Choices About The Information We Collect
 
 If you do not consent to the way in which we may use your personal information, please do not submit any personal information to us. If you do not wish to receive e-mails about special offers and other promotions from us click the unsubscribe link located in our e-mails. If you do not wish to receive other marketing materials from us and/or if you do not want us to share your personal information with other entities as stated in this privacy policy, please provide us with your exact name and address and advise us that you wish to opt-out for information sharing or receiving information from us or both as the case may be. Please send your opt-out request to the following contacts:
 
@@ -56,11 +62,11 @@ E-mail: [salesteam@tequipment.net](mailto:salesteam@tequipment.net)
 Postal: 205 Westwood Ave.  
 PO BOX 4076
 
-####  + Privacy Of Children Who Visit The Web Site
+#### + Privacy Of Children Who Visit The Web Site
 
 We recognize the importance of children's safety and privacy. The website is not designed to attract children, and is not intended for use by any children under the age of 13. We do not request, or knowingly collect, any personally identifiable information from children under the age of 13.
 
-####  + Your California Privacy Rights
+#### + Your California Privacy Rights
 
 We collect various types of personal information about you during the course of your relationship with us as a customer. Under California law, if you are a resident of California, you may make a written request to us about how we have shared your information with third parties for their direct marketing purposes. In response to your written request, we are allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third party will use such information for its direct marketing purposes.
 
@@ -70,19 +76,19 @@ E-mail: [salesteam@tequipment.net](mailto:salesteam@tequipment.net)
 Postal: 205 Westwood Ave.  
 PO BOX 4076
 
-####  + Visitors To The Website Outside Of The United States
+#### + Visitors To The Website Outside Of The United States
 
 If you are visiting the Website from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you receive from the website will be created on servers located in the U.S., and all information you provide will be maintained on web servers and systems located within the U.S. The data protection laws in the United States and other countries might not be as those in your country. By using this website and/or submitting information to us, you specifically consent to the transfer of your information to the United States to the facilities and servers we use, and to those with whom we may share your information.
 
-####  + Updating Personal Information
+#### + Updating Personal Information
 
 We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please email us at: [orderstatus@tequipment.net](mailto:orderstatus@tequipment.net)
 
-####  + Links
+#### + Links
 
 For your convenience, the website may contain links to other websites. We are not responsible for the privacy practices, advertising, products, or the content of such other websites. None of the links should be deemed to imply that we endorse or have any affiliation with the links.
 
-####  + Security
+#### + Security
 
 We believe in providing a safe and secure experience for all of our online visitors. To that end, we have implemented security measures to protect the information collected from you. We maintain reasonable physical and electronic safeguards designed to limit unauthorized access to your personally identifiable information, and to protect you against the criminal misuse of that information.
 
@@ -90,6 +96,6 @@ We use data encryption technology when transferring and receiving your sensitive
 
 While we use the foregoing security measures to protect your information, please note that no data transmitted over the Internet or stored and utilized for business purposes can be guaranteed to be completely secure. No security measures are perfect or impenetrable. We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on the website will not become publicly available. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
 
-####  + Questions Or Changes In Policy
+#### + Questions Or Changes In Policy
 
 If you have questions or concerns with respect to our privacy policy, you may contact us at techsupport@tequipment.net. We may elect to change or amend our privacy policy; in such event, we will post the policy changes in our privacy policy on the website. If you are concerned about how your personal information is used, please visit our website often for this and other important announcements and updates.
