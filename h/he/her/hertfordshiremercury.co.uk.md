@@ -1,51 +1,85 @@
-> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510013831id_/http%3A//www.hertfordshiremercury.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217062417id_/http%3A//www.hertfordshiremercury.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Hertfordshire News | Local News & Events in Hertford | Latest Sports, Jobs & Business News Hertfordshire Newspaper
+# Hertfordshire Mercury | Privacy Policy
 
-**1.What is covered by the Privacy Policy?**
+Effective from 1 January 2013
 
-\- Your privacy and safety is important to us. We do not collect any more personal information than is necessary for the operation of the Websites. 
+This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site.
 
-\- By using the Websites and submitting your information to us, you consent to the use and disclosure by us of your information as set out in this privacy policy. By sending us your details to post on the Websites, you are deemed to agree to such posting. We may change this privacy policy at any time by posting changes online.
+**Collection Of Personal Information**
 
-This privacy policy does not apply to sites that you access via a link to our Websites; you should check the privacy policies of such sites.
+We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, submit comments to the Site, participate in message boards, blogs and other such user generated content facilities or send emails or text messages to us. Please do not submit your personal information to us if you do not wish us to collect it. 
 
-In this privacy policy "we/us/our" means Iliffe News and Media Limited (company number 00685748) and "the Website" means the websites listed in our Terms of Use.
+**Use of Cookies**
 
-**2\. What security is in place to keep your personal data secure?**   
-We have appropriate security measures in place to prevent unauthorised access to the information you provide, but we cannot guarantee that any information we receive or store electronically is totally secure.
+In addition to personal information you provide, we may also collect information about you automatically when you visit the Site or access content in our electronic communications with you.
 
-**3\. What personal information is collected by us, and do we use cookies?**   
-The information we collect via the Website may include:  
-\- any personal details you provide to us through completing electronic forms and sending emails, such as your name, address and telephone number; and  
-\- data recorded by the Website which allows us to recognise you and your preferred settings. This saves you from re-entering information on return visits to the Website. Such data is recorded locally on your computer through the use of cookies (small test files which contain a unique identification number written to a user's hard disc and read by a server program). Most browsers can be programmed to reject or warn you before downloading cookies and information regarding this may be found in your browser's "help" facility.
+The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site or within electronic communications. A cookie is a small text file that is placed on your computer’s hard drive by your browser. Cookies allow us to identify your computer and find out details about your visit and browsing habits so that we can offer you a more personalised experience and manage, monitor and improve services.
 
-If you post your information on any of our Websites, your information may be collected and processed by other users of the Websites. We have no control over how these users may process your data.
+Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site. **CLICK HERE** for instructions on controlling cookies in the most recent version of Windows Explorer (Users of other browsers should contact their manufacturer for instructions).
 
-**4.Is it possible to access and browse our Website without disclosing personal data?**   
-Yes, some areas of the Website can be accessed without disclosing personal information. However, other services offered by the Websites will ask for personal details. 
+The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
 
-**5\. How do we use the personal information we gather?**   
-Any personal information we collect from the Websites will be used in accordance with the Data Protection Act 1998 and other applicable laws. 
+Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit **<http://www.youronlinechoices.com/uk/>**
 
-Such personal data may be used to provide you with details of our services, to provide marketing information if you indicate that you want to receive such information and to help us analyse site usage in order to develop the Websites and for our general administrative purposes.
+For more detail on our cookies, and on trusted 3rd party companies using cookies on our Site please **click here**
 
-**6\. Do we disclose our users' personal information to third parties?**   
-We will not without your consent sell, share or transfer your personal information to third parties except as set out in this Privacy Policy or that we are required to doby law. Such third parties will not be allowed to use your personal information for their own purposes.
+You can learn more about cookies and how to reject cookies using different types of browser by visiting **[www.allaboutcookies.org](http://www.allaboutcookies.org/)**
 
-We may freely pass your personal information to other companies owned by us. 
-
-We may also pass your personal information to other companies to carry out the purposes set out above. 
-
-**7\. Do you have the right to access and/or change the information we hold about you?**   
-Yes. In order to receive a copy of any information that we currently hold about you or to change such information please send your contact details to the following address:
-
-Herts and Essex Newspapers  
-The Media Centre  
-40 Ware Road  
-Hertford  
-Hertfordshire  
-SG13
+Separate tools are also available for managing local shared objects or ‘Flash cookies’ from the **[Adobe website](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)**. These cookies may be used to manage the effective delivery of services using video or other flash related content. 
 
   
 
+
+For more information on how cookies are used on this site please **[click here](https://web.archive.org/faq.html)**
+
+ **VisualDNA**
+
+VisualDNA's patented image-based profiling tool allows users to take control of their online experience, by providing access to advertisements, content and recommendations localised and personalised to them from across the web. We believe that individuals should be in control of their data, and our ultimate goal is to enable users to decide what information they choose to share and how they would like to benefit. To learn more about how we collect and use information for online advertising, please visit: **<http://visualdna.com/privacy-policy>**
+
+**Use Of Your Information**
+
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation): • Verifying your identity (for example when you return to the Site);  
+• Personalising your visits to the Site to improve the services provided to you;  
+• Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting;  
+• customer service and support;  
+• Enabling you to share our content with others e.g. using our Email a friend and Share this article functionality;  
+• Communicating (and personalising such communication) with you;  
+• Conducting market research; and/or  
+• carrying out technical and statistical analysis to measure the performance of our services and the Site.
+
+**Sharing Your Personal Information**
+
+We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.
+
+Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
+
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. 
+
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
+
+**Message Boards, Blogs and Other Public Forums**
+
+The Site makes message boards, blogs and other such user generated content facilities available to users of the Site and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Site becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Site's Terms and House Rules.
+
+**Email A Friend And Share This Article Facilities**
+
+When you use these facilities and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details. Keeping Your Personal Information Secure.
+
+We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England.
+
+**Accessing Your Personal Information**
+
+If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other queries about this privacy policy, please write to us (including full details of your request) at the following address:
+
+Local World Limited  
+Northcliffe House  
+2 Derry Street  
+London  
+W8 5TT
+
+We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.
+
+**Changes to this Privacy Policy**
+
+If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page.
