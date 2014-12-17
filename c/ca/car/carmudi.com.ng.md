@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmudi.com.ng privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619063227id_/http%3A//www.carmudi.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmudi.com.ng privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225630id_/http%3A//www.carmudi.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY Carmudi Nigeria
 
