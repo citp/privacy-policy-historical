@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628105238id_/http%3A//www.shoecarnival.com/company/privacy.jsp%3Fselpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217030349id_/http%3A//www.shoecarnival.com/company/privacy.jsp%3Fselpage%3Dprivacy) for the most accurate reproduction.*
 
 # Brand Name Shoes and Accessories for Women, Men and Kids: Shoe Carnival
 
