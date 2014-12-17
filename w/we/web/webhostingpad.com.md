@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614161031id_/http%3A//www.webhostingpad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217113046id_/http%3A//www.webhostingpad.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - WebHostingPad.com
 
 ## Privacy Policy 
 
-WebHostingPad respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site www.webhostingpad.com. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use ("TOU") Agreement found at [Terms of Use.](https://web.archive.org/web/20140614161031id_/http%3A//www.webhostingpad.com/terms.html)
+WebHostingPad respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site www.webhostingpad.com. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use ("TOU") Agreement found at [Terms of Use.](https://web.archive.org/web/20141217113046id_/http%3A//www.webhostingpad.com/terms.html)
 
 WebHostingPad does NOT trade, rent or sell your personal information to any other organization or third party.
 
