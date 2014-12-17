@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613013717id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217064139id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
 
 # RepHunter Privacy Policy
 
