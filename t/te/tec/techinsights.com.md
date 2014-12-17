@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105816id_/http%3A//www.techinsights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217010837id_/http%3A//www.techinsights.com/privacy-policy) for the most accurate reproduction.*
 
 # TechInsights Privacy Policy
 
@@ -6,7 +6,7 @@ _Effective April   8, 2013_
 
 Welcome to our website, www.techinsights.com.
 
-TechInsights (“we”)combines the expertise, offerings and reach of three separate companies, Portelligent, Inc.,  Sanguine Microelectronic (Shanghai) Co. Limited and Semiconductor Insights Inc., to provide sophisticated  technical intelligence and intellectual property management services to companies with commercial interests in technology-related industries. 
+TechInsights (“we”) provide sophisticated  technical intelligence and intellectual property management services to companies with commercial interests in technology-related industries. 
 
 This Privacy Notice explains how we collect, use and protect information about you, a technology or legal professional, as you visit the public pages of our websites or use the website to access restricted areas available only to registered clients.  It also covers information we collect about you as you attend any of our face to face events, subscribe for a newsletter or other content, or participate in online seminars and events which we may organize.  We will post a link to the Notice or print its url on web pages and registration forms to which it applies.
 
@@ -82,8 +82,6 @@ We use reasonable administrative, technical and physical safeguards to protect p
 You can help protect the security of your personal information.  Please keep your passwords secure and do not share the use of your account with other individuals.
 
 #### Important Information
-
-Portelligent, Inc., Sanguine Microelectronic (Shanghai) Co. Limited, and Semiconductor Insights, Inc. are subsidiaries of TechInsights. 
 
 We collect and process information on servers around the world.
 
