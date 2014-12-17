@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630163947id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217014517id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Student Doctor Network
 
 [](https://privacy.truste.com/privacy-seal/Coastal-Research-Group/validation?rid=8c36aa89-d7af-400a-8984-7fcf618d7e97 "TRUSTe online privacy certification")
 
-**Privacy Statement**
-
 **Last Updated 10 February 2014**
 
-Coastal Research Group (“The Student Doctor Network” or “SDN”) has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.studentdoctor.net. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact the SDN Director, Lee Burnett at <http://studentdoctor.net/contact-us/>. If you are not satisfied with our response you can [contact TRUSTe here](http://privacy.truste.com/privacy-seal/Coastal-Research-Group/validation?rid=8c36aa89-d7af-400a-8984-7fcf618d7e97).
+Coastal Research Group (“The Student Doctor Network” or “SDN”) has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.studentdoctor.net. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, [please contact the SDN Director](https://web.archive.org/about-sdn/contact-us/ "Contact Us"), Lee Burnett at <http://www.studentdoctor.net/about-sdn/contact-us/>. If you are not satisfied with our response you can [contact TRUSTe here](http://privacy.truste.com/privacy-seal/Coastal-Research-Group/validation?rid=8c36aa89-d7af-400a-8984-7fcf618d7e97).
 
 The Coastal Research Group is the sole owner of the information collected on The Student Doctor Network. This privacy statement describes how Coastal Research Group collects and uses the personally identifiable information you provide on our web site: http://www.studentdoctor.net. The Student Doctor Network collects personally identifiable information from our users at several different points on our Web site.
 
-**Registration**
+#### **Registration**
 
 In order to use some sections of this Web site, you must first complete the registration form and create a user name and password. During registration you are required to give contact information (such as email address and age). We use this information at the time of registration to ensure validity of member registrations.
 
 Protecting the privacy of young children is important to us. We do not knowingly collect or maintain personally identifiable information on our site from persons under 13 years of age. If we learn that a person less than 13 years of age has been collected on our site, then we will take the appropriate steps to delete this account.
 
-**Orders**
+#### **Orders**
 
 **SDN Bookstore**
 
@@ -47,7 +45,7 @@ The Student Doctor Network uses the information described above to do, among oth
 
 Information that you provide while using products such as SDN Forums and SDN Chat is available for all to see. Discretion should be used in entering Personally Identifiable Information within such forums, as it may be collected by third parties. The Coastal Research Group does not actively associate the message content entered by our users in SDN Forums with those users’ registration information. Our server computers will retain this information. It is available for distribution to law-enforcement agencies acting under subpoena power. See “Legal Disclaimer” below.
 
-**Communications from the Site**
+#### **Communications from the Site**
 
 **SDN Forum Notices**
 
@@ -57,7 +55,7 @@ We will occasionally send you email messages from the SDN Forums. We only send i
 
 You may indicate when you register whether or not you would like to receive messages from our Web Administrator as described above.  
 To opt-out of SDN Forum messages, please edit your messaging and notification options at: <http://forums.studentdoctor.net/account/contact-details>  
-Contact us at <http://studentdoctor.net/contact-us/> should you have any trouble administering your account.
+Contact us at <http://www.studentdoctor.net/about-sdn/contact-us/> should you have any trouble administering your account.
 
 **Service-related Announcements**
 
@@ -73,7 +71,7 @@ We store information that we collect through cookies, log files, and clear gifs 
 
 We do not share your individual profile with other third parties. However, we may share information from your profile in aggregate form only with potential or existing advertisers or potential or current partner organizations.
 
-**Information Sharing and Disclosure**
+#### **Information Sharing and Disclosure**
 
 **Aggregate Information (non-personally identifiable)**
 
@@ -119,11 +117,11 @@ Some advertisers use cookies on our site. We have no access to or control over t
 
 We employ, and/or our third party advertising partner, Google, may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-To learn more about Google’s use of clear gifs, please go to [www.google.com](http://www.google.com/).
+To learn more about Google’s use of clear gifs, please go to [www.google.com](https://www.google.com/?gws_rd=ssl).
 
 **Third Party Advertisers**
 
-Some of the ads appearing on this Web site are delivered to users by Google, our advertising partner. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://preferences-mgr.truste.com/) or you may also [opt-out by clicking here](http://preferences-mgr.truste.com/).
+Some of the ads appearing on this Web site are delivered to users by Google, our advertising partner. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://preferences-mgr.truste.com/) or you may also [opt-out by clicking here](http://preferences-mgr.truste.com/).
 
 **Links to Other Sites**
 
@@ -131,7 +129,7 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
-Links from this site are monetized through [skimlinks.com](http://skimlinks.com/). Skimlinks may receive and store certain personally non-identifiable information such as IP addresses, browser types, domain names, and other anonymous statistical data involving your use of the Site, the Software and/or the Services. To opt-out, go to: <http://skimlinks.com/privacy-policy>
+Links from this site are monetized through [skimlinks.com](http://skimlinks.com/). Skimlinks may receive and store certain personally non-identifiable information such as IP addresses, browser types, domain names, and other anonymous statistical data involving your use of the Site, the Software and/or the Services. To opt-out, go to: <http://skimlinks.com/privacy-policy>
 
 This privacy statement applies only to information collected by this Web site.
 
@@ -155,7 +153,7 @@ Our Web site includes Social Media Widgets, such as the Share this button or int
 
 The security of your personally identifiable information is important to us. We follow generally accepted industry standards to protect the personally identifiable information submitted to us. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us through our [contact form](https://help.studentdoctor.net/).
+If you have any questions about security on our Web site, you can contact us through our [contact form](https://web.archive.org/about-sdn/contact-us/ "Contact Us").
 
 **Business Transitions**
 
@@ -177,4 +175,4 @@ Granite Bay, CA 95746
 
 Or use our contact form at:
 
-<https://help.studentdoctor.net/contact-us/>
+<http://www.studentdoctor.net/about-sdn/contact-us/>
