@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dynamiccatholic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084722id_/http%3A//dynamiccatholic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamiccatholic.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217235653id_/http%3A//dynamiccatholic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dynamic Catholic
 
 ### What information do we collect?
 
-We collect information from you when you register on the site, place an order, respond to a survey or communication such as e-mail, or participate in another site feature.
+We collect information from you when you register on the site, place an order, respond to a survey or communication such as email, or participate in another site feature.
 
-When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+When ordering or registering, we may ask you for your name, email address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
 
 We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
 
@@ -16,10 +16,11 @@ Like many websites, we use “cookies” to enhance your experience and gather i
 
 We may use the information we collect from you when you register, purchase products, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-To allow us to better service you.
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you.
+  * To quickly process your transactions. If you have opted-in to receive our email newsletter, we may send you periodic emails. If you would no longer like to receive promotional email from us, please refer to the “How can you opt-out, remove or modify information you have provided to us?” section below. If you have not opted-in to receive email newsletters, you will not receive these emails.
 
-To quickly process your transactions. If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the “How can you opt-out, remove or modify information you have provided to us?” section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails.
+
 
 ### How do we protect visitor information?
 
@@ -29,7 +30,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We contract with third-party service providers, including Google Analytics, to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. We have implemented the demographic and interest reporting functions of Google Analytics Advertising Features to collect additional data.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
@@ -41,9 +42,11 @@ However, non-personally identifiable visitor information may be provided to othe
 
 ### How can you opt-out, remove or modify information you have provided to us?
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the “My Account” section. Please note that due to email production schedules you may receive any emails already in production.
+To modify your email subscriptions, please let us know by modifying your preferences in the “My Account” section. Please note that due to email production schedules you may receive any emails already in production.
 
 To delete all of your online account information from our database, sign into the “My Account” section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+To opt-out of our use of Google Analytics Advertising Feature, visit [Google Ads Settings](http://google.com/settings/ads) or Google Analytics’ [opt-outs for the web](http://tools.google.com/dlpage/gaoptout/).
 
 ### Third party links
 
@@ -51,11 +54,11 @@ In an attempt to provide you with increased value, we may include third party li
 
 ### Changes to our policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on December 16, 2011.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on July 21, 2014.
 
 ### Questions and feedback
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue to info@DynamicCatholic.com or call us at 513-221-7700.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue to info@DynamicCatholic.com or call us at 859-980-7900.
 
 ### Online Policy Only
 
