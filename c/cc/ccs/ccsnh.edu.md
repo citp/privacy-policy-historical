@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccsnh.edu privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622194240id_/http%3A//www.ccsnh.edu/ccsnh-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccsnh.edu privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217182015id_/http%3A//www.ccsnh.edu/ccsnh-privacy-policy) for the most accurate reproduction.*
 
 # CCSNH Privacy Statement - CCSNH
 
