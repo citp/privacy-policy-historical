@@ -1,0 +1,288 @@
+<!--The following is the downloaded HTML source of the kochava.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217164658id_/https%3A//www.kochava.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+	<meta charset="UTF-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcEUFVACQsJV1lUAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+
+	
+
+	<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+	<meta name="viewport" content="width=device-width">
+
+	<!-- Favicon and Feed -->
+	<link rel="shortcut icon" type="image/png" href="https://www.kochava.com/wp-content/themes/reverie-kochava/favicon.png">
+	<link rel="alternate" type="application/rss+xml" title="Kochava Feed" href="https://www.kochava.com/feed/">
+
+	<!--  iPhone Web App Home Screen Icon -->
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.kochava.com/wp-content/themes/reverie-kochava/img/devices/reverie-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.kochava.com/wp-content/themes/reverie-kochava/img/devices/reverie-icon-retina.png">
+	<link rel="apple-touch-icon" href="https://www.kochava.com/wp-content/themes/reverie-kochava/img/devices/reverie-icon.png">
+
+	<!-- Enable Startup Image for iOS Home Screen Web App -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="apple-touch-startup-image" href="https://www.kochava.com/wp-content/themes/reverie-kochava/mobile-load.png">
+
+	<!-- Startup Image iPad Landscape (748x1024) -->
+	<link rel="apple-touch-startup-image" href="https://www.kochava.com/wp-content/themes/reverie-kochava/img/devices/reverie-load-ipad-landscape.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
+	<!-- Startup Image iPad Portrait (768x1004) -->
+	<link rel="apple-touch-startup-image" href="https://www.kochava.com/wp-content/themes/reverie-kochava/img/devices/reverie-load-ipad-portrait.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+	<!-- Startup Image iPhone (320x460) -->
+	<link rel="apple-touch-startup-image" href="https://www.kochava.com/wp-content/themes/reverie-kochava/img/devices/reverie-load.png" media="screen and (max-device-width: 320px)">
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.5 - http://yoast.com/wordpress/seo/ -->
+<title>Privacy Policy - Kochava</title>
+<link rel="canonical" href="https://www.kochava.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Kochava">
+<meta property="og:description" content="GENERAL &nbsp; Kochava, INC (“Kochava”) respects the privacy of its online users and is therefore committed to protecting any information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this web site. The following Kochava privacy …">
+<meta property="og:url" content="https://www.kochava.com/privacy-policy/">
+<meta property="og:site_name" content="Kochava">
+<meta property="article:published_time" content="2014-05-07T06:52:11+00:00">
+<meta property="article:modified_time" content="2014-05-07T06:57:15+00:00">
+<meta property="og:updated_time" content="2014-05-07T06:57:15+00:00">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Kochava » Feed" href="https://www.kochava.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Kochava » Comments Feed" href="https://www.kochava.com/comments/feed/">
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-49380504-1']);
+				            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel="alternate" type="application/rss+xml" title="Kochava » Privacy Policy Comments Feed" href="https://www.kochava.com/privacy-policy/feed/">
+<link rel="stylesheet" id="reverie-foundation-stylesheet-css" href="https://www.kochava.com/wp-content/themes/reverie-kochava/css/app.css" type="text/css" media="all">
+<link rel="stylesheet" id="reverie-stylesheet-css" href="https://www.kochava.com/wp-content/themes/reverie-kochava/css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%7CLora%3A400%2C700%7CDroid+Sans+Mono" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='reverie-ie-only-css'  href='https://www.kochava.com/wp-content/themes/reverie-master/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<script type="text/javascript" src="https://www.kochava.com/wp-includes/js/comment-reply.min.js"></script>
+<script type="text/javascript" src="https://www.kochava.com/wp-content/themes/reverie-master/js/modernizr.js"></script>
+<script type="text/javascript" src="https://www.kochava.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://www.kochava.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<link rel="shortlink" href="https://www.kochava.com/?p=185">
+
+</head>
+
+<body class="page page-id-185 page-template-default antialiased">
+
+<header class="contain-to-grid">
+	<!-- Starting the Top-Bar -->
+	<nav class="top-bar" data-topbar="">
+	    <ul class="title-area">
+	        <li class="name">
+	        	<h1>
+                    <a href="https://www.kochava.com/" title="Kochava" rel="home">
+                        <img src="https://www.kochava.com/wp-content/themes/reverie-kochava/img/kochava-logo-light-small.png">
+                    </a>
+                </h1>
+	        </li>
+			<!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+			<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+	    </ul>
+	    <section class="top-bar-section">
+	    <ul class="right"><li class="divider"></li><li id="menu-item-128" class="menu-item menu-item-main-menu menu-item-make-the-move"><a href="https://www.kochava.com/make-the-move/">Make the Move</a></li>
+<li class="divider"></li><li id="menu-item-21" class="menu-item menu-item-main-menu menu-item-our-platform has-dropdown"><a href="https://www.kochava.com/our-platform/">Our Platform</a>
+	<ul class="dropdown">
+	<li id="menu-item-117" class="menu-item menu-item-main-menu menu-item-performance-and-reliability"><a href="https://www.kochava.com/performance-and-reliability/">Performance and Reliability</a></li>
+</ul>
+</li>
+<li class="divider"></li><li id="menu-item-20" class="menu-item menu-item-main-menu menu-item-company has-dropdown"><a href="https://www.kochava.com/company/">Company</a>
+	<ul class="dropdown">
+	<li id="menu-item-116" class="menu-item menu-item-main-menu menu-item-jobs"><a href="https://www.kochava.com/company/jobs/">Jobs</a></li>
+</ul>
+</li>
+<li class="divider"></li><li id="menu-item-18" class="menu-item menu-item-main-menu menu-item-news"><a href="https://www.kochava.com/news/">News</a></li>
+<li class="divider"></li><li id="menu-item-19" class="menu-item menu-item-main-menu menu-item-support"><a href="https://www.kochava.com/resources/">Support</a></li>
+<li class="divider"></li><li id="menu-item-83" class="menu-item menu-item-main-menu menu-item-contact"><a href="https://www.kochava.com/contact/">Contact</a></li>
+<li class="divider"></li><li id="menu-item-23" class="menu-item menu-item-main-menu menu-item-sign-in"><a href="https://kochava.com/session">Sign In</a></li>
+<li class="divider"></li><li id="menu-item-17" class="menu-item menu-item-main-menu menu-item-sign-up"><a href="https://www.kochava.com/sign-up/">Sign Up</a></li>
+</ul>	    	    </section>
+	</nav>
+    <div id="kv_hero_wrap">
+        <h1>Driving Effective Mobile Ad Spend</h1>
+        <h5>Kochava is a leading mobile attribution and analytics platform,<br>
+            with all the right features to be the only partner you’ll need.</h5>
+        <a href="./our-platform/" class="button radius">Learn More</a>
+        <a href="https://www.kochava.com/sign-up/" class="button radius kv-red">Start Now</a>
+    </div>
+	<!-- End of Top-Bar -->
+</header>
+
+<!-- Start the main container -->
+<div class="container" role="document">
+	<div class="row">
+<!-- Row for main content area -->
+	<div class="small-12 large-8 columns" id="content" role="main">
+	
+				<article class="post-185 page type-page status-publish hentry" id="post-185">
+			<header>
+				<h1 class="entry-title">Privacy Policy</h1>
+							</header>
+			<div class="entry-content">
+				<p><b>GENERAL</b></p>
+<p>&nbsp;</p>
+<p>Kochava, INC (“<b>Kochava</b>”) respects the privacy of its online users and is therefore committed to protecting any information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this web site. The following Kochava privacy policy (“<b>Privacy Policy</b>”) is designed to inform you, as a user of the Website, about the types of information that Kochava may gather about, or collect from you in connection with your use of the Website. It is also intended to explain the conditions under which Kochava uses and discloses that information, and your rights in relation to that information.</p>
+<p><b>INFORMATION COLLECTED</b></p>
+<p>&nbsp;</p>
+<p>“<b>Non-Personally-Identifying Information</b>” is information that, without the aid of additional information, cannot be directly associated with a specific person.</p>
+<p>&nbsp;</p>
+<p>“<b>Personally-Identifying Information</b>,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person.</p>
+<p>&nbsp;</p>
+<p><b>Non-Personally-Identifying Information</b></p>
+<p>&nbsp;</p>
+<p>As a visitor to our site, you can browse our pages without having any personally identifiable information revealed about you. Information we automatically collect via industry standard web log files and other tools includes the URL from which you visited, the page you are visiting, your computer browser information and your IP address. &nbsp;We collect this data on behalf of our customers who hire us to provide services for them.&nbsp; We may share this non-personally identifying information with our customers who hire us to provide services for them.&nbsp; We do not sell raw non-personally identifying information, but we provide it to enable use of the data pursuant to an agreement with our customers.&nbsp; Our customers own and control the data.</p>
+<p>&nbsp;</p>
+<p><b><i>Web Cookies</i></b></p>
+<p>A “<b>Web Cookie</b>” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. Kochava uses Web Cookies to track the pages that users visit during each Website session, both to help us improve users’ experiences and to help us understand how the Website is being used. As with other Non-Personally-Identifying Information gathered from users of the Website, Kochava analyzes and discloses in aggregated form information gathered using Web Cookies, so as to help Kochava, its partners and others better understand how the Website is being used. Kochava does not attempt to link information gathered using Web Cookies to Personally-Identifying Information.</p>
+<p>&nbsp;</p>
+<p>KOCHAVA USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. WEBSITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.</p>
+<p>&nbsp;</p>
+<p><b><i>Web Beacons</i></b></p>
+<p>A “<b>Web Beacon</b>” is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page. Kochava may use Web Beacons on the Website to count users who have visited particular pages and to deliver co-branded services. Web Beacons are not used to access users’ Personally-Identifying Information; they are a technique Kochava may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides.</p>
+<p><b>Personally-Identifying Information</b></p>
+<p>&nbsp;</p>
+<p>As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. There are portions of this web site where we may need to collect Personal-Identifying Information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, e-mail address, and other personal information.</p>
+<p>&nbsp;</p>
+<p>Users of the Kochava.com are under no obligation to provide Kochava with Personally-Identifying Information of any kind, with the caveat that a user’s refusal to do so may prevent the user from using certain Website features.</p>
+<p>&nbsp;</p>
+<p>BY REGISTERING WITH THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY-IDENTIFYING INFORMATION AS DESCRIBED IN THIS “PRIVACY POLICY”.</p>
+<p><b>USE AND DISCLOSURE OF INFORMATION</b></p>
+<p>&nbsp;</p>
+<p>Kochava gathers information on behalf of our customers for the purposes of:</p>
+<p>a) providing you and our customers with custom information about our service offerings that support your business needs;</p>
+<p>b) matching you and our customers with compatible participants in our partner program in the event that we are unable to support your business needs ourselves; and</p>
+<p>c) reviewing your application for employment if you are seeking work.</p>
+<p>We recognize that your information is sensitive and restrict our collection of it to the critical data needed to deliver these services.</p>
+<p>&nbsp;</p>
+<p>If you use the forms on our Site, you may receive emails from us to facilitate your inquiry. You cannot opt out of emails that are necessary to provide our services. Your use of our forms and acceptance of our Terms and Conditions include agreement that we and our partners may use your Personally-Indentifying Information to contact you and deliver information to you.</p>
+<p>&nbsp;</p>
+<p>We may share the Personally-Indentifying Information you provide with other companies we have hired to provide services for us, and those who hire us to provide services for them. These companies – our vendors and customers – are contractually bound to use Personally-Indentifying Information we share with them only to perform the services we have hired them to provide, or that we are hired to provide, and they are prohibited from disclosing the information to anyone else or using it for any other purpose. We do not sell raw personally identifying information, but we provide it to enable use of the data pursuant to an agreement with our customers.&nbsp; Our customers own and control the data.&nbsp;&nbsp; &nbsp;&nbsp;Kochava’s systems allow its customers an option allow you to choose not to enter any personally-identifying information into Kochava’s systems.&nbsp; You can inquire from these customers as to this option, and your rights and obligations in this regard flow from your relationships with those customers.</p>
+<p>&nbsp;</p>
+<p>We may also share the Personally-Indentifying Information you provide with compatible participants in our partner program in the event that we are unable to meet your business needs ourselves.</p>
+<p>&nbsp;</p>
+<p><b><i>Third Party Disclosure</i></b></p>
+<p>Except as stated above, we do not share, sell, or lease Personally-Indentifying Information about you to any third-parties.</p>
+<p>&nbsp;</p>
+<p>Kochava contractually prohibits its contractors, affiliates, vendors and suppliers from disclosing Personally-Identifying Information received from Kochava, other than in accordance with this Privacy Policy. Third parties are under no obligation to comply with this Privacy Policy, with respect to Personally-Identifying Information that users provide directly to those third parties or that those third parties collect for themselves.</p>
+<p>&nbsp;</p>
+<p>It is possible that our business may be merged with or sold to another business entity. During such a transaction, business information is typically one of the assets shared in the combined entity. In the event that this occurs, your Personally-Indentifying Information will be protected by the Kochava privacy policy in effect at the time.</p>
+<p>As a good corporate citizen, Kochava is interested in protecting the community at large. We will release Personally-Indentifying Information to legal authorities when we believe it is appropriate to comply with the law. In addition, Kochava may choose to release information about you to relevant parties in relation to investigations of fraud, piracy or other unlawful activity.</p>
+<p>&nbsp;</p>
+<p><b>LINKS TO OTHER SITES</b></p>
+<p>&nbsp;</p>
+<p>Kochava’s web site may contain links to other sites such as distributors and sales affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. Kochava neither owns nor controls the third-party websites accessible through the Website. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting a third-party, whether by means of a link on the Website or otherwise, and before providing any Personally-Identifying Information to any third party, users should inform themselves of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in those users’ discretion, protect their privacy.</p>
+<p>&nbsp;</p>
+<p><b>INFORMATION OF MINORS</b></p>
+<p><b>&nbsp;</b></p>
+<p>This web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect Personally-Indentifying Information from or about children, and we do not knowingly market our products or services to children.</p>
+<p>&nbsp;</p>
+<p><b>SECURITY OF COLLECTED INFORMATION</b></p>
+<p>&nbsp;</p>
+<p>We maintain strict physical, electronic, and administrative safeguards to protect your Personally-Indentifying Information from unauthorized or inappropriate access. We restrict access to information about you to those Kochava workers and our customers who need to know the information to respond to your inquiry or request. Workers who misuse Personally-Indentifying Information are subject to disciplinary action.</p>
+<p>&nbsp;</p>
+<p><b>ACCESS TO COLLECTED INFORMATION</b></p>
+<p><b>&nbsp;</b></p>
+<p>You may review and update the information that you provide to us through this web site by contacting us as described below.</p>
+<p>&nbsp;</p>
+<p><b>CONTACTING US</b></p>
+<p><b>&nbsp;</b></p>
+<p>If you have any questions about this privacy policy, please use the Contact Us page. We welcome your questions and suggestions about our privacy policy.</p>
+<p>&nbsp;</p>
+<p><b>CHANGES TO THIS POLICY</b></p>
+<p><b>&nbsp;</b></p>
+<p>Please check this privacy policy periodically to inform yourself of any changes. We reserve the right to modify or supplement this privacy policy at any time. The current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the end of this document) and review any changes since the last time you used the site.</p>
+<p><b>This policy is effective as of and was last updated on May 7, 2014</b></p>
+<p>&nbsp;</p>
+			</div>
+			<footer>
+							</footer>
+		</article>
+	
+	</div>
+	<aside id="sidebar" class="small-12 large-4 columns">
+	<article id="text-2" class="panel widget widget_text"><h4>Direct Contact</h4>			<div class="textwidget"><ul>
+<li><strong>Give us a call</strong></li>
+<li>855.KOCHAVA</li>
+<li>855.562.4282</li>
+</ul>
+<ul>
+<li><strong>Mailing Address</strong></li>
+<li>Kochava Inc</li>
+<li>212 N. First Ave. Ste. 300</li>
+<li>Sandpoint, ID 83864</li>
+</ul>
+<strong><a href="/contact/">Contact Form</a></strong>
+</div>
+		</article><article id="text-3" class="panel widget widget_text"><h4>Press Contact</h4>			<div class="textwidget"><ul>
+<li><strong>Melissa Burns</strong>
+</li><li>Mobility Public Relations for Kochava
+</li><li>208.946.4849
+</li><li>kochava@mobilitypr.com
+</li>
+</ul>
+
+<strong><a href="http://mobilitypr.com/clients/kochava" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://mobilitypr.com']);" target="_blank">Visit Our Online Press Kit</a></strong></div>
+		</article><article id="text-4" class="panel widget widget_text"><h4>Kochava Mobile Summit</h4>			<div class="textwidget"><a href="http://kochavamobilesummit.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://kochavamobilesummit.com']);" target="_blank"><img id="kochava_summit_sidebar" src="/wp-content/uploads/2014/03/kv-summit-ad.jpg"></a></div>
+		</article>		<article id="recent-posts-2" class="panel widget widget_recent_entries">		<h4>Recent Posts</h4>		<ul>
+					<li>
+				<a href="https://www.kochava.com/kochava-dubbed-ratings-king-venturebeat/">Kochava Dubbed ‘Ratings King’ by VentureBeat</a>
+						</li>
+					<li>
+				<a href="https://www.kochava.com/kochava-wins-asian-market-named-mobile-measurement-partner-cocos2d-x-game-engine-used-400000-developers/">Kochava Wins Asian Market; Named Mobile Measurement Partner for Cocos2d-x Game Engine Used by 400,000 Developers</a>
+						</li>
+					<li>
+				<a href="https://www.kochava.com/come-meet-with-us-at-ad-tech-and-appnexus-summit/">Come Meet With Us in NYC at ad:tech and AppNexus Summit</a>
+						</li>
+					<li>
+				<a href="https://www.kochava.com/update-kochava-sdk-new-level-engagement/">Update your Kochava SDK for a New Level of Engagement</a>
+						</li>
+					<li>
+				<a href="https://www.kochava.com/kochava-ceo-charles-manning-speak-appsphere-2014/">Kochava CEO Charles Manning to speak at AppDynamics’ AppSphere 2014</a>
+						</li>
+				</ul>
+		</article></aside><!-- /#sidebar -->		
+	</div><!-- Row End -->
+</div><!-- Container End -->
+
+<div class="full-width footer-widget">
+	<div class="row">
+			</div>
+</div>
+
+<footer class="full-width" role="contentinfo">
+	<div class="row">
+		<div class="large-12 columns">
+			<div class="inline-list"><ul><li class="page_item page-item-9 page_item_has_children"><a href="https://www.kochava.com/company/">Company</a><ul class="children"><li class="page_item page-item-95 page_item_has_children"><a href="https://www.kochava.com/company/jobs/">Jobs</a><ul class="children"><li class="page_item page-item-97"><a href="https://www.kochava.com/company/jobs/database-administrator/">Database Administrator</a></li><li class="page_item page-item-101"><a href="https://www.kochava.com/company/jobs/jobs-linux-systems-administrator/">Linux Systems Administrator</a></li><li class="page_item page-item-104"><a href="https://www.kochava.com/company/jobs/jobs-sr-software-engineer/">Sr. Software Engineer</a></li><li class="page_item page-item-106"><a href="https://www.kochava.com/company/jobs/jobs-account-manager/">Technical Account Manager</a></li></ul></li></ul></li><li class="page_item page-item-72"><a href="https://www.kochava.com/contact/">Contact</a></li><li class="page_item page-item-91"><a href="https://www.kochava.com/make-the-move/">Make the Move</a></li><li class="page_item page-item-13"><a href="https://www.kochava.com/news/">News</a></li><li class="page_item page-item-7"><a href="https://www.kochava.com/our-platform/">Our Platform</a></li><li class="page_item page-item-114"><a href="https://www.kochava.com/performance-and-reliability/">Performance and Reliability</a></li><li class="page_item page-item-185 current_page_item active"><a href="https://www.kochava.com/privacy-policy/">Privacy Policy</a></li><li class="page_item page-item-15"><a href="https://www.kochava.com/sign-up/">Sign Up</a></li><li class="page_item page-item-11"><a href="https://www.kochava.com/resources/">Support</a></li><li class="page_item page-item-89"><a href="https://www.kochava.com/terms-of-service/">Terms of Service</a></li><li class="page_item page-item-4"><a href="https://www.kochava.com/">Welcome to Kochava</a></li></ul></div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="large-12 columns">
+			<p>© 2014 Kochava.</p>
+		</div>
+	</div>
+</footer>
+
+<script type="text/javascript" src="https://www.kochava.com/wp-content/themes/reverie-master/js/foundation.min.js"></script>
+
+<script>
+	(function($) {
+		$(document).foundation();
+	})(jQuery);
+</script>
+	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"a4987e5007","applicationID":"1893865","transactionName":"YFxWZUVZDBIEVkReDlkWdVJDUQ0PSkVRUAQ=","queueTime":0,"applicationTime":566,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
