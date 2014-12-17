@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thewalkingdead.com privacy policy that was archived on 2014-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140614145011id_/http%3A//www.thewalkingdead.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thewalkingdead.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217035502id_/http%3A//www.thewalkingdead.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -10,8 +10,10 @@
 <link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/css/additional.css">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/css/lightbox.css">
 <link rel="pingback" href="http://www.thewalkingdead.com/xmlrpc.php">
-
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=478691595514548"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/fallback.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=478691595514548"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    var ajaxurl = "http://www.thewalkingdead.com/wp-admin/admin-ajax.php";
+</script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/fallback.js"></script>
 <script type="text/javascript">
     var templateUrl = 'http://www.thewalkingdead.com/wp-content/themes/thewalkingdead';
 </script>
@@ -20,6 +22,62 @@
 </script>
 <script type="text/javascript">
 
+function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/;domain=.thewalkingdead.com";
+}
+
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
+function eraseCookie(name) {
+    createCookie(name,"",-1);
+}
+
+function homepagevisit(userId, sessionKey)
+
+{
+    console.info("homepagevisit function start");
+    var messageData = new Object();
+    messageData["site"] = "twd";
+    var jsonStr = JSON.stringify(messageData);
+    //var path="loginsubmit";
+    var path = "http://www.thewalkingdead.com/proxy.php?memberId="+userId+"&sessionKey="+sessionKey;
+    $.ajax({
+        type: "POST",
+        dataType: "json",
+        url: path,
+        async: false,
+        contentType: "application/json; charset=utf-8",
+        data: jsonStr,
+        cache:   'false',
+        beforeSend: function(xhrObj){
+            xhrObj.setRequestHeader("Accept","application/json");
+        },
+        success: function (msg) {
+	     console.info("homepagevisit end success");
+            $(".loading").hide();
+            }
+    });
+}
+
+var isFrontPage= 0;
+
+
+
 $(function () {  
 $("#logged_in").hide();
   //        $("#login_register").hide();    
@@ -27,31 +85,58 @@ var twitterAccount = "jquery";
     //var url = "http://stage-web01.sandalbay.com/j.json";
     var url=    "https://accounts.skybound.com/web/cookie.php";
     $.ajax(url, {  
-        dataType: "jsonp",  
+        dataType: "jsonp", 
+	jsonpCallback: 'callback',
+        contentType: "application/json", 
         success: function (data) {  
+		console.log("Success:");
+		console.info(data);
 		callback(data);  
-        }  
+        } ,
+	error: function(e) {
+        console.log("ERROR:"+e.message);
+       } 
     });  
 });  
   
 function callback(data) {  
-  status=false;
-  userId = "";
-  userName="";    
+ var status=0;
+ var userId = "";
+ var userName="";    
   $.each(data, function (i, item) {
                 
         if(i=="userId") 
         {
 	  $("#logged_in").show();
 	  $("#login_register").hide();
-	  $("#user_info").text("HI, "+data['userName'].toUpperCase()+" |");
-           status=true;
+	  $("#user_info").text("HI  "+data['userName'].toUpperCase()+"");
+           status=1;
+          
+	     createCookie("userId",data["userId"],30);
+           createCookie("userName",data["userName"],30);
+	   createCookie("sessionKey",data["sessionKey"],30);
+
+	   if(isFrontPage==1)
+	    {
+		console.info(data);
+	      //call javascript function for home page visit
+		homepagevisit(data["userId"],data["sessionKey"]);
+	    }
+
+
 //           alert("UserId:"+data["userId"]+"  UserName:"+data["userName"]);
         }  
     });
+
+   console.log("STATUS:"+status);
 	
-   if(status==false)
+   if(status==0)
    {
+	console.log("reached");
+	eraseCookie("userId");
+        eraseCookie("userName");
+	eraseCookie("sessionKey");
+
 	$("#logged_in").hide();
           $("#login_register").show();
    }
@@ -81,7 +166,7 @@ function callback(data) {
 <meta name="generator" content="WordPress 3.5">
 
 <!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[663,703] -->
-<link rel="author" href="https://plus.google.com/112340533833139090270">
+<link rel="author" href="admin">
 
 <link rel="canonical" href="http://www.thewalkingdead.com/privacy-policy/">
 <!-- /all in one seo pack -->
@@ -182,7 +267,145 @@ body.custom-background { background-color: #0B0B0B; background-image: url('http:
 #header2 a:active {color:#cc9933;}  /* selected link */
 
 </style>
+<style>
+.arrow-n,
+.arrow-e,
+.arrow-s,
+.arrow-w {
+  /*
+   * In Internet Explorer, The"border-style: dashed" will never be
+   * rendered unless "(width * 5) >= border-width" is true.
+   * Since "width" is set to "0", the "dashed-border" remains
+   * invisible to the user, which renders the border just like how
+   * "border-color: transparent" renders.
+   */
+  border-style: dashed;
+  border-color: transparent;
+  border-width: 0.53em;
+  display: -moz-inline-box;
+  display: inline-block;
+  /* Use font-size to control the size of the arrow. */
+  font-size: 13px;
+  height: 0;
+  line-height: 0;
+  position: relative;
+  vertical-align: middle;
+  width: 0;
+}
 
+.arrow-n {
+  border-bottom-width: 1em;
+  border-bottom-style: solid;
+  border-bottom-color: #666;
+  bottom: 0.25em;
+}
+
+.arrow-e {
+  border-left-width: 1em;
+  border-left-style: solid;
+  border-left-color: #666;
+  left: 0.25em;
+}
+
+.arrow-s {
+    border-top-color: #cc9933;
+    border-top-style: solid;
+    border-top-width: 1em;
+    top: 1px;
+    left: 10px;
+    font-size: 10px;
+}
+
+.arrow-w {
+  border-right-width: 1em;
+  border-right-style: solid;
+  border-right-color: #666;
+  right: 0.25em;
+}
+
+.dropdown
+{
+color: #555;
+margin: 3px -22px 0 0;
+width: 143px;
+position: relative;
+height: 17px;
+text-align:left;
+}
+.submenuProfile
+{
+/*background: #ff8e00;*/
+position: absolute;
+top: 39px;
+left: -14px;
+z-index: 3000;
+width: 204px;
+display: none;
+margin-left: 10px;
+padding: 0px 0 0px;
+/*border-radius: 6px;*/
+border-bottom-left-radius: 6px;
+border-bottom-right-radius: 6px;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+text-align:left;
+}
+.dropdown li a
+{
+//color: #555555;
+display: block;
+font-family: "helvetica_neuerboldcond";
+font-size:16px;
+//font-weight: bold;
+padding: 6px 15px;
+cursor: pointer;
+text-decoration:none;
+color:#fff;
+background:url(images/menuBkg.jpg);
+padding-left:20px;
+}
+
+.dropdown li a:hover
+{
+/*background:#155FB0;*/
+color: #cc9933;
+text-decoration: none;
+/*background:url(images/menuBkg.jpg);*/
+    background: url(http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/doubleArrows.png) no-repeat 0% 50%;
+}
+
+a.account
+{
+font-size: 13px;
+line-height: 16px;
+color: white;
+position: absolute;
+z-index: 3000;
+display: block;
+padding: 11px 0 0 20px;
+height: 28px;
+width: 121px;
+margin: 0px 0 0 16px;
+text-decoration: none;
+background: url(icons/arrow.png) 116px 17px no-repeat;
+cursor:pointer;
+}
+.root
+{
+list-style:none;
+margin:0px;
+padding:0px;
+font-size: 11px;
+padding: 11px 0 0 0px;
+border-top:1px solid #cc9933;
+border-bottom: 1px solid #5d5d5d;
+/*background: url(http://stagetwd.skybound.com/wp-content/themes/thewalkingdead/images/menuBkg.jpg);*/
+background: url(http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/menuBkg.jpg);
+border-bottom-left-radius: 6px;
+border-bottom-right-radius: 6px;
+padding-left:10px;
+
+}
+</style>
 <script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
@@ -210,7 +433,54 @@ googletag.pubads().collapseEmptyDivs();
 googletag.enableServices();
 });
 </script>
+<script>
+jQuery(document).ready(function()
+                        {
+ console.info("ready start");
+    jQuery('.sb-icon-search').mouseover(function()
+    {
+    console.info("icon search mouse over");
+            jQuery('.sb-search-input').show().css({left:jQuery('.sb-search-input').css('width')}).animate({"left":"0px"}, "slow");
+    });
 
+
+    jQuery(".account").click(function()
+    {
+    var X=jQuery(this).attr('id');
+    if(X==1)
+    {
+    jQuery(".submenuProfile").hide();
+    jQuery(this).attr('id', '0');
+    }
+    else
+    {
+    jQuery(".submenuProfile").show();
+    jQuery(this).attr('id', '1');
+    }
+
+    });
+
+    //Mouse click on sub menu
+    jQuery(".submenuProfile").mouseup(function()
+    {
+    return false
+    });
+
+    //Mouse click on my account link
+    jQuery(".account").mouseup(function()
+    {
+    return false
+    });
+
+
+    //Document Click
+    jQuery(document).mouseup(function()
+    {
+    jQuery(".submenuProfile").hide();
+    jQuery(".account").attr('id', '');
+    });
+});
+</script>
 </head>
 <body class="page page-id-150 page-template page-template-privacy-policy-php custom-background singular">
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969785541/?value=0&amp;guid=ON&amp;script=0">
@@ -261,17 +531,34 @@ googletag.enableServices();
             </div>
             <!--Account header info -header - End -->
         </div>
+<div id="logged_in" class="lrborders right headerbg " style="display:none;width:200px;">
 
-        <div id="logged_in" class="lrborders right headerbg ">
-            <!--Account header info -header - Start-->
-            <div class="border-header left accountHeader" style="margin-top: 10px;">
-                <a href="https://accounts.skybound.com/web/login/logout.php?site=twd">
-                    <div class="right" style="padding-right: 5px; padding-left:5px;">
-                        LOGOUT</div></a>
-                <span id="user_info" style="color:#cc9933;padding-left: 5px;"></span>
-            </div>
-            <!--Account header info -header - End-->
-        </div>
+<div class="dropdown" style="color:white;padding-left: 5px;text-align:center">
+<a class="account" style="color: #cc9933;
+    max-width: 500px;
+    min-width: 200px;
+    margin-left: -25px;"><span id="user_info" style="color:#cc9933;padding-left: 5px;"></span><span class="arrow-s">&nbsp;</span></a>
+
+<div class="submenuProfile">
+<ul class="root">
+<li><a href="https://accounts.skybound.com/web/profile/account.php?site=twd">Profile</a></li>
+<li><a href="https://accounts.skybound.com/web/profile/rewards.php?site=twd">Rewards (BETA)</a></li>
+<li><a href="https://accounts.skybound.com/web/login/logout.php?site=twd">Logout</a></li>
+</ul>
+</div>
+
+</div>
+
+<!--        <div id="logged_in" class="lrborders right headerbg ">-->
+<!--            <!--Account header info -header - Start-->
+<!--            <div class="border-header left accountHeader" style="margin-top: 10px;">-->
+<!--                <a href="http://stageaccounts.skybound.com/web/login/logout.php?site=twd" >-->
+<!--                    <div class="right"  style="padding-right: 5px; padding-left:5px;">-->
+<!--                        LOGOUT</div></a>-->
+<!--                <span id="user_info"  style="color:#cc9933;padding-left: 5px;"></span>-->
+<!--            </div>-->
+<!--            <!--Account header info -header - End-->
+<!--        </div>-->
 	</div>
         <nav class="lrborders">
             <ul>
@@ -282,7 +569,7 @@ googletag.enableServices();
             </ul>
         </nav>  
     </div>
-</div>    
+</div>
 <div id="page" class="hfeed ">
 	<header id="branding" class="home">
 		<div id="header">
@@ -309,9 +596,9 @@ googletag.enableServices();
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/ama-with-editor-sean-mackiewicz/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Feat-AMASean.png" alt=""><span>AMA with Editor Sean Mackiewicz</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/happy-fathers-day/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Fathers-Day2014-feat.png" alt=""><span>Happy Father’s Day!</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/robert-kirkman-on-season-5-outcast/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Feat-OutcastInterview.png" alt=""><span>Robert Kirkman on Season 5 &amp; Outcast</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/clementine-unboxed/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/Feat-ClemUnbox.png" alt=""><span>Clementine Unboxed!</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/companion-series-is-located-in/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/the-walking-dead-spinoff-location-feat.png" alt=""><span>Companion Series Takes Place In…</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/this-week-on-twd-com-20/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/this-week-12-12-14.png" alt=""><span>This Week on TWD.com</span></a></div>                                    
                                                                             </div>
                                 </div>
                             </li>
@@ -327,9 +614,9 @@ googletag.enableServices();
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/happy-fathers-day/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Fathers-Day2014-feat.png" alt=""><span>Happy Father’s Day!</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/robert-kirkman-on-season-5-outcast/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Feat-OutcastInterview.png" alt=""><span>Robert Kirkman on Season 5 &amp; Outcast</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-131-and-book-10-covers/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Feat-HC10.png" alt=""><span>The Walking Dead 131 and Book 10 Covers!</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/walking-dead-138-cover-139-cover/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/wd-cover-138-reveal-feat1.png" alt=""><span>New Covers! 138! 139! March is a Double Month!</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-135-discussion/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/issue-135-discussion-feat.png" alt=""><span>The Walking Dead 135 Discussion</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/waking-dead-coffee-shop-now-open/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/waking-dead-feat.png" alt=""><span>Waking Dead Coffee Shop Now Open!</span></a></div>                                    
                                                                             </div>
                                 </div>
                             </li>
@@ -346,9 +633,9 @@ googletag.enableServices();
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/norman-reedus-wins-best-ass-kicker/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Feat-Reedus2.png" alt=""><span>Norman Reedus Wins “Best Ass Kicker”</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/twd-cast-before-they-were-famous-2/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Feat-BeforeFamousPART2.png" alt=""><span>TWD Cast Before They Were Famous</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-could-last-12-seasons/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/08/generic-tv.jpg" alt=""><span>The Walking Dead Could Last 12 Seasons</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/companion-series-is-located-in/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/the-walking-dead-spinoff-location-feat.png" alt=""><span>Companion Series Takes Place In…</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/how-to-bring-beth-back/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/beth-how-to-feat.png" alt=""><span>How to Bring Beth Back</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/poll-will-amc-bring-beth-back/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/Feat-PollBeth.png" alt=""><span>Poll: Will AMC Bring Beth Back?</span></a></div>                                    
                                                                             </div>
                                 </div>
                             </li>
@@ -356,9 +643,9 @@ googletag.enableServices();
                                 <a href="http://www.thewalkingdead.com/galleries/">Galleries</a>
                                 <div class="flyout">
                                     <div class="additional clearfix">
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/photos-from-twd-escape-in-atlanta/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Feat-AtlantaEscape.png" alt=""><span>Photos from TWD Escape in Atlanta!</span></a></div>                                    
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/the-walking-dead-escape-houston-2014/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/04/Feat-Houston.png" alt=""><span>The Walking Dead Escape – Houston 2014</span></a></div>                                    
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/the-walking-dead-escape-baton-rouge-2014/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/04/Feat-Escape.png" alt=""><span>The Walking Dead Escape – Baton Rouge 2014</span></a></div>                                    
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/new-season-5-photos/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/09/Feat-NewStills.png" alt=""><span>New Season 5 Photos!</span></a></div>                                    
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/twd-season-5-stills/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/08/Feat-S5Stills.png" alt=""><span>TWD Season 5 Stills</span></a></div>                                    
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/photos-from-twd-escape-in-minneapolis/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/MinneapolisEscape.png" alt=""><span>Photos from TWD Escape in Minneapolis!</span></a></div>                                    
                                                                             </div>
                                     <div class="submenu">
                                         <ul>
@@ -372,11 +659,11 @@ googletag.enableServices();
                                 <div class="flyout">
                                     <div class="additional clearfix">
                                                                                         
-                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/interview-with-brighton-sharbino-lizzie/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Feat-LeeAnnaBrighton.png" alt=""><span>Interview with Brighton Sharbino (Lizzie)</span></a></div>                                    
+                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/a-look-at-season-5b/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/Feat-Last52.png" alt=""><span>A Look at Season 5B</span></a></div>                                    
                                                                                         
-                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/telltale-203-accolades-trailer/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Feat-TelltaleAccolades203.png" alt=""><span>Telltale 203: Accolades Trailer</span></a></div>                                    
+                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/emily-kinneys-rockstar-music-video/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/Feat-Rockstar.png" alt=""><span>Emily Kinney’s Rockstar Music Video</span></a></div>                                    
                                                                                         
-                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/marquese-scott-dragon-house-perform-at-twd-escape/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/Marquese.png" alt=""><span>Marquese Scott &amp; Dragon House Perform at TWD Escape</span></a></div>                                    
+                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/robert-kirkman-plays-superfight/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/superfight-rober-kirkman-feat.png" alt=""><span>Robert Kirkman Plays Superfight!</span></a></div>                                    
                                                                             </div>
                                     <div class="submenu">
                                         <ul>
@@ -419,10 +706,10 @@ googletag.enableServices();
                                 </div>
                             </li>
                             <li class="shop">
-                                <a href="http://shop.thewalkingdead.com" target="_blank">Store</a>
+                                <a href="http://shop.thewalkingdead.com/collections/thewalkingdead" target="_blank">Store</a>
                                 <div class="flyout">
                                     <div class="additional clearfix">
-                                        <div class="latest"><a href="http://shop.thewalkingdead.com" target="_blank"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/shopflyout.jpg" alt=""><span>The Walking Dead Shop</span></a></div>
+                                        <div class="latest"><a href="http://shop.thewalkingdead.com/collections/thewalkingdead" target="_blank"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/shopflyout.jpg" alt=""><span>The Walking Dead Shop</span></a></div>
                                         <div class="latest"><a href="http://www.thewalkingdead.com/games/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/ShopGameFlyout.jpg" alt=""><span>Games</span></a></div>
                                         <div class="latest"><a href="http://www.comicshoplocator.com" target="_blank"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/comicshoplocator.jpg" alt=""><span>Comic Shop Locator</span></a></div>
                                     </div>
@@ -447,6 +734,7 @@ googletag.enableServices();
 
 
 	<div id="main" class="clearfix">
+
 <style type="text/css">.p_excerpt p a { color: #cc9933;}</style>
 <div class="grid962">
     
@@ -757,4 +1045,4 @@ Updated: November 15, 2012</p>
 
 
 
-</body></html>
+</div></body></html>
