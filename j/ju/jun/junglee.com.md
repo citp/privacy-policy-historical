@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junglee.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627135003id_/http%3A//www.junglee.com/f/1000570153) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junglee.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217170024id_/http%3A//www.junglee.com/f/1000570153) for the most accurate reproduction.*
 
 # Junglee.com – Privacy Notice
 
