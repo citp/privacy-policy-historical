@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideapaint.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606082619id_/http%3A//www.ideapaint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideapaint.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217082819id_/http%3A//www.ideapaint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IdeaPaint™
 
@@ -8,8 +8,8 @@ You can contact IdeaPaint by calling 800.393.5250 or emailing [info@ideapaint.co
 
 IdeaPaint Physical Address:
 
-290 Eliot Street  
-2nd Floor Ashland, MA 01721
+40 Broad Street  
+Boston, MA 02109
 
 IdeaPaint collects and stores information about its customers including, but not limited to: email address, survey results, phone number, credit card number, and billing address. This information is for the sole use of IdeaPaint and used for billing accounts, new product and service notification, and customer support. IdeaPaint does not sell email lists, survey results, or any other customer information and is committed to keeping your information confidential. If you receive email through the IdeaPaint system and wish to opt-out, simply click the “Unsubscribe” link in the footer of the email. To be completely removed from the list that you are a part of, please contact the sender of the email by replying to that email (IdeaPaint may not be the list origin). If you receive an email directly from IdeaPaint and wish to have your name removed from our list, please reply to us at info@ideapaint.com with your request and we will be happy to honor it.
 
