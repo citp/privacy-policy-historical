@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908052836id_/http%3A//www.visanow.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217135049id_/http%3A//www.visanow.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy - VISANOW Global Immigration
+
+## Our Commitment to Privacy
 
 VISANOW is committed to protecting the privacy of all users of our services and to maintaining applicable attorney-client privileges. Please review this policy to understand the steps VISANOW has taken to secure your personal information.
 
-## VISANOW may request personal information for purposes including:
+### VISANOW may request personal information for purposes including:
 
   * Registration
   * Subscribing to our online newsletters
@@ -16,7 +18,7 @@ VISANOW is committed to protecting the privacy of all users of our services and 
 
 VISANOW will not disclose your personal information to any outside party without your consent, except in limited circumstances to our business partners with whom we have established agreements that protect consumer privacy. We take great care to protect your information using best practice and current security standards regarding encryption and data storage. VISANOW has designed our Web Site to ensure the privacy of your personal information.
 
-## Information Collected by VISANOW
+### Information Collected by VISANOW
 
 While navigating our Web Site, we may collect the following information from you to use in our efforts to provide the highest quality products:
 
@@ -28,14 +30,14 @@ While navigating our Web Site, we may collect the following information from you
 
 
 
-## Why We Collect Information
+### Why We Collect Information
 
 VISANOW collects personal and contact information for several reasons. We provide updates on the company as well as US immigration news to registered users. Personal data collected in questionnaires is used on your behalf by VISANOW’s and American Services Network’s staff to prepare and submit petitions, applications and supporting documents to government agencies for the purpose of your immigrant and nonimmigrant benefits. All VISANOW accounts are kept separate from one another and require secure authentication to access personal information.
 
 As a legal services provider, we will submit required information, petitions, applications, and other documents to the appropriate government agencies. Forms and documents related to your case will be completed using the information you have provided through the online questionnaires. Client credit card information will be submitted to VISANOW’s processor merchant account as transactions are made.
 
-## Special Note
+### Special Note
 
 This privacy policy does not extend to any information that is inherent in the operation of the Internet and, therefore, beyond the control of VISANOW. The policy is not to be applied in any manner contrary to applicable law or governmental regulation. VISANOW may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on VISANOW or American Services Network, P.C; and/or (2) protect and defend the property and/or rights of VISANOW and/or American Services Network, P.C., and/or the users of VISANOW and/or American Services Network, P.C., products and services.
 
-Please check this page periodically for changes in our privacy policy.
+_Please check this page periodically for changes in our privacy policy._
