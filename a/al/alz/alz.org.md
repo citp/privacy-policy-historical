@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035534id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217214627id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
 # About This Site | Alzheimer's Association
 
@@ -118,4 +118,4 @@ The Alzheimer’s Association is committed to protecting your privacy when you v
 
 > The Alzheimer's Association uses pixels, or transparent GIF files, to help manage online advertising. 
 
-Last Updated: 01/31/2020 12:57:25 
+Last Updated: 01/31/2020 12:57:30 
