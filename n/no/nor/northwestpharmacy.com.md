@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626200525id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217130006id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,8 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 PRIVACY OFFICER  
 **NorthWestPharmacy.com**  
-c/o 103 – 20560 56th Avenue  
-Langley, BC, V3A 3Y8  
-CANADA   
+Valley Centre  
+PO Box 56056  
+Langley, BC, Canada  
+V3A 8B3   
 
