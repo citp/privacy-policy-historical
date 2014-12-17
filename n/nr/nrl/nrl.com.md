@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602072641id_/http%3A//www.playrugbyleague.com.au/wp-content/uploads/2013/12/NRL-Privacy-Policy-22-10-13-FINAL_SF-Format.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217123126id_/http%3A//www.playrugbyleague.com.au/wp-content/uploads/2013/12/NRL-Privacy-Policy-22-10-13-FINAL_SF-Format.pdf) for the most accurate reproduction.*
 
 # National Rugby League Privacy Policy
 
