@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsoflegends.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608075644id_/http%3A//www.newsoflegends.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoflegends.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217023046id_/http%3A//www.newsoflegends.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # News of Legends » Privacy Policy - League of Legends News and Content
 
