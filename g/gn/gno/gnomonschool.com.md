@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnomonschool.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213095141id_/http%3A//www.gnomonschool.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomonschool.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217092118id_/http%3A//www.gnomonschool.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Gnomon School of Visual Effects | Accredidation
 
@@ -72,6 +72,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the [contact page](https://web.archive.org/web/20140213095141id_/http%3A//www.gnomonschool.com/contact.php).
+If there are any questions regarding this privacy policy you may contact us using the [contact page](https://web.archive.org/web/20141217092118id_/http%3A//www.gnomonschool.com/contact.php).
 
 This policy is powered by Trust Guard.
