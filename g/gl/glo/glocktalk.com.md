@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glocktalk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080716id_/http%3A//www.glocktalk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glocktalk.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083423id_/http%3A//www.glocktalk.com/privacy.php) for the most accurate reproduction.*
 
 # Glock Pistols - Glock Pistol | Glock Talk - Privacy Policy
 
@@ -77,39 +77,36 @@ c/o Outside Hub, LLC
 30800 Telegraph Road, Ste 4805  
 Bingham Farms, MI 48025
 
-|  [](http://www.glocktalk.com/forums/)
-
+|  [](http://www.glocktalk.com/forums/)   
   
-
-
 [Homepage](http://www.glocktalk.com/index.php)  
-[FAQ](http://www.glocktalk.com/forums/faq.php)  
+[FAQ](http://www.glocktalk.com/forums/faq.php?s=c58e181254a9e6a202f3d586523a2d16)  
 [Forums](http://www.glocktalk.com/forums)  
-[Calendar](http://www.glocktalk.com/forums/calendar.php)  
+[Calendar](http://www.glocktalk.com/forums/calendar.php?s=c58e181254a9e6a202f3d586523a2d16)  
 [Advertise](http://www.glocktalk.com/advertising.php)  
 [Gallery](http://www.glocktalk.com/gallery/index.php)  
 [GT Wiki](http://www.glocktalk.com/wiki)  
 [GT Blogs](http://www.glocktalk.com/forums/blog.php)  
 [Social Groups](http://www.glocktalk.com/forums/group.php)  
-[Classifieds](http://www.glocktalk.com/classifieds/index.php)
+[Classifieds](http://www.glocktalk.com/forums/forumdisplay.php?f=14)
 
   
 
 
-**Members:** 196,558 
+**Members:** 200,056 
 
-**Threads:** 824,043 
+**Threads:** 847,039 
 
-**Posts:** 12,001,024 
+**Posts:** 12,502,452 
 
 **Welcome our newest member:  
-tropocowboy **
+Glock94565 **
 
-**Users Currently Online:** 743  
-162 Members  
-581 Guests
+**Users Currently Online:** 613  
+124 Members  
+489 Guests
 
-**Most users ever online:** 2,244   
-Nov 11, 2013 at 16:42   
+**Most users ever online:** 2,672   
+Aug 11, 2014 at 2:31   
   
-All times are GMT -6. The time now is 02:07.
+All times are GMT -6. The time now is 02:34.
