@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemeneither.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610001001id_/http%3A//www.givemeneither.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemeneither.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217021937id_/http%3A//www.givemeneither.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Give Me Neither
 
