@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acsh.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181444id_/http%3A//acsh.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acsh.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217165722id_/http%3A//acsh.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | American Council on Science and Health (ACSH)
+# Privacy Policy - American Council on Science and Health (ACSH)
 
 We keep your personal information private and secure. If you make purchases or donations on [ACSH.org](http://acsh.org/), your name, address, and e-mail will be collected and retained in our records, as appropriate, for the purpose submitted.  However ACSH will never sell, rent, or share your credit card information.  All ACSH donor files are secured and encripted using SSL by VeriSign.
 
