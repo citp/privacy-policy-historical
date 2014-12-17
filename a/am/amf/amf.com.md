@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629011236id_/http%3A//www.amf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217082857id_/http%3A//amf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AMF Bowling Centers
 
 Bowlmor AMF Corp, AMF Bowling Centers Inc. d/b/a Bowlmor AMF Centers, its affiliates and its properties ("Company" or "we," "our," or "us") respects the privacy of our users. This Privacy Policy will tell you how and what information we may receive about you, and how we may use your information when providing you our tools, products and services. Please read this Privacy Policy carefully. Please consult our **[Terms of Use Agreement](https://web.archive.org/terms.aspx "Terms")** for additional terms and conditions that apply to your use of and access to the Site.
 
-1\. How this Privacy Policy Applies
+## 1\. How this Privacy Policy Applies
 
 This Privacy Policy applies to Web sites owned and operated by the Company and the mobile optimized versions of these sites. This Privacy Policy also applies to any other property and application owned or operated by Company ("App") which links to or references this Privacy Policy. Except where expressly noted, statements in this Privacy Policy with respect to our Web sites also apply to our Apps and such other properties.
 
-Our Web sites may contain links to other sites. Please be aware when you visit another Web site (whether through an advertisement, service, link or otherwise). Company is not responsible for the privacy practices of these other sites, nor do we endorse, warrant, recommend or guarantee the services offered through such other sites. You should review the privacy statements of those other Web sites.
+Our Web sites may contain links to other sites. Please be aware when you visit another Web site (whether through an advertisement, service, link or otherwise), Company is not responsible for the privacy practices of these other sites, nor do we endorse, warrant, recommend or guarantee the services offered through such other sites. You should review the privacy statements of those other Web sites.
 
 In connection with the tools, products and services provided through our Web sites, some of the information you provide may constitute Personal Information.  "Personal Information" means non-public information that can identify you individually on a personal basis.  Also, some information we receive through such tools, products and services may be non-Personal Information. You are responsible for ensuring the accuracy of information you provide to the Company. Inaccurate information may affect the information you receive when using such tools, products and services.
 
-2.  Non-Personal Information
+## 2\. Non-Personal Information
 
 We may receive non-Personal Information about you as follows:
 
@@ -62,7 +62,7 @@ The paragraphs described above outline some of our uses of non-Personal Informat
 
 We may also use and share non-Personal Information in the same manner as our use of Personal Information described below and in connection with our business (e.g., our third party contractors, agents and representatives may help us utilize cookies and web beacons, and store/handle non-Personal Information).
 
-3\. Personal Information
+## 3\. Personal Information
 
 We may receive Personal Information which you provide to us including, as follows:
 
@@ -104,45 +104,45 @@ Correspondence You Send
 
 This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to us in any correspondence (including by email or mail). We retain all information in your correspondence. Information from your correspondence will not be subject to these privacy terms. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email or mail to us.
 
-4\.  De-Identified Data
+## 4\. De-Identified Data
 
 We may receive information about you or others on your behalf under this policy and create de-identified data to help us in our business and operations and for purposes permitted under law. De-identified data will never contain Personal Information protected by law. De-identified data may be transferred, disclosed, assigned, leased, licensed, sold and otherwise shared with and by our partners, service providers, advertisers and/or other third parties for purposes permitted under law.
 
-5\. Children
+## 5\. Children
 
 We are committed to protecting the privacy of children. Neither Company nor any of its services are designed or intended to attract children under the age of 13. We do not collect Personal Information from any person we actually know is under the age of 13\. Although not recommended, a parent or guardian, however, may use our Web Sites for the benefit of a minor. The parent or guardian is solely responsible for providing supervision and care of the use for the benefit of such minor. The parent or guardian assumes full responsibility for ensuring that any information shared is kept secure and that the information submitted is accurate. The parent or guardian also assumes full responsibility for the interpretation and use of any information or tools provided through us.  Any parent or guardian may review and delete such information by contacting us at the information below. 
 
-6.  Accuracy and Security of Personal Information
+## 6\. Accuracy and Security of Personal Information
 
 Any Personal Information you provide to us is kept on secure servers. We use commercially reasonable administrative, technical, personnel, and physical measures (a) to safeguard Personal Information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the Personal Information. To help us protect your privacy, you should maintain the secrecy of any logon ID and password required from time to time (if any) which you may have set up in connection with your receipt of our tools, products or services.  We are committed to adhering to all laws pertaining to privacy applicable to us.
 
 We update and test our security technology on an ongoing basis. We restrict access to your Personal Information to our personnel who need to know that information to provide benefits or services to you.  In addition, we train our personnel about the importance of confidentiality and maintaining the privacy and security of your Personal Information. We commit to taking appropriate disciplinary measures to enforce our privacy responsibilities, however we make no representation, warranty or guarantee on the reliability, sufficiency, suitability, quality, completeness, adequacy, or currency of any security practices.  Transmission of information through mail, email, SMS or other means may not always be secure though we use commercially reasonable measures to secure delivery. 
 
-7\.  Accessing and Updating Your Personal Information
+## 7\. Accessing and Updating Your Personal Information
 
 To access, review, rectify, or delete Personal Information collected about you, please contact us. All requests must include the following information: first name, last name, e-mail address, and known location of Personal Information controlled by us. While we try our best to accommodate your request, we reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws, and not all information is removable.
 
-8\.  Transfer of Personal Information To Other Countries
+## 8\. Transfer of Personal Information To Other Countries
 
 Information under this Privacy Policy may be transferred to various countries around the world that may have varying legal protections than your country. By submitting your information to us, you consent to such transfers. By using and/or participating in our tools, products and services, or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
 
-9\.  Links To Third-Party Web Sites
+## 9\. Links To Third-Party Web Sites
 
 This Privacy Policy only addresses our use and disclosure of your information. We may provide links to third-party Web sites. We do not control third-party sites and are not responsible for any information you may provide while on such sites.  We are not liable for their use or misuse of your information. You should read the privacy policies on those Web sites before providing any of your information on such sites.
 
-10\.  Legal Notice and Disclaimer
+## 10\. Legal Notice and Disclaimer
 
 Our tools, products and services (to which this Privacy Policy may be linked or referenced) are provided by us for convenience to users. References herein to any product, process or service do not constitute or imply endorsement, warranty, guarantee or recommendation by us, nor does it constitute a formal offer, binding obligation or agreement to provide such product, process or service under any circumstances. While we make every effort to present accurate and reliable information on our Web site, Apps, and other tools, products and services, we do not approve or certify such information nor do we guarantee, warrant or represent the legality, accuracy, authenticity, reliability, sufficiency, truth, suitability, quality, validity, timeliness, completeness, adequacy, currency of any such information. Use of such information is voluntary and reliance on it should only be undertaken after an independent review of its legality, accuracy, authenticity, reliability, sufficiency, truth, suitability, quality, validity, timeliness, completeness, adequacy, currency with regard to a user's specific needs and uses. Company (including its employees and agents) is not responsible for, and expressly disclaims all liability for, damages of any kind arising out of use, reference to or reliance on the information available through its tools, products, and services which this Privacy Policy is linked or referenced. No approvals, recommendations, endorsements, guarantees or warranties, including, but not limited to, any express or implied warranties of merchantability or fitness for any particular use or purpose of tools, products or services provided by Company.
 
-11\.  Conditions on Use
+## 11\. Conditions on Use
 
 By using Company's tools, products, and services which this Privacy Policy is linked or referenced, you agree to the terms and conditions contained in this Privacy Policy, Company's Terms of Use, and any other agreement that we might have with you concerning the use herein. If you do not agree to any of these terms and conditions, you should not use such tools, products or services. If you have entered into another agreement with us about the confidentiality of your information, that agreement will control if there is a conflict. You agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of New York. You also agree to arbitrate such disputes in New York County, New York, and to abide by any limitation on damages contained in any agreement we may have with you (including the Company's Terms of Use).
 
-12\.  Questions Regarding This Privacy Policy
+## 12\. Questions Regarding This Privacy Policy
 
-If you have questions regarding this Privacy Policy, please contact us at [info@bowlmor.com](mailto:info@bowlmor.com) or by mail at Bowlmor AMF Centers, 222 West 44th Street, New York, New York  10036.
+If you have questions regarding this Privacy Policy, please contact us at [customerservice@amf.com](mailto:customerservice@amf.com) or by mail at AMF Corporate, 7313 Bell Creek Rd., Mechanicsville, VA 23111.
 
-13\.  Modifications To This Privacy Policy
+## 13\. Modifications To This Privacy Policy
 
 Company reserves the right to change this Privacy Policy for any reason at any time without notice to you other than by posting revisions accessible to you and on our Web site. Such changes will be effective upon posting and apply to all user information. You should check our Web site frequently to see the current Privacy Policy that is in effect and any changes that may have been made to it. The provisions contained herein supersede all previous notices or policies regarding our privacy practices and the terms and conditions that govern the use of this Web site.
 
