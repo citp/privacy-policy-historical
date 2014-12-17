@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626181752id_/http%3A//www.specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217044349id_/http%3A//www.specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Special Olympics: Privacy Policy
 
@@ -47,14 +47,14 @@ Special Olympics may use agents and contractors in order to help operate the Net
 
 Last Updated November, 2 2012
 
-#### Support Special Olympics
+#### Your Donation Matters
 
-Help us reach more athletes in Africa and bring the power of sports to their lives.
+Special Olympics transforms athletes’ lives through the joy of sport. Help us make a difference.
 
-[DONATE»](https://secure.specialolympics.org/site/c.mlIYIjNZJuE/b.8990939/k.5B59/Help_Us_Make_a_Difference.htm?region=af "DONATE SECURELY ONLINE")
+[DONATE TODAY»](https://secure.specialolympics.org/site/c.mlIYIjNZJuE/b.5140039/k.1802/Give_the_Power_of_Sport_to_One_More_Person/apps/ka/sd/donorcustom.asp?BeneficiaryID=SO999 "DONATE TODAY")
 
-#### Get Involved Near You
+#### Volunteer Near You
 
 Volunteering with Special Olympics is fun and very rewarding, for both the athlete and the volunteer!
 
-[Learn More»](https://web.archive.org/Regions/africa/_Region-Front/Africa.aspx "Learn More")
+[LEARN MORE»](http://www.specialolympics.org/volunteers.aspx)
