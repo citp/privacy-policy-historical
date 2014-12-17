@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the greenchildmagazine.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610151905id_/http%3A//www.greenchildmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenchildmagazine.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217155516id_/http%3A//www.greenchildmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Green Child Magazine
-
-_This post may contain affiliate links._
 
 [](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenchildmagazine.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
