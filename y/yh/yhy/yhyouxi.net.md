@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yhyouxi.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075523id_/http%3A//yhyouxi.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yhyouxi.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217141024id_/http%3A//yhyouxi.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy - yhyouxi play free online games
+# privacy - yhyouxi play free online games
 
 ## Privacy
 
@@ -24,14 +24,14 @@ We may just send a single message contains some updates to you every month, and 
 
 #### Log Files:
 
-Like many other Web sites, www.yhyouxi.net makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user��s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, www.yhyouxi.net makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 #### DoubleClick DART cookie:
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
 **Helpful links:**  
-[Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/)  
-[Network Advertising Initiative](http://www.networkadvertising.org/)
+Google ad and content network privacy policy  
+Network Advertising Initiative 
 
 #### Cookies and Web Beacons:
 
@@ -43,8 +43,8 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 We have no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.yhyouxi.net's privacy policy does not apply to, and we cann't control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.yhyouxi.net privacy policy does not apply to, and we cann't control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser's respective websites. 
 
-You can contact us at **support@yhyouxi.net**
+You can contact us at 
