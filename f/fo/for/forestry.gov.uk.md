@@ -1,23 +1,12 @@
-> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627034821id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217183307id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
 
 # Forestry Commission - Privacy Policy
 
 This page explains how we use any information you give to us through our website, and the ways in which we protect your privacy.
 
-  * The Data Protection Act
-  * Cookies
-  * Log files
-  * Other information we collect
-  * Links to other sites
-  * Contact us
-
-
-
 ## The Data Protection Act
 
 The Forestry Commission is a data controller under the Data Protection Act. Under the Act, we have a legal duty to protect any information we collect from you. We safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or other government department (except to process on our behalf) unless you give us permission to do so.
-
-Back to top
 
 ## Cookies
 
@@ -28,7 +17,11 @@ When we provide services, we want to make them easy, useful and reliable. Where 
 These pieces of information are used to improve services for you through, for example:
 
   * enabling a service to recognise your device so you don't have to give the same information several times during one task
+  
+
   * recognising that you may already have given a username and password so you don't need to do it for every web page requested
+  
+
   * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast
 
 
@@ -139,11 +132,11 @@ Back to top
 
 We collect different kinds of information from visitors to our website:
 
-  * Feedback;
-  * Calls to our helpdesk;
-  * Requests for information; 
-  * Consultation responses;
-  * Registration details for some areas of the site; 
+  * feedback
+  * calls to our helpdesk
+  * requests for information 
+  * consultation responses
+  * registration details for some areas of the site 
 
 
 
@@ -189,9 +182,7 @@ You can change your registration information by contacting us. If you wish to se
 
 e-mail: [webmaster@forestry.gsi.gov.uk](mailto:webmaster@forestry.gsi.gov.uk)
 
-0131 314 6555
-
-The Webmaster  
+Webmaster  
 Communications Branch  
 Forestry Commission  
 231 Corstorphine Road  
@@ -199,8 +190,10 @@ Edinburgh
 EH12 7AT  
 United Kingdom
 
+T: 0300 067 5053
+
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
 Back to top
 
-Last updated: **01/29/2014**
+Last updated: **12/04/2014**
