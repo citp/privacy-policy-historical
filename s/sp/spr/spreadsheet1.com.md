@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadsheet1.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114836id_/http%3A//www.spreadsheet1.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadsheet1.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033546id_/http%3A//www.spreadsheet1.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Spreadsheet1 - Excel Data Analytics
 
@@ -73,9 +73,7 @@ If you have any questions about this Privacy Policy, the practices or your deali
 Esoteric Consulting Ltd  
 Company Number 08236584  
 Registered in England & Wales, UK.  
-7/14 Station Point Old  
-Station Way  
-Eynsham  
-Oxford OX29 4TL  
+1 Abbey St  
+Eynsham, OX29 4TB  
 United Kingdom  
 Tel: +44 203 286 1150
