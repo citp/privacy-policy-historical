@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sen.com.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628170735id_/http%3A//www.sen.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sen.com.au privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225450id_/http%3A//www.sen.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,17 +12,17 @@ This policy was last updated on 20 January 2013.
 
 Pacific Star gathers information for a number of commercial and operational purposes, enabling us to improve the nature of the services we provide and to facilitate your interaction with us.
 
- **1\. COLLECTION OF INFORMATION**
+**1\. COLLECTION OF INFORMATION**
 
- **a. What Information We Collect**
+**a. What Information We Collect**
 
 In general the personal information we collect about you includes (but is not limited to) your name, contact details (phone numbers, email address, postal address) and in appropriate circumstances financial information such as credit card details if necessary to facilitate a financial transaction with you.
 
- **b. Why We Collect Personal Information**
+**b. Why We Collect Personal Information**
 
 We collect your PI to provide you with products and services and to administer our relationship with you. We also collect PI for marketing purposes and to provide you with information about special events, products and services (both our own and those of other companies) that may be of interest to you. We may state a more specific purpose at the time we collect your information at our discretion. Without this information being collected we may not be able to provide you with our products and services.
 
- **c. How We Collect Personal Information**
+**c. How We Collect Personal Information**
 
 We primarily collect PI directly from you through written, electronic and/or verbal means of communication when you interact with us including, but not limited to:
 
@@ -44,9 +44,9 @@ We may also collect anonymous information through the use of cookies on our webs
 
 If at any time you provide personal or other information about someone other than yourself, you warrant that you have that person’s consent to provide such information for the purpose specified.
 
- **2\. USE AND DISCLOSURE**
+**2\. USE AND DISCLOSURE**
 
- **a. Use**
+**a. Use**
 
 By submitting your PI to us you consent to us using your PI in the following ways and for the following purposes:
 
@@ -82,7 +82,7 @@ If you do not wish to receive marketing or other communications from us, please 
 
 If you provide us with your mobile telephone number, email address, IM address or other such personal information, you authorise us to send you promotional messages related to our products and services and the products and services that we promote. Such messages will be accompanied by a functional unsubscribe facility.
 
- **b. Disclosure**
+**b. Disclosure**
 
 We may disclose PI with Pacific Star affiliates and our related companies (in accordance with this Privacy Policy).
 
@@ -104,35 +104,35 @@ Where we hold promotions in conjunction with other companies, we will offer you 
 
 We cannot be held responsible for any misuse or unauthorised disclosure of your PI by these third parties. We generally advise you not to publish or communicate personal information, or at least to limit the personal information that you publish or communicate, to the public via our services, platforms or interactive forums. You acknowledge that by disclosing personal information on those services, platforms and interactive forums you are accepting that we cannot control any third party collection of that information.
 
- **3\. DATA QUALITY**
+**3\. DATA QUALITY**
 
 We take reasonable steps to ensure that the PI we collect, use or disclose is accurate, complete and up-to-date. If your PI is incorrect or changes, please contact us on the details below so that we can update your PI and continue providing you with our services.
 
- **4\. DATA SECURITY**
+**4\. DATA SECURITY**
 
 Your PI is stored in a number of secure computer storage facilities and paper based files, and in other records. We have taken precautions to ensure that your PI is protected from misuse, loss and unauthorised access, modification or disclosure.
 
 Once we no longer need your PI, we take reasonable steps to destroy or de-identify your PI.
 
- **5\. INFORMATION REGARDING THIS POLICY**
+**5\. INFORMATION REGARDING THIS POLICY**
 
 If you have any questions whatsoever on our handling of your PI or the kind of PI we hold about you please contact us on the details below and we will endeavour to assist you with your request.
 
- **6\. ACCESS AND CORRECTION**
+**6\. ACCESS AND CORRECTION**
 
 You generally have the right to access your personal information and we will provide you with a copy of any personal information we hold on request. The NPPs set out some circumstances in which we are not required to provide you with such access. If you ask for your PI and any of these circumstances apply, we may, if reasonable, agree with you on an intermediary which would allow sufficient access to your PI to meet your needs.
 
 We may charge a fee for retrieving PI, in which case we will inform you of the fee in advance of providing the information.
 
- **7\. IDENTIFIERS**
+**7\. IDENTIFIERS**
 
 As required by the NPPs, we do not collect or use Commonwealth government identifiers when interacting with you.
 
- **8\. ANONYMITY**
+**8\. ANONYMITY**
 
 Where practical, you may deal with us on an anonymous basis. In some instances, because of the services we provide, if you do not provide us with your PI we may not be able to provide you with the requested product or service (for example, if we require your details in connection with a competition we are running, we cannot provide you with a prize should you be a prize winner and we cannot contact you).
 
- **9\. SENSITIVE INFORMATION**
+**9\. SENSITIVE INFORMATION**
 
 Sensitive information includes information about your race or ethnic origins, political opinions, religious or philosophical beliefs, trade union membership, or details of health, disability or sexual activity or orientation. We rarely ask for sensitive information, but may do so occasionally, for example, as part of a competition, promotion or survey. We will not require you to provide sensitive information unless:
 
@@ -140,12 +140,12 @@ Sensitive information includes information about your race or ethnic origins, po
 
 (b) the collection of the information is specifically authorised or required by law.
 
- **10\. OPTING IN AND OUT**
+**10\. OPTING IN AND OUT**
 
 At the point we collect information from you, you may be asked to ‘opt-in’, that is, to provide your consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. You will generally be given the opportunity to ‘opt out’ from communications to you in accordance with this policy.
 
 If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at the address set out below.
 
- **11\. CONTACT US**
+**11\. CONTACT US**
 
 If you have any queries about this Privacy Policy, please contact Pacific Star's Privacy Officer by mail at 473-479 Swan St, Richmond, Victoria, 3121.
