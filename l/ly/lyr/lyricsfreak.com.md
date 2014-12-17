@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsfreak.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221095853id_/http%3A//www.lyricsfreak.com/about/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsfreak.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217032803id_/http%3A//www.lyricsfreak.com/about/privacy_policy.htm) for the most accurate reproduction.*
 
 # LyricsFreak - (A-Z Song Lyrics)
 
