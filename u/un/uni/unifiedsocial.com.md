@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unifiedsocial.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623043145id_/http%3A//www.unifiedsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unifiedsocial.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217021033id_/http%3A//www.unifiedsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unified Social
 
@@ -26,7 +26,7 @@ As part of the services of our Platform, we obtain information, which may includ
 
 Our Clients use cookies in conjunction with Web beacons. We also use cookies and web beacons or pixels. A pixel is a line of code which is used by a website or ad server to track activity. The use of a pixel allows us to record that a user has visited a particular webpage along with additional Non-PII that the website publisher or advertiser may choose to include with that pixel.
 
-If you'd like to opt-out from having us collect your information in connection with our Platform, please click here. When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your information to help us tailor our Clients' online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. You may also opt out by disabling cookies in your browser. Please note that cookies are used for a variety of reasons, not just targeting advertising, so this may adversely impact your overall online experience.
+If you'd like to opt-out from having us collect your information in connection with our Platform, please contact [support@unifiedsocial.com](mailto:support@unifiedsocial.com). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your information to help us tailor our Clients' online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. You may also opt out by disabling cookies in your browser. Please note that cookies are used for a variety of reasons, not just targeting advertising, so this may adversely impact your overall online experience.
 
 ## GENERAL PRACTICES
 
@@ -52,6 +52,6 @@ For questions or concerns relating to privacy, please send us an email at suppor
 
 ## Changes to this Privacy Policy
 
-We may update this Policy at any time. The latest version of this Policy will always be available at http://www.unifiedsocial.com/privacy-policy/. Please check this page occasionally to make sure you are aware of any updates.
+We may update this Policy at any time. The latest version of this Policy will always be available at privacy-policy/. Please check this page occasionally to make sure you are aware of any updates.
 
 _Last revised April 2013. Copyright © 2011 Unified Social, Inc. All Rights Reserved_
