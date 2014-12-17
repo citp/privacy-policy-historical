@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenfreebies.ca privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220135243id_/http%3A//signup.womenfreebies.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenfreebies.ca privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217142756id_/http%3A//signup.womenfreebies.ca/privacy.php) for the most accurate reproduction.*
 
 # WomenFreebies.ca | Privacy
 
@@ -68,13 +68,3 @@ By using our site, you consent to our web site privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 ## Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-[http://womenfreebies.ca](http://womenfreebies.ca/)  
-1338 Wellington Street West, Unit 200  
-Ottawa, ON K1Y 3B7  
-Canada
-
-Email: [sarah@womenfreebies.ca](mailto:sarah@womenfreebies.ca)  
-Phone: (613) 592-6642
