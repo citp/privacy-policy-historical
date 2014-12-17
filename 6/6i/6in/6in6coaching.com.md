@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6in6coaching.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175239id_/http%3A//6in6coaching.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6in6coaching.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217063755id_/http%3A//6in6coaching.com/privacy.php) for the most accurate reproduction.*
 
 # 6in6Coaching.com Privacy Policy
 
