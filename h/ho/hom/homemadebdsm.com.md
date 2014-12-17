@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613031514id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083757id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # HOMEMADE BDSM - Privacy Statement
 
@@ -27,4 +27,4 @@ By using the web site or any services provided through the web site, you express
 
 **Support**
 
-homemadebdsm.com provides email support for users who purchase the software at our Helpdesk. homemadebdsm.com does not currently provide telephone support. If you have any questions or concerns about this Privacy Policy or our information handling practices, please [contact us](https://web.archive.org/web/20140613031514id_/http%3A//www.homemadebdsm.com/contact.php) through email. We will do our best to respond to your inquiry within four business days.
+homemadebdsm.com provides email support for users who purchase the software at our Helpdesk. homemadebdsm.com does not currently provide telephone support. If you have any questions or concerns about this Privacy Policy or our information handling practices, please [contact us](https://web.archive.org/web/20141217083757id_/http%3A//www.homemadebdsm.com/contact.php) through email. We will do our best to respond to your inquiry within four business days.
