@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheeloffortune.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526111333id_/http%3A//www.sonyrewards.com/en/footer/privacy_legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheeloffortune.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217032225id_/http%3A//www.sonyrewards.com/en/footer/privacy_legal) for the most accurate reproduction.*
 
 # SonyRewards | Privacy Policy
 
