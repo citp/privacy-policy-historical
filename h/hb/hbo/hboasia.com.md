@@ -1,51 +1,102 @@
-> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805201909id_/http%3A//www.hboasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217030202id_/https%3A//hboasia.com/HBO/en-sg/about/privacy) for the most accurate reproduction.*
 
-# Welcome to HBO Asia
+# Privacy And Data Protection Policy - HBO Asia
 
-## HBOAsia.com Privacy Policy
+Thank you for visiting the _HBO Asia_ site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site.
 
-Thank you for visiting the HBO Asia site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site.
+By interacting with us, submitting information to us, or requesting/signing up for any of our products, programs and/or services, you agree and consent to Home Box Office (Singapore) Pte Ltd and its related companies (collectively referred to herein as " _HBO Asia_ ", " _us_ ", " _we_ " or " _our_ ") collecting, using, disclosing and sharing amongst ourselves your Personal Data, and disclosing such Personal Data to our authorised service providers and relevant third parties in the manner set forth in this Policy.
 
-### The Information We Collect
+This Policy supplements but does not supersede nor replace any other consents you may have previously provided to HBO Asia in respect of your Personal Data, and your consents herein are additional to any rights which we may have at law to collect, use or disclose your Personal Data.
 
-At our site, you can enter contests, vote in polls or otherwise express an opinion, or subscribe to one of our services such as our e-newsletters. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, age, and information about your interests in and use of various programs, and services.
+Personal Data
 
-### How We Use the Information
+In this Policy, "Personal Data" refers to any personally identifiable data, whether true, or not, about an individual who can be identified (a) from such data, or (b) from such data and/or other information to which we have or are likely to have access, including data in our records which may be updated from time to time.
 
-We may use the information you provide about yourself to fulfill your requests for our programs and services, to respond to your inquiries about our offerings, and to offer you other programs or services that we believe may be of interest to you.
+Examples of such Personal Data you may provide to us include (depending on the nature of your interaction with us) your name, identification/passport number, mailing address, email address, telephone number(s), network data, age, information about your interests in and use of various products, programs and/or services and any other information relating to any individuals which you have provided us in any forms you may have submitted to us, or via other forms of interaction with you.
+
+Collection of Personal Data
+
+At our site, we collect Personal Data in the following ways:
+
+(a) when you enter contests, vote in polls or otherwise express an opinion;  
+(b) when you subscribe to one of our services such as our e-newsletters;  
+(c) when you request that we contact you, be included in an email or other mailing list;  
+(d) when you respond to our promotions, initiatives or to any request for additional Personal Data;  
+(e) when you are contacted by, and respond to, our sales and marketing representatives; and  
+(f) when you submit your Personal Data to us for any other reasons. 
+
+If you provide us with any Personal Data relating to a third party (e.g. information of your spouse, children, parents, and/or employees), by submitting such information to us, you represent to us that you have obtained the consent of the third party to provide us with their Personal Data for the respective purposes.
+
+You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with the products, programs and/or services you have requested.
+
+Use and Disclosure of Personal Data
+
+We may use the information you provide about yourself to fulfill your requests for our products, programs and/or services, to respond to your inquiries about our offerings, and to offer you other products, programs and/or services that we believe may be of interest to you, and/or in relation to any marketing and/or promotional activities with respect to our products, programs and/or services.
 
 We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to conduct a survey, poll or research, to fulfill a request by you for our e-newsletter, or to contact you about your account with us.
 
-The information we collect in connection with our online community is used to provide an interactive experience. We use this information to facilitate participation in this online community and, from time to time, to offer you programs or services.
+The information we collect in connection with our online community (including the internet and/or social media platforms) is used to provide an interactive experience. We use this information to facilitate participation in this online community and, from time to time, to offer you products, programs and/or services.
 
-We sometimes use the information that we collect to improve the design and content of our site and to enable us to personalize your HBOAsia.com experience. We also may use this information in the aggregate to analyze site usage and traffic, as well as to offer you products, programs, or services.
+We sometimes use the information that we collect to improve the design and content of our site and to enable us to personalize your HBOAsia.com experience. We also may use this information in the aggregate to analyze site usage and traffic, as well as to offer you products, programs, and/or services.
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order. We also may disclose such information in response to a law enforcement agency's request.
+We may disclose Personal Data in response to legal process, for example, in response to a court order. We also may disclose such information in response to a law enforcement agency's request.
 
-Agents and contractors of HBO Asia who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing for HBO Asia.
+Agents and contractors of HBO Asia who have access to Personal Data are required to protect this information in a manner that is consistent with this Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for HBO Asia.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy Statement.
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that Personal Data that we collect will never be disclosed in a manner that is inconsistent with this Policy.
 
-Finally, we will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+Finally, we will not use or transfer Personal Data provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-### Collection of Information by Third-Party Sites and Sponsors
+Collection of Information by Third-Party Sites and Sponsors
 
 Our site may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-Our site sometimes may offer content (e.g. contests or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. HBO Asia has no control over these parties' use of this information.
+Our site sometimes may offer content (e.g. contests or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain Personal Data that visitors voluntarily submit to participate in the site activity. HBO Asia has no control over these parties' use of this information.
 
-### Cookies
+Cookies
 
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other Personal Data unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with Personal Data, this information may be linked to the data stored in the cookie.
 
 We use cookies to understand site usage and to improve the content and offerings on our sites.
 
-### Our Commitment to Security
+Our Commitment to Security
 
 We have put in place appropriate procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-### How to Contact Us
+How to Contact Us - Withdrawal of Consent, Access and Correction of your Personal Data
 
-If you have any questions or concerns about our Privacy Policy Statement you may [Contact Us](http://www.hboasia.com/hbo/contact_us).
+If you:
 
-HBO Asia reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. You should check this page periodically for changes. Your continued use of our site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes.
+(a) have any questions or concerns about your Personal Data and/or this Policy;  
+(b) would like to withdraw your consent to any use of your Personal Data as set out in this Policy; or  
+(c) would like to obtain access and make corrections to your Personal Data records, you may contact our Data Protection Officer at: 
+
+Email: 
+
+| 
+
+[dpo@hboasia.com](mailto:dpo@hboasia.com "dpo@hboasia.com")  
+  
+---|---  
+  
+Address: 
+
+| 
+
+Data Protection Officer  
+Home Box Office (Singapore) Pte Ltd  
+151 Lorong Chuan  
+#04-05 New Tech Park  
+Singapore 556741  
+  
+Please note that if your Personal Data has been provided to us by a third party (e.g. a referrer), you should contact that organisation or individual to make such queries, complaints, and access and correction requests to HBO Asia on your behalf.
+
+If you withdraw your consent to any or all use of your Personal Data, depending on the nature of your request, HBO Asia may not be in a position to continue to provide our products, programs and/or services to you.
+
+Governing Law
+
+This Policy and your use of this website shall be governed in all respects by the laws of Singapore.
+
+Updates to Policy
+
+HBO Asia reserves the right, at its discretion, to update, change, modify, add, or remove portions of this Policy at any time, in accordance with future developments, industry trends and/or any changes in legal or regulatory requirements. You should check our website [www.hboasia.com](http://hboasia.com/ "HBO Asia website") periodically for any updates/changes. Your continued use of our site following the posting of updates/changes to this Policy will mean that you accept the same.
