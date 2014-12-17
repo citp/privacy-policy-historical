@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shaalaa.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618030945id_/http%3A//www.shaalaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaalaa.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217143059id_/http%3A//www.shaalaa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Shaalaa.com | शाला.com | Shaalaa means School in Sanskrit
+# Privacy Policy | Shaalaa.com | शाला.com
 
 This privacy policy sets out how Shaalaa.com uses and protects any information that you give Shaalaa.com when you use this website. Shaalaa.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Shaalaa.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of January, 2012.
 
@@ -32,3 +32,10 @@ You may choose to restrict the collection or use of your personal information in
  whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
  if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us.  
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at [www.shaalaa.com/contact-us](http://www.shaalaa.com/contact-us "www.shaalaa.com/contact-us") . We will promptly correct any information found to be incorrect.
+
+Wrong spellings,  
+We are not responsible for emails sent to wrong spelling. We have created these 3 pages just for information to users about these spellings.  
+<http://www.shaalaa.com/shala.com>  
+<http://www.shaalaa.com/shaala.com>  
+<http://www.shaalaa.com/shalaa.com>  
+<http://www.shaalaa.com/shalla.com>
