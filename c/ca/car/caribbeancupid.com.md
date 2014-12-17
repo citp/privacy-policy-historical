@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caribbeancupid.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607044623id_/http%3A//www.caribbeancupid.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeancupid.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217013826id_/http%3A//www.caribbeancupid.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement | CaribbeanCupid.com
 
-**Last Updated:** 12 May 2014
+**Last Updated:** 24 September 2014
 
 **1\. Preliminary**
 
@@ -77,22 +77,33 @@ Sensitive Information which may be collected by Cupid Media includes, without li
 
 **3.3 Cookies**
 
-(a) We utilise "cookies" which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the Website. A cookie does not identify you personally but it does identify your computer. You can set your browser to disable cookies or to notify you when you receive a cookie and provide you with an opportunity to either accept or reject it in each instance. If you disable cookies, you may not be able to access certain areas or features on our Website.
+To improve your experience on our site, we may use 'cookies'. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that our site may place on your computer as a tool to remember your preferences. 
 
-(b) Information collected via cookies may be used by us and third party vendors to:  
-(i) support Google Analytics for Display Advertising, including Remarketing and Google Display Network Impression Reporting to advertise our services online;  
-(ii) optimize, personalize and serve ads based on your past visits to our website;  
-(iii) report uses of ad services, and interactions with ad impressions and how they are related to visits to our site. 
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+
+Our website uses Cookies to support Google Analytics for:
+
+(a) DoubleClick Platform integrations.  
+(b) Demographic and Interest Reporting.   
+(c) Display Advertising including Remarketing and Google Display Network Impression Reporting to advertise our services online.  
+(d) Optimizing and personalizing ad service based on your past visits to our website.  
+(e) Reporting the use of ad services, and interactions with ad impressions and how they are related to visits to our site. 
 
 You can customize or opt out of Google Analytics for Display Advertising using the Ads Settings for your Google account.
 
 **3.4 Third Parties**
 
-We may allow third-parties, including authorised service providers, advertising companies and ad networks to serve advertisements on our sites. Any information that these third-parties collect via cookies is completely anonymous and is non-identifiable.
+We may allow third-parties, including authorised service providers, advertising companies, data management platforms and ad networks to serve advertisements on our sites. Any information that these third-parties collect via cookies is completely anonymous and is non-identifiable.
+
+You may refuse the use of third party data collection by selecting the appropriate settings on your browser or by using the Online Choices Opt-Out Tool provided at [this link](http://www.youronlinechoices.com/opt-out/).
 
 **3.5 Use of Google Analytics**
 
-This website uses Google Analytics, a web analysis service operated by Google Inc. ("Google"). Google Analytics uses cookies (text files) which are stored on your computer and which allow for analysis of your visits to be conducted. Information concerning your visit produced through cookies (including IP address) will be transferred to and stored on a server in the USA operated by Google. Google will analyse this information to produce a report for the operator on website usage and online usage of associated services. Google may also transfer this information to third parties either where this is required by law or where third parties are contracted by Google to process data. Google will not allow your IP address to be linked to any other personal data. You can prevent cookies being installed on your computer by changing your browser settings; however, if you choose to do this, your visit to our website and use of some functionality may be impaired. By using this website you are deemed to have expressly consented to the use and processing of your data collected and processed at any time. This withdrawal concerns consent to future activities. Please be advised that to avoid personal data being collected through IP addresses, we use Google Analytics ad-on "anonymized". As a result a shortened (or anonymous) IP address is sent to Google.
+Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage. Please be advised that to avoid personal data being collected through IP addresses, we use Google Analytics ad-on "anonymized". 
+
+By using this website you are deemed to have expressly consented to the use and processing of your data by Google in the manner described in [Google's Privacy Policy](http://www.google.com/policies/privacy/) and for the purposes set out in Clause 3.3. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or [use the opt-out service provided by Google](https://tools.google.com/dlpage/gaoptout).
+
+Cupid Media also uses interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to "like" or “share” information from this website through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your visits to this site with other Personal Information.
 
 **3.6 Promotion to you**
 
