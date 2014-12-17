@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the conservativevideos.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090751id_/http%3A//conservativevideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativevideos.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218004538id_/http%3A//conservativevideos.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Terms & Conditions
+# Privacy Policy / Terms & Conditions » ConservativeVideos.com
 
 At ConservativeVideos.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the ConservativeVideos.com website (“Site”). This privacy policy applies to the Site and all products and services offered by ConservativeVideos.com.
+
+ConservativeVideos.com prohibits unsolicited messages. If you want to receive ConservativeVideos.com emails you will need to optin in and confirm your email address.
 
 **Personal identification information**
 
