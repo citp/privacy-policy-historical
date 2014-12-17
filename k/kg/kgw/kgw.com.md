@@ -1,29 +1,26 @@
-> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326195339id_/http%3A//www.kgw.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034320id_/http%3A//static.kgw.com/privacy) for the most accurate reproduction.*
 
-# kgw.com | Privacy Policy - KGW.com
-
-## Last Updated: December 23, 2013
+# Privacy Policy | kgw
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
 This Privacy Notice discloses the privacy practices of our website, mobile site or app (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/terms/). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
 
 ### Your California Privacy Rights
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.If you are a California resident and would like to make such a request, please submit your request in writing to:
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-Mark Faris   
-www.kgw.com  
+Mark Faris  
 Online Privacy Coordinator  
 Gannett Law Department  
 7950 Jones Branch Drive  
-McLean, VA 22107 
+McLean, VA 22107
 
 ### How We Collect Information
 
-**Information You Provide.** We may collect and store information that you voluntarily supply to us while on our Site. This may include information that can be used to contact or identify you, such as your name, email address, or postal address. Some examples of this type of information include information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.
+**Information You Provide.** We may collect and store information that you voluntarily supply to us while on our Site. This may include information that can be used to contact or identify you, such as your name, email address, or postal address. Some examples of this type of information include information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. 
 
 **Location Information.** We may collect location information (e.g., city and state and/or zip code) that you provide. Certain devices and browsers contain unique identifiers that can be used to identify the geographical location of the device. When you use such a device or browser to access our Site, your device and/or browser may automatically collect and/or transmit your location information. We also may collect GPS information from the device if the device transmits it. Additionally, if you download our app, we may collect your location information in order to deliver our app services. If you choose to enable certain features in our apps that require your geographic location, then we will collect and store that information.
 
@@ -35,13 +32,15 @@ We also may use "cookies" and other similar technologies on the Site. Cookies ar
 
 ### How Information is Used
 
-We use the information we collect from you while you are using the Site in a variety of ways, including, for example, for the purpose for which the information was submitted, to process your registration request, to provide you with services and communications that you have requested, to send you email updates and other communications, customize features and advertising that appear on the Site, to deliver our Site content to you, to measure Site traffic, measure user interests and traffic patterns, and to improve the Site and the services and features offered via the Site.
+We use the information we collect from you while you are using the Site in a variety of ways, including, for example, for the purpose for which the information was submitted, to process your registration request, to provide you with services and communications that you have requested, to send you email updates and other communications, customize features and advertising that appear on the Site, to deliver our Site content to you, to measure Site traffic, measure user interests and traffic patterns, and to improve the Site and the services and features offered via the Site. 
 
-We may use location information, either information you provided by you or information automatically collected, in order to provide you with content, services and advertising that is relevant to your geographic area. We may combine information we collect from you while you are using our Site with information that we collect from other sources to customize features, content and advertising that appear on our Site. In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.
+We may use location information, either information you provided by you or information automatically collected, in order to provide you with content, services and advertising that is relevant to your geographic area. We may combine information we collect from you while you are using our Site with information that we collect from other sources to customize features, content and advertising that appear on our Site.
+
+In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.
 
 **Your Choices.** When we request information from you on the Site, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
-If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance's website at [www.aboutads.info](https://web.archive.org/web/20140326195339id_/http%3A//www.kgw.com/terms-and-conditions/www.aboutads.info).
+If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance's website at [www.aboutads.info](http://www.aboutads.info/).
 
 ### How Information is Shared
 
@@ -55,7 +54,9 @@ We also make some content, products and services available through our Site thro
 
 Unless you affirmatively provide information within an ad, the data collected in connection with the ads, ad serving and ad targeting on our Site does not include your name, address, email address or telephone number, but it may include the device unique identifier, IP address, MAC address and location information of your computer or device. The use and collection of information by third-party advertising service providers is governed by the relevant third party's privacy policy and is not covered by our Privacy Notice.
 
-For information about use of your information by us and by third-party advertising service providers for advertising, see the section "[Data Collected in Connection with Ad Serving and Targeting.](https://web.archive.org/terms-and-conditions/privacy-policy#adchoices)" Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."
+
+Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/terms/); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
 
@@ -69,7 +70,7 @@ We also may use third-party service providers, to target and serve some of the a
 
 Unless you affirmatively provide information, the data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include device identifying information such as the IP address, MAC address, cookie or other device-specific unique alphanumerical ID of your computer.
 
-The use and collection of information by third-party advertising service providers are governed by the relevant third party's Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, go to [www.aboutads.info](http://www.aboutads.info/). You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting <http://www.google.com/intl/en/policies/privacy>. Additionally, many of our advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at <http://www.networkadvertising.org/managing/opt_out.asp>. If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](http://www.aboutads.info/).
+The use and collection of information by third-party advertising service providers are governed by the relevant third party's Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, go to [www.aboutads.info](http://www.aboutads.info/). You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting <http://www.google.com/intl/en/policies/privacy>. Additionally, many of our advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at <http://www.networkadvertising.org/managing/opt_out.asp>.If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](http://www.aboutads.info/).
 
 ### Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas
 
@@ -89,14 +90,14 @@ All information we gather on our Site is stored within databases to which only w
 
 ### Links to Other Sites
 
-**Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.**
+Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.
 
 ### Questions Regarding Privacy
 
-**If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:**  
+If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
+
 Mark Faris  
-www.kgw.com  
 Online Privacy Coordinator  
 Gannett Law Department  
 7950 Jones Branch Drive  
-McLean, VA 22107 
+McLean, VA 22107
