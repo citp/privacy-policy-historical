@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frank151.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061556id_/http%3A//www.frank151.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frank151.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217120839id_/http%3A//www.frank151.com/privacy) for the most accurate reproduction.*
 
 # Privacy - FRANK151
 
