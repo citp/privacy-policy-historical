@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijadailies.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608184026id_/http%3A//www.naijadailies.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijadailies.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217025331id_/http%3A//www.naijadailies.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Naija Dailies: Privacy Policy
 
