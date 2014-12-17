@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsrsounds.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212075553id_/http%3A//adsrsounds.com/%3Fpage_id%3D68) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsrsounds.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217023113id_/http%3A//adsrsounds.com/%3Fpage_id%3D68) for the most accurate reproduction.*
 
-# Privacy PolicyADSR – Synth Sounds, Presets & Video Courses
+# ADSR - Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -21,4 +21,12 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of ADSR then you may contact us at info@massivesynth.com
+If you have any questions regarding the privacy policy of ADSR then you may contact us at info@massivesynth.com 
+
+**This website uses Google AdWords**
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the ADSR websites. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or  
+[permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
