@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613142138id_/http%3A//www.classmarker.com/online-testing/privacy/%3Ftrk%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033524id_/http%3A//www.classmarker.com/online-testing/privacy/%3Ftrk%3Dfooter) for the most accurate reproduction.*
 
 # Privacy ClassMarker
 
@@ -47,7 +47,7 @@ Your data is completely private to you the account administrator and is protecte
 
 Tests are only available to those who the account administrator gives access to. Sharing tests, for example, is allowed on ClassMarker but only if the account administrator chooses to do so, by default all your data in ClassMarker is private to your account.
 
-Payments using Credit cards are processed on the highly secure WorldPay.com website. ClassMarker does not store or process credit card numbers.
+Payments using Credit cards are processed using the highly secure WorldPay.com, PayPal.com or Stripe.com websites. ClassMarker does not process credit card numbers.
 
 ### Cookies
 
