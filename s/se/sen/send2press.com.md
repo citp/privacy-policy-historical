@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065006id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217222814id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Send2Press Newswire, a service of Neotrope
 
@@ -6,7 +6,7 @@
 ---|---|---  
 | 
 
-Today is Wed., Jun 25, 2014   
+Today is Wed., Dec 17, 2014   
   
 **Questions? Call Toll-Free:**   
 1.866.473.5924 (in U.S.)   
@@ -26,25 +26,27 @@ _We're in California, USA._
   
 Send2Press® Newswire is a service of Neotrope®, established Jan. of 1983 in Redondo Beach, Calif., USA. 
 
-[](http://www.send2press.com/about/entrepreneur.shtml)
+[](https://web.archive.org/about/entrepreneur.shtml)
 
-[Read Privacy Statement](http://www.send2press.com/about/privacy.shtml)
+[Read Privacy Statement](https://web.archive.org/about/privacy.shtml)
 
 | 
 
 Privacy Statement for Send2Press.com
 
-**March 2014 News**
+**Oct/Nov. 2014 News**
 
 * * *
 
-We're still working on our 2014 site revamp, moving to a fully responsive and PageSpeed optimized platform. During the remodeling please bear with us a bit longer, as some things are a bit messy at this point as we continue to suffer the dregs of the 2009 website. :-) 
+We're still working on our 2015 site revamp, moving to a fully responsive platform and "https/SSL" for all site pages. During the remodeling please pardon mess a bit longer, as we continue to retire the 2009/11 website. (Old pages are bordered and have this notice; new pages do not.) :-) 
 
 * * *
 
-**What's New:** As of March 1, we have retired our “Extended” level plans in favor of NEW “Premium” plans. New plans include promoted social media marketing campaign ($99 value) with click-tracking. 
+**What's New:** As of March 1, we have retired our “Extended” level plans in favor of NEW “Premium” plans. New plans include promoted social media marketing campaign ($99 value) with click-tracking. We have also brought back the econo online post plan for $49, by popular request. 
 
-The following privacy statement applies to all Neotrope® online properties, and this site ([www.Send2Press.com](http://www.send2press.com/)) you are now visiting and viewing. Send2Press® is a _service_ of Neotrope, and not an independent company. Neotrope is proud to be a U.S.-based company, established January of 1983, and located in Redondo Beach / Torrance, California (Los Angeles County), USA. All staff are based in the U.S., and our secure Web servers are based in Texas. 
+[SEE COUPONS PAGE FOR SPECIAL OFFERS AND PROMOTIONS](https://web.archive.org/promo.shtml)
+
+The following privacy statement applies to all Neotrope® online properties, and this site ([www.Send2Press.com](https://www.send2press.com/)) you are now visiting and viewing. Send2Press® is a _service_ of Neotrope, and not an independent company. Neotrope is proud to be a U.S.-based company, established January of 1983, and located in Redondo Beach / Torrance, California (Los Angeles County), USA. All staff are based in the U.S., and our secure Web servers are based in Texas. 
 
 2014 Privacy Statement
 
@@ -52,7 +54,7 @@ Neotrope® and Send2Press® (Send2Press.com) have created this privacy statement
 
 This policy is believed to meet all local, state and Federal privacy laws and guidelines of the U.S.A. currently in place as of its writing, and is believed to meet the minimum requirements for the European Union, and Canada, but may not meet the requirements for other countries. 
 
-You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: November 08, 2013. 
+You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: November 23, 2014. 
 
 This policy statement contains the following topics:   
 ( **Click subject to "jump" to topics on this page, below** )
@@ -91,7 +93,7 @@ We use reasonable security practices to keep any personally identifiable informa
 
 No credit card data (card number, expiration, security code) provided during checkout is retained on our servers in either public or private areas, and our payment gateway provider (Authorize.net) has been certified as Visa CISP compliant — and, our shopping cart has been confirmed by Authorize.net for compliance with their system security requirements. We also participate in the BBB Identity Theft awareness campaign. 
 
-Our server and secure domain hosting our order system has been certified by a third-party, Security Metrics, as being [PCI DSS compliant](http://www.send2press.com/about/verify.shtml), as of Nov. 2008, and is re-tested and re-certified periodically to ensure our systems meet all current and updated security methods. This certification is provided to American Express, VISA and MasterCard, along with our merchant provider. 
+Our server and secure domain hosting our order system has been certified by a third-party, Security Metrics, as being [PCI DSS compliant](https://www.send2press.com/about/verify.shtml), as of Nov. 2008, and is re-tested and re-certified periodically to ensure our systems meet all current and updated security methods. This certification is provided to American Express, VISA and MasterCard, along with our merchant provider. 
 
   
 Cookies and Privacy
@@ -130,11 +132,11 @@ All subscribers to our Weekly News Alert are sent a confirmation e-mail to "doub
 
 **Weekly News Alert**  
 Any opt-in subscriber to the Send2Press Weekly News Alert, may unsubscribe themselves here:   
-[www.send2press.com/alerts/index.shtml](http://www.send2press.com/alerts/index.shtml)
+[www.send2press.com/alerts/index.shtml](https://www.send2press.com/alerts/index.shtml)
 
 **Journalists on our Media Lists**  
 Journalists may specify that they do not wish to receive further communication from us, here:   
-[www.send2press.com/journalists/](http://www.send2press.com/journalists/)   
+[www.send2press.com/journalists/](https://www.send2press.com/journalists/)   
 — or, contact the privacy manager under contact information, found at bottom of this page. 
 
 **Customer Newsletter**  
