@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217045613id_/http%3A//www.micros.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217233508id_/http%3A//www.micros.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# MICROS Systems, Inc. - Privacy Policy
+# Oracle | MICROS | Privacy Policy
 
-MICROS Systems, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our current information gathering and dissemination practices for this website: [www.micros.com](https://web.archive.org/). 
+MICROS Systems has been [acquired](http://www.oracle.com/us/corporate/acquisitions/micros/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click [here](http://www.oracle.com/us/legal/privacy/privacy-policy/index.html) to view the Oracle Privacy Policy and read your options for opt out and compliance issues under that policy. Please note that the provisions of MICROS Systems’ Privacy Policy below will remain active until the policy transition is complete.
+
+MICROS Systems, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our current information gathering and dissemination practices for this website: [www.micros.com](https://web.archive.org/).
 
 **Information Collected and Use of Information**
 
