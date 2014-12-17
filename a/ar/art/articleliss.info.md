@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleliss.info privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231234854id_/http%3A//goodposts.com/page/19/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleliss.info privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217143010id_/http%3A//www.goodposts.com/page/19/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Articles Directory | Submit Articles - GoodPosts.com
 
