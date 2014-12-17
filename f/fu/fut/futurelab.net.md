@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurelab.net privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614153514id_/http%3A//www.futurelab.net/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurelab.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217113853id_/http%3A//www.futurelab.net/service/privacy) for the most accurate reproduction.*
 
 # Privacy | Futurelab
 
@@ -49,5 +49,5 @@ In accordance with the Act of December 8, 1992, you are entitled to request Futu
 By using the Futurelab website, you consent to the collection and use of your information as we have outlined in this policy. Futurelab may decide to change this privacy policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
 
 **Additional Questions**  
-If you have questions or suggestions, please can contact us at:  
+If you have questions or suggestions, please contact us at:  
 [info@futurelab.net](mailto:info@futurelab.net)
