@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestyle9.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072824id_/http%3A//lifestyle9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestyle9.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218004713id_/http%3A//lifestyle9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lifestyle9.com
 
@@ -92,3 +92,6 @@ A small fee will be payable.
 If you would like a copy of the information held on you please write to: admin@lifestyle.com
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+
+|  |  | [](http://www.socializer.info/share.asp?docurl=http%3A%2F%2Flifestyle9.com%2Fprivacy-policy%2F&doctitle=Privacy%20Policy "Share in more social networks, email, translate, and more!")  
+---|---|---|---
