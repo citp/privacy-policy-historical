@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattleweekly.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629213214id_/http%3A//seattleweekly.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattleweekly.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217204142id_/http%3A//www.seattleweekly.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Seattle News and Events | Privacy Policy
 
@@ -87,7 +87,3 @@ We use reasonable efforts to protect your personally identifiable information fr
 ### Updates and Changes to Your Information.
 
 If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@seattleweekly.com](mailto:community@seattleweekly.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
-
-### More Questions?
-
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern. 
