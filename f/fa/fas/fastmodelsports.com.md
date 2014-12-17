@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastmodelsports.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529040442id_/http%3A//www.fastmodelsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmodelsports.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217230052id_/http%3A//www.fastmodelsports.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FastModel Sports
+# Privacy Policy — FastModel Sports
 
 Fast Model Technologies LLC (“we” or “us”) recognizes the importance of privacy to our customers and users (“you”). In order to provide you with the best possible service it may be necessary for us to store information about you. However, we only collect information that you choose to provide us. This Privacy Policy explains what types of information we may collect from you and how we use that information to operate [www.fastmodelsports.com](http://www.fastmodelsports.com/) (the “Site”) and provide services to you.
 
