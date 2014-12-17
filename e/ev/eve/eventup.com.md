@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055138id_/http%3A//eventup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventup.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034013id_/http%3A//eventup.com/privacy) for the most accurate reproduction.*
 
 # Event Venues & Space for Corporate Events & Weddings | Eventup
 
@@ -74,14 +74,14 @@ We will make any legally required disclosures of any breach of the security, con
 
 **International Transfer**
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Eventup transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Your information may be transferred to â and maintained on â computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Eventup transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
 **Links to Other Sites**
 
 Our Site contains links to other websites, online services or applications (each a "Third Party Service"), e.g.:  
-• Your Account may be linked to an SNS;  
-• There may be advertisements served to you within the Site; or  
-• You may be brought to the website of our third party payment processors.
+â¢ Your Account may be linked to an SNS;  
+â¢ There may be advertisements served to you within the Site; or  
+â¢ You may be brought to the website of our third party payment processors.
 
 If you click on another third party link, you will be directed to that third party's website or online service. The fact that we link to a Third Party Service is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over Third Party Services. Such Third Party Services may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and online services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other Third Party Services you visit.
 
@@ -91,7 +91,7 @@ The Service is not directed to persons under 18. We do not knowingly collect per
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at Info@eventup.com or at 1460 4th St. Suite 210, Santa Monica, CA 90401. 
+If you have any questions about this Privacy Policy, please contact us at Info@eventup.com or at 600 West Chicago Ave, Suite 775 Chicago, IL 60654 
 
 ## Eventup Copyright Policy
 
@@ -122,5 +122,5 @@ If you are a copyright owner, or are authorized to act on behalf of one, or auth
 Deliver this Notice, with all items completed, to Eventup's Designated Copyright Agent:
 
 Copyright Agent  
-c/o Eventup, Inc., 1460 4th St., Suite 210, Santa Monica, CA 90401  
+c/o 600 West Chicago Ave, Suite 775 Chicago, IL 60654  
 info@eventup.com
