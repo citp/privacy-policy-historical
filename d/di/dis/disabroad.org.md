@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disabroad.org privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618191341id_/http%3A//www.disabroad.org/study-abroad-dis/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disabroad.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217123029id_/http%3A//www.disabroad.org/study-abroad-dis/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DIS
 
