@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the handsonhardcore.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521084922id_/http%3A//www.handsonhardcore.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonhardcore.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217070406id_/http%3A//handsonhardcore.com/privacy-policy.html) for the most accurate reproduction.*
 
-# HANDS ON HARDCORE - Privacy Policy
+# Hands On Hardcore - Privacy Policy
 
 ## Privacy Policy
 
@@ -61,7 +61,7 @@ The Sites may contain links to other websites. Please be aware that we are not r
 
 **How to Contact HANDSONHARDCORE**
 
-If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://support.ddfprod.com/?ref=HANDSONHARDCORE.com) or via email at support@HANDSONHARDCORE.com.
+If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://support.ddfprod.com/?ref=HANDSONHARDCORE.COM) or via email at support@HANDSONHARDCORE.COM.
 
   
 
