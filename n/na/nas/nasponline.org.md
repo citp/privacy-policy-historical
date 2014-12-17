@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasponline.org privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617133243id_/http%3A//www.nasponline.org/about_nasp/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasponline.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217143106id_/http%3A//www.nasponline.org/about_nasp/privacy-policy.aspx) for the most accurate reproduction.*
 
 # NASP - Website Privacy Policy
 
@@ -31,4 +31,4 @@ A “cookie” is a small data text file that is placed in your browser and allo
 
 While we have taken steps to protect your personal information, we cannot guarantee the security of any information that you transmit to us and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, other Internet sites or services that may be accessible through our site have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policies. 
 
-For any other information, please [contact the NASP office](https://web.archive.org/web/20140617133243id_/http%3A//www.nasponline.org/about_nasp/meet_staff.aspx).
+For any other information, please [contact the NASP office](https://web.archive.org/web/20141217143106id_/http%3A//www.nasponline.org/about_nasp/meet_staff.aspx).
