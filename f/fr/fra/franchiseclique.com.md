@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160331id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218005611id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FranchiseClique.com
 
-Effective on August 13, 2013 
+Effective on February 2, 2014 
 
-This privacy policy describes how FranchiseClique.com collects and uses the personal information you provide on our Web site: www.FranchiseClique.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy policy describes how FranchiseClique.com owned and operated by FranchiseClique.com collects and uses the personal information you provide on our Web site: www.FranchiseClique.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-FranchiseClique.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@franchiseclique.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+FranchiseClique.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@franchiseclique.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 ## Collection and Use of Personal Information
 
@@ -106,5 +106,7 @@ We may update this privacy statement to reflect changes to our information pract
 710 Johnnie Dodds Blvd, Ste 310  
 Mount Pleasant, SC 29464  
 Email: [info@franchiseclique.com](mailto:info@franchiseclique.com)  
-åPhone: (843) 277-1095  
+Phone: (877) 252-2340  
 
+
+[](https://privacy.truste.com/privacy-seal/Franchise-Clique/validation?rid=3af1b5bc-4bc8-483f-8712-5d81edb1f093 "TRUSTe online privacy certification")
