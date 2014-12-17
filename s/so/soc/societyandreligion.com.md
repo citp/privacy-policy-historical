@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the societyandreligion.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072320id_/http%3A//societyandreligion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyandreligion.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217064550id_/http%3A//societyandreligion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Society and Religion
+# Privacy Policy - Society and Religion
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
