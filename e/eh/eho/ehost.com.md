@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627235809id_/http%3A//www.ehost.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217061909id_/http%3A//www.ehost.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # eHost's Privacy Policy
 
