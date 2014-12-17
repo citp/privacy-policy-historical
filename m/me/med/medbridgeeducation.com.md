@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the medbridgeeducation.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331040749id_/http%3A//www.medbridgeeducation.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medbridgeeducation.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034025id_/http%3A//www.medbridgeeducation.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Online CEUs for PT, ATC, OT | Continuing Education | MedBridge
 
-**_I. General Policy_**
+## I. General Policy
 
 **A. Acceptance of Terms**  
-Medbridge Education LLC (“MedBridge”) is committed to protecting your privacy when you visit the MedBridge website located at the URL www.medbridgeeducation.com and[ www.medbridgeed.com](http://www.medbridgeed.com/) (“MedBridge Site”). This Privacy Policy explains to you how we collect and use your information. This document should be read in conjunction with the MedBridgeTerms and Conditions, and we reserve the right to append or otherwise modify this privacy statement at any time. 
+MedBridge Inc. (“MedBridge”) is committed to protecting your privacy when you visit the MedBridge website located at the URL www.medbridgeeducation.com and www.medbridgeed.com (“MedBridge Site”). This Privacy Policy explains to you how we collect and use your information. This document should be read in conjunction with the MedBridge Terms and Conditions, and we reserve the right to append or otherwise modify this privacy statement at any time.
 
 **B. Term Definitions**  
-1\. The term “MedBridge Site” refers to the MedBridge website accessible through the URL[ www.medbridgeed.com](http://www.medbridgeed.com/) or[ www.medbridgeeducation.com](http://www.medbridgeeducation.com/).  
-2\. The term “Medbridge” refers to Medbridge Education LLC.  
+1\. The term “MedBridge Site” refers to the MedBridge website accessible through the URL www.medbridgeed.com or www.medbridgeeducation.com.  
+2\. The term “Medbridge” refers to MedBridge Inc..  
 3\. The term “User Profile” refers to a profile posted by a User on the MedBridge Site.  
 4\. The terms ''you'', “your” and/or ''User'' refer to any individuals and/or entities visiting and/or otherwise accessing the MedBridge Site for any reason.  
 5\. The term “Content” refers to all information, data, text, software, music, sound, photographs, graphics, video, messages, tags, or other materials posted and/or otherwise displayed on, to, or at the MedBridge Site.  
 6\. The term “Personal Information” includes, but is not limited to, any information that identifies or describes an individual, including his or her name, professional licensing information, social security number, physical description, age, gender, marital status, health status, financial status, home address, home telephone number, education, financial matters, and medical or employment history. Personal Information also includes statements made by, or attributed to, a User.
 
-**_II. Your Personal Information_**
+## II. Your Personal Information
 
 **A. Information Collected by MedBridge**  
 Information such as your name and email address is collected at the MedBridge site when you:  (i)  register for any Course offered by or via the MedBridge Site; (ii) sign up for any e-mail alerts or communications. Personal Information may also be collected any time a User provides such information voluntarily to MedBridge via the MedBridge Site.    
@@ -31,16 +31,15 @@ On MedBridge you are able to correct, update, review, or delete information you 
 We may share your information with trusted third parties who assist us in operating our website, conducting our business, or serving you, as long as those parties agree to keep this information confidential. We may also release your information when we believe it is needed to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.   
 Non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses. 
 
-**E. Changes in MedBridge Education LLC**  
+**E. Changes in MedBridge Inc.**  
 If MedBridge is sold, merged, or otherwise transferred, personal information may be transferred along with it.
 
 **F. Additional Information Use**  
 We may use your email for transactional purposes, as well as for promotional purposes. Transactional purposes include confirming reservations and notifying you about changes to your account. Promotional purposes include sending you newsletters about new features, special offers, promotional announcements, consumer surveys, and other items concerning our service. During  registration at the MedBridge site, you will be signed up to receive promotional email newsletters from MedBridge. Email messages may contain code that enables our database to track your usage of the emails to determine whether the email was opened and what links, if any, were clicked. Should you prefer not to receive promotional emails from us, please edit the preferences in your account menu or click Unsubscribe at the bottom of any promotional emails.
 
-**_III. Automatically Collected Information_**
+## III. Automatically Collected Information
 
-**A. Information Collected Via Technology**  
-As you use MedBridge, certain information may also be passively collected and stored on our or our service providers’ server logs, including your Internet protocol address, browser type, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements displayed on MedBridge you clicked. This type of information is collected to make MedBridge and solutions more useful to you and to tailor the experience with LivingSocial to meet your special interests and needs.  
+**A. Information Collected Via Technology** As you use MedBridge, certain information may also be passively collected and stored on our or our service providers’ server logs, including your Internet protocol address, browser type, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements displayed on MedBridge you clicked. This type of information is collected to make MedBridge and solutions more useful to you and to tailor the experience with LivingSocial to meet your special interests and needs.  
 We engage in remarketing to market our sites across the web. When a user visits our site, a cookie is dropped on the user. Users with this cookie may be targeted across advertising networks to receive relevant advertisements. You may opt out of this ad serving using the Network Advertising Initiative (NAI) opt-out page (http://www.networkadvertising.org/managing/opt_out.asp).
 
 An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. For example, we, or our service providers, may track your IP Address when you access MedBridge to assist with ad targeting.  
@@ -48,7 +47,7 @@ An "Internet protocol address" or "IP Address" is a number that is automatically
 
 We may also enable advertisers and ad servers to promote third-party products and/or services by placing advertisements on MedBridge. These advertisers and ad servers may use Cookies and/or "Web Beacons" (which are usually small, transparent graphic images) in order to monitor information related to served advertisements. Clicking on such advertisements will direct you to the website of a third-party and the advertiser. This Privacy Policy does not cover the privacy practices of any advertisers or ad servers.
 
-**_IV. Safety Measures_**
+## IV. Safety Measures
 
 **A. Internet Security**
 
@@ -64,4 +63,4 @@ You are solely responsible for your privacy settings, and MedBridge is not and w
 **C. Children’s Privacy**  
 In compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), MedBridge will not collect any information from anyone under 13 years of age. Our website and courses are directed at people who are older than 13 years. 
 
-Please direct additional Questions or Concerns to[ http://www.medbridgeeducation.com/contact/](http://www.medbridgeeducation.com/contact/)
+Please direct additional Questions or Concerns to <http://www.medbridgeeducation.com/contact/>
