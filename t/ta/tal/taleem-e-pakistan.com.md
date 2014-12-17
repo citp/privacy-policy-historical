@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the taleem-e-pakistan.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601142141id_/http%3A//www.taleem-e-pakistan.com/%3Fpage_id%3D3955) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taleem-e-pakistan.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217050816id_/http%3A//www.taleem-e-pakistan.com/%3Fpage_id%3D3955) for the most accurate reproduction.*
 
-# Privacy Policy | Taleem-E-Pakistan.com
+# Privacy Policy Taleem E Pakistan
+
+## Privacy Policy
 
 This is to inform the visitors of **Taleem-E-Pakistan.com**
 
@@ -12,10 +14,10 @@ This is to inform the visitors of **Taleem-E-Pakistan.com**
 
 \+ We are allowing Google as
 
-\- As a third party vendor, which enables cookies on your computer to serve ads on this site.
+– As a third party vendor, which enables cookies on your computer to serve ads on this site.
 
-\- Google’s uses Double Click DART cookie by which it serve ads on this site.
+– Google’s uses Double Click DART cookie by which it serve ads on this site.
 
-\- You can opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+– You can opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **This privacy policy is subject to change, might vary as changes are made from time to time.**
