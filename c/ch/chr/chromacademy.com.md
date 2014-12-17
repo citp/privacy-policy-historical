@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromacademy.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529153620id_/http%3A//www.chromacademy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromacademy.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217132720id_/http%3A//www.chromacademy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # hplc training for the analytical chemist l CHROMacademy.com
 
@@ -38,7 +38,7 @@ Opt-Out Option: You can decide whether you want to receive targeted advertising 
 
 If you accept promotional email from us, any email you receive will include instructions on how to be removed from our promotional email list.
 
-**Other Disclosures** : We also may disclose your Personal Information: to the extent we believe we are or will be required to do so by law; to defend our or another’s legal rights (e.g., to prevent fraud); in connection with the sale or prospective sale of all or part of our business; to enforce the Website’s[ http://chromacademy.com/terms-conditions.html](https://web.archive.org/web/20140529153620id_/http%3A//www.chromacademy.com/terms-conditions.html) and to respond to a breach or attempted breach of the security of the Site.
+**Other Disclosures** : We also may disclose your Personal Information: to the extent we believe we are or will be required to do so by law; to defend our or another’s legal rights (e.g., to prevent fraud); in connection with the sale or prospective sale of all or part of our business; to enforce the Website’s[ http://chromacademy.com/terms-conditions.html](https://web.archive.org/web/20141217132720id_/http%3A//www.chromacademy.com/terms-conditions.html) and to respond to a breach or attempted breach of the security of the Site.
 
 We also will provide third parties, e.g., Google and Omniture, with aggregate anonymous data for web analytics and other statistical purposes. This information will be used to evaluate subscribers’ use of the Site and to compile reports on website activity and Internet usage.
 
