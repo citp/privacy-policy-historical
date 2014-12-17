@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox10phoenix.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143031id_/http%3A//www.myfoxphoenix.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox10phoenix.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217230057id_/http%3A//www.fox10phoenix.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
-# Fox Television Stations Privacy Policy - FOX 10 News | myfoxphoenix.com
+# Fox Television Stations Privacy Policy - FOX 10 News | fox10phoenix.com
 
 **Fox Television Stations Privacy Policy**
 
