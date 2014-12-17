@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitsubishicars.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050650id_/http%3A//www.mitsubishicars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishicars.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225313id_/http%3A//www.mitsubishicars.com/privacy) for the most accurate reproduction.*
 
 # Privacy / Mitsubishi Motors
 
@@ -104,6 +104,58 @@ If you have any questions or concerns about this privacy policy, please contact 
 MMNA may change this privacy policy from time to time. If MMNA makes any changes to this policy, we will change the "Last Updated" date below.
 
 Last Updated: October 15th, 2013
+
+### Electronic Records Disclosure
+
+Last Update: October 16th, 2013
+
+**Please read this Electronic Records Disclosure carefully. This disclosure informs you of your rights when we provide certain disclosures, notices, and other information ("Records") to you electronically through the mitsubishicars.com website and via email.**
+
+The words, "I," "you" and "your," mean the user requesting information from this website. The words, "MMCA," "we," "us" and "our," mean Mitsubishi Motors Credit of America, Inc. and its agents and affiliates, including Mitsubishi Motors North America, Inc.
+
+**(1) Introduction**  
+Certain laws require us to provide specific Records to you in writing, which means you have a right to receive those Records on paper. We may provide such Records to you electronically if we first present this Electronic Records Disclosure to you and you consent to the use of electronic Records. By indicating your agreement to this Electronic Records Disclosure, you agree that your electronic signature on agreements and documents has the same effect as if you signed them in ink.
+
+**(2) Types of Electronic Records You May Receive**  
+By consenting to the use of electronic Records, you acknowledge receipt of this Electronic Records Disclosure and you consent to receive Records electronically. Records may be presented on the mitsubishicars.com website and via e-mail at the email address you provide (assuming you provide a valid e-mail address). Electronic Records may include, but are not limited to: 
+
+  * This Electronic Records Disclosure; and
+  * Consent to be contacted by telephone; and
+  * An offer of credit, if eligible.
+
+
+
+**(3) How to Withdraw Your Consent**  
+Your consent to the use of electronic Records will remain in force until withdrawn in the manner provided in this section. If you withdraw your consent, we will stop providing you with electronic Records. Your withdrawal of consent will apply only to the request for services you are now seeking. You may withdraw your consent free of charge by emailing us at info@yourmitsu.com. Be sure to specify your name and the address to which we should mail future Records as necessary. Your withdrawal of consent will be effective only after MMCA has had a reasonable period to act upon your withdrawal request.
+
+**(4) Updating Your Contact Information**  
+If your e-mail address or other contact information changes, you must notify MMCA of such change immediately by emailing us at info@yourmitsu.com.
+
+**(5) Obtaining Paper Copies of Electronic Records**  
+You may print or make a copy of electronic Records by using the "Print" button or using your personal computer's printing function. Upon request, we will provide you with a paper copy of any Record. We must receive your request within 60 days after the date we first made the electronic Record available to you. You may request a paper copy of any Record by emailing us at info@yourmitsu.com. Be sure to specify your name, the specific Record for which you are requesting a paper copy, and the address to which we should mail it. We will not charge you for a paper copy of the Record.
+
+**(6) Hardware and Software Requirements**  
+While you may be able to access and retain electronic Records using other hardware and software, your personal computer needs to support the following:
+
+An operating system, such as:
+
+  * Windows NT, 2000, ME, XP, Vista, or Win 7; or
+  * Macintosh OS 10.x
+
+  
+Access to the Internet and an Internet browser that supports standard HTML and JavaScript, such as the browser you are now using to view this Electronic Records Disclosure, or:
+
+  * Microsoft Internet Explorer 8.0 or higher
+  * Firefox 17.0 or higher
+  * Safari 5.0 or higher
+
+  
+We will provide electronic Records on the mitsubishicars.com website and via email in either HTML and/or PDF format. For electronic Records provided in PDF format, Adobe Reader® is required. You may download a free copy of Adobe Reader® from the Adobe website at[ www.adobe.com.](http://www.adobe.com/) Link opens new window. You are responsible for providing us with a valid e-mail address.
+
+To print or download electronic Records you must have a printer connected to your computer or up to approximately 1 MB of available hard drive space to store electronic Records.
+
+**(7) Retain Copies for Your Records**  
+We recommend you print or download a copy of this Electronic Records Disclosure and all other electronic Records to retain for your personal records.
 
 1 Manufacturer's Suggested Retail Price. Excludes destination/handling, tax, title, license etc. Retailer price, terms and vehicle availability may vary. See your Mitsubishi retailer for details.
 
