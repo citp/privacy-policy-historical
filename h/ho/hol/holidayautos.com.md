@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the holidayautos.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401191128id_/http%3A//www.holidayautos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayautos.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217112433id_/http%3A//www.holidayautos.com/en-us/privacy-policy%3Fc%3Dus) for the most accurate reproduction.*
 
 # Car Hire - Book cheap car rental in Europe and Worldwide from Holiday Autos US
 
-This legal notice is issued by Etrawler, the full owner of this website (“we”, “us” or “ours). We are committed to protecting and respecting your privacy and appreciate the importance of responsible use of personal data collected on this website. We take great care with personal information, taking steps to keep it secure and ensure it is used only for our legitimate business purposes in accordance with applicable law. 
+This legal notice is issued by Holiday Autos, the full owner of this website (“we”, “us” or “ours). We are committed to protecting and respecting your privacy and appreciate the importance of responsible use of personal data collected on this website. We take great care with personal information, taking steps to keep it secure and ensure it is used only for our legitimate business purposes in accordance with applicable law. 
 
 This policy (together with our booking engine terms and conditions of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-## INFORMATION WE MAY COLLECT FROM YOU 
+### INFORMATION WE MAY COLLECT FROM YOU 
 
 We may collect and process the following data about you: 
 
@@ -24,7 +24,7 @@ Bookings: When you make a booking of vehicle rental on our site, we need to use 
 
 Secure Transactions: All requests and credit card confirmations sent to us pass directly through our secure server to protect your information. Any payment transactions will be encrypted using SSL technology. To check that your browser is using the secure server, ensure that a small padlock icon on the lower part of your browser window is visible. When it is in the “locked” position, it means that your transaction is secure. These security features are only activated for pages where you can view and submit your request or confirm your quote by providing your credit card number. 
 
-## COOKIES
+### COOKIES
 
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy
 
@@ -74,7 +74,7 @@ Save as provided herein we do not rent, sell or share personal information about
 
 You have the right to ask us not to process your personal data for marketing purposes. We will inform you if we would like to use your data for such purposes or if we would like to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by indicating through your marketing preferences on the booking form that you do not wish to receive marketing emails or by subsequently unsubscribing to any such marketing emails by clicking on the unsubscribe link at the bottom of all email communications. You can also exercise the right at any time by contacting us at:
 
-Etrawler   
+Holiday Autos   
 Classon House   
 Dundrum Business Park   
 Dundrum   
@@ -85,7 +85,7 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 ### ACCESS TO INFORMATION 
 
-You have a right, subject to certain exemptions, to receive a copy of any data, which personally identifies you, held by us. We may charge you an administration fee to cover the cost of carrying out your request. You should write to Etrawler, Classon House, Dundrum Business Park, Dundrum, Dublin 14, Ireland marked “Data Access Request”. You should include adequate information to identify yourself and, such other relevant information that you may have that will reasonably assist us in fulfilling your request. 
+You have a right, subject to certain exemptions, to receive a copy of any data, which personally identifies you, held by us. We may charge you an administration fee to cover the cost of carrying out your request. You should write to Holiday Autos, Classon House, Dundrum Business Park, Dundrum, Dublin 14, Ireland marked “Data Access Request”. You should include adequate information to identify yourself and, such other relevant information that you may have that will reasonably assist us in fulfilling your request. 
 
 You also have a right to have inaccuracies in the personal data we hold about you corrected. If you discover that we hold inaccurate personal information about you, you may instruct us to correct that information. Your instruction should be in writing to the address set out above. 
 
@@ -101,15 +101,9 @@ It is prohibited to use any device, software or routine, directly or indirectly 
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 
 
-Etrawler   
+Holiday Autos   
 Classon House   
 Dundrum Business Park   
 Dundrum   
 Dublin 14   
 
-
-* ## HOLIDAY AUTOS, ITS DIRECTORS, EMPLOYEES, SERVANTS AND AGENTS, AFFILIATES OR OTHER REPRESENTATIVES AND THEIR RESPECTIVE PARENT AND SUBSIDIARY COMPANIES SHALL NOT BE LIABLE IN RESPECT OF ANY CLAIMS, EMERGENCIES, DEMANDS, CAUSES OF ACTION, DAMAGES, LOSSES, EXPENSES INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEY FEES AND COSTS OF PROCEEDINGS ARISING OUT OF OR IN CONNECTION WITH THE USE AND/OR DISSEMINATION OF PERSONAL INFORMATION RELATING TO YOU IN ACCORDANCE WITH THIS PRIVACY POLICY AND YOUR CONSENT. 
-
-Holiday Autos reserves the right in its sole discretion to amend this Privacy and Security Statement at any time and you should regularly check this privacy policy for any amendments. Any questions, please post your query on our [Website](https://web.archive.org/web/20140401191128id_/http%3A//www.holidayautos.com/%22javascript:;%22)
-
-**We use Cookies:** By using this website, you consent to our [cookies policy](https://web.archive.org/cookie-policy) . don't show again 
