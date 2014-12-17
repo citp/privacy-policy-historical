@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rating-widget.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055932id_/http%3A//rating-widget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rating-widget.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217114828id_/http%3A//rating-widget.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Rating-Widget
+# Privacy Policy | RatingWidget
 
 Welcome to Rating-Widget.com! We operate the Rating-Widget ratings service and platform (collectively, the “Service”), which makes gathering users' feedback on the web easy. We provide this privacy policy to let you know about how we gather and use personal information and user data collected by us in connection with use of the Service. We will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws. In this policy, “user” or “you” means any individual or enterprise using the Service, whether as the enterprise customer purchasing the Service or an authorized user of the Service.
 
