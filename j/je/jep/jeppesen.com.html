@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jeppesen.com privacy policy that was archived on 2014-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140523222453id_/http%3A//ww1.jeppesen.com/legal/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jeppesen.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217193306id_/http%3A//ww1.jeppesen.com/legal/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<title>Privacy Policy | Jeppesen</title>
@@ -92,7 +92,6 @@ var link = 'https://ecollector.responsetek.com/collection/collection.aspx?cguid=
 <!-- If you remove the above line, the F5 switch will not be able to validate that the site is up and will cause a site outage -->
 <!-- DO NOT REMOVE -->	
 
-		
 		
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         
@@ -266,7 +265,7 @@ function hideUtils() {
 						
 						
 					
-					<form action="https://ww1.jeppesen.com/legal/privacy-policy.jsp;jsessionid=zGpCT1KVT8hZ1hTtF8qx2GvQKvKshbjQhcFJ0NTthGWn2SHgnDWk!1010570804?_DARGS=/main/corporate/decorator/inc/common/site-account-util.jsp.loginForm" name="loginForm" method="post" id="aviation-login"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="-8910212786125341691" type="hidden" name="_dynSessConf">
+					<form action="https://ww1.jeppesen.com/legal/privacy-policy.jsp?_DARGS=/main/corporate/decorator/inc/common/site-account-util.jsp.loginForm" name="loginForm" method="post" id="aviation-login"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="162796270173669350" type="hidden" name="_dynSessConf">
 					
 						
 					
@@ -345,13 +344,12 @@ function initLogin() {
            			
             		<div id="site-search-util" class="util">
 	<div class="util-block">
-		<form name="search-form" id="searchForm" action="/main/shared/common/search_results.jsp">
+		<form name="search-form" id="searchForm" action="/main/corporate/eSearch/jeppinfo.jsp">
 			<label class="util-title" for="query">Search for:</label>
 			<div id="search-form-input">
-				<input type="text" id="searchQuery" name="query" autocomplete="off" class="search" value="">
-               	<input type="image" src="/main/corporate/img/jepp/btn-go.gif" style="padding-left:3px; margin-bottom:1px;" alt="Search" name="search" id="searchBtn" class="goBtn">
-				<input type="hidden" name="filterClear" value="true">
-				<input type="hidden" name="searchSlct" value="ALL">
+				<input type="text" id="query" name="Ntt" autocomplete="off" class="search" value="">
+		               	<input type="image" src="/main/corporate/img/jepp/btn-go.gif" style="padding-left:3px; margin-bottom:1px;" alt="Search" name="search" id="searchBtn" class="goBtn">
+				<input type="hidden" name="Ntk" value="All">
 			</div>
 		</form>
 	</div>
@@ -364,76 +362,6 @@ function initLogin() {
 	</div>
 </div>
 
-<script type="text/javascript">
-var jeppSearch = {
-	ajaxApi: "/main/corporate/search/ajax_getSearchResult.jsp",
-	ajaxCall: null,
-	timer: null,
-	queryStr: null,
-	delayTime: 320
-};
-	
-//initSearhBox();
-//Temp Solution Begin
-var searchUtil = $$('#site-search-util');
-var searchBox = $$(':input[name=query]',searchUtil);
-searchBox.focus(function () {
-	hideUtils();
-}); 
-//Temp Solution End 
-
-function initSearhBox() {
-	var searchUtil = $$('#site-search-util');
-	var searchBox = $$(':input[name=query]',searchUtil);
-	var searchDialog = $$('.util-dialog',searchUtil);
-	var searchDialogContent = $$('.dl-bd #site-search-result',searchDialog);
-
-	searchBox.keyup(function(){
-		var searchQuery = $$(this).val();
-		if ($$.trim(searchQuery) != jeppSearch.queryStr && $$.trim(searchQuery).length > 1) {
-			clearTimeout(jeppSearch.timer);
-			jeppSearch.queryStr = $$.trim(searchQuery);
-			jeppSearch.timer = setTimeout("getSearchResult()",jeppSearch.delayTime);
-		} else if ($$.trim(searchQuery).length == 0) {
-			searchDialogContent.empty();
-			searchDialog.hide().removeClass('visible');
-			searchUtil.removeClass('active');
-		}
-	});
-	searchBox.focus(function () {
-		hideUtils();
-		var searchQuery = $$(this).val();
-		if ($$.trim(searchQuery).length > 1) {
-			if (searchQuery == jeppSearch.queryStr) {
-				searchDialog.show().addClass('visible');
-				searchUtil.addClass('active');
-			} else {
-				clearTimeout(jeppSearch.timer);
-				
-				jeppSearch.queryStr = $$.trim(searchQuery);
-				getSearchResult();
-			}
-		}
-	});
-}
-
-function getSearchResult() {
-	var searchUtil = $$('#site-search-util');
-	var searchDialog = $$('#site-search-util .util-dialog');
-	var searchDialogContent = $$('.dl-bd #site-search-result',searchDialog);
-	var formData = $$('form[name=search-form]').serialize();
-	$$('#loading-search').show();
-	searchDialog.show().addClass('visible');
-	searchUtil.addClass('active');
-	if (jeppSearch.ajaxCall) jeppSearch.ajaxCall.abort();
-	jeppSearch.ajaxCall = $$.post(jeppSearch.ajaxApi, formData, function(result) {
-			searchDialogContent.html(result);
-			$$('#loading-search').hide();
-			jeppSearch.ajaxCall.abort();
-	});
-}
-
-</script>
             	</div>
             	<script type="text/javascript">initUtils();</script>
            	</div>
@@ -468,18 +396,10 @@ function getSearchResult() {
 							<li><a href="http://ww1.jeppesen.com/personal-solutions/aviation/aviation-training.jsp">Aviation Training</a></li>
 							<li><a href="http://ww1.jeppesen.com/personal-solutions/aviation/supplies.jsp">Pilot Supplies</a></li>
 							
-								
-									
-									
-										
-										
-									
-								
-							
 							
 								
+									<li><a href="http://jeppdirect.jeppesen.com/index.jsp?ostc=ostc00218al&amp;omnostcloc=cphd">Shop Online</a></li>
 								
-									<li><a href="http://jeppdirect.jeppesen.com/index.jsp?ostc=ostc00219al&amp;omnostcloc=cphd">JeppDirect</a></li>
 								
 							
 							<li><a href="http://ww1.jeppesen.com/educational/what-is-myjeppesen.jsp">Manage My Account</a></li>
@@ -1125,8 +1045,8 @@ $$('.nav-menu').hover(
 			
 		
 		<div id="site_widget" style="z-index: 100000">
-	<div id="site_mask" style="z-index: 110000; display: none; position: absolute; top: 0px; left: 0px; right: 0px; width: 100%; background: rgb(221, 221, 221); margin: 0px; padding: 0px; opacity: 0; height: 3467px;"></div>
-	<div id="site_dialog" style="z-index: 120000; display: none; position: absolute; background: #fff; box-shadow: 0 2px 12px rgba(0,0,0,0.5);  border-radius: 4px; padding: 20px;">
+	<div id="site_mask" style="z-index: 110000; display: none; position: fixed; top: 0px; left: 0px; right: 0px; width: 100%; background: rgb(221, 221, 221); margin: 0px; padding: 0px; opacity: 0; height: 3467px;"></div>
+	<div id="site_dialog" style="z-index: 120000; display: none; position: fixed; background: #fff; box-shadow: 0 2px 12px rgba(0,0,0,0.5);  border-radius: 4px; padding: 20px;">
 		<a href="javascript: void(0);" onclick="javascript:closeModalDialog();" style="display: block; position: absolute; width: 30px; height: 30px; top: -13px; right: -15px;"><img src="/main/corporate/img/modal/close.png" alt="Close"></a>
 		<div id="site_dialog_content">
 		</div>
@@ -1154,12 +1074,12 @@ function hideMask() {
 
 function openHtmlModalDialog(d_width, d_height, htmlContent, element) {
 	var centerX = Math.round($$(window).width()/2);
-	var centerY = Math.round($$(window).height()/2) + $$(window).scrollTop();
+	var centerY = Math.round($$(window).height()/2);
 	if (element != null) {
 		var offset = $$(element).offset();
 		_siteDialog.css({ width: 0, height: 0, top:offset.top, left:offset.left });
 	} else {
-		_siteDialog.css({ width: 0, height: 0, top:centerY, left:centerX });
+		_siteDialog.css({ width: 0, height: 0, top:centerY - $(window).scrollTop(), left:centerX - $(window).scrollLeft() });
 	}
 	
 	showMask();
@@ -1173,14 +1093,62 @@ function openHtmlModalDialog(d_width, d_height, htmlContent, element) {
 	});
 }
 
+function openIframeModalDialog(d_width, d_height, iframeUrl, element) {
+	var centerX = Math.round($$(window).width()/2);
+	var centerY = Math.round($$(window).height()/2);
+	if (element != null) {
+		var offset = $$(element).offset();
+		_siteDialog.css({ width: 0, height: 0, top:offset.top, left:offset.left });
+	} else {
+		_siteDialog.css({ width: 0, height: 0, top:centerY - $(window).scrollTop(), left:centerX - $(window).scrollLeft()});
+	}
+	
+	showMask();
+	_siteDialog.show().animate({
+		width:  d_width,
+		height: d_height,
+		top: centerY - (d_height/2),
+		left: centerX - (d_width/2)
+	},_modalSpeed, function() {
+		_siteDialogContent.html("<iframe src='"+iframeUrl+"' width='"+d_width+"' height='"+d_height+"' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>");
+	});
+}
+
+function openYoutubeModalDialog(d_width, d_height, youtubeUrl, element) {
+	var centerX = Math.round($$(window).width()/2);
+	var centerY = Math.round($$(window).height()/2);
+	var videoId = "";
+	if (youtubeUrl.lastIndexOf("=") != -1)
+		videoId = youtubeUrl.substr(youtubeUrl.lastIndexOf("=")+1);
+	else if (youtubeUrl.lastIndexOf("/") != -1) {
+		videoId = youtubeUrl.substr(youtubeUrl.lastIndexOf("/")+1);
+	}
+	if (element != null) {
+		var offset = $$(element).offset();
+		_siteDialog.css({ width: 0, height: 0, top:offset.top, left:offset.left });
+	} else {
+		_siteDialog.css({ width: 0, height: 0, top:centerY - $(window).scrollTop(), left:centerX - $(window).scrollLeft() });
+	}
+	
+	showMask();
+	_siteDialog.show().animate({
+		width:  d_width,
+		height: d_height,
+		top: centerY - (d_height/2),
+		left: centerX - (d_width/2)
+	},_modalSpeed, function() {
+		_siteDialogContent.html("<iframe src='https://www.youtube.com/embed/"+videoId+"' width='"+d_width+"' height='"+d_height+"' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>");
+	});
+}
+
 function openImageModalDialog(element) {
 	var centerX = Math.round($$(window).width()/2);
-	var centerY = Math.round($$(window).height()/2) + $$(window).scrollTop();
+	var centerY = Math.round($$(window).height()/2);
 	var defaultWidth = 300; var defaultHeight = 300;
 	if (element != null) {
 		var offset = $$(element).offset();
 		var href = $$(element).attr('href'); 
-		_siteDialog.css({ width: $$(element).width(), height: $$(element).height(), top:offset.top, left:offset.left });
+		_siteDialog.css({ width: $$(element).width(), height: $$(element).height(), top:offset.top - $(window).scrollTop(), left:offset.left - $(window).scrollLeft() });
 		var img = new Image();
 		showMask();
 		_siteDialog.show().animate({
@@ -1204,11 +1172,11 @@ function openImageModalDialog(element) {
 
 function openVideoModalDialog(d_width, d_height, element) {
 	var centerX = Math.round($$(window).width()/2);
-	var centerY = Math.round($$(window).height()/2) + $$(window).scrollTop();
+	var centerY = Math.round($$(window).height()/2);
 	if (element != null) {
 		var offset = $$(element).offset();
 		var href = $$(element).attr('href'); 
-		_siteDialog.css({ width: 0, height: 0, top:offset.top, left:offset.left });
+		_siteDialog.css({ width: 0, height: 0, top:offset.top - $(window).scrollTop(), left:offset.left - $(window).scrollLeft() });
 		_siteDialogContent.html("<div id='modal-player' style='display: none; background: #333; width:"+d_width+"; height:"+d_height+";'></div>");
 		var img = new Image();
 		showMask();
@@ -1245,7 +1213,7 @@ function openDialogWindow(URL, width, height) {
 
 function resizeModalDialog(newWidth, newHeight, speed, callback) {
 	var centerX = Math.round($$(window).width()/2);
-	var centerY = Math.round($$(window).height()/2) + $$(window).scrollTop();
+	var centerY = Math.round($$(window).height()/2);
 	_siteDialog.animate({
 		width:  newWidth,
 		height: newHeight,
@@ -1285,6 +1253,26 @@ $$(document).ready(function() {
         return false;
     });
 	
+	$$("a.dialog-iframe").click(function() {
+		var width = 640;
+		var height = 480;
+        var URL = $$(this).attr("href");
+		if ($$(this).attr("data-width")) width = $$(this).attr("data-width");
+		if ($$(this).attr("data-height")) height = $$(this).attr("data-height");
+        openIframeModalDialog(width, height, URL, $$(this));
+        return false;
+    });
+	
+	$$("a.dialog-youtube").click(function() {
+		var width = 640;
+		var height = 480;
+        var URL = $$(this).attr("href");
+		if ($$(this).attr("data-width")) width = $$(this).attr("data-width");
+		if ($$(this).attr("data-height")) height = $$(this).attr("data-height");
+        openYoutubeModalDialog(width, height, URL, $$(this));
+        return false;
+    });
+	
 	_siteMask.click(closeModalDialog);
 });
 </script>
@@ -1303,7 +1291,7 @@ $$(document).ready(function() {
 /* <![CDATA[ */
 document.write('<img src="http://ci24.actonsoftware.com/acton/bn/2536/visitor.gif?ts='+new Date().getTime()+'&ref='+escape(document.referrer) + '">');
 /* ]]> */
-</script><img src="http://ci24.actonsoftware.com/acton/bn/2536/visitor.gif?ts=1580429642839&amp;ref=">   
+</script><img src="http://ci24.actonsoftware.com/acton/bn/2536/visitor.gif?ts=1580429643889&amp;ref=">   
 	
 
 
