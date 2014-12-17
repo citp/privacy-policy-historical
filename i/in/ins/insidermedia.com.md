@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329130145id_/http%3A//www.insidermedia.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217021910id_/http%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Insider Media Ltd
 
