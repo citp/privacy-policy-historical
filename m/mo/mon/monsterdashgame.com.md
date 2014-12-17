@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the monsterdashgame.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063820id_/http%3A//wac.76ff.edgecastcdn.net/0076FF/DOCS/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterdashgame.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217232000id_/http%3A//halfbrick.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy | Halfbrick Studios
 
 [](http://www.halfbrick.com/)
 
-Last updated on 27th Mar, 2014
+Last updated on 17th December, 2014
 
   
 
@@ -49,7 +49,7 @@ We receive and store certain types of information automatically when you interac
 
   * information about how you use our Services. We use this information to help us continually improve our games, social features and our Services to you. When you sign-in to our games with Facebook, Google+ or another provider, we use the identity and friends from that provider so that you can play the same game on different devices, pick up where you left-off, and interact with your friends;
   * information about the device you use to access our Services such as its model, operating system, screen resolution, web browser, IP address, Media Access Control (MAC) address, Advertising Identifier, language and other technical information such as cookies and randomly generated unique identifiers (i.e. Bricknet ID, Device ID). You can disable cookies through your web or phone browser settings but you may find that you are not able to enjoy all of the features of our Services if you do so;
-  * your location so we know what language to use and so that we can provide the relevant games/features/promotions/advertisements that are applicable to your location; and 
+  * your location so we know what language to use and so that we can provide the relevant games/features/promotions/advertisements that are applicable to your location, such as offer Beintoo Starfruit; and 
   * if you "tell a friend," "email this page," or use another similar features, we will collect information to perform this feature for you.
 
 
@@ -79,7 +79,7 @@ We use the information we collect about you:
 
 
 
-We may provide aggregated or anonymous information to third parties for the purposes of developing and delivering targeted advertising. **We do not provide your personal information to advertisers.**
+We may provide information to third parties for the purposes of developing and delivering targeted advertising.
 
 We may use information held about you to verify your compliance with our [Terms of Service](http://halfbrick.com/tos "Halfbrick's Terms of Service"). 
 
@@ -88,7 +88,7 @@ We may use information held about you to verify your compliance with our [Terms 
 We may disclose the personal information we hold about you in the following circumstances:
 
   * if we are required or authorised to disclose by law or by a law enforcement agency;
-  * to our business partners in the course of providing our Services to you, or generally in the conduct of our business. This may include organisations who provide services to us, such as payment processors or hosting services. **We direct all our business partners to protect your privacy and to comply with privacy laws.** Please see below for more information about third party services; and
+  * to our business partners in the course of providing our Services to you, or generally in the conduct of our business. This may include organisations who provide services to us, such as payment processors or hosting services. Please see below for more information about third party services; and
   * to avoid, lessen or prevent a serious emergency or crime. If we use or disclose personal information about you in those circumstances we will make a written record of such use or disclosure.
 
 
@@ -117,18 +117,24 @@ If you permit your child to use one of our Services that is not labelled Child S
 
 ### 2.3 Third Party Services
 
-When you use our Services, you might also use third party services, such as Facebook, Twitter, Game Center and companies that advertise in our games. We do not control how they interact with you and you should ensure that you consent to the terms of use and privacy policies offered by the third party services before providing them with your information. **You acknowledge that we are not liable whenthird party services use information you provide to them.**
+When you use our Services, you might also use third party services, such as Facebook, Twitter and Game Center. We do not control how they interact with you and you should ensure that you consent to the terms of use and privacy policies offered by the third party services before providing them with your information. **You acknowledge that we are not liable whenthird party services use information you provide to them.**
 
 We encourage you to be careful about the protection of your own personal information when using third party services such as social media platforms.
 
-We work with certain business partners and information collected from you may be shared through these partnerships. Where we share your information with our business partners, we direct them to protect your information in the same way we protect your information and require them to comply with all applicable laws when handling your information.
+We also work with certain business partners, such as other game developers and advertising partners, and information collected from you may be shared through these partnerships.
 
-Some of our business partners are outside Australia. Below is a list of some, but not all, third parties that we actively share user information and site usage data with (this list is subject to change):
+Some of our business partners are outside Australia. Below is a list of some, but not all, business partners that we actively share user information and site usage data with (this list is subject to change):
 
-  * **Beintoo**. Located in Italy. [Read their Privacy Policy](http://www.beintoo.com/v2/privacy "Link to Beintoo's Privacy Policy");
+  * **Vostu**. Developers of Top Farm, and located in Argentina and the United States. [Read their Privacy Policy](http://www.vostu.com/en/#politic_modal "Link to Vostu's Privacy Policy");
+  * **Beintoo**. Located in Italy. [Read their Privacy Policy](http://beclub.com/en/privacy "Link to Beintoo's Privacy Policy");
   * **Other Levels**. Located in United States and Australia. [Read their Privacy Policy](http://ol-p-manager.s3.amazonaws.com/documents/19/OtherLevels_Privacy_Policy_v1.0.pdf "Link to Other Levels' Privacy Policy");
   * **Upsight**. Located in United States, United Kingdom and Canada. [Read their Privacy Policy](http://www.upsight.com/pricing/privacy-policy/ "Link to Upsight's Privacy Policy"); and
   * **Campaign Monitor**. Based in Australia with servers in United States. [Read their Privacy Policy](http://www.campaignmonitor.com/privacy/ "Link to Campaign Monitor's Privacy Policy")
+  * **MoPub**. Located in United States. [Read their Privacy Policy](http://www.mopub.com/legal/privacy/ "Link to MoPub's Privacy Policy")
+  * **Vungle**. Located in United States, United Kingdom, Germany and China. [Read their Privacy Policy](http://www.vungle.com/privacy/ "Link to Vungle's Privacy Policy")
+  * **Enfeel**. Developers of Birzzle, and located in South Korea. [Read their Privacy Policy](http://www.enfeel.com/pp.html "Link to Enfeel's Privacy Policy")
+  * **Citrus Joy**. Developers of Yes Chef!, and located in China. [Click here for more information](http://yeschefgame.com/ "Link to Yes Chef's homepage")
+  * . Australian developers of Band Stars. [Click here for more information](http://docs.halfbrick.com/Privacy-Policy-Six-Foot-Kid.htm "Link to Six Foot Kid's Privacy Policy")
 
 
 
@@ -157,7 +163,7 @@ If you need help opting-out please contact us at [support@halfbrick.com](mailto:
 
 ### 2.5 Storage & Security
 
-We store information on servers in Australia and in the Unites States.
+We store information on servers in Australia and in the United States.
 
 Security is important to us and we strive to protect both your information and our information in the best possible ways. But there are inherent risks in transmitting information over the Internet and it is possible that we could be hacked. You should feel comfortable with this level of risk before you provide information to us, or use our Services. If you are not comfortable with this risk, please do not use our Services.
 
