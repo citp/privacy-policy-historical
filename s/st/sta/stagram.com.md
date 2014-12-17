@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stagram.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133840id_/http%3A//web.stagram.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagram.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217154923id_/http%3A//websta.me/pp) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Websta
+# PRIVACY POLICY | Websta (Webstagram)
 
 _Last modified: November 14, 2012_
 
-This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“We”, “Us”, “Our”) handles your personal information for our services on Websta website at [web.stagram.com](http://web.stagram.com/) (“Site”). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“We”, “Us”, “Our”) handles your personal information for our services on Websta website at [websta.me](http://websta.me/) (“Site”). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 ## 1\. Information collection and use
 
@@ -12,7 +12,7 @@ This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“W
 
   * Your Internet protocol (IP) address;
   * Your browser's User Agent: A User Agent is a short string that web browsers and other applications send to identify themselves to web servers;
-  * Information you share with us: For example, We store your email address if you authorize us to do so by providing us with your email address on the settings page of the Site at [http://web.stagram.com/settings.](http://web.stagram.com/settings)
+  * Information you share with us: For example, We store your email address if you authorize us to do so by providing us with your email address on the settings page of the Site at [http://websta.me/settings.](http://websta.me/settings)
 
 
 
@@ -24,7 +24,7 @@ This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“W
 
 ## 2\. Our policy towards children
 
-Our Site is not directed to children under 13. If you become aware that your child has provided Us with personal information without your consent, please contact Us at info@stagram.com. We do not knowingly collect personal information from children under 13. If We become aware that a child under 13 has provided Us with personal information, We take steps to remove such information.
+Our Site is not directed to children under 13. If you become aware that your child has provided Us with personal information without your consent, please contact Us at info@websta.me. We do not knowingly collect personal information from children under 13. If We become aware that a child under 13 has provided Us with personal information, We take steps to remove such information.
 
 ## 3\. Information Sharing and Disclosure
 
@@ -54,7 +54,7 @@ Our Site is not directed to children under 13. If you become aware that your chi
 
 ## 6\. Questions and Suggestions
 
-If you have any questions or concerns about this Privacy Policy or its implementation you may contact Us at info@stagram.com.
+If you have any questions or concerns about this Privacy Policy or its implementation you may contact Us at info@websta.me.
 
 ## 7\. Modifications to This Privacy Policy
 
