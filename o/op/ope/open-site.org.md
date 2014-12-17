@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open-site.org privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614043657id_/http%3A//open-site.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open-site.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217043529id_/http%3A//open-site.org/privacy-policy) for the most accurate reproduction.*
 
 # Open-Site | What are you interested in learning?
 
