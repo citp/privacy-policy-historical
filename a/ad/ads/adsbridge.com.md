@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsbridge.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628070249id_/http%3A//www.adsbridge.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsbridge.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217214953id_/http%3A//www.adsbridge.com/index/privacy) for the most accurate reproduction.*
 
-# 
+# AdsBridge - drive your traffic to success!
 
 ##  Overview 
 
@@ -68,4 +68,4 @@ Please remember that you control what personal information you provide while usi
 
 ###  10\. Contact Us 
 
-If you have any questions or suggestions regarding our Privacy Policy, please [contact us here](https://web.archive.org/index/contactus). 
+If you have any questions or suggestions regarding our Privacy Policy, please  [contact us here](https://web.archive.org/index/contactus). 
