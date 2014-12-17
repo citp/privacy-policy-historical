@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the annies-eats.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625183246id_/http%3A//www.annies-eats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annies-eats.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217113101id_/http%3A//www.annies-eats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Annie's Eats
 
-**Last Updated: 11.19.2013**
+**Last Updated: 9.21.14**
 
 This Privacy Policy (the “Privacy Policy”) applies to the information Annie’s Eats, Inc. (“Annie’s Eats,” “we,” “us”) collects about you from any devise you use to access our website located at www.annies-eats.com (the “Site”) and how we use that information. Please note that the Privacy Policy applies solely to our online information-gathering and dissemination practices in connection with the Site and does not apply to any of our practices conducted offline. Your use of the Site, the email subscription service, and our online store (together “Services”) indicates you have read and understood this Privacy Policy and indicates you agreement to abide by the Terms of Service in effect. If you have any questions or comments about the Privacy Policy or our privacy practices, please contact us at www.annies-eats.com/contact.
 
@@ -58,7 +58,7 @@ In some instances, we may link or combine Site Usage Data and PII. To the extent
 
  _Third Party Service Providers_
 
-Your Site Usage Data may be made available to third party service providers (specifically including Big Cartel and the Blogher Network) with whom we contract in order to obtain Site-related services (e.g. web hosting, improving Site features and functionality, providing ancillary services, processing payments, or providing maintenance). By using this Site or any other Services we provide, you recognize that you are providing this Site Usage Data voluntarily and that these third party service providers may collect and use this data in accordance with their respective Terms of Use and Privacy Policies. By using this Site or any other Services we provide, you acknowledge that your rights to Site Usage Data collected and used by these third party service providers will be governed by the agreements and policies relating to these third party service providers. For additional information on the terms of these agreements, visit www.bigcartel.com or www.blogher.com.
+Your Site Usage Data may be made available to third party service providers (specifically including Big Cartel and the Blogher Network) with whom we contract in order to obtain Site-related services (e.g. web hosting, improving Site features and functionality, providing ancillary services, processing payments, or providing maintenance). By using this Site or any other Services we provide, you recognize that you are providing this Site Usage Data voluntarily and that these third party service providers may collect and use this data in accordance with their respective Terms of Use and Privacy Policies. By using this Site or any other Services we provide, you acknowledge that your rights to Site Usage Data collected and used by these third party service providers will be governed by the agreements and policies relating to these third party service providers. For additional information on the terms of these agreements, visit www.bigcartel.com or www.blogher.com. For information about opting out of Gourmet Ads and ad serving partners please visit[http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy)“.
 
  **Choices and Access**
 
