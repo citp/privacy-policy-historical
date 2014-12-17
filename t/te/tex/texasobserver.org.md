@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the texasobserver.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214120824id_/http%3A//www.texasobserver.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasobserver.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217223501id_/http%3A//www.texasobserver.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Texas Observer
+# Privacy Policy - The Texas Observer
 
 This website (“[www.TexasObserver.org](http://www.texasobserver.org/)“) is owned by The Texas Democracy Foundation dba _The Texas Observer_. It is our policy to protect your personal information and to use it in accordance with this PrivacyPolicy. Please take a few moments to review our Privacy Policy.
 
