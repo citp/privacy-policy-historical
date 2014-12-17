@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playgirl.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612134448id_/http%3A//playgirl.com//privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgirl.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033858id_/http%3A//playgirl.com//privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Playgirl
 
