@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the madwhips.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522233745id_/http%3A//www.madwhips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madwhips.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217142725id_/http%3A//www.madwhips.com/privacy-policy) for the most accurate reproduction.*
 
 # MadWhips
 
 Details
      Published: 26 February 2014 
-     Hits: 3515 
+     Hits: 24284 
 
 Thank you for using MadWhips! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have. Because our services are provided online, some of the concepts below are a little technical, but we’ve tried our best to explain things in a simple and clear way. We welcome your questions and comments on this policy. Capitalized terms used but not defined herein have the meanings assigned to them in the Terms of Service Agreement (“ **Agreement** ”).
 
