@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proioxis.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063528id_/http%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proioxis.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217181120id_/http%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
 
 # CEOWORLD Magazine Privacy Policy - CEOWORLD magazine
 
