@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bulkfoods.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025543id_/http%3A//www.bulkfoods.com/content/28-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkfoods.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033551id_/http%3A//www.bulkfoods.com/content/28-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bulkfoods.com
 
 Effective **01/01/2002**
 
-  * ##  **Privacy Policy Table Of Contents:**
+  * ## **Privacy Policy Table Of Contents:**
 
     * Privacy Overview  
     * The Information That Is Collected  
@@ -25,7 +25,7 @@ Privacy is important. To better protect privacy this policy is provided explaini
 
 * * *
 
-##  **The Information That Is Collected:**
+## **The Information That Is Collected:**
 
 This notice applies to all information collected or submitted on this website. On some pages, products can be ordered, requests can be made, and registrations made to receive materials. The types of personal information collected at these pages are: Name. Address, Email address, Phone number, Credit/Debit Card Information, etc.
 
@@ -33,7 +33,7 @@ On some pages, information can be submitted about other people. For example, if 
 
 * * *
 
-##  **The Way The Information Is Utilized:**
+## **The Way The Information Is Utilized:**
 
 The personal information provided when placing an order is needed to complete the order. The information is used to verify a persons identity. This information is used to process credit card information. The information is used to process and ship the order. The information is used to track orders when needed. Information is not shared with outside parties except to delivery service companies, credit card processing agencies and banks, and other companies as required or allowed by law. The information may be shared with firms including accountants, lawyers, government agencies and other parties as may be required or allowed by law. The information may be used by leased personnel or seasonal staffing companies and their personnel to process the order. The information may be used by contracted warehouses and freight lines necessary to fulfill the order in a timely manner.
 
@@ -49,19 +49,19 @@ Finally, the personal identifiable information provided is never used or shared 
 
 * * *
 
-##  **Data Security:**
+## **Data Security:**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 * * *
 
-##  **Children's Privacy:**
+## **Children's Privacy:**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 * * *
 
-##  **How Information Can be Accessed or Corrected:**
+## **How Information Can be Accessed or Corrected:**
 
 All personally identifiable information that is collected online and maintained can be accessed by saving email confirmations and/or making a request in writing. This procedure is used to better safeguard the information.
 
@@ -71,10 +71,10 @@ To protect privacy and security, reasonable steps are taken to verify identity b
 
 * * *
 
-##  **Privacy Notice Revisions:**
+## **Privacy Notice Revisions:**
 
 To be able to continue to protect personal privacy and to conform to changing generally accepted practices the right is reserved to change this privacy notice. This privacy policy may need changed to comply with future government regulations which are constantly changing as the internet evolves. 
 
-##  **How To Communicate About Privacy:**
+## **How To Communicate About Privacy:**
 
 Should there be other questions or concerns about these privacy policies, please mail a letter to our corporate office with the following caption. ATT: Privacy Manager BulkFoods.com 3040 Hill Avenue Toledo, Ohio 43607-2931
