@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemic.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529100909id_/http%3A//bluemic.com/salesandsupport/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemic.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217162353id_/http%3A//bluemic.com/salesandsupport/privacy.html) for the most accurate reproduction.*
 
 # Blue Microphones | Privacy Policy
 
