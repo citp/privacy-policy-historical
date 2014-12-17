@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freshandeasy.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025134id_/http%3A//www.freshandeasy.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshandeasy.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217030346id_/http%3A//freshandeasy.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Fresh & Easy Online Privacy Policy | Fresh & Easy
 
 **Fresh & Easy Online Privacy Policy**
 
-This Privacy Policy governs the websites (each a "Site" and collectively "Sites") owned by Y-Opco LLC ("Fresh & Easy") where this Privacy Policy is posted. Fresh & Easy is committed to protecting your privacy when you visit our Sites. This Privacy Policy informs you about the information we collect on our Sites and how we use, share, and protect it. YOUR USE OF THIS SITE SIGNIFIES YOUR ASSENT TO OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO OUR PRIVACY POLICY, PLEASE DO NOT USE THIS SITE.
+This Privacy Policy governs the websites (each a "Site" and collectively "Sites") owned by Fresh & Easy LLC ("Fresh & Easy") where this Privacy Policy is posted. Fresh & Easy is committed to protecting your privacy when you visit our Sites. This Privacy Policy informs you about the information we collect on our Sites and how we use, share, and protect it. YOUR USE OF THIS SITE SIGNIFIES YOUR ASSENT TO OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO OUR PRIVACY POLICY, PLEASE DO NOT USE THIS SITE.
 
 Your use of this Site is also subject to our website [Terms and Conditions](https://web.archive.org/about-us/legal/terms-of-use/ "Terms of use"). This Privacy Policy is incorporated into, and made a part of, the Terms and Conditions.
 
@@ -169,4 +169,4 @@ If you have any questions about our Privacy Policy, contact us by [e-mail](https
 
 Updated: June 2014
 
-©2014 Y-Opco LLC. All rights reserved.
+©2014 Fresh & Easy LLC. All rights reserved.
