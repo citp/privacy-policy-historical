@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoagames.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617070153id_/http%3A//www.hoagames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoagames.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217101037id_/http%3A//www.hoagames.com/privacy.html) for the most accurate reproduction.*
 
 # Hoagames.com Privacy Policy
 
