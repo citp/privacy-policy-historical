@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatdailydeal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062148id_/http%3A//www.thatdailydeal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatdailydeal.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217043347id_/http%3A//www.thatdailydeal.com/privacy.php) for the most accurate reproduction.*
 
 # That Daily Deal
 
@@ -31,6 +31,17 @@ All orders are prepaid. When ordering, your credit card (or PayPal) is charged w
 ### Shipping Information
 
 The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed within 72 hours and shipped within 10 days of purchase (unless otherwise stated). We cannot be held responsible for delays brought about by the Postal System, Courier Service Delays, the weather, etc. For more information regarding our shipping policies, please travel on over [here](http://thatdailydeal.com/shipping.php).
+
+### Giveaways and Sweepstakes
+
+To enter our sweepstakes or giveaway, please mail postcard to:
+
+Jammin' Butter - Sweepstakes  
+Attn: Casey Booyinga  
+168 Roweland Drive  
+Johnson City, TN 37601
+
+Please include first name, last name, date of birth and email address. One postcard equals one entry. You can enter as many times as you want.
 
 ### In More Detail
 
