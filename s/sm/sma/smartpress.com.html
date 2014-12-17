@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartpress.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625081742id_/http%3A//smartpress.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartpress.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217023245id_/http%3A//smartpress.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -8,42 +8,12 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=001190126848711984027:vjuwggl5ci8"></script><script async="" src="//web.archive.org/web/20150315004106/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwAHWVdaGwEDV1lTDwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><link rel="stylesheet" href="/javascriptLib/jquery-plugins/ui-1.8.5/smoothness/jquery-ui-1.8.5.custom.css?version=2.22.4-2014-06-12-231836" type="text/css">
-<script type="text/javascript" src="/javascriptLib/jquery-1.4.2/jquery-1.4.2.min.js?version=2.22.4-2014-06-12-231836"></script>
-<script type="text/javascript" src="/javascriptLib/jquery-plugins/jquery.animation.easing.js?version=2.22.4-2014-06-12-231836"></script>
-<script type="text/javascript" src="/javascriptLib/jquery-plugins/ui-1.8.5/jquery-ui-1.8.5.custom.min.js?version=2.22.4-2014-06-12-231836"></script>
 
+<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=001190126848711984027:vjuwggl5ci8"></script><script async="" src="//web.archive.org/web/20150315004106/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwAHWVdaGwEDV1lTDwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script><link rel="stylesheet" href="/javascriptLib/jquery-plugins/ui-1.8.5/smoothness/jquery-ui-1.8.5.custom.css?version=2.29.4-2014-12-11-225932" type="text/css">
+<link rel="stylesheet" href="/javascriptLib/jquery-plugins/fancybox/jquery.fancybox-1.3.1.css?version=2.29.4-2014-12-11-225932" type="text/css">
+<link rel="stylesheet" type="text/css" href="/web3/css/colorbox.css?version=2.29.4-2014-12-11-225932">
+<link rel="stylesheet" href="/site_theme_globals/css/global.css?version=2.29.4-2014-12-11-225932" type="text/css">
 
-<link rel="stylesheet" href="/javascriptLib/jquery-plugins/fancybox/jquery.fancybox-1.3.1.css?version=2.22.4-2014-06-12-231836" type="text/css">
-<link rel="stylesheet" media="screen" type="text/css" href="/javascriptLib/jquery-plugins/colorpicker-23.05.2009/css/colorpicker.css?version=2.22.4-2014-06-12-231836">
-
-<link rel="stylesheet" type="text/css" href="/web3/css/colorbox.css?version=2.22.4-2014-06-12-231836">
-<script language="JavaScript" type="text/javascript" src="/web3/js/vendor/jquery.colorbox-1.4.33.min.js?version=2.22.4-2014-06-12-231836"></script>
-
-
-<script type="text/javascript" src="/javascriptLib/jquery-plugins/jq_connect_1.0.1-RC-2/jquery.connect.tbg_modified.js?version=2.22.4-2014-06-12-231836"></script>
-
-<script type="text/javascript" src="/javascriptLib/jquery-plugins/jquery.cookie.js?version=2.22.4-2014-06-12-231836"></script>
-<script type="text/javascript" src="/javascriptLib/jquery-plugins/jquery.json.js?version=2.22.4-2014-06-12-231836"></script>
-
-<script type="text/javascript" src="/javascriptLib/jquery-plugins/fancybox/jquery.fancybox-1.3.1.pack.js?version=2.22.4-2014-06-12-231836"></script>
-<script type="text/javascript" src="/javascriptLib/jquery-plugins/colorpicker-23.05.2009/js/colorpicker.js?version=2.22.4-2014-06-12-231836"></script>
-<script type="text/javascript" src="/javascriptLib/jquery-plugins/nestedSortable-1.3.4/jquery.ui.nestedSortable.js?version=2.22.4-2014-06-12-231836"></script>
-
-<script type="text/javascript" src="/javascript/base.js?version=2.22.4-2014-06-12-231836"></script>
-<script language="JavaScript" type="text/javascript" src="/base/cometobjects/base_co.js?version=2.22.4-2014-06-12-231836"></script>
-<script language="JavaScript" type="text/javascript">
-var DEBUG = false;
-var formAction = "/pages";
-var comm = new Communications('com.tbg.pub.handler.store.TBGStoreContentPage');
-var STORECOMETLINK = '/comet/store';
-</script>
-<script language="JavaScript" type="text/javascript">
-var searchGlobals = {
-        searchResultsURL: '/search'
-};
-</script>
-<script language="JavaScript" type="text/javascript" src="/site_theme_globals/javascript/templateHeader.js?version=2.22.4-2014-06-12-231836"></script>
 <script language="JavaScript" type="text/javascript">
 var cookieAndLoginGlobals = {
         SPCOOKIENAME: 'SPCOOKIE',
@@ -57,22 +27,47 @@ var cookieAndLoginGlobals = {
         cartURL: '/order/cart',
         logoutHandlerURL: '/content/logout'
 };
+
+var searchGlobals = {
+        searchResultsURL: '/search'
+};
+
+var DEBUG = false;
+var formAction = "/pages";
+var STORECOMETLINK = '/comet/store';
 </script>
-<script language="JavaScript" type="text/javascript" src="/site_theme_globals/controllers/cookieAndLoginController.js?version=2.22.4-2014-06-12-231836"></script>
-<script language="JavaScript" type="text/javascript" src="/site_theme_globals/javascript/linkTracker.js?version=2.22.4-2014-06-12-231836"></script>
+
+<script type="text/javascript" src="/javascript/base.js?version=2.29.4-2014-12-11-225932"></script>
+
+<script language="JavaScript" type="text/javascript" src="/base/cometobjects/base_co.js?version=2.29.4-2014-12-11-225932"></script>
+
+<script language="JavaScript" type="text/javascript">
+	var comm = new Communications('com.tbg.pub.handler.store.TBGStoreContentPage');
+</script>
+
+<script type="text/javascript" src="/site_theme_globals/javascript/storefront_common.js?version=2.29.4-2014-12-11-225932"></script>
+
+
+
+
+
+
+
  
-<link rel="stylesheet" href="/site_theme_globals/css/global.css?version=2.22.4-2014-06-12-231836" type="text/css">
+
 
 
 
 <script language="JavaScript" type="text/javascript">
 var cartPreviewGlobals = {
       chandler: '/comet/store-cart-handler',
-      cartURL: '/order/cart'
+      cartURL: '/order/cart',
+      multipleProjectsEnabled: false
 };
 </script>
-<script language="JavaScript" type="text/javascript" src="/site_theme_globals/controllers/projectCookieController.js?version=2.22.4-2014-06-12-231836"></script>
-<script language="JavaScript" type="text/javascript" src="/site_theme_globals/controllers/cartPreviewController.js?version=2.22.4-2014-06-12-231836"></script>
+
+<script language="JavaScript" type="text/javascript" src="/site_theme_globals/controllers/projectCookieController.js?version=2.29.4-2014-12-11-225932"></script>
+<script language="JavaScript" type="text/javascript" src="/site_theme_globals/controllers/cartPreviewController.js?version=2.29.4-2014-12-11-225932"></script>
 
 
 
@@ -95,7 +90,9 @@ var cartPreviewGlobals = {
 
 <link rel="stylesheet" href="/resources/sites/1_site/css_compiled/960.css" type="text/css">
 <link rel="stylesheet" href="/resources/sites/1_site/css_compiled/common.css" type="text/css">
-<link rel="stylesheet" href="/resources/sites/1_site/css_compiled/styles.css?v=2.05" type="text/css">
+<link rel="stylesheet" href="/resources/sites/1_site/css_compiled/styles.css?v=2.06" type="text/css">
+
+
 
 <!-- Start Google Analytics Code -->
 <script language="JavaScript" type="text/javascript" src="/resources/sites/1_site/assets/google-analytics.js?v=1.0.2"></script>
@@ -110,21 +107,26 @@ library_tolerance=2500,
 use_existing_jquery=false,
 // DO NOT EDIT BELOW THIS LINE
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=33174&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140625081742id_%2Fhttp%3A%2F%2Fsmartpress.com%2Fpages%2Fprivacy%2F&amp;r=0.990508024266852" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=33174&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141217023245id_%2Fhttp%3A%2F%2Fsmartpress.com%2Fpages%2Fprivacy%2F&amp;r=0.5928747038725741" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
 
 <!-- Google Site Search - https://developers.google.com/custom-search/docs/element -->
 <script>
-  (function() {
-    var cx = '001190126848711984027:vjuwggl5ci8';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//www.google.com/cse/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
+    (function() {
+        var cx = '001190126848711984027:vjuwggl5ci8';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
+        $(document).ready(function() {
+            setTimeout(function(){
+                $('input.gsc-input').attr('placeholder', 'Search...');
+            },1000);
+        });
 </script>
 <!-- end Google Site Search -->
 
@@ -204,7 +206,6 @@ margin-top: 20px;
 background-color: #ececec;
 }
 
-
 </style>
 
 </head>
@@ -219,218 +220,231 @@ background-color: #ececec;
  
 
 
-<div class="container_16">
+<div id="top">
 
-<div id="logo" class="grid_4"><a href="/home"><img src="/resources/sites/1_site/images/smartpress-logo.png" width="197" height="41" border="0" alt="smartpress.com"></a></div>
-<div class="grid_5 alpha phoneNumber">
-<!-- alert message <div style="font-size: 11px; color: #222; padding-left: 17px;"></div> -->
-<div class="grid_3 alpha omega"><p><span class="paragraph_highlight">888-934-6909</span></p></div> <div class="grid_2 alpha omega"><a title="Click for the Business Review of Smartpress.com, an Online Printing Company in Chanhassen, MN" href="http://www.bbb.org/minnesota/business-reviews/image-and-graphics-printing/smartpresscom-in-chaska-mn-96194279#sealclick" target="_blank"><img alt="Click for the Business Review of Smartpres.com, an Online Printing Company in Chaska, MN" style="border: 0; float: right; margin-top: 5px;" src="http://seal-minnesota.bbb.org/seals/black-seal-96-50-smartpresscom-96194279.png" width="80" height="42"></a></div>
+<!-- Header -->
+<div id="header">
+    
+    <!-- Upper -->
+    <div class="upper">
 
-</div>
+        <!-- Container -->
+        <div class="container_16">
 
-<div class="accountArea">
+            <!-- Contact -->        
+            <div class="grid_4 alpha contact">
+                <p><strong>Call 888.934.6909</strong><br>Mon.–Fri. 8:00 a.m.–5:00 p.m. CST</p>
+            </div>
+            <!-- end Contact -->  
 
-<div id="accountMenu"></div>
-
-
-<a href="#" class="ifNotSignedIn launch SignIn">Sign In</a>
-<a href="/order/domainSwitch?requesttype=redirect&amp;pageaction=redirect&amp;targeturl=https%3A%2F%2Fsmartpress.collaterate.com%2Fcontent%2FloginOrRegister" class="ifNotSignedIn launch register" onclick="return linkTracker.linkClicked(this.href)">Register</a>
-
-<div class="ifNotSignedIn" style="position:relative">
-<div id="signInBox">
-<a href="#" class="closeSignIn"></a>
-<div id="signin"></div>
-
-<div class="passwordLink"><a href="javascript:passwordPanel.open()">Lost Password?</a></div>
-</div>
-</div>
-
-</div><!-- / account area -->
-
-<div class="grid_3">
-<div class="cartSummary">
+            <!-- BBB -->
+            <div class="grid_2 BBB">
+                <a title="Click for the Business Review of Smartpress.com, an Online Printing Company in Chanhassen, MN" href="http://www.bbb.org/minnesota/business-reviews/image-and-graphics-printing/smartpresscom-in-chanhassen-mn-96194279#sealclick" target="_blank"><img alt="Click for the Business Review of Smartpres.com, an Online Printing Company in Chanhassen, MN" src="/resources/sites/1_site/images/bbb-seal.png" width="80" height="42"></a>
+            </div>
+            <!-- end BBB -->
+            
+            <!-- Account -->   
+            
+            <div id="ifNotSignedInFormInsert" class="grid_5 accountAreaTop">
+            
+                <div id="accountMenu"></div>
 
 
-<div id="cartContents"><!-- dynamic --></div>
-<div id="cartButton" class="hideIt"><button type="button" class="secondary cartSummaryCheckout" onclick="shoppingCartPreview.checkout()">Checkout</button></div>
+                <a href="#" class="ifNotSignedIn launch SignIn">Sign In</a>
+                <a href="/order/domainSwitch?requesttype=redirect&amp;pageaction=redirect&amp;targeturl=https%3A%2F%2Fsmartpress.collaterate.com%2Fcontent%2FloginOrRegister" class="ifNotSignedIn launch register" onclick="return linkTracker.linkClicked(this.href)">Register</a>
+
+                <div id="ifNotSignedInForm" class="ifNotSignedIn">
+                    <div id="signInBox">
+                        <a href="#" class="closeSignIn"></a>
+                        <div id="signin"></div>
+
+                        <div class="passwordLink"><a href="javascript:passwordPanel.open()">Lost Password?</a></div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- end Account -->
+            
+            <!-- Search -->
+            <div id="search" class="grid_3">
+                <gcse:searchbox-only id="gSearchbox"></gcse:searchbox-only>
+            </div>
+            <!-- end Search -->
+
+            <!-- Cart -->       		
+            <div id="cart-holder" class="grid_2 omega">
+            
+                <div id="cart">
+                    <a href="/order/cart"><span class="shopping-cart"></span></a>
+                </div>
+                
+                <div class="cartSummary">
+                    
+		<div id="cartContents"><!-- dynamic --></div>
+		<div id="cartButton" class="hideIt"><button type="button" class="secondary cartSummaryCheckout" onclick="shoppingCartPreview.checkout()">Checkout</button></div>
+		
 
 
-</div>
-</div>
+                </div>
+                
+            </div>
+            <!-- end Cart -->
 
+        </div>
+        <!-- end Container-->
+        
+    </div>
+	<!-- end Upper -->
+        
+    <!-- Lower -->
+    <div class="lower">
 
-<div class="contentNav">
-<div class="grid_11 alpha">
-<div class="departmentBox">
- <ul id="departments">    <li class="off" id="mi1112"><div>Printing</div></li>
-    <li class="off" id="mi1113"><div>Signs</div></li>
-    <li class="off" id="mi1114"><div>Weddings</div></li>
-</ul>
-</div>
- <ul id="main_nav">    <li class="off" id="mi77"><a href="/pages/ordering-print-online/">Ordering</a></li>
-    <li class="off" id="mi3"><a href="/pages/design-file-preparation/">File Preparation</a></li>
-    <li class="off" id="mi90"><a href="/pages/proofs/">Help</a></li>
-    <li class="on" id="mi4"><a href="/pages/about-smartpress">About Us</a></li>
-    <li class="off" id="mi1144"><a href="http://blog.smartpress.com">Blog</a></li>
-</ul>
-</div>
+        <!-- Container -->
+        <div class="container">
+            <div class="wrapper">
+                <div class="container-inner">        
+            
+                    <!-- Smartpress Logo -->
+                    <div id="splogo">
+                        <h1><a href="/home">Smartpress.com</a></h1>
+                    </div>
+                    <!-- end Smartpress Logo -->
 
-<div class="ieFix"></div>
-
-<div class="smartProgram">
- <ul>
- <li class="btn-smartBuy">Smart Buyer Program</li>
- <li class="btn-whySmartpress">Why Smartpress.com</li>
- </ul>
-</div>
-
-<div id="printingMenu" class="departmentMenu printing">
-<div class="departmentIndicator"></div>
-<ul id="printing1">    <li class="off" id="mi1115"><a href="/offering/announcement-printing">Announcements</a></li>
-    <li class="off" id="mi6623"><a href="/shop/custom-booklets">Booklets</a></li>
-    <li class="off" id="mi1119"><a href="/offering/bookmark-printing">Bookmarks</a></li>
-    <li class="off" id="mi1120"><a href="/offering/brochure-printing">Brochures</a></li>
-    <li class="off" id="mi5770"><a href="/offering/decal-printing">Bumper Stickers</a></li>
-    <li class="off" id="mi1122"><a href="/shop/business-card-printing">Business Cards</a></li>
-    <li class="off" id="mi4776"><a href="/shop/business-stationery">Business Stationery</a></li>
-    <li class="off" id="mi1123"><a href="/pages/custom-calendars">Calendars</a></li>
-    <li class="off" id="mi1149"><a href="/offering/custom-canvas-prints">Canvas - Gallery Wrapped</a></li>
-    <li class="off" id="mi2873"><a href="/offering/photo-canvas">Canvas - Photo</a></li>
-    <li class="off" id="mi6292"><a href="/offering/carbonless-forms">Carbonless Forms</a></li>
-    <li class="off" id="mi1151"><a href="/offering/card-printing">Cards</a></li>
-    <li class="off" id="mi5588"><a href="/offering/collated-printing">Collated Printing</a></li>
-    <li class="off" id="mi1124"><a href="/offering/decal-printing">Decals</a></li>
-    <li class="off" id="mi1534"><a href="/offering/door-hanger">Door Hangers</a></li>
-    <li class="off" id="mi6414"><a href="/shop/envelope-printing">Envelopes</a></li>
-    <li class="off" id="mi7633"><a href="/offering/flyer-printing">Flyers</a></li>
-</ul>
-<ul id="printing2">    <li class="off" id="mi2865"><a href="/offering/greeting-card-printing">Greeting Cards</a></li>
-    <li class="off" id="mi1134"><a href="/offering/invitation-printing">Invitations</a></li>
-    <li class="off" id="mi1132"><a href="/offering/label-printing">Labels</a></li>
-    <li class="off" id="mi4777"><a href="/offering/letterhead">Letterhead</a></li>
-    <li class="off" id="mi1133"><a href="/shop/custom-magnets">Magnets</a></li>
-    <li class="off" id="mi7019"><a href="/shop/menu-printing">Menu Printing</a></li>
-    <li class="off" id="mi4277"><a href="/offering/notepad-printing">Notepads</a></li>
-    <li class="off" id="mi6415"><a href="/offering/pocket-folders">Pocket Folders</a></li>
-    <li class="off" id="mi1129"><a href="/offering/postcard-printing">Postcards</a></li>
-    <li class="off" id="mi2403"><a href="/offering/rack-cards">Rack Cards</a></li>
-    <li class="off" id="mi1125"><a href="/shop/save-the-date-printing">Save the Dates</a></li>
-    <li class="off" id="mi1126"><a href="/offering/sticker-printing">Stickers</a></li>
-    <li class="off" id="mi1127"><a href="/offering/sell-sheet-printing">Sell Sheets</a></li>
-    <li class="off" id="mi3813"><a href="/offering/table-tent-printing">Table Tents</a></li>
-    <li class="off" id="mi4052"><a href="/offering/thank-you-card-printing">Thank You Cards</a></li>
-    <li class="off" id="mi1150"><a href="/offering/trifold-brochure-printing">Trifold Brochures</a></li>
-    <li class="off" id="mi3765"><a href="/shop/custom-window-clings">Window Clings</a></li>
-</ul>
-<ul class="thePitch">
-<li class="one">Unbeatable prices on small quantities</li>
-<li class="two">Widest range of paper choices</li>
-<li class="three">World-class service</li>
-<li class="satisfaction">Satisfaction Guaranteed</li>
-</ul>
-</div>
-<div id="signsMenu" class="departmentMenu signs" style="left: 86.8906px;">
-<div class="departmentIndicator"></div>
-<ul id="signs">    <li class="off" id="mi1135"><a href="/offering/backlit-signs">Backlit Graphics</a></li>
-    <li class="off" id="mi1136"><a href="/offering/hanging-banners">Banners - Hanging</a></li>
-    <li class="off" id="mi1137"><a href="/offering/retractable-banners">Banners - Retractable</a></li>
-    <li class="off" id="mi2459"><a href="/offering/step-and-repeat-banners">Banners - Step and Repeat</a></li>
-    <li class="off" id="mi4049"><a href="/shop/banner-stands">Banner Stands and Hardware</a></li>
-    <li class="off" id="mi1822"><a href="/offering/campaign-yard-sign-printing">Campaign Yard Signs</a></li>
-    <li class="off" id="mi3944"><a href="/offering/car-magnet">Car Magnets</a></li>
-    <li class="off" id="mi2173"><a href="/offering/floor-graphic-printing">Floor Graphics</a></li>
-    <li class="off" id="mi1138"><a href="/offering/custom-canvas-prints">Gallery Wrapped Canvas</a></li>
-    <li class="off" id="mi4971"><a href="/shop/poster-printing">Poster Printing</a></li>
-    <li class="off" id="mi7763"><a href="/shop/sidewalk-signs">Sidewalk Signs</a></li>
-    <li class="off" id="mi1140"><a href="/offering/sign-printing">Signs</a></li>
-    <li class="off" id="mi1147"><a href="/offering/table-tent-printing">Table Tents</a></li>
-    <li class="off" id="mi1142"><a href="/shop/custom-window-clings">Window Clings</a></li>
-    <li class="off" id="mi1820"><a href="/offering/yard-sign-printing">Yard Signs</a></li>
-</ul>
-<ul class="thePitch">
-<li class="one">Large and small sizes at photo quality</li>
-<li class="two">Wide selection of substrates</li>
-<li class="three">World-class service and quality</li>
-<li class="satisfaction">Satisfaction Guaranteed</li>
-</ul>
-</div>
-<div id="weddingsMenu" class="departmentMenu weddings" style="left: 157.016px;">
-<div class="weddingDrop">
-<div class="departmentIndicator"></div>
-<ul id="weddings">    <li class="off" id="mi3705"><a href="/shop/wedding-printing-services">Wedding Printing Services</a>    <ul>
-        <li class="off" id="mi1160"><a href="/offering/save-the-date-printing">Save the Date Cards</a></li>
-        <li class="off" id="mi1162"><a href="/offering/save-the-date-magnets">Save the Date Magnets</a></li>
-        <li class="off" id="mi1161"><a href="/offering/save-the-date-postcard-printing">Save the Date Postcards</a></li>
-        <li class="off" id="mi3707"><a href="/offering/wedding-invitation-printing">Invitations</a></li>
-        <li class="off" id="mi6139"><a href="/offering/envelope-printing">Envelopes</a></li>
-        <li class="off" id="mi3708"><a href="/offering/reception-card-printing">Reception Cards</a></li>
-        <li class="off" id="mi3706"><a href="/offering/rsvp-card-printing">RSVP Cards</a></li>
-        <li class="off" id="mi3709"><a href="/offering/map-card-printing">Map Cards</a></li>
-        <li class="off" id="mi3712"><a href="/offering/thank-you-card-printing">Thank You Cards</a></li>
-        <li class="off" id="mi3713"><a href="/offering/seal-printing">Envelope and Favor Seals</a></li>
-        <li class="off" id="mi3714"><a href="/offering/menu-card-printing">Menus</a></li>
-        <li class="off" id="mi3715"><a href="/offering/wedding-program-printing">Programs</a></li>
-        <li class="off" id="mi3716"><a href="/offering/place-card-printing">Place Cards</a></li>
+                    <!-- Main Menu -->
+                    <div id="main-menu">
+                        <nav id="nav-top">
+                            <div id="wrap_nav-top_all-products">
+                                <a href="#nav-top_all-products" class="js-toggle-nav-top">Printing</a>
+                                <div id="nav-top_all-products">
+                                    <div class="nav-top_position">
+                                        <div class="one-third first">
+                                            <ul id="products_marketing">    <li class="off" id="mi7675"><div>Marketing Materials</div>    <ul>
+        <li class="off" id="mi7677"><a href="/shop/custom-booklets">Booklets</a></li>
+        <li class="off" id="mi7678"><a href="/offering/bookmark-printing">Bookmarks</a></li>
+        <li class="off" id="mi7679"><a href="/shop/brochure-printing-services">Brochures</a></li>
+        <li class="off" id="mi7680"><a href="/offering/decal-printing">Bumper Stickers</a></li>
+        <li class="off" id="mi7681"><a href="/pages/custom-calendars">Calendars</a></li>
+        <li class="off" id="mi7685"><a href="/offering/collated-printing">Collated Printing</a></li>
+        <li class="off" id="mi7686"><a href="/offering/decal-printing">Decals</a></li>
+        <li class="off" id="mi7687"><a href="/offering/door-hanger">Door Hangers</a></li>
+        <li class="off" id="mi7770"><a href="/shop/envelope-printing">Envelopes</a></li>
+        <li class="off" id="mi7688"><a href="/offering/flyer-printing">Flyers</a></li>
+        <li class="off" id="mi7691"><a href="/offering/label-printing">Labels</a></li>
+        <li class="off" id="mi7692"><a href="/shop/custom-magnets">Magnets</a></li>
+        <li class="off" id="mi7694"><a href="/offering/notepad-printing">Notepads</a></li>
+        <li class="off" id="mi7695"><a href="/offering/pocket-folders">Pocket Folders</a></li>
+        <li class="off" id="mi7696"><a href="/offering/postcard-printing">Postcards</a></li>
+        <li class="off" id="mi7697"><a href="/offering/rack-cards">Rack Cards</a></li>
+        <li class="off" id="mi7693"><a href="/shop/menu-printing">Restaurant Menus</a></li>
+        <li class="off" id="mi7701"><a href="/offering/sticker-printing">Stickers</a></li>
+        <li class="off" id="mi7702"><a href="/offering/sell-sheet-printing">Sell Sheets</a></li>
+        <li class="off" id="mi7703"><a href="/offering/table-tent-printing">Table Tents</a></li>
+        <li class="off" id="mi7705"><a href="/offering/trifold-brochure-printing">Trifold Brochures</a></li>
     </ul>
 </li>
 </ul>
-<ul class="thePitch weddings">
-<li class="one">Great prices</li>
-<li class="two">48 hour turnaround</li>
-<li class="three">Fast, personal service</li>
-<li class="satisfaction">Satisfaction Guaranteed</li>
+                                        </div>
+                                        <div class="one-third middle">
+                                            <ul id="products_business">    <li class="off" id="mi7707"><div>Business Cards &amp; Stationery</div>    <ul>
+        <li class="off" id="mi7708"><a href="/shop/business-card-printing">Business Cards</a></li>
+        <li class="off" id="mi7709"><a href="/shop/business-stationery">Business Stationery</a></li>
+        <li class="off" id="mi7710"><a href="/offering/business-envelopes">Business Envelopes</a></li>
+        <li class="off" id="mi7711"><a href="/offering/carbonless-forms">Carbonless Forms</a></li>
+        <li class="off" id="mi7712"><a href="/offering/letterhead">Letterhead</a></li>
+    </ul>
+</li>
 </ul>
-</div>
-</div>
-
-
-
-</div> <!-- contentNav -->
-
-
-
-<div id="titleExpanse">
-
-<div id="sbDropDown">
-<img class="sb-image" src="/resources/sites/1_site/images/sb-image.png" alt="sb-image" width="287" height="118">
-
-<h4><span class="sb-top">If you produce print for a living,</span><br>
-<span class="sb-middle">check out our smart buyer program.</span><br>
-<span class="sb-bottom">Exclusive to graphic professionals like you.</span></h4>
-
-<a class="btn-learnmore" href="/pages/smart-buyer/">Learn More</a>
-</div><!-- sbDropDown -->
-
-
-<div id="whyDropDown">
-
-
-<div id="whyWrapper">
-<h4>Why Smartpress.com</h4>
-<ul>
-<li>Unbeatable prices on small quantities</li>
-<li>Widest range of paper choices</li>
-<li>World-class service</li>
+                                            <ul id="products_signs">    <li class="off" id="mi7721"><div>Banners &amp; Signs</div>    <ul>
+        <li class="off" id="mi7713"><a href="/offering/backlit-signs">Backlit Signs</a></li>
+        <li class="off" id="mi7714"><a href="/offering/hanging-banners">Banners - Hanging</a></li>
+        <li class="off" id="mi7715"><a href="/offering/retractable-banners">Banners - Retractable</a></li>
+        <li class="off" id="mi7716"><a href="/offering/step-and-repeat-banners">Banners - Step and Repeat</a></li>
+        <li class="off" id="mi7717"><a href="/shop/banner-stands">Banner Stands and Hardware</a></li>
+        <li class="off" id="mi7719"><a href="/offering/car-magnet">Car Magnets</a></li>
+        <li class="off" id="mi7720"><a href="/offering/floor-graphic-printing">Floor Graphics</a></li>
+        <li class="off" id="mi8125"><a href="/shop/poster-printing">Posters</a></li>
+        <li class="off" id="mi7772"><a href="/shop/sidewalk-signs">Sidewalk Signs</a></li>
+        <li class="off" id="mi7724"><a href="/offering/sign-printing">Signs</a></li>
+        <li class="off" id="mi7725"><a href="/offering/table-tent-printing">Table Tents</a></li>
+        <li class="off" id="mi7726"><a href="/shop/custom-window-clings">Window Clings</a></li>
+        <li class="off" id="mi7727"><a href="/offering/yard-sign-printing">Yard Signs</a></li>
+    </ul>
+</li>
 </ul>
-</div><!-- whyWrapper -->
+                                        </div>
+                                        <div class="one-third last">
+                                            <ul id="products_events">    <li class="off" id="mi7728"><div>Wedding &amp; Occasion Printing</div>    <ul>
+        <li class="off" id="mi7795"><a href="/offering/announcement-printing">Announcements</a></li>
+        <li class="off" id="mi7787"><a href="/offering/card-printing">Cards</a></li>
+        <li class="off" id="mi7733"><a href="/offering/envelope-printing">Envelopes</a></li>
+        <li class="off" id="mi7737"><a href="/offering/seal-printing">Envelope and Favor Seals</a></li>
+        <li class="off" id="mi7789"><a href="/offering/invitation-printing">Event Invitations</a></li>
+        <li class="off" id="mi7788"><a href="/offering/greeting-card-printing">Greeting Cards</a></li>
+        <li class="off" id="mi7735"><a href="/offering/map-card-printing">Map Cards</a></li>
+        <li class="off" id="mi7738"><a href="/offering/menu-card-printing">Menu Cards</a></li>
+        <li class="off" id="mi7740"><a href="/offering/place-card-printing">Place Cards</a></li>
+        <li class="off" id="mi7739"><a href="/offering/wedding-program-printing">Programs</a></li>
+        <li class="off" id="mi7734"><a href="/offering/reception-card-printing">Reception Cards</a></li>
+        <li class="off" id="mi8077"><a href="/offering/rsvp-card-printing">RSVP Cards</a></li>
+        <li class="off" id="mi7729"><a href="/offering/save-the-date-printing">Save the Date Cards</a></li>
+        <li class="off" id="mi7730"><a href="/offering/save-the-date-magnets">Save the Date Magnets</a></li>
+        <li class="off" id="mi7731"><a href="/offering/save-the-date-postcard-printing">Save the Date Postcards</a></li>
+        <li class="off" id="mi7736"><a href="/offering/thank-you-card-printing">Thank You Cards</a></li>
+        <li class="off" id="mi7732"><a href="/offering/wedding-invitation-printing">Wedding Invitations</a></li>
+        <li class="off" id="mi8078"><a href="/shop/wedding-printing-services">Wedding Printing Services</a></li>
+    </ul>
+</li>
+</ul>
+                                            <ul id="products_wall">    <li class="off" id="mi7790"><div>Wall Art</div>    <ul>
+        <li class="off" id="mi7791"><a href="/offering/custom-canvas-prints">Custom Canvas Prints</a></li>
+        <li class="off" id="mi7793"><a href="/shop/poster-printing">Posters</a></li>
+        <li class="off" id="mi7796"><a href="/offering/wall-decal">Wall Decals</a></li>
+    </ul>
+</li>
+</ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <ul id="nav-top_services">    <li class="off" id="mi7749"><div>Services</div>    <ul>
+        <li class="off" id="mi7786"><a href="/pages/custom-quote/">Custom Quote</a></li>
+        <li class="off" id="mi7746"><a href="/offering/graphic-design-services">Design Services</a></li>
+        <li class="off" id="mi8770"><a href="/pages/digital-laser-cutting">Digital Laser Cutting</a></li>
+        <li class="off" id="mi7747"><a href="/pages/mail-service">Mailing Services</a></li>
+        <li class="off" id="mi7768"><a href="/offering/samples">Sample Request</a></li>
+        <li class="off" id="mi7748"><a href="/pages/smart-buyer/">Smart Buyer Program</a></li>
+    </ul>
+</li>
+</ul>
+                            <a href="/pages/design-file-preparation/">File Prep</a>
+                            <a href="/pages/proofs/">Help</a>
+                            <a href="http://blog.smartpress.com/">Blog</a>
+                        </nav>
+                    </div>
+                    <!-- end Main Menu -->  
+                    
+                </div>
+            </div>
+        </div>
+        <!-- end Container -->
+        
+    </div>
+    <!-- end Lower-->
+        
+</div>
+<!-- end Header -->
+
+</div>
 
 
-<a class="play-video" href="http://www.youtube.com/watch?v=q8UTmCLxXgk&amp;autoplay=1"><img class="sp-image" src="/resources/sites/1_site/images/whySP-image.jpg" alt="whySP" width="363" height="178"></a>
-
-</div><!-- whyDropDown -->
-
-
-
-</div><!-- titleExpanse -->
-
+<div class="container_16">
 
     <div class="titleBar">
         <h1 class="grid_16">Privacy Policy</h1>
     </div>
 
     <div class="grid_4 pageSubNav">
-        <ul id="main_nav">    <li class="off" id="mi77"><a href="/pages/ordering-print-online/">Ordering</a></li>
-    <li class="off" id="mi3"><a href="/pages/design-file-preparation/">File Preparation</a>    <ul>
+        <ul id="main_nav">    <li class="off" id="mi3"><a href="/pages/design-file-preparation/">File Preparation</a>    <ul>
         <li class="off" id="mi20"><a href="/pages/acrobat-pdf-specifications/">How to Save Your PDF</a></li>
         <li class="off" id="mi100"><a href="/pages/pdfs-from-indesign/">PDFs from InDesign</a></li>
         <li class="off" id="mi99"><a href="/pages/pdfs-from-illustrator/">PDFs from Illustrator</a></li>
@@ -441,11 +455,14 @@ background-color: #ececec;
         <li class="off" id="mi4183"><a href="/pages/posters-and-signs-in-libreoffice">LibreOffice.org</a></li>
         <li class="off" id="mi4453"><a href="/pages/white-ink-printing-in-adobe-illustrator">White Ink Illustrator</a></li>
         <li class="off" id="mi4449"><a href="/pages/white-ink-printing-in-adobe-indesign">White Ink InDesign</a></li>
+        <li class="off" id="mi8768"><a href="/pages/laser-die-cutting-in-adobe-illustrator">Laser Cutting Illustrator</a></li>
+        <li class="off" id="mi8769"><a href="/pages/laser-die-cutting-in-adobe-indesign">Laser Cutting InDesign</a></li>
     </ul>
 </li>
     <li class="off" id="mi90"><a href="/pages/proofs/">Help</a>    <ul>
         <li class="off" id="mi2070"><a href="/pages/bleed-setup-help-page">Bleeds &amp; Borders</a></li>
         <li class="off" id="mi2071"><a href="/pages/image-resolution-help-page">Image Resolution</a></li>
+        <li class="off" id="mi8878"><a href="/pages/ftp-service">FTP Service</a></li>
         <li class="off" id="mi23"><a href="/pages/printing-help-center/">Video Help Center</a></li>
         <li class="off" id="mi93"><a href="/pages/artwork/">Artwork</a></li>
         <li class="off" id="mi4457"><a href="/pages/multiple-version-option">Multiple Version Option</a></li>
@@ -454,11 +471,13 @@ background-color: #ececec;
         <li class="off" id="mi4751"><a href="/pages/pantone-color-conversion">Pantone Color Chart</a></li>
         <li class="off" id="mi101"><a href="/pages/spot-colors/">Spot Colors</a></li>
         <li class="off" id="mi4448"><a href="/pages/white-ink-printing">White Ink Printing</a></li>
+        <li class="off" id="mi8767"><a href="/pages/die-cutting-help-page">Die Cutting</a></li>
         <li class="off" id="mi2072"><a href="/pages/booklet-printing-help-page">Booklet Printing</a></li>
         <li class="off" id="mi7673"><a href="/pages/window-cling-installation-instructions">Window Cling Installation</a></li>
         <li class="off" id="mi96"><a href="/pages/mail-service">Mailing Services</a></li>
         <li class="off" id="mi5514"><a href="/pages/mailing-design-guidelines">Mailing Design Guidelines</a></li>
         <li class="off" id="mi3984"><a href="/pages/proofs/">Proofs</a></li>
+        <li class="off" id="mi7808"><a href="/pages/ordering-print">Ordering</a></li>
         <li class="off" id="mi94"><a href="/pages/turn-time">Turnaround Time</a></li>
         <li class="off" id="mi95"><a href="/pages/shipping/">Shipping</a></li>
         <li class="off" id="mi86"><a href="/pages/pymt-options">Payment Options</a></li>
@@ -477,7 +496,9 @@ background-color: #ececec;
         <li class="off" id="mi58"><a href="/pages/terms-and-conditions/">Terms and Conditions</a></li>
         <li class="off" id="mi2233"><a href="/pages/green-printing">Green Printing</a></li>
         <li class="off" id="mi2223"><a href="/pages/100-replanted-program">Tree Planting Program</a></li>
+        <li class="off" id="mi8586"><a href="/pages/customized-print-stores">Customized Print Stores</a></li>
         <li class="off" id="mi2058"><a href="/pages/press-releases">Press Releases</a>        <ul>
+            <li class="off" id="mi8776"><a href="/pages/short-run-laser-die-cutting-now-available-at-smartpresscom">Laser Cutting Now Available</a></li>
             <li class="off" id="mi6435"><a href="/pages/smartpresscom-invests-in-customers-with-new-equipment-new-location">New Equipment, New Location</a></li>
             <li class="off" id="mi6434"><a href="/pages/white-ink-printing-now-available-at-smartpresscom">White Ink Printing</a></li>
             <li class="off" id="mi6433"><a href="/pages/smartpresscom-introduces-product-reviews">Introducing Product Reviews</a></li>
@@ -547,8 +568,9 @@ background-color: #ececec;
         </div>
         <div class="grid_5 omega">
             <div class="testimonial">
-                <p>My business cards and note cards are fantastic. I will definitely be using Smartpress.com for all the signs and printed goods in my store. Thanks for the great work.</p>
-<p>»&nbsp;Michelle, Flutter Boutique<br>» Minneapolis, MN</p>
+                <p>You guys are incredible! Great website functionality, exceptional updates and notifications, fast service and so far, you exceeded all expectations.</p>
+<p>I found a winner and will be referring you to everyone I know that needs printing. Great job!</p>
+<p>- B.K., St. Petersburg, FL</p>
             </div>
         </div>
     </div>
@@ -563,7 +585,7 @@ background-color: #ececec;
         <ul id="support_nav">    <li class="off" id="mi4639"><div>Support</div>    <ul>
         <li class="off" id="mi4640"><a href="/pages/contact-smartpress/">Contact Us</a></li>
         <li class="off" id="mi4641"><a href="/pages/printing-help-center/">Help Center</a></li>
-        <li class="off" id="mi4642"><a href="/pages/ordering-print-online/">Ordering</a></li>
+        <li class="off" id="mi4642"><a href="/pages/ordering-print">Ordering</a></li>
         <li class="off" id="mi4643"><a href="/pages/design-file-preparation/">File Preparation</a></li>
     </ul>
 </li>
@@ -633,7 +655,7 @@ background-color: #ececec;
         <div class="grid_4"><img title="Authorize.net" src="/resources/sites/1_site/images/footer-authorize-net-logo.png" height="42" width="160" alt="Authorize.net"></div>
         <div class="grid_3"><a title="SSL Certificate" href="http://ssl.comodo.com" target="_blank"><img title="SSL Certificate" src="/resources/sites/1_site/images/footer-comodo_secure_100x85_white.png" alt="SSL Certificate" width="83" height="50" style="border: 0px;"><br><span style="font-weight:bold; font-size:7pt; color: #ffffff;">SSL Certificate</span></a></div>
         <div class="grid_4"><img title="We accept American Express, Visa, MasterCard, and Discover" src="/resources/sites/1_site/images/footer-credit-cards-logo.png" alt="We accept American Express, Visa, MasterCard, and Discover" width="160" height="42" style="border: 0px;"></div>
-        <div class="grid_3 omega"><a title="Click for the Business Review of Smartpress.com, an Image &amp; Graphics Printing in Chaska MN" href="http://www.bbb.org/minnesota/business-reviews/image-and-graphics-printing/smartpresscom-in-chaska-mn-96194279" target="_blank"><img title="Click for the Business Review of Smartpress.com, an Image &amp; Graphics Printing in Chaska MN" src="/resources/sites/1_site/images/bbb-logo.png" alt="Click for the Business Review of Smartpress.com, an Image &amp; Graphics Printing in Chaska MN" width="150" height="46"></a></div>
+        <div class="grid_3 omega"><a title="Click for the Business Review of Smartpress.com, an Image &amp; Graphics Printing in Chanhassen MN" href="http://www.bbb.org/minnesota/business-reviews/image-and-graphics-printing/smartpresscom-in-chanhassen-mn-96194279" target="_blank"><img title="Click for the Business Review of Smartpress.com, an Image &amp; Graphics Printing in Chanhassen MN" src="/resources/sites/1_site/images/bbb-logo.png" alt="Click for the Business Review of Smartpress.com, an Image &amp; Graphics Printing in Chanhassen MN" width="150" height="46"></a></div>
 
     </div><!-- end grid_16 -->
 
@@ -661,6 +683,72 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 
+<!-- Start Quantcast Tag -->
+<script type="text/javascript">
+
+var eventName = "";
+var pageURL = window.location.href;
+
+$(function() {
+    if (pageURL == "http://smartpress.com/") { eventName = "Home Page"; }
+	else if (pageURL == "http://smartpress.com/pages/design-file-preparation/") { eventName = "File Preparation"; }
+	else if (pageURL == "http://smartpress.com/offering/greeting-card-printing") { eventName = "Greeting Cards"; }
+	else if (pageURL == "http://smartpress.com/shop/custom-booklets") { eventName = "Booklets"; }
+	else if (pageURL == "http://smartpress.com/offering/invitation-printing") { eventName = "Invitation"; }
+	else if (pageURL == "http://smartpress.com/order/cart") { eventName = "Shopping Cart"; }
+	else if (pageURL == "https://smartpress.collaterate.com/order/shipping") { eventName = "Shipping"; }
+	else if (pageURL == "https://smartpress.collaterate.com/order/thankyou") { eventName = "Purchase Confirmation"; }
+	else if (pageURL == "http://smartpress.com/offering/brochure-printing") { eventName = "Brochure"; }
+	else if (pageURL == "http://smartpress.com/offering/postcard-printing") { eventName = "Postcard"; }
+	else if (pageURL == "http://smartpress.com/offering/sell-sheet-printing") { eventName = "Sell Sheet"; }
+	else if (pageURL == "http://smartpress.com/offering/wedding-invitation-printing") { eventName = "Wedding Invitations"; }
+	else if (pageURL == "http://smartpress.com/shop/custom-window-clings") { eventName = "Custom Window Cling"; }
+	else if (pageURL == "http://smartpress.com/offering/wire-coil-booklet-printing") { eventName = "Wire Coil Booklet"; }
+	else if (pageURL == "http://smartpress.com/offering/hanging-banners") { eventName = "Custom Banners"; }
+	else if (pageURL == "http://smartpress.com/offering/spiral-bound-booklet-printing") { eventName = "Spiral Coil Booklet"; }
+	else if (pageURL == "http://smartpress.com/offering/custom-saddle-stitch-calendars") { eventName = "Custom Saddle Stich Calendars"; }
+	else if (pageURL == "http://smartpress.com/offering/custom-wire-coil-calendars") { eventName = "Custom Wire Coil Calendars"; }
+	else if (pageURL == "http://smartpress.com/offering/sign-printing") { eventName = "Custom Sign"; }
+	else if (pageURL == "http://smartpress.com/shop/wedding-printing-services") { eventName = "Wedding Printing"; }
+	else if (pageURL == "http://smartpress.com/offering/booklet-printing") { eventName = "Booklet"; }
+	else if (pageURL.indexOf("https://smartpress.collaterate.com/order/user-account") > -1) { eventName = "User Account"; }
+    else {}
+});
+
+// Get Quantcast script
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+// Check if event exists and send to Quantcast
+$(function() {
+
+if (eventName !== "") { // Check if event exists
+	if (eventName == "Purchase Confirmation") { // Send this if event is "Purchase Confirmation"
+		_qevents.push(
+		{qacct:"p-fE8-_fgm1NSg1",labels:"_fp.event.Purchase Confirmation",orderid:"INSERT+ORDER+ID",revenue:"INSERT+REVENUE"}
+		);
+	} else { // Otherwise send this
+		_qevents.push(
+		{qacct:"p-fE8-_fgm1NSg1",labels:"_fp.event."+eventName}
+		);
+	}
+} else {
+	// Don't send anything to Quantcast
+}
+	
+});
+
+</script>
+<!-- End Quantcast tag -->
+
 
 
 <div id="userMessages" class="userMessages hideIt" style="z-index:100;">
@@ -676,7 +764,6 @@ var growlMessages = new GrowlMessages('userMessages','userMessageContent','growl
 
 
 </script>
-<script language="JavaScript" type="text/javascript" src="/site_theme_globals/javascript/confirmPanel.js?version=2.22.4-2014-06-12-231836"></script>
 <div id="confirmPanelOverlay" class="screenOverlay hideIt"></div>
 <div id="confirmPanel" class="panel confirm hideIt">
 <div class="panelContent">
@@ -685,19 +772,17 @@ var growlMessages = new GrowlMessages('userMessages','userMessageContent','growl
 </div>
 <div class="panelButtons"><button type="button" class="cancel" onclick="confirmPanel.cancelClicked()">Cancel</button> <button type="button" class="save" onclick="confirmPanel.saveClicked()">OK</button></div>
 </div>
-<script language="JavaScript" type="text/javascript" src="/site_theme_globals/javascript/alertPanel.js?version=2.22.4-2014-06-12-231836"></script>
-<div id="alertPanelOverlay" class="screenOverlay hideIt" style="opacity: 0.3; z-index: 30; left: 0px; top: 0px; width: 1366px; height: 3411px; display: block;"></div>
-<div id="alertPanel" class="panel alert hideIt" style="left: 502px; top: 100px; display: block;">
+<div id="alertPanelOverlay" class="screenOverlay hideIt"></div>
+<div id="alertPanel" class="panel alert hideIt">
 <div class="panelContent">
 <!--<h2>Alert Message</h2>-->
-<div id="alertPanelContent">Could not communicate with server.  Server may be down.  Please try again later. (status 404)</div>
+<div id="alertPanelContent"><!-- Dynamic --></div>
 </div>
 <div class="panelButtons"><button type="button" id="alertPanelOKPB" class="save" onclick="alertPanel.close()">OK</button></div>
 </div>
-<script language="JavaScript" type="text/javascript" src="/site_theme_globals/javascript/savePanel.js?version=2.22.4-2014-06-12-231836"></script>
 <div id="savePanelOverlay" class="screenOverlay hideIt"></div>
-<div id="savePanel" class="panel trackingPanel hideIt">
-<a href="javascript:savePanel.cancelClicked()" title="Close" class="close"></a>
+<div id="savePanel" class="panel hideIt">
+<div id="closeButton"><!-- dynamic --></div>
 <div id="savePanelContent"><!-- dynamic --></div>
 <div id="savePanelButtons" class="panelButtons"><!-- dynamic --></div>
 </div>
@@ -706,13 +791,119 @@ var contentPageGlobals = {
       formInputHandlerURL: '/comet/form-input-email'
 };
 </script>
-<script language="JavaScript" type="text/javascript" src="/site_theme_globals/controllers/contentPageController.js?version=2.22.4-2014-06-12-231836"></script>
+<script language="JavaScript" type="text/javascript" src="/site_theme_globals/controllers/contentPageController.js?version=2.29.4-2014-12-11-225932"></script>
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+
+    <symbol id="close-icon" viewBox="0 0 512 512">
+        <path d="M502.645,480.852l-21.793,21.793c-4.013,4.012-10.518,4.012-14.529,0L255.654,291.976L44.986,502.645
+            c-4.013,4.013-10.519,4.013-14.529,0L8.663,480.852c-4.012-4.013-4.012-10.517,0.001-14.529l210.668-210.668L8.664,44.986
+            c-4.012-4.013-4.012-10.519,0-14.529L30.457,8.663c4.012-4.012,10.517-4.012,14.529,0.001l210.668,210.668L466.322,8.664
+            c4.012-4.012,10.516-4.013,14.529,0l21.793,21.793c4.012,4.012,4.012,10.518,0,14.529L291.976,255.654l210.669,210.668
+            C506.656,470.334,506.657,476.838,502.645,480.852z"></path>
+   </symbol>
+
+    <symbol id="info-alert-icon" viewBox="0 0 512 512">
+        <path d="M293,225h-90v36h27v99h-45v36h153v-36h-45V225z M257,115c-19.331,0-35,15.67-35,35s15.669,35,35,35c19.33,0,35-15.67,35-35
+            S276.33,115,257,115z M256.5,0C114.839,0,0,114.839,0,256.5S114.839,513,256.5,513S513,398.161,513,256.5S398.161,0,256.5,0z
+             M256.5,468C139.692,468,45,373.309,45,256.5S139.692,45,256.5,45C373.309,45,468,139.692,468,256.5S373.309,468,256.5,468z"></path>
+    </symbol>
+    
+    <symbol id="info-success-icon" viewBox="0 0 512 512">
+        <polygon points="0,324 54,252 198,378 432,54 513,108 216,513"></polygon>
+    </symbol>
+    
+    <symbol id="info-warning-icon" viewBox="0 0 512 512">
+        <path d="M451,61v390H61V61H451 M512,0H0v512h512V0L512,0z M336.089,126L119.714,342.375l50.912,50.91L387,176.912L336.089,126z"></path>
+    </symbol>
+    
+    <symbol id="document-view-icon" viewBox="0 0 512 512">
+            <path d="M271,202c42.458,0,77,34.542,77,77s-34.542,77-77,77s-77-34.542-77-77S228.542,202,271,202 M271,162
+            c-64.617,0-117,52.383-117,117s52.383,117,117,117s117-52.383,117-117S335.617,162,271,162L271,162z M332.844,395.684v48.005H40V40
+            h292.844v122.316c11.453,6.089,22.062,13.915,31.494,23.346c3,3,5.834,6.123,8.506,9.35V0H0v483.688h372.844V436L332.844,395.684z
+             M387.548,342c-5.429,10.611-12.576,20.569-21.459,29.452c-6.571,6.571-13.732,12.193-21.31,16.874L468.453,512L513,467.452
+            L387.548,342z"></path>
+    </symbol>
+    
+    <symbol id="document-icon" viewBox="0 0 512 512">
+        <path d="M58,150v362h396V0H208L58,150z M414,472H98V166.285L98.285,166H228.5V40H414V472z"></path>
+    </symbol>
+    
+    <symbol id="document-add-icon" viewBox="0 0 512 512">
+        <path d="M58,150v362h396V0H208L58,150z M414,472H98V166.285L98.285,166H228.5V40H414V472z M256.289,216
+            C191.512,216,139,268.512,139,333.289s52.512,117.29,117.289,117.29c64.776,0,117.289-52.513,117.289-117.29
+            S321.065,216,256.289,216z M323,355h-45v45h-45v-45h-45v-45h45v-45h45v45h45V355z"></path>
+    </symbol>
+    
+    <symbol id="quotation-icon" viewBox="0 0 512 512">
+        <path d="M18,286.304c0.05-37.821,10.448-73.263,26.83-106.322c16.428-33.145,38.762-61.516,66.996-85.101
+            C140.062,71.3,174.541,56.771,215.272,51.3v64.172c-24.642,6.484-43.38,15.689-56.214,27.628
+            c-12.834,11.935-23.103,27.191-30.804,45.779c-6.92,16.703-10.704,36.664-11.404,59.835h58.861
+            c29.036,0,52.575,23.535,52.575,52.568v105.146c0,29.027-23.539,52.571-52.575,52.571H70.572C41.533,459,18,435.456,18,406.429
+            V286.304z M284.714,406.429c0,29.027,23.532,52.571,52.571,52.571h105.141C471.462,459,495,435.456,495,406.429V301.282
+            c0-29.033-23.538-52.568-52.574-52.568h-58.862c0.7-23.171,4.484-43.132,11.404-59.835c7.701-18.588,17.97-33.845,30.804-45.779
+            c12.835-11.938,31.572-21.144,56.214-27.628V51.3c-40.731,5.471-75.21,20-103.445,43.581
+            c-28.235,23.585-50.569,51.956-66.997,85.101c-16.382,33.06-26.78,68.501-26.829,106.322V406.429z"></path>
+    </symbol>
+    
+    <symbol id="printer-icon" viewBox="0 0 512 512">
+        <path d="M423.8,128H384V64H128v64H88.2C60.3,128,32,144.9,32,182.6v123.8c0,38,28.3,61.6,56.2,61.6c0,0,30.4,0,39.8,0v112h5h11h224
+        h8h8V368c10.3,0,39.8,0,39.8,0c27.9,0,56.2-22.6,56.2-53.6V182.6C480,146.9,451.8,128,423.8,128z M368,464H144V288h224V464z
+         M368,128H144V80h224V128z M416,192h-17v-16h17V192z"></path>
+        <rect x="160" y="320" width="192" height="16"></rect>
+        <rect x="160" y="368" width="192" height="16"></rect>
+        <rect x="160" y="416" width="192" height="16"></rect>
+    </symbol>
+    
+    <symbol id="pencil-icon" viewBox="0 0 512 512">
+        <path d="M31.419,409.156l72.735,70.203l-6.928,6.928L3,509l21.492-92.916L31.419,409.156z M380.529,60.045l72.736,70.205
+        L119.17,464.344l-72.735-70.203L380.529,60.045z M386.064,126.217c-2.734-2.733-7.166-2.733-9.9,0l-74,74
+        c-2.734,2.733-2.734,7.166,0,9.899c1.367,1.367,3.158,2.05,4.949,2.05s3.584-0.684,4.951-2.05l74-74
+        C388.797,133.383,388.797,128.95,386.064,126.217z M502.686,66.064l-58.594-56.062c-3.906-3.905-10.236-3.905-14.143,0
+        l-37.316,37.317l72.736,70.204l37.316-37.317C506.59,76.301,506.59,69.969,502.686,66.064z"></path>
+    </symbol>
+    
+    <symbol id="wrench-icon" viewBox="0 0 512 512">
+        <path d="M502.646,97.042l-57.337,57.336l-55.481,7.354l-36.705-36.705l7.333-55.502l58.997-58.997
+        C410.048,3.452,403.121,1,391.798,1c-65.833,0-119.201,53.368-119.201,119.202c0,19.42,4.647,37.754,12.886,53.955L19.935,420.641
+        l0.096,0.093c-8.786,9.126-14.198,21.522-14.198,35.19c0,28.032,22.725,50.757,50.757,50.757c17.394,0,32.738-8.753,41.884-22.09
+        l239.491-258.012c16.171,8.2,34.461,12.825,53.833,12.825c65.833,0,119.202-53.368,119.202-119.201
+        C511,110.5,508.048,104.952,502.646,97.042z M80.308,442.974l-7.114,7.114c-1.367,1.367-3.16,2.051-4.951,2.051
+        s-3.582-0.684-4.949-2.051c-2.734-2.733-2.734-7.166,0-9.899l7.114-7.114c2.734-2.733,7.166-2.733,9.9,0
+        C83.041,435.808,83.041,440.24,80.308,442.974z"></path>
+    </symbol>
+    
+    <symbol id="edit-art-icon" viewBox="0 0 512 512">
+        <path d="M372.844,234.543V512H0V138.311h278.168l-40,40H40V472h292.844V274.543L372.844,234.543z M146.793,309.767l-16.2,70.039
+        l71.027-17.121l5.222-5.223l-54.827-52.918L146.793,309.767z M163.334,293.226l54.828,52.918L470,94.306l-54.828-52.919
+        L163.334,293.226z M419.345,98.728l-55.781,55.781c-1.03,1.03-2.382,1.545-3.732,1.545c-1.35,0-2.699-0.515-3.73-1.545
+        c-2.061-2.061-2.061-5.402,0-7.462l55.781-55.78c2.061-2.061,5.401-2.061,7.463,0C421.403,93.326,421.403,96.667,419.345,98.728z
+         M507.253,56.583l-28.129,28.129l-54.828-52.919l28.129-28.129c2.943-2.943,7.715-2.944,10.66,0l44.168,42.26
+        C510.195,48.867,510.195,53.64,507.253,56.583z"></path>
+    </symbol>
+        
+    <symbol id="up-icon" viewBox="0 0 512 512">
+        <path d="M244.528,25.617L80.698,140.332c-9.048,6.336-11.247,18.807-4.911,27.855c3.891,5.557,10.095,8.53,16.4,8.53
+        c3.961,0,7.962-1.174,11.454-3.619L236,80.42V472c0,11.046,8.954,20,20,20s20-8.954,20-20V80.42l132.358,92.678
+        c3.492,2.445,7.492,3.619,11.454,3.619c6.305,0,12.51-2.974,16.4-8.53c6.336-9.048,4.137-21.519-4.911-27.855L267.472,25.617
+        c0,0-4.854-3.604-11.483-3.604C249.359,22.013,244.528,25.617,244.528,25.617z"></path>
+    </symbol>
+    
+    <symbol id="closed-arrow-icon" viewBox="0 0 512 512">
+        <path d="M442.465,255.414L2,10v490.83L442.465,255.414"></path>
+    </symbol>
+    
+    <symbol id="open-arrow-icon" viewBox="0 0 512 512">
+        <path d="M247.416,450.465L492.83,10H2L247.416,450.465"></path>
+    </symbol>
+</svg>
 
 </form>
+
+<iframe id="print_frame" name="print_frame" width="0" height="0" frameborder="0" src=""></iframe>
 
 <script src="http://www.adreadytractions.com/rt/335801?p=23901"></script>
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"2338183","applicationTime":554,"beacon":"beacon-4.newrelic.com","queueTime":0,"licenseKey":"5f97fa44d7","transactionName":"YwcDMkpYXhdVV0AMXlpNIhNLTV8JG0RVAlRH","agent":"js-agent.newrelic.com\/nr-411.min.js","errorBeacon":"bam.nr-data.net"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"2338183","applicationTime":549,"beacon":"beacon-4.newrelic.com","queueTime":0,"licenseKey":"5f97fa44d7","transactionName":"YwcDMkpYXhdVV0AMXlpNIhNLTV8JG0RVAlRH","agent":"js-agent.newrelic.com\/nr-476.min.js","errorBeacon":"bam.nr-data.net"}</script>
 
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
