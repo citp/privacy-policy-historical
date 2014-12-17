@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitclicking.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627132844id_/http%3A//adclickxpress.com/home/legal/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitclicking.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217151843id_/http%3A//adclickxpress.com/home/legal/privacy-policies) for the most accurate reproduction.*
 
 # Ad Click Xpress :: Privacy Policies
 
