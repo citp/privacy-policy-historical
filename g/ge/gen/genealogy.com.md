@@ -1,107 +1,183 @@
-> *The following text is extracted and transformed from the genealogy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151249id_/http%3A//www.genealogy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogy.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217141727id_/http%3A//www.genealogy.com/privacy.html) for the most accurate reproduction.*
 
-# Genealogy.com: Privacy Statement
+# 
 
-**Ancestry.com Operations Inc. Privacy Statement relating to Genealogy.com**
+| 
 
-> **This Privacy Statement was last updated on July 6, 2009.  
->  If you have not reviewed it since that date, please do so.   
->  You will not receive any other notice of changes to this statement.**
+Genealogy.com Privacy Statement
 
-Ancestry.com Operations Inc., (and referred to as 'Ancestry.com' 'Ancestry' 'we' 'us' 'our'), has adopted and implemented this Privacy Statement as part of our commitment to protecting your personal information from misuse while using Genealogy.com services (Genealogy.com is a part of the Ancestry network of sites). This Privacy Statement applies to our information-gathering and dissemination practices for the following Web sites: www.genealogy.com, familytreemaker.com, and genealogylibrary.com (the "Sites"). This Privacy Statement also applies to Genealogy.com services contained on other sites, so long as such services contain Genealogy.com's branding, and Genealogy.com has provided a link to this Privacy Statement in connection with such services (together with the services provided in connection with the Sites, the "Services"). Please note that this Privacy Statement applies solely to our online information-gathering and dissemination practices in connection with the Sites and does not apply to any of our practices conducted offline. 
+**Last updated on September 30, 2014**
 
-**The Sites are not directed at children under the age of 18. If you are under 18, please do not provide any personal information on the Sites.**
+This Privacy Statement outlines what personal information is collected and why as well as how we use your information to provide you with the Genealogy.com website (the “Website”). This Privacy Statement applies to users accessing the Website on or after September 30, 2014. For the previous version of the Genealogy.com Privacy Statement, please click [here](http://www.genealogy.com/privacy_orig.html).
 
-## What information does Genealogy.com collect on the Sites?
+**Our Privacy Commitment**
 
-Genealogy.com collects both personal information and aggregated information on the Sites. We discuss our collection and use of different kinds of information below. 
+Our mission is to help everyone discover and preserve their family history. This involves the collecting, processing, storing and sharing of personal and non-personal information. We are committed to ensuring that this is done in a responsible, transparent and secure environment that fosters your trust and confidence. As part of our commitment to you, we have developed this Privacy Statement to describe how we gather and use the information we receive from you on the Website. Please review the information below to familiarize yourself with our policies. 
 
-## Personal Information
+By using the Website you consent to the collection, processing, use, storage, transfer and disclosure of your personal information by Ancestry.com Operations Inc. (the company that owns and operates the Website), its group companies (“Group Companies"), contracted third parties and agents (collectively “Ancestry,” “we”, “us” or “our”) in accordance with this Privacy Statement. Ancestry and its Group Companies own and/or operate a number of family history-related websites, including such sites as ancestry.com, ancestry.co.uk, ancestry.com.au, archives.com, ancestry.ca, findagrave.com (collectively the “Ancestry Community”). Please be aware that some sites may have some additional specific policies or different functionality and you should read and / or understand these before using the relevant services.
 
-You do not have to provide personal information to use the Sites. Particular Services provided by Genealogy.com, however, may require that you furnish personal information. We collect such personal information only when you provide it to us - for example, when purchasing products; subscribing to online data services, such as the Genealogy Library; answering surveys; participating in message boards; or taking part in promotional opportunities, such as sweepstakes. You may be asked to provide your contact information (such as your name, postal address, telephone numbers, and/or e-mail address), financial information (such as credit card numbers), and demographic information (such as your Zip or postal code, age, or income level) in connection with your use of such Services. 
+This Privacy Statement should be read in conjunction with the [Genealogy.com Terms of Service](http://www.genealogy.com/agreement.html). 
 
-Your contact information is used to respond to your inquiries, for example, to send you products and Services ordered from the Sites or to respond to your technical or customer support inquiries. We may share information that we collect about our users with our parents, subsidiaries, and affiliated companies (collectively, "Affiliated Companies"), and we and our Affiliated Companies may send you periodic mailings with information on products and services that we think may be of interest to you, updates to the Sites, or upcoming events. We may also forward information to you regarding third-party products or services, without disclosing your personal information to such third parties. If you no longer wish to receive such mailings, you may [unsubscribe](http://www.genealogy.com/unsubscribe.html) from our mailing list at any time. (See the Opting Out section below.) 
+| 
 
-We use IP addresses to calculate our Sites' usage levels. Whenever you are on the Internet, a number (an IP address) is automatically assigned to your computer. This number is identified and logged automatically whenever you visit one of our Sites. Collecting IP addresses is a standard practice on the Internet and is done automatically by many Web sites. 
+1.  
 
-Demographic information, as well as usage data calculated from logging IP addresses, is only shared with advertisers and third parties on an aggregated basis. (See the Aggregated Information section below.) 
+| 
 
-Whenever we request your personal information on the Sites, to the extent that we intend to use it in a manner not disclosed in this Privacy Statement, we will try to explain to you how we intend to use it, and to provide you with a choice to decline certain uses. In addition, if we plan to post any of your personal information on a Site, we will notify you of this possibility when you provide information to us or prior to posting the information. 
+[What personal information do we collect?](http://www.ancestry.com/cs/legal/privacystatement#Collect)  
+  
+---|---  
+  
+2.  
 
-We may also disclose personal information if we believe that we are permitted to do so (i) by law, (ii) to comply with legal process or governmental requests, (iii) to enforce our [Terms of Service](https://web.archive.org/web/20140625151249id_/http%3A//www.genealogy.com/agreement.html), or (iv) to protect the rights, property, or safety of the Sites, their users, or the public. As our business continues to grow, we might buy or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in existing privacy statements. Also, in the event that Ancestry, or substantially all of its assets are acquired, customer information will, as a matter of course, be one of the transferred assets. 
+| 
 
-## Aggregated Information
+[How does Ancestry use personal information?](http://www.ancestry.com/cs/legal/privacystatement#UsePersonal)  
+  
+3.  
 
-We collect information through the Sites relating to traffic levels on the Sites - for example, the total number of users visiting particular pages - as well as aggregate demographic information. Such aggregated information is helpful to us in improving the Services we offer and for marketing purposes. We may share aggregated information, which does not personally identify our users, with our Affiliated Companies, advertisers, business partners, or other third-party vendors. 
+| 
 
-## Use of Cookies and Other Technologies
+[Will Ancestry disclose any of your personal information to third parties?](http://www.ancestry.com/cs/legal/privacystatement#Disclose)  
+  
+4.  
 
-Cookies are data that a Web site transfers to an individual's computer for record keeping purposes. Cookies, which are an industry standard tool used by most Web sites, can facilitate a user's ongoing access to and use of a Web site. Cookies do not cause damage to your computer systems or files. 
+| 
 
-We use cookies and other authentication technologies to eliminate the need for you to log in every time you use certain features on the Sites or access particular Services for which you have a subscription through the Sites. We also use cookies to "pre-populate" certain forms with your personal information, for example your billing or shipping address when you make a purchase. In no case does pre-populating a form automatically transfer any data to any third party. (See the Service Providers section below.) Only if you voluntarily request that such data be transferred will any transfer take place - for example, when you click a "submit form" button. 
+[Managing your privacy settings](http://www.ancestry.com/cs/legal/privacystatement#ManagingSettings)  
+  
+5.  
 
-We also use a temporary cookie to track the products you have chosen to purchase while shopping on the Sites. The cookie expires once you are done shopping. 
+| 
 
-In addition, from time to time, we may use cookies and other technologies to gather non-personally identifiable information to track the popularity of certain pages of the Sites; the success of our e-mail notifications and ad campaigns on third-party sites, based on click-through rates; and other similar information, all of which assists us in improving our Sites and related Services. 
+[How do you report, change or delete personal information about you or your family](http://www.ancestry.com/cs/legal/privacystatement#Report)?  
+  
+6.  
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most web browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a cookie to your computer. You should note, however, that declining or deleting cookies will encumber your ability to access subscriptions and make it more cumbersome for you to make purchases through and use certain features within the Sites. 
+| 
 
-## Home Pages, Family Trees, Virtual Cemetery and the World Family Tree
+[Security](http://www.ancestry.com/cs/legal/privacystatement#Security)  
+  
+7.  
 
-You must register (or be registered) with Genealogy.com when and if you create a home page (whether a Personal Home Page through genealogy.com or a User Home Page through familytreemaker.com), family tree, or submission to Virtual Cemetery through any of the Sites, or contribute to the World Family Tree through a Site or otherwise. When you register, you will be provided a password and user name that will allow you to access, edit and/or delete your home page or family tree, and to access and/or delete your submission to Virtual Cemetery. Once you contribute content to the World Family Tree, however, you may not edit or remove such content. All or part of such content that you submit, post or upload, including your home page, family tree, and submission to Virtual Cemetery, may become part of an online archive that other users of the Services can see and search. Such content, and content that you contribute to the World Family Tree, may also become part of a database that may be reproduced by Genealogy.com in any format, in whole or in part, including without limitation in an electronic storage format, such as CD-ROM or DVD or an online subscription, for distribution, sale, or any other purpose. BY POSTING SUCH CONTENT, YOU EXPRESSLY CONSENT TO THE FOREGOING USES OF SUCH CONTENT BY GENEALOGY.COM. 
+| 
 
-In certain contexts (for example, when you create a User Home Page using certain versions of Family Tree MakerŽ software), you may be given the option to password-protect the entire User Home Page and related sub-pages. When such option is used, the User Home Page may still be included in the online archive and database described above; however, if a search inquiry is made that matches content within such User Home Page, only the search term and limited contextual information from such User Home Page will appear in the search results, and the user executing the search will not have access to any other part of such User Home Page. 
+What about non-personal information, mobile data, "cookies," and social media features?   
+  
+8.
 
-When you create a home page, build a family tree, or contribute to Virtual Cemetery or World Family Tree, we ask for your e-mail address and other personal information to enable other genealogy enthusiasts who are users of the Services to contact you. At the time that you create your home page, build a family tree, create a submission to Virtual Cemetery, or contribute to the World Family Tree, however, you may choose not to make this information available to other users. If, at a later time, you decide that you do not wish such information to be available to other users, you may change your preferences at [www.genealogy.com/help](http://www.genealogy.com/help/). 
+| 
 
-If you post content through certain Genealogy.com Services, including without limitation, World Family Tree and/or User Home Pages, and have provided your contact information in connection with such Service, and another user contacts us with any concern regarding the posting, we may encourage such user to address his/her concern about any information on such Service directly with you. If the Service, such as a User Home Page, allows for password protection, and you have activated password protection with respect to your contact information, we reserve the right to disclose, in our reasonable discretion, your e-mail address (or other contact information if you have not provided us with a valid e-mail address) to allow users to address concerns directly with you. If another user contacts you with any such concern, you agree to work with such user in good faith to resolve the concern. In addition, Genealogy.com reserves the right, in its sole discretion, to contact you in order to address the concern directly with you, regardless of whether you may have opted out of certain communications from Genealogy.com. You acknowledge that we neither endorse nor are responsible for any communications from other users to you. 
+About our advertisements  
+  
+9.  
 
-We may make our policies relating to your submissions available to you again when you submit content to us, either as part of a separate agreement(s) to which you may be required to agree (for example, in order to access Services such as World Family Tree and User Home Pages), or by means of a link to this Privacy Statement and/or our [Terms of Service](https://web.archive.org/web/20140625151249id_/http%3A//www.genealogy.com/agreement.html) on Site pages or areas where you can submit your content. 
+| 
 
-## Information Relating to Living Persons
+[Contests, surveys, and promotions](http://www.ancestry.com/cs/legal/privacystatement#Contests)  
+  
+10.  
 
-Please note that when you contribute content, including a family tree, to the World Family Tree, we run your content through a program that attempts to identify any living persons listed therein. We use commercially reasonable efforts to make certain personal information (but not headings or labels that you use to identify such personal information) relating to such identified persons "private" by blocking other users from viewing such information in search results or otherwise. Please be aware that the program does not make private the names of persons it identifies as living, or their relation to other individuals within the family tree. In certain other contexts (for example, if you create a User Home Page through familytreemaker.com) you may have the option of making information relating to living persons "private," as described in the preceding sentence. You represent and warrant that you have obtained all appropriate permissions to post information relating to any living person on or in connection with the Sites, including, where necessary, express consent from such person, to provide such information to Genealogy.com, and to allow us to use such information in accordance with this Privacy Statement. 
+| 
 
-## Public Forums
+[Changes, updates, and consent](http://www.ancestry.com/cs/legal/privacystatement#Changes)  
+  
+11.  
 
-We make message boards and chat rooms available to our users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose personal information in any message board. For further terms relating to the use of our Public Forums, please review our [Terms of Service](https://web.archive.org/web/20140625151249id_/http%3A//www.genealogy.com/agreement.html). 
+| 
 
-As part of the registration process to use message boards, you will need to create a profile by selecting a screen name, and providing your e-mail address, as well as other information. When you log onto a message board, you may change your profile, including your screen name. Whenever you contribute to a message board, your screen name, linking to your profile, will automatically appear with your post. The information that you provide as part of your profile, except your password, will be accessible to other users of the Sites by clicking on your screen name associated with any of your postings. You may designate, each time that you post a message on a message board, whether you would like to display your e-mail address with your posted messages, to allow others to contact you. 
+[Contacting us about privacy](http://www.ancestry.com/cs/legal/privacystatement#Contacting)  
+  
+1 **.   What personal information do we collect from or about you?**
 
-You are also required to register for the chat rooms that are made available through the Sites. You will need to create a profile when registering for the chat rooms by selecting a screen name and providing your e-mail address. As with message boards, whenever you contribute to a chat room, your screen name, linking to your profile, will automatically appear with your post. The information that you provide as part of your profile, except your password, will be accessible to other users of the Sites by clicking on your screen name associated with any of your postings. 
+Please note that starting September 30, 2014, pursuant to an update to the Website (see our [FAQs](http://www.ancestry.com/cs/faq/genealogy-faq) for more information), we have restricted the number of opportunities for you to provide personal information through the Website. Information collected prior to September 30, 2014, will continue to be used under the terms of this Privacy Statement: 
 
-## Service Providers
+**_i_** ** _) Name, contact information and payment details:_**  To gain access certain parts of the Website, Users were required to create a registered user account by providing their name, email address, and a password. In addition, Users were also required to enter their postal address and payment details (such as a credit or debit card number) to facilitate payment for any purchases or subscriptions they chose to make through the Website. 
 
-We work with third parties who provide services, including but not limited to Web site hosting, order processing and fulfillment, credit card clearance, technical support, data analysis, e-mailing and other services of an administrative nature. We only share personal information, including financial information, with such third parties to the extent necessary for such third parties to provide those services, and we take reasonable steps to ensure that your personal information is protected from unauthorized use. 
+**_ii) Optional information:_** In addition, many Website Users voluntarily entered personal information through the Website in order to take advantages of the many features of the Website, including: (i) background and interests, which Users included in their Website profiles; (ii) family trees; (iii) personal stories, questions and family information posted to GenForum message boards, Family Tree Maker homepages, and the virtual cemetery, as well as other community forums, chats, and message boards; and (iv) specially-requested information for various promotional opportunities, such as sweepstakes, offered through the Website. Some of this information, such as family trees and message board posts will still be identified by the username of the User who originally posted the information. You should be aware that any information you provided in these areas may be read, collected, and used by others who could access them. 
 
-## Links to Third Party Sites
+Please note: Ancestry publishes records on its Website that it has obtained from many sources, with appropriate consents and permissions where relevant. Some of these records may contain personal information that relates to living individuals, which may include you or your family members, usually from public record sources. Ancestry and its affiliates and agents take reasonable steps to assure that the documents do not include sensitive, personal information about living individuals. 
 
-The Sites may contain links to third-party Web sites. The linked sites are not under our control, and we are not responsible for the privacy practices or the contents of any linked site. We are providing these links only as a convenience, and the inclusion of a link on our Sites does not imply our endorsement of the linked site. 
+**2.   How Does Ancestry use personal information?**
 
-## Opting Out
+Any personal information that you provided us or that we otherwise collected from you may be transferred to and stored and processed in other countries which may provide a different level of protection for personal data than in your country of residence. By allowing us to collect personal information, you specifically consented to the transfer, storage, and processing of that personal information. Please be aware that any personal information you elected to post on our Website may be made available elsewhere within the Ancestry Community and may be visible to other users of the Website. 
 
-In order to access and use certain Services, you will be required to provide certain personal information. Accordingly, if you do not provide such information during the registration process, those Services will not be available to you (for example, if you wish to subscribe to certain databases or participate in message boards). You may, however, choose to "opt out" of receiving promotional or other materials from us. If, after registering, you decide that you would like to discontinue receiving such materials from us, you can change your preferences on the [My Profile](http://www.genealogy.com/cgi-bin/regchange.cgi) page within this Site. 
+Subject to the restrictions described in this Privacy Statement and applicable law, we may use personal information for any reasonable purpose related to the business, including to communicate with you; showcase your contributions to the Website; provide you information about Ancestry’s products and services; respond to your requests; update our product offerings; improve the content and User experience on the Website; let you know about offers of interest from Ancestry; and to prepare and perform demographic, benchmarking, advertising, marketing, and promotional studies. 
 
-## Changing or Deleting Personal Information
+In particular we may use your personal information as follows:
 
-Upon your request, we will deactivate your profile and personal information from our active databases. You can make this request on the Web page located at [www.genealogy.com/help](http://www.genealogy.com/help/). Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law. Please note that we may need to retain certain information for record keeping purposes, and there may also be residual information that will remain within our databases and other records. We reserve the right, from time to time, to re-contact former users of the Sites. 
+**_i_** ** _) To provide the Service:_**  We primarily use your personal information to provide you with relevant information such as appropriate search results, information about content releases and product updates, informational updates that you have requested through the Website, or to address customer service needs and requests. Ancestry may also use personal information to let you know about new features or offers of interest from Ancestry. We also use your data to fulfill the purposes for which you have provided the personal information, such as processing your subscription, if applicable. 
 
-## Correcting or Updating Personal Information
+**_ii) Verification:_** We will use your personal information to verify your identity so that you can carry out transactions through the Website.
 
-If you would like to correct or update any personal information within your profile, you may do so on the [My Profile](http://www.genealogy.com/cgi-bin/regchange.cgi) page within this Site, or you may inform us of any changes to the personal information you have provided by making those changes through the Web page located at [www.genealogy.com/help](http://www.genealogy.com/help/). 
+**_iii) For internal business purposes:_**  In order to improve the Website (or to develop new products and services), we may use personal information for internal data analysis, studying how the Website is used, identifying usage trends and determining the effectiveness of promotional campaigns.
 
-## Security
+**_iv) To_** ** _communicate with you:_**  We may communicate with you for the purpose of informing you of changes to the Website or any Ancestry-related products and services. Our communications with you will generally be via email, but may be made via telephone, direct mail or another method of communication in select circumstances. You may also receive promotional offers from Ancestry or other third parties trusted by Ancestry. If you do not want to continue to receive promotional emails, you may opt out at any time by using the unsubscribe link listed in the email. 
 
-We have security measures in place to protect against the loss, misuse, and alteration of user information under our control. When a credit card number is requested on the Sites, that credit card number is transmitted to us in an encrypted format, using industry-standard, SSL (secure socket layer) encryption. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information provided to us through the Sites, and you provide all such information at your own risk. We make reasonable efforts to ensure the security of such information stored on our systems. 
+**_v) To distribute advertisements:_**  Ancestry strives to show you relevant advertisements. To that end, we use the information you provide to us, aggregated demographic information (such as women between the ages of 45-60), anonymized data compared to data from third parties, or the placement of cookies (as discussed in more detail below). In these ways, Ancestry can display relevant ads to users on our Website. Ancestry does not sell, rent or otherwise distribute the personal information you provide us to advertisers unless you have given us your consent to do so. 
 
-## Assignment
+**3.   Will Ancestry disclose any of your personal information to third parties?**
 
-We reserve the right to transfer any and all information, including your personal information, that we collect from users of each Site to a third party in the event that we sell or transfer substantially all of our assets related to the Site to such third party. 
+Ancestry will not disclose any personal information to third parties except in very limited circumstances which are set out below. Before Ancestry begins to transfer personal information to any third party acting as our agent, we will confirm that they have adopted, are subject to, or are contractually obligated to comply with the principles and objectives of this Privacy Statement.
 
-## Contacting Us
+**_i_** ** _) In these scenarios:_**  Examples of the limited scenarios where Ancestry may disclose personal information to third parties are: (a) with your knowledge and consent; (b) as described in this Privacy Statement; (c) as may be required or permitted by law, regulatory authorities, legal process or to protect the rights, property, safety, confidentiality, or reputation of Ancestry, its Group Companies, or other Users (including outside your country of residence); (d) to enforce our terms and conditions; (e) to prevent fraud or cybercrime; or (f) to permit us to pursue available remedies or limit the damages that we may sustain.
 
-If you have any questions about this Privacy Statement, our Sites' practices, or your dealings with us, you can direct them to us through the Web page located at [www.genealogy.com/help](http://www.genealogy.com/help/). 
+**_ii) To Group Companies:_**  We may share personal information with our Group Companies so that they may use personal information for the purposes described in this Privacy Statement, to provide the additional services of those Ancestry Group Companies, and for the purposes of connecting you to Users of the other websites operated by the Ancestry Group Companies. Ancestry is responsible for the management of the jointly-used personal information. The Group Companies are subject to similar privacy statements. Additionally, as our business continues to grow and change, we might restructure, buy, or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in then prevailing privacy statements. Also, in the event that Ancestry, or substantially all of its assets or stock are acquired, transferred, disposed of (in whole or part and including in connection with any bankruptcy or similar proceedings), personal information will as a matter of course be one of the transferred assets.
 
-## Revisions to Privacy Statement
+**_iii) Third-party service providers:_**  Under the protection of appropriate agreements, we may disclose personal information to third party service providers we use to perform various tasks for us including for the purposes of data storage, consolidation, retrieval, analysis, or other processing, as well as effective management of customer information and to help us communicate with you. For example, we use third parties to help manage our Website and relationships with you. These third-parties are only given access to that information needed to perform their support functions, and are prohibited from using it for other purposes. These third parties include affiliated and unaffiliated service providers in in the United States, Europe and in other jurisdictions. 
 
-Any of the policies or procedures described above may be changed at any time without prior notice. You can determine if this Privacy Statement has been revised by referring to the "Last Updated" date at the top of this page. Use of any Site constitutes your acceptance of the terms of this Privacy Statement then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our Privacy Statement. 
+Please note: If you click away from our Website to visit the site of any third party advertiser or sponsor, you may be asked for your payment card or other personal information in order to purchase or use the products and services that those third parties offer. These companies have their own privacy and data collection practices. We have no responsibility or liability for these independent policies. You should therefore review their privacy notices carefully if you have concerns about how your information may be used. 
+
+**4.   How do you report, change or delete information about yourself or your family?**
+
+Ancestry will maintain procedures consistent with applicable law for individuals to gain access to their collected personal information and, when appropriate, correct or delete their personal information. ** __**
+
+**_i_** ** _) Removal of personal information from public records._**  You should be aware that personal information may be publicly available through public record sources such as census records or birth, marriage and death records. Unfortunately we are not able to change the information in public records published on our Website and you need to contact the entity responsible for such records. We will however consider requests for removal of personal information from the searchable indexes of the records we hold on a case-by-case basis. 
+
+**_ii) Deleting information you’ve contributed to the Website._** In order to remove any personal information you may have contributed to the Website prior to September 30, 2014, please contact support@genealogy.com, and we will consider it for removal. However, please note that where you or we delete your content, copies of that information may remain viewable elsewhere to the extent any such copy has been shared with others, was otherwise distributed pursuant to your privacy settings, or was copied or stored by other users, but you will no longer be identified with that content. Additionally, we may retain certain information to prevent identity theft and other misconduct even if deletion has been requested. If you have given third party applications or websites access to your information, they may retain your information to the extent permitted under their terms of service or privacy policies but they will no longer be able to access the information through our platform after you disconnect from them. 
+
+**_iii) Third party content._** **** Although we prohibit Users from posting content that violates the privacy rights of others, Ancestry does not edit or approve User Provided Content. It is possible that another User has posted your private information on the Website. 
+
+**_iv) Backup_** ** _copies._** ** ** Removed and deleted information may persist in backup copies for a reasonable time for our internal business purposes but will not be available to you or others.
+
+**_v) Concerns?_** **** If you have concerns or issues about your personal information that is contained on the Website, including if you believe that a document published on the Website violates your privacy rights or that a User has posted personal information about you that violates your rights, please contact us at [support@genealogy.com](mailto:support@genealogy.com) and we will attempt to resolve the matter quickly. For your protection, we will only implement such requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity before considering your request.
+
+**5\. Security**
+
+Ancestry places great importance on the security of all personally identifiable information associated with our Users. We have security measures in place to attempt to protect against the loss, misuse, unauthorized access, modification, or disclosure of User data under our control. For example our security and privacy practices are periodically reviewed and enhanced as necessary and only authorized personnel have access to personal information. While we cannot guarantee that loss, misuse or alteration of data will not occur, we use commercially reasonable efforts to prevent this. It is also important for you to guard against unauthorized access to your passwords and the unauthorized use of your computer.
+
+**6.   What about non-personal information, mobile data, "cookies," and social media features?**
+
+**_i_** ** _) Non-Personal Information._**  When you visit the Website, we may automatically collect information or computer-generated data that does not personally identify you (“Non-Personal Information”), such as the website from which you have come to our Website, your Media Access Control address, your computer type, screen resolution, operating system version and Internet browser, as well as information based on your interaction with the Website, such as web log information, page views, and IP addresses on an anonymized basis. We have to use your IP address and other Non-Personal Information to deliver the Website to you and to help diagnose problems with our server. We may also collect Non-Personal Information such as demographic data, age groups, and your geographic areas, etc. Non-Personal Information also includes personal information that has been aggregated in a manner such that the end-product does not personally identify you or any other user of the Website, for example, by using personal information to calculate the percentage of our users who have a particular telephone area code or who are female. This technology helps us compile aggregated statistics about our Users and their use of the Website. We use these statistics to improve the design and content of the Website and to prepare and deliver our marketing programs. Because Non-Personal Information does not personally identify you, we may use Non-Personal Information for any purpose, including sharing that information with our Group Companies and with other third parties. In some instances, we may combine Non-Personal Information with personal information (such as combining your name with your geographical location). If we do combine any Non-Personal Information with personal information, the combined information will be treated by us as personal information, as long as it is combined, and its use by us will be subject to this Privacy Statement. 
+
+**_ii) Mobile data._** If you access the Website using a mobile device (e.g. your phone or tablet), we may collect mobile device identifiers such as the device type, IP address and the operating system. We use mobile analytics software to allow us to deliver you the Website and better understand the functionality of our Website. Our Website may also collect other non-personal information from your mobile device, such as your geographic location, with your permission. 
+
+**_iii) Cookies and other tracking technologies._** **** We (either ourselves or our appointed third parties) may sometimes place cookies on your web browser or utilize pixel tags (small tracking files) to analyze and optimize the use of our Website. Our cookies and tags do not extract any private contact information or other personal information from your computer's memory, but rather record only limited information your computer sends us when you visit our Website, such as IP addresses. In addition, the cookies and tags may include de-identified demographic or other data linked to information you have voluntarily submitted to us (e.g., your email address), that are shared solely in hashed, non-human readable form. Ancestry may make limited use of cookies to deliver content and advertisements and to measure advertising effectiveness for Ancestry and other organizations. These technologies may also be used to see how you move around and interact with the Website. 
+
+You can erase or block cookies from your computer if you want to (your help screen or manual should tell you how to do this), but certain portions of the Website may not work correctly or at all if you set your browser not to accept cookies. To learn more about cookies, please visit [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/). 
+
+**7.   Contests, surveys, and promotions**
+
+We may occasionally run contests, surveys, or other special promotions on our Website in which we ask Users for personal information (like an email address or name) or demographic information (like a zip code, age, or income level). We use this data to run the contests or promotions and send users promotional material about our company or third parties we deal with. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The participant’s contact information is also used to contact him or her when necessary and may be shared with other companies for promotional purposes, but only with your prior permission and under the terms and conditions specified when you take part in the promotion. At any time, you may opt-out of receiving future mailings of this kind by following the unsubscribe instructions in each promotional communication, or simply decline to take part in the promotions.
+
+**8.   Changes, updates, and consent**
+
+We are committed to complying with all applicable laws and regulations governing the collection and use of personal information. From time to time, Ancestry will review its personal information collection, use, and disclosure practices in order to assure that we are complying with our Privacy Statement and all applicable laws and regulations. If we decide to change our Privacy Statement, we will issue an updated version of this Statement with an updated date legend and/or notify you via the Website or mobile applications, or by other appropriate means prior to the change becoming effective if it is a significant change. You should review this Privacy Statement regularly to ensure you are familiar with any changes to it. If you do not consent to any changes to our Privacy Statement and as a result you would like us not to use or hold your information in accordance with the revised terms, you may notify us at [support@genealogy.com](mailto:support@genealogy.com) so we can discontinue your account.
+
+**9.   Contacting us about privacy**
+
+If you have any questions about this Privacy Statement, Ancestry’s privacy practices, or your dealings with the Website, or wish to request access to and receive information about the personal information we maintain about you (note please that the right to access personal information may be limited in some circumstances), update and correct inaccuracies in your personal information, have the information blocked or deleted, as appropriate, or oppose (in case of legitimate reasons) the processing carried out with respect to your personal information, you can contact us via the information below. We will respond to all access requests within 30 days.
+
+Phone: (800) 262-3787
+
+Email: [support@genealogy.com](mailto:support@genealogy.com)
+
+Official correspondence must be sent via postal mail to:
+
+Genealogy.com
+
+Attn: Customer Solutions
+
+360 W 4800 N
+
+Provo, UT 84604
