@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104841id_/http%3A//www.etronics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217063953id_/http%3A//www.etronics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,7 @@
 
 When you visit Etronics.com, we collect information about your visit. We collect your IP address, browser type, domain name, and we log the length of time of your visit and the number of times you visit and purchase from us. We use this information to gather aggregate non-specific demographic information about our visitors, and we use it to personalize the information you see on this site. Even more so, the IP Address is used to help identify you, your wish list and you're past purchases. The IP address is not at all linked to any personal identifiable information. We keep this information for our internal use; in order to personalize your use of the site. For example, in the future, we may recommend products or features you may like based on what you have liked in the past 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). We use a third party to authorize and verify all credit card transaction made through this site. The billing address and phone number you provide are used for verification purposes while your email address is used for multiple purposes; verification, log in and email order confirmations. The contact information from the order form may be used to send information about order status to our customers. All users have the option of opting out of any communication not pertaining to orders from us by sending an email to service@etronics.com. 
-
-We also personalize your shopping experience by using your purchases to shape our recommendations for electronics, music, games and other merchandise that might be of interest to you. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). We use a third party to authorize and verify all credit card transaction made through this site. The billing address and phone number you provide are used for verification purposes while your email address is used for multiple purposes; verification, log in and email order confirmations. The contact information from the order form may be used to send information about order status to our customers. All users have the option of opting out of any communication not pertaining to orders from us by notifying us using  [_this link_ ](http://www.etronics.com/contacts) . We also personalize your shopping experience by using your purchases to shape our recommendations for electronics, music, games and other merchandise that might be of interest to you. 
 
 If a user elects to use our "email a friend" program for informing a friend about our site or products, we ask them for the friend's name and email address. Etronics will automatically send the friend a one-time email inviting them to visit the site. Etronics stores this information for the sole purpose of sending this one-time email. This email address is removed form our database once the email has been sent. 
 
@@ -28,4 +26,4 @@ Under all circumstances, including, without limitation, negligence and strict pr
 
 ### Contacting the WebSite
 
-If you have any questions about the policies set forth on this page, the practices of this site, or your dealings with this site, you can contact us at: service@etronics.com.
+If you have any questions about the policies set forth on this page, the practices of this site, or your dealings with this site, you can contact us using  [_this link_ ](http://www.etronics.com/contacts) .
