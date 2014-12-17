@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329084150id_/http%3A//www.wabcradio.com/common/page.php%3Fpt%3DPrivacy%2BPolicy%26id%3D114%26is_corp%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217084245id_/http%3A//www.wabcradio.com/common/page.php%3Fpt%3DPrivacy%2BPolicy%26id%3D114%26is_corp%3D1) for the most accurate reproduction.*
 
-# News Talk Radio 77 WABC New York - Privacy Policy
+# 77 WABC Radio New York - Privacy Policy
 
 **CUMULUS MEDIA INC.**
 
