@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennmedicine.org privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531075909id_/http%3A//www.pennmedicine.org/health-system/about/organization/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennmedicine.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217141415id_/http%3A//www.pennmedicine.org/health-system/about/organization/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | About Us | University of Pennsylvania Health System | Penn Medicine
 
@@ -10,7 +10,7 @@ Penn Medicine values your privacy and the confidentiality of the information you
 
 In almost all cases, you can use Penn Medicine's websites without sharing any personal information about yourself. The only information Penn learns about you is the information you voluntarily provide.
 
-This statement is not intended to, and does not create, any contractual or other legal rights on behalf of any party. If you have any questions about this statement, please email [askuphs@uphs.upenn.edu](mailto:askuphs@uphs.upenn.edu).
+This statement is not intended to, and does not create, any contractual or other legal rights on behalf of any party. Please use our [Contact Us](https://www.pennmedicine.org/submit-question/) form if you have any questions about this statement.
 
 ### Penn Medicine Online Privacy Principles
 
@@ -34,7 +34,7 @@ Penn Medicine computer systems are not configured to track, collect or distribut
 Penn Medicine websites gather information about visits to the pages that live on Penn's servers. Penn maintains statistics that show the total number of visitors to Penn's websites, requests received for pages on the websites and what domains or Internet service providers those requests come from (such as aol.com). Penn uses this information internally to improve services. Although these statistics may be provided to others, they do not contain, and cannot be used to obtain, personal information about any individual website user.
 
 **3\. Penn Medicine will not send you email newsletters or other electronic communications about services, programs or website features unless you ask to receive them.**  
-You can choose whether or not to receive email communications from Penn Medicine. We will not send you email unless you've requested it. On every email message we send, we include instructions on how to unsubscribe from our email list. If you'd like to be removed from an email list, send an email message to [askuphs@uphs.upenn.edu](mailto:askuphs@uphs.upenn.edu).
+You can choose whether or not to receive email communications from Penn Medicine. We will not send you email unless you've requested it. On every email message we send, we include instructions on how to unsubscribe from our email list. Please use our [Contact Us](https://www.pennmedicine.org/submit-question/) form if you'd like to be removed from an email list.
 
 **4\. Penn Medicine will tell you if any information you provide is being submitted through secure or unsecured transfer.**  
 To help you use or learn more about Penn Medicine's services and programs, various contact forms have been posted throughout Penn Medicine's websites. To use these forms to contact Penn or ask Penn to contact you, you will need to complete the fields of information requested. The information you provide is transferred electronically to the person or people who can assist you with your request.
