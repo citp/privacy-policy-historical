@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covidien.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619074824id_/http%3A//www.covidien.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covidien.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217102203id_/http%3A//www.covidien.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Covidien
 
