@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416215931id_/http%3A//www.myproviderguide.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034308id_/http%3A//myproviderguide.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy - My Provider Guide
 
