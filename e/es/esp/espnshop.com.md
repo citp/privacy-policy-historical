@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the espnshop.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531163111id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_Know_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espnshop.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217015958id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_PrivacyPolicy) for the most accurate reproduction.*
 
 # Dick’s Sporting Goods – Official Site – Every Season Starts at Dick’s
 
-**PRIVACY POLICY**
+Privacy Policy
 
 Updated As of February 21, 2014.
 
