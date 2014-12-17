@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327092429id_/http%3A//www.healthjobsuk.com/hj/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217133304id_/http%3A//www.healthjobsuk.com/about/privacy) for the most accurate reproduction.*
 
-# HealthJobsUK
+# Privacy policy
 
 ## TRAC SYSTEMS LIMITED
 
@@ -173,8 +173,8 @@ an individual, company, or firm accessing our Site.
 
 10.1 Information on how to block cookies can normally be found within the help features of your browser. Information can also be found on the main browser websites:
 
-[ http://www.microsoft.com ](http://www.microsoft.com/) (Internet Explorer)
+[ http://www.microsoft.com](http://www.microsoft.com/) (Internet Explorer)
 
-[ http://www.opera.com ](http://www.opera.com/) (Opera)
+[ http://www.opera.com](http://www.opera.com/) (Opera)
 
-[ http://www.mozilla.org ](http://www.mozilla.org/) (Firefox)
+[ http://www.mozilla.org](http://www.mozilla.org/) (Firefox)
