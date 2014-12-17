@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs6albany.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608085455id_/http%3A//cbs6albany.com/station/features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs6albany.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217123334id_/http%3A//www.cbs6albany.com/station/features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WRGB CBS6
 
