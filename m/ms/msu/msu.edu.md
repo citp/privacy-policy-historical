@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msu.edu privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629232049id_/http%3A//msu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msu.edu privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217141047id_/https%3A//www.msu.edu/privacy/index.html) for the most accurate reproduction.*
 
 # Michigan State University Privacy Statement | Michigan State University
 
@@ -6,9 +6,9 @@ This online privacy statement is intended to inform you of the ways in which thi
 
 Please note that other Michigan State University websites may adopt different privacy practices as their specific needs require. 
 
-Use of this Site is subject to all applicable state and federal laws, as well as general University policies. 
+Use of this Site is subject to all applicable state and federal laws, as well as general University policies.
 
-## Information Collected 
+## Information Collected
 
 This Site collects two general types of information: (a) information you voluntarily provide to us, which may include personal information (such as your name, address, e-mail address, etc.), and (b) information we collect automatically when you visit this Site through cookies, third party tracking technologies and server logs. 
 
@@ -39,9 +39,9 @@ This Site collects information automatically through the use of cookies, third p
 
 “Cookies” are small text files used to collect information about website activity.  No personal information is collected through our use of cookies.  This Site uses cookies for two main purposes: (a) to carry information about your current session at this Site from one web page to the next, which also allows you to automatically login to other Michigan State University websites, and (b) to identify you on this Site on return visits. 
 
-You have the option of disabling or not accepting cookies by changing the preferences on your browser.  If you opt to disable cookies, you will still be able to use certain sections of our Site. However, you will not be able to use any parts of this Site that requires a login (e.g. accessing secured content, posting to message boards, etc). 
+You have the option of disabling or not accepting cookies by changing the preferences on your browser.  If you opt to disable cookies, you will still be able to use certain sections of our Site. However, you will not be able to use any parts of this Site that requires a login (e.g. accessing secured content, posting to message boards, etc).
 
-#### Third Party Tracking Technology 
+#### Third Party Tracking Technology
 
 This Site uses Google Analytics, the Google Search API, Google custom search, the Google Maps API, and Urchin. ** **
 
@@ -60,22 +60,22 @@ Our web servers routinely generate logs that contain the following types of info
   * The date, time and length of your visit.
   * The path taken through our Site and the browser being used.
   * The list of files downloaded and the amount of time spent viewing video or audio files.
-  * The IP Address of the computer accessing our Site. 
+  * The IP Address of the computer accessing our Site.
   * Any errors encountered.
 
 
 
 This information is used primarily to monitor the functioning and integrity of the Site and other MSU websites.  
 
-## Links 
+## Links
 
 This Site may contain links to other sites. Please be aware that we do not control or claim any responsibility for the privacy practices or content of such other sites. We encourage users to read the privacy statements of each website they visit.
 
-## Choice/Opt-out 
+## Choice/Opt-out
 
 Our users are given the opportunity to receive communications from us.  However, at this time this Site does not manage or send communications.
 
-## Changes to Privacy Statement 
+## Changes to Privacy Statement
 
 If we make changes to our privacy statement, we will indicate this on our home page. 
 
