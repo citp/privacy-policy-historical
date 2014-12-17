@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114515id_/http%3A//smartbear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217054602id_/http%3A//smartbear.com/privacy) for the most accurate reproduction.*
 
 # SmartBear Privacy Policy
 
