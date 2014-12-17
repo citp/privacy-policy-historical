@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmaceuticalonline.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628063216id_/http%3A//www.pharmaceuticalonline.com/static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmaceuticalonline.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217112556id_/http%3A//www.pharmaceuticalonline.com/static/Privacy) for the most accurate reproduction.*
 
 # Pharmaceutical Online : Privacy Statement
 
