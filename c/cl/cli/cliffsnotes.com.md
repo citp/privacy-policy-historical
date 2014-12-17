@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125554id_/http%3A//www.hmhco.com/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217082202id_/http%3A//www.hmhco.com/common/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Houghton Mifflin Harcourt
 
-Effective Date: March 8, 2013.
+Effective Date: March 8, 2013
 
-## Overview
+**The Privacy Policy below covers consumer use of HMH's online offerings. HMH also provides educational materials and related services for students (K–12) via a set of online learning platforms. For information about our distinct Privacy Policy for K–12 Learning Platforms, please go[here](http://www.hmhco.com/common/privacy-policy-for-k-12-learning-platforms).**
+
+**Overview**
 
 **You should read this entire Privacy Policy, but here is a partial list of some of the key topics that are explored in greater detail throughout the Privacy Policy. The summaries and headings are for convenience only and the full provisions govern. Capitalized terms have the meanings given to them where defined in the Privacy Policy.**
 
