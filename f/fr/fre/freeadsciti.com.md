@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadsciti.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611113646id_/http%3A//www.freeadsciti.com/privpol-p22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadsciti.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033534id_/http%3A//www.freeadsciti.com/privpol-p22) for the most accurate reproduction.*
 
 # Privacy Policy - Free Ads Citi
 
