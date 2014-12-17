@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geewa.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626094141id_/http%3A//www.geewa.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geewa.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217110615id_/http%3A//www.geewa.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Live Games - Help
 
