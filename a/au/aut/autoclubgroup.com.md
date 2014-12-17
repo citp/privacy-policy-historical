@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoclubgroup.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427083839id_/http%3A//www.aaa.com/aaa/SubDomains/misc/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoclubgroup.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217130625id_/http%3A//www.aaa.com/aaa/SubDomains/misc/privacy-policy.htm) for the most accurate reproduction.*
 
 # AAA Privacy Policy
 
