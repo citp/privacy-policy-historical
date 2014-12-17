@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hyperic.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628024946id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperic.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217174509id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | United States
 
-Effective Date: March 31, 2014
+Effective Date: August 21, 2014
 
 VMware respects the privacy of our customers, business partners and other visitors to our websites. We recognize the need for appropriate protections and management of your personal information that you provide to us. VMware has therefore established this Privacy Policy to assist you to understand what personal information we collect and how that personal information is used. This Privacy Policy applies to data collected by VMware Inc. and its related entities in your jurisdiction ("VMware") through the vmware.com website, the My VMware mobile application, and other webpages which we operate and in which we post a direct link to this policy.
 
