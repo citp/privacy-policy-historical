@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154138id_/http%3A//www.secureworks.com/contact/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217185332id_/http%3A//www.secureworks.com/contact/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dell SecureWorks
 
