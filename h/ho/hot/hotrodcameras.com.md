@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the hotrodcameras.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409042716id_/http%3A//www.hotrodcameras.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotrodcameras.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217142906id_/http%3A//hotrodcameras.com/privacy) for the most accurate reproduction.*
 
 # HRC - Privacy Policy
+
+Hollywood's Premiere Equipment Boutique   
+
+Currency:
+
+[](http://hotrodcameras.com/)
 
 **What information do we collect?**  
 
@@ -67,7 +73,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using any Hot Rod Cameras website, you consent to use this privacy policy.
 
 **Changes to our Privacy Policy**
 
