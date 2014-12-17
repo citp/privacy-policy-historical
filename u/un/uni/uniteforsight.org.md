@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uniteforsight.org privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327014959id_/http%3A//www.uniteforsight.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniteforsight.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033543id_/http%3A//www.uniteforsight.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Unite For Sight
+# Privacy Policy
 
 Unite For Sight values your support, and we are committed to protecting your privacy. The purpose of this statement is to share with you our policy concerning your privacy. 
 
@@ -16,4 +16,4 @@ This site contains links to other sites. Unite For Sight has no control over the
 
 Any data you enter on this site will reside on our office computer network, with access limited to Unite For Sight management.
 
-You have the right to know, correct or cancel your personal data as held on our systems. Please contact [ufs@uniteforsight.org](https://web.archive.org/web/20140327014959id_/http%3A//www.uniteforsight.org/ufs@uniteforsight.org)
+You have the right to know, correct or cancel your personal data as held on our systems. Please contact [ufs@uniteforsight.org](https://web.archive.org/web/20141217033543id_/http%3A//www.uniteforsight.org/ufs@uniteforsight.org)
