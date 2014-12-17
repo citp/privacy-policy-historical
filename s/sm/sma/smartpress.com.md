@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081742id_/http%3A//smartpress.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartpress.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217023245id_/http%3A//smartpress.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartpress.com
 
