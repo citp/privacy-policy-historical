@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004528id_/http%3A//www.farmandfleet.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217043600id_/http%3A//www.farmandfleet.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Blain's Farm & Fleet : Privacy Statement
 
