@@ -1,12 +1,10 @@
-<!--The following is the downloaded HTML source of the mercer.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627104153id_/http%3A//www.mercer.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mercer.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217130232id_/http%3A//www.mercer.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat"><head>
 	
 	
-		
-	
-	<title>Privacy</title>
+	<title> </title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=10">
@@ -16,7 +14,7 @@
 	
 		<meta name="keywords" content="">
 	
-    <meta name="description" content="">
+    <meta name="description" content=" ">
 	<link rel="canonical" href="/content/mercer/global/all/en/privacy.html"> 
     
 
@@ -41,6 +39,9 @@
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/etc/designs/mercer/insights/focus/twoColumnCampaign/clientlibs.min.js"></script>
 
 
+
+<!--[if IE 9]> <link rel="stylesheet" href="/etc/designs/mercer/common/clientie9specific.min.css" type="text/css"/>
+ <![endif]-->
 
 <!--[if IE 8]> <link rel="stylesheet" href="/etc/designs/mercer/common/clientsiespecific.min.css" type="text/css"/>
   <![endif]-->
@@ -135,19 +136,24 @@
 	
 	
 	
-	
+    
+    
+	  
 	
 	
 	
 
 	
 	<div class="mrc-location">
+
 		<ul>
 			
 				
 											
                     <li><a href="#" class="mrc-countryName" style="padding-left:10px;">All Countries<span></span></a>
 				
+
+                
 
 				
 			
@@ -1094,7 +1100,7 @@
 													<span> 
 															
 																
-																<a href="http://www.mercer.com.tr/">Turkish</a>
+																<a href="http://www.mercer.com.tr/">Anasayfa</a>
 																
 																															
 															
@@ -1157,7 +1163,7 @@
 									
 									<li><p>
 											
-												<strong>Latin America and Caribbean</strong>
+												<strong>Latin America</strong>
 											
 									</p></li>
 										
@@ -1256,7 +1262,7 @@
 													<span> 
 															
 																
-																<a href="/content/mercer/latin-america-and-caribbean/cl/es.html">Spanish</a>
+																<a href="http://www.mercer.cl/">Spanish</a>
 																
 																															
 															
@@ -1326,7 +1332,7 @@
 													<span> 
 															
 																
-																<a href="/content/mercer/latin-america-and-caribbean/mexico/es.html">Spanish</a>
+																<a href="http://www.mercer.com.mx/">Spanish</a>
 																
 																															
 															
@@ -1361,7 +1367,7 @@
 													<span> 
 															
 																
-																<a href="/content/mercer/latin-america-and-caribbean/pl/es.html">Spanish</a>
+																<a href="http://www.mercer.com.pe/">Spanish</a>
 																
 																															
 															
@@ -1391,19 +1397,6 @@
                                                     
                                                
 												
-												
-													
-													<span> 
-															
-																
-																<a href="/content/mercer/latin-america-and-caribbean/ve/es.html">Spanish</a>
-																
-																															
-															
-
-															
-														
-													</span>
 												
 											</p></li>
 										
@@ -1504,7 +1497,7 @@
 
 															
 																
-																<a href="/content/mercer/north-america/ca/en.html">English</a> |
+																<a href="http://www.mercer.ca/en.html">English</a> |
 																
 															
 														
@@ -1514,7 +1507,7 @@
 													<span> 
 															
 																
-																<a href="/content/mercer/north-america/ca/fr.html">French</a>
+																<a href="http://www.mercer.ca/fr.html">Français</a>
 																
 																															
 															
@@ -1549,7 +1542,7 @@
 													<span> 
 															
 																
-																<a href="/content/mercer/north-america/us/en.html">English</a>
+																<a href="http://www.mercer.us/">English</a>
 																
 																															
 															
@@ -1638,10 +1631,11 @@
 <header class="row mrc-pcHeader clearfix">
 	
 
-	
+
 
 	<section class="small-12 clearfix header">
 		
+        
 		
 		
 			
@@ -1650,7 +1644,16 @@
 			
 		
 		<ul id="mrc-secondaryNav">
-			<li><a href="/services.html"><img src="/etc/designs/mercer/common/clientlibs/img/threepillars.jpg"></a></li>
+		
+		
+		
+		
+		
+		
+		<li><a href="/services.html">
+		
+		
+		<img src="/etc/designs/mercer/common/clientlibs/img/threepillars.jpg"></a></li>
 		</ul>
 	</section>
 	
@@ -1670,6 +1673,59 @@
 
 
 
+
+
+
+	<script>
+		$(document).ready(function() {
+
+			$.get("/bin/mercer/geoLocatorServlet", function(data) {
+
+				$('.geoLocation').html(data);
+				if (data != 'Not Found') {
+
+					$('.mrc-GlobalHomeSubmenu').css('visibility', 'visible')
+
+				} else {
+					$('.geoLocation').css('display', 'none')
+				}
+
+			}
+
+			);
+
+		});
+	</script>
+
+
+
+<section class="small-12 clearfix" id="mrc-topNav">
+<div id="mrc-search">
+		<div class="searchFormHeader searchForm">
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="/search.html" method="GET">
+<input type="text" name="q" value="" placeholder="SEARCH">
+<input type="submit" value="" class="mrc-btn-search">
+
+<input type="hidden" name="searchIn" value="global">
+
+
+<br>
+</form></div>
+
+	</div>
+</section>
 <section class="small-12 clearfix" id="mrc-topNav">
 <nav class="mrc-topNav">
     <ul>
@@ -1685,17 +1741,34 @@
                         <li>
                             <a href="/">Home</a>
 							
+                            <div class="mrc-subMenu mrc-1colGlbSmenu mrc-global"> <img src="/etc/designs/mercer/common/clientlibs/img/arrow-subnav.png" alt="">
+                              <nav>
+								<div class="mrc-column clearfix left last">
+									<ul>
+										<li><span class="geoLocation"></span></li>
+										
+									</ul>
+								</div>
+							</nav>
+                            </div>
+                           
                     	</li>
                 
         
 
         
         
+		
+											
+		
+		
+		
 
     	
         
         
             
+				
 				
 				
 				
@@ -1728,8 +1801,11 @@
 			
 			
 			
+			
+			
             
             
+			
 
             
                 
@@ -1738,8 +1814,29 @@
                         
 
                         
-                            <li>
-								<a href="/services.html">Services</a>
+						
+
+                                
+
+
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+                                
+                                
+
+
+                                <li><a href="/services.html">Services</a>
+										
                                 
                                 <div class="mrc-subMenu mrc-3colSolSmenu mrc-services"> <img src="/etc/designs/mercer/common/clientlibs/img/arrow-subnav.png" alt="">
               							<nav>
@@ -1747,7 +1844,19 @@
                                             <div class="mrc-column clearfix left ">
                                                 
                                                 <ul>
-														<li class="groupTitle_top">Talent</li>
+														
+														
+														
+														
+														<li class="groupTitle_top"><a href="/services/talent.html" target="_top"> Talent</a></li>
+														
+														
+														
+														
+														
+														
+														
+                                                    
                                                         	
                                                         	<li>
 																
@@ -1836,7 +1945,19 @@
                                               	</ul>
                                                 
                                                 <ul>
-														<li class="groupTitle_top">Retirement</li>
+														
+														
+														
+														
+														<li class="groupTitle_top"><a href="/services/retirement.html" target="_top"> Retirement</a></li>
+														
+														
+														
+														
+														
+														
+														
+                                                    
                                                         	
                                                         	<li>
 																
@@ -1888,7 +2009,19 @@
                                             <div class="mrc-column clearfix left ">
                                                 
                                                 <ul>
-														<li class="groupTitle_top">Health</li>
+														
+														
+														
+														
+														<li class="groupTitle_top"><a href="/services/health.html" target="_top"> Health</a></li>
+														
+														
+														
+														
+														
+														
+														
+                                                    
                                                         	
                                                         	<li>
 																
@@ -1976,13 +2109,70 @@
                                                             
                                               	</ul>
                                                 
+                                                <ul>
+														
+														
+														
+														
+														<li class="groupTitle_top"><a href="/services/benefits-administration.html" target="_top"> Benefits Administration</a></li>
+														
+														
+														
+														
+														
+														
+														
+                                                    
+                                                        	
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/benefits-administration/health-and-benefits-plan-adminstration.html">Health and benefits plan administration</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/benefits-administration/retirement-plan-administration.html">Retirement Plan Administration</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                              	</ul>
+                                                
                                             </div>
                                             
                                                 
                                             <div class="mrc-column clearfix left last">
                                                 
                                                 <ul>
-														<li class="groupTitle_top">Investments</li>
+														
+														
+														
+														
+														<li class="groupTitle_top"><a href="/services/investments.html" target="_top"> Investments</a></li>
+														
+														
+														
+														
+														
+														
+														
+                                                    
                                                         	
                                                         	<li>
 																
@@ -2071,14 +2261,26 @@
                                               	</ul>
                                                 
                                                 <ul>
-														<li class="groupTitle_top">M&amp;A </li>
+														
+														
+														
+														
+														<li class="groupTitle_top"><a href="/services/mergers-acquisitions-transaction-services.html" target="_top"> M&amp;A Transaction Services</a></li>
+														
+														
+														
+														
+														
+														
+														
+                                                    
                                                         	
                                                         	<li>
 																
                         											
                                                                 		
                                                                         
-                                                                		<a href="/services/mergers-acquisitions-transaction-services.html">M&amp;A transaction services</a>
+                                                                		<a href="/services/mergers-acquisitions-transaction-services/cross-border-transactions.html">Cross-border transactions</a>
                                                                         
                                                                         
                                                                         
@@ -2087,6 +2289,126 @@
                                                                     
                                                             </li>
                                                             
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/mergers-acquisitions-transaction-services/divestitures-spin-offs-and-stand-ups.html">Divestitures, spin-offs and stand-ups</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/mergers-acquisitions-transaction-services/post-merger-integration.html">Post-merger integration</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/mergers-acquisitions-transaction-services/mergers-and-acquisitions-readiness.html">M&amp;A readiness</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/mergers-acquisitions-transaction-services/culture-in-mergers-and-acquisitions.html">Culture in M&amp;A</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/mergers-acquisitions-transaction-services/private-equity-services.html">Private equity services</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/mergers-acquisitions-transaction-services/PMO-project-management-in-mergers-acquisitions.html">M&amp;A project managment (PMO)</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/mergers-acquisitions-transaction-services/specialty-transactions-IPOs-joint-ventures.html">Specialty transactions (IPOs, joint ventures)</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                                        	<li>
+																
+                        											
+                                                                		
+                                                                        
+                                                                		<a href="/services/mergers-acquisitions-transaction-services/due-diligence.html">Due diligence</a>
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                    
+                                                            </li>
+                                                            
+                                              	</ul>
+                                                
+                                                <ul>
+														
+														
+														
+                                                    
+                                                        	
                                               	</ul>
                                                     
                                             </div>
@@ -2109,7 +2431,7 @@
 				
 				
 				
-
+				
                 
 					
                 
@@ -2146,8 +2468,11 @@
 			
 			
 			
+			
+			
             
             
+			
 
             
                 
@@ -2156,8 +2481,29 @@
                         
 
                         
-                            <li>
-								<a href="/insights.html">Insights</a>
+						
+
+                                
+
+
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+                                
+                                
+
+
+                                <li><a href="/insights.html">Insights</a>
+										
                                 
                                 <div class="mrc-subMenu mrc-1colInsSmenu mrc-insights"> <img src="/etc/designs/mercer/common/clientlibs/img/arrow-subnav.png" alt="">
               							<nav>
@@ -2165,7 +2511,19 @@
                                             <div class="mrc-column clearfix left last">
                                                 
                                                 <ul>
+														
+														
+														
+														
+														
 														<li class="groupTitle_top">Mercer/Series</li>
+														
+														
+														
+														
+														
+														
+                                                    
                                                         	
                                                         	<li>
 																
@@ -2276,7 +2634,7 @@
 				
 				
 				
-
+				
                 
 					
                 
@@ -2312,8 +2670,11 @@
             
 			
 			
+			
+			
             
             
+			
 
             
                 
@@ -2322,8 +2683,29 @@
                         
 
                         
-                            <li>
-								<a href="/events.html">Events</a>
+						
+
+                                
+
+
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+                                
+                                
+
+
+                                <li><a href="/events.html">Events</a>
+										
                                 
                                 <div class="mrc-subMenu mrc-1colEventSmenu mrc-events"> <img src="/etc/designs/mercer/common/clientlibs/img/arrow-subnav.png" alt="">
               							<nav>
@@ -2331,7 +2713,19 @@
                                             <div class="mrc-column clearfix left last">
                                                 
                                                 <ul>
+														
+														
+														
+														
+														
 														<li class="groupTitle_top">Events</li>
+														
+														
+														
+														
+														
+														
+                                                    
                                                         	
                                                         	<li>
 																
@@ -2401,7 +2795,7 @@
 				
 				
                 
-
+				
                 
                 
                 
@@ -2413,8 +2807,11 @@
 
             
 			
+			
+			
             
             
+			
 
             
                 
@@ -2423,8 +2820,29 @@
                         
 
                         
-                            <li>
-								<a href="/buy.html">Buy</a>
+						
+
+                                
+
+
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+                                
+                                
+
+
+                                <li><a href="/buy.html">Buy</a>
+										
                                 
 							</li>
                         
@@ -2436,33 +2854,7 @@
         
     </ul>
 </nav>
-<div id="mrc-search">
-       <div class="searchFormHeader searchForm">
-
-
-
-
-
-
-
-
-
-
-
-
-<form action="/search.html" method="GET">
-<input type="text" name="q" value="" placeholder="SEARCH">
-<input type="submit" value="" class="mrc-btn-search">
-
-<input type="hidden" name="searchIn" value="global">
-
-
-<br>
-</form></div>
-
-    </div>
-</section>
-</div>
+</section></div>
 </div>
 </div>
 
@@ -2498,15 +2890,30 @@
 				
 				<li><a href="#">GLOBAL HOME</a>
 					<ul style="display: none;">
-						<li class="#"><a href="/">
-								</a></li>
+
+						<li class="#"><span class="geoLocation"></span></li>
+						
+
 					</ul></li>
+					
+
+
+	
+	
+	
+	
+
+		
+	
+					
 				
 					
 						
 							
 							
 							
+							
+						
 						
 						
 						
@@ -2516,8 +2923,22 @@
 					
 					<li><a href="#">SERVICES</a>
 						<ul style="display: none;">
+						
 							
-								<li><a href="#"><strong>Talent</strong></a></li>
+							
+							
+														
+														
+														<li><a href="/services/talent.html" target="_top"> <strong>Talent</strong></a> </li>
+														
+														
+														
+														
+
+														
+														
+														
+								
 								
 									<li>
                                     
@@ -2574,7 +2995,20 @@
                                     </li>
 								
 							
-								<li><a href="#"><strong>Retirement</strong></a></li>
+							
+							
+														
+														
+														<li><a href="/services/retirement.html" target="_top"> <strong>Retirement</strong></a> </li>
+														
+														
+														
+														
+
+														
+														
+														
+								
 								
 									<li>
                                     
@@ -2605,7 +3039,20 @@
 								
 							
 							
-								<li><a href="#"><strong>Health</strong></a></li>
+								
+							
+														
+														
+														<li><a href="/services/health.html" target="_top"> <strong>Health</strong></a> </li>
+														
+														
+														
+														
+
+														
+														
+														
+								
 								
 									<li>
                                     
@@ -2662,11 +3109,58 @@
                                     </li>
 								
 							
+								
+							
+														
+														
+														<li><a href="/services/benefits-administration.html" target="_top"> <strong>Benefits Administration</strong></a> </li>
+														
+														
+														
+														
+
+														
+														
+														
+								
+								
+									<li>
+                                    
+                                        
+                                        	<a href="/services/benefits-administration/health-and-benefits-plan-adminstration.html">Health and benefits plan administration</a>
+                                        
+                                        
+                                     
+                                    </li>
+								
+									<li>
+                                    
+                                        
+                                        	<a href="/services/benefits-administration/retirement-plan-administration.html">Retirement Plan Administration</a>
+                                        
+                                        
+                                     
+                                    </li>
+								
+							
 							
 								
 									
-										<li><a href="#"><strong>Investments</strong></a></li>
 										
+							
+														
+														
+														<li><a href="/services/investments.html" target="_top"> <strong>Investments</strong></a> </li>
+														
+														
+														
+														
+
+														
+														
+														
+								
+								
 										<li>
                                     	
                                             
@@ -2722,17 +3216,109 @@
                                     	</li>
 										
 									
-										<li><a href="#"><strong>M&amp;A </strong></a></li>
 										
+							
+														
+														
+														<li><a href="/services/mergers-acquisitions-transaction-services.html" target="_top"> <strong>M&amp;A Transaction Services</strong></a> </li>
+														
+														
+														
+														
+
+														
+														
+														
+								
+								
 										<li>
                                     	
                                             
-                                                <a href="/services/mergers-acquisitions-transaction-services.html">M&amp;A transaction services</a>
+                                                <a href="/services/mergers-acquisitions-transaction-services/cross-border-transactions.html">Cross-border transactions</a>
                                             
                                             
                                     	 
                                     	</li>
 										
+										<li>
+                                    	
+                                            
+                                                <a href="/services/mergers-acquisitions-transaction-services/divestitures-spin-offs-and-stand-ups.html">Divestitures, spin-offs and stand-ups</a>
+                                            
+                                            
+                                    	 
+                                    	</li>
+										
+										<li>
+                                    	
+                                            
+                                                <a href="/services/mergers-acquisitions-transaction-services/post-merger-integration.html">Post-merger integration</a>
+                                            
+                                            
+                                    	 
+                                    	</li>
+										
+										<li>
+                                    	
+                                            
+                                                <a href="/services/mergers-acquisitions-transaction-services/mergers-and-acquisitions-readiness.html">M&amp;A readiness</a>
+                                            
+                                            
+                                    	 
+                                    	</li>
+										
+										<li>
+                                    	
+                                            
+                                                <a href="/services/mergers-acquisitions-transaction-services/culture-in-mergers-and-acquisitions.html">Culture in M&amp;A</a>
+                                            
+                                            
+                                    	 
+                                    	</li>
+										
+										<li>
+                                    	
+                                            
+                                                <a href="/services/mergers-acquisitions-transaction-services/private-equity-services.html">Private equity services</a>
+                                            
+                                            
+                                    	 
+                                    	</li>
+										
+										<li>
+                                    	
+                                            
+                                                <a href="/services/mergers-acquisitions-transaction-services/PMO-project-management-in-mergers-acquisitions.html">M&amp;A project managment (PMO)</a>
+                                            
+                                            
+                                    	 
+                                    	</li>
+										
+										<li>
+                                    	
+                                            
+                                                <a href="/services/mergers-acquisitions-transaction-services/specialty-transactions-IPOs-joint-ventures.html">Specialty transactions (IPOs, joint ventures)</a>
+                                            
+                                            
+                                    	 
+                                    	</li>
+										
+										<li>
+                                    	
+                                            
+                                                <a href="/services/mergers-acquisitions-transaction-services/due-diligence.html">Due diligence</a>
+                                            
+                                            
+                                    	 
+                                    	</li>
+										
+									
+										
+							
+														
+														
+								
+								
 									
 								
 							
@@ -2744,6 +3330,8 @@
 							
 							
 							
+								
+						
 						
 						
 						
@@ -2752,8 +3340,22 @@
 					
 					<li><a href="#">INSIGHTS</a>
 						<ul style="display: none;">
+						
 							
-								<li><a href="#"><strong>Mercer/Series</strong></a></li>
+							
+							
+														
+														
+														
+														<li><a href="#"><strong>Mercer/Series </strong></a></li>
+														
+														
+														
+
+														
+														
+														
+								
 								
 									<li>
                                     
@@ -2825,6 +3427,8 @@
 							
 							
 							
+								
+						
 						
 						
 					
@@ -2832,8 +3436,22 @@
 					
 					<li><a href="#">EVENTS</a>
 						<ul style="display: none;">
+						
 							
-								<li><a href="#"><strong>Events</strong></a></li>
+							
+							
+														
+														
+														
+														<li><a href="#"><strong>Events </strong></a></li>
+														
+														
+														
+
+														
+														
+														
+								
 								
 									<li>
                                     
@@ -2878,12 +3496,15 @@
 						
 							
 							
+								
+						
 						
 					
 					
 					
 					<li><a href="#">BUY</a>
 						<ul style="display: none;">
+						
 							
 							
 							
@@ -2891,12 +3512,12 @@
 							
 						</ul></li>
 				
+				
 			</ul>
 
 		</nav>
 	
-</div>
-</div>
+</div></div>
 
 		
 	
@@ -2991,7 +3612,7 @@
 
 <div id="textClass">
 	<div class="clearfix ">
-		<h2 class="mrc-releaseTitle">Mercer LLC Privacy Policy for Web Site Users</h2>
+		<div class="richText"><h2 class="mrc-releaseTitle">Mercer LLC Privacy Policy for Web Site Users</h2>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -3050,7 +3671,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
+</div>
 	</div>
 	</div>
 </div>
@@ -3060,6 +3681,23 @@
         </section>
     </section>
 </div> 
+    
+	<div class="servicecomponents cloudservices"><div class="cloudservice generictracker">
+
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51283400-1', 'mercer.com');
+  ga('send', 'pageview');
+    </script>
+</div>
+
+</div>
+
+	
     
 
 
@@ -3189,7 +3827,7 @@
 
 										
 											
-												<li><a target="_top" href="/services/talent/engage-employees.html">Engage employees</a></li>
+												<li><a target="_top" href="/services/talent/engage.html">Engage employees</a></li>
 											
 											
 										
@@ -3207,7 +3845,7 @@
 
 										
 											
-												<li><a target="_top" href="/services/talent/mobilize-workforce.html">Mobilize workforce</a></li>
+												<li><a target="_top" href="/services/talent/mobilize.html">Mobilize workforce</a></li>
 											
 											
 										
@@ -3225,7 +3863,7 @@
 
 										
 											
-												<li><a target="_top" href="/services/talent/reward-performance.html">Reward performance</a></li>
+												<li><a target="_top" href="/services/talent/reward.html">Reward performance</a></li>
 											
 											
 										
@@ -3243,7 +3881,7 @@
 
 										
 											
-												<li><a target="_top" href="/services/talent/assess-talent.html">Assess talent</a></li>
+												<li><a target="_top" href="/services/talent/assess.html">Assess talent</a></li>
 											
 											
 										
@@ -3261,7 +3899,7 @@
 
 										
 											
-												<li><a target="_top" href="/services/talent/develop-skills.html">Develop skills</a></li>
+												<li><a target="_top" href="/services/talent/develop.html">Develop skills</a></li>
 											
 											
 										
@@ -3827,6 +4465,25 @@
 								
 									
 
+										
+											
+												<li><a target="_top" href="/clients/fatca.html">Foreign Account Tax Compliance Act</a></li>
+											
+											
+										
+
+									
+
+									
+								
+							
+
+						
+							
+								
+								
+									
+
 									
 
 										
@@ -3910,26 +4567,11 @@
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy.html+%28101ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,101,0,101&chxr=0,0,101&chd=t:6,7,7,7,7,9,9,10,65,66,66,67,79,87,88,90,90,93,94,95,95|1,0,0,0,0,0,78,54,22,0,13,12,0,6,2,3,3,8,7,0,6&chly=head.jsp|head-extra.jsp|headlibs.jsp|init.jsp|simulator.jsp|clientcontext.jsp|header.jsp|mercerCountryDropdown.jsp|mercerHeader.jsp|mercernavigation%29|reference.jsp|mercerNavigation.jsp|searchForm.jsp|content.jsp|breadcrumb.jsp|detailText.jsp|parsys.jsp|footer.jsp|referenceFooter.jsp|mercerfooter%29|mercerFooter.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy.html+%28299ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,299,0,299&chxr=0,0,299&chd=t:6,6,7,7,7,9,9,10,116,117,118,118,120,279,280,282,282,287,288,289,291,291,291|1,1,0,0,0,0,270,105,163,117,0,116,1,7,1,4,4,2,1,10,0,8,8&chly=headlibs.jsp|head.jsp|head-extra.jsp|init.jsp|simulator.jsp|clientcontext.jsp|header.jsp|mercerCountryDropdown.jsp|mercerHeader.jsp|reference.jsp|mercernavigation%29|mercerNavigation.jsp|searchForm.jsp|content.jsp|breadcrumb.jsp|detailText.jsp|parsys.jsp|servicecomponents.jsp|generictracker.jsp|footer.jsp|mercerfooter%29|mercerFooter.jsp|referenceFooter.jsp&chs=600x500
 -->
 
 
     
-	<div class="servicecomponents cloudservices"><div class="cloudservice generictracker">
-
-    <script type="text/javascript">
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-51283400-1', 'mercer.com');
-  ga('send', 'pageview');
-    </script>
-</div>
-
-</div>
-
 
 
 </body></html>
