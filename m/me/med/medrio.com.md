@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medrio.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127161838id_/http%3A//medrio.com/value/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medrio.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217081710id_/http%3A//medrio.com/privacy.html) for the most accurate reproduction.*
 
-# Medrio - Privacy Policy
+# Medrio Privacy Policy
 
 Medrio, Inc. has created this privacy policy in order to demonstrate our commitment to protecting the privacy of your information. Because we gather important information from you, we have established this policy as a means to communicate our information gathering and dissemination practices. In addition, Medrio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Medrio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Medrio's certification, please visit [ http://export.gov/safeharbor/](http://export.gov/safeharbor/). 
 
