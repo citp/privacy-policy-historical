@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618193527id_/http%3A//www.skiutah.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217201155id_/http%3A//www.skiutah.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ski Utah - Skiing & Snowboarding Vacation Spots
+# Ski Utah - Privacy Policy
 
 Privacy Policy Statement
 
