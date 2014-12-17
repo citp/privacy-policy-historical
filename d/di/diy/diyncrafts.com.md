@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyncrafts.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613142320id_/http%3A//www.diyncrafts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyncrafts.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217043259id_/http%3A//www.diyncrafts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DIY & Crafts
 
