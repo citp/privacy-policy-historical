@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photocrati.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520123623id_/http%3A//www.photocrati.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photocrati.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217041617id_/http%3A//www.photocrati.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ http://www.photocrati.com uses cookies to store information about visitors’ pr
 
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://www.photocrati.com and other sites on the Internet.
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 ### Our Advertising Partners
 
