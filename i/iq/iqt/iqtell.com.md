@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iqtell.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165828id_/http%3A//iqtell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqtell.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033445id_/http%3A//iqtell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Version Date: January 05, 2013
+Version Date: July 15, 2014
 
 ### Introduction
 
@@ -24,7 +24,6 @@ We also may collect information about the use of your account, such as how much 
 
 IQTELL does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
-  * We provide the information to trusted partners who work on behalf of or with IQTELL under confidentiality agreements. These companies may use your personal information to help IQTELL communicate with you by sending you emails on our behalf or by allowing you to provide us with feedback. However, these companies do not have any independent right to share or use this information other than to provide these services to us.
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of IQTELL’s terms of use, or as otherwise required by law.
 
