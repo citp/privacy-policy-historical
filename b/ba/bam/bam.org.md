@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531151705id_/http%3A//www.bam.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217111312id_/http%3A//www.bam.org/about/privacy-policy) for the most accurate reproduction.*
 
 # BAM | Privacy Policy
 
